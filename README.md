@@ -54,4 +54,4 @@ To translate  data, follow these steps:
     ```
     GOOGLE_CLOUD_API_KEY=your_google_cloud_api_key
     ```
-3. **After this, use the scripts from translate.py for translating Bulgarian and Portuguese texts, and translatehindi.py for translating Hindi texts.**
+3. **After this, use the scripts `translate.py` for translating Bulgarian and Portuguese texts, and `translatehindi.py` for translating Hindi texts from ([preprocessing](preprocessing).**
