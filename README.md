@@ -41,14 +41,17 @@ You are now ready to start working on the project!
 
 ## Data Translation
 
-We translated the data from Bulgarian and Portuguese to American English using DeepL. The translated documents can be found under the respective folders ([BG](data/BG) / [PT](data/PT)) in the `translated-documents` directory. The original documents are located in the `raw-documents` directory.
+We translated the data from Bulgarian and Portuguese to American English using DeepL, and from Hindi to American English using Google Cloud Translation, because Hindi is not aviable in DeepL. The translated documents can be found under the respective folders ([BG](data/BG) / [PT](data/PT)) in the `translated-documents` directory. The original documents are located in the `raw-documents` directory.
 
-To translate more data, follow these steps:
+To translate  data, follow these steps:
 
 1. **Create an `.env` file in the project root directory.**
-2. **Add your DeepL authentication key to the `.env` file:**
+2. **Add DeepL authentication key or Google Cloud Translation API key to the `.env` file:**
     ```
-    DEEPL_AUTH_KEY=your_deepl_auth_key
+    DEEPL_AUTH_KEY=your_deepl_auth_key 
     ```
-
-You are now ready to translate additional data using DeepL!
+    or
+    ```
+    GOOGLE_CLOUD_API_KEY=your_google_cloud_api_key
+    ```
+3. **After this, use the scripts from translate.py for translating Bulgarian and Portuguese texts, and translatehindi.py for translating Hindi texts.**
