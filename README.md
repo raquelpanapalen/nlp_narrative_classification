@@ -13,7 +13,7 @@ To work with the code, follow these steps:
 
 2. **Navigate to the project directory:**
     ```bash
-    cd narrative_classification
+    cd nlp_narrative_classification
     ```
 
 3. **Create a virtual environment:**
