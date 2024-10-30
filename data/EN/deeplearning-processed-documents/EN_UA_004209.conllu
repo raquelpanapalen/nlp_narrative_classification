@@ -1,0 +1,704 @@
+# text = Russia threatens nukes for US, UK, Finland if NATO expands
+# sent_id = 0
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=6
+2	threatens	threaten	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=7|end_char=16
+3	nukes	nuke	NOUN	NNS	Number=Plur	2	_	_	start_char=17|end_char=22
+4	for	for	ADP	IN	_	3	_	_	start_char=23|end_char=26
+5	US	US	PROPN	NNP	Number=Sing	4	_	_	start_char=27|end_char=29|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=29|end_char=30
+7	UK	UK	PROPN	NNP	Number=Sing	6	_	_	start_char=31|end_char=33|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=33|end_char=34
+9	Finland	Finland	PROPN	NNP	Number=Sing	8	_	_	start_char=35|end_char=42
+10	if	if	SCONJ	IN	_	9	_	_	start_char=43|end_char=45
+11	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	10	_	_	start_char=46|end_char=50
+12	expands	expand	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=51|end_char=58|SpacesAfter=\s\n\n\s
+
+# text = Russia threatens nukes for US, UK, Finland if NATO expands
+# sent_id = 1
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=62|end_char=68
+2	threatens	threaten	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=69|end_char=78
+3	nukes	nuke	NOUN	NNS	Number=Plur	2	_	_	start_char=79|end_char=84
+4	for	for	ADP	IN	_	3	_	_	start_char=85|end_char=88
+5	US	US	PROPN	NNP	Number=Sing	4	_	_	start_char=89|end_char=91|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=91|end_char=92
+7	UK	UK	PROPN	NNP	Number=Sing	6	_	_	start_char=93|end_char=95|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=95|end_char=96
+9	Finland	Finland	PROPN	NNP	Number=Sing	8	_	_	start_char=97|end_char=104
+10	if	if	SCONJ	IN	_	9	_	_	start_char=105|end_char=107
+11	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	10	_	_	start_char=108|end_char=112
+12	expands	expand	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=113|end_char=120|SpacesAfter=\n\n
+
+# text = Vladimir Putin warned the president of Finland Saturday that any effort to join NATO would “negatively” affect relations between the two countries.
+# sent_id = 2
+1	Vladimir	Vladimir	PROPN	NNP	Number=Sing	0	_	_	start_char=122|end_char=130
+2	Putin	Putin	PROPN	NNP	Number=Sing	1	_	_	start_char=131|end_char=136
+3	warned	warn	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=137|end_char=143
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=144|end_char=147
+5	president	president	NOUN	NN	Number=Sing	4	_	_	start_char=148|end_char=157
+6	of	of	ADP	IN	_	5	_	_	start_char=158|end_char=160
+7	Finland	Finland	PROPN	NNP	Number=Sing	6	_	_	start_char=161|end_char=168
+8	Saturday	Saturday	PROPN	NNP	Number=Sing	7	_	_	start_char=169|end_char=177
+9	that	that	SCONJ	IN	_	8	_	_	start_char=178|end_char=182
+10	any	any	DET	DT	_	9	_	_	start_char=183|end_char=186
+11	effort	effort	NOUN	NN	Number=Sing	10	_	_	start_char=187|end_char=193
+12	to	to	PART	TO	_	11	_	_	start_char=194|end_char=196
+13	join	join	VERB	VB	VerbForm=Inf	12	_	_	start_char=197|end_char=201
+14	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	13	_	_	start_char=202|end_char=206
+15	would	would	AUX	MD	VerbForm=Fin	14	_	_	start_char=207|end_char=212
+16	“	''	PUNCT	``	_	15	_	_	start_char=213|end_char=214|SpaceAfter=No
+17	negatively	negatively	ADV	RB	_	16	_	_	start_char=214|end_char=224|SpaceAfter=No
+18	”	''	PUNCT	''	_	17	_	_	start_char=224|end_char=225
+19	affect	affect	VERB	VB	VerbForm=Inf	18	_	_	start_char=226|end_char=232
+20	relations	relation	NOUN	NNS	Number=Plur	19	_	_	start_char=233|end_char=242
+21	between	between	ADP	IN	_	20	_	_	start_char=243|end_char=250
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=251|end_char=254
+23	two	two	NUM	CD	NumForm=Word|NumType=Card	22	_	_	start_char=255|end_char=258
+24	countries	country	NOUN	NNS	Number=Plur	23	_	_	start_char=259|end_char=268|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=268|end_char=269|SpacesAfter=\n\n
+
+# text = The comments followed another Russian leader’s threat to use the Satan-2 hypersonic nuclear missile to strike Britain and Finland “in just 200 seconds” — and that the weapons could be used to hit the United States as well.
+# sent_id = 3
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=271|end_char=274
+2	comments	comment	NOUN	NNS	Number=Plur	1	_	_	start_char=275|end_char=283
+3	followed	follow	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=284|end_char=292
+4	another	another	DET	DT	_	3	_	_	start_char=293|end_char=300
+5	Russian	Russian	ADJ	JJ	Degree=Pos	4	_	_	start_char=301|end_char=308
+6-7	leader’s	_	_	_	_	_	_	_	start_char=309|end_char=317
+6	leader	leader	NOUN	NN	Number=Sing	5	_	_	start_char=309|end_char=315
+7	’s	's	PART	POS	_	6	_	_	start_char=315|end_char=317
+8	threat	threat	NOUN	NN	Number=Sing	7	_	_	start_char=318|end_char=324
+9	to	to	PART	TO	_	8	_	_	start_char=325|end_char=327
+10	use	use	VERB	VB	VerbForm=Inf	9	_	_	start_char=328|end_char=331
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=332|end_char=335
+12	Satan	Satan	PROPN	NNP	Number=Sing	11	_	_	start_char=336|end_char=341|SpaceAfter=No
+13	-	-	PUNCT	HYPH	_	12	_	_	start_char=341|end_char=342|SpaceAfter=No
+14	2	2	NUM	CD	NumForm=Digit|NumType=Card	13	_	_	start_char=342|end_char=343
+15	hypersonic	hypersonic	ADJ	JJ	Degree=Pos	14	_	_	start_char=344|end_char=354
+16	nuclear	nuclear	ADJ	JJ	Degree=Pos	15	_	_	start_char=355|end_char=362
+17	missile	missile	NOUN	NN	Number=Sing	16	_	_	start_char=363|end_char=370
+18	to	to	PART	TO	_	17	_	_	start_char=371|end_char=373
+19	strike	strike	VERB	VB	VerbForm=Inf	18	_	_	start_char=374|end_char=380
+20	Britain	Britain	PROPN	NNP	Number=Sing	19	_	_	start_char=381|end_char=388
+21	and	and	CCONJ	CC	_	20	_	_	start_char=389|end_char=392
+22	Finland	Finland	PROPN	NNP	Number=Sing	21	_	_	start_char=393|end_char=400
+23	“	''	PUNCT	``	_	22	_	_	start_char=401|end_char=402|SpaceAfter=No
+24	in	in	ADP	IN	_	23	_	_	start_char=402|end_char=404
+25	just	just	ADV	RB	_	24	_	_	start_char=405|end_char=409
+26	200	200	NUM	CD	NumForm=Digit|NumType=Card	25	_	_	start_char=410|end_char=413
+27	seconds	second	NOUN	NNS	Number=Plur	26	_	_	start_char=414|end_char=421|SpaceAfter=No
+28	”	''	PUNCT	''	_	27	_	_	start_char=421|end_char=422
+29	—	—	PUNCT	:	_	28	_	_	start_char=423|end_char=424
+30	and	and	CCONJ	CC	_	29	_	_	start_char=425|end_char=428
+31	that	that	SCONJ	IN	_	30	_	_	start_char=429|end_char=433
+32	the	the	DET	DT	Definite=Def|PronType=Art	31	_	_	start_char=434|end_char=437
+33	weapons	weapon	NOUN	NNS	Number=Plur	32	_	_	start_char=438|end_char=445
+34	could	could	AUX	MD	VerbForm=Fin	33	_	_	start_char=446|end_char=451
+35	be	be	AUX	VB	VerbForm=Inf	34	_	_	start_char=452|end_char=454
+36	used	use	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	35	_	_	start_char=455|end_char=459
+37	to	to	PART	TO	_	36	_	_	start_char=460|end_char=462
+38	hit	hit	VERB	VB	VerbForm=Inf	37	_	_	start_char=463|end_char=466
+39	the	the	DET	DT	Definite=Def|PronType=Art	38	_	_	start_char=467|end_char=470
+40	United	United	ADJ	NNP	Degree=Pos	39	_	_	start_char=471|end_char=477
+41	States	State	PROPN	NNPS	Number=Plur	40	_	_	start_char=478|end_char=484
+42	as	as	ADV	RB	_	41	_	_	start_char=485|end_char=487
+43	well	well	ADV	RB	Degree=Pos	42	_	_	start_char=488|end_char=492|SpaceAfter=No
+44	.	.	PUNCT	.	_	43	_	_	start_char=492|end_char=493|SpacesAfter=\n\n
+
+# text = As NATO foreign ministers gathered in Berlin, with discussion about potential applications from Sweden and Finland to join the Western military alliance on the agenda, Putin spoke to Finnish leader Sauli Niinisto.
+# sent_id = 4
+1	As	as	SCONJ	IN	_	0	_	_	start_char=495|end_char=497
+2	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	1	_	_	start_char=498|end_char=502
+3	foreign	foreign	ADJ	JJ	Degree=Pos	2	_	_	start_char=503|end_char=510
+4	ministers	minister	NOUN	NNS	Number=Plur	3	_	_	start_char=511|end_char=520
+5	gathered	gather	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=521|end_char=529
+6	in	in	ADP	IN	_	5	_	_	start_char=530|end_char=532
+7	Berlin	Berlin	PROPN	NNP	Number=Sing	6	_	_	start_char=533|end_char=539|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=539|end_char=540
+9	with	with	ADP	IN	_	8	_	_	start_char=541|end_char=545
+10	discussion	discussion	NOUN	NN	Number=Sing	9	_	_	start_char=546|end_char=556
+11	about	about	ADP	IN	_	10	_	_	start_char=557|end_char=562
+12	potential	potential	ADJ	JJ	Degree=Pos	11	_	_	start_char=563|end_char=572
+13	applications	application	NOUN	NNS	Number=Plur	12	_	_	start_char=573|end_char=585
+14	from	from	ADP	IN	_	13	_	_	start_char=586|end_char=590
+15	Sweden	Sweden	PROPN	NNP	Number=Sing	14	_	_	start_char=591|end_char=597
+16	and	and	CCONJ	CC	_	15	_	_	start_char=598|end_char=601
+17	Finland	Finland	PROPN	NNP	Number=Sing	16	_	_	start_char=602|end_char=609
+18	to	to	PART	TO	_	17	_	_	start_char=610|end_char=612
+19	join	join	VERB	VB	VerbForm=Inf	18	_	_	start_char=613|end_char=617
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=618|end_char=621
+21	Western	western	ADJ	JJ	Degree=Pos	20	_	_	start_char=622|end_char=629
+22	military	military	ADJ	JJ	Degree=Pos	21	_	_	start_char=630|end_char=638
+23	alliance	alliance	NOUN	NN	Number=Sing	22	_	_	start_char=639|end_char=647
+24	on	on	ADP	IN	_	23	_	_	start_char=648|end_char=650
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=651|end_char=654
+26	agenda	agenda	NOUN	NN	Number=Sing	25	_	_	start_char=655|end_char=661|SpaceAfter=No
+27	,	,	PUNCT	,	_	26	_	_	start_char=661|end_char=662
+28	Putin	Putin	PROPN	NNP	Number=Sing	27	_	_	start_char=663|end_char=668
+29	spoke	speak	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	_	_	start_char=669|end_char=674
+30	to	to	ADP	IN	_	29	_	_	start_char=675|end_char=677
+31	Finnish	Finnish	ADJ	JJ	Degree=Pos	30	_	_	start_char=678|end_char=685
+32	leader	leader	NOUN	NN	Number=Sing	31	_	_	start_char=686|end_char=692
+33	Sauli	Sauli	PROPN	NNP	Number=Sing	32	_	_	start_char=693|end_char=698
+34	Niinisto	Niinisto	PROPN	NNP	Number=Sing	33	_	_	start_char=699|end_char=707|SpaceAfter=No
+35	.	.	PUNCT	.	_	34	_	_	start_char=707|end_char=708|SpacesAfter=\n\n
+
+# text = Nijnisto told Putin in the phone conversation that the traditionally non-aligned country “will decide to apply for NATO membership in the coming days.”
+# sent_id = 5
+1	Nijnisto	Nijnisto	PROPN	NNP	Number=Sing	0	_	_	start_char=710|end_char=718
+2	told	tell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=719|end_char=723
+3	Putin	Putin	PROPN	NNP	Number=Sing	2	_	_	start_char=724|end_char=729
+4	in	in	ADP	IN	_	3	_	_	start_char=730|end_char=732
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=733|end_char=736
+6	phone	phone	NOUN	NN	Number=Sing	5	_	_	start_char=737|end_char=742
+7	conversation	conversation	NOUN	NN	Number=Sing	6	_	_	start_char=743|end_char=755
+8	that	that	SCONJ	IN	_	7	_	_	start_char=756|end_char=760
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=761|end_char=764
+10	traditionally	traditionally	ADV	RB	_	9	_	_	start_char=765|end_char=778
+11	non-aligned	non-aligned	ADJ	JJ	Degree=Pos	10	_	_	start_char=779|end_char=790
+12	country	country	NOUN	NN	Number=Sing	11	_	_	start_char=791|end_char=798
+13	“	''	PUNCT	``	_	12	_	_	start_char=799|end_char=800|SpaceAfter=No
+14	will	will	AUX	MD	VerbForm=Fin	13	_	_	start_char=800|end_char=804
+15	decide	decide	VERB	VB	VerbForm=Inf	14	_	_	start_char=805|end_char=811
+16	to	to	PART	TO	_	15	_	_	start_char=812|end_char=814
+17	apply	apply	VERB	VB	VerbForm=Inf	16	_	_	start_char=815|end_char=820
+18	for	for	ADP	IN	_	17	_	_	start_char=821|end_char=824
+19	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	18	_	_	start_char=825|end_char=829
+20	membership	membership	NOUN	NN	Number=Sing	19	_	_	start_char=830|end_char=840
+21	in	in	ADP	IN	_	20	_	_	start_char=841|end_char=843
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=844|end_char=847
+23	coming	come	VERB	VBG	VerbForm=Ger	22	_	_	start_char=848|end_char=854
+24	days	day	NOUN	NNS	Number=Plur	23	_	_	start_char=855|end_char=859|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=859|end_char=860|SpaceAfter=No
+26	”	''	PUNCT	''	_	25	_	_	start_char=860|end_char=861|SpacesAfter=\n\n
+
+# text = Finland and Sweden, also traditionally neutral, are moving toward the applications in response to Russia’s invasion of Ukraine.
+# sent_id = 6
+1	Finland	Finland	PROPN	NNP	Number=Sing	0	_	_	start_char=863|end_char=870
+2	and	and	CCONJ	CC	_	1	_	_	start_char=871|end_char=874
+3	Sweden	Sweden	PROPN	NNP	Number=Sing	2	_	_	start_char=875|end_char=881|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=881|end_char=882
+5	also	also	ADV	RB	_	4	_	_	start_char=883|end_char=887
+6	traditionally	traditionally	ADV	RB	_	5	_	_	start_char=888|end_char=901
+7	neutral	neutral	ADJ	JJ	Degree=Pos	6	_	_	start_char=902|end_char=909|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=909|end_char=910
+9	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=911|end_char=914
+10	moving	move	VERB	VBG	Tense=Pres|VerbForm=Part	9	_	_	start_char=915|end_char=921
+11	toward	toward	ADP	IN	_	10	_	_	start_char=922|end_char=928
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=929|end_char=932
+13	applications	application	NOUN	NNS	Number=Plur	12	_	_	start_char=933|end_char=945
+14	in	in	ADP	IN	_	13	_	_	start_char=946|end_char=948
+15	response	response	NOUN	NN	Number=Sing	14	_	_	start_char=949|end_char=957
+16	to	to	ADP	IN	_	15	_	_	start_char=958|end_char=960
+17-18	Russia’s	_	_	_	_	_	_	_	start_char=961|end_char=969
+17	Russia	Russia	PROPN	NNP	Number=Sing	16	_	_	start_char=961|end_char=967
+18	’s	's	PART	POS	_	17	_	_	start_char=967|end_char=969
+19	invasion	invasion	NOUN	NN	Number=Sing	18	_	_	start_char=970|end_char=978
+20	of	of	ADP	IN	_	19	_	_	start_char=979|end_char=981
+21	Ukraine	Ukraine	PROPN	NNP	Number=Sing	20	_	_	start_char=982|end_char=989|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=989|end_char=990
+
+# text = In response, Russia cut off electricity supplies to Finland on Friday.
+# sent_id = 7
+1	In	in	ADP	IN	_	0	_	_	start_char=991|end_char=993
+2	response	response	NOUN	NN	Number=Sing	1	_	_	start_char=994|end_char=1002|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=1002|end_char=1003
+4	Russia	Russia	PROPN	NNP	Number=Sing	3	_	_	start_char=1004|end_char=1010
+5	cut	cut	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=1011|end_char=1014
+6	off	off	ADP	RP	_	5	_	_	start_char=1015|end_char=1018
+7	electricity	electricity	NOUN	NN	Number=Sing	6	_	_	start_char=1019|end_char=1030
+8	supplies	supplies	NOUN	NNS	Number=Plur	7	_	_	start_char=1031|end_char=1039
+9	to	to	ADP	IN	_	8	_	_	start_char=1040|end_char=1042
+10	Finland	Finland	PROPN	NNP	Number=Sing	9	_	_	start_char=1043|end_char=1050
+11	on	on	ADP	IN	_	10	_	_	start_char=1051|end_char=1053
+12	Friday	Friday	PROPN	NNP	Number=Sing	11	_	_	start_char=1054|end_char=1060|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=1060|end_char=1061|SpacesAfter=\n\n
+
+# text = Putin told Niinisto that Finland’s abandonment “of its traditional policy of military neutrality would be an error since there are no threats to Finland’s security,” the Kremlin said in a statement issued after the call.
+# sent_id = 8
+1	Putin	Putin	PROPN	NNP	Number=Sing	0	_	_	start_char=1063|end_char=1068
+2	told	tell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1069|end_char=1073
+3	Niinisto	Niinisto	PROPN	NNP	Number=Sing	2	_	_	start_char=1074|end_char=1082
+4	that	that	SCONJ	IN	_	3	_	_	start_char=1083|end_char=1087
+5-6	Finland’s	_	_	_	_	_	_	_	start_char=1088|end_char=1097
+5	Finland	Finland	PROPN	NNP	Number=Sing	4	_	_	start_char=1088|end_char=1095
+6	’s	's	PART	POS	_	5	_	_	start_char=1095|end_char=1097
+7	abandonment	abandonment	NOUN	NN	Number=Sing	6	_	_	start_char=1098|end_char=1109
+8	“	''	PUNCT	''	_	7	_	_	start_char=1110|end_char=1111|SpaceAfter=No
+9	of	of	ADP	IN	_	8	_	_	start_char=1111|end_char=1113
+10	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	_	_	start_char=1114|end_char=1117
+11	traditional	traditional	ADJ	JJ	Degree=Pos	10	_	_	start_char=1118|end_char=1129
+12	policy	policy	NOUN	NN	Number=Sing	11	_	_	start_char=1130|end_char=1136
+13	of	of	ADP	IN	_	12	_	_	start_char=1137|end_char=1139
+14	military	military	ADJ	JJ	Degree=Pos	13	_	_	start_char=1140|end_char=1148
+15	neutrality	neutrality	NOUN	NN	Number=Sing	14	_	_	start_char=1149|end_char=1159
+16	would	would	AUX	MD	VerbForm=Fin	15	_	_	start_char=1160|end_char=1165
+17	be	be	AUX	VB	VerbForm=Inf	16	_	_	start_char=1166|end_char=1168
+18	an	a	DET	DT	Definite=Ind|PronType=Art	17	_	_	start_char=1169|end_char=1171
+19	error	error	NOUN	NN	Number=Sing	18	_	_	start_char=1172|end_char=1177
+20	since	since	SCONJ	IN	_	19	_	_	start_char=1178|end_char=1183
+21	there	there	PRON	EX	_	20	_	_	start_char=1184|end_char=1189
+22	are	be	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	_	_	start_char=1190|end_char=1193
+23	no	no	DET	DT	_	22	_	_	start_char=1194|end_char=1196
+24	threats	threat	NOUN	NNS	Number=Plur	23	_	_	start_char=1197|end_char=1204
+25	to	to	ADP	IN	_	24	_	_	start_char=1205|end_char=1207
+26-27	Finland’s	_	_	_	_	_	_	_	start_char=1208|end_char=1217
+26	Finland	Finland	PROPN	NNP	Number=Sing	25	_	_	start_char=1208|end_char=1215
+27	’s	's	PART	POS	_	26	_	_	start_char=1215|end_char=1217
+28	security	security	NOUN	NN	Number=Sing	27	_	_	start_char=1218|end_char=1226|SpaceAfter=No
+29	,	,	PUNCT	,	_	28	_	_	start_char=1226|end_char=1227|SpaceAfter=No
+30	”	''	PUNCT	''	_	29	_	_	start_char=1227|end_char=1228
+31	the	the	DET	DT	Definite=Def|PronType=Art	30	_	_	start_char=1229|end_char=1232
+32	Kremlin	Kremlin	PROPN	NNP	Number=Sing	31	_	_	start_char=1233|end_char=1240
+33	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	32	_	_	start_char=1241|end_char=1245
+34	in	in	ADP	IN	_	33	_	_	start_char=1246|end_char=1248
+35	a	a	DET	DT	Definite=Ind|PronType=Art	34	_	_	start_char=1249|end_char=1250
+36	statement	statement	NOUN	NN	Number=Sing	35	_	_	start_char=1251|end_char=1260
+37	issued	issue	VERB	VBN	Tense=Past|VerbForm=Part	36	_	_	start_char=1261|end_char=1267
+38	after	after	ADP	IN	_	37	_	_	start_char=1268|end_char=1273
+39	the	the	DET	DT	Definite=Def|PronType=Art	38	_	_	start_char=1274|end_char=1277
+40	call	call	NOUN	NN	Number=Sing	39	_	_	start_char=1278|end_char=1282|SpaceAfter=No
+41	.	.	PUNCT	.	_	40	_	_	start_char=1282|end_char=1283
+
+# text = “Such a change in the country’s foreign policy could negatively affect Russian-Finnish relations, which had been built in the spirit of good neighborliness and partnership for many years, and were mutually beneficial.”
+# sent_id = 9
+1	“	''	PUNCT	``	_	0	_	_	start_char=1284|end_char=1285|SpaceAfter=No
+2	Such	such	DET	PDT	_	1	_	_	start_char=1285|end_char=1289
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=1290|end_char=1291
+4	change	change	NOUN	NN	Number=Sing	3	_	_	start_char=1292|end_char=1298
+5	in	in	ADP	IN	_	4	_	_	start_char=1299|end_char=1301
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1302|end_char=1305
+7-8	country’s	_	_	_	_	_	_	_	start_char=1306|end_char=1315
+7	country	country	NOUN	NN	Number=Sing	6	_	_	start_char=1306|end_char=1313
+8	’s	's	PART	POS	_	7	_	_	start_char=1313|end_char=1315
+9	foreign	foreign	ADJ	JJ	Degree=Pos	8	_	_	start_char=1316|end_char=1323
+10	policy	policy	NOUN	NN	Number=Sing	9	_	_	start_char=1324|end_char=1330
+11	could	could	AUX	MD	VerbForm=Fin	10	_	_	start_char=1331|end_char=1336
+12	negatively	negatively	ADV	RB	_	11	_	_	start_char=1337|end_char=1347
+13	affect	affect	VERB	VB	VerbForm=Inf	12	_	_	start_char=1348|end_char=1354
+14	Russian	Russian	ADJ	JJ	Degree=Pos	13	_	_	start_char=1355|end_char=1362|SpaceAfter=No
+15	-	-	PUNCT	HYPH	_	14	_	_	start_char=1362|end_char=1363|SpaceAfter=No
+16	Finnish	Finnish	ADJ	JJ	Degree=Pos	15	_	_	start_char=1363|end_char=1370
+17	relations	relation	NOUN	NNS	Number=Plur	16	_	_	start_char=1371|end_char=1380|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=1380|end_char=1381
+19	which	which	PRON	WDT	PronType=Rel	18	_	_	start_char=1382|end_char=1387
+20	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	_	_	start_char=1388|end_char=1391
+21	been	be	AUX	VBN	Tense=Past|VerbForm=Part	20	_	_	start_char=1392|end_char=1396
+22	built	build	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	21	_	_	start_char=1397|end_char=1402
+23	in	in	ADP	IN	_	22	_	_	start_char=1403|end_char=1405
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=1406|end_char=1409
+25	spirit	spirit	NOUN	NN	Number=Sing	24	_	_	start_char=1410|end_char=1416
+26	of	of	ADP	IN	_	25	_	_	start_char=1417|end_char=1419
+27	good	good	ADJ	JJ	Degree=Pos	26	_	_	start_char=1420|end_char=1424
+28	neighborliness	neighborliness	NOUN	NN	Number=Sing	27	_	_	start_char=1425|end_char=1439
+29	and	and	CCONJ	CC	_	28	_	_	start_char=1440|end_char=1443
+30	partnership	partnership	NOUN	NN	Number=Sing	29	_	_	start_char=1444|end_char=1455
+31	for	for	ADP	IN	_	30	_	_	start_char=1456|end_char=1459
+32	many	many	ADJ	JJ	Degree=Pos	31	_	_	start_char=1460|end_char=1464
+33	years	year	NOUN	NNS	Number=Plur	32	_	_	start_char=1465|end_char=1470|SpaceAfter=No
+34	,	,	PUNCT	,	_	33	_	_	start_char=1470|end_char=1471
+35	and	and	CCONJ	CC	_	34	_	_	start_char=1472|end_char=1475
+36	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	35	_	_	start_char=1476|end_char=1480
+37	mutually	mutually	ADV	RB	_	36	_	_	start_char=1481|end_char=1489
+38	beneficial	beneficial	ADJ	JJ	Degree=Pos	37	_	_	start_char=1490|end_char=1500|SpaceAfter=No
+39	.	.	PUNCT	.	_	38	_	_	start_char=1500|end_char=1501|SpaceAfter=No
+40	”	''	PUNCT	''	_	39	_	_	start_char=1501|end_char=1502|SpacesAfter=\n\n
+
+# text = Niinisto’s office said in a statement that he told Putin how starkly Finland’s security environment had changed after Moscow’s Feb. 24 invasion of Ukraine.
+# sent_id = 10
+1-2	Niinisto’s	_	_	_	_	_	_	_	start_char=1504|end_char=1514
+1	Niinisto	Niinisto	PROPN	NNP	Number=Sing	0	_	_	start_char=1504|end_char=1512
+2	’s	's	PART	POS	_	1	_	_	start_char=1512|end_char=1514
+3	office	office	NOUN	NN	Number=Sing	2	_	_	start_char=1515|end_char=1521
+4	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=1522|end_char=1526
+5	in	in	ADP	IN	_	4	_	_	start_char=1527|end_char=1529
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=1530|end_char=1531
+7	statement	statement	NOUN	NN	Number=Sing	6	_	_	start_char=1532|end_char=1541
+8	that	that	SCONJ	IN	_	7	_	_	start_char=1542|end_char=1546
+9	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	_	_	start_char=1547|end_char=1549
+10	told	tell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=1550|end_char=1554
+11	Putin	Putin	PROPN	NNP	Number=Sing	10	_	_	start_char=1555|end_char=1560
+12	how	how	ADV	WRB	PronType=Int	11	_	_	start_char=1561|end_char=1564
+13	starkly	starkly	ADV	RB	_	12	_	_	start_char=1565|end_char=1572
+14-15	Finland’s	_	_	_	_	_	_	_	start_char=1573|end_char=1582
+14	Finland	Finland	PROPN	NNP	Number=Sing	13	_	_	start_char=1573|end_char=1580
+15	’s	's	PART	POS	_	14	_	_	start_char=1580|end_char=1582
+16	security	security	NOUN	NN	Number=Sing	15	_	_	start_char=1583|end_char=1591
+17	environment	environment	NOUN	NN	Number=Sing	16	_	_	start_char=1592|end_char=1603
+18	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	_	_	start_char=1604|end_char=1607
+19	changed	change	VERB	VBN	Tense=Past|VerbForm=Part	18	_	_	start_char=1608|end_char=1615
+20	after	after	SCONJ	IN	_	19	_	_	start_char=1616|end_char=1621
+21-22	Moscow’s	_	_	_	_	_	_	_	start_char=1622|end_char=1630
+21	Moscow	Moscow	PROPN	NNP	Number=Sing	20	_	_	start_char=1622|end_char=1628
+22	’s	's	PART	POS	_	21	_	_	start_char=1628|end_char=1630
+23	Feb.	February	PROPN	NNP	Abbr=Yes|Number=Sing	22	_	_	start_char=1631|end_char=1635
+24	24	24	NUM	CD	NumForm=Digit|NumType=Card	23	_	_	start_char=1636|end_char=1638
+25	invasion	invasion	NOUN	NN	Number=Sing	24	_	_	start_char=1639|end_char=1647
+26	of	of	ADP	IN	_	25	_	_	start_char=1648|end_char=1650
+27	Ukraine	Ukraine	PROPN	NNP	Number=Sing	26	_	_	start_char=1651|end_char=1658|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=1658|end_char=1659|SpacesAfter=\n\n
+
+# text = The exchange came amid escalating rhetoric over the potential for NATO to expand beyond its current 30 members.
+# sent_id = 11
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1661|end_char=1664
+2	exchange	exchange	NOUN	NN	Number=Sing	1	_	_	start_char=1665|end_char=1673
+3	came	come	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1674|end_char=1678
+4	amid	amid	ADP	IN	_	3	_	_	start_char=1679|end_char=1683
+5	escalating	escalate	VERB	VBG	VerbForm=Ger	4	_	_	start_char=1684|end_char=1694
+6	rhetoric	rhetoric	NOUN	NN	Number=Sing	5	_	_	start_char=1695|end_char=1703
+7	over	over	ADP	IN	_	6	_	_	start_char=1704|end_char=1708
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=1709|end_char=1712
+9	potential	potential	NOUN	NN	Number=Sing	8	_	_	start_char=1713|end_char=1722
+10	for	for	SCONJ	IN	_	9	_	_	start_char=1723|end_char=1726
+11	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	10	_	_	start_char=1727|end_char=1731
+12	to	to	PART	TO	_	11	_	_	start_char=1732|end_char=1734
+13	expand	expand	VERB	VB	VerbForm=Inf	12	_	_	start_char=1735|end_char=1741
+14	beyond	beyond	ADP	IN	_	13	_	_	start_char=1742|end_char=1748
+15	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	_	_	start_char=1749|end_char=1752
+16	current	current	ADJ	JJ	Degree=Pos	15	_	_	start_char=1753|end_char=1760
+17	30	30	NUM	CD	NumForm=Digit|NumType=Card	16	_	_	start_char=1761|end_char=1763
+18	members	member	NOUN	NNS	Number=Plur	17	_	_	start_char=1764|end_char=1771|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=1771|end_char=1772|SpacesAfter=\n\n
+
+# text = “If Finland wants to join this bloc, then our goal is absolutely legitimate — to question the existence of this state.
+# sent_id = 12
+1	“	''	PUNCT	``	_	0	_	_	start_char=1774|end_char=1775|SpaceAfter=No
+2	If	if	SCONJ	IN	_	1	_	_	start_char=1775|end_char=1777
+3	Finland	Finland	PROPN	NNP	Number=Sing	2	_	_	start_char=1778|end_char=1785
+4	wants	want	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1786|end_char=1791
+5	to	to	PART	TO	_	4	_	_	start_char=1792|end_char=1794
+6	join	join	VERB	VB	VerbForm=Inf	5	_	_	start_char=1795|end_char=1799
+7	this	this	DET	DT	Number=Sing|PronType=Dem	6	_	_	start_char=1800|end_char=1804
+8	bloc	bloc	NOUN	NN	Number=Sing	7	_	_	start_char=1805|end_char=1809|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1809|end_char=1810
+10	then	then	ADV	RB	PronType=Dem	9	_	_	start_char=1811|end_char=1815
+11	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	10	_	_	start_char=1816|end_char=1819
+12	goal	goal	NOUN	NN	Number=Sing	11	_	_	start_char=1820|end_char=1824
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=1825|end_char=1827
+14	absolutely	absolutely	ADV	RB	_	13	_	_	start_char=1828|end_char=1838
+15	legitimate	legitimate	ADJ	JJ	Degree=Pos	14	_	_	start_char=1839|end_char=1849
+16	—	—	PUNCT	:	_	15	_	_	start_char=1850|end_char=1851
+17	to	to	PART	TO	_	16	_	_	start_char=1852|end_char=1854
+18	question	question	VERB	VB	VerbForm=Inf	17	_	_	start_char=1855|end_char=1863
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=1864|end_char=1867
+20	existence	existence	NOUN	NN	Number=Sing	19	_	_	start_char=1868|end_char=1877
+21	of	of	ADP	IN	_	20	_	_	start_char=1878|end_char=1880
+22	this	this	DET	DT	Number=Sing|PronType=Dem	21	_	_	start_char=1881|end_char=1885
+23	state	state	NOUN	NN	Number=Sing	22	_	_	start_char=1886|end_char=1891|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=1891|end_char=1892
+
+# text = This is logical,” said Aleksey Zhuravlyov, 59, the deputy chairman of the Russian parliament’s defense committee, said in an interview with The Mirror.
+# sent_id = 13
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1893|end_char=1897
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1898|end_char=1900
+3	logical	logical	ADJ	JJ	Degree=Pos	2	_	_	start_char=1901|end_char=1908|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1908|end_char=1909|SpaceAfter=No
+5	”	''	PUNCT	''	_	4	_	_	start_char=1909|end_char=1910
+6	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=1911|end_char=1915
+7	Aleksey	Aleksey	PROPN	NNP	Number=Sing	6	_	_	start_char=1916|end_char=1923
+8	Zhuravlyov	Zhuravlyov	PROPN	NNP	Number=Sing	7	_	_	start_char=1924|end_char=1934|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1934|end_char=1935
+10	59	59	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=1936|end_char=1938|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=1938|end_char=1939
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=1940|end_char=1943
+13	deputy	deputy	ADJ	JJ	Degree=Pos	12	_	_	start_char=1944|end_char=1950
+14	chairman	chairman	NOUN	NN	Number=Sing	13	_	_	start_char=1951|end_char=1959
+15	of	of	ADP	IN	_	14	_	_	start_char=1960|end_char=1962
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=1963|end_char=1966
+17	Russian	Russian	ADJ	JJ	Degree=Pos	16	_	_	start_char=1967|end_char=1974
+18-19	parliament’s	_	_	_	_	_	_	_	start_char=1975|end_char=1987
+18	parliament	parliament	NOUN	NN	Number=Sing	17	_	_	start_char=1975|end_char=1985
+19	’s	's	PART	POS	_	18	_	_	start_char=1985|end_char=1987
+20	defense	defense	NOUN	NN	Number=Sing	19	_	_	start_char=1988|end_char=1995
+21	committee	committee	NOUN	NN	Number=Sing	20	_	_	start_char=1996|end_char=2005|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=2005|end_char=2006
+23	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	_	_	start_char=2007|end_char=2011
+24	in	in	ADP	IN	_	23	_	_	start_char=2012|end_char=2014
+25	an	a	DET	DT	Definite=Ind|PronType=Art	24	_	_	start_char=2015|end_char=2017
+26	interview	interview	NOUN	NN	Number=Sing	25	_	_	start_char=2018|end_char=2027
+27	with	with	ADP	IN	_	26	_	_	start_char=2028|end_char=2032
+28	The	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=2033|end_char=2036
+29	Mirror	Mirror	PROPN	NNP	Number=Sing	28	_	_	start_char=2037|end_char=2043|SpaceAfter=No
+30	.	.	PUNCT	.	_	29	_	_	start_char=2043|end_char=2044
+
+# text = “The Finns in general should be grateful to Russia for their statehood, for the fact that Finland exists as a country.”
+# sent_id = 14
+1	“	''	PUNCT	``	_	0	_	_	start_char=2045|end_char=2046|SpaceAfter=No
+2	The	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=2046|end_char=2049
+3	Finns	Finns	PROPN	NNPS	Number=Plur	2	_	_	start_char=2050|end_char=2055
+4	in	in	ADP	IN	_	3	_	_	start_char=2056|end_char=2058
+5	general	general	NOUN	NN	Number=Sing	4	_	_	start_char=2059|end_char=2066
+6	should	should	AUX	MD	VerbForm=Fin	5	_	_	start_char=2067|end_char=2073
+7	be	be	AUX	VB	VerbForm=Inf	6	_	_	start_char=2074|end_char=2076
+8	grateful	grateful	ADJ	JJ	Degree=Pos	7	_	_	start_char=2077|end_char=2085
+9	to	to	ADP	IN	_	8	_	_	start_char=2086|end_char=2088
+10	Russia	Russia	PROPN	NNP	Number=Sing	9	_	_	start_char=2089|end_char=2095
+11	for	for	ADP	IN	_	10	_	_	start_char=2096|end_char=2099
+12	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	_	_	start_char=2100|end_char=2105
+13	statehood	statehood	NOUN	NN	Number=Sing	12	_	_	start_char=2106|end_char=2115|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=2115|end_char=2116
+15	for	for	ADP	IN	_	14	_	_	start_char=2117|end_char=2120
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=2121|end_char=2124
+17	fact	fact	NOUN	NN	Number=Sing	16	_	_	start_char=2125|end_char=2129
+18	that	that	SCONJ	IN	_	17	_	_	start_char=2130|end_char=2134
+19	Finland	Finland	PROPN	NNP	Number=Sing	18	_	_	start_char=2135|end_char=2142
+20	exists	exist	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	_	_	start_char=2143|end_char=2149
+21	as	as	ADP	IN	_	20	_	_	start_char=2150|end_char=2152
+22	a	a	DET	DT	Definite=Ind|PronType=Art	21	_	_	start_char=2153|end_char=2154
+23	country	country	NOUN	NN	Number=Sing	22	_	_	start_char=2155|end_char=2162|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=2162|end_char=2163|SpaceAfter=No
+25	”	''	PUNCT	''	_	24	_	_	start_char=2163|end_char=2164|SpacesAfter=\n\n
+
+# text = “If the United States threatens our state, it’s good: here is the Sarmat [Satan-2] for you, and there will be nuclear ashes from you if you think that Russia should not exist,” he continued.
+# sent_id = 15
+1	“	''	PUNCT	``	_	0	_	_	start_char=2166|end_char=2167|SpaceAfter=No
+2	If	if	SCONJ	IN	_	1	_	_	start_char=2167|end_char=2169
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=2170|end_char=2173
+4	United	United	ADJ	NNP	Degree=Pos	3	_	_	start_char=2174|end_char=2180
+5	States	State	PROPN	NNPS	Number=Plur	4	_	_	start_char=2181|end_char=2187
+6	threatens	threaten	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=2188|end_char=2197
+7	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	6	_	_	start_char=2198|end_char=2201
+8	state	state	NOUN	NN	Number=Sing	7	_	_	start_char=2202|end_char=2207|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=2207|end_char=2208
+10-11	it’s	_	_	_	_	_	_	_	start_char=2209|end_char=2213
+10	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	_	_	start_char=2209|end_char=2211
+11	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=2211|end_char=2213
+12	good	good	ADJ	JJ	Degree=Pos	11	_	_	start_char=2214|end_char=2218|SpaceAfter=No
+13	:	:	PUNCT	:	_	12	_	_	start_char=2218|end_char=2219
+14	here	here	ADV	RB	PronType=Dem	13	_	_	start_char=2220|end_char=2224
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=2225|end_char=2227
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=2228|end_char=2231
+17	Sarmat	Sarmat	PROPN	NNP	Number=Sing	16	_	_	start_char=2232|end_char=2238
+18	[	[	PUNCT	-LRB-	_	17	_	_	start_char=2239|end_char=2240|SpaceAfter=No
+19	Satan	Satan	PROPN	NNP	Number=Sing	18	_	_	start_char=2240|end_char=2245|SpaceAfter=No
+20	-	-	PUNCT	HYPH	_	19	_	_	start_char=2245|end_char=2246|SpaceAfter=No
+21	2	2	NUM	CD	NumForm=Digit|NumType=Card	20	_	_	start_char=2246|end_char=2247|SpaceAfter=No
+22	]	]	PUNCT	-RRB-	_	21	_	_	start_char=2247|end_char=2248
+23	for	for	ADP	IN	_	22	_	_	start_char=2249|end_char=2252
+24	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	23	_	_	start_char=2253|end_char=2256|SpaceAfter=No
+25	,	,	PUNCT	,	_	24	_	_	start_char=2256|end_char=2257
+26	and	and	CCONJ	CC	_	25	_	_	start_char=2258|end_char=2261
+27	there	there	PRON	EX	_	26	_	_	start_char=2262|end_char=2267
+28	will	will	AUX	MD	VerbForm=Fin	27	_	_	start_char=2268|end_char=2272
+29	be	be	VERB	VB	VerbForm=Inf	28	_	_	start_char=2273|end_char=2275
+30	nuclear	nuclear	ADJ	JJ	Degree=Pos	29	_	_	start_char=2276|end_char=2283
+31	ashes	ash	NOUN	NNS	Number=Plur	30	_	_	start_char=2284|end_char=2289
+32	from	from	ADP	IN	_	31	_	_	start_char=2290|end_char=2294
+33	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	32	_	_	start_char=2295|end_char=2298
+34	if	if	SCONJ	IN	_	33	_	_	start_char=2299|end_char=2301
+35	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	34	_	_	start_char=2302|end_char=2305
+36	think	think	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	35	_	_	start_char=2306|end_char=2311
+37	that	that	SCONJ	IN	_	36	_	_	start_char=2312|end_char=2316
+38	Russia	Russia	PROPN	NNP	Number=Sing	37	_	_	start_char=2317|end_char=2323
+39	should	should	AUX	MD	VerbForm=Fin	38	_	_	start_char=2324|end_char=2330
+40	not	not	PART	RB	_	39	_	_	start_char=2331|end_char=2334
+41	exist	exist	VERB	VB	VerbForm=Inf	40	_	_	start_char=2335|end_char=2340|SpaceAfter=No
+42	,	,	PUNCT	,	_	41	_	_	start_char=2340|end_char=2341|SpaceAfter=No
+43	”	''	PUNCT	''	_	42	_	_	start_char=2341|end_char=2342
+44	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	43	_	_	start_char=2343|end_char=2345
+45	continued	continue	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	44	_	_	start_char=2346|end_char=2355|SpaceAfter=No
+46	.	.	PUNCT	.	_	45	_	_	start_char=2355|end_char=2356
+
+# text = “And Finland says that it is at one with the USA.
+# sent_id = 16
+1	“	''	PUNCT	``	_	0	_	_	start_char=2357|end_char=2358|SpaceAfter=No
+2	And	and	CCONJ	CC	_	1	_	_	start_char=2358|end_char=2361
+3	Finland	Finland	PROPN	NNP	Number=Sing	2	_	_	start_char=2362|end_char=2369
+4	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=2370|end_char=2374
+5	that	that	SCONJ	IN	_	4	_	_	start_char=2375|end_char=2379
+6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	_	_	start_char=2380|end_char=2382
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=2383|end_char=2385
+8	at	at	ADP	IN	_	7	_	_	start_char=2386|end_char=2388
+9	one	one	NUM	CD	NumForm=Word|NumType=Card	8	_	_	start_char=2389|end_char=2392
+10	with	with	ADP	IN	_	9	_	_	start_char=2393|end_char=2397
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=2398|end_char=2401
+12	USA	USA	PROPN	NNP	Number=Sing	11	_	_	start_char=2402|end_char=2405|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=2405|end_char=2406
+
+# text = Well, get in line.”
+# sent_id = 17
+1	Well	well	INTJ	UH	_	0	_	_	start_char=2407|end_char=2411|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=2411|end_char=2412
+3	get	get	VERB	VB	Mood=Imp|VerbForm=Fin	2	_	_	start_char=2413|end_char=2416
+4	in	in	ADP	IN	_	3	_	_	start_char=2417|end_char=2419
+5	line	line	NOUN	NN	Number=Sing	4	_	_	start_char=2420|end_char=2424|SpaceAfter=No
+6	.	.	PUNCT	.	_	5	_	_	start_char=2424|end_char=2425|SpaceAfter=No
+7	”	''	PUNCT	''	_	6	_	_	start_char=2425|end_char=2426|SpacesAfter=\n\n
+
+# text = The Satan-2 is a ballistic missile capable of carrying 10 to 15 nuclear warheads, with an estimated destructive power of three megatons each.
+# sent_id = 18
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2428|end_char=2431
+2	Satan	Satan	PROPN	NNP	Number=Sing	1	_	_	start_char=2432|end_char=2437|SpaceAfter=No
+3	-	-	PUNCT	HYPH	_	2	_	_	start_char=2437|end_char=2438|SpaceAfter=No
+4	2	2	NUM	CD	NumForm=Digit|NumType=Card	3	_	_	start_char=2438|end_char=2439
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=2440|end_char=2442
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=2443|end_char=2444
+7	ballistic	ballistic	ADJ	JJ	Degree=Pos	6	_	_	start_char=2445|end_char=2454
+8	missile	missile	NOUN	NN	Number=Sing	7	_	_	start_char=2455|end_char=2462
+9	capable	capable	ADJ	JJ	Degree=Pos	8	_	_	start_char=2463|end_char=2470
+10	of	of	SCONJ	IN	_	9	_	_	start_char=2471|end_char=2473
+11	carrying	carry	VERB	VBG	VerbForm=Ger	10	_	_	start_char=2474|end_char=2482
+12	10	10	NUM	CD	NumForm=Digit|NumType=Card	11	_	_	start_char=2483|end_char=2485
+13	to	to	ADP	IN	_	12	_	_	start_char=2486|end_char=2488
+14	15	15	NUM	CD	NumForm=Digit|NumType=Card	13	_	_	start_char=2489|end_char=2491
+15	nuclear	nuclear	ADJ	JJ	Degree=Pos	14	_	_	start_char=2492|end_char=2499
+16	warheads	warhead	NOUN	NNS	Number=Plur	15	_	_	start_char=2500|end_char=2508|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=2508|end_char=2509
+18	with	with	ADP	IN	_	17	_	_	start_char=2510|end_char=2514
+19	an	a	DET	DT	Definite=Ind|PronType=Art	18	_	_	start_char=2515|end_char=2517
+20	estimated	estimate	VERB	VBN	Tense=Past|VerbForm=Part	19	_	_	start_char=2518|end_char=2527
+21	destructive	destructive	ADJ	JJ	Degree=Pos	20	_	_	start_char=2528|end_char=2539
+22	power	power	NOUN	NN	Number=Sing	21	_	_	start_char=2540|end_char=2545
+23	of	of	ADP	IN	_	22	_	_	start_char=2546|end_char=2548
+24	three	three	NUM	CD	NumForm=Word|NumType=Card	23	_	_	start_char=2549|end_char=2554
+25	megatons	megaton	NOUN	NNS	Number=Plur	24	_	_	start_char=2555|end_char=2563
+26	each	each	DET	DT	_	25	_	_	start_char=2564|end_char=2568|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=2568|end_char=2569|SpacesAfter=\n\n
+
+# text = Russia wouldn’t need to move nukes to its European border to carry out its threat, officials boasted.
+# sent_id = 19
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=2571|end_char=2577
+2-3	wouldn’t	_	_	_	_	_	_	_	start_char=2578|end_char=2586
+2	would	would	AUX	MD	VerbForm=Fin	1	_	_	start_char=2578|end_char=2583
+3	n’t	not	PART	RB	_	2	_	_	start_char=2583|end_char=2586
+4	need	need	VERB	VB	VerbForm=Inf	3	_	_	start_char=2587|end_char=2591
+5	to	to	PART	TO	_	4	_	_	start_char=2592|end_char=2594
+6	move	move	VERB	VB	VerbForm=Inf	5	_	_	start_char=2595|end_char=2599
+7	nukes	nuke	NOUN	NNS	Number=Plur	6	_	_	start_char=2600|end_char=2605
+8	to	to	ADP	IN	_	7	_	_	start_char=2606|end_char=2608
+9	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	_	_	start_char=2609|end_char=2612
+10	European	European	ADJ	JJ	Degree=Pos	9	_	_	start_char=2613|end_char=2621
+11	border	border	NOUN	NN	Number=Sing	10	_	_	start_char=2622|end_char=2628
+12	to	to	PART	TO	_	11	_	_	start_char=2629|end_char=2631
+13	carry	carry	VERB	VB	VerbForm=Inf	12	_	_	start_char=2632|end_char=2637
+14	out	out	ADP	RP	_	13	_	_	start_char=2638|end_char=2641
+15	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	_	_	start_char=2642|end_char=2645
+16	threat	threat	NOUN	NN	Number=Sing	15	_	_	start_char=2646|end_char=2652|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=2652|end_char=2653
+18	officials	official	NOUN	NNS	Number=Plur	17	_	_	start_char=2654|end_char=2663
+19	boasted	boast	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	18	_	_	start_char=2664|end_char=2671|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=2671|end_char=2672|SpacesAfter=\n\n
+
+# text = “We can hit with a Sarmat [known in the West as Satan-2] from Siberia, and even reach the UK,” he said.
+# sent_id = 20
+1	“	''	PUNCT	``	_	0	_	_	start_char=2674|end_char=2675|SpaceAfter=No
+2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	1	_	_	start_char=2675|end_char=2677
+3	can	can	AUX	MD	VerbForm=Fin	2	_	_	start_char=2678|end_char=2681
+4	hit	hit	VERB	VB	VerbForm=Inf	3	_	_	start_char=2682|end_char=2685
+5	with	with	ADP	IN	_	4	_	_	start_char=2686|end_char=2690
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=2691|end_char=2692
+7	Sarmat	Sarmat	PROPN	NNP	Number=Sing	6	_	_	start_char=2693|end_char=2699
+8	[	[	PUNCT	-LRB-	_	7	_	_	start_char=2700|end_char=2701|SpaceAfter=No
+9	known	know	VERB	VBN	Tense=Past|VerbForm=Part	8	_	_	start_char=2701|end_char=2706
+10	in	in	ADP	IN	_	9	_	_	start_char=2707|end_char=2709
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=2710|end_char=2713
+12	West	West	PROPN	NNP	Number=Sing	11	_	_	start_char=2714|end_char=2718
+13	as	as	ADP	IN	_	12	_	_	start_char=2719|end_char=2721
+14	Satan	Satan	PROPN	NNP	Number=Sing	13	_	_	start_char=2722|end_char=2727|SpaceAfter=No
+15	-	-	PUNCT	HYPH	_	14	_	_	start_char=2727|end_char=2728|SpaceAfter=No
+16	2	2	NUM	CD	NumForm=Digit|NumType=Card	15	_	_	start_char=2728|end_char=2729|SpaceAfter=No
+17	]	]	PUNCT	-RRB-	_	16	_	_	start_char=2729|end_char=2730
+18	from	from	ADP	IN	_	17	_	_	start_char=2731|end_char=2735
+19	Siberia	Siberia	PROPN	NNP	Number=Sing	18	_	_	start_char=2736|end_char=2743|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=2743|end_char=2744
+21	and	and	CCONJ	CC	_	20	_	_	start_char=2745|end_char=2748
+22	even	even	ADV	RB	_	21	_	_	start_char=2749|end_char=2753
+23	reach	reach	VERB	VB	VerbForm=Inf	22	_	_	start_char=2754|end_char=2759
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=2760|end_char=2763
+25	UK	UK	PROPN	NNP	Number=Sing	24	_	_	start_char=2764|end_char=2766|SpaceAfter=No
+26	,	,	PUNCT	,	_	25	_	_	start_char=2766|end_char=2767|SpaceAfter=No
+27	”	''	PUNCT	''	_	26	_	_	start_char=2767|end_char=2768
+28	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	_	_	start_char=2769|end_char=2771
+29	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	_	_	start_char=2772|end_char=2776|SpaceAfter=No
+30	.	.	PUNCT	.	_	29	_	_	start_char=2776|end_char=2777
+
+# text = “And if we strike from Kaliningrad … the hypersonic’s reaching time is 200 seconds – so go ahead, guys.
+# sent_id = 21
+1	“	''	PUNCT	``	_	0	_	_	start_char=2778|end_char=2779|SpaceAfter=No
+2	And	and	CCONJ	CC	_	1	_	_	start_char=2779|end_char=2782
+3	if	if	SCONJ	IN	_	2	_	_	start_char=2783|end_char=2785
+4	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	_	_	start_char=2786|end_char=2788
+5	strike	strike	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	_	_	start_char=2789|end_char=2795
+6	from	from	ADP	IN	_	5	_	_	start_char=2796|end_char=2800
+7	Kaliningrad	Kaliningrad	PROPN	NNP	Number=Sing	6	_	_	start_char=2801|end_char=2812
+8	…	…	PUNCT	:	_	7	_	_	start_char=2813|end_char=2814
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=2815|end_char=2818
+10-11	hypersonic’s	_	_	_	_	_	_	_	start_char=2819|end_char=2831
+10	hypersonic	hypersonic	NOUN	NN	Number=Sing	9	_	_	start_char=2819|end_char=2829
+11	’s	's	PART	POS	_	10	_	_	start_char=2829|end_char=2831
+12	reaching	reach	VERB	VBG	VerbForm=Ger	11	_	_	start_char=2832|end_char=2840
+13	time	time	NOUN	NN	Number=Sing	12	_	_	start_char=2841|end_char=2845
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=2846|end_char=2848
+15	200	200	NUM	CD	NumForm=Digit|NumType=Card	14	_	_	start_char=2849|end_char=2852
+16	seconds	second	NOUN	NNS	Number=Plur	15	_	_	start_char=2853|end_char=2860
+17	–	-	PUNCT	:	_	16	_	_	start_char=2861|end_char=2862
+18	so	so	ADV	RB	_	17	_	_	start_char=2863|end_char=2865
+19	go	go	VERB	VB	Mood=Imp|VerbForm=Fin	18	_	_	start_char=2866|end_char=2868
+20	ahead	ahead	ADV	RB	_	19	_	_	start_char=2869|end_char=2874|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=2874|end_char=2875
+22	guys	guy	NOUN	NNS	Number=Plur	21	_	_	start_char=2876|end_char=2880|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=2880|end_char=2881|SpacesAfter=\n\n
+
+# text = “On the Finnish border we will have not strategic weapons, but Kinzhal-class, one that will reach Finland in 20 seconds, or even 10 seconds.”
+# sent_id = 22
+1	“	''	PUNCT	``	_	0	_	_	start_char=2883|end_char=2884|SpaceAfter=No
+2	On	on	ADP	IN	_	1	_	_	start_char=2884|end_char=2886
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=2887|end_char=2890
+4	Finnish	Finnish	ADJ	JJ	Degree=Pos	3	_	_	start_char=2891|end_char=2898
+5	border	border	NOUN	NN	Number=Sing	4	_	_	start_char=2899|end_char=2905
+6	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	_	_	start_char=2906|end_char=2908
+7	will	will	AUX	MD	VerbForm=Fin	6	_	_	start_char=2909|end_char=2913
+8	have	have	VERB	VB	VerbForm=Inf	7	_	_	start_char=2914|end_char=2918
+9	not	not	PART	RB	_	8	_	_	start_char=2919|end_char=2922
+10	strategic	strategic	ADJ	JJ	Degree=Pos	9	_	_	start_char=2923|end_char=2932
+11	weapons	weapon	NOUN	NNS	Number=Plur	10	_	_	start_char=2933|end_char=2940|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=2940|end_char=2941
+13	but	but	CCONJ	CC	_	12	_	_	start_char=2942|end_char=2945
+14	Kinzhal	Kinzhal	PROPN	NNP	Number=Sing	13	_	_	start_char=2946|end_char=2953|SpaceAfter=No
+15	-	-	PUNCT	HYPH	_	14	_	_	start_char=2953|end_char=2954|SpaceAfter=No
+16	class	class	NOUN	NN	Number=Sing	15	_	_	start_char=2954|end_char=2959|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=2959|end_char=2960
+18	one	one	NUM	CD	NumForm=Word|NumType=Card	17	_	_	start_char=2961|end_char=2964
+19	that	that	PRON	WDT	PronType=Rel	18	_	_	start_char=2965|end_char=2969
+20	will	will	AUX	MD	VerbForm=Fin	19	_	_	start_char=2970|end_char=2974
+21	reach	reach	VERB	VB	VerbForm=Inf	20	_	_	start_char=2975|end_char=2980
+22	Finland	Finland	PROPN	NNP	Number=Sing	21	_	_	start_char=2981|end_char=2988
+23	in	in	ADP	IN	_	22	_	_	start_char=2989|end_char=2991
+24	20	20	NUM	CD	NumForm=Digit|NumType=Card	23	_	_	start_char=2992|end_char=2994
+25	seconds	second	NOUN	NNS	Number=Plur	24	_	_	start_char=2995|end_char=3002|SpaceAfter=No
+26	,	,	PUNCT	,	_	25	_	_	start_char=3002|end_char=3003
+27	or	or	CCONJ	CC	_	26	_	_	start_char=3004|end_char=3006
+28	even	even	ADV	RB	_	27	_	_	start_char=3007|end_char=3011
+29	10	10	NUM	CD	NumForm=Digit|NumType=Card	28	_	_	start_char=3012|end_char=3014
+30	seconds	second	NOUN	NNS	Number=Plur	29	_	_	start_char=3015|end_char=3022|SpaceAfter=No
+31	.	.	PUNCT	.	_	30	_	_	start_char=3022|end_char=3023|SpaceAfter=No
+32	”	''	PUNCT	''	_	31	_	_	start_char=3023|end_char=3024|SpacesAfter=\n\n
+
+# text = Separately, Deputy Foreign Minister Alexander Grushko said Russia knows that NATO wants to “militarize everything within reach,” Interfax news agency reported.
+# sent_id = 23
+1	Separately	separately	ADV	RB	_	0	_	_	start_char=3026|end_char=3036|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=3036|end_char=3037
+3	Deputy	deputy	PROPN	NNP	Number=Sing	2	_	_	start_char=3038|end_char=3044
+4	Foreign	foreign	ADJ	NNP	Degree=Pos	3	_	_	start_char=3045|end_char=3052
+5	Minister	Minister	PROPN	NNP	Number=Sing	4	_	_	start_char=3053|end_char=3061
+6	Alexander	Alexander	PROPN	NNP	Number=Sing	5	_	_	start_char=3062|end_char=3071
+7	Grushko	Grushko	PROPN	NNP	Number=Sing	6	_	_	start_char=3072|end_char=3079
+8	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=3080|end_char=3084
+9	Russia	Russia	PROPN	NNP	Number=Sing	8	_	_	start_char=3085|end_char=3091
+10	knows	know	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=3092|end_char=3097
+11	that	that	SCONJ	IN	_	10	_	_	start_char=3098|end_char=3102
+12	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	11	_	_	start_char=3103|end_char=3107
+13	wants	want	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=3108|end_char=3113
+14	to	to	PART	TO	_	13	_	_	start_char=3114|end_char=3116
+15	“	''	PUNCT	``	_	14	_	_	start_char=3117|end_char=3118|SpaceAfter=No
+16	militarize	militarize	VERB	VB	VerbForm=Inf	15	_	_	start_char=3118|end_char=3128
+17	everything	everything	PRON	NN	Number=Sing|PronType=Tot	16	_	_	start_char=3129|end_char=3139
+18	within	within	ADP	IN	_	17	_	_	start_char=3140|end_char=3146
+19	reach	reach	NOUN	NN	Number=Sing	18	_	_	start_char=3147|end_char=3152|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=3152|end_char=3153|SpaceAfter=No
+21	”	''	PUNCT	''	_	20	_	_	start_char=3153|end_char=3154
+22	Interfax	Interfax	PROPN	NNP	Number=Sing	21	_	_	start_char=3155|end_char=3163
+23	news	news	NOUN	NN	Number=Sing	22	_	_	start_char=3164|end_char=3168
+24	agency	agency	NOUN	NN	Number=Sing	23	_	_	start_char=3169|end_char=3175
+25	reported	report	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	_	_	start_char=3176|end_char=3184|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=3184|end_char=3185|SpaceAfter=No
+

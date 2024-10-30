@@ -1,0 +1,773 @@
+# text = Russia pounds 30 towns and villages in Ukraine’s Kharkiv region
+# sent_id = 0
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=6
+2	pounds	pound	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=7|end_char=13
+3	30	30	NUM	CD	NumForm=Digit|NumType=Card	2	_	_	start_char=14|end_char=16
+4	towns	town	NOUN	NNS	Number=Plur	3	_	_	start_char=17|end_char=22
+5	and	and	CCONJ	CC	_	4	_	_	start_char=23|end_char=26
+6	villages	village	NOUN	NNS	Number=Plur	5	_	_	start_char=27|end_char=35
+7	in	in	ADP	IN	_	6	_	_	start_char=36|end_char=38
+8-9	Ukraine’s	_	_	_	_	_	_	_	start_char=39|end_char=48
+8	Ukraine	Ukraine	PROPN	NNP	Number=Sing	7	_	_	start_char=39|end_char=46
+9	’s	's	PART	POS	_	8	_	_	start_char=46|end_char=48
+10	Kharkiv	Kharkiv	PROPN	NNP	Number=Sing	9	_	_	start_char=49|end_char=56
+11	region	region	NOUN	NN	Number=Sing	10	_	_	start_char=57|end_char=63|SpacesAfter=\s\n\n\s
+
+# text = KHARKIV - Russia pounded over 30 villages and towns in Ukraine’s northeastern Kharkiv region after launching a ground offensive in the border region, forcing almost 6,000 to evacuate, the governor said on Monday.
+# sent_id = 1
+1	KHARKIV	KHARKIV	PROPN	NNP	Number=Sing	0	_	_	start_char=67|end_char=74
+2	-	-	PUNCT	,	_	1	_	_	start_char=75|end_char=76
+3	Russia	Russia	PROPN	NNP	Number=Sing	2	_	_	start_char=77|end_char=83
+4	pounded	pound	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=84|end_char=91
+5	over	over	ADV	RB	_	4	_	_	start_char=92|end_char=96
+6	30	30	NUM	CD	NumForm=Digit|NumType=Card	5	_	_	start_char=97|end_char=99
+7	villages	village	NOUN	NNS	Number=Plur	6	_	_	start_char=100|end_char=108
+8	and	and	CCONJ	CC	_	7	_	_	start_char=109|end_char=112
+9	towns	town	NOUN	NNS	Number=Plur	8	_	_	start_char=113|end_char=118
+10	in	in	ADP	IN	_	9	_	_	start_char=119|end_char=121
+11-12	Ukraine’s	_	_	_	_	_	_	_	start_char=122|end_char=131
+11	Ukraine	Ukraine	PROPN	NNP	Number=Sing	10	_	_	start_char=122|end_char=129
+12	’s	's	PART	POS	_	11	_	_	start_char=129|end_char=131
+13	northeastern	northeastern	ADJ	JJ	Degree=Pos	12	_	_	start_char=132|end_char=144
+14	Kharkiv	Kharkiv	PROPN	NNP	Number=Sing	13	_	_	start_char=145|end_char=152
+15	region	region	NOUN	NN	Number=Sing	14	_	_	start_char=153|end_char=159
+16	after	after	SCONJ	IN	_	15	_	_	start_char=160|end_char=165
+17	launching	launch	VERB	VBG	VerbForm=Ger	16	_	_	start_char=166|end_char=175
+18	a	a	DET	DT	Definite=Ind|PronType=Art	17	_	_	start_char=176|end_char=177
+19	ground	ground	NOUN	NN	Number=Sing	18	_	_	start_char=178|end_char=184
+20	offensive	offensive	NOUN	NN	Number=Sing	19	_	_	start_char=185|end_char=194
+21	in	in	ADP	IN	_	20	_	_	start_char=195|end_char=197
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=198|end_char=201
+23	border	border	NOUN	NN	Number=Sing	22	_	_	start_char=202|end_char=208
+24	region	region	NOUN	NN	Number=Sing	23	_	_	start_char=209|end_char=215|SpaceAfter=No
+25	,	,	PUNCT	,	_	24	_	_	start_char=215|end_char=216
+26	forcing	force	VERB	VBG	VerbForm=Ger	25	_	_	start_char=217|end_char=224
+27	almost	almost	ADV	RB	_	26	_	_	start_char=225|end_char=231
+28	6,000	6000	NUM	CD	NumForm=Digit|NumType=Card	27	_	_	start_char=232|end_char=237
+29	to	to	PART	TO	_	28	_	_	start_char=238|end_char=240
+30	evacuate	evacuate	VERB	VB	VerbForm=Inf	29	_	_	start_char=241|end_char=249|SpaceAfter=No
+31	,	,	PUNCT	,	_	30	_	_	start_char=249|end_char=250
+32	the	the	DET	DT	Definite=Def|PronType=Art	31	_	_	start_char=251|end_char=254
+33	governor	governor	NOUN	NN	Number=Sing	32	_	_	start_char=255|end_char=263
+34	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	33	_	_	start_char=264|end_char=268
+35	on	on	ADP	IN	_	34	_	_	start_char=269|end_char=271
+36	Monday	Monday	PROPN	NNP	Number=Sing	35	_	_	start_char=272|end_char=278|SpaceAfter=No
+37	.	.	PUNCT	.	_	36	_	_	start_char=278|end_char=279
+
+# text = Ukraine’s General Staff acknowledged on Monday that Russia “currently is achieving tactical success” after driving a wedge into Kyiv’s defences.
+# sent_id = 2
+1-2	Ukraine’s	_	_	_	_	_	_	_	start_char=280|end_char=289
+1	Ukraine	Ukraine	PROPN	NNP	Number=Sing	0	_	_	start_char=280|end_char=287
+2	’s	's	PART	POS	_	1	_	_	start_char=287|end_char=289
+3	General	General	ADJ	NNP	Degree=Pos	2	_	_	start_char=290|end_char=297
+4	Staff	Staff	PROPN	NNP	Number=Sing	3	_	_	start_char=298|end_char=303
+5	acknowledged	acknowledge	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=304|end_char=316
+6	on	on	ADP	IN	_	5	_	_	start_char=317|end_char=319
+7	Monday	Monday	PROPN	NNP	Number=Sing	6	_	_	start_char=320|end_char=326
+8	that	that	SCONJ	IN	_	7	_	_	start_char=327|end_char=331
+9	Russia	Russia	PROPN	NNP	Number=Sing	8	_	_	start_char=332|end_char=338
+10	“	''	PUNCT	``	_	9	_	_	start_char=339|end_char=340|SpaceAfter=No
+11	currently	currently	ADV	RB	_	10	_	_	start_char=340|end_char=349
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=350|end_char=352
+13	achieving	achieve	VERB	VBG	Tense=Pres|VerbForm=Part	12	_	_	start_char=353|end_char=362
+14	tactical	tactical	ADJ	JJ	Degree=Pos	13	_	_	start_char=363|end_char=371
+15	success	success	NOUN	NN	Number=Sing	14	_	_	start_char=372|end_char=379|SpaceAfter=No
+16	”	''	PUNCT	''	_	15	_	_	start_char=379|end_char=380
+17	after	after	SCONJ	IN	_	16	_	_	start_char=381|end_char=386
+18	driving	drive	VERB	VBG	VerbForm=Ger	17	_	_	start_char=387|end_char=394
+19	a	a	DET	DT	Definite=Ind|PronType=Art	18	_	_	start_char=395|end_char=396
+20	wedge	wedge	NOUN	NN	Number=Sing	19	_	_	start_char=397|end_char=402
+21	into	into	ADP	IN	_	20	_	_	start_char=403|end_char=407
+22-23	Kyiv’s	_	_	_	_	_	_	_	start_char=408|end_char=414
+22	Kyiv	Kyiv	PROPN	NNP	Number=Sing	21	_	_	start_char=408|end_char=412
+23	’s	's	PART	POS	_	22	_	_	start_char=412|end_char=414
+24	defences	defence	NOUN	NNS	Number=Plur	23	_	_	start_char=415|end_char=423|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=423|end_char=424
+
+# text = Russia’s defence ministry said on Monday that troops had “improved the tactical position and dealt a blow to (Ukrainian) manpower” around border villages including Lyptsi and the town of Vovchansk.
+# sent_id = 3
+1-2	Russia’s	_	_	_	_	_	_	_	start_char=425|end_char=433
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=425|end_char=431
+2	’s	's	PART	POS	_	1	_	_	start_char=431|end_char=433
+3	defence	defence	NOUN	NN	Number=Sing	2	_	_	start_char=434|end_char=441
+4	ministry	ministry	NOUN	NN	Number=Sing	3	_	_	start_char=442|end_char=450
+5	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=451|end_char=455
+6	on	on	ADP	IN	_	5	_	_	start_char=456|end_char=458
+7	Monday	Monday	PROPN	NNP	Number=Sing	6	_	_	start_char=459|end_char=465
+8	that	that	SCONJ	IN	_	7	_	_	start_char=466|end_char=470
+9	troops	troops	NOUN	NNS	Number=Plur	8	_	_	start_char=471|end_char=477
+10	had	have	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=478|end_char=481
+11	“	''	PUNCT	``	_	10	_	_	start_char=482|end_char=483|SpaceAfter=No
+12	improved	improve	VERB	VBN	Tense=Past|VerbForm=Part	11	_	_	start_char=483|end_char=491
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=492|end_char=495
+14	tactical	tactical	ADJ	JJ	Degree=Pos	13	_	_	start_char=496|end_char=504
+15	position	position	NOUN	NN	Number=Sing	14	_	_	start_char=505|end_char=513
+16	and	and	CCONJ	CC	_	15	_	_	start_char=514|end_char=517
+17	dealt	deal	VERB	VBD	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	16	_	_	start_char=518|end_char=523
+18	a	a	DET	DT	Definite=Ind|PronType=Art	17	_	_	start_char=524|end_char=525
+19	blow	blow	NOUN	NN	Number=Sing	18	_	_	start_char=526|end_char=530
+20	to	to	ADP	IN	_	19	_	_	start_char=531|end_char=533
+21	(	(	PUNCT	-LRB-	_	20	_	_	start_char=534|end_char=535|SpaceAfter=No
+22	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	21	_	_	start_char=535|end_char=544|SpaceAfter=No
+23	)	)	PUNCT	-RRB-	_	22	_	_	start_char=544|end_char=545
+24	manpower	manpower	NOUN	NN	Number=Sing	23	_	_	start_char=546|end_char=554|SpaceAfter=No
+25	”	''	PUNCT	''	_	24	_	_	start_char=554|end_char=555
+26	around	around	ADP	IN	_	25	_	_	start_char=556|end_char=562
+27	border	border	NOUN	NN	Number=Sing	26	_	_	start_char=563|end_char=569
+28	villages	village	NOUN	NNS	Number=Plur	27	_	_	start_char=570|end_char=578
+29	including	include	VERB	VBG	VerbForm=Ger	28	_	_	start_char=579|end_char=588
+30	Lyptsi	Lyptsi	PROPN	NNP	Number=Sing	29	_	_	start_char=589|end_char=595
+31	and	and	CCONJ	CC	_	30	_	_	start_char=596|end_char=599
+32	the	the	DET	DT	Definite=Def|PronType=Art	31	_	_	start_char=600|end_char=603
+33	town	town	NOUN	NN	Number=Sing	32	_	_	start_char=604|end_char=608
+34	of	of	ADP	IN	_	33	_	_	start_char=609|end_char=611
+35	Vovchansk	Vovchansk	PROPN	NNP	Number=Sing	34	_	_	start_char=612|end_char=621|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=621|end_char=622|SpacesAfter=\n\n
+
+# text = “They are shelling the villages, firing on everything they can,” Sergiy Kryvetchenko, deputy head of the military administration in the village of Lyptsi, told AFP.
+# sent_id = 4
+1	“	''	PUNCT	``	_	0	_	_	start_char=624|end_char=625|SpaceAfter=No
+2	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	1	_	_	start_char=625|end_char=629
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=630|end_char=633
+4	shelling	shell	VERB	VBG	Tense=Pres|VerbForm=Part	3	_	_	start_char=634|end_char=642
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=643|end_char=646
+6	villages	village	NOUN	NNS	Number=Plur	5	_	_	start_char=647|end_char=655|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=655|end_char=656
+8	firing	fire	VERB	VBG	VerbForm=Ger	7	_	_	start_char=657|end_char=663
+9	on	on	ADP	IN	_	8	_	_	start_char=664|end_char=666
+10	everything	everything	PRON	NN	Number=Sing|PronType=Tot	9	_	_	start_char=667|end_char=677
+11	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	_	_	start_char=678|end_char=682
+12	can	can	AUX	MD	VerbForm=Fin	11	_	_	start_char=683|end_char=686|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=686|end_char=687|SpaceAfter=No
+14	”	''	PUNCT	''	_	13	_	_	start_char=687|end_char=688
+15	Sergiy	Sergiy	PROPN	NNP	Number=Sing	14	_	_	start_char=689|end_char=695
+16	Kryvetchenko	Kryvetchenko	PROPN	NNP	Number=Sing	15	_	_	start_char=696|end_char=708|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=708|end_char=709
+18	deputy	deputy	ADJ	JJ	Degree=Pos	17	_	_	start_char=710|end_char=716
+19	head	head	NOUN	NN	Number=Sing	18	_	_	start_char=717|end_char=721
+20	of	of	ADP	IN	_	19	_	_	start_char=722|end_char=724
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=725|end_char=728
+22	military	military	ADJ	JJ	Degree=Pos	21	_	_	start_char=729|end_char=737
+23	administration	administration	NOUN	NN	Number=Sing	22	_	_	start_char=738|end_char=752
+24	in	in	ADP	IN	_	23	_	_	start_char=753|end_char=755
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=756|end_char=759
+26	village	village	NOUN	NN	Number=Sing	25	_	_	start_char=760|end_char=767
+27	of	of	ADP	IN	_	26	_	_	start_char=768|end_char=770
+28	Lyptsi	Lyptsi	PROPN	NNP	Number=Sing	27	_	_	start_char=771|end_char=777|SpaceAfter=No
+29	,	,	PUNCT	,	_	28	_	_	start_char=777|end_char=778
+30	told	tell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	29	_	_	start_char=779|end_char=783
+31	AFP	AFP	PROPN	NNP	Number=Sing	30	_	_	start_char=784|end_char=787|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=787|end_char=788
+
+# text = “The KABs (guided aerial bombs) are flying.
+# sent_id = 5
+1	“	''	PUNCT	``	_	0	_	_	start_char=789|end_char=790|SpaceAfter=No
+2	The	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=790|end_char=793
+3	KABs	kabs	NOUN	NNS	Number=Plur	2	_	_	start_char=794|end_char=798
+4	(	(	PUNCT	-LRB-	_	3	_	_	start_char=799|end_char=800|SpaceAfter=No
+5	guided	guide	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=800|end_char=806
+6	aerial	aerial	ADJ	JJ	Degree=Pos	5	_	_	start_char=807|end_char=813
+7	bombs	bomb	NOUN	NNS	Number=Plur	6	_	_	start_char=814|end_char=819|SpaceAfter=No
+8	)	)	PUNCT	-RRB-	_	7	_	_	start_char=819|end_char=820
+9	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=821|end_char=824
+10	flying	fly	VERB	VBG	Tense=Pres|VerbForm=Part	9	_	_	start_char=825|end_char=831|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=831|end_char=832
+
+# text = The artillery is flying.
+# sent_id = 6
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=833|end_char=836
+2	artillery	artillery	NOUN	NN	Number=Sing	1	_	_	start_char=837|end_char=846
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=847|end_char=849
+4	flying	fly	VERB	VBG	Tense=Pres|VerbForm=Part	3	_	_	start_char=850|end_char=856|SpaceAfter=No
+5	.	.	PUNCT	.	_	4	_	_	start_char=856|end_char=857
+
+# text = Drones.
+# sent_id = 7
+1	Drones	drone	NOUN	NNS	Number=Plur	0	_	_	start_char=858|end_char=864|SpaceAfter=No
+2	.	.	PUNCT	.	_	1	_	_	start_char=864|end_char=865
+
+# text = Everything,” he said.
+# sent_id = 8
+1	Everything	everything	PRON	NN	Number=Sing|PronType=Tot	0	_	_	start_char=866|end_char=876|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=876|end_char=877|SpaceAfter=No
+3	”	''	PUNCT	''	_	2	_	_	start_char=877|end_char=878
+4	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	_	_	start_char=879|end_char=881
+5	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=882|end_char=886|SpaceAfter=No
+6	.	.	PUNCT	.	_	5	_	_	start_char=886|end_char=887|SpaceAfter=No
+
+# text = On Friday, Russia began an offensive across its border into the Kharkiv region and later claimed to have taken several villages in the region near the border.
+# sent_id = 9
+1	On	on	ADP	IN	_	0	_	_	start_char=887|end_char=889
+2	Friday	Friday	PROPN	NNP	Number=Sing	1	_	_	start_char=890|end_char=896|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=896|end_char=897
+4	Russia	Russia	PROPN	NNP	Number=Sing	3	_	_	start_char=898|end_char=904
+5	began	begin	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=905|end_char=910
+6	an	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=911|end_char=913
+7	offensive	offensive	NOUN	NN	Number=Sing	6	_	_	start_char=914|end_char=923
+8	across	across	ADP	IN	_	7	_	_	start_char=924|end_char=930
+9	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	_	_	start_char=931|end_char=934
+10	border	border	NOUN	NN	Number=Sing	9	_	_	start_char=935|end_char=941
+11	into	into	ADP	IN	_	10	_	_	start_char=942|end_char=946
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=947|end_char=950
+13	Kharkiv	Kharkiv	PROPN	NNP	Number=Sing	12	_	_	start_char=951|end_char=958
+14	region	region	NOUN	NN	Number=Sing	13	_	_	start_char=959|end_char=965
+15	and	and	CCONJ	CC	_	14	_	_	start_char=966|end_char=969
+16	later	late	ADV	RBR	Degree=Cmp	15	_	_	start_char=970|end_char=975
+17	claimed	claim	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	_	_	start_char=976|end_char=983
+18	to	to	PART	TO	_	17	_	_	start_char=984|end_char=986
+19	have	have	AUX	VB	VerbForm=Inf	18	_	_	start_char=987|end_char=991
+20	taken	take	VERB	VBN	Tense=Past|VerbForm=Part	19	_	_	start_char=992|end_char=997
+21	several	several	ADJ	JJ	Degree=Pos	20	_	_	start_char=998|end_char=1005
+22	villages	village	NOUN	NNS	Number=Plur	21	_	_	start_char=1006|end_char=1014
+23	in	in	ADP	IN	_	22	_	_	start_char=1015|end_char=1017
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=1018|end_char=1021
+25	region	region	NOUN	NN	Number=Sing	24	_	_	start_char=1022|end_char=1028
+26	near	near	ADP	IN	_	25	_	_	start_char=1029|end_char=1033
+27	the	the	DET	DT	Definite=Def|PronType=Art	26	_	_	start_char=1034|end_char=1037
+28	border	border	NOUN	NN	Number=Sing	27	_	_	start_char=1038|end_char=1044|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=1044|end_char=1045|SpacesAfter=\n\n
+
+# text = The situation in the Kharkiv region is “complex and dynamically changing”, with Russian troops mounting assaults in various areas, Ukraine’s General Staff said.
+# sent_id = 10
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1047|end_char=1050
+2	situation	situation	NOUN	NN	Number=Sing	1	_	_	start_char=1051|end_char=1060
+3	in	in	ADP	IN	_	2	_	_	start_char=1061|end_char=1063
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1064|end_char=1067
+5	Kharkiv	Kharkiv	PROPN	NNP	Number=Sing	4	_	_	start_char=1068|end_char=1075
+6	region	region	NOUN	NN	Number=Sing	5	_	_	start_char=1076|end_char=1082
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=1083|end_char=1085
+8	“	''	PUNCT	``	_	7	_	_	start_char=1086|end_char=1087|SpaceAfter=No
+9	complex	complex	ADJ	JJ	Degree=Pos	8	_	_	start_char=1087|end_char=1094
+10	and	and	CCONJ	CC	_	9	_	_	start_char=1095|end_char=1098
+11	dynamically	dynamically	ADV	RB	_	10	_	_	start_char=1099|end_char=1110
+12	changing	change	VERB	VBG	VerbForm=Ger	11	_	_	start_char=1111|end_char=1119|SpaceAfter=No
+13	”	''	PUNCT	''	_	12	_	_	start_char=1119|end_char=1120|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=1120|end_char=1121
+15	with	with	SCONJ	IN	_	14	_	_	start_char=1122|end_char=1126
+16	Russian	Russian	ADJ	JJ	Degree=Pos	15	_	_	start_char=1127|end_char=1134
+17	troops	troops	NOUN	NNS	Number=Plur	16	_	_	start_char=1135|end_char=1141
+18	mounting	mount	VERB	VBG	VerbForm=Ger	17	_	_	start_char=1142|end_char=1150
+19	assaults	assault	NOUN	NNS	Number=Plur	18	_	_	start_char=1151|end_char=1159
+20	in	in	ADP	IN	_	19	_	_	start_char=1160|end_char=1162
+21	various	various	ADJ	JJ	Degree=Pos	20	_	_	start_char=1163|end_char=1170
+22	areas	area	NOUN	NNS	Number=Plur	21	_	_	start_char=1171|end_char=1176|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=1176|end_char=1177
+24-25	Ukraine’s	_	_	_	_	_	_	_	start_char=1178|end_char=1187
+24	Ukraine	Ukraine	PROPN	NNP	Number=Sing	23	_	_	start_char=1178|end_char=1185
+25	’s	's	PART	POS	_	24	_	_	start_char=1185|end_char=1187
+26	General	General	ADJ	NNP	Degree=Pos	25	_	_	start_char=1188|end_char=1195
+27	Staff	Staff	PROPN	NNP	Number=Sing	26	_	_	start_char=1196|end_char=1201
+28	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	27	_	_	start_char=1202|end_char=1206|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=1206|end_char=1207
+
+# text = Kharkiv regional governor Oleg Synegubov wrote on social media that over the last day, “more than 30” towns and villages “were struck by enemy artillery and mortar attacks”, wounding at least nine people.
+# sent_id = 11
+1	Kharkiv	Kharkiv	PROPN	NNP	Number=Sing	0	_	_	start_char=1208|end_char=1215
+2	regional	regional	ADJ	JJ	Degree=Pos	1	_	_	start_char=1216|end_char=1224
+3	governor	governor	NOUN	NN	Number=Sing	2	_	_	start_char=1225|end_char=1233
+4	Oleg	Oleg	PROPN	NNP	Number=Sing	3	_	_	start_char=1234|end_char=1238
+5	Synegubov	Synegubov	PROPN	NNP	Number=Sing	4	_	_	start_char=1239|end_char=1248
+6	wrote	write	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=1249|end_char=1254
+7	on	on	ADP	IN	_	6	_	_	start_char=1255|end_char=1257
+8	social	social	ADJ	JJ	Degree=Pos	7	_	_	start_char=1258|end_char=1264
+9	media	media	NOUN	NN	Number=Sing	8	_	_	start_char=1265|end_char=1270
+10	that	that	SCONJ	IN	_	9	_	_	start_char=1271|end_char=1275
+11	over	over	ADP	IN	_	10	_	_	start_char=1276|end_char=1280
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=1281|end_char=1284
+13	last	last	ADJ	JJ	Degree=Pos	12	_	_	start_char=1285|end_char=1289
+14	day	day	NOUN	NN	Number=Sing	13	_	_	start_char=1290|end_char=1293|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=1293|end_char=1294
+16	“	''	PUNCT	``	_	15	_	_	start_char=1295|end_char=1296|SpaceAfter=No
+17	more	more	ADJ	JJR	Degree=Cmp	16	_	_	start_char=1296|end_char=1300
+18	than	than	ADP	IN	_	17	_	_	start_char=1301|end_char=1305
+19	30	30	NUM	CD	NumForm=Digit|NumType=Card	18	_	_	start_char=1306|end_char=1308|SpaceAfter=No
+20	”	''	PUNCT	''	_	19	_	_	start_char=1308|end_char=1309
+21	towns	town	NOUN	NNS	Number=Plur	20	_	_	start_char=1310|end_char=1315
+22	and	and	CCONJ	CC	_	21	_	_	start_char=1316|end_char=1319
+23	villages	village	NOUN	NNS	Number=Plur	22	_	_	start_char=1320|end_char=1328
+24	“	''	PUNCT	``	_	23	_	_	start_char=1329|end_char=1330|SpaceAfter=No
+25	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	24	_	_	start_char=1330|end_char=1334
+26	struck	strike	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	25	_	_	start_char=1335|end_char=1341
+27	by	by	ADP	IN	_	26	_	_	start_char=1342|end_char=1344
+28	enemy	enemy	NOUN	NN	Number=Sing	27	_	_	start_char=1345|end_char=1350
+29	artillery	artillery	NOUN	NN	Number=Sing	28	_	_	start_char=1351|end_char=1360
+30	and	and	CCONJ	CC	_	29	_	_	start_char=1361|end_char=1364
+31	mortar	mortar	NOUN	NN	Number=Sing	30	_	_	start_char=1365|end_char=1371
+32	attacks	attack	NOUN	NNS	Number=Plur	31	_	_	start_char=1372|end_char=1379|SpaceAfter=No
+33	”	''	PUNCT	''	_	32	_	_	start_char=1379|end_char=1380|SpaceAfter=No
+34	,	,	PUNCT	,	_	33	_	_	start_char=1380|end_char=1381
+35	wounding	wound	VERB	VBG	VerbForm=Ger	34	_	_	start_char=1382|end_char=1390
+36	at	at	ADP	IN	_	35	_	_	start_char=1391|end_char=1393
+37	least	least	ADJ	JJS	Degree=Sup	36	_	_	start_char=1394|end_char=1399
+38	nine	nine	NUM	CD	NumForm=Word|NumType=Card	37	_	_	start_char=1400|end_char=1404
+39	people	person	NOUN	NNS	Number=Plur	38	_	_	start_char=1405|end_char=1411|SpaceAfter=No
+40	.	.	PUNCT	.	_	39	_	_	start_char=1411|end_char=1412|SpacesAfter=\n\n
+
+# text = Some areas were also bombed by Russian aircraft, Synegubov added.
+# sent_id = 12
+1	Some	some	DET	DT	_	0	_	_	start_char=1414|end_char=1418
+2	areas	area	NOUN	NNS	Number=Plur	1	_	_	start_char=1419|end_char=1424
+3	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1425|end_char=1429
+4	also	also	ADV	RB	_	3	_	_	start_char=1430|end_char=1434
+5	bombed	bomb	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	_	_	start_char=1435|end_char=1441
+6	by	by	ADP	IN	_	5	_	_	start_char=1442|end_char=1444
+7	Russian	Russian	ADJ	JJ	Degree=Pos	6	_	_	start_char=1445|end_char=1452
+8	aircraft	aircraft	NOUN	NN	Number=Sing	7	_	_	start_char=1453|end_char=1461|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1461|end_char=1462
+10	Synegubov	Synegubov	PROPN	NNP	Number=Sing	9	_	_	start_char=1463|end_char=1472
+11	added	add	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=1473|end_char=1478|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=1478|end_char=1479
+
+# text = A total of 5,762 people have been evacuated from their homes since the start of the offensive, the governor said.
+# sent_id = 13
+1	A	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=1480|end_char=1481
+2	total	total	NOUN	NN	Number=Sing	1	_	_	start_char=1482|end_char=1487
+3	of	of	ADP	IN	_	2	_	_	start_char=1488|end_char=1490
+4	5,762	5,762	NUM	CD	NumForm=Digit|NumType=Card	3	_	_	start_char=1491|end_char=1496
+5	people	person	NOUN	NNS	Number=Plur	4	_	_	start_char=1497|end_char=1503
+6	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1504|end_char=1508
+7	been	be	AUX	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=1509|end_char=1513
+8	evacuated	evacuate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	_	_	start_char=1514|end_char=1523
+9	from	from	ADP	IN	_	8	_	_	start_char=1524|end_char=1528
+10	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	_	_	start_char=1529|end_char=1534
+11	homes	home	NOUN	NNS	Number=Plur	10	_	_	start_char=1535|end_char=1540
+12	since	since	ADP	IN	_	11	_	_	start_char=1541|end_char=1546
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1547|end_char=1550
+14	start	start	NOUN	NN	Number=Sing	13	_	_	start_char=1551|end_char=1556
+15	of	of	ADP	IN	_	14	_	_	start_char=1557|end_char=1559
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=1560|end_char=1563
+17	offensive	offensive	NOUN	NN	Number=Sing	16	_	_	start_char=1564|end_char=1573|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=1573|end_char=1574
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=1575|end_char=1578
+20	governor	governor	NOUN	NN	Number=Sing	19	_	_	start_char=1579|end_char=1587
+21	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	_	_	start_char=1588|end_char=1592|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=1592|end_char=1593
+
+# text = Over the course of Sunday, Russia “carried out 22 assaults” in five border areas, 14 of which were still ongoing, the General Staff said.
+# sent_id = 14
+1	Over	over	ADP	IN	_	0	_	_	start_char=1594|end_char=1598
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=1599|end_char=1602
+3	course	course	NOUN	NN	Number=Sing	2	_	_	start_char=1603|end_char=1609
+4	of	of	ADP	IN	_	3	_	_	start_char=1610|end_char=1612
+5	Sunday	Sunday	PROPN	NNP	Number=Sing	4	_	_	start_char=1613|end_char=1619|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=1619|end_char=1620
+7	Russia	Russia	PROPN	NNP	Number=Sing	6	_	_	start_char=1621|end_char=1627
+8	“	''	PUNCT	``	_	7	_	_	start_char=1628|end_char=1629|SpaceAfter=No
+9	carried	carry	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=1629|end_char=1636
+10	out	out	ADP	RP	_	9	_	_	start_char=1637|end_char=1640
+11	22	22	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=1641|end_char=1643
+12	assaults	assault	NOUN	NNS	Number=Plur	11	_	_	start_char=1644|end_char=1652|SpaceAfter=No
+13	”	''	PUNCT	''	_	12	_	_	start_char=1652|end_char=1653
+14	in	in	ADP	IN	_	13	_	_	start_char=1654|end_char=1656
+15	five	five	NUM	CD	NumForm=Word|NumType=Card	14	_	_	start_char=1657|end_char=1661
+16	border	border	NOUN	NN	Number=Sing	15	_	_	start_char=1662|end_char=1668
+17	areas	area	NOUN	NNS	Number=Plur	16	_	_	start_char=1669|end_char=1674|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=1674|end_char=1675
+19	14	14	NUM	CD	NumForm=Digit|NumType=Card	18	_	_	start_char=1676|end_char=1678
+20	of	of	ADP	IN	_	19	_	_	start_char=1679|end_char=1681
+21	which	which	PRON	WDT	PronType=Rel	20	_	_	start_char=1682|end_char=1687
+22	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	21	_	_	start_char=1688|end_char=1692
+23	still	still	ADV	RB	_	22	_	_	start_char=1693|end_char=1698
+24	ongoing	ongoing	ADJ	JJ	Degree=Pos	23	_	_	start_char=1699|end_char=1706|SpaceAfter=No
+25	,	,	PUNCT	,	_	24	_	_	start_char=1706|end_char=1707
+26	the	the	DET	DT	Definite=Def|PronType=Art	25	_	_	start_char=1708|end_char=1711
+27	General	General	ADJ	NNP	Degree=Pos	26	_	_	start_char=1712|end_char=1719
+28	Staff	Staff	PROPN	NNP	Number=Sing	27	_	_	start_char=1720|end_char=1725
+29	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	_	_	start_char=1726|end_char=1730|SpaceAfter=No
+30	.	.	PUNCT	.	_	29	_	_	start_char=1730|end_char=1731
+
+# text = The General Staff said fighting was ongoing for the border town of Vovchansk, where Russia was deploying “significant forces”.
+# sent_id = 15
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1732|end_char=1735
+2	General	General	ADJ	NNP	Degree=Pos	1	_	_	start_char=1736|end_char=1743
+3	Staff	Staff	PROPN	NNP	Number=Sing	2	_	_	start_char=1744|end_char=1749
+4	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=1750|end_char=1754
+5	fighting	fighting	NOUN	NN	Number=Sing	4	_	_	start_char=1755|end_char=1763
+6	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=1764|end_char=1767
+7	ongoing	ongoing	ADJ	JJ	Degree=Pos	6	_	_	start_char=1768|end_char=1775
+8	for	for	ADP	IN	_	7	_	_	start_char=1776|end_char=1779
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1780|end_char=1783
+10	border	border	NOUN	NN	Number=Sing	9	_	_	start_char=1784|end_char=1790
+11	town	town	NOUN	NN	Number=Sing	10	_	_	start_char=1791|end_char=1795
+12	of	of	ADP	IN	_	11	_	_	start_char=1796|end_char=1798
+13	Vovchansk	Vovchansk	PROPN	NNP	Number=Sing	12	_	_	start_char=1799|end_char=1808|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=1808|end_char=1809
+15	where	where	ADV	WRB	PronType=Rel	14	_	_	start_char=1810|end_char=1815
+16	Russia	Russia	PROPN	NNP	Number=Sing	15	_	_	start_char=1816|end_char=1822
+17	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	_	_	start_char=1823|end_char=1826
+18	deploying	deploy	VERB	VBG	Tense=Pres|VerbForm=Part	17	_	_	start_char=1827|end_char=1836
+19	“	''	PUNCT	``	_	18	_	_	start_char=1837|end_char=1838|SpaceAfter=No
+20	significant	significant	ADJ	JJ	Degree=Pos	19	_	_	start_char=1838|end_char=1849
+21	forces	force	NOUN	NNS	Number=Plur	20	_	_	start_char=1850|end_char=1856|SpaceAfter=No
+22	”	''	PUNCT	''	_	21	_	_	start_char=1856|end_char=1857|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=1857|end_char=1858|SpacesAfter=\n\n
+
+# text = numbering up to five battalions.
+# sent_id = 16
+1	numbering	number	VERB	VBG	VerbForm=Ger	0	_	_	start_char=1860|end_char=1869
+2	up	up	ADP	RP	_	1	_	_	start_char=1870|end_char=1872
+3	to	to	ADP	IN	_	2	_	_	start_char=1873|end_char=1875
+4	five	five	NUM	CD	NumForm=Word|NumType=Card	3	_	_	start_char=1876|end_char=1880
+5	battalions	battalion	NOUN	NNS	Number=Plur	4	_	_	start_char=1881|end_char=1891|SpaceAfter=No
+6	.	.	PUNCT	.	_	5	_	_	start_char=1891|end_char=1892|SpacesAfter=\n\n
+
+# text = Vovchansk, which previously had a population of 2,500 but now has only 200-300 residents, suffered “massive shelling” on Sunday that hit houses and wounded seven, said Synegubov.
+# sent_id = 17
+1	Vovchansk	Vovchansk	PROPN	NNP	Number=Sing	0	_	_	start_char=1894|end_char=1903|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=1903|end_char=1904
+3	which	which	PRON	WDT	PronType=Rel	2	_	_	start_char=1905|end_char=1910
+4	previously	previously	ADV	RB	_	3	_	_	start_char=1911|end_char=1921
+5	had	have	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=1922|end_char=1925
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=1926|end_char=1927
+7	population	population	NOUN	NN	Number=Sing	6	_	_	start_char=1928|end_char=1938
+8	of	of	ADP	IN	_	7	_	_	start_char=1939|end_char=1941
+9	2,500	2500	NUM	CD	NumForm=Digit|NumType=Card	8	_	_	start_char=1942|end_char=1947
+10	but	but	CCONJ	CC	_	9	_	_	start_char=1948|end_char=1951
+11	now	now	ADV	RB	_	10	_	_	start_char=1952|end_char=1955
+12	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=1956|end_char=1959
+13	only	only	ADV	RB	_	12	_	_	start_char=1960|end_char=1964
+14	200-	200-	NUM	CD	NumForm=Digit|NumType=Card	13	_	_	start_char=1965|end_char=1969|SpaceAfter=No
+15	300	300	NUM	CD	NumForm=Digit|NumType=Card	14	_	_	start_char=1969|end_char=1972
+16	residents	resident	NOUN	NNS	Number=Plur	15	_	_	start_char=1973|end_char=1982|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=1982|end_char=1983
+18	suffered	suffer	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	_	_	start_char=1984|end_char=1992
+19	“	''	PUNCT	``	_	18	_	_	start_char=1993|end_char=1994|SpaceAfter=No
+20	massive	massive	ADJ	JJ	Degree=Pos	19	_	_	start_char=1994|end_char=2001
+21	shelling	shelling	NOUN	NN	Number=Sing	20	_	_	start_char=2002|end_char=2010|SpaceAfter=No
+22	”	''	PUNCT	''	_	21	_	_	start_char=2010|end_char=2011
+23	on	on	ADP	IN	_	22	_	_	start_char=2012|end_char=2014
+24	Sunday	Sunday	PROPN	NNP	Number=Sing	23	_	_	start_char=2015|end_char=2021
+25	that	that	PRON	WDT	PronType=Rel	24	_	_	start_char=2022|end_char=2026
+26	hit	hit	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	_	_	start_char=2027|end_char=2030
+27	houses	house	NOUN	NNS	Number=Plur	26	_	_	start_char=2031|end_char=2037
+28	and	and	CCONJ	CC	_	27	_	_	start_char=2038|end_char=2041
+29	wounded	wound	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	_	_	start_char=2042|end_char=2049
+30	seven	seven	NUM	CD	NumForm=Word|NumType=Card	29	_	_	start_char=2050|end_char=2055|SpaceAfter=No
+31	,	,	PUNCT	,	_	30	_	_	start_char=2055|end_char=2056
+32	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	31	_	_	start_char=2057|end_char=2061
+33	Synegubov	Synegubov	PROPN	NNP	Number=Sing	32	_	_	start_char=2062|end_char=2071|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=2071|end_char=2072|SpacesAfter=\n\n
+
+# text = A 69-year-old man was also wounded in the town of Izyum by detonating ammunition and a woman was injured in a village near the town of Kupiansk.
+# sent_id = 18
+1	A	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=2074|end_char=2075
+2	69	69	NUM	CD	NumForm=Digit|NumType=Card	1	_	_	start_char=2076|end_char=2078|SpaceAfter=No
+3	-	-	PUNCT	HYPH	_	2	_	_	start_char=2078|end_char=2079|SpaceAfter=No
+4	year	year	NOUN	NN	Number=Sing	3	_	_	start_char=2079|end_char=2083|SpaceAfter=No
+5	-	-	PUNCT	HYPH	_	4	_	_	start_char=2083|end_char=2084|SpaceAfter=No
+6	old	old	ADJ	JJ	Degree=Pos	5	_	_	start_char=2084|end_char=2087
+7	man	man	NOUN	NN	Number=Sing	6	_	_	start_char=2088|end_char=2091
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=2092|end_char=2095
+9	also	also	ADV	RB	_	8	_	_	start_char=2096|end_char=2100
+10	wounded	wound	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	9	_	_	start_char=2101|end_char=2108
+11	in	in	ADP	IN	_	10	_	_	start_char=2109|end_char=2111
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=2112|end_char=2115
+13	town	town	NOUN	NN	Number=Sing	12	_	_	start_char=2116|end_char=2120
+14	of	of	ADP	IN	_	13	_	_	start_char=2121|end_char=2123
+15	Izyum	Izyum	PROPN	NNP	Number=Sing	14	_	_	start_char=2124|end_char=2129
+16	by	by	SCONJ	IN	_	15	_	_	start_char=2130|end_char=2132
+17	detonating	detonate	VERB	VBG	VerbForm=Ger	16	_	_	start_char=2133|end_char=2143
+18	ammunition	ammunition	NOUN	NN	Number=Sing	17	_	_	start_char=2144|end_char=2154
+19	and	and	CCONJ	CC	_	18	_	_	start_char=2155|end_char=2158
+20	a	a	DET	DT	Definite=Ind|PronType=Art	19	_	_	start_char=2159|end_char=2160
+21	woman	woman	NOUN	NN	Number=Sing	20	_	_	start_char=2161|end_char=2166
+22	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	_	_	start_char=2167|end_char=2170
+23	injured	injure	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	22	_	_	start_char=2171|end_char=2178
+24	in	in	ADP	IN	_	23	_	_	start_char=2179|end_char=2181
+25	a	a	DET	DT	Definite=Ind|PronType=Art	24	_	_	start_char=2182|end_char=2183
+26	village	village	NOUN	NN	Number=Sing	25	_	_	start_char=2184|end_char=2191
+27	near	near	ADP	IN	_	26	_	_	start_char=2192|end_char=2196
+28	the	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=2197|end_char=2200
+29	town	town	NOUN	NN	Number=Sing	28	_	_	start_char=2201|end_char=2205
+30	of	of	ADP	IN	_	29	_	_	start_char=2206|end_char=2208
+31	Kupiansk	Kupiansk	PROPN	NNP	Number=Sing	30	_	_	start_char=2209|end_char=2217|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=2217|end_char=2218|SpacesAfter=\n\n
+
+# text = The city of Kharkiv itself had not been struck over the last 24 hours, however, he said.
+# sent_id = 19
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2220|end_char=2223
+2	city	city	NOUN	NN	Number=Sing	1	_	_	start_char=2224|end_char=2228
+3	of	of	ADP	IN	_	2	_	_	start_char=2229|end_char=2231
+4	Kharkiv	Kharkiv	PROPN	NNP	Number=Sing	3	_	_	start_char=2232|end_char=2239
+5	itself	itself	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Emp|Reflex=Yes	4	_	_	start_char=2240|end_char=2246
+6	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=2247|end_char=2250
+7	not	not	PART	RB	_	6	_	_	start_char=2251|end_char=2254
+8	been	be	AUX	VBN	Tense=Past|VerbForm=Part	7	_	_	start_char=2255|end_char=2259
+9	struck	strike	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	_	_	start_char=2260|end_char=2266
+10	over	over	ADP	IN	_	9	_	_	start_char=2267|end_char=2271
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=2272|end_char=2275
+12	last	last	ADJ	JJ	Degree=Pos	11	_	_	start_char=2276|end_char=2280
+13	24	24	NUM	CD	NumForm=Digit|NumType=Card	12	_	_	start_char=2281|end_char=2283
+14	hours	hour	NOUN	NNS	Number=Plur	13	_	_	start_char=2284|end_char=2289|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=2289|end_char=2290
+16	however	however	ADV	RB	_	15	_	_	start_char=2291|end_char=2298|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=2298|end_char=2299
+18	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	_	_	start_char=2300|end_char=2302
+19	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	_	_	start_char=2303|end_char=2307|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=2307|end_char=2308|SpacesAfter=\n\n
+
+# text = Synegubov said on national television that “the grey zone and the front line are expanding” because Russia is “trying to deliberately stretch it, attacking in small groups in new directions”.
+# sent_id = 20
+1	Synegubov	Synegubov	PROPN	NNP	Number=Sing	0	_	_	start_char=2310|end_char=2319
+2	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=2320|end_char=2324
+3	on	on	ADP	IN	_	2	_	_	start_char=2325|end_char=2327
+4	national	national	ADJ	JJ	Degree=Pos	3	_	_	start_char=2328|end_char=2336
+5	television	television	NOUN	NN	Number=Sing	4	_	_	start_char=2337|end_char=2347
+6	that	that	SCONJ	IN	_	5	_	_	start_char=2348|end_char=2352
+7	“	''	PUNCT	``	_	6	_	_	start_char=2353|end_char=2354|SpaceAfter=No
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=2354|end_char=2357
+9	grey	grey	ADJ	JJ	Degree=Pos	8	_	_	start_char=2358|end_char=2362
+10	zone	zone	NOUN	NN	Number=Sing	9	_	_	start_char=2363|end_char=2367
+11	and	and	CCONJ	CC	_	10	_	_	start_char=2368|end_char=2371
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=2372|end_char=2375
+13	front	front	ADJ	JJ	Degree=Pos	12	_	_	start_char=2376|end_char=2381
+14	line	line	NOUN	NN	Number=Sing	13	_	_	start_char=2382|end_char=2386
+15	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=2387|end_char=2390
+16	expanding	expand	VERB	VBG	Tense=Pres|VerbForm=Part	15	_	_	start_char=2391|end_char=2400|SpaceAfter=No
+17	”	''	PUNCT	''	_	16	_	_	start_char=2400|end_char=2401
+18	because	because	SCONJ	IN	_	17	_	_	start_char=2402|end_char=2409
+19	Russia	Russia	PROPN	NNP	Number=Sing	18	_	_	start_char=2410|end_char=2416
+20	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	_	_	start_char=2417|end_char=2419
+21	“	''	PUNCT	``	_	20	_	_	start_char=2420|end_char=2421|SpaceAfter=No
+22	trying	try	VERB	VBG	Tense=Pres|VerbForm=Part	21	_	_	start_char=2421|end_char=2427
+23	to	to	PART	TO	_	22	_	_	start_char=2428|end_char=2430
+24	deliberately	deliberately	ADV	RB	_	23	_	_	start_char=2431|end_char=2443
+25	stretch	stretch	VERB	VB	VerbForm=Inf	24	_	_	start_char=2444|end_char=2451
+26	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	25	_	_	start_char=2452|end_char=2454|SpaceAfter=No
+27	,	,	PUNCT	,	_	26	_	_	start_char=2454|end_char=2455
+28	attacking	attack	VERB	VBG	VerbForm=Ger	27	_	_	start_char=2456|end_char=2465
+29	in	in	ADP	IN	_	28	_	_	start_char=2466|end_char=2468
+30	small	small	ADJ	JJ	Degree=Pos	29	_	_	start_char=2469|end_char=2474
+31	groups	group	NOUN	NNS	Number=Plur	30	_	_	start_char=2475|end_char=2481
+32	in	in	ADP	IN	_	31	_	_	start_char=2482|end_char=2484
+33	new	new	ADJ	JJ	Degree=Pos	32	_	_	start_char=2485|end_char=2488
+34	directions	direction	NOUN	NNS	Number=Plur	33	_	_	start_char=2489|end_char=2499|SpaceAfter=No
+35	”	''	PUNCT	''	_	34	_	_	start_char=2499|end_char=2500|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=2500|end_char=2501|SpacesAfter=\n\n
+
+# text = The DeepState Telegram channel, which is close to the Ukrainian army, wrote that Russia had taken pockets of territory measuring around 100 square kilometres (39 square miles).
+# sent_id = 21
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2503|end_char=2506
+2	DeepState	DeepState	PROPN	NNP	Number=Sing	1	_	_	start_char=2507|end_char=2516
+3	Telegram	Telegram	PROPN	NNP	Number=Sing	2	_	_	start_char=2517|end_char=2525
+4	channel	channel	NOUN	NN	Number=Sing	3	_	_	start_char=2526|end_char=2533|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=2533|end_char=2534
+6	which	which	PRON	WDT	PronType=Rel	5	_	_	start_char=2535|end_char=2540
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=2541|end_char=2543
+8	close	close	ADJ	JJ	Degree=Pos	7	_	_	start_char=2544|end_char=2549
+9	to	to	ADP	IN	_	8	_	_	start_char=2550|end_char=2552
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=2553|end_char=2556
+11	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	10	_	_	start_char=2557|end_char=2566
+12	army	army	NOUN	NN	Number=Sing	11	_	_	start_char=2567|end_char=2571|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=2571|end_char=2572
+14	wrote	write	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	_	_	start_char=2573|end_char=2578
+15	that	that	SCONJ	IN	_	14	_	_	start_char=2579|end_char=2583
+16	Russia	Russia	PROPN	NNP	Number=Sing	15	_	_	start_char=2584|end_char=2590
+17	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	_	_	start_char=2591|end_char=2594
+18	taken	take	VERB	VBN	Tense=Past|VerbForm=Part	17	_	_	start_char=2595|end_char=2600
+19	pockets	pocket	NOUN	NNS	Number=Plur	18	_	_	start_char=2601|end_char=2608
+20	of	of	ADP	IN	_	19	_	_	start_char=2609|end_char=2611
+21	territory	territory	NOUN	NN	Number=Sing	20	_	_	start_char=2612|end_char=2621
+22	measuring	measure	VERB	VBG	VerbForm=Ger	21	_	_	start_char=2622|end_char=2631
+23	around	around	ADV	RB	_	22	_	_	start_char=2632|end_char=2638
+24	100	100	NUM	CD	NumForm=Digit|NumType=Card	23	_	_	start_char=2639|end_char=2642
+25	square	square	ADJ	JJ	Degree=Pos	24	_	_	start_char=2643|end_char=2649
+26	kilometres	kilometre	NOUN	NNS	Number=Plur	25	_	_	start_char=2650|end_char=2660
+27	(	(	PUNCT	-LRB-	_	26	_	_	start_char=2661|end_char=2662|SpaceAfter=No
+28	39	39	NUM	CD	NumForm=Digit|NumType=Card	27	_	_	start_char=2662|end_char=2664
+29	square	square	ADJ	JJ	Degree=Pos	28	_	_	start_char=2665|end_char=2671
+30	miles	mile	NOUN	NNS	Number=Plur	29	_	_	start_char=2672|end_char=2677|SpaceAfter=No
+31	)	)	PUNCT	-RRB-	_	30	_	_	start_char=2677|end_char=2678|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=2678|end_char=2679|SpacesAfter=\n\n
+
+# text = Russia “continues to advance to Vovchansk”, the channel said.
+# sent_id = 22
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=2681|end_char=2687
+2	“	''	PUNCT	``	_	1	_	_	start_char=2688|end_char=2689|SpaceAfter=No
+3	continues	continue	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2689|end_char=2698
+4	to	to	PART	TO	_	3	_	_	start_char=2699|end_char=2701
+5	advance	advance	VERB	VB	VerbForm=Inf	4	_	_	start_char=2702|end_char=2709
+6	to	to	ADP	IN	_	5	_	_	start_char=2710|end_char=2712
+7	Vovchansk	Vovchansk	PROPN	NNP	Number=Sing	6	_	_	start_char=2713|end_char=2722|SpaceAfter=No
+8	”	''	PUNCT	''	_	7	_	_	start_char=2722|end_char=2723|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=2723|end_char=2724
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=2725|end_char=2728
+11	channel	channel	NOUN	NN	Number=Sing	10	_	_	start_char=2729|end_char=2736
+12	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=2737|end_char=2741|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=2741|end_char=2742|SpacesAfter=\n\n
+
+# text = “They are gaining foothold on the outskirts for further entry into the town.”
+# sent_id = 23
+1	“	''	PUNCT	``	_	0	_	_	start_char=2744|end_char=2745|SpaceAfter=No
+2	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	1	_	_	start_char=2745|end_char=2749
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2750|end_char=2753
+4	gaining	gain	VERB	VBG	Tense=Pres|VerbForm=Part	3	_	_	start_char=2754|end_char=2761
+5	foothold	foothold	NOUN	NN	Number=Sing	4	_	_	start_char=2762|end_char=2770
+6	on	on	ADP	IN	_	5	_	_	start_char=2771|end_char=2773
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=2774|end_char=2777
+8	outskirts	outskirt	NOUN	NNS	Number=Plur	7	_	_	start_char=2778|end_char=2787
+9	for	for	ADP	IN	_	8	_	_	start_char=2788|end_char=2791
+10	further	further	ADJ	JJ	Degree=Cmp	9	_	_	start_char=2792|end_char=2799
+11	entry	entry	NOUN	NN	Number=Sing	10	_	_	start_char=2800|end_char=2805
+12	into	into	ADP	IN	_	11	_	_	start_char=2806|end_char=2810
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=2811|end_char=2814
+14	town	town	NOUN	NN	Number=Sing	13	_	_	start_char=2815|end_char=2819|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=2819|end_char=2820|SpaceAfter=No
+16	”	''	PUNCT	''	_	15	_	_	start_char=2820|end_char=2821|SpacesAfter=\n\n
+
+# text = Russia was also advancing towards the border village of Lyptsi and attempting to enter the nearby village of Glyboke, it said.
+# sent_id = 24
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=2823|end_char=2829
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=2830|end_char=2833
+3	also	also	ADV	RB	_	2	_	_	start_char=2834|end_char=2838
+4	advancing	advance	VERB	VBG	Tense=Pres|VerbForm=Part	3	_	_	start_char=2839|end_char=2848
+5	towards	towards	ADP	IN	_	4	_	_	start_char=2849|end_char=2856
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=2857|end_char=2860
+7	border	border	NOUN	NN	Number=Sing	6	_	_	start_char=2861|end_char=2867
+8	village	village	NOUN	NN	Number=Sing	7	_	_	start_char=2868|end_char=2875
+9	of	of	ADP	IN	_	8	_	_	start_char=2876|end_char=2878
+10	Lyptsi	Lyptsi	PROPN	NNP	Number=Sing	9	_	_	start_char=2879|end_char=2885
+11	and	and	CCONJ	CC	_	10	_	_	start_char=2886|end_char=2889
+12	attempting	attempt	VERB	VBG	VerbForm=Ger	11	_	_	start_char=2890|end_char=2900
+13	to	to	PART	TO	_	12	_	_	start_char=2901|end_char=2903
+14	enter	enter	VERB	VB	VerbForm=Inf	13	_	_	start_char=2904|end_char=2909
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=2910|end_char=2913
+16	nearby	nearby	ADJ	JJ	Degree=Pos	15	_	_	start_char=2914|end_char=2920
+17	village	village	NOUN	NN	Number=Sing	16	_	_	start_char=2921|end_char=2928
+18	of	of	ADP	IN	_	17	_	_	start_char=2929|end_char=2931
+19	Glyboke	Glyboke	PROPN	NNP	Number=Sing	18	_	_	start_char=2932|end_char=2939|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=2939|end_char=2940
+21	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	20	_	_	start_char=2941|end_char=2943
+22	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	_	_	start_char=2944|end_char=2948|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=2948|end_char=2949|SpacesAfter=\n\n
+
+# text = Ukraine was mounting “constant fire”, including from drones, “but unfortunately it does not stop them”.
+# sent_id = 25
+1	Ukraine	Ukraine	PROPN	NNP	Number=Sing	0	_	_	start_char=2951|end_char=2958
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=2959|end_char=2962
+3	mounting	mount	VERB	VBG	Tense=Pres|VerbForm=Part	2	_	_	start_char=2963|end_char=2971
+4	“	''	PUNCT	``	_	3	_	_	start_char=2972|end_char=2973|SpaceAfter=No
+5	constant	constant	ADJ	JJ	Degree=Pos	4	_	_	start_char=2973|end_char=2981
+6	fire	fire	NOUN	NN	Number=Sing	5	_	_	start_char=2982|end_char=2986|SpaceAfter=No
+7	”	''	PUNCT	''	_	6	_	_	start_char=2986|end_char=2987|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=2987|end_char=2988
+9	including	include	VERB	VBG	VerbForm=Ger	8	_	_	start_char=2989|end_char=2998
+10	from	from	ADP	IN	_	9	_	_	start_char=2999|end_char=3003
+11	drones	drone	NOUN	NNS	Number=Plur	10	_	_	start_char=3004|end_char=3010|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=3010|end_char=3011
+13	“	''	PUNCT	``	_	12	_	_	start_char=3012|end_char=3013|SpaceAfter=No
+14	but	but	CCONJ	CC	_	13	_	_	start_char=3013|end_char=3016
+15	unfortunately	unfortunately	ADV	RB	_	14	_	_	start_char=3017|end_char=3030
+16	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	_	_	start_char=3031|end_char=3033
+17	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=3034|end_char=3038
+18	not	not	PART	RB	_	17	_	_	start_char=3039|end_char=3042
+19	stop	stop	VERB	VB	VerbForm=Inf	18	_	_	start_char=3043|end_char=3047
+20	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	19	_	_	start_char=3048|end_char=3052|SpaceAfter=No
+21	”	''	PUNCT	''	_	20	_	_	start_char=3052|end_char=3053|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=3053|end_char=3054|SpacesAfter=\n\n
+
+# text = The Russian defence ministry said troops had repelled Ukrainian counterattacks near Glyboke.
+# sent_id = 26
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=3056|end_char=3059
+2	Russian	Russian	ADJ	JJ	Degree=Pos	1	_	_	start_char=3060|end_char=3067
+3	defence	defence	NOUN	NN	Number=Sing	2	_	_	start_char=3068|end_char=3075
+4	ministry	ministry	NOUN	NN	Number=Sing	3	_	_	start_char=3076|end_char=3084
+5	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=3085|end_char=3089
+6	troops	troops	NOUN	NNS	Number=Plur	5	_	_	start_char=3090|end_char=3096
+7	had	have	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=3097|end_char=3100
+8	repelled	repel	VERB	VBN	Tense=Past|VerbForm=Part	7	_	_	start_char=3101|end_char=3109
+9	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	8	_	_	start_char=3110|end_char=3119
+10	counterattacks	counterattack	NOUN	NNS	Number=Plur	9	_	_	start_char=3120|end_char=3134
+11	near	near	ADP	IN	_	10	_	_	start_char=3135|end_char=3139
+12	Glyboke	Glyboke	PROPN	NNP	Number=Sing	11	_	_	start_char=3140|end_char=3147|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=3147|end_char=3148|SpacesAfter=\n\n
+
+# text = Rybar, a Russian Telegram channel with military links, said Moscow’s offensive led to territorial gains because troops took some villages where Russian soldiers already had a presence and others that were “deserted wastelands”.
+# sent_id = 27
+1	Rybar	Rybar	PROPN	NNP	Number=Sing	0	_	_	start_char=3150|end_char=3155|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=3155|end_char=3156
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=3157|end_char=3158
+4	Russian	Russian	ADJ	JJ	Degree=Pos	3	_	_	start_char=3159|end_char=3166
+5	Telegram	Telegram	PROPN	NNP	Number=Sing	4	_	_	start_char=3167|end_char=3175
+6	channel	channel	NOUN	NN	Number=Sing	5	_	_	start_char=3176|end_char=3183
+7	with	with	ADP	IN	_	6	_	_	start_char=3184|end_char=3188
+8	military	military	ADJ	JJ	Degree=Pos	7	_	_	start_char=3189|end_char=3197
+9	links	link	NOUN	NNS	Number=Plur	8	_	_	start_char=3198|end_char=3203|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=3203|end_char=3204
+11	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=3205|end_char=3209
+12-13	Moscow’s	_	_	_	_	_	_	_	start_char=3210|end_char=3218
+12	Moscow	Moscow	PROPN	NNP	Number=Sing	11	_	_	start_char=3210|end_char=3216
+13	’s	's	PART	POS	_	12	_	_	start_char=3216|end_char=3218
+14	offensive	offensive	NOUN	NN	Number=Sing	13	_	_	start_char=3219|end_char=3228
+15	led	lead	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=3229|end_char=3232
+16	to	to	ADP	IN	_	15	_	_	start_char=3233|end_char=3235
+17	territorial	territorial	ADJ	JJ	Degree=Pos	16	_	_	start_char=3236|end_char=3247
+18	gains	gain	NOUN	NNS	Number=Plur	17	_	_	start_char=3248|end_char=3253
+19	because	because	SCONJ	IN	_	18	_	_	start_char=3254|end_char=3261
+20	troops	troops	NOUN	NNS	Number=Plur	19	_	_	start_char=3262|end_char=3268
+21	took	take	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	20	_	_	start_char=3269|end_char=3273
+22	some	some	DET	DT	_	21	_	_	start_char=3274|end_char=3278
+23	villages	village	NOUN	NNS	Number=Plur	22	_	_	start_char=3279|end_char=3287
+24	where	where	ADV	WRB	PronType=Rel	23	_	_	start_char=3288|end_char=3293
+25	Russian	Russian	ADJ	JJ	Degree=Pos	24	_	_	start_char=3294|end_char=3301
+26	soldiers	soldier	NOUN	NNS	Number=Plur	25	_	_	start_char=3302|end_char=3310
+27	already	already	ADV	RB	_	26	_	_	start_char=3311|end_char=3318
+28	had	have	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	27	_	_	start_char=3319|end_char=3322
+29	a	a	DET	DT	Definite=Ind|PronType=Art	28	_	_	start_char=3323|end_char=3324
+30	presence	presence	NOUN	NN	Number=Sing	29	_	_	start_char=3325|end_char=3333
+31	and	and	CCONJ	CC	_	30	_	_	start_char=3334|end_char=3337
+32	others	other	NOUN	NNS	Number=Plur	31	_	_	start_char=3338|end_char=3344
+33	that	that	PRON	WDT	PronType=Rel	32	_	_	start_char=3345|end_char=3349
+34	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	33	_	_	start_char=3350|end_char=3354
+35	“	''	PUNCT	``	_	34	_	_	start_char=3355|end_char=3356|SpaceAfter=No
+36	deserted	desert	ADJ	JJ	Degree=Pos	35	_	_	start_char=3356|end_char=3364
+37	wastelands	wasteland	NOUN	NNS	Number=Plur	36	_	_	start_char=3365|end_char=3375|SpaceAfter=No
+38	”	''	PUNCT	''	_	37	_	_	start_char=3375|end_char=3376|SpaceAfter=No
+39	.	.	PUNCT	.	_	38	_	_	start_char=3376|end_char=3377|SpacesAfter=\n\n
+
+# text = As of Monday morning, there were no “large-scale breakthroughs of the enemy’s defences”, Rybar said.
+# sent_id = 28
+1	As	as	ADP	IN	_	0	_	_	start_char=3379|end_char=3381
+2	of	of	ADP	IN	_	1	_	_	start_char=3382|end_char=3384
+3	Monday	Monday	PROPN	NNP	Number=Sing	2	_	_	start_char=3385|end_char=3391
+4	morning	morning	NOUN	NN	Number=Sing	3	_	_	start_char=3392|end_char=3399|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=3399|end_char=3400
+6	there	there	PRON	EX	_	5	_	_	start_char=3401|end_char=3406
+7	were	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=3407|end_char=3411
+8	no	no	DET	DT	PronType=Art	7	_	_	start_char=3412|end_char=3414
+9	“	''	PUNCT	``	_	8	_	_	start_char=3415|end_char=3416|SpaceAfter=No
+10	large	large	ADJ	JJ	Degree=Pos	9	_	_	start_char=3416|end_char=3421|SpaceAfter=No
+11	-	-	PUNCT	HYPH	_	10	_	_	start_char=3421|end_char=3422|SpaceAfter=No
+12	scale	scale	NOUN	NN	Number=Sing	11	_	_	start_char=3422|end_char=3427
+13	breakthroughs	breakthrough	NOUN	NNS	Number=Plur	12	_	_	start_char=3428|end_char=3441
+14	of	of	ADP	IN	_	13	_	_	start_char=3442|end_char=3444
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=3445|end_char=3448
+16-17	enemy’s	_	_	_	_	_	_	_	start_char=3449|end_char=3456
+16	enemy	enemy	NOUN	NN	Number=Sing	15	_	_	start_char=3449|end_char=3454
+17	’s	's	PART	POS	_	16	_	_	start_char=3454|end_char=3456
+18	defences	defence	NOUN	NNS	Number=Plur	17	_	_	start_char=3457|end_char=3465|SpaceAfter=No
+19	”	''	PUNCT	''	_	18	_	_	start_char=3465|end_char=3466|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=3466|end_char=3467
+21	Rybar	Rybar	PROPN	NNP	Number=Sing	20	_	_	start_char=3468|end_char=3473
+22	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	_	_	start_char=3474|end_char=3478|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=3478|end_char=3479|SpacesAfter=\n\n
+
+# text = Ukrainian military said Russia was also shelling the Sumy and Chernigiv border regions further west.
+# sent_id = 29
+1	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	0	_	_	start_char=3481|end_char=3490
+2	military	military	NOUN	NN	Number=Sing	1	_	_	start_char=3491|end_char=3499
+3	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=3500|end_char=3504
+4	Russia	Russia	PROPN	NNP	Number=Sing	3	_	_	start_char=3505|end_char=3511
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=3512|end_char=3515
+6	also	also	ADV	RB	_	5	_	_	start_char=3516|end_char=3520
+7	shelling	shell	VERB	VBG	Tense=Pres|VerbForm=Part	6	_	_	start_char=3521|end_char=3529
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=3530|end_char=3533
+9	Sumy	Sumy	PROPN	NNP	Number=Sing	8	_	_	start_char=3534|end_char=3538
+10	and	and	CCONJ	CC	_	9	_	_	start_char=3539|end_char=3542
+11	Chernigiv	Chernigiv	PROPN	NNP	Number=Sing	10	_	_	start_char=3543|end_char=3552
+12	border	border	NOUN	NN	Number=Sing	11	_	_	start_char=3553|end_char=3559
+13	regions	region	NOUN	NNS	Number=Plur	12	_	_	start_char=3560|end_char=3567
+14	further	further	ADV	RBR	Degree=Cmp	13	_	_	start_char=3568|end_char=3575
+15	west	west	ADV	RB	_	14	_	_	start_char=3576|end_char=3580|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=3580|end_char=3581|SpaceAfter=No
+

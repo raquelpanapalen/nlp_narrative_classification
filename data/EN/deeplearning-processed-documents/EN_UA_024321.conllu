@@ -1,0 +1,536 @@
+# text = Molotov Cocktail Attack On Russian Embassy In Moldova On Last Day Of Election
+# sent_id = 0
+1	Molotov	molotov	ADJ	NNP	Degree=Pos	0	_	_	start_char=0|end_char=7
+2	Cocktail	Cocktail	PROPN	NNP	Number=Sing	1	_	_	start_char=8|end_char=16
+3	Attack	attack	NOUN	NN	Number=Sing	2	_	_	start_char=17|end_char=23
+4	On	on	ADP	IN	_	3	_	_	start_char=24|end_char=26
+5	Russian	Russian	ADJ	JJ	Degree=Pos	4	_	_	start_char=27|end_char=34
+6	Embassy	embassy	NOUN	NN	Number=Sing	5	_	_	start_char=35|end_char=42
+7	In	in	ADP	IN	_	6	_	_	start_char=43|end_char=45
+8	Moldova	Moldova	PROPN	NNP	Number=Sing	7	_	_	start_char=46|end_char=53
+9	On	on	ADP	IN	_	8	_	_	start_char=54|end_char=56
+10	Last	last	ADJ	JJ	Degree=Pos	9	_	_	start_char=57|end_char=61
+11	Day	day	NOUN	NN	Number=Sing	10	_	_	start_char=62|end_char=65
+12	Of	of	ADP	IN	_	11	_	_	start_char=66|end_char=68
+13	Election	election	NOUN	NN	Number=Sing	12	_	_	start_char=69|end_char=77|SpacesAfter=\s\n\n\s
+
+# text = Molotov Cocktail Attack On Russian Embassy In Moldova On Last Day Of Election
+# sent_id = 1
+1	Molotov	molotov	ADJ	NNP	Degree=Pos	0	_	_	start_char=81|end_char=88
+2	Cocktail	Cocktail	PROPN	NNP	Number=Sing	1	_	_	start_char=89|end_char=97
+3	Attack	attack	NOUN	NN	Number=Sing	2	_	_	start_char=98|end_char=104
+4	On	on	ADP	IN	_	3	_	_	start_char=105|end_char=107
+5	Russian	Russian	ADJ	JJ	Degree=Pos	4	_	_	start_char=108|end_char=115
+6	Embassy	embassy	NOUN	NN	Number=Sing	5	_	_	start_char=116|end_char=123
+7	In	in	ADP	IN	_	6	_	_	start_char=124|end_char=126
+8	Moldova	Moldova	PROPN	NNP	Number=Sing	7	_	_	start_char=127|end_char=134
+9	On	on	ADP	IN	_	8	_	_	start_char=135|end_char=137
+10	Last	last	ADJ	JJ	Degree=Pos	9	_	_	start_char=138|end_char=142
+11	Day	day	NOUN	NN	Number=Sing	10	_	_	start_char=143|end_char=146
+12	Of	of	ADP	IN	_	11	_	_	start_char=147|end_char=149
+13	Election	election	NOUN	NN	Number=Sing	12	_	_	start_char=150|end_char=158|SpacesAfter=\n\n
+
+# text = Sunday is the final day of three days of presidential elections in Russia.
+# sent_id = 2
+1	Sunday	Sunday	PROPN	NNP	Number=Sing	0	_	_	start_char=160|end_char=166
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=167|end_char=169
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=170|end_char=173
+4	final	final	ADJ	JJ	Degree=Pos	3	_	_	start_char=174|end_char=179
+5	day	day	NOUN	NN	Number=Sing	4	_	_	start_char=180|end_char=183
+6	of	of	ADP	IN	_	5	_	_	start_char=184|end_char=186
+7	three	three	NUM	CD	NumForm=Word|NumType=Card	6	_	_	start_char=187|end_char=192
+8	days	day	NOUN	NNS	Number=Plur	7	_	_	start_char=193|end_char=197
+9	of	of	ADP	IN	_	8	_	_	start_char=198|end_char=200
+10	presidential	presidential	ADJ	JJ	Degree=Pos	9	_	_	start_char=201|end_char=213
+11	elections	election	NOUN	NNS	Number=Plur	10	_	_	start_char=214|end_char=223
+12	in	in	ADP	IN	_	11	_	_	start_char=224|end_char=226
+13	Russia	Russia	PROPN	NNP	Number=Sing	12	_	_	start_char=227|end_char=233|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=233|end_char=234
+
+# text = Yulia Navalnaya, the wife of deceased opposition activist Alexei Navalny, is urging mass protests against President Putin as he stands of the verge of winning another six year term as president, an outcome quite obvious to all observers.
+# sent_id = 3
+1	Yulia	Yulia	PROPN	NNP	Number=Sing	0	_	_	start_char=235|end_char=240
+2	Navalnaya	Navalnaya	PROPN	NNP	Number=Sing	1	_	_	start_char=241|end_char=250|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=250|end_char=251
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=252|end_char=255
+5	wife	wife	NOUN	NN	Number=Sing	4	_	_	start_char=256|end_char=260
+6	of	of	ADP	IN	_	5	_	_	start_char=261|end_char=263
+7	deceased	decease	ADJ	JJ	Degree=Pos	6	_	_	start_char=264|end_char=272
+8	opposition	opposition	NOUN	NN	Number=Sing	7	_	_	start_char=273|end_char=283
+9	activist	activist	NOUN	NN	Number=Sing	8	_	_	start_char=284|end_char=292
+10	Alexei	Alexei	PROPN	NNP	Number=Sing	9	_	_	start_char=293|end_char=299
+11	Navalny	Navalny	PROPN	NNP	Number=Sing	10	_	_	start_char=300|end_char=307|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=307|end_char=308
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=309|end_char=311
+14	urging	urge	VERB	VBG	Tense=Pres|VerbForm=Part	13	_	_	start_char=312|end_char=318
+15	mass	mass	ADJ	JJ	Degree=Pos	14	_	_	start_char=319|end_char=323
+16	protests	protest	NOUN	NNS	Number=Plur	15	_	_	start_char=324|end_char=332
+17	against	against	ADP	IN	_	16	_	_	start_char=333|end_char=340
+18	President	President	PROPN	NNP	Number=Sing	17	_	_	start_char=341|end_char=350
+19	Putin	Putin	PROPN	NNP	Number=Sing	18	_	_	start_char=351|end_char=356
+20	as	as	SCONJ	IN	_	19	_	_	start_char=357|end_char=359
+21	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	_	_	start_char=360|end_char=362
+22	stands	stand	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	_	_	start_char=363|end_char=369
+23	of	of	ADP	IN	_	22	_	_	start_char=370|end_char=372
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=373|end_char=376
+25	verge	verge	NOUN	NN	Number=Sing	24	_	_	start_char=377|end_char=382
+26	of	of	SCONJ	IN	_	25	_	_	start_char=383|end_char=385
+27	winning	win	VERB	VBG	VerbForm=Ger	26	_	_	start_char=386|end_char=393
+28	another	another	DET	DT	_	27	_	_	start_char=394|end_char=401
+29	six	six	NUM	CD	NumForm=Word|NumType=Card	28	_	_	start_char=402|end_char=405
+30	year	year	NOUN	NN	Number=Sing	29	_	_	start_char=406|end_char=410
+31	term	term	NOUN	NN	Number=Sing	30	_	_	start_char=411|end_char=415
+32	as	as	ADP	IN	_	31	_	_	start_char=416|end_char=418
+33	president	president	NOUN	NN	Number=Sing	32	_	_	start_char=419|end_char=428|SpaceAfter=No
+34	,	,	PUNCT	,	_	33	_	_	start_char=428|end_char=429
+35	an	a	DET	DT	Definite=Ind|PronType=Art	34	_	_	start_char=430|end_char=432
+36	outcome	outcome	NOUN	NN	Number=Sing	35	_	_	start_char=433|end_char=440
+37	quite	quite	ADV	RB	_	36	_	_	start_char=441|end_char=446
+38	obvious	obvious	ADJ	JJ	Degree=Pos	37	_	_	start_char=447|end_char=454
+39	to	to	ADP	IN	_	38	_	_	start_char=455|end_char=457
+40	all	all	DET	DT	_	39	_	_	start_char=458|end_char=461
+41	observers	observer	NOUN	NNS	Number=Plur	40	_	_	start_char=462|end_char=471|SpaceAfter=No
+42	.	.	PUNCT	.	_	41	_	_	start_char=471|end_char=472
+
+# text = She's calling on Russians to disrupt the final day of voting in what's been dubbed "noon against Putin".
+# sent_id = 4
+1-2	She's	_	_	_	_	_	_	_	start_char=473|end_char=478
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=473|end_char=476
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=476|end_char=478
+3	calling	call	VERB	VBG	Tense=Pres|VerbForm=Part	2	_	_	start_char=479|end_char=486
+4	on	on	ADP	IN	_	3	_	_	start_char=487|end_char=489
+5	Russians	Russian	PROPN	NNPS	Number=Plur	4	_	_	start_char=490|end_char=498
+6	to	to	PART	TO	_	5	_	_	start_char=499|end_char=501
+7	disrupt	disrupt	VERB	VB	VerbForm=Inf	6	_	_	start_char=502|end_char=509
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=510|end_char=513
+9	final	final	ADJ	JJ	Degree=Pos	8	_	_	start_char=514|end_char=519
+10	day	day	NOUN	NN	Number=Sing	9	_	_	start_char=520|end_char=523
+11	of	of	ADP	IN	_	10	_	_	start_char=524|end_char=526
+12	voting	voting	NOUN	NN	Number=Sing	11	_	_	start_char=527|end_char=533
+13	in	in	ADP	IN	_	12	_	_	start_char=534|end_char=536
+14-15	what's	_	_	_	_	_	_	_	start_char=537|end_char=543
+14	what	what	PRON	WP	PronType=Rel	13	_	_	start_char=537|end_char=541
+15	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=541|end_char=543
+16	been	be	AUX	VBN	Tense=Past|VerbForm=Part	15	_	_	start_char=544|end_char=548
+17	dubbed	dub	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	16	_	_	start_char=549|end_char=555
+18	"	"	PUNCT	``	_	17	_	_	start_char=556|end_char=557|SpaceAfter=No
+19	noon	noon	NOUN	NN	Number=Sing	18	_	_	start_char=557|end_char=561
+20	against	against	ADP	IN	_	19	_	_	start_char=562|end_char=569
+21	Putin	Putin	PROPN	NNP	Number=Sing	20	_	_	start_char=570|end_char=575|SpaceAfter=No
+22	"	"	PUNCT	''	_	21	_	_	start_char=575|end_char=576|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=576|end_char=577|SpacesAfter=\n\n
+
+# text = While some sporadic minor incidents at polling stations have been reported, there has been a major incident in the small country of Moldova which borders Ukraine.
+# sent_id = 5
+1	While	while	SCONJ	IN	_	0	_	_	start_char=579|end_char=584
+2	some	some	DET	DT	_	1	_	_	start_char=585|end_char=589
+3	sporadic	sporadic	ADJ	JJ	Degree=Pos	2	_	_	start_char=590|end_char=598
+4	minor	minor	ADJ	JJ	Degree=Pos	3	_	_	start_char=599|end_char=604
+5	incidents	incident	NOUN	NNS	Number=Plur	4	_	_	start_char=605|end_char=614
+6	at	at	ADP	IN	_	5	_	_	start_char=615|end_char=617
+7	polling	polling	NOUN	NN	Number=Sing	6	_	_	start_char=618|end_char=625
+8	stations	station	NOUN	NNS	Number=Plur	7	_	_	start_char=626|end_char=634
+9	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=635|end_char=639
+10	been	be	AUX	VBN	Tense=Past|VerbForm=Part	9	_	_	start_char=640|end_char=644
+11	reported	report	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10	_	_	start_char=645|end_char=653|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=653|end_char=654
+13	there	there	PRON	EX	_	12	_	_	start_char=655|end_char=660
+14	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=661|end_char=664
+15	been	be	VERB	VBN	Tense=Past|VerbForm=Part	14	_	_	start_char=665|end_char=669
+16	a	a	DET	DT	Definite=Ind|PronType=Art	15	_	_	start_char=670|end_char=671
+17	major	major	ADJ	JJ	Degree=Pos	16	_	_	start_char=672|end_char=677
+18	incident	incident	NOUN	NN	Number=Sing	17	_	_	start_char=678|end_char=686
+19	in	in	ADP	IN	_	18	_	_	start_char=687|end_char=689
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=690|end_char=693
+21	small	small	ADJ	JJ	Degree=Pos	20	_	_	start_char=694|end_char=699
+22	country	country	NOUN	NN	Number=Sing	21	_	_	start_char=700|end_char=707
+23	of	of	ADP	IN	_	22	_	_	start_char=708|end_char=710
+24	Moldova	Moldova	PROPN	NNP	Number=Sing	23	_	_	start_char=711|end_char=718
+25	which	which	PRON	WDT	PronType=Rel	24	_	_	start_char=719|end_char=724
+26	borders	border	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	_	_	start_char=725|end_char=732
+27	Ukraine	Ukraine	PROPN	NNP	Number=Sing	26	_	_	start_char=733|end_char=740|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=740|end_char=741
+
+# text = Moldovan police have detained a man who attacked the Russian embassy with two Molotov cocktails as voting was underway there.
+# sent_id = 6
+1	Moldovan	moldovan	ADJ	JJ	Degree=Pos	0	_	_	start_char=742|end_char=750
+2	police	police	NOUN	NNS	Number=Plur	1	_	_	start_char=751|end_char=757
+3	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=758|end_char=762
+4	detained	detain	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=763|end_char=771
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=772|end_char=773
+6	man	man	NOUN	NN	Number=Sing	5	_	_	start_char=774|end_char=777
+7	who	who	PRON	WP	PronType=Rel	6	_	_	start_char=778|end_char=781
+8	attacked	attack	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=782|end_char=790
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=791|end_char=794
+10	Russian	Russian	ADJ	JJ	Degree=Pos	9	_	_	start_char=795|end_char=802
+11	embassy	embassy	NOUN	NN	Number=Sing	10	_	_	start_char=803|end_char=810
+12	with	with	ADP	IN	_	11	_	_	start_char=811|end_char=815
+13	two	two	NUM	CD	NumForm=Word|NumType=Card	12	_	_	start_char=816|end_char=819
+14	Molotov	Molotov	PROPN	NNP	Number=Sing	13	_	_	start_char=820|end_char=827
+15	cocktails	cocktail	NOUN	NNS	Number=Plur	14	_	_	start_char=828|end_char=837
+16	as	as	SCONJ	IN	_	15	_	_	start_char=838|end_char=840
+17	voting	voting	NOUN	NN	Number=Sing	16	_	_	start_char=841|end_char=847
+18	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	_	_	start_char=848|end_char=851
+19	underway	underway	ADJ	JJ	Degree=Pos	18	_	_	start_char=852|end_char=860
+20	there	there	ADV	RB	PronType=Dem	19	_	_	start_char=861|end_char=866|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=866|end_char=867|SpacesAfter=\n\n
+
+# text = "A man threw two containers of flammable substances over the fence of the Russian Embassy in Chisinau," police said in a statement.
+# sent_id = 7
+1	"	"	PUNCT	``	_	0	_	_	start_char=869|end_char=870|SpaceAfter=No
+2	A	a	DET	DT	Definite=Ind|PronType=Art	1	_	_	start_char=870|end_char=871
+3	man	man	NOUN	NN	Number=Sing	2	_	_	start_char=872|end_char=875
+4	threw	throw	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=876|end_char=881
+5	two	two	NUM	CD	NumForm=Word|NumType=Card	4	_	_	start_char=882|end_char=885
+6	containers	container	NOUN	NNS	Number=Plur	5	_	_	start_char=886|end_char=896
+7	of	of	ADP	IN	_	6	_	_	start_char=897|end_char=899
+8	flammable	flammable	ADJ	JJ	Degree=Pos	7	_	_	start_char=900|end_char=909
+9	substances	substance	NOUN	NNS	Number=Plur	8	_	_	start_char=910|end_char=920
+10	over	over	ADP	IN	_	9	_	_	start_char=921|end_char=925
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=926|end_char=929
+12	fence	fence	NOUN	NN	Number=Sing	11	_	_	start_char=930|end_char=935
+13	of	of	ADP	IN	_	12	_	_	start_char=936|end_char=938
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=939|end_char=942
+15	Russian	Russian	ADJ	JJ	Degree=Pos	14	_	_	start_char=943|end_char=950
+16	Embassy	embassy	PROPN	NNP	Number=Sing	15	_	_	start_char=951|end_char=958
+17	in	in	ADP	IN	_	16	_	_	start_char=959|end_char=961
+18	Chisinau	Chisinau	PROPN	NNP	Number=Sing	17	_	_	start_char=962|end_char=970|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=970|end_char=971|SpaceAfter=No
+20	"	"	PUNCT	''	_	19	_	_	start_char=971|end_char=972
+21	police	police	NOUN	NNS	Number=Plur	20	_	_	start_char=973|end_char=979
+22	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	_	_	start_char=980|end_char=984
+23	in	in	ADP	IN	_	22	_	_	start_char=985|end_char=987
+24	a	a	DET	DT	Definite=Ind|PronType=Art	23	_	_	start_char=988|end_char=989
+25	statement	statement	NOUN	NN	Number=Sing	24	_	_	start_char=990|end_char=999|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=999|end_char=1000
+
+# text = A 54-year-old Moldovan who described himself as also having Russian citizenship was immediately detained after after hurling the Molotov cocktails.
+# sent_id = 8
+1	A	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=1001|end_char=1002
+2	54	54	NUM	CD	NumForm=Digit|NumType=Card	1	_	_	start_char=1003|end_char=1005|SpaceAfter=No
+3	-	-	PUNCT	HYPH	_	2	_	_	start_char=1005|end_char=1006|SpaceAfter=No
+4	year	year	NOUN	NN	Number=Sing	3	_	_	start_char=1006|end_char=1010|SpaceAfter=No
+5	-	-	PUNCT	HYPH	_	4	_	_	start_char=1010|end_char=1011|SpaceAfter=No
+6	old	old	ADJ	JJ	Degree=Pos	5	_	_	start_char=1011|end_char=1014
+7	Moldovan	moldovan	PROPN	NNP	Number=Sing	6	_	_	start_char=1015|end_char=1023
+8	who	who	PRON	WP	PronType=Rel	7	_	_	start_char=1024|end_char=1027
+9	described	describe	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=1028|end_char=1037
+10	himself	himself	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	9	_	_	start_char=1038|end_char=1045
+11	as	as	SCONJ	IN	_	10	_	_	start_char=1046|end_char=1048
+12	also	also	ADV	RB	_	11	_	_	start_char=1049|end_char=1053
+13	having	have	VERB	VBG	VerbForm=Ger	12	_	_	start_char=1054|end_char=1060
+14	Russian	Russian	ADJ	JJ	Degree=Pos	13	_	_	start_char=1061|end_char=1068
+15	citizenship	citizenship	NOUN	NN	Number=Sing	14	_	_	start_char=1069|end_char=1080
+16	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	_	_	start_char=1081|end_char=1084
+17	immediately	immediately	ADV	RB	_	16	_	_	start_char=1085|end_char=1096
+18	detained	detain	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	17	_	_	start_char=1097|end_char=1105
+19	after	after	SCONJ	IN	_	18	_	_	start_char=1106|end_char=1111
+20	after	after	SCONJ	IN	_	19	_	_	start_char=1112|end_char=1117
+21	hurling	hurl	VERB	VBG	VerbForm=Ger	20	_	_	start_char=1118|end_char=1125
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=1126|end_char=1129
+23	Molotov	Molotov	PROPN	NNP	Number=Sing	22	_	_	start_char=1130|end_char=1137
+24	cocktails	cocktail	NOUN	NNS	Number=Plur	23	_	_	start_char=1138|end_char=1147|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=1147|end_char=1148|SpacesAfter=\n\n
+
+# text = There were no reports of injuries or damage to the embassy, and police said an investigation is ongoing.
+# sent_id = 9
+1	There	there	PRON	EX	_	0	_	_	start_char=1150|end_char=1155
+2	were	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1156|end_char=1160
+3	no	no	DET	DT	_	2	_	_	start_char=1161|end_char=1163
+4	reports	report	NOUN	NNS	Number=Plur	3	_	_	start_char=1164|end_char=1171
+5	of	of	ADP	IN	_	4	_	_	start_char=1172|end_char=1174
+6	injuries	injury	NOUN	NNS	Number=Plur	5	_	_	start_char=1175|end_char=1183
+7	or	or	CCONJ	CC	_	6	_	_	start_char=1184|end_char=1186
+8	damage	damage	NOUN	NN	Number=Sing	7	_	_	start_char=1187|end_char=1193
+9	to	to	ADP	IN	_	8	_	_	start_char=1194|end_char=1196
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=1197|end_char=1200
+11	embassy	embassy	NOUN	NN	Number=Sing	10	_	_	start_char=1201|end_char=1208|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=1208|end_char=1209
+13	and	and	CCONJ	CC	_	12	_	_	start_char=1210|end_char=1213
+14	police	police	NOUN	NNS	Number=Plur	13	_	_	start_char=1214|end_char=1220
+15	said	say	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=1221|end_char=1225
+16	an	a	DET	DT	Definite=Ind|PronType=Art	15	_	_	start_char=1226|end_char=1228
+17	investigation	investigation	NOUN	NN	Number=Sing	16	_	_	start_char=1229|end_char=1242
+18	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=1243|end_char=1245
+19	ongoing	ongoing	ADJ	JJ	Degree=Pos	18	_	_	start_char=1246|end_char=1253|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=1253|end_char=1254
+
+# text = "He justified his action by some dissatisfaction he has with the actions of the Russian authorities," authorities said.
+# sent_id = 10
+1	"	"	PUNCT	``	_	0	_	_	start_char=1255|end_char=1256|SpaceAfter=No
+2	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	_	_	start_char=1256|end_char=1258
+3	justified	justify	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1259|end_char=1268
+4	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	_	_	start_char=1269|end_char=1272
+5	action	action	NOUN	NN	Number=Sing	4	_	_	start_char=1273|end_char=1279
+6	by	by	ADP	IN	_	5	_	_	start_char=1280|end_char=1282
+7	some	some	DET	DT	_	6	_	_	start_char=1283|end_char=1287
+8	dissatisfaction	dissatisfaction	NOUN	NN	Number=Sing	7	_	_	start_char=1288|end_char=1303
+9	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	_	_	start_char=1304|end_char=1306
+10	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=1307|end_char=1310
+11	with	with	ADP	IN	_	10	_	_	start_char=1311|end_char=1315
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=1316|end_char=1319
+13	actions	action	NOUN	NNS	Number=Plur	12	_	_	start_char=1320|end_char=1327
+14	of	of	ADP	IN	_	13	_	_	start_char=1328|end_char=1330
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=1331|end_char=1334
+16	Russian	Russian	ADJ	JJ	Degree=Pos	15	_	_	start_char=1335|end_char=1342
+17	authorities	authority	NOUN	NNS	Number=Plur	16	_	_	start_char=1343|end_char=1354|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=1354|end_char=1355|SpaceAfter=No
+19	"	"	PUNCT	''	_	18	_	_	start_char=1355|end_char=1356
+20	authorities	authority	NOUN	NNS	Number=Plur	19	_	_	start_char=1357|end_char=1368
+21	said	say	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	20	_	_	start_char=1369|end_char=1373|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=1373|end_char=1374|SpacesAfter=\n\n
+
+# text = Moldova has been scene of controversy and friction especially after Russia allowed the opening of several polling stations in breakaway Transnistria, which the Moldovan government has fiercely protested.
+# sent_id = 11
+1	Moldova	Moldova	PROPN	NNP	Number=Sing	0	_	_	start_char=1376|end_char=1383
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1384|end_char=1387
+3	been	be	AUX	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=1388|end_char=1392
+4	scene	scene	NOUN	NN	Number=Sing	3	_	_	start_char=1393|end_char=1398
+5	of	of	ADP	IN	_	4	_	_	start_char=1399|end_char=1401
+6	controversy	controversy	NOUN	NN	Number=Sing	5	_	_	start_char=1402|end_char=1413
+7	and	and	CCONJ	CC	_	6	_	_	start_char=1414|end_char=1417
+8	friction	friction	NOUN	NN	Number=Sing	7	_	_	start_char=1418|end_char=1426
+9	especially	especially	ADV	RB	_	8	_	_	start_char=1427|end_char=1437
+10	after	after	SCONJ	IN	_	9	_	_	start_char=1438|end_char=1443
+11	Russia	Russia	PROPN	NNP	Number=Sing	10	_	_	start_char=1444|end_char=1450
+12	allowed	allow	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=1451|end_char=1458
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1459|end_char=1462
+14	opening	opening	NOUN	NN	Number=Sing	13	_	_	start_char=1463|end_char=1470
+15	of	of	ADP	IN	_	14	_	_	start_char=1471|end_char=1473
+16	several	several	ADJ	JJ	Degree=Pos	15	_	_	start_char=1474|end_char=1481
+17	polling	polling	NOUN	NN	Number=Sing	16	_	_	start_char=1482|end_char=1489
+18	stations	station	NOUN	NNS	Number=Plur	17	_	_	start_char=1490|end_char=1498
+19	in	in	ADP	IN	_	18	_	_	start_char=1499|end_char=1501
+20	breakaway	breakaway	NOUN	NN	Number=Sing	19	_	_	start_char=1502|end_char=1511
+21	Transnistria	Transnistria	PROPN	NNP	Number=Sing	20	_	_	start_char=1512|end_char=1524|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=1524|end_char=1525
+23	which	which	PRON	WDT	PronType=Rel	22	_	_	start_char=1526|end_char=1531
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=1532|end_char=1535
+25	Moldovan	moldovan	ADJ	JJ	Degree=Pos	24	_	_	start_char=1536|end_char=1544
+26	government	government	NOUN	NN	Number=Sing	25	_	_	start_char=1545|end_char=1555
+27	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	_	_	start_char=1556|end_char=1559
+28	fiercely	fiercely	ADV	RB	_	27	_	_	start_char=1560|end_char=1568
+29	protested	protest	VERB	VBN	Tense=Past|VerbForm=Part	28	_	_	start_char=1569|end_char=1578|SpaceAfter=No
+30	.	.	PUNCT	.	_	29	_	_	start_char=1578|end_char=1579|SpacesAfter=\n\n
+
+# text = Reuters noted days ago that "A senior official in ex-Soviet Moldova said on Wednesday Moscow was breaking laws by printing ballot papers in the separatist region of Transnistria ahead of this week's Russian presidential election."
+# sent_id = 12
+1	Reuters	Reuters	PROPN	NNP	Number=Sing	0	_	_	start_char=1581|end_char=1588
+2	noted	note	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1589|end_char=1594
+3	days	day	NOUN	NNS	Number=Plur	2	_	_	start_char=1595|end_char=1599
+4	ago	ago	ADV	RB	_	3	_	_	start_char=1600|end_char=1603
+5	that	that	SCONJ	IN	_	4	_	_	start_char=1604|end_char=1608
+6	"	"	PUNCT	``	_	5	_	_	start_char=1609|end_char=1610|SpaceAfter=No
+7	A	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=1610|end_char=1611
+8	senior	senior	ADJ	JJ	Degree=Pos	7	_	_	start_char=1612|end_char=1618
+9	official	official	NOUN	NN	Number=Sing	8	_	_	start_char=1619|end_char=1627
+10	in	in	ADP	IN	_	9	_	_	start_char=1628|end_char=1630
+11	ex-Soviet	ex-soviet	ADJ	JJ	Degree=Pos	10	_	_	start_char=1631|end_char=1640
+12	Moldova	Moldova	PROPN	NNP	Number=Sing	11	_	_	start_char=1641|end_char=1648
+13	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=1649|end_char=1653
+14	on	on	ADP	IN	_	13	_	_	start_char=1654|end_char=1656
+15	Wednesday	Wednesday	PROPN	NNP	Number=Sing	14	_	_	start_char=1657|end_char=1666
+16	Moscow	Moscow	PROPN	NNP	Number=Sing	15	_	_	start_char=1667|end_char=1673
+17	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	_	_	start_char=1674|end_char=1677
+18	breaking	break	VERB	VBG	Tense=Pres|VerbForm=Part	17	_	_	start_char=1678|end_char=1686
+19	laws	law	NOUN	NNS	Number=Plur	18	_	_	start_char=1687|end_char=1691
+20	by	by	SCONJ	IN	_	19	_	_	start_char=1692|end_char=1694
+21	printing	printing	VERB	VBG	VerbForm=Ger	20	_	_	start_char=1695|end_char=1703
+22	ballot	ballot	NOUN	NN	Number=Sing	21	_	_	start_char=1704|end_char=1710
+23	papers	paper	NOUN	NNS	Number=Plur	22	_	_	start_char=1711|end_char=1717
+24	in	in	ADP	IN	_	23	_	_	start_char=1718|end_char=1720
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=1721|end_char=1724
+26	separatist	separatist	ADJ	JJ	Degree=Pos	25	_	_	start_char=1725|end_char=1735
+27	region	region	NOUN	NN	Number=Sing	26	_	_	start_char=1736|end_char=1742
+28	of	of	ADP	IN	_	27	_	_	start_char=1743|end_char=1745
+29	Transnistria	Transnistria	PROPN	NNP	Number=Sing	28	_	_	start_char=1746|end_char=1758
+30	ahead	ahead	ADV	RB	_	29	_	_	start_char=1759|end_char=1764
+31	of	of	ADP	IN	_	30	_	_	start_char=1765|end_char=1767
+32	this	this	DET	DT	Number=Sing|PronType=Dem	31	_	_	start_char=1768|end_char=1772
+33-34	week's	_	_	_	_	_	_	_	start_char=1773|end_char=1779
+33	week	week	NOUN	NN	Number=Sing	32	_	_	start_char=1773|end_char=1777
+34	's	's	PART	POS	_	33	_	_	start_char=1777|end_char=1779
+35	Russian	Russian	ADJ	JJ	Degree=Pos	34	_	_	start_char=1780|end_char=1787
+36	presidential	presidential	ADJ	JJ	Degree=Pos	35	_	_	start_char=1788|end_char=1800
+37	election	election	NOUN	NN	Number=Sing	36	_	_	start_char=1801|end_char=1809|SpaceAfter=No
+38	.	.	PUNCT	.	_	37	_	_	start_char=1809|end_char=1810|SpaceAfter=No
+39	"	"	PUNCT	''	_	38	_	_	start_char=1810|end_char=1811|SpacesAfter=\n\n
+
+# text = "Moldova's pro-European authorities have already summoned the Russian ambassador to complain about a decision to open six polling stations in the pro-Russian enclave," the report continued.
+# sent_id = 13
+1	"	"	PUNCT	``	_	0	_	_	start_char=1813|end_char=1814|SpaceAfter=No
+2-3	Moldova's	_	_	_	_	_	_	_	start_char=1814|end_char=1823
+2	Moldova	Moldova	PROPN	NNP	Number=Sing	1	_	_	start_char=1814|end_char=1821
+3	's	's	PART	POS	_	2	_	_	start_char=1821|end_char=1823
+4	pro-European	pro-European	ADJ	JJ	Degree=Pos	3	_	_	start_char=1824|end_char=1836
+5	authorities	authority	NOUN	NNS	Number=Plur	4	_	_	start_char=1837|end_char=1848
+6	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1849|end_char=1853
+7	already	already	ADV	RB	_	6	_	_	start_char=1854|end_char=1861
+8	summoned	summon	VERB	VBN	Tense=Past|VerbForm=Part	7	_	_	start_char=1862|end_char=1870
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1871|end_char=1874
+10	Russian	Russian	ADJ	JJ	Degree=Pos	9	_	_	start_char=1875|end_char=1882
+11	ambassador	ambassador	NOUN	NN	Number=Sing	10	_	_	start_char=1883|end_char=1893
+12	to	to	PART	TO	_	11	_	_	start_char=1894|end_char=1896
+13	complain	complain	VERB	VB	VerbForm=Inf	12	_	_	start_char=1897|end_char=1905
+14	about	about	ADP	IN	_	13	_	_	start_char=1906|end_char=1911
+15	a	a	DET	DT	Definite=Ind|PronType=Art	14	_	_	start_char=1912|end_char=1913
+16	decision	decision	NOUN	NN	Number=Sing	15	_	_	start_char=1914|end_char=1922
+17	to	to	PART	TO	_	16	_	_	start_char=1923|end_char=1925
+18	open	open	VERB	VB	VerbForm=Inf	17	_	_	start_char=1926|end_char=1930
+19	six	six	NUM	CD	NumForm=Word|NumType=Card	18	_	_	start_char=1931|end_char=1934
+20	polling	polling	NOUN	NN	Number=Sing	19	_	_	start_char=1935|end_char=1942
+21	stations	station	NOUN	NNS	Number=Plur	20	_	_	start_char=1943|end_char=1951
+22	in	in	ADP	IN	_	21	_	_	start_char=1952|end_char=1954
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=1955|end_char=1958
+24	pro-Russian	pro-Russian	ADJ	JJ	Degree=Pos	23	_	_	start_char=1959|end_char=1970
+25	enclave	enclave	NOUN	NN	Number=Sing	24	_	_	start_char=1971|end_char=1978|SpaceAfter=No
+26	,	,	PUNCT	,	_	25	_	_	start_char=1978|end_char=1979|SpaceAfter=No
+27	"	"	PUNCT	''	_	26	_	_	start_char=1979|end_char=1980
+28	the	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=1981|end_char=1984
+29	report	report	NOUN	NN	Number=Sing	28	_	_	start_char=1985|end_char=1991
+30	continued	continue	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	29	_	_	start_char=1992|end_char=2001|SpaceAfter=No
+31	.	.	PUNCT	.	_	30	_	_	start_char=2001|end_char=2002
+
+# text = "The central government said the move broke an agreement to allow voting only at a single polling station at the Russian embassy in Chisinau."
+# sent_id = 14
+1	"	"	PUNCT	``	_	0	_	_	start_char=2003|end_char=2004|SpaceAfter=No
+2	The	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=2004|end_char=2007
+3	central	central	ADJ	JJ	Degree=Pos	2	_	_	start_char=2008|end_char=2015
+4	government	government	NOUN	NN	Number=Sing	3	_	_	start_char=2016|end_char=2026
+5	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=2027|end_char=2031
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=2032|end_char=2035
+7	move	move	NOUN	NN	Number=Sing	6	_	_	start_char=2036|end_char=2040
+8	broke	break	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=2041|end_char=2046
+9	an	a	DET	DT	Definite=Ind|PronType=Art	8	_	_	start_char=2047|end_char=2049
+10	agreement	agreement	NOUN	NN	Number=Sing	9	_	_	start_char=2050|end_char=2059
+11	to	to	PART	TO	_	10	_	_	start_char=2060|end_char=2062
+12	allow	allow	VERB	VB	VerbForm=Inf	11	_	_	start_char=2063|end_char=2068
+13	voting	voting	NOUN	NN	Number=Sing	12	_	_	start_char=2069|end_char=2075
+14	only	only	ADV	RB	_	13	_	_	start_char=2076|end_char=2080
+15	at	at	ADP	IN	_	14	_	_	start_char=2081|end_char=2083
+16	a	a	DET	DT	Definite=Ind|PronType=Art	15	_	_	start_char=2084|end_char=2085
+17	single	single	ADJ	JJ	Degree=Pos	16	_	_	start_char=2086|end_char=2092
+18	polling	polling	NOUN	NN	Number=Sing	17	_	_	start_char=2093|end_char=2100
+19	station	station	NOUN	NN	Number=Sing	18	_	_	start_char=2101|end_char=2108
+20	at	at	ADP	IN	_	19	_	_	start_char=2109|end_char=2111
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=2112|end_char=2115
+22	Russian	Russian	ADJ	JJ	Degree=Pos	21	_	_	start_char=2116|end_char=2123
+23	embassy	embassy	NOUN	NN	Number=Sing	22	_	_	start_char=2124|end_char=2131
+24	in	in	ADP	IN	_	23	_	_	start_char=2132|end_char=2134
+25	Chisinau	Chisinau	PROPN	NNP	Number=Sing	24	_	_	start_char=2135|end_char=2143|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=2143|end_char=2144|SpaceAfter=No
+27	"	"	PUNCT	''	_	26	_	_	start_char=2144|end_char=2145|SpacesAfter=\n\n
+
+# text = The United States recently become more vocal in defending Moldova's territorial integrity, and has condemned what the Biden administration has called Moscow's 'interference' in the Eastern European nation's sovereignty.
+# sent_id = 15
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2147|end_char=2150
+2	United	United	ADJ	NNP	Degree=Pos	1	_	_	start_char=2151|end_char=2157
+3	States	State	PROPN	NNPS	Number=Plur	2	_	_	start_char=2158|end_char=2164
+4	recently	recently	ADV	RB	_	3	_	_	start_char=2165|end_char=2173
+5	become	become	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=2174|end_char=2180
+6	more	more	ADV	RBR	Degree=Cmp	5	_	_	start_char=2181|end_char=2185
+7	vocal	vocal	ADJ	JJ	Degree=Pos	6	_	_	start_char=2186|end_char=2191
+8	in	in	SCONJ	IN	_	7	_	_	start_char=2192|end_char=2194
+9	defending	defend	VERB	VBG	VerbForm=Ger	8	_	_	start_char=2195|end_char=2204
+10-11	Moldova's	_	_	_	_	_	_	_	start_char=2205|end_char=2214
+10	Moldova	Moldova	PROPN	NNP	Number=Sing	9	_	_	start_char=2205|end_char=2212
+11	's	's	PART	POS	_	10	_	_	start_char=2212|end_char=2214
+12	territorial	territorial	ADJ	JJ	Degree=Pos	11	_	_	start_char=2215|end_char=2226
+13	integrity	integrity	NOUN	NN	Number=Sing	12	_	_	start_char=2227|end_char=2236|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=2236|end_char=2237
+15	and	and	CCONJ	CC	_	14	_	_	start_char=2238|end_char=2241
+16	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=2242|end_char=2245
+17	condemned	condemn	VERB	VBN	Tense=Past|VerbForm=Part	16	_	_	start_char=2246|end_char=2255
+18	what	what	PRON	WP	PronType=Rel	17	_	_	start_char=2256|end_char=2260
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=2261|end_char=2264
+20	Biden	Biden	PROPN	NNP	Number=Sing	19	_	_	start_char=2265|end_char=2270
+21	administration	administration	NOUN	NN	Number=Sing	20	_	_	start_char=2271|end_char=2285
+22	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	_	_	start_char=2286|end_char=2289
+23	called	call	VERB	VBN	Tense=Past|VerbForm=Part	22	_	_	start_char=2290|end_char=2296
+24-25	Moscow's	_	_	_	_	_	_	_	start_char=2297|end_char=2305
+24	Moscow	Moscow	PROPN	NNP	Number=Sing	23	_	_	start_char=2297|end_char=2303
+25	's	's	PART	POS	_	24	_	_	start_char=2303|end_char=2305
+26	'	'	PUNCT	``	_	25	_	_	start_char=2306|end_char=2307|SpaceAfter=No
+27	interference	interference	NOUN	NN	Number=Sing	26	_	_	start_char=2307|end_char=2319|SpaceAfter=No
+28	'	'	PUNCT	''	_	27	_	_	start_char=2319|end_char=2320
+29	in	in	ADP	IN	_	28	_	_	start_char=2321|end_char=2323
+30	the	the	DET	DT	Definite=Def|PronType=Art	29	_	_	start_char=2324|end_char=2327
+31	Eastern	Eastern	ADJ	JJ	Degree=Pos	30	_	_	start_char=2328|end_char=2335
+32	European	European	ADJ	JJ	Degree=Pos	31	_	_	start_char=2336|end_char=2344
+33-34	nation's	_	_	_	_	_	_	_	start_char=2345|end_char=2353
+33	nation	nation	NOUN	NN	Number=Sing	32	_	_	start_char=2345|end_char=2351
+34	's	's	PART	POS	_	33	_	_	start_char=2351|end_char=2353
+35	sovereignty	sovereignty	NOUN	NN	Number=Sing	34	_	_	start_char=2354|end_char=2365|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=2365|end_char=2366|SpacesAfter=\n\n
+
+# text = Last summer, Moldova expelled 45 Russian diplomats and embassy staff members from the country "over numerous unfriendly actions" as tensions reached near breaking point over the war in neighboring Ukraine and the Transnistria issue.
+# sent_id = 16
+1	Last	last	ADJ	JJ	Degree=Pos	0	_	_	start_char=2368|end_char=2372
+2	summer	summer	NOUN	NN	Number=Sing	1	_	_	start_char=2373|end_char=2379|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=2379|end_char=2380
+4	Moldova	Moldova	PROPN	NNP	Number=Sing	3	_	_	start_char=2381|end_char=2388
+5	expelled	expel	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=2389|end_char=2397
+6	45	45	NUM	CD	NumForm=Digit|NumType=Card	5	_	_	start_char=2398|end_char=2400
+7	Russian	Russian	ADJ	JJ	Degree=Pos	6	_	_	start_char=2401|end_char=2408
+8	diplomats	diplomat	NOUN	NNS	Number=Plur	7	_	_	start_char=2409|end_char=2418
+9	and	and	CCONJ	CC	_	8	_	_	start_char=2419|end_char=2422
+10	embassy	embassy	NOUN	NN	Number=Sing	9	_	_	start_char=2423|end_char=2430
+11	staff	staff	NOUN	NN	Number=Sing	10	_	_	start_char=2431|end_char=2436
+12	members	member	NOUN	NNS	Number=Plur	11	_	_	start_char=2437|end_char=2444
+13	from	from	ADP	IN	_	12	_	_	start_char=2445|end_char=2449
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=2450|end_char=2453
+15	country	country	NOUN	NN	Number=Sing	14	_	_	start_char=2454|end_char=2461
+16	"	"	PUNCT	``	_	15	_	_	start_char=2462|end_char=2463|SpaceAfter=No
+17	over	over	ADP	IN	_	16	_	_	start_char=2463|end_char=2467
+18	numerous	numerous	ADJ	JJ	Degree=Pos	17	_	_	start_char=2468|end_char=2476
+19	unfriendly	unfriendly	ADJ	JJ	Degree=Pos	18	_	_	start_char=2477|end_char=2487
+20	actions	action	NOUN	NNS	Number=Plur	19	_	_	start_char=2488|end_char=2495|SpaceAfter=No
+21	"	"	PUNCT	''	_	20	_	_	start_char=2495|end_char=2496
+22	as	as	SCONJ	IN	_	21	_	_	start_char=2497|end_char=2499
+23	tensions	tension	NOUN	NNS	Number=Plur	22	_	_	start_char=2500|end_char=2508
+24	reached	reach	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	23	_	_	start_char=2509|end_char=2516
+25	near	near	ADP	IN	_	24	_	_	start_char=2517|end_char=2521
+26	breaking	breaking	NOUN	NN	Number=Sing	25	_	_	start_char=2522|end_char=2530
+27	point	point	NOUN	NN	Number=Sing	26	_	_	start_char=2531|end_char=2536
+28	over	over	ADP	IN	_	27	_	_	start_char=2537|end_char=2541
+29	the	the	DET	DT	Definite=Def|PronType=Art	28	_	_	start_char=2542|end_char=2545
+30	war	war	NOUN	NN	Number=Sing	29	_	_	start_char=2546|end_char=2549
+31	in	in	ADP	IN	_	30	_	_	start_char=2550|end_char=2552
+32	neighboring	neighbor	VERB	VBG	VerbForm=Ger	31	_	_	start_char=2553|end_char=2564
+33	Ukraine	Ukraine	PROPN	NNP	Number=Sing	32	_	_	start_char=2565|end_char=2572
+34	and	and	CCONJ	CC	_	33	_	_	start_char=2573|end_char=2576
+35	the	the	DET	DT	Definite=Def|PronType=Art	34	_	_	start_char=2577|end_char=2580
+36	Transnistria	Transnistria	PROPN	NNP	Number=Sing	35	_	_	start_char=2581|end_char=2593
+37	issue	issue	NOUN	NN	Number=Sing	36	_	_	start_char=2594|end_char=2599|SpaceAfter=No
+38	.	.	PUNCT	.	_	37	_	_	start_char=2599|end_char=2600
+
+# text = As for Russia's election, Kremlin authorities have said Ukraine is engaged in cross-border attacks on polling stations and in annexed regions of Ukraine.
+# sent_id = 17
+1	As	as	ADP	IN	_	0	_	_	start_char=2601|end_char=2603
+2	for	for	ADP	IN	_	1	_	_	start_char=2604|end_char=2607
+3-4	Russia's	_	_	_	_	_	_	_	start_char=2608|end_char=2616
+3	Russia	Russia	PROPN	NNP	Number=Sing	2	_	_	start_char=2608|end_char=2614
+4	's	's	PART	POS	_	3	_	_	start_char=2614|end_char=2616
+5	election	election	NOUN	NN	Number=Sing	4	_	_	start_char=2617|end_char=2625|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=2625|end_char=2626
+7	Kremlin	Kremlin	ADJ	JJ	Degree=Pos	6	_	_	start_char=2627|end_char=2634
+8	authorities	authority	NOUN	NNS	Number=Plur	7	_	_	start_char=2635|end_char=2646
+9	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=2647|end_char=2651
+10	said	say	VERB	VBN	Tense=Past|VerbForm=Part	9	_	_	start_char=2652|end_char=2656
+11	Ukraine	Ukraine	PROPN	NNP	Number=Sing	10	_	_	start_char=2657|end_char=2664
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=2665|end_char=2667
+13	engaged	engage	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	12	_	_	start_char=2668|end_char=2675
+14	in	in	ADP	IN	_	13	_	_	start_char=2676|end_char=2678
+15	cross-border	cross-border	ADJ	JJ	Degree=Pos	14	_	_	start_char=2679|end_char=2691
+16	attacks	attack	NOUN	NNS	Number=Plur	15	_	_	start_char=2692|end_char=2699
+17	on	on	ADP	IN	_	16	_	_	start_char=2700|end_char=2702
+18	polling	polling	NOUN	NN	Number=Sing	17	_	_	start_char=2703|end_char=2710
+19	stations	station	NOUN	NNS	Number=Plur	18	_	_	start_char=2711|end_char=2719
+20	and	and	CCONJ	CC	_	19	_	_	start_char=2720|end_char=2723
+21	in	in	ADP	IN	_	20	_	_	start_char=2724|end_char=2726
+22	annexed	annex	VERB	VBN	Tense=Past|VerbForm=Part	21	_	_	start_char=2727|end_char=2734
+23	regions	region	NOUN	NNS	Number=Plur	22	_	_	start_char=2735|end_char=2742
+24	of	of	ADP	IN	_	23	_	_	start_char=2743|end_char=2745
+25	Ukraine	Ukraine	PROPN	NNP	Number=Sing	24	_	_	start_char=2746|end_char=2753|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=2753|end_char=2754|SpaceAfter=No
+

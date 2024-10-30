@@ -1,0 +1,898 @@
+# text = How Do Animals React During a Total Solar Eclipse?
+# sent_id = 0
+1	How	how	ADV	WRB	PronType=Int	0	_	_	start_char=0|end_char=3
+2	Do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=4|end_char=6
+3	Animals	animal	NOUN	NNS	Number=Plur	2	_	_	start_char=7|end_char=14
+4	React	react	VERB	VB	VerbForm=Inf	3	_	_	start_char=15|end_char=20
+5	During	during	ADP	IN	_	4	_	_	start_char=21|end_char=27
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=28|end_char=29
+7	Total	total	ADJ	JJ	Degree=Pos	6	_	_	start_char=30|end_char=35
+8	Solar	Solar	PROPN	NNP	Number=Sing	7	_	_	start_char=36|end_char=41
+9	Eclipse	Eclipse	PROPN	NNP	Number=Sing	8	_	_	start_char=42|end_char=49|SpaceAfter=No
+10	?	?	PUNCT	.	_	9	_	_	start_char=49|end_char=50|SpacesAfter=\s\n\n\s
+
+# text = When a total solar eclipse transforms day into night, will tortoises start acting romantic?
+# sent_id = 1
+1	When	when	ADV	WRB	PronType=Int	0	_	_	start_char=54|end_char=58
+2	a	a	DET	DT	Definite=Ind|PronType=Art	1	_	_	start_char=59|end_char=60
+3	total	total	ADJ	JJ	Degree=Pos	2	_	_	start_char=61|end_char=66
+4	solar	solar	ADJ	JJ	Degree=Pos	3	_	_	start_char=67|end_char=72
+5	eclipse	eclipse	NOUN	NN	Number=Sing	4	_	_	start_char=73|end_char=80
+6	transforms	transform	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=81|end_char=91
+7	day	day	NOUN	NN	Number=Sing	6	_	_	start_char=92|end_char=95
+8	into	into	ADP	IN	_	7	_	_	start_char=96|end_char=100
+9	night	night	NOUN	NN	Number=Sing	8	_	_	start_char=101|end_char=106|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=106|end_char=107
+11	will	will	AUX	MD	VerbForm=Fin	10	_	_	start_char=108|end_char=112
+12	tortoises	tortoise	NOUN	NNS	Number=Plur	11	_	_	start_char=113|end_char=122
+13	start	start	VERB	VB	VerbForm=Inf	12	_	_	start_char=123|end_char=128
+14	acting	act	VERB	VBG	VerbForm=Ger	13	_	_	start_char=129|end_char=135
+15	romantic	romantic	ADJ	JJ	Degree=Pos	14	_	_	start_char=136|end_char=144|SpaceAfter=No
+16	?	?	PUNCT	.	_	15	_	_	start_char=144|end_char=145
+
+# text = Will giraffes gallop?
+# sent_id = 2
+1	Will	will	AUX	MD	VerbForm=Fin	0	_	_	start_char=146|end_char=150
+2	giraffes	giraffe	NOUN	NNS	Number=Plur	1	_	_	start_char=151|end_char=159
+3	gallop	gallop	VERB	VB	VerbForm=Inf	2	_	_	start_char=160|end_char=166|SpaceAfter=No
+4	?	?	PUNCT	.	_	3	_	_	start_char=166|end_char=167
+
+# text = Will apes sing odd notes?
+# sent_id = 3
+1	Will	will	AUX	MD	VerbForm=Fin	0	_	_	start_char=168|end_char=172
+2	apes	ape	NOUN	NNS	Number=Plur	1	_	_	start_char=173|end_char=177
+3	sing	sing	VERB	VB	VerbForm=Inf	2	_	_	start_char=178|end_char=182
+4	odd	odd	ADJ	JJ	Degree=Pos	3	_	_	start_char=183|end_char=186
+5	notes	note	NOUN	NNS	Number=Plur	4	_	_	start_char=187|end_char=192|SpaceAfter=No
+6	?	?	PUNCT	.	_	5	_	_	start_char=192|end_char=193|SpacesAfter=\n\n
+
+# text = Researchers will be standing by to observe how animals’ routines at the Fort Worth Zoo in Texas are disrupted when skies dim on April 8, The Associated Press reported.
+# sent_id = 4
+1	Researchers	researcher	NOUN	NNS	Number=Plur	0	_	_	start_char=195|end_char=206
+2	will	will	AUX	MD	VerbForm=Fin	1	_	_	start_char=207|end_char=211
+3	be	be	AUX	VB	VerbForm=Inf	2	_	_	start_char=212|end_char=214
+4	standing	stand	VERB	VBG	Tense=Pres|VerbForm=Part	3	_	_	start_char=215|end_char=223
+5	by	by	ADV	RB	_	4	_	_	start_char=224|end_char=226
+6	to	to	PART	TO	_	5	_	_	start_char=227|end_char=229
+7	observe	observe	VERB	VB	VerbForm=Inf	6	_	_	start_char=230|end_char=237
+8	how	how	ADV	WRB	PronType=Int	7	_	_	start_char=238|end_char=241
+9-10	animals’	_	_	_	_	_	_	_	start_char=242|end_char=250
+9	animals	animal	NOUN	NNS	Number=Plur	8	_	_	start_char=242|end_char=249
+10	’	's	PART	POS	_	9	_	_	start_char=249|end_char=250
+11	routines	routine	NOUN	NNS	Number=Plur	10	_	_	start_char=251|end_char=259
+12	at	at	ADP	IN	_	11	_	_	start_char=260|end_char=262
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=263|end_char=266
+14	Fort	Fort	PROPN	NNP	Number=Sing	13	_	_	start_char=267|end_char=271
+15	Worth	Worth	PROPN	NNP	Number=Sing	14	_	_	start_char=272|end_char=277
+16	Zoo	Zoo	PROPN	NNP	Number=Sing	15	_	_	start_char=278|end_char=281
+17	in	in	ADP	IN	_	16	_	_	start_char=282|end_char=284
+18	Texas	Texas	PROPN	NNP	Number=Sing	17	_	_	start_char=285|end_char=290
+19	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=291|end_char=294
+20	disrupted	disrupt	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	19	_	_	start_char=295|end_char=304
+21	when	when	ADV	WRB	PronType=Int	20	_	_	start_char=305|end_char=309
+22	skies	sky	NOUN	NNS	Number=Plur	21	_	_	start_char=310|end_char=315
+23	dim	dim	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	_	_	start_char=316|end_char=319
+24	on	on	ADP	IN	_	23	_	_	start_char=320|end_char=322
+25	April	April	PROPN	NNP	Number=Sing	24	_	_	start_char=323|end_char=328
+26	8	8	NUM	CD	NumForm=Digit|NumType=Card	25	_	_	start_char=329|end_char=330|SpaceAfter=No
+27	,	,	PUNCT	,	_	26	_	_	start_char=330|end_char=331
+28	The	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=332|end_char=335
+29	Associated	Associated	ADJ	NNP	Degree=Pos	28	_	_	start_char=336|end_char=346
+30	Press	Press	PROPN	NNP	Number=Sing	29	_	_	start_char=347|end_char=352
+31	reported	report	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	30	_	_	start_char=353|end_char=361|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=361|end_char=362
+
+# text = They previously detected other strange animal behaviors in 2017 at a South Carolina zoo that was in the path of total darkness.
+# sent_id = 5
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=363|end_char=367
+2	previously	previously	ADV	RB	_	1	_	_	start_char=368|end_char=378
+3	detected	detect	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=379|end_char=387
+4	other	other	ADJ	JJ	Degree=Pos	3	_	_	start_char=388|end_char=393
+5	strange	strange	ADJ	JJ	Degree=Pos	4	_	_	start_char=394|end_char=401
+6	animal	animal	NOUN	NN	Number=Sing	5	_	_	start_char=402|end_char=408
+7	behaviors	behavior	NOUN	NNS	Number=Plur	6	_	_	start_char=409|end_char=418
+8	in	in	ADP	IN	_	7	_	_	start_char=419|end_char=421
+9	2017	2017	NUM	CD	NumForm=Digit|NumType=Card	8	_	_	start_char=422|end_char=426
+10	at	at	ADP	IN	_	9	_	_	start_char=427|end_char=429
+11	a	a	DET	DT	Definite=Ind|PronType=Art	10	_	_	start_char=430|end_char=431
+12	South	South	PROPN	NNP	Number=Sing	11	_	_	start_char=432|end_char=437
+13	Carolina	Carolina	PROPN	NNP	Number=Sing	12	_	_	start_char=438|end_char=446
+14	zoo	zoo	NOUN	NN	Number=Sing	13	_	_	start_char=447|end_char=450
+15	that	that	PRON	WDT	PronType=Rel	14	_	_	start_char=451|end_char=455
+16	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	_	_	start_char=456|end_char=459
+17	in	in	ADP	IN	_	16	_	_	start_char=460|end_char=462
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=463|end_char=466
+19	path	path	NOUN	NN	Number=Sing	18	_	_	start_char=467|end_char=471
+20	of	of	ADP	IN	_	19	_	_	start_char=472|end_char=474
+21	total	total	ADJ	JJ	Degree=Pos	20	_	_	start_char=475|end_char=480
+22	darkness	darkness	NOUN	NN	Number=Sing	21	_	_	start_char=481|end_char=489|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=489|end_char=490|SpacesAfter=\n\n
+
+# text = “To our astonishment, most of the animals did surprising things,” said Adam Hartstone-Rose, a North Carolina State University researcher who led the observations published in the journal Animals.
+# sent_id = 6
+1	“	''	PUNCT	``	_	0	_	_	start_char=492|end_char=493|SpaceAfter=No
+2	To	to	ADP	IN	_	1	_	_	start_char=493|end_char=495
+3	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	_	_	start_char=496|end_char=499
+4	astonishment	astonishment	NOUN	NN	Number=Sing	3	_	_	start_char=500|end_char=512|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=512|end_char=513
+6	most	most	ADJ	JJS	Degree=Sup	5	_	_	start_char=514|end_char=518
+7	of	of	ADP	IN	_	6	_	_	start_char=519|end_char=521
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=522|end_char=525
+9	animals	animal	NOUN	NNS	Number=Plur	8	_	_	start_char=526|end_char=533
+10	did	do	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=534|end_char=537
+11	surprising	surprising	ADJ	JJ	Degree=Pos	10	_	_	start_char=538|end_char=548
+12	things	thing	NOUN	NNS	Number=Plur	11	_	_	start_char=549|end_char=555|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=555|end_char=556|SpaceAfter=No
+14	”	''	PUNCT	''	_	13	_	_	start_char=556|end_char=557
+15	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=558|end_char=562
+16	Adam	Adam	PROPN	NNP	Number=Sing	15	_	_	start_char=563|end_char=567
+17	Hartstone	Hartstone	PROPN	NNP	Number=Sing	16	_	_	start_char=568|end_char=577|SpaceAfter=No
+18	-	-	PUNCT	HYPH	_	17	_	_	start_char=577|end_char=578|SpaceAfter=No
+19	Rose	Rose	PROPN	NNP	Number=Sing	18	_	_	start_char=578|end_char=582|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=582|end_char=583
+21	a	a	DET	DT	Definite=Ind|PronType=Art	20	_	_	start_char=584|end_char=585
+22	North	North	PROPN	NNP	Number=Sing	21	_	_	start_char=586|end_char=591
+23	Carolina	Carolina	PROPN	NNP	Number=Sing	22	_	_	start_char=592|end_char=600
+24	State	State	PROPN	NNP	Number=Sing	23	_	_	start_char=601|end_char=606
+25	University	University	PROPN	NNP	Number=Sing	24	_	_	start_char=607|end_char=617
+26	researcher	researcher	NOUN	NN	Number=Sing	25	_	_	start_char=618|end_char=628
+27	who	who	PRON	WP	PronType=Rel	26	_	_	start_char=629|end_char=632
+28	led	lead	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	27	_	_	start_char=633|end_char=636
+29	the	the	DET	DT	Definite=Def|PronType=Art	28	_	_	start_char=637|end_char=640
+30	observations	observation	NOUN	NNS	Number=Plur	29	_	_	start_char=641|end_char=653
+31	published	publish	VERB	VBN	Tense=Past|VerbForm=Part	30	_	_	start_char=654|end_char=663
+32	in	in	ADP	IN	_	31	_	_	start_char=664|end_char=666
+33	the	the	DET	DT	Definite=Def|PronType=Art	32	_	_	start_char=667|end_char=670
+34	journal	journal	PROPN	NNP	Number=Sing	33	_	_	start_char=671|end_char=678
+35	Animals	animal	PROPN	NNPS	Number=Plur	34	_	_	start_char=679|end_char=686|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=686|end_char=687|SpacesAfter=\n\n
+
+# text = While there are many individual sightings of critters behaving bizarrely during historic eclipses, only in recent years have scientists started to rigorously study the altered behaviors of wild, domestic and zoo animals.
+# sent_id = 7
+1	While	while	SCONJ	IN	_	0	_	_	start_char=689|end_char=694
+2	there	there	PRON	EX	_	1	_	_	start_char=695|end_char=700
+3	are	be	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=701|end_char=704
+4	many	many	ADJ	JJ	Degree=Pos	3	_	_	start_char=705|end_char=709
+5	individual	individual	ADJ	JJ	Degree=Pos	4	_	_	start_char=710|end_char=720
+6	sightings	sighting	NOUN	NNS	Number=Plur	5	_	_	start_char=721|end_char=730
+7	of	of	ADP	IN	_	6	_	_	start_char=731|end_char=733
+8	critters	critter	NOUN	NNS	Number=Plur	7	_	_	start_char=734|end_char=742
+9	behaving	behave	VERB	VBG	VerbForm=Ger	8	_	_	start_char=743|end_char=751
+10	bizarrely	bizarrely	ADV	RB	_	9	_	_	start_char=752|end_char=761
+11	during	during	ADP	IN	_	10	_	_	start_char=762|end_char=768
+12	historic	historic	ADJ	JJ	Degree=Pos	11	_	_	start_char=769|end_char=777
+13	eclipses	eclipse	NOUN	NNS	Number=Plur	12	_	_	start_char=778|end_char=786|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=786|end_char=787
+15	only	only	ADV	RB	_	14	_	_	start_char=788|end_char=792
+16	in	in	ADP	IN	_	15	_	_	start_char=793|end_char=795
+17	recent	recent	ADJ	JJ	Degree=Pos	16	_	_	start_char=796|end_char=802
+18	years	year	NOUN	NNS	Number=Plur	17	_	_	start_char=803|end_char=808
+19	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=809|end_char=813
+20	scientists	scientist	NOUN	NNS	Number=Plur	19	_	_	start_char=814|end_char=824
+21	started	start	VERB	VBN	Tense=Past|VerbForm=Part	20	_	_	start_char=825|end_char=832
+22	to	to	PART	TO	_	21	_	_	start_char=833|end_char=835
+23	rigorously	rigorously	ADV	RB	_	22	_	_	start_char=836|end_char=846
+24	study	study	VERB	VB	VerbForm=Inf	23	_	_	start_char=847|end_char=852
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=853|end_char=856
+26	altered	alter	VERB	VBN	Tense=Past|VerbForm=Part	25	_	_	start_char=857|end_char=864
+27	behaviors	behavior	NOUN	NNS	Number=Plur	26	_	_	start_char=865|end_char=874
+28	of	of	ADP	IN	_	27	_	_	start_char=875|end_char=877
+29	wild	wild	ADJ	JJ	Degree=Pos	28	_	_	start_char=878|end_char=882|SpaceAfter=No
+30	,	,	PUNCT	,	_	29	_	_	start_char=882|end_char=883
+31	domestic	domestic	ADJ	JJ	Degree=Pos	30	_	_	start_char=884|end_char=892
+32	and	and	CCONJ	CC	_	31	_	_	start_char=893|end_char=896
+33	zoo	zoo	NOUN	NN	Number=Sing	32	_	_	start_char=897|end_char=900
+34	animals	animal	NOUN	NNS	Number=Plur	33	_	_	start_char=901|end_char=908|SpaceAfter=No
+35	.	.	PUNCT	.	_	34	_	_	start_char=908|end_char=909|SpacesAfter=\n\n
+
+# text = Seven years ago, Galapagos tortoises at the Riverbanks Zoo in Columbia, South Carolina, “that generally do absolutely nothing all day ... during the peak of the eclipse, they all started breeding,” said Hartstone-Rose.
+# sent_id = 8
+1	Seven	seven	NUM	CD	NumForm=Word|NumType=Card	0	_	_	start_char=911|end_char=916
+2	years	year	NOUN	NNS	Number=Plur	1	_	_	start_char=917|end_char=922
+3	ago	ago	ADV	RB	_	2	_	_	start_char=923|end_char=926|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=926|end_char=927
+5	Galapagos	Galapagos	PROPN	NNP	Number=Sing	4	_	_	start_char=928|end_char=937
+6	tortoises	tortoise	NOUN	NNS	Number=Plur	5	_	_	start_char=938|end_char=947
+7	at	at	ADP	IN	_	6	_	_	start_char=948|end_char=950
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=951|end_char=954
+9	Riverbanks	Riverbanks	PROPN	NNPS	Number=Plur	8	_	_	start_char=955|end_char=965
+10	Zoo	Zoo	PROPN	NNP	Number=Sing	9	_	_	start_char=966|end_char=969
+11	in	in	ADP	IN	_	10	_	_	start_char=970|end_char=972
+12	Columbia	Columbia	PROPN	NNP	Number=Sing	11	_	_	start_char=973|end_char=981|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=981|end_char=982
+14	South	South	PROPN	NNP	Number=Sing	13	_	_	start_char=983|end_char=988
+15	Carolina	Carolina	PROPN	NNP	Number=Sing	14	_	_	start_char=989|end_char=997|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=997|end_char=998
+17	“	''	PUNCT	``	_	16	_	_	start_char=999|end_char=1000|SpaceAfter=No
+18	that	that	PRON	WDT	PronType=Rel	17	_	_	start_char=1000|end_char=1004
+19	generally	generally	ADV	RB	Degree=Pos	18	_	_	start_char=1005|end_char=1014
+20	do	do	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	_	_	start_char=1015|end_char=1017
+21	absolutely	absolutely	ADV	RB	_	20	_	_	start_char=1018|end_char=1028
+22	nothing	nothing	PRON	NN	Number=Sing|PronType=Neg	21	_	_	start_char=1029|end_char=1036
+23	all	all	DET	DT	_	22	_	_	start_char=1037|end_char=1040
+24	day	day	NOUN	NN	Number=Sing	23	_	_	start_char=1041|end_char=1044
+25	...	...	PUNCT	,	_	24	_	_	start_char=1045|end_char=1048
+26	during	during	ADP	IN	_	25	_	_	start_char=1049|end_char=1055
+27	the	the	DET	DT	Definite=Def|PronType=Art	26	_	_	start_char=1056|end_char=1059
+28	peak	peak	NOUN	NN	Number=Sing	27	_	_	start_char=1060|end_char=1064
+29	of	of	ADP	IN	_	28	_	_	start_char=1065|end_char=1067
+30	the	the	DET	DT	Definite=Def|PronType=Art	29	_	_	start_char=1068|end_char=1071
+31	eclipse	eclipse	NOUN	NN	Number=Sing	30	_	_	start_char=1072|end_char=1079|SpaceAfter=No
+32	,	,	PUNCT	,	_	31	_	_	start_char=1079|end_char=1080
+33	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	32	_	_	start_char=1081|end_char=1085
+34	all	all	DET	DT	PronType=Tot	33	_	_	start_char=1086|end_char=1089
+35	started	start	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	34	_	_	start_char=1090|end_char=1097
+36	breeding	breed	VERB	VBG	VerbForm=Ger	35	_	_	start_char=1098|end_char=1106|SpaceAfter=No
+37	,	,	PUNCT	,	_	36	_	_	start_char=1106|end_char=1107|SpaceAfter=No
+38	”	''	PUNCT	''	_	37	_	_	start_char=1107|end_char=1108
+39	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	38	_	_	start_char=1109|end_char=1113
+40	Hartstone	Hartstone	PROPN	NNP	Number=Sing	39	_	_	start_char=1114|end_char=1123|SpaceAfter=No
+41	-	-	PUNCT	HYPH	_	40	_	_	start_char=1123|end_char=1124|SpaceAfter=No
+42	Rose	Rose	PROPN	NNP	Number=Sing	41	_	_	start_char=1124|end_char=1128|SpaceAfter=No
+43	.	.	PUNCT	.	_	42	_	_	start_char=1128|end_char=1129
+
+# text = The cause of the behavior is still unclear.
+# sent_id = 9
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1130|end_char=1133
+2	cause	cause	NOUN	NN	Number=Sing	1	_	_	start_char=1134|end_char=1139
+3	of	of	ADP	IN	_	2	_	_	start_char=1140|end_char=1142
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1143|end_char=1146
+5	behavior	behavior	NOUN	NN	Number=Sing	4	_	_	start_char=1147|end_char=1155
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1156|end_char=1158
+7	still	still	ADV	RB	_	6	_	_	start_char=1159|end_char=1164
+8	unclear	unclear	ADJ	JJ	Degree=Pos	7	_	_	start_char=1165|end_char=1172|SpaceAfter=No
+9	.	.	PUNCT	.	_	8	_	_	start_char=1172|end_char=1173|SpacesAfter=\n\n
+
+# text = A mated pair of Siamangs, gibbons that usually call to each other in the morning, sang unusual tunes during the afternoon eclipse.
+# sent_id = 10
+1	A	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=1175|end_char=1176
+2	mated	mate	VERB	VBN	Tense=Past|VerbForm=Part	1	_	_	start_char=1177|end_char=1182
+3	pair	pair	NOUN	NN	Number=Sing	2	_	_	start_char=1183|end_char=1187
+4	of	of	ADP	IN	_	3	_	_	start_char=1188|end_char=1190
+5	Siamangs	Siamangs	PROPN	NNPS	Number=Plur	4	_	_	start_char=1191|end_char=1199|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=1199|end_char=1200
+7	gibbons	gibbon	NOUN	NNS	Number=Plur	6	_	_	start_char=1201|end_char=1208
+8	that	that	PRON	WDT	PronType=Rel	7	_	_	start_char=1209|end_char=1213
+9	usually	usually	ADV	RB	_	8	_	_	start_char=1214|end_char=1221
+10	call	call	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=1222|end_char=1226
+11	to	to	ADP	IN	_	10	_	_	start_char=1227|end_char=1229
+12	each	each	DET	DT	ExtPos=PRON|PronType=Rcp	11	_	_	start_char=1230|end_char=1234
+13	other	other	ADJ	JJ	Degree=Pos	12	_	_	start_char=1235|end_char=1240
+14	in	in	ADP	IN	_	13	_	_	start_char=1241|end_char=1243
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=1244|end_char=1247
+16	morning	morning	NOUN	NN	Number=Sing	15	_	_	start_char=1248|end_char=1255|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=1255|end_char=1256
+18	sang	sing	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	17	_	_	start_char=1257|end_char=1261
+19	unusual	unusual	ADJ	JJ	Degree=Pos	18	_	_	start_char=1262|end_char=1269
+20	tunes	tune	NOUN	NNS	Number=Plur	19	_	_	start_char=1270|end_char=1275
+21	during	during	ADP	IN	_	20	_	_	start_char=1276|end_char=1282
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=1283|end_char=1286
+23	afternoon	afternoon	NOUN	NN	Number=Sing	22	_	_	start_char=1287|end_char=1296
+24	eclipse	eclipse	NOUN	NN	Number=Sing	23	_	_	start_char=1297|end_char=1304|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=1304|end_char=1305
+
+# text = A few male giraffes began to gallop in “apparent anxiety.”
+# sent_id = 11
+1	A	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=1306|end_char=1307
+2	few	few	ADJ	JJ	Degree=Pos	1	_	_	start_char=1308|end_char=1311
+3	male	male	ADJ	JJ	Degree=Pos	2	_	_	start_char=1312|end_char=1316
+4	giraffes	giraffe	NOUN	NNS	Number=Plur	3	_	_	start_char=1317|end_char=1325
+5	began	begin	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=1326|end_char=1331
+6	to	to	PART	TO	_	5	_	_	start_char=1332|end_char=1334
+7	gallop	gallop	VERB	VB	VerbForm=Inf	6	_	_	start_char=1335|end_char=1341
+8	in	in	ADP	IN	_	7	_	_	start_char=1342|end_char=1344
+9	“	''	PUNCT	``	_	8	_	_	start_char=1345|end_char=1346|SpaceAfter=No
+10	apparent	apparent	ADJ	JJ	Degree=Pos	9	_	_	start_char=1346|end_char=1354
+11	anxiety	anxiety	NOUN	NN	Number=Sing	10	_	_	start_char=1355|end_char=1362|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=1362|end_char=1363|SpaceAfter=No
+13	”	''	PUNCT	''	_	12	_	_	start_char=1363|end_char=1364
+
+# text = The flamingos huddled around their juveniles.
+# sent_id = 12
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1365|end_char=1368
+2	flamingos	flamingos	NOUN	NNS	Number=Plur	1	_	_	start_char=1369|end_char=1378
+3	huddled	huddle	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1379|end_char=1386
+4	around	around	ADP	IN	_	3	_	_	start_char=1387|end_char=1393
+5	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	4	_	_	start_char=1394|end_char=1399
+6	juveniles	juvenile	NOUN	NNS	Number=Plur	5	_	_	start_char=1400|end_char=1409|SpaceAfter=No
+7	.	.	PUNCT	.	_	6	_	_	start_char=1409|end_char=1410|SpacesAfter=\n\n
+
+# text = Researchers say that many animals display behaviors connected with an early dusk.
+# sent_id = 13
+1	Researchers	researcher	NOUN	NNS	Number=Plur	0	_	_	start_char=1412|end_char=1423
+2	say	say	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1424|end_char=1427
+3	that	that	SCONJ	IN	_	2	_	_	start_char=1428|end_char=1432
+4	many	many	ADJ	JJ	Degree=Pos	3	_	_	start_char=1433|end_char=1437
+5	animals	animal	NOUN	NNS	Number=Plur	4	_	_	start_char=1438|end_char=1445
+6	display	display	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1446|end_char=1453
+7	behaviors	behavior	NOUN	NNS	Number=Plur	6	_	_	start_char=1454|end_char=1463
+8	connected	connect	VERB	VBN	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=1464|end_char=1473
+9	with	with	ADP	IN	_	8	_	_	start_char=1474|end_char=1478
+10	an	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=1479|end_char=1481
+11	early	early	ADJ	JJ	Degree=Pos	10	_	_	start_char=1482|end_char=1487
+12	dusk	dusk	NOUN	NN	Number=Sing	11	_	_	start_char=1488|end_char=1492|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=1492|end_char=1493|SpacesAfter=\n\n
+
+# text = In April, Hartstone-Rose’s team plans to study similar species in Texas to see if the behaviors they witnessed before in South Carolina point to larger patterns.
+# sent_id = 14
+1	In	in	ADP	IN	_	0	_	_	start_char=1495|end_char=1497
+2	April	April	PROPN	NNP	Number=Sing	1	_	_	start_char=1498|end_char=1503|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=1503|end_char=1504
+4	Hartstone	Hartstone	PROPN	NNP	Number=Sing	3	_	_	start_char=1505|end_char=1514|SpaceAfter=No
+5	-	-	PUNCT	HYPH	_	4	_	_	start_char=1514|end_char=1515|SpaceAfter=No
+6-7	Rose’s	_	_	_	_	_	_	_	start_char=1515|end_char=1521
+6	Rose	Rose	PROPN	NNP	Number=Sing	5	_	_	start_char=1515|end_char=1519
+7	’s	's	PART	POS	_	6	_	_	start_char=1519|end_char=1521
+8	team	team	NOUN	NN	Number=Sing	7	_	_	start_char=1522|end_char=1526
+9	plans	plan	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=1527|end_char=1532
+10	to	to	PART	TO	_	9	_	_	start_char=1533|end_char=1535
+11	study	study	VERB	VB	VerbForm=Inf	10	_	_	start_char=1536|end_char=1541
+12	similar	similar	ADJ	JJ	Degree=Pos	11	_	_	start_char=1542|end_char=1549
+13	species	species	NOUN	NNS	Number=Plur	12	_	_	start_char=1550|end_char=1557
+14	in	in	ADP	IN	_	13	_	_	start_char=1558|end_char=1560
+15	Texas	Texas	PROPN	NNP	Number=Sing	14	_	_	start_char=1561|end_char=1566
+16	to	to	PART	TO	_	15	_	_	start_char=1567|end_char=1569
+17	see	see	VERB	VB	VerbForm=Inf	16	_	_	start_char=1570|end_char=1573
+18	if	if	SCONJ	IN	_	17	_	_	start_char=1574|end_char=1576
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=1577|end_char=1580
+20	behaviors	behavior	NOUN	NNS	Number=Plur	19	_	_	start_char=1581|end_char=1590
+21	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	_	_	start_char=1591|end_char=1595
+22	witnessed	witness	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	21	_	_	start_char=1596|end_char=1605
+23	before	before	ADV	RB	_	22	_	_	start_char=1606|end_char=1612
+24	in	in	ADP	IN	_	23	_	_	start_char=1613|end_char=1615
+25	South	South	PROPN	NNP	Number=Sing	24	_	_	start_char=1616|end_char=1621
+26	Carolina	Carolina	PROPN	NNP	Number=Sing	25	_	_	start_char=1622|end_char=1630
+27	point	point	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	_	_	start_char=1631|end_char=1636
+28	to	to	ADP	IN	_	27	_	_	start_char=1637|end_char=1639
+29	larger	large	ADJ	JJR	Degree=Cmp	28	_	_	start_char=1640|end_char=1646
+30	patterns	pattern	NOUN	NNS	Number=Plur	29	_	_	start_char=1647|end_char=1655|SpaceAfter=No
+31	.	.	PUNCT	.	_	30	_	_	start_char=1655|end_char=1656|SpacesAfter=\n\n
+
+# text = Several other zoos along the path are also inviting visitors to help track animals, including zoos in Little Rock, Arkansas; Toledo, Ohio; and Indianapolis.
+# sent_id = 15
+1	Several	several	ADJ	JJ	Degree=Pos	0	_	_	start_char=1658|end_char=1665
+2	other	other	ADJ	JJ	Degree=Pos	1	_	_	start_char=1666|end_char=1671
+3	zoos	zoo	NOUN	NNS	Number=Plur	2	_	_	start_char=1672|end_char=1676
+4	along	along	ADP	IN	_	3	_	_	start_char=1677|end_char=1682
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1683|end_char=1686
+6	path	path	NOUN	NN	Number=Sing	5	_	_	start_char=1687|end_char=1691
+7	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=1692|end_char=1695
+8	also	also	ADV	RB	_	7	_	_	start_char=1696|end_char=1700
+9	inviting	invite	VERB	VBG	Tense=Pres|VerbForm=Part	8	_	_	start_char=1701|end_char=1709
+10	visitors	visitor	NOUN	NNS	Number=Plur	9	_	_	start_char=1710|end_char=1718
+11	to	to	PART	TO	_	10	_	_	start_char=1719|end_char=1721
+12	help	help	VERB	VB	VerbForm=Inf	11	_	_	start_char=1722|end_char=1726
+13	track	track	VERB	VB	VerbForm=Inf	12	_	_	start_char=1727|end_char=1732
+14	animals	animal	NOUN	NNS	Number=Plur	13	_	_	start_char=1733|end_char=1740|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=1740|end_char=1741
+16	including	include	VERB	VBG	VerbForm=Ger	15	_	_	start_char=1742|end_char=1751
+17	zoos	zoo	NOUN	NNS	Number=Plur	16	_	_	start_char=1752|end_char=1756
+18	in	in	ADP	IN	_	17	_	_	start_char=1757|end_char=1759
+19	Little	Little	ADJ	NNP	Degree=Pos	18	_	_	start_char=1760|end_char=1766
+20	Rock	Rock	PROPN	NNP	Number=Sing	19	_	_	start_char=1767|end_char=1771|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=1771|end_char=1772
+22	Arkansas	Arkansas	PROPN	NNP	Number=Sing	21	_	_	start_char=1773|end_char=1781|SpaceAfter=No
+23	;	;	PUNCT	:	_	22	_	_	start_char=1781|end_char=1782
+24	Toledo	Toledo	PROPN	NNP	Number=Sing	23	_	_	start_char=1783|end_char=1789|SpaceAfter=No
+25	,	,	PUNCT	,	_	24	_	_	start_char=1789|end_char=1790
+26	Ohio	Ohio	PROPN	NNP	Number=Sing	25	_	_	start_char=1791|end_char=1795|SpaceAfter=No
+27	;	;	PUNCT	:	_	26	_	_	start_char=1795|end_char=1796
+28	and	and	CCONJ	CC	_	27	_	_	start_char=1797|end_char=1800
+29	Indianapolis	Indianapolis	PROPN	NNP	Number=Sing	28	_	_	start_char=1801|end_char=1813|SpaceAfter=No
+30	.	.	PUNCT	.	_	29	_	_	start_char=1813|end_char=1814|SpacesAfter=\n\n
+
+# text = This year’s full solar eclipse in North America crisscrosses a different route than in 2017 and occurs in a different season, giving researchers and citizen scientists opportunities to observe new habits.
+# sent_id = 16
+1	This	this	DET	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1816|end_char=1820
+2-3	year’s	_	_	_	_	_	_	_	start_char=1821|end_char=1827
+2	year	year	NOUN	NN	Number=Sing	1	_	_	start_char=1821|end_char=1825
+3	’s	's	PART	POS	_	2	_	_	start_char=1825|end_char=1827
+4	full	full	ADJ	JJ	Degree=Pos	3	_	_	start_char=1828|end_char=1832
+5	solar	solar	ADJ	JJ	Degree=Pos	4	_	_	start_char=1833|end_char=1838
+6	eclipse	eclipse	NOUN	NN	Number=Sing	5	_	_	start_char=1839|end_char=1846
+7	in	in	ADP	IN	_	6	_	_	start_char=1847|end_char=1849
+8	North	North	PROPN	NNP	Number=Sing	7	_	_	start_char=1850|end_char=1855
+9	America	America	PROPN	NNP	Number=Sing	8	_	_	start_char=1856|end_char=1863
+10	crisscrosses	crisscross	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=1864|end_char=1876
+11	a	a	DET	DT	Definite=Ind|PronType=Art	10	_	_	start_char=1877|end_char=1878
+12	different	different	ADJ	JJ	Degree=Pos	11	_	_	start_char=1879|end_char=1888
+13	route	route	NOUN	NN	Number=Sing	12	_	_	start_char=1889|end_char=1894
+14	than	than	ADP	IN	_	13	_	_	start_char=1895|end_char=1899
+15	in	in	ADP	IN	_	14	_	_	start_char=1900|end_char=1902
+16	2017	2017	NUM	CD	NumForm=Digit|NumType=Card	15	_	_	start_char=1903|end_char=1907
+17	and	and	CCONJ	CC	_	16	_	_	start_char=1908|end_char=1911
+18	occurs	occur	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=1912|end_char=1918
+19	in	in	ADP	IN	_	18	_	_	start_char=1919|end_char=1921
+20	a	a	DET	DT	Definite=Ind|PronType=Art	19	_	_	start_char=1922|end_char=1923
+21	different	different	ADJ	JJ	Degree=Pos	20	_	_	start_char=1924|end_char=1933
+22	season	season	NOUN	NN	Number=Sing	21	_	_	start_char=1934|end_char=1940|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=1940|end_char=1941
+24	giving	give	VERB	VBG	VerbForm=Ger	23	_	_	start_char=1942|end_char=1948
+25	researchers	researcher	NOUN	NNS	Number=Plur	24	_	_	start_char=1949|end_char=1960
+26	and	and	CCONJ	CC	_	25	_	_	start_char=1961|end_char=1964
+27	citizen	citizen	NOUN	NN	Number=Sing	26	_	_	start_char=1965|end_char=1972
+28	scientists	scientist	NOUN	NNS	Number=Plur	27	_	_	start_char=1973|end_char=1983
+29	opportunities	opportunity	NOUN	NNS	Number=Plur	28	_	_	start_char=1984|end_char=1997
+30	to	to	PART	TO	_	29	_	_	start_char=1998|end_char=2000
+31	observe	observe	VERB	VB	VerbForm=Inf	30	_	_	start_char=2001|end_char=2008
+32	new	new	ADJ	JJ	Degree=Pos	31	_	_	start_char=2009|end_char=2012
+33	habits	habit	NOUN	NNS	Number=Plur	32	_	_	start_char=2013|end_char=2019|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=2019|end_char=2020|SpacesAfter=\n\n
+
+# text = “It’s really high stakes.
+# sent_id = 17
+1	“	''	PUNCT	``	_	0	_	_	start_char=2022|end_char=2023|SpaceAfter=No
+2-3	It’s	_	_	_	_	_	_	_	start_char=2023|end_char=2027
+2	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	_	_	start_char=2023|end_char=2025
+3	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2025|end_char=2027
+4	really	really	ADV	RB	_	3	_	_	start_char=2028|end_char=2034
+5	high	high	ADJ	JJ	Degree=Pos	4	_	_	start_char=2035|end_char=2039
+6	stakes	stake	NOUN	NNS	Number=Plur	5	_	_	start_char=2040|end_char=2046|SpaceAfter=No
+7	.	.	PUNCT	.	_	6	_	_	start_char=2046|end_char=2047
+
+# text = We have a really short period to observe them and we can’t repeat the experiment," said Jennifer Tsuruda, a University of Tennessee entomologist who observed honeybee colonies during the 2017 eclipse.
+# sent_id = 18
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	start_char=2048|end_char=2050
+2	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2051|end_char=2055
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=2056|end_char=2057
+4	really	really	ADV	RB	Degree=Pos	3	_	_	start_char=2058|end_char=2064
+5	short	short	ADJ	JJ	Degree=Pos	4	_	_	start_char=2065|end_char=2070
+6	period	period	NOUN	NN	Number=Sing	5	_	_	start_char=2071|end_char=2077
+7	to	to	PART	TO	_	6	_	_	start_char=2078|end_char=2080
+8	observe	observe	VERB	VB	VerbForm=Inf	7	_	_	start_char=2081|end_char=2088
+9	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	8	_	_	start_char=2089|end_char=2093
+10	and	and	CCONJ	CC	_	9	_	_	start_char=2094|end_char=2097
+11	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	10	_	_	start_char=2098|end_char=2100
+12-13	can’t	_	_	_	_	_	_	_	start_char=2101|end_char=2106
+12	ca	can	AUX	MD	VerbForm=Fin	11	_	_	start_char=2101|end_char=2103
+13	n’t	not	PART	RB	_	12	_	_	start_char=2103|end_char=2106
+14	repeat	repeat	VERB	VB	VerbForm=Inf	13	_	_	start_char=2107|end_char=2113
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=2114|end_char=2117
+16	experiment	experiment	NOUN	NN	Number=Sing	15	_	_	start_char=2118|end_char=2128|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=2128|end_char=2129|SpaceAfter=No
+18	"	"	PUNCT	''	_	17	_	_	start_char=2129|end_char=2130
+19	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	_	_	start_char=2131|end_char=2135
+20	Jennifer	Jennifer	PROPN	NNP	Number=Sing	19	_	_	start_char=2136|end_char=2144
+21	Tsuruda	Tsuruda	PROPN	NNP	Number=Sing	20	_	_	start_char=2145|end_char=2152|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=2152|end_char=2153
+23	a	a	DET	DT	Definite=Ind|PronType=Art	22	_	_	start_char=2154|end_char=2155
+24	University	University	PROPN	NNP	Number=Sing	23	_	_	start_char=2156|end_char=2166
+25	of	of	ADP	IN	_	24	_	_	start_char=2167|end_char=2169
+26	Tennessee	Tennessee	PROPN	NNP	Number=Sing	25	_	_	start_char=2170|end_char=2179
+27	entomologist	entomologist	NOUN	NN	Number=Sing	26	_	_	start_char=2180|end_char=2192
+28	who	who	PRON	WP	PronType=Rel	27	_	_	start_char=2193|end_char=2196
+29	observed	observe	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	_	_	start_char=2197|end_char=2205
+30	honeybee	honeybee	NOUN	NN	Number=Sing	29	_	_	start_char=2206|end_char=2214
+31	colonies	colony	NOUN	NNS	Number=Plur	30	_	_	start_char=2215|end_char=2223
+32	during	during	ADP	IN	_	31	_	_	start_char=2224|end_char=2230
+33	the	the	DET	DT	Definite=Def|PronType=Art	32	_	_	start_char=2231|end_char=2234
+34	2017	2017	NUM	CD	NumForm=Digit|NumType=Card	33	_	_	start_char=2235|end_char=2239
+35	eclipse	eclipse	NOUN	NN	Number=Sing	34	_	_	start_char=2240|end_char=2247|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=2247|end_char=2248|SpacesAfter=\n\n
+
+# text = The honeybees that Tsuruda studied decreased foraging during the eclipse, as they usually would at night, except for those from the hungriest hives.
+# sent_id = 19
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2250|end_char=2253
+2	honeybees	honeybees	NOUN	NNS	Number=Plur	1	_	_	start_char=2254|end_char=2263
+3	that	that	PRON	WDT	PronType=Rel	2	_	_	start_char=2264|end_char=2268
+4	Tsuruda	Tsuruda	PROPN	NNP	Number=Sing	3	_	_	start_char=2269|end_char=2276
+5	studied	study	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=2277|end_char=2284
+6	decreased	decrease	VERB	VBD	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=2285|end_char=2294
+7	foraging	foraging	NOUN	NN	Number=Sing	6	_	_	start_char=2295|end_char=2303
+8	during	during	ADP	IN	_	7	_	_	start_char=2304|end_char=2310
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=2311|end_char=2314
+10	eclipse	eclipse	NOUN	NN	Number=Sing	9	_	_	start_char=2315|end_char=2322|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=2322|end_char=2323
+12	as	as	SCONJ	IN	_	11	_	_	start_char=2324|end_char=2326
+13	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	_	_	start_char=2327|end_char=2331
+14	usually	usually	ADV	RB	_	13	_	_	start_char=2332|end_char=2339
+15	would	would	AUX	MD	VerbForm=Fin	14	_	_	start_char=2340|end_char=2345
+16	at	at	ADP	IN	_	15	_	_	start_char=2346|end_char=2348
+17	night	night	NOUN	NN	Number=Sing	16	_	_	start_char=2349|end_char=2354|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=2354|end_char=2355
+19	except	except	ADP	IN	_	18	_	_	start_char=2356|end_char=2362
+20	for	for	ADP	IN	_	19	_	_	start_char=2363|end_char=2366
+21	those	that	PRON	DT	Number=Plur|PronType=Dem	20	_	_	start_char=2367|end_char=2372
+22	from	from	ADP	IN	_	21	_	_	start_char=2373|end_char=2377
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=2378|end_char=2381
+24	hungriest	hungry	ADJ	JJS	Degree=Sup	23	_	_	start_char=2382|end_char=2391
+25	hives	hife	NOUN	NNS	Number=Plur	24	_	_	start_char=2392|end_char=2397|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=2397|end_char=2398|SpacesAfter=\n\n
+
+# text = “During a solar eclipse, there’s a conflict between their internal rhythms and external environment,” said University of Alberta's Olav Rueppell, adding that bees rely on polarized light from the sun to navigate.
+# sent_id = 20
+1	“	''	PUNCT	``	_	0	_	_	start_char=2400|end_char=2401|SpaceAfter=No
+2	During	during	ADP	IN	_	1	_	_	start_char=2401|end_char=2407
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=2408|end_char=2409
+4	solar	solar	ADJ	JJ	Degree=Pos	3	_	_	start_char=2410|end_char=2415
+5	eclipse	eclipse	NOUN	NN	Number=Sing	4	_	_	start_char=2416|end_char=2423|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=2423|end_char=2424
+7-8	there’s	_	_	_	_	_	_	_	start_char=2425|end_char=2432
+7	there	there	PRON	EX	_	6	_	_	start_char=2425|end_char=2430
+8	’s	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=2430|end_char=2432
+9	a	a	DET	DT	Definite=Ind|PronType=Art	8	_	_	start_char=2433|end_char=2434
+10	conflict	conflict	NOUN	NN	Number=Sing	9	_	_	start_char=2435|end_char=2443
+11	between	between	ADP	IN	_	10	_	_	start_char=2444|end_char=2451
+12	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	_	_	start_char=2452|end_char=2457
+13	internal	internal	ADJ	JJ	Degree=Pos	12	_	_	start_char=2458|end_char=2466
+14	rhythms	rhythm	NOUN	NNS	Number=Plur	13	_	_	start_char=2467|end_char=2474
+15	and	and	CCONJ	CC	_	14	_	_	start_char=2475|end_char=2478
+16	external	external	ADJ	JJ	Degree=Pos	15	_	_	start_char=2479|end_char=2487
+17	environment	environment	NOUN	NN	Number=Sing	16	_	_	start_char=2488|end_char=2499|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=2499|end_char=2500|SpaceAfter=No
+19	”	''	PUNCT	''	_	18	_	_	start_char=2500|end_char=2501
+20	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	_	_	start_char=2502|end_char=2506
+21	University	University	PROPN	NNP	Number=Sing	20	_	_	start_char=2507|end_char=2517
+22	of	of	ADP	IN	_	21	_	_	start_char=2518|end_char=2520
+23-24	Alberta's	_	_	_	_	_	_	_	start_char=2521|end_char=2530
+23	Alberta	Alberta	PROPN	NNP	Number=Sing	22	_	_	start_char=2521|end_char=2528
+24	's	's	PART	POS	_	23	_	_	start_char=2528|end_char=2530
+25	Olav	Olav	PROPN	NNP	Number=Sing	24	_	_	start_char=2531|end_char=2535
+26	Rueppell	Rueppell	PROPN	NNP	Number=Sing	25	_	_	start_char=2536|end_char=2544|SpaceAfter=No
+27	,	,	PUNCT	,	_	26	_	_	start_char=2544|end_char=2545
+28	adding	add	VERB	VBG	VerbForm=Ger	27	_	_	start_char=2546|end_char=2552
+29	that	that	SCONJ	IN	_	28	_	_	start_char=2553|end_char=2557
+30	bees	bee	NOUN	NNS	Number=Plur	29	_	_	start_char=2558|end_char=2562
+31	rely	rely	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	30	_	_	start_char=2563|end_char=2567
+32	on	on	ADP	IN	_	31	_	_	start_char=2568|end_char=2570
+33	polarized	polarize	ADJ	JJ	Degree=Pos	32	_	_	start_char=2571|end_char=2580
+34	light	light	NOUN	NN	Number=Sing	33	_	_	start_char=2581|end_char=2586
+35	from	from	ADP	IN	_	34	_	_	start_char=2587|end_char=2591
+36	the	the	DET	DT	Definite=Def|PronType=Art	35	_	_	start_char=2592|end_char=2595
+37	sun	sun	NOUN	NN	Number=Sing	36	_	_	start_char=2596|end_char=2599
+38	to	to	PART	TO	_	37	_	_	start_char=2600|end_char=2602
+39	navigate	navigate	VERB	VB	VerbForm=Inf	38	_	_	start_char=2603|end_char=2611|SpaceAfter=No
+40	.	.	PUNCT	.	_	39	_	_	start_char=2611|end_char=2612|SpacesAfter=\n\n
+
+# text = Nate Bickford, an animal researcher at Oregon Institute of Technology, said that “solar eclipses actually mimic short, fast-moving storms,” when skies darken and many animals take shelter.
+# sent_id = 21
+1	Nate	Nate	PROPN	NNP	Number=Sing	0	_	_	start_char=2614|end_char=2618
+2	Bickford	Bickford	PROPN	NNP	Number=Sing	1	_	_	start_char=2619|end_char=2627|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=2627|end_char=2628
+4	an	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=2629|end_char=2631
+5	animal	animal	NOUN	NN	Number=Sing	4	_	_	start_char=2632|end_char=2638
+6	researcher	researcher	NOUN	NN	Number=Sing	5	_	_	start_char=2639|end_char=2649
+7	at	at	ADP	IN	_	6	_	_	start_char=2650|end_char=2652
+8	Oregon	Oregon	PROPN	NNP	Number=Sing	7	_	_	start_char=2653|end_char=2659
+9	Institute	Institute	PROPN	NNP	Number=Sing	8	_	_	start_char=2660|end_char=2669
+10	of	of	ADP	IN	_	9	_	_	start_char=2670|end_char=2672
+11	Technology	Technology	PROPN	NNP	Number=Sing	10	_	_	start_char=2673|end_char=2683|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=2683|end_char=2684
+13	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=2685|end_char=2689
+14	that	that	SCONJ	IN	_	13	_	_	start_char=2690|end_char=2694
+15	“	''	PUNCT	``	_	14	_	_	start_char=2695|end_char=2696|SpaceAfter=No
+16	solar	solar	ADJ	JJ	Degree=Pos	15	_	_	start_char=2696|end_char=2701
+17	eclipses	eclipse	NOUN	NNS	Number=Plur	16	_	_	start_char=2702|end_char=2710
+18	actually	actually	ADV	RB	_	17	_	_	start_char=2711|end_char=2719
+19	mimic	mimic	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=2720|end_char=2725
+20	short	short	ADJ	JJ	Degree=Pos	19	_	_	start_char=2726|end_char=2731|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=2731|end_char=2732
+22	fast	fast	ADV	RB	Degree=Pos	21	_	_	start_char=2733|end_char=2737|SpaceAfter=No
+23	-	-	PUNCT	HYPH	_	22	_	_	start_char=2737|end_char=2738|SpaceAfter=No
+24	moving	moving	NOUN	NN	Number=Sing	23	_	_	start_char=2738|end_char=2744
+25	storms	storm	NOUN	NNS	Number=Plur	24	_	_	start_char=2745|end_char=2751|SpaceAfter=No
+26	,	,	PUNCT	,	_	25	_	_	start_char=2751|end_char=2752|SpaceAfter=No
+27	”	''	PUNCT	''	_	26	_	_	start_char=2752|end_char=2753
+28	when	when	ADV	WRB	PronType=Int	27	_	_	start_char=2754|end_char=2758
+29	skies	sky	NOUN	NNS	Number=Plur	28	_	_	start_char=2759|end_char=2764
+30	darken	dark	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	29	_	_	start_char=2765|end_char=2771
+31	and	and	CCONJ	CC	_	30	_	_	start_char=2772|end_char=2775
+32	many	many	ADJ	JJ	Degree=Pos	31	_	_	start_char=2776|end_char=2780
+33	animals	animal	NOUN	NNS	Number=Plur	32	_	_	start_char=2781|end_char=2788
+34	take	take	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	33	_	_	start_char=2789|end_char=2793
+35	shelter	shelter	NOUN	NN	Number=Sing	34	_	_	start_char=2794|end_char=2801|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=2801|end_char=2802|SpacesAfter=\n\n
+
+# text = After the 2017 eclipse, he analyzed data from tracking devices previously placed on wild species to study habitat use.
+# sent_id = 22
+1	After	after	ADP	IN	_	0	_	_	start_char=2804|end_char=2809
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=2810|end_char=2813
+3	2017	2017	NUM	CD	NumForm=Digit|NumType=Card	2	_	_	start_char=2814|end_char=2818
+4	eclipse	eclipse	NOUN	NN	Number=Sing	3	_	_	start_char=2819|end_char=2826|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=2826|end_char=2827
+6	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	_	_	start_char=2828|end_char=2830
+7	analyzed	analyze	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=2831|end_char=2839
+8	data	datum	NOUN	NNS	Number=Plur	7	_	_	start_char=2840|end_char=2844
+9	from	from	ADP	IN	_	8	_	_	start_char=2845|end_char=2849
+10	tracking	tracking	NOUN	NN	Number=Sing	9	_	_	start_char=2850|end_char=2858
+11	devices	device	NOUN	NNS	Number=Plur	10	_	_	start_char=2859|end_char=2866
+12	previously	previously	ADV	RB	_	11	_	_	start_char=2867|end_char=2877
+13	placed	place	VERB	VBN	Tense=Past|VerbForm=Part	12	_	_	start_char=2878|end_char=2884
+14	on	on	ADP	IN	_	13	_	_	start_char=2885|end_char=2887
+15	wild	wild	ADJ	JJ	Degree=Pos	14	_	_	start_char=2888|end_char=2892
+16	species	species	NOUN	NNS	Number=Plur	15	_	_	start_char=2893|end_char=2900
+17	to	to	PART	TO	_	16	_	_	start_char=2901|end_char=2903
+18	study	study	VERB	VB	VerbForm=Inf	17	_	_	start_char=2904|end_char=2909
+19	habitat	habitat	NOUN	NN	Number=Sing	18	_	_	start_char=2910|end_char=2917
+20	use	use	NOUN	NN	Number=Sing	19	_	_	start_char=2918|end_char=2921|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=2921|end_char=2922
+
+# text = Flying bald eagles change the speed and direction they’re moving during an eclipse, he said.
+# sent_id = 23
+1	Flying	Fly	VERB	VBG	VerbForm=Ger	0	_	_	start_char=2923|end_char=2929
+2	bald	bald	ADJ	JJ	Degree=Pos	1	_	_	start_char=2930|end_char=2934
+3	eagles	eagle	NOUN	NNS	Number=Plur	2	_	_	start_char=2935|end_char=2941
+4	change	change	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=2942|end_char=2948
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=2949|end_char=2952
+6	speed	speed	NOUN	NN	Number=Sing	5	_	_	start_char=2953|end_char=2958
+7	and	and	CCONJ	CC	_	6	_	_	start_char=2959|end_char=2962
+8	direction	direction	NOUN	NN	Number=Sing	7	_	_	start_char=2963|end_char=2972
+9-10	they’re	_	_	_	_	_	_	_	start_char=2973|end_char=2980
+9	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	_	_	start_char=2973|end_char=2977
+10	’re	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=2977|end_char=2980
+11	moving	move	VERB	VBG	Tense=Pres|VerbForm=Part	10	_	_	start_char=2981|end_char=2987
+12	during	during	ADP	IN	_	11	_	_	start_char=2988|end_char=2994
+13	an	a	DET	DT	Definite=Ind|PronType=Art	12	_	_	start_char=2995|end_char=2997
+14	eclipse	eclipse	NOUN	NN	Number=Sing	13	_	_	start_char=2998|end_char=3005|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=3005|end_char=3006
+16	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	_	_	start_char=3007|end_char=3009
+17	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	_	_	start_char=3010|end_char=3014|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=3014|end_char=3015
+
+# text = So do feral horses, “probably taking cover, responding to the possibility of a storm out on the open plains.”
+# sent_id = 24
+1	So	so	ADV	RB	_	0	_	_	start_char=3016|end_char=3018
+2	do	do	VERB	VB	Mood=Imp|VerbForm=Fin	1	_	_	start_char=3019|end_char=3021
+3	feral	feral	ADJ	JJ	Degree=Pos	2	_	_	start_char=3022|end_char=3027
+4	horses	horse	NOUN	NNS	Number=Plur	3	_	_	start_char=3028|end_char=3034|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=3034|end_char=3035
+6	“	''	PUNCT	``	_	5	_	_	start_char=3036|end_char=3037|SpaceAfter=No
+7	probably	probably	ADV	RB	_	6	_	_	start_char=3037|end_char=3045
+8	taking	take	VERB	VBG	VerbForm=Ger	7	_	_	start_char=3046|end_char=3052
+9	cover	cover	NOUN	NN	Number=Sing	8	_	_	start_char=3053|end_char=3058|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=3058|end_char=3059
+11	responding	respond	VERB	VBG	VerbForm=Ger	10	_	_	start_char=3060|end_char=3070
+12	to	to	ADP	IN	_	11	_	_	start_char=3071|end_char=3073
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=3074|end_char=3077
+14	possibility	possibility	NOUN	NN	Number=Sing	13	_	_	start_char=3078|end_char=3089
+15	of	of	ADP	IN	_	14	_	_	start_char=3090|end_char=3092
+16	a	a	DET	DT	Definite=Ind|PronType=Art	15	_	_	start_char=3093|end_char=3094
+17	storm	storm	NOUN	NN	Number=Sing	16	_	_	start_char=3095|end_char=3100
+18	out	out	ADV	RB	_	17	_	_	start_char=3101|end_char=3104
+19	on	on	ADP	IN	_	18	_	_	start_char=3105|end_char=3107
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=3108|end_char=3111
+21	open	open	ADJ	JJ	Degree=Pos	20	_	_	start_char=3112|end_char=3116
+22	plains	plain	NOUN	NNS	Number=Plur	21	_	_	start_char=3117|end_char=3123|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=3123|end_char=3124|SpaceAfter=No
+24	”	''	PUNCT	''	_	23	_	_	start_char=3124|end_char=3125|SpacesAfter=\n\n
+
+# text = The last full US solar eclipse to span coast to coast happened in late summer, in August.
+# sent_id = 25
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=3127|end_char=3130
+2	last	last	ADJ	JJ	Degree=Pos	1	_	_	start_char=3131|end_char=3135
+3	full	full	ADJ	JJ	Degree=Pos	2	_	_	start_char=3136|end_char=3140
+4	US	US	PROPN	NNP	Number=Sing	3	_	_	start_char=3141|end_char=3143
+5	solar	solar	ADJ	JJ	Degree=Pos	4	_	_	start_char=3144|end_char=3149
+6	eclipse	eclipse	NOUN	NN	Number=Sing	5	_	_	start_char=3150|end_char=3157
+7	to	to	PART	TO	_	6	_	_	start_char=3158|end_char=3160
+8	span	span	VERB	VB	VerbForm=Inf	7	_	_	start_char=3161|end_char=3165
+9	coast	coast	NOUN	NN	Number=Sing	8	_	_	start_char=3166|end_char=3171
+10	to	to	ADP	IN	_	9	_	_	start_char=3172|end_char=3174
+11	coast	coast	NOUN	NN	Number=Sing	10	_	_	start_char=3175|end_char=3180
+12	happened	happen	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=3181|end_char=3189
+13	in	in	ADP	IN	_	12	_	_	start_char=3190|end_char=3192
+14	late	late	ADJ	JJ	Degree=Pos	13	_	_	start_char=3193|end_char=3197
+15	summer	summer	NOUN	NN	Number=Sing	14	_	_	start_char=3198|end_char=3204|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=3204|end_char=3205
+17	in	in	ADP	IN	_	16	_	_	start_char=3206|end_char=3208
+18	August	August	PROPN	NNP	Number=Sing	17	_	_	start_char=3209|end_char=3215|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=3215|end_char=3216
+
+# text = The upcoming eclipse in April gives researchers an opportunity to ask new questions including about potential impacts on spring migration.
+# sent_id = 26
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=3217|end_char=3220
+2	upcoming	upcoming	ADJ	JJ	Degree=Pos	1	_	_	start_char=3221|end_char=3229
+3	eclipse	eclipse	NOUN	NN	Number=Sing	2	_	_	start_char=3230|end_char=3237
+4	in	in	ADP	IN	_	3	_	_	start_char=3238|end_char=3240
+5	April	April	PROPN	NNP	Number=Sing	4	_	_	start_char=3241|end_char=3246
+6	gives	give	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=3247|end_char=3252
+7	researchers	researcher	NOUN	NNS	Number=Plur	6	_	_	start_char=3253|end_char=3264
+8	an	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=3265|end_char=3267
+9	opportunity	opportunity	NOUN	NN	Number=Sing	8	_	_	start_char=3268|end_char=3279
+10	to	to	PART	TO	_	9	_	_	start_char=3280|end_char=3282
+11	ask	ask	VERB	VB	VerbForm=Inf	10	_	_	start_char=3283|end_char=3286
+12	new	new	ADJ	JJ	Degree=Pos	11	_	_	start_char=3287|end_char=3290
+13	questions	question	NOUN	NNS	Number=Plur	12	_	_	start_char=3291|end_char=3300
+14	including	include	VERB	VBG	VerbForm=Ger	13	_	_	start_char=3301|end_char=3310
+15	about	about	ADP	IN	_	14	_	_	start_char=3311|end_char=3316
+16	potential	potential	ADJ	JJ	Degree=Pos	15	_	_	start_char=3317|end_char=3326
+17	impacts	impact	NOUN	NNS	Number=Plur	16	_	_	start_char=3327|end_char=3334
+18	on	on	ADP	IN	_	17	_	_	start_char=3335|end_char=3337
+19	spring	spring	NOUN	NN	Number=Sing	18	_	_	start_char=3338|end_char=3344
+20	migration	migration	NOUN	NN	Number=Sing	19	_	_	start_char=3345|end_char=3354|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=3354|end_char=3355|SpacesAfter=\n\n
+
+# text = Most songbird species migrate at night.
+# sent_id = 27
+1	Most	most	ADJ	JJS	Degree=Sup	0	_	_	start_char=3357|end_char=3361
+2	songbird	songbird	NOUN	NN	Number=Sing	1	_	_	start_char=3362|end_char=3370
+3	species	species	NOUN	NNS	Number=Plur	2	_	_	start_char=3371|end_char=3378
+4	migrate	migrate	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=3379|end_char=3386
+5	at	at	ADP	IN	_	4	_	_	start_char=3387|end_char=3389
+6	night	night	NOUN	NN	Number=Sing	5	_	_	start_char=3390|end_char=3395|SpaceAfter=No
+7	.	.	PUNCT	.	_	6	_	_	start_char=3395|end_char=3396
+
+# text = “When there are night-like conditions during the eclipse, will birds think it’s time to migrate and take flight?” said Andrew Farnsworth of Cornell University.
+# sent_id = 28
+1	“	''	PUNCT	``	_	0	_	_	start_char=3397|end_char=3398|SpaceAfter=No
+2	When	when	ADV	WRB	PronType=Int	1	_	_	start_char=3398|end_char=3402
+3	there	there	PRON	EX	_	2	_	_	start_char=3403|end_char=3408
+4	are	be	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=3409|end_char=3412
+5	night	night	NOUN	NN	Number=Sing	4	_	_	start_char=3413|end_char=3418|SpaceAfter=No
+6	-	-	PUNCT	HYPH	_	5	_	_	start_char=3418|end_char=3419|SpaceAfter=No
+7	like	like	ADJ	JJ	Degree=Pos	6	_	_	start_char=3419|end_char=3423
+8	conditions	condition	NOUN	NNS	Number=Plur	7	_	_	start_char=3424|end_char=3434
+9	during	during	ADP	IN	_	8	_	_	start_char=3435|end_char=3441
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=3442|end_char=3445
+11	eclipse	eclipse	NOUN	NN	Number=Sing	10	_	_	start_char=3446|end_char=3453|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=3453|end_char=3454
+13	will	will	AUX	MD	VerbForm=Fin	12	_	_	start_char=3455|end_char=3459
+14	birds	bird	NOUN	NNS	Number=Plur	13	_	_	start_char=3460|end_char=3465
+15	think	think	VERB	VB	VerbForm=Inf	14	_	_	start_char=3466|end_char=3471
+16-17	it’s	_	_	_	_	_	_	_	start_char=3472|end_char=3476
+16	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	_	_	start_char=3472|end_char=3474
+17	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=3474|end_char=3476
+18	time	time	NOUN	NN	Number=Sing	17	_	_	start_char=3477|end_char=3481
+19	to	to	PART	TO	_	18	_	_	start_char=3482|end_char=3484
+20	migrate	migrate	VERB	VB	VerbForm=Inf	19	_	_	start_char=3485|end_char=3492
+21	and	and	CCONJ	CC	_	20	_	_	start_char=3493|end_char=3496
+22	take	take	VERB	VB	VerbForm=Inf	21	_	_	start_char=3497|end_char=3501
+23	flight	flight	NOUN	NN	Number=Sing	22	_	_	start_char=3502|end_char=3508|SpaceAfter=No
+24	?	?	PUNCT	.	_	23	_	_	start_char=3508|end_char=3509|SpaceAfter=No
+25	”	''	PUNCT	''	_	24	_	_	start_char=3509|end_char=3510
+26	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	_	_	start_char=3511|end_char=3515
+27	Andrew	Andrew	PROPN	NNP	Number=Sing	26	_	_	start_char=3516|end_char=3522
+28	Farnsworth	Farnsworth	PROPN	NNP	Number=Sing	27	_	_	start_char=3523|end_char=3533
+29	of	of	ADP	IN	_	28	_	_	start_char=3534|end_char=3536
+30	Cornell	Cornell	PROPN	NNP	Number=Sing	29	_	_	start_char=3537|end_char=3544
+31	University	University	PROPN	NNP	Number=Sing	30	_	_	start_char=3545|end_char=3555|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=3555|end_char=3556|SpacesAfter=\n\n
+
+# text = His team plans to test this by analyzing weather radar data – which also detects the presence of flying birds, bats and insects – to see if more birds take wing during the eclipse.
+# sent_id = 29
+1	His	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	_	_	start_char=3558|end_char=3561
+2	team	team	NOUN	NN	Number=Sing	1	_	_	start_char=3562|end_char=3566
+3	plans	plan	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=3567|end_char=3572
+4	to	to	PART	TO	_	3	_	_	start_char=3573|end_char=3575
+5	test	test	VERB	VB	VerbForm=Inf	4	_	_	start_char=3576|end_char=3580
+6	this	this	PRON	DT	Number=Sing|PronType=Dem	5	_	_	start_char=3581|end_char=3585
+7	by	by	SCONJ	IN	_	6	_	_	start_char=3586|end_char=3588
+8	analyzing	analyze	VERB	VBG	VerbForm=Ger	7	_	_	start_char=3589|end_char=3598
+9	weather	weather	NOUN	NN	Number=Sing	8	_	_	start_char=3599|end_char=3606
+10	radar	radar	NOUN	NN	Number=Sing	9	_	_	start_char=3607|end_char=3612
+11	data	datum	NOUN	NNS	Number=Plur	10	_	_	start_char=3613|end_char=3617
+12	–	-	PUNCT	:	_	11	_	_	start_char=3618|end_char=3619
+13	which	which	PRON	WDT	PronType=Rel	12	_	_	start_char=3620|end_char=3625
+14	also	also	ADV	RB	_	13	_	_	start_char=3626|end_char=3630
+15	detects	detect	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=3631|end_char=3638
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=3639|end_char=3642
+17	presence	presence	NOUN	NN	Number=Sing	16	_	_	start_char=3643|end_char=3651
+18	of	of	ADP	IN	_	17	_	_	start_char=3652|end_char=3654
+19	flying	fly	VERB	VBG	VerbForm=Ger	18	_	_	start_char=3655|end_char=3661
+20	birds	bird	NOUN	NNS	Number=Plur	19	_	_	start_char=3662|end_char=3667|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=3667|end_char=3668
+22	bats	bat	NOUN	NNS	Number=Plur	21	_	_	start_char=3669|end_char=3673
+23	and	and	CCONJ	CC	_	22	_	_	start_char=3674|end_char=3677
+24	insects	insect	NOUN	NNS	Number=Plur	23	_	_	start_char=3678|end_char=3685
+25	–	-	PUNCT	:	_	24	_	_	start_char=3686|end_char=3687
+26	to	to	PART	TO	_	25	_	_	start_char=3688|end_char=3690
+27	see	see	VERB	VB	VerbForm=Inf	26	_	_	start_char=3691|end_char=3694
+28	if	if	SCONJ	IN	_	27	_	_	start_char=3695|end_char=3697
+29	more	more	ADJ	JJR	Degree=Cmp	28	_	_	start_char=3698|end_char=3702
+30	birds	bird	NOUN	NNS	Number=Plur	29	_	_	start_char=3703|end_char=3708
+31	take	take	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	30	_	_	start_char=3709|end_char=3713
+32	wing	wing	NOUN	NN	Number=Sing	31	_	_	start_char=3714|end_char=3718
+33	during	during	ADP	IN	_	32	_	_	start_char=3719|end_char=3725
+34	the	the	DET	DT	Definite=Def|PronType=Art	33	_	_	start_char=3726|end_char=3729
+35	eclipse	eclipse	NOUN	NN	Number=Sing	34	_	_	start_char=3730|end_char=3737|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=3737|end_char=3738|SpacesAfter=\n\n
+
+# text = As for indoor pets, they may react as much to what their owners are doing – whether they’re excited or nonchalant about the eclipse – as to any changes in the sky, said University of Arkansas animal researcher Raffaela Lesch.
+# sent_id = 30
+1	As	as	ADP	IN	_	0	_	_	start_char=3740|end_char=3742
+2	for	for	ADP	IN	_	1	_	_	start_char=3743|end_char=3746
+3	indoor	indoor	ADJ	JJ	Degree=Pos	2	_	_	start_char=3747|end_char=3753
+4	pets	pet	NOUN	NNS	Number=Plur	3	_	_	start_char=3754|end_char=3758|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=3758|end_char=3759
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	_	_	start_char=3760|end_char=3764
+7	may	may	AUX	MD	VerbForm=Fin	6	_	_	start_char=3765|end_char=3768
+8	react	react	VERB	VB	VerbForm=Inf	7	_	_	start_char=3769|end_char=3774
+9	as	as	ADV	RB	_	8	_	_	start_char=3775|end_char=3777
+10	much	much	ADJ	JJ	Degree=Pos	9	_	_	start_char=3778|end_char=3782
+11	to	to	ADP	IN	_	10	_	_	start_char=3783|end_char=3785
+12	what	what	PRON	WP	PronType=Rel	11	_	_	start_char=3786|end_char=3790
+13	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	12	_	_	start_char=3791|end_char=3796
+14	owners	owner	NOUN	NNS	Number=Plur	13	_	_	start_char=3797|end_char=3803
+15	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=3804|end_char=3807
+16	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	15	_	_	start_char=3808|end_char=3813
+17	–	-	PUNCT	:	_	16	_	_	start_char=3814|end_char=3815
+18	whether	whether	SCONJ	IN	_	17	_	_	start_char=3816|end_char=3823
+19-20	they’re	_	_	_	_	_	_	_	start_char=3824|end_char=3831
+19	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	_	_	start_char=3824|end_char=3828
+20	’re	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	_	_	start_char=3828|end_char=3831
+21	excited	excited	ADJ	JJ	Degree=Pos	20	_	_	start_char=3832|end_char=3839
+22	or	or	CCONJ	CC	_	21	_	_	start_char=3840|end_char=3842
+23	nonchalant	nonchalant	ADJ	JJ	Degree=Pos	22	_	_	start_char=3843|end_char=3853
+24	about	about	ADP	IN	_	23	_	_	start_char=3854|end_char=3859
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=3860|end_char=3863
+26	eclipse	eclipse	NOUN	NN	Number=Sing	25	_	_	start_char=3864|end_char=3871
+27	–	-	PUNCT	:	_	26	_	_	start_char=3872|end_char=3873
+28	as	as	ADP	IN	_	27	_	_	start_char=3874|end_char=3876
+29	to	to	ADP	IN	_	28	_	_	start_char=3877|end_char=3879
+30	any	any	DET	DT	_	29	_	_	start_char=3880|end_char=3883
+31	changes	change	NOUN	NNS	Number=Plur	30	_	_	start_char=3884|end_char=3891
+32	in	in	ADP	IN	_	31	_	_	start_char=3892|end_char=3894
+33	the	the	DET	DT	Definite=Def|PronType=Art	32	_	_	start_char=3895|end_char=3898
+34	sky	sky	NOUN	NN	Number=Sing	33	_	_	start_char=3899|end_char=3902|SpaceAfter=No
+35	,	,	PUNCT	,	_	34	_	_	start_char=3902|end_char=3903
+36	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	35	_	_	start_char=3904|end_char=3908
+37	University	University	PROPN	NNP	Number=Sing	36	_	_	start_char=3909|end_char=3919
+38	of	of	ADP	IN	_	37	_	_	start_char=3920|end_char=3922
+39	Arkansas	Arkansas	PROPN	NNP	Number=Sing	38	_	_	start_char=3923|end_char=3931
+40	animal	animal	NOUN	NN	Number=Sing	39	_	_	start_char=3932|end_char=3938
+41	researcher	researcher	NOUN	NN	Number=Sing	40	_	_	start_char=3939|end_char=3949
+42	Raffaela	Raffaela	PROPN	NNP	Number=Sing	41	_	_	start_char=3950|end_char=3958
+43	Lesch	Lesch	PROPN	NNP	Number=Sing	42	_	_	start_char=3959|end_char=3964|SpaceAfter=No
+44	.	.	PUNCT	.	_	43	_	_	start_char=3964|end_char=3965|SpacesAfter=\n\n
+
+# text = “Dogs and cats pay a lot of attention to us, in addition to their internal clocks,” she said.
+# sent_id = 31
+1	“	''	PUNCT	``	_	0	_	_	start_char=3967|end_char=3968|SpaceAfter=No
+2	Dogs	dog	NOUN	NNS	Number=Plur	1	_	_	start_char=3968|end_char=3972
+3	and	and	CCONJ	CC	_	2	_	_	start_char=3973|end_char=3976
+4	cats	cat	NOUN	NNS	Number=Plur	3	_	_	start_char=3977|end_char=3981
+5	pay	pay	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=3982|end_char=3985
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=3986|end_char=3987
+7	lot	lot	NOUN	NN	Number=Sing	6	_	_	start_char=3988|end_char=3991
+8	of	of	ADP	IN	_	7	_	_	start_char=3992|end_char=3994
+9	attention	attention	NOUN	NN	Number=Sing	8	_	_	start_char=3995|end_char=4004
+10	to	to	ADP	IN	_	9	_	_	start_char=4005|end_char=4007
+11	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	10	_	_	start_char=4008|end_char=4010|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=4010|end_char=4011
+13	in	in	ADP	IN	_	12	_	_	start_char=4012|end_char=4014
+14	addition	addition	NOUN	NN	Number=Sing	13	_	_	start_char=4015|end_char=4023
+15	to	to	ADP	IN	_	14	_	_	start_char=4024|end_char=4026
+16	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	15	_	_	start_char=4027|end_char=4032
+17	internal	internal	ADJ	JJ	Degree=Pos	16	_	_	start_char=4033|end_char=4041
+18	clocks	clock	NOUN	NNS	Number=Plur	17	_	_	start_char=4042|end_char=4048|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=4048|end_char=4049|SpaceAfter=No
+20	”	''	PUNCT	''	_	19	_	_	start_char=4049|end_char=4050
+21	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	20	_	_	start_char=4051|end_char=4054
+22	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	_	_	start_char=4055|end_char=4059|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=4059|end_char=4060|SpacesAfter=\n\n
+
+# text = When a total solar eclipse transforms day into night, will tortoises start acting romantic?
+# sent_id = 32
+1	When	when	ADV	WRB	PronType=Int	0	_	_	start_char=4062|end_char=4066
+2	a	a	DET	DT	Definite=Ind|PronType=Art	1	_	_	start_char=4067|end_char=4068
+3	total	total	ADJ	JJ	Degree=Pos	2	_	_	start_char=4069|end_char=4074
+4	solar	solar	ADJ	JJ	Degree=Pos	3	_	_	start_char=4075|end_char=4080
+5	eclipse	eclipse	NOUN	NN	Number=Sing	4	_	_	start_char=4081|end_char=4088
+6	transforms	transform	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=4089|end_char=4099
+7	day	day	NOUN	NN	Number=Sing	6	_	_	start_char=4100|end_char=4103
+8	into	into	ADP	IN	_	7	_	_	start_char=4104|end_char=4108
+9	night	night	NOUN	NN	Number=Sing	8	_	_	start_char=4109|end_char=4114|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=4114|end_char=4115
+11	will	will	AUX	MD	VerbForm=Fin	10	_	_	start_char=4116|end_char=4120
+12	tortoises	tortoise	NOUN	NNS	Number=Plur	11	_	_	start_char=4121|end_char=4130
+13	start	start	VERB	VB	VerbForm=Inf	12	_	_	start_char=4131|end_char=4136
+14	acting	act	VERB	VBG	VerbForm=Ger	13	_	_	start_char=4137|end_char=4143
+15	romantic	romantic	ADJ	JJ	Degree=Pos	14	_	_	start_char=4144|end_char=4152|SpaceAfter=No
+16	?	?	PUNCT	.	_	15	_	_	start_char=4152|end_char=4153
+
+# text = Will giraffes gallop?
+# sent_id = 33
+1	Will	will	AUX	MD	VerbForm=Fin	0	_	_	start_char=4154|end_char=4158
+2	giraffes	giraffe	NOUN	NNS	Number=Plur	1	_	_	start_char=4159|end_char=4167
+3	gallop	gallop	VERB	VB	VerbForm=Inf	2	_	_	start_char=4168|end_char=4174|SpaceAfter=No
+4	?	?	PUNCT	.	_	3	_	_	start_char=4174|end_char=4175
+
+# text = Will apes sing odd notes?
+# sent_id = 34
+1	Will	will	AUX	MD	VerbForm=Fin	0	_	_	start_char=4176|end_char=4180
+2	apes	ape	NOUN	NNS	Number=Plur	1	_	_	start_char=4181|end_char=4185
+3	sing	sing	VERB	VB	VerbForm=Inf	2	_	_	start_char=4186|end_char=4190
+4	odd	odd	ADJ	JJ	Degree=Pos	3	_	_	start_char=4191|end_char=4194
+5	notes	note	NOUN	NNS	Number=Plur	4	_	_	start_char=4195|end_char=4200|SpaceAfter=No
+6	?	?	PUNCT	.	_	5	_	_	start_char=4200|end_char=4201|SpaceAfter=No
+

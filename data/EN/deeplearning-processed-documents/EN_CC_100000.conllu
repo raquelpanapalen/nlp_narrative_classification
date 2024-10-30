@@ -1,0 +1,880 @@
+# text = Pentagon plans to serve LAB-GROWN MEAT to troops in the name of climate change
+# sent_id = 0
+1	Pentagon	Pentagon	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=8
+2	plans	plan	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=9|end_char=14
+3	to	to	PART	TO	_	2	_	_	start_char=15|end_char=17
+4	serve	serve	VERB	VB	VerbForm=Inf	3	_	_	start_char=18|end_char=23
+5	LAB	LAB	PROPN	NNP	Number=Sing	4	_	_	start_char=24|end_char=27|SpaceAfter=No
+6	-	-	PUNCT	HYPH	_	5	_	_	start_char=27|end_char=28|SpaceAfter=No
+7	GROWN	grow	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=28|end_char=33
+8	MEAT	meat	NOUN	NN	Number=Sing	7	_	_	start_char=34|end_char=38
+9	to	to	ADP	IN	_	8	_	_	start_char=39|end_char=41
+10	troops	troops	NOUN	NNS	Number=Plur	9	_	_	start_char=42|end_char=48
+11	in	in	ADP	IN	_	10	_	_	start_char=49|end_char=51
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=52|end_char=55
+13	name	name	NOUN	NN	Number=Sing	12	_	_	start_char=56|end_char=60
+14	of	of	ADP	IN	_	13	_	_	start_char=61|end_char=63
+15	climate	climate	NOUN	NN	Number=Sing	14	_	_	start_char=64|end_char=71
+16	change	change	NOUN	NN	Number=Sing	15	_	_	start_char=72|end_char=78|SpacesAfter=\s\n\n\s
+
+# text = The Washington Free Beacon reported that BioMADE, a public-private partnership that has received more than $500 million from the DoD, is responsible for the endeavor.
+# sent_id = 1
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=82|end_char=85
+2	Washington	Washington	PROPN	NNP	Number=Sing	1	_	_	start_char=86|end_char=96
+3	Free	free	ADJ	NNP	Degree=Pos	2	_	_	start_char=97|end_char=101
+4	Beacon	Beacon	PROPN	NNP	Number=Sing	3	_	_	start_char=102|end_char=108
+5	reported	report	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=109|end_char=117
+6	that	that	SCONJ	IN	_	5	_	_	start_char=118|end_char=122
+7	BioMADE	BioMADE	PROPN	NNP	Number=Sing	6	_	_	start_char=123|end_char=130|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=130|end_char=131
+9	a	a	DET	DT	Definite=Ind|PronType=Art	8	_	_	start_char=132|end_char=133
+10	public	public	ADJ	JJ	Degree=Pos	9	_	_	start_char=134|end_char=140|SpaceAfter=No
+11	-	-	PUNCT	HYPH	_	10	_	_	start_char=140|end_char=141|SpaceAfter=No
+12	private	private	ADJ	JJ	Degree=Pos	11	_	_	start_char=141|end_char=148
+13	partnership	partnership	NOUN	NN	Number=Sing	12	_	_	start_char=149|end_char=160
+14	that	that	PRON	WDT	PronType=Rel	13	_	_	start_char=161|end_char=165
+15	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=166|end_char=169
+16	received	receive	VERB	VBN	Tense=Past|VerbForm=Part	15	_	_	start_char=170|end_char=178
+17	more	more	ADJ	JJR	Degree=Cmp	16	_	_	start_char=179|end_char=183
+18	than	than	ADP	IN	_	17	_	_	start_char=184|end_char=188
+19	$	$	SYM	$	_	18	_	_	start_char=189|end_char=190|SpaceAfter=No
+20	500	500	NUM	CD	NumForm=Digit|NumType=Card	19	_	_	start_char=190|end_char=193
+21	million	million	NUM	CD	NumForm=Word|NumType=Card	20	_	_	start_char=194|end_char=201
+22	from	from	ADP	IN	_	21	_	_	start_char=202|end_char=206
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=207|end_char=210
+24	DoD	DoD	PROPN	NNP	Number=Sing	23	_	_	start_char=211|end_char=214|SpaceAfter=No
+25	,	,	PUNCT	,	_	24	_	_	start_char=214|end_char=215
+26	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	_	_	start_char=216|end_char=218
+27	responsible	responsible	ADJ	JJ	Degree=Pos	26	_	_	start_char=219|end_char=230
+28	for	for	ADP	IN	_	27	_	_	start_char=231|end_char=234
+29	the	the	DET	DT	Definite=Def|PronType=Art	28	_	_	start_char=235|end_char=238
+30	endeavor	endeavor	NOUN	NN	Number=Sing	29	_	_	start_char=239|end_char=247|SpaceAfter=No
+31	.	.	PUNCT	.	_	30	_	_	start_char=247|end_char=248
+
+# text = BioMADE announced on its website on June 3 that it is looking for new ideas to reduce the CO2 emissions from food production and transport at military sites.
+# sent_id = 2
+1	BioMADE	BioMADE	PROPN	NNP	Number=Sing	0	_	_	start_char=249|end_char=256
+2	announced	announce	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=257|end_char=266
+3	on	on	ADP	IN	_	2	_	_	start_char=267|end_char=269
+4	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	_	_	start_char=270|end_char=273
+5	website	website	NOUN	NN	Number=Sing	4	_	_	start_char=274|end_char=281
+6	on	on	ADP	IN	_	5	_	_	start_char=282|end_char=284
+7	June	June	PROPN	NNP	Number=Sing	6	_	_	start_char=285|end_char=289
+8	3	3	NUM	CD	NumForm=Digit|NumType=Card	7	_	_	start_char=290|end_char=291
+9	that	that	SCONJ	IN	_	8	_	_	start_char=292|end_char=296
+10	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	_	_	start_char=297|end_char=299
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=300|end_char=302
+12	looking	look	VERB	VBG	Tense=Pres|VerbForm=Part	11	_	_	start_char=303|end_char=310
+13	for	for	ADP	IN	_	12	_	_	start_char=311|end_char=314
+14	new	new	ADJ	JJ	Degree=Pos	13	_	_	start_char=315|end_char=318
+15	ideas	idea	NOUN	NNS	Number=Plur	14	_	_	start_char=319|end_char=324
+16	to	to	PART	TO	_	15	_	_	start_char=325|end_char=327
+17	reduce	reduce	VERB	VB	VerbForm=Inf	16	_	_	start_char=328|end_char=334
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=335|end_char=338
+19	CO2	CO2	NOUN	NN	Number=Sing	18	_	_	start_char=339|end_char=342
+20	emissions	emission	NOUN	NNS	Number=Plur	19	_	_	start_char=343|end_char=352
+21	from	from	ADP	IN	_	20	_	_	start_char=353|end_char=357
+22	food	food	NOUN	NN	Number=Sing	21	_	_	start_char=358|end_char=362
+23	production	production	NOUN	NN	Number=Sing	22	_	_	start_char=363|end_char=373
+24	and	and	CCONJ	CC	_	23	_	_	start_char=374|end_char=377
+25	transport	transport	NOUN	NN	Number=Sing	24	_	_	start_char=378|end_char=387
+26	at	at	ADP	IN	_	25	_	_	start_char=388|end_char=390
+27	military	military	ADJ	JJ	Degree=Pos	26	_	_	start_char=391|end_char=399
+28	sites	site	NOUN	NNS	Number=Plur	27	_	_	start_char=400|end_char=405|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=405|end_char=406
+
+# text = These ideas include "novel cell culture methods suitable for the production of cultivated meat or protein" – essentially a euphemism for lab-grown fake meat.
+# sent_id = 3
+1	These	this	DET	DT	Number=Plur|PronType=Dem	0	_	_	start_char=407|end_char=412
+2	ideas	idea	NOUN	NNS	Number=Plur	1	_	_	start_char=413|end_char=418
+3	include	include	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=419|end_char=426
+4	"	"	PUNCT	``	_	3	_	_	start_char=427|end_char=428|SpaceAfter=No
+5	novel	novel	ADJ	JJ	Degree=Pos	4	_	_	start_char=428|end_char=433
+6	cell	cell	NOUN	NN	Number=Sing	5	_	_	start_char=434|end_char=438
+7	culture	culture	NOUN	NN	Number=Sing	6	_	_	start_char=439|end_char=446
+8	methods	method	NOUN	NNS	Number=Plur	7	_	_	start_char=447|end_char=454
+9	suitable	suitable	ADJ	JJ	Degree=Pos	8	_	_	start_char=455|end_char=463
+10	for	for	ADP	IN	_	9	_	_	start_char=464|end_char=467
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=468|end_char=471
+12	production	production	NOUN	NN	Number=Sing	11	_	_	start_char=472|end_char=482
+13	of	of	ADP	IN	_	12	_	_	start_char=483|end_char=485
+14	cultivated	cultivate	VERB	VBN	Tense=Past|VerbForm=Part	13	_	_	start_char=486|end_char=496
+15	meat	meat	NOUN	NN	Number=Sing	14	_	_	start_char=497|end_char=501
+16	or	or	CCONJ	CC	_	15	_	_	start_char=502|end_char=504
+17	protein	protein	NOUN	NN	Number=Sing	16	_	_	start_char=505|end_char=512|SpaceAfter=No
+18	"	"	PUNCT	''	_	17	_	_	start_char=512|end_char=513
+19	–	-	PUNCT	:	_	18	_	_	start_char=514|end_char=515
+20	essentially	essentially	ADV	RB	_	19	_	_	start_char=516|end_char=527
+21	a	a	DET	DT	Definite=Ind|PronType=Art	20	_	_	start_char=528|end_char=529
+22	euphemism	euphemism	NOUN	NN	Number=Sing	21	_	_	start_char=530|end_char=539
+23	for	for	ADP	IN	_	22	_	_	start_char=540|end_char=543
+24	lab	lab	NOUN	NN	Number=Sing	23	_	_	start_char=544|end_char=547|SpaceAfter=No
+25	-	-	PUNCT	HYPH	_	24	_	_	start_char=547|end_char=548|SpaceAfter=No
+26	grown	grow	VERB	VBN	Tense=Past|VerbForm=Part	25	_	_	start_char=548|end_char=553
+27	fake	fake	ADJ	JJ	Degree=Pos	26	_	_	start_char=554|end_char=558
+28	meat	meat	NOUN	NN	Number=Sing	27	_	_	start_char=559|end_char=563|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=563|end_char=564|SpacesAfter=\n\n
+
+# text = Lab-grown meat is a new technology where animal muscle and fat tissues are grown from modified animal cells in special equipment.
+# sent_id = 4
+1	Lab	Lab	NOUN	NN	Number=Sing	0	_	_	start_char=566|end_char=569|SpaceAfter=No
+2	-	-	PUNCT	HYPH	_	1	_	_	start_char=569|end_char=570|SpaceAfter=No
+3	grown	grow	VERB	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=570|end_char=575
+4	meat	meat	NOUN	NN	Number=Sing	3	_	_	start_char=576|end_char=580
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=581|end_char=583
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=584|end_char=585
+7	new	new	ADJ	JJ	Degree=Pos	6	_	_	start_char=586|end_char=589
+8	technology	technology	NOUN	NN	Number=Sing	7	_	_	start_char=590|end_char=600
+9	where	where	ADV	WRB	PronType=Rel	8	_	_	start_char=601|end_char=606
+10	animal	animal	NOUN	NN	Number=Sing	9	_	_	start_char=607|end_char=613
+11	muscle	muscle	NOUN	NN	Number=Sing	10	_	_	start_char=614|end_char=620
+12	and	and	CCONJ	CC	_	11	_	_	start_char=621|end_char=624
+13	fat	fat	NOUN	NN	Number=Sing	12	_	_	start_char=625|end_char=628
+14	tissues	tissue	NOUN	NNS	Number=Plur	13	_	_	start_char=629|end_char=636
+15	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=637|end_char=640
+16	grown	grow	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	15	_	_	start_char=641|end_char=646
+17	from	from	ADP	IN	_	16	_	_	start_char=647|end_char=651
+18	modified	modify	VERB	VBN	Tense=Past|VerbForm=Part	17	_	_	start_char=652|end_char=660
+19	animal	animal	NOUN	NN	Number=Sing	18	_	_	start_char=661|end_char=667
+20	cells	cell	NOUN	NNS	Number=Plur	19	_	_	start_char=668|end_char=673
+21	in	in	ADP	IN	_	20	_	_	start_char=674|end_char=676
+22	special	special	ADJ	JJ	Degree=Pos	21	_	_	start_char=677|end_char=684
+23	equipment	equipment	NOUN	NN	Number=Sing	22	_	_	start_char=685|end_char=694|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=694|end_char=695
+
+# text = This process uses a mix of chemicals, pressure and temperature to create meat that resembles beef, chicken and pork.
+# sent_id = 5
+1	This	this	DET	DT	Number=Sing|PronType=Dem	0	_	_	start_char=696|end_char=700
+2	process	process	NOUN	NN	Number=Sing	1	_	_	start_char=701|end_char=708
+3	uses	use	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=709|end_char=713
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=714|end_char=715
+5	mix	mix	NOUN	NN	Number=Sing	4	_	_	start_char=716|end_char=719
+6	of	of	ADP	IN	_	5	_	_	start_char=720|end_char=722
+7	chemicals	chemical	NOUN	NNS	Number=Plur	6	_	_	start_char=723|end_char=732|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=732|end_char=733
+9	pressure	pressure	NOUN	NN	Number=Sing	8	_	_	start_char=734|end_char=742
+10	and	and	CCONJ	CC	_	9	_	_	start_char=743|end_char=746
+11	temperature	temperature	NOUN	NN	Number=Sing	10	_	_	start_char=747|end_char=758
+12	to	to	PART	TO	_	11	_	_	start_char=759|end_char=761
+13	create	create	VERB	VB	VerbForm=Inf	12	_	_	start_char=762|end_char=768
+14	meat	meat	NOUN	NN	Number=Sing	13	_	_	start_char=769|end_char=773
+15	that	that	PRON	WDT	PronType=Rel	14	_	_	start_char=774|end_char=778
+16	resembles	resemble	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=779|end_char=788
+17	beef	beef	NOUN	NN	Number=Sing	16	_	_	start_char=789|end_char=793|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=793|end_char=794
+19	chicken	chicken	NOUN	NN	Number=Sing	18	_	_	start_char=795|end_char=802
+20	and	and	CCONJ	CC	_	19	_	_	start_char=803|end_char=806
+21	pork	pork	NOUN	NN	Number=Sing	20	_	_	start_char=807|end_char=811|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=811|end_char=812
+
+# text = Though still in the experimental stage, lab-grown meat has sparked a debate about its efficiency and ethics of producing meat without killing animals.
+# sent_id = 6
+1	Though	though	SCONJ	IN	_	0	_	_	start_char=813|end_char=819
+2	still	still	ADV	RB	_	1	_	_	start_char=820|end_char=825
+3	in	in	ADP	IN	_	2	_	_	start_char=826|end_char=828
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=829|end_char=832
+5	experimental	experimental	ADJ	JJ	Degree=Pos	4	_	_	start_char=833|end_char=845
+6	stage	stage	NOUN	NN	Number=Sing	5	_	_	start_char=846|end_char=851|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=851|end_char=852
+8	lab	lab	NOUN	NN	Number=Sing	7	_	_	start_char=853|end_char=856|SpaceAfter=No
+9	-	-	PUNCT	HYPH	_	8	_	_	start_char=856|end_char=857|SpaceAfter=No
+10	grown	grow	VERB	VBN	Tense=Past|VerbForm=Part	9	_	_	start_char=857|end_char=862
+11	meat	meat	NOUN	NN	Number=Sing	10	_	_	start_char=863|end_char=867
+12	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=868|end_char=871
+13	sparked	spark	VERB	VBN	Tense=Past|VerbForm=Part	12	_	_	start_char=872|end_char=879
+14	a	a	DET	DT	Definite=Ind|PronType=Art	13	_	_	start_char=880|end_char=881
+15	debate	debate	NOUN	NN	Number=Sing	14	_	_	start_char=882|end_char=888
+16	about	about	ADP	IN	_	15	_	_	start_char=889|end_char=894
+17	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	_	_	start_char=895|end_char=898
+18	efficiency	efficiency	NOUN	NN	Number=Sing	17	_	_	start_char=899|end_char=909
+19	and	and	CCONJ	CC	_	18	_	_	start_char=910|end_char=913
+20	ethics	ethics	NOUN	NN	Number=Sing	19	_	_	start_char=914|end_char=920
+21	of	of	SCONJ	IN	_	20	_	_	start_char=921|end_char=923
+22	producing	produce	VERB	VBG	VerbForm=Ger	21	_	_	start_char=924|end_char=933
+23	meat	meat	NOUN	NN	Number=Sing	22	_	_	start_char=934|end_char=938
+24	without	without	SCONJ	IN	_	23	_	_	start_char=939|end_char=946
+25	killing	kill	VERB	VBG	VerbForm=Ger	24	_	_	start_char=947|end_char=954
+26	animals	animal	NOUN	NNS	Number=Plur	25	_	_	start_char=955|end_char=962|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=962|end_char=963
+
+# text = (Related: Lab-made chicken meat grown from CANCER CELLS receives FDA approval - Are you ready to eat TUMOR nuggets?)
+# sent_id = 7
+1	(	(	PUNCT	-LRB-	_	0	_	_	start_char=964|end_char=965|SpaceAfter=No
+2	Related	related	ADJ	JJ	Degree=Pos	1	_	_	start_char=965|end_char=972|SpaceAfter=No
+3	:	:	PUNCT	:	_	2	_	_	start_char=972|end_char=973
+4	Lab	Lab	NOUN	NN	Number=Sing	3	_	_	start_char=974|end_char=977|SpaceAfter=No
+5	-	-	PUNCT	HYPH	_	4	_	_	start_char=977|end_char=978|SpaceAfter=No
+6	made	make	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=978|end_char=982
+7	chicken	chicken	NOUN	NN	Number=Sing	6	_	_	start_char=983|end_char=990
+8	meat	meat	NOUN	NN	Number=Sing	7	_	_	start_char=991|end_char=995
+9	grown	grow	VERB	VBN	Tense=Past|VerbForm=Part	8	_	_	start_char=996|end_char=1001
+10	from	from	ADP	IN	_	9	_	_	start_char=1002|end_char=1006
+11	CANCER	CANCER	PROPN	NNP	Number=Sing	10	_	_	start_char=1007|end_char=1013
+12	CELLS	CELLS	PROPN	NNP	Number=Plur	11	_	_	start_char=1014|end_char=1019
+13	receives	receive	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=1020|end_char=1028
+14	FDA	FDA	PROPN	NNP	Number=Sing	13	_	_	start_char=1029|end_char=1032
+15	approval	approval	NOUN	NN	Number=Sing	14	_	_	start_char=1033|end_char=1041
+16	-	-	PUNCT	,	_	15	_	_	start_char=1042|end_char=1043
+17	Are	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	16	_	_	start_char=1044|end_char=1047
+18	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	17	_	_	start_char=1048|end_char=1051
+19	ready	ready	ADJ	JJ	Degree=Pos	18	_	_	start_char=1052|end_char=1057
+20	to	to	PART	TO	_	19	_	_	start_char=1058|end_char=1060
+21	eat	eat	VERB	VB	VerbForm=Inf	20	_	_	start_char=1061|end_char=1064
+22	TUMOR	tumor	NOUN	NN	Number=Sing	21	_	_	start_char=1065|end_char=1070
+23	nuggets	nugget	NOUN	NNS	Number=Plur	22	_	_	start_char=1071|end_char=1078|SpaceAfter=No
+24	?	?	PUNCT	.	_	23	_	_	start_char=1078|end_char=1079|SpaceAfter=No
+25	)	)	PUNCT	-RRB-	_	24	_	_	start_char=1079|end_char=1080|SpacesAfter=\n\n
+
+# text = But according to a 2023 study by researchers at the University of California-Davis, the carbon footprint of lab-grown beef might be worse than that of the product it seeks to replace.
+# sent_id = 8
+1	But	but	CCONJ	CC	_	0	_	_	start_char=1082|end_char=1085
+2	according	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	1	_	_	start_char=1086|end_char=1095
+3	to	to	ADP	IN	_	2	_	_	start_char=1096|end_char=1098
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=1099|end_char=1100
+5	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	4	_	_	start_char=1101|end_char=1105
+6	study	study	NOUN	NN	Number=Sing	5	_	_	start_char=1106|end_char=1111
+7	by	by	ADP	IN	_	6	_	_	start_char=1112|end_char=1114
+8	researchers	researcher	NOUN	NNS	Number=Plur	7	_	_	start_char=1115|end_char=1126
+9	at	at	ADP	IN	_	8	_	_	start_char=1127|end_char=1129
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=1130|end_char=1133
+11	University	University	PROPN	NNP	Number=Sing	10	_	_	start_char=1134|end_char=1144
+12	of	of	ADP	IN	_	11	_	_	start_char=1145|end_char=1147
+13	California	California	PROPN	NNP	Number=Sing	12	_	_	start_char=1148|end_char=1158|SpaceAfter=No
+14	-	-	PUNCT	HYPH	_	13	_	_	start_char=1158|end_char=1159|SpaceAfter=No
+15	Davis	Davis	PROPN	NNP	Number=Sing	14	_	_	start_char=1159|end_char=1164|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=1164|end_char=1165
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=1166|end_char=1169
+18	carbon	carbon	NOUN	NN	Number=Sing	17	_	_	start_char=1170|end_char=1176
+19	footprint	footprint	NOUN	NN	Number=Sing	18	_	_	start_char=1177|end_char=1186
+20	of	of	ADP	IN	_	19	_	_	start_char=1187|end_char=1189
+21	lab	lab	NOUN	NN	Number=Sing	20	_	_	start_char=1190|end_char=1193|SpaceAfter=No
+22	-	-	PUNCT	HYPH	_	21	_	_	start_char=1193|end_char=1194|SpaceAfter=No
+23	grown	grow	VERB	VBN	Tense=Past|VerbForm=Part	22	_	_	start_char=1194|end_char=1199
+24	beef	beef	NOUN	NN	Number=Sing	23	_	_	start_char=1200|end_char=1204
+25	might	might	AUX	MD	VerbForm=Fin	24	_	_	start_char=1205|end_char=1210
+26	be	be	AUX	VB	VerbForm=Inf	25	_	_	start_char=1211|end_char=1213
+27	worse	bad	ADJ	JJR	Degree=Cmp	26	_	_	start_char=1214|end_char=1219
+28	than	than	ADP	IN	_	27	_	_	start_char=1220|end_char=1224
+29	that	that	PRON	DT	Number=Sing|PronType=Dem	28	_	_	start_char=1225|end_char=1229
+30	of	of	ADP	IN	_	29	_	_	start_char=1230|end_char=1232
+31	the	the	DET	DT	Definite=Def|PronType=Art	30	_	_	start_char=1233|end_char=1236
+32	product	product	NOUN	NN	Number=Sing	31	_	_	start_char=1237|end_char=1244
+33	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	32	_	_	start_char=1245|end_char=1247
+34	seeks	seek	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	_	_	start_char=1248|end_char=1253
+35	to	to	PART	TO	_	34	_	_	start_char=1254|end_char=1256
+36	replace	replace	VERB	VB	VerbForm=Inf	35	_	_	start_char=1257|end_char=1264|SpaceAfter=No
+37	.	.	PUNCT	.	_	36	_	_	start_char=1264|end_char=1265
+
+# text = It zoomed in on the use of highly refined or purified growth media, which is used to help animal cells multiply.
+# sent_id = 9
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1266|end_char=1268
+2	zoomed	zoom	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1269|end_char=1275
+3	in	in	ADV	RB	_	2	_	_	start_char=1276|end_char=1278
+4	on	on	ADP	IN	_	3	_	_	start_char=1279|end_char=1281
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1282|end_char=1285
+6	use	use	NOUN	NN	Number=Sing	5	_	_	start_char=1286|end_char=1289
+7	of	of	ADP	IN	_	6	_	_	start_char=1290|end_char=1292
+8	highly	highly	ADV	RB	_	7	_	_	start_char=1293|end_char=1299
+9	refined	refine	VERB	VBN	Tense=Past|VerbForm=Part	8	_	_	start_char=1300|end_char=1307
+10	or	or	CCONJ	CC	_	9	_	_	start_char=1308|end_char=1310
+11	purified	purify	VERB	VBN	Tense=Past|VerbForm=Part	10	_	_	start_char=1311|end_char=1319
+12	growth	growth	NOUN	NN	Number=Sing	11	_	_	start_char=1320|end_char=1326
+13	media	media	NOUN	NN	Number=Sing	12	_	_	start_char=1327|end_char=1332|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=1332|end_char=1333
+15	which	which	PRON	WDT	PronType=Rel	14	_	_	start_char=1334|end_char=1339
+16	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=1340|end_char=1342
+17	used	use	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	16	_	_	start_char=1343|end_char=1347
+18	to	to	PART	TO	_	17	_	_	start_char=1348|end_char=1350
+19	help	help	VERB	VB	VerbForm=Inf	18	_	_	start_char=1351|end_char=1355
+20	animal	animal	NOUN	NN	Number=Sing	19	_	_	start_char=1356|end_char=1362
+21	cells	cell	NOUN	NNS	Number=Plur	20	_	_	start_char=1363|end_char=1368
+22	multiply	multiply	VERB	VB	VerbForm=Inf	21	_	_	start_char=1369|end_char=1377|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=1377|end_char=1378
+
+# text = They wrote that lab-grown meat using purified media in its production has a global warming potential four to 25 times greater than the average compared to the real thing.
+# sent_id = 10
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=1379|end_char=1383
+2	wrote	write	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1384|end_char=1389
+3	that	that	SCONJ	IN	_	2	_	_	start_char=1390|end_char=1394
+4	lab	lab	NOUN	NN	Number=Sing	3	_	_	start_char=1395|end_char=1398|SpaceAfter=No
+5	-	-	PUNCT	HYPH	_	4	_	_	start_char=1398|end_char=1399|SpaceAfter=No
+6	grown	grow	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=1399|end_char=1404
+7	meat	meat	NOUN	NN	Number=Sing	6	_	_	start_char=1405|end_char=1409
+8	using	use	VERB	VBG	VerbForm=Ger	7	_	_	start_char=1410|end_char=1415
+9	purified	purify	VERB	VBN	Tense=Past|VerbForm=Part	8	_	_	start_char=1416|end_char=1424
+10	media	media	NOUN	NN	Number=Sing	9	_	_	start_char=1425|end_char=1430
+11	in	in	ADP	IN	_	10	_	_	start_char=1431|end_char=1433
+12	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	_	_	start_char=1434|end_char=1437
+13	production	production	NOUN	NN	Number=Sing	12	_	_	start_char=1438|end_char=1448
+14	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=1449|end_char=1452
+15	a	a	DET	DT	Definite=Ind|PronType=Art	14	_	_	start_char=1453|end_char=1454
+16	global	global	ADJ	JJ	Degree=Pos	15	_	_	start_char=1455|end_char=1461
+17	warming	warming	NOUN	NN	Number=Sing	16	_	_	start_char=1462|end_char=1469
+18	potential	potential	NOUN	NN	Number=Sing	17	_	_	start_char=1470|end_char=1479
+19	four	four	NUM	CD	NumForm=Word|NumType=Card	18	_	_	start_char=1480|end_char=1484
+20	to	to	ADP	IN	_	19	_	_	start_char=1485|end_char=1487
+21	25	25	NUM	CD	NumForm=Digit|NumType=Card	20	_	_	start_char=1488|end_char=1490
+22	times	time	NOUN	NNS	Number=Plur	21	_	_	start_char=1491|end_char=1496
+23	greater	great	ADJ	JJR	Degree=Cmp	22	_	_	start_char=1497|end_char=1504
+24	than	than	ADP	IN	_	23	_	_	start_char=1505|end_char=1509
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=1510|end_char=1513
+26	average	average	NOUN	NN	Number=Sing	25	_	_	start_char=1514|end_char=1521
+27	compared	compare	VERB	VBN	Tense=Past|VerbForm=Part	26	_	_	start_char=1522|end_char=1530
+28	to	to	ADP	IN	_	27	_	_	start_char=1531|end_char=1533
+29	the	the	DET	DT	Definite=Def|PronType=Art	28	_	_	start_char=1534|end_char=1537
+30	real	real	ADJ	JJ	Degree=Pos	29	_	_	start_char=1538|end_char=1542
+31	thing	thing	NOUN	NN	Number=Sing	30	_	_	start_char=1543|end_char=1548|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=1548|end_char=1549|SpacesAfter=\n\n
+
+# text = Human knowledge is under attack!
+# sent_id = 11
+1	Human	human	ADJ	JJ	Degree=Pos	0	_	_	start_char=1551|end_char=1556
+2	knowledge	knowledge	NOUN	NN	Number=Sing	1	_	_	start_char=1557|end_char=1566
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1567|end_char=1569
+4	under	under	ADP	IN	_	3	_	_	start_char=1570|end_char=1575
+5	attack	attack	NOUN	NN	Number=Sing	4	_	_	start_char=1576|end_char=1582|SpaceAfter=No
+6	!	!	PUNCT	.	_	5	_	_	start_char=1582|end_char=1583
+
+# text = Governments and powerful corporations are using censorship to wipe out humanity's knowledge base about nutrition, herbs, self-reliance, natural immunity, food production, preparedness and much more.
+# sent_id = 12
+1	Governments	government	NOUN	NNS	Number=Plur	0	_	_	start_char=1584|end_char=1595
+2	and	and	CCONJ	CC	_	1	_	_	start_char=1596|end_char=1599
+3	powerful	powerful	ADJ	JJ	Degree=Pos	2	_	_	start_char=1600|end_char=1608
+4	corporations	corporation	NOUN	NNS	Number=Plur	3	_	_	start_char=1609|end_char=1621
+5	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1622|end_char=1625
+6	using	use	VERB	VBG	Tense=Pres|VerbForm=Part	5	_	_	start_char=1626|end_char=1631
+7	censorship	censorship	NOUN	NN	Number=Sing	6	_	_	start_char=1632|end_char=1642
+8	to	to	PART	TO	_	7	_	_	start_char=1643|end_char=1645
+9	wipe	wipe	VERB	VB	VerbForm=Inf	8	_	_	start_char=1646|end_char=1650
+10	out	out	ADP	RP	_	9	_	_	start_char=1651|end_char=1654
+11-12	humanity's	_	_	_	_	_	_	_	start_char=1655|end_char=1665
+11	humanity	humanity	NOUN	NN	Number=Sing	10	_	_	start_char=1655|end_char=1663
+12	's	's	PART	POS	_	11	_	_	start_char=1663|end_char=1665
+13	knowledge	knowledge	NOUN	NN	Number=Sing	12	_	_	start_char=1666|end_char=1675
+14	base	base	NOUN	NN	Number=Sing	13	_	_	start_char=1676|end_char=1680
+15	about	about	ADP	IN	_	14	_	_	start_char=1681|end_char=1686
+16	nutrition	nutrition	NOUN	NN	Number=Sing	15	_	_	start_char=1687|end_char=1696|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=1696|end_char=1697
+18	herbs	herb	NOUN	NNS	Number=Plur	17	_	_	start_char=1698|end_char=1703|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=1703|end_char=1704
+20	self	self	NOUN	NN	Number=Sing	19	_	_	start_char=1705|end_char=1709|SpaceAfter=No
+21	-	-	PUNCT	HYPH	_	20	_	_	start_char=1709|end_char=1710|SpaceAfter=No
+22	reliance	reliance	NOUN	NN	Number=Sing	21	_	_	start_char=1710|end_char=1718|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=1718|end_char=1719
+24	natural	natural	ADJ	JJ	Degree=Pos	23	_	_	start_char=1720|end_char=1727
+25	immunity	immunity	NOUN	NN	Number=Sing	24	_	_	start_char=1728|end_char=1736|SpaceAfter=No
+26	,	,	PUNCT	,	_	25	_	_	start_char=1736|end_char=1737
+27	food	food	NOUN	NN	Number=Sing	26	_	_	start_char=1738|end_char=1742
+28	production	production	NOUN	NN	Number=Sing	27	_	_	start_char=1743|end_char=1753|SpaceAfter=No
+29	,	,	PUNCT	,	_	28	_	_	start_char=1753|end_char=1754
+30	preparedness	preparedness	NOUN	NN	Number=Sing	29	_	_	start_char=1755|end_char=1767
+31	and	and	CCONJ	CC	_	30	_	_	start_char=1768|end_char=1771
+32	much	much	ADV	RB	_	31	_	_	start_char=1772|end_char=1776
+33	more	more	ADJ	JJR	Degree=Cmp	32	_	_	start_char=1777|end_char=1781|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=1781|end_char=1782
+
+# text = We are preserving human knowledge using AI technology while building the infrastructure of human freedom.
+# sent_id = 13
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	start_char=1783|end_char=1785
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1786|end_char=1789
+3	preserving	preserve	VERB	VBG	Tense=Pres|VerbForm=Part	2	_	_	start_char=1790|end_char=1800
+4	human	human	ADJ	JJ	Degree=Pos	3	_	_	start_char=1801|end_char=1806
+5	knowledge	knowledge	NOUN	NN	Number=Sing	4	_	_	start_char=1807|end_char=1816
+6	using	use	VERB	VBG	VerbForm=Ger	5	_	_	start_char=1817|end_char=1822
+7	AI	AI	NOUN	NN	Number=Sing	6	_	_	start_char=1823|end_char=1825
+8	technology	technology	NOUN	NN	Number=Sing	7	_	_	start_char=1826|end_char=1836
+9	while	while	SCONJ	IN	_	8	_	_	start_char=1837|end_char=1842
+10	building	build	VERB	VBG	VerbForm=Ger	9	_	_	start_char=1843|end_char=1851
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=1852|end_char=1855
+12	infrastructure	infrastructure	NOUN	NN	Number=Sing	11	_	_	start_char=1856|end_char=1870
+13	of	of	ADP	IN	_	12	_	_	start_char=1871|end_char=1873
+14	human	human	ADJ	JJ	Degree=Pos	13	_	_	start_char=1874|end_char=1879
+15	freedom	freedom	NOUN	NN	Number=Sing	14	_	_	start_char=1880|end_char=1887|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=1887|end_char=1888
+
+# text = Speak freely without censorship at the new decentralized, blockchain-power Brighteon.
+# sent_id = 14
+1	Speak	speak	VERB	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=1889|end_char=1894
+2	freely	freely	ADV	RB	_	1	_	_	start_char=1895|end_char=1901
+3	without	without	ADP	IN	_	2	_	_	start_char=1902|end_char=1909
+4	censorship	censorship	NOUN	NN	Number=Sing	3	_	_	start_char=1910|end_char=1920
+5	at	at	ADP	IN	_	4	_	_	start_char=1921|end_char=1923
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1924|end_char=1927
+7	new	new	ADJ	JJ	Degree=Pos	6	_	_	start_char=1928|end_char=1931
+8	decentralized	decentralize	ADJ	JJ	Degree=Pos	7	_	_	start_char=1932|end_char=1945|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1945|end_char=1946
+10	blockchain	blockchain	NOUN	NN	Number=Sing	9	_	_	start_char=1947|end_char=1957|SpaceAfter=No
+11	-	-	PUNCT	HYPH	_	10	_	_	start_char=1957|end_char=1958|SpaceAfter=No
+12	power	power	NOUN	NN	Number=Sing	11	_	_	start_char=1958|end_char=1963
+13	Brighteon	Brighteon	PROPN	NNP	Number=Sing	12	_	_	start_char=1964|end_char=1973|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=1973|end_char=1974|SpaceAfter=No
+
+# text = io.
+# sent_id = 15
+1	io	io	INTJ	UH	_	0	_	_	start_char=1974|end_char=1976|SpaceAfter=No
+2	.	.	PUNCT	.	_	1	_	_	start_char=1976|end_char=1977
+
+# text = Explore our free, downloadable generative AI tools at Brighteon.
+# sent_id = 16
+1	Explore	explore	VERB	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=1978|end_char=1985
+2	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	1	_	_	start_char=1986|end_char=1989
+3	free	free	ADJ	JJ	Degree=Pos	2	_	_	start_char=1990|end_char=1994|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1994|end_char=1995
+5	downloadable	downloadable	ADJ	JJ	Degree=Pos	4	_	_	start_char=1996|end_char=2008
+6	generative	generative	ADJ	JJ	Degree=Pos	5	_	_	start_char=2009|end_char=2019
+7	AI	AI	NOUN	NN	Number=Sing	6	_	_	start_char=2020|end_char=2022
+8	tools	tool	NOUN	NNS	Number=Plur	7	_	_	start_char=2023|end_char=2028
+9	at	at	ADP	IN	_	8	_	_	start_char=2029|end_char=2031
+10	Brighteon	Brighteon	PROPN	NNP	Number=Sing	9	_	_	start_char=2032|end_char=2041|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=2041|end_char=2042|SpaceAfter=No
+
+# text = AI.
+# sent_id = 17
+1	AI	AI	INTJ	UH	_	0	_	_	start_char=2042|end_char=2044|SpaceAfter=No
+2	.	.	PUNCT	.	_	1	_	_	start_char=2044|end_char=2045
+
+# text = Support our efforts to build the infrastructure of human freedom by shopping at HealthRangerStore.com, featuring lab-tested, certified organic, non-GMO foods and nutritional solutions.
+# sent_id = 18
+1	Support	support	VERB	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=2046|end_char=2053
+2	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	1	_	_	start_char=2054|end_char=2057
+3	efforts	effort	NOUN	NNS	Number=Plur	2	_	_	start_char=2058|end_char=2065
+4	to	to	PART	TO	_	3	_	_	start_char=2066|end_char=2068
+5	build	build	VERB	VB	VerbForm=Inf	4	_	_	start_char=2069|end_char=2074
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=2075|end_char=2078
+7	infrastructure	infrastructure	NOUN	NN	Number=Sing	6	_	_	start_char=2079|end_char=2093
+8	of	of	ADP	IN	_	7	_	_	start_char=2094|end_char=2096
+9	human	human	ADJ	JJ	Degree=Pos	8	_	_	start_char=2097|end_char=2102
+10	freedom	freedom	NOUN	NN	Number=Sing	9	_	_	start_char=2103|end_char=2110
+11	by	by	SCONJ	IN	_	10	_	_	start_char=2111|end_char=2113
+12	shopping	shopping	NOUN	NN	Number=Sing	11	_	_	start_char=2114|end_char=2122
+13	at	at	ADP	IN	_	12	_	_	start_char=2123|end_char=2125
+14	HealthRangerStore.com	HealthRangerStore.com	PROPN	NNP	Number=Sing	13	_	_	start_char=2126|end_char=2147|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=2147|end_char=2148
+16	featuring	feature	VERB	VBG	VerbForm=Ger	15	_	_	start_char=2149|end_char=2158
+17	lab	lab	NOUN	NN	Number=Sing	16	_	_	start_char=2159|end_char=2162|SpaceAfter=No
+18	-	-	PUNCT	HYPH	_	17	_	_	start_char=2162|end_char=2163|SpaceAfter=No
+19	tested	test	VERB	VBN	Tense=Past|VerbForm=Part	18	_	_	start_char=2163|end_char=2169|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=2169|end_char=2170
+21	certified	certify	VERB	VBN	Tense=Past|VerbForm=Part	20	_	_	start_char=2171|end_char=2180
+22	organic	organic	ADJ	JJ	Degree=Pos	21	_	_	start_char=2181|end_char=2188|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=2188|end_char=2189
+24	non-GMO	non-gmo	NOUN	NN	Number=Sing	23	_	_	start_char=2190|end_char=2197
+25	foods	food	NOUN	NNS	Number=Plur	24	_	_	start_char=2198|end_char=2203
+26	and	and	CCONJ	CC	_	25	_	_	start_char=2204|end_char=2207
+27	nutritional	nutritional	ADJ	JJ	Degree=Pos	26	_	_	start_char=2208|end_char=2219
+28	solutions	solution	NOUN	NNS	Number=Plur	27	_	_	start_char=2220|end_char=2229|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=2229|end_char=2230|SpacesAfter=\n\n
+
+# text = Critics argue that using U.S. troops to test lab-grown meat, which is still experimental and not widely available in stores, is inappropriate.
+# sent_id = 19
+1	Critics	critic	NOUN	NNS	Number=Plur	0	_	_	start_char=2232|end_char=2239
+2	argue	argue	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2240|end_char=2245
+3	that	that	SCONJ	IN	_	2	_	_	start_char=2246|end_char=2250
+4	using	use	VERB	VBG	VerbForm=Ger	3	_	_	start_char=2251|end_char=2256
+5	U.S.	U.S.	PROPN	NNP	Number=Sing	4	_	_	start_char=2257|end_char=2261
+6	troops	troops	NOUN	NNS	Number=Plur	5	_	_	start_char=2262|end_char=2268
+7	to	to	PART	TO	_	6	_	_	start_char=2269|end_char=2271
+8	test	test	VERB	VB	VerbForm=Inf	7	_	_	start_char=2272|end_char=2276
+9	lab	lab	NOUN	NN	Number=Sing	8	_	_	start_char=2277|end_char=2280|SpaceAfter=No
+10	-	-	PUNCT	HYPH	_	9	_	_	start_char=2280|end_char=2281|SpaceAfter=No
+11	grown	grow	VERB	VBN	Tense=Past|VerbForm=Part	10	_	_	start_char=2281|end_char=2286
+12	meat	meat	NOUN	NN	Number=Sing	11	_	_	start_char=2287|end_char=2291|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=2291|end_char=2292
+14	which	which	PRON	WDT	PronType=Rel	13	_	_	start_char=2293|end_char=2298
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=2299|end_char=2301
+16	still	still	ADV	RB	_	15	_	_	start_char=2302|end_char=2307
+17	experimental	experimental	ADJ	JJ	Degree=Pos	16	_	_	start_char=2308|end_char=2320
+18	and	and	CCONJ	CC	_	17	_	_	start_char=2321|end_char=2324
+19	not	not	PART	RB	_	18	_	_	start_char=2325|end_char=2328
+20	widely	widely	ADV	RB	Degree=Pos	19	_	_	start_char=2329|end_char=2335
+21	available	available	ADJ	JJ	Degree=Pos	20	_	_	start_char=2336|end_char=2345
+22	in	in	ADP	IN	_	21	_	_	start_char=2346|end_char=2348
+23	stores	store	NOUN	NNS	Number=Plur	22	_	_	start_char=2349|end_char=2355|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=2355|end_char=2356
+25	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	_	_	start_char=2357|end_char=2359
+26	inappropriate	inappropriate	ADJ	JJ	Degree=Pos	25	_	_	start_char=2360|end_char=2373|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=2373|end_char=2374
+
+# text = Although the U.S. Department of Agriculture approved two California companies to sell cultured chicken to restaurants in 2023, some believe taxpayer money shouldn’t fund the lab-grown meat industry.
+# sent_id = 20
+1	Although	although	SCONJ	IN	_	0	_	_	start_char=2375|end_char=2383
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=2384|end_char=2387
+3	U.S.	U.S.	PROPN	NNP	Number=Sing	2	_	_	start_char=2388|end_char=2392
+4	Department	Department	PROPN	NNP	Number=Sing	3	_	_	start_char=2393|end_char=2403
+5	of	of	ADP	IN	_	4	_	_	start_char=2404|end_char=2406
+6	Agriculture	Agriculture	PROPN	NNP	Number=Sing	5	_	_	start_char=2407|end_char=2418
+7	approved	approve	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=2419|end_char=2427
+8	two	two	NUM	CD	NumForm=Word|NumType=Card	7	_	_	start_char=2428|end_char=2431
+9	California	California	PROPN	NNP	Number=Sing	8	_	_	start_char=2432|end_char=2442
+10	companies	company	NOUN	NNS	Number=Plur	9	_	_	start_char=2443|end_char=2452
+11	to	to	PART	TO	_	10	_	_	start_char=2453|end_char=2455
+12	sell	sell	VERB	VB	VerbForm=Inf	11	_	_	start_char=2456|end_char=2460
+13	cultured	cultured	ADJ	JJ	Degree=Pos	12	_	_	start_char=2461|end_char=2469
+14	chicken	chicken	NOUN	NN	Number=Sing	13	_	_	start_char=2470|end_char=2477
+15	to	to	ADP	IN	_	14	_	_	start_char=2478|end_char=2480
+16	restaurants	restaurant	NOUN	NNS	Number=Plur	15	_	_	start_char=2481|end_char=2492
+17	in	in	ADP	IN	_	16	_	_	start_char=2493|end_char=2495
+18	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	17	_	_	start_char=2496|end_char=2500|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=2500|end_char=2501
+20	some	some	DET	DT	_	19	_	_	start_char=2502|end_char=2506
+21	believe	believe	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	_	_	start_char=2507|end_char=2514
+22	taxpayer	taxpayer	NOUN	NN	Number=Sing	21	_	_	start_char=2515|end_char=2523
+23	money	money	NOUN	NN	Number=Sing	22	_	_	start_char=2524|end_char=2529
+24-25	shouldn’t	_	_	_	_	_	_	_	start_char=2530|end_char=2539
+24	should	should	AUX	MD	VerbForm=Fin	23	_	_	start_char=2530|end_char=2536
+25	n’t	not	PART	RB	_	24	_	_	start_char=2536|end_char=2539
+26	fund	fund	VERB	VB	VerbForm=Inf	25	_	_	start_char=2540|end_char=2544
+27	the	the	DET	DT	Definite=Def|PronType=Art	26	_	_	start_char=2545|end_char=2548
+28	lab	lab	NOUN	NN	Number=Sing	27	_	_	start_char=2549|end_char=2552|SpaceAfter=No
+29	-	-	PUNCT	HYPH	_	28	_	_	start_char=2552|end_char=2553|SpaceAfter=No
+30	grown	grow	VERB	VBN	Tense=Past|VerbForm=Part	29	_	_	start_char=2553|end_char=2558
+31	meat	meat	NOUN	NN	Number=Sing	30	_	_	start_char=2559|end_char=2563
+32	industry	industry	NOUN	NN	Number=Sing	31	_	_	start_char=2564|end_char=2572|SpaceAfter=No
+33	.	.	PUNCT	.	_	32	_	_	start_char=2572|end_char=2573|SpacesAfter=\n\n
+
+# text = Jack Hubbard, executive director for the Center for the Environment and Welfare (CEW), was among the vocal critics of the plan.
+# sent_id = 21
+1	Jack	Jack	PROPN	NNP	Number=Sing	0	_	_	start_char=2575|end_char=2579
+2	Hubbard	Hubbard	PROPN	NNP	Number=Sing	1	_	_	start_char=2580|end_char=2587|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=2587|end_char=2588
+4	executive	executive	ADJ	JJ	Degree=Pos	3	_	_	start_char=2589|end_char=2598
+5	director	director	NOUN	NN	Number=Sing	4	_	_	start_char=2599|end_char=2607
+6	for	for	ADP	IN	_	5	_	_	start_char=2608|end_char=2611
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=2612|end_char=2615
+8	Center	Center	PROPN	NNP	Number=Sing	7	_	_	start_char=2616|end_char=2622
+9	for	for	ADP	IN	_	8	_	_	start_char=2623|end_char=2626
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=2627|end_char=2630
+11	Environment	environment	PROPN	NNP	Number=Sing	10	_	_	start_char=2631|end_char=2642
+12	and	and	CCONJ	CC	_	11	_	_	start_char=2643|end_char=2646
+13	Welfare	Welfare	PROPN	NNP	Number=Sing	12	_	_	start_char=2647|end_char=2654
+14	(	(	PUNCT	-LRB-	_	13	_	_	start_char=2655|end_char=2656|SpaceAfter=No
+15	CEW	CEW	PROPN	NNP	Number=Sing	14	_	_	start_char=2656|end_char=2659|SpaceAfter=No
+16	)	)	PUNCT	-RRB-	_	15	_	_	start_char=2659|end_char=2660|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=2660|end_char=2661
+18	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	_	_	start_char=2662|end_char=2665
+19	among	among	ADP	IN	_	18	_	_	start_char=2666|end_char=2671
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=2672|end_char=2675
+21	vocal	vocal	ADJ	JJ	Degree=Pos	20	_	_	start_char=2676|end_char=2681
+22	critics	critic	NOUN	NNS	Number=Plur	21	_	_	start_char=2682|end_char=2689
+23	of	of	ADP	IN	_	22	_	_	start_char=2690|end_char=2692
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=2693|end_char=2696
+25	plan	plan	NOUN	NN	Number=Sing	24	_	_	start_char=2697|end_char=2701|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=2701|end_char=2702
+
+# text = "Taxpayer dollars should not be used to fund the lab-grown meat sector," he remarked.
+# sent_id = 22
+1	"	"	PUNCT	``	_	0	_	_	start_char=2703|end_char=2704|SpaceAfter=No
+2	Taxpayer	taxpayer	NOUN	NN	Number=Sing	1	_	_	start_char=2704|end_char=2712
+3	dollars	dollar	NOUN	NNS	Number=Plur	2	_	_	start_char=2713|end_char=2720
+4	should	should	AUX	MD	VerbForm=Fin	3	_	_	start_char=2721|end_char=2727
+5	not	not	PART	RB	_	4	_	_	start_char=2728|end_char=2731
+6	be	be	AUX	VB	VerbForm=Inf	5	_	_	start_char=2732|end_char=2734
+7	used	use	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	_	_	start_char=2735|end_char=2739
+8	to	to	PART	TO	_	7	_	_	start_char=2740|end_char=2742
+9	fund	fund	VERB	VB	VerbForm=Inf	8	_	_	start_char=2743|end_char=2747
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=2748|end_char=2751
+11	lab	lab	NOUN	NN	Number=Sing	10	_	_	start_char=2752|end_char=2755|SpaceAfter=No
+12	-	-	PUNCT	HYPH	_	11	_	_	start_char=2755|end_char=2756|SpaceAfter=No
+13	grown	grow	VERB	VBN	Tense=Past|VerbForm=Part	12	_	_	start_char=2756|end_char=2761
+14	meat	meat	NOUN	NN	Number=Sing	13	_	_	start_char=2762|end_char=2766
+15	sector	sector	NOUN	NN	Number=Sing	14	_	_	start_char=2767|end_char=2773|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=2773|end_char=2774|SpaceAfter=No
+17	"	"	PUNCT	''	_	16	_	_	start_char=2774|end_char=2775
+18	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	_	_	start_char=2776|end_char=2778
+19	remarked	remark	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	_	_	start_char=2779|end_char=2787|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=2787|end_char=2788|SpacesAfter=\n\n
+
+# text = "Our troops deserve better than to be served lab-grown meat, produced in bioreactors with immortalized cells and chemicals.
+# sent_id = 23
+1	"	"	PUNCT	``	_	0	_	_	start_char=2790|end_char=2791|SpaceAfter=No
+2	Our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	1	_	_	start_char=2791|end_char=2794
+3	troops	troops	NOUN	NNS	Number=Plur	2	_	_	start_char=2795|end_char=2801
+4	deserve	deserve	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=2802|end_char=2809
+5	better	good	ADJ	JJR	Degree=Cmp	4	_	_	start_char=2810|end_char=2816
+6	than	than	SCONJ	IN	_	5	_	_	start_char=2817|end_char=2821
+7	to	to	PART	TO	_	6	_	_	start_char=2822|end_char=2824
+8	be	be	AUX	VB	VerbForm=Inf	7	_	_	start_char=2825|end_char=2827
+9	served	serve	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	_	_	start_char=2828|end_char=2834
+10	lab	lab	NOUN	NN	Number=Sing	9	_	_	start_char=2835|end_char=2838|SpaceAfter=No
+11	-	-	PUNCT	HYPH	_	10	_	_	start_char=2838|end_char=2839|SpaceAfter=No
+12	grown	grow	VERB	VBN	Tense=Past|VerbForm=Part	11	_	_	start_char=2839|end_char=2844
+13	meat	meat	NOUN	NN	Number=Sing	12	_	_	start_char=2845|end_char=2849|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=2849|end_char=2850
+15	produced	produce	VERB	VBN	Tense=Past|VerbForm=Part	14	_	_	start_char=2851|end_char=2859
+16	in	in	ADP	IN	_	15	_	_	start_char=2860|end_char=2862
+17	bioreactors	bioreactor	NOUN	NNS	Number=Plur	16	_	_	start_char=2863|end_char=2874
+18	with	with	ADP	IN	_	17	_	_	start_char=2875|end_char=2879
+19	immortalized	immortalize	VERB	VBN	Tense=Past|VerbForm=Part	18	_	_	start_char=2880|end_char=2892
+20	cells	cell	NOUN	NNS	Number=Plur	19	_	_	start_char=2893|end_char=2898
+21	and	and	CCONJ	CC	_	20	_	_	start_char=2899|end_char=2902
+22	chemicals	chemical	NOUN	NNS	Number=Plur	21	_	_	start_char=2903|end_char=2912|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=2912|end_char=2913
+
+# text = Unfortunately, this effort is being driven by an agenda that is political and anti-farmer.
+# sent_id = 24
+1	Unfortunately	unfortunately	ADV	RB	_	0	_	_	start_char=2914|end_char=2927|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=2927|end_char=2928
+3	this	this	DET	DT	Number=Sing|PronType=Dem	2	_	_	start_char=2929|end_char=2933
+4	effort	effort	NOUN	NN	Number=Sing	3	_	_	start_char=2934|end_char=2940
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=2941|end_char=2943
+6	being	be	AUX	VBG	VerbForm=Ger	5	_	_	start_char=2944|end_char=2949
+7	driven	drive	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	_	_	start_char=2950|end_char=2956
+8	by	by	ADP	IN	_	7	_	_	start_char=2957|end_char=2959
+9	an	a	DET	DT	Definite=Ind|PronType=Art	8	_	_	start_char=2960|end_char=2962
+10	agenda	agenda	NOUN	NN	Number=Sing	9	_	_	start_char=2963|end_char=2969
+11	that	that	PRON	WDT	PronType=Rel	10	_	_	start_char=2970|end_char=2974
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=2975|end_char=2977
+13	political	political	ADJ	JJ	Degree=Pos	12	_	_	start_char=2978|end_char=2987
+14	and	and	CCONJ	CC	_	13	_	_	start_char=2988|end_char=2991
+15	anti-farmer	anti-farmer	ADJ	JJ	Degree=Pos	14	_	_	start_char=2992|end_char=3003|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=3003|end_char=3004
+
+# text = Our soldiers should never be used as guinea pigs."
+# sent_id = 25
+1	Our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	0	_	_	start_char=3005|end_char=3008
+2	soldiers	soldier	NOUN	NNS	Number=Plur	1	_	_	start_char=3009|end_char=3017
+3	should	should	AUX	MD	VerbForm=Fin	2	_	_	start_char=3018|end_char=3024
+4	never	never	ADV	RB	_	3	_	_	start_char=3025|end_char=3030
+5	be	be	AUX	VB	VerbForm=Inf	4	_	_	start_char=3031|end_char=3033
+6	used	use	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	_	_	start_char=3034|end_char=3038
+7	as	as	ADP	IN	_	6	_	_	start_char=3039|end_char=3041
+8	guinea	guinea	NOUN	NN	Number=Sing	7	_	_	start_char=3042|end_char=3048
+9	pigs	pig	NOUN	NNS	Number=Plur	8	_	_	start_char=3049|end_char=3053|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=3053|end_char=3054|SpaceAfter=No
+11	"	"	PUNCT	''	_	10	_	_	start_char=3054|end_char=3055|SpacesAfter=\n\n
+
+# text = Even Ethan Lane, vice president for government affairs at the National Cattlemen's Beef Association, has criticized the DoD research grant that bankrolled BioMADE.
+# sent_id = 26
+1	Even	even	ADV	RB	_	0	_	_	start_char=3057|end_char=3061
+2	Ethan	Ethan	PROPN	NNP	Number=Sing	1	_	_	start_char=3062|end_char=3067
+3	Lane	Lane	PROPN	NNP	Number=Sing	2	_	_	start_char=3068|end_char=3072|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=3072|end_char=3073
+5	vice	vice	ADJ	JJ	Degree=Pos	4	_	_	start_char=3074|end_char=3078
+6	president	president	NOUN	NN	Number=Sing	5	_	_	start_char=3079|end_char=3088
+7	for	for	ADP	IN	_	6	_	_	start_char=3089|end_char=3092
+8	government	government	NOUN	NN	Number=Sing	7	_	_	start_char=3093|end_char=3103
+9	affairs	affair	NOUN	NNS	Number=Plur	8	_	_	start_char=3104|end_char=3111
+10	at	at	ADP	IN	_	9	_	_	start_char=3112|end_char=3114
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=3115|end_char=3118
+12	National	National	ADJ	NNP	Degree=Pos	11	_	_	start_char=3119|end_char=3127
+13-14	Cattlemen's	_	_	_	_	_	_	_	start_char=3128|end_char=3139
+13	Cattlemen	Cattlemen	PROPN	NNP	Number=Sing	12	_	_	start_char=3128|end_char=3137
+14	's	's	PART	POS	_	13	_	_	start_char=3137|end_char=3139
+15	Beef	Beef	PROPN	NNP	Number=Sing	14	_	_	start_char=3140|end_char=3144
+16	Association	Association	PROPN	NNP	Number=Sing	15	_	_	start_char=3145|end_char=3156|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=3156|end_char=3157
+18	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=3158|end_char=3161
+19	criticized	criticize	VERB	VBN	Tense=Past|VerbForm=Part	18	_	_	start_char=3162|end_char=3172
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=3173|end_char=3176
+21	DoD	DoD	PROPN	NNP	Number=Sing	20	_	_	start_char=3177|end_char=3180
+22	research	research	NOUN	NN	Number=Sing	21	_	_	start_char=3181|end_char=3189
+23	grant	grant	NOUN	NN	Number=Sing	22	_	_	start_char=3190|end_char=3195
+24	that	that	PRON	WDT	PronType=Rel	23	_	_	start_char=3196|end_char=3200
+25	bankrolled	bankrol	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	_	_	start_char=3201|end_char=3211
+26	BioMADE	BioMADE	PROPN	NNP	Number=Sing	25	_	_	start_char=3212|end_char=3219|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=3219|end_char=3220|SpacesAfter=\n\n
+
+# text = "It is outrageous that the DoD is spending millions of taxpayer dollars to feed our heroes like lab rats," he said in a statement.
+# sent_id = 27
+1	"	"	PUNCT	``	_	0	_	_	start_char=3222|end_char=3223|SpaceAfter=No
+2	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	_	_	start_char=3223|end_char=3225
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=3226|end_char=3228
+4	outrageous	outrageous	ADJ	JJ	Degree=Pos	3	_	_	start_char=3229|end_char=3239
+5	that	that	SCONJ	IN	_	4	_	_	start_char=3240|end_char=3244
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=3245|end_char=3248
+7	DoD	DoD	PROPN	NNP	Number=Sing	6	_	_	start_char=3249|end_char=3252
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=3253|end_char=3255
+9	spending	spend	VERB	VBG	Tense=Pres|VerbForm=Part	8	_	_	start_char=3256|end_char=3264
+10	millions	million	NOUN	NNS	Number=Plur	9	_	_	start_char=3265|end_char=3273
+11	of	of	ADP	IN	_	10	_	_	start_char=3274|end_char=3276
+12	taxpayer	taxpayer	NOUN	NN	Number=Sing	11	_	_	start_char=3277|end_char=3285
+13	dollars	dollar	NOUN	NNS	Number=Plur	12	_	_	start_char=3286|end_char=3293
+14	to	to	PART	TO	_	13	_	_	start_char=3294|end_char=3296
+15	feed	feed	VERB	VB	VerbForm=Inf	14	_	_	start_char=3297|end_char=3301
+16	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	15	_	_	start_char=3302|end_char=3305
+17	heroes	hero	NOUN	NNS	Number=Plur	16	_	_	start_char=3306|end_char=3312
+18	like	like	ADP	IN	_	17	_	_	start_char=3313|end_char=3317
+19	lab	lab	NOUN	NN	Number=Sing	18	_	_	start_char=3318|end_char=3321
+20	rats	rat	NOUN	NNS	Number=Plur	19	_	_	start_char=3322|end_char=3326|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=3326|end_char=3327|SpaceAfter=No
+22	"	"	PUNCT	''	_	21	_	_	start_char=3327|end_char=3328
+23	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	_	_	start_char=3329|end_char=3331
+24	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	23	_	_	start_char=3332|end_char=3336
+25	in	in	ADP	IN	_	24	_	_	start_char=3337|end_char=3339
+26	a	a	DET	DT	Definite=Ind|PronType=Art	25	_	_	start_char=3340|end_char=3341
+27	statement	statement	NOUN	NN	Number=Sing	26	_	_	start_char=3342|end_char=3351|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=3351|end_char=3352
+
+# text = "This misguided research project is a giant slap in the face to everyone that has served our country.
+# sent_id = 28
+1	"	"	PUNCT	``	_	0	_	_	start_char=3353|end_char=3354|SpaceAfter=No
+2	This	this	DET	DT	Number=Sing|PronType=Dem	1	_	_	start_char=3354|end_char=3358
+3	misguided	misguided	ADJ	JJ	Degree=Pos	2	_	_	start_char=3359|end_char=3368
+4	research	research	NOUN	NN	Number=Sing	3	_	_	start_char=3369|end_char=3377
+5	project	project	NOUN	NN	Number=Sing	4	_	_	start_char=3378|end_char=3385
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=3386|end_char=3388
+7	a	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=3389|end_char=3390
+8	giant	giant	ADJ	JJ	Degree=Pos	7	_	_	start_char=3391|end_char=3396
+9	slap	slap	NOUN	NN	Number=Sing	8	_	_	start_char=3397|end_char=3401
+10	in	in	ADP	IN	_	9	_	_	start_char=3402|end_char=3404
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=3405|end_char=3408
+12	face	face	NOUN	NN	Number=Sing	11	_	_	start_char=3409|end_char=3413
+13	to	to	ADP	IN	_	12	_	_	start_char=3414|end_char=3416
+14	everyone	everyone	PRON	NN	Number=Sing|PronType=Tot	13	_	_	start_char=3417|end_char=3425
+15	that	that	PRON	WDT	PronType=Rel	14	_	_	start_char=3426|end_char=3430
+16	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=3431|end_char=3434
+17	served	serve	VERB	VBN	Tense=Past|VerbForm=Part	16	_	_	start_char=3435|end_char=3441
+18	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	17	_	_	start_char=3442|end_char=3445
+19	country	country	NOUN	NN	Number=Sing	18	_	_	start_char=3446|end_char=3453|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=3453|end_char=3454
+
+# text = Our veterans and active-duty troops deserve so much better than this."
+# sent_id = 29
+1	Our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	0	_	_	start_char=3455|end_char=3458
+2	veterans	veteran	NOUN	NNS	Number=Plur	1	_	_	start_char=3459|end_char=3467
+3	and	and	CCONJ	CC	_	2	_	_	start_char=3468|end_char=3471
+4	active	active	ADJ	JJ	Degree=Pos	3	_	_	start_char=3472|end_char=3478|SpaceAfter=No
+5	-	-	PUNCT	HYPH	_	4	_	_	start_char=3478|end_char=3479|SpaceAfter=No
+6	duty	duty	NOUN	NN	Number=Sing	5	_	_	start_char=3479|end_char=3483
+7	troops	troops	NOUN	NNS	Number=Plur	6	_	_	start_char=3484|end_char=3490
+8	deserve	deserve	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=3491|end_char=3498
+9	so	so	ADV	RB	_	8	_	_	start_char=3499|end_char=3501
+10	much	much	ADV	RB	_	9	_	_	start_char=3502|end_char=3506
+11	better	good	ADJ	JJR	Degree=Cmp	10	_	_	start_char=3507|end_char=3513
+12	than	than	ADP	IN	_	11	_	_	start_char=3514|end_char=3518
+13	this	this	PRON	DT	Number=Sing|PronType=Dem	12	_	_	start_char=3519|end_char=3523|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=3523|end_char=3524|SpaceAfter=No
+15	"	"	PUNCT	''	_	14	_	_	start_char=3524|end_char=3525|SpacesAfter=\n\n
+
+# text = "U.S. cattle producers raise the highest-quality beef in the world, with the lowest carbon footprint – and American troops deserve to be served that same wholesome, natural meat and not ultra-processed, lab-grown protein that is cooked up in a chemical-filled bioreactor."
+# sent_id = 30
+1	"	"	PUNCT	``	_	0	_	_	start_char=3527|end_char=3528|SpaceAfter=No
+2	U.S.	U.S.	PROPN	NNP	Number=Sing	1	_	_	start_char=3528|end_char=3532
+3	cattle	cattle	NOUN	NN	Number=Sing	2	_	_	start_char=3533|end_char=3539
+4	producers	producer	NOUN	NNS	Number=Plur	3	_	_	start_char=3540|end_char=3549
+5	raise	raise	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=3550|end_char=3555
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=3556|end_char=3559
+7	highest	high	ADJ	JJS	Degree=Sup	6	_	_	start_char=3560|end_char=3567|SpaceAfter=No
+8	-	-	PUNCT	HYPH	_	7	_	_	start_char=3567|end_char=3568|SpaceAfter=No
+9	quality	quality	NOUN	NN	Number=Sing	8	_	_	start_char=3568|end_char=3575
+10	beef	beef	NOUN	NN	Number=Sing	9	_	_	start_char=3576|end_char=3580
+11	in	in	ADP	IN	_	10	_	_	start_char=3581|end_char=3583
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=3584|end_char=3587
+13	world	world	NOUN	NN	Number=Sing	12	_	_	start_char=3588|end_char=3593|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=3593|end_char=3594
+15	with	with	ADP	IN	_	14	_	_	start_char=3595|end_char=3599
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=3600|end_char=3603
+17	lowest	low	ADJ	JJS	Degree=Sup	16	_	_	start_char=3604|end_char=3610
+18	carbon	carbon	NOUN	NN	Number=Sing	17	_	_	start_char=3611|end_char=3617
+19	footprint	footprint	NOUN	NN	Number=Sing	18	_	_	start_char=3618|end_char=3627
+20	–	-	PUNCT	:	_	19	_	_	start_char=3628|end_char=3629
+21	and	and	CCONJ	CC	_	20	_	_	start_char=3630|end_char=3633
+22	American	American	ADJ	JJ	Degree=Pos	21	_	_	start_char=3634|end_char=3642
+23	troops	troops	NOUN	NNS	Number=Plur	22	_	_	start_char=3643|end_char=3649
+24	deserve	deserve	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	_	_	start_char=3650|end_char=3657
+25	to	to	PART	TO	_	24	_	_	start_char=3658|end_char=3660
+26	be	be	AUX	VB	VerbForm=Inf	25	_	_	start_char=3661|end_char=3663
+27	served	serve	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	26	_	_	start_char=3664|end_char=3670
+28	that	that	DET	DT	Number=Sing|PronType=Dem	27	_	_	start_char=3671|end_char=3675
+29	same	same	ADJ	JJ	Degree=Pos	28	_	_	start_char=3676|end_char=3680
+30	wholesome	wholesome	ADJ	JJ	Degree=Pos	29	_	_	start_char=3681|end_char=3690|SpaceAfter=No
+31	,	,	PUNCT	,	_	30	_	_	start_char=3690|end_char=3691
+32	natural	natural	ADJ	JJ	Degree=Pos	31	_	_	start_char=3692|end_char=3699
+33	meat	meat	NOUN	NN	Number=Sing	32	_	_	start_char=3700|end_char=3704
+34	and	and	CCONJ	CC	_	33	_	_	start_char=3705|end_char=3708
+35	not	not	PART	RB	_	34	_	_	start_char=3709|end_char=3712
+36	ultra-processed	ultra-processed	ADJ	JJ	Degree=Pos	35	_	_	start_char=3713|end_char=3728|SpaceAfter=No
+37	,	,	PUNCT	,	_	36	_	_	start_char=3728|end_char=3729
+38	lab	lab	NOUN	NN	Number=Sing	37	_	_	start_char=3730|end_char=3733|SpaceAfter=No
+39	-	-	PUNCT	HYPH	_	38	_	_	start_char=3733|end_char=3734|SpaceAfter=No
+40	grown	grow	VERB	VBN	Tense=Past|VerbForm=Part	39	_	_	start_char=3734|end_char=3739
+41	protein	protein	NOUN	NN	Number=Sing	40	_	_	start_char=3740|end_char=3747
+42	that	that	PRON	WDT	PronType=Rel	41	_	_	start_char=3748|end_char=3752
+43	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	42	_	_	start_char=3753|end_char=3755
+44	cooked	cook	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	43	_	_	start_char=3756|end_char=3762
+45	up	up	ADP	RP	_	44	_	_	start_char=3763|end_char=3765
+46	in	in	ADP	IN	_	45	_	_	start_char=3766|end_char=3768
+47	a	a	DET	DT	Definite=Ind|PronType=Art	46	_	_	start_char=3769|end_char=3770
+48	chemical	chemical	NOUN	NN	Number=Sing	47	_	_	start_char=3771|end_char=3779|SpaceAfter=No
+49	-	-	PUNCT	HYPH	_	48	_	_	start_char=3779|end_char=3780|SpaceAfter=No
+50	filled	fill	VERB	VBN	Tense=Past|VerbForm=Part	49	_	_	start_char=3780|end_char=3786
+51	bioreactor	bioreactor	NOUN	NN	Number=Sing	50	_	_	start_char=3787|end_char=3797|SpaceAfter=No
+52	.	.	PUNCT	.	_	51	_	_	start_char=3797|end_char=3798|SpaceAfter=No
+53	"	"	PUNCT	''	_	52	_	_	start_char=3798|end_char=3799|SpacesAfter=\n\n
+
+# text = Florida bill BANNING lab-grown meat awaits Gov. DeSantis’ signature.
+# sent_id = 31
+1	Florida	Florida	PROPN	NNP	Number=Sing	0	_	_	start_char=3801|end_char=3808
+2	bill	bill	NOUN	NN	Number=Sing	1	_	_	start_char=3809|end_char=3813
+3	BANNING	banning	NOUN	NN	Number=Sing	2	_	_	start_char=3814|end_char=3821
+4	lab	lab	NOUN	NN	Number=Sing	3	_	_	start_char=3822|end_char=3825|SpaceAfter=No
+5	-	-	PUNCT	HYPH	_	4	_	_	start_char=3825|end_char=3826|SpaceAfter=No
+6	grown	grow	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=3826|end_char=3831
+7	meat	meat	NOUN	NN	Number=Sing	6	_	_	start_char=3832|end_char=3836
+8	awaits	await	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=3837|end_char=3843
+9	Gov.	Gov.	PROPN	NNP	Number=Sing	8	_	_	start_char=3844|end_char=3848
+10-11	DeSantis’	_	_	_	_	_	_	_	start_char=3849|end_char=3858
+10	DeSantis	DeSantis	PROPN	NNP	Number=Sing	9	_	_	start_char=3849|end_char=3857
+11	’	's	PART	POS	_	10	_	_	start_char=3857|end_char=3858
+12	signature	signature	NOUN	NN	Number=Sing	11	_	_	start_char=3859|end_char=3868|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=3868|end_char=3869|SpacesAfter=\n\n
+
+# text = The globalists are "coming for your food," experts warn - "plant-based" tyranny will rule the world.
+# sent_id = 32
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=3871|end_char=3874
+2	globalists	globalist	NOUN	NNS	Number=Plur	1	_	_	start_char=3875|end_char=3885
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=3886|end_char=3889
+4	"	"	PUNCT	``	_	3	_	_	start_char=3890|end_char=3891|SpaceAfter=No
+5	coming	come	VERB	VBG	Tense=Pres|VerbForm=Part	4	_	_	start_char=3891|end_char=3897
+6	for	for	ADP	IN	_	5	_	_	start_char=3898|end_char=3901
+7	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	6	_	_	start_char=3902|end_char=3906
+8	food	food	NOUN	NN	Number=Sing	7	_	_	start_char=3907|end_char=3911|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=3911|end_char=3912|SpaceAfter=No
+10	"	"	PUNCT	''	_	9	_	_	start_char=3912|end_char=3913
+11	experts	expert	NOUN	NNS	Number=Plur	10	_	_	start_char=3914|end_char=3921
+12	warn	warn	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=3922|end_char=3926
+13	-	-	PUNCT	HYPH	_	12	_	_	start_char=3927|end_char=3928
+14	"	"	PUNCT	``	_	13	_	_	start_char=3929|end_char=3930|SpaceAfter=No
+15	plant	plant	NOUN	NN	Number=Sing	14	_	_	start_char=3930|end_char=3935|SpaceAfter=No
+16	-	-	PUNCT	HYPH	_	15	_	_	start_char=3935|end_char=3936|SpaceAfter=No
+17	based	base	VERB	VBN	Tense=Past|VerbForm=Part	16	_	_	start_char=3936|end_char=3941|SpaceAfter=No
+18	"	"	PUNCT	''	_	17	_	_	start_char=3941|end_char=3942
+19	tyranny	tyranny	NOUN	NN	Number=Sing	18	_	_	start_char=3943|end_char=3950
+20	will	will	AUX	MD	VerbForm=Fin	19	_	_	start_char=3951|end_char=3955
+21	rule	rule	VERB	VB	VerbForm=Inf	20	_	_	start_char=3956|end_char=3960
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=3961|end_char=3964
+23	world	world	NOUN	NN	Number=Sing	22	_	_	start_char=3965|end_char=3970|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=3970|end_char=3971|SpacesAfter=\n\n
+
+# text = FDA approves lab-grown meat produced by Chinese firm linked to biowarfare program.
+# sent_id = 33
+1	FDA	FDA	PROPN	NNP	Number=Sing	0	_	_	start_char=3973|end_char=3976
+2	approves	approve	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=3977|end_char=3985
+3	lab	lab	NOUN	NN	Number=Sing	2	_	_	start_char=3986|end_char=3989|SpaceAfter=No
+4	-	-	PUNCT	HYPH	_	3	_	_	start_char=3989|end_char=3990|SpaceAfter=No
+5	grown	grow	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=3990|end_char=3995
+6	meat	meat	NOUN	NN	Number=Sing	5	_	_	start_char=3996|end_char=4000
+7	produced	produce	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=4001|end_char=4009
+8	by	by	ADP	IN	_	7	_	_	start_char=4010|end_char=4012
+9	Chinese	Chinese	ADJ	JJ	Degree=Pos	8	_	_	start_char=4013|end_char=4020
+10	firm	firm	NOUN	NN	Number=Sing	9	_	_	start_char=4021|end_char=4025
+11	linked	link	VERB	VBN	Tense=Past|VerbForm=Part	10	_	_	start_char=4026|end_char=4032
+12	to	to	ADP	IN	_	11	_	_	start_char=4033|end_char=4035
+13	biowarfare	biowarfare	NOUN	NN	Number=Sing	12	_	_	start_char=4036|end_char=4046
+14	program	program	NOUN	NN	Number=Sing	13	_	_	start_char=4047|end_char=4054|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=4054|end_char=4055|SpacesAfter=\n\n
+
+# text = Study: Vegan FAKE MEAT products linked to cardiovascular issues.
+# sent_id = 34
+1	Study	study	NOUN	NN	Number=Sing	0	_	_	start_char=4057|end_char=4062|SpaceAfter=No
+2	:	:	PUNCT	:	_	1	_	_	start_char=4062|end_char=4063
+3	Vegan	vegan	ADJ	JJ	Degree=Pos	2	_	_	start_char=4064|end_char=4069
+4	FAKE	fake	ADJ	JJ	Degree=Pos	3	_	_	start_char=4070|end_char=4074
+5	MEAT	meat	NOUN	NN	Number=Sing	4	_	_	start_char=4075|end_char=4079
+6	products	product	NOUN	NNS	Number=Plur	5	_	_	start_char=4080|end_char=4088
+7	linked	link	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=4089|end_char=4095
+8	to	to	ADP	IN	_	7	_	_	start_char=4096|end_char=4098
+9	cardiovascular	cardiovascular	ADJ	JJ	Degree=Pos	8	_	_	start_char=4099|end_char=4113
+10	issues	issue	NOUN	NNS	Number=Plur	9	_	_	start_char=4114|end_char=4120|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=4120|end_char=4121|SpaceAfter=No
+

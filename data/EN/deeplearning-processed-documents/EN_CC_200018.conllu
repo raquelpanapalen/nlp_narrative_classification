@@ -1,0 +1,454 @@
+# text = The American University of Antigua, Antigua and Barbuda
+# sent_id = 0
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=0|end_char=3
+2	American	American	ADJ	NNP	Degree=Pos	1	_	_	start_char=4|end_char=12
+3	University	University	PROPN	NNP	Number=Sing	2	_	_	start_char=13|end_char=23
+4	of	of	ADP	IN	_	3	_	_	start_char=24|end_char=26
+5	Antigua	Antigua	PROPN	NNP	Number=Sing	4	_	_	start_char=27|end_char=34|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=34|end_char=35
+7	Antigua	Antigua	PROPN	NNP	Number=Sing	6	_	_	start_char=36|end_char=43
+8	and	and	CCONJ	CC	_	7	_	_	start_char=44|end_char=47
+9	Barbuda	Barbuda	PROPN	NNP	Number=Sing	8	_	_	start_char=48|end_char=55|SpacesAfter=\s\n\n\s
+
+# text = 4th International Conference on SIDS: Transforming SIDS Economies through Energy Transition and Climate Action towards Prosperity, Resilience and Sustainable Development
+# sent_id = 1
+1	4th	4th	ADJ	NNP	Degree=Pos|NumType=Ord	0	_	_	start_char=59|end_char=62
+2	International	International	ADJ	NNP	Degree=Pos	1	_	_	start_char=63|end_char=76
+3	Conference	Conference	PROPN	NNP	Number=Sing	2	_	_	start_char=77|end_char=87
+4	on	on	ADP	IN	_	3	_	_	start_char=88|end_char=90
+5	SIDS	SIDS	PROPN	NNP	Number=Sing	4	_	_	start_char=91|end_char=95|SpaceAfter=No
+6	:	:	PUNCT	:	_	5	_	_	start_char=95|end_char=96
+7	Transforming	transform	VERB	VBG	VerbForm=Ger	6	_	_	start_char=97|end_char=109
+8	SIDS	SIDS	PROPN	NNP	Number=Sing	7	_	_	start_char=110|end_char=114
+9	Economies	economy	NOUN	NNS	Number=Plur	8	_	_	start_char=115|end_char=124
+10	through	through	ADP	IN	_	9	_	_	start_char=125|end_char=132
+11	Energy	Energy	PROPN	NNP	Number=Sing	10	_	_	start_char=133|end_char=139
+12	Transition	Transition	PROPN	NNP	Number=Sing	11	_	_	start_char=140|end_char=150
+13	and	and	CCONJ	CC	_	12	_	_	start_char=151|end_char=154
+14	Climate	Climate	PROPN	NNP	Number=Sing	13	_	_	start_char=155|end_char=162
+15	Action	Action	PROPN	NNP	Number=Sing	14	_	_	start_char=163|end_char=169
+16	towards	towards	ADP	IN	_	15	_	_	start_char=170|end_char=177
+17	Prosperity	prosperity	NOUN	NN	Number=Sing	16	_	_	start_char=178|end_char=188|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=188|end_char=189
+19	Resilience	resilience	NOUN	NN	Number=Sing	18	_	_	start_char=190|end_char=200
+20	and	and	CCONJ	CC	_	19	_	_	start_char=201|end_char=204
+21	Sustainable	Sustainable	ADJ	JJ	Degree=Pos	20	_	_	start_char=205|end_char=216
+22	Development	development	NOUN	NN	Number=Sing	21	_	_	start_char=217|end_char=228|SpacesAfter=\n\n
+
+# text = Small Island Developing States (SIDS) have emerged as frontrunners in the global fight against climate change.
+# sent_id = 2
+1	Small	small	ADJ	NNP	Degree=Pos	0	_	_	start_char=230|end_char=235
+2	Island	Island	PROPN	NNP	Number=Sing	1	_	_	start_char=236|end_char=242
+3	Developing	developing	ADJ	NNP	Degree=Pos	2	_	_	start_char=243|end_char=253
+4	States	State	PROPN	NNPS	Number=Plur	3	_	_	start_char=254|end_char=260
+5	(	(	PUNCT	-LRB-	_	4	_	_	start_char=261|end_char=262|SpaceAfter=No
+6	SIDS	SIDS	PROPN	NNP	Number=Sing	5	_	_	start_char=262|end_char=266|SpaceAfter=No
+7	)	)	PUNCT	-RRB-	_	6	_	_	start_char=266|end_char=267
+8	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=268|end_char=272
+9	emerged	emerge	VERB	VBN	Tense=Past|VerbForm=Part	8	_	_	start_char=273|end_char=280
+10	as	as	ADP	IN	_	9	_	_	start_char=281|end_char=283
+11	frontrunners	frontrunner	NOUN	NNS	Number=Plur	10	_	_	start_char=284|end_char=296
+12	in	in	ADP	IN	_	11	_	_	start_char=297|end_char=299
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=300|end_char=303
+14	global	global	ADJ	JJ	Degree=Pos	13	_	_	start_char=304|end_char=310
+15	fight	fight	NOUN	NN	Number=Sing	14	_	_	start_char=311|end_char=316
+16	against	against	ADP	IN	_	15	_	_	start_char=317|end_char=324
+17	climate	climate	NOUN	NN	Number=Sing	16	_	_	start_char=325|end_char=332
+18	change	change	NOUN	NN	Number=Sing	17	_	_	start_char=333|end_char=339|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=339|end_char=340
+
+# text = The island states have demonstrated an unwavering commitment to the principles outlined in the Paris Agreement and the Sustainable Development Goals (SDGs).
+# sent_id = 3
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=341|end_char=344
+2	island	island	NOUN	NN	Number=Sing	1	_	_	start_char=345|end_char=351
+3	states	state	NOUN	NNS	Number=Plur	2	_	_	start_char=352|end_char=358
+4	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=359|end_char=363
+5	demonstrated	demonstrate	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=364|end_char=376
+6	an	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=377|end_char=379
+7	unwavering	unwavering	ADJ	JJ	Degree=Pos	6	_	_	start_char=380|end_char=390
+8	commitment	commitment	NOUN	NN	Number=Sing	7	_	_	start_char=391|end_char=401
+9	to	to	ADP	IN	_	8	_	_	start_char=402|end_char=404
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=405|end_char=408
+11	principles	principle	NOUN	NNS	Number=Plur	10	_	_	start_char=409|end_char=419
+12	outlined	outline	VERB	VBN	Tense=Past|VerbForm=Part	11	_	_	start_char=420|end_char=428
+13	in	in	ADP	IN	_	12	_	_	start_char=429|end_char=431
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=432|end_char=435
+15	Paris	Paris	PROPN	NNP	Number=Sing	14	_	_	start_char=436|end_char=441
+16	Agreement	agreement	NOUN	NN	Number=Sing	15	_	_	start_char=442|end_char=451
+17	and	and	CCONJ	CC	_	16	_	_	start_char=452|end_char=455
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=456|end_char=459
+19	Sustainable	Sustainable	ADJ	NNP	Degree=Pos	18	_	_	start_char=460|end_char=471
+20	Development	Development	PROPN	NNP	Number=Sing	19	_	_	start_char=472|end_char=483
+21	Goals	Goal	PROPN	NNPS	Number=Plur	20	_	_	start_char=484|end_char=489
+22	(	(	PUNCT	-LRB-	_	21	_	_	start_char=490|end_char=491|SpaceAfter=No
+23	SDGs	SDG	PROPN	NNP	Number=Sing	22	_	_	start_char=491|end_char=495|SpaceAfter=No
+24	)	)	PUNCT	-RRB-	_	23	_	_	start_char=495|end_char=496|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=496|end_char=497
+
+# text = A pivotal aspect of their dedication lies in the ambitious targets set to transition towards resilient renewable energy systems, thereby reducing fossil fuel dependency, enhancing economic resilience, and addressing pressing socio-economic challenges.
+# sent_id = 4
+1	A	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=498|end_char=499
+2	pivotal	pivotal	ADJ	JJ	Degree=Pos	1	_	_	start_char=500|end_char=507
+3	aspect	aspect	NOUN	NN	Number=Sing	2	_	_	start_char=508|end_char=514
+4	of	of	ADP	IN	_	3	_	_	start_char=515|end_char=517
+5	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	4	_	_	start_char=518|end_char=523
+6	dedication	dedication	NOUN	NN	Number=Sing	5	_	_	start_char=524|end_char=534
+7	lies	lie	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=535|end_char=539
+8	in	in	ADP	IN	_	7	_	_	start_char=540|end_char=542
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=543|end_char=546
+10	ambitious	ambitious	ADJ	JJ	Degree=Pos	9	_	_	start_char=547|end_char=556
+11	targets	target	NOUN	NNS	Number=Plur	10	_	_	start_char=557|end_char=564
+12	set	set	VERB	VBN	Tense=Past|VerbForm=Part	11	_	_	start_char=565|end_char=568
+13	to	to	PART	TO	_	12	_	_	start_char=569|end_char=571
+14	transition	transition	VERB	VB	VerbForm=Inf	13	_	_	start_char=572|end_char=582
+15	towards	towards	ADP	IN	_	14	_	_	start_char=583|end_char=590
+16	resilient	resilient	ADJ	JJ	Degree=Pos	15	_	_	start_char=591|end_char=600
+17	renewable	renewable	ADJ	JJ	Degree=Pos	16	_	_	start_char=601|end_char=610
+18	energy	energy	NOUN	NN	Number=Sing	17	_	_	start_char=611|end_char=617
+19	systems	system	NOUN	NNS	Number=Plur	18	_	_	start_char=618|end_char=625|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=625|end_char=626
+21	thereby	thereby	ADV	RB	_	20	_	_	start_char=627|end_char=634
+22	reducing	reduce	VERB	VBG	VerbForm=Ger	21	_	_	start_char=635|end_char=643
+23	fossil	fossil	NOUN	NN	Number=Sing	22	_	_	start_char=644|end_char=650
+24	fuel	fuel	NOUN	NN	Number=Sing	23	_	_	start_char=651|end_char=655
+25	dependency	dependency	NOUN	NN	Number=Sing	24	_	_	start_char=656|end_char=666|SpaceAfter=No
+26	,	,	PUNCT	,	_	25	_	_	start_char=666|end_char=667
+27	enhancing	enhance	VERB	VBG	VerbForm=Ger	26	_	_	start_char=668|end_char=677
+28	economic	economic	ADJ	JJ	Degree=Pos	27	_	_	start_char=678|end_char=686
+29	resilience	resilience	NOUN	NN	Number=Sing	28	_	_	start_char=687|end_char=697|SpaceAfter=No
+30	,	,	PUNCT	,	_	29	_	_	start_char=697|end_char=698
+31	and	and	CCONJ	CC	_	30	_	_	start_char=699|end_char=702
+32	addressing	address	VERB	VBG	VerbForm=Ger	31	_	_	start_char=703|end_char=713
+33	pressing	press	VERB	VBG	VerbForm=Ger	32	_	_	start_char=714|end_char=722
+34	socio-economic	socio-economic	ADJ	JJ	Degree=Pos	33	_	_	start_char=723|end_char=737
+35	challenges	challenge	NOUN	NNS	Number=Plur	34	_	_	start_char=738|end_char=748|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=748|end_char=749
+
+# text = The realization of SIDS' renewable energy commitments hinges upon robust partnerships with financing institutions, development partners, and relevant stakeholders for providing financial assistance, technology transfer, and capacity-building support.
+# sent_id = 5
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=750|end_char=753
+2	realization	realization	NOUN	NN	Number=Sing	1	_	_	start_char=754|end_char=765
+3	of	of	ADP	IN	_	2	_	_	start_char=766|end_char=768
+4-5	SIDS'	_	_	_	_	_	_	_	start_char=769|end_char=774
+4	SIDS	SIDS	PROPN	NNP	Number=Sing	3	_	_	start_char=769|end_char=773
+5	'	's	PART	POS	_	4	_	_	start_char=773|end_char=774
+6	renewable	renewable	ADJ	JJ	Degree=Pos	5	_	_	start_char=775|end_char=784
+7	energy	energy	NOUN	NN	Number=Sing	6	_	_	start_char=785|end_char=791
+8	commitments	commitment	NOUN	NNS	Number=Plur	7	_	_	start_char=792|end_char=803
+9	hinges	hing	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=804|end_char=810
+10	upon	upon	ADP	IN	_	9	_	_	start_char=811|end_char=815
+11	robust	robust	ADJ	JJ	Degree=Pos	10	_	_	start_char=816|end_char=822
+12	partnerships	partnership	NOUN	NNS	Number=Plur	11	_	_	start_char=823|end_char=835
+13	with	with	ADP	IN	_	12	_	_	start_char=836|end_char=840
+14	financing	financing	NOUN	NN	Number=Sing	13	_	_	start_char=841|end_char=850
+15	institutions	institution	NOUN	NNS	Number=Plur	14	_	_	start_char=851|end_char=863|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=863|end_char=864
+17	development	development	NOUN	NN	Number=Sing	16	_	_	start_char=865|end_char=876
+18	partners	partner	NOUN	NNS	Number=Plur	17	_	_	start_char=877|end_char=885|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=885|end_char=886
+20	and	and	CCONJ	CC	_	19	_	_	start_char=887|end_char=890
+21	relevant	relevant	ADJ	JJ	Degree=Pos	20	_	_	start_char=891|end_char=899
+22	stakeholders	stakeholder	NOUN	NNS	Number=Plur	21	_	_	start_char=900|end_char=912
+23	for	for	SCONJ	IN	_	22	_	_	start_char=913|end_char=916
+24	providing	provide	VERB	VBG	VerbForm=Ger	23	_	_	start_char=917|end_char=926
+25	financial	financial	ADJ	JJ	Degree=Pos	24	_	_	start_char=927|end_char=936
+26	assistance	assistance	NOUN	NN	Number=Sing	25	_	_	start_char=937|end_char=947|SpaceAfter=No
+27	,	,	PUNCT	,	_	26	_	_	start_char=947|end_char=948
+28	technology	technology	NOUN	NN	Number=Sing	27	_	_	start_char=949|end_char=959
+29	transfer	transfer	NOUN	NN	Number=Sing	28	_	_	start_char=960|end_char=968|SpaceAfter=No
+30	,	,	PUNCT	,	_	29	_	_	start_char=968|end_char=969
+31	and	and	CCONJ	CC	_	30	_	_	start_char=970|end_char=973
+32	capacity	capacity	NOUN	NN	Number=Sing	31	_	_	start_char=974|end_char=982|SpaceAfter=No
+33	-	-	PUNCT	HYPH	_	32	_	_	start_char=982|end_char=983|SpaceAfter=No
+34	building	building	NOUN	NN	Number=Sing	33	_	_	start_char=983|end_char=991
+35	support	support	NOUN	NN	Number=Sing	34	_	_	start_char=992|end_char=999|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=999|end_char=1000
+
+# text = Collaborative efforts are vital to bolstering SIDS' resilience and prosperity through energy sector transformation.
+# sent_id = 6
+1	Collaborative	collaborative	ADJ	JJ	Degree=Pos	0	_	_	start_char=1001|end_char=1014
+2	efforts	effort	NOUN	NNS	Number=Plur	1	_	_	start_char=1015|end_char=1022
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1023|end_char=1026
+4	vital	vital	ADJ	JJ	Degree=Pos	3	_	_	start_char=1027|end_char=1032
+5	to	to	SCONJ	IN	_	4	_	_	start_char=1033|end_char=1035
+6	bolstering	bolster	VERB	VBG	VerbForm=Ger	5	_	_	start_char=1036|end_char=1046
+7-8	SIDS'	_	_	_	_	_	_	_	start_char=1047|end_char=1052
+7	SIDS	sids	NOUN	NN	Number=Sing	6	_	_	start_char=1047|end_char=1051
+8	'	's	PART	POS	_	7	_	_	start_char=1051|end_char=1052
+9	resilience	resilience	NOUN	NN	Number=Sing	8	_	_	start_char=1053|end_char=1063
+10	and	and	CCONJ	CC	_	9	_	_	start_char=1064|end_char=1067
+11	prosperity	prosperity	NOUN	NN	Number=Sing	10	_	_	start_char=1068|end_char=1078
+12	through	through	ADP	IN	_	11	_	_	start_char=1079|end_char=1086
+13	energy	energy	NOUN	NN	Number=Sing	12	_	_	start_char=1087|end_char=1093
+14	sector	sector	NOUN	NN	Number=Sing	13	_	_	start_char=1094|end_char=1100
+15	transformation	transformation	NOUN	NN	Number=Sing	14	_	_	start_char=1101|end_char=1115|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=1115|end_char=1116|SpacesAfter=\n\n
+
+# text = IRENA through the SIDS Lighthouses Initiative aims to convene SIDS representatives, development partners, regional and multilateral organizations, financing institutions, and other stakeholders.
+# sent_id = 7
+1	IRENA	IRENA	PROPN	NNP	Number=Sing	0	_	_	start_char=1118|end_char=1123
+2	through	through	ADP	IN	_	1	_	_	start_char=1124|end_char=1131
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1132|end_char=1135
+4	SIDS	SIDS	PROPN	NNP	Number=Sing	3	_	_	start_char=1136|end_char=1140
+5	Lighthouses	Lighthouses	PROPN	NNPS	Number=Plur	4	_	_	start_char=1141|end_char=1152
+6	Initiative	Initiative	PROPN	NNP	Number=Sing	5	_	_	start_char=1153|end_char=1163
+7	aims	aim	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=1164|end_char=1168
+8	to	to	PART	TO	_	7	_	_	start_char=1169|end_char=1171
+9	convene	convene	VERB	VB	VerbForm=Inf	8	_	_	start_char=1172|end_char=1179
+10	SIDS	sids	NOUN	NN	Number=Sing	9	_	_	start_char=1180|end_char=1184
+11	representatives	representative	NOUN	NNS	Number=Plur	10	_	_	start_char=1185|end_char=1200|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=1200|end_char=1201
+13	development	development	NOUN	NN	Number=Sing	12	_	_	start_char=1202|end_char=1213
+14	partners	partner	NOUN	NNS	Number=Plur	13	_	_	start_char=1214|end_char=1222|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=1222|end_char=1223
+16	regional	regional	ADJ	JJ	Degree=Pos	15	_	_	start_char=1224|end_char=1232
+17	and	and	CCONJ	CC	_	16	_	_	start_char=1233|end_char=1236
+18	multilateral	multilateral	ADJ	JJ	Degree=Pos	17	_	_	start_char=1237|end_char=1249
+19	organizations	organization	NOUN	NNS	Number=Plur	18	_	_	start_char=1250|end_char=1263|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=1263|end_char=1264
+21	financing	financing	NOUN	NN	Number=Sing	20	_	_	start_char=1265|end_char=1274
+22	institutions	institution	NOUN	NNS	Number=Plur	21	_	_	start_char=1275|end_char=1287|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=1287|end_char=1288
+24	and	and	CCONJ	CC	_	23	_	_	start_char=1289|end_char=1292
+25	other	other	ADJ	JJ	Degree=Pos	24	_	_	start_char=1293|end_char=1298
+26	stakeholders	stakeholder	NOUN	NNS	Number=Plur	25	_	_	start_char=1299|end_char=1311|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=1311|end_char=1312
+
+# text = Through strategic deliberations, the event sought to identify innovative financing mechanisms, facilitate technology transfer, and outline capacity-building initiatives crucial for SIDS to achieve their renewable energy commitments.
+# sent_id = 8
+1	Through	through	ADP	IN	_	0	_	_	start_char=1313|end_char=1320
+2	strategic	strategic	ADJ	JJ	Degree=Pos	1	_	_	start_char=1321|end_char=1330
+3	deliberations	deliberation	NOUN	NNS	Number=Plur	2	_	_	start_char=1331|end_char=1344|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1344|end_char=1345
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1346|end_char=1349
+6	event	event	NOUN	NN	Number=Sing	5	_	_	start_char=1350|end_char=1355
+7	sought	seek	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=1356|end_char=1362
+8	to	to	PART	TO	_	7	_	_	start_char=1363|end_char=1365
+9	identify	identify	VERB	VB	VerbForm=Inf	8	_	_	start_char=1366|end_char=1374
+10	innovative	innovative	ADJ	JJ	Degree=Pos	9	_	_	start_char=1375|end_char=1385
+11	financing	financing	NOUN	NN	Number=Sing	10	_	_	start_char=1386|end_char=1395
+12	mechanisms	mechanism	NOUN	NNS	Number=Plur	11	_	_	start_char=1396|end_char=1406|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=1406|end_char=1407
+14	facilitate	facilitate	VERB	VB	VerbForm=Inf	13	_	_	start_char=1408|end_char=1418
+15	technology	technology	NOUN	NN	Number=Sing	14	_	_	start_char=1419|end_char=1429
+16	transfer	transfer	NOUN	NN	Number=Sing	15	_	_	start_char=1430|end_char=1438|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=1438|end_char=1439
+18	and	and	CCONJ	CC	_	17	_	_	start_char=1440|end_char=1443
+19	outline	outline	VERB	VB	VerbForm=Inf	18	_	_	start_char=1444|end_char=1451
+20	capacity	capacity	NOUN	NN	Number=Sing	19	_	_	start_char=1452|end_char=1460|SpaceAfter=No
+21	-	-	PUNCT	HYPH	_	20	_	_	start_char=1460|end_char=1461|SpaceAfter=No
+22	building	building	NOUN	NN	Number=Sing	21	_	_	start_char=1461|end_char=1469
+23	initiatives	initiative	NOUN	NNS	Number=Plur	22	_	_	start_char=1470|end_char=1481
+24	crucial	crucial	ADJ	JJ	Degree=Pos	23	_	_	start_char=1482|end_char=1489
+25	for	for	ADP	IN	_	24	_	_	start_char=1490|end_char=1493
+26	SIDS	sids	NOUN	NNS	Number=Sing	25	_	_	start_char=1494|end_char=1498
+27	to	to	PART	TO	_	26	_	_	start_char=1499|end_char=1501
+28	achieve	achieve	VERB	VB	VerbForm=Inf	27	_	_	start_char=1502|end_char=1509
+29	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	28	_	_	start_char=1510|end_char=1515
+30	renewable	renewable	ADJ	JJ	Degree=Pos	29	_	_	start_char=1516|end_char=1525
+31	energy	energy	NOUN	NN	Number=Sing	30	_	_	start_char=1526|end_char=1532
+32	commitments	commitment	NOUN	NNS	Number=Plur	31	_	_	start_char=1533|end_char=1544|SpaceAfter=No
+33	.	.	PUNCT	.	_	32	_	_	start_char=1544|end_char=1545|SpacesAfter=\n\n
+
+# text = Furthermore, the key discussion points during the side event took into consideration the following aspects:
+# sent_id = 9
+1	Furthermore	furthermore	ADV	RB	_	0	_	_	start_char=1547|end_char=1558|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=1558|end_char=1559
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1560|end_char=1563
+4	key	key	ADJ	JJ	Degree=Pos	3	_	_	start_char=1564|end_char=1567
+5	discussion	discussion	NOUN	NN	Number=Sing	4	_	_	start_char=1568|end_char=1578
+6	points	point	NOUN	NNS	Number=Plur	5	_	_	start_char=1579|end_char=1585
+7	during	during	ADP	IN	_	6	_	_	start_char=1586|end_char=1592
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=1593|end_char=1596
+9	side	side	NOUN	NN	Number=Sing	8	_	_	start_char=1597|end_char=1601
+10	event	event	NOUN	NN	Number=Sing	9	_	_	start_char=1602|end_char=1607
+11	took	take	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=1608|end_char=1612
+12	into	into	ADP	IN	_	11	_	_	start_char=1613|end_char=1617
+13	consideration	consideration	NOUN	NN	Number=Sing	12	_	_	start_char=1618|end_char=1631
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=1632|end_char=1635
+15	following	follow	VERB	VBG	VerbForm=Ger	14	_	_	start_char=1636|end_char=1645
+16	aspects	aspect	NOUN	NNS	Number=Plur	15	_	_	start_char=1646|end_char=1653|SpaceAfter=No
+17	:	:	PUNCT	:	_	16	_	_	start_char=1653|end_char=1654|SpacesAfter=\n\n
+
+# text = - Exploring innovative financing mechanisms tailored to the unique challenges faced by SIDS.
+# sent_id = 10
+1	-	-	PUNCT	NFP	_	0	_	_	start_char=1656|end_char=1657
+2	Exploring	explore	VERB	VBG	VerbForm=Ger	1	_	_	start_char=1658|end_char=1667
+3	innovative	innovative	ADJ	JJ	Degree=Pos	2	_	_	start_char=1668|end_char=1678
+4	financing	financing	NOUN	NN	Number=Sing	3	_	_	start_char=1679|end_char=1688
+5	mechanisms	mechanism	NOUN	NNS	Number=Plur	4	_	_	start_char=1689|end_char=1699
+6	tailored	tailor	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=1700|end_char=1708
+7	to	to	ADP	IN	_	6	_	_	start_char=1709|end_char=1711
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=1712|end_char=1715
+9	unique	unique	ADJ	JJ	Degree=Pos	8	_	_	start_char=1716|end_char=1722
+10	challenges	challenge	NOUN	NNS	Number=Plur	9	_	_	start_char=1723|end_char=1733
+11	faced	face	VERB	VBN	Tense=Past|VerbForm=Part	10	_	_	start_char=1734|end_char=1739
+12	by	by	ADP	IN	_	11	_	_	start_char=1740|end_char=1742
+13	SIDS	sids	NOUN	NNS	Number=Sing	12	_	_	start_char=1743|end_char=1747|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=1747|end_char=1748|SpacesAfter=\n\n
+
+# text = - Facilitating technology transfer and knowledge sharing to accelerate renewable energy adoption.
+# sent_id = 11
+1	-	-	PUNCT	NFP	_	0	_	_	start_char=1750|end_char=1751
+2	Facilitating	facilitate	VERB	VBG	VerbForm=Ger	1	_	_	start_char=1752|end_char=1764
+3	technology	technology	NOUN	NN	Number=Sing	2	_	_	start_char=1765|end_char=1775
+4	transfer	transfer	NOUN	NN	Number=Sing	3	_	_	start_char=1776|end_char=1784
+5	and	and	CCONJ	CC	_	4	_	_	start_char=1785|end_char=1788
+6	knowledge	knowledge	NOUN	NN	Number=Sing	5	_	_	start_char=1789|end_char=1798
+7	sharing	sharing	NOUN	NN	Number=Sing	6	_	_	start_char=1799|end_char=1806
+8	to	to	PART	TO	_	7	_	_	start_char=1807|end_char=1809
+9	accelerate	accelerate	VERB	VB	VerbForm=Inf	8	_	_	start_char=1810|end_char=1820
+10	renewable	renewable	ADJ	JJ	Degree=Pos	9	_	_	start_char=1821|end_char=1830
+11	energy	energy	NOUN	NN	Number=Sing	10	_	_	start_char=1831|end_char=1837
+12	adoption	adoption	NOUN	NN	Number=Sing	11	_	_	start_char=1838|end_char=1846|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=1846|end_char=1847|SpacesAfter=\n\n
+
+# text = - Identifying capacity-building needs and strategies to enhance SIDS' resilience and expertise in renewable energy development.
+# sent_id = 12
+1	-	-	PUNCT	NFP	_	0	_	_	start_char=1849|end_char=1850
+2	Identifying	identify	VERB	VBG	VerbForm=Ger	1	_	_	start_char=1851|end_char=1862
+3	capacity	capacity	NOUN	NN	Number=Sing	2	_	_	start_char=1863|end_char=1871|SpaceAfter=No
+4	-	-	PUNCT	HYPH	_	3	_	_	start_char=1871|end_char=1872|SpaceAfter=No
+5	building	building	NOUN	NN	Number=Sing	4	_	_	start_char=1872|end_char=1880
+6	needs	need	NOUN	NNS	Number=Plur	5	_	_	start_char=1881|end_char=1886
+7	and	and	CCONJ	CC	_	6	_	_	start_char=1887|end_char=1890
+8	strategies	strategy	NOUN	NNS	Number=Plur	7	_	_	start_char=1891|end_char=1901
+9	to	to	PART	TO	_	8	_	_	start_char=1902|end_char=1904
+10	enhance	enhance	VERB	VB	VerbForm=Inf	9	_	_	start_char=1905|end_char=1912
+11-12	SIDS'	_	_	_	_	_	_	_	start_char=1913|end_char=1918
+11	SIDS	sids	NOUN	NN	Number=Sing	10	_	_	start_char=1913|end_char=1917
+12	'	's	PART	POS	_	11	_	_	start_char=1917|end_char=1918
+13	resilience	resilience	NOUN	NN	Number=Sing	12	_	_	start_char=1919|end_char=1929
+14	and	and	CCONJ	CC	_	13	_	_	start_char=1930|end_char=1933
+15	expertise	expertise	NOUN	NN	Number=Sing	14	_	_	start_char=1934|end_char=1943
+16	in	in	ADP	IN	_	15	_	_	start_char=1944|end_char=1946
+17	renewable	renewable	ADJ	JJ	Degree=Pos	16	_	_	start_char=1947|end_char=1956
+18	energy	energy	NOUN	NN	Number=Sing	17	_	_	start_char=1957|end_char=1963
+19	development	development	NOUN	NN	Number=Sing	18	_	_	start_char=1964|end_char=1975|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=1975|end_char=1976|SpacesAfter=\n\n
+
+# text = - Fostering partnerships and collaborations to mobilize resources and support SIDS' energy transition efforts.
+# sent_id = 13
+1	-	-	PUNCT	NFP	_	0	_	_	start_char=1978|end_char=1979
+2	Fostering	foster	NOUN	NN	Number=Sing	1	_	_	start_char=1980|end_char=1989
+3	partnerships	partnership	NOUN	NNS	Number=Plur	2	_	_	start_char=1990|end_char=2002
+4	and	and	CCONJ	CC	_	3	_	_	start_char=2003|end_char=2006
+5	collaborations	collaboration	NOUN	NNS	Number=Plur	4	_	_	start_char=2007|end_char=2021
+6	to	to	PART	TO	_	5	_	_	start_char=2022|end_char=2024
+7	mobilize	mobilize	VERB	VB	VerbForm=Inf	6	_	_	start_char=2025|end_char=2033
+8	resources	resource	NOUN	NNS	Number=Plur	7	_	_	start_char=2034|end_char=2043
+9	and	and	CCONJ	CC	_	8	_	_	start_char=2044|end_char=2047
+10	support	support	VERB	VB	VerbForm=Inf	9	_	_	start_char=2048|end_char=2055
+11	SIDS	SIDS	PROPN	NNP	Number=Sing	10	_	_	start_char=2056|end_char=2060|SpaceAfter=No
+12	'	's	PART	POS	_	11	_	_	_
+13	energy	energy	NOUN	NN	Number=Sing	12	_	_	start_char=2062|end_char=2068
+14	transition	transition	NOUN	NN	Number=Sing	13	_	_	start_char=2069|end_char=2079
+15	efforts	effort	NOUN	NNS	Number=Plur	14	_	_	start_char=2080|end_char=2087|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=2087|end_char=2088|SpacesAfter=\n\n
+
+# text = The expected outcomes of the side event gauged how the SIDS Lighthouses Initiative and similar SIDS focussed initiatives can facilitate:
+# sent_id = 14
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2090|end_char=2093
+2	expected	expect	VERB	VBN	Tense=Past|VerbForm=Part	1	_	_	start_char=2094|end_char=2102
+3	outcomes	outcome	NOUN	NNS	Number=Plur	2	_	_	start_char=2103|end_char=2111
+4	of	of	ADP	IN	_	3	_	_	start_char=2112|end_char=2114
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=2115|end_char=2118
+6	side	side	NOUN	NN	Number=Sing	5	_	_	start_char=2119|end_char=2123
+7	event	event	NOUN	NN	Number=Sing	6	_	_	start_char=2124|end_char=2129
+8	gauged	gaug	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=2130|end_char=2136
+9	how	how	ADV	WRB	PronType=Int	8	_	_	start_char=2137|end_char=2140
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=2141|end_char=2144
+11	SIDS	SIDS	PROPN	NNP	Number=Sing	10	_	_	start_char=2145|end_char=2149
+12	Lighthouses	Lighthouses	PROPN	NNPS	Number=Plur	11	_	_	start_char=2150|end_char=2161
+13	Initiative	Initiative	PROPN	NNP	Number=Sing	12	_	_	start_char=2162|end_char=2172
+14	and	and	CCONJ	CC	_	13	_	_	start_char=2173|end_char=2176
+15	similar	similar	ADJ	JJ	Degree=Pos	14	_	_	start_char=2177|end_char=2184
+16	SIDS	SIDS	PROPN	NNP	Number=Sing	15	_	_	start_char=2185|end_char=2189
+17	focussed	focuss	VERB	VBN	Mood=Ind|Tense=Past|VerbForm=Part	16	_	_	start_char=2190|end_char=2198
+18	initiatives	initiative	NOUN	NNS	Number=Plur	17	_	_	start_char=2199|end_char=2210
+19	can	can	AUX	MD	VerbForm=Fin	18	_	_	start_char=2211|end_char=2214
+20	facilitate	facilitate	VERB	VB	VerbForm=Inf	19	_	_	start_char=2215|end_char=2225|SpaceAfter=No
+21	:	:	PUNCT	:	_	20	_	_	start_char=2225|end_char=2226|SpacesAfter=\n\n
+
+# text = - Enhanced understanding of the financing landscape and available mechanisms for supporting SIDS' renewable energy projects.
+# sent_id = 15
+1	-	-	PUNCT	NFP	_	0	_	_	start_char=2228|end_char=2229
+2	Enhanced	enhance	VERB	VBN	Tense=Past|VerbForm=Part	1	_	_	start_char=2230|end_char=2238
+3	understanding	understanding	NOUN	NN	Number=Sing	2	_	_	start_char=2239|end_char=2252
+4	of	of	ADP	IN	_	3	_	_	start_char=2253|end_char=2255
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=2256|end_char=2259
+6	financing	financing	NOUN	NN	Number=Sing	5	_	_	start_char=2260|end_char=2269
+7	landscape	landscape	NOUN	NN	Number=Sing	6	_	_	start_char=2270|end_char=2279
+8	and	and	CCONJ	CC	_	7	_	_	start_char=2280|end_char=2283
+9	available	available	ADJ	JJ	Degree=Pos	8	_	_	start_char=2284|end_char=2293
+10	mechanisms	mechanism	NOUN	NNS	Number=Plur	9	_	_	start_char=2294|end_char=2304
+11	for	for	SCONJ	IN	_	10	_	_	start_char=2305|end_char=2308
+12	supporting	support	VERB	VBG	VerbForm=Ger	11	_	_	start_char=2309|end_char=2319
+13-14	SIDS'	_	_	_	_	_	_	_	start_char=2320|end_char=2325
+13	SIDS	SIDS	PROPN	NNP	Number=Sing	12	_	_	start_char=2320|end_char=2324
+14	'	's	PART	POS	_	13	_	_	start_char=2324|end_char=2325
+15	renewable	renewable	ADJ	JJ	Degree=Pos	14	_	_	start_char=2326|end_char=2335
+16	energy	energy	NOUN	NN	Number=Sing	15	_	_	start_char=2336|end_char=2342
+17	projects	project	NOUN	NNS	Number=Plur	16	_	_	start_char=2343|end_char=2351|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=2351|end_char=2352|SpacesAfter=\n\n
+
+# text = - Concrete strategies and action plans for facilitating technology transfer and capacity-building initiatives in SIDS.
+# sent_id = 16
+1	-	-	PUNCT	NFP	_	0	_	_	start_char=2354|end_char=2355
+2	Concrete	concrete	ADJ	JJ	Degree=Pos	1	_	_	start_char=2356|end_char=2364
+3	strategies	strategy	NOUN	NNS	Number=Plur	2	_	_	start_char=2365|end_char=2375
+4	and	and	CCONJ	CC	_	3	_	_	start_char=2376|end_char=2379
+5	action	action	NOUN	NN	Number=Sing	4	_	_	start_char=2380|end_char=2386
+6	plans	plan	NOUN	NNS	Number=Plur	5	_	_	start_char=2387|end_char=2392
+7	for	for	SCONJ	IN	_	6	_	_	start_char=2393|end_char=2396
+8	facilitating	facilitate	VERB	VBG	VerbForm=Ger	7	_	_	start_char=2397|end_char=2409
+9	technology	technology	NOUN	NN	Number=Sing	8	_	_	start_char=2410|end_char=2420
+10	transfer	transfer	NOUN	NN	Number=Sing	9	_	_	start_char=2421|end_char=2429
+11	and	and	CCONJ	CC	_	10	_	_	start_char=2430|end_char=2433
+12	capacity	capacity	NOUN	NN	Number=Sing	11	_	_	start_char=2434|end_char=2442|SpaceAfter=No
+13	-	-	PUNCT	HYPH	_	12	_	_	start_char=2442|end_char=2443|SpaceAfter=No
+14	building	building	NOUN	NN	Number=Sing	13	_	_	start_char=2443|end_char=2451
+15	initiatives	initiative	NOUN	NNS	Number=Plur	14	_	_	start_char=2452|end_char=2463
+16	in	in	ADP	IN	_	15	_	_	start_char=2464|end_char=2466
+17	SIDS	sids	NOUN	NN	Number=Sing	16	_	_	start_char=2467|end_char=2471|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=2471|end_char=2472|SpacesAfter=\n\n
+
+# text = - Strengthened partnerships and commitments towards advancing renewable energy transformation in SIDS.
+# sent_id = 17
+1	-	-	PUNCT	NFP	_	0	_	_	start_char=2474|end_char=2475
+2	Strengthened	strengthen	VERB	VBN	Tense=Past|VerbForm=Part	1	_	_	start_char=2476|end_char=2488
+3	partnerships	partnership	NOUN	NNS	Number=Plur	2	_	_	start_char=2489|end_char=2501
+4	and	and	CCONJ	CC	_	3	_	_	start_char=2502|end_char=2505
+5	commitments	commitment	NOUN	NNS	Number=Plur	4	_	_	start_char=2506|end_char=2517
+6	towards	towards	SCONJ	IN	_	5	_	_	start_char=2518|end_char=2525
+7	advancing	advance	VERB	VBG	VerbForm=Ger	6	_	_	start_char=2526|end_char=2535
+8	renewable	renewable	ADJ	JJ	Degree=Pos	7	_	_	start_char=2536|end_char=2545
+9	energy	energy	NOUN	NN	Number=Sing	8	_	_	start_char=2546|end_char=2552
+10	transformation	transformation	NOUN	NN	Number=Sing	9	_	_	start_char=2553|end_char=2567
+11	in	in	ADP	IN	_	10	_	_	start_char=2568|end_char=2570
+12	SIDS	sids	NOUN	NN	Number=Sing	11	_	_	start_char=2571|end_char=2575|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=2575|end_char=2576|SpacesAfter=\n\n
+
+# text = - A roadmap for continued collaboration and support to ensure the realization of SIDS' renewable energy commitments.
+# sent_id = 18
+1	-	-	PUNCT	NFP	_	0	_	_	start_char=2578|end_char=2579
+2	A	a	DET	DT	Definite=Ind|PronType=Art	1	_	_	start_char=2580|end_char=2581
+3	roadmap	roadmap	NOUN	NN	Number=Sing	2	_	_	start_char=2582|end_char=2589
+4	for	for	ADP	IN	_	3	_	_	start_char=2590|end_char=2593
+5	continued	continue	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=2594|end_char=2603
+6	collaboration	collaboration	NOUN	NN	Number=Sing	5	_	_	start_char=2604|end_char=2617
+7	and	and	CCONJ	CC	_	6	_	_	start_char=2618|end_char=2621
+8	support	support	NOUN	NN	Number=Sing	7	_	_	start_char=2622|end_char=2629
+9	to	to	PART	TO	_	8	_	_	start_char=2630|end_char=2632
+10	ensure	ensure	VERB	VB	VerbForm=Inf	9	_	_	start_char=2633|end_char=2639
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=2640|end_char=2643
+12	realization	realization	NOUN	NN	Number=Sing	11	_	_	start_char=2644|end_char=2655
+13	of	of	ADP	IN	_	12	_	_	start_char=2656|end_char=2658
+14-15	SIDS'	_	_	_	_	_	_	_	start_char=2659|end_char=2664
+14	SIDS	SIDS	PROPN	NNP	Number=Sing	13	_	_	start_char=2659|end_char=2663
+15	'	's	PART	POS	_	14	_	_	start_char=2663|end_char=2664
+16	renewable	renewable	ADJ	JJ	Degree=Pos	15	_	_	start_char=2665|end_char=2674
+17	energy	energy	NOUN	NN	Number=Sing	16	_	_	start_char=2675|end_char=2681
+18	commitments	commitment	NOUN	NNS	Number=Plur	17	_	_	start_char=2682|end_char=2693|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=2693|end_char=2694|SpaceAfter=No
+

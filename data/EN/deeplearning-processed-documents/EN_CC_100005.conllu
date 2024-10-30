@@ -1,0 +1,824 @@
+# text = Climate Crazies Fail in Attempt to Vandalize Another Classic Work of Art
+# sent_id = 0
+1	Climate	climate	NOUN	NN	Number=Sing	0	_	_	start_char=0|end_char=7
+2	Crazies	crazy	NOUN	NNS	Number=Plur	1	_	_	start_char=8|end_char=15
+3	Fail	fail	NOUN	NN	Number=Sing	2	_	_	start_char=16|end_char=20
+4	in	in	ADP	IN	_	3	_	_	start_char=21|end_char=23
+5	Attempt	attempt	NOUN	NN	Number=Sing	4	_	_	start_char=24|end_char=31
+6	to	to	PART	TO	_	5	_	_	start_char=32|end_char=34
+7	Vandalize	vandalize	VERB	VB	VerbForm=Inf	6	_	_	start_char=35|end_char=44
+8	Another	another	DET	DT	_	7	_	_	start_char=45|end_char=52
+9	Classic	classic	ADJ	NNP	Degree=Pos	8	_	_	start_char=53|end_char=60
+10	Work	work	NOUN	NN	Number=Sing	9	_	_	start_char=61|end_char=65
+11	of	of	ADP	IN	_	10	_	_	start_char=66|end_char=68
+12	Art	art	NOUN	NN	Number=Sing	11	_	_	start_char=69|end_char=72|SpacesAfter=\s\n\n\s
+
+# text = Another of the world’s most recognized and most valuable pieces of art was the target of climate-change activists.
+# sent_id = 1
+1	Another	another	DET	DT	_	0	_	_	start_char=76|end_char=83
+2	of	of	ADP	IN	_	1	_	_	start_char=84|end_char=86
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=87|end_char=90
+4-5	world’s	_	_	_	_	_	_	_	start_char=91|end_char=98
+4	world	world	NOUN	NN	Number=Sing	3	_	_	start_char=91|end_char=96
+5	’s	's	PART	POS	_	4	_	_	start_char=96|end_char=98
+6	most	most	ADV	RBS	Degree=Sup	5	_	_	start_char=99|end_char=103
+7	recognized	recognize	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=104|end_char=114
+8	and	and	CCONJ	CC	_	7	_	_	start_char=115|end_char=118
+9	most	most	ADV	RBS	Degree=Sup	8	_	_	start_char=119|end_char=123
+10	valuable	valuable	ADJ	JJ	Degree=Pos	9	_	_	start_char=124|end_char=132
+11	pieces	piece	NOUN	NNS	Number=Plur	10	_	_	start_char=133|end_char=139
+12	of	of	ADP	IN	_	11	_	_	start_char=140|end_char=142
+13	art	art	NOUN	NN	Number=Sing	12	_	_	start_char=143|end_char=146
+14	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	_	_	start_char=147|end_char=150
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=151|end_char=154
+16	target	target	NOUN	NN	Number=Sing	15	_	_	start_char=155|end_char=161
+17	of	of	ADP	IN	_	16	_	_	start_char=162|end_char=164
+18	climate	climate	NOUN	NN	Number=Sing	17	_	_	start_char=165|end_char=172|SpaceAfter=No
+19	-	-	PUNCT	HYPH	_	18	_	_	start_char=172|end_char=173|SpaceAfter=No
+20	change	change	NOUN	NN	Number=Sing	19	_	_	start_char=173|end_char=179
+21	activists	activist	NOUN	NNS	Number=Plur	20	_	_	start_char=180|end_char=189|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=189|end_char=190
+
+# text = Climate crazies tried — and failed — to glue themselves to Edvard Munch’s 1893 painting “The Scream” in Oslo on Friday.
+# sent_id = 2
+1	Climate	climate	NOUN	NN	Number=Sing	0	_	_	start_char=191|end_char=198
+2	crazies	crazy	NOUN	NNS	Number=Plur	1	_	_	start_char=199|end_char=206
+3	tried	try	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=207|end_char=212
+4	—	—	PUNCT	:	_	3	_	_	start_char=213|end_char=214
+5	and	and	CCONJ	CC	_	4	_	_	start_char=215|end_char=218
+6	failed	fail	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=219|end_char=225
+7	—	—	PUNCT	:	_	6	_	_	start_char=226|end_char=227
+8	to	to	PART	TO	_	7	_	_	start_char=228|end_char=230
+9	glue	glue	VERB	VB	VerbForm=Inf	8	_	_	start_char=231|end_char=235
+10	themselves	themselves	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	9	_	_	start_char=236|end_char=246
+11	to	to	ADP	IN	_	10	_	_	start_char=247|end_char=249
+12	Edvard	Edvard	PROPN	NNP	Number=Sing	11	_	_	start_char=250|end_char=256
+13-14	Munch’s	_	_	_	_	_	_	_	start_char=257|end_char=264
+13	Munch	Munch	PROPN	NNP	Number=Sing	12	_	_	start_char=257|end_char=262
+14	’s	's	PART	POS	_	13	_	_	start_char=262|end_char=264
+15	1893	1893	NUM	CD	NumForm=Digit|NumType=Card	14	_	_	start_char=265|end_char=269
+16	painting	painting	NOUN	NN	Number=Sing	15	_	_	start_char=270|end_char=278
+17	“	''	PUNCT	``	_	16	_	_	start_char=279|end_char=280|SpaceAfter=No
+18	The	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=280|end_char=283
+19	Scream	Scream	PROPN	NNP	Number=Sing	18	_	_	start_char=284|end_char=290|SpaceAfter=No
+20	”	''	PUNCT	''	_	19	_	_	start_char=290|end_char=291
+21	in	in	ADP	IN	_	20	_	_	start_char=292|end_char=294
+22	Oslo	Oslo	PROPN	NNP	Number=Sing	21	_	_	start_char=295|end_char=299
+23	on	on	ADP	IN	_	22	_	_	start_char=300|end_char=302
+24	Friday	Friday	PROPN	NNP	Number=Sing	23	_	_	start_char=303|end_char=309|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=309|end_char=310|SpacesAfter=\n\n
+
+# text = It was yet another example of climate change activists using priceless works of art to protest the use of fossil fuels, which climate zealots believe is leading to global warming.
+# sent_id = 3
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=312|end_char=314
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=315|end_char=318
+3	yet	yet	ADV	RB	_	2	_	_	start_char=319|end_char=322
+4	another	another	DET	DT	_	3	_	_	start_char=323|end_char=330
+5	example	example	NOUN	NN	Number=Sing	4	_	_	start_char=331|end_char=338
+6	of	of	ADP	IN	_	5	_	_	start_char=339|end_char=341
+7	climate	climate	NOUN	NN	Number=Sing	6	_	_	start_char=342|end_char=349
+8	change	change	NOUN	NN	Number=Sing	7	_	_	start_char=350|end_char=356
+9	activists	activist	NOUN	NNS	Number=Plur	8	_	_	start_char=357|end_char=366
+10	using	use	VERB	VBG	VerbForm=Ger	9	_	_	start_char=367|end_char=372
+11	priceless	priceless	ADJ	JJ	Degree=Pos	10	_	_	start_char=373|end_char=382
+12	works	work	NOUN	NNS	Number=Plur	11	_	_	start_char=383|end_char=388
+13	of	of	ADP	IN	_	12	_	_	start_char=389|end_char=391
+14	art	art	NOUN	NN	Number=Sing	13	_	_	start_char=392|end_char=395
+15	to	to	PART	TO	_	14	_	_	start_char=396|end_char=398
+16	protest	protest	VERB	VB	VerbForm=Inf	15	_	_	start_char=399|end_char=406
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=407|end_char=410
+18	use	use	NOUN	NN	Number=Sing	17	_	_	start_char=411|end_char=414
+19	of	of	ADP	IN	_	18	_	_	start_char=415|end_char=417
+20	fossil	fossil	NOUN	NN	Number=Sing	19	_	_	start_char=418|end_char=424
+21	fuels	fuel	NOUN	NNS	Number=Plur	20	_	_	start_char=425|end_char=430|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=430|end_char=431
+23	which	which	PRON	WDT	PronType=Rel	22	_	_	start_char=432|end_char=437
+24	climate	climate	NOUN	NN	Number=Sing	23	_	_	start_char=438|end_char=445
+25	zealots	zealot	NOUN	NNS	Number=Plur	24	_	_	start_char=446|end_char=453
+26	believe	believe	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	_	_	start_char=454|end_char=461
+27	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	_	_	start_char=462|end_char=464
+28	leading	lead	VERB	VBG	Tense=Pres|VerbForm=Part	27	_	_	start_char=465|end_char=472
+29	to	to	ADP	IN	_	28	_	_	start_char=473|end_char=475
+30	global	global	ADJ	JJ	Degree=Pos	29	_	_	start_char=476|end_char=482
+31	warming	warming	NOUN	NN	Number=Sing	30	_	_	start_char=483|end_char=490|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=490|end_char=491
+
+# text = In October, climate activists attacked “Girl with a Pearl Earring” by Johannes Vermeer in The Hague.
+# sent_id = 4
+1	In	in	ADP	IN	_	0	_	_	start_char=492|end_char=494
+2	October	October	PROPN	NNP	Number=Sing	1	_	_	start_char=495|end_char=502|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=502|end_char=503
+4	climate	climate	NOUN	NN	Number=Sing	3	_	_	start_char=504|end_char=511
+5	activists	activist	NOUN	NNS	Number=Plur	4	_	_	start_char=512|end_char=521
+6	attacked	attack	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=522|end_char=530
+7	“	''	PUNCT	``	_	6	_	_	start_char=531|end_char=532|SpaceAfter=No
+8	Girl	girl	NOUN	NN	Number=Sing	7	_	_	start_char=532|end_char=536
+9	with	with	ADP	IN	_	8	_	_	start_char=537|end_char=541
+10	a	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=542|end_char=543
+11	Pearl	Pearl	PROPN	NNP	Number=Sing	10	_	_	start_char=544|end_char=549
+12	Earring	Earring	PROPN	NNP	Number=Sing	11	_	_	start_char=550|end_char=557|SpaceAfter=No
+13	”	''	PUNCT	''	_	12	_	_	start_char=557|end_char=558
+14	by	by	ADP	IN	_	13	_	_	start_char=559|end_char=561
+15	Johannes	Johannes	PROPN	NNP	Number=Sing	14	_	_	start_char=562|end_char=570
+16	Vermeer	Vermeer	PROPN	NNP	Number=Sing	15	_	_	start_char=571|end_char=578
+17	in	in	ADP	IN	_	16	_	_	start_char=579|end_char=581
+18	The	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=582|end_char=585
+19	Hague	Hague	PROPN	NNP	Number=Sing	18	_	_	start_char=586|end_char=591|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=591|end_char=592
+
+# text = Climate hysterics were also responsible for an attack on Van Gogh’s “Sunflowers” and John Constable’s “The Hay Wain” in London over the summer.
+# sent_id = 5
+1	Climate	climate	NOUN	NN	Number=Sing	0	_	_	start_char=593|end_char=600
+2	hysterics	hysterics	NOUN	NNS	Number=Plur	1	_	_	start_char=601|end_char=610
+3	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=611|end_char=615
+4	also	also	ADV	RB	_	3	_	_	start_char=616|end_char=620
+5	responsible	responsible	ADJ	JJ	Degree=Pos	4	_	_	start_char=621|end_char=632
+6	for	for	ADP	IN	_	5	_	_	start_char=633|end_char=636
+7	an	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=637|end_char=639
+8	attack	attack	NOUN	NN	Number=Sing	7	_	_	start_char=640|end_char=646
+9	on	on	ADP	IN	_	8	_	_	start_char=647|end_char=649
+10	Van	Van	PROPN	NNP	Number=Sing	9	_	_	start_char=650|end_char=653
+11-12	Gogh’s	_	_	_	_	_	_	_	start_char=654|end_char=660
+11	Gogh	Gogh	PROPN	NNP	Number=Sing	10	_	_	start_char=654|end_char=658
+12	’s	's	PART	POS	_	11	_	_	start_char=658|end_char=660
+13	“	''	PUNCT	``	_	12	_	_	start_char=661|end_char=662|SpaceAfter=No
+14	Sunflowers	sunflower	NOUN	NNS	Number=Plur	13	_	_	start_char=662|end_char=672|SpaceAfter=No
+15	”	''	PUNCT	''	_	14	_	_	start_char=672|end_char=673
+16	and	and	CCONJ	CC	_	15	_	_	start_char=674|end_char=677
+17	John	John	PROPN	NNP	Number=Sing	16	_	_	start_char=678|end_char=682
+18-19	Constable’s	_	_	_	_	_	_	_	start_char=683|end_char=694
+18	Constable	Constable	PROPN	NNP	Number=Sing	17	_	_	start_char=683|end_char=692
+19	’s	's	PART	POS	_	18	_	_	start_char=692|end_char=694
+20	“	''	PUNCT	``	_	19	_	_	start_char=695|end_char=696|SpaceAfter=No
+21	The	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=696|end_char=699
+22	Hay	Hay	PROPN	NNP	Number=Sing	21	_	_	start_char=700|end_char=703
+23	Wain	Wain	PROPN	NNP	Number=Sing	22	_	_	start_char=704|end_char=708|SpaceAfter=No
+24	”	''	PUNCT	''	_	23	_	_	start_char=708|end_char=709
+25	in	in	ADP	IN	_	24	_	_	start_char=710|end_char=712
+26	London	London	PROPN	NNP	Number=Sing	25	_	_	start_char=713|end_char=719
+27	over	over	ADP	IN	_	26	_	_	start_char=720|end_char=724
+28	the	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=725|end_char=728
+29	summer	summer	NOUN	NN	Number=Sing	28	_	_	start_char=729|end_char=735|SpaceAfter=No
+30	.	.	PUNCT	.	_	29	_	_	start_char=735|end_char=736|SpacesAfter=\n\n
+
+# text = The new climate-related vandalism fad seems to have begun with an attack on Da Vinci’s “Mona Lisa” in which a climate fanatic feigned a disability in order to get close enough to smear a pastry on the painting.
+# sent_id = 6
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=738|end_char=741
+2	new	new	ADJ	JJ	Degree=Pos	1	_	_	start_char=742|end_char=745
+3	climate	climate	NOUN	NN	Number=Sing	2	_	_	start_char=746|end_char=753|SpaceAfter=No
+4	-	-	PUNCT	HYPH	_	3	_	_	start_char=753|end_char=754|SpaceAfter=No
+5	related	related	ADJ	JJ	Degree=Pos	4	_	_	start_char=754|end_char=761
+6	vandalism	vandalism	NOUN	NN	Number=Sing	5	_	_	start_char=762|end_char=771
+7	fad	fad	NOUN	NN	Number=Sing	6	_	_	start_char=772|end_char=775
+8	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=776|end_char=781
+9	to	to	PART	TO	_	8	_	_	start_char=782|end_char=784
+10	have	have	AUX	VB	VerbForm=Inf	9	_	_	start_char=785|end_char=789
+11	begun	begin	VERB	VBN	Tense=Past|VerbForm=Part	10	_	_	start_char=790|end_char=795
+12	with	with	ADP	IN	_	11	_	_	start_char=796|end_char=800
+13	an	a	DET	DT	Definite=Ind|PronType=Art	12	_	_	start_char=801|end_char=803
+14	attack	attack	NOUN	NN	Number=Sing	13	_	_	start_char=804|end_char=810
+15	on	on	ADP	IN	_	14	_	_	start_char=811|end_char=813
+16	Da	Da	PROPN	NNP	Number=Sing	15	_	_	start_char=814|end_char=816
+17-18	Vinci’s	_	_	_	_	_	_	_	start_char=817|end_char=824
+17	Vinci	Vinci	PROPN	NNP	Number=Sing	16	_	_	start_char=817|end_char=822
+18	’s	's	PART	POS	_	17	_	_	start_char=822|end_char=824
+19	“	''	PUNCT	``	_	18	_	_	start_char=825|end_char=826|SpaceAfter=No
+20	Mona	Mona	PROPN	NNP	Number=Sing	19	_	_	start_char=826|end_char=830
+21	Lisa	Lisa	PROPN	NNP	Number=Sing	20	_	_	start_char=831|end_char=835|SpaceAfter=No
+22	”	''	PUNCT	''	_	21	_	_	start_char=835|end_char=836
+23	in	in	ADP	IN	_	22	_	_	start_char=837|end_char=839
+24	which	which	PRON	WDT	PronType=Rel	23	_	_	start_char=840|end_char=845
+25	a	a	DET	DT	Definite=Ind|PronType=Art	24	_	_	start_char=846|end_char=847
+26	climate	climate	NOUN	NN	Number=Sing	25	_	_	start_char=848|end_char=855
+27	fanatic	fanatic	NOUN	NN	Number=Sing	26	_	_	start_char=856|end_char=863
+28	feigned	feign	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	27	_	_	start_char=864|end_char=871
+29	a	a	DET	DT	Definite=Ind|PronType=Art	28	_	_	start_char=872|end_char=873
+30	disability	disability	NOUN	NN	Number=Sing	29	_	_	start_char=874|end_char=884
+31	in	in	ADP	IN	_	30	_	_	start_char=885|end_char=887
+32	order	order	NOUN	NN	Number=Sing	31	_	_	start_char=888|end_char=893
+33	to	to	PART	TO	_	32	_	_	start_char=894|end_char=896
+34	get	get	VERB	VB	VerbForm=Inf	33	_	_	start_char=897|end_char=900
+35	close	close	ADV	RB	Degree=Pos	34	_	_	start_char=901|end_char=906
+36	enough	enough	ADV	RB	_	35	_	_	start_char=907|end_char=913
+37	to	to	PART	TO	_	36	_	_	start_char=914|end_char=916
+38	smear	smear	VERB	VB	VerbForm=Inf	37	_	_	start_char=917|end_char=922
+39	a	a	DET	DT	Definite=Ind|PronType=Art	38	_	_	start_char=923|end_char=924
+40	pastry	pastry	NOUN	NN	Number=Sing	39	_	_	start_char=925|end_char=931
+41	on	on	ADP	IN	_	40	_	_	start_char=932|end_char=934
+42	the	the	DET	DT	Definite=Def|PronType=Art	41	_	_	start_char=935|end_char=938
+43	painting	painting	NOUN	NN	Number=Sing	42	_	_	start_char=939|end_char=947|SpaceAfter=No
+44	.	.	PUNCT	.	_	43	_	_	start_char=947|end_char=948|SpacesAfter=\n\n
+
+# text = In addition, “Peach Trees in Blossom” by Van Gogh; “My Heart’s in the Highlands” by Horatio McCulloch; “Tomson’s Aeolian Harp” by J.M.W. Turner; “The Last Supper” by Giampietrino; “Sistine Madonna” by Raphael; and “Haystacks” by Monet have been targeted by climate hysterics since May.
+# sent_id = 7
+1	In	in	ADP	IN	_	0	_	_	start_char=950|end_char=952
+2	addition	addition	NOUN	NN	Number=Sing	1	_	_	start_char=953|end_char=961|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=961|end_char=962
+4	“	''	PUNCT	``	_	3	_	_	start_char=963|end_char=964|SpaceAfter=No
+5	Peach	Peach	PROPN	NNP	Number=Sing	4	_	_	start_char=964|end_char=969
+6	Trees	tree	PROPN	NNPS	Number=Plur	5	_	_	start_char=970|end_char=975
+7	in	in	ADP	IN	_	6	_	_	start_char=976|end_char=978
+8	Blossom	Blossom	PROPN	NNP	Number=Sing	7	_	_	start_char=979|end_char=986|SpaceAfter=No
+9	”	''	PUNCT	''	_	8	_	_	start_char=986|end_char=987
+10	by	by	ADP	IN	_	9	_	_	start_char=988|end_char=990
+11	Van	Van	PROPN	NNP	Number=Sing	10	_	_	start_char=991|end_char=994
+12	Gogh	Gogh	PROPN	NNP	Number=Sing	11	_	_	start_char=995|end_char=999|SpaceAfter=No
+13	;	;	PUNCT	:	_	12	_	_	start_char=999|end_char=1000
+14	“	''	PUNCT	``	_	13	_	_	start_char=1001|end_char=1002|SpaceAfter=No
+15	My	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	14	_	_	start_char=1002|end_char=1004
+16-17	Heart’s	_	_	_	_	_	_	_	start_char=1005|end_char=1012
+16	Heart	heart	PROPN	NNP	Number=Sing	15	_	_	start_char=1005|end_char=1010
+17	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=1010|end_char=1012
+18	in	in	ADP	IN	_	17	_	_	start_char=1013|end_char=1015
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=1016|end_char=1019
+20	Highlands	Highlands	PROPN	NNPS	Number=Plur	19	_	_	start_char=1020|end_char=1029|SpaceAfter=No
+21	”	''	PUNCT	''	_	20	_	_	start_char=1029|end_char=1030
+22	by	by	ADP	IN	_	21	_	_	start_char=1031|end_char=1033
+23	Horatio	Horatio	PROPN	NNP	Number=Sing	22	_	_	start_char=1034|end_char=1041
+24	McCulloch	McCulloch	PROPN	NNP	Number=Sing	23	_	_	start_char=1042|end_char=1051|SpaceAfter=No
+25	;	;	PUNCT	:	_	24	_	_	start_char=1051|end_char=1052
+26	“	''	PUNCT	``	_	25	_	_	start_char=1053|end_char=1054|SpaceAfter=No
+27-28	Tomson’s	_	_	_	_	_	_	_	start_char=1054|end_char=1062
+27	Tomson	Tomson	PROPN	NNP	Number=Sing	26	_	_	start_char=1054|end_char=1060
+28	’s	's	PART	POS	_	27	_	_	start_char=1060|end_char=1062
+29	Aeolian	Aeolian	PROPN	NNP	Number=Sing	28	_	_	start_char=1063|end_char=1070
+30	Harp	Harp	PROPN	NNP	Number=Sing	29	_	_	start_char=1071|end_char=1075|SpaceAfter=No
+31	”	''	PUNCT	''	_	30	_	_	start_char=1075|end_char=1076
+32	by	by	ADP	IN	_	31	_	_	start_char=1077|end_char=1079
+33	J.M.W.	J.M.W.	PROPN	NNP	Number=Sing	32	_	_	start_char=1080|end_char=1086
+34	Turner	Turner	PROPN	NNP	Number=Sing	33	_	_	start_char=1087|end_char=1093|SpaceAfter=No
+35	;	;	PUNCT	:	_	34	_	_	start_char=1093|end_char=1094
+36	“	''	PUNCT	``	_	35	_	_	start_char=1095|end_char=1096|SpaceAfter=No
+37	The	the	DET	DT	Definite=Def|PronType=Art	36	_	_	start_char=1096|end_char=1099
+38	Last	last	ADJ	NNP	Degree=Pos	37	_	_	start_char=1100|end_char=1104
+39	Supper	Supper	PROPN	NNP	Number=Sing	38	_	_	start_char=1105|end_char=1111|SpaceAfter=No
+40	”	''	PUNCT	''	_	39	_	_	start_char=1111|end_char=1112
+41	by	by	ADP	IN	_	40	_	_	start_char=1113|end_char=1115
+42	Giampietrino	Giampietrino	PROPN	NNP	Number=Sing	41	_	_	start_char=1116|end_char=1128|SpaceAfter=No
+43	;	;	PUNCT	:	_	42	_	_	start_char=1128|end_char=1129
+44	“	''	PUNCT	``	_	43	_	_	start_char=1130|end_char=1131|SpaceAfter=No
+45	Sistine	Sistine	PROPN	NNP	Number=Sing	44	_	_	start_char=1131|end_char=1138
+46	Madonna	Madonna	PROPN	NNP	Number=Sing	45	_	_	start_char=1139|end_char=1146|SpaceAfter=No
+47	”	''	PUNCT	''	_	46	_	_	start_char=1146|end_char=1147
+48	by	by	ADP	IN	_	47	_	_	start_char=1148|end_char=1150
+49	Raphael	Raphael	PROPN	NNP	Number=Sing	48	_	_	start_char=1151|end_char=1158|SpaceAfter=No
+50	;	;	PUNCT	:	_	49	_	_	start_char=1158|end_char=1159
+51	and	and	CCONJ	CC	_	50	_	_	start_char=1160|end_char=1163
+52	“	''	PUNCT	``	_	51	_	_	start_char=1164|end_char=1165|SpaceAfter=No
+53	Haystacks	Haystack	PROPN	NNPS	Number=Plur	52	_	_	start_char=1165|end_char=1174|SpaceAfter=No
+54	”	''	PUNCT	''	_	53	_	_	start_char=1174|end_char=1175
+55	by	by	ADP	IN	_	54	_	_	start_char=1176|end_char=1178
+56	Monet	Monet	PROPN	NNP	Number=Sing	55	_	_	start_char=1179|end_char=1184
+57	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	56	_	_	start_char=1185|end_char=1189
+58	been	be	AUX	VBN	Tense=Past|VerbForm=Part	57	_	_	start_char=1190|end_char=1194
+59	targeted	target	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	58	_	_	start_char=1195|end_char=1203
+60	by	by	ADP	IN	_	59	_	_	start_char=1204|end_char=1206
+61	climate	climate	NOUN	NN	Number=Sing	60	_	_	start_char=1207|end_char=1214
+62	hysterics	hysterics	NOUN	NNS	Number=Plur	61	_	_	start_char=1215|end_char=1224
+63	since	since	ADP	IN	_	62	_	_	start_char=1225|end_char=1230
+64	May	May	PROPN	NNP	Number=Sing	63	_	_	start_char=1231|end_char=1234|SpaceAfter=No
+65	.	.	PUNCT	.	_	64	_	_	start_char=1234|end_char=1235|SpacesAfter=\n\n
+
+# text = As of yet, none of the artwork has been damaged, due to being protected by glass.
+# sent_id = 8
+1	As	as	ADP	IN	_	0	_	_	start_char=1237|end_char=1239
+2	of	of	ADP	IN	_	1	_	_	start_char=1240|end_char=1242
+3	yet	yet	ADV	RB	_	2	_	_	start_char=1243|end_char=1246|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1246|end_char=1247
+5	none	none	NOUN	NN	Number=Sing	4	_	_	start_char=1248|end_char=1252
+6	of	of	ADP	IN	_	5	_	_	start_char=1253|end_char=1255
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1256|end_char=1259
+8	artwork	artwork	NOUN	NN	Number=Sing	7	_	_	start_char=1260|end_char=1267
+9	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=1268|end_char=1271
+10	been	be	AUX	VBN	Tense=Past|VerbForm=Part	9	_	_	start_char=1272|end_char=1276
+11	damaged	damage	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10	_	_	start_char=1277|end_char=1284|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=1284|end_char=1285
+13	due	due	ADP	IN	_	12	_	_	start_char=1286|end_char=1289
+14	to	to	SCONJ	IN	_	13	_	_	start_char=1290|end_char=1292
+15	being	be	AUX	VBG	VerbForm=Ger	14	_	_	start_char=1293|end_char=1298
+16	protected	protect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	15	_	_	start_char=1299|end_char=1308
+17	by	by	ADP	IN	_	16	_	_	start_char=1309|end_char=1311
+18	glass	glass	NOUN	NN	Number=Sing	17	_	_	start_char=1312|end_char=1317|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=1317|end_char=1318|SpacesAfter=\n\n
+
+# text = Video of Friday’s attack shows two young climate vandals attempting to glue themselves to the artwork.
+# sent_id = 9
+1	Video	video	NOUN	NN	Number=Sing	0	_	_	start_char=1320|end_char=1325
+2	of	of	ADP	IN	_	1	_	_	start_char=1326|end_char=1328
+3-4	Friday’s	_	_	_	_	_	_	_	start_char=1329|end_char=1337
+3	Friday	Friday	PROPN	NNP	Number=Sing	2	_	_	start_char=1329|end_char=1335
+4	’s	's	PART	POS	_	3	_	_	start_char=1335|end_char=1337
+5	attack	attack	NOUN	NN	Number=Sing	4	_	_	start_char=1338|end_char=1344
+6	shows	show	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1345|end_char=1350
+7	two	two	NUM	CD	NumForm=Word|NumType=Card	6	_	_	start_char=1351|end_char=1354
+8	young	young	ADJ	JJ	Degree=Pos	7	_	_	start_char=1355|end_char=1360
+9	climate	climate	NOUN	NN	Number=Sing	8	_	_	start_char=1361|end_char=1368
+10	vandals	vandal	NOUN	NNS	Number=Plur	9	_	_	start_char=1369|end_char=1376
+11	attempting	attempt	VERB	VBG	VerbForm=Ger	10	_	_	start_char=1377|end_char=1387
+12	to	to	PART	TO	_	11	_	_	start_char=1388|end_char=1390
+13	glue	glue	VERB	VB	VerbForm=Inf	12	_	_	start_char=1391|end_char=1395
+14	themselves	themselves	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	13	_	_	start_char=1396|end_char=1406
+15	to	to	ADP	IN	_	14	_	_	start_char=1407|end_char=1409
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=1410|end_char=1413
+17	artwork	artwork	NOUN	NN	Number=Sing	16	_	_	start_char=1414|end_char=1421|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=1421|end_char=1422
+
+# text = Police apprehended the hooligans, and reported there was some glue residue on the glass that protects the paintings.
+# sent_id = 10
+1	Police	police	NOUN	NNS	Number=Plur	0	_	_	start_char=1423|end_char=1429
+2	apprehended	apprehend	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1430|end_char=1441
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1442|end_char=1445
+4	hooligans	hooligan	NOUN	NNS	Number=Plur	3	_	_	start_char=1446|end_char=1455|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=1455|end_char=1456
+6	and	and	CCONJ	CC	_	5	_	_	start_char=1457|end_char=1460
+7	reported	report	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=1461|end_char=1469
+8	there	there	PRON	EX	_	7	_	_	start_char=1470|end_char=1475
+9	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=1476|end_char=1479
+10	some	some	DET	DT	_	9	_	_	start_char=1480|end_char=1484
+11	glue	glue	NOUN	NN	Number=Sing	10	_	_	start_char=1485|end_char=1489
+12	residue	residue	NOUN	NN	Number=Sing	11	_	_	start_char=1490|end_char=1497
+13	on	on	ADP	IN	_	12	_	_	start_char=1498|end_char=1500
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=1501|end_char=1504
+15	glass	glass	NOUN	NN	Number=Sing	14	_	_	start_char=1505|end_char=1510
+16	that	that	PRON	WDT	PronType=Rel	15	_	_	start_char=1511|end_char=1515
+17	protects	protect	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=1516|end_char=1524
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=1525|end_char=1528
+19	paintings	painting	NOUN	NNS	Number=Plur	18	_	_	start_char=1529|end_char=1538|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=1538|end_char=1539|SpacesAfter=\n\n
+
+# text = “I scream for people dying,” one of the activists shouted.
+# sent_id = 11
+1	“	''	PUNCT	``	_	0	_	_	start_char=1541|end_char=1542|SpaceAfter=No
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	_	_	start_char=1542|end_char=1543
+3	scream	scream	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1544|end_char=1550
+4	for	for	ADP	IN	_	3	_	_	start_char=1551|end_char=1554
+5	people	person	NOUN	NNS	Number=Plur	4	_	_	start_char=1555|end_char=1561
+6	dying	die	VERB	VBG	VerbForm=Ger	5	_	_	start_char=1562|end_char=1567|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=1567|end_char=1568|SpaceAfter=No
+8	”	''	PUNCT	''	_	7	_	_	start_char=1568|end_char=1569
+9	one	one	NUM	CD	NumForm=Word|NumType=Card	8	_	_	start_char=1570|end_char=1573
+10	of	of	ADP	IN	_	9	_	_	start_char=1574|end_char=1576
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=1577|end_char=1580
+12	activists	activist	NOUN	NNS	Number=Plur	11	_	_	start_char=1581|end_char=1590
+13	shouted	shout	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=1591|end_char=1598|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=1598|end_char=1599|SpacesAfter=\n\n
+
+# text = “I scream when lawmakers ignore science,” the other shouted.
+# sent_id = 12
+1	“	''	PUNCT	``	_	0	_	_	start_char=1601|end_char=1602|SpaceAfter=No
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	_	_	start_char=1602|end_char=1603
+3	scream	scream	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1604|end_char=1610
+4	when	when	ADV	WRB	PronType=Int	3	_	_	start_char=1611|end_char=1615
+5	lawmakers	lawmaker	NOUN	NNS	Number=Plur	4	_	_	start_char=1616|end_char=1625
+6	ignore	ignore	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1626|end_char=1632
+7	science	science	NOUN	NN	Number=Sing	6	_	_	start_char=1633|end_char=1640|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=1640|end_char=1641|SpaceAfter=No
+9	”	''	PUNCT	''	_	8	_	_	start_char=1641|end_char=1642
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=1643|end_char=1646
+11	other	other	ADJ	JJ	Degree=Pos	10	_	_	start_char=1647|end_char=1652
+12	shouted	shout	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=1653|end_char=1660|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=1660|end_char=1661|SpacesAfter=\n\n
+
+# text = The Norwegian climate activist group Stopp Oljeletinga, which translates to “Stop Oil Exploration,” claimed responsibility for the attack.
+# sent_id = 13
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1663|end_char=1666
+2	Norwegian	Norwegian	ADJ	JJ	Degree=Pos	1	_	_	start_char=1667|end_char=1676
+3	climate	climate	NOUN	NN	Number=Sing	2	_	_	start_char=1677|end_char=1684
+4	activist	activist	NOUN	NN	Number=Sing	3	_	_	start_char=1685|end_char=1693
+5	group	group	NOUN	NN	Number=Sing	4	_	_	start_char=1694|end_char=1699
+6	Stopp	Stopp	PROPN	NNP	Number=Sing	5	_	_	start_char=1700|end_char=1705
+7	Oljeletinga	Oljeletinga	PROPN	NNP	Number=Sing	6	_	_	start_char=1706|end_char=1717|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=1717|end_char=1718
+9	which	which	PRON	WDT	PronType=Rel	8	_	_	start_char=1719|end_char=1724
+10	translates	translate	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=1725|end_char=1735
+11	to	to	ADP	IN	_	10	_	_	start_char=1736|end_char=1738
+12	“	''	PUNCT	``	_	11	_	_	start_char=1739|end_char=1740|SpaceAfter=No
+13	Stop	stop	PROPN	NNP	Number=Sing	12	_	_	start_char=1740|end_char=1744
+14	Oil	Oil	PROPN	NNP	Number=Sing	13	_	_	start_char=1745|end_char=1748
+15	Exploration	Exploration	PROPN	NNP	Number=Sing	14	_	_	start_char=1749|end_char=1760|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=1760|end_char=1761|SpaceAfter=No
+17	”	''	PUNCT	''	_	16	_	_	start_char=1761|end_char=1762
+18	claimed	claim	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	_	_	start_char=1763|end_char=1770
+19	responsibility	responsibility	NOUN	NN	Number=Sing	18	_	_	start_char=1771|end_char=1785
+20	for	for	ADP	IN	_	19	_	_	start_char=1786|end_char=1789
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=1790|end_char=1793
+22	attack	attack	NOUN	NN	Number=Sing	21	_	_	start_char=1794|end_char=1800|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=1800|end_char=1801|SpacesAfter=\n\n
+
+# text = The group demands that the Norwegian government declare “an immediate halt to all further exploration for oil on the Norwegian continental shelf,” and present “a concrete plan for fair adjustment for today’s oil workers.”
+# sent_id = 14
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1803|end_char=1806
+2	group	group	NOUN	NN	Number=Sing	1	_	_	start_char=1807|end_char=1812
+3	demands	demand	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1813|end_char=1820
+4	that	that	SCONJ	IN	_	3	_	_	start_char=1821|end_char=1825
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1826|end_char=1829
+6	Norwegian	Norwegian	ADJ	JJ	Degree=Pos	5	_	_	start_char=1830|end_char=1839
+7	government	government	NOUN	NN	Number=Sing	6	_	_	start_char=1840|end_char=1850
+8	declare	declare	VERB	VB	Mood=Ind|Person=3|VerbForm=Inf	7	_	_	start_char=1851|end_char=1858
+9	“	''	PUNCT	``	_	8	_	_	start_char=1859|end_char=1860|SpaceAfter=No
+10	an	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=1860|end_char=1862
+11	immediate	immediate	ADJ	JJ	Degree=Pos	10	_	_	start_char=1863|end_char=1872
+12	halt	halt	NOUN	NN	Number=Sing	11	_	_	start_char=1873|end_char=1877
+13	to	to	ADP	IN	_	12	_	_	start_char=1878|end_char=1880
+14	all	all	DET	DT	_	13	_	_	start_char=1881|end_char=1884
+15	further	further	ADJ	JJ	Degree=Pos	14	_	_	start_char=1885|end_char=1892
+16	exploration	exploration	NOUN	NN	Number=Sing	15	_	_	start_char=1893|end_char=1904
+17	for	for	ADP	IN	_	16	_	_	start_char=1905|end_char=1908
+18	oil	oil	NOUN	NN	Number=Sing	17	_	_	start_char=1909|end_char=1912
+19	on	on	ADP	IN	_	18	_	_	start_char=1913|end_char=1915
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=1916|end_char=1919
+21	Norwegian	Norwegian	ADJ	JJ	Degree=Pos	20	_	_	start_char=1920|end_char=1929
+22	continental	continental	ADJ	JJ	Degree=Pos	21	_	_	start_char=1930|end_char=1941
+23	shelf	shelf	NOUN	NN	Number=Sing	22	_	_	start_char=1942|end_char=1947|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=1947|end_char=1948|SpaceAfter=No
+25	”	''	PUNCT	''	_	24	_	_	start_char=1948|end_char=1949
+26	and	and	CCONJ	CC	_	25	_	_	start_char=1950|end_char=1953
+27	present	present	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	_	_	start_char=1954|end_char=1961
+28	“	''	PUNCT	``	_	27	_	_	start_char=1962|end_char=1963|SpaceAfter=No
+29	a	a	DET	DT	Definite=Ind|PronType=Art	28	_	_	start_char=1963|end_char=1964
+30	concrete	concrete	ADJ	JJ	Degree=Pos	29	_	_	start_char=1965|end_char=1973
+31	plan	plan	NOUN	NN	Number=Sing	30	_	_	start_char=1974|end_char=1978
+32	for	for	ADP	IN	_	31	_	_	start_char=1979|end_char=1982
+33	fair	fair	ADJ	JJ	Degree=Pos	32	_	_	start_char=1983|end_char=1987
+34	adjustment	adjustment	NOUN	NN	Number=Sing	33	_	_	start_char=1988|end_char=1998
+35	for	for	ADP	IN	_	34	_	_	start_char=1999|end_char=2002
+36-37	today’s	_	_	_	_	_	_	_	start_char=2003|end_char=2010
+36	today	today	NOUN	NN	Number=Sing	35	_	_	start_char=2003|end_char=2008
+37	’s	's	PART	POS	_	36	_	_	start_char=2008|end_char=2010
+38	oil	oil	NOUN	NN	Number=Sing	37	_	_	start_char=2011|end_char=2014
+39	workers	worker	NOUN	NNS	Number=Plur	38	_	_	start_char=2015|end_char=2022|SpaceAfter=No
+40	.	.	PUNCT	.	_	39	_	_	start_char=2022|end_char=2023|SpaceAfter=No
+41	”	''	PUNCT	''	_	40	_	_	start_char=2023|end_char=2024|SpacesAfter=\n\n
+
+# text = A spokesperson for the group claimed that the vandalism was an attempt to “pressure lawmakers into stopping oil exploration.”
+# sent_id = 15
+1	A	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=2026|end_char=2027
+2	spokesperson	spokesperson	NOUN	NN	Number=Sing	1	_	_	start_char=2028|end_char=2040
+3	for	for	ADP	IN	_	2	_	_	start_char=2041|end_char=2044
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=2045|end_char=2048
+5	group	group	NOUN	NN	Number=Sing	4	_	_	start_char=2049|end_char=2054
+6	claimed	claim	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=2055|end_char=2062
+7	that	that	SCONJ	IN	_	6	_	_	start_char=2063|end_char=2067
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=2068|end_char=2071
+9	vandalism	vandalism	NOUN	NN	Number=Sing	8	_	_	start_char=2072|end_char=2081
+10	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=2082|end_char=2085
+11	an	a	DET	DT	Definite=Ind|PronType=Art	10	_	_	start_char=2086|end_char=2088
+12	attempt	attempt	NOUN	NN	Number=Sing	11	_	_	start_char=2089|end_char=2096
+13	to	to	PART	TO	_	12	_	_	start_char=2097|end_char=2099
+14	“	''	PUNCT	``	_	13	_	_	start_char=2100|end_char=2101|SpaceAfter=No
+15	pressure	pressure	VERB	VB	VerbForm=Inf	14	_	_	start_char=2101|end_char=2109
+16	lawmakers	lawmaker	NOUN	NNS	Number=Plur	15	_	_	start_char=2110|end_char=2119
+17	into	into	SCONJ	IN	_	16	_	_	start_char=2120|end_char=2124
+18	stopping	stop	VERB	VBG	VerbForm=Ger	17	_	_	start_char=2125|end_char=2133
+19	oil	oil	NOUN	NN	Number=Sing	18	_	_	start_char=2134|end_char=2137
+20	exploration	exploration	NOUN	NN	Number=Sing	19	_	_	start_char=2138|end_char=2149|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=2149|end_char=2150|SpaceAfter=No
+22	”	''	PUNCT	''	_	21	_	_	start_char=2150|end_char=2151|SpacesAfter=\n\n
+
+# text = “We are campaigning against ‘Scream’ because it is perhaps Norway’s most famous painting,” said Astrid Rem, a spokesperson for Stopp Oljeletinga.
+# sent_id = 16
+1	“	''	PUNCT	``	_	0	_	_	start_char=2153|end_char=2154|SpaceAfter=No
+2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	1	_	_	start_char=2154|end_char=2156
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2157|end_char=2160
+4	campaigning	campaign	VERB	VBG	Tense=Pres|VerbForm=Part	3	_	_	start_char=2161|end_char=2172
+5	against	against	ADP	IN	_	4	_	_	start_char=2173|end_char=2180
+6	‘	'	PUNCT	``	_	5	_	_	start_char=2181|end_char=2182|SpaceAfter=No
+7	Scream’	Scream’	PROPN	NNP	Number=Sing	6	_	_	start_char=2182|end_char=2189
+8	because	because	SCONJ	IN	_	7	_	_	start_char=2190|end_char=2197
+9	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	_	_	start_char=2198|end_char=2200
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=2201|end_char=2203
+11	perhaps	perhaps	ADV	RB	_	10	_	_	start_char=2204|end_char=2211
+12-13	Norway’s	_	_	_	_	_	_	_	start_char=2212|end_char=2220
+12	Norway	Norway	PROPN	NNP	Number=Sing	11	_	_	start_char=2212|end_char=2218
+13	’s	's	PART	POS	_	12	_	_	start_char=2218|end_char=2220
+14	most	most	ADV	RBS	Degree=Sup	13	_	_	start_char=2221|end_char=2225
+15	famous	famous	ADJ	JJ	Degree=Pos	14	_	_	start_char=2226|end_char=2232
+16	painting	painting	NOUN	NN	Number=Sing	15	_	_	start_char=2233|end_char=2241|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=2241|end_char=2242|SpaceAfter=No
+18	”	''	PUNCT	''	_	17	_	_	start_char=2242|end_char=2243
+19	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	_	_	start_char=2244|end_char=2248
+20	Astrid	Astrid	PROPN	NNP	Number=Sing	19	_	_	start_char=2249|end_char=2255
+21	Rem	Rem	PROPN	NNP	Number=Sing	20	_	_	start_char=2256|end_char=2259|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=2259|end_char=2260
+23	a	a	DET	DT	Definite=Ind|PronType=Art	22	_	_	start_char=2261|end_char=2262
+24	spokesperson	spokesperson	NOUN	NN	Number=Sing	23	_	_	start_char=2263|end_char=2275
+25	for	for	ADP	IN	_	24	_	_	start_char=2276|end_char=2279
+26	Stopp	Stopp	PROPN	NNP	Number=Sing	25	_	_	start_char=2280|end_char=2285
+27	Oljeletinga	Oljeletinga	PROPN	NNP	Number=Sing	26	_	_	start_char=2286|end_char=2297|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=2297|end_char=2298
+
+# text = “There have been lots of similar actions around Europe.
+# sent_id = 17
+1	“	''	PUNCT	``	_	0	_	_	start_char=2299|end_char=2300|SpaceAfter=No
+2	There	there	PRON	EX	_	1	_	_	start_char=2300|end_char=2305
+3	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2306|end_char=2310
+4	been	be	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=2311|end_char=2315
+5	lots	lot	NOUN	NNS	Number=Plur	4	_	_	start_char=2316|end_char=2320
+6	of	of	ADP	IN	_	5	_	_	start_char=2321|end_char=2323
+7	similar	similar	ADJ	JJ	Degree=Pos	6	_	_	start_char=2324|end_char=2331
+8	actions	action	NOUN	NNS	Number=Plur	7	_	_	start_char=2332|end_char=2339
+9	around	around	ADP	IN	_	8	_	_	start_char=2340|end_char=2346
+10	Europe	Europe	PROPN	NNP	Number=Sing	9	_	_	start_char=2347|end_char=2353|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=2353|end_char=2354
+
+# text = They have managed something that no other action has managed: achieve an extremely large amount of coverage and press.”
+# sent_id = 18
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=2355|end_char=2359
+2	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2360|end_char=2364
+3	managed	manage	VERB	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=2365|end_char=2372
+4	something	something	PRON	NN	Number=Sing|PronType=Ind	3	_	_	start_char=2373|end_char=2382
+5	that	that	PRON	WDT	PronType=Rel	4	_	_	start_char=2383|end_char=2387
+6	no	no	DET	DT	_	5	_	_	start_char=2388|end_char=2390
+7	other	other	ADJ	JJ	Degree=Pos	6	_	_	start_char=2391|end_char=2396
+8	action	action	NOUN	NN	Number=Sing	7	_	_	start_char=2397|end_char=2403
+9	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=2404|end_char=2407
+10	managed	manage	VERB	VBN	Tense=Past|VerbForm=Part	9	_	_	start_char=2408|end_char=2415|SpaceAfter=No
+11	:	:	PUNCT	:	_	10	_	_	start_char=2415|end_char=2416
+12	achieve	achieve	VERB	VB	Mood=Imp|VerbForm=Fin	11	_	_	start_char=2417|end_char=2424
+13	an	a	DET	DT	Definite=Ind|PronType=Art	12	_	_	start_char=2425|end_char=2427
+14	extremely	extremely	ADV	RB	_	13	_	_	start_char=2428|end_char=2437
+15	large	large	ADJ	JJ	Degree=Pos	14	_	_	start_char=2438|end_char=2443
+16	amount	amount	NOUN	NN	Number=Sing	15	_	_	start_char=2444|end_char=2450
+17	of	of	ADP	IN	_	16	_	_	start_char=2451|end_char=2453
+18	coverage	coverage	NOUN	NN	Number=Sing	17	_	_	start_char=2454|end_char=2462
+19	and	and	CCONJ	CC	_	18	_	_	start_char=2463|end_char=2466
+20	press	press	NOUN	NN	Number=Sing	19	_	_	start_char=2467|end_char=2472|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=2472|end_char=2473|SpaceAfter=No
+22	”	''	PUNCT	''	_	21	_	_	start_char=2473|end_char=2474|SpacesAfter=\n\n
+
+# text = But there’s good press and there’s bad press.
+# sent_id = 19
+1	But	but	CCONJ	CC	_	0	_	_	start_char=2476|end_char=2479
+2-3	there’s	_	_	_	_	_	_	_	start_char=2480|end_char=2487
+2	there	there	PRON	EX	_	1	_	_	start_char=2480|end_char=2485
+3	’s	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2485|end_char=2487
+4	good	good	ADJ	JJ	Degree=Pos	3	_	_	start_char=2488|end_char=2492
+5	press	press	NOUN	NN	Number=Sing	4	_	_	start_char=2493|end_char=2498
+6	and	and	CCONJ	CC	_	5	_	_	start_char=2499|end_char=2502
+7-8	there’s	_	_	_	_	_	_	_	start_char=2503|end_char=2510
+7	there	there	PRON	EX	_	6	_	_	start_char=2503|end_char=2508
+8	’s	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=2508|end_char=2510
+9	bad	bad	ADJ	JJ	Degree=Pos	8	_	_	start_char=2511|end_char=2514
+10	press	press	NOUN	NN	Number=Sing	9	_	_	start_char=2515|end_char=2520|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=2520|end_char=2521
+
+# text = These crazy antics are of the bad variety.
+# sent_id = 20
+1	These	this	DET	DT	Number=Plur|PronType=Dem	0	_	_	start_char=2522|end_char=2527
+2	crazy	crazy	ADJ	JJ	Degree=Pos	1	_	_	start_char=2528|end_char=2533
+3	antics	antic	NOUN	NNS	Number=Plur	2	_	_	start_char=2534|end_char=2540
+4	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=2541|end_char=2544
+5	of	of	ADP	IN	_	4	_	_	start_char=2545|end_char=2547
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=2548|end_char=2551
+7	bad	bad	ADJ	JJ	Degree=Pos	6	_	_	start_char=2552|end_char=2555
+8	variety	variety	NOUN	NN	Number=Sing	7	_	_	start_char=2556|end_char=2563|SpaceAfter=No
+9	.	.	PUNCT	.	_	8	_	_	start_char=2563|end_char=2564|SpacesAfter=\n\n
+
+# text = Norway is one of the world’s top oil exporters and provides oil and natural gas to much of Europe, a continent in the midst of a serious energy crunch brought about partly by the war in Ukraine.
+# sent_id = 21
+1	Norway	Norway	PROPN	NNP	Number=Sing	0	_	_	start_char=2566|end_char=2572
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2573|end_char=2575
+3	one	one	NUM	CD	NumForm=Word|NumType=Card	2	_	_	start_char=2576|end_char=2579
+4	of	of	ADP	IN	_	3	_	_	start_char=2580|end_char=2582
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=2583|end_char=2586
+6-7	world’s	_	_	_	_	_	_	_	start_char=2587|end_char=2594
+6	world	world	NOUN	NN	Number=Sing	5	_	_	start_char=2587|end_char=2592
+7	’s	's	PART	POS	_	6	_	_	start_char=2592|end_char=2594
+8	top	top	ADJ	JJ	Degree=Pos	7	_	_	start_char=2595|end_char=2598
+9	oil	oil	NOUN	NN	Number=Sing	8	_	_	start_char=2599|end_char=2602
+10	exporters	exporter	NOUN	NNS	Number=Plur	9	_	_	start_char=2603|end_char=2612
+11	and	and	CCONJ	CC	_	10	_	_	start_char=2613|end_char=2616
+12	provides	provide	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=2617|end_char=2625
+13	oil	oil	NOUN	NN	Number=Sing	12	_	_	start_char=2626|end_char=2629
+14	and	and	CCONJ	CC	_	13	_	_	start_char=2630|end_char=2633
+15	natural	natural	ADJ	JJ	Degree=Pos	14	_	_	start_char=2634|end_char=2641
+16	gas	gas	NOUN	NN	Number=Sing	15	_	_	start_char=2642|end_char=2645
+17	to	to	ADP	IN	_	16	_	_	start_char=2646|end_char=2648
+18	much	much	ADJ	JJ	Degree=Pos	17	_	_	start_char=2649|end_char=2653
+19	of	of	ADP	IN	_	18	_	_	start_char=2654|end_char=2656
+20	Europe	Europe	PROPN	NNP	Number=Sing	19	_	_	start_char=2657|end_char=2663|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=2663|end_char=2664
+22	a	a	DET	DT	Definite=Ind|PronType=Art	21	_	_	start_char=2665|end_char=2666
+23	continent	continent	NOUN	NN	Number=Sing	22	_	_	start_char=2667|end_char=2676
+24	in	in	ADP	IN	_	23	_	_	start_char=2677|end_char=2679
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=2680|end_char=2683
+26	midst	midst	NOUN	NN	Number=Sing	25	_	_	start_char=2684|end_char=2689
+27	of	of	ADP	IN	_	26	_	_	start_char=2690|end_char=2692
+28	a	a	DET	DT	Definite=Ind|PronType=Art	27	_	_	start_char=2693|end_char=2694
+29	serious	serious	ADJ	JJ	Degree=Pos	28	_	_	start_char=2695|end_char=2702
+30	energy	energy	NOUN	NN	Number=Sing	29	_	_	start_char=2703|end_char=2709
+31	crunch	crunch	NOUN	NN	Number=Sing	30	_	_	start_char=2710|end_char=2716
+32	brought	bring	VERB	VBN	Tense=Past|VerbForm=Part	31	_	_	start_char=2717|end_char=2724
+33	about	about	ADP	IN	_	32	_	_	start_char=2725|end_char=2730
+34	partly	partly	ADV	RB	_	33	_	_	start_char=2731|end_char=2737
+35	by	by	ADP	IN	_	34	_	_	start_char=2738|end_char=2740
+36	the	the	DET	DT	Definite=Def|PronType=Art	35	_	_	start_char=2741|end_char=2744
+37	war	war	NOUN	NN	Number=Sing	36	_	_	start_char=2745|end_char=2748
+38	in	in	ADP	IN	_	37	_	_	start_char=2749|end_char=2751
+39	Ukraine	Ukraine	PROPN	NNP	Number=Sing	38	_	_	start_char=2752|end_char=2759|SpaceAfter=No
+40	.	.	PUNCT	.	_	39	_	_	start_char=2759|end_char=2760
+
+# text = Russia, the largest supplier of natural gas to Europe, has severely restricted supplies and has shut down the Nord Stream 2 pipeline, which it claims was sabotaged.
+# sent_id = 22
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=2761|end_char=2767|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=2767|end_char=2768
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=2769|end_char=2772
+4	largest	large	ADJ	JJS	Degree=Sup	3	_	_	start_char=2773|end_char=2780
+5	supplier	supplier	NOUN	NN	Number=Sing	4	_	_	start_char=2781|end_char=2789
+6	of	of	ADP	IN	_	5	_	_	start_char=2790|end_char=2792
+7	natural	natural	ADJ	JJ	Degree=Pos	6	_	_	start_char=2793|end_char=2800
+8	gas	gas	NOUN	NN	Number=Sing	7	_	_	start_char=2801|end_char=2804
+9	to	to	ADP	IN	_	8	_	_	start_char=2805|end_char=2807
+10	Europe	Europe	PROPN	NNP	Number=Sing	9	_	_	start_char=2808|end_char=2814|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=2814|end_char=2815
+12	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=2816|end_char=2819
+13	severely	severely	ADV	RB	_	12	_	_	start_char=2820|end_char=2828
+14	restricted	restrict	VERB	VBN	Tense=Past|VerbForm=Part	13	_	_	start_char=2829|end_char=2839
+15	supplies	supplies	NOUN	NNS	Number=Plur	14	_	_	start_char=2840|end_char=2848
+16	and	and	CCONJ	CC	_	15	_	_	start_char=2849|end_char=2852
+17	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=2853|end_char=2856
+18	shut	shut	VERB	VBN	Tense=Past|VerbForm=Part	17	_	_	start_char=2857|end_char=2861
+19	down	down	ADP	RP	_	18	_	_	start_char=2862|end_char=2866
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=2867|end_char=2870
+21	Nord	Nord	PROPN	NNP	Number=Sing	20	_	_	start_char=2871|end_char=2875
+22	Stream	Stream	PROPN	NNP	Number=Sing	21	_	_	start_char=2876|end_char=2882
+23	2	2	NUM	CD	NumForm=Digit|NumType=Card	22	_	_	start_char=2883|end_char=2884
+24	pipeline	pipeline	NOUN	NN	Number=Sing	23	_	_	start_char=2885|end_char=2893|SpaceAfter=No
+25	,	,	PUNCT	,	_	24	_	_	start_char=2893|end_char=2894
+26	which	which	PRON	WDT	PronType=Rel	25	_	_	start_char=2895|end_char=2900
+27	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	26	_	_	start_char=2901|end_char=2903
+28	claims	claim	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	_	_	start_char=2904|end_char=2910
+29	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	_	_	start_char=2911|end_char=2914
+30	sabotaged	sabotage	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	29	_	_	start_char=2915|end_char=2924|SpaceAfter=No
+31	.	.	PUNCT	.	_	30	_	_	start_char=2924|end_char=2925|SpacesAfter=\n\n
+
+# text = Without much-needed Norwegian fossil fuels, Europe could be in for an extremely cold winter.
+# sent_id = 23
+1	Without	without	ADP	IN	_	0	_	_	start_char=2927|end_char=2934
+2	much	much	ADV	RB	Degree=Pos	1	_	_	start_char=2935|end_char=2939|SpaceAfter=No
+3	-	-	PUNCT	HYPH	_	2	_	_	start_char=2939|end_char=2940|SpaceAfter=No
+4	needed	need	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=2940|end_char=2946
+5	Norwegian	Norwegian	ADJ	JJ	Degree=Pos	4	_	_	start_char=2947|end_char=2956
+6	fossil	fossil	NOUN	NN	Number=Sing	5	_	_	start_char=2957|end_char=2963
+7	fuels	fuel	NOUN	NNS	Number=Plur	6	_	_	start_char=2964|end_char=2969|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=2969|end_char=2970
+9	Europe	Europe	PROPN	NNP	Number=Sing	8	_	_	start_char=2971|end_char=2977
+10	could	could	AUX	MD	VerbForm=Fin	9	_	_	start_char=2978|end_char=2983
+11	be	be	AUX	VB	VerbForm=Inf	10	_	_	start_char=2984|end_char=2986
+12	in	in	ADV	RB	_	11	_	_	start_char=2987|end_char=2989
+13	for	for	ADP	IN	_	12	_	_	start_char=2990|end_char=2993
+14	an	a	DET	DT	Definite=Ind|PronType=Art	13	_	_	start_char=2994|end_char=2996
+15	extremely	extremely	ADV	RB	_	14	_	_	start_char=2997|end_char=3006
+16	cold	cold	ADJ	JJ	Degree=Pos	15	_	_	start_char=3007|end_char=3011
+17	winter	winter	NOUN	NN	Number=Sing	16	_	_	start_char=3012|end_char=3018|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=3018|end_char=3019|SpacesAfter=\n\n
+
+# text = The art world has acknowledged their concern over the new phenomenon:
+# sent_id = 24
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=3021|end_char=3024
+2	art	art	NOUN	NN	Number=Sing	1	_	_	start_char=3025|end_char=3028
+3	world	world	NOUN	NN	Number=Sing	2	_	_	start_char=3029|end_char=3034
+4	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=3035|end_char=3038
+5	acknowledged	acknowledge	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=3039|end_char=3051
+6	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	5	_	_	start_char=3052|end_char=3057
+7	concern	concern	NOUN	NN	Number=Sing	6	_	_	start_char=3058|end_char=3065
+8	over	over	ADP	IN	_	7	_	_	start_char=3066|end_char=3070
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=3071|end_char=3074
+10	new	new	ADJ	JJ	Degree=Pos	9	_	_	start_char=3075|end_char=3078
+11	phenomenon	phenomenon	NOUN	NN	Number=Sing	10	_	_	start_char=3079|end_char=3089|SpaceAfter=No
+12	:	:	PUNCT	:	_	11	_	_	start_char=3089|end_char=3090|SpacesAfter=\n\n
+
+# text = “In recent weeks, there have been several attacks on works of art in international museum collections.
+# sent_id = 25
+1	“	''	PUNCT	``	_	0	_	_	start_char=3092|end_char=3093|SpaceAfter=No
+2	In	in	ADP	IN	_	1	_	_	start_char=3093|end_char=3095
+3	recent	recent	ADJ	JJ	Degree=Pos	2	_	_	start_char=3096|end_char=3102
+4	weeks	week	NOUN	NNS	Number=Plur	3	_	_	start_char=3103|end_char=3108|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=3108|end_char=3109
+6	there	there	PRON	EX	_	5	_	_	start_char=3110|end_char=3115
+7	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=3116|end_char=3120
+8	been	be	VERB	VBN	Tense=Past|VerbForm=Part	7	_	_	start_char=3121|end_char=3125
+9	several	several	ADJ	JJ	Degree=Pos	8	_	_	start_char=3126|end_char=3133
+10	attacks	attack	NOUN	NNS	Number=Plur	9	_	_	start_char=3134|end_char=3141
+11	on	on	ADP	IN	_	10	_	_	start_char=3142|end_char=3144
+12	works	work	NOUN	NNS	Number=Plur	11	_	_	start_char=3145|end_char=3150
+13	of	of	ADP	IN	_	12	_	_	start_char=3151|end_char=3153
+14	art	art	NOUN	NN	Number=Sing	13	_	_	start_char=3154|end_char=3157
+15	in	in	ADP	IN	_	14	_	_	start_char=3158|end_char=3160
+16	international	international	ADJ	JJ	Degree=Pos	15	_	_	start_char=3161|end_char=3174
+17	museum	museum	NOUN	NN	Number=Sing	16	_	_	start_char=3175|end_char=3181
+18	collections	collection	NOUN	NNS	Number=Plur	17	_	_	start_char=3182|end_char=3193|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=3193|end_char=3194
+
+# text = The activists responsible for them severely underestimate the fragility of these irreplaceable objects, which must be preserved as part of our world cultural heritage,” read a statement signed by approximately one hundred gallery directors and museums.
+# sent_id = 26
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=3195|end_char=3198
+2	activists	activist	NOUN	NNS	Number=Plur	1	_	_	start_char=3199|end_char=3208
+3	responsible	responsible	ADJ	JJ	Degree=Pos	2	_	_	start_char=3209|end_char=3220
+4	for	for	ADP	IN	_	3	_	_	start_char=3221|end_char=3224
+5	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	4	_	_	start_char=3225|end_char=3229
+6	severely	severely	ADV	RB	_	5	_	_	start_char=3230|end_char=3238
+7	underestimate	underestimate	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=3239|end_char=3252
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=3253|end_char=3256
+9	fragility	fragility	NOUN	NN	Number=Sing	8	_	_	start_char=3257|end_char=3266
+10	of	of	ADP	IN	_	9	_	_	start_char=3267|end_char=3269
+11	these	this	DET	DT	Number=Plur|PronType=Dem	10	_	_	start_char=3270|end_char=3275
+12	irreplaceable	irreplaceable	ADJ	JJ	Degree=Pos	11	_	_	start_char=3276|end_char=3289
+13	objects	object	NOUN	NNS	Number=Plur	12	_	_	start_char=3290|end_char=3297|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=3297|end_char=3298
+15	which	which	PRON	WDT	PronType=Rel	14	_	_	start_char=3299|end_char=3304
+16	must	must	AUX	MD	VerbForm=Fin	15	_	_	start_char=3305|end_char=3309
+17	be	be	AUX	VB	VerbForm=Inf	16	_	_	start_char=3310|end_char=3312
+18	preserved	preserve	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	17	_	_	start_char=3313|end_char=3322
+19	as	as	ADP	IN	_	18	_	_	start_char=3323|end_char=3325
+20	part	part	NOUN	NN	Number=Sing	19	_	_	start_char=3326|end_char=3330
+21	of	of	ADP	IN	_	20	_	_	start_char=3331|end_char=3333
+22	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	21	_	_	start_char=3334|end_char=3337
+23	world	world	NOUN	NN	Number=Sing	22	_	_	start_char=3338|end_char=3343
+24	cultural	cultural	ADJ	JJ	Degree=Pos	23	_	_	start_char=3344|end_char=3352
+25	heritage	heritage	NOUN	NN	Number=Sing	24	_	_	start_char=3353|end_char=3361|SpaceAfter=No
+26	,	,	PUNCT	,	_	25	_	_	start_char=3361|end_char=3362|SpaceAfter=No
+27	”	''	PUNCT	''	_	26	_	_	start_char=3362|end_char=3363
+28	read	read	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	27	_	_	start_char=3364|end_char=3368
+29	a	a	DET	DT	Definite=Ind|PronType=Art	28	_	_	start_char=3369|end_char=3370
+30	statement	statement	NOUN	NN	Number=Sing	29	_	_	start_char=3371|end_char=3380
+31	signed	sign	VERB	VBN	Tense=Past|VerbForm=Part	30	_	_	start_char=3381|end_char=3387
+32	by	by	ADP	IN	_	31	_	_	start_char=3388|end_char=3390
+33	approximately	approximately	ADV	RB	_	32	_	_	start_char=3391|end_char=3404
+34	one	one	NUM	CD	NumForm=Word|NumType=Card	33	_	_	start_char=3405|end_char=3408
+35	hundred	hundred	NUM	CD	NumForm=Word|NumType=Card	34	_	_	start_char=3409|end_char=3416
+36	gallery	gallery	NOUN	NN	Number=Sing	35	_	_	start_char=3417|end_char=3424
+37	directors	director	NOUN	NNS	Number=Plur	36	_	_	start_char=3425|end_char=3434
+38	and	and	CCONJ	CC	_	37	_	_	start_char=3435|end_char=3438
+39	museums	museum	NOUN	NNS	Number=Plur	38	_	_	start_char=3439|end_char=3446|SpaceAfter=No
+40	.	.	PUNCT	.	_	39	_	_	start_char=3446|end_char=3447|SpacesAfter=\n\n
+
+# text = These climate crazies are apparently willing to allow a continent to freeze this winter over their fears of an over-hyped “problem” peddled by globalists who flew more than 400 carbon-spewing private jets to COP27 in Egypt last week.
+# sent_id = 27
+1	These	this	DET	DT	Number=Plur|PronType=Dem	0	_	_	start_char=3449|end_char=3454
+2	climate	climate	NOUN	NN	Number=Sing	1	_	_	start_char=3455|end_char=3462
+3	crazies	crazy	NOUN	NNS	Number=Plur	2	_	_	start_char=3463|end_char=3470
+4	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=3471|end_char=3474
+5	apparently	apparently	ADV	RB	_	4	_	_	start_char=3475|end_char=3485
+6	willing	willing	ADJ	JJ	Degree=Pos	5	_	_	start_char=3486|end_char=3493
+7	to	to	PART	TO	_	6	_	_	start_char=3494|end_char=3496
+8	allow	allow	VERB	VB	VerbForm=Inf	7	_	_	start_char=3497|end_char=3502
+9	a	a	DET	DT	Definite=Ind|PronType=Art	8	_	_	start_char=3503|end_char=3504
+10	continent	continent	NOUN	NN	Number=Sing	9	_	_	start_char=3505|end_char=3514
+11	to	to	PART	TO	_	10	_	_	start_char=3515|end_char=3517
+12	freeze	freeze	VERB	VB	VerbForm=Inf	11	_	_	start_char=3518|end_char=3524
+13	this	this	DET	DT	Number=Sing|PronType=Dem	12	_	_	start_char=3525|end_char=3529
+14	winter	winter	NOUN	NN	Number=Sing	13	_	_	start_char=3530|end_char=3536
+15	over	over	ADP	IN	_	14	_	_	start_char=3537|end_char=3541
+16	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	15	_	_	start_char=3542|end_char=3547
+17	fears	fear	NOUN	NNS	Number=Plur	16	_	_	start_char=3548|end_char=3553
+18	of	of	ADP	IN	_	17	_	_	start_char=3554|end_char=3556
+19	an	a	DET	DT	Definite=Ind|PronType=Art	18	_	_	start_char=3557|end_char=3559
+20	over	over	ADV	RB	_	19	_	_	start_char=3560|end_char=3564|SpaceAfter=No
+21	-	-	PUNCT	HYPH	_	20	_	_	start_char=3564|end_char=3565|SpaceAfter=No
+22	hyped	hype	VERB	VBN	Tense=Past|VerbForm=Part	21	_	_	start_char=3565|end_char=3570
+23	“	''	PUNCT	``	_	22	_	_	start_char=3571|end_char=3572|SpaceAfter=No
+24	problem	problem	NOUN	NN	Number=Sing	23	_	_	start_char=3572|end_char=3579|SpaceAfter=No
+25	”	''	PUNCT	''	_	24	_	_	start_char=3579|end_char=3580
+26	peddled	peddle	VERB	VBN	Tense=Past|VerbForm=Part	25	_	_	start_char=3581|end_char=3588
+27	by	by	ADP	IN	_	26	_	_	start_char=3589|end_char=3591
+28	globalists	globalist	NOUN	NNS	Number=Plur	27	_	_	start_char=3592|end_char=3602
+29	who	who	PRON	WP	PronType=Rel	28	_	_	start_char=3603|end_char=3606
+30	flew	fly	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	29	_	_	start_char=3607|end_char=3611
+31	more	more	ADJ	JJR	Degree=Cmp	30	_	_	start_char=3612|end_char=3616
+32	than	than	ADP	IN	_	31	_	_	start_char=3617|end_char=3621
+33	400	400	NUM	CD	NumForm=Digit|NumType=Card	32	_	_	start_char=3622|end_char=3625
+34	carbon	carbon	NOUN	NN	Number=Sing	33	_	_	start_char=3626|end_char=3632|SpaceAfter=No
+35	-	-	PUNCT	HYPH	_	34	_	_	start_char=3632|end_char=3633|SpaceAfter=No
+36	spewing	spew	VERB	VBG	VerbForm=Ger	35	_	_	start_char=3633|end_char=3640
+37	private	private	ADJ	JJ	Degree=Pos	36	_	_	start_char=3641|end_char=3648
+38	jets	jet	NOUN	NNS	Number=Plur	37	_	_	start_char=3649|end_char=3653
+39	to	to	ADP	IN	_	38	_	_	start_char=3654|end_char=3656
+40	COP27	COP27	PROPN	NNP	Number=Sing	39	_	_	start_char=3657|end_char=3662
+41	in	in	ADP	IN	_	40	_	_	start_char=3663|end_char=3665
+42	Egypt	Egypt	PROPN	NNP	Number=Sing	41	_	_	start_char=3666|end_char=3671
+43	last	last	ADJ	JJ	Degree=Pos	42	_	_	start_char=3672|end_char=3676
+44	week	week	NOUN	NN	Number=Sing	43	_	_	start_char=3677|end_char=3681|SpaceAfter=No
+45	.	.	PUNCT	.	_	44	_	_	start_char=3681|end_char=3682
+
+# text = If they truly believe the hype surrounding climate change, they’re targeting the wrong thing.
+# sent_id = 28
+1	If	if	SCONJ	IN	_	0	_	_	start_char=3683|end_char=3685
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	1	_	_	start_char=3686|end_char=3690
+3	truly	truly	ADV	RB	_	2	_	_	start_char=3691|end_char=3696
+4	believe	believe	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=3697|end_char=3704
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=3705|end_char=3708
+6	hype	hype	NOUN	NN	Number=Sing	5	_	_	start_char=3709|end_char=3713
+7	surrounding	surround	VERB	VBG	VerbForm=Ger	6	_	_	start_char=3714|end_char=3725
+8	climate	climate	NOUN	NN	Number=Sing	7	_	_	start_char=3726|end_char=3733
+9	change	change	NOUN	NN	Number=Sing	8	_	_	start_char=3734|end_char=3740|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=3740|end_char=3741
+11-12	they’re	_	_	_	_	_	_	_	start_char=3742|end_char=3749
+11	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	_	_	start_char=3742|end_char=3746
+12	’re	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=3746|end_char=3749
+13	targeting	target	VERB	VBG	Tense=Pres|VerbForm=Part	12	_	_	start_char=3750|end_char=3759
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=3760|end_char=3763
+15	wrong	wrong	ADJ	JJ	Degree=Pos	14	_	_	start_char=3764|end_char=3769
+16	thing	thing	NOUN	NN	Number=Sing	15	_	_	start_char=3770|end_char=3775|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=3775|end_char=3776|SpaceAfter=No
+

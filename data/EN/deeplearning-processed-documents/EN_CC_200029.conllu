@@ -1,0 +1,362 @@
+# text = Monarch awards Blackpink k-pop stars with MBEs
+# sent_id = 0
+1	Monarch	Monarch	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=7
+2	awards	award	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=8|end_char=14
+3	Blackpink	Blackpink	PROPN	NNP	Number=Sing	2	_	_	start_char=15|end_char=24
+4	k-pop	k-pop	NOUN	NN	Number=Sing	3	_	_	start_char=25|end_char=30
+5	stars	star	NOUN	NNS	Number=Plur	4	_	_	start_char=31|end_char=36
+6	with	with	ADP	IN	_	5	_	_	start_char=37|end_char=41
+7	MBEs	MBE	PROPN	NNP	Number=Sing	6	_	_	start_char=42|end_char=46|SpacesAfter=\s\n\n\s
+
+# text = During the state visit by South Korean President Yoon Suk Yeol, King [Name] honored K-pop sensation Blackpink with honorary MBEs, acknowledging their role as ambassadors for the COP climate change summit and advocates for the UN’s sustainable development goals, BBC reported.
+# sent_id = 1
+1	During	during	ADP	IN	_	0	_	_	start_char=50|end_char=56
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=57|end_char=60
+3	state	state	NOUN	NN	Number=Sing	2	_	_	start_char=61|end_char=66
+4	visit	visit	NOUN	NN	Number=Sing	3	_	_	start_char=67|end_char=72
+5	by	by	ADP	IN	_	4	_	_	start_char=73|end_char=75
+6	South	South	PROPN	NNP	Number=Sing	5	_	_	start_char=76|end_char=81
+7	Korean	Korean	ADJ	NNP	Degree=Pos	6	_	_	start_char=82|end_char=88
+8	President	President	PROPN	NNP	Number=Sing	7	_	_	start_char=89|end_char=98
+9	Yoon	Yoon	PROPN	NNP	Number=Sing	8	_	_	start_char=99|end_char=103
+10	Suk	Suk	PROPN	NNP	Number=Sing	9	_	_	start_char=104|end_char=107
+11	Yeol	Yeol	PROPN	NNP	Number=Sing	10	_	_	start_char=108|end_char=112|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=112|end_char=113
+13	King	King	PROPN	NNP	Number=Sing	12	_	_	start_char=114|end_char=118
+14	[	[	PUNCT	-LRB-	_	13	_	_	start_char=119|end_char=120|SpaceAfter=No
+15	Name	name	PROPN	NNP	Number=Sing	14	_	_	start_char=120|end_char=124|SpaceAfter=No
+16	]	]	PUNCT	-RRB-	_	15	_	_	start_char=124|end_char=125
+17	honored	honor	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	_	_	start_char=126|end_char=133
+18	K-pop	K-pop	PROPN	NNP	Number=Sing	17	_	_	start_char=134|end_char=139
+19	sensation	sensation	NOUN	NN	Number=Sing	18	_	_	start_char=140|end_char=149
+20	Blackpink	Blackpink	PROPN	NNP	Number=Sing	19	_	_	start_char=150|end_char=159
+21	with	with	ADP	IN	_	20	_	_	start_char=160|end_char=164
+22	honorary	honorary	ADJ	JJ	Degree=Pos	21	_	_	start_char=165|end_char=173
+23	MBEs	mbe	NOUN	NNS	Number=Plur	22	_	_	start_char=174|end_char=178|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=178|end_char=179
+25	acknowledging	acknowledge	VERB	VBG	VerbForm=Ger	24	_	_	start_char=180|end_char=193
+26	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	25	_	_	start_char=194|end_char=199
+27	role	role	NOUN	NN	Number=Sing	26	_	_	start_char=200|end_char=204
+28	as	as	ADP	IN	_	27	_	_	start_char=205|end_char=207
+29	ambassadors	ambassador	NOUN	NNS	Number=Plur	28	_	_	start_char=208|end_char=219
+30	for	for	ADP	IN	_	29	_	_	start_char=220|end_char=223
+31	the	the	DET	DT	Definite=Def|PronType=Art	30	_	_	start_char=224|end_char=227
+32	COP	cop	NOUN	NN	Number=Sing	31	_	_	start_char=228|end_char=231
+33	climate	climate	NOUN	NN	Number=Sing	32	_	_	start_char=232|end_char=239
+34	change	change	NOUN	NN	Number=Sing	33	_	_	start_char=240|end_char=246
+35	summit	summit	NOUN	NN	Number=Sing	34	_	_	start_char=247|end_char=253
+36	and	and	CCONJ	CC	_	35	_	_	start_char=254|end_char=257
+37	advocates	advocate	NOUN	NNS	Number=Plur	36	_	_	start_char=258|end_char=267
+38	for	for	ADP	IN	_	37	_	_	start_char=268|end_char=271
+39	the	the	DET	DT	Definite=Def|PronType=Art	38	_	_	start_char=272|end_char=275
+40-41	UN’s	_	_	_	_	_	_	_	start_char=276|end_char=280
+40	UN	UN	PROPN	NNP	Number=Sing	39	_	_	start_char=276|end_char=278
+41	’s	's	PART	POS	_	40	_	_	start_char=278|end_char=280
+42	sustainable	sustainable	ADJ	JJ	Degree=Pos	41	_	_	start_char=281|end_char=292
+43	development	development	NOUN	NN	Number=Sing	42	_	_	start_char=293|end_char=304
+44	goals	goal	NOUN	NNS	Number=Plur	43	_	_	start_char=305|end_char=310|SpaceAfter=No
+45	,	,	PUNCT	,	_	44	_	_	start_char=310|end_char=311
+46	BBC	BBC	PROPN	NNP	Number=Sing	45	_	_	start_char=312|end_char=315
+47	reported	report	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	46	_	_	start_char=316|end_char=324|SpaceAfter=No
+48	.	.	PUNCT	.	_	47	_	_	start_char=324|end_char=325|SpacesAfter=\n\n
+
+# text = The King praised Blackpink’s commitment to environmental causes, highlighting their ability to address vital issues while being global superstars.
+# sent_id = 2
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=327|end_char=330
+2	King	King	PROPN	NNP	Number=Sing	1	_	_	start_char=331|end_char=335
+3	praised	praise	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=336|end_char=343
+4-5	Blackpink’s	_	_	_	_	_	_	_	start_char=344|end_char=355
+4	Blackpink	Blackpink	PROPN	NNP	Number=Sing	3	_	_	start_char=344|end_char=353
+5	’s	's	PART	POS	_	4	_	_	start_char=353|end_char=355
+6	commitment	commitment	NOUN	NN	Number=Sing	5	_	_	start_char=356|end_char=366
+7	to	to	ADP	IN	_	6	_	_	start_char=367|end_char=369
+8	environmental	environmental	ADJ	JJ	Degree=Pos	7	_	_	start_char=370|end_char=383
+9	causes	cause	NOUN	NNS	Number=Plur	8	_	_	start_char=384|end_char=390|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=390|end_char=391
+11	highlighting	highlight	VERB	VBG	VerbForm=Ger	10	_	_	start_char=392|end_char=404
+12	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	_	_	start_char=405|end_char=410
+13	ability	ability	NOUN	NN	Number=Sing	12	_	_	start_char=411|end_char=418
+14	to	to	PART	TO	_	13	_	_	start_char=419|end_char=421
+15	address	address	VERB	VB	VerbForm=Inf	14	_	_	start_char=422|end_char=429
+16	vital	vital	ADJ	JJ	Degree=Pos	15	_	_	start_char=430|end_char=435
+17	issues	issue	NOUN	NNS	Number=Plur	16	_	_	start_char=436|end_char=442
+18	while	while	SCONJ	IN	_	17	_	_	start_char=443|end_char=448
+19	being	be	AUX	VBG	VerbForm=Ger	18	_	_	start_char=449|end_char=454
+20	global	global	ADJ	JJ	Degree=Pos	19	_	_	start_char=455|end_char=461
+21	superstars	superstar	NOUN	NNS	Number=Plur	20	_	_	start_char=462|end_char=472|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=472|end_char=473
+
+# text = The investiture took place in Buckingham Palace’s prestigious 1844 room, underscoring the significance of this diplomatic exchange with South Korea.
+# sent_id = 3
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=474|end_char=477
+2	investiture	investiture	NOUN	NN	Number=Sing	1	_	_	start_char=478|end_char=489
+3	took	take	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=490|end_char=494
+4	place	place	NOUN	NN	Number=Sing	3	_	_	start_char=495|end_char=500
+5	in	in	ADP	IN	_	4	_	_	start_char=501|end_char=503
+6	Buckingham	Buckingham	PROPN	NNP	Number=Sing	5	_	_	start_char=504|end_char=514
+7-8	Palace’s	_	_	_	_	_	_	_	start_char=515|end_char=523
+7	Palace	Palace	PROPN	NNP	Number=Sing	6	_	_	start_char=515|end_char=521
+8	’s	's	PART	POS	_	7	_	_	start_char=521|end_char=523
+9	prestigious	prestigious	ADJ	JJ	Degree=Pos	8	_	_	start_char=524|end_char=535
+10	1844	1844	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=536|end_char=540
+11	room	room	NOUN	NN	Number=Sing	10	_	_	start_char=541|end_char=545|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=545|end_char=546
+13	underscoring	underscor	VERB	VBG	VerbForm=Ger	12	_	_	start_char=547|end_char=559
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=560|end_char=563
+15	significance	significance	NOUN	NN	Number=Sing	14	_	_	start_char=564|end_char=576
+16	of	of	ADP	IN	_	15	_	_	start_char=577|end_char=579
+17	this	this	DET	DT	Number=Sing|PronType=Dem	16	_	_	start_char=580|end_char=584
+18	diplomatic	diplomatic	ADJ	JJ	Degree=Pos	17	_	_	start_char=585|end_char=595
+19	exchange	exchange	NOUN	NN	Number=Sing	18	_	_	start_char=596|end_char=604
+20	with	with	ADP	IN	_	19	_	_	start_char=605|end_char=609
+21	South	South	PROPN	NNP	Number=Sing	20	_	_	start_char=610|end_char=615
+22	Korea	Korea	PROPN	NNP	Number=Sing	21	_	_	start_char=616|end_char=621|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=621|end_char=622
+
+# text = Blackpink members—Roseanne Park, Jennie Kim, Jisoo Kim, and Lalisa Manoban—are now honorary members of the Order of the British Empire.
+# sent_id = 4
+1	Blackpink	Blackpink	PROPN	NNP	Number=Sing	0	_	_	start_char=623|end_char=632
+2	members	member	NOUN	NNS	Number=Plur	1	_	_	start_char=633|end_char=640|SpaceAfter=No
+3	—	—	PUNCT	:	_	2	_	_	start_char=640|end_char=641|SpaceAfter=No
+4	Roseanne	Roseanne	PROPN	NNP	Number=Sing	3	_	_	start_char=641|end_char=649
+5	Park	Park	PROPN	NNP	Number=Sing	4	_	_	start_char=650|end_char=654|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=654|end_char=655
+7	Jennie	Jennie	PROPN	NNP	Number=Sing	6	_	_	start_char=656|end_char=662
+8	Kim	Kim	PROPN	NNP	Number=Sing	7	_	_	start_char=663|end_char=666|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=666|end_char=667
+10	Jisoo	Jisoo	PROPN	NNP	Number=Sing	9	_	_	start_char=668|end_char=673
+11	Kim	Kim	PROPN	NNP	Number=Sing	10	_	_	start_char=674|end_char=677|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=677|end_char=678
+13	and	and	CCONJ	CC	_	12	_	_	start_char=679|end_char=682
+14	Lalisa	Lalisa	PROPN	NNP	Number=Sing	13	_	_	start_char=683|end_char=689
+15	Manoban	Manoban	PROPN	NNP	Number=Sing	14	_	_	start_char=690|end_char=697|SpaceAfter=No
+16	—	—	PUNCT	:	_	15	_	_	start_char=697|end_char=698|SpaceAfter=No
+17	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=698|end_char=701
+18	now	now	ADV	RB	_	17	_	_	start_char=702|end_char=705
+19	honorary	honorary	ADJ	JJ	Degree=Pos	18	_	_	start_char=706|end_char=714
+20	members	member	NOUN	NNS	Number=Plur	19	_	_	start_char=715|end_char=722
+21	of	of	ADP	IN	_	20	_	_	start_char=723|end_char=725
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=726|end_char=729
+23	Order	Order	PROPN	NNP	Number=Sing	22	_	_	start_char=730|end_char=735
+24	of	of	ADP	IN	_	23	_	_	start_char=736|end_char=738
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=739|end_char=742
+26	British	British	ADJ	NNP	Degree=Pos	25	_	_	start_char=743|end_char=750
+27	Empire	Empire	PROPN	NNP	Number=Sing	26	_	_	start_char=751|end_char=757|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=757|end_char=758
+
+# text = The King’s speech underscored the global impact of South Korean popular culture and its ability to captivate imaginations.
+# sent_id = 5
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=759|end_char=762
+2-3	King’s	_	_	_	_	_	_	_	start_char=763|end_char=769
+2	King	King	PROPN	NNP	Number=Sing	1	_	_	start_char=763|end_char=767
+3	’s	's	PART	POS	_	2	_	_	start_char=767|end_char=769
+4	speech	speech	NOUN	NN	Number=Sing	3	_	_	start_char=770|end_char=776
+5	underscored	underscor	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=777|end_char=788
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=789|end_char=792
+7	global	global	ADJ	JJ	Degree=Pos	6	_	_	start_char=793|end_char=799
+8	impact	impact	NOUN	NN	Number=Sing	7	_	_	start_char=800|end_char=806
+9	of	of	ADP	IN	_	8	_	_	start_char=807|end_char=809
+10	South	South	PROPN	NNP	Number=Sing	9	_	_	start_char=810|end_char=815
+11	Korean	Korean	ADJ	JJ	Degree=Pos	10	_	_	start_char=816|end_char=822
+12	popular	popular	ADJ	JJ	Degree=Pos	11	_	_	start_char=823|end_char=830
+13	culture	culture	NOUN	NN	Number=Sing	12	_	_	start_char=831|end_char=838
+14	and	and	CCONJ	CC	_	13	_	_	start_char=839|end_char=842
+15	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	_	_	start_char=843|end_char=846
+16	ability	ability	NOUN	NN	Number=Sing	15	_	_	start_char=847|end_char=854
+17	to	to	PART	TO	_	16	_	_	start_char=855|end_char=857
+18	captivate	captivate	VERB	VB	VerbForm=Inf	17	_	_	start_char=858|end_char=867
+19	imaginations	imagination	NOUN	NNS	Number=Plur	18	_	_	start_char=868|end_char=880|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=880|end_char=881
+
+# text = Despite the King’s admission of a personal lack of familiarity with “Gangnam Style,” a military band surprised onlookers by playing the song during the changing of the guard.
+# sent_id = 6
+1	Despite	despite	ADP	IN	_	0	_	_	start_char=882|end_char=889
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=890|end_char=893
+3-4	King’s	_	_	_	_	_	_	_	start_char=894|end_char=900
+3	King	King	PROPN	NNP	Number=Sing	2	_	_	start_char=894|end_char=898
+4	’s	's	PART	POS	_	3	_	_	start_char=898|end_char=900
+5	admission	admission	NOUN	NN	Number=Sing	4	_	_	start_char=901|end_char=910
+6	of	of	ADP	IN	_	5	_	_	start_char=911|end_char=913
+7	a	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=914|end_char=915
+8	personal	personal	ADJ	JJ	Degree=Pos	7	_	_	start_char=916|end_char=924
+9	lack	lack	NOUN	NN	Number=Sing	8	_	_	start_char=925|end_char=929
+10	of	of	ADP	IN	_	9	_	_	start_char=930|end_char=932
+11	familiarity	familiarity	NOUN	NN	Number=Sing	10	_	_	start_char=933|end_char=944
+12	with	with	ADP	IN	_	11	_	_	start_char=945|end_char=949
+13	“	''	PUNCT	``	_	12	_	_	start_char=950|end_char=951|SpaceAfter=No
+14	Gangnam	Gangnam	PROPN	NNP	Number=Sing	13	_	_	start_char=951|end_char=958
+15	Style	Style	PROPN	NNP	Number=Sing	14	_	_	start_char=959|end_char=964|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=964|end_char=965|SpaceAfter=No
+17	”	''	PUNCT	''	_	16	_	_	start_char=965|end_char=966
+18	a	a	DET	DT	Definite=Ind|PronType=Art	17	_	_	start_char=967|end_char=968
+19	military	military	ADJ	JJ	Degree=Pos	18	_	_	start_char=969|end_char=977
+20	band	band	NOUN	NN	Number=Sing	19	_	_	start_char=978|end_char=982
+21	surprised	surprise	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	_	_	start_char=983|end_char=992
+22	onlookers	onlooker	NOUN	NNS	Number=Plur	21	_	_	start_char=993|end_char=1002
+23	by	by	SCONJ	IN	_	22	_	_	start_char=1003|end_char=1005
+24	playing	play	VERB	VBG	VerbForm=Ger	23	_	_	start_char=1006|end_char=1013
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=1014|end_char=1017
+26	song	song	NOUN	NN	Number=Sing	25	_	_	start_char=1018|end_char=1022
+27	during	during	ADP	IN	_	26	_	_	start_char=1023|end_char=1029
+28	the	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=1030|end_char=1033
+29	changing	changing	NOUN	NN	Number=Sing	28	_	_	start_char=1034|end_char=1042
+30	of	of	ADP	IN	_	29	_	_	start_char=1043|end_char=1045
+31	the	the	DET	DT	Definite=Def|PronType=Art	30	_	_	start_char=1046|end_char=1049
+32	guard	guard	NOUN	NN	Number=Sing	31	_	_	start_char=1050|end_char=1055|SpaceAfter=No
+33	.	.	PUNCT	.	_	32	_	_	start_char=1055|end_char=1056
+
+# text = The state visit prioritized both serious diplomacy and pageantry, focusing on enhancing trade links and military partnerships.
+# sent_id = 7
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1057|end_char=1060
+2	state	state	NOUN	NN	Number=Sing	1	_	_	start_char=1061|end_char=1066
+3	visit	visit	NOUN	NN	Number=Sing	2	_	_	start_char=1067|end_char=1072
+4	prioritized	prioritize	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=1073|end_char=1084
+5	both	both	CCONJ	CC	_	4	_	_	start_char=1085|end_char=1089
+6	serious	serious	ADJ	JJ	Degree=Pos	5	_	_	start_char=1090|end_char=1097
+7	diplomacy	diplomacy	NOUN	NN	Number=Sing	6	_	_	start_char=1098|end_char=1107
+8	and	and	CCONJ	CC	_	7	_	_	start_char=1108|end_char=1111
+9	pageantry	pageantry	NOUN	NN	Number=Sing	8	_	_	start_char=1112|end_char=1121|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=1121|end_char=1122
+11	focusing	focus	VERB	VBG	VerbForm=Ger	10	_	_	start_char=1123|end_char=1131
+12	on	on	SCONJ	IN	_	11	_	_	start_char=1132|end_char=1134
+13	enhancing	enhance	VERB	VBG	VerbForm=Ger	12	_	_	start_char=1135|end_char=1144
+14	trade	trade	NOUN	NN	Number=Sing	13	_	_	start_char=1145|end_char=1150
+15	links	link	NOUN	NNS	Number=Plur	14	_	_	start_char=1151|end_char=1156
+16	and	and	CCONJ	CC	_	15	_	_	start_char=1157|end_char=1160
+17	military	military	ADJ	JJ	Degree=Pos	16	_	_	start_char=1161|end_char=1169
+18	partnerships	partnership	NOUN	NNS	Number=Plur	17	_	_	start_char=1170|end_char=1182|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=1182|end_char=1183|SpacesAfter=\n\n
+
+# text = President Yoon and Prime Minister Rishi Sunak signed a “Downing Street Accord,” outlining plans for a trade deal and collaboration in science, technology, and green energy.
+# sent_id = 8
+1	President	President	PROPN	NNP	Number=Sing	0	_	_	start_char=1185|end_char=1194
+2	Yoon	Yoon	PROPN	NNP	Number=Sing	1	_	_	start_char=1195|end_char=1199
+3	and	and	CCONJ	CC	_	2	_	_	start_char=1200|end_char=1203
+4	Prime	Prime	ADJ	NNP	Degree=Pos	3	_	_	start_char=1204|end_char=1209
+5	Minister	Minister	PROPN	NNP	Number=Sing	4	_	_	start_char=1210|end_char=1218
+6	Rishi	Rishi	PROPN	NNP	Number=Sing	5	_	_	start_char=1219|end_char=1224
+7	Sunak	Sunak	PROPN	NNP	Number=Sing	6	_	_	start_char=1225|end_char=1230
+8	signed	sign	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=1231|end_char=1237
+9	a	a	DET	DT	Definite=Ind|PronType=Art	8	_	_	start_char=1238|end_char=1239
+10	“	''	PUNCT	``	_	9	_	_	start_char=1240|end_char=1241|SpaceAfter=No
+11	Downing	Downing	PROPN	NNP	Number=Sing	10	_	_	start_char=1241|end_char=1248
+12	Street	Street	PROPN	NNP	Number=Sing	11	_	_	start_char=1249|end_char=1255
+13	Accord	Accord	PROPN	NNP	Number=Sing	12	_	_	start_char=1256|end_char=1262|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=1262|end_char=1263|SpaceAfter=No
+15	”	''	PUNCT	''	_	14	_	_	start_char=1263|end_char=1264
+16	outlining	outline	VERB	VBG	VerbForm=Ger	15	_	_	start_char=1265|end_char=1274
+17	plans	plan	NOUN	NNS	Number=Plur	16	_	_	start_char=1275|end_char=1280
+18	for	for	ADP	IN	_	17	_	_	start_char=1281|end_char=1284
+19	a	a	DET	DT	Definite=Ind|PronType=Art	18	_	_	start_char=1285|end_char=1286
+20	trade	trade	NOUN	NN	Number=Sing	19	_	_	start_char=1287|end_char=1292
+21	deal	deal	NOUN	NN	Number=Sing	20	_	_	start_char=1293|end_char=1297
+22	and	and	CCONJ	CC	_	21	_	_	start_char=1298|end_char=1301
+23	collaboration	collaboration	NOUN	NN	Number=Sing	22	_	_	start_char=1302|end_char=1315
+24	in	in	ADP	IN	_	23	_	_	start_char=1316|end_char=1318
+25	science	science	NOUN	NN	Number=Sing	24	_	_	start_char=1319|end_char=1326|SpaceAfter=No
+26	,	,	PUNCT	,	_	25	_	_	start_char=1326|end_char=1327
+27	technology	technology	NOUN	NN	Number=Sing	26	_	_	start_char=1328|end_char=1338|SpaceAfter=No
+28	,	,	PUNCT	,	_	27	_	_	start_char=1338|end_char=1339
+29	and	and	CCONJ	CC	_	28	_	_	start_char=1340|end_char=1343
+30	green	green	ADJ	JJ	Degree=Pos	29	_	_	start_char=1344|end_char=1349
+31	energy	energy	NOUN	NN	Number=Sing	30	_	_	start_char=1350|end_char=1356|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=1356|end_char=1357
+
+# text = A defense agreement aims to strengthen efforts against North Korea’s illegal weapons program, including joint sea patrols between the South Korean Navy and the UK’s Royal Navy.
+# sent_id = 9
+1	A	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=1358|end_char=1359
+2	defense	defense	NOUN	NN	Number=Sing	1	_	_	start_char=1360|end_char=1367
+3	agreement	agreement	NOUN	NN	Number=Sing	2	_	_	start_char=1368|end_char=1377
+4	aims	aim	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1378|end_char=1382
+5	to	to	PART	TO	_	4	_	_	start_char=1383|end_char=1385
+6	strengthen	strengthen	VERB	VB	VerbForm=Inf	5	_	_	start_char=1386|end_char=1396
+7	efforts	effort	NOUN	NNS	Number=Plur	6	_	_	start_char=1397|end_char=1404
+8	against	against	ADP	IN	_	7	_	_	start_char=1405|end_char=1412
+9	North	North	PROPN	NNP	Number=Sing	8	_	_	start_char=1413|end_char=1418
+10-11	Korea’s	_	_	_	_	_	_	_	start_char=1419|end_char=1426
+10	Korea	Korea	PROPN	NNP	Number=Sing	9	_	_	start_char=1419|end_char=1424
+11	’s	's	PART	POS	_	10	_	_	start_char=1424|end_char=1426
+12	illegal	illegal	ADJ	JJ	Degree=Pos	11	_	_	start_char=1427|end_char=1434
+13	weapons	weapon	NOUN	NNS	Number=Plur	12	_	_	start_char=1435|end_char=1442
+14	program	program	NOUN	NN	Number=Sing	13	_	_	start_char=1443|end_char=1450|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=1450|end_char=1451
+16	including	include	VERB	VBG	VerbForm=Ger	15	_	_	start_char=1452|end_char=1461
+17	joint	joint	ADJ	JJ	Degree=Pos	16	_	_	start_char=1462|end_char=1467
+18	sea	sea	NOUN	NN	Number=Sing	17	_	_	start_char=1468|end_char=1471
+19	patrols	patrol	NOUN	NNS	Number=Plur	18	_	_	start_char=1472|end_char=1479
+20	between	between	ADP	IN	_	19	_	_	start_char=1480|end_char=1487
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=1488|end_char=1491
+22	South	South	PROPN	NNP	Number=Sing	21	_	_	start_char=1492|end_char=1497
+23	Korean	Korean	ADJ	NNP	Degree=Pos	22	_	_	start_char=1498|end_char=1504
+24	Navy	Navy	PROPN	NNP	Number=Sing	23	_	_	start_char=1505|end_char=1509
+25	and	and	CCONJ	CC	_	24	_	_	start_char=1510|end_char=1513
+26	the	the	DET	DT	Definite=Def|PronType=Art	25	_	_	start_char=1514|end_char=1517
+27-28	UK’s	_	_	_	_	_	_	_	start_char=1518|end_char=1522
+27	UK	UK	PROPN	NNP	Number=Sing	26	_	_	start_char=1518|end_char=1520
+28	’s	's	PART	POS	_	27	_	_	start_char=1520|end_char=1522
+29	Royal	Royal	ADJ	NNP	Degree=Pos	28	_	_	start_char=1523|end_char=1528
+30	Navy	Navy	PROPN	NNP	Number=Sing	29	_	_	start_char=1529|end_char=1533|SpaceAfter=No
+31	.	.	PUNCT	.	_	30	_	_	start_char=1533|end_char=1534
+
+# text = The evening banquet at the Guildhall in the City of London emphasized growing business links, with South Korean firms investing £21 billion in the UK.
+# sent_id = 10
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1535|end_char=1538
+2	evening	evening	NOUN	NN	Number=Sing	1	_	_	start_char=1539|end_char=1546
+3	banquet	banquet	NOUN	NN	Number=Sing	2	_	_	start_char=1547|end_char=1554
+4	at	at	ADP	IN	_	3	_	_	start_char=1555|end_char=1557
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1558|end_char=1561
+6	Guildhall	Guildhall	PROPN	NNP	Number=Sing	5	_	_	start_char=1562|end_char=1571
+7	in	in	ADP	IN	_	6	_	_	start_char=1572|end_char=1574
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=1575|end_char=1578
+9	City	City	PROPN	NNP	Number=Sing	8	_	_	start_char=1579|end_char=1583
+10	of	of	ADP	IN	_	9	_	_	start_char=1584|end_char=1586
+11	London	London	PROPN	NNP	Number=Sing	10	_	_	start_char=1587|end_char=1593
+12	emphasized	emphasize	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=1594|end_char=1604
+13	growing	grow	VERB	VBG	VerbForm=Ger	12	_	_	start_char=1605|end_char=1612
+14	business	business	NOUN	NN	Number=Sing	13	_	_	start_char=1613|end_char=1621
+15	links	link	NOUN	NNS	Number=Plur	14	_	_	start_char=1622|end_char=1627|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=1627|end_char=1628
+17	with	with	SCONJ	IN	_	16	_	_	start_char=1629|end_char=1633
+18	South	South	PROPN	NNP	Number=Sing	17	_	_	start_char=1634|end_char=1639
+19	Korean	Korean	ADJ	JJ	Degree=Pos	18	_	_	start_char=1640|end_char=1646
+20	firms	firm	NOUN	NNS	Number=Plur	19	_	_	start_char=1647|end_char=1652
+21	investing	invest	VERB	VBG	VerbForm=Ger	20	_	_	start_char=1653|end_char=1662
+22	£	£	SYM	$	_	21	_	_	start_char=1663|end_char=1664|SpaceAfter=No
+23	21	21	NUM	CD	NumForm=Digit|NumType=Card	22	_	_	start_char=1664|end_char=1666
+24	billion	billion	NUM	CD	NumForm=Word|NumType=Card	23	_	_	start_char=1667|end_char=1674
+25	in	in	ADP	IN	_	24	_	_	start_char=1675|end_char=1677
+26	the	the	DET	DT	Definite=Def|PronType=Art	25	_	_	start_char=1678|end_char=1681
+27	UK	UK	PROPN	NNP	Number=Sing	26	_	_	start_char=1682|end_char=1684|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=1684|end_char=1685
+
+# text = The Lord Mayor of the City of London highlighted the increasing importance of South Korean technology firms, drawing parallels with K-pop’s economic impact.
+# sent_id = 11
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1686|end_char=1689
+2	Lord	Lord	PROPN	NNP	Number=Sing	1	_	_	start_char=1690|end_char=1694
+3	Mayor	Mayor	PROPN	NNP	Number=Sing	2	_	_	start_char=1695|end_char=1700
+4	of	of	ADP	IN	_	3	_	_	start_char=1701|end_char=1703
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1704|end_char=1707
+6	City	City	PROPN	NNP	Number=Sing	5	_	_	start_char=1708|end_char=1712
+7	of	of	ADP	IN	_	6	_	_	start_char=1713|end_char=1715
+8	London	London	PROPN	NNP	Number=Sing	7	_	_	start_char=1716|end_char=1722
+9	highlighted	highlight	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=1723|end_char=1734
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=1735|end_char=1738
+11	increasing	increase	VERB	VBG	VerbForm=Ger	10	_	_	start_char=1739|end_char=1749
+12	importance	importance	NOUN	NN	Number=Sing	11	_	_	start_char=1750|end_char=1760
+13	of	of	ADP	IN	_	12	_	_	start_char=1761|end_char=1763
+14	South	South	PROPN	NNP	Number=Sing	13	_	_	start_char=1764|end_char=1769
+15	Korean	Korean	ADJ	JJ	Degree=Pos	14	_	_	start_char=1770|end_char=1776
+16	technology	technology	NOUN	NN	Number=Sing	15	_	_	start_char=1777|end_char=1787
+17	firms	firm	NOUN	NNS	Number=Plur	16	_	_	start_char=1788|end_char=1793|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=1793|end_char=1794
+19	drawing	draw	VERB	VBG	VerbForm=Ger	18	_	_	start_char=1795|end_char=1802
+20	parallels	parallel	NOUN	NNS	Number=Plur	19	_	_	start_char=1803|end_char=1812
+21	with	with	ADP	IN	_	20	_	_	start_char=1813|end_char=1817
+22	K	K	PROPN	NNP	Number=Sing	21	_	_	start_char=1818|end_char=1819|SpaceAfter=No
+23-24	-pop’s	_	_	_	_	_	_	_	start_char=1819|end_char=1825
+23	-pop	-pop	NOUN	NN	Number=Sing	22	_	_	start_char=1819|end_char=1823
+24	’s	's	PART	POS	_	23	_	_	start_char=1823|end_char=1825
+25	economic	economic	ADJ	JJ	Degree=Pos	24	_	_	start_char=1826|end_char=1834
+26	impact	impact	NOUN	NN	Number=Sing	25	_	_	start_char=1835|end_char=1841|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=1841|end_char=1842|SpaceAfter=No
+

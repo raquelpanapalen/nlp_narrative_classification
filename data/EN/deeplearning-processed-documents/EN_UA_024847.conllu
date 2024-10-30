@@ -1,0 +1,581 @@
+# text = Polish Foreign Minister Reveals Biden Knew About Nord Stream Explosion in Advance
+# sent_id = 0
+1	Polish	Polish	ADJ	JJ	Degree=Pos	0	_	_	start_char=0|end_char=6
+2	Foreign	foreign	ADJ	NNP	Degree=Pos	1	_	_	start_char=7|end_char=14
+3	Minister	Minister	PROPN	NNP	Number=Sing	2	_	_	start_char=15|end_char=23
+4	Reveals	reveal	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=24|end_char=31
+5	Biden	Biden	PROPN	NNP	Number=Sing	4	_	_	start_char=32|end_char=37
+6	Knew	know	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=38|end_char=42
+7	About	about	ADP	IN	_	6	_	_	start_char=43|end_char=48
+8	Nord	Nord	PROPN	NNP	Number=Sing	7	_	_	start_char=49|end_char=53
+9	Stream	Stream	PROPN	NNP	Number=Sing	8	_	_	start_char=54|end_char=60
+10	Explosion	Explosion	PROPN	NNP	Number=Sing	9	_	_	start_char=61|end_char=70
+11	in	in	ADP	IN	_	10	_	_	start_char=71|end_char=73
+12	Advance	Advance	PROPN	NNP	Number=Sing	11	_	_	start_char=74|end_char=81|SpacesAfter=\s\n\n\s
+
+# text = The United States knew in advance about the attacks on the Nord Stream pipeline, the largest act of industrial terrorism in history, but did not step in to prevent them, according to an interview with Polish Foreign Minister Radoslaw Sikorski published today.
+# sent_id = 1
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=85|end_char=88
+2	United	United	ADJ	NNP	Degree=Pos	1	_	_	start_char=89|end_char=95
+3	States	State	PROPN	NNPS	Number=Plur	2	_	_	start_char=96|end_char=102
+4	knew	know	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=103|end_char=107
+5	in	in	ADP	IN	_	4	_	_	start_char=108|end_char=110
+6	advance	advance	NOUN	NN	Number=Sing	5	_	_	start_char=111|end_char=118
+7	about	about	ADP	IN	_	6	_	_	start_char=119|end_char=124
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=125|end_char=128
+9	attacks	attack	NOUN	NNS	Number=Plur	8	_	_	start_char=129|end_char=136
+10	on	on	ADP	IN	_	9	_	_	start_char=137|end_char=139
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=140|end_char=143
+12	Nord	Nord	PROPN	NNP	Number=Sing	11	_	_	start_char=144|end_char=148
+13	Stream	Stream	PROPN	NNP	Number=Sing	12	_	_	start_char=149|end_char=155
+14	pipeline	pipeline	NOUN	NN	Number=Sing	13	_	_	start_char=156|end_char=164|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=164|end_char=165
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=166|end_char=169
+17	largest	large	ADJ	JJS	Degree=Sup	16	_	_	start_char=170|end_char=177
+18	act	act	NOUN	NN	Number=Sing	17	_	_	start_char=178|end_char=181
+19	of	of	ADP	IN	_	18	_	_	start_char=182|end_char=184
+20	industrial	industrial	ADJ	JJ	Degree=Pos	19	_	_	start_char=185|end_char=195
+21	terrorism	terrorism	NOUN	NN	Number=Sing	20	_	_	start_char=196|end_char=205
+22	in	in	ADP	IN	_	21	_	_	start_char=206|end_char=208
+23	history	history	NOUN	NN	Number=Sing	22	_	_	start_char=209|end_char=216|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=216|end_char=217
+25	but	but	CCONJ	CC	_	24	_	_	start_char=218|end_char=221
+26	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	_	_	start_char=222|end_char=225
+27	not	not	PART	RB	_	26	_	_	start_char=226|end_char=229
+28	step	step	VERB	VB	VerbForm=Inf	27	_	_	start_char=230|end_char=234
+29	in	in	ADV	RB	_	28	_	_	start_char=235|end_char=237
+30	to	to	PART	TO	_	29	_	_	start_char=238|end_char=240
+31	prevent	prevent	VERB	VB	VerbForm=Inf	30	_	_	start_char=241|end_char=248
+32	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	31	_	_	start_char=249|end_char=253|SpaceAfter=No
+33	,	,	PUNCT	,	_	32	_	_	start_char=253|end_char=254
+34	according	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	33	_	_	start_char=255|end_char=264
+35	to	to	ADP	IN	_	34	_	_	start_char=265|end_char=267
+36	an	a	DET	DT	Definite=Ind|PronType=Art	35	_	_	start_char=268|end_char=270
+37	interview	interview	NOUN	NN	Number=Sing	36	_	_	start_char=271|end_char=280
+38	with	with	ADP	IN	_	37	_	_	start_char=281|end_char=285
+39	Polish	Polish	ADJ	NNP	Degree=Pos	38	_	_	start_char=286|end_char=292
+40	Foreign	foreign	ADJ	NNP	Degree=Pos	39	_	_	start_char=293|end_char=300
+41	Minister	Minister	PROPN	NNP	Number=Sing	40	_	_	start_char=301|end_char=309
+42	Radoslaw	Radoslaw	PROPN	NNP	Number=Sing	41	_	_	start_char=310|end_char=318
+43	Sikorski	Sikorski	PROPN	NNP	Number=Sing	42	_	_	start_char=319|end_char=327
+44	published	publish	VERB	VBN	Tense=Past|VerbForm=Part	43	_	_	start_char=328|end_char=337
+45	today	today	NOUN	NN	Number=Sing	44	_	_	start_char=338|end_char=343|SpaceAfter=No
+46	.	.	PUNCT	.	_	45	_	_	start_char=343|end_char=344|SpacesAfter=\n\n
+
+# text = In September 2022, Sikorski, then a member of the European Parliament (MEP), insinuated that Washington was complicit in the attack on the Nord Stream gas pipeline.
+# sent_id = 2
+1	In	in	ADP	IN	_	0	_	_	start_char=346|end_char=348
+2	September	September	PROPN	NNP	Number=Sing	1	_	_	start_char=349|end_char=358
+3	2022	2022	NUM	CD	NumForm=Digit|NumType=Card	2	_	_	start_char=359|end_char=363|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=363|end_char=364
+5	Sikorski	Sikorski	PROPN	NNP	Number=Sing	4	_	_	start_char=365|end_char=373|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=373|end_char=374
+7	then	then	ADV	RB	PronType=Dem	6	_	_	start_char=375|end_char=379
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=380|end_char=381
+9	member	member	NOUN	NN	Number=Sing	8	_	_	start_char=382|end_char=388
+10	of	of	ADP	IN	_	9	_	_	start_char=389|end_char=391
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=392|end_char=395
+12	European	European	ADJ	NNP	Degree=Pos	11	_	_	start_char=396|end_char=404
+13	Parliament	Parliament	PROPN	NNP	Number=Sing	12	_	_	start_char=405|end_char=415
+14	(	(	PUNCT	-LRB-	_	13	_	_	start_char=416|end_char=417|SpaceAfter=No
+15	MEP	MEP	PROPN	NNP	Number=Sing	14	_	_	start_char=417|end_char=420|SpaceAfter=No
+16	)	)	PUNCT	-RRB-	_	15	_	_	start_char=420|end_char=421|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=421|end_char=422
+18	insinuated	insinuate	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	_	_	start_char=423|end_char=433
+19	that	that	SCONJ	IN	_	18	_	_	start_char=434|end_char=438
+20	Washington	Washington	PROPN	NNP	Number=Sing	19	_	_	start_char=439|end_char=449
+21	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	_	_	start_char=450|end_char=453
+22	complicit	complicit	ADJ	JJ	Degree=Pos	21	_	_	start_char=454|end_char=463
+23	in	in	ADP	IN	_	22	_	_	start_char=464|end_char=466
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=467|end_char=470
+25	attack	attack	NOUN	NN	Number=Sing	24	_	_	start_char=471|end_char=477
+26	on	on	ADP	IN	_	25	_	_	start_char=478|end_char=480
+27	the	the	DET	DT	Definite=Def|PronType=Art	26	_	_	start_char=481|end_char=484
+28	Nord	Nord	PROPN	NNP	Number=Sing	27	_	_	start_char=485|end_char=489
+29	Stream	Stream	PROPN	NNP	Number=Sing	28	_	_	start_char=490|end_char=496
+30	gas	gas	NOUN	NN	Number=Sing	29	_	_	start_char=497|end_char=500
+31	pipeline	pipeline	NOUN	NN	Number=Sing	30	_	_	start_char=501|end_char=509|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=509|end_char=510|SpacesAfter=\n\n
+
+# text = Sikorski tweeted a photo from the scene of the crime and signed it “Thank you, USA.”
+# sent_id = 3
+1	Sikorski	Sikorski	PROPN	NNP	Number=Sing	0	_	_	start_char=512|end_char=520
+2	tweeted	tweet	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=521|end_char=528
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=529|end_char=530
+4	photo	photo	NOUN	NN	Number=Sing	3	_	_	start_char=531|end_char=536
+5	from	from	ADP	IN	_	4	_	_	start_char=537|end_char=541
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=542|end_char=545
+7	scene	scene	NOUN	NN	Number=Sing	6	_	_	start_char=546|end_char=551
+8	of	of	ADP	IN	_	7	_	_	start_char=552|end_char=554
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=555|end_char=558
+10	crime	crime	NOUN	NN	Number=Sing	9	_	_	start_char=559|end_char=564
+11	and	and	CCONJ	CC	_	10	_	_	start_char=565|end_char=568
+12	signed	sign	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=569|end_char=575
+13	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	_	_	start_char=576|end_char=578
+14	“	''	PUNCT	``	_	13	_	_	start_char=579|end_char=580|SpaceAfter=No
+15	Thank	thank	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	_	_	start_char=580|end_char=585
+16	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	15	_	_	start_char=586|end_char=589|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=589|end_char=590
+18	USA	USA	PROPN	NNP	Number=Sing	17	_	_	start_char=591|end_char=594|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=594|end_char=595|SpaceAfter=No
+20	”	''	PUNCT	''	_	19	_	_	start_char=595|end_char=596
+
+# text = The MEP also pointed out Joe Biden’s standing threat to demolish the Nord Stream 2 gas pipeline.
+# sent_id = 4
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=597|end_char=600
+2	MEP	MEP	PROPN	NNP	Number=Sing	1	_	_	start_char=601|end_char=604
+3	also	also	ADV	RB	_	2	_	_	start_char=605|end_char=609
+4	pointed	point	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=610|end_char=617
+5	out	out	ADP	RP	_	4	_	_	start_char=618|end_char=621
+6	Joe	Joe	PROPN	NNP	Number=Sing	5	_	_	start_char=622|end_char=625
+7-8	Biden’s	_	_	_	_	_	_	_	start_char=626|end_char=633
+7	Biden	Biden	PROPN	NNP	Number=Sing	6	_	_	start_char=626|end_char=631
+8	’s	's	PART	POS	_	7	_	_	start_char=631|end_char=633
+9	standing	standing	NOUN	NN	Number=Sing	8	_	_	start_char=634|end_char=642
+10	threat	threat	NOUN	NN	Number=Sing	9	_	_	start_char=643|end_char=649
+11	to	to	PART	TO	_	10	_	_	start_char=650|end_char=652
+12	demolish	demolish	VERB	VB	VerbForm=Inf	11	_	_	start_char=653|end_char=661
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=662|end_char=665
+14	Nord	Nord	PROPN	NNP	Number=Sing	13	_	_	start_char=666|end_char=670
+15	Stream	Stream	PROPN	NNP	Number=Sing	14	_	_	start_char=671|end_char=677
+16	2	2	NUM	CD	NumForm=Digit|NumType=Card	15	_	_	start_char=678|end_char=679
+17	gas	gas	NOUN	NN	Number=Sing	16	_	_	start_char=680|end_char=683
+18	pipeline	pipeline	NOUN	NN	Number=Sing	17	_	_	start_char=684|end_char=692|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=692|end_char=693
+
+# text = However, his tweet was deleted just a few hours later.
+# sent_id = 5
+1	However	however	ADV	RB	_	0	_	_	start_char=694|end_char=701|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=701|end_char=702
+3	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	_	_	start_char=703|end_char=706
+4	tweet	tweet	NOUN	NN	Number=Sing	3	_	_	start_char=707|end_char=712
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=713|end_char=716
+6	deleted	delete	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	_	_	start_char=717|end_char=724
+7	just	just	ADV	RB	_	6	_	_	start_char=725|end_char=729
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=730|end_char=731
+9	few	few	ADJ	JJ	Degree=Pos	8	_	_	start_char=732|end_char=735
+10	hours	hour	NOUN	NNS	Number=Plur	9	_	_	start_char=736|end_char=741
+11	later	late	ADV	RBR	Degree=Cmp	10	_	_	start_char=742|end_char=747|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=747|end_char=748|SpacesAfter=\n\n
+
+# text = Speaking with Polish news outlet Rzeczpospolita as the Polish foreign minister his week, Sikorski said “If we believe media, it [the attack] was carried out by someone who was interested in it.
+# sent_id = 6
+1	Speaking	speak	VERB	VBG	VerbForm=Ger	0	_	_	start_char=750|end_char=758
+2	with	with	ADP	IN	_	1	_	_	start_char=759|end_char=763
+3	Polish	Polish	ADJ	JJ	Degree=Pos	2	_	_	start_char=764|end_char=770
+4	news	news	NOUN	NN	Number=Sing	3	_	_	start_char=771|end_char=775
+5	outlet	outlet	NOUN	NN	Number=Sing	4	_	_	start_char=776|end_char=782
+6	Rzeczpospolita	Rzeczpospolita	PROPN	NNP	Number=Sing	5	_	_	start_char=783|end_char=797
+7	as	as	ADP	IN	_	6	_	_	start_char=798|end_char=800
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=801|end_char=804
+9	Polish	Polish	ADJ	JJ	Degree=Pos	8	_	_	start_char=805|end_char=811
+10	foreign	foreign	ADJ	JJ	Degree=Pos	9	_	_	start_char=812|end_char=819
+11	minister	minister	NOUN	NN	Number=Sing	10	_	_	start_char=820|end_char=828
+12	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	_	_	start_char=829|end_char=832
+13	week	week	NOUN	NN	Number=Sing	12	_	_	start_char=833|end_char=837|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=837|end_char=838
+15	Sikorski	Sikorski	PROPN	NNP	Number=Sing	14	_	_	start_char=839|end_char=847
+16	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	_	_	start_char=848|end_char=852
+17	“	''	PUNCT	``	_	16	_	_	start_char=853|end_char=854|SpaceAfter=No
+18	If	if	SCONJ	IN	_	17	_	_	start_char=854|end_char=856
+19	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	18	_	_	start_char=857|end_char=859
+20	believe	believe	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	19	_	_	start_char=860|end_char=867
+21	media	media	NOUN	NN	Number=Sing	20	_	_	start_char=868|end_char=873|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=873|end_char=874
+23	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	22	_	_	start_char=875|end_char=877
+24	[	[	PUNCT	-LRB-	_	23	_	_	start_char=878|end_char=879|SpaceAfter=No
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=879|end_char=882
+26	attack	attack	NOUN	NN	Number=Sing	25	_	_	start_char=883|end_char=889|SpaceAfter=No
+27	]	]	PUNCT	-RRB-	_	26	_	_	start_char=889|end_char=890
+28	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	27	_	_	start_char=891|end_char=894
+29	carried	carry	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	28	_	_	start_char=895|end_char=902
+30	out	out	ADP	RP	_	29	_	_	start_char=903|end_char=906
+31	by	by	ADP	IN	_	30	_	_	start_char=907|end_char=909
+32	someone	someone	PRON	NN	Number=Sing|PronType=Ind	31	_	_	start_char=910|end_char=917
+33	who	who	PRON	WP	PronType=Rel	32	_	_	start_char=918|end_char=921
+34	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	33	_	_	start_char=922|end_char=925
+35	interested	interested	ADJ	JJ	Degree=Pos	34	_	_	start_char=926|end_char=936
+36	in	in	ADP	IN	_	35	_	_	start_char=937|end_char=939
+37	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	36	_	_	start_char=940|end_char=942|SpaceAfter=No
+38	.	.	PUNCT	.	_	37	_	_	start_char=942|end_char=943
+
+# text = And the US had preliminary information about this and did not interfere with this move.”
+# sent_id = 7
+1	And	and	CCONJ	CC	_	0	_	_	start_char=944|end_char=947
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=948|end_char=951
+3	US	US	PROPN	NNP	Number=Sing	2	_	_	start_char=952|end_char=954
+4	had	have	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=955|end_char=958
+5	preliminary	preliminary	ADJ	JJ	Degree=Pos	4	_	_	start_char=959|end_char=970
+6	information	information	NOUN	NN	Number=Sing	5	_	_	start_char=971|end_char=982
+7	about	about	ADP	IN	_	6	_	_	start_char=983|end_char=988
+8	this	this	PRON	DT	Number=Sing|PronType=Dem	7	_	_	start_char=989|end_char=993
+9	and	and	CCONJ	CC	_	8	_	_	start_char=994|end_char=997
+10	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=998|end_char=1001
+11	not	not	PART	RB	_	10	_	_	start_char=1002|end_char=1005
+12	interfere	interfere	VERB	VB	VerbForm=Inf	11	_	_	start_char=1006|end_char=1015
+13	with	with	ADP	IN	_	12	_	_	start_char=1016|end_char=1020
+14	this	this	DET	DT	Number=Sing|PronType=Dem	13	_	_	start_char=1021|end_char=1025
+15	move	move	NOUN	NN	Number=Sing	14	_	_	start_char=1026|end_char=1030|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=1030|end_char=1031|SpaceAfter=No
+17	”	''	PUNCT	''	_	16	_	_	start_char=1031|end_char=1032|SpacesAfter=\n\n
+
+# text = BYPASS THE CENSORS
+# sent_id = 8
+1	BYPASS	bypass	VERB	VB	Mood=Imp|VerbForm=Inf	0	_	_	start_char=1034|end_char=1040
+2	THE	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=1041|end_char=1044
+3	CENSORS	censors	NOUN	NNS	Number=Plur	2	_	_	start_char=1045|end_char=1052|SpacesAfter=\n\n
+
+# text = However, Sikorski chose not name those responsible for the crime.
+# sent_id = 9
+1	However	however	ADV	RB	_	0	_	_	start_char=1054|end_char=1061|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=1061|end_char=1062
+3	Sikorski	Sikorski	PROPN	NNP	Number=Sing	2	_	_	start_char=1063|end_char=1071
+4	chose	choose	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=1072|end_char=1077
+5	not	not	PART	RB	_	4	_	_	start_char=1078|end_char=1081
+6	name	name	VERB	VB	VerbForm=Inf	5	_	_	start_char=1082|end_char=1086
+7	those	that	PRON	DT	Number=Plur|PronType=Dem	6	_	_	start_char=1087|end_char=1092
+8	responsible	responsible	ADJ	JJ	Degree=Pos	7	_	_	start_char=1093|end_char=1104
+9	for	for	ADP	IN	_	8	_	_	start_char=1105|end_char=1108
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=1109|end_char=1112
+11	crime	crime	NOUN	NN	Number=Sing	10	_	_	start_char=1113|end_char=1118|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=1118|end_char=1119|SpacesAfter=\n\n
+
+# text = Almayadeen reports: US investigative journalist and Pulitzer award winner Seymour Hersh said on February 8 2023 that US Navy divers planted explosives to destroy the Nord Stream pipelines in 2022.
+# sent_id = 10
+1	Almayadeen	Almayadeen	PROPN	NNP	Number=Sing	0	_	_	start_char=1121|end_char=1131
+2	reports	report	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1132|end_char=1139|SpaceAfter=No
+3	:	:	PUNCT	:	_	2	_	_	start_char=1139|end_char=1140
+4	US	US	PROPN	NNP	Number=Sing	3	_	_	start_char=1141|end_char=1143
+5	investigative	investigative	ADJ	JJ	Degree=Pos	4	_	_	start_char=1144|end_char=1157
+6	journalist	journalist	NOUN	NN	Number=Sing	5	_	_	start_char=1158|end_char=1168
+7	and	and	CCONJ	CC	_	6	_	_	start_char=1169|end_char=1172
+8	Pulitzer	Pulitzer	PROPN	NNP	Number=Sing	7	_	_	start_char=1173|end_char=1181
+9	award	award	NOUN	NN	Number=Sing	8	_	_	start_char=1182|end_char=1187
+10	winner	winner	NOUN	NN	Number=Sing	9	_	_	start_char=1188|end_char=1194
+11	Seymour	Seymour	PROPN	NNP	Number=Sing	10	_	_	start_char=1195|end_char=1202
+12	Hersh	Hersh	PROPN	NNP	Number=Sing	11	_	_	start_char=1203|end_char=1208
+13	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=1209|end_char=1213
+14	on	on	ADP	IN	_	13	_	_	start_char=1214|end_char=1216
+15	February	February	PROPN	NNP	Number=Sing	14	_	_	start_char=1217|end_char=1225
+16	8	8	NUM	CD	NumForm=Digit|NumType=Card	15	_	_	start_char=1226|end_char=1227
+17	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	16	_	_	start_char=1228|end_char=1232
+18	that	that	SCONJ	IN	_	17	_	_	start_char=1233|end_char=1237
+19	US	US	PROPN	NNP	Number=Sing	18	_	_	start_char=1238|end_char=1240
+20	Navy	navy	NOUN	NN	Number=Sing	19	_	_	start_char=1241|end_char=1245
+21	divers	diver	NOUN	NNS	Number=Plur	20	_	_	start_char=1246|end_char=1252
+22	planted	plant	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	21	_	_	start_char=1253|end_char=1260
+23	explosives	explosive	NOUN	NNS	Number=Plur	22	_	_	start_char=1261|end_char=1271
+24	to	to	PART	TO	_	23	_	_	start_char=1272|end_char=1274
+25	destroy	destroy	VERB	VB	VerbForm=Inf	24	_	_	start_char=1275|end_char=1282
+26	the	the	DET	DT	Definite=Def|PronType=Art	25	_	_	start_char=1283|end_char=1286
+27	Nord	Nord	PROPN	NNP	Number=Sing	26	_	_	start_char=1287|end_char=1291
+28	Stream	Stream	PROPN	NNP	Number=Sing	27	_	_	start_char=1292|end_char=1298
+29	pipelines	pipeline	NOUN	NNS	Number=Plur	28	_	_	start_char=1299|end_char=1308
+30	in	in	ADP	IN	_	29	_	_	start_char=1309|end_char=1311
+31	2022	2022	NUM	CD	NumForm=Digit|NumType=Card	30	_	_	start_char=1312|end_char=1316|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=1316|end_char=1317|SpacesAfter=\n\n
+
+# text = “Last June, the Navy divers, operating under the cover of a widely publicized mid-summer NATO exercise known as BALTOPS 22, planted the remotely triggered explosives that, three months later, destroyed three of the four Nord Stream pipelines, according to a source with direct knowledge of the operational planning,” Hersh wrote in his Substack newsletter.
+# sent_id = 11
+1	“	''	PUNCT	``	_	0	_	_	start_char=1319|end_char=1320|SpaceAfter=No
+2	Last	last	ADJ	JJ	Degree=Pos	1	_	_	start_char=1320|end_char=1324
+3	June	June	PROPN	NNP	Number=Sing	2	_	_	start_char=1325|end_char=1329|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1329|end_char=1330
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1331|end_char=1334
+6	Navy	Navy	PROPN	NNP	Number=Sing	5	_	_	start_char=1335|end_char=1339
+7	divers	diver	NOUN	NNS	Number=Plur	6	_	_	start_char=1340|end_char=1346|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=1346|end_char=1347
+9	operating	operate	VERB	VBG	VerbForm=Ger	8	_	_	start_char=1348|end_char=1357
+10	under	under	ADP	IN	_	9	_	_	start_char=1358|end_char=1363
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=1364|end_char=1367
+12	cover	cover	NOUN	NN	Number=Sing	11	_	_	start_char=1368|end_char=1373
+13	of	of	ADP	IN	_	12	_	_	start_char=1374|end_char=1376
+14	a	a	DET	DT	Definite=Ind|PronType=Art	13	_	_	start_char=1377|end_char=1378
+15	widely	widely	ADV	RB	Degree=Pos	14	_	_	start_char=1379|end_char=1385
+16	publicized	publicize	VERB	VBN	Tense=Past|VerbForm=Part	15	_	_	start_char=1386|end_char=1396
+17	mid-summer	mid-summer	ADJ	JJ	Degree=Pos	16	_	_	start_char=1397|end_char=1407
+18	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	17	_	_	start_char=1408|end_char=1412
+19	exercise	exercise	NOUN	NN	Number=Sing	18	_	_	start_char=1413|end_char=1421
+20	known	know	VERB	VBN	Tense=Past|VerbForm=Part	19	_	_	start_char=1422|end_char=1427
+21	as	as	ADP	IN	_	20	_	_	start_char=1428|end_char=1430
+22	BALTOPS	Baltop	PROPN	NNP	Number=Sing	21	_	_	start_char=1431|end_char=1438
+23	22	22	NUM	CD	NumForm=Digit|NumType=Card	22	_	_	start_char=1439|end_char=1441|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=1441|end_char=1442
+25	planted	plant	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	_	_	start_char=1443|end_char=1450
+26	the	the	DET	DT	Definite=Def|PronType=Art	25	_	_	start_char=1451|end_char=1454
+27	remotely	remotely	ADV	RB	_	26	_	_	start_char=1455|end_char=1463
+28	triggered	trigger	VERB	VBN	Tense=Past|VerbForm=Part	27	_	_	start_char=1464|end_char=1473
+29	explosives	explosive	NOUN	NNS	Number=Plur	28	_	_	start_char=1474|end_char=1484
+30	that	that	PRON	WDT	PronType=Rel	29	_	_	start_char=1485|end_char=1489|SpaceAfter=No
+31	,	,	PUNCT	,	_	30	_	_	start_char=1489|end_char=1490
+32	three	three	NUM	CD	NumForm=Word|NumType=Card	31	_	_	start_char=1491|end_char=1496
+33	months	month	NOUN	NNS	Number=Plur	32	_	_	start_char=1497|end_char=1503
+34	later	late	ADV	RBR	Degree=Cmp	33	_	_	start_char=1504|end_char=1509|SpaceAfter=No
+35	,	,	PUNCT	,	_	34	_	_	start_char=1509|end_char=1510
+36	destroyed	destroy	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	35	_	_	start_char=1511|end_char=1520
+37	three	three	NUM	CD	NumForm=Word|NumType=Card	36	_	_	start_char=1521|end_char=1526
+38	of	of	ADP	IN	_	37	_	_	start_char=1527|end_char=1529
+39	the	the	DET	DT	Definite=Def|PronType=Art	38	_	_	start_char=1530|end_char=1533
+40	four	four	NUM	CD	NumForm=Word|NumType=Card	39	_	_	start_char=1534|end_char=1538
+41	Nord	Nord	PROPN	NNP	Number=Sing	40	_	_	start_char=1539|end_char=1543
+42	Stream	Stream	PROPN	NNP	Number=Sing	41	_	_	start_char=1544|end_char=1550
+43	pipelines	pipeline	NOUN	NNS	Number=Plur	42	_	_	start_char=1551|end_char=1560|SpaceAfter=No
+44	,	,	PUNCT	,	_	43	_	_	start_char=1560|end_char=1561
+45	according	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	44	_	_	start_char=1562|end_char=1571
+46	to	to	ADP	IN	_	45	_	_	start_char=1572|end_char=1574
+47	a	a	DET	DT	Definite=Ind|PronType=Art	46	_	_	start_char=1575|end_char=1576
+48	source	source	NOUN	NN	Number=Sing	47	_	_	start_char=1577|end_char=1583
+49	with	with	ADP	IN	_	48	_	_	start_char=1584|end_char=1588
+50	direct	direct	ADJ	JJ	Degree=Pos	49	_	_	start_char=1589|end_char=1595
+51	knowledge	knowledge	NOUN	NN	Number=Sing	50	_	_	start_char=1596|end_char=1605
+52	of	of	ADP	IN	_	51	_	_	start_char=1606|end_char=1608
+53	the	the	DET	DT	Definite=Def|PronType=Art	52	_	_	start_char=1609|end_char=1612
+54	operational	operational	ADJ	JJ	Degree=Pos	53	_	_	start_char=1613|end_char=1624
+55	planning	planning	NOUN	NN	Number=Sing	54	_	_	start_char=1625|end_char=1633|SpaceAfter=No
+56	,	,	PUNCT	,	_	55	_	_	start_char=1633|end_char=1634|SpaceAfter=No
+57	”	''	PUNCT	''	_	56	_	_	start_char=1634|end_char=1635
+58	Hersh	Hersh	PROPN	NNP	Number=Sing	57	_	_	start_char=1636|end_char=1641
+59	wrote	write	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	58	_	_	start_char=1642|end_char=1647
+60	in	in	ADP	IN	_	59	_	_	start_char=1648|end_char=1650
+61	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	60	_	_	start_char=1651|end_char=1654
+62	Substack	Substack	PROPN	NNP	Number=Sing	61	_	_	start_char=1655|end_char=1663
+63	newsletter	newsletter	NOUN	NN	Number=Sing	62	_	_	start_char=1664|end_char=1674|SpaceAfter=No
+64	.	.	PUNCT	.	_	63	_	_	start_char=1674|end_char=1675|SpacesAfter=\n\n
+
+# text = The White House responded and dismissed the claims as “false and complete fiction.”
+# sent_id = 12
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1677|end_char=1680
+2	White	White	ADJ	NNP	Degree=Pos	1	_	_	start_char=1681|end_char=1686
+3	House	House	PROPN	NNP	Number=Sing	2	_	_	start_char=1687|end_char=1692
+4	responded	respond	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=1693|end_char=1702
+5	and	and	CCONJ	CC	_	4	_	_	start_char=1703|end_char=1706
+6	dismissed	dismiss	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=1707|end_char=1716
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1717|end_char=1720
+8	claims	claim	NOUN	NNS	Number=Plur	7	_	_	start_char=1721|end_char=1727
+9	as	as	ADP	IN	_	8	_	_	start_char=1728|end_char=1730
+10	“	''	PUNCT	``	_	9	_	_	start_char=1731|end_char=1732|SpaceAfter=No
+11	false	false	ADJ	JJ	Degree=Pos	10	_	_	start_char=1732|end_char=1737
+12	and	and	CCONJ	CC	_	11	_	_	start_char=1738|end_char=1741
+13	complete	complete	ADJ	JJ	Degree=Pos	12	_	_	start_char=1742|end_char=1750
+14	fiction	fiction	NOUN	NN	Number=Sing	13	_	_	start_char=1751|end_char=1758|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=1758|end_char=1759|SpaceAfter=No
+16	”	''	PUNCT	''	_	15	_	_	start_char=1759|end_char=1760|SpacesAfter=\n\n
+
+# text = Flightradar24 data showed in late September 2022 that US military helicopters habitually and on numerous occasions circled for hours over the site of the Nord Stream pipeline incident near Bornholm Island.
+# sent_id = 13
+1	Flightradar24	Flightradar24	PROPN	NNP	Number=Sing	0	_	_	start_char=1762|end_char=1775
+2	data	datum	NOUN	NNS	Number=Plur	1	_	_	start_char=1776|end_char=1780
+3	showed	show	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1781|end_char=1787
+4	in	in	ADP	IN	_	3	_	_	start_char=1788|end_char=1790
+5	late	late	ADJ	JJ	Degree=Pos	4	_	_	start_char=1791|end_char=1795
+6	September	September	PROPN	NNP	Number=Sing	5	_	_	start_char=1796|end_char=1805
+7	2022	2022	NUM	CD	NumForm=Digit|NumType=Card	6	_	_	start_char=1806|end_char=1810
+8	that	that	SCONJ	IN	_	7	_	_	start_char=1811|end_char=1815
+9	US	US	PROPN	NNP	Number=Sing	8	_	_	start_char=1816|end_char=1818
+10	military	military	ADJ	JJ	Degree=Pos	9	_	_	start_char=1819|end_char=1827
+11	helicopters	helicopter	NOUN	NNS	Number=Plur	10	_	_	start_char=1828|end_char=1839
+12	habitually	habitually	ADV	RB	_	11	_	_	start_char=1840|end_char=1850
+13	and	and	CCONJ	CC	_	12	_	_	start_char=1851|end_char=1854
+14	on	on	ADP	IN	_	13	_	_	start_char=1855|end_char=1857
+15	numerous	numerous	ADJ	JJ	Degree=Pos	14	_	_	start_char=1858|end_char=1866
+16	occasions	occasion	NOUN	NNS	Number=Plur	15	_	_	start_char=1867|end_char=1876
+17	circled	circle	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	16	_	_	start_char=1877|end_char=1884
+18	for	for	ADP	IN	_	17	_	_	start_char=1885|end_char=1888
+19	hours	hour	NOUN	NNS	Number=Plur	18	_	_	start_char=1889|end_char=1894
+20	over	over	ADP	IN	_	19	_	_	start_char=1895|end_char=1899
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=1900|end_char=1903
+22	site	site	NOUN	NN	Number=Sing	21	_	_	start_char=1904|end_char=1908
+23	of	of	ADP	IN	_	22	_	_	start_char=1909|end_char=1911
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=1912|end_char=1915
+25	Nord	Nord	PROPN	NNP	Number=Sing	24	_	_	start_char=1916|end_char=1920
+26	Stream	Stream	PROPN	NNP	Number=Sing	25	_	_	start_char=1921|end_char=1927
+27	pipeline	pipeline	NOUN	NN	Number=Sing	26	_	_	start_char=1928|end_char=1936
+28	incident	incident	NOUN	NN	Number=Sing	27	_	_	start_char=1937|end_char=1945
+29	near	near	ADP	IN	_	28	_	_	start_char=1946|end_char=1950
+30	Bornholm	Bornholm	PROPN	NNP	Number=Sing	29	_	_	start_char=1951|end_char=1959
+31	Island	Island	PROPN	NNP	Number=Sing	30	_	_	start_char=1960|end_char=1966|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=1966|end_char=1967|SpacesAfter=\n\n
+
+# text = TRENDING: WEF Insider Reveals The ‘New 9/11’ Will Be a ‘Global Famine’
+# sent_id = 14
+1	TRENDING	trending	NOUN	NN	Number=Sing	0	_	_	start_char=1969|end_char=1977|SpaceAfter=No
+2	:	:	PUNCT	:	_	1	_	_	start_char=1977|end_char=1978
+3	WEF	WEF	PROPN	NNP	Number=Sing	2	_	_	start_char=1979|end_char=1982
+4	Insider	insider	NOUN	NN	Number=Sing	3	_	_	start_char=1983|end_char=1990
+5	Reveals	reveal	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1991|end_char=1998
+6	The	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1999|end_char=2002
+7	‘	'	PUNCT	``	_	6	_	_	start_char=2003|end_char=2004|SpaceAfter=No
+8	New	New	ADJ	NNP	Degree=Pos	7	_	_	start_char=2004|end_char=2007
+9	9/11	9/11	NUM	CD	NumForm=Digit|NumType=Card	8	_	_	start_char=2008|end_char=2012|SpaceAfter=No
+10	’	'	PUNCT	''	_	9	_	_	start_char=2012|end_char=2013
+11	Will	will	AUX	MD	VerbForm=Fin	10	_	_	start_char=2014|end_char=2018
+12	Be	be	AUX	VB	VerbForm=Inf	11	_	_	start_char=2019|end_char=2021
+13	a	a	DET	DT	Definite=Ind|PronType=Art	12	_	_	start_char=2022|end_char=2023
+14	‘	'	PUNCT	``	_	13	_	_	start_char=2024|end_char=2025|SpaceAfter=No
+15	Global	Global	ADJ	NNP	Degree=Pos	14	_	_	start_char=2025|end_char=2031
+16	Famine	Famine	PROPN	NNP	Number=Sing	15	_	_	start_char=2032|end_char=2038|SpaceAfter=No
+17	’	'	PUNCT	''	_	16	_	_	start_char=2038|end_char=2039|SpacesAfter=\n\n
+
+# text = A US Navy Sikorsky MH-60R Seahawk helicopter spent hours loitering over the location of the damaged natural gas pipelines in the Baltic Sea near Bornholm for several days in a row, September 1, 2, and 3, of 2022 in particular.
+# sent_id = 15
+1	A	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=2041|end_char=2042
+2	US	US	PROPN	NNP	Number=Sing	1	_	_	start_char=2043|end_char=2045
+3	Navy	Navy	PROPN	NNP	Number=Sing	2	_	_	start_char=2046|end_char=2050
+4	Sikorsky	Sikorsky	PROPN	NNP	Number=Sing	3	_	_	start_char=2051|end_char=2059
+5	MH	MH	PROPN	NNP	Number=Sing	4	_	_	start_char=2060|end_char=2062|SpaceAfter=No
+6	-	-	PUNCT	HYPH	_	5	_	_	start_char=2062|end_char=2063|SpaceAfter=No
+7	60R	60R	PROPN	NNP	Number=Sing	6	_	_	start_char=2063|end_char=2066
+8	Seahawk	Seahawk	PROPN	NNP	Number=Sing	7	_	_	start_char=2067|end_char=2074
+9	helicopter	helicopter	NOUN	NN	Number=Sing	8	_	_	start_char=2075|end_char=2085
+10	spent	spend	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=2086|end_char=2091
+11	hours	hour	NOUN	NNS	Number=Plur	10	_	_	start_char=2092|end_char=2097
+12	loitering	loiter	VERB	VBG	VerbForm=Ger	11	_	_	start_char=2098|end_char=2107
+13	over	over	ADP	IN	_	12	_	_	start_char=2108|end_char=2112
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=2113|end_char=2116
+15	location	location	NOUN	NN	Number=Sing	14	_	_	start_char=2117|end_char=2125
+16	of	of	ADP	IN	_	15	_	_	start_char=2126|end_char=2128
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=2129|end_char=2132
+18	damaged	damage	VERB	VBN	Tense=Past|VerbForm=Part	17	_	_	start_char=2133|end_char=2140
+19	natural	natural	ADJ	JJ	Degree=Pos	18	_	_	start_char=2141|end_char=2148
+20	gas	gas	NOUN	NN	Number=Sing	19	_	_	start_char=2149|end_char=2152
+21	pipelines	pipeline	NOUN	NNS	Number=Plur	20	_	_	start_char=2153|end_char=2162
+22	in	in	ADP	IN	_	21	_	_	start_char=2163|end_char=2165
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=2166|end_char=2169
+24	Baltic	Baltic	ADJ	NNP	Degree=Pos	23	_	_	start_char=2170|end_char=2176
+25	Sea	Sea	PROPN	NNP	Number=Sing	24	_	_	start_char=2177|end_char=2180
+26	near	near	ADP	IN	_	25	_	_	start_char=2181|end_char=2185
+27	Bornholm	Bornholm	PROPN	NNP	Number=Sing	26	_	_	start_char=2186|end_char=2194
+28	for	for	ADP	IN	_	27	_	_	start_char=2195|end_char=2198
+29	several	several	ADJ	JJ	Degree=Pos	28	_	_	start_char=2199|end_char=2206
+30	days	day	NOUN	NNS	Number=Plur	29	_	_	start_char=2207|end_char=2211
+31	in	in	ADP	IN	_	30	_	_	start_char=2212|end_char=2214
+32	a	a	DET	DT	Definite=Ind|PronType=Art	31	_	_	start_char=2215|end_char=2216
+33	row	row	NOUN	NN	Number=Sing	32	_	_	start_char=2217|end_char=2220|SpaceAfter=No
+34	,	,	PUNCT	,	_	33	_	_	start_char=2220|end_char=2221
+35	September	September	PROPN	NNP	Number=Sing	34	_	_	start_char=2222|end_char=2231
+36	1	1	NUM	CD	NumForm=Digit|NumType=Card	35	_	_	start_char=2232|end_char=2233|SpaceAfter=No
+37	,	,	PUNCT	,	_	36	_	_	start_char=2233|end_char=2234
+38	2	2	NUM	CD	NumForm=Digit|NumType=Card	37	_	_	start_char=2235|end_char=2236|SpaceAfter=No
+39	,	,	PUNCT	,	_	38	_	_	start_char=2236|end_char=2237
+40	and	and	CCONJ	CC	_	39	_	_	start_char=2238|end_char=2241
+41	3	3	NUM	CD	NumForm=Digit|NumType=Card	40	_	_	start_char=2242|end_char=2243|SpaceAfter=No
+42	,	,	PUNCT	,	_	41	_	_	start_char=2243|end_char=2244
+43	of	of	ADP	IN	_	42	_	_	start_char=2245|end_char=2247
+44	2022	2022	NUM	CD	NumForm=Digit|NumType=Card	43	_	_	start_char=2248|end_char=2252
+45	in	in	ADP	IN	_	44	_	_	start_char=2253|end_char=2255
+46	particular	particular	ADJ	JJ	Degree=Pos	45	_	_	start_char=2256|end_char=2266|SpaceAfter=No
+47	.	.	PUNCT	.	_	46	_	_	start_char=2266|end_char=2267|SpacesAfter=\n\n
+
+# text = Sources familiar with the investigation into the Nord Stream gas pipeline explosions have confirmed media reports that traces lead to Ukraine, Sputnik reported on August 25, 2023.
+# sent_id = 16
+1	Sources	source	NOUN	NNS	Number=Plur	0	_	_	start_char=2269|end_char=2276
+2	familiar	familiar	ADJ	JJ	Degree=Pos	1	_	_	start_char=2277|end_char=2285
+3	with	with	ADP	IN	_	2	_	_	start_char=2286|end_char=2290
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=2291|end_char=2294
+5	investigation	investigation	NOUN	NN	Number=Sing	4	_	_	start_char=2295|end_char=2308
+6	into	into	ADP	IN	_	5	_	_	start_char=2309|end_char=2313
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=2314|end_char=2317
+8	Nord	Nord	PROPN	NNP	Number=Sing	7	_	_	start_char=2318|end_char=2322
+9	Stream	Stream	PROPN	NNP	Number=Sing	8	_	_	start_char=2323|end_char=2329
+10	gas	gas	NOUN	NN	Number=Sing	9	_	_	start_char=2330|end_char=2333
+11	pipeline	pipeline	NOUN	NN	Number=Sing	10	_	_	start_char=2334|end_char=2342
+12	explosions	explosion	NOUN	NNS	Number=Plur	11	_	_	start_char=2343|end_char=2353
+13	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=2354|end_char=2358
+14	confirmed	confirm	VERB	VBN	Tense=Past|VerbForm=Part	13	_	_	start_char=2359|end_char=2368
+15	media	media	NOUN	NN	Number=Sing	14	_	_	start_char=2369|end_char=2374
+16	reports	report	NOUN	NNS	Number=Plur	15	_	_	start_char=2375|end_char=2382
+17	that	that	SCONJ	IN	_	16	_	_	start_char=2383|end_char=2387
+18	traces	trace	NOUN	NNS	Number=Plur	17	_	_	start_char=2388|end_char=2394
+19	lead	lead	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=2395|end_char=2399
+20	to	to	ADP	IN	_	19	_	_	start_char=2400|end_char=2402
+21	Ukraine	Ukraine	PROPN	NNP	Number=Sing	20	_	_	start_char=2403|end_char=2410|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=2410|end_char=2411
+23	Sputnik	Sputnik	PROPN	NNP	Number=Sing	22	_	_	start_char=2412|end_char=2419
+24	reported	report	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	23	_	_	start_char=2420|end_char=2428
+25	on	on	ADP	IN	_	24	_	_	start_char=2429|end_char=2431
+26	August	August	PROPN	NNP	Number=Sing	25	_	_	start_char=2432|end_char=2438
+27	25	25	NUM	CD	NumForm=Digit|NumType=Card	26	_	_	start_char=2439|end_char=2441|SpaceAfter=No
+28	,	,	PUNCT	,	_	27	_	_	start_char=2441|end_char=2442
+29	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	28	_	_	start_char=2443|end_char=2447|SpaceAfter=No
+30	.	.	PUNCT	.	_	29	_	_	start_char=2447|end_char=2448|SpacesAfter=\n\n
+
+# text = German media, ZDF and Der Spiegel said that there is no evidence of Russia’s involvement in the pipeline explosions.
+# sent_id = 17
+1	German	German	ADJ	JJ	Degree=Pos	0	_	_	start_char=2450|end_char=2456
+2	media	media	NOUN	NN	Number=Sing	1	_	_	start_char=2457|end_char=2462|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=2462|end_char=2463
+4	ZDF	ZDF	PROPN	NNP	Number=Sing	3	_	_	start_char=2464|end_char=2467
+5	and	and	CCONJ	CC	_	4	_	_	start_char=2468|end_char=2471
+6	Der	Der	PROPN	NNP	Number=Sing	5	_	_	start_char=2472|end_char=2475
+7	Spiegel	Spiegel	PROPN	NNP	Number=Sing	6	_	_	start_char=2476|end_char=2483
+8	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=2484|end_char=2488
+9	that	that	SCONJ	IN	_	8	_	_	start_char=2489|end_char=2493
+10	there	there	PRON	EX	_	9	_	_	start_char=2494|end_char=2499
+11	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=2500|end_char=2502
+12	no	no	DET	DT	_	11	_	_	start_char=2503|end_char=2505
+13	evidence	evidence	NOUN	NN	Number=Sing	12	_	_	start_char=2506|end_char=2514
+14	of	of	ADP	IN	_	13	_	_	start_char=2515|end_char=2517
+15-16	Russia’s	_	_	_	_	_	_	_	start_char=2518|end_char=2526
+15	Russia	Russia	PROPN	NNP	Number=Sing	14	_	_	start_char=2518|end_char=2524
+16	’s	's	PART	POS	_	15	_	_	start_char=2524|end_char=2526
+17	involvement	involvement	NOUN	NN	Number=Sing	16	_	_	start_char=2527|end_char=2538
+18	in	in	ADP	IN	_	17	_	_	start_char=2539|end_char=2541
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=2542|end_char=2545
+20	pipeline	pipeline	NOUN	NN	Number=Sing	19	_	_	start_char=2546|end_char=2554
+21	explosions	explosion	NOUN	NNS	Number=Plur	20	_	_	start_char=2555|end_char=2565|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=2565|end_char=2566|SpacesAfter=\n\n
+
+# text = The news outlets added that there is growing evidence that agents linked to Ukraine may be behind the attacks on the Nord Stream pipelines.
+# sent_id = 18
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2568|end_char=2571
+2	news	news	NOUN	NN	Number=Sing	1	_	_	start_char=2572|end_char=2576
+3	outlets	outlet	NOUN	NNS	Number=Plur	2	_	_	start_char=2577|end_char=2584
+4	added	add	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=2585|end_char=2590
+5	that	that	SCONJ	IN	_	4	_	_	start_char=2591|end_char=2595
+6	there	there	PRON	EX	_	5	_	_	start_char=2596|end_char=2601
+7	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=2602|end_char=2604
+8	growing	grow	VERB	VBG	VerbForm=Ger	7	_	_	start_char=2605|end_char=2612
+9	evidence	evidence	NOUN	NN	Number=Sing	8	_	_	start_char=2613|end_char=2621
+10	that	that	SCONJ	IN	_	9	_	_	start_char=2622|end_char=2626
+11	agents	agent	NOUN	NNS	Number=Plur	10	_	_	start_char=2627|end_char=2633
+12	linked	link	VERB	VBN	Tense=Past|VerbForm=Part	11	_	_	start_char=2634|end_char=2640
+13	to	to	ADP	IN	_	12	_	_	start_char=2641|end_char=2643
+14	Ukraine	Ukraine	PROPN	NNP	Number=Sing	13	_	_	start_char=2644|end_char=2651
+15	may	may	AUX	MD	VerbForm=Fin	14	_	_	start_char=2652|end_char=2655
+16	be	be	AUX	VB	VerbForm=Inf	15	_	_	start_char=2656|end_char=2658
+17	behind	behind	ADP	IN	_	16	_	_	start_char=2659|end_char=2665
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=2666|end_char=2669
+19	attacks	attack	NOUN	NNS	Number=Plur	18	_	_	start_char=2670|end_char=2677
+20	on	on	ADP	IN	_	19	_	_	start_char=2678|end_char=2680
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=2681|end_char=2684
+22	Nord	Nord	PROPN	NNP	Number=Sing	21	_	_	start_char=2685|end_char=2689
+23	Stream	Stream	PROPN	NNP	Number=Sing	22	_	_	start_char=2690|end_char=2696
+24	pipelines	pipeline	NOUN	NNS	Number=Plur	23	_	_	start_char=2697|end_char=2706|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=2706|end_char=2707
+
+# text = The news outlets noted that they were in Ukraine before and after the explosions in the Baltic Sea, citing technical data.
+# sent_id = 19
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2708|end_char=2711
+2	news	news	NOUN	NN	Number=Sing	1	_	_	start_char=2712|end_char=2716
+3	outlets	outlet	NOUN	NNS	Number=Plur	2	_	_	start_char=2717|end_char=2724
+4	noted	note	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=2725|end_char=2730
+5	that	that	SCONJ	IN	_	4	_	_	start_char=2731|end_char=2735
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	_	_	start_char=2736|end_char=2740
+7	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=2741|end_char=2745
+8	in	in	ADP	IN	_	7	_	_	start_char=2746|end_char=2748
+9	Ukraine	Ukraine	PROPN	NNP	Number=Sing	8	_	_	start_char=2749|end_char=2756
+10	before	before	ADP	IN	_	9	_	_	start_char=2757|end_char=2763
+11	and	and	CCONJ	CC	_	10	_	_	start_char=2764|end_char=2767
+12	after	after	ADP	IN	_	11	_	_	start_char=2768|end_char=2773
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=2774|end_char=2777
+14	explosions	explosion	NOUN	NNS	Number=Plur	13	_	_	start_char=2778|end_char=2788
+15	in	in	ADP	IN	_	14	_	_	start_char=2789|end_char=2791
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=2792|end_char=2795
+17	Baltic	Baltic	ADJ	NNP	Degree=Pos	16	_	_	start_char=2796|end_char=2802
+18	Sea	Sea	PROPN	NNP	Number=Sing	17	_	_	start_char=2803|end_char=2806|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=2806|end_char=2807
+20	citing	cite	VERB	VBG	VerbForm=Ger	19	_	_	start_char=2808|end_char=2814
+21	technical	technical	ADJ	JJ	Degree=Pos	20	_	_	start_char=2815|end_char=2824
+22	data	datum	NOUN	NNS	Number=Plur	21	_	_	start_char=2825|end_char=2829|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=2829|end_char=2830|SpaceAfter=No
+

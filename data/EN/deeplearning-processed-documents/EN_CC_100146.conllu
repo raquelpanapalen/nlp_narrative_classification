@@ -1,0 +1,437 @@
+# text = Astronaut Catches "Transient Luminous Event" High Above The Earth
+# sent_id = 0
+1	Astronaut	astronaut	NOUN	NN	Number=Sing	0	_	_	start_char=0|end_char=9
+2	Catches	catch	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=10|end_char=17
+3	"	"	PUNCT	``	_	2	_	_	start_char=18|end_char=19|SpaceAfter=No
+4	Transient	transient	ADJ	JJ	Degree=Pos	3	_	_	start_char=19|end_char=28
+5	Luminous	luminous	ADJ	JJ	Degree=Pos	4	_	_	start_char=29|end_char=37
+6	Event	event	NOUN	NN	Number=Sing	5	_	_	start_char=38|end_char=43|SpaceAfter=No
+7	"	"	PUNCT	''	_	6	_	_	start_char=43|end_char=44
+8	High	high	ADJ	JJ	Degree=Pos	7	_	_	start_char=45|end_char=49
+9	Above	above	ADP	IN	_	8	_	_	start_char=50|end_char=55
+10	The	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=56|end_char=59
+11	Earth	Earth	PROPN	NNP	Number=Sing	10	_	_	start_char=60|end_char=65|SpacesAfter=\s\n\n\s
+
+# text = European Space Agency (ESA) astronaut Andreas Mogensen has captured a new image of a red sprite, a rare type of electrical discharge rarely seen from Earth.
+# sent_id = 1
+1	European	European	ADJ	NNP	Degree=Pos	0	_	_	start_char=69|end_char=77
+2	Space	Space	PROPN	NNP	Number=Sing	1	_	_	start_char=78|end_char=83
+3	Agency	Agency	PROPN	NNP	Number=Sing	2	_	_	start_char=84|end_char=90
+4	(	(	PUNCT	-LRB-	_	3	_	_	start_char=91|end_char=92|SpaceAfter=No
+5	ESA	ESA	PROPN	NNP	Number=Sing	4	_	_	start_char=92|end_char=95|SpaceAfter=No
+6	)	)	PUNCT	-RRB-	_	5	_	_	start_char=95|end_char=96
+7	astronaut	astronaut	NOUN	NN	Number=Sing	6	_	_	start_char=97|end_char=106
+8	Andreas	Andreas	PROPN	NNP	Number=Sing	7	_	_	start_char=107|end_char=114
+9	Mogensen	Mogensen	PROPN	NNP	Number=Sing	8	_	_	start_char=115|end_char=123
+10	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=124|end_char=127
+11	captured	capture	VERB	VBN	Tense=Past|VerbForm=Part	10	_	_	start_char=128|end_char=136
+12	a	a	DET	DT	Definite=Ind|PronType=Art	11	_	_	start_char=137|end_char=138
+13	new	new	ADJ	JJ	Degree=Pos	12	_	_	start_char=139|end_char=142
+14	image	image	NOUN	NN	Number=Sing	13	_	_	start_char=143|end_char=148
+15	of	of	ADP	IN	_	14	_	_	start_char=149|end_char=151
+16	a	a	DET	DT	Definite=Ind|PronType=Art	15	_	_	start_char=152|end_char=153
+17	red	red	ADJ	JJ	Degree=Pos	16	_	_	start_char=154|end_char=157
+18	sprite	sprite	NOUN	NN	Number=Sing	17	_	_	start_char=158|end_char=164|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=164|end_char=165
+20	a	a	DET	DT	Definite=Ind|PronType=Art	19	_	_	start_char=166|end_char=167
+21	rare	rare	ADJ	JJ	Degree=Pos	20	_	_	start_char=168|end_char=172
+22	type	type	NOUN	NN	Number=Sing	21	_	_	start_char=173|end_char=177
+23	of	of	ADP	IN	_	22	_	_	start_char=178|end_char=180
+24	electrical	electrical	ADJ	JJ	Degree=Pos	23	_	_	start_char=181|end_char=191
+25	discharge	discharge	NOUN	NN	Number=Sing	24	_	_	start_char=192|end_char=201
+26	rarely	rarely	ADV	RB	_	25	_	_	start_char=202|end_char=208
+27	seen	see	VERB	VBN	Tense=Past|VerbForm=Part	26	_	_	start_char=209|end_char=213
+28	from	from	ADP	IN	_	27	_	_	start_char=214|end_char=218
+29	Earth	Earth	PROPN	NNP	Number=Sing	28	_	_	start_char=219|end_char=224|SpaceAfter=No
+30	.	.	PUNCT	.	_	29	_	_	start_char=224|end_char=225|SpacesAfter=\n\n
+
+# text = As part of the Thor-Davis experiment, Danish astronaut Mogensen heads to the International Space Station's (ISS) Cupola observatory module every Saturday to attempt to photograph storms from above.
+# sent_id = 2
+1	As	as	ADP	IN	_	0	_	_	start_char=227|end_char=229
+2	part	part	NOUN	NN	Number=Sing	1	_	_	start_char=230|end_char=234
+3	of	of	ADP	IN	_	2	_	_	start_char=235|end_char=237
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=238|end_char=241
+5	Thor	Thor	PROPN	NNP	Number=Sing	4	_	_	start_char=242|end_char=246|SpaceAfter=No
+6	-	-	PUNCT	HYPH	_	5	_	_	start_char=246|end_char=247|SpaceAfter=No
+7	Davis	Davis	PROPN	NNP	Number=Sing	6	_	_	start_char=247|end_char=252
+8	experiment	experiment	NOUN	NN	Number=Sing	7	_	_	start_char=253|end_char=263|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=263|end_char=264
+10	Danish	Danish	ADJ	JJ	Degree=Pos	9	_	_	start_char=265|end_char=271
+11	astronaut	astronaut	NOUN	NN	Number=Sing	10	_	_	start_char=272|end_char=281
+12	Mogensen	Mogensen	PROPN	NNP	Number=Sing	11	_	_	start_char=282|end_char=290
+13	heads	head	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=291|end_char=296
+14	to	to	ADP	IN	_	13	_	_	start_char=297|end_char=299
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=300|end_char=303
+16	International	International	ADJ	NNP	Degree=Pos	15	_	_	start_char=304|end_char=317
+17	Space	Space	PROPN	NNP	Number=Sing	16	_	_	start_char=318|end_char=323
+18-19	Station's	_	_	_	_	_	_	_	start_char=324|end_char=333
+18	Station	Station	PROPN	NNP	Number=Sing	17	_	_	start_char=324|end_char=331
+19	's	's	PART	POS	_	18	_	_	start_char=331|end_char=333
+20	(	(	PUNCT	-LRB-	_	19	_	_	start_char=334|end_char=335|SpaceAfter=No
+21	ISS	ISS	PROPN	NNP	Number=Sing	20	_	_	start_char=335|end_char=338|SpaceAfter=No
+22	)	)	PUNCT	-RRB-	_	21	_	_	start_char=338|end_char=339
+23	Cupola	Cupola	PROPN	NNP	Number=Sing	22	_	_	start_char=340|end_char=346
+24	observatory	observatory	NOUN	NN	Number=Sing	23	_	_	start_char=347|end_char=358
+25	module	module	NOUN	NN	Number=Sing	24	_	_	start_char=359|end_char=365
+26	every	every	DET	DT	PronType=Tot	25	_	_	start_char=366|end_char=371
+27	Saturday	Saturday	PROPN	NNP	Number=Sing	26	_	_	start_char=372|end_char=380
+28	to	to	PART	TO	_	27	_	_	start_char=381|end_char=383
+29	attempt	attempt	VERB	VB	VerbForm=Inf	28	_	_	start_char=384|end_char=391
+30	to	to	PART	TO	_	29	_	_	start_char=392|end_char=394
+31	photograph	photograph	VERB	VB	VerbForm=Inf	30	_	_	start_char=395|end_char=405
+32	storms	storm	NOUN	NNS	Number=Plur	31	_	_	start_char=406|end_char=412
+33	from	from	ADP	IN	_	32	_	_	start_char=413|end_char=417
+34	above	above	ADV	RB	_	33	_	_	start_char=418|end_char=423|SpaceAfter=No
+35	.	.	PUNCT	.	_	34	_	_	start_char=423|end_char=424
+
+# text = In the first image released by the experiment, which aims to study intense thunderstorms from a better vantage point as well as weather phenomena in high altitude, a Transient Luminous Event (TLE) is seen between 40 and 80 kilometers (25-50 miles) above the Earth.
+# sent_id = 3
+1	In	in	ADP	IN	_	0	_	_	start_char=425|end_char=427
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=428|end_char=431
+3	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	2	_	_	start_char=432|end_char=437
+4	image	image	NOUN	NN	Number=Sing	3	_	_	start_char=438|end_char=443
+5	released	release	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=444|end_char=452
+6	by	by	ADP	IN	_	5	_	_	start_char=453|end_char=455
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=456|end_char=459
+8	experiment	experiment	NOUN	NN	Number=Sing	7	_	_	start_char=460|end_char=470|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=470|end_char=471
+10	which	which	PRON	WDT	PronType=Rel	9	_	_	start_char=472|end_char=477
+11	aims	aim	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=478|end_char=482
+12	to	to	PART	TO	_	11	_	_	start_char=483|end_char=485
+13	study	study	VERB	VB	VerbForm=Inf	12	_	_	start_char=486|end_char=491
+14	intense	intense	ADJ	JJ	Degree=Pos	13	_	_	start_char=492|end_char=499
+15	thunderstorms	thunderstorm	NOUN	NNS	Number=Plur	14	_	_	start_char=500|end_char=513
+16	from	from	ADP	IN	_	15	_	_	start_char=514|end_char=518
+17	a	a	DET	DT	Definite=Ind|PronType=Art	16	_	_	start_char=519|end_char=520
+18	better	good	ADJ	JJR	Degree=Cmp	17	_	_	start_char=521|end_char=527
+19	vantage	vantage	NOUN	NN	Number=Sing	18	_	_	start_char=528|end_char=535
+20	point	point	NOUN	NN	Number=Sing	19	_	_	start_char=536|end_char=541
+21	as	as	ADV	RB	_	20	_	_	start_char=542|end_char=544
+22	well	well	ADV	RB	Degree=Pos	21	_	_	start_char=545|end_char=549
+23	as	as	ADP	IN	_	22	_	_	start_char=550|end_char=552
+24	weather	weather	NOUN	NN	Number=Sing	23	_	_	start_char=553|end_char=560
+25	phenomena	phenomenon	NOUN	NNS	Number=Plur	24	_	_	start_char=561|end_char=570
+26	in	in	ADP	IN	_	25	_	_	start_char=571|end_char=573
+27	high	high	ADJ	JJ	Degree=Pos	26	_	_	start_char=574|end_char=578
+28	altitude	altitude	NOUN	NN	Number=Sing	27	_	_	start_char=579|end_char=587|SpaceAfter=No
+29	,	,	PUNCT	,	_	28	_	_	start_char=587|end_char=588
+30	a	a	DET	DT	Definite=Ind|PronType=Art	29	_	_	start_char=589|end_char=590
+31	Transient	transient	ADJ	NNP	Degree=Pos	30	_	_	start_char=591|end_char=600
+32	Luminous	luminous	ADJ	NNP	Degree=Pos	31	_	_	start_char=601|end_char=609
+33	Event	Event	PROPN	NNP	Number=Sing	32	_	_	start_char=610|end_char=615
+34	(	(	PUNCT	-LRB-	_	33	_	_	start_char=616|end_char=617|SpaceAfter=No
+35	TLE	TLE	PROPN	NNP	Number=Sing	34	_	_	start_char=617|end_char=620|SpaceAfter=No
+36	)	)	PUNCT	-RRB-	_	35	_	_	start_char=620|end_char=621
+37	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	_	_	start_char=622|end_char=624
+38	seen	see	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	37	_	_	start_char=625|end_char=629
+39	between	between	ADP	IN	_	38	_	_	start_char=630|end_char=637
+40	40	40	NUM	CD	NumForm=Digit|NumType=Card	39	_	_	start_char=638|end_char=640
+41	and	and	CCONJ	CC	_	40	_	_	start_char=641|end_char=644
+42	80	80	NUM	CD	NumForm=Digit|NumType=Card	41	_	_	start_char=645|end_char=647
+43	kilometers	kilometer	NOUN	NNS	Number=Plur	42	_	_	start_char=648|end_char=658
+44	(	(	PUNCT	-LRB-	_	43	_	_	start_char=659|end_char=660|SpaceAfter=No
+45	25	25	NUM	CD	NumForm=Digit|NumType=Card	44	_	_	start_char=660|end_char=662|SpaceAfter=No
+46	-	-	SYM	SYM	_	45	_	_	start_char=662|end_char=663|SpaceAfter=No
+47	50	50	NUM	CD	NumForm=Digit|NumType=Card	46	_	_	start_char=663|end_char=665
+48	miles	mile	NOUN	NNS	Number=Plur	47	_	_	start_char=666|end_char=671|SpaceAfter=No
+49	)	)	PUNCT	-RRB-	_	48	_	_	start_char=671|end_char=672
+50	above	above	ADP	IN	_	49	_	_	start_char=673|end_char=678
+51	the	the	DET	DT	Definite=Def|PronType=Art	50	_	_	start_char=679|end_char=682
+52	Earth	Earth	PROPN	NNP	Number=Sing	51	_	_	start_char=683|end_char=688|SpaceAfter=No
+53	.	.	PUNCT	.	_	52	_	_	start_char=688|end_char=689|SpacesAfter=\n\n
+
+# text = TLEs, sometimes called "sprites", "red sprites", or "red jellyfish sprites", have been reported by pilots for decades, but were only recorded for the first time in July 1989.
+# sent_id = 4
+1	TLEs	tle	NOUN	NNS	Number=Plur	0	_	_	start_char=691|end_char=695|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=695|end_char=696
+3	sometimes	sometimes	ADV	RB	_	2	_	_	start_char=697|end_char=706
+4	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=707|end_char=713
+5	"	"	PUNCT	``	_	4	_	_	start_char=714|end_char=715|SpaceAfter=No
+6	sprites	sprite	NOUN	NNS	Number=Plur	5	_	_	start_char=715|end_char=722|SpaceAfter=No
+7	"	"	PUNCT	''	_	6	_	_	start_char=722|end_char=723|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=723|end_char=724
+9	"	"	PUNCT	``	_	8	_	_	start_char=725|end_char=726|SpaceAfter=No
+10	red	red	ADJ	JJ	Degree=Pos	9	_	_	start_char=726|end_char=729
+11	sprites	sprite	NOUN	NNS	Number=Plur	10	_	_	start_char=730|end_char=737|SpaceAfter=No
+12	"	"	PUNCT	''	_	11	_	_	start_char=737|end_char=738|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=738|end_char=739
+14	or	or	CCONJ	CC	_	13	_	_	start_char=740|end_char=742
+15	"	"	PUNCT	``	_	14	_	_	start_char=743|end_char=744|SpaceAfter=No
+16	red	red	ADJ	JJ	Degree=Pos	15	_	_	start_char=744|end_char=747
+17	jellyfish	jellyfish	NOUN	NN	Number=Sing	16	_	_	start_char=748|end_char=757
+18	sprites	sprite	NOUN	NNS	Number=Plur	17	_	_	start_char=758|end_char=765|SpaceAfter=No
+19	"	"	PUNCT	''	_	18	_	_	start_char=765|end_char=766|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=766|end_char=767
+21	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	_	_	start_char=768|end_char=772
+22	been	be	AUX	VBN	Tense=Past|VerbForm=Part	21	_	_	start_char=773|end_char=777
+23	reported	report	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	22	_	_	start_char=778|end_char=786
+24	by	by	ADP	IN	_	23	_	_	start_char=787|end_char=789
+25	pilots	pilot	NOUN	NNS	Number=Plur	24	_	_	start_char=790|end_char=796
+26	for	for	ADP	IN	_	25	_	_	start_char=797|end_char=800
+27	decades	decade	NOUN	NNS	Number=Plur	26	_	_	start_char=801|end_char=808|SpaceAfter=No
+28	,	,	PUNCT	,	_	27	_	_	start_char=808|end_char=809
+29	but	but	CCONJ	CC	_	28	_	_	start_char=810|end_char=813
+30	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	29	_	_	start_char=814|end_char=818
+31	only	only	ADV	RB	_	30	_	_	start_char=819|end_char=823
+32	recorded	record	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	31	_	_	start_char=824|end_char=832
+33	for	for	ADP	IN	_	32	_	_	start_char=833|end_char=836
+34	the	the	DET	DT	Definite=Def|PronType=Art	33	_	_	start_char=837|end_char=840
+35	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	34	_	_	start_char=841|end_char=846
+36	time	time	NOUN	NN	Number=Sing	35	_	_	start_char=847|end_char=851
+37	in	in	ADP	IN	_	36	_	_	start_char=852|end_char=854
+38	July	July	PROPN	NNP	Number=Sing	37	_	_	start_char=855|end_char=859
+39	1989	1989	NUM	CD	NumForm=Digit|NumType=Card	38	_	_	start_char=860|end_char=864|SpaceAfter=No
+40	.	.	PUNCT	.	_	39	_	_	start_char=864|end_char=865
+
+# text = They are rarely seen from the surface, which is probably for the best, given the illusion they create of an invading alien space force.
+# sent_id = 5
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=866|end_char=870
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=871|end_char=874
+3	rarely	rarely	ADV	RB	_	2	_	_	start_char=875|end_char=881
+4	seen	see	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=882|end_char=886
+5	from	from	ADP	IN	_	4	_	_	start_char=887|end_char=891
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=892|end_char=895
+7	surface	surface	NOUN	NN	Number=Sing	6	_	_	start_char=896|end_char=903|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=903|end_char=904
+9	which	which	PRON	WDT	PronType=Rel	8	_	_	start_char=905|end_char=910
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=911|end_char=913
+11	probably	probably	ADV	RB	_	10	_	_	start_char=914|end_char=922
+12	for	for	ADP	IN	_	11	_	_	start_char=923|end_char=926
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=927|end_char=930
+14	best	good	ADJ	JJS	Degree=Sup	13	_	_	start_char=931|end_char=935|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=935|end_char=936
+16	given	give	VERB	VBN	Tense=Past|VerbForm=Part	15	_	_	start_char=937|end_char=942
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=943|end_char=946
+18	illusion	illusion	NOUN	NN	Number=Sing	17	_	_	start_char=947|end_char=955
+19	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	_	_	start_char=956|end_char=960
+20	create	create	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	_	_	start_char=961|end_char=967
+21	of	of	ADP	IN	_	20	_	_	start_char=968|end_char=970
+22	an	a	DET	DT	Definite=Ind|PronType=Art	21	_	_	start_char=971|end_char=973
+23	invading	invade	VERB	VBG	VerbForm=Ger	22	_	_	start_char=974|end_char=982
+24	alien	alien	ADJ	JJ	Degree=Pos	23	_	_	start_char=983|end_char=988
+25	space	space	NOUN	NN	Number=Sing	24	_	_	start_char=989|end_char=994
+26	force	force	NOUN	NN	Number=Sing	25	_	_	start_char=995|end_char=1000|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=1000|end_char=1001|SpacesAfter=\n\n
+
+# text = Like regular lightning strikes, the sprites occur following a build-up of electrical charge within clouds.
+# sent_id = 6
+1	Like	like	ADP	IN	_	0	_	_	start_char=1003|end_char=1007
+2	regular	regular	ADJ	JJ	Degree=Pos	1	_	_	start_char=1008|end_char=1015
+3	lightning	lightning	NOUN	NN	Number=Sing	2	_	_	start_char=1016|end_char=1025
+4	strikes	strike	NOUN	NNS	Number=Plur	3	_	_	start_char=1026|end_char=1033|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=1033|end_char=1034
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1035|end_char=1038
+7	sprites	sprite	NOUN	NNS	Number=Plur	6	_	_	start_char=1039|end_char=1046
+8	occur	occur	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=1047|end_char=1052
+9	following	follow	VERB	VBG	VerbForm=Ger	8	_	_	start_char=1053|end_char=1062
+10	a	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=1063|end_char=1064
+11	build	build	NOUN	NN	Number=Sing	10	_	_	start_char=1065|end_char=1070|SpaceAfter=No
+12	-	-	PUNCT	HYPH	_	11	_	_	start_char=1070|end_char=1071|SpaceAfter=No
+13	up	up	NOUN	NN	Number=Sing	12	_	_	start_char=1071|end_char=1073
+14	of	of	ADP	IN	_	13	_	_	start_char=1074|end_char=1076
+15	electrical	electrical	ADJ	JJ	Degree=Pos	14	_	_	start_char=1077|end_char=1087
+16	charge	charge	NOUN	NN	Number=Sing	15	_	_	start_char=1088|end_char=1094
+17	within	within	ADP	IN	_	16	_	_	start_char=1095|end_char=1101
+18	clouds	cloud	NOUN	NNS	Number=Plur	17	_	_	start_char=1102|end_char=1108|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=1108|end_char=1109
+
+# text = With red sprites, however, the discharge occurs into the Earth's mesosphere up to 80 kilometers (50 miles) above the Earth.
+# sent_id = 7
+1	With	with	ADP	IN	_	0	_	_	start_char=1110|end_char=1114
+2	red	red	ADJ	JJ	Degree=Pos	1	_	_	start_char=1115|end_char=1118
+3	sprites	sprite	NOUN	NNS	Number=Plur	2	_	_	start_char=1119|end_char=1126|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1126|end_char=1127
+5	however	however	ADV	RB	_	4	_	_	start_char=1128|end_char=1135|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=1135|end_char=1136
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1137|end_char=1140
+8	discharge	discharge	NOUN	NN	Number=Sing	7	_	_	start_char=1141|end_char=1150
+9	occurs	occur	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=1151|end_char=1157
+10	into	into	ADP	IN	_	9	_	_	start_char=1158|end_char=1162
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=1163|end_char=1166
+12-13	Earth's	_	_	_	_	_	_	_	start_char=1167|end_char=1174
+12	Earth	Earth	PROPN	NNP	Number=Sing	11	_	_	start_char=1167|end_char=1172
+13	's	's	PART	POS	_	12	_	_	start_char=1172|end_char=1174
+14	mesosphere	mesosphere	NOUN	NN	Number=Sing	13	_	_	start_char=1175|end_char=1185
+15	up	up	ADV	RB	_	14	_	_	start_char=1186|end_char=1188
+16	to	to	ADP	IN	_	15	_	_	start_char=1189|end_char=1191
+17	80	80	NUM	CD	NumForm=Digit|NumType=Card	16	_	_	start_char=1192|end_char=1194
+18	kilometers	kilometer	NOUN	NNS	Number=Plur	17	_	_	start_char=1195|end_char=1205
+19	(	(	PUNCT	-LRB-	_	18	_	_	start_char=1206|end_char=1207|SpaceAfter=No
+20	50	50	NUM	CD	NumForm=Digit|NumType=Card	19	_	_	start_char=1207|end_char=1209
+21	miles	mile	NOUN	NNS	Number=Plur	20	_	_	start_char=1210|end_char=1215|SpaceAfter=No
+22	)	)	PUNCT	-RRB-	_	21	_	_	start_char=1215|end_char=1216
+23	above	above	ADP	IN	_	22	_	_	start_char=1217|end_char=1222
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=1223|end_char=1226
+25	Earth	Earth	PROPN	NNP	Number=Sing	24	_	_	start_char=1227|end_char=1232|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=1232|end_char=1233
+
+# text = The eerie red color occurs as the charge meets nitrogen in the Earth's atmosphere.
+# sent_id = 8
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1234|end_char=1237
+2	eerie	eerie	ADJ	JJ	Degree=Pos	1	_	_	start_char=1238|end_char=1243
+3	red	red	ADJ	JJ	Degree=Pos	2	_	_	start_char=1244|end_char=1247
+4	color	color	NOUN	NN	Number=Sing	3	_	_	start_char=1248|end_char=1253
+5	occurs	occur	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1254|end_char=1260
+6	as	as	SCONJ	IN	_	5	_	_	start_char=1261|end_char=1263
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1264|end_char=1267
+8	charge	charge	NOUN	NN	Number=Sing	7	_	_	start_char=1268|end_char=1274
+9	meets	meet	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=1275|end_char=1280
+10	nitrogen	nitrogen	NOUN	NN	Number=Sing	9	_	_	start_char=1281|end_char=1289
+11	in	in	ADP	IN	_	10	_	_	start_char=1290|end_char=1292
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=1293|end_char=1296
+13-14	Earth's	_	_	_	_	_	_	_	start_char=1297|end_char=1304
+13	Earth	Earth	PROPN	NNP	Number=Sing	12	_	_	start_char=1297|end_char=1302
+14	's	's	PART	POS	_	13	_	_	start_char=1302|end_char=1304
+15	atmosphere	atmosphere	NOUN	NN	Number=Sing	14	_	_	start_char=1305|end_char=1315|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=1315|end_char=1316|SpacesAfter=\n\n
+
+# text = Mogensen captured the sprite with an "event camera", which according to ESA works more like a human eye than a regular camera, sensing changes in contrast rather than capturing an image.
+# sent_id = 9
+1	Mogensen	Mogensen	PROPN	NNP	Number=Sing	0	_	_	start_char=1318|end_char=1326
+2	captured	capture	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1327|end_char=1335
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1336|end_char=1339
+4	sprite	sprite	NOUN	NN	Number=Sing	3	_	_	start_char=1340|end_char=1346
+5	with	with	ADP	IN	_	4	_	_	start_char=1347|end_char=1351
+6	an	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=1352|end_char=1354
+7	"	"	PUNCT	``	_	6	_	_	start_char=1355|end_char=1356|SpaceAfter=No
+8	event	event	NOUN	NN	Number=Sing	7	_	_	start_char=1356|end_char=1361
+9	camera	camera	NOUN	NN	Number=Sing	8	_	_	start_char=1362|end_char=1368|SpaceAfter=No
+10	"	"	PUNCT	''	_	9	_	_	start_char=1368|end_char=1369|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=1369|end_char=1370
+12	which	which	PRON	WDT	PronType=Rel	11	_	_	start_char=1371|end_char=1376
+13	according	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	12	_	_	start_char=1377|end_char=1386
+14	to	to	ADP	IN	_	13	_	_	start_char=1387|end_char=1389
+15	ESA	ESA	PROPN	NNP	Number=Sing	14	_	_	start_char=1390|end_char=1393
+16	works	work	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=1394|end_char=1399
+17	more	more	ADV	RBR	Degree=Cmp	16	_	_	start_char=1400|end_char=1404
+18	like	like	ADP	IN	_	17	_	_	start_char=1405|end_char=1409
+19	a	a	DET	DT	Definite=Ind|PronType=Art	18	_	_	start_char=1410|end_char=1411
+20	human	human	ADJ	JJ	Degree=Pos	19	_	_	start_char=1412|end_char=1417
+21	eye	eye	NOUN	NN	Number=Sing	20	_	_	start_char=1418|end_char=1421
+22	than	than	ADP	IN	_	21	_	_	start_char=1422|end_char=1426
+23	a	a	DET	DT	Definite=Ind|PronType=Art	22	_	_	start_char=1427|end_char=1428
+24	regular	regular	ADJ	JJ	Degree=Pos	23	_	_	start_char=1429|end_char=1436
+25	camera	camera	NOUN	NN	Number=Sing	24	_	_	start_char=1437|end_char=1443|SpaceAfter=No
+26	,	,	PUNCT	,	_	25	_	_	start_char=1443|end_char=1444
+27	sensing	sense	VERB	VBG	VerbForm=Ger	26	_	_	start_char=1445|end_char=1452
+28	changes	change	NOUN	NNS	Number=Plur	27	_	_	start_char=1453|end_char=1460
+29	in	in	ADP	IN	_	28	_	_	start_char=1461|end_char=1463
+30	contrast	contrast	NOUN	NN	Number=Sing	29	_	_	start_char=1464|end_char=1472
+31	rather	rather	ADV	RB	_	30	_	_	start_char=1473|end_char=1479
+32	than	than	SCONJ	IN	_	31	_	_	start_char=1480|end_char=1484
+33	capturing	capture	VERB	VBG	VerbForm=Ger	32	_	_	start_char=1485|end_char=1494
+34	an	a	DET	DT	Definite=Ind|PronType=Art	33	_	_	start_char=1495|end_char=1497
+35	image	image	NOUN	NN	Number=Sing	34	_	_	start_char=1498|end_char=1503|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=1503|end_char=1504
+
+# text = An advantage of these cameras is they can produce around 100,000 images a second, while drawing very little power to do so.
+# sent_id = 10
+1	An	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=1505|end_char=1507
+2	advantage	advantage	NOUN	NN	Number=Sing	1	_	_	start_char=1508|end_char=1517
+3	of	of	ADP	IN	_	2	_	_	start_char=1518|end_char=1520
+4	these	this	DET	DT	Number=Plur|PronType=Dem	3	_	_	start_char=1521|end_char=1526
+5	cameras	camera	NOUN	NNS	Number=Plur	4	_	_	start_char=1527|end_char=1534
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1535|end_char=1537
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	_	_	start_char=1538|end_char=1542
+8	can	can	AUX	MD	VerbForm=Fin	7	_	_	start_char=1543|end_char=1546
+9	produce	produce	VERB	VB	VerbForm=Inf	8	_	_	start_char=1547|end_char=1554
+10	around	around	ADV	RB	_	9	_	_	start_char=1555|end_char=1561
+11	100,000	100000	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=1562|end_char=1569
+12	images	image	NOUN	NNS	Number=Plur	11	_	_	start_char=1570|end_char=1576
+13	a	a	DET	DT	Definite=Ind|PronType=Art	12	_	_	start_char=1577|end_char=1578
+14	second	second	NOUN	NN	NumType=Ord|Number=Sing	13	_	_	start_char=1579|end_char=1585|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=1585|end_char=1586
+16	while	while	SCONJ	IN	_	15	_	_	start_char=1587|end_char=1592
+17	drawing	draw	VERB	VBG	VerbForm=Ger	16	_	_	start_char=1593|end_char=1600
+18	very	very	ADV	RB	_	17	_	_	start_char=1601|end_char=1605
+19	little	little	ADJ	JJ	Degree=Pos	18	_	_	start_char=1606|end_char=1612
+20	power	power	NOUN	NN	Number=Sing	19	_	_	start_char=1613|end_char=1618
+21	to	to	PART	TO	_	20	_	_	start_char=1619|end_char=1621
+22	do	do	VERB	VB	VerbForm=Inf	21	_	_	start_char=1622|end_char=1624
+23	so	so	ADV	RB	_	22	_	_	start_char=1625|end_char=1627|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=1627|end_char=1628
+
+# text = Among other aims, the study strives to better understand how lightning in the upper atmosphere affects the concentration of greenhouse gases.
+# sent_id = 11
+1	Among	among	ADP	IN	_	0	_	_	start_char=1629|end_char=1634
+2	other	other	ADJ	JJ	Degree=Pos	1	_	_	start_char=1635|end_char=1640
+3	aims	aim	NOUN	NNS	Number=Plur	2	_	_	start_char=1641|end_char=1645|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1645|end_char=1646
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1647|end_char=1650
+6	study	study	NOUN	NN	Number=Sing	5	_	_	start_char=1651|end_char=1656
+7	strives	strive	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=1657|end_char=1664
+8	to	to	PART	TO	_	7	_	_	start_char=1665|end_char=1667
+9	better	well	ADV	RBR	Degree=Cmp	8	_	_	start_char=1668|end_char=1674
+10	understand	understand	VERB	VB	VerbForm=Inf	9	_	_	start_char=1675|end_char=1685
+11	how	how	ADV	WRB	PronType=Int	10	_	_	start_char=1686|end_char=1689
+12	lightning	lightning	NOUN	NN	Number=Sing	11	_	_	start_char=1690|end_char=1699
+13	in	in	ADP	IN	_	12	_	_	start_char=1700|end_char=1702
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=1703|end_char=1706
+15	upper	upper	ADJ	JJ	Degree=Pos	14	_	_	start_char=1707|end_char=1712
+16	atmosphere	atmosphere	NOUN	NN	Number=Sing	15	_	_	start_char=1713|end_char=1723
+17	affects	affect	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=1724|end_char=1731
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=1732|end_char=1735
+19	concentration	concentration	NOUN	NN	Number=Sing	18	_	_	start_char=1736|end_char=1749
+20	of	of	ADP	IN	_	19	_	_	start_char=1750|end_char=1752
+21	greenhouse	greenhouse	NOUN	NN	Number=Sing	20	_	_	start_char=1753|end_char=1763
+22	gases	gas	NOUN	NNS	Number=Plur	21	_	_	start_char=1764|end_char=1769|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=1769|end_char=1770|SpacesAfter=\n\n
+
+# text = “These images taken by Andreas are fantastic," Olivier Chanrion, lead scientist for this experiment, told ESA of this first image from it.
+# sent_id = 12
+1	“	''	PUNCT	``	_	0	_	_	start_char=1772|end_char=1773|SpaceAfter=No
+2	These	this	DET	DT	Number=Plur|PronType=Dem	1	_	_	start_char=1773|end_char=1778
+3	images	image	NOUN	NNS	Number=Plur	2	_	_	start_char=1779|end_char=1785
+4	taken	take	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=1786|end_char=1791
+5	by	by	ADP	IN	_	4	_	_	start_char=1792|end_char=1794
+6	Andreas	Andreas	PROPN	NNP	Number=Sing	5	_	_	start_char=1795|end_char=1802
+7	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=1803|end_char=1806
+8	fantastic	fantastic	ADJ	JJ	Degree=Pos	7	_	_	start_char=1807|end_char=1816|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1816|end_char=1817|SpaceAfter=No
+10	"	"	PUNCT	''	_	9	_	_	start_char=1817|end_char=1818
+11	Olivier	Olivier	PROPN	NNP	Number=Sing	10	_	_	start_char=1819|end_char=1826
+12	Chanrion	Chanrion	PROPN	NNP	Number=Sing	11	_	_	start_char=1827|end_char=1835|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=1835|end_char=1836
+14	lead	lead	ADJ	JJ	Degree=Pos	13	_	_	start_char=1837|end_char=1841
+15	scientist	scientist	NOUN	NN	Number=Sing	14	_	_	start_char=1842|end_char=1851
+16	for	for	ADP	IN	_	15	_	_	start_char=1852|end_char=1855
+17	this	this	DET	DT	Number=Sing|PronType=Dem	16	_	_	start_char=1856|end_char=1860
+18	experiment	experiment	NOUN	NN	Number=Sing	17	_	_	start_char=1861|end_char=1871|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=1871|end_char=1872
+20	told	tell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	_	_	start_char=1873|end_char=1877
+21	ESA	ESA	PROPN	NNP	Number=Sing	20	_	_	start_char=1878|end_char=1881
+22	of	of	ADP	IN	_	21	_	_	start_char=1882|end_char=1884
+23	this	this	DET	DT	Number=Sing|PronType=Dem	22	_	_	start_char=1885|end_char=1889
+24	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	23	_	_	start_char=1890|end_char=1895
+25	image	image	NOUN	NN	Number=Sing	24	_	_	start_char=1896|end_char=1901
+26	from	from	ADP	IN	_	25	_	_	start_char=1902|end_char=1906
+27	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	26	_	_	start_char=1907|end_char=1909|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=1909|end_char=1910
+
+# text = "The Davis camera works well and gives us the high temporal resolution necessary to capture the quick processes in the lightning."
+# sent_id = 13
+1	"	"	PUNCT	``	_	0	_	_	start_char=1911|end_char=1912|SpaceAfter=No
+2	The	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=1912|end_char=1915
+3	Davis	Davis	PROPN	NNP	Number=Sing	2	_	_	start_char=1916|end_char=1921
+4	camera	camera	NOUN	NN	Number=Sing	3	_	_	start_char=1922|end_char=1928
+5	works	work	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1929|end_char=1934
+6	well	well	ADV	RB	Degree=Pos	5	_	_	start_char=1935|end_char=1939
+7	and	and	CCONJ	CC	_	6	_	_	start_char=1940|end_char=1943
+8	gives	give	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=1944|end_char=1949
+9	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	8	_	_	start_char=1950|end_char=1952
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=1953|end_char=1956
+11	high	high	ADJ	JJ	Degree=Pos	10	_	_	start_char=1957|end_char=1961
+12	temporal	temporal	ADJ	JJ	Degree=Pos	11	_	_	start_char=1962|end_char=1970
+13	resolution	resolution	NOUN	NN	Number=Sing	12	_	_	start_char=1971|end_char=1981
+14	necessary	necessary	ADJ	JJ	Degree=Pos	13	_	_	start_char=1982|end_char=1991
+15	to	to	PART	TO	_	14	_	_	start_char=1992|end_char=1994
+16	capture	capture	VERB	VB	VerbForm=Inf	15	_	_	start_char=1995|end_char=2002
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=2003|end_char=2006
+18	quick	quick	ADJ	JJ	Degree=Pos	17	_	_	start_char=2007|end_char=2012
+19	processes	process	NOUN	NNS	Number=Plur	18	_	_	start_char=2013|end_char=2022
+20	in	in	ADP	IN	_	19	_	_	start_char=2023|end_char=2025
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=2026|end_char=2029
+22	lightning	lightning	NOUN	NN	Number=Sing	21	_	_	start_char=2030|end_char=2039|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=2039|end_char=2040|SpaceAfter=No
+24	"	"	PUNCT	''	_	23	_	_	start_char=2040|end_char=2041|SpaceAfter=No
+

@@ -1,0 +1,618 @@
+# text = Senate blocks sanctions aimed at stopping Nord Stream 2 pipeline
+# sent_id = 0
+1	Senate	Senate	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=6
+2	blocks	block	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=7|end_char=13
+3	sanctions	sanction	NOUN	NNS	Number=Plur	2	_	_	start_char=14|end_char=23
+4	aimed	aim	VERB	VBN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=24|end_char=29
+5	at	at	SCONJ	IN	_	4	_	_	start_char=30|end_char=32
+6	stopping	stop	VERB	VBG	VerbForm=Ger	5	_	_	start_char=33|end_char=41
+7	Nord	Nord	PROPN	NNP	Number=Sing	6	_	_	start_char=42|end_char=46
+8	Stream	Stream	PROPN	NNP	Number=Sing	7	_	_	start_char=47|end_char=53
+9	2	2	NUM	CD	NumForm=Digit|NumType=Card	8	_	_	start_char=54|end_char=55
+10	pipeline	pipeline	NOUN	NN	Number=Sing	9	_	_	start_char=56|end_char=64|SpacesAfter=\s\n\n\s
+
+# text = The Senate blocked a measure to impose new sanctions on the Nord Stream 2 gas pipeline from Russia to Germany after the Biden administration warned it could disrupt allied unity in the confrontation over Ukraine.
+# sent_id = 1
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=68|end_char=71
+2	Senate	Senate	PROPN	NNP	Number=Sing	1	_	_	start_char=72|end_char=78
+3	blocked	block	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=79|end_char=86
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=87|end_char=88
+5	measure	measure	NOUN	NN	Number=Sing	4	_	_	start_char=89|end_char=96
+6	to	to	PART	TO	_	5	_	_	start_char=97|end_char=99
+7	impose	impose	VERB	VB	VerbForm=Inf	6	_	_	start_char=100|end_char=106
+8	new	new	ADJ	JJ	Degree=Pos	7	_	_	start_char=107|end_char=110
+9	sanctions	sanction	NOUN	NNS	Number=Plur	8	_	_	start_char=111|end_char=120
+10	on	on	ADP	IN	_	9	_	_	start_char=121|end_char=123
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=124|end_char=127
+12	Nord	Nord	PROPN	NNP	Number=Sing	11	_	_	start_char=128|end_char=132
+13	Stream	Stream	PROPN	NNP	Number=Sing	12	_	_	start_char=133|end_char=139
+14	2	2	NUM	CD	NumForm=Digit|NumType=Card	13	_	_	start_char=140|end_char=141
+15	gas	gas	NOUN	NN	Number=Sing	14	_	_	start_char=142|end_char=145
+16	pipeline	pipeline	NOUN	NN	Number=Sing	15	_	_	start_char=146|end_char=154
+17	from	from	ADP	IN	_	16	_	_	start_char=155|end_char=159
+18	Russia	Russia	PROPN	NNP	Number=Sing	17	_	_	start_char=160|end_char=166
+19	to	to	ADP	IN	_	18	_	_	start_char=167|end_char=169
+20	Germany	Germany	PROPN	NNP	Number=Sing	19	_	_	start_char=170|end_char=177
+21	after	after	SCONJ	IN	_	20	_	_	start_char=178|end_char=183
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=184|end_char=187
+23	Biden	Biden	PROPN	NNP	Number=Sing	22	_	_	start_char=188|end_char=193
+24	administration	administration	NOUN	NN	Number=Sing	23	_	_	start_char=194|end_char=208
+25	warned	warn	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	_	_	start_char=209|end_char=215
+26	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	25	_	_	start_char=216|end_char=218
+27	could	could	AUX	MD	VerbForm=Fin	26	_	_	start_char=219|end_char=224
+28	disrupt	disrupt	VERB	VB	VerbForm=Inf	27	_	_	start_char=225|end_char=232
+29	allied	allied	ADJ	JJ	Degree=Pos	28	_	_	start_char=233|end_char=239
+30	unity	unity	NOUN	NN	Number=Sing	29	_	_	start_char=240|end_char=245
+31	in	in	ADP	IN	_	30	_	_	start_char=246|end_char=248
+32	the	the	DET	DT	Definite=Def|PronType=Art	31	_	_	start_char=249|end_char=252
+33	confrontation	confrontation	NOUN	NN	Number=Sing	32	_	_	start_char=253|end_char=266
+34	over	over	ADP	IN	_	33	_	_	start_char=267|end_char=271
+35	Ukraine	Ukraine	PROPN	NNP	Number=Sing	34	_	_	start_char=272|end_char=279|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=279|end_char=280|SpacesAfter=\n\n
+
+# text = The measure by Republican Senator Ted Cruz of Texas failed on a vote of 55 to 44.
+# sent_id = 2
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=282|end_char=285
+2	measure	measure	NOUN	NN	Number=Sing	1	_	_	start_char=286|end_char=293
+3	by	by	ADP	IN	_	2	_	_	start_char=294|end_char=296
+4	Republican	Republican	ADJ	JJ	Degree=Pos	3	_	_	start_char=297|end_char=307
+5	Senator	Senator	PROPN	NNP	Number=Sing	4	_	_	start_char=308|end_char=315
+6	Ted	Ted	PROPN	NNP	Number=Sing	5	_	_	start_char=316|end_char=319
+7	Cruz	Cruz	PROPN	NNP	Number=Sing	6	_	_	start_char=320|end_char=324
+8	of	of	ADP	IN	_	7	_	_	start_char=325|end_char=327
+9	Texas	Texas	PROPN	NNP	Number=Sing	8	_	_	start_char=328|end_char=333
+10	failed	fail	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=334|end_char=340
+11	on	on	ADP	IN	_	10	_	_	start_char=341|end_char=343
+12	a	a	DET	DT	Definite=Ind|PronType=Art	11	_	_	start_char=344|end_char=345
+13	vote	vote	NOUN	NN	Number=Sing	12	_	_	start_char=346|end_char=350
+14	of	of	ADP	IN	_	13	_	_	start_char=351|end_char=353
+15	55	55	NUM	CD	NumForm=Digit|NumType=Card	14	_	_	start_char=354|end_char=356
+16	to	to	ADP	IN	_	15	_	_	start_char=357|end_char=359
+17	44	44	NUM	CD	NumForm=Digit|NumType=Card	16	_	_	start_char=360|end_char=362|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=362|end_char=363
+
+# text = It needed 60 votes to pass.
+# sent_id = 3
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=364|end_char=366
+2	needed	need	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=367|end_char=373
+3	60	60	NUM	CD	NumForm=Digit|NumType=Card	2	_	_	start_char=374|end_char=376
+4	votes	vote	NOUN	NNS	Number=Plur	3	_	_	start_char=377|end_char=382
+5	to	to	PART	TO	_	4	_	_	start_char=383|end_char=385
+6	pass	pass	VERB	VB	VerbForm=Inf	5	_	_	start_char=386|end_char=390|SpaceAfter=No
+7	.	.	PUNCT	.	_	6	_	_	start_char=390|end_char=391|SpacesAfter=\n\n
+
+# text = The vote was held open for several hours as Democrats grappled with a setback on unrelated voting rights legislation.
+# sent_id = 4
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=393|end_char=396
+2	vote	vote	NOUN	NN	Number=Sing	1	_	_	start_char=397|end_char=401
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=402|end_char=405
+4	held	hold	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=406|end_char=410
+5	open	open	ADJ	JJ	Degree=Pos	4	_	_	start_char=411|end_char=415
+6	for	for	ADP	IN	_	5	_	_	start_char=416|end_char=419
+7	several	several	ADJ	JJ	Degree=Pos	6	_	_	start_char=420|end_char=427
+8	hours	hour	NOUN	NNS	Number=Plur	7	_	_	start_char=428|end_char=433
+9	as	as	SCONJ	IN	_	8	_	_	start_char=434|end_char=436
+10	Democrats	Democrat	PROPN	NNPS	Number=Plur	9	_	_	start_char=437|end_char=446
+11	grappled	grapple	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=447|end_char=455
+12	with	with	ADP	IN	_	11	_	_	start_char=456|end_char=460
+13	a	a	DET	DT	Definite=Ind|PronType=Art	12	_	_	start_char=461|end_char=462
+14	setback	setback	NOUN	NN	Number=Sing	13	_	_	start_char=463|end_char=470
+15	on	on	ADP	IN	_	14	_	_	start_char=471|end_char=473
+16	unrelated	unrelated	ADJ	JJ	Degree=Pos	15	_	_	start_char=474|end_char=483
+17	voting	voting	NOUN	NN	Number=Sing	16	_	_	start_char=484|end_char=490
+18	rights	right	NOUN	NNS	Number=Plur	17	_	_	start_char=491|end_char=497
+19	legislation	legislation	NOUN	NN	Number=Sing	18	_	_	start_char=498|end_char=509|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=509|end_char=510|SpacesAfter=\n\n
+
+# text = “Russia has nakedly and unequivocally used energy as energy blackmail,” Cruz said Thursday on the Senate floor.
+# sent_id = 5
+1	“	''	PUNCT	``	_	0	_	_	start_char=512|end_char=513|SpaceAfter=No
+2	Russia	Russia	PROPN	NNP	Number=Sing	1	_	_	start_char=513|end_char=519
+3	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=520|end_char=523
+4	nakedly	nakedly	ADV	RB	_	3	_	_	start_char=524|end_char=531
+5	and	and	CCONJ	CC	_	4	_	_	start_char=532|end_char=535
+6	unequivocally	unequivocally	ADV	RB	_	5	_	_	start_char=536|end_char=549
+7	used	use	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=550|end_char=554
+8	energy	energy	NOUN	NN	Number=Sing	7	_	_	start_char=555|end_char=561
+9	as	as	ADP	IN	_	8	_	_	start_char=562|end_char=564
+10	energy	energy	NOUN	NN	Number=Sing	9	_	_	start_char=565|end_char=571
+11	blackmail	blackmail	NOUN	NN	Number=Sing	10	_	_	start_char=572|end_char=581|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=581|end_char=582|SpaceAfter=No
+13	”	''	PUNCT	''	_	12	_	_	start_char=582|end_char=583
+14	Cruz	Cruz	PROPN	NNP	Number=Sing	13	_	_	start_char=584|end_char=588
+15	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=589|end_char=593
+16	Thursday	Thursday	PROPN	NNP	Number=Sing	15	_	_	start_char=594|end_char=602
+17	on	on	ADP	IN	_	16	_	_	start_char=603|end_char=605
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=606|end_char=609
+19	Senate	Senate	PROPN	NNP	Number=Sing	18	_	_	start_char=610|end_char=616
+20	floor	floor	NOUN	NN	Number=Sing	19	_	_	start_char=617|end_char=622|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=622|end_char=623
+
+# text = President Vladimir Putin has done that “openly, brazenly and laughingly and absolutely nothing happened,” Cruz said.
+# sent_id = 6
+1	President	President	PROPN	NNP	Number=Sing	0	_	_	start_char=624|end_char=633
+2	Vladimir	Vladimir	PROPN	NNP	Number=Sing	1	_	_	start_char=634|end_char=642
+3	Putin	Putin	PROPN	NNP	Number=Sing	2	_	_	start_char=643|end_char=648
+4	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=649|end_char=652
+5	done	do	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=653|end_char=657
+6	that	that	PRON	DT	Number=Sing|PronType=Dem	5	_	_	start_char=658|end_char=662
+7	“	''	PUNCT	``	_	6	_	_	start_char=663|end_char=664|SpaceAfter=No
+8	openly	openly	ADV	RB	_	7	_	_	start_char=664|end_char=670|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=670|end_char=671
+10	brazenly	brazenly	ADV	RB	_	9	_	_	start_char=672|end_char=680
+11	and	and	CCONJ	CC	_	10	_	_	start_char=681|end_char=684
+12	laughingly	laughingly	ADV	RB	_	11	_	_	start_char=685|end_char=695
+13	and	and	CCONJ	CC	_	12	_	_	start_char=696|end_char=699
+14	absolutely	absolutely	ADV	RB	_	13	_	_	start_char=700|end_char=710
+15	nothing	nothing	PRON	NN	Number=Sing|PronType=Neg	14	_	_	start_char=711|end_char=718
+16	happened	happen	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	_	_	start_char=719|end_char=727|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=727|end_char=728|SpaceAfter=No
+18	”	''	PUNCT	''	_	17	_	_	start_char=728|end_char=729
+19	Cruz	Cruz	PROPN	NNP	Number=Sing	18	_	_	start_char=730|end_char=734
+20	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	_	_	start_char=735|end_char=739|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=739|end_char=740|SpacesAfter=\n\n
+
+# text = Opponents of the measure said it would damage U.S. cooperation with Germany and other NATO partners as they try to head off a potential invasion of Ukraine by Putin’s forces deployed on its borders.
+# sent_id = 7
+1	Opponents	opponent	NOUN	NNS	Number=Plur	0	_	_	start_char=742|end_char=751
+2	of	of	ADP	IN	_	1	_	_	start_char=752|end_char=754
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=755|end_char=758
+4	measure	measure	NOUN	NN	Number=Sing	3	_	_	start_char=759|end_char=766
+5	said	say	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=767|end_char=771
+6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	_	_	start_char=772|end_char=774
+7	would	would	AUX	MD	VerbForm=Fin	6	_	_	start_char=775|end_char=780
+8	damage	damage	VERB	VB	VerbForm=Inf	7	_	_	start_char=781|end_char=787
+9	U.S.	U.S.	PROPN	NNP	Number=Sing	8	_	_	start_char=788|end_char=792
+10	cooperation	cooperation	NOUN	NN	Number=Sing	9	_	_	start_char=793|end_char=804
+11	with	with	ADP	IN	_	10	_	_	start_char=805|end_char=809
+12	Germany	Germany	PROPN	NNP	Number=Sing	11	_	_	start_char=810|end_char=817
+13	and	and	CCONJ	CC	_	12	_	_	start_char=818|end_char=821
+14	other	other	ADJ	JJ	Degree=Pos	13	_	_	start_char=822|end_char=827
+15	NATO	NATO	PROPN	NNP	Number=Sing	14	_	_	start_char=828|end_char=832
+16	partners	partner	NOUN	NNS	Number=Plur	15	_	_	start_char=833|end_char=841
+17	as	as	SCONJ	IN	_	16	_	_	start_char=842|end_char=844
+18	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	_	_	start_char=845|end_char=849
+19	try	try	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=850|end_char=853
+20	to	to	PART	TO	_	19	_	_	start_char=854|end_char=856
+21	head	head	VERB	VB	VerbForm=Inf	20	_	_	start_char=857|end_char=861
+22	off	off	ADP	RP	_	21	_	_	start_char=862|end_char=865
+23	a	a	DET	DT	Definite=Ind|PronType=Art	22	_	_	start_char=866|end_char=867
+24	potential	potential	ADJ	JJ	Degree=Pos	23	_	_	start_char=868|end_char=877
+25	invasion	invasion	NOUN	NN	Number=Sing	24	_	_	start_char=878|end_char=886
+26	of	of	ADP	IN	_	25	_	_	start_char=887|end_char=889
+27	Ukraine	Ukraine	PROPN	NNP	Number=Sing	26	_	_	start_char=890|end_char=897
+28	by	by	ADP	IN	_	27	_	_	start_char=898|end_char=900
+29-30	Putin’s	_	_	_	_	_	_	_	start_char=901|end_char=908
+29	Putin	Putin	PROPN	NNP	Number=Sing	28	_	_	start_char=901|end_char=906
+30	’s	's	PART	POS	_	29	_	_	start_char=906|end_char=908
+31	forces	force	NOUN	NNS	Number=Plur	30	_	_	start_char=909|end_char=915
+32	deployed	deploy	VERB	VBN	Tense=Past|VerbForm=Part	31	_	_	start_char=916|end_char=924
+33	on	on	ADP	IN	_	32	_	_	start_char=925|end_char=927
+34	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	33	_	_	start_char=928|end_char=931
+35	borders	border	NOUN	NNS	Number=Plur	34	_	_	start_char=932|end_char=939|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=939|end_char=940|SpacesAfter=\n\n
+
+# text = The bill “would undermine the current diplomatic situation,” said Senator Jeanne Shaheen, a New Hampshire Democrat who had introduced earlier sanctions proposals with Cruz.
+# sent_id = 8
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=942|end_char=945
+2	bill	bill	NOUN	NN	Number=Sing	1	_	_	start_char=946|end_char=950
+3	“	''	PUNCT	''	_	2	_	_	start_char=951|end_char=952|SpaceAfter=No
+4	would	would	AUX	MD	VerbForm=Fin	3	_	_	start_char=952|end_char=957
+5	undermine	undermine	VERB	VB	VerbForm=Inf	4	_	_	start_char=958|end_char=967
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=968|end_char=971
+7	current	current	ADJ	JJ	Degree=Pos	6	_	_	start_char=972|end_char=979
+8	diplomatic	diplomatic	ADJ	JJ	Degree=Pos	7	_	_	start_char=980|end_char=990
+9	situation	situation	NOUN	NN	Number=Sing	8	_	_	start_char=991|end_char=1000|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=1000|end_char=1001|SpaceAfter=No
+11	”	''	PUNCT	''	_	10	_	_	start_char=1001|end_char=1002
+12	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=1003|end_char=1007
+13	Senator	Senator	PROPN	NNP	Number=Sing	12	_	_	start_char=1008|end_char=1015
+14	Jeanne	Jeanne	PROPN	NNP	Number=Sing	13	_	_	start_char=1016|end_char=1022
+15	Shaheen	Shaheen	PROPN	NNP	Number=Sing	14	_	_	start_char=1023|end_char=1030|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=1030|end_char=1031
+17	a	a	DET	DT	Definite=Ind|PronType=Art	16	_	_	start_char=1032|end_char=1033
+18	New	New	ADJ	NNP	Degree=Pos	17	_	_	start_char=1034|end_char=1037
+19	Hampshire	Hampshire	PROPN	NNP	Number=Sing	18	_	_	start_char=1038|end_char=1047
+20	Democrat	Democrat	PROPN	NNP	Number=Sing	19	_	_	start_char=1048|end_char=1056
+21	who	who	PRON	WP	PronType=Rel	20	_	_	start_char=1057|end_char=1060
+22	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	_	_	start_char=1061|end_char=1064
+23	introduced	introduce	VERB	VBN	Tense=Past|VerbForm=Part	22	_	_	start_char=1065|end_char=1075
+24	earlier	early	ADJ	JJR	Degree=Cmp	23	_	_	start_char=1076|end_char=1083
+25	sanctions	sanction	NOUN	NNS	Number=Plur	24	_	_	start_char=1084|end_char=1093
+26	proposals	proposal	NOUN	NNS	Number=Plur	25	_	_	start_char=1094|end_char=1103
+27	with	with	ADP	IN	_	26	_	_	start_char=1104|end_char=1108
+28	Cruz	Cruz	PROPN	NNP	Number=Sing	27	_	_	start_char=1109|end_char=1113|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=1113|end_char=1114
+
+# text = “We are in a very different situation right now” than when two earlier bills were passed.
+# sent_id = 9
+1	“	''	PUNCT	``	_	0	_	_	start_char=1115|end_char=1116|SpaceAfter=No
+2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	1	_	_	start_char=1116|end_char=1118
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1119|end_char=1122
+4	in	in	ADP	IN	_	3	_	_	start_char=1123|end_char=1125
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=1126|end_char=1127
+6	very	very	ADV	RB	_	5	_	_	start_char=1128|end_char=1132
+7	different	different	ADJ	JJ	Degree=Pos	6	_	_	start_char=1133|end_char=1142
+8	situation	situation	NOUN	NN	Number=Sing	7	_	_	start_char=1143|end_char=1152
+9	right	right	ADV	RB	_	8	_	_	start_char=1153|end_char=1158
+10	now	now	ADV	RB	_	9	_	_	start_char=1159|end_char=1162|SpaceAfter=No
+11	”	''	PUNCT	''	_	10	_	_	start_char=1162|end_char=1163
+12	than	than	SCONJ	IN	_	11	_	_	start_char=1164|end_char=1168
+13	when	when	ADV	WRB	PronType=Int	12	_	_	start_char=1169|end_char=1173
+14	two	two	NUM	CD	NumForm=Word|NumType=Card	13	_	_	start_char=1174|end_char=1177
+15	earlier	early	ADJ	JJR	Degree=Cmp	14	_	_	start_char=1178|end_char=1185
+16	bills	bill	NOUN	NNS	Number=Plur	15	_	_	start_char=1186|end_char=1191
+17	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	16	_	_	start_char=1192|end_char=1196
+18	passed	pass	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	17	_	_	start_char=1197|end_char=1203|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=1203|end_char=1204|SpacesAfter=\n\n
+
+# text = The Biden administration also has argued that imposing new sanctions on the undersea pipeline now could undercut the US’s ability to persuade other European nations to join in severe economic penalties later if Russia invades Ukraine.
+# sent_id = 10
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1206|end_char=1209
+2	Biden	Biden	PROPN	NNP	Number=Sing	1	_	_	start_char=1210|end_char=1215
+3	administration	administration	NOUN	NN	Number=Sing	2	_	_	start_char=1216|end_char=1230
+4	also	also	ADV	RB	_	3	_	_	start_char=1231|end_char=1235
+5	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1236|end_char=1239
+6	argued	argue	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=1240|end_char=1246
+7	that	that	SCONJ	IN	_	6	_	_	start_char=1247|end_char=1251
+8	imposing	impose	VERB	VBG	VerbForm=Ger	7	_	_	start_char=1252|end_char=1260
+9	new	new	ADJ	JJ	Degree=Pos	8	_	_	start_char=1261|end_char=1264
+10	sanctions	sanction	NOUN	NNS	Number=Plur	9	_	_	start_char=1265|end_char=1274
+11	on	on	ADP	IN	_	10	_	_	start_char=1275|end_char=1277
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=1278|end_char=1281
+13	undersea	undersea	ADJ	JJ	Degree=Pos	12	_	_	start_char=1282|end_char=1290
+14	pipeline	pipeline	NOUN	NN	Number=Sing	13	_	_	start_char=1291|end_char=1299
+15	now	now	ADV	RB	_	14	_	_	start_char=1300|end_char=1303
+16	could	could	AUX	MD	VerbForm=Fin	15	_	_	start_char=1304|end_char=1309
+17	undercut	undercut	VERB	VB	VerbForm=Inf	16	_	_	start_char=1310|end_char=1318
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=1319|end_char=1322
+19-20	US’s	_	_	_	_	_	_	_	start_char=1323|end_char=1327
+19	US	US	PROPN	NNP	Number=Sing	18	_	_	start_char=1323|end_char=1325
+20	’s	's	PART	POS	_	19	_	_	start_char=1325|end_char=1327
+21	ability	ability	NOUN	NN	Number=Sing	20	_	_	start_char=1328|end_char=1335
+22	to	to	PART	TO	_	21	_	_	start_char=1336|end_char=1338
+23	persuade	persuade	VERB	VB	VerbForm=Inf	22	_	_	start_char=1339|end_char=1347
+24	other	other	ADJ	JJ	Degree=Pos	23	_	_	start_char=1348|end_char=1353
+25	European	European	ADJ	JJ	Degree=Pos	24	_	_	start_char=1354|end_char=1362
+26	nations	nation	NOUN	NNS	Number=Plur	25	_	_	start_char=1363|end_char=1370
+27	to	to	PART	TO	_	26	_	_	start_char=1371|end_char=1373
+28	join	join	VERB	VB	VerbForm=Inf	27	_	_	start_char=1374|end_char=1378
+29	in	in	ADP	IN	_	28	_	_	start_char=1379|end_char=1381
+30	severe	severe	ADJ	JJ	Degree=Pos	29	_	_	start_char=1382|end_char=1388
+31	economic	economic	ADJ	JJ	Degree=Pos	30	_	_	start_char=1389|end_char=1397
+32	penalties	penalty	NOUN	NNS	Number=Plur	31	_	_	start_char=1398|end_char=1407
+33	later	late	ADV	RBR	Degree=Cmp	32	_	_	start_char=1408|end_char=1413
+34	if	if	SCONJ	IN	_	33	_	_	start_char=1414|end_char=1416
+35	Russia	Russia	PROPN	NNP	Number=Sing	34	_	_	start_char=1417|end_char=1423
+36	invades	invade	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	35	_	_	start_char=1424|end_char=1431
+37	Ukraine	Ukraine	PROPN	NNP	Number=Sing	36	_	_	start_char=1432|end_char=1439|SpaceAfter=No
+38	.	.	PUNCT	.	_	37	_	_	start_char=1439|end_char=1440|SpacesAfter=\n\n
+
+# text = The legislation “will not counter further Russian aggression or protect Ukraine,” Emily Horne, a spokesperson for the National Security Council, said in a statement Wednesday.
+# sent_id = 11
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1442|end_char=1445
+2	legislation	legislation	NOUN	NN	Number=Sing	1	_	_	start_char=1446|end_char=1457
+3	“	''	PUNCT	``	_	2	_	_	start_char=1458|end_char=1459|SpaceAfter=No
+4	will	will	AUX	MD	VerbForm=Fin	3	_	_	start_char=1459|end_char=1463
+5	not	not	PART	RB	_	4	_	_	start_char=1464|end_char=1467
+6	counter	counter	VERB	VB	VerbForm=Inf	5	_	_	start_char=1468|end_char=1475
+7	further	further	ADJ	JJ	Degree=Pos	6	_	_	start_char=1476|end_char=1483
+8	Russian	Russian	ADJ	JJ	Degree=Pos	7	_	_	start_char=1484|end_char=1491
+9	aggression	aggression	NOUN	NN	Number=Sing	8	_	_	start_char=1492|end_char=1502
+10	or	or	CCONJ	CC	_	9	_	_	start_char=1503|end_char=1505
+11	protect	protect	VERB	VB	VerbForm=Inf	10	_	_	start_char=1506|end_char=1513
+12	Ukraine	Ukraine	PROPN	NNP	Number=Sing	11	_	_	start_char=1514|end_char=1521|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=1521|end_char=1522|SpaceAfter=No
+14	”	''	PUNCT	''	_	13	_	_	start_char=1522|end_char=1523
+15	Emily	Emily	PROPN	NNP	Number=Sing	14	_	_	start_char=1524|end_char=1529
+16	Horne	Horne	PROPN	NNP	Number=Sing	15	_	_	start_char=1530|end_char=1535|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=1535|end_char=1536
+18	a	a	DET	DT	Definite=Ind|PronType=Art	17	_	_	start_char=1537|end_char=1538
+19	spokesperson	spokesperson	NOUN	NN	Number=Sing	18	_	_	start_char=1539|end_char=1551
+20	for	for	ADP	IN	_	19	_	_	start_char=1552|end_char=1555
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=1556|end_char=1559
+22	National	National	ADJ	NNP	Degree=Pos	21	_	_	start_char=1560|end_char=1568
+23	Security	Security	PROPN	NNP	Number=Sing	22	_	_	start_char=1569|end_char=1577
+24	Council	Council	PROPN	NNP	Number=Sing	23	_	_	start_char=1578|end_char=1585|SpaceAfter=No
+25	,	,	PUNCT	,	_	24	_	_	start_char=1585|end_char=1586
+26	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	_	_	start_char=1587|end_char=1591
+27	in	in	ADP	IN	_	26	_	_	start_char=1592|end_char=1594
+28	a	a	DET	DT	Definite=Ind|PronType=Art	27	_	_	start_char=1595|end_char=1596
+29	statement	statement	NOUN	NN	Number=Sing	28	_	_	start_char=1597|end_char=1606
+30	Wednesday	Wednesday	PROPN	NNP	Number=Sing	29	_	_	start_char=1607|end_char=1616|SpaceAfter=No
+31	.	.	PUNCT	.	_	30	_	_	start_char=1616|end_char=1617
+
+# text = “Instead, it will undermine our efforts to deter Russia and remove leverage the United States and our allies and partners possess in this moment all to score political points at home.”
+# sent_id = 12
+1	“	''	PUNCT	``	_	0	_	_	start_char=1618|end_char=1619|SpaceAfter=No
+2	Instead	instead	ADV	RB	_	1	_	_	start_char=1619|end_char=1626|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=1626|end_char=1627
+4	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	_	_	start_char=1628|end_char=1630
+5	will	will	AUX	MD	VerbForm=Fin	4	_	_	start_char=1631|end_char=1635
+6	undermine	undermine	VERB	VB	VerbForm=Inf	5	_	_	start_char=1636|end_char=1645
+7	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	6	_	_	start_char=1646|end_char=1649
+8	efforts	effort	NOUN	NNS	Number=Plur	7	_	_	start_char=1650|end_char=1657
+9	to	to	PART	TO	_	8	_	_	start_char=1658|end_char=1660
+10	deter	deter	VERB	VB	VerbForm=Inf	9	_	_	start_char=1661|end_char=1666
+11	Russia	Russia	PROPN	NNP	Number=Sing	10	_	_	start_char=1667|end_char=1673
+12	and	and	CCONJ	CC	_	11	_	_	start_char=1674|end_char=1677
+13	remove	remove	VERB	VB	VerbForm=Inf	12	_	_	start_char=1678|end_char=1684
+14	leverage	leverage	NOUN	NN	Number=Sing	13	_	_	start_char=1685|end_char=1693
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=1694|end_char=1697
+16	United	United	ADJ	NNP	Degree=Pos	15	_	_	start_char=1698|end_char=1704
+17	States	State	PROPN	NNPS	Number=Plur	16	_	_	start_char=1705|end_char=1711
+18	and	and	CCONJ	CC	_	17	_	_	start_char=1712|end_char=1715
+19	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	18	_	_	start_char=1716|end_char=1719
+20	allies	ally	NOUN	NNS	Number=Plur	19	_	_	start_char=1720|end_char=1726
+21	and	and	CCONJ	CC	_	20	_	_	start_char=1727|end_char=1730
+22	partners	partner	NOUN	NNS	Number=Plur	21	_	_	start_char=1731|end_char=1739
+23	possess	possess	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	_	_	start_char=1740|end_char=1747
+24	in	in	ADP	IN	_	23	_	_	start_char=1748|end_char=1750
+25	this	this	DET	DT	Number=Sing|PronType=Dem	24	_	_	start_char=1751|end_char=1755
+26	moment	moment	NOUN	NN	Number=Sing	25	_	_	start_char=1756|end_char=1762
+27	all	all	DET	DT	_	26	_	_	start_char=1763|end_char=1766
+28	to	to	PART	TO	_	27	_	_	start_char=1767|end_char=1769
+29	score	score	VERB	VB	VerbForm=Inf	28	_	_	start_char=1770|end_char=1775
+30	political	political	ADJ	JJ	Degree=Pos	29	_	_	start_char=1776|end_char=1785
+31	points	point	NOUN	NNS	Number=Plur	30	_	_	start_char=1786|end_char=1792
+32	at	at	ADP	IN	_	31	_	_	start_char=1793|end_char=1795
+33	home	home	NOUN	NN	Number=Sing	32	_	_	start_char=1796|end_char=1800|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=1800|end_char=1801|SpaceAfter=No
+35	”	''	PUNCT	''	_	34	_	_	start_char=1801|end_char=1802|SpacesAfter=\n\n
+
+# text = The White House backed an alternative plan from Senator Bob Menendez, the New Jersey Democrat who heads the Foreign Relations Committee, that would make the sanctions contingent on Russia’s actions in Ukraine.
+# sent_id = 13
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1804|end_char=1807
+2	White	White	ADJ	NNP	Degree=Pos	1	_	_	start_char=1808|end_char=1813
+3	House	House	PROPN	NNP	Number=Sing	2	_	_	start_char=1814|end_char=1819
+4	backed	back	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=1820|end_char=1826
+5	an	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=1827|end_char=1829
+6	alternative	alternative	ADJ	JJ	Degree=Pos	5	_	_	start_char=1830|end_char=1841
+7	plan	plan	NOUN	NN	Number=Sing	6	_	_	start_char=1842|end_char=1846
+8	from	from	ADP	IN	_	7	_	_	start_char=1847|end_char=1851
+9	Senator	Senator	PROPN	NNP	Number=Sing	8	_	_	start_char=1852|end_char=1859
+10	Bob	Bob	PROPN	NNP	Number=Sing	9	_	_	start_char=1860|end_char=1863
+11	Menendez	Menendez	PROPN	NNP	Number=Sing	10	_	_	start_char=1864|end_char=1872|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=1872|end_char=1873
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1874|end_char=1877
+14	New	New	ADJ	NNP	Degree=Pos	13	_	_	start_char=1878|end_char=1881
+15	Jersey	Jersey	PROPN	NNP	Number=Sing	14	_	_	start_char=1882|end_char=1888
+16	Democrat	Democrat	PROPN	NNP	Number=Sing	15	_	_	start_char=1889|end_char=1897
+17	who	who	PRON	WP	PronType=Rel	16	_	_	start_char=1898|end_char=1901
+18	heads	head	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=1902|end_char=1907
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=1908|end_char=1911
+20	Foreign	foreign	ADJ	NNP	Degree=Pos	19	_	_	start_char=1912|end_char=1919
+21	Relations	Relation	PROPN	NNPS	Number=Plur	20	_	_	start_char=1920|end_char=1929
+22	Committee	Committee	PROPN	NNP	Number=Sing	21	_	_	start_char=1930|end_char=1939|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=1939|end_char=1940
+24	that	that	PRON	WDT	PronType=Rel	23	_	_	start_char=1941|end_char=1945
+25	would	would	AUX	MD	VerbForm=Fin	24	_	_	start_char=1946|end_char=1951
+26	make	make	VERB	VB	VerbForm=Inf	25	_	_	start_char=1952|end_char=1956
+27	the	the	DET	DT	Definite=Def|PronType=Art	26	_	_	start_char=1957|end_char=1960
+28	sanctions	sanction	NOUN	NNS	Number=Plur	27	_	_	start_char=1961|end_char=1970
+29	contingent	contingent	ADJ	JJ	Degree=Pos	28	_	_	start_char=1971|end_char=1981
+30	on	on	ADP	IN	_	29	_	_	start_char=1982|end_char=1984
+31-32	Russia’s	_	_	_	_	_	_	_	start_char=1985|end_char=1993
+31	Russia	Russia	PROPN	NNP	Number=Sing	30	_	_	start_char=1985|end_char=1991
+32	’s	's	PART	POS	_	31	_	_	start_char=1991|end_char=1993
+33	actions	action	NOUN	NNS	Number=Plur	32	_	_	start_char=1994|end_char=2001
+34	in	in	ADP	IN	_	33	_	_	start_char=2002|end_char=2004
+35	Ukraine	Ukraine	PROPN	NNP	Number=Sing	34	_	_	start_char=2005|end_char=2012|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=2012|end_char=2013
+
+# text = Nearly 40 senators have signed on to that bill.
+# sent_id = 14
+1	Nearly	nearly	ADV	RB	_	0	_	_	start_char=2014|end_char=2020
+2	40	40	NUM	CD	NumForm=Digit|NumType=Card	1	_	_	start_char=2021|end_char=2023
+3	senators	senator	NOUN	NNS	Number=Plur	2	_	_	start_char=2024|end_char=2032
+4	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=2033|end_char=2037
+5	signed	sign	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=2038|end_char=2044
+6	on	on	ADP	RP	_	5	_	_	start_char=2045|end_char=2047
+7	to	to	ADP	IN	_	6	_	_	start_char=2048|end_char=2050
+8	that	that	DET	DT	Number=Sing|PronType=Dem	7	_	_	start_char=2051|end_char=2055
+9	bill	bill	NOUN	NN	Number=Sing	8	_	_	start_char=2056|end_char=2060|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=2060|end_char=2061|SpacesAfter=\n\n
+
+# text = But Senate Minority Leader Mitch McConnell said that the pipeline is what’s divisive.
+# sent_id = 15
+1	But	but	CCONJ	CC	_	0	_	_	start_char=2063|end_char=2066
+2	Senate	Senate	PROPN	NNP	Number=Sing	1	_	_	start_char=2067|end_char=2073
+3	Minority	minority	ADJ	NNP	Degree=Pos	2	_	_	start_char=2074|end_char=2082
+4	Leader	Leader	PROPN	NNP	Number=Sing	3	_	_	start_char=2083|end_char=2089
+5	Mitch	Mitch	PROPN	NNP	Number=Sing	4	_	_	start_char=2090|end_char=2095
+6	McConnell	McConnell	PROPN	NNP	Number=Sing	5	_	_	start_char=2096|end_char=2105
+7	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=2106|end_char=2110
+8	that	that	SCONJ	IN	_	7	_	_	start_char=2111|end_char=2115
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=2116|end_char=2119
+10	pipeline	pipeline	NOUN	NN	Number=Sing	9	_	_	start_char=2120|end_char=2128
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=2129|end_char=2131
+12-13	what’s	_	_	_	_	_	_	_	start_char=2132|end_char=2138
+12	what	what	PRON	WP	PronType=Rel	11	_	_	start_char=2132|end_char=2136
+13	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=2136|end_char=2138
+14	divisive	divisive	ADJ	JJ	Degree=Pos	13	_	_	start_char=2139|end_char=2147|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=2147|end_char=2148
+
+# text = Unlike an older Nord Stream pipeline, the new one bypasses Ukraine.
+# sent_id = 16
+1	Unlike	unlike	ADP	IN	_	0	_	_	start_char=2149|end_char=2155
+2	an	a	DET	DT	Definite=Ind|PronType=Art	1	_	_	start_char=2156|end_char=2158
+3	older	old	ADJ	JJR	Degree=Cmp	2	_	_	start_char=2159|end_char=2164
+4	Nord	Nord	PROPN	NNP	Number=Sing	3	_	_	start_char=2165|end_char=2169
+5	Stream	Stream	PROPN	NNP	Number=Sing	4	_	_	start_char=2170|end_char=2176
+6	pipeline	pipeline	NOUN	NN	Number=Sing	5	_	_	start_char=2177|end_char=2185|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=2185|end_char=2186
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=2187|end_char=2190
+9	new	new	ADJ	JJ	Degree=Pos	8	_	_	start_char=2191|end_char=2194
+10	one	one	NOUN	NN	Number=Sing	9	_	_	start_char=2195|end_char=2198
+11	bypasses	bypass	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=2199|end_char=2207
+12	Ukraine	Ukraine	PROPN	NNP	Number=Sing	11	_	_	start_char=2208|end_char=2215|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=2215|end_char=2216|SpacesAfter=\n\n
+
+# text = “The government of Germany should have shelved this project itself a long time ago,” McConnell said.
+# sent_id = 17
+1	“	''	PUNCT	``	_	0	_	_	start_char=2218|end_char=2219|SpaceAfter=No
+2	The	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=2219|end_char=2222
+3	government	government	NOUN	NN	Number=Sing	2	_	_	start_char=2223|end_char=2233
+4	of	of	ADP	IN	_	3	_	_	start_char=2234|end_char=2236
+5	Germany	Germany	PROPN	NNP	Number=Sing	4	_	_	start_char=2237|end_char=2244
+6	should	should	AUX	MD	VerbForm=Fin	5	_	_	start_char=2245|end_char=2251
+7	have	have	AUX	VB	VerbForm=Inf	6	_	_	start_char=2252|end_char=2256
+8	shelved	shelve	VERB	VBN	Tense=Past|VerbForm=Part	7	_	_	start_char=2257|end_char=2264
+9	this	this	DET	DT	Number=Sing|PronType=Dem	8	_	_	start_char=2265|end_char=2269
+10	project	project	NOUN	NN	Number=Sing	9	_	_	start_char=2270|end_char=2277
+11	itself	itself	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Emp|Reflex=Yes	10	_	_	start_char=2278|end_char=2284
+12	a	a	DET	DT	Definite=Ind|PronType=Art	11	_	_	start_char=2285|end_char=2286
+13	long	long	ADJ	JJ	Degree=Pos	12	_	_	start_char=2287|end_char=2291
+14	time	time	NOUN	NN	Number=Sing	13	_	_	start_char=2292|end_char=2296
+15	ago	ago	ADV	RB	_	14	_	_	start_char=2297|end_char=2300|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=2300|end_char=2301|SpaceAfter=No
+17	”	''	PUNCT	''	_	16	_	_	start_char=2301|end_char=2302
+18	McConnell	McConnell	PROPN	NNP	Number=Sing	17	_	_	start_char=2303|end_char=2312
+19	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	_	_	start_char=2313|end_char=2317|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=2317|end_char=2318
+
+# text = “These sanctions, like the prior Nord Stream 2 sanctions that had overwhelming bipartisan support here in Congress, are not about driving a wedge in Europe.
+# sent_id = 18
+1	“	''	PUNCT	``	_	0	_	_	start_char=2319|end_char=2320|SpaceAfter=No
+2	These	this	DET	DT	Number=Plur|PronType=Dem	1	_	_	start_char=2320|end_char=2325
+3	sanctions	sanction	NOUN	NNS	Number=Plur	2	_	_	start_char=2326|end_char=2335|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=2335|end_char=2336
+5	like	like	ADP	IN	_	4	_	_	start_char=2337|end_char=2341
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=2342|end_char=2345
+7	prior	prior	ADJ	JJ	Degree=Pos	6	_	_	start_char=2346|end_char=2351
+8	Nord	Nord	PROPN	NNP	Number=Sing	7	_	_	start_char=2352|end_char=2356
+9	Stream	Stream	PROPN	NNP	Number=Sing	8	_	_	start_char=2357|end_char=2363
+10	2	2	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=2364|end_char=2365
+11	sanctions	sanction	NOUN	NNS	Number=Plur	10	_	_	start_char=2366|end_char=2375
+12	that	that	PRON	WDT	PronType=Rel	11	_	_	start_char=2376|end_char=2380
+13	had	have	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=2381|end_char=2384
+14	overwhelming	overwhelming	ADJ	JJ	Degree=Pos	13	_	_	start_char=2385|end_char=2397
+15	bipartisan	bipartisan	ADJ	JJ	Degree=Pos	14	_	_	start_char=2398|end_char=2408
+16	support	support	NOUN	NN	Number=Sing	15	_	_	start_char=2409|end_char=2416
+17	here	here	ADV	RB	PronType=Dem	16	_	_	start_char=2417|end_char=2421
+18	in	in	ADP	IN	_	17	_	_	start_char=2422|end_char=2424
+19	Congress	Congress	PROPN	NNP	Number=Sing	18	_	_	start_char=2425|end_char=2433|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=2433|end_char=2434
+21	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	_	_	start_char=2435|end_char=2438
+22	not	not	PART	RB	_	21	_	_	start_char=2439|end_char=2442
+23	about	about	SCONJ	IN	_	22	_	_	start_char=2443|end_char=2448
+24	driving	drive	VERB	VBG	VerbForm=Ger	23	_	_	start_char=2449|end_char=2456
+25	a	a	DET	DT	Definite=Ind|PronType=Art	24	_	_	start_char=2457|end_char=2458
+26	wedge	wedge	NOUN	NN	Number=Sing	25	_	_	start_char=2459|end_char=2464
+27	in	in	ADP	IN	_	26	_	_	start_char=2465|end_char=2467
+28	Europe	Europe	PROPN	NNP	Number=Sing	27	_	_	start_char=2468|end_char=2474|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=2474|end_char=2475
+
+# text = The pipeline itself is the wedge.”
+# sent_id = 19
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2476|end_char=2479
+2	pipeline	pipeline	NOUN	NN	Number=Sing	1	_	_	start_char=2480|end_char=2488
+3	itself	itself	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Emp|Reflex=Yes	2	_	_	start_char=2489|end_char=2495
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=2496|end_char=2498
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=2499|end_char=2502
+6	wedge	wedge	NOUN	NN	Number=Sing	5	_	_	start_char=2503|end_char=2508|SpaceAfter=No
+7	.	.	PUNCT	.	_	6	_	_	start_char=2508|end_char=2509|SpaceAfter=No
+8	”	''	PUNCT	''	_	7	_	_	start_char=2509|end_char=2510|SpacesAfter=\n\n
+
+# text = McConnell called for a stronger stance against Russia, saying on the Senate floor that the US should extend additional humanitarian and military support to Ukraine.
+# sent_id = 20
+1	McConnell	McConnell	PROPN	NNP	Number=Sing	0	_	_	start_char=2512|end_char=2521
+2	called	call	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=2522|end_char=2528
+3	for	for	ADP	IN	_	2	_	_	start_char=2529|end_char=2532
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=2533|end_char=2534
+5	stronger	strong	ADJ	JJR	Degree=Cmp	4	_	_	start_char=2535|end_char=2543
+6	stance	stance	NOUN	NN	Number=Sing	5	_	_	start_char=2544|end_char=2550
+7	against	against	ADP	IN	_	6	_	_	start_char=2551|end_char=2558
+8	Russia	Russia	PROPN	NNP	Number=Sing	7	_	_	start_char=2559|end_char=2565|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=2565|end_char=2566
+10	saying	say	VERB	VBG	VerbForm=Ger	9	_	_	start_char=2567|end_char=2573
+11	on	on	ADP	IN	_	10	_	_	start_char=2574|end_char=2576
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=2577|end_char=2580
+13	Senate	Senate	PROPN	NNP	Number=Sing	12	_	_	start_char=2581|end_char=2587
+14	floor	floor	NOUN	NN	Number=Sing	13	_	_	start_char=2588|end_char=2593
+15	that	that	SCONJ	IN	_	14	_	_	start_char=2594|end_char=2598
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=2599|end_char=2602
+17	US	US	PROPN	NNP	Number=Sing	16	_	_	start_char=2603|end_char=2605
+18	should	should	AUX	MD	VerbForm=Fin	17	_	_	start_char=2606|end_char=2612
+19	extend	extend	VERB	VB	VerbForm=Inf	18	_	_	start_char=2613|end_char=2619
+20	additional	additional	ADJ	JJ	Degree=Pos	19	_	_	start_char=2620|end_char=2630
+21	humanitarian	humanitarian	ADJ	JJ	Degree=Pos	20	_	_	start_char=2631|end_char=2643
+22	and	and	CCONJ	CC	_	21	_	_	start_char=2644|end_char=2647
+23	military	military	ADJ	JJ	Degree=Pos	22	_	_	start_char=2648|end_char=2656
+24	support	support	NOUN	NN	Number=Sing	23	_	_	start_char=2657|end_char=2664
+25	to	to	ADP	IN	_	24	_	_	start_char=2665|end_char=2667
+26	Ukraine	Ukraine	PROPN	NNP	Number=Sing	25	_	_	start_char=2668|end_char=2675|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=2675|end_char=2676|SpacesAfter=\n\n
+
+# text = “We must not pull our punches out of some fear of provoking Putin,” he said.
+# sent_id = 21
+1	“	''	PUNCT	``	_	0	_	_	start_char=2678|end_char=2679|SpaceAfter=No
+2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	1	_	_	start_char=2679|end_char=2681
+3	must	must	AUX	MD	VerbForm=Fin	2	_	_	start_char=2682|end_char=2686
+4	not	not	PART	RB	_	3	_	_	start_char=2687|end_char=2690
+5	pull	pull	VERB	VB	VerbForm=Inf	4	_	_	start_char=2691|end_char=2695
+6	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	5	_	_	start_char=2696|end_char=2699
+7	punches	punch	NOUN	NNS	Number=Plur	6	_	_	start_char=2700|end_char=2707
+8	out	out	ADP	IN	_	7	_	_	start_char=2708|end_char=2711
+9	of	of	ADP	IN	_	8	_	_	start_char=2712|end_char=2714
+10	some	some	DET	DT	_	9	_	_	start_char=2715|end_char=2719
+11	fear	fear	NOUN	NN	Number=Sing	10	_	_	start_char=2720|end_char=2724
+12	of	of	SCONJ	IN	_	11	_	_	start_char=2725|end_char=2727
+13	provoking	provoke	VERB	VBG	VerbForm=Ger	12	_	_	start_char=2728|end_char=2737
+14	Putin	Putin	PROPN	NNP	Number=Sing	13	_	_	start_char=2738|end_char=2743|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=2743|end_char=2744|SpaceAfter=No
+16	”	''	PUNCT	''	_	15	_	_	start_char=2744|end_char=2745
+17	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	_	_	start_char=2746|end_char=2748
+18	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	_	_	start_char=2749|end_char=2753|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=2753|end_char=2754
+
+# text = “What will encourage Putin is if he senses American weakness.”
+# sent_id = 22
+1	“	''	PUNCT	``	_	0	_	_	start_char=2755|end_char=2756|SpaceAfter=No
+2	What	what	PRON	WP	PronType=Int	1	_	_	start_char=2756|end_char=2760
+3	will	will	AUX	MD	VerbForm=Fin	2	_	_	start_char=2761|end_char=2765
+4	encourage	encourage	VERB	VB	VerbForm=Inf	3	_	_	start_char=2766|end_char=2775
+5	Putin	Putin	PROPN	NNP	Number=Sing	4	_	_	start_char=2776|end_char=2781
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=2782|end_char=2784
+7	if	if	SCONJ	IN	_	6	_	_	start_char=2785|end_char=2787
+8	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	_	_	start_char=2788|end_char=2790
+9	senses	sense	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=2791|end_char=2797
+10	American	American	ADJ	JJ	Degree=Pos	9	_	_	start_char=2798|end_char=2806
+11	weakness	weakness	NOUN	NN	Number=Sing	10	_	_	start_char=2807|end_char=2815|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=2815|end_char=2816|SpaceAfter=No
+13	”	''	PUNCT	''	_	12	_	_	start_char=2816|end_char=2817|SpacesAfter=\n\n
+
+# text = Construction of the new pipeline is essentially complete, but Germany has yet to issue the certification required for it to begin operating.
+# sent_id = 23
+1	Construction	construction	NOUN	NN	Number=Sing	0	_	_	start_char=2819|end_char=2831
+2	of	of	ADP	IN	_	1	_	_	start_char=2832|end_char=2834
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=2835|end_char=2838
+4	new	new	ADJ	JJ	Degree=Pos	3	_	_	start_char=2839|end_char=2842
+5	pipeline	pipeline	NOUN	NN	Number=Sing	4	_	_	start_char=2843|end_char=2851
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=2852|end_char=2854
+7	essentially	essentially	ADV	RB	_	6	_	_	start_char=2855|end_char=2866
+8	complete	complete	ADJ	JJ	Degree=Pos	7	_	_	start_char=2867|end_char=2875|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=2875|end_char=2876
+10	but	but	CCONJ	CC	_	9	_	_	start_char=2877|end_char=2880
+11	Germany	Germany	PROPN	NNP	Number=Sing	10	_	_	start_char=2881|end_char=2888
+12	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=2889|end_char=2892
+13	yet	yet	ADV	RB	_	12	_	_	start_char=2893|end_char=2896
+14	to	to	PART	TO	_	13	_	_	start_char=2897|end_char=2899
+15	issue	issue	VERB	VB	VerbForm=Inf	14	_	_	start_char=2900|end_char=2905
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=2906|end_char=2909
+17	certification	certification	NOUN	NN	Number=Sing	16	_	_	start_char=2910|end_char=2923
+18	required	require	VERB	VBN	Tense=Past|VerbForm=Part	17	_	_	start_char=2924|end_char=2932
+19	for	for	SCONJ	IN	_	18	_	_	start_char=2933|end_char=2936
+20	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	19	_	_	start_char=2937|end_char=2939
+21	to	to	PART	TO	_	20	_	_	start_char=2940|end_char=2942
+22	begin	begin	VERB	VB	VerbForm=Inf	21	_	_	start_char=2943|end_char=2948
+23	operating	operate	VERB	VBG	VerbForm=Ger	22	_	_	start_char=2949|end_char=2958|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=2958|end_char=2959|SpacesAfter=\n\n
+
+# text = ©2022 Bloomberg L.P.
+# sent_id = 24
+1	©2022	©2022	NUM	CD	NumForm=Digit|NumType=Card	0	_	_	start_char=2961|end_char=2966
+2	Bloomberg	Bloomberg	PROPN	NNP	Number=Sing	1	_	_	start_char=2967|end_char=2976
+3	L.P	l.p	PROPN	NNP	Number=Sing	2	_	_	start_char=2977|end_char=2980|SpaceAfter=No
+4	.	.	PUNCT	.	_	3	_	_	start_char=2980|end_char=2981|SpaceAfter=No
+

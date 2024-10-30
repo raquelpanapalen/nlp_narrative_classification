@@ -1,0 +1,734 @@
+# text = Forest management activities in Washington State
+# sent_id = 0
+1	Forest	Forest	NOUN	NN	Number=Sing	0	_	_	start_char=0|end_char=6
+2	management	management	NOUN	NN	Number=Sing	1	_	_	start_char=7|end_char=17
+3	activities	activity	NOUN	NNS	Number=Plur	2	_	_	start_char=18|end_char=28
+4	in	in	ADP	IN	_	3	_	_	start_char=29|end_char=31
+5	Washington	Washington	PROPN	NNP	Number=Sing	4	_	_	start_char=32|end_char=42
+6	State	State	PROPN	NNP	Number=Sing	5	_	_	start_char=43|end_char=48|SpacesAfter=\n\n\s
+
+# text = Business Finland is hosting an unprecedented visit by a large delegation from the North American forest and wood products industry, marking a significant milestone in international collaboration.
+# sent_id = 1
+1	Business	business	NOUN	NN	Number=Sing	0	_	_	start_char=51|end_char=59
+2	Finland	Finland	PROPN	NNP	Number=Sing	1	_	_	start_char=60|end_char=67
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=68|end_char=70
+4	hosting	host	VERB	VBG	Tense=Pres|VerbForm=Part	3	_	_	start_char=71|end_char=78
+5	an	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=79|end_char=81
+6	unprecedented	unprecedented	ADJ	JJ	Degree=Pos	5	_	_	start_char=82|end_char=95
+7	visit	visit	NOUN	NN	Number=Sing	6	_	_	start_char=96|end_char=101
+8	by	by	ADP	IN	_	7	_	_	start_char=102|end_char=104
+9	a	a	DET	DT	Definite=Ind|PronType=Art	8	_	_	start_char=105|end_char=106
+10	large	large	ADJ	JJ	Degree=Pos	9	_	_	start_char=107|end_char=112
+11	delegation	delegation	NOUN	NN	Number=Sing	10	_	_	start_char=113|end_char=123
+12	from	from	ADP	IN	_	11	_	_	start_char=124|end_char=128
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=129|end_char=132
+14	North	North	PROPN	NNP	Number=Sing	13	_	_	start_char=133|end_char=138
+15	American	American	ADJ	JJ	Degree=Pos	14	_	_	start_char=139|end_char=147
+16	forest	forest	NOUN	NN	Number=Sing	15	_	_	start_char=148|end_char=154
+17	and	and	CCONJ	CC	_	16	_	_	start_char=155|end_char=158
+18	wood	wood	NOUN	NN	Number=Sing	17	_	_	start_char=159|end_char=163
+19	products	product	NOUN	NNS	Number=Plur	18	_	_	start_char=164|end_char=172
+20	industry	industry	NOUN	NN	Number=Sing	19	_	_	start_char=173|end_char=181|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=181|end_char=182
+22	marking	mark	VERB	VBG	VerbForm=Ger	21	_	_	start_char=183|end_char=190
+23	a	a	DET	DT	Definite=Ind|PronType=Art	22	_	_	start_char=191|end_char=192
+24	significant	significant	ADJ	JJ	Degree=Pos	23	_	_	start_char=193|end_char=204
+25	milestone	milestone	NOUN	NN	Number=Sing	24	_	_	start_char=205|end_char=214
+26	in	in	ADP	IN	_	25	_	_	start_char=215|end_char=217
+27	international	international	ADJ	JJ	Degree=Pos	26	_	_	start_char=218|end_char=231
+28	collaboration	collaboration	NOUN	NN	Number=Sing	27	_	_	start_char=232|end_char=245|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=245|end_char=246
+
+# text = Over 60 delegates from nine U.S. states and Nova Scotia, Canada, are touring Finland to gain insights into the country's advanced forestry practices and innovative wood-based technologies.
+# sent_id = 2
+1	Over	over	ADV	RB	_	0	_	_	start_char=247|end_char=251
+2	60	60	NUM	CD	NumForm=Digit|NumType=Card	1	_	_	start_char=252|end_char=254
+3	delegates	delegate	NOUN	NNS	Number=Plur	2	_	_	start_char=255|end_char=264
+4	from	from	ADP	IN	_	3	_	_	start_char=265|end_char=269
+5	nine	nine	NUM	CD	NumForm=Word|NumType=Card	4	_	_	start_char=270|end_char=274
+6	U.S.	U.S.	PROPN	NNP	Number=Sing	5	_	_	start_char=275|end_char=279
+7	states	state	NOUN	NNS	Number=Plur	6	_	_	start_char=280|end_char=286
+8	and	and	CCONJ	CC	_	7	_	_	start_char=287|end_char=290
+9	Nova	Novo	PROPN	NNP	Number=Sing	8	_	_	start_char=291|end_char=295
+10	Scotia	Scotia	PROPN	NNP	Number=Sing	9	_	_	start_char=296|end_char=302|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=302|end_char=303
+12	Canada	Canada	PROPN	NNP	Number=Sing	11	_	_	start_char=304|end_char=310|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=310|end_char=311
+14	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=312|end_char=315
+15	touring	tour	VERB	VBG	Tense=Pres|VerbForm=Part	14	_	_	start_char=316|end_char=323
+16	Finland	Finland	PROPN	NNP	Number=Sing	15	_	_	start_char=324|end_char=331
+17	to	to	PART	TO	_	16	_	_	start_char=332|end_char=334
+18	gain	gain	VERB	VB	VerbForm=Inf	17	_	_	start_char=335|end_char=339
+19	insights	insight	NOUN	NNS	Number=Plur	18	_	_	start_char=340|end_char=348
+20	into	into	ADP	IN	_	19	_	_	start_char=349|end_char=353
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=354|end_char=357
+22-23	country's	_	_	_	_	_	_	_	start_char=358|end_char=367
+22	country	country	NOUN	NN	Number=Sing	21	_	_	start_char=358|end_char=365
+23	's	's	PART	POS	_	22	_	_	start_char=365|end_char=367
+24	advanced	advanced	ADJ	JJ	Degree=Pos	23	_	_	start_char=368|end_char=376
+25	forestry	forestry	NOUN	NN	Number=Sing	24	_	_	start_char=377|end_char=385
+26	practices	practice	NOUN	NNS	Number=Plur	25	_	_	start_char=386|end_char=395
+27	and	and	CCONJ	CC	_	26	_	_	start_char=396|end_char=399
+28	innovative	innovative	ADJ	JJ	Degree=Pos	27	_	_	start_char=400|end_char=410
+29	wood	wood	NOUN	NN	Number=Sing	28	_	_	start_char=411|end_char=415|SpaceAfter=No
+30	-	-	PUNCT	HYPH	_	29	_	_	start_char=415|end_char=416|SpaceAfter=No
+31	based	base	VERB	VBN	Tense=Past|VerbForm=Part	30	_	_	start_char=416|end_char=421
+32	technologies	technology	NOUN	NNS	Number=Plur	31	_	_	start_char=422|end_char=434|SpaceAfter=No
+33	.	.	PUNCT	.	_	32	_	_	start_char=434|end_char=435|SpacesAfter=\n\n
+
+# text = For five days, the delegates will visit various Finnish industrial plants, research institutions, and universities.
+# sent_id = 3
+1	For	for	ADP	IN	_	0	_	_	start_char=437|end_char=440
+2	five	five	NUM	CD	NumForm=Word|NumType=Card	1	_	_	start_char=441|end_char=445
+3	days	day	NOUN	NNS	Number=Plur	2	_	_	start_char=446|end_char=450|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=450|end_char=451
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=452|end_char=455
+6	delegates	delegate	NOUN	NNS	Number=Plur	5	_	_	start_char=456|end_char=465
+7	will	will	AUX	MD	VerbForm=Fin	6	_	_	start_char=466|end_char=470
+8	visit	visit	VERB	VB	VerbForm=Inf	7	_	_	start_char=471|end_char=476
+9	various	various	ADJ	JJ	Degree=Pos	8	_	_	start_char=477|end_char=484
+10	Finnish	Finnish	ADJ	JJ	Degree=Pos	9	_	_	start_char=485|end_char=492
+11	industrial	industrial	ADJ	JJ	Degree=Pos	10	_	_	start_char=493|end_char=503
+12	plants	plant	NOUN	NNS	Number=Plur	11	_	_	start_char=504|end_char=510|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=510|end_char=511
+14	research	research	NOUN	NN	Number=Sing	13	_	_	start_char=512|end_char=520
+15	institutions	institution	NOUN	NNS	Number=Plur	14	_	_	start_char=521|end_char=533|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=533|end_char=534
+17	and	and	CCONJ	CC	_	16	_	_	start_char=535|end_char=538
+18	universities	university	NOUN	NNS	Number=Plur	17	_	_	start_char=539|end_char=551|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=551|end_char=552|SpacesAfter=\n\n
+
+# text = They will explore forestry management, wood construction, and logging practices across southern, central, western, and eastern Finland.
+# sent_id = 4
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=554|end_char=558
+2	will	will	AUX	MD	VerbForm=Fin	1	_	_	start_char=559|end_char=563
+3	explore	explore	VERB	VB	VerbForm=Inf	2	_	_	start_char=564|end_char=571
+4	forestry	forestry	NOUN	NN	Number=Sing	3	_	_	start_char=572|end_char=580
+5	management	management	NOUN	NN	Number=Sing	4	_	_	start_char=581|end_char=591|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=591|end_char=592
+7	wood	wood	NOUN	NN	Number=Sing	6	_	_	start_char=593|end_char=597
+8	construction	construction	NOUN	NN	Number=Sing	7	_	_	start_char=598|end_char=610|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=610|end_char=611
+10	and	and	CCONJ	CC	_	9	_	_	start_char=612|end_char=615
+11	logging	logging	NOUN	NN	Number=Sing	10	_	_	start_char=616|end_char=623
+12	practices	practice	NOUN	NNS	Number=Plur	11	_	_	start_char=624|end_char=633
+13	across	across	ADP	IN	_	12	_	_	start_char=634|end_char=640
+14	southern	southern	ADJ	JJ	Degree=Pos	13	_	_	start_char=641|end_char=649|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=649|end_char=650
+16	central	central	ADJ	JJ	Degree=Pos	15	_	_	start_char=651|end_char=658|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=658|end_char=659
+18	western	western	ADJ	JJ	Degree=Pos	17	_	_	start_char=660|end_char=667|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=667|end_char=668
+20	and	and	CCONJ	CC	_	19	_	_	start_char=669|end_char=672
+21	eastern	eastern	ADJ	JJ	Degree=Pos	20	_	_	start_char=673|end_char=680
+22	Finland	Finland	PROPN	NNP	Number=Sing	21	_	_	start_char=681|end_char=688|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=688|end_char=689
+
+# text = The aim is to familiarize the North Americans with Finland's forest expertise, sustainable forest policies, carbon reduction strategies, and the diverse operations of the Finnish forest industry.
+# sent_id = 5
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=690|end_char=693
+2	aim	aim	NOUN	NN	Number=Sing	1	_	_	start_char=694|end_char=697
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=698|end_char=700
+4	to	to	PART	TO	_	3	_	_	start_char=701|end_char=703
+5	familiarize	familiarize	VERB	VB	VerbForm=Inf	4	_	_	start_char=704|end_char=715
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=716|end_char=719
+7	North	North	PROPN	NNP	Number=Sing	6	_	_	start_char=720|end_char=725
+8	Americans	American	PROPN	NNPS	Number=Plur	7	_	_	start_char=726|end_char=735
+9	with	with	ADP	IN	_	8	_	_	start_char=736|end_char=740
+10-11	Finland's	_	_	_	_	_	_	_	start_char=741|end_char=750
+10	Finland	Finland	PROPN	NNP	Number=Sing	9	_	_	start_char=741|end_char=748
+11	's	's	PART	POS	_	10	_	_	start_char=748|end_char=750
+12	forest	forest	NOUN	NN	Number=Sing	11	_	_	start_char=751|end_char=757
+13	expertise	expertise	NOUN	NN	Number=Sing	12	_	_	start_char=758|end_char=767|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=767|end_char=768
+15	sustainable	sustainable	ADJ	JJ	Degree=Pos	14	_	_	start_char=769|end_char=780
+16	forest	forest	NOUN	NN	Number=Sing	15	_	_	start_char=781|end_char=787
+17	policies	policy	NOUN	NNS	Number=Plur	16	_	_	start_char=788|end_char=796|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=796|end_char=797
+19	carbon	carbon	NOUN	NN	Number=Sing	18	_	_	start_char=798|end_char=804
+20	reduction	reduction	NOUN	NN	Number=Sing	19	_	_	start_char=805|end_char=814
+21	strategies	strategy	NOUN	NNS	Number=Plur	20	_	_	start_char=815|end_char=825|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=825|end_char=826
+23	and	and	CCONJ	CC	_	22	_	_	start_char=827|end_char=830
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=831|end_char=834
+25	diverse	diverse	ADJ	JJ	Degree=Pos	24	_	_	start_char=835|end_char=842
+26	operations	operation	NOUN	NNS	Number=Plur	25	_	_	start_char=843|end_char=853
+27	of	of	ADP	IN	_	26	_	_	start_char=854|end_char=856
+28	the	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=857|end_char=860
+29	Finnish	Finnish	ADJ	JJ	Degree=Pos	28	_	_	start_char=861|end_char=868
+30	forest	forest	NOUN	NN	Number=Sing	29	_	_	start_char=869|end_char=875
+31	industry	industry	NOUN	NN	Number=Sing	30	_	_	start_char=876|end_char=884|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=884|end_char=885|SpacesAfter=\n\n
+
+# text = Ulla Lainio, Senior Advisor at Business Finland Washington D.C., stated, "The large group is touring industrial and forest sites to share knowledge about forestry, forest management, wood building, and logging.
+# sent_id = 6
+1	Ulla	Ulla	PROPN	NNP	Number=Sing	0	_	_	start_char=887|end_char=891
+2	Lainio	Lainio	PROPN	NNP	Number=Sing	1	_	_	start_char=892|end_char=898|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=898|end_char=899
+4	Senior	senior	ADJ	NNP	Degree=Pos	3	_	_	start_char=900|end_char=906
+5	Advisor	Advisor	PROPN	NNP	Number=Sing	4	_	_	start_char=907|end_char=914
+6	at	at	ADP	IN	_	5	_	_	start_char=915|end_char=917
+7	Business	Business	PROPN	NNP	Number=Sing	6	_	_	start_char=918|end_char=926
+8	Finland	Finland	PROPN	NNP	Number=Sing	7	_	_	start_char=927|end_char=934
+9	Washington	Washington	PROPN	NNP	Number=Sing	8	_	_	start_char=935|end_char=945
+10	D.C.	D.C.	PROPN	NNP	Number=Sing	9	_	_	start_char=946|end_char=950|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=950|end_char=951
+12	stated	state	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=952|end_char=958|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=958|end_char=959
+14	"	"	PUNCT	``	_	13	_	_	start_char=960|end_char=961|SpaceAfter=No
+15	The	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=961|end_char=964
+16	large	large	ADJ	JJ	Degree=Pos	15	_	_	start_char=965|end_char=970
+17	group	group	NOUN	NN	Number=Sing	16	_	_	start_char=971|end_char=976
+18	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=977|end_char=979
+19	touring	tour	VERB	VBG	Tense=Pres|VerbForm=Part	18	_	_	start_char=980|end_char=987
+20	industrial	industrial	ADJ	JJ	Degree=Pos	19	_	_	start_char=988|end_char=998
+21	and	and	CCONJ	CC	_	20	_	_	start_char=999|end_char=1002
+22	forest	forest	NOUN	NN	Number=Sing	21	_	_	start_char=1003|end_char=1009
+23	sites	site	NOUN	NNS	Number=Plur	22	_	_	start_char=1010|end_char=1015
+24	to	to	PART	TO	_	23	_	_	start_char=1016|end_char=1018
+25	share	share	VERB	VB	VerbForm=Inf	24	_	_	start_char=1019|end_char=1024
+26	knowledge	knowledge	NOUN	NN	Number=Sing	25	_	_	start_char=1025|end_char=1034
+27	about	about	ADP	IN	_	26	_	_	start_char=1035|end_char=1040
+28	forestry	forestry	NOUN	NN	Number=Sing	27	_	_	start_char=1041|end_char=1049|SpaceAfter=No
+29	,	,	PUNCT	,	_	28	_	_	start_char=1049|end_char=1050
+30	forest	forest	NOUN	NN	Number=Sing	29	_	_	start_char=1051|end_char=1057
+31	management	management	NOUN	NN	Number=Sing	30	_	_	start_char=1058|end_char=1068|SpaceAfter=No
+32	,	,	PUNCT	,	_	31	_	_	start_char=1068|end_char=1069
+33	wood	wood	NOUN	NN	Number=Sing	32	_	_	start_char=1070|end_char=1074
+34	building	building	NOUN	NN	Number=Sing	33	_	_	start_char=1075|end_char=1083|SpaceAfter=No
+35	,	,	PUNCT	,	_	34	_	_	start_char=1083|end_char=1084
+36	and	and	CCONJ	CC	_	35	_	_	start_char=1085|end_char=1088
+37	logging	logging	NOUN	NN	Number=Sing	36	_	_	start_char=1089|end_char=1096|SpaceAfter=No
+38	.	.	PUNCT	.	_	37	_	_	start_char=1096|end_char=1097
+
+# text = This visit reflects the significant interest in Finland's forest innovations."
+# sent_id = 7
+1	This	this	DET	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1098|end_char=1102
+2	visit	visit	NOUN	NN	Number=Sing	1	_	_	start_char=1103|end_char=1108
+3	reflects	reflect	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1109|end_char=1117
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1118|end_char=1121
+5	significant	significant	ADJ	JJ	Degree=Pos	4	_	_	start_char=1122|end_char=1133
+6	interest	interest	NOUN	NN	Number=Sing	5	_	_	start_char=1134|end_char=1142
+7	in	in	ADP	IN	_	6	_	_	start_char=1143|end_char=1145
+8-9	Finland's	_	_	_	_	_	_	_	start_char=1146|end_char=1155
+8	Finland	Finland	PROPN	NNP	Number=Sing	7	_	_	start_char=1146|end_char=1153
+9	's	's	PART	POS	_	8	_	_	start_char=1153|end_char=1155
+10	forest	forest	NOUN	NN	Number=Sing	9	_	_	start_char=1156|end_char=1162
+11	innovations	innovation	NOUN	NNS	Number=Plur	10	_	_	start_char=1163|end_char=1174|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=1174|end_char=1175|SpaceAfter=No
+13	"	"	PUNCT	''	_	12	_	_	start_char=1175|end_char=1176|SpacesAfter=\n\n
+
+# text = The delegates are particularly interested in Finland's manufacturers of forest machines and wood construction equipment, as well as new bio-products such as wood-textile fibers, wood-based building materials, and biofuels.
+# sent_id = 8
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1178|end_char=1181
+2	delegates	delegate	NOUN	NNS	Number=Plur	1	_	_	start_char=1182|end_char=1191
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1192|end_char=1195
+4	particularly	particularly	ADV	RB	_	3	_	_	start_char=1196|end_char=1208
+5	interested	interested	ADJ	JJ	Degree=Pos	4	_	_	start_char=1209|end_char=1219
+6	in	in	ADP	IN	_	5	_	_	start_char=1220|end_char=1222
+7-8	Finland's	_	_	_	_	_	_	_	start_char=1223|end_char=1232
+7	Finland	Finland	PROPN	NNP	Number=Sing	6	_	_	start_char=1223|end_char=1230
+8	's	's	PART	POS	_	7	_	_	start_char=1230|end_char=1232
+9	manufacturers	manufacturer	NOUN	NNS	Number=Plur	8	_	_	start_char=1233|end_char=1246
+10	of	of	ADP	IN	_	9	_	_	start_char=1247|end_char=1249
+11	forest	forest	NOUN	NN	Number=Sing	10	_	_	start_char=1250|end_char=1256
+12	machines	machine	NOUN	NNS	Number=Plur	11	_	_	start_char=1257|end_char=1265
+13	and	and	CCONJ	CC	_	12	_	_	start_char=1266|end_char=1269
+14	wood	wood	NOUN	NN	Number=Sing	13	_	_	start_char=1270|end_char=1274
+15	construction	construction	NOUN	NN	Number=Sing	14	_	_	start_char=1275|end_char=1287
+16	equipment	equipment	NOUN	NN	Number=Sing	15	_	_	start_char=1288|end_char=1297|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=1297|end_char=1298
+18	as	as	ADV	RB	_	17	_	_	start_char=1299|end_char=1301
+19	well	well	ADV	RB	Degree=Pos	18	_	_	start_char=1302|end_char=1306
+20	as	as	ADP	IN	_	19	_	_	start_char=1307|end_char=1309
+21	new	new	ADJ	JJ	Degree=Pos	20	_	_	start_char=1310|end_char=1313
+22	bio-products	bio-product	NOUN	NNS	Number=Plur	21	_	_	start_char=1314|end_char=1326
+23	such	such	ADJ	JJ	Degree=Pos|ExtPos=ADP	22	_	_	start_char=1327|end_char=1331
+24	as	as	ADP	IN	_	23	_	_	start_char=1332|end_char=1334
+25	wood	wood	NOUN	NN	Number=Sing	24	_	_	start_char=1335|end_char=1339|SpaceAfter=No
+26	-	-	PUNCT	HYPH	_	25	_	_	start_char=1339|end_char=1340|SpaceAfter=No
+27	textile	textile	NOUN	NN	Number=Sing	26	_	_	start_char=1340|end_char=1347
+28	fibers	fiber	NOUN	NNS	Number=Plur	27	_	_	start_char=1348|end_char=1354|SpaceAfter=No
+29	,	,	PUNCT	,	_	28	_	_	start_char=1354|end_char=1355
+30	wood	wood	NOUN	NN	Number=Sing	29	_	_	start_char=1356|end_char=1360|SpaceAfter=No
+31	-	-	PUNCT	HYPH	_	30	_	_	start_char=1360|end_char=1361|SpaceAfter=No
+32	based	base	VERB	VBN	Tense=Past|VerbForm=Part	31	_	_	start_char=1361|end_char=1366
+33	building	building	NOUN	NN	Number=Sing	32	_	_	start_char=1367|end_char=1375
+34	materials	material	NOUN	NNS	Number=Plur	33	_	_	start_char=1376|end_char=1385|SpaceAfter=No
+35	,	,	PUNCT	,	_	34	_	_	start_char=1385|end_char=1386
+36	and	and	CCONJ	CC	_	35	_	_	start_char=1387|end_char=1390
+37	biofuels	biofuel	NOUN	NNS	Number=Plur	36	_	_	start_char=1391|end_char=1399|SpaceAfter=No
+38	.	.	PUNCT	.	_	37	_	_	start_char=1399|end_char=1400
+
+# text = The goal is to foster collaboration in smart forestry, forest health, wood construction, and biomass sectors.
+# sent_id = 9
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1401|end_char=1404
+2	goal	goal	NOUN	NN	Number=Sing	1	_	_	start_char=1405|end_char=1409
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1410|end_char=1412
+4	to	to	PART	TO	_	3	_	_	start_char=1413|end_char=1415
+5	foster	foster	VERB	VB	VerbForm=Inf	4	_	_	start_char=1416|end_char=1422
+6	collaboration	collaboration	NOUN	NN	Number=Sing	5	_	_	start_char=1423|end_char=1436
+7	in	in	ADP	IN	_	6	_	_	start_char=1437|end_char=1439
+8	smart	smart	ADJ	JJ	Degree=Pos	7	_	_	start_char=1440|end_char=1445
+9	forestry	forestry	NOUN	NN	Number=Sing	8	_	_	start_char=1446|end_char=1454|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=1454|end_char=1455
+11	forest	forest	NOUN	NN	Number=Sing	10	_	_	start_char=1456|end_char=1462
+12	health	health	NOUN	NN	Number=Sing	11	_	_	start_char=1463|end_char=1469|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=1469|end_char=1470
+14	wood	wood	NOUN	NN	Number=Sing	13	_	_	start_char=1471|end_char=1475
+15	construction	construction	NOUN	NN	Number=Sing	14	_	_	start_char=1476|end_char=1488|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=1488|end_char=1489
+17	and	and	CCONJ	CC	_	16	_	_	start_char=1490|end_char=1493
+18	biomass	biomass	NOUN	NN	Number=Sing	17	_	_	start_char=1494|end_char=1501
+19	sectors	sector	NOUN	NNS	Number=Plur	18	_	_	start_char=1502|end_char=1509|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=1509|end_char=1510|SpacesAfter=\n\n
+
+# text = The U.S. forest industry has traditionally been underutilized due to cheap fossil energy and abundant hydropower.
+# sent_id = 10
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1512|end_char=1515
+2	U.S.	U.S.	PROPN	NNP	Number=Sing	1	_	_	start_char=1516|end_char=1520
+3	forest	forest	NOUN	NN	Number=Sing	2	_	_	start_char=1521|end_char=1527
+4	industry	industry	NOUN	NN	Number=Sing	3	_	_	start_char=1528|end_char=1536
+5	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1537|end_char=1540
+6	traditionally	traditionally	ADV	RB	_	5	_	_	start_char=1541|end_char=1554
+7	been	be	AUX	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=1555|end_char=1559
+8	underutilized	underutilize	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	_	_	start_char=1560|end_char=1573
+9	due	due	ADP	IN	_	8	_	_	start_char=1574|end_char=1577
+10	to	to	ADP	IN	_	9	_	_	start_char=1578|end_char=1580
+11	cheap	cheap	ADJ	JJ	Degree=Pos	10	_	_	start_char=1581|end_char=1586
+12	fossil	fossil	NOUN	NN	Number=Sing	11	_	_	start_char=1587|end_char=1593
+13	energy	energy	NOUN	NN	Number=Sing	12	_	_	start_char=1594|end_char=1600
+14	and	and	CCONJ	CC	_	13	_	_	start_char=1601|end_char=1604
+15	abundant	abundant	ADJ	JJ	Degree=Pos	14	_	_	start_char=1605|end_char=1613
+16	hydropower	hydropower	NOUN	NN	Number=Sing	15	_	_	start_char=1614|end_char=1624|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=1624|end_char=1625
+
+# text = However, with the Biden administration's renewed focus on combating climate change, there is a growing interest in biofuels, biomass utilization, forest fire prevention, and advanced forest management technologies.
+# sent_id = 11
+1	However	however	ADV	RB	_	0	_	_	start_char=1626|end_char=1633|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=1633|end_char=1634
+3	with	with	ADP	IN	_	2	_	_	start_char=1635|end_char=1639
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1640|end_char=1643
+5	Biden	Biden	PROPN	NNP	Number=Sing	4	_	_	start_char=1644|end_char=1649
+6-7	administration's	_	_	_	_	_	_	_	start_char=1650|end_char=1666
+6	administration	administration	NOUN	NN	Number=Sing	5	_	_	start_char=1650|end_char=1664
+7	's	's	PART	POS	_	6	_	_	start_char=1664|end_char=1666
+8	renewed	renew	VERB	VBN	Tense=Past|VerbForm=Part	7	_	_	start_char=1667|end_char=1674
+9	focus	focus	NOUN	NN	Number=Sing	8	_	_	start_char=1675|end_char=1680
+10	on	on	SCONJ	IN	_	9	_	_	start_char=1681|end_char=1683
+11	combating	combate	VERB	VBG	VerbForm=Ger	10	_	_	start_char=1684|end_char=1693
+12	climate	climate	NOUN	NN	Number=Sing	11	_	_	start_char=1694|end_char=1701
+13	change	change	NOUN	NN	Number=Sing	12	_	_	start_char=1702|end_char=1708|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=1708|end_char=1709
+15	there	there	PRON	EX	_	14	_	_	start_char=1710|end_char=1715
+16	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=1716|end_char=1718
+17	a	a	DET	DT	Definite=Ind|PronType=Art	16	_	_	start_char=1719|end_char=1720
+18	growing	grow	VERB	VBG	VerbForm=Ger	17	_	_	start_char=1721|end_char=1728
+19	interest	interest	NOUN	NN	Number=Sing	18	_	_	start_char=1729|end_char=1737
+20	in	in	ADP	IN	_	19	_	_	start_char=1738|end_char=1740
+21	biofuels	biofuel	NOUN	NN	Number=Sing	20	_	_	start_char=1741|end_char=1749|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=1749|end_char=1750
+23	biomass	biomass	NOUN	NN	Number=Sing	22	_	_	start_char=1751|end_char=1758
+24	utilization	utilization	NOUN	NN	Number=Sing	23	_	_	start_char=1759|end_char=1770|SpaceAfter=No
+25	,	,	PUNCT	,	_	24	_	_	start_char=1770|end_char=1771
+26	forest	forest	NOUN	NN	Number=Sing	25	_	_	start_char=1772|end_char=1778
+27	fire	fire	NOUN	NN	Number=Sing	26	_	_	start_char=1779|end_char=1783
+28	prevention	prevention	NOUN	NN	Number=Sing	27	_	_	start_char=1784|end_char=1794|SpaceAfter=No
+29	,	,	PUNCT	,	_	28	_	_	start_char=1794|end_char=1795
+30	and	and	CCONJ	CC	_	29	_	_	start_char=1796|end_char=1799
+31	advanced	advanced	ADJ	JJ	Degree=Pos	30	_	_	start_char=1800|end_char=1808
+32	forest	forest	NOUN	NN	Number=Sing	31	_	_	start_char=1809|end_char=1815
+33	management	management	NOUN	NN	Number=Sing	32	_	_	start_char=1816|end_char=1826
+34	technologies	technology	NOUN	NNS	Number=Plur	33	_	_	start_char=1827|end_char=1839|SpaceAfter=No
+35	.	.	PUNCT	.	_	34	_	_	start_char=1839|end_char=1840
+
+# text = The Inflation Reduction Act provides grants and tax incentives for the forestry sector, making this an opportune time for international collaboration.
+# sent_id = 12
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1841|end_char=1844
+2	Inflation	Inflation	PROPN	NNP	Number=Sing	1	_	_	start_char=1845|end_char=1854
+3	Reduction	Reduction	PROPN	NNP	Number=Sing	2	_	_	start_char=1855|end_char=1864
+4	Act	Act	PROPN	NNP	Number=Sing	3	_	_	start_char=1865|end_char=1868
+5	provides	provide	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1869|end_char=1877
+6	grants	grant	NOUN	NNS	Number=Plur	5	_	_	start_char=1878|end_char=1884
+7	and	and	CCONJ	CC	_	6	_	_	start_char=1885|end_char=1888
+8	tax	tax	NOUN	NN	Number=Sing	7	_	_	start_char=1889|end_char=1892
+9	incentives	incentive	NOUN	NNS	Number=Plur	8	_	_	start_char=1893|end_char=1903
+10	for	for	ADP	IN	_	9	_	_	start_char=1904|end_char=1907
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=1908|end_char=1911
+12	forestry	forestry	NOUN	NN	Number=Sing	11	_	_	start_char=1912|end_char=1920
+13	sector	sector	NOUN	NN	Number=Sing	12	_	_	start_char=1921|end_char=1927|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=1927|end_char=1928
+15	making	make	VERB	VBG	VerbForm=Ger	14	_	_	start_char=1929|end_char=1935
+16	this	this	PRON	DT	Number=Sing|PronType=Dem	15	_	_	start_char=1936|end_char=1940
+17	an	a	DET	DT	Definite=Ind|PronType=Art	16	_	_	start_char=1941|end_char=1943
+18	opportune	opportune	ADJ	JJ	Degree=Pos	17	_	_	start_char=1944|end_char=1953
+19	time	time	NOUN	NN	Number=Sing	18	_	_	start_char=1954|end_char=1958
+20	for	for	ADP	IN	_	19	_	_	start_char=1959|end_char=1962
+21	international	international	ADJ	JJ	Degree=Pos	20	_	_	start_char=1963|end_char=1976
+22	collaboration	collaboration	NOUN	NN	Number=Sing	21	_	_	start_char=1977|end_char=1990|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=1990|end_char=1991|SpacesAfter=\n\n
+
+# text = Wooden house building is common in North America, with a high demand for suppliers of wood construction equipment, prefabricated house solutions, and CLT (Cross-Laminated Timber) and LVL (Laminated Veneer Lumber) production lines.
+# sent_id = 13
+1	Wooden	Wooden	ADJ	JJ	Degree=Pos	0	_	_	start_char=1993|end_char=1999
+2	house	house	NOUN	NN	Number=Sing	1	_	_	start_char=2000|end_char=2005
+3	building	building	NOUN	NN	Number=Sing	2	_	_	start_char=2006|end_char=2014
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=2015|end_char=2017
+5	common	common	ADJ	JJ	Degree=Pos	4	_	_	start_char=2018|end_char=2024
+6	in	in	ADP	IN	_	5	_	_	start_char=2025|end_char=2027
+7	North	North	PROPN	NNP	Number=Sing	6	_	_	start_char=2028|end_char=2033
+8	America	America	PROPN	NNP	Number=Sing	7	_	_	start_char=2034|end_char=2041|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=2041|end_char=2042
+10	with	with	ADP	IN	_	9	_	_	start_char=2043|end_char=2047
+11	a	a	DET	DT	Definite=Ind|PronType=Art	10	_	_	start_char=2048|end_char=2049
+12	high	high	ADJ	JJ	Degree=Pos	11	_	_	start_char=2050|end_char=2054
+13	demand	demand	NOUN	NN	Number=Sing	12	_	_	start_char=2055|end_char=2061
+14	for	for	ADP	IN	_	13	_	_	start_char=2062|end_char=2065
+15	suppliers	supplier	NOUN	NNS	Number=Plur	14	_	_	start_char=2066|end_char=2075
+16	of	of	ADP	IN	_	15	_	_	start_char=2076|end_char=2078
+17	wood	wood	NOUN	NN	Number=Sing	16	_	_	start_char=2079|end_char=2083
+18	construction	construction	NOUN	NN	Number=Sing	17	_	_	start_char=2084|end_char=2096
+19	equipment	equipment	NOUN	NN	Number=Sing	18	_	_	start_char=2097|end_char=2106|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=2106|end_char=2107
+21	prefabricated	prefabricate	VERB	VBN	Tense=Past|VerbForm=Part	20	_	_	start_char=2108|end_char=2121
+22	house	house	NOUN	NN	Number=Sing	21	_	_	start_char=2122|end_char=2127
+23	solutions	solution	NOUN	NNS	Number=Plur	22	_	_	start_char=2128|end_char=2137|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=2137|end_char=2138
+25	and	and	CCONJ	CC	_	24	_	_	start_char=2139|end_char=2142
+26	CLT	CLT	PROPN	NNP	Number=Sing	25	_	_	start_char=2143|end_char=2146
+27	(	(	PUNCT	-LRB-	_	26	_	_	start_char=2147|end_char=2148|SpaceAfter=No
+28	Cross	Cross	PROPN	NNP	Number=Sing	27	_	_	start_char=2148|end_char=2153|SpaceAfter=No
+29	-	-	PUNCT	HYPH	_	28	_	_	start_char=2153|end_char=2154|SpaceAfter=No
+30	Laminated	laminated	ADJ	JJ	Degree=Pos	29	_	_	start_char=2154|end_char=2163
+31	Timber	timber	NOUN	NN	Number=Sing	30	_	_	start_char=2164|end_char=2170|SpaceAfter=No
+32	)	)	PUNCT	-RRB-	_	31	_	_	start_char=2170|end_char=2171
+33	and	and	CCONJ	CC	_	32	_	_	start_char=2172|end_char=2175
+34	LVL	lvl	NOUN	NN	Number=Sing	33	_	_	start_char=2176|end_char=2179
+35	(	(	PUNCT	-LRB-	_	34	_	_	start_char=2180|end_char=2181|SpaceAfter=No
+36	Laminated	laminated	ADJ	JJ	Degree=Pos	35	_	_	start_char=2181|end_char=2190
+37	Veneer	veneer	NOUN	NN	Number=Sing	36	_	_	start_char=2191|end_char=2197
+38	Lumber	lumber	NOUN	NN	Number=Sing	37	_	_	start_char=2198|end_char=2204|SpaceAfter=No
+39	)	)	PUNCT	-RRB-	_	38	_	_	start_char=2204|end_char=2205
+40	production	production	NOUN	NN	Number=Sing	39	_	_	start_char=2206|end_char=2216
+41	lines	line	NOUN	NNS	Number=Plur	40	_	_	start_char=2217|end_char=2222|SpaceAfter=No
+42	.	.	PUNCT	.	_	41	_	_	start_char=2222|end_char=2223
+
+# text = The delegation aims to find efficient construction solutions to address housing shortages and achieve carbon neutrality.
+# sent_id = 14
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2224|end_char=2227
+2	delegation	delegation	NOUN	NN	Number=Sing	1	_	_	start_char=2228|end_char=2238
+3	aims	aim	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2239|end_char=2243
+4	to	to	PART	TO	_	3	_	_	start_char=2244|end_char=2246
+5	find	find	VERB	VB	VerbForm=Inf	4	_	_	start_char=2247|end_char=2251
+6	efficient	efficient	ADJ	JJ	Degree=Pos	5	_	_	start_char=2252|end_char=2261
+7	construction	construction	NOUN	NN	Number=Sing	6	_	_	start_char=2262|end_char=2274
+8	solutions	solution	NOUN	NNS	Number=Plur	7	_	_	start_char=2275|end_char=2284
+9	to	to	PART	TO	_	8	_	_	start_char=2285|end_char=2287
+10	address	address	VERB	VB	VerbForm=Inf	9	_	_	start_char=2288|end_char=2295
+11	housing	housing	NOUN	NN	Number=Sing	10	_	_	start_char=2296|end_char=2303
+12	shortages	shortage	NOUN	NNS	Number=Plur	11	_	_	start_char=2304|end_char=2313
+13	and	and	CCONJ	CC	_	12	_	_	start_char=2314|end_char=2317
+14	achieve	achieve	VERB	VB	VerbForm=Inf	13	_	_	start_char=2318|end_char=2325
+15	carbon	carbon	NOUN	NN	Number=Sing	14	_	_	start_char=2326|end_char=2332
+16	neutrality	neutrality	NOUN	NN	Number=Sing	15	_	_	start_char=2333|end_char=2343|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=2343|end_char=2344|SpacesAfter=\n\n
+
+# text = Finland, along with Sweden, is a global leader in the forest bioeconomy.
+# sent_id = 15
+1	Finland	Finland	PROPN	NNP	Number=Sing	0	_	_	start_char=2346|end_char=2353|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=2353|end_char=2354
+3	along	along	ADP	IN	_	2	_	_	start_char=2355|end_char=2360
+4	with	with	ADP	IN	_	3	_	_	start_char=2361|end_char=2365
+5	Sweden	Sweden	PROPN	NNP	Number=Sing	4	_	_	start_char=2366|end_char=2372|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=2372|end_char=2373
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=2374|end_char=2376
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=2377|end_char=2378
+9	global	global	ADJ	JJ	Degree=Pos	8	_	_	start_char=2379|end_char=2385
+10	leader	leader	NOUN	NN	Number=Sing	9	_	_	start_char=2386|end_char=2392
+11	in	in	ADP	IN	_	10	_	_	start_char=2393|end_char=2395
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=2396|end_char=2399
+13	forest	forest	NOUN	NN	Number=Sing	12	_	_	start_char=2400|end_char=2406
+14	bioeconomy	bioeconomy	NOUN	NN	Number=Sing	13	_	_	start_char=2407|end_char=2417|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=2417|end_char=2418
+
+# text = The North American delegation seeks partners in both industry and research to support the renewal and diversification of the forestry sector.
+# sent_id = 16
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2419|end_char=2422
+2	North	North	PROPN	NNP	Number=Sing	1	_	_	start_char=2423|end_char=2428
+3	American	American	ADJ	JJ	Degree=Pos	2	_	_	start_char=2429|end_char=2437
+4	delegation	delegation	NOUN	NN	Number=Sing	3	_	_	start_char=2438|end_char=2448
+5	seeks	seek	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=2449|end_char=2454
+6	partners	partner	NOUN	NNS	Number=Plur	5	_	_	start_char=2455|end_char=2463
+7	in	in	ADP	IN	_	6	_	_	start_char=2464|end_char=2466
+8	both	both	CCONJ	CC	_	7	_	_	start_char=2467|end_char=2471
+9	industry	industry	NOUN	NN	Number=Sing	8	_	_	start_char=2472|end_char=2480
+10	and	and	CCONJ	CC	_	9	_	_	start_char=2481|end_char=2484
+11	research	research	NOUN	NN	Number=Sing	10	_	_	start_char=2485|end_char=2493
+12	to	to	PART	TO	_	11	_	_	start_char=2494|end_char=2496
+13	support	support	VERB	VB	VerbForm=Inf	12	_	_	start_char=2497|end_char=2504
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=2505|end_char=2508
+15	renewal	renewal	NOUN	NN	Number=Sing	14	_	_	start_char=2509|end_char=2516
+16	and	and	CCONJ	CC	_	15	_	_	start_char=2517|end_char=2520
+17	diversification	diversification	NOUN	NN	Number=Sing	16	_	_	start_char=2521|end_char=2536
+18	of	of	ADP	IN	_	17	_	_	start_char=2537|end_char=2539
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=2540|end_char=2543
+20	forestry	forestry	NOUN	NN	Number=Sing	19	_	_	start_char=2544|end_char=2552
+21	sector	sector	NOUN	NN	Number=Sing	20	_	_	start_char=2553|end_char=2559|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=2559|end_char=2560|SpacesAfter=\n\n
+
+# text = Outi Suomi, Circular Transition for Zero Waste Mission Lead at Business Finland, emphasized, "The forest policy is now favorable for reforms, and there is unprecedented interest towards Finland.
+# sent_id = 17
+1	Outi	Outi	PROPN	NNP	Number=Sing	0	_	_	start_char=2562|end_char=2566
+2	Suomi	Suomi	PROPN	NNP	Number=Sing	1	_	_	start_char=2567|end_char=2572|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=2572|end_char=2573
+4	Circular	circular	ADJ	NNP	Degree=Pos	3	_	_	start_char=2574|end_char=2582
+5	Transition	Transition	PROPN	NNP	Number=Sing	4	_	_	start_char=2583|end_char=2593
+6	for	for	ADP	IN	_	5	_	_	start_char=2594|end_char=2597
+7	Zero	Zero	PROPN	NNP	Number=Sing	6	_	_	start_char=2598|end_char=2602
+8	Waste	Waste	PROPN	NNP	Number=Sing	7	_	_	start_char=2603|end_char=2608
+9	Mission	Mission	PROPN	NNP	Number=Sing	8	_	_	start_char=2609|end_char=2616
+10	Lead	Lead	PROPN	NNP	Number=Sing	9	_	_	start_char=2617|end_char=2621
+11	at	at	ADP	IN	_	10	_	_	start_char=2622|end_char=2624
+12	Business	Business	PROPN	NNP	Number=Sing	11	_	_	start_char=2625|end_char=2633
+13	Finland	Finland	PROPN	NNP	Number=Sing	12	_	_	start_char=2634|end_char=2641|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=2641|end_char=2642
+15	emphasized	emphasize	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=2643|end_char=2653|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=2653|end_char=2654
+17	"	"	PUNCT	``	_	16	_	_	start_char=2655|end_char=2656|SpaceAfter=No
+18	The	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=2656|end_char=2659
+19	forest	forest	NOUN	NN	Number=Sing	18	_	_	start_char=2660|end_char=2666
+20	policy	policy	NOUN	NN	Number=Sing	19	_	_	start_char=2667|end_char=2673
+21	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	_	_	start_char=2674|end_char=2676
+22	now	now	ADV	RB	_	21	_	_	start_char=2677|end_char=2680
+23	favorable	favorable	ADJ	JJ	Degree=Pos	22	_	_	start_char=2681|end_char=2690
+24	for	for	ADP	IN	_	23	_	_	start_char=2691|end_char=2694
+25	reforms	reform	NOUN	NNS	Number=Plur	24	_	_	start_char=2695|end_char=2702|SpaceAfter=No
+26	,	,	PUNCT	,	_	25	_	_	start_char=2702|end_char=2703
+27	and	and	CCONJ	CC	_	26	_	_	start_char=2704|end_char=2707
+28	there	there	PRON	EX	_	27	_	_	start_char=2708|end_char=2713
+29	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	_	_	start_char=2714|end_char=2716
+30	unprecedented	unprecedented	ADJ	JJ	Degree=Pos	29	_	_	start_char=2717|end_char=2730
+31	interest	interest	NOUN	NN	Number=Sing	30	_	_	start_char=2731|end_char=2739
+32	towards	towards	ADP	IN	_	31	_	_	start_char=2740|end_char=2747
+33	Finland	Finland	PROPN	NNP	Number=Sing	32	_	_	start_char=2748|end_char=2755|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=2755|end_char=2756
+
+# text = The collaboration and mutual business opportunities for Finland's and North America's forest industries are significant."
+# sent_id = 18
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2757|end_char=2760
+2	collaboration	collaboration	NOUN	NN	Number=Sing	1	_	_	start_char=2761|end_char=2774
+3	and	and	CCONJ	CC	_	2	_	_	start_char=2775|end_char=2778
+4	mutual	mutual	ADJ	JJ	Degree=Pos	3	_	_	start_char=2779|end_char=2785
+5	business	business	NOUN	NN	Number=Sing	4	_	_	start_char=2786|end_char=2794
+6	opportunities	opportunity	NOUN	NNS	Number=Plur	5	_	_	start_char=2795|end_char=2808
+7	for	for	ADP	IN	_	6	_	_	start_char=2809|end_char=2812
+8-9	Finland's	_	_	_	_	_	_	_	start_char=2813|end_char=2822
+8	Finland	Finland	PROPN	NNP	Number=Sing	7	_	_	start_char=2813|end_char=2820
+9	's	's	PART	POS	_	8	_	_	start_char=2820|end_char=2822
+10	and	and	CCONJ	CC	_	9	_	_	start_char=2823|end_char=2826
+11	North	North	PROPN	NNP	Number=Sing	10	_	_	start_char=2827|end_char=2832
+12-13	America's	_	_	_	_	_	_	_	start_char=2833|end_char=2842
+12	America	America	PROPN	NNP	Number=Sing	11	_	_	start_char=2833|end_char=2840
+13	's	's	PART	POS	_	12	_	_	start_char=2840|end_char=2842
+14	forest	forest	NOUN	NN	Number=Sing	13	_	_	start_char=2843|end_char=2849
+15	industries	industry	NOUN	NNS	Number=Plur	14	_	_	start_char=2850|end_char=2860
+16	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=2861|end_char=2864
+17	significant	significant	ADJ	JJ	Degree=Pos	16	_	_	start_char=2865|end_char=2876|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=2876|end_char=2877|SpaceAfter=No
+19	"	"	PUNCT	''	_	18	_	_	start_char=2877|end_char=2878|SpacesAfter=\n\n
+
+# text = During their stay, the delegation will visit notable companies and research institutions, including Koskisen, Veisto, VTT, Pinomatic, UPM, Stora Enso, Metsä Group, Ponsse, University of Eastern Finland, John Deere, Business Joensuu, Natural Resources Institute Finland, Kira Hub, and Aalto University.
+# sent_id = 19
+1	During	during	ADP	IN	_	0	_	_	start_char=2880|end_char=2886
+2	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	1	_	_	start_char=2887|end_char=2892
+3	stay	stay	NOUN	NN	Number=Sing	2	_	_	start_char=2893|end_char=2897|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=2897|end_char=2898
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=2899|end_char=2902
+6	delegation	delegation	NOUN	NN	Number=Sing	5	_	_	start_char=2903|end_char=2913
+7	will	will	AUX	MD	VerbForm=Fin	6	_	_	start_char=2914|end_char=2918
+8	visit	visit	VERB	VB	VerbForm=Inf	7	_	_	start_char=2919|end_char=2924
+9	notable	notable	ADJ	JJ	Degree=Pos	8	_	_	start_char=2925|end_char=2932
+10	companies	company	NOUN	NNS	Number=Plur	9	_	_	start_char=2933|end_char=2942
+11	and	and	CCONJ	CC	_	10	_	_	start_char=2943|end_char=2946
+12	research	research	NOUN	NN	Number=Sing	11	_	_	start_char=2947|end_char=2955
+13	institutions	institution	NOUN	NNS	Number=Plur	12	_	_	start_char=2956|end_char=2968|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=2968|end_char=2969
+15	including	include	VERB	VBG	VerbForm=Ger	14	_	_	start_char=2970|end_char=2979
+16	Koskisen	Koskisen	PROPN	NNP	Number=Sing	15	_	_	start_char=2980|end_char=2988|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=2988|end_char=2989
+18	Veisto	Veisto	PROPN	NNP	Number=Sing	17	_	_	start_char=2990|end_char=2996|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=2996|end_char=2997
+20	VTT	VTT	PROPN	NNP	Number=Sing	19	_	_	start_char=2998|end_char=3001|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=3001|end_char=3002
+22	Pinomatic	Pinomatic	PROPN	NNP	Number=Sing	21	_	_	start_char=3003|end_char=3012|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=3012|end_char=3013
+24	UPM	UPM	PROPN	NNP	Number=Sing	23	_	_	start_char=3014|end_char=3017|SpaceAfter=No
+25	,	,	PUNCT	,	_	24	_	_	start_char=3017|end_char=3018
+26	Stora	Stora	PROPN	NNP	Number=Sing	25	_	_	start_char=3019|end_char=3024
+27	Enso	Enso	PROPN	NNP	Number=Sing	26	_	_	start_char=3025|end_char=3029|SpaceAfter=No
+28	,	,	PUNCT	,	_	27	_	_	start_char=3029|end_char=3030
+29	Metsä	Metsä	PROPN	NNP	Number=Sing	28	_	_	start_char=3031|end_char=3036
+30	Group	Group	PROPN	NNP	Number=Sing	29	_	_	start_char=3037|end_char=3042|SpaceAfter=No
+31	,	,	PUNCT	,	_	30	_	_	start_char=3042|end_char=3043
+32	Ponsse	Ponsse	PROPN	NNP	Number=Sing	31	_	_	start_char=3044|end_char=3050|SpaceAfter=No
+33	,	,	PUNCT	,	_	32	_	_	start_char=3050|end_char=3051
+34	University	University	PROPN	NNP	Number=Sing	33	_	_	start_char=3052|end_char=3062
+35	of	of	ADP	IN	_	34	_	_	start_char=3063|end_char=3065
+36	Eastern	Eastern	ADJ	NNP	Degree=Pos	35	_	_	start_char=3066|end_char=3073
+37	Finland	Finland	PROPN	NNP	Number=Sing	36	_	_	start_char=3074|end_char=3081|SpaceAfter=No
+38	,	,	PUNCT	,	_	37	_	_	start_char=3081|end_char=3082
+39	John	John	PROPN	NNP	Number=Sing	38	_	_	start_char=3083|end_char=3087
+40	Deere	Deere	PROPN	NNP	Number=Sing	39	_	_	start_char=3088|end_char=3093|SpaceAfter=No
+41	,	,	PUNCT	,	_	40	_	_	start_char=3093|end_char=3094
+42	Business	Business	PROPN	NNP	Number=Sing	41	_	_	start_char=3095|end_char=3103
+43	Joensuu	Joensuu	PROPN	NNP	Number=Sing	42	_	_	start_char=3104|end_char=3111|SpaceAfter=No
+44	,	,	PUNCT	,	_	43	_	_	start_char=3111|end_char=3112
+45	Natural	Natural	ADJ	NNP	Degree=Pos|Number=Sing	44	_	_	start_char=3113|end_char=3120
+46	Resources	Resource	PROPN	NNPS	Number=Plur	45	_	_	start_char=3121|end_char=3130
+47	Institute	Institute	PROPN	NNP	Number=Sing	46	_	_	start_char=3131|end_char=3140
+48	Finland	Finland	PROPN	NNP	Number=Sing	47	_	_	start_char=3141|end_char=3148|SpaceAfter=No
+49	,	,	PUNCT	,	_	48	_	_	start_char=3148|end_char=3149
+50	Kira	Kira	PROPN	NNP	Number=Sing	49	_	_	start_char=3150|end_char=3154
+51	Hub	Hub	PROPN	NNP	Number=Sing	50	_	_	start_char=3155|end_char=3158|SpaceAfter=No
+52	,	,	PUNCT	,	_	51	_	_	start_char=3158|end_char=3159
+53	and	and	CCONJ	CC	_	52	_	_	start_char=3160|end_char=3163
+54	Aalto	Aalto	PROPN	NNP	Number=Sing	53	_	_	start_char=3164|end_char=3169
+55	University	University	PROPN	NNP	Number=Sing	54	_	_	start_char=3170|end_char=3180|SpaceAfter=No
+56	.	.	PUNCT	.	_	55	_	_	start_char=3180|end_char=3181
+
+# text = They will also meet with over 25 forest sector companies showcasing innovative wood-based products, advanced wood construction techniques, and forest fire prevention solutions.
+# sent_id = 20
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=3182|end_char=3186
+2	will	will	AUX	MD	VerbForm=Fin	1	_	_	start_char=3187|end_char=3191
+3	also	also	ADV	RB	_	2	_	_	start_char=3192|end_char=3196
+4	meet	meet	VERB	VB	VerbForm=Inf	3	_	_	start_char=3197|end_char=3201
+5	with	with	ADP	IN	_	4	_	_	start_char=3202|end_char=3206
+6	over	over	ADV	RB	_	5	_	_	start_char=3207|end_char=3211
+7	25	25	NUM	CD	NumForm=Digit|NumType=Card	6	_	_	start_char=3212|end_char=3214
+8	forest	forest	NOUN	NN	Number=Sing	7	_	_	start_char=3215|end_char=3221
+9	sector	sector	NOUN	NN	Number=Sing	8	_	_	start_char=3222|end_char=3228
+10	companies	company	NOUN	NNS	Number=Plur	9	_	_	start_char=3229|end_char=3238
+11	showcasing	showcase	VERB	VBG	VerbForm=Ger	10	_	_	start_char=3239|end_char=3249
+12	innovative	innovative	ADJ	JJ	Degree=Pos	11	_	_	start_char=3250|end_char=3260
+13	wood	wood	NOUN	NN	Number=Sing	12	_	_	start_char=3261|end_char=3265|SpaceAfter=No
+14	-	-	PUNCT	HYPH	_	13	_	_	start_char=3265|end_char=3266|SpaceAfter=No
+15	based	base	VERB	VBN	Tense=Past|VerbForm=Part	14	_	_	start_char=3266|end_char=3271
+16	products	product	NOUN	NNS	Number=Plur	15	_	_	start_char=3272|end_char=3280|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=3280|end_char=3281
+18	advanced	advanced	ADJ	JJ	Degree=Pos	17	_	_	start_char=3282|end_char=3290
+19	wood	wood	NOUN	NN	Number=Sing	18	_	_	start_char=3291|end_char=3295
+20	construction	construction	NOUN	NN	Number=Sing	19	_	_	start_char=3296|end_char=3308
+21	techniques	technique	NOUN	NNS	Number=Plur	20	_	_	start_char=3309|end_char=3319|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=3319|end_char=3320
+23	and	and	CCONJ	CC	_	22	_	_	start_char=3321|end_char=3324
+24	forest	forest	NOUN	NN	Number=Sing	23	_	_	start_char=3325|end_char=3331
+25	fire	fire	NOUN	NN	Number=Sing	24	_	_	start_char=3332|end_char=3336
+26	prevention	prevention	NOUN	NN	Number=Sing	25	_	_	start_char=3337|end_char=3347
+27	solutions	solution	NOUN	NNS	Number=Plur	26	_	_	start_char=3348|end_char=3357|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=3357|end_char=3358|SpacesAfter=\n\n
+
+# text = The delegation includes top officials responsible for forest use from Michigan, Minnesota, Washington, Colorado, Arkansas, California, South Carolina, North Carolina, Alabama, and Nova Scotia, as well as representatives from leading research universities, sawmills, major forestry companies, forest owners, logging companies, wood architecture firms, and investors.
+# sent_id = 21
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=3360|end_char=3363
+2	delegation	delegation	NOUN	NN	Number=Sing	1	_	_	start_char=3364|end_char=3374
+3	includes	include	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=3375|end_char=3383
+4	top	top	ADJ	JJ	Degree=Pos	3	_	_	start_char=3384|end_char=3387
+5	officials	official	NOUN	NNS	Number=Plur	4	_	_	start_char=3388|end_char=3397
+6	responsible	responsible	ADJ	JJ	Degree=Pos	5	_	_	start_char=3398|end_char=3409
+7	for	for	ADP	IN	_	6	_	_	start_char=3410|end_char=3413
+8	forest	forest	NOUN	NN	Number=Sing	7	_	_	start_char=3414|end_char=3420
+9	use	use	NOUN	NN	Number=Sing	8	_	_	start_char=3421|end_char=3424
+10	from	from	ADP	IN	_	9	_	_	start_char=3425|end_char=3429
+11	Michigan	Michigan	PROPN	NNP	Number=Sing	10	_	_	start_char=3430|end_char=3438|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=3438|end_char=3439
+13	Minnesota	Minnesota	PROPN	NNP	Number=Sing	12	_	_	start_char=3440|end_char=3449|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=3449|end_char=3450
+15	Washington	Washington	PROPN	NNP	Number=Sing	14	_	_	start_char=3451|end_char=3461|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=3461|end_char=3462
+17	Colorado	Colorado	PROPN	NNP	Number=Sing	16	_	_	start_char=3463|end_char=3471|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=3471|end_char=3472
+19	Arkansas	Arkansas	PROPN	NNP	Number=Sing	18	_	_	start_char=3473|end_char=3481|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=3481|end_char=3482
+21	California	California	PROPN	NNP	Number=Sing	20	_	_	start_char=3483|end_char=3493|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=3493|end_char=3494
+23	South	South	PROPN	NNP	Number=Sing	22	_	_	start_char=3495|end_char=3500
+24	Carolina	Carolina	PROPN	NNP	Number=Sing	23	_	_	start_char=3501|end_char=3509|SpaceAfter=No
+25	,	,	PUNCT	,	_	24	_	_	start_char=3509|end_char=3510
+26	North	North	PROPN	NNP	Number=Sing	25	_	_	start_char=3511|end_char=3516
+27	Carolina	Carolina	PROPN	NNP	Number=Sing	26	_	_	start_char=3517|end_char=3525|SpaceAfter=No
+28	,	,	PUNCT	,	_	27	_	_	start_char=3525|end_char=3526
+29	Alabama	Alabama	PROPN	NNP	Number=Sing	28	_	_	start_char=3527|end_char=3534|SpaceAfter=No
+30	,	,	PUNCT	,	_	29	_	_	start_char=3534|end_char=3535
+31	and	and	CCONJ	CC	_	30	_	_	start_char=3536|end_char=3539
+32	Nova	Novo	PROPN	NNP	Number=Sing	31	_	_	start_char=3540|end_char=3544
+33	Scotia	Scotia	PROPN	NNP	Number=Sing	32	_	_	start_char=3545|end_char=3551|SpaceAfter=No
+34	,	,	PUNCT	,	_	33	_	_	start_char=3551|end_char=3552
+35	as	as	ADV	RB	_	34	_	_	start_char=3553|end_char=3555
+36	well	well	ADV	RB	Degree=Pos	35	_	_	start_char=3556|end_char=3560
+37	as	as	ADP	IN	_	36	_	_	start_char=3561|end_char=3563
+38	representatives	representative	NOUN	NNS	Number=Plur	37	_	_	start_char=3564|end_char=3579
+39	from	from	ADP	IN	_	38	_	_	start_char=3580|end_char=3584
+40	leading	lead	VERB	VBG	VerbForm=Ger	39	_	_	start_char=3585|end_char=3592
+41	research	research	NOUN	NN	Number=Sing	40	_	_	start_char=3593|end_char=3601
+42	universities	university	NOUN	NNS	Number=Plur	41	_	_	start_char=3602|end_char=3614|SpaceAfter=No
+43	,	,	PUNCT	,	_	42	_	_	start_char=3614|end_char=3615
+44	sawmills	sawmill	NOUN	NNS	Number=Plur	43	_	_	start_char=3616|end_char=3624|SpaceAfter=No
+45	,	,	PUNCT	,	_	44	_	_	start_char=3624|end_char=3625
+46	major	major	ADJ	JJ	Degree=Pos	45	_	_	start_char=3626|end_char=3631
+47	forestry	forestry	NOUN	NN	Number=Sing	46	_	_	start_char=3632|end_char=3640
+48	companies	company	NOUN	NNS	Number=Plur	47	_	_	start_char=3641|end_char=3650|SpaceAfter=No
+49	,	,	PUNCT	,	_	48	_	_	start_char=3650|end_char=3651
+50	forest	forest	NOUN	NN	Number=Sing	49	_	_	start_char=3652|end_char=3658
+51	owners	owner	NOUN	NNS	Number=Plur	50	_	_	start_char=3659|end_char=3665|SpaceAfter=No
+52	,	,	PUNCT	,	_	51	_	_	start_char=3665|end_char=3666
+53	logging	logging	NOUN	NN	Number=Sing	52	_	_	start_char=3667|end_char=3674
+54	companies	company	NOUN	NNS	Number=Plur	53	_	_	start_char=3675|end_char=3684|SpaceAfter=No
+55	,	,	PUNCT	,	_	54	_	_	start_char=3684|end_char=3685
+56	wood	wood	NOUN	NN	Number=Sing	55	_	_	start_char=3686|end_char=3690
+57	architecture	architecture	NOUN	NN	Number=Sing	56	_	_	start_char=3691|end_char=3703
+58	firms	firm	NOUN	NNS	Number=Plur	57	_	_	start_char=3704|end_char=3709|SpaceAfter=No
+59	,	,	PUNCT	,	_	58	_	_	start_char=3709|end_char=3710
+60	and	and	CCONJ	CC	_	59	_	_	start_char=3711|end_char=3714
+61	investors	investor	NOUN	NNS	Number=Plur	60	_	_	start_char=3715|end_char=3724|SpaceAfter=No
+62	.	.	PUNCT	.	_	61	_	_	start_char=3724|end_char=3725|SpacesAfter=\n\n
+
+# text = This historic visit is expected to pave the way for significant collaborations and advancements in the global forest industry, highlighting Finland's pivotal role in sustainable forestry and wood innovation.
+# sent_id = 22
+1	This	this	DET	DT	Number=Sing|PronType=Dem	0	_	_	start_char=3727|end_char=3731
+2	historic	historic	ADJ	JJ	Degree=Pos	1	_	_	start_char=3732|end_char=3740
+3	visit	visit	NOUN	NN	Number=Sing	2	_	_	start_char=3741|end_char=3746
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=3747|end_char=3749
+5	expected	expect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	_	_	start_char=3750|end_char=3758
+6	to	to	PART	TO	_	5	_	_	start_char=3759|end_char=3761
+7	pave	pave	VERB	VB	VerbForm=Inf	6	_	_	start_char=3762|end_char=3766
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=3767|end_char=3770
+9	way	way	NOUN	NN	Number=Sing	8	_	_	start_char=3771|end_char=3774
+10	for	for	ADP	IN	_	9	_	_	start_char=3775|end_char=3778
+11	significant	significant	ADJ	JJ	Degree=Pos	10	_	_	start_char=3779|end_char=3790
+12	collaborations	collaboration	NOUN	NNS	Number=Plur	11	_	_	start_char=3791|end_char=3805
+13	and	and	CCONJ	CC	_	12	_	_	start_char=3806|end_char=3809
+14	advancements	advancement	NOUN	NNS	Number=Plur	13	_	_	start_char=3810|end_char=3822
+15	in	in	ADP	IN	_	14	_	_	start_char=3823|end_char=3825
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=3826|end_char=3829
+17	global	global	ADJ	JJ	Degree=Pos	16	_	_	start_char=3830|end_char=3836
+18	forest	forest	NOUN	NN	Number=Sing	17	_	_	start_char=3837|end_char=3843
+19	industry	industry	NOUN	NN	Number=Sing	18	_	_	start_char=3844|end_char=3852|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=3852|end_char=3853
+21	highlighting	highlight	VERB	VBG	VerbForm=Ger	20	_	_	start_char=3854|end_char=3866
+22-23	Finland's	_	_	_	_	_	_	_	start_char=3867|end_char=3876
+22	Finland	Finland	PROPN	NNP	Number=Sing	21	_	_	start_char=3867|end_char=3874
+23	's	's	PART	POS	_	22	_	_	start_char=3874|end_char=3876
+24	pivotal	pivotal	ADJ	JJ	Degree=Pos	23	_	_	start_char=3877|end_char=3884
+25	role	role	NOUN	NN	Number=Sing	24	_	_	start_char=3885|end_char=3889
+26	in	in	ADP	IN	_	25	_	_	start_char=3890|end_char=3892
+27	sustainable	sustainable	ADJ	JJ	Degree=Pos	26	_	_	start_char=3893|end_char=3904
+28	forestry	forestry	NOUN	NN	Number=Sing	27	_	_	start_char=3905|end_char=3913
+29	and	and	CCONJ	CC	_	28	_	_	start_char=3914|end_char=3917
+30	wood	wood	NOUN	NN	Number=Sing	29	_	_	start_char=3918|end_char=3922
+31	innovation	innovation	NOUN	NN	Number=Sing	30	_	_	start_char=3923|end_char=3933|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=3933|end_char=3934|SpacesAfter=\n\n
+
+# text = HT
+# sent_id = 23
+1	HT	HT	PROPN	NNP	Number=Sing	0	_	_	start_char=3936|end_char=3938|SpaceAfter=No
+

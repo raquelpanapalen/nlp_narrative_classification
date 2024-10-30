@@ -1,0 +1,739 @@
+# text = Oppose imperialist War!
+# sent_id = 0
+1	Oppose	oppose	VERB	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=0|end_char=6
+2	imperialist	imperialist	ADJ	JJ	Degree=Pos	1	_	_	start_char=7|end_char=18
+3	War	war	NOUN	NN	Number=Sing	2	_	_	start_char=19|end_char=22|SpaceAfter=No
+4	!	!	PUNCT	.	_	3	_	_	start_char=22|end_char=23
+
+# text = SEP/IYSSE public meeting in Sri Lanka
+# sent_id = 1
+1	SEP	SEP	PROPN	NNP	Abbr=Yes|Number=Sing	0	_	_	start_char=24|end_char=27|SpaceAfter=No
+2	/	/	SYM	,	_	1	_	_	start_char=27|end_char=28|SpaceAfter=No
+3	IYSSE	IYSSE	PROPN	NNP	Number=Sing	2	_	_	start_char=28|end_char=33
+4	public	public	ADJ	JJ	Degree=Pos	3	_	_	start_char=34|end_char=40
+5	meeting	meeting	NOUN	NN	Number=Sing	4	_	_	start_char=41|end_char=48
+6	in	in	ADP	IN	_	5	_	_	start_char=49|end_char=51
+7	Sri	Sri	PROPN	NNP	Number=Sing	6	_	_	start_char=52|end_char=55
+8	Lanka	Lanka	PROPN	NNP	Number=Sing	7	_	_	start_char=56|end_char=61|SpacesAfter=\s\n\n\s
+
+# text = The Socialist Equality Party (SEP) and the International Youth and Students for Social Equality (IYSSE) in Sri Lanka are holding an online meeting entitled “Oppose imperialist war!” on Thursday, May 23, at 7pm.
+# sent_id = 2
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=65|end_char=68
+2	Socialist	socialist	ADJ	NNP	Degree=Pos	1	_	_	start_char=69|end_char=78
+3	Equality	Equality	PROPN	NNP	Number=Sing	2	_	_	start_char=79|end_char=87
+4	Party	Party	PROPN	NNP	Number=Sing	3	_	_	start_char=88|end_char=93
+5	(	(	PUNCT	-LRB-	_	4	_	_	start_char=94|end_char=95|SpaceAfter=No
+6	SEP	SEP	PROPN	NNP	Number=Sing	5	_	_	start_char=95|end_char=98|SpaceAfter=No
+7	)	)	PUNCT	-RRB-	_	6	_	_	start_char=98|end_char=99
+8	and	and	CCONJ	CC	_	7	_	_	start_char=100|end_char=103
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=104|end_char=107
+10	International	International	ADJ	NNP	Degree=Pos	9	_	_	start_char=108|end_char=121
+11	Youth	Youth	PROPN	NNP	Number=Sing	10	_	_	start_char=122|end_char=127
+12	and	and	CCONJ	CC	_	11	_	_	start_char=128|end_char=131
+13	Students	student	PROPN	NNPS	Number=Plur	12	_	_	start_char=132|end_char=140
+14	for	for	ADP	IN	_	13	_	_	start_char=141|end_char=144
+15	Social	Social	ADJ	NNP	Degree=Pos	14	_	_	start_char=145|end_char=151
+16	Equality	Equality	PROPN	NNP	Number=Sing	15	_	_	start_char=152|end_char=160
+17	(	(	PUNCT	-LRB-	_	16	_	_	start_char=161|end_char=162|SpaceAfter=No
+18	IYSSE	IYSSE	PROPN	NNP	Number=Sing	17	_	_	start_char=162|end_char=167|SpaceAfter=No
+19	)	)	PUNCT	-RRB-	_	18	_	_	start_char=167|end_char=168
+20	in	in	ADP	IN	_	19	_	_	start_char=169|end_char=171
+21	Sri	Sri	PROPN	NNP	Number=Sing	20	_	_	start_char=172|end_char=175
+22	Lanka	Lanka	PROPN	NNP	Number=Sing	21	_	_	start_char=176|end_char=181
+23	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	_	_	start_char=182|end_char=185
+24	holding	hold	VERB	VBG	Tense=Pres|VerbForm=Part	23	_	_	start_char=186|end_char=193
+25	an	a	DET	DT	Definite=Ind|PronType=Art	24	_	_	start_char=194|end_char=196
+26	online	online	ADJ	JJ	Degree=Pos	25	_	_	start_char=197|end_char=203
+27	meeting	meeting	NOUN	NN	Number=Sing	26	_	_	start_char=204|end_char=211
+28	entitled	entitle	VERB	VBN	Tense=Past|VerbForm=Part	27	_	_	start_char=212|end_char=220
+29	“	''	PUNCT	``	_	28	_	_	start_char=221|end_char=222|SpaceAfter=No
+30	Oppose	oppose	VERB	VB	VerbForm=Inf	29	_	_	start_char=222|end_char=228
+31	imperialist	imperialist	ADJ	JJ	Degree=Pos	30	_	_	start_char=229|end_char=240
+32	war	war	NOUN	NN	Number=Sing	31	_	_	start_char=241|end_char=244|SpaceAfter=No
+33	!	!	PUNCT	.	_	32	_	_	start_char=244|end_char=245|SpaceAfter=No
+34	”	''	PUNCT	''	_	33	_	_	start_char=245|end_char=246
+35	on	on	ADP	IN	_	34	_	_	start_char=247|end_char=249
+36	Thursday	Thursday	PROPN	NNP	Number=Sing	35	_	_	start_char=250|end_char=258|SpaceAfter=No
+37	,	,	PUNCT	,	_	36	_	_	start_char=258|end_char=259
+38	May	May	PROPN	NNP	Number=Sing	37	_	_	start_char=260|end_char=263
+39	23	23	NUM	CD	NumForm=Digit|NumType=Card	38	_	_	start_char=264|end_char=266|SpaceAfter=No
+40	,	,	PUNCT	,	_	39	_	_	start_char=266|end_char=267
+41	at	at	ADP	IN	_	40	_	_	start_char=268|end_char=270
+42	7	7	NUM	CD	NumForm=Digit|NumType=Card	41	_	_	start_char=271|end_char=272|SpaceAfter=No
+43	pm	p.m.	NOUN	NN	Number=Sing	42	_	_	start_char=272|end_char=274|SpaceAfter=No
+44	.	.	PUNCT	.	_	43	_	_	start_char=274|end_char=275|SpacesAfter=\n\n
+
+# text = In announcing the recent International May Day Rally, David North, chairman of the International Editorial Board of the World Socialist Web Site, warned, “A third world war is not a distant possibility.
+# sent_id = 3
+1	In	in	SCONJ	IN	_	0	_	_	start_char=277|end_char=279
+2	announcing	announce	VERB	VBG	VerbForm=Ger	1	_	_	start_char=280|end_char=290
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=291|end_char=294
+4	recent	recent	ADJ	JJ	Degree=Pos	3	_	_	start_char=295|end_char=301
+5	International	International	ADJ	NNP	Degree=Pos	4	_	_	start_char=302|end_char=315
+6	May	May	PROPN	NNP	Number=Sing	5	_	_	start_char=316|end_char=319
+7	Day	Day	PROPN	NNP	Number=Sing	6	_	_	start_char=320|end_char=323
+8	Rally	Rally	PROPN	NNP	Number=Sing	7	_	_	start_char=324|end_char=329|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=329|end_char=330
+10	David	David	PROPN	NNP	Number=Sing	9	_	_	start_char=331|end_char=336
+11	North	North	PROPN	NNP	Number=Sing	10	_	_	start_char=337|end_char=342|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=342|end_char=343
+13	chairman	chairman	NOUN	NN	Number=Sing	12	_	_	start_char=344|end_char=352
+14	of	of	ADP	IN	_	13	_	_	start_char=353|end_char=355
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=356|end_char=359
+16	International	International	ADJ	NNP	Degree=Pos	15	_	_	start_char=360|end_char=373
+17	Editorial	editorial	ADJ	NNP	Degree=Pos	16	_	_	start_char=374|end_char=383
+18	Board	Board	PROPN	NNP	Number=Sing	17	_	_	start_char=384|end_char=389
+19	of	of	ADP	IN	_	18	_	_	start_char=390|end_char=392
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=393|end_char=396
+21	World	World	PROPN	NNP	Number=Sing	20	_	_	start_char=397|end_char=402
+22	Socialist	socialist	ADJ	NNP	Degree=Pos	21	_	_	start_char=403|end_char=412
+23	Web	Web	PROPN	NNP	Number=Sing	22	_	_	start_char=413|end_char=416
+24	Site	Site	PROPN	NNP	Number=Sing	23	_	_	start_char=417|end_char=421|SpaceAfter=No
+25	,	,	PUNCT	,	_	24	_	_	start_char=421|end_char=422
+26	warned	warn	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	_	_	start_char=423|end_char=429|SpaceAfter=No
+27	,	,	PUNCT	,	_	26	_	_	start_char=429|end_char=430
+28	“	''	PUNCT	``	_	27	_	_	start_char=431|end_char=432|SpaceAfter=No
+29	A	a	DET	DT	Definite=Ind|PronType=Art	28	_	_	start_char=432|end_char=433
+30	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	29	_	_	start_char=434|end_char=439
+31	world	world	NOUN	NN	Number=Sing	30	_	_	start_char=440|end_char=445
+32	war	war	NOUN	NN	Number=Sing	31	_	_	start_char=446|end_char=449
+33	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	_	_	start_char=450|end_char=452
+34	not	not	PART	RB	_	33	_	_	start_char=453|end_char=456
+35	a	a	DET	DT	Definite=Ind|PronType=Art	34	_	_	start_char=457|end_char=458
+36	distant	distant	ADJ	JJ	Degree=Pos	35	_	_	start_char=459|end_char=466
+37	possibility	possibility	NOUN	NN	Number=Sing	36	_	_	start_char=467|end_char=478|SpaceAfter=No
+38	.	.	PUNCT	.	_	37	_	_	start_char=478|end_char=479
+
+# text = The opening stages of this war are already underway.”
+# sent_id = 4
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=480|end_char=483
+2	opening	opening	NOUN	NN	Number=Sing	1	_	_	start_char=484|end_char=491
+3	stages	stage	NOUN	NNS	Number=Plur	2	_	_	start_char=492|end_char=498
+4	of	of	ADP	IN	_	3	_	_	start_char=499|end_char=501
+5	this	this	DET	DT	Number=Sing|PronType=Dem	4	_	_	start_char=502|end_char=506
+6	war	war	NOUN	NN	Number=Sing	5	_	_	start_char=507|end_char=510
+7	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=511|end_char=514
+8	already	already	ADV	RB	_	7	_	_	start_char=515|end_char=522
+9	underway	underway	ADJ	JJ	Degree=Pos	8	_	_	start_char=523|end_char=531|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=531|end_char=532|SpaceAfter=No
+11	”	''	PUNCT	''	_	10	_	_	start_char=532|end_char=533|SpacesAfter=\n\n
+
+# text = Israel’s genocide in Gaza against Palestinians and its US-backed attacks against Iran are just one front in a rapidly emerging world war involving nuclear armed powers.
+# sent_id = 5
+1-2	Israel’s	_	_	_	_	_	_	_	start_char=535|end_char=543
+1	Israel	Israel	PROPN	NNP	Number=Sing	0	_	_	start_char=535|end_char=541
+2	’s	's	PART	POS	_	1	_	_	start_char=541|end_char=543
+3	genocide	genocide	NOUN	NN	Number=Sing	2	_	_	start_char=544|end_char=552
+4	in	in	ADP	IN	_	3	_	_	start_char=553|end_char=555
+5	Gaza	Gaza	PROPN	NNP	Number=Sing	4	_	_	start_char=556|end_char=560
+6	against	against	ADP	IN	_	5	_	_	start_char=561|end_char=568
+7	Palestinians	Palestinian	PROPN	NNPS	Number=Plur	6	_	_	start_char=569|end_char=581
+8	and	and	CCONJ	CC	_	7	_	_	start_char=582|end_char=585
+9	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	_	_	start_char=586|end_char=589
+10	US	US	PROPN	NNP	Number=Sing	9	_	_	start_char=590|end_char=592|SpaceAfter=No
+11	-	-	PUNCT	HYPH	_	10	_	_	start_char=592|end_char=593|SpaceAfter=No
+12	backed	back	VERB	VBN	Tense=Past|VerbForm=Part	11	_	_	start_char=593|end_char=599
+13	attacks	attack	NOUN	NNS	Number=Plur	12	_	_	start_char=600|end_char=607
+14	against	against	ADP	IN	_	13	_	_	start_char=608|end_char=615
+15	Iran	Iran	PROPN	NNP	Number=Sing	14	_	_	start_char=616|end_char=620
+16	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=621|end_char=624
+17	just	just	ADV	RB	_	16	_	_	start_char=625|end_char=629
+18	one	one	NUM	CD	NumForm=Word|NumType=Card	17	_	_	start_char=630|end_char=633
+19	front	front	NOUN	NN	Number=Sing	18	_	_	start_char=634|end_char=639
+20	in	in	ADP	IN	_	19	_	_	start_char=640|end_char=642
+21	a	a	DET	DT	Definite=Ind|PronType=Art	20	_	_	start_char=643|end_char=644
+22	rapidly	rapidly	ADV	RB	_	21	_	_	start_char=645|end_char=652
+23	emerging	emerge	VERB	VBG	VerbForm=Ger	22	_	_	start_char=653|end_char=661
+24	world	world	NOUN	NN	Number=Sing	23	_	_	start_char=662|end_char=667
+25	war	war	NOUN	NN	Number=Sing	24	_	_	start_char=668|end_char=671
+26	involving	involve	VERB	VBG	VerbForm=Ger	25	_	_	start_char=672|end_char=681
+27	nuclear	nuclear	ADJ	JJ	Degree=Pos	26	_	_	start_char=682|end_char=689
+28	armed	armed	ADJ	JJ	Degree=Pos	27	_	_	start_char=690|end_char=695
+29	powers	power	NOUN	NNS	Number=Plur	28	_	_	start_char=696|end_char=702|SpaceAfter=No
+30	.	.	PUNCT	.	_	29	_	_	start_char=702|end_char=703
+
+# text = US imperialism and its allies are already engaged in a war against Russia in Ukraine and are making advanced preparations for a catastrophic conflict with China.
+# sent_id = 6
+1	US	US	PROPN	NNP	Number=Sing	0	_	_	start_char=704|end_char=706
+2	imperialism	imperialism	NOUN	NN	Number=Sing	1	_	_	start_char=707|end_char=718
+3	and	and	CCONJ	CC	_	2	_	_	start_char=719|end_char=722
+4	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	_	_	start_char=723|end_char=726
+5	allies	ally	NOUN	NNS	Number=Plur	4	_	_	start_char=727|end_char=733
+6	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=734|end_char=737
+7	already	already	ADV	RB	_	6	_	_	start_char=738|end_char=745
+8	engaged	engage	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	_	_	start_char=746|end_char=753
+9	in	in	ADP	IN	_	8	_	_	start_char=754|end_char=756
+10	a	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=757|end_char=758
+11	war	war	NOUN	NN	Number=Sing	10	_	_	start_char=759|end_char=762
+12	against	against	ADP	IN	_	11	_	_	start_char=763|end_char=770
+13	Russia	Russia	PROPN	NNP	Number=Sing	12	_	_	start_char=771|end_char=777
+14	in	in	ADP	IN	_	13	_	_	start_char=778|end_char=780
+15	Ukraine	Ukraine	PROPN	NNP	Number=Sing	14	_	_	start_char=781|end_char=788
+16	and	and	CCONJ	CC	_	15	_	_	start_char=789|end_char=792
+17	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=793|end_char=796
+18	making	make	VERB	VBG	Tense=Pres|VerbForm=Part	17	_	_	start_char=797|end_char=803
+19	advanced	advanced	ADJ	JJ	Degree=Pos	18	_	_	start_char=804|end_char=812
+20	preparations	preparation	NOUN	NNS	Number=Plur	19	_	_	start_char=813|end_char=825
+21	for	for	ADP	IN	_	20	_	_	start_char=826|end_char=829
+22	a	a	DET	DT	Definite=Ind|PronType=Art	21	_	_	start_char=830|end_char=831
+23	catastrophic	catastrophic	ADJ	JJ	Degree=Pos	22	_	_	start_char=832|end_char=844
+24	conflict	conflict	NOUN	NN	Number=Sing	23	_	_	start_char=845|end_char=853
+25	with	with	ADP	IN	_	24	_	_	start_char=854|end_char=858
+26	China	China	PROPN	NNP	Number=Sing	25	_	_	start_char=859|end_char=864|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=864|end_char=865|SpacesAfter=\n\n
+
+# text = The imperialist leaders as well as various media pundits now casually refer to a nuclear war as an acceptable strategic option, despite the grave threat it poses to the existence of humanity.
+# sent_id = 7
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=867|end_char=870
+2	imperialist	imperialist	ADJ	JJ	Degree=Pos	1	_	_	start_char=871|end_char=882
+3	leaders	leader	NOUN	NNS	Number=Plur	2	_	_	start_char=883|end_char=890
+4	as	as	ADV	RB	_	3	_	_	start_char=891|end_char=893
+5	well	well	ADV	RB	Degree=Pos	4	_	_	start_char=894|end_char=898
+6	as	as	ADP	IN	_	5	_	_	start_char=899|end_char=901
+7	various	various	ADJ	JJ	Degree=Pos	6	_	_	start_char=902|end_char=909
+8	media	media	NOUN	NN	Number=Sing	7	_	_	start_char=910|end_char=915
+9	pundits	pundit	NOUN	NNS	Number=Plur	8	_	_	start_char=916|end_char=923
+10	now	now	ADV	RB	_	9	_	_	start_char=924|end_char=927
+11	casually	casually	ADV	RB	_	10	_	_	start_char=928|end_char=936
+12	refer	refer	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=937|end_char=942
+13	to	to	ADP	IN	_	12	_	_	start_char=943|end_char=945
+14	a	a	DET	DT	Definite=Ind|PronType=Art	13	_	_	start_char=946|end_char=947
+15	nuclear	nuclear	ADJ	JJ	Degree=Pos	14	_	_	start_char=948|end_char=955
+16	war	war	NOUN	NN	Number=Sing	15	_	_	start_char=956|end_char=959
+17	as	as	ADP	IN	_	16	_	_	start_char=960|end_char=962
+18	an	a	DET	DT	Definite=Ind|PronType=Art	17	_	_	start_char=963|end_char=965
+19	acceptable	acceptable	ADJ	JJ	Degree=Pos	18	_	_	start_char=966|end_char=976
+20	strategic	strategic	ADJ	JJ	Degree=Pos	19	_	_	start_char=977|end_char=986
+21	option	option	NOUN	NN	Number=Sing	20	_	_	start_char=987|end_char=993|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=993|end_char=994
+23	despite	despite	ADP	IN	_	22	_	_	start_char=995|end_char=1002
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=1003|end_char=1006
+25	grave	grave	NOUN	NN	Number=Sing	24	_	_	start_char=1007|end_char=1012
+26	threat	threat	NOUN	NN	Number=Sing	25	_	_	start_char=1013|end_char=1019
+27	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	26	_	_	start_char=1020|end_char=1022
+28	poses	pose	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	_	_	start_char=1023|end_char=1028
+29	to	to	ADP	IN	_	28	_	_	start_char=1029|end_char=1031
+30	the	the	DET	DT	Definite=Def|PronType=Art	29	_	_	start_char=1032|end_char=1035
+31	existence	existence	NOUN	NN	Number=Sing	30	_	_	start_char=1036|end_char=1045
+32	of	of	ADP	IN	_	31	_	_	start_char=1046|end_char=1048
+33	humanity	humanity	NOUN	NN	Number=Sing	32	_	_	start_char=1049|end_char=1057|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=1057|end_char=1058|SpacesAfter=\n\n
+
+# text = The Biden administration, along with other NATO powers, have repeatedly crossed the “red lines” in Ukraine which they previously accepted as necessary to prevent nuclear war.
+# sent_id = 8
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1060|end_char=1063
+2	Biden	Biden	PROPN	NNP	Number=Sing	1	_	_	start_char=1064|end_char=1069
+3	administration	administration	NOUN	NN	Number=Sing	2	_	_	start_char=1070|end_char=1084|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1084|end_char=1085
+5	along	along	ADP	IN	_	4	_	_	start_char=1086|end_char=1091
+6	with	with	ADP	IN	_	5	_	_	start_char=1092|end_char=1096
+7	other	other	ADJ	JJ	Degree=Pos	6	_	_	start_char=1097|end_char=1102
+8	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	7	_	_	start_char=1103|end_char=1107
+9	powers	power	NOUN	NNS	Number=Plur	8	_	_	start_char=1108|end_char=1114|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=1114|end_char=1115
+11	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=1116|end_char=1120
+12	repeatedly	repeatedly	ADV	RB	_	11	_	_	start_char=1121|end_char=1131
+13	crossed	cross	VERB	VBN	Tense=Past|VerbForm=Part	12	_	_	start_char=1132|end_char=1139
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=1140|end_char=1143
+15	“	''	PUNCT	``	_	14	_	_	start_char=1144|end_char=1145|SpaceAfter=No
+16	red	red	ADJ	JJ	Degree=Pos	15	_	_	start_char=1145|end_char=1148
+17	lines	line	NOUN	NNS	Number=Plur	16	_	_	start_char=1149|end_char=1154|SpaceAfter=No
+18	”	''	PUNCT	''	_	17	_	_	start_char=1154|end_char=1155
+19	in	in	ADP	IN	_	18	_	_	start_char=1156|end_char=1158
+20	Ukraine	Ukraine	PROPN	NNP	Number=Sing	19	_	_	start_char=1159|end_char=1166
+21	which	which	PRON	WDT	PronType=Rel	20	_	_	start_char=1167|end_char=1172
+22	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	21	_	_	start_char=1173|end_char=1177
+23	previously	previously	ADV	RB	_	22	_	_	start_char=1178|end_char=1188
+24	accepted	accept	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	23	_	_	start_char=1189|end_char=1197
+25	as	as	SCONJ	IN	_	24	_	_	start_char=1198|end_char=1200
+26	necessary	necessary	ADJ	JJ	Degree=Pos	25	_	_	start_char=1201|end_char=1210
+27	to	to	PART	TO	_	26	_	_	start_char=1211|end_char=1213
+28	prevent	prevent	VERB	VB	VerbForm=Inf	27	_	_	start_char=1214|end_char=1221
+29	nuclear	nuclear	ADJ	JJ	Degree=Pos	28	_	_	start_char=1222|end_char=1229
+30	war	war	NOUN	NN	Number=Sing	29	_	_	start_char=1230|end_char=1233|SpaceAfter=No
+31	.	.	PUNCT	.	_	30	_	_	start_char=1233|end_char=1234|SpacesAfter=\n\n
+
+# text = One might consider that the imperialist leaders—Biden, Sunak, Macron and Scholz—are criminally insane as they drag the planet towards nuclear conflagration.
+# sent_id = 9
+1	One	one	PRON	PRP	Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1236|end_char=1239
+2	might	might	AUX	MD	VerbForm=Fin	1	_	_	start_char=1240|end_char=1245
+3	consider	consider	VERB	VB	VerbForm=Inf	2	_	_	start_char=1246|end_char=1254
+4	that	that	SCONJ	IN	_	3	_	_	start_char=1255|end_char=1259
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1260|end_char=1263
+6	imperialist	imperialist	ADJ	JJ	Degree=Pos	5	_	_	start_char=1264|end_char=1275
+7	leaders	leader	NOUN	NNS	Number=Plur	6	_	_	start_char=1276|end_char=1283|SpaceAfter=No
+8	—	—	PUNCT	:	_	7	_	_	start_char=1283|end_char=1284|SpaceAfter=No
+9	Biden	Biden	PROPN	NNP	Number=Sing	8	_	_	start_char=1284|end_char=1289|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=1289|end_char=1290
+11	Sunak	Sunak	PROPN	NNP	Number=Sing	10	_	_	start_char=1291|end_char=1296|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=1296|end_char=1297
+13	Macron	Macron	PROPN	NNP	Number=Sing	12	_	_	start_char=1298|end_char=1304
+14	and	and	CCONJ	CC	_	13	_	_	start_char=1305|end_char=1308
+15	Scholz	Scholz	PROPN	NNP	Number=Sing	14	_	_	start_char=1309|end_char=1315|SpaceAfter=No
+16	—	—	PUNCT	:	_	15	_	_	start_char=1315|end_char=1316|SpaceAfter=No
+17	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=1316|end_char=1319
+18	criminally	criminally	ADV	RB	_	17	_	_	start_char=1320|end_char=1330
+19	insane	insane	ADJ	JJ	Degree=Pos	18	_	_	start_char=1331|end_char=1337
+20	as	as	SCONJ	IN	_	19	_	_	start_char=1338|end_char=1340
+21	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	_	_	start_char=1341|end_char=1345
+22	drag	drag	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	_	_	start_char=1346|end_char=1350
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=1351|end_char=1354
+24	planet	planet	NOUN	NN	Number=Sing	23	_	_	start_char=1355|end_char=1361
+25	towards	towards	ADP	IN	_	24	_	_	start_char=1362|end_char=1369
+26	nuclear	nuclear	ADJ	JJ	Degree=Pos	25	_	_	start_char=1370|end_char=1377
+27	conflagration	conflagration	NOUN	NN	Number=Sing	26	_	_	start_char=1378|end_char=1391|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=1391|end_char=1392
+
+# text = However, their policies are not simply the product of deranged individuals but of the profound crisis of world capitalism for which they have no rational, progressive solution and see a global war for domination as the only way out.
+# sent_id = 10
+1	However	however	ADV	RB	_	0	_	_	start_char=1393|end_char=1400|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=1400|end_char=1401
+3	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	2	_	_	start_char=1402|end_char=1407
+4	policies	policy	NOUN	NNS	Number=Plur	3	_	_	start_char=1408|end_char=1416
+5	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1417|end_char=1420
+6	not	not	PART	RB	_	5	_	_	start_char=1421|end_char=1424
+7	simply	simply	ADV	RB	_	6	_	_	start_char=1425|end_char=1431
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=1432|end_char=1435
+9	product	product	NOUN	NN	Number=Sing	8	_	_	start_char=1436|end_char=1443
+10	of	of	ADP	IN	_	9	_	_	start_char=1444|end_char=1446
+11	deranged	deranged	ADJ	JJ	Degree=Pos	10	_	_	start_char=1447|end_char=1455
+12	individuals	individual	NOUN	NNS	Number=Plur	11	_	_	start_char=1456|end_char=1467
+13	but	but	CCONJ	CC	_	12	_	_	start_char=1468|end_char=1471
+14	of	of	ADP	IN	_	13	_	_	start_char=1472|end_char=1474
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=1475|end_char=1478
+16	profound	profound	ADJ	JJ	Degree=Pos	15	_	_	start_char=1479|end_char=1487
+17	crisis	crisis	NOUN	NN	Number=Sing	16	_	_	start_char=1488|end_char=1494
+18	of	of	ADP	IN	_	17	_	_	start_char=1495|end_char=1497
+19	world	world	NOUN	NN	Number=Sing	18	_	_	start_char=1498|end_char=1503
+20	capitalism	capitalism	NOUN	NN	Number=Sing	19	_	_	start_char=1504|end_char=1514
+21	for	for	ADP	IN	_	20	_	_	start_char=1515|end_char=1518
+22	which	which	PRON	WDT	PronType=Rel	21	_	_	start_char=1519|end_char=1524
+23	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	22	_	_	start_char=1525|end_char=1529
+24	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	_	_	start_char=1530|end_char=1534
+25	no	no	DET	DT	_	24	_	_	start_char=1535|end_char=1537
+26	rational	rational	ADJ	JJ	Degree=Pos	25	_	_	start_char=1538|end_char=1546|SpaceAfter=No
+27	,	,	PUNCT	,	_	26	_	_	start_char=1546|end_char=1547
+28	progressive	progressive	ADJ	JJ	Degree=Pos	27	_	_	start_char=1548|end_char=1559
+29	solution	solution	NOUN	NN	Number=Sing	28	_	_	start_char=1560|end_char=1568
+30	and	and	CCONJ	CC	_	29	_	_	start_char=1569|end_char=1572
+31	see	see	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	30	_	_	start_char=1573|end_char=1576
+32	a	a	DET	DT	Definite=Ind|PronType=Art	31	_	_	start_char=1577|end_char=1578
+33	global	global	ADJ	JJ	Degree=Pos	32	_	_	start_char=1579|end_char=1585
+34	war	war	NOUN	NN	Number=Sing	33	_	_	start_char=1586|end_char=1589
+35	for	for	ADP	IN	_	34	_	_	start_char=1590|end_char=1593
+36	domination	domination	NOUN	NN	Number=Sing	35	_	_	start_char=1594|end_char=1604
+37	as	as	ADP	IN	_	36	_	_	start_char=1605|end_char=1607
+38	the	the	DET	DT	Definite=Def|PronType=Art	37	_	_	start_char=1608|end_char=1611
+39	only	only	ADJ	JJ	Degree=Pos	38	_	_	start_char=1612|end_char=1616
+40	way	way	NOUN	NN	Number=Sing	39	_	_	start_char=1617|end_char=1620
+41	out	out	ADP	RP	_	40	_	_	start_char=1621|end_char=1624|SpaceAfter=No
+42	.	.	PUNCT	.	_	41	_	_	start_char=1624|end_char=1625|SpacesAfter=\n\n
+
+# text = War is being accompanied by savage repression against any opposition as the terrible, continued persecution of Julian Assange for exposing the crimes of US imperialism graphically demonstrates.
+# sent_id = 11
+1	War	war	NOUN	NN	Number=Sing	0	_	_	start_char=1627|end_char=1630
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1631|end_char=1633
+3	being	be	AUX	VBG	VerbForm=Ger	2	_	_	start_char=1634|end_char=1639
+4	accompanied	accompany	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=1640|end_char=1651
+5	by	by	ADP	IN	_	4	_	_	start_char=1652|end_char=1654
+6	savage	savage	ADJ	JJ	Degree=Pos	5	_	_	start_char=1655|end_char=1661
+7	repression	repression	NOUN	NN	Number=Sing	6	_	_	start_char=1662|end_char=1672
+8	against	against	ADP	IN	_	7	_	_	start_char=1673|end_char=1680
+9	any	any	DET	DT	_	8	_	_	start_char=1681|end_char=1684
+10	opposition	opposition	NOUN	NN	Number=Sing	9	_	_	start_char=1685|end_char=1695
+11	as	as	ADP	IN	_	10	_	_	start_char=1696|end_char=1698
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=1699|end_char=1702
+13	terrible	terrible	ADJ	JJ	Degree=Pos	12	_	_	start_char=1703|end_char=1711|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=1711|end_char=1712
+15	continued	continue	VERB	VBN	Tense=Past|VerbForm=Part	14	_	_	start_char=1713|end_char=1722
+16	persecution	persecution	NOUN	NN	Number=Sing	15	_	_	start_char=1723|end_char=1734
+17	of	of	ADP	IN	_	16	_	_	start_char=1735|end_char=1737
+18	Julian	Julian	PROPN	NNP	Number=Sing	17	_	_	start_char=1738|end_char=1744
+19	Assange	Assange	PROPN	NNP	Number=Sing	18	_	_	start_char=1745|end_char=1752
+20	for	for	SCONJ	IN	_	19	_	_	start_char=1753|end_char=1756
+21	exposing	expose	VERB	VBG	VerbForm=Ger	20	_	_	start_char=1757|end_char=1765
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=1766|end_char=1769
+23	crimes	crime	NOUN	NNS	Number=Plur	22	_	_	start_char=1770|end_char=1776
+24	of	of	ADP	IN	_	23	_	_	start_char=1777|end_char=1779
+25	US	US	PROPN	NNP	Number=Sing	24	_	_	start_char=1780|end_char=1782
+26	imperialism	imperialism	NOUN	NN	Number=Sing	25	_	_	start_char=1783|end_char=1794
+27	graphically	graphically	ADV	RB	_	26	_	_	start_char=1795|end_char=1806
+28	demonstrates	demonstrate	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	_	_	start_char=1807|end_char=1819|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=1819|end_char=1820|SpacesAfter=\n\n
+
+# text = Our comrade Bogdan Syrotiuk of the Young Guard of Bolshevik Leninists has been detained by the fascistic Zelensky government in Ukraine earlier this month on false accusations of being a Russian agent.
+# sent_id = 12
+1	Our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	0	_	_	start_char=1822|end_char=1825
+2	comrade	comrade	NOUN	NN	Number=Sing	1	_	_	start_char=1826|end_char=1833
+3	Bogdan	Bogdan	PROPN	NNP	Number=Sing	2	_	_	start_char=1834|end_char=1840
+4	Syrotiuk	Syrotiuk	PROPN	NNP	Number=Sing	3	_	_	start_char=1841|end_char=1849
+5	of	of	ADP	IN	_	4	_	_	start_char=1850|end_char=1852
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1853|end_char=1856
+7	Young	Young	ADJ	NNP	Degree=Pos	6	_	_	start_char=1857|end_char=1862
+8	Guard	Guard	PROPN	NNP	Number=Sing	7	_	_	start_char=1863|end_char=1868
+9	of	of	ADP	IN	_	8	_	_	start_char=1869|end_char=1871
+10	Bolshevik	bolshevik	ADJ	NNP	Degree=Pos	9	_	_	start_char=1872|end_char=1881
+11	Leninists	Leninist	PROPN	NNPS	Number=Plur	10	_	_	start_char=1882|end_char=1891
+12	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=1892|end_char=1895
+13	been	be	AUX	VBN	Tense=Past|VerbForm=Part	12	_	_	start_char=1896|end_char=1900
+14	detained	detain	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	13	_	_	start_char=1901|end_char=1909
+15	by	by	ADP	IN	_	14	_	_	start_char=1910|end_char=1912
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=1913|end_char=1916
+17	fascistic	fascistic	ADJ	JJ	Degree=Pos	16	_	_	start_char=1917|end_char=1926
+18	Zelensky	Zelensky	PROPN	NNP	Number=Sing	17	_	_	start_char=1927|end_char=1935
+19	government	government	NOUN	NN	Number=Sing	18	_	_	start_char=1936|end_char=1946
+20	in	in	ADP	IN	_	19	_	_	start_char=1947|end_char=1949
+21	Ukraine	Ukraine	PROPN	NNP	Number=Sing	20	_	_	start_char=1950|end_char=1957
+22	earlier	early	ADV	RBR	Degree=Cmp	21	_	_	start_char=1958|end_char=1965
+23	this	this	DET	DT	Number=Sing|PronType=Dem	22	_	_	start_char=1966|end_char=1970
+24	month	month	NOUN	NN	Number=Sing	23	_	_	start_char=1971|end_char=1976
+25	on	on	ADP	IN	_	24	_	_	start_char=1977|end_char=1979
+26	false	false	ADJ	JJ	Degree=Pos	25	_	_	start_char=1980|end_char=1985
+27	accusations	accusation	NOUN	NNS	Number=Plur	26	_	_	start_char=1986|end_char=1997
+28	of	of	SCONJ	IN	_	27	_	_	start_char=1998|end_char=2000
+29	being	be	AUX	VBG	VerbForm=Ger	28	_	_	start_char=2001|end_char=2006
+30	a	a	DET	DT	Definite=Ind|PronType=Art	29	_	_	start_char=2007|end_char=2008
+31	Russian	Russian	ADJ	JJ	Degree=Pos	30	_	_	start_char=2009|end_char=2016
+32	agent	agent	NOUN	NN	Number=Sing	31	_	_	start_char=2017|end_char=2022|SpaceAfter=No
+33	.	.	PUNCT	.	_	32	_	_	start_char=2022|end_char=2023
+
+# text = Bogdan has courageously opposed the war in Ukraine, along with his comrades in Russia, denounced both the Ukrainian and Russian regimes and fought for the unity of the Ukrainian and Russian working class.
+# sent_id = 13
+1	Bogdan	Bogdan	PROPN	NNP	Number=Sing	0	_	_	start_char=2024|end_char=2030
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2031|end_char=2034
+3	courageously	courageously	ADV	RB	_	2	_	_	start_char=2035|end_char=2047
+4	opposed	oppose	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=2048|end_char=2055
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=2056|end_char=2059
+6	war	war	NOUN	NN	Number=Sing	5	_	_	start_char=2060|end_char=2063
+7	in	in	ADP	IN	_	6	_	_	start_char=2064|end_char=2066
+8	Ukraine	Ukraine	PROPN	NNP	Number=Sing	7	_	_	start_char=2067|end_char=2074|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=2074|end_char=2075
+10	along	along	ADP	IN	_	9	_	_	start_char=2076|end_char=2081
+11	with	with	ADP	IN	_	10	_	_	start_char=2082|end_char=2086
+12	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	_	_	start_char=2087|end_char=2090
+13	comrades	comrade	NOUN	NNS	Number=Plur	12	_	_	start_char=2091|end_char=2099
+14	in	in	ADP	IN	_	13	_	_	start_char=2100|end_char=2102
+15	Russia	Russia	PROPN	NNP	Number=Sing	14	_	_	start_char=2103|end_char=2109|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=2109|end_char=2110
+17	denounced	denounce	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	_	_	start_char=2111|end_char=2120
+18	both	both	CCONJ	CC	_	17	_	_	start_char=2121|end_char=2125
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=2126|end_char=2129
+20	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	19	_	_	start_char=2130|end_char=2139
+21	and	and	CCONJ	CC	_	20	_	_	start_char=2140|end_char=2143
+22	Russian	Russian	ADJ	JJ	Degree=Pos	21	_	_	start_char=2144|end_char=2151
+23	regimes	regime	NOUN	NNS	Number=Plur	22	_	_	start_char=2152|end_char=2159
+24	and	and	CCONJ	CC	_	23	_	_	start_char=2160|end_char=2163
+25	fought	fight	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	_	_	start_char=2164|end_char=2170
+26	for	for	ADP	IN	_	25	_	_	start_char=2171|end_char=2174
+27	the	the	DET	DT	Definite=Def|PronType=Art	26	_	_	start_char=2175|end_char=2178
+28	unity	unity	NOUN	NN	Number=Sing	27	_	_	start_char=2179|end_char=2184
+29	of	of	ADP	IN	_	28	_	_	start_char=2185|end_char=2187
+30	the	the	DET	DT	Definite=Def|PronType=Art	29	_	_	start_char=2188|end_char=2191
+31	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	30	_	_	start_char=2192|end_char=2201
+32	and	and	CCONJ	CC	_	31	_	_	start_char=2202|end_char=2205
+33	Russian	Russian	ADJ	JJ	Degree=Pos	32	_	_	start_char=2206|end_char=2213
+34	working	working	NOUN	NN	Number=Sing	33	_	_	start_char=2214|end_char=2221
+35	class	class	NOUN	NN	Number=Sing	34	_	_	start_char=2222|end_char=2227|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=2227|end_char=2228|SpacesAfter=\n\n
+
+# text = In the US and other imperialist countries, brutal police crackdowns are taking place against protesters opposing the Gaza genocide with thousands of arrests including of students.
+# sent_id = 14
+1	In	in	ADP	IN	_	0	_	_	start_char=2230|end_char=2232
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=2233|end_char=2236
+3	US	US	PROPN	NNP	Number=Sing	2	_	_	start_char=2237|end_char=2239
+4	and	and	CCONJ	CC	_	3	_	_	start_char=2240|end_char=2243
+5	other	other	ADJ	JJ	Degree=Pos	4	_	_	start_char=2244|end_char=2249
+6	imperialist	imperialist	ADJ	JJ	Degree=Pos	5	_	_	start_char=2250|end_char=2261
+7	countries	country	NOUN	NNS	Number=Plur	6	_	_	start_char=2262|end_char=2271|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=2271|end_char=2272
+9	brutal	brutal	ADJ	JJ	Degree=Pos	8	_	_	start_char=2273|end_char=2279
+10	police	police	NOUN	NN	Number=Sing	9	_	_	start_char=2280|end_char=2286
+11	crackdowns	crackdown	NOUN	NNS	Number=Plur	10	_	_	start_char=2287|end_char=2297
+12	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=2298|end_char=2301
+13	taking	take	VERB	VBG	Tense=Pres|VerbForm=Part	12	_	_	start_char=2302|end_char=2308
+14	place	place	NOUN	NN	Number=Sing	13	_	_	start_char=2309|end_char=2314
+15	against	against	ADP	IN	_	14	_	_	start_char=2315|end_char=2322
+16	protesters	protester	NOUN	NNS	Number=Plur	15	_	_	start_char=2323|end_char=2333
+17	opposing	oppose	VERB	VBG	VerbForm=Ger	16	_	_	start_char=2334|end_char=2342
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=2343|end_char=2346
+19	Gaza	Gaza	PROPN	NNP	Number=Sing	18	_	_	start_char=2347|end_char=2351
+20	genocide	genocide	NOUN	NN	Number=Sing	19	_	_	start_char=2352|end_char=2360
+21	with	with	ADP	IN	_	20	_	_	start_char=2361|end_char=2365
+22	thousands	thousand	NOUN	NNS	Number=Plur	21	_	_	start_char=2366|end_char=2375
+23	of	of	ADP	IN	_	22	_	_	start_char=2376|end_char=2378
+24	arrests	arrest	NOUN	NNS	Number=Plur	23	_	_	start_char=2379|end_char=2386
+25	including	include	VERB	VBG	VerbForm=Ger	24	_	_	start_char=2387|end_char=2396
+26	of	of	ADP	IN	_	25	_	_	start_char=2397|end_char=2399
+27	students	student	NOUN	NNS	Number=Plur	26	_	_	start_char=2400|end_char=2408|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=2408|end_char=2409|SpacesAfter=\n\n
+
+# text = The ongoing anti-war protests in universities and cities are significant, but on their own are incapable of halting the bloodbath.
+# sent_id = 15
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2411|end_char=2414
+2	ongoing	ongoing	ADJ	JJ	Degree=Pos	1	_	_	start_char=2415|end_char=2422
+3	anti-war	anti-war	ADJ	JJ	Degree=Pos	2	_	_	start_char=2423|end_char=2431
+4	protests	protest	NOUN	NNS	Number=Plur	3	_	_	start_char=2432|end_char=2440
+5	in	in	ADP	IN	_	4	_	_	start_char=2441|end_char=2443
+6	universities	university	NOUN	NNS	Number=Plur	5	_	_	start_char=2444|end_char=2456
+7	and	and	CCONJ	CC	_	6	_	_	start_char=2457|end_char=2460
+8	cities	city	NOUN	NNS	Number=Plur	7	_	_	start_char=2461|end_char=2467
+9	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=2468|end_char=2471
+10	significant	significant	ADJ	JJ	Degree=Pos	9	_	_	start_char=2472|end_char=2483|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=2483|end_char=2484
+12	but	but	CCONJ	CC	_	11	_	_	start_char=2485|end_char=2488
+13	on	on	ADP	IN	_	12	_	_	start_char=2489|end_char=2491
+14	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	13	_	_	start_char=2492|end_char=2497
+15	own	own	ADJ	JJ	Degree=Pos	14	_	_	start_char=2498|end_char=2501
+16	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=2502|end_char=2505
+17	incapable	incapable	ADJ	JJ	Degree=Pos	16	_	_	start_char=2506|end_char=2515
+18	of	of	SCONJ	IN	_	17	_	_	start_char=2516|end_char=2518
+19	halting	halt	VERB	VBG	VerbForm=Ger	18	_	_	start_char=2519|end_char=2526
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=2527|end_char=2530
+21	bloodbath	bloodbath	NOUN	NN	Number=Sing	20	_	_	start_char=2531|end_char=2540|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=2540|end_char=2541
+
+# text = For seven months, the Zionist regime and its imperialist backers have not only ignored protests by millions around the world, but they are also turning to police repression.
+# sent_id = 16
+1	For	for	ADP	IN	_	0	_	_	start_char=2542|end_char=2545
+2	seven	seven	NUM	CD	NumForm=Word|NumType=Card	1	_	_	start_char=2546|end_char=2551
+3	months	month	NOUN	NNS	Number=Plur	2	_	_	start_char=2552|end_char=2558|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=2558|end_char=2559
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=2560|end_char=2563
+6	Zionist	Zionist	PROPN	NNP	Number=Sing	5	_	_	start_char=2564|end_char=2571
+7	regime	regime	NOUN	NN	Number=Sing	6	_	_	start_char=2572|end_char=2578
+8	and	and	CCONJ	CC	_	7	_	_	start_char=2579|end_char=2582
+9	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	_	_	start_char=2583|end_char=2586
+10	imperialist	imperialist	ADJ	JJ	Degree=Pos	9	_	_	start_char=2587|end_char=2598
+11	backers	backer	NOUN	NNS	Number=Plur	10	_	_	start_char=2599|end_char=2606
+12	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=2607|end_char=2611
+13	not	not	PART	RB	_	12	_	_	start_char=2612|end_char=2615
+14	only	only	ADV	RB	_	13	_	_	start_char=2616|end_char=2620
+15	ignored	ignore	VERB	VBN	Tense=Past|VerbForm=Part	14	_	_	start_char=2621|end_char=2628
+16	protests	protest	NOUN	NNS	Number=Plur	15	_	_	start_char=2629|end_char=2637
+17	by	by	ADP	IN	_	16	_	_	start_char=2638|end_char=2640
+18	millions	million	NOUN	NNS	Number=Plur	17	_	_	start_char=2641|end_char=2649
+19	around	around	ADP	IN	_	18	_	_	start_char=2650|end_char=2656
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=2657|end_char=2660
+21	world	world	NOUN	NN	Number=Sing	20	_	_	start_char=2661|end_char=2666|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=2666|end_char=2667
+23	but	but	CCONJ	CC	_	22	_	_	start_char=2668|end_char=2671
+24	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	23	_	_	start_char=2672|end_char=2676
+25	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	24	_	_	start_char=2677|end_char=2680
+26	also	also	ADV	RB	_	25	_	_	start_char=2681|end_char=2685
+27	turning	turn	VERB	VBG	Tense=Pres|VerbForm=Part	26	_	_	start_char=2686|end_char=2693
+28	to	to	ADP	IN	_	27	_	_	start_char=2694|end_char=2696
+29	police	police	NOUN	NN	Number=Sing	28	_	_	start_char=2697|end_char=2703
+30	repression	repression	NOUN	NN	Number=Sing	29	_	_	start_char=2704|end_char=2714|SpaceAfter=No
+31	.	.	PUNCT	.	_	30	_	_	start_char=2714|end_char=2715|SpacesAfter=\n\n
+
+# text = The only social force capable of halting the drive to world war is the international working class which is coming into struggle in Sri Lanka and around the world in opposition to the austerity program of the ruling classes.
+# sent_id = 17
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2717|end_char=2720
+2	only	only	ADJ	JJ	Degree=Pos	1	_	_	start_char=2721|end_char=2725
+3	social	social	ADJ	JJ	Degree=Pos	2	_	_	start_char=2726|end_char=2732
+4	force	force	NOUN	NN	Number=Sing	3	_	_	start_char=2733|end_char=2738
+5	capable	capable	ADJ	JJ	Degree=Pos	4	_	_	start_char=2739|end_char=2746
+6	of	of	SCONJ	IN	_	5	_	_	start_char=2747|end_char=2749
+7	halting	halt	VERB	VBG	VerbForm=Ger	6	_	_	start_char=2750|end_char=2757
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=2758|end_char=2761
+9	drive	drive	NOUN	NN	Number=Sing	8	_	_	start_char=2762|end_char=2767
+10	to	to	ADP	IN	_	9	_	_	start_char=2768|end_char=2770
+11	world	world	NOUN	NN	Number=Sing	10	_	_	start_char=2771|end_char=2776
+12	war	war	NOUN	NN	Number=Sing	11	_	_	start_char=2777|end_char=2780
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=2781|end_char=2783
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=2784|end_char=2787
+15	international	international	ADJ	JJ	Degree=Pos	14	_	_	start_char=2788|end_char=2801
+16	working	working	NOUN	NN	Number=Sing	15	_	_	start_char=2802|end_char=2809
+17	class	class	NOUN	NN	Number=Sing	16	_	_	start_char=2810|end_char=2815
+18	which	which	PRON	WDT	PronType=Rel	17	_	_	start_char=2816|end_char=2821
+19	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=2822|end_char=2824
+20	coming	come	VERB	VBG	Tense=Pres|VerbForm=Part	19	_	_	start_char=2825|end_char=2831
+21	into	into	ADP	IN	_	20	_	_	start_char=2832|end_char=2836
+22	struggle	struggle	NOUN	NN	Number=Sing	21	_	_	start_char=2837|end_char=2845
+23	in	in	ADP	IN	_	22	_	_	start_char=2846|end_char=2848
+24	Sri	Sri	PROPN	NNP	Number=Sing	23	_	_	start_char=2849|end_char=2852
+25	Lanka	Lanka	PROPN	NNP	Number=Sing	24	_	_	start_char=2853|end_char=2858
+26	and	and	CCONJ	CC	_	25	_	_	start_char=2859|end_char=2862
+27	around	around	ADP	IN	_	26	_	_	start_char=2863|end_char=2869
+28	the	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=2870|end_char=2873
+29	world	world	NOUN	NN	Number=Sing	28	_	_	start_char=2874|end_char=2879
+30	in	in	ADP	IN	_	29	_	_	start_char=2880|end_char=2882
+31	opposition	opposition	NOUN	NN	Number=Sing	30	_	_	start_char=2883|end_char=2893
+32	to	to	ADP	IN	_	31	_	_	start_char=2894|end_char=2896
+33	the	the	DET	DT	Definite=Def|PronType=Art	32	_	_	start_char=2897|end_char=2900
+34	austerity	austerity	NOUN	NN	Number=Sing	33	_	_	start_char=2901|end_char=2910
+35	program	program	NOUN	NN	Number=Sing	34	_	_	start_char=2911|end_char=2918
+36	of	of	ADP	IN	_	35	_	_	start_char=2919|end_char=2921
+37	the	the	DET	DT	Definite=Def|PronType=Art	36	_	_	start_char=2922|end_char=2925
+38	ruling	ruling	NOUN	NN	Number=Sing	37	_	_	start_char=2926|end_char=2932
+39	classes	class	NOUN	NNS	Number=Plur	38	_	_	start_char=2933|end_char=2940|SpaceAfter=No
+40	.	.	PUNCT	.	_	39	_	_	start_char=2940|end_char=2941
+
+# text = As governments engage in, support and prepare for war, it is workers who are forced to bear the burden.
+# sent_id = 18
+1	As	as	SCONJ	IN	_	0	_	_	start_char=2942|end_char=2944
+2	governments	government	NOUN	NNS	Number=Plur	1	_	_	start_char=2945|end_char=2956
+3	engage	engage	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2957|end_char=2963
+4	in	in	ADP	IN	_	3	_	_	start_char=2964|end_char=2966|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=2966|end_char=2967
+6	support	support	NOUN	NN	Number=Sing	5	_	_	start_char=2968|end_char=2975
+7	and	and	CCONJ	CC	_	6	_	_	start_char=2976|end_char=2979
+8	prepare	prepare	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=2980|end_char=2987
+9	for	for	ADP	IN	_	8	_	_	start_char=2988|end_char=2991
+10	war	war	NOUN	NN	Number=Sing	9	_	_	start_char=2992|end_char=2995|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=2995|end_char=2996
+12	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	_	_	start_char=2997|end_char=2999
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=3000|end_char=3002
+14	workers	worker	NOUN	NNS	Number=Plur	13	_	_	start_char=3003|end_char=3010
+15	who	who	PRON	WP	PronType=Rel	14	_	_	start_char=3011|end_char=3014
+16	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=3015|end_char=3018
+17	forced	force	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	16	_	_	start_char=3019|end_char=3025
+18	to	to	PART	TO	_	17	_	_	start_char=3026|end_char=3028
+19	bear	bear	VERB	VB	VerbForm=Inf	18	_	_	start_char=3029|end_char=3033
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=3034|end_char=3037
+21	burden	burden	NOUN	NN	Number=Sing	20	_	_	start_char=3038|end_char=3044|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=3044|end_char=3045|SpacesAfter=\n\n
+
+# text = A struggle against war requires the building of a unified anti-war movement of the working class based on a socialist program, exposing the futility of protest politics and all the apologists for imperialism.
+# sent_id = 19
+1	A	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=3047|end_char=3048
+2	struggle	struggle	NOUN	NN	Number=Sing	1	_	_	start_char=3049|end_char=3057
+3	against	against	ADP	IN	_	2	_	_	start_char=3058|end_char=3065
+4	war	war	NOUN	NN	Number=Sing	3	_	_	start_char=3066|end_char=3069
+5	requires	require	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=3070|end_char=3078
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=3079|end_char=3082
+7	building	building	NOUN	NN	Number=Sing	6	_	_	start_char=3083|end_char=3091
+8	of	of	ADP	IN	_	7	_	_	start_char=3092|end_char=3094
+9	a	a	DET	DT	Definite=Ind|PronType=Art	8	_	_	start_char=3095|end_char=3096
+10	unified	unified	ADJ	JJ	Degree=Pos	9	_	_	start_char=3097|end_char=3104
+11	anti-war	anti-war	ADJ	JJ	Degree=Pos	10	_	_	start_char=3105|end_char=3113
+12	movement	movement	NOUN	NN	Number=Sing	11	_	_	start_char=3114|end_char=3122
+13	of	of	ADP	IN	_	12	_	_	start_char=3123|end_char=3125
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=3126|end_char=3129
+15	working	working	NOUN	NN	Number=Sing	14	_	_	start_char=3130|end_char=3137
+16	class	class	NOUN	NN	Number=Sing	15	_	_	start_char=3138|end_char=3143
+17	based	base	VERB	VBN	Tense=Past|VerbForm=Part	16	_	_	start_char=3144|end_char=3149
+18	on	on	ADP	IN	_	17	_	_	start_char=3150|end_char=3152
+19	a	a	DET	DT	Definite=Ind|PronType=Art	18	_	_	start_char=3153|end_char=3154
+20	socialist	socialist	ADJ	JJ	Degree=Pos	19	_	_	start_char=3155|end_char=3164
+21	program	program	NOUN	NN	Number=Sing	20	_	_	start_char=3165|end_char=3172|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=3172|end_char=3173
+23	exposing	expose	VERB	VBG	VerbForm=Ger	22	_	_	start_char=3174|end_char=3182
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=3183|end_char=3186
+25	futility	futility	NOUN	NN	Number=Sing	24	_	_	start_char=3187|end_char=3195
+26	of	of	ADP	IN	_	25	_	_	start_char=3196|end_char=3198
+27	protest	protest	NOUN	NN	Number=Sing	26	_	_	start_char=3199|end_char=3206
+28	politics	politics	NOUN	NNS	Number=Plur	27	_	_	start_char=3207|end_char=3215
+29	and	and	CCONJ	CC	_	28	_	_	start_char=3216|end_char=3219
+30	all	all	DET	PDT	_	29	_	_	start_char=3220|end_char=3223
+31	the	the	DET	DT	Definite=Def|PronType=Art	30	_	_	start_char=3224|end_char=3227
+32	apologists	apologist	NOUN	NNS	Number=Plur	31	_	_	start_char=3228|end_char=3238
+33	for	for	ADP	IN	_	32	_	_	start_char=3239|end_char=3242
+34	imperialism	imperialism	NOUN	NN	Number=Sing	33	_	_	start_char=3243|end_char=3254|SpaceAfter=No
+35	.	.	PUNCT	.	_	34	_	_	start_char=3254|end_char=3255
+
+# text = Appeals to capitalist governments are bankrupt.
+# sent_id = 20
+1	Appeals	appeal	NOUN	NNS	Number=Plur	0	_	_	start_char=3256|end_char=3263
+2	to	to	ADP	IN	_	1	_	_	start_char=3264|end_char=3266
+3	capitalist	capitalist	NOUN	NN	Number=Sing	2	_	_	start_char=3267|end_char=3277
+4	governments	government	NOUN	NNS	Number=Plur	3	_	_	start_char=3278|end_char=3289
+5	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=3290|end_char=3293
+6	bankrupt	bankrupt	ADJ	JJ	Degree=Pos	5	_	_	start_char=3294|end_char=3302|SpaceAfter=No
+7	.	.	PUNCT	.	_	6	_	_	start_char=3302|end_char=3303
+
+# text = The independent mobilisation of workers on this basis needs to take up the fight to free Assange and Syrotiuk as well.
+# sent_id = 21
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=3304|end_char=3307
+2	independent	independent	ADJ	JJ	Degree=Pos	1	_	_	start_char=3308|end_char=3319
+3	mobilisation	mobilisation	NOUN	NN	Number=Sing	2	_	_	start_char=3320|end_char=3332
+4	of	of	ADP	IN	_	3	_	_	start_char=3333|end_char=3335
+5	workers	worker	NOUN	NNS	Number=Plur	4	_	_	start_char=3336|end_char=3343
+6	on	on	ADP	IN	_	5	_	_	start_char=3344|end_char=3346
+7	this	this	DET	DT	Number=Sing|PronType=Dem	6	_	_	start_char=3347|end_char=3351
+8	basis	basis	NOUN	NN	Number=Sing	7	_	_	start_char=3352|end_char=3357
+9	needs	need	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=3358|end_char=3363
+10	to	to	PART	TO	_	9	_	_	start_char=3364|end_char=3366
+11	take	take	VERB	VB	VerbForm=Inf	10	_	_	start_char=3367|end_char=3371
+12	up	up	ADP	RP	_	11	_	_	start_char=3372|end_char=3374
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=3375|end_char=3378
+14	fight	fight	NOUN	NN	Number=Sing	13	_	_	start_char=3379|end_char=3384
+15	to	to	PART	TO	_	14	_	_	start_char=3385|end_char=3387
+16	free	free	VERB	VB	VerbForm=Inf	15	_	_	start_char=3388|end_char=3392
+17	Assange	Assange	PROPN	NNP	Number=Sing	16	_	_	start_char=3393|end_char=3400
+18	and	and	CCONJ	CC	_	17	_	_	start_char=3401|end_char=3404
+19	Syrotiuk	Syrotiuk	PROPN	NNP	Number=Sing	18	_	_	start_char=3405|end_char=3413
+20	as	as	ADV	RB	_	19	_	_	start_char=3414|end_char=3416
+21	well	well	ADV	RB	Degree=Pos	20	_	_	start_char=3417|end_char=3421|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=3421|end_char=3422|SpacesAfter=\n\n
+
+# text = The burning need is for a new revolutionary leadership in the working class based on socialist internationalism to abolish the source of militarism, austerity, authoritarianism and all sorts of social misery—the capitalist system.
+# sent_id = 22
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=3424|end_char=3427
+2	burning	burning	NOUN	NN	Number=Sing	1	_	_	start_char=3428|end_char=3435
+3	need	need	NOUN	NN	Number=Sing	2	_	_	start_char=3436|end_char=3440
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=3441|end_char=3443
+5	for	for	ADP	IN	_	4	_	_	start_char=3444|end_char=3447
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=3448|end_char=3449
+7	new	new	ADJ	JJ	Degree=Pos	6	_	_	start_char=3450|end_char=3453
+8	revolutionary	revolutionary	ADJ	JJ	Degree=Pos	7	_	_	start_char=3454|end_char=3467
+9	leadership	leadership	NOUN	NN	Number=Sing	8	_	_	start_char=3468|end_char=3478
+10	in	in	ADP	IN	_	9	_	_	start_char=3479|end_char=3481
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=3482|end_char=3485
+12	working	working	NOUN	NN	Number=Sing	11	_	_	start_char=3486|end_char=3493
+13	class	class	NOUN	NN	Number=Sing	12	_	_	start_char=3494|end_char=3499
+14	based	base	VERB	VBN	Tense=Past|VerbForm=Part	13	_	_	start_char=3500|end_char=3505
+15	on	on	ADP	IN	_	14	_	_	start_char=3506|end_char=3508
+16	socialist	socialist	ADJ	JJ	Degree=Pos	15	_	_	start_char=3509|end_char=3518
+17	internationalism	internationalism	NOUN	NN	Number=Sing	16	_	_	start_char=3519|end_char=3535
+18	to	to	PART	TO	_	17	_	_	start_char=3536|end_char=3538
+19	abolish	abolish	VERB	VB	VerbForm=Inf	18	_	_	start_char=3539|end_char=3546
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=3547|end_char=3550
+21	source	source	NOUN	NN	Number=Sing	20	_	_	start_char=3551|end_char=3557
+22	of	of	ADP	IN	_	21	_	_	start_char=3558|end_char=3560
+23	militarism	militarism	NOUN	NN	Number=Sing	22	_	_	start_char=3561|end_char=3571|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=3571|end_char=3572
+25	austerity	austerity	NOUN	NN	Number=Sing	24	_	_	start_char=3573|end_char=3582|SpaceAfter=No
+26	,	,	PUNCT	,	_	25	_	_	start_char=3582|end_char=3583
+27	authoritarianism	authoritarianism	NOUN	NN	Number=Sing	26	_	_	start_char=3584|end_char=3600
+28	and	and	CCONJ	CC	_	27	_	_	start_char=3601|end_char=3604
+29	all	all	DET	DT	_	28	_	_	start_char=3605|end_char=3608
+30	sorts	sort	NOUN	NNS	Number=Plur	29	_	_	start_char=3609|end_char=3614
+31	of	of	ADP	IN	_	30	_	_	start_char=3615|end_char=3617
+32	social	social	ADJ	JJ	Degree=Pos	31	_	_	start_char=3618|end_char=3624
+33	misery	misery	NOUN	NN	Number=Sing	32	_	_	start_char=3625|end_char=3631|SpaceAfter=No
+34	—	—	PUNCT	:	_	33	_	_	start_char=3631|end_char=3632|SpaceAfter=No
+35	the	the	DET	DT	Definite=Def|PronType=Art	34	_	_	start_char=3632|end_char=3635
+36	capitalist	capitalist	NOUN	NN	Number=Sing	35	_	_	start_char=3636|end_char=3646
+37	system	system	NOUN	NN	Number=Sing	36	_	_	start_char=3647|end_char=3653|SpaceAfter=No
+38	.	.	PUNCT	.	_	37	_	_	start_char=3653|end_char=3654|SpacesAfter=\n\n
+
+# text = We invite you to participate in this important meeting.
+# sent_id = 23
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	start_char=3656|end_char=3658
+2	invite	invite	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	_	_	start_char=3659|end_char=3665
+3	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	_	_	start_char=3666|end_char=3669
+4	to	to	PART	TO	_	3	_	_	start_char=3670|end_char=3672
+5	participate	participate	VERB	VB	VerbForm=Inf	4	_	_	start_char=3673|end_char=3684
+6	in	in	ADP	IN	_	5	_	_	start_char=3685|end_char=3687
+7	this	this	DET	DT	Number=Sing|PronType=Dem	6	_	_	start_char=3688|end_char=3692
+8	important	important	ADJ	JJ	Degree=Pos	7	_	_	start_char=3693|end_char=3702
+9	meeting	meeting	NOUN	NN	Number=Sing	8	_	_	start_char=3703|end_char=3710|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=3710|end_char=3711
+
+# text = You can register for the online Zoom meeting using the link below.
+# sent_id = 24
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	0	_	_	start_char=3712|end_char=3715
+2	can	can	AUX	MD	VerbForm=Fin	1	_	_	start_char=3716|end_char=3719
+3	register	register	VERB	VB	VerbForm=Inf	2	_	_	start_char=3720|end_char=3728
+4	for	for	ADP	IN	_	3	_	_	start_char=3729|end_char=3732
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=3733|end_char=3736
+6	online	online	ADJ	JJ	Degree=Pos	5	_	_	start_char=3737|end_char=3743
+7	Zoom	zoom	NOUN	NN	Number=Sing	6	_	_	start_char=3744|end_char=3748
+8	meeting	meeting	NOUN	NN	Number=Sing	7	_	_	start_char=3749|end_char=3756
+9	using	use	VERB	VBG	VerbForm=Ger	8	_	_	start_char=3757|end_char=3762
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=3763|end_char=3766
+11	link	link	NOUN	NN	Number=Sing	10	_	_	start_char=3767|end_char=3771
+12	below	below	ADV	RB	_	11	_	_	start_char=3772|end_char=3777|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=3777|end_char=3778|SpaceAfter=No
+

@@ -1,0 +1,657 @@
+# text = Kyiv's Mayor Says
+# sent_id = 0
+1-2	Kyiv's	_	_	_	_	_	_	_	start_char=0|end_char=6
+1	Kyiv	Kyiv	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=4
+2	's	's	PART	POS	_	1	_	_	start_char=4|end_char=6
+3	Mayor	Mayor	PROPN	NNP	Number=Sing	2	_	_	start_char=7|end_char=12
+4	Says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=13|end_char=17
+
+# text = He's 'Ready to Fight' as Russians Continue Kidnappings
+# sent_id = 1
+1-2	He's	_	_	_	_	_	_	_	start_char=18|end_char=22
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=18|end_char=20
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=20|end_char=22
+3	'	'	PUNCT	``	_	2	_	_	start_char=23|end_char=24|SpaceAfter=No
+4	Ready	ready	ADJ	JJ	Degree=Pos	3	_	_	start_char=24|end_char=29
+5	to	to	PART	TO	_	4	_	_	start_char=30|end_char=32
+6	Fight	fight	VERB	VB	VerbForm=Inf	5	_	_	start_char=33|end_char=38|SpaceAfter=No
+7	'	'	PUNCT	''	_	6	_	_	start_char=38|end_char=39
+8	as	as	ADP	IN	_	7	_	_	start_char=40|end_char=42
+9	Russians	Russian	PROPN	NNPS	Number=Plur	8	_	_	start_char=43|end_char=51
+10	Continue	continue	VERB	VB	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=52|end_char=60
+11	Kidnappings	kidnapping	NOUN	NNS	Number=Plur	10	_	_	start_char=61|end_char=72|SpacesAfter=\s\n\n\s
+
+# text = Kyiv Mayor Vitali Klitschko has promised he is "ready to fight" following reports of multiple Ukrainian mayors being kidnapped by the invading Russian military.
+# sent_id = 2
+1	Kyiv	Kyiv	PROPN	NNP	Number=Sing	0	_	_	start_char=76|end_char=80
+2	Mayor	Mayor	PROPN	NNP	Number=Sing	1	_	_	start_char=81|end_char=86
+3	Vitali	Vitali	PROPN	NNP	Number=Sing	2	_	_	start_char=87|end_char=93
+4	Klitschko	Klitschko	PROPN	NNP	Number=Sing	3	_	_	start_char=94|end_char=103
+5	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=104|end_char=107
+6	promised	promise	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=108|end_char=116
+7	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	_	_	start_char=117|end_char=119
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=120|end_char=122
+9	"	"	PUNCT	``	_	8	_	_	start_char=123|end_char=124|SpaceAfter=No
+10	ready	ready	ADJ	JJ	Degree=Pos	9	_	_	start_char=124|end_char=129
+11	to	to	PART	TO	_	10	_	_	start_char=130|end_char=132
+12	fight	fight	VERB	VB	VerbForm=Inf	11	_	_	start_char=133|end_char=138|SpaceAfter=No
+13	"	"	PUNCT	''	_	12	_	_	start_char=138|end_char=139
+14	following	follow	VERB	VBG	VerbForm=Ger	13	_	_	start_char=140|end_char=149
+15	reports	report	NOUN	NNS	Number=Plur	14	_	_	start_char=150|end_char=157
+16	of	of	ADP	IN	_	15	_	_	start_char=158|end_char=160
+17	multiple	multiple	ADJ	JJ	Degree=Pos	16	_	_	start_char=161|end_char=169
+18	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	17	_	_	start_char=170|end_char=179
+19	mayors	mayor	NOUN	NNS	Number=Plur	18	_	_	start_char=180|end_char=186
+20	being	be	AUX	VBG	VerbForm=Ger	19	_	_	start_char=187|end_char=192
+21	kidnapped	kidnap	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	20	_	_	start_char=193|end_char=202
+22	by	by	ADP	IN	_	21	_	_	start_char=203|end_char=205
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=206|end_char=209
+24	invading	invade	VERB	VBG	VerbForm=Ger	23	_	_	start_char=210|end_char=218
+25	Russian	Russian	ADJ	JJ	Degree=Pos	24	_	_	start_char=219|end_char=226
+26	military	military	NOUN	NN	Number=Sing	25	_	_	start_char=227|end_char=235|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=235|end_char=236|SpacesAfter=\n\n
+
+# text = Ukraine has accused Russian forces of capturing mayors in Dniprorudne and Melitopol in recent days, sparking concerns that additional mayors could be kidnapped next, including the mayor of the country's capital city.
+# sent_id = 3
+1	Ukraine	Ukraine	PROPN	NNP	Number=Sing	0	_	_	start_char=238|end_char=245
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=246|end_char=249
+3	accused	accuse	VERB	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=250|end_char=257
+4	Russian	Russian	ADJ	JJ	Degree=Pos	3	_	_	start_char=258|end_char=265
+5	forces	force	NOUN	NNS	Number=Plur	4	_	_	start_char=266|end_char=272
+6	of	of	SCONJ	IN	_	5	_	_	start_char=273|end_char=275
+7	capturing	capture	VERB	VBG	VerbForm=Ger	6	_	_	start_char=276|end_char=285
+8	mayors	mayor	NOUN	NNS	Number=Plur	7	_	_	start_char=286|end_char=292
+9	in	in	ADP	IN	_	8	_	_	start_char=293|end_char=295
+10	Dniprorudne	Dniprorudne	PROPN	NNP	Number=Sing	9	_	_	start_char=296|end_char=307
+11	and	and	CCONJ	CC	_	10	_	_	start_char=308|end_char=311
+12	Melitopol	Melitopol	PROPN	NNP	Number=Sing	11	_	_	start_char=312|end_char=321
+13	in	in	ADP	IN	_	12	_	_	start_char=322|end_char=324
+14	recent	recent	ADJ	JJ	Degree=Pos	13	_	_	start_char=325|end_char=331
+15	days	day	NOUN	NNS	Number=Plur	14	_	_	start_char=332|end_char=336|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=336|end_char=337
+17	sparking	spark	VERB	VBG	VerbForm=Ger	16	_	_	start_char=338|end_char=346
+18	concerns	concern	NOUN	NNS	Number=Plur	17	_	_	start_char=347|end_char=355
+19	that	that	SCONJ	IN	_	18	_	_	start_char=356|end_char=360
+20	additional	additional	ADJ	JJ	Degree=Pos	19	_	_	start_char=361|end_char=371
+21	mayors	mayor	NOUN	NNS	Number=Plur	20	_	_	start_char=372|end_char=378
+22	could	could	AUX	MD	VerbForm=Fin	21	_	_	start_char=379|end_char=384
+23	be	be	AUX	VB	VerbForm=Inf	22	_	_	start_char=385|end_char=387
+24	kidnapped	kidnap	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	23	_	_	start_char=388|end_char=397
+25	next	next	ADV	RB	_	24	_	_	start_char=398|end_char=402|SpaceAfter=No
+26	,	,	PUNCT	,	_	25	_	_	start_char=402|end_char=403
+27	including	include	VERB	VBG	VerbForm=Ger	26	_	_	start_char=404|end_char=413
+28	the	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=414|end_char=417
+29	mayor	mayor	NOUN	NN	Number=Sing	28	_	_	start_char=418|end_char=423
+30	of	of	ADP	IN	_	29	_	_	start_char=424|end_char=426
+31	the	the	DET	DT	Definite=Def|PronType=Art	30	_	_	start_char=427|end_char=430
+32-33	country's	_	_	_	_	_	_	_	start_char=431|end_char=440
+32	country	country	NOUN	NN	Number=Sing	31	_	_	start_char=431|end_char=438
+33	's	's	PART	POS	_	32	_	_	start_char=438|end_char=440
+34	capital	capital	NOUN	NN	Number=Sing	33	_	_	start_char=441|end_char=448
+35	city	city	NOUN	NN	Number=Sing	34	_	_	start_char=449|end_char=453|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=453|end_char=454|SpacesAfter=\n\n
+
+# text = Klitschko, who was a highly regarded world heavyweight boxing champion before entering politics, insisted during a Fox News interview on Monday that any Russian soldiers who hope to capture him would find that their task was "not easy."
+# sent_id = 4
+1	Klitschko	Klitschko	PROPN	NNP	Number=Sing	0	_	_	start_char=456|end_char=465|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=465|end_char=466
+3	who	who	PRON	WP	PronType=Rel	2	_	_	start_char=467|end_char=470
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=471|end_char=474
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=475|end_char=476
+6	highly	highly	ADV	RB	_	5	_	_	start_char=477|end_char=483
+7	regarded	regard	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=484|end_char=492
+8	world	world	NOUN	NN	Number=Sing	7	_	_	start_char=493|end_char=498
+9	heavyweight	heavyweight	NOUN	NN	Number=Sing	8	_	_	start_char=499|end_char=510
+10	boxing	boxing	NOUN	NN	Number=Sing	9	_	_	start_char=511|end_char=517
+11	champion	champion	NOUN	NN	Number=Sing	10	_	_	start_char=518|end_char=526
+12	before	before	SCONJ	IN	_	11	_	_	start_char=527|end_char=533
+13	entering	enter	VERB	VBG	VerbForm=Ger	12	_	_	start_char=534|end_char=542
+14	politics	politics	NOUN	NNS	Number=Plur	13	_	_	start_char=543|end_char=551|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=551|end_char=552
+16	insisted	insist	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	_	_	start_char=553|end_char=561
+17	during	during	ADP	IN	_	16	_	_	start_char=562|end_char=568
+18	a	a	DET	DT	Definite=Ind|PronType=Art	17	_	_	start_char=569|end_char=570
+19	Fox	Fox	PROPN	NNP	Number=Sing	18	_	_	start_char=571|end_char=574
+20	News	News	PROPN	NNP	Number=Sing	19	_	_	start_char=575|end_char=579
+21	interview	interview	NOUN	NN	Number=Sing	20	_	_	start_char=580|end_char=589
+22	on	on	ADP	IN	_	21	_	_	start_char=590|end_char=592
+23	Monday	Monday	PROPN	NNP	Number=Sing	22	_	_	start_char=593|end_char=599
+24	that	that	SCONJ	IN	_	23	_	_	start_char=600|end_char=604
+25	any	any	DET	DT	_	24	_	_	start_char=605|end_char=608
+26	Russian	Russian	ADJ	JJ	Degree=Pos	25	_	_	start_char=609|end_char=616
+27	soldiers	soldier	NOUN	NNS	Number=Plur	26	_	_	start_char=617|end_char=625
+28	who	who	PRON	WP	PronType=Rel	27	_	_	start_char=626|end_char=629
+29	hope	hope	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	28	_	_	start_char=630|end_char=634
+30	to	to	PART	TO	_	29	_	_	start_char=635|end_char=637
+31	capture	capture	VERB	VB	VerbForm=Inf	30	_	_	start_char=638|end_char=645
+32	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	31	_	_	start_char=646|end_char=649
+33	would	would	AUX	MD	VerbForm=Fin	32	_	_	start_char=650|end_char=655
+34	find	find	VERB	VB	VerbForm=Inf	33	_	_	start_char=656|end_char=660
+35	that	that	SCONJ	IN	_	34	_	_	start_char=661|end_char=665
+36	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	35	_	_	start_char=666|end_char=671
+37	task	task	NOUN	NN	Number=Sing	36	_	_	start_char=672|end_char=676
+38	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	37	_	_	start_char=677|end_char=680
+39	"	"	PUNCT	``	_	38	_	_	start_char=681|end_char=682|SpaceAfter=No
+40	not	not	PART	RB	_	39	_	_	start_char=682|end_char=685
+41	easy	easy	ADJ	JJ	Degree=Pos	40	_	_	start_char=686|end_char=690|SpaceAfter=No
+42	.	.	PUNCT	.	_	41	_	_	start_char=690|end_char=691|SpaceAfter=No
+43	"	"	PUNCT	''	_	42	_	_	start_char=691|end_char=692|SpacesAfter=\n\n
+
+# text = "I am ready to fight," Klitschko said after America Reports host John Roberts asked him about a potential kidnapping attempt.
+# sent_id = 5
+1	"	"	PUNCT	``	_	0	_	_	start_char=694|end_char=695|SpaceAfter=No
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	_	_	start_char=695|end_char=696
+3	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=697|end_char=699
+4	ready	ready	ADJ	JJ	Degree=Pos	3	_	_	start_char=700|end_char=705
+5	to	to	PART	TO	_	4	_	_	start_char=706|end_char=708
+6	fight	fight	VERB	VB	VerbForm=Inf	5	_	_	start_char=709|end_char=714|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=714|end_char=715|SpaceAfter=No
+8	"	"	PUNCT	''	_	7	_	_	start_char=715|end_char=716
+9	Klitschko	Klitschko	PROPN	NNP	Number=Sing	8	_	_	start_char=717|end_char=726
+10	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=727|end_char=731
+11	after	after	SCONJ	IN	_	10	_	_	start_char=732|end_char=737
+12	America	America	PROPN	NNP	Number=Sing	11	_	_	start_char=738|end_char=745
+13	Reports	report	NOUN	NNS	Number=Plur	12	_	_	start_char=746|end_char=753
+14	host	host	NOUN	NN	Number=Sing	13	_	_	start_char=754|end_char=758
+15	John	John	PROPN	NNP	Number=Sing	14	_	_	start_char=759|end_char=763
+16	Roberts	Roberts	PROPN	NNP	Number=Sing	15	_	_	start_char=764|end_char=771
+17	asked	ask	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	_	_	start_char=772|end_char=777
+18	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	_	_	start_char=778|end_char=781
+19	about	about	ADP	IN	_	18	_	_	start_char=782|end_char=787
+20	a	a	DET	DT	Definite=Ind|PronType=Art	19	_	_	start_char=788|end_char=789
+21	potential	potential	ADJ	JJ	Degree=Pos	20	_	_	start_char=790|end_char=799
+22	kidnapping	kidnap	NOUN	NN	Number=Sing	21	_	_	start_char=800|end_char=810
+23	attempt	attempt	NOUN	NN	Number=Sing	22	_	_	start_char=811|end_char=818|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=818|end_char=819
+
+# text = "This will be not easy to do that ... nobody feels safety in our country right now in this very difficult situation.
+# sent_id = 6
+1	"	"	PUNCT	``	_	0	_	_	start_char=820|end_char=821|SpaceAfter=No
+2	This	this	PRON	DT	Number=Sing|PronType=Dem	1	_	_	start_char=821|end_char=825
+3	will	will	AUX	MD	VerbForm=Fin	2	_	_	start_char=826|end_char=830
+4	be	be	AUX	VB	VerbForm=Inf	3	_	_	start_char=831|end_char=833
+5	not	not	PART	RB	_	4	_	_	start_char=834|end_char=837
+6	easy	easy	ADJ	JJ	Degree=Pos	5	_	_	start_char=838|end_char=842
+7	to	to	PART	TO	_	6	_	_	start_char=843|end_char=845
+8	do	do	VERB	VB	VerbForm=Inf	7	_	_	start_char=846|end_char=848
+9	that	that	PRON	DT	Number=Sing|PronType=Dem	8	_	_	start_char=849|end_char=853
+10	...	...	PUNCT	,	_	9	_	_	start_char=854|end_char=857
+11	nobody	nobody	PRON	NN	Number=Sing|PronType=Neg	10	_	_	start_char=858|end_char=864
+12	feels	feel	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=865|end_char=870
+13	safety	safety	NOUN	NN	Number=Sing	12	_	_	start_char=871|end_char=877
+14	in	in	ADP	IN	_	13	_	_	start_char=878|end_char=880
+15	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	14	_	_	start_char=881|end_char=884
+16	country	country	NOUN	NN	Number=Sing	15	_	_	start_char=885|end_char=892
+17	right	right	ADV	RB	_	16	_	_	start_char=893|end_char=898
+18	now	now	ADV	RB	_	17	_	_	start_char=899|end_char=902
+19	in	in	ADP	IN	_	18	_	_	start_char=903|end_char=905
+20	this	this	DET	DT	Number=Sing|PronType=Dem	19	_	_	start_char=906|end_char=910
+21	very	very	ADV	RB	_	20	_	_	start_char=911|end_char=915
+22	difficult	difficult	ADJ	JJ	Degree=Pos	21	_	_	start_char=916|end_char=925
+23	situation	situation	NOUN	NN	Number=Sing	22	_	_	start_char=926|end_char=935|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=935|end_char=936
+
+# text = Everyone [is] ready to fight, ready to defend our city."
+# sent_id = 7
+1	Everyone	everyone	PRON	NN	Number=Sing|PronType=Tot	0	_	_	start_char=937|end_char=945
+2	[	[	PUNCT	-LRB-	_	1	_	_	start_char=946|end_char=947|SpaceAfter=No
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=947|end_char=949|SpaceAfter=No
+4	]	]	PUNCT	-RRB-	_	3	_	_	start_char=949|end_char=950
+5	ready	ready	ADJ	JJ	Degree=Pos	4	_	_	start_char=951|end_char=956
+6	to	to	PART	TO	_	5	_	_	start_char=957|end_char=959
+7	fight	fight	VERB	VB	VerbForm=Inf	6	_	_	start_char=960|end_char=965|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=965|end_char=966
+9	ready	ready	ADJ	JJ	Degree=Pos	8	_	_	start_char=967|end_char=972
+10	to	to	PART	TO	_	9	_	_	start_char=973|end_char=975
+11	defend	defend	VERB	VB	VerbForm=Inf	10	_	_	start_char=976|end_char=982
+12	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	11	_	_	start_char=983|end_char=986
+13	city	city	NOUN	NN	Number=Sing	12	_	_	start_char=987|end_char=991|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=991|end_char=992|SpaceAfter=No
+15	"	"	PUNCT	''	_	14	_	_	start_char=992|end_char=993|SpacesAfter=\n\n
+
+# text = "I am not worried about kidnap," he added.
+# sent_id = 8
+1	"	"	PUNCT	``	_	0	_	_	start_char=995|end_char=996|SpaceAfter=No
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	_	_	start_char=996|end_char=997
+3	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=998|end_char=1000
+4	not	not	PART	RB	_	3	_	_	start_char=1001|end_char=1004
+5	worried	worried	ADJ	JJ	Degree=Pos	4	_	_	start_char=1005|end_char=1012
+6	about	about	ADP	IN	_	5	_	_	start_char=1013|end_char=1018
+7	kidnap	kidnap	NOUN	NN	Number=Sing	6	_	_	start_char=1019|end_char=1025|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=1025|end_char=1026|SpaceAfter=No
+9	"	"	PUNCT	''	_	8	_	_	start_char=1026|end_char=1027
+10	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	_	_	start_char=1028|end_char=1030
+11	added	add	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=1031|end_char=1036|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=1036|end_char=1037
+
+# text = "I am ready to fight, that's why I have weapons, that's why it's my hometown and I want to defend the interest of my citizens, the interest of my home, the interest of my family."
+# sent_id = 9
+1	"	"	PUNCT	``	_	0	_	_	start_char=1038|end_char=1039|SpaceAfter=No
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	_	_	start_char=1039|end_char=1040
+3	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1041|end_char=1043
+4	ready	ready	ADJ	JJ	Degree=Pos	3	_	_	start_char=1044|end_char=1049
+5	to	to	PART	TO	_	4	_	_	start_char=1050|end_char=1052
+6	fight	fight	VERB	VB	VerbForm=Inf	5	_	_	start_char=1053|end_char=1058|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=1058|end_char=1059
+8-9	that's	_	_	_	_	_	_	_	start_char=1060|end_char=1066
+8	that	that	PRON	DT	Number=Sing|PronType=Dem	7	_	_	start_char=1060|end_char=1064
+9	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=1064|end_char=1066
+10	why	why	ADV	WRB	PronType=Rel	9	_	_	start_char=1067|end_char=1070
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	_	_	start_char=1071|end_char=1072
+12	have	have	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	_	_	start_char=1073|end_char=1077
+13	weapons	weapon	NOUN	NNS	Number=Plur	12	_	_	start_char=1078|end_char=1085|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=1085|end_char=1086
+15-16	that's	_	_	_	_	_	_	_	start_char=1087|end_char=1093
+15	that	that	PRON	DT	Number=Sing|PronType=Dem	14	_	_	start_char=1087|end_char=1091
+16	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=1091|end_char=1093
+17	why	why	ADV	WRB	PronType=Rel	16	_	_	start_char=1094|end_char=1097
+18-19	it's	_	_	_	_	_	_	_	start_char=1098|end_char=1102
+18	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	_	_	start_char=1098|end_char=1100
+19	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=1100|end_char=1102
+20	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	19	_	_	start_char=1103|end_char=1105
+21	hometown	hometown	NOUN	NN	Number=Sing	20	_	_	start_char=1106|end_char=1114
+22	and	and	CCONJ	CC	_	21	_	_	start_char=1115|end_char=1118
+23	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	22	_	_	start_char=1119|end_char=1120
+24	want	want	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	23	_	_	start_char=1121|end_char=1125
+25	to	to	PART	TO	_	24	_	_	start_char=1126|end_char=1128
+26	defend	defend	VERB	VB	VerbForm=Inf	25	_	_	start_char=1129|end_char=1135
+27	the	the	DET	DT	Definite=Def|PronType=Art	26	_	_	start_char=1136|end_char=1139
+28	interest	interest	NOUN	NN	Number=Sing	27	_	_	start_char=1140|end_char=1148
+29	of	of	ADP	IN	_	28	_	_	start_char=1149|end_char=1151
+30	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	29	_	_	start_char=1152|end_char=1154
+31	citizens	citizen	NOUN	NNS	Number=Plur	30	_	_	start_char=1155|end_char=1163|SpaceAfter=No
+32	,	,	PUNCT	,	_	31	_	_	start_char=1163|end_char=1164
+33	the	the	DET	DT	Definite=Def|PronType=Art	32	_	_	start_char=1165|end_char=1168
+34	interest	interest	NOUN	NN	Number=Sing	33	_	_	start_char=1169|end_char=1177
+35	of	of	ADP	IN	_	34	_	_	start_char=1178|end_char=1180
+36	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	35	_	_	start_char=1181|end_char=1183
+37	home	home	NOUN	NN	Number=Sing	36	_	_	start_char=1184|end_char=1188|SpaceAfter=No
+38	,	,	PUNCT	,	_	37	_	_	start_char=1188|end_char=1189
+39	the	the	DET	DT	Definite=Def|PronType=Art	38	_	_	start_char=1190|end_char=1193
+40	interest	interest	NOUN	NN	Number=Sing	39	_	_	start_char=1194|end_char=1202
+41	of	of	ADP	IN	_	40	_	_	start_char=1203|end_char=1205
+42	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	41	_	_	start_char=1206|end_char=1208
+43	family	family	NOUN	NN	Number=Sing	42	_	_	start_char=1209|end_char=1215|SpaceAfter=No
+44	.	.	PUNCT	.	_	43	_	_	start_char=1215|end_char=1216|SpaceAfter=No
+45	"	"	PUNCT	''	_	44	_	_	start_char=1216|end_char=1217|SpacesAfter=\n\n
+
+# text = Ukrainian officials announced the kidnapping of Dniprorudne Mayor Matveev Sergeevich on Sunday, while they said that Melitopol Mayor Ivan Fedorov was captured two days earlier.
+# sent_id = 10
+1	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	0	_	_	start_char=1219|end_char=1228
+2	officials	official	NOUN	NNS	Number=Plur	1	_	_	start_char=1229|end_char=1238
+3	announced	announce	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1239|end_char=1248
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1249|end_char=1252
+5	kidnapping	kidnap	NOUN	NN	Number=Sing	4	_	_	start_char=1253|end_char=1263
+6	of	of	ADP	IN	_	5	_	_	start_char=1264|end_char=1266
+7	Dniprorudne	Dniprorudne	PROPN	NNP	Number=Sing	6	_	_	start_char=1267|end_char=1278
+8	Mayor	Mayor	PROPN	NNP	Number=Sing	7	_	_	start_char=1279|end_char=1284
+9	Matveev	Matveev	PROPN	NNP	Number=Sing	8	_	_	start_char=1285|end_char=1292
+10	Sergeevich	Sergeevich	PROPN	NNP	Number=Sing	9	_	_	start_char=1293|end_char=1303
+11	on	on	ADP	IN	_	10	_	_	start_char=1304|end_char=1306
+12	Sunday	Sunday	PROPN	NNP	Number=Sing	11	_	_	start_char=1307|end_char=1313|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=1313|end_char=1314
+14	while	while	SCONJ	IN	_	13	_	_	start_char=1315|end_char=1320
+15	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	_	_	start_char=1321|end_char=1325
+16	said	say	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	15	_	_	start_char=1326|end_char=1330
+17	that	that	SCONJ	IN	_	16	_	_	start_char=1331|end_char=1335
+18	Melitopol	Melitopol	PROPN	NNP	Number=Sing	17	_	_	start_char=1336|end_char=1345
+19	Mayor	Mayor	PROPN	NNP	Number=Sing	18	_	_	start_char=1346|end_char=1351
+20	Ivan	Ivan	PROPN	NNP	Number=Sing	19	_	_	start_char=1352|end_char=1356
+21	Fedorov	Fedorov	PROPN	NNP	Number=Sing	20	_	_	start_char=1357|end_char=1364
+22	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	_	_	start_char=1365|end_char=1368
+23	captured	capture	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	22	_	_	start_char=1369|end_char=1377
+24	two	two	NUM	CD	NumForm=Word|NumType=Card	23	_	_	start_char=1378|end_char=1381
+25	days	day	NOUN	NNS	Number=Plur	24	_	_	start_char=1382|end_char=1386
+26	earlier	early	ADV	RBR	Degree=Cmp	25	_	_	start_char=1387|end_char=1394|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=1394|end_char=1395
+
+# text = Russia went on to appoint a Moscow-friendly mayor in Melitopol.
+# sent_id = 11
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=1396|end_char=1402
+2	went	go	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1403|end_char=1407
+3	on	on	ADV	RB	_	2	_	_	start_char=1408|end_char=1410
+4	to	to	PART	TO	_	3	_	_	start_char=1411|end_char=1413
+5	appoint	appoint	VERB	VB	VerbForm=Inf	4	_	_	start_char=1414|end_char=1421
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=1422|end_char=1423
+7	Moscow	Moscow	PROPN	NNP	Number=Sing	6	_	_	start_char=1424|end_char=1430|SpaceAfter=No
+8	-	-	PUNCT	HYPH	_	7	_	_	start_char=1430|end_char=1431|SpaceAfter=No
+9	friendly	friendly	ADJ	JJ	Degree=Pos	8	_	_	start_char=1431|end_char=1439
+10	mayor	mayor	NOUN	NN	Number=Sing	9	_	_	start_char=1440|end_char=1445
+11	in	in	ADP	IN	_	10	_	_	start_char=1446|end_char=1448
+12	Melitopol	Melitopol	PROPN	NNP	Number=Sing	11	_	_	start_char=1449|end_char=1458|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=1458|end_char=1459|SpacesAfter=\n\n
+
+# text = While commenting on the kidnapping of Fedorov, which was partially captured on video, Ukrainian President Volodymyr Zelensky asserted that "the actions of Russian invaders will be equated with the actions of ISIS terrorists."
+# sent_id = 12
+1	While	while	SCONJ	IN	_	0	_	_	start_char=1461|end_char=1466
+2	commenting	comment	VERB	VBG	VerbForm=Ger	1	_	_	start_char=1467|end_char=1477
+3	on	on	ADP	IN	_	2	_	_	start_char=1478|end_char=1480
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1481|end_char=1484
+5	kidnapping	kidnap	NOUN	NN	Number=Sing	4	_	_	start_char=1485|end_char=1495
+6	of	of	ADP	IN	_	5	_	_	start_char=1496|end_char=1498
+7	Fedorov	Fedorov	PROPN	NNP	Number=Sing	6	_	_	start_char=1499|end_char=1506|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=1506|end_char=1507
+9	which	which	PRON	WDT	PronType=Rel	8	_	_	start_char=1508|end_char=1513
+10	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=1514|end_char=1517
+11	partially	partially	ADV	RB	_	10	_	_	start_char=1518|end_char=1527
+12	captured	capture	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	11	_	_	start_char=1528|end_char=1536
+13	on	on	ADP	IN	_	12	_	_	start_char=1537|end_char=1539
+14	video	video	NOUN	NN	Number=Sing	13	_	_	start_char=1540|end_char=1545|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=1545|end_char=1546
+16	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	15	_	_	start_char=1547|end_char=1556
+17	President	President	PROPN	NNP	Number=Sing	16	_	_	start_char=1557|end_char=1566
+18	Volodymyr	Volodymyr	PROPN	NNP	Number=Sing	17	_	_	start_char=1567|end_char=1576
+19	Zelensky	Zelensky	PROPN	NNP	Number=Sing	18	_	_	start_char=1577|end_char=1585
+20	asserted	assert	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	_	_	start_char=1586|end_char=1594
+21	that	that	SCONJ	IN	_	20	_	_	start_char=1595|end_char=1599
+22	"	"	PUNCT	``	_	21	_	_	start_char=1600|end_char=1601|SpaceAfter=No
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=1601|end_char=1604
+24	actions	action	NOUN	NNS	Number=Plur	23	_	_	start_char=1605|end_char=1612
+25	of	of	ADP	IN	_	24	_	_	start_char=1613|end_char=1615
+26	Russian	Russian	ADJ	JJ	Degree=Pos	25	_	_	start_char=1616|end_char=1623
+27	invaders	invader	NOUN	NNS	Number=Plur	26	_	_	start_char=1624|end_char=1632
+28	will	will	AUX	MD	VerbForm=Fin	27	_	_	start_char=1633|end_char=1637
+29	be	be	AUX	VB	VerbForm=Inf	28	_	_	start_char=1638|end_char=1640
+30	equated	equate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	29	_	_	start_char=1641|end_char=1648
+31	with	with	ADP	IN	_	30	_	_	start_char=1649|end_char=1653
+32	the	the	DET	DT	Definite=Def|PronType=Art	31	_	_	start_char=1654|end_char=1657
+33	actions	action	NOUN	NNS	Number=Plur	32	_	_	start_char=1658|end_char=1665
+34	of	of	ADP	IN	_	33	_	_	start_char=1666|end_char=1668
+35	ISIS	ISIS	PROPN	NNP	Number=Sing	34	_	_	start_char=1669|end_char=1673
+36	terrorists	terrorist	NOUN	NNS	Number=Plur	35	_	_	start_char=1674|end_char=1684|SpaceAfter=No
+37	.	.	PUNCT	.	_	36	_	_	start_char=1684|end_char=1685|SpaceAfter=No
+38	"	"	PUNCT	''	_	37	_	_	start_char=1685|end_char=1686|SpacesAfter=\n\n
+
+# text = Klitschko suggested that the kidnappings were part of a pattern of "un-human" Russian troops choosing to ignore the international rules of war, noting that mayors are civilian targets.
+# sent_id = 13
+1	Klitschko	Klitschko	PROPN	NNP	Number=Sing	0	_	_	start_char=1688|end_char=1697
+2	suggested	suggest	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1698|end_char=1707
+3	that	that	SCONJ	IN	_	2	_	_	start_char=1708|end_char=1712
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1713|end_char=1716
+5	kidnappings	kidnapping	NOUN	NNS	Number=Plur	4	_	_	start_char=1717|end_char=1728
+6	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=1729|end_char=1733
+7	part	part	NOUN	NN	Number=Sing	6	_	_	start_char=1734|end_char=1738
+8	of	of	ADP	IN	_	7	_	_	start_char=1739|end_char=1741
+9	a	a	DET	DT	Definite=Ind|PronType=Art	8	_	_	start_char=1742|end_char=1743
+10	pattern	pattern	NOUN	NN	Number=Sing	9	_	_	start_char=1744|end_char=1751
+11	of	of	ADP	IN	_	10	_	_	start_char=1752|end_char=1754
+12	"	"	PUNCT	``	_	11	_	_	start_char=1755|end_char=1756|SpaceAfter=No
+13	un-human	un-human	ADJ	JJ	Degree=Pos	12	_	_	start_char=1756|end_char=1764|SpaceAfter=No
+14	"	"	PUNCT	''	_	13	_	_	start_char=1764|end_char=1765
+15	Russian	Russian	ADJ	JJ	Degree=Pos	14	_	_	start_char=1766|end_char=1773
+16	troops	troops	NOUN	NNS	Number=Plur	15	_	_	start_char=1774|end_char=1780
+17	choosing	choose	VERB	VBG	VerbForm=Ger	16	_	_	start_char=1781|end_char=1789
+18	to	to	PART	TO	_	17	_	_	start_char=1790|end_char=1792
+19	ignore	ignore	VERB	VB	VerbForm=Inf	18	_	_	start_char=1793|end_char=1799
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=1800|end_char=1803
+21	international	international	ADJ	JJ	Degree=Pos	20	_	_	start_char=1804|end_char=1817
+22	rules	rule	NOUN	NNS	Number=Plur	21	_	_	start_char=1818|end_char=1823
+23	of	of	ADP	IN	_	22	_	_	start_char=1824|end_char=1826
+24	war	war	NOUN	NN	Number=Sing	23	_	_	start_char=1827|end_char=1830|SpaceAfter=No
+25	,	,	PUNCT	,	_	24	_	_	start_char=1830|end_char=1831
+26	noting	note	VERB	VBG	VerbForm=Ger	25	_	_	start_char=1832|end_char=1838
+27	that	that	SCONJ	IN	_	26	_	_	start_char=1839|end_char=1843
+28	mayors	mayor	NOUN	NNS	Number=Plur	27	_	_	start_char=1844|end_char=1850
+29	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	28	_	_	start_char=1851|end_char=1854
+30	civilian	civilian	ADJ	JJ	Degree=Pos	29	_	_	start_char=1855|end_char=1863
+31	targets	target	NOUN	NNS	Number=Plur	30	_	_	start_char=1864|end_char=1871|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=1871|end_char=1872|SpacesAfter=\n\n
+
+# text = "War also has rules," said Klitschko.
+# sent_id = 14
+1	"	"	PUNCT	``	_	0	_	_	start_char=1874|end_char=1875|SpaceAfter=No
+2	War	war	NOUN	NN	Number=Sing	1	_	_	start_char=1875|end_char=1878
+3	also	also	ADV	RB	_	2	_	_	start_char=1879|end_char=1883
+4	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1884|end_char=1887
+5	rules	rule	NOUN	NNS	Number=Plur	4	_	_	start_char=1888|end_char=1893|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=1893|end_char=1894|SpaceAfter=No
+7	"	"	PUNCT	''	_	6	_	_	start_char=1894|end_char=1895
+8	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=1896|end_char=1900
+9	Klitschko	Klitschko	PROPN	NNP	Number=Sing	8	_	_	start_char=1901|end_char=1910|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=1910|end_char=1911
+
+# text = "But Russians [don't] want the rules ... what they want is the symbol ... they can't break the mood of the people and that's why they kidnap the mayors."
+# sent_id = 15
+1	"	"	PUNCT	``	_	0	_	_	start_char=1912|end_char=1913|SpaceAfter=No
+2	But	but	CCONJ	CC	_	1	_	_	start_char=1913|end_char=1916
+3	Russians	Russian	PROPN	NNPS	Number=Plur	2	_	_	start_char=1917|end_char=1925
+4	[	[	PUNCT	-LRB-	_	3	_	_	start_char=1926|end_char=1927|SpaceAfter=No
+5-6	don't	_	_	_	_	_	_	_	start_char=1927|end_char=1932|SpaceAfter=No
+5	do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1927|end_char=1929
+6	n't	not	PART	RB	_	5	_	_	start_char=1929|end_char=1932
+7	]	]	PUNCT	-RRB-	_	6	_	_	start_char=1932|end_char=1933
+8	want	want	VERB	VB	VerbForm=Inf	7	_	_	start_char=1934|end_char=1938
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1939|end_char=1942
+10	rules	rule	NOUN	NNS	Number=Plur	9	_	_	start_char=1943|end_char=1948
+11	...	...	PUNCT	,	_	10	_	_	start_char=1949|end_char=1952
+12	what	what	PRON	WP	PronType=Rel	11	_	_	start_char=1953|end_char=1957
+13	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	_	_	start_char=1958|end_char=1962
+14	want	want	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=1963|end_char=1967
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=1968|end_char=1970
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=1971|end_char=1974
+17	symbol	symbol	NOUN	NN	Number=Sing	16	_	_	start_char=1975|end_char=1981
+18	...	...	PUNCT	,	_	17	_	_	start_char=1982|end_char=1985
+19	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	_	_	start_char=1986|end_char=1990
+20-21	can't	_	_	_	_	_	_	_	start_char=1991|end_char=1996
+20	ca	can	AUX	MD	VerbForm=Fin	19	_	_	start_char=1991|end_char=1993
+21	n't	not	PART	RB	_	20	_	_	start_char=1993|end_char=1996
+22	break	break	VERB	VB	VerbForm=Inf	21	_	_	start_char=1997|end_char=2002
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=2003|end_char=2006
+24	mood	mood	NOUN	NN	Number=Sing	23	_	_	start_char=2007|end_char=2011
+25	of	of	ADP	IN	_	24	_	_	start_char=2012|end_char=2014
+26	the	the	DET	DT	Definite=Def|PronType=Art	25	_	_	start_char=2015|end_char=2018
+27	people	person	NOUN	NNS	Number=Plur	26	_	_	start_char=2019|end_char=2025
+28	and	and	CCONJ	CC	_	27	_	_	start_char=2026|end_char=2029
+29-30	that's	_	_	_	_	_	_	_	start_char=2030|end_char=2036
+29	that	that	PRON	DT	Number=Sing|PronType=Dem	28	_	_	start_char=2030|end_char=2034
+30	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	_	_	start_char=2034|end_char=2036
+31	why	why	ADV	WRB	PronType=Rel	30	_	_	start_char=2037|end_char=2040
+32	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	31	_	_	start_char=2041|end_char=2045
+33	kidnap	kidnap	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	32	_	_	start_char=2046|end_char=2052
+34	the	the	DET	DT	Definite=Def|PronType=Art	33	_	_	start_char=2053|end_char=2056
+35	mayors	mayor	NOUN	NNS	Number=Plur	34	_	_	start_char=2057|end_char=2063|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=2063|end_char=2064|SpaceAfter=No
+37	"	"	PUNCT	''	_	36	_	_	start_char=2064|end_char=2065|SpacesAfter=\n\n
+
+# text = "Its actually against all rules," Klitschko continued.
+# sent_id = 16
+1	"	"	PUNCT	``	_	0	_	_	start_char=2067|end_char=2068|SpaceAfter=No
+2-3	Its	_	_	_	_	_	_	_	start_char=2068|end_char=2071
+2	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	_	_	start_char=2068|end_char=2070
+3	s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2070|end_char=2071
+4	actually	actually	ADV	RB	_	3	_	_	start_char=2072|end_char=2080
+5	against	against	ADP	IN	_	4	_	_	start_char=2081|end_char=2088
+6	all	all	DET	DT	PronType=Tot	5	_	_	start_char=2089|end_char=2092
+7	rules	rule	NOUN	NNS	Number=Plur	6	_	_	start_char=2093|end_char=2098|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=2098|end_char=2099|SpaceAfter=No
+9	"	"	PUNCT	''	_	8	_	_	start_char=2099|end_char=2100
+10	Klitschko	Klitschko	PROPN	NNP	Number=Sing	9	_	_	start_char=2101|end_char=2110
+11	continued	continue	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=2111|end_char=2120|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=2120|end_char=2121
+
+# text = "We see how unfriendly, how un-human activity make Russians in our land."
+# sent_id = 17
+1	"	"	PUNCT	``	_	0	_	_	start_char=2122|end_char=2123|SpaceAfter=No
+2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	1	_	_	start_char=2123|end_char=2125
+3	see	see	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2126|end_char=2129
+4	how	how	ADV	WRB	PronType=Int	3	_	_	start_char=2130|end_char=2133
+5	unfriendly	unfriendly	ADJ	JJ	Degree=Pos	4	_	_	start_char=2134|end_char=2144|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=2144|end_char=2145
+7	how	how	ADV	WRB	PronType=Int	6	_	_	start_char=2146|end_char=2149
+8	un	un	NOUN	NN	Number=Sing	7	_	_	start_char=2150|end_char=2152|SpaceAfter=No
+9	-	-	PUNCT	HYPH	_	8	_	_	start_char=2152|end_char=2153|SpaceAfter=No
+10	human	human	ADJ	JJ	Degree=Pos	9	_	_	start_char=2153|end_char=2158
+11	activity	activity	NOUN	NN	Number=Sing	10	_	_	start_char=2159|end_char=2167
+12	make	make	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=2168|end_char=2172
+13	Russians	Russian	PROPN	NNPS	Number=Plur	12	_	_	start_char=2173|end_char=2181
+14	in	in	ADP	IN	_	13	_	_	start_char=2182|end_char=2184
+15	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	14	_	_	start_char=2185|end_char=2188
+16	land	land	NOUN	NN	Number=Sing	15	_	_	start_char=2189|end_char=2193|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=2193|end_char=2194|SpaceAfter=No
+18	"	"	PUNCT	''	_	17	_	_	start_char=2194|end_char=2195|SpacesAfter=\n\n
+
+# text = Following Russian bombing campaigns on Monday, the Kyiv mayor surveyed scenes of damage in the city alongside his brother Wladimir Klitschko, who is also a former world heavyweight boxing champion.
+# sent_id = 18
+1	Following	follow	VERB	VBG	VerbForm=Ger	0	_	_	start_char=2197|end_char=2206
+2	Russian	Russian	ADJ	JJ	Degree=Pos	1	_	_	start_char=2207|end_char=2214
+3	bombing	bombing	NOUN	NN	Number=Sing	2	_	_	start_char=2215|end_char=2222
+4	campaigns	campaign	NOUN	NNS	Number=Plur	3	_	_	start_char=2223|end_char=2232
+5	on	on	ADP	IN	_	4	_	_	start_char=2233|end_char=2235
+6	Monday	Monday	PROPN	NNP	Number=Sing	5	_	_	start_char=2236|end_char=2242|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=2242|end_char=2243
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=2244|end_char=2247
+9	Kyiv	Kyiv	PROPN	NNP	Number=Sing	8	_	_	start_char=2248|end_char=2252
+10	mayor	mayor	NOUN	NN	Number=Sing	9	_	_	start_char=2253|end_char=2258
+11	surveyed	survey	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=2259|end_char=2267
+12	scenes	scene	NOUN	NNS	Number=Plur	11	_	_	start_char=2268|end_char=2274
+13	of	of	ADP	IN	_	12	_	_	start_char=2275|end_char=2277
+14	damage	damage	NOUN	NN	Number=Sing	13	_	_	start_char=2278|end_char=2284
+15	in	in	ADP	IN	_	14	_	_	start_char=2285|end_char=2287
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=2288|end_char=2291
+17	city	city	NOUN	NN	Number=Sing	16	_	_	start_char=2292|end_char=2296
+18	alongside	alongside	ADP	IN	_	17	_	_	start_char=2297|end_char=2306
+19	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	18	_	_	start_char=2307|end_char=2310
+20	brother	brother	NOUN	NN	Number=Sing	19	_	_	start_char=2311|end_char=2318
+21	Wladimir	Wladimir	PROPN	NNP	Number=Sing	20	_	_	start_char=2319|end_char=2327
+22	Klitschko	Klitschko	PROPN	NNP	Number=Sing	21	_	_	start_char=2328|end_char=2337|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=2337|end_char=2338
+24	who	who	PRON	WP	PronType=Rel	23	_	_	start_char=2339|end_char=2342
+25	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	_	_	start_char=2343|end_char=2345
+26	also	also	ADV	RB	_	25	_	_	start_char=2346|end_char=2350
+27	a	a	DET	DT	Definite=Ind|PronType=Art	26	_	_	start_char=2351|end_char=2352
+28	former	former	ADJ	JJ	Degree=Pos	27	_	_	start_char=2353|end_char=2359
+29	world	world	NOUN	NN	Number=Sing	28	_	_	start_char=2360|end_char=2365
+30	heavyweight	heavyweight	NOUN	NN	Number=Sing	29	_	_	start_char=2366|end_char=2377
+31	boxing	boxing	NOUN	NN	Number=Sing	30	_	_	start_char=2378|end_char=2384
+32	champion	champion	NOUN	NN	Number=Sing	31	_	_	start_char=2385|end_char=2393|SpaceAfter=No
+33	.	.	PUNCT	.	_	32	_	_	start_char=2393|end_char=2394|SpacesAfter=\n\n
+
+# text = "That's what Russia's war against the civilians looks like," Wladimir Klitschko said while standing in the rubble in a video uploaded to Twitter.
+# sent_id = 19
+1	"	"	PUNCT	``	_	0	_	_	start_char=2396|end_char=2397|SpaceAfter=No
+2-3	That's	_	_	_	_	_	_	_	start_char=2397|end_char=2403
+2	That	that	PRON	DT	Number=Sing|PronType=Dem	1	_	_	start_char=2397|end_char=2401
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2401|end_char=2403
+4	what	what	PRON	WP	PronType=Rel	3	_	_	start_char=2404|end_char=2408
+5-6	Russia's	_	_	_	_	_	_	_	start_char=2409|end_char=2417
+5	Russia	Russia	PROPN	NNP	Number=Sing	4	_	_	start_char=2409|end_char=2415
+6	's	's	PART	POS	_	5	_	_	start_char=2415|end_char=2417
+7	war	war	NOUN	NN	Number=Sing	6	_	_	start_char=2418|end_char=2421
+8	against	against	ADP	IN	_	7	_	_	start_char=2422|end_char=2429
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=2430|end_char=2433
+10	civilians	civilian	NOUN	NNS	Number=Plur	9	_	_	start_char=2434|end_char=2443
+11	looks	look	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=2444|end_char=2449
+12	like	like	ADP	IN	_	11	_	_	start_char=2450|end_char=2454|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=2454|end_char=2455|SpaceAfter=No
+14	"	"	PUNCT	''	_	13	_	_	start_char=2455|end_char=2456
+15	Wladimir	Wladimir	PROPN	NNP	Number=Sing	14	_	_	start_char=2457|end_char=2465
+16	Klitschko	Klitschko	PROPN	NNP	Number=Sing	15	_	_	start_char=2466|end_char=2475
+17	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	_	_	start_char=2476|end_char=2480
+18	while	while	SCONJ	IN	_	17	_	_	start_char=2481|end_char=2486
+19	standing	stand	VERB	VBG	VerbForm=Ger	18	_	_	start_char=2487|end_char=2495
+20	in	in	ADP	IN	_	19	_	_	start_char=2496|end_char=2498
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=2499|end_char=2502
+22	rubble	rubble	NOUN	NN	Number=Sing	21	_	_	start_char=2503|end_char=2509
+23	in	in	ADP	IN	_	22	_	_	start_char=2510|end_char=2512
+24	a	a	DET	DT	Definite=Ind|PronType=Art	23	_	_	start_char=2513|end_char=2514
+25	video	video	NOUN	NN	Number=Sing	24	_	_	start_char=2515|end_char=2520
+26	uploaded	upload	VERB	VBN	Tense=Past|VerbForm=Part	25	_	_	start_char=2521|end_char=2529
+27	to	to	ADP	IN	_	26	_	_	start_char=2530|end_char=2532
+28	Twitter	Twitter	PROPN	NNP	Number=Sing	27	_	_	start_char=2533|end_char=2540|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=2540|end_char=2541
+
+# text = "Destroyed buildings, destroyed infrastructure. [A] city bus just got hit by a rocket.
+# sent_id = 20
+1	"	"	PUNCT	``	_	0	_	_	start_char=2542|end_char=2543|SpaceAfter=No
+2	Destroyed	destroy	VERB	VBN	Tense=Past|VerbForm=Part	1	_	_	start_char=2543|end_char=2552
+3	buildings	building	NOUN	NNS	Number=Plur	2	_	_	start_char=2553|end_char=2562|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=2562|end_char=2563
+5	destroyed	destroy	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=2564|end_char=2573
+6	infrastructure	infrastructure	NOUN	NN	Number=Sing	5	_	_	start_char=2574|end_char=2588|SpaceAfter=No
+7	.	.	PUNCT	.	_	6	_	_	start_char=2588|end_char=2589
+8	[	[	PUNCT	-LRB-	_	7	_	_	start_char=2590|end_char=2591|SpaceAfter=No
+9	A	a	NUM	CD	NumForm=Digit|NumType=Card	8	_	_	start_char=2591|end_char=2592|SpaceAfter=No
+10	]	]	PUNCT	-RRB-	_	9	_	_	start_char=2592|end_char=2593
+11	city	city	NOUN	NN	Number=Sing	10	_	_	start_char=2594|end_char=2598
+12	bus	bus	NOUN	NN	Number=Sing	11	_	_	start_char=2599|end_char=2602
+13	just	just	ADV	RB	_	12	_	_	start_char=2603|end_char=2607
+14	got	get	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	_	_	start_char=2608|end_char=2611
+15	hit	hit	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	_	_	start_char=2612|end_char=2615
+16	by	by	ADP	IN	_	15	_	_	start_char=2616|end_char=2618
+17	a	a	DET	DT	Definite=Ind|PronType=Art	16	_	_	start_char=2619|end_char=2620
+18	rocket	rocket	NOUN	NN	Number=Sing	17	_	_	start_char=2621|end_char=2627|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=2627|end_char=2628
+
+# text = Lives are getting lost, that's the war that Russia started."
+# sent_id = 21
+1	Lives	Life	NOUN	NNS	Number=Plur	0	_	_	start_char=2629|end_char=2634
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2635|end_char=2638
+3	getting	get	AUX	VBG	VerbForm=Ger	2	_	_	start_char=2639|end_char=2646
+4	lost	lose	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=2647|end_char=2651|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=2651|end_char=2652
+6-7	that's	_	_	_	_	_	_	_	start_char=2653|end_char=2659
+6	that	that	PRON	DT	Number=Sing|PronType=Dem	5	_	_	start_char=2653|end_char=2657
+7	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=2657|end_char=2659
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=2660|end_char=2663
+9	war	war	NOUN	NN	Number=Sing	8	_	_	start_char=2664|end_char=2667
+10	that	that	PRON	WDT	PronType=Rel	9	_	_	start_char=2668|end_char=2672
+11	Russia	Russia	PROPN	NNP	Number=Sing	10	_	_	start_char=2673|end_char=2679
+12	started	start	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=2680|end_char=2687|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=2687|end_char=2688|SpaceAfter=No
+14	"	"	PUNCT	''	_	13	_	_	start_char=2688|end_char=2689|SpacesAfter=\n\n
+
+# text = According to the Ukrainian government, Monday's Russian strikes on Kyiv also included a missile hitting a nine-story residential building, leaving two dead and three others hospitalized.
+# sent_id = 22
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=2691|end_char=2700
+2	to	to	ADP	IN	_	1	_	_	start_char=2701|end_char=2703
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=2704|end_char=2707
+4	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	3	_	_	start_char=2708|end_char=2717
+5	government	government	NOUN	NN	Number=Sing	4	_	_	start_char=2718|end_char=2728|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=2728|end_char=2729
+7-8	Monday's	_	_	_	_	_	_	_	start_char=2730|end_char=2738
+7	Monday	Monday	PROPN	NNP	Number=Sing	6	_	_	start_char=2730|end_char=2736
+8	's	's	PART	POS	_	7	_	_	start_char=2736|end_char=2738
+9	Russian	Russian	ADJ	JJ	Degree=Pos	8	_	_	start_char=2739|end_char=2746
+10	strikes	strike	NOUN	NNS	Number=Plur	9	_	_	start_char=2747|end_char=2754
+11	on	on	ADP	IN	_	10	_	_	start_char=2755|end_char=2757
+12	Kyiv	Kyiv	PROPN	NNP	Number=Sing	11	_	_	start_char=2758|end_char=2762
+13	also	also	ADV	RB	_	12	_	_	start_char=2763|end_char=2767
+14	included	include	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	_	_	start_char=2768|end_char=2776
+15	a	a	DET	DT	Definite=Ind|PronType=Art	14	_	_	start_char=2777|end_char=2778
+16	missile	missile	NOUN	NN	Number=Sing	15	_	_	start_char=2779|end_char=2786
+17	hitting	hit	VERB	VBG	VerbForm=Ger	16	_	_	start_char=2787|end_char=2794
+18	a	a	DET	DT	Definite=Ind|PronType=Art	17	_	_	start_char=2795|end_char=2796
+19	nine	nine	NUM	CD	NumForm=Word|NumType=Card	18	_	_	start_char=2797|end_char=2801|SpaceAfter=No
+20	-	-	PUNCT	HYPH	_	19	_	_	start_char=2801|end_char=2802|SpaceAfter=No
+21	story	story	NOUN	NN	Number=Sing	20	_	_	start_char=2802|end_char=2807
+22	residential	residential	ADJ	JJ	Degree=Pos	21	_	_	start_char=2808|end_char=2819
+23	building	building	NOUN	NN	Number=Sing	22	_	_	start_char=2820|end_char=2828|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=2828|end_char=2829
+25	leaving	leave	VERB	VBG	VerbForm=Ger	24	_	_	start_char=2830|end_char=2837
+26	two	two	NUM	CD	NumForm=Word|NumType=Card	25	_	_	start_char=2838|end_char=2841
+27	dead	dead	ADJ	JJ	Degree=Pos	26	_	_	start_char=2842|end_char=2846
+28	and	and	CCONJ	CC	_	27	_	_	start_char=2847|end_char=2850
+29	three	three	NUM	CD	NumForm=Word|NumType=Card	28	_	_	start_char=2851|end_char=2856
+30	others	other	NOUN	NNS	Number=Plur	29	_	_	start_char=2857|end_char=2863
+31	hospitalized	hospitalize	VERB	VBN	Tense=Past|VerbForm=Part	30	_	_	start_char=2864|end_char=2876|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=2876|end_char=2877|SpacesAfter=\n\n
+
+# text = Newsweek reached out to the Embassy of Russia in Washington, D.C., for comment.
+# sent_id = 23
+1	Newsweek	Newsweek	PROPN	NNP	Number=Sing	0	_	_	start_char=2879|end_char=2887
+2	reached	reach	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=2888|end_char=2895
+3	out	out	ADP	RP	_	2	_	_	start_char=2896|end_char=2899
+4	to	to	ADP	IN	_	3	_	_	start_char=2900|end_char=2902
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=2903|end_char=2906
+6	Embassy	embassy	PROPN	NNP	Number=Sing	5	_	_	start_char=2907|end_char=2914
+7	of	of	ADP	IN	_	6	_	_	start_char=2915|end_char=2917
+8	Russia	Russia	PROPN	NNP	Number=Sing	7	_	_	start_char=2918|end_char=2924
+9	in	in	ADP	IN	_	8	_	_	start_char=2925|end_char=2927
+10	Washington	Washington	PROPN	NNP	Number=Sing	9	_	_	start_char=2928|end_char=2938|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=2938|end_char=2939
+12	D.C.	D.C.	PROPN	NNP	Number=Sing	11	_	_	start_char=2940|end_char=2944|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=2944|end_char=2945
+14	for	for	ADP	IN	_	13	_	_	start_char=2946|end_char=2949
+15	comment	comment	NOUN	NN	Number=Sing	14	_	_	start_char=2950|end_char=2957|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=2957|end_char=2958|SpaceAfter=No
+

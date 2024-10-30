@@ -1,0 +1,885 @@
+# text = The bottom-up Brussels green revolution
+# sent_id = 0
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=0|end_char=3
+2	bottom	bottom	NOUN	NN	Number=Sing	1	_	_	start_char=4|end_char=10|SpaceAfter=No
+3	-	-	PUNCT	HYPH	_	2	_	_	start_char=10|end_char=11|SpaceAfter=No
+4	up	up	ADP	RP	_	3	_	_	start_char=11|end_char=13
+5	Brussels	Brussels	PROPN	NNP	Number=Sing	4	_	_	start_char=14|end_char=22
+6	green	green	ADJ	JJ	Degree=Pos	5	_	_	start_char=23|end_char=28
+7	revolution	revolution	NOUN	NN	Number=Sing	6	_	_	start_char=29|end_char=39|SpacesAfter=\s\n\n\s
+
+# text = A Belgian region’s environmental and social conditions for research funding offer a possible model for the EU.
+# sent_id = 1
+1	A	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=43|end_char=44
+2	Belgian	Belgian	ADJ	JJ	Degree=Pos	1	_	_	start_char=45|end_char=52
+3-4	region’s	_	_	_	_	_	_	_	start_char=53|end_char=61
+3	region	region	NOUN	NN	Number=Sing	2	_	_	start_char=53|end_char=59
+4	’s	's	PART	POS	_	3	_	_	start_char=59|end_char=61
+5	environmental	environmental	ADJ	JJ	Degree=Pos	4	_	_	start_char=62|end_char=75
+6	and	and	CCONJ	CC	_	5	_	_	start_char=76|end_char=79
+7	social	social	ADJ	JJ	Degree=Pos	6	_	_	start_char=80|end_char=86
+8	conditions	condition	NOUN	NNS	Number=Plur	7	_	_	start_char=87|end_char=97
+9	for	for	ADP	IN	_	8	_	_	start_char=98|end_char=101
+10	research	research	NOUN	NN	Number=Sing	9	_	_	start_char=102|end_char=110
+11	funding	funding	NOUN	NN	Number=Sing	10	_	_	start_char=111|end_char=118
+12	offer	offer	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=119|end_char=124
+13	a	a	DET	DT	Definite=Ind|PronType=Art	12	_	_	start_char=125|end_char=126
+14	possible	possible	ADJ	JJ	Degree=Pos	13	_	_	start_char=127|end_char=135
+15	model	model	NOUN	NN	Number=Sing	14	_	_	start_char=136|end_char=141
+16	for	for	ADP	IN	_	15	_	_	start_char=142|end_char=145
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=146|end_char=149
+18	EU	EU	PROPN	NNP	Number=Sing	17	_	_	start_char=150|end_char=152|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=152|end_char=153|SpacesAfter=\n\n
+
+# text = By Anthony King
+# sent_id = 2
+1	By	by	ADP	IN	_	0	_	_	start_char=155|end_char=157
+2	Anthony	Anthony	PROPN	NNP	Number=Sing	1	_	_	start_char=158|end_char=165
+3	King	King	PROPN	NNP	Number=Sing	2	_	_	start_char=166|end_char=170|SpacesAfter=\n\n
+
+# text = In the EU and Belgian capital Brussels, Barbara Trachte reflects the strengths of a third governmental layer in Europe: its numerous regions.
+# sent_id = 3
+1	In	in	ADP	IN	_	0	_	_	start_char=172|end_char=174
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=175|end_char=178
+3	EU	EU	PROPN	NNP	Number=Sing	2	_	_	start_char=179|end_char=181
+4	and	and	CCONJ	CC	_	3	_	_	start_char=182|end_char=185
+5	Belgian	Belgian	PROPN	NNP	Number=Sing	4	_	_	start_char=186|end_char=193
+6	capital	capital	NOUN	NN	Number=Sing	5	_	_	start_char=194|end_char=201
+7	Brussels	Brussels	PROPN	NNP	Number=Sing	6	_	_	start_char=202|end_char=210|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=210|end_char=211
+9	Barbara	Barbara	PROPN	NNP	Number=Sing	8	_	_	start_char=212|end_char=219
+10	Trachte	Trachte	PROPN	NNP	Number=Sing	9	_	_	start_char=220|end_char=227
+11	reflects	reflect	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=228|end_char=236
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=237|end_char=240
+13	strengths	strength	NOUN	NNS	Number=Plur	12	_	_	start_char=241|end_char=250
+14	of	of	ADP	IN	_	13	_	_	start_char=251|end_char=253
+15	a	a	DET	DT	Definite=Ind|PronType=Art	14	_	_	start_char=254|end_char=255
+16	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	15	_	_	start_char=256|end_char=261
+17	governmental	governmental	ADJ	JJ	Degree=Pos	16	_	_	start_char=262|end_char=274
+18	layer	layer	NOUN	NN	Number=Sing	17	_	_	start_char=275|end_char=280
+19	in	in	ADP	IN	_	18	_	_	start_char=281|end_char=283
+20	Europe	Europe	PROPN	NNP	Number=Sing	19	_	_	start_char=284|end_char=290|SpaceAfter=No
+21	:	:	PUNCT	:	_	20	_	_	start_char=290|end_char=291
+22	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	21	_	_	start_char=292|end_char=295
+23	numerous	numerous	ADJ	JJ	Degree=Pos	22	_	_	start_char=296|end_char=304
+24	regions	region	NOUN	NNS	Number=Plur	23	_	_	start_char=305|end_char=312|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=312|end_char=313|SpacesAfter=\n\n
+
+# text = Trachte is secretary of state of the Brussels-Capital Region responsible for the economic transition and scientific research.
+# sent_id = 4
+1	Trachte	Trachte	PROPN	NNP	Number=Sing	0	_	_	start_char=315|end_char=322
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=323|end_char=325
+3	secretary	secretary	NOUN	NN	Number=Sing	2	_	_	start_char=326|end_char=335
+4	of	of	ADP	IN	_	3	_	_	start_char=336|end_char=338
+5	state	state	NOUN	NN	Number=Sing	4	_	_	start_char=339|end_char=344
+6	of	of	ADP	IN	_	5	_	_	start_char=345|end_char=347
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=348|end_char=351
+8	Brussels	Brussels	PROPN	NNP	Number=Sing	7	_	_	start_char=352|end_char=360|SpaceAfter=No
+9	-	-	PUNCT	HYPH	_	8	_	_	start_char=360|end_char=361|SpaceAfter=No
+10	Capital	Capital	PROPN	NNP	Number=Sing	9	_	_	start_char=361|end_char=368
+11	Region	Region	PROPN	NNP	Number=Sing	10	_	_	start_char=369|end_char=375
+12	responsible	responsible	ADJ	JJ	Degree=Pos	11	_	_	start_char=376|end_char=387
+13	for	for	ADP	IN	_	12	_	_	start_char=388|end_char=391
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=392|end_char=395
+15	economic	economic	ADJ	JJ	Degree=Pos	14	_	_	start_char=396|end_char=404
+16	transition	transition	NOUN	NN	Number=Sing	15	_	_	start_char=405|end_char=415
+17	and	and	CCONJ	CC	_	16	_	_	start_char=416|end_char=419
+18	scientific	scientific	ADJ	JJ	Degree=Pos	17	_	_	start_char=420|end_char=430
+19	research	research	NOUN	NN	Number=Sing	18	_	_	start_char=431|end_char=439|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=439|end_char=440
+
+# text = The first member of Belgium’s French-speaking Green party to be put in charge of an economic portfolio, she shows the scope for bottom-up EU policy changes.
+# sent_id = 5
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=441|end_char=444
+2	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	1	_	_	start_char=445|end_char=450
+3	member	member	NOUN	NN	Number=Sing	2	_	_	start_char=451|end_char=457
+4	of	of	ADP	IN	_	3	_	_	start_char=458|end_char=460
+5-6	Belgium’s	_	_	_	_	_	_	_	start_char=461|end_char=470
+5	Belgium	Belgium	PROPN	NNP	Number=Sing	4	_	_	start_char=461|end_char=468
+6	’s	's	PART	POS	_	5	_	_	start_char=468|end_char=470
+7	French	French	ADJ	JJ	Degree=Pos	6	_	_	start_char=471|end_char=477|SpaceAfter=No
+8	-	-	PUNCT	HYPH	_	7	_	_	start_char=477|end_char=478|SpaceAfter=No
+9	speaking	speak	VERB	VBG	VerbForm=Ger	8	_	_	start_char=478|end_char=486
+10	Green	Green	ADJ	JJ	Degree=Pos	9	_	_	start_char=487|end_char=492
+11	party	party	NOUN	NN	Number=Sing	10	_	_	start_char=493|end_char=498
+12	to	to	PART	TO	_	11	_	_	start_char=499|end_char=501
+13	be	be	AUX	VB	VerbForm=Inf	12	_	_	start_char=502|end_char=504
+14	put	put	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	13	_	_	start_char=505|end_char=508
+15	in	in	ADP	IN	_	14	_	_	start_char=509|end_char=511
+16	charge	charge	NOUN	NN	Number=Sing	15	_	_	start_char=512|end_char=518
+17	of	of	ADP	IN	_	16	_	_	start_char=519|end_char=521
+18	an	a	DET	DT	Definite=Ind|PronType=Art	17	_	_	start_char=522|end_char=524
+19	economic	economic	ADJ	JJ	Degree=Pos	18	_	_	start_char=525|end_char=533
+20	portfolio	portfolio	NOUN	NN	Number=Sing	19	_	_	start_char=534|end_char=543|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=543|end_char=544
+22	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	21	_	_	start_char=545|end_char=548
+23	shows	show	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	_	_	start_char=549|end_char=554
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=555|end_char=558
+25	scope	scope	NOUN	NN	Number=Sing	24	_	_	start_char=559|end_char=564
+26	for	for	ADP	IN	_	25	_	_	start_char=565|end_char=568
+27	bottom	bottom	NOUN	NN	Number=Sing	26	_	_	start_char=569|end_char=575|SpaceAfter=No
+28	-	-	PUNCT	HYPH	_	27	_	_	start_char=575|end_char=576|SpaceAfter=No
+29	up	up	ADP	RP	_	28	_	_	start_char=576|end_char=578
+30	EU	EU	PROPN	NNP	Number=Sing	29	_	_	start_char=579|end_char=581
+31	policy	policy	NOUN	NN	Number=Sing	30	_	_	start_char=582|end_char=588
+32	changes	change	NOUN	NNS	Number=Plur	31	_	_	start_char=589|end_char=596|SpaceAfter=No
+33	.	.	PUNCT	.	_	32	_	_	start_char=596|end_char=597|SpacesAfter=\n\n
+
+# text = Setting an example
+# sent_id = 6
+1	Setting	set	VERB	VBG	VerbForm=Ger	0	_	_	start_char=599|end_char=606
+2	an	a	DET	DT	Definite=Ind|PronType=Art	1	_	_	start_char=607|end_char=609
+3	example	example	NOUN	NN	Number=Sing	2	_	_	start_char=610|end_char=617|SpacesAfter=\n\n
+
+# text = Trachte helped put in place a Brussels law that, starting in 2024, has made regional subsidies for research organisations, companies, public administrations and civil society conditional on respect for social and environmental standards.
+# sent_id = 7
+1	Trachte	Trachte	PROPN	NNP	Number=Sing	0	_	_	start_char=619|end_char=626
+2	helped	help	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=627|end_char=633
+3	put	put	VERB	VB	VerbForm=Inf	2	_	_	start_char=634|end_char=637
+4	in	in	ADP	RP	_	3	_	_	start_char=638|end_char=640
+5	place	place	NOUN	NN	Number=Sing	4	_	_	start_char=641|end_char=646
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=647|end_char=648
+7	Brussels	Brussels	PROPN	NNP	Number=Sing	6	_	_	start_char=649|end_char=657
+8	law	law	NOUN	NN	Number=Sing	7	_	_	start_char=658|end_char=661
+9	that	that	PRON	WDT	PronType=Rel	8	_	_	start_char=662|end_char=666|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=666|end_char=667
+11	starting	start	VERB	VBG	VerbForm=Ger	10	_	_	start_char=668|end_char=676
+12	in	in	ADP	IN	_	11	_	_	start_char=677|end_char=679
+13	2024	2024	NUM	CD	NumForm=Digit|NumType=Card	12	_	_	start_char=680|end_char=684|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=684|end_char=685
+15	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=686|end_char=689
+16	made	make	VERB	VBN	Tense=Past|VerbForm=Part	15	_	_	start_char=690|end_char=694
+17	regional	regional	ADJ	JJ	Degree=Pos	16	_	_	start_char=695|end_char=703
+18	subsidies	subsidy	NOUN	NNS	Number=Plur	17	_	_	start_char=704|end_char=713
+19	for	for	ADP	IN	_	18	_	_	start_char=714|end_char=717
+20	research	research	NOUN	NN	Number=Sing	19	_	_	start_char=718|end_char=726
+21	organisations	organisation	NOUN	NNS	Number=Plur	20	_	_	start_char=727|end_char=740|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=740|end_char=741
+23	companies	company	NOUN	NNS	Number=Plur	22	_	_	start_char=742|end_char=751|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=751|end_char=752
+25	public	public	ADJ	JJ	Degree=Pos	24	_	_	start_char=753|end_char=759
+26	administrations	administration	NOUN	NNS	Number=Plur	25	_	_	start_char=760|end_char=775
+27	and	and	CCONJ	CC	_	26	_	_	start_char=776|end_char=779
+28	civil	civil	ADJ	JJ	Degree=Pos	27	_	_	start_char=780|end_char=785
+29	society	society	NOUN	NN	Number=Sing	28	_	_	start_char=786|end_char=793
+30	conditional	conditional	ADJ	JJ	Degree=Pos	29	_	_	start_char=794|end_char=805
+31	on	on	ADP	IN	_	30	_	_	start_char=806|end_char=808
+32	respect	respect	NOUN	NN	Number=Sing	31	_	_	start_char=809|end_char=816
+33	for	for	ADP	IN	_	32	_	_	start_char=817|end_char=820
+34	social	social	ADJ	JJ	Degree=Pos	33	_	_	start_char=821|end_char=827
+35	and	and	CCONJ	CC	_	34	_	_	start_char=828|end_char=831
+36	environmental	environmental	ADJ	JJ	Degree=Pos	35	_	_	start_char=832|end_char=845
+37	standards	standard	NOUN	NNS	Number=Plur	36	_	_	start_char=846|end_char=855|SpaceAfter=No
+38	.	.	PUNCT	.	_	37	_	_	start_char=855|end_char=856
+
+# text = She believes the EU should do the same for its €95.5 billion research programme known as Horizon Europe.
+# sent_id = 8
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=857|end_char=860
+2	believes	believe	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=861|end_char=869
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=870|end_char=873
+4	EU	EU	PROPN	NNP	Number=Sing	3	_	_	start_char=874|end_char=876
+5	should	should	AUX	MD	VerbForm=Fin	4	_	_	start_char=877|end_char=883
+6	do	do	VERB	VB	VerbForm=Inf	5	_	_	start_char=884|end_char=886
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=887|end_char=890
+8	same	same	ADJ	JJ	Degree=Pos	7	_	_	start_char=891|end_char=895
+9	for	for	ADP	IN	_	8	_	_	start_char=896|end_char=899
+10	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	_	_	start_char=900|end_char=903
+11	€	€	SYM	$	_	10	_	_	start_char=904|end_char=905|SpaceAfter=No
+12	95.5	95.5	NUM	CD	NumForm=Digit|NumType=Card	11	_	_	start_char=905|end_char=909
+13	billion	billion	NUM	CD	NumForm=Word|NumType=Card	12	_	_	start_char=910|end_char=917
+14	research	research	NOUN	NN	Number=Sing	13	_	_	start_char=918|end_char=926
+15	programme	programme	NOUN	NN	Number=Sing	14	_	_	start_char=927|end_char=936
+16	known	know	VERB	VBN	Tense=Past|VerbForm=Part	15	_	_	start_char=937|end_char=942
+17	as	as	ADP	IN	_	16	_	_	start_char=943|end_char=945
+18	Horizon	Horizon	PROPN	NNP	Number=Sing	17	_	_	start_char=946|end_char=953
+19	Europe	Europe	PROPN	NNP	Number=Sing	18	_	_	start_char=954|end_char=960|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=960|end_char=961|SpacesAfter=\n\n
+
+# text = ‘Sometimes you need a revolution – or at least a mini revolution,’ Trachte told Horizon Magazine.
+# sent_id = 9
+1	‘	'	PUNCT	``	_	0	_	_	start_char=963|end_char=964|SpaceAfter=No
+2	Sometimes	sometimes	ADV	RB	_	1	_	_	start_char=964|end_char=973
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	_	_	start_char=974|end_char=977
+4	need	need	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	_	_	start_char=978|end_char=982
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=983|end_char=984
+6	revolution	revolution	NOUN	NN	Number=Sing	5	_	_	start_char=985|end_char=995
+7	–	-	PUNCT	:	_	6	_	_	start_char=996|end_char=997
+8	or	or	CCONJ	CC	_	7	_	_	start_char=998|end_char=1000
+9	at	at	ADP	IN	ExtPos=ADV	8	_	_	start_char=1001|end_char=1003
+10	least	least	ADJ	JJS	Degree=Sup	9	_	_	start_char=1004|end_char=1009
+11	a	a	DET	DT	Definite=Ind|PronType=Art	10	_	_	start_char=1010|end_char=1011
+12	mini	mini	NOUN	NN	Number=Sing	11	_	_	start_char=1012|end_char=1016
+13	revolution	revolution	NOUN	NN	Number=Sing	12	_	_	start_char=1017|end_char=1027|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=1027|end_char=1028|SpaceAfter=No
+15	’	'	PUNCT	''	_	14	_	_	start_char=1028|end_char=1029
+16	Trachte	Trachte	PROPN	NNP	Number=Sing	15	_	_	start_char=1030|end_char=1037
+17	told	tell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	_	_	start_char=1038|end_char=1042
+18	Horizon	Horizon	PROPN	NNP	Number=Sing	17	_	_	start_char=1043|end_char=1050
+19	Magazine	Magazine	PROPN	NNP	Number=Sing	18	_	_	start_char=1051|end_char=1059|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=1059|end_char=1060|SpacesAfter=\n\n
+
+# text = She said that Europe’s regions have a key role to play in advancing the continent’s transition to a net-zero economy.
+# sent_id = 10
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1062|end_char=1065
+2	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1066|end_char=1070
+3	that	that	SCONJ	IN	_	2	_	_	start_char=1071|end_char=1075
+4-5	Europe’s	_	_	_	_	_	_	_	start_char=1076|end_char=1084
+4	Europe	Europe	PROPN	NNP	Number=Sing	3	_	_	start_char=1076|end_char=1082
+5	’s	's	PART	POS	_	4	_	_	start_char=1082|end_char=1084
+6	regions	region	NOUN	NNS	Number=Plur	5	_	_	start_char=1085|end_char=1092
+7	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=1093|end_char=1097
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=1098|end_char=1099
+9	key	key	ADJ	JJ	Degree=Pos	8	_	_	start_char=1100|end_char=1103
+10	role	role	NOUN	NN	Number=Sing	9	_	_	start_char=1104|end_char=1108
+11	to	to	PART	TO	_	10	_	_	start_char=1109|end_char=1111
+12	play	play	VERB	VB	VerbForm=Inf	11	_	_	start_char=1112|end_char=1116
+13	in	in	SCONJ	IN	_	12	_	_	start_char=1117|end_char=1119
+14	advancing	advance	VERB	VBG	VerbForm=Ger	13	_	_	start_char=1120|end_char=1129
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=1130|end_char=1133
+16-17	continent’s	_	_	_	_	_	_	_	start_char=1134|end_char=1145
+16	continent	continent	NOUN	NN	Number=Sing	15	_	_	start_char=1134|end_char=1143
+17	’s	's	PART	POS	_	16	_	_	start_char=1143|end_char=1145
+18	transition	transition	NOUN	NN	Number=Sing	17	_	_	start_char=1146|end_char=1156
+19	to	to	ADP	IN	_	18	_	_	start_char=1157|end_char=1159
+20	a	a	DET	DT	Definite=Ind|PronType=Art	19	_	_	start_char=1160|end_char=1161
+21	net	net	NOUN	NN	Number=Sing	20	_	_	start_char=1162|end_char=1165|SpaceAfter=No
+22	-	-	PUNCT	HYPH	_	21	_	_	start_char=1165|end_char=1166|SpaceAfter=No
+23	zero	zero	NUM	CD	NumForm=Word|NumType=Card	22	_	_	start_char=1166|end_char=1170
+24	economy	economy	NOUN	NN	Number=Sing	23	_	_	start_char=1171|end_char=1178|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=1178|end_char=1179|SpacesAfter=\n\n
+
+# text = With the EU seeking to become climate neutral by 2050 under the European Green Deal, Horizon Europe has placed increasing emphasis on projects to hasten the switch towards clean energy and away from fossil fuels and to ensure the process is socially fair.
+# sent_id = 11
+1	With	with	SCONJ	IN	_	0	_	_	start_char=1181|end_char=1185
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=1186|end_char=1189
+3	EU	EU	PROPN	NNP	Number=Sing	2	_	_	start_char=1190|end_char=1192
+4	seeking	seek	VERB	VBG	VerbForm=Ger	3	_	_	start_char=1193|end_char=1200
+5	to	to	PART	TO	_	4	_	_	start_char=1201|end_char=1203
+6	become	become	VERB	VB	VerbForm=Inf	5	_	_	start_char=1204|end_char=1210
+7	climate	climate	NOUN	NN	Number=Sing	6	_	_	start_char=1211|end_char=1218
+8	neutral	neutral	ADJ	JJ	Degree=Pos	7	_	_	start_char=1219|end_char=1226
+9	by	by	ADP	IN	_	8	_	_	start_char=1227|end_char=1229
+10	2050	2050	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=1230|end_char=1234
+11	under	under	ADP	IN	_	10	_	_	start_char=1235|end_char=1240
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=1241|end_char=1244
+13	European	European	ADJ	NNP	Degree=Pos	12	_	_	start_char=1245|end_char=1253
+14	Green	Green	ADJ	NNP	Degree=Pos	13	_	_	start_char=1254|end_char=1259
+15	Deal	deal	PROPN	NNP	Number=Sing	14	_	_	start_char=1260|end_char=1264|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=1264|end_char=1265
+17	Horizon	Horizon	PROPN	NNP	Number=Sing	16	_	_	start_char=1266|end_char=1273
+18	Europe	Europe	PROPN	NNP	Number=Sing	17	_	_	start_char=1274|end_char=1280
+19	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=1281|end_char=1284
+20	placed	place	VERB	VBN	Tense=Past|VerbForm=Part	19	_	_	start_char=1285|end_char=1291
+21	increasing	increase	VERB	VBG	VerbForm=Ger	20	_	_	start_char=1292|end_char=1302
+22	emphasis	emphasis	NOUN	NN	Number=Sing	21	_	_	start_char=1303|end_char=1311
+23	on	on	ADP	IN	_	22	_	_	start_char=1312|end_char=1314
+24	projects	project	NOUN	NNS	Number=Plur	23	_	_	start_char=1315|end_char=1323
+25	to	to	PART	TO	_	24	_	_	start_char=1324|end_char=1326
+26	hasten	hasten	VERB	VB	VerbForm=Inf	25	_	_	start_char=1327|end_char=1333
+27	the	the	DET	DT	Definite=Def|PronType=Art	26	_	_	start_char=1334|end_char=1337
+28	switch	switch	NOUN	NN	Number=Sing	27	_	_	start_char=1338|end_char=1344
+29	towards	towards	ADP	IN	_	28	_	_	start_char=1345|end_char=1352
+30	clean	clean	ADJ	JJ	Degree=Pos	29	_	_	start_char=1353|end_char=1358
+31	energy	energy	NOUN	NN	Number=Sing	30	_	_	start_char=1359|end_char=1365
+32	and	and	CCONJ	CC	_	31	_	_	start_char=1366|end_char=1369
+33	away	away	ADV	RB	_	32	_	_	start_char=1370|end_char=1374
+34	from	from	ADP	IN	_	33	_	_	start_char=1375|end_char=1379
+35	fossil	fossil	NOUN	NN	Number=Sing	34	_	_	start_char=1380|end_char=1386
+36	fuels	fuel	NOUN	NNS	Number=Plur	35	_	_	start_char=1387|end_char=1392
+37	and	and	CCONJ	CC	_	36	_	_	start_char=1393|end_char=1396
+38	to	to	PART	TO	_	37	_	_	start_char=1397|end_char=1399
+39	ensure	ensure	VERB	VB	VerbForm=Inf	38	_	_	start_char=1400|end_char=1406
+40	the	the	DET	DT	Definite=Def|PronType=Art	39	_	_	start_char=1407|end_char=1410
+41	process	process	NOUN	NN	Number=Sing	40	_	_	start_char=1411|end_char=1418
+42	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	41	_	_	start_char=1419|end_char=1421
+43	socially	socially	ADV	RB	_	42	_	_	start_char=1422|end_char=1430
+44	fair	fair	ADJ	JJ	Degree=Pos	43	_	_	start_char=1431|end_char=1435|SpaceAfter=No
+45	.	.	PUNCT	.	_	44	_	_	start_char=1435|end_char=1436|SpacesAfter=\n\n
+
+# text = Already the third-biggest part of the EU budget, Horizon Europe would have even greater impact on green and social matters across the continent by following the example set by the Brussels-Capital Region.
+# sent_id = 12
+1	Already	already	ADV	RB	_	0	_	_	start_char=1438|end_char=1445
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=1446|end_char=1449
+3	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	2	_	_	start_char=1450|end_char=1455|SpaceAfter=No
+4	-	-	PUNCT	HYPH	_	3	_	_	start_char=1455|end_char=1456|SpaceAfter=No
+5	biggest	big	ADJ	JJS	Degree=Sup	4	_	_	start_char=1456|end_char=1463
+6	part	part	NOUN	NN	Number=Sing	5	_	_	start_char=1464|end_char=1468
+7	of	of	ADP	IN	_	6	_	_	start_char=1469|end_char=1471
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=1472|end_char=1475
+9	EU	EU	PROPN	NNP	Number=Sing	8	_	_	start_char=1476|end_char=1478
+10	budget	budget	NOUN	NN	Number=Sing	9	_	_	start_char=1479|end_char=1485|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=1485|end_char=1486
+12	Horizon	Horizon	PROPN	NNP	Number=Sing	11	_	_	start_char=1487|end_char=1494
+13	Europe	Europe	PROPN	NNP	Number=Sing	12	_	_	start_char=1495|end_char=1501
+14	would	would	AUX	MD	VerbForm=Fin	13	_	_	start_char=1502|end_char=1507
+15	have	have	VERB	VB	VerbForm=Inf	14	_	_	start_char=1508|end_char=1512
+16	even	even	ADV	RB	_	15	_	_	start_char=1513|end_char=1517
+17	greater	great	ADJ	JJR	Degree=Cmp	16	_	_	start_char=1518|end_char=1525
+18	impact	impact	NOUN	NN	Number=Sing	17	_	_	start_char=1526|end_char=1532
+19	on	on	ADP	IN	_	18	_	_	start_char=1533|end_char=1535
+20	green	green	ADJ	JJ	Degree=Pos	19	_	_	start_char=1536|end_char=1541
+21	and	and	CCONJ	CC	_	20	_	_	start_char=1542|end_char=1545
+22	social	social	ADJ	JJ	Degree=Pos	21	_	_	start_char=1546|end_char=1552
+23	matters	matter	NOUN	NNS	Number=Plur	22	_	_	start_char=1553|end_char=1560
+24	across	across	ADP	IN	_	23	_	_	start_char=1561|end_char=1567
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=1568|end_char=1571
+26	continent	continent	NOUN	NN	Number=Sing	25	_	_	start_char=1572|end_char=1581
+27	by	by	SCONJ	IN	_	26	_	_	start_char=1582|end_char=1584
+28	following	follow	VERB	VBG	VerbForm=Ger	27	_	_	start_char=1585|end_char=1594
+29	the	the	DET	DT	Definite=Def|PronType=Art	28	_	_	start_char=1595|end_char=1598
+30	example	example	NOUN	NN	Number=Sing	29	_	_	start_char=1599|end_char=1606
+31	set	set	VERB	VBN	Tense=Past|VerbForm=Part	30	_	_	start_char=1607|end_char=1610
+32	by	by	ADP	IN	_	31	_	_	start_char=1611|end_char=1613
+33	the	the	DET	DT	Definite=Def|PronType=Art	32	_	_	start_char=1614|end_char=1617
+34	Brussels	Brussels	PROPN	NNP	Number=Sing	33	_	_	start_char=1618|end_char=1626|SpaceAfter=No
+35	-	-	PUNCT	HYPH	_	34	_	_	start_char=1626|end_char=1627|SpaceAfter=No
+36	Capital	Capital	PROPN	NNP	Number=Sing	35	_	_	start_char=1627|end_char=1634
+37	Region	Region	PROPN	NNP	Number=Sing	36	_	_	start_char=1635|end_char=1641|SpaceAfter=No
+38	.	.	PUNCT	.	_	37	_	_	start_char=1641|end_char=1642|SpacesAfter=\n\n
+
+# text = In a nutshell, €50 million of subsidies granted annually by the region for research and innovation require recipients to respect a do-no-harm principle and have a positive impact on the environment or social equality, according to Stephanie Lepczynski, who is Trachte’s policy adviser.
+# sent_id = 13
+1	In	in	ADP	IN	_	0	_	_	start_char=1644|end_char=1646
+2	a	a	DET	DT	Definite=Ind|PronType=Art	1	_	_	start_char=1647|end_char=1648
+3	nutshell	nutshell	NOUN	NN	Number=Sing	2	_	_	start_char=1649|end_char=1657|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1657|end_char=1658
+5	€	€	SYM	$	_	4	_	_	start_char=1659|end_char=1660|SpaceAfter=No
+6	50	50	NUM	CD	NumForm=Digit|NumType=Card	5	_	_	start_char=1660|end_char=1662
+7	million	million	NUM	CD	NumForm=Word|NumType=Card	6	_	_	start_char=1663|end_char=1670
+8	of	of	ADP	IN	_	7	_	_	start_char=1671|end_char=1673
+9	subsidies	subsidy	NOUN	NNS	Number=Plur	8	_	_	start_char=1674|end_char=1683
+10	granted	grant	VERB	VBN	Tense=Past|VerbForm=Part	9	_	_	start_char=1684|end_char=1691
+11	annually	annually	ADV	RB	_	10	_	_	start_char=1692|end_char=1700
+12	by	by	ADP	IN	_	11	_	_	start_char=1701|end_char=1703
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1704|end_char=1707
+14	region	region	NOUN	NN	Number=Sing	13	_	_	start_char=1708|end_char=1714
+15	for	for	ADP	IN	_	14	_	_	start_char=1715|end_char=1718
+16	research	research	NOUN	NN	Number=Sing	15	_	_	start_char=1719|end_char=1727
+17	and	and	CCONJ	CC	_	16	_	_	start_char=1728|end_char=1731
+18	innovation	innovation	NOUN	NN	Number=Sing	17	_	_	start_char=1732|end_char=1742
+19	require	require	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=1743|end_char=1750
+20	recipients	recipient	NOUN	NNS	Number=Plur	19	_	_	start_char=1751|end_char=1761
+21	to	to	PART	TO	_	20	_	_	start_char=1762|end_char=1764
+22	respect	respect	VERB	VB	VerbForm=Inf	21	_	_	start_char=1765|end_char=1772
+23	a	a	DET	DT	Definite=Ind|PronType=Art	22	_	_	start_char=1773|end_char=1774
+24	do	do	NOUN	NN	Number=Sing	23	_	_	start_char=1775|end_char=1777|SpaceAfter=No
+25	-	-	PUNCT	HYPH	_	24	_	_	start_char=1777|end_char=1778|SpaceAfter=No
+26	no	no	DET	DT	PronType=Art	25	_	_	start_char=1778|end_char=1780|SpaceAfter=No
+27	-	-	PUNCT	HYPH	_	26	_	_	start_char=1780|end_char=1781|SpaceAfter=No
+28	harm	harm	NOUN	NN	Number=Sing	27	_	_	start_char=1781|end_char=1785
+29	principle	principle	NOUN	NN	Number=Sing	28	_	_	start_char=1786|end_char=1795
+30	and	and	CCONJ	CC	_	29	_	_	start_char=1796|end_char=1799
+31	have	have	VERB	VB	VerbForm=Inf	30	_	_	start_char=1800|end_char=1804
+32	a	a	DET	DT	Definite=Ind|PronType=Art	31	_	_	start_char=1805|end_char=1806
+33	positive	positive	ADJ	JJ	Degree=Pos	32	_	_	start_char=1807|end_char=1815
+34	impact	impact	NOUN	NN	Number=Sing	33	_	_	start_char=1816|end_char=1822
+35	on	on	ADP	IN	_	34	_	_	start_char=1823|end_char=1825
+36	the	the	DET	DT	Definite=Def|PronType=Art	35	_	_	start_char=1826|end_char=1829
+37	environment	environment	NOUN	NN	Number=Sing	36	_	_	start_char=1830|end_char=1841
+38	or	or	CCONJ	CC	_	37	_	_	start_char=1842|end_char=1844
+39	social	social	ADJ	JJ	Degree=Pos	38	_	_	start_char=1845|end_char=1851
+40	equality	equality	NOUN	NN	Number=Sing	39	_	_	start_char=1852|end_char=1860|SpaceAfter=No
+41	,	,	PUNCT	,	_	40	_	_	start_char=1860|end_char=1861
+42	according	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	41	_	_	start_char=1862|end_char=1871
+43	to	to	ADP	IN	_	42	_	_	start_char=1872|end_char=1874
+44	Stephanie	Stephanie	PROPN	NNP	Number=Sing	43	_	_	start_char=1875|end_char=1884
+45	Lepczynski	Lepczynski	PROPN	NNP	Number=Sing	44	_	_	start_char=1885|end_char=1895|SpaceAfter=No
+46	,	,	PUNCT	,	_	45	_	_	start_char=1895|end_char=1896
+47	who	who	PRON	WP	PronType=Rel	46	_	_	start_char=1897|end_char=1900
+48	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	47	_	_	start_char=1901|end_char=1903
+49-50	Trachte’s	_	_	_	_	_	_	_	start_char=1904|end_char=1913
+49	Trachte	Trachte	PROPN	NNP	Number=Sing	48	_	_	start_char=1904|end_char=1911
+50	’s	's	PART	POS	_	49	_	_	start_char=1911|end_char=1913
+51	policy	policy	NOUN	NN	Number=Sing	50	_	_	start_char=1914|end_char=1920
+52	adviser	adviser	NOUN	NN	Number=Sing	51	_	_	start_char=1921|end_char=1928|SpaceAfter=No
+53	.	.	PUNCT	.	_	52	_	_	start_char=1928|end_char=1929|SpacesAfter=\n\n
+
+# text = ‘We are showing the way and we hope that this can influence the European Commission by encouraging it to put environmental, social and governance criteria into the eligibility of Horizon projects,’ Lepczynski said at the European Research and Innovation Days event in Brussels on 20-21 March 2024.
+# sent_id = 14
+1	‘	'	PUNCT	``	_	0	_	_	start_char=1931|end_char=1932|SpaceAfter=No
+2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	1	_	_	start_char=1932|end_char=1934
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1935|end_char=1938
+4	showing	show	VERB	VBG	Tense=Pres|VerbForm=Part	3	_	_	start_char=1939|end_char=1946
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1947|end_char=1950
+6	way	way	NOUN	NN	Number=Sing	5	_	_	start_char=1951|end_char=1954
+7	and	and	CCONJ	CC	_	6	_	_	start_char=1955|end_char=1958
+8	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	_	_	start_char=1959|end_char=1961
+9	hope	hope	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	_	_	start_char=1962|end_char=1966
+10	that	that	SCONJ	IN	_	9	_	_	start_char=1967|end_char=1971
+11	this	this	PRON	DT	Number=Sing|PronType=Dem	10	_	_	start_char=1972|end_char=1976
+12	can	can	AUX	MD	VerbForm=Fin	11	_	_	start_char=1977|end_char=1980
+13	influence	influence	VERB	VB	VerbForm=Inf	12	_	_	start_char=1981|end_char=1990
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=1991|end_char=1994
+15	European	European	ADJ	NNP	Degree=Pos	14	_	_	start_char=1995|end_char=2003
+16	Commission	Commission	PROPN	NNP	Number=Sing	15	_	_	start_char=2004|end_char=2014
+17	by	by	SCONJ	IN	_	16	_	_	start_char=2015|end_char=2017
+18	encouraging	encourage	VERB	VBG	VerbForm=Ger	17	_	_	start_char=2018|end_char=2029
+19	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	_	_	start_char=2030|end_char=2032
+20	to	to	PART	TO	_	19	_	_	start_char=2033|end_char=2035
+21	put	put	VERB	VB	VerbForm=Inf	20	_	_	start_char=2036|end_char=2039
+22	environmental	environmental	ADJ	JJ	Degree=Pos	21	_	_	start_char=2040|end_char=2053|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=2053|end_char=2054
+24	social	social	ADJ	JJ	Degree=Pos	23	_	_	start_char=2055|end_char=2061
+25	and	and	CCONJ	CC	_	24	_	_	start_char=2062|end_char=2065
+26	governance	governance	NOUN	NN	Number=Sing	25	_	_	start_char=2066|end_char=2076
+27	criteria	criterion	NOUN	NNS	Number=Plur	26	_	_	start_char=2077|end_char=2085
+28	into	into	ADP	IN	_	27	_	_	start_char=2086|end_char=2090
+29	the	the	DET	DT	Definite=Def|PronType=Art	28	_	_	start_char=2091|end_char=2094
+30	eligibility	eligibility	NOUN	NN	Number=Sing	29	_	_	start_char=2095|end_char=2106
+31	of	of	ADP	IN	_	30	_	_	start_char=2107|end_char=2109
+32	Horizon	Horizon	PROPN	NNP	Number=Sing	31	_	_	start_char=2110|end_char=2117
+33	projects	project	NOUN	NNS	Number=Plur	32	_	_	start_char=2118|end_char=2126|SpaceAfter=No
+34	,	,	PUNCT	,	_	33	_	_	start_char=2126|end_char=2127|SpaceAfter=No
+35	’	'	PUNCT	''	_	34	_	_	start_char=2127|end_char=2128
+36	Lepczynski	Lepczynski	PROPN	NNP	Number=Sing	35	_	_	start_char=2129|end_char=2139
+37	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	36	_	_	start_char=2140|end_char=2144
+38	at	at	ADP	IN	_	37	_	_	start_char=2145|end_char=2147
+39	the	the	DET	DT	Definite=Def|PronType=Art	38	_	_	start_char=2148|end_char=2151
+40	European	European	ADJ	NNP	Degree=Pos	39	_	_	start_char=2152|end_char=2160
+41	Research	Research	PROPN	NNP	Number=Sing	40	_	_	start_char=2161|end_char=2169
+42	and	and	CCONJ	CC	_	41	_	_	start_char=2170|end_char=2173
+43	Innovation	Innovation	PROPN	NNP	Number=Sing	42	_	_	start_char=2174|end_char=2184
+44	Days	Day	PROPN	NNPS	Number=Plur	43	_	_	start_char=2185|end_char=2189
+45	event	event	NOUN	NN	Number=Sing	44	_	_	start_char=2190|end_char=2195
+46	in	in	ADP	IN	_	45	_	_	start_char=2196|end_char=2198
+47	Brussels	Brussels	PROPN	NNP	Number=Sing	46	_	_	start_char=2199|end_char=2207
+48	on	on	ADP	IN	_	47	_	_	start_char=2208|end_char=2210
+49	20	20	NUM	CD	NumForm=Digit|NumType=Card	48	_	_	start_char=2211|end_char=2213|SpaceAfter=No
+50	-	-	SYM	SYM	_	49	_	_	start_char=2213|end_char=2214|SpaceAfter=No
+51	21	21	NUM	CD	NumForm=Digit|NumType=Card	50	_	_	start_char=2214|end_char=2216
+52	March	March	PROPN	NNP	Number=Sing	51	_	_	start_char=2217|end_char=2222
+53	2024	2024	NUM	CD	NumForm=Digit|NumType=Card	52	_	_	start_char=2223|end_char=2227|SpaceAfter=No
+54	.	.	PUNCT	.	_	53	_	_	start_char=2227|end_char=2228|SpacesAfter=\n\n
+
+# text = Secrets to success
+# sent_id = 15
+1	Secrets	secret	NOUN	NNS	Number=Plur	0	_	_	start_char=2230|end_char=2237
+2	to	to	ADP	IN	_	1	_	_	start_char=2238|end_char=2240
+3	success	success	NOUN	NN	Number=Sing	2	_	_	start_char=2241|end_char=2248|SpacesAfter=\n\n
+
+# text = Gender and transborder-cooperation requirements currently in place for EU funding help ensure greater diversity in research teams and produce scientific results that better reflect the make-up of society, according to Lepczynski.
+# sent_id = 16
+1	Gender	gender	NOUN	NN	Number=Sing	0	_	_	start_char=2250|end_char=2256
+2	and	and	CCONJ	CC	_	1	_	_	start_char=2257|end_char=2260
+3	transborder	transborder	NOUN	NN	Number=Sing	2	_	_	start_char=2261|end_char=2272|SpaceAfter=No
+4	-	-	PUNCT	HYPH	_	3	_	_	start_char=2272|end_char=2273|SpaceAfter=No
+5	cooperation	cooperation	NOUN	NN	Number=Sing	4	_	_	start_char=2273|end_char=2284
+6	requirements	requirement	NOUN	NNS	Number=Plur	5	_	_	start_char=2285|end_char=2297
+7	currently	currently	ADV	RB	_	6	_	_	start_char=2298|end_char=2307
+8	in	in	ADP	IN	_	7	_	_	start_char=2308|end_char=2310
+9	place	place	NOUN	NN	Number=Sing	8	_	_	start_char=2311|end_char=2316
+10	for	for	ADP	IN	_	9	_	_	start_char=2317|end_char=2320
+11	EU	EU	PROPN	NNP	Number=Sing	10	_	_	start_char=2321|end_char=2323
+12	funding	funding	NOUN	NN	Number=Sing	11	_	_	start_char=2324|end_char=2331
+13	help	help	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=2332|end_char=2336
+14	ensure	ensure	VERB	VB	VerbForm=Inf	13	_	_	start_char=2337|end_char=2343
+15	greater	great	ADJ	JJR	Degree=Cmp	14	_	_	start_char=2344|end_char=2351
+16	diversity	diversity	NOUN	NN	Number=Sing	15	_	_	start_char=2352|end_char=2361
+17	in	in	ADP	IN	_	16	_	_	start_char=2362|end_char=2364
+18	research	research	NOUN	NN	Number=Sing	17	_	_	start_char=2365|end_char=2373
+19	teams	team	NOUN	NNS	Number=Plur	18	_	_	start_char=2374|end_char=2379
+20	and	and	CCONJ	CC	_	19	_	_	start_char=2380|end_char=2383
+21	produce	produce	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	_	_	start_char=2384|end_char=2391
+22	scientific	scientific	ADJ	JJ	Degree=Pos	21	_	_	start_char=2392|end_char=2402
+23	results	result	NOUN	NNS	Number=Plur	22	_	_	start_char=2403|end_char=2410
+24	that	that	PRON	WDT	PronType=Rel	23	_	_	start_char=2411|end_char=2415
+25	better	well	ADV	RBR	Degree=Cmp	24	_	_	start_char=2416|end_char=2422
+26	reflect	reflect	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	_	_	start_char=2423|end_char=2430
+27	the	the	DET	DT	Definite=Def|PronType=Art	26	_	_	start_char=2431|end_char=2434
+28	make	make	NOUN	NN	Number=Sing	27	_	_	start_char=2435|end_char=2439|SpaceAfter=No
+29	-	-	PUNCT	HYPH	_	28	_	_	start_char=2439|end_char=2440|SpaceAfter=No
+30	up	up	NOUN	NN	Number=Sing	29	_	_	start_char=2440|end_char=2442
+31	of	of	ADP	IN	_	30	_	_	start_char=2443|end_char=2445
+32	society	society	NOUN	NN	Number=Sing	31	_	_	start_char=2446|end_char=2453|SpaceAfter=No
+33	,	,	PUNCT	,	_	32	_	_	start_char=2453|end_char=2454
+34	according	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	33	_	_	start_char=2455|end_char=2464
+35	to	to	ADP	IN	_	34	_	_	start_char=2465|end_char=2467
+36	Lepczynski	Lepczynski	PROPN	NNP	Number=Sing	35	_	_	start_char=2468|end_char=2478|SpaceAfter=No
+37	.	.	PUNCT	.	_	36	_	_	start_char=2478|end_char=2479|SpacesAfter=\n\n
+
+# text = She said that social and environmental conditionality in Horizon Europe would force researchers systematically to check that they’re acting for the common good and help ensure that funding advances EU green and social goals.
+# sent_id = 17
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=2481|end_char=2484
+2	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=2485|end_char=2489
+3	that	that	SCONJ	IN	_	2	_	_	start_char=2490|end_char=2494
+4	social	social	ADJ	JJ	Degree=Pos	3	_	_	start_char=2495|end_char=2501
+5	and	and	CCONJ	CC	_	4	_	_	start_char=2502|end_char=2505
+6	environmental	environmental	ADJ	JJ	Degree=Pos	5	_	_	start_char=2506|end_char=2519
+7	conditionality	conditionality	NOUN	NN	Number=Sing	6	_	_	start_char=2520|end_char=2534
+8	in	in	ADP	IN	_	7	_	_	start_char=2535|end_char=2537
+9	Horizon	Horizon	PROPN	NNP	Number=Sing	8	_	_	start_char=2538|end_char=2545
+10	Europe	Europe	PROPN	NNP	Number=Sing	9	_	_	start_char=2546|end_char=2552
+11	would	would	AUX	MD	VerbForm=Fin	10	_	_	start_char=2553|end_char=2558
+12	force	force	VERB	VB	VerbForm=Inf	11	_	_	start_char=2559|end_char=2564
+13	researchers	researcher	NOUN	NNS	Number=Plur	12	_	_	start_char=2565|end_char=2576
+14	systematically	systematically	ADV	RB	_	13	_	_	start_char=2577|end_char=2591
+15	to	to	PART	TO	_	14	_	_	start_char=2592|end_char=2594
+16	check	check	VERB	VB	VerbForm=Inf	15	_	_	start_char=2595|end_char=2600
+17	that	that	SCONJ	IN	_	16	_	_	start_char=2601|end_char=2605
+18-19	they’re	_	_	_	_	_	_	_	start_char=2606|end_char=2613
+18	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	_	_	start_char=2606|end_char=2610
+19	’re	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=2610|end_char=2613
+20	acting	act	VERB	VBG	Tense=Pres|VerbForm=Part	19	_	_	start_char=2614|end_char=2620
+21	for	for	ADP	IN	_	20	_	_	start_char=2621|end_char=2624
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=2625|end_char=2628
+23	common	common	ADJ	JJ	Degree=Pos	22	_	_	start_char=2629|end_char=2635
+24	good	good	NOUN	NN	Number=Sing	23	_	_	start_char=2636|end_char=2640
+25	and	and	CCONJ	CC	_	24	_	_	start_char=2641|end_char=2644
+26	help	help	VERB	VB	VerbForm=Inf	25	_	_	start_char=2645|end_char=2649
+27	ensure	ensure	VERB	VB	VerbForm=Inf	26	_	_	start_char=2650|end_char=2656
+28	that	that	SCONJ	IN	_	27	_	_	start_char=2657|end_char=2661
+29	funding	funding	NOUN	NN	Number=Sing	28	_	_	start_char=2662|end_char=2669
+30	advances	advance	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	_	_	start_char=2670|end_char=2678
+31	EU	EU	PROPN	NNP	Number=Sing	30	_	_	start_char=2679|end_char=2681
+32	green	green	ADJ	JJ	Degree=Pos	31	_	_	start_char=2682|end_char=2687
+33	and	and	CCONJ	CC	_	32	_	_	start_char=2688|end_char=2691
+34	social	social	ADJ	JJ	Degree=Pos	33	_	_	start_char=2692|end_char=2698
+35	goals	goal	NOUN	NNS	Number=Plur	34	_	_	start_char=2699|end_char=2704|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=2704|end_char=2705|SpacesAfter=\n\n
+
+# text = Trachte said such conditions will also be merited in the successor programme of Horizon Europe, which runs for seven years through 2027.
+# sent_id = 18
+1	Trachte	Trachte	PROPN	NNP	Number=Sing	0	_	_	start_char=2707|end_char=2714
+2	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=2715|end_char=2719
+3	such	such	ADJ	JJ	Degree=Pos	2	_	_	start_char=2720|end_char=2724
+4	conditions	condition	NOUN	NNS	Number=Plur	3	_	_	start_char=2725|end_char=2735
+5	will	will	AUX	MD	VerbForm=Fin	4	_	_	start_char=2736|end_char=2740
+6	also	also	ADV	RB	_	5	_	_	start_char=2741|end_char=2745
+7	be	be	AUX	VB	VerbForm=Inf	6	_	_	start_char=2746|end_char=2748
+8	merited	merite	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	_	_	start_char=2749|end_char=2756
+9	in	in	ADP	IN	_	8	_	_	start_char=2757|end_char=2759
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=2760|end_char=2763
+11	successor	successor	NOUN	NN	Number=Sing	10	_	_	start_char=2764|end_char=2773
+12	programme	programme	NOUN	NN	Number=Sing	11	_	_	start_char=2774|end_char=2783
+13	of	of	ADP	IN	_	12	_	_	start_char=2784|end_char=2786
+14	Horizon	Horizon	PROPN	NNP	Number=Sing	13	_	_	start_char=2787|end_char=2794
+15	Europe	Europe	PROPN	NNP	Number=Sing	14	_	_	start_char=2795|end_char=2801|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=2801|end_char=2802
+17	which	which	PRON	WDT	PronType=Rel	16	_	_	start_char=2803|end_char=2808
+18	runs	run	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=2809|end_char=2813
+19	for	for	ADP	IN	_	18	_	_	start_char=2814|end_char=2817
+20	seven	seven	NUM	CD	NumForm=Word|NumType=Card	19	_	_	start_char=2818|end_char=2823
+21	years	year	NOUN	NNS	Number=Plur	20	_	_	start_char=2824|end_char=2829
+22	through	through	ADP	IN	_	21	_	_	start_char=2830|end_char=2837
+23	2027	2027	NUM	CD	NumForm=Digit|NumType=Card	22	_	_	start_char=2838|end_char=2842|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=2842|end_char=2843|SpacesAfter=\n\n
+
+# text = ‘I wish for the next EU framework programme to decide the same – to have a greater impact and make a bigger contribution to the objectives of the European Green Deal,’ she said.
+# sent_id = 19
+1	‘	'	PUNCT	``	_	0	_	_	start_char=2845|end_char=2846|SpaceAfter=No
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	_	_	start_char=2846|end_char=2847
+3	wish	wish	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2848|end_char=2852
+4	for	for	ADP	IN	_	3	_	_	start_char=2853|end_char=2856
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=2857|end_char=2860
+6	next	next	ADJ	JJ	Degree=Pos	5	_	_	start_char=2861|end_char=2865
+7	EU	EU	PROPN	NNP	Number=Sing	6	_	_	start_char=2866|end_char=2868
+8	framework	framework	NOUN	NN	Number=Sing	7	_	_	start_char=2869|end_char=2878
+9	programme	programme	NOUN	NN	Number=Sing	8	_	_	start_char=2879|end_char=2888
+10	to	to	PART	TO	_	9	_	_	start_char=2889|end_char=2891
+11	decide	decide	VERB	VB	VerbForm=Inf	10	_	_	start_char=2892|end_char=2898
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=2899|end_char=2902
+13	same	same	ADJ	JJ	Degree=Pos	12	_	_	start_char=2903|end_char=2907
+14	–	-	PUNCT	:	_	13	_	_	start_char=2908|end_char=2909
+15	to	to	PART	TO	_	14	_	_	start_char=2910|end_char=2912
+16	have	have	VERB	VB	VerbForm=Inf	15	_	_	start_char=2913|end_char=2917
+17	a	a	DET	DT	Definite=Ind|PronType=Art	16	_	_	start_char=2918|end_char=2919
+18	greater	great	ADJ	JJR	Degree=Cmp	17	_	_	start_char=2920|end_char=2927
+19	impact	impact	NOUN	NN	Number=Sing	18	_	_	start_char=2928|end_char=2934
+20	and	and	CCONJ	CC	_	19	_	_	start_char=2935|end_char=2938
+21	make	make	VERB	VB	VerbForm=Inf	20	_	_	start_char=2939|end_char=2943
+22	a	a	DET	DT	Definite=Ind|PronType=Art	21	_	_	start_char=2944|end_char=2945
+23	bigger	big	ADJ	JJR	Degree=Cmp	22	_	_	start_char=2946|end_char=2952
+24	contribution	contribution	NOUN	NN	Number=Sing	23	_	_	start_char=2953|end_char=2965
+25	to	to	ADP	IN	_	24	_	_	start_char=2966|end_char=2968
+26	the	the	DET	DT	Definite=Def|PronType=Art	25	_	_	start_char=2969|end_char=2972
+27	objectives	objective	NOUN	NNS	Number=Plur	26	_	_	start_char=2973|end_char=2983
+28	of	of	ADP	IN	_	27	_	_	start_char=2984|end_char=2986
+29	the	the	DET	DT	Definite=Def|PronType=Art	28	_	_	start_char=2987|end_char=2990
+30	European	European	ADJ	NNP	Degree=Pos	29	_	_	start_char=2991|end_char=2999
+31	Green	Green	ADJ	NNP	Degree=Pos	30	_	_	start_char=3000|end_char=3005
+32	Deal	deal	PROPN	NNP	Number=Sing	31	_	_	start_char=3006|end_char=3010|SpaceAfter=No
+33	,	,	PUNCT	,	_	32	_	_	start_char=3010|end_char=3011|SpaceAfter=No
+34	’	'	PUNCT	''	_	33	_	_	start_char=3011|end_char=3012
+35	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	34	_	_	start_char=3013|end_char=3016
+36	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	35	_	_	start_char=3017|end_char=3021|SpaceAfter=No
+37	.	.	PUNCT	.	_	36	_	_	start_char=3021|end_char=3022|SpacesAfter=\n\n
+
+# text = For Trachte, EU projects can have the most impact where academic, industry, government, civil society and the environment interact.
+# sent_id = 20
+1	For	for	ADP	IN	_	0	_	_	start_char=3024|end_char=3027
+2	Trachte	Trachte	PROPN	NNP	Number=Sing	1	_	_	start_char=3028|end_char=3035|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=3035|end_char=3036
+4	EU	EU	PROPN	NNP	Number=Sing	3	_	_	start_char=3037|end_char=3039
+5	projects	project	NOUN	NNS	Number=Plur	4	_	_	start_char=3040|end_char=3048
+6	can	can	AUX	MD	VerbForm=Fin	5	_	_	start_char=3049|end_char=3052
+7	have	have	VERB	VB	VerbForm=Inf	6	_	_	start_char=3053|end_char=3057
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=3058|end_char=3061
+9	most	most	ADJ	JJS	Degree=Sup	8	_	_	start_char=3062|end_char=3066
+10	impact	impact	NOUN	NN	Number=Sing	9	_	_	start_char=3067|end_char=3073
+11	where	where	ADV	WRB	PronType=Rel	10	_	_	start_char=3074|end_char=3079
+12	academic	academic	ADJ	JJ	Degree=Pos	11	_	_	start_char=3080|end_char=3088|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=3088|end_char=3089
+14	industry	industry	NOUN	NN	Number=Sing	13	_	_	start_char=3090|end_char=3098|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=3098|end_char=3099
+16	government	government	NOUN	NN	Number=Sing	15	_	_	start_char=3100|end_char=3110|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=3110|end_char=3111
+18	civil	civil	ADJ	JJ	Degree=Pos	17	_	_	start_char=3112|end_char=3117
+19	society	society	NOUN	NN	Number=Sing	18	_	_	start_char=3118|end_char=3125
+20	and	and	CCONJ	CC	_	19	_	_	start_char=3126|end_char=3129
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=3130|end_char=3133
+22	environment	environment	NOUN	NN	Number=Sing	21	_	_	start_char=3134|end_char=3145
+23	interact	interact	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	_	_	start_char=3146|end_char=3154|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=3154|end_char=3155|SpacesAfter=\n\n
+
+# text = This is known as the “quintuple helix” approach to innovation.
+# sent_id = 21
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=3157|end_char=3161
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=3162|end_char=3164
+3	known	know	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	_	_	start_char=3165|end_char=3170
+4	as	as	ADP	IN	_	3	_	_	start_char=3171|end_char=3173
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=3174|end_char=3177
+6	“	''	PUNCT	``	_	5	_	_	start_char=3178|end_char=3179|SpaceAfter=No
+7	quintuple	quintuple	ADJ	JJ	Degree=Pos	6	_	_	start_char=3179|end_char=3188
+8	helix	helix	NOUN	NN	Number=Sing	7	_	_	start_char=3189|end_char=3194|SpaceAfter=No
+9	”	''	PUNCT	''	_	8	_	_	start_char=3194|end_char=3195
+10	approach	approach	NOUN	NN	Number=Sing	9	_	_	start_char=3196|end_char=3204
+11	to	to	ADP	IN	_	10	_	_	start_char=3205|end_char=3207
+12	innovation	innovation	NOUN	NN	Number=Sing	11	_	_	start_char=3208|end_char=3218|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=3218|end_char=3219
+
+# text = It has led governments increasingly to prioritise public involvement in innovation processes.
+# sent_id = 22
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=3220|end_char=3222
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=3223|end_char=3226
+3	led	lead	VERB	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=3227|end_char=3230
+4	governments	government	NOUN	NNS	Number=Plur	3	_	_	start_char=3231|end_char=3242
+5	increasingly	increasingly	ADV	RB	_	4	_	_	start_char=3243|end_char=3255
+6	to	to	PART	TO	_	5	_	_	start_char=3256|end_char=3258
+7	prioritise	prioritise	VERB	VB	VerbForm=Inf	6	_	_	start_char=3259|end_char=3269
+8	public	public	ADJ	JJ	Degree=Pos	7	_	_	start_char=3270|end_char=3276
+9	involvement	involvement	NOUN	NN	Number=Sing	8	_	_	start_char=3277|end_char=3288
+10	in	in	ADP	IN	_	9	_	_	start_char=3289|end_char=3291
+11	innovation	innovation	NOUN	NN	Number=Sing	10	_	_	start_char=3292|end_char=3302
+12	processes	process	NOUN	NNS	Number=Plur	11	_	_	start_char=3303|end_char=3312|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=3312|end_char=3313|SpacesAfter=\n\n
+
+# text = ‘This ensures that research is rooted in society and geared towards finding solutions to today’s major societal challenges such as climate degradation, growing socio-economic inequalities or democracies,’ Trachte said.
+# sent_id = 23
+1	‘	'	PUNCT	``	_	0	_	_	start_char=3315|end_char=3316|SpaceAfter=No
+2	This	this	PRON	DT	Number=Sing|PronType=Dem	1	_	_	start_char=3316|end_char=3320
+3	ensures	ensure	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=3321|end_char=3328
+4	that	that	SCONJ	IN	_	3	_	_	start_char=3329|end_char=3333
+5	research	research	NOUN	NN	Number=Sing	4	_	_	start_char=3334|end_char=3342
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=3343|end_char=3345
+7	rooted	root	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	_	_	start_char=3346|end_char=3352
+8	in	in	ADP	IN	_	7	_	_	start_char=3353|end_char=3355
+9	society	society	NOUN	NN	Number=Sing	8	_	_	start_char=3356|end_char=3363
+10	and	and	CCONJ	CC	_	9	_	_	start_char=3364|end_char=3367
+11	geared	gear	VERB	VBN	Tense=Past|VerbForm=Part	10	_	_	start_char=3368|end_char=3374
+12	towards	towards	SCONJ	IN	_	11	_	_	start_char=3375|end_char=3382
+13	finding	find	VERB	VBG	VerbForm=Ger	12	_	_	start_char=3383|end_char=3390
+14	solutions	solution	NOUN	NNS	Number=Plur	13	_	_	start_char=3391|end_char=3400
+15	to	to	ADP	IN	_	14	_	_	start_char=3401|end_char=3403
+16-17	today’s	_	_	_	_	_	_	_	start_char=3404|end_char=3411
+16	today	today	NOUN	NN	Number=Sing	15	_	_	start_char=3404|end_char=3409
+17	’s	's	PART	POS	_	16	_	_	start_char=3409|end_char=3411
+18	major	major	ADJ	JJ	Degree=Pos	17	_	_	start_char=3412|end_char=3417
+19	societal	societal	ADJ	JJ	Degree=Pos	18	_	_	start_char=3418|end_char=3426
+20	challenges	challenge	NOUN	NNS	Number=Plur	19	_	_	start_char=3427|end_char=3437
+21	such	such	ADJ	JJ	Degree=Pos	20	_	_	start_char=3438|end_char=3442
+22	as	as	ADP	IN	_	21	_	_	start_char=3443|end_char=3445
+23	climate	climate	NOUN	NN	Number=Sing	22	_	_	start_char=3446|end_char=3453
+24	degradation	degradation	NOUN	NN	Number=Sing	23	_	_	start_char=3454|end_char=3465|SpaceAfter=No
+25	,	,	PUNCT	,	_	24	_	_	start_char=3465|end_char=3466
+26	growing	grow	VERB	VBG	VerbForm=Ger	25	_	_	start_char=3467|end_char=3474
+27	socio-economic	socio-economic	ADJ	JJ	Degree=Pos	26	_	_	start_char=3475|end_char=3489
+28	inequalities	inequality	NOUN	NNS	Number=Plur	27	_	_	start_char=3490|end_char=3502
+29	or	or	CCONJ	CC	_	28	_	_	start_char=3503|end_char=3505
+30	democracies	democracy	NOUN	NNS	Number=Plur	29	_	_	start_char=3506|end_char=3517|SpaceAfter=No
+31	,	,	PUNCT	,	_	30	_	_	start_char=3517|end_char=3518|SpaceAfter=No
+32	’	'	PUNCT	''	_	31	_	_	start_char=3518|end_char=3519
+33	Trachte	Trachte	PROPN	NNP	Number=Sing	32	_	_	start_char=3520|end_char=3527
+34	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	33	_	_	start_char=3528|end_char=3532|SpaceAfter=No
+35	.	.	PUNCT	.	_	34	_	_	start_char=3532|end_char=3533|SpacesAfter=\n\n
+
+# text = Mission driven
+# sent_id = 24
+1	Mission	Mission	NOUN	NN	Number=Sing	0	_	_	start_char=3535|end_char=3542
+2	driven	drive	VERB	VBN	Tense=Past|VerbForm=Part	1	_	_	start_char=3543|end_char=3549|SpacesAfter=\n\n
+
+# text = She singled out as particularly important the five Horizon Europe “Missions”: adapting to climate change, fighting cancer, restoring oceans, cleaning up soil and establishing 100 climate-neutral and smart cities by 2030.
+# sent_id = 25
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=3551|end_char=3554
+2	singled	single	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=3555|end_char=3562
+3	out	out	ADP	RP	_	2	_	_	start_char=3563|end_char=3566
+4	as	as	ADP	IN	_	3	_	_	start_char=3567|end_char=3569
+5	particularly	particularly	ADV	RB	_	4	_	_	start_char=3570|end_char=3582
+6	important	important	ADJ	JJ	Degree=Pos	5	_	_	start_char=3583|end_char=3592
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=3593|end_char=3596
+8	five	five	NUM	CD	NumForm=Word|NumType=Card	7	_	_	start_char=3597|end_char=3601
+9	Horizon	Horizon	PROPN	NNP	Number=Sing	8	_	_	start_char=3602|end_char=3609
+10	Europe	Europe	PROPN	NNP	Number=Sing	9	_	_	start_char=3610|end_char=3616
+11	“	''	PUNCT	``	_	10	_	_	start_char=3617|end_char=3618|SpaceAfter=No
+12	Missions	Mission	PROPN	NNPS	Number=Plur	11	_	_	start_char=3618|end_char=3626|SpaceAfter=No
+13	”	''	PUNCT	''	_	12	_	_	start_char=3626|end_char=3627|SpaceAfter=No
+14	:	:	PUNCT	:	_	13	_	_	start_char=3627|end_char=3628
+15	adapting	adapt	VERB	VBG	VerbForm=Ger	14	_	_	start_char=3629|end_char=3637
+16	to	to	ADP	IN	_	15	_	_	start_char=3638|end_char=3640
+17	climate	climate	NOUN	NN	Number=Sing	16	_	_	start_char=3641|end_char=3648
+18	change	change	NOUN	NN	Number=Sing	17	_	_	start_char=3649|end_char=3655|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=3655|end_char=3656
+20	fighting	fight	VERB	VBG	VerbForm=Ger	19	_	_	start_char=3657|end_char=3665
+21	cancer	cancer	NOUN	NN	Number=Sing	20	_	_	start_char=3666|end_char=3672|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=3672|end_char=3673
+23	restoring	restore	VERB	VBG	VerbForm=Ger	22	_	_	start_char=3674|end_char=3683
+24	oceans	ocean	NOUN	NNS	Number=Plur	23	_	_	start_char=3684|end_char=3690|SpaceAfter=No
+25	,	,	PUNCT	,	_	24	_	_	start_char=3690|end_char=3691
+26	cleaning	clean	VERB	VBG	VerbForm=Ger	25	_	_	start_char=3692|end_char=3700
+27	up	up	ADP	RP	_	26	_	_	start_char=3701|end_char=3703
+28	soil	soil	NOUN	NN	Number=Sing	27	_	_	start_char=3704|end_char=3708
+29	and	and	CCONJ	CC	_	28	_	_	start_char=3709|end_char=3712
+30	establishing	establish	VERB	VBG	VerbForm=Ger	29	_	_	start_char=3713|end_char=3725
+31	100	100	NUM	CD	NumForm=Digit|NumType=Card	30	_	_	start_char=3726|end_char=3729
+32	climate	climate	NOUN	NN	Number=Sing	31	_	_	start_char=3730|end_char=3737|SpaceAfter=No
+33	-	-	PUNCT	HYPH	_	32	_	_	start_char=3737|end_char=3738|SpaceAfter=No
+34	neutral	neutral	ADJ	JJ	Degree=Pos	33	_	_	start_char=3738|end_char=3745
+35	and	and	CCONJ	CC	_	34	_	_	start_char=3746|end_char=3749
+36	smart	smart	ADJ	JJ	Degree=Pos	35	_	_	start_char=3750|end_char=3755
+37	cities	city	NOUN	NNS	Number=Plur	36	_	_	start_char=3756|end_char=3762
+38	by	by	ADP	IN	_	37	_	_	start_char=3763|end_char=3765
+39	2030	2030	NUM	CD	NumForm=Digit|NumType=Card	38	_	_	start_char=3766|end_char=3770|SpaceAfter=No
+40	.	.	PUNCT	.	_	39	_	_	start_char=3770|end_char=3771|SpacesAfter=\n\n
+
+# text = ‘The five Missions are a very innovative tool to make the societal challenges stand out – in particular the triple crisis of climate, biodiversity and pollution and the health challenges related to it,’ Trachte said.
+# sent_id = 26
+1	‘	'	PUNCT	``	_	0	_	_	start_char=3773|end_char=3774|SpaceAfter=No
+2	The	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=3774|end_char=3777
+3	five	five	NUM	CD	NumForm=Word|NumType=Card	2	_	_	start_char=3778|end_char=3782
+4	Missions	mission	NOUN	NNS	Number=Plur	3	_	_	start_char=3783|end_char=3791
+5	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=3792|end_char=3795
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=3796|end_char=3797
+7	very	very	ADV	RB	_	6	_	_	start_char=3798|end_char=3802
+8	innovative	innovative	ADJ	JJ	Degree=Pos	7	_	_	start_char=3803|end_char=3813
+9	tool	tool	NOUN	NN	Number=Sing	8	_	_	start_char=3814|end_char=3818
+10	to	to	PART	TO	_	9	_	_	start_char=3819|end_char=3821
+11	make	make	VERB	VB	VerbForm=Inf	10	_	_	start_char=3822|end_char=3826
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=3827|end_char=3830
+13	societal	societal	ADJ	JJ	Degree=Pos	12	_	_	start_char=3831|end_char=3839
+14	challenges	challenge	NOUN	NNS	Number=Plur	13	_	_	start_char=3840|end_char=3850
+15	stand	stand	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=3851|end_char=3856
+16	out	out	ADP	RP	_	15	_	_	start_char=3857|end_char=3860
+17	–	-	PUNCT	:	_	16	_	_	start_char=3861|end_char=3862
+18	in	in	ADP	IN	_	17	_	_	start_char=3863|end_char=3865
+19	particular	particular	ADJ	JJ	Degree=Pos	18	_	_	start_char=3866|end_char=3876
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=3877|end_char=3880
+21	triple	triple	ADJ	JJ	Degree=Pos	20	_	_	start_char=3881|end_char=3887
+22	crisis	crisis	NOUN	NN	Number=Sing	21	_	_	start_char=3888|end_char=3894
+23	of	of	ADP	IN	_	22	_	_	start_char=3895|end_char=3897
+24	climate	climate	NOUN	NN	Number=Sing	23	_	_	start_char=3898|end_char=3905|SpaceAfter=No
+25	,	,	PUNCT	,	_	24	_	_	start_char=3905|end_char=3906
+26	biodiversity	biodiversity	NOUN	NN	Number=Sing	25	_	_	start_char=3907|end_char=3919
+27	and	and	CCONJ	CC	_	26	_	_	start_char=3920|end_char=3923
+28	pollution	pollution	NOUN	NN	Number=Sing	27	_	_	start_char=3924|end_char=3933
+29	and	and	CCONJ	CC	_	28	_	_	start_char=3934|end_char=3937
+30	the	the	DET	DT	Definite=Def|PronType=Art	29	_	_	start_char=3938|end_char=3941
+31	health	health	NOUN	NN	Number=Sing	30	_	_	start_char=3942|end_char=3948
+32	challenges	challenge	NOUN	NNS	Number=Plur	31	_	_	start_char=3949|end_char=3959
+33	related	related	ADJ	JJ	Degree=Pos	32	_	_	start_char=3960|end_char=3967
+34	to	to	ADP	IN	_	33	_	_	start_char=3968|end_char=3970
+35	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	34	_	_	start_char=3971|end_char=3973|SpaceAfter=No
+36	,	,	PUNCT	,	_	35	_	_	start_char=3973|end_char=3974|SpaceAfter=No
+37	’	'	PUNCT	''	_	36	_	_	start_char=3974|end_char=3975
+38	Trachte	Trachte	PROPN	NNP	Number=Sing	37	_	_	start_char=3976|end_char=3983
+39	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	38	_	_	start_char=3984|end_char=3988|SpaceAfter=No
+40	.	.	PUNCT	.	_	39	_	_	start_char=3988|end_char=3989|SpacesAfter=\n\n
+
+# text = In Brussels, the Climate-Neutral and Smart Cities Mission was notably successful in bringing together regional and local administrations as well as other partners from the private sector.
+# sent_id = 27
+1	In	in	ADP	IN	_	0	_	_	start_char=3991|end_char=3993
+2	Brussels	Brussels	PROPN	NNP	Number=Sing	1	_	_	start_char=3994|end_char=4002|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=4002|end_char=4003
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=4004|end_char=4007
+5	Climate	Climate	PROPN	NNP	Number=Sing	4	_	_	start_char=4008|end_char=4015|SpaceAfter=No
+6	-	-	PUNCT	HYPH	_	5	_	_	start_char=4015|end_char=4016|SpaceAfter=No
+7	Neutral	neutral	ADJ	NNP	Degree=Pos	6	_	_	start_char=4016|end_char=4023
+8	and	and	CCONJ	CC	_	7	_	_	start_char=4024|end_char=4027
+9	Smart	smart	ADJ	NNP	Degree=Pos	8	_	_	start_char=4028|end_char=4033
+10	Cities	city	PROPN	NNPS	Number=Plur	9	_	_	start_char=4034|end_char=4040
+11	Mission	Mission	PROPN	NNP	Number=Sing	10	_	_	start_char=4041|end_char=4048
+12	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=4049|end_char=4052
+13	notably	notably	ADV	RB	_	12	_	_	start_char=4053|end_char=4060
+14	successful	successful	ADJ	JJ	Degree=Pos	13	_	_	start_char=4061|end_char=4071
+15	in	in	SCONJ	IN	_	14	_	_	start_char=4072|end_char=4074
+16	bringing	bring	VERB	VBG	VerbForm=Ger	15	_	_	start_char=4075|end_char=4083
+17	together	together	ADV	RB	_	16	_	_	start_char=4084|end_char=4092
+18	regional	regional	ADJ	JJ	Degree=Pos	17	_	_	start_char=4093|end_char=4101
+19	and	and	CCONJ	CC	_	18	_	_	start_char=4102|end_char=4105
+20	local	local	ADJ	JJ	Degree=Pos	19	_	_	start_char=4106|end_char=4111
+21	administrations	administration	NOUN	NNS	Number=Plur	20	_	_	start_char=4112|end_char=4127
+22	as	as	ADV	RB	_	21	_	_	start_char=4128|end_char=4130
+23	well	well	ADV	RB	Degree=Pos	22	_	_	start_char=4131|end_char=4135
+24	as	as	ADP	IN	_	23	_	_	start_char=4136|end_char=4138
+25	other	other	ADJ	JJ	Degree=Pos	24	_	_	start_char=4139|end_char=4144
+26	partners	partner	NOUN	NNS	Number=Plur	25	_	_	start_char=4145|end_char=4153
+27	from	from	ADP	IN	_	26	_	_	start_char=4154|end_char=4158
+28	the	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=4159|end_char=4162
+29	private	private	ADJ	JJ	Degree=Pos	28	_	_	start_char=4163|end_char=4170
+30	sector	sector	NOUN	NN	Number=Sing	29	_	_	start_char=4171|end_char=4177|SpaceAfter=No
+31	.	.	PUNCT	.	_	30	_	_	start_char=4177|end_char=4178|SpacesAfter=\n\n
+
+# text = ‘The enthusiasm created behind the Missions has mobilised many different actors,’ Trachte said.
+# sent_id = 28
+1	‘	'	PUNCT	``	_	0	_	_	start_char=4180|end_char=4181|SpaceAfter=No
+2	The	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=4181|end_char=4184
+3	enthusiasm	enthusiasm	NOUN	NN	Number=Sing	2	_	_	start_char=4185|end_char=4195
+4	created	create	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=4196|end_char=4203
+5	behind	behind	ADP	IN	_	4	_	_	start_char=4204|end_char=4210
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=4211|end_char=4214
+7	Missions	Mission	PROPN	NNPS	Number=Plur	6	_	_	start_char=4215|end_char=4223
+8	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=4224|end_char=4227
+9	mobilised	mobilise	VERB	VBN	Tense=Past|VerbForm=Part	8	_	_	start_char=4228|end_char=4237
+10	many	many	ADJ	JJ	Degree=Pos	9	_	_	start_char=4238|end_char=4242
+11	different	different	ADJ	JJ	Degree=Pos	10	_	_	start_char=4243|end_char=4252
+12	actors	actor	NOUN	NNS	Number=Plur	11	_	_	start_char=4253|end_char=4259|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=4259|end_char=4260|SpaceAfter=No
+14	’	'	PUNCT	''	_	13	_	_	start_char=4260|end_char=4261
+15	Trachte	Trachte	PROPN	NNP	Number=Sing	14	_	_	start_char=4262|end_char=4269
+16	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	_	_	start_char=4270|end_char=4274|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=4274|end_char=4275|SpacesAfter=\n\n
+
+# text = The views of the interviewees don’t necessarily reflect those of the European Commission.
+# sent_id = 29
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=4277|end_char=4280
+2	views	view	NOUN	NNS	Number=Plur	1	_	_	start_char=4281|end_char=4286
+3	of	of	ADP	IN	_	2	_	_	start_char=4287|end_char=4289
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=4290|end_char=4293
+5	interviewees	interviewee	NOUN	NNS	Number=Plur	4	_	_	start_char=4294|end_char=4306
+6-7	don’t	_	_	_	_	_	_	_	start_char=4307|end_char=4312
+6	do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=4307|end_char=4309
+7	n’t	not	PART	RB	_	6	_	_	start_char=4309|end_char=4312
+8	necessarily	necessarily	ADV	RB	_	7	_	_	start_char=4313|end_char=4324
+9	reflect	reflect	VERB	VB	VerbForm=Inf	8	_	_	start_char=4325|end_char=4332
+10	those	that	PRON	DT	Number=Plur|PronType=Dem	9	_	_	start_char=4333|end_char=4338
+11	of	of	ADP	IN	_	10	_	_	start_char=4339|end_char=4341
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=4342|end_char=4345
+13	European	European	ADJ	NNP	Degree=Pos	12	_	_	start_char=4346|end_char=4354
+14	Commission	Commission	PROPN	NNP	Number=Sing	13	_	_	start_char=4355|end_char=4365|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=4365|end_char=4366|SpacesAfter=\n\n
+
+# text = This article was originally published in Horizon the EU Research and Innovation Magazine.
+# sent_id = 30
+1	This	this	DET	DT	Number=Sing|PronType=Dem	0	_	_	start_char=4368|end_char=4372
+2	article	article	NOUN	NN	Number=Sing	1	_	_	start_char=4373|end_char=4380
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=4381|end_char=4384
+4	originally	originally	ADV	RB	_	3	_	_	start_char=4385|end_char=4395
+5	published	publish	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	_	_	start_char=4396|end_char=4405
+6	in	in	ADP	IN	_	5	_	_	start_char=4406|end_char=4408
+7	Horizon	Horizon	PROPN	NNP	Number=Sing	6	_	_	start_char=4409|end_char=4416
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=4417|end_char=4420
+9	EU	EU	PROPN	NNP	Number=Sing	8	_	_	start_char=4421|end_char=4423
+10	Research	Research	PROPN	NNP	Number=Sing	9	_	_	start_char=4424|end_char=4432
+11	and	and	CCONJ	CC	_	10	_	_	start_char=4433|end_char=4436
+12	Innovation	Innovation	PROPN	NNP	Number=Sing	11	_	_	start_char=4437|end_char=4447
+13	Magazine	Magazine	PROPN	NNP	Number=Sing	12	_	_	start_char=4448|end_char=4456|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=4456|end_char=4457|SpaceAfter=No
+
