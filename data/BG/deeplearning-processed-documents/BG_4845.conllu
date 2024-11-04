@@ -1,0 +1,278 @@
+# text = Ahmat's leader: 'The war ends in a few months!'
+# sent_id = 0
+1-2	Ahmat's	_	_	_	_	_	_	_	start_char=0|end_char=7
+1	Ahmat	Ahmat	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=5
+2	's	's	PART	POS	_	1	_	_	start_char=5|end_char=7
+3	leader	leader	NOUN	NN	Number=Sing	2	_	_	start_char=8|end_char=14|SpaceAfter=No
+4	:	:	PUNCT	:	_	3	_	_	start_char=14|end_char=15
+5	'	'	PUNCT	``	_	4	_	_	start_char=16|end_char=17|SpaceAfter=No
+6	The	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=17|end_char=20
+7	war	war	NOUN	NN	Number=Sing	6	_	_	start_char=21|end_char=24
+8	ends	end	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=25|end_char=29
+9	in	in	ADP	IN	_	8	_	_	start_char=30|end_char=32
+10	a	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=33|end_char=34
+11	few	few	ADJ	JJ	Degree=Pos	10	_	_	start_char=35|end_char=38
+12	months	month	NOUN	NNS	Number=Plur	11	_	_	start_char=39|end_char=45|SpaceAfter=No
+13	!	!	PUNCT	.	_	12	_	_	start_char=45|end_char=46|SpaceAfter=No
+14	'	'	PUNCT	''	_	13	_	_	start_char=46|end_char=47
+
+# text = EU and US to pour 240 billion over 4 years
+# sent_id = 1
+1	EU	EU	PROPN	NNP	Number=Sing	0	_	_	start_char=48|end_char=50
+2	and	and	CCONJ	CC	_	1	_	_	start_char=51|end_char=54
+3	US	US	PROPN	NNP	Number=Sing	2	_	_	start_char=55|end_char=57
+4	to	to	PART	TO	_	3	_	_	start_char=58|end_char=60
+5	pour	pour	VERB	VB	VerbForm=Inf	4	_	_	start_char=61|end_char=65
+6	240	240	NUM	CD	NumForm=Digit|NumType=Card	5	_	_	start_char=66|end_char=69
+7	billion	billion	NUM	CD	NumForm=Word|NumType=Card	6	_	_	start_char=70|end_char=77
+8	over	over	ADV	RB	_	7	_	_	start_char=78|end_char=82
+9	4	4	NUM	CD	NumForm=Digit|NumType=Card	8	_	_	start_char=83|end_char=84
+10	years	year	NOUN	NNS	Number=Plur	9	_	_	start_char=85|end_char=90|SpacesAfter=\n\n
+
+# text = "The 'special military operation' will end with Russia's victory by the end of 2024."
+# sent_id = 2
+1	"	"	PUNCT	``	_	0	_	_	start_char=92|end_char=93|SpaceAfter=No
+2	The	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=93|end_char=96
+3	'	'	PUNCT	``	_	2	_	_	start_char=97|end_char=98|SpaceAfter=No
+4	special	special	ADJ	JJ	Degree=Pos	3	_	_	start_char=98|end_char=105
+5	military	military	ADJ	JJ	Degree=Pos	4	_	_	start_char=106|end_char=114
+6	operation	operation	NOUN	NN	Number=Sing	5	_	_	start_char=115|end_char=124|SpaceAfter=No
+7	'	'	PUNCT	''	_	6	_	_	start_char=124|end_char=125
+8	will	will	AUX	MD	VerbForm=Fin	7	_	_	start_char=126|end_char=130
+9	end	end	VERB	VB	VerbForm=Inf	8	_	_	start_char=131|end_char=134
+10	with	with	ADP	IN	_	9	_	_	start_char=135|end_char=139
+11-12	Russia's	_	_	_	_	_	_	_	start_char=140|end_char=148
+11	Russia	Russia	PROPN	NNP	Number=Sing	10	_	_	start_char=140|end_char=146
+12	's	's	PART	POS	_	11	_	_	start_char=146|end_char=148
+13	victory	victory	NOUN	NN	Number=Sing	12	_	_	start_char=149|end_char=156
+14	by	by	ADP	IN	_	13	_	_	start_char=157|end_char=159
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=160|end_char=163
+16	end	end	NOUN	NN	Number=Sing	15	_	_	start_char=164|end_char=167
+17	of	of	ADP	IN	_	16	_	_	start_char=168|end_char=170
+18	2024	2024	NUM	CD	NumForm=Digit|NumType=Card	17	_	_	start_char=171|end_char=175|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=175|end_char=176|SpaceAfter=No
+20	"	"	PUNCT	''	_	19	_	_	start_char=176|end_char=177
+
+# text = This was stated by Major General Apti Alaudinov, commander of the special-purpose force "Akhmat", Russian media reported.
+# sent_id = 3
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=178|end_char=182
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=183|end_char=186
+3	stated	state	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	_	_	start_char=187|end_char=193
+4	by	by	ADP	IN	_	3	_	_	start_char=194|end_char=196
+5	Major	Major	PROPN	NNP	Number=Sing	4	_	_	start_char=197|end_char=202
+6	General	General	PROPN	NNP	Number=Sing	5	_	_	start_char=203|end_char=210
+7	Apti	Apti	PROPN	NNP	Number=Sing	6	_	_	start_char=211|end_char=215
+8	Alaudinov	Alaudinov	PROPN	NNP	Number=Sing	7	_	_	start_char=216|end_char=225|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=225|end_char=226
+10	commander	commander	NOUN	NN	Number=Sing	9	_	_	start_char=227|end_char=236
+11	of	of	ADP	IN	_	10	_	_	start_char=237|end_char=239
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=240|end_char=243
+13	special	special	ADJ	JJ	Degree=Pos	12	_	_	start_char=244|end_char=251|SpaceAfter=No
+14	-	-	PUNCT	HYPH	_	13	_	_	start_char=251|end_char=252|SpaceAfter=No
+15	purpose	purpose	NOUN	NN	Number=Sing	14	_	_	start_char=252|end_char=259
+16	force	force	NOUN	NN	Number=Sing	15	_	_	start_char=260|end_char=265
+17	"	"	PUNCT	``	_	16	_	_	start_char=266|end_char=267|SpaceAfter=No
+18	Akhmat	Akhmat	PROPN	NNP	Number=Sing	17	_	_	start_char=267|end_char=273|SpaceAfter=No
+19	"	"	PUNCT	''	_	18	_	_	start_char=273|end_char=274|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=274|end_char=275
+21	Russian	Russian	ADJ	JJ	Degree=Pos	20	_	_	start_char=276|end_char=283
+22	media	media	NOUN	NN	Number=Sing	21	_	_	start_char=284|end_char=289
+23	reported	report	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	_	_	start_char=290|end_char=298|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=298|end_char=299|SpacesAfter=\n
+
+# text = "I stand by my opinion: I am more than confident that this year we will complete the SAO," he stated.
+# sent_id = 4
+1	"	"	PUNCT	``	_	0	_	_	start_char=300|end_char=301|SpaceAfter=No
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	_	_	start_char=301|end_char=302
+3	stand	stand	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=303|end_char=308
+4	by	by	ADP	IN	_	3	_	_	start_char=309|end_char=311
+5	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	_	_	start_char=312|end_char=314
+6	opinion	opinion	NOUN	NN	Number=Sing	5	_	_	start_char=315|end_char=322|SpaceAfter=No
+7	:	:	PUNCT	:	_	6	_	_	start_char=322|end_char=323
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	_	_	start_char=324|end_char=325
+9	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	_	_	start_char=326|end_char=328
+10	more	more	ADV	RBR	Degree=Cmp	9	_	_	start_char=329|end_char=333
+11	than	than	ADP	IN	_	10	_	_	start_char=334|end_char=338
+12	confident	confident	ADJ	JJ	Degree=Pos	11	_	_	start_char=339|end_char=348
+13	that	that	SCONJ	IN	_	12	_	_	start_char=349|end_char=353
+14	this	this	DET	DT	Number=Sing|PronType=Dem	13	_	_	start_char=354|end_char=358
+15	year	year	NOUN	NN	Number=Sing	14	_	_	start_char=359|end_char=363
+16	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	15	_	_	start_char=364|end_char=366
+17	will	will	AUX	MD	VerbForm=Fin	16	_	_	start_char=367|end_char=371
+18	complete	complete	VERB	VB	VerbForm=Inf	17	_	_	start_char=372|end_char=380
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=381|end_char=384
+20	SAO	SAO	PROPN	NNP	Number=Sing	19	_	_	start_char=385|end_char=388|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=388|end_char=389|SpaceAfter=No
+22	"	"	PUNCT	''	_	21	_	_	start_char=389|end_char=390
+23	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	_	_	start_char=391|end_char=393
+24	stated	state	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	23	_	_	start_char=394|end_char=400|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=400|end_char=401|SpacesAfter=\n
+
+# text = Alaudinov added that Ukraine's Armed Forces "have already spread out on all fronts, with Russian troops taking new settlements every few days."
+# sent_id = 5
+1	Alaudinov	Alaudinov	PROPN	NNP	Number=Sing	0	_	_	start_char=402|end_char=411
+2	added	add	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=412|end_char=417
+3	that	that	SCONJ	IN	_	2	_	_	start_char=418|end_char=422
+4-5	Ukraine's	_	_	_	_	_	_	_	start_char=423|end_char=432
+4	Ukraine	Ukraine	PROPN	NNP	Number=Sing	3	_	_	start_char=423|end_char=430
+5	's	's	PART	POS	_	4	_	_	start_char=430|end_char=432
+6	Armed	armed	ADJ	JJ	Degree=Pos	5	_	_	start_char=433|end_char=438
+7	Forces	force	NOUN	NNS	Number=Plur	6	_	_	start_char=439|end_char=445
+8	"	"	PUNCT	``	_	7	_	_	start_char=446|end_char=447|SpaceAfter=No
+9	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=447|end_char=451
+10	already	already	ADV	RB	_	9	_	_	start_char=452|end_char=459
+11	spread	spread	VERB	VBN	Tense=Past|VerbForm=Part	10	_	_	start_char=460|end_char=466
+12	out	out	ADP	RP	_	11	_	_	start_char=467|end_char=470
+13	on	on	ADP	IN	_	12	_	_	start_char=471|end_char=473
+14	all	all	DET	DT	_	13	_	_	start_char=474|end_char=477
+15	fronts	front	NOUN	NNS	Number=Plur	14	_	_	start_char=478|end_char=484|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=484|end_char=485
+17	with	with	ADP	IN	_	16	_	_	start_char=486|end_char=490
+18	Russian	Russian	ADJ	JJ	Degree=Pos	17	_	_	start_char=491|end_char=498
+19	troops	troops	NOUN	NNS	Number=Plur	18	_	_	start_char=499|end_char=505
+20	taking	take	VERB	VBG	VerbForm=Ger	19	_	_	start_char=506|end_char=512
+21	new	new	ADJ	JJ	Degree=Pos	20	_	_	start_char=513|end_char=516
+22	settlements	settlement	NOUN	NNS	Number=Plur	21	_	_	start_char=517|end_char=528
+23	every	every	DET	DT	PronType=Tot	22	_	_	start_char=529|end_char=534
+24	few	few	ADJ	JJ	Degree=Pos	23	_	_	start_char=535|end_char=538
+25	days	day	NOUN	NNS	Number=Plur	24	_	_	start_char=539|end_char=543|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=543|end_char=544|SpaceAfter=No
+27	"	"	PUNCT	''	_	26	_	_	start_char=544|end_char=545|SpacesAfter=\n
+
+# text = He has noted that "even after Russia's victory, they (the AFU) will try to harm it, but nothing will come of it."
+# sent_id = 6
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=546|end_char=548
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=549|end_char=552
+3	noted	note	VERB	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=553|end_char=558
+4	that	that	SCONJ	IN	_	3	_	_	start_char=559|end_char=563
+5	"	"	PUNCT	``	_	4	_	_	start_char=564|end_char=565|SpaceAfter=No
+6	even	even	ADV	RB	_	5	_	_	start_char=565|end_char=569
+7	after	after	ADP	IN	_	6	_	_	start_char=570|end_char=575
+8-9	Russia's	_	_	_	_	_	_	_	start_char=576|end_char=584
+8	Russia	Russia	PROPN	NNP	Number=Sing	7	_	_	start_char=576|end_char=582
+9	's	's	PART	POS	_	8	_	_	start_char=582|end_char=584
+10	victory	victory	NOUN	NN	Number=Sing	9	_	_	start_char=585|end_char=592|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=592|end_char=593
+12	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	_	_	start_char=594|end_char=598
+13	(	(	PUNCT	-LRB-	_	12	_	_	start_char=599|end_char=600|SpaceAfter=No
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=600|end_char=603
+15	AFU	AFU	PROPN	NNP	Number=Sing	14	_	_	start_char=604|end_char=607|SpaceAfter=No
+16	)	)	PUNCT	-RRB-	_	15	_	_	start_char=607|end_char=608
+17	will	will	AUX	MD	VerbForm=Fin	16	_	_	start_char=609|end_char=613
+18	try	try	VERB	VB	VerbForm=Inf	17	_	_	start_char=614|end_char=617
+19	to	to	PART	TO	_	18	_	_	start_char=618|end_char=620
+20	harm	harm	VERB	VB	VerbForm=Inf	19	_	_	start_char=621|end_char=625
+21	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	20	_	_	start_char=626|end_char=628|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=628|end_char=629
+23	but	but	CCONJ	CC	_	22	_	_	start_char=630|end_char=633
+24	nothing	nothing	PRON	NN	Number=Sing|PronType=Neg	23	_	_	start_char=634|end_char=641
+25	will	will	AUX	MD	VerbForm=Fin	24	_	_	start_char=642|end_char=646
+26	come	come	VERB	VB	VerbForm=Inf	25	_	_	start_char=647|end_char=651
+27	of	of	ADP	IN	_	26	_	_	start_char=652|end_char=654
+28	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	27	_	_	start_char=655|end_char=657|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=657|end_char=658|SpaceAfter=No
+30	"	"	PUNCT	''	_	29	_	_	start_char=658|end_char=659|SpacesAfter=\n
+
+# text = Ukrainian Prime Minister Denis Shmigal said today that military commitments outlined in 20 security agreements Kiev has signed with its partners amount to $60 billion a year over the next four years, Reuters reported.
+# sent_id = 7
+1	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	0	_	_	start_char=660|end_char=669
+2	Prime	Prime	ADJ	NNP	Degree=Pos	1	_	_	start_char=670|end_char=675
+3	Minister	Minister	PROPN	NNP	Number=Sing	2	_	_	start_char=676|end_char=684
+4	Denis	Denis	PROPN	NNP	Number=Sing	3	_	_	start_char=685|end_char=690
+5	Shmigal	Shmigal	PROPN	NNP	Number=Sing	4	_	_	start_char=691|end_char=698
+6	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=699|end_char=703
+7	today	today	NOUN	NN	Number=Sing	6	_	_	start_char=704|end_char=709
+8	that	that	SCONJ	IN	_	7	_	_	start_char=710|end_char=714
+9	military	military	ADJ	JJ	Degree=Pos	8	_	_	start_char=715|end_char=723
+10	commitments	commitment	NOUN	NNS	Number=Plur	9	_	_	start_char=724|end_char=735
+11	outlined	outline	VERB	VBN	Tense=Past|VerbForm=Part	10	_	_	start_char=736|end_char=744
+12	in	in	ADP	IN	_	11	_	_	start_char=745|end_char=747
+13	20	20	NUM	CD	NumForm=Digit|NumType=Card	12	_	_	start_char=748|end_char=750
+14	security	security	NOUN	NN	Number=Sing	13	_	_	start_char=751|end_char=759
+15	agreements	agreement	NOUN	NNS	Number=Plur	14	_	_	start_char=760|end_char=770
+16	Kiev	Kiev	PROPN	NNP	Number=Sing	15	_	_	start_char=771|end_char=775
+17	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=776|end_char=779
+18	signed	sign	VERB	VBN	Tense=Past|VerbForm=Part	17	_	_	start_char=780|end_char=786
+19	with	with	ADP	IN	_	18	_	_	start_char=787|end_char=791
+20	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	_	_	start_char=792|end_char=795
+21	partners	partner	NOUN	NNS	Number=Plur	20	_	_	start_char=796|end_char=804
+22	amount	amount	NOUN	NN	Number=Sing	21	_	_	start_char=805|end_char=811
+23	to	to	ADP	IN	_	22	_	_	start_char=812|end_char=814
+24	$	$	SYM	$	_	23	_	_	start_char=815|end_char=816|SpaceAfter=No
+25	60	60	NUM	CD	NumForm=Digit|NumType=Card	24	_	_	start_char=816|end_char=818
+26	billion	billion	NUM	CD	NumForm=Word|NumType=Card	25	_	_	start_char=819|end_char=826
+27	a	a	DET	DT	Definite=Ind|PronType=Art	26	_	_	start_char=827|end_char=828
+28	year	year	NOUN	NN	Number=Sing	27	_	_	start_char=829|end_char=833
+29	over	over	ADP	IN	_	28	_	_	start_char=834|end_char=838
+30	the	the	DET	DT	Definite=Def|PronType=Art	29	_	_	start_char=839|end_char=842
+31	next	next	ADJ	JJ	Degree=Pos	30	_	_	start_char=843|end_char=847
+32	four	four	NUM	CD	NumForm=Word|NumType=Card	31	_	_	start_char=848|end_char=852
+33	years	year	NOUN	NNS	Number=Plur	32	_	_	start_char=853|end_char=858|SpaceAfter=No
+34	,	,	PUNCT	,	_	33	_	_	start_char=858|end_char=859
+35	Reuters	Reuters	PROPN	NNP	Number=Sing	34	_	_	start_char=860|end_char=867
+36	reported	report	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	35	_	_	start_char=868|end_char=876|SpaceAfter=No
+37	.	.	PUNCT	.	_	36	_	_	start_char=876|end_char=877|SpacesAfter=\n
+
+# text = "Under these agreements, over the next four years our partners plan to provide Ukraine with a total of $60 billion worth of military support annually," Denis Schmigal said during a cabinet meeting.
+# sent_id = 8
+1	"	"	PUNCT	``	_	0	_	_	start_char=878|end_char=879|SpaceAfter=No
+2	Under	under	ADP	IN	_	1	_	_	start_char=879|end_char=884
+3	these	this	DET	DT	Number=Plur|PronType=Dem	2	_	_	start_char=885|end_char=890
+4	agreements	agreement	NOUN	NNS	Number=Plur	3	_	_	start_char=891|end_char=901|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=901|end_char=902
+6	over	over	ADP	IN	_	5	_	_	start_char=903|end_char=907
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=908|end_char=911
+8	next	next	ADJ	JJ	Degree=Pos	7	_	_	start_char=912|end_char=916
+9	four	four	NUM	CD	NumForm=Word|NumType=Card	8	_	_	start_char=917|end_char=921
+10	years	year	NOUN	NNS	Number=Plur	9	_	_	start_char=922|end_char=927
+11	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	10	_	_	start_char=928|end_char=931
+12	partners	partner	NOUN	NNS	Number=Plur	11	_	_	start_char=932|end_char=940
+13	plan	plan	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=941|end_char=945
+14	to	to	PART	TO	_	13	_	_	start_char=946|end_char=948
+15	provide	provide	VERB	VB	VerbForm=Inf	14	_	_	start_char=949|end_char=956
+16	Ukraine	Ukraine	PROPN	NNP	Number=Sing	15	_	_	start_char=957|end_char=964
+17	with	with	ADP	IN	_	16	_	_	start_char=965|end_char=969
+18	a	a	DET	DT	Definite=Ind|PronType=Art	17	_	_	start_char=970|end_char=971
+19	total	total	NOUN	NN	Number=Sing	18	_	_	start_char=972|end_char=977
+20	of	of	ADP	IN	_	19	_	_	start_char=978|end_char=980
+21	$	$	SYM	$	_	20	_	_	start_char=981|end_char=982|SpaceAfter=No
+22	60	60	NUM	CD	NumForm=Digit|NumType=Card	21	_	_	start_char=982|end_char=984
+23	billion	billion	NUM	CD	NumForm=Word|NumType=Card	22	_	_	start_char=985|end_char=992
+24	worth	worth	NOUN	NN	Number=Sing	23	_	_	start_char=993|end_char=998
+25	of	of	ADP	IN	_	24	_	_	start_char=999|end_char=1001
+26	military	military	ADJ	JJ	Degree=Pos	25	_	_	start_char=1002|end_char=1010
+27	support	support	NOUN	NN	Number=Sing	26	_	_	start_char=1011|end_char=1018
+28	annually	annually	ADV	RB	_	27	_	_	start_char=1019|end_char=1027|SpaceAfter=No
+29	,	,	PUNCT	,	_	28	_	_	start_char=1027|end_char=1028|SpaceAfter=No
+30	"	"	PUNCT	''	_	29	_	_	start_char=1028|end_char=1029
+31	Denis	Denis	PROPN	NNP	Number=Sing	30	_	_	start_char=1030|end_char=1035
+32	Schmigal	Schmigal	PROPN	NNP	Number=Sing	31	_	_	start_char=1036|end_char=1044
+33	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	32	_	_	start_char=1045|end_char=1049
+34	during	during	ADP	IN	_	33	_	_	start_char=1050|end_char=1056
+35	a	a	DET	DT	Definite=Ind|PronType=Art	34	_	_	start_char=1057|end_char=1058
+36	cabinet	cabinet	NOUN	NN	Number=Sing	35	_	_	start_char=1059|end_char=1066
+37	meeting	meeting	NOUN	NN	Number=Sing	36	_	_	start_char=1067|end_char=1074|SpaceAfter=No
+38	.	.	PUNCT	.	_	37	_	_	start_char=1074|end_char=1075|SpacesAfter=\n
+
+# text = Ukraine continues to fight a full-scale Russian invasion that began in February 2022, Reuters recalls.
+# sent_id = 9
+1	Ukraine	Ukraine	PROPN	NNP	Number=Sing	0	_	_	start_char=1076|end_char=1083
+2	continues	continue	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1084|end_char=1093
+3	to	to	PART	TO	_	2	_	_	start_char=1094|end_char=1096
+4	fight	fight	VERB	VB	VerbForm=Inf	3	_	_	start_char=1097|end_char=1102
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=1103|end_char=1104
+6	full	full	ADJ	JJ	Degree=Pos	5	_	_	start_char=1105|end_char=1109|SpaceAfter=No
+7	-	-	PUNCT	HYPH	_	6	_	_	start_char=1109|end_char=1110|SpaceAfter=No
+8	scale	scale	NOUN	NN	Number=Sing	7	_	_	start_char=1110|end_char=1115
+9	Russian	Russian	ADJ	JJ	Degree=Pos	8	_	_	start_char=1116|end_char=1123
+10	invasion	invasion	NOUN	NN	Number=Sing	9	_	_	start_char=1124|end_char=1132
+11	that	that	PRON	WDT	PronType=Rel	10	_	_	start_char=1133|end_char=1137
+12	began	begin	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=1138|end_char=1143
+13	in	in	ADP	IN	_	12	_	_	start_char=1144|end_char=1146
+14	February	February	PROPN	NNP	Number=Sing	13	_	_	start_char=1147|end_char=1155
+15	2022	2022	NUM	CD	NumForm=Digit|NumType=Card	14	_	_	start_char=1156|end_char=1160|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=1160|end_char=1161
+17	Reuters	Reuters	PROPN	NNP	Number=Sing	16	_	_	start_char=1162|end_char=1169
+18	recalls	recall	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=1170|end_char=1177|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=1177|end_char=1178|SpaceAfter=No
+

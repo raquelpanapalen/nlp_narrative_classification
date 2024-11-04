@@ -1,0 +1,342 @@
+# text = David Petraeus: Putin will go to war with NATO and his first target will be Moldova
+# sent_id = 0
+1	David	David	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=5
+2	Petraeus	Petraeus	PROPN	NNP	Number=Sing	1	_	_	start_char=6|end_char=14|SpaceAfter=No
+3	:	:	PUNCT	:	_	2	_	_	start_char=14|end_char=15
+4	Putin	Putin	PROPN	NNP	Number=Sing	3	_	_	start_char=16|end_char=21
+5	will	will	AUX	MD	VerbForm=Fin	4	_	_	start_char=22|end_char=26
+6	go	go	VERB	VB	VerbForm=Inf	5	_	_	start_char=27|end_char=29
+7	to	to	ADP	IN	_	6	_	_	start_char=30|end_char=32
+8	war	war	NOUN	NN	Number=Sing	7	_	_	start_char=33|end_char=36
+9	with	with	ADP	IN	_	8	_	_	start_char=37|end_char=41
+10	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	9	_	_	start_char=42|end_char=46
+11	and	and	CCONJ	CC	_	10	_	_	start_char=47|end_char=50
+12	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	_	_	start_char=51|end_char=54
+13	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	12	_	_	start_char=55|end_char=60
+14	target	target	NOUN	NN	Number=Sing	13	_	_	start_char=61|end_char=67
+15	will	will	AUX	MD	VerbForm=Fin	14	_	_	start_char=68|end_char=72
+16	be	be	AUX	VB	VerbForm=Inf	15	_	_	start_char=73|end_char=75
+17	Moldova	Moldova	PROPN	NNP	Number=Sing	16	_	_	start_char=76|end_char=83|SpacesAfter=\n\n
+
+# text = "Vladimir Putin's threats to invade the Baltics and trigger a new war in Europe must be taken seriously," former CIA director David Petraeus warned in an interview with The Sun, as quoted by Focus.
+# sent_id = 1
+1	"	"	PUNCT	``	_	0	_	_	start_char=85|end_char=86|SpaceAfter=No
+2	Vladimir	Vladimir	PROPN	NNP	Number=Sing	1	_	_	start_char=86|end_char=94
+3-4	Putin's	_	_	_	_	_	_	_	start_char=95|end_char=102
+3	Putin	Putin	PROPN	NNP	Number=Sing	2	_	_	start_char=95|end_char=100
+4	's	's	PART	POS	_	3	_	_	start_char=100|end_char=102
+5	threats	threat	NOUN	NNS	Number=Plur	4	_	_	start_char=103|end_char=110
+6	to	to	PART	TO	_	5	_	_	start_char=111|end_char=113
+7	invade	invade	VERB	VB	VerbForm=Inf	6	_	_	start_char=114|end_char=120
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=121|end_char=124
+9	Baltics	Baltics	PROPN	NNPS	Number=Plur	8	_	_	start_char=125|end_char=132
+10	and	and	CCONJ	CC	_	9	_	_	start_char=133|end_char=136
+11	trigger	trigger	VERB	VB	VerbForm=Inf	10	_	_	start_char=137|end_char=144
+12	a	a	DET	DT	Definite=Ind|PronType=Art	11	_	_	start_char=145|end_char=146
+13	new	new	ADJ	JJ	Degree=Pos	12	_	_	start_char=147|end_char=150
+14	war	war	NOUN	NN	Number=Sing	13	_	_	start_char=151|end_char=154
+15	in	in	ADP	IN	_	14	_	_	start_char=155|end_char=157
+16	Europe	Europe	PROPN	NNP	Number=Sing	15	_	_	start_char=158|end_char=164
+17	must	must	AUX	MD	VerbForm=Fin	16	_	_	start_char=165|end_char=169
+18	be	be	AUX	VB	VerbForm=Inf	17	_	_	start_char=170|end_char=172
+19	taken	take	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	18	_	_	start_char=173|end_char=178
+20	seriously	seriously	ADV	RB	_	19	_	_	start_char=179|end_char=188|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=188|end_char=189|SpaceAfter=No
+22	"	"	PUNCT	''	_	21	_	_	start_char=189|end_char=190
+23	former	former	ADJ	JJ	Degree=Pos	22	_	_	start_char=191|end_char=197
+24	CIA	CIA	PROPN	NNP	Number=Sing	23	_	_	start_char=198|end_char=201
+25	director	director	NOUN	NN	Number=Sing	24	_	_	start_char=202|end_char=210
+26	David	David	PROPN	NNP	Number=Sing	25	_	_	start_char=211|end_char=216
+27	Petraeus	Petraeus	PROPN	NNP	Number=Sing	26	_	_	start_char=217|end_char=225
+28	warned	warn	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	27	_	_	start_char=226|end_char=232
+29	in	in	ADP	IN	_	28	_	_	start_char=233|end_char=235
+30	an	a	DET	DT	Definite=Ind|PronType=Art	29	_	_	start_char=236|end_char=238
+31	interview	interview	NOUN	NN	Number=Sing	30	_	_	start_char=239|end_char=248
+32	with	with	ADP	IN	_	31	_	_	start_char=249|end_char=253
+33	The	the	DET	DT	Definite=Def|PronType=Art	32	_	_	start_char=254|end_char=257
+34	Sun	Sun	PROPN	NNP	Number=Sing	33	_	_	start_char=258|end_char=261|SpaceAfter=No
+35	,	,	PUNCT	,	_	34	_	_	start_char=261|end_char=262
+36	as	as	SCONJ	IN	_	35	_	_	start_char=263|end_char=265
+37	quoted	quote	VERB	VBN	Tense=Past|VerbForm=Part	36	_	_	start_char=266|end_char=272
+38	by	by	ADP	IN	_	37	_	_	start_char=273|end_char=275
+39	Focus	focus	PROPN	NNP	Number=Sing	38	_	_	start_char=276|end_char=281|SpaceAfter=No
+40	.	.	PUNCT	.	_	39	_	_	start_char=281|end_char=282|SpacesAfter=\n
+
+# text = General David Petraeus is adamant that Russian President Vladimir Putin "will not be content to stop with Ukraine."
+# sent_id = 2
+1	General	General	PROPN	NNP	Number=Sing	0	_	_	start_char=283|end_char=290
+2	David	David	PROPN	NNP	Number=Sing	1	_	_	start_char=291|end_char=296
+3	Petraeus	Petraeus	PROPN	NNP	Number=Sing	2	_	_	start_char=297|end_char=305
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=306|end_char=308
+5	adamant	adamant	ADJ	JJ	Degree=Pos	4	_	_	start_char=309|end_char=316
+6	that	that	SCONJ	IN	_	5	_	_	start_char=317|end_char=321
+7	Russian	Russian	ADJ	JJ	Degree=Pos	6	_	_	start_char=322|end_char=329
+8	President	President	PROPN	NNP	Number=Sing	7	_	_	start_char=330|end_char=339
+9	Vladimir	Vladimir	PROPN	NNP	Number=Sing	8	_	_	start_char=340|end_char=348
+10	Putin	Putin	PROPN	NNP	Number=Sing	9	_	_	start_char=349|end_char=354
+11	"	"	PUNCT	``	_	10	_	_	start_char=355|end_char=356|SpaceAfter=No
+12	will	will	AUX	MD	VerbForm=Fin	11	_	_	start_char=356|end_char=360
+13	not	not	PART	RB	_	12	_	_	start_char=361|end_char=364
+14	be	be	AUX	VB	VerbForm=Inf	13	_	_	start_char=365|end_char=367
+15	content	content	ADJ	JJ	Degree=Pos	14	_	_	start_char=368|end_char=375
+16	to	to	PART	TO	_	15	_	_	start_char=376|end_char=378
+17	stop	stop	VERB	VB	VerbForm=Inf	16	_	_	start_char=379|end_char=383
+18	with	with	ADP	IN	_	17	_	_	start_char=384|end_char=388
+19	Ukraine	Ukraine	PROPN	NNP	Number=Sing	18	_	_	start_char=389|end_char=396|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=396|end_char=397|SpaceAfter=No
+21	"	"	PUNCT	''	_	20	_	_	start_char=397|end_char=398|SpacesAfter=\n
+
+# text = Retired four-star US General Petraeus, who commanded allied forces in Iraq, has said Ukraine's allies in the West must do more to help win the war against Putin.
+# sent_id = 3
+1	Retired	retired	VERB	VBN	Tense=Past|VerbForm=Part	0	_	_	start_char=399|end_char=406
+2	four	four	NUM	CD	NumForm=Word|NumType=Card	1	_	_	start_char=407|end_char=411|SpaceAfter=No
+3	-	-	PUNCT	HYPH	_	2	_	_	start_char=411|end_char=412|SpaceAfter=No
+4	star	star	NOUN	NN	Number=Sing	3	_	_	start_char=412|end_char=416
+5	US	US	PROPN	NNP	Number=Sing	4	_	_	start_char=417|end_char=419
+6	General	General	PROPN	NNP	Number=Sing	5	_	_	start_char=420|end_char=427
+7	Petraeus	Petraeus	PROPN	NNP	Number=Sing	6	_	_	start_char=428|end_char=436|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=436|end_char=437
+9	who	who	PRON	WP	PronType=Rel	8	_	_	start_char=438|end_char=441
+10	commanded	command	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=442|end_char=451
+11	allied	allied	ADJ	JJ	Degree=Pos	10	_	_	start_char=452|end_char=458
+12	forces	force	NOUN	NNS	Number=Plur	11	_	_	start_char=459|end_char=465
+13	in	in	ADP	IN	_	12	_	_	start_char=466|end_char=468
+14	Iraq	Iraq	PROPN	NNP	Number=Sing	13	_	_	start_char=469|end_char=473|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=473|end_char=474
+16	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=475|end_char=478
+17	said	say	VERB	VBN	Tense=Past|VerbForm=Part	16	_	_	start_char=479|end_char=483
+18-19	Ukraine's	_	_	_	_	_	_	_	start_char=484|end_char=493
+18	Ukraine	Ukraine	PROPN	NNP	Number=Sing	17	_	_	start_char=484|end_char=491
+19	's	's	PART	POS	_	18	_	_	start_char=491|end_char=493
+20	allies	ally	NOUN	NNS	Number=Plur	19	_	_	start_char=494|end_char=500
+21	in	in	ADP	IN	_	20	_	_	start_char=501|end_char=503
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=504|end_char=507
+23	West	West	PROPN	NNP	Number=Sing	22	_	_	start_char=508|end_char=512
+24	must	must	AUX	MD	VerbForm=Fin	23	_	_	start_char=513|end_char=517
+25	do	do	VERB	VB	VerbForm=Inf	24	_	_	start_char=518|end_char=520
+26	more	more	ADJ	JJR	Degree=Cmp	25	_	_	start_char=521|end_char=525
+27	to	to	PART	TO	_	26	_	_	start_char=526|end_char=528
+28	help	help	VERB	VB	VerbForm=Inf	27	_	_	start_char=529|end_char=533
+29	win	win	VERB	VB	VerbForm=Inf	28	_	_	start_char=534|end_char=537
+30	the	the	DET	DT	Definite=Def|PronType=Art	29	_	_	start_char=538|end_char=541
+31	war	war	NOUN	NN	Number=Sing	30	_	_	start_char=542|end_char=545
+32	against	against	ADP	IN	_	31	_	_	start_char=546|end_char=553
+33	Putin	Putin	PROPN	NNP	Number=Sing	32	_	_	start_char=554|end_char=559|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=559|end_char=560|SpacesAfter=\n
+
+# text = Experts have repeatedly warned that the Russian president has set his sights on more targets in his foolish dream to reclaim his lost empire.
+# sent_id = 4
+1	Experts	expert	NOUN	NNS	Number=Plur	0	_	_	start_char=561|end_char=568
+2	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=569|end_char=573
+3	repeatedly	repeatedly	ADV	RB	_	2	_	_	start_char=574|end_char=584
+4	warned	warn	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=585|end_char=591
+5	that	that	SCONJ	IN	_	4	_	_	start_char=592|end_char=596
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=597|end_char=600
+7	Russian	Russian	ADJ	JJ	Degree=Pos	6	_	_	start_char=601|end_char=608
+8	president	president	NOUN	NN	Number=Sing	7	_	_	start_char=609|end_char=618
+9	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=619|end_char=622
+10	set	set	VERB	VBN	Tense=Past|VerbForm=Part	9	_	_	start_char=623|end_char=626
+11	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	_	_	start_char=627|end_char=630
+12	sights	sight	NOUN	NNS	Number=Plur	11	_	_	start_char=631|end_char=637
+13	on	on	ADP	IN	_	12	_	_	start_char=638|end_char=640
+14	more	more	ADJ	JJR	Degree=Cmp	13	_	_	start_char=641|end_char=645
+15	targets	target	NOUN	NNS	Number=Plur	14	_	_	start_char=646|end_char=653
+16	in	in	ADP	IN	_	15	_	_	start_char=654|end_char=656
+17	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	_	_	start_char=657|end_char=660
+18	foolish	foolish	ADJ	JJ	Degree=Pos	17	_	_	start_char=661|end_char=668
+19	dream	dream	NOUN	NN	Number=Sing	18	_	_	start_char=669|end_char=674
+20	to	to	PART	TO	_	19	_	_	start_char=675|end_char=677
+21	reclaim	reclaim	VERB	VB	VerbForm=Inf	20	_	_	start_char=678|end_char=685
+22	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	21	_	_	start_char=686|end_char=689
+23	lost	lose	VERB	VBN	Tense=Past|VerbForm=Part	22	_	_	start_char=690|end_char=694
+24	empire	empire	NOUN	NN	Number=Sing	23	_	_	start_char=695|end_char=701|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=701|end_char=702|SpacesAfter=\n
+
+# text = And this week, Putin warned that he would send long-range missiles to his allies in response to the West sending weapons to Ukraine.
+# sent_id = 5
+1	And	and	CCONJ	CC	_	0	_	_	start_char=703|end_char=706
+2	this	this	DET	DT	Number=Sing|PronType=Dem	1	_	_	start_char=707|end_char=711
+3	week	week	NOUN	NN	Number=Sing	2	_	_	start_char=712|end_char=716|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=716|end_char=717
+5	Putin	Putin	PROPN	NNP	Number=Sing	4	_	_	start_char=718|end_char=723
+6	warned	warn	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=724|end_char=730
+7	that	that	SCONJ	IN	_	6	_	_	start_char=731|end_char=735
+8	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	_	_	start_char=736|end_char=738
+9	would	would	AUX	MD	VerbForm=Fin	8	_	_	start_char=739|end_char=744
+10	send	send	VERB	VB	VerbForm=Inf	9	_	_	start_char=745|end_char=749
+11	long	long	ADJ	JJ	Degree=Pos	10	_	_	start_char=750|end_char=754|SpaceAfter=No
+12	-	-	PUNCT	HYPH	_	11	_	_	start_char=754|end_char=755|SpaceAfter=No
+13	range	range	NOUN	NN	Number=Sing	12	_	_	start_char=755|end_char=760
+14	missiles	missile	NOUN	NNS	Number=Plur	13	_	_	start_char=761|end_char=769
+15	to	to	ADP	IN	_	14	_	_	start_char=770|end_char=772
+16	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	_	_	start_char=773|end_char=776
+17	allies	ally	NOUN	NNS	Number=Plur	16	_	_	start_char=777|end_char=783
+18	in	in	ADP	IN	_	17	_	_	start_char=784|end_char=786
+19	response	response	NOUN	NN	Number=Sing	18	_	_	start_char=787|end_char=795
+20	to	to	ADP	IN	_	19	_	_	start_char=796|end_char=798
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=799|end_char=802
+22	West	West	PROPN	NNP	Number=Sing	21	_	_	start_char=803|end_char=807
+23	sending	send	VERB	VBG	VerbForm=Ger	22	_	_	start_char=808|end_char=815
+24	weapons	weapon	NOUN	NNS	Number=Plur	23	_	_	start_char=816|end_char=823
+25	to	to	ADP	IN	_	24	_	_	start_char=824|end_char=826
+26	Ukraine	Ukraine	PROPN	NNP	Number=Sing	25	_	_	start_char=827|end_char=834|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=834|end_char=835|SpacesAfter=\n
+
+# text = In an interview with The Sun, Petraeus said Putin had been "very clear" about starting a new war in Europe.
+# sent_id = 6
+1	In	in	ADP	IN	_	0	_	_	start_char=836|end_char=838
+2	an	a	DET	DT	Definite=Ind|PronType=Art	1	_	_	start_char=839|end_char=841
+3	interview	interview	NOUN	NN	Number=Sing	2	_	_	start_char=842|end_char=851
+4	with	with	ADP	IN	_	3	_	_	start_char=852|end_char=856
+5	The	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=857|end_char=860
+6	Sun	Sun	PROPN	NNP	Number=Sing	5	_	_	start_char=861|end_char=864|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=864|end_char=865
+8	Petraeus	Petraeus	PROPN	NNP	Number=Sing	7	_	_	start_char=866|end_char=874
+9	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=875|end_char=879
+10	Putin	Putin	PROPN	NNP	Number=Sing	9	_	_	start_char=880|end_char=885
+11	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=886|end_char=889
+12	been	be	AUX	VBN	Tense=Past|VerbForm=Part	11	_	_	start_char=890|end_char=894
+13	"	"	PUNCT	``	_	12	_	_	start_char=895|end_char=896|SpaceAfter=No
+14	very	very	ADV	RB	_	13	_	_	start_char=896|end_char=900
+15	clear	clear	ADJ	JJ	Degree=Pos	14	_	_	start_char=901|end_char=906|SpaceAfter=No
+16	"	"	PUNCT	''	_	15	_	_	start_char=906|end_char=907
+17	about	about	SCONJ	IN	_	16	_	_	start_char=908|end_char=913
+18	starting	start	VERB	VBG	VerbForm=Ger	17	_	_	start_char=914|end_char=922
+19	a	a	DET	DT	Definite=Ind|PronType=Art	18	_	_	start_char=923|end_char=924
+20	new	new	ADJ	JJ	Degree=Pos	19	_	_	start_char=925|end_char=928
+21	war	war	NOUN	NN	Number=Sing	20	_	_	start_char=929|end_char=932
+22	in	in	ADP	IN	_	21	_	_	start_char=933|end_char=935
+23	Europe	Europe	PROPN	NNP	Number=Sing	22	_	_	start_char=936|end_char=942|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=942|end_char=943|SpacesAfter=\n
+
+# text = The world "needs to listen to Putin" as he "tells us what he believes", the former CIA chief has warned.
+# sent_id = 7
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=944|end_char=947
+2	world	world	NOUN	NN	Number=Sing	1	_	_	start_char=948|end_char=953
+3	"	"	PUNCT	``	_	2	_	_	start_char=954|end_char=955|SpaceAfter=No
+4	needs	need	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=955|end_char=960
+5	to	to	PART	TO	_	4	_	_	start_char=961|end_char=963
+6	listen	listen	VERB	VB	VerbForm=Inf	5	_	_	start_char=964|end_char=970
+7	to	to	ADP	IN	_	6	_	_	start_char=971|end_char=973
+8	Putin	Putin	PROPN	NNP	Number=Sing	7	_	_	start_char=974|end_char=979|SpaceAfter=No
+9	"	"	PUNCT	''	_	8	_	_	start_char=979|end_char=980
+10	as	as	SCONJ	IN	_	9	_	_	start_char=981|end_char=983
+11	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	_	_	start_char=984|end_char=986
+12	"	"	PUNCT	``	_	11	_	_	start_char=987|end_char=988|SpaceAfter=No
+13	tells	tell	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=988|end_char=993
+14	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	13	_	_	start_char=994|end_char=996
+15	what	what	PRON	WP	PronType=Rel	14	_	_	start_char=997|end_char=1001
+16	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	_	_	start_char=1002|end_char=1004
+17	believes	believe	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=1005|end_char=1013|SpaceAfter=No
+18	"	"	PUNCT	''	_	17	_	_	start_char=1013|end_char=1014|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=1014|end_char=1015
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=1016|end_char=1019
+21	former	former	ADJ	JJ	Degree=Pos	20	_	_	start_char=1020|end_char=1026
+22	CIA	CIA	PROPN	NNP	Number=Sing	21	_	_	start_char=1027|end_char=1030
+23	chief	chief	NOUN	NN	Number=Sing	22	_	_	start_char=1031|end_char=1036
+24	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	_	_	start_char=1037|end_char=1040
+25	warned	warn	VERB	VBN	Tense=Past|VerbForm=Part	24	_	_	start_char=1041|end_char=1047|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=1047|end_char=1048|SpacesAfter=\n
+
+# text = Petraeus has pointed out, "The war in Ukraine could expand into the region if Putin succeeds in Ukraine.
+# sent_id = 8
+1	Petraeus	Petraeus	PROPN	NNP	Number=Sing	0	_	_	start_char=1049|end_char=1057
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1058|end_char=1061
+3	pointed	point	VERB	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=1062|end_char=1069
+4	out	out	ADP	RP	_	3	_	_	start_char=1070|end_char=1073|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=1073|end_char=1074
+6	"	"	PUNCT	``	_	5	_	_	start_char=1075|end_char=1076|SpaceAfter=No
+7	The	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1076|end_char=1079
+8	war	war	NOUN	NN	Number=Sing	7	_	_	start_char=1080|end_char=1083
+9	in	in	ADP	IN	_	8	_	_	start_char=1084|end_char=1086
+10	Ukraine	Ukraine	PROPN	NNP	Number=Sing	9	_	_	start_char=1087|end_char=1094
+11	could	could	AUX	MD	VerbForm=Fin	10	_	_	start_char=1095|end_char=1100
+12	expand	expand	VERB	VB	VerbForm=Inf	11	_	_	start_char=1101|end_char=1107
+13	into	into	ADP	IN	_	12	_	_	start_char=1108|end_char=1112
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=1113|end_char=1116
+15	region	region	NOUN	NN	Number=Sing	14	_	_	start_char=1117|end_char=1123
+16	if	if	SCONJ	IN	_	15	_	_	start_char=1124|end_char=1126
+17	Putin	Putin	PROPN	NNP	Number=Sing	16	_	_	start_char=1127|end_char=1132
+18	succeeds	succeed	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=1133|end_char=1141
+19	in	in	ADP	IN	_	18	_	_	start_char=1142|end_char=1144
+20	Ukraine	Ukraine	PROPN	NNP	Number=Sing	19	_	_	start_char=1145|end_char=1152|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=1152|end_char=1153
+
+# text = He will not be content to stop with Ukraine.
+# sent_id = 9
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1154|end_char=1156
+2	will	will	AUX	MD	VerbForm=Fin	1	_	_	start_char=1157|end_char=1161
+3	not	not	PART	RB	_	2	_	_	start_char=1162|end_char=1165
+4	be	be	AUX	VB	VerbForm=Inf	3	_	_	start_char=1166|end_char=1168
+5	content	content	ADJ	JJ	Degree=Pos	4	_	_	start_char=1169|end_char=1176
+6	to	to	PART	TO	_	5	_	_	start_char=1177|end_char=1179
+7	stop	stop	VERB	VB	VerbForm=Inf	6	_	_	start_char=1180|end_char=1184
+8	with	with	ADP	IN	_	7	_	_	start_char=1185|end_char=1189
+9	Ukraine	Ukraine	PROPN	NNP	Number=Sing	8	_	_	start_char=1190|end_char=1197|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=1197|end_char=1198
+
+# text = Moldova will clearly be next.
+# sent_id = 10
+1	Moldova	Moldova	PROPN	NNP	Number=Sing	0	_	_	start_char=1199|end_char=1206
+2	will	will	AUX	MD	VerbForm=Fin	1	_	_	start_char=1207|end_char=1211
+3	clearly	clearly	ADV	RB	_	2	_	_	start_char=1212|end_char=1219
+4	be	be	AUX	VB	VerbForm=Inf	3	_	_	start_char=1220|end_char=1222
+5	next	next	ADJ	JJ	Degree=Pos	4	_	_	start_char=1223|end_char=1227|SpaceAfter=No
+6	.	.	PUNCT	.	_	5	_	_	start_char=1227|end_char=1228
+
+# text = Next could be Lithuania or one of the other Baltic states."
+# sent_id = 11
+1	Next	next	ADV	RB	_	0	_	_	start_char=1229|end_char=1233
+2	could	could	AUX	MD	VerbForm=Fin	1	_	_	start_char=1234|end_char=1239
+3	be	be	AUX	VB	VerbForm=Inf	2	_	_	start_char=1240|end_char=1242
+4	Lithuania	Lithuania	PROPN	NNP	Number=Sing	3	_	_	start_char=1243|end_char=1252
+5	or	or	CCONJ	CC	_	4	_	_	start_char=1253|end_char=1255
+6	one	one	NUM	CD	NumForm=Word|NumType=Card	5	_	_	start_char=1256|end_char=1259
+7	of	of	ADP	IN	_	6	_	_	start_char=1260|end_char=1262
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=1263|end_char=1266
+9	other	other	ADJ	JJ	Degree=Pos	8	_	_	start_char=1267|end_char=1272
+10	Baltic	Baltic	ADJ	JJ	Degree=Pos	9	_	_	start_char=1273|end_char=1279
+11	states	state	NOUN	NNS	Number=Plur	10	_	_	start_char=1280|end_char=1286|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=1286|end_char=1287|SpaceAfter=No
+13	"	"	PUNCT	''	_	12	_	_	start_char=1287|end_char=1288|SpacesAfter=\n
+
+# text = Back at the beginning of the year, David Petraeus told CNN that "if Vladimir Putin achieves his goals in Ukraine, Russia will 'target' Moldova or one of the Baltic states."
+# sent_id = 12
+1	Back	back	ADV	RB	_	0	_	_	start_char=1289|end_char=1293
+2	at	at	ADP	IN	_	1	_	_	start_char=1294|end_char=1296
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1297|end_char=1300
+4	beginning	beginning	NOUN	NN	Number=Sing	3	_	_	start_char=1301|end_char=1310
+5	of	of	ADP	IN	_	4	_	_	start_char=1311|end_char=1313
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1314|end_char=1317
+7	year	year	NOUN	NN	Number=Sing	6	_	_	start_char=1318|end_char=1322|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=1322|end_char=1323
+9	David	David	PROPN	NNP	Number=Sing	8	_	_	start_char=1324|end_char=1329
+10	Petraeus	Petraeus	PROPN	NNP	Number=Sing	9	_	_	start_char=1330|end_char=1338
+11	told	tell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=1339|end_char=1343
+12	CNN	CNN	PROPN	NNP	Number=Sing	11	_	_	start_char=1344|end_char=1347
+13	that	that	SCONJ	IN	_	12	_	_	start_char=1348|end_char=1352
+14	"	"	PUNCT	``	_	13	_	_	start_char=1353|end_char=1354|SpaceAfter=No
+15	if	if	SCONJ	IN	_	14	_	_	start_char=1354|end_char=1356
+16	Vladimir	Vladimir	PROPN	NNP	Number=Sing	15	_	_	start_char=1357|end_char=1365
+17	Putin	Putin	PROPN	NNP	Number=Sing	16	_	_	start_char=1366|end_char=1371
+18	achieves	achieve	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=1372|end_char=1380
+19	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	18	_	_	start_char=1381|end_char=1384
+20	goals	goal	NOUN	NNS	Number=Plur	19	_	_	start_char=1385|end_char=1390
+21	in	in	ADP	IN	_	20	_	_	start_char=1391|end_char=1393
+22	Ukraine	Ukraine	PROPN	NNP	Number=Sing	21	_	_	start_char=1394|end_char=1401|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=1401|end_char=1402
+24	Russia	Russia	PROPN	NNP	Number=Sing	23	_	_	start_char=1403|end_char=1409
+25	will	will	AUX	MD	VerbForm=Fin	24	_	_	start_char=1410|end_char=1414
+26	'	'	PUNCT	``	_	25	_	_	start_char=1415|end_char=1416|SpaceAfter=No
+27	target	target	VERB	VB	VerbForm=Inf	26	_	_	start_char=1416|end_char=1422|SpaceAfter=No
+28	'	'	PUNCT	``	_	27	_	_	start_char=1422|end_char=1423
+29	Moldova	Moldova	PROPN	NNP	Number=Sing	28	_	_	start_char=1424|end_char=1431
+30	or	or	CCONJ	CC	_	29	_	_	start_char=1432|end_char=1434
+31	one	one	NUM	CD	NumForm=Word|NumType=Card	30	_	_	start_char=1435|end_char=1438
+32	of	of	ADP	IN	_	31	_	_	start_char=1439|end_char=1441
+33	the	the	DET	DT	Definite=Def|PronType=Art	32	_	_	start_char=1442|end_char=1445
+34	Baltic	Baltic	ADJ	NNP	Degree=Pos	33	_	_	start_char=1446|end_char=1452
+35	states	states	PROPN	NNPS	Number=Plur	34	_	_	start_char=1453|end_char=1459|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=1459|end_char=1460|SpaceAfter=No
+37	"	"	PUNCT	''	_	36	_	_	start_char=1460|end_char=1461|SpaceAfter=No
+

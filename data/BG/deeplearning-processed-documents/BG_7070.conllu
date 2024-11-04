@@ -1,0 +1,247 @@
+# text = Turkey: there is a risk of World War III.
+# sent_id = 0
+1	Turkey	Turkey	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=6|SpaceAfter=No
+2	:	:	PUNCT	:	_	1	_	_	start_char=6|end_char=7
+3	there	there	PRON	EX	_	2	_	_	start_char=8|end_char=13
+4	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=14|end_char=16
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=17|end_char=18
+6	risk	risk	NOUN	NN	Number=Sing	5	_	_	start_char=19|end_char=23
+7	of	of	ADP	IN	_	6	_	_	start_char=24|end_char=26
+8	World	World	PROPN	NNP	Number=Sing	7	_	_	start_char=27|end_char=32
+9	War	War	PROPN	NNP	Number=Sing	8	_	_	start_char=33|end_char=36
+10	III	III	NUM	CD	NumForm=Roman|NumType=Card	9	_	_	start_char=37|end_char=40|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=40|end_char=41
+
+# text = Countries prepare their societies and infrastructure
+# sent_id = 1
+1	Countries	country	NOUN	NNS	Number=Plur	0	_	_	start_char=42|end_char=51
+2	prepare	prepare	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=52|end_char=59
+3	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	2	_	_	start_char=60|end_char=65
+4	societies	society	NOUN	NNS	Number=Plur	3	_	_	start_char=66|end_char=75
+5	and	and	CCONJ	CC	_	4	_	_	start_char=76|end_char=79
+6	infrastructure	infrastructure	NOUN	NN	Number=Sing	5	_	_	start_char=80|end_char=94|SpacesAfter=\n\n
+
+# text = Turkish Foreign Minister Hakan Fidan believes that there is a risk of the military conflicts in Gaza and Ukraine escalating into a "Third World War," the electronic edition of the Turkish newspaper reports.
+# sent_id = 2
+1	Turkish	Turkish	ADJ	JJ	Degree=Pos	0	_	_	start_char=96|end_char=103
+2	Foreign	foreign	ADJ	NNP	Degree=Pos	1	_	_	start_char=104|end_char=111
+3	Minister	Minister	PROPN	NNP	Number=Sing	2	_	_	start_char=112|end_char=120
+4	Hakan	Hakan	PROPN	NNP	Number=Sing	3	_	_	start_char=121|end_char=126
+5	Fidan	Fidan	PROPN	NNP	Number=Sing	4	_	_	start_char=127|end_char=132
+6	believes	believe	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=133|end_char=141
+7	that	that	SCONJ	IN	_	6	_	_	start_char=142|end_char=146
+8	there	there	PRON	EX	_	7	_	_	start_char=147|end_char=152
+9	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=153|end_char=155
+10	a	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=156|end_char=157
+11	risk	risk	NOUN	NN	Number=Sing	10	_	_	start_char=158|end_char=162
+12	of	of	ADP	IN	_	11	_	_	start_char=163|end_char=165
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=166|end_char=169
+14	military	military	ADJ	JJ	Degree=Pos	13	_	_	start_char=170|end_char=178
+15	conflicts	conflict	NOUN	NNS	Number=Plur	14	_	_	start_char=179|end_char=188
+16	in	in	ADP	IN	_	15	_	_	start_char=189|end_char=191
+17	Gaza	Gaza	PROPN	NNP	Number=Sing	16	_	_	start_char=192|end_char=196
+18	and	and	CCONJ	CC	_	17	_	_	start_char=197|end_char=200
+19	Ukraine	Ukraine	PROPN	NNP	Number=Sing	18	_	_	start_char=201|end_char=208
+20	escalating	escalate	VERB	VBG	VerbForm=Ger	19	_	_	start_char=209|end_char=219
+21	into	into	ADP	IN	_	20	_	_	start_char=220|end_char=224
+22	a	a	DET	DT	Definite=Ind|PronType=Art	21	_	_	start_char=225|end_char=226
+23	"	"	PUNCT	``	_	22	_	_	start_char=227|end_char=228|SpaceAfter=No
+24	Third	third	ADJ	NNP	Degree=Pos|NumType=Ord	23	_	_	start_char=228|end_char=233
+25	World	World	PROPN	NNP	Number=Sing	24	_	_	start_char=234|end_char=239
+26	War	War	PROPN	NNP	Number=Sing	25	_	_	start_char=240|end_char=243|SpaceAfter=No
+27	,	,	PUNCT	,	_	26	_	_	start_char=243|end_char=244|SpaceAfter=No
+28	"	"	PUNCT	''	_	27	_	_	start_char=244|end_char=245
+29	the	the	DET	DT	Definite=Def|PronType=Art	28	_	_	start_char=246|end_char=249
+30	electronic	electronic	ADJ	JJ	Degree=Pos	29	_	_	start_char=250|end_char=260
+31	edition	edition	NOUN	NN	Number=Sing	30	_	_	start_char=261|end_char=268
+32	of	of	ADP	IN	_	31	_	_	start_char=269|end_char=271
+33	the	the	DET	DT	Definite=Def|PronType=Art	32	_	_	start_char=272|end_char=275
+34	Turkish	Turkish	ADJ	JJ	Degree=Pos	33	_	_	start_char=276|end_char=283
+35	newspaper	newspaper	NOUN	NN	Number=Sing	34	_	_	start_char=284|end_char=293
+36	reports	report	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	35	_	_	start_char=294|end_char=301|SpaceAfter=No
+37	.	.	PUNCT	.	_	36	_	_	start_char=301|end_char=302
+
+# text = "Jumhuriyet", cited by Frog and BTA.
+# sent_id = 3
+1	"	"	PUNCT	``	_	0	_	_	start_char=303|end_char=304|SpaceAfter=No
+2	Jumhuriyet	Jumhuriyet	PROPN	NNP	Number=Sing	1	_	_	start_char=304|end_char=314|SpaceAfter=No
+3	"	"	PUNCT	''	_	2	_	_	start_char=314|end_char=315|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=315|end_char=316
+5	cited	cite	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=317|end_char=322
+6	by	by	ADP	IN	_	5	_	_	start_char=323|end_char=325
+7	Frog	Frog	PROPN	NNP	Number=Sing	6	_	_	start_char=326|end_char=330
+8	and	and	CCONJ	CC	_	7	_	_	start_char=331|end_char=334
+9	BTA	BTA	PROPN	NNP	Number=Sing	8	_	_	start_char=335|end_char=338|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=338|end_char=339|SpacesAfter=\n
+
+# text = Asked if a "World War III" could break out, Fidan responded on a Habertürk TV program last night, "I think the world should take this scenario seriously, should take this threat seriously.
+# sent_id = 4
+1	Asked	ask	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	_	_	start_char=340|end_char=345
+2	if	if	SCONJ	IN	_	1	_	_	start_char=346|end_char=348
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=349|end_char=350
+4	"	"	PUNCT	``	_	3	_	_	start_char=351|end_char=352|SpaceAfter=No
+5	World	World	PROPN	NNP	Number=Sing	4	_	_	start_char=352|end_char=357
+6	War	War	PROPN	NNP	Number=Sing	5	_	_	start_char=358|end_char=361
+7	III	III	NUM	CD	NumForm=Roman|NumType=Card	6	_	_	start_char=362|end_char=365|SpaceAfter=No
+8	"	"	PUNCT	''	_	7	_	_	start_char=365|end_char=366
+9	could	could	AUX	MD	VerbForm=Fin	8	_	_	start_char=367|end_char=372
+10	break	break	VERB	VB	VerbForm=Inf	9	_	_	start_char=373|end_char=378
+11	out	out	ADP	RP	_	10	_	_	start_char=379|end_char=382|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=382|end_char=383
+13	Fidan	Fidan	PROPN	NNP	Number=Sing	12	_	_	start_char=384|end_char=389
+14	responded	respond	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	_	_	start_char=390|end_char=399
+15	on	on	ADP	IN	_	14	_	_	start_char=400|end_char=402
+16	a	a	DET	DT	Definite=Ind|PronType=Art	15	_	_	start_char=403|end_char=404
+17	Habertürk	Habertürk	PROPN	NNP	Number=Sing	16	_	_	start_char=405|end_char=414
+18	TV	TV	NOUN	NN	Number=Sing	17	_	_	start_char=415|end_char=417
+19	program	program	NOUN	NN	Number=Sing	18	_	_	start_char=418|end_char=425
+20	last	last	ADJ	JJ	Degree=Pos	19	_	_	start_char=426|end_char=430
+21	night	night	NOUN	NN	Number=Sing	20	_	_	start_char=431|end_char=436|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=436|end_char=437
+23	"	"	PUNCT	``	_	22	_	_	start_char=438|end_char=439|SpaceAfter=No
+24	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	23	_	_	start_char=439|end_char=440
+25	think	think	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	24	_	_	start_char=441|end_char=446
+26	the	the	DET	DT	Definite=Def|PronType=Art	25	_	_	start_char=447|end_char=450
+27	world	world	NOUN	NN	Number=Sing	26	_	_	start_char=451|end_char=456
+28	should	should	AUX	MD	VerbForm=Fin	27	_	_	start_char=457|end_char=463
+29	take	take	VERB	VB	VerbForm=Inf	28	_	_	start_char=464|end_char=468
+30	this	this	DET	DT	Number=Sing|PronType=Dem	29	_	_	start_char=469|end_char=473
+31	scenario	scenario	NOUN	NN	Number=Sing	30	_	_	start_char=474|end_char=482
+32	seriously	seriously	ADV	RB	_	31	_	_	start_char=483|end_char=492|SpaceAfter=No
+33	,	,	PUNCT	,	_	32	_	_	start_char=492|end_char=493
+34	should	should	AUX	MD	VerbForm=Fin	33	_	_	start_char=494|end_char=500
+35	take	take	VERB	VB	VerbForm=Inf	34	_	_	start_char=501|end_char=505
+36	this	this	DET	DT	Number=Sing|PronType=Dem	35	_	_	start_char=506|end_char=510
+37	threat	threat	NOUN	NN	Number=Sing	36	_	_	start_char=511|end_char=517
+38	seriously	seriously	ADV	RB	_	37	_	_	start_char=518|end_char=527|SpaceAfter=No
+39	.	.	PUNCT	.	_	38	_	_	start_char=527|end_char=528
+
+# text = There is such a risk.
+# sent_id = 5
+1	There	there	PRON	EX	_	0	_	_	start_char=529|end_char=534
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=535|end_char=537
+3	such	such	DET	PDT	_	2	_	_	start_char=538|end_char=542
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=543|end_char=544
+5	risk	risk	NOUN	NN	Number=Sing	4	_	_	start_char=545|end_char=549|SpaceAfter=No
+6	.	.	PUNCT	.	_	5	_	_	start_char=549|end_char=550
+
+# text = We have been saying this from the beginning."
+# sent_id = 6
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	start_char=551|end_char=553
+2	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	_	_	start_char=554|end_char=558
+3	been	be	AUX	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=559|end_char=563
+4	saying	say	VERB	VBG	Tense=Pres|VerbForm=Part	3	_	_	start_char=564|end_char=570
+5	this	this	PRON	DT	Number=Sing|PronType=Dem	4	_	_	start_char=571|end_char=575
+6	from	from	ADP	IN	_	5	_	_	start_char=576|end_char=580
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=581|end_char=584
+8	beginning	beginning	NOUN	NN	Number=Sing	7	_	_	start_char=585|end_char=594|SpaceAfter=No
+9	.	.	PUNCT	.	_	8	_	_	start_char=594|end_char=595|SpaceAfter=No
+10	"	"	PUNCT	''	_	9	_	_	start_char=595|end_char=596|SpacesAfter=\n
+
+# text = Today, at a joint press conference with his Czech counterpart Jan Lipavsky in Ankara, Fidan sounded the alarm that the threat of proliferation is growing.
+# sent_id = 7
+1	Today	today	NOUN	NN	Number=Sing	0	_	_	start_char=597|end_char=602|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=602|end_char=603
+3	at	at	ADP	IN	_	2	_	_	start_char=604|end_char=606
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=607|end_char=608
+5	joint	joint	ADJ	JJ	Degree=Pos	4	_	_	start_char=609|end_char=614
+6	press	press	NOUN	NN	Number=Sing	5	_	_	start_char=615|end_char=620
+7	conference	conference	NOUN	NN	Number=Sing	6	_	_	start_char=621|end_char=631
+8	with	with	ADP	IN	_	7	_	_	start_char=632|end_char=636
+9	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	_	_	start_char=637|end_char=640
+10	Czech	Czech	ADJ	JJ	Degree=Pos	9	_	_	start_char=641|end_char=646
+11	counterpart	counterpart	NOUN	NN	Number=Sing	10	_	_	start_char=647|end_char=658
+12	Jan	January	PROPN	NNP	Number=Sing	11	_	_	start_char=659|end_char=662
+13	Lipavsky	Lipavsky	PROPN	NNP	Number=Sing	12	_	_	start_char=663|end_char=671
+14	in	in	ADP	IN	_	13	_	_	start_char=672|end_char=674
+15	Ankara	Ankara	PROPN	NNP	Number=Sing	14	_	_	start_char=675|end_char=681|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=681|end_char=682
+17	Fidan	Fidan	PROPN	NNP	Number=Sing	16	_	_	start_char=683|end_char=688
+18	sounded	sound	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	_	_	start_char=689|end_char=696
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=697|end_char=700
+20	alarm	alarm	NOUN	NN	Number=Sing	19	_	_	start_char=701|end_char=706
+21	that	that	SCONJ	IN	_	20	_	_	start_char=707|end_char=711
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=712|end_char=715
+23	threat	threat	NOUN	NN	Number=Sing	22	_	_	start_char=716|end_char=722
+24	of	of	ADP	IN	_	23	_	_	start_char=723|end_char=725
+25	proliferation	proliferation	NOUN	NN	Number=Sing	24	_	_	start_char=726|end_char=739
+26	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	_	_	start_char=740|end_char=742
+27	growing	grow	VERB	VBG	Tense=Pres|VerbForm=Part	26	_	_	start_char=743|end_char=750|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=750|end_char=751|SpacesAfter=\n
+
+# text = Analysing the war between Ukraine and Russia, the Turkish minister was adamant that "the problem can be solved not through war but through dialogue."
+# sent_id = 8
+1	Analysing	analyse	VERB	VBG	VerbForm=Ger	0	_	_	start_char=752|end_char=761
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=762|end_char=765
+3	war	war	NOUN	NN	Number=Sing	2	_	_	start_char=766|end_char=769
+4	between	between	ADP	IN	_	3	_	_	start_char=770|end_char=777
+5	Ukraine	Ukraine	PROPN	NNP	Number=Sing	4	_	_	start_char=778|end_char=785
+6	and	and	CCONJ	CC	_	5	_	_	start_char=786|end_char=789
+7	Russia	Russia	PROPN	NNP	Number=Sing	6	_	_	start_char=790|end_char=796|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=796|end_char=797
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=798|end_char=801
+10	Turkish	Turkish	ADJ	JJ	Degree=Pos	9	_	_	start_char=802|end_char=809
+11	minister	minister	NOUN	NN	Number=Sing	10	_	_	start_char=810|end_char=818
+12	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=819|end_char=822
+13	adamant	adamant	ADJ	JJ	Degree=Pos	12	_	_	start_char=823|end_char=830
+14	that	that	SCONJ	IN	_	13	_	_	start_char=831|end_char=835
+15	"	"	PUNCT	``	_	14	_	_	start_char=836|end_char=837|SpaceAfter=No
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=837|end_char=840
+17	problem	problem	NOUN	NN	Number=Sing	16	_	_	start_char=841|end_char=848
+18	can	can	AUX	MD	VerbForm=Fin	17	_	_	start_char=849|end_char=852
+19	be	be	AUX	VB	VerbForm=Inf	18	_	_	start_char=853|end_char=855
+20	solved	solve	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	19	_	_	start_char=856|end_char=862
+21	not	not	PART	RB	_	20	_	_	start_char=863|end_char=866
+22	through	through	ADP	IN	_	21	_	_	start_char=867|end_char=874
+23	war	war	NOUN	NN	Number=Sing	22	_	_	start_char=875|end_char=878
+24	but	but	CCONJ	CC	_	23	_	_	start_char=879|end_char=882
+25	through	through	ADP	IN	_	24	_	_	start_char=883|end_char=890
+26	dialogue	dialogue	NOUN	NN	Number=Sing	25	_	_	start_char=891|end_char=899|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=899|end_char=900|SpaceAfter=No
+28	"	"	PUNCT	''	_	27	_	_	start_char=900|end_char=901|SpacesAfter=\n
+
+# text = "There is a need for peace and calm in our region.
+# sent_id = 9
+1	"	"	PUNCT	``	_	0	_	_	start_char=902|end_char=903|SpaceAfter=No
+2	There	there	PRON	EX	_	1	_	_	start_char=903|end_char=908
+3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=909|end_char=911
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=912|end_char=913
+5	need	need	NOUN	NN	Number=Sing	4	_	_	start_char=914|end_char=918
+6	for	for	ADP	IN	_	5	_	_	start_char=919|end_char=922
+7	peace	peace	NOUN	NN	Number=Sing	6	_	_	start_char=923|end_char=928
+8	and	and	CCONJ	CC	_	7	_	_	start_char=929|end_char=932
+9	calm	calm	NOUN	NN	Number=Sing	8	_	_	start_char=933|end_char=937
+10	in	in	ADP	IN	_	9	_	_	start_char=938|end_char=940
+11	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	10	_	_	start_char=941|end_char=944
+12	region	region	NOUN	NN	Number=Sing	11	_	_	start_char=945|end_char=951|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=951|end_char=952
+
+# text = Otherwise, the risk of wars spreading increases.
+# sent_id = 10
+1	Otherwise	otherwise	ADV	RB	_	0	_	_	start_char=953|end_char=962|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=962|end_char=963
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=964|end_char=967
+4	risk	risk	NOUN	NN	Number=Sing	3	_	_	start_char=968|end_char=972
+5	of	of	ADP	IN	_	4	_	_	start_char=973|end_char=975
+6	wars	war	NOUN	NNS	Number=Plur	5	_	_	start_char=976|end_char=980
+7	spreading	spread	VERB	VBG	VerbForm=Ger	6	_	_	start_char=981|end_char=990
+8	increases	increase	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=991|end_char=1000|SpaceAfter=No
+9	.	.	PUNCT	.	_	8	_	_	start_char=1000|end_char=1001
+
+# text = Countries are preparing their societies and infrastructures for war," he said.
+# sent_id = 11
+1	Countries	country	NOUN	NNS	Number=Plur	0	_	_	start_char=1002|end_char=1011
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1012|end_char=1015
+3	preparing	prepare	VERB	VBG	Tense=Pres|VerbForm=Part	2	_	_	start_char=1016|end_char=1025
+4	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	3	_	_	start_char=1026|end_char=1031
+5	societies	society	NOUN	NNS	Number=Plur	4	_	_	start_char=1032|end_char=1041
+6	and	and	CCONJ	CC	_	5	_	_	start_char=1042|end_char=1045
+7	infrastructures	infrastructure	NOUN	NNS	Number=Plur	6	_	_	start_char=1046|end_char=1061
+8	for	for	ADP	IN	_	7	_	_	start_char=1062|end_char=1065
+9	war	war	NOUN	NN	Number=Sing	8	_	_	start_char=1066|end_char=1069|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=1069|end_char=1070|SpaceAfter=No
+11	"	"	PUNCT	''	_	10	_	_	start_char=1070|end_char=1071
+12	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	_	_	start_char=1072|end_char=1074
+13	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=1075|end_char=1079|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=1079|end_char=1080|SpaceAfter=No
+

@@ -1,0 +1,219 @@
+# text = Austrian cadets lectured on Russia's military successes
+# sent_id = 0
+1	Austrian	Austrian	ADJ	JJ	Degree=Pos	0	_	_	start_char=0|end_char=8
+2	cadets	cadet	NOUN	NNS	Number=Plur	1	_	_	start_char=9|end_char=15
+3	lectured	lecture	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=16|end_char=24
+4	on	on	ADP	IN	_	3	_	_	start_char=25|end_char=27
+5-6	Russia's	_	_	_	_	_	_	_	start_char=28|end_char=36
+5	Russia	Russia	PROPN	NNP	Number=Sing	4	_	_	start_char=28|end_char=34
+6	's	's	PART	POS	_	5	_	_	start_char=34|end_char=36
+7	military	military	ADJ	JJ	Degree=Pos	6	_	_	start_char=37|end_char=45
+8	successes	success	NOUN	NNS	Number=Plur	7	_	_	start_char=46|end_char=55|SpacesAfter=\n\n
+
+# text = At the operational level, Russia has successfully thwarted Ukraine's attempts to build up military reserves.
+# sent_id = 1
+1	At	at	ADP	IN	_	0	_	_	start_char=57|end_char=59
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=60|end_char=63
+3	operational	operational	ADJ	JJ	Degree=Pos	2	_	_	start_char=64|end_char=75
+4	level	level	NOUN	NN	Number=Sing	3	_	_	start_char=76|end_char=81|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=81|end_char=82
+6	Russia	Russia	PROPN	NNP	Number=Sing	5	_	_	start_char=83|end_char=89
+7	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=90|end_char=93
+8	successfully	successfully	ADV	RB	_	7	_	_	start_char=94|end_char=106
+9	thwarted	thwart	VERB	VBN	Tense=Past|VerbForm=Part	8	_	_	start_char=107|end_char=115
+10-11	Ukraine's	_	_	_	_	_	_	_	start_char=116|end_char=125
+10	Ukraine	Ukraine	PROPN	NNP	Number=Sing	9	_	_	start_char=116|end_char=123
+11	's	's	PART	POS	_	10	_	_	start_char=123|end_char=125
+12	attempts	attempt	NOUN	NNS	Number=Plur	11	_	_	start_char=126|end_char=134
+13	to	to	PART	TO	_	12	_	_	start_char=135|end_char=137
+14	build	build	VERB	VB	VerbForm=Inf	13	_	_	start_char=138|end_char=143
+15	up	up	ADP	RP	_	14	_	_	start_char=144|end_char=146
+16	military	military	ADJ	JJ	Degree=Pos	15	_	_	start_char=147|end_char=155
+17	reserves	reserve	NOUN	NNS	Number=Plur	16	_	_	start_char=156|end_char=164|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=164|end_char=165|SpacesAfter=\n
+
+# text = "At the operational level, Russia's goal was to force Ukraine to use its valuable reserves across the front, especially in the Donbas."
+# sent_id = 2
+1	"	"	PUNCT	``	_	0	_	_	start_char=166|end_char=167|SpaceAfter=No
+2	At	at	ADP	IN	_	1	_	_	start_char=167|end_char=169
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=170|end_char=173
+4	operational	operational	ADJ	JJ	Degree=Pos	3	_	_	start_char=174|end_char=185
+5	level	level	NOUN	NN	Number=Sing	4	_	_	start_char=186|end_char=191|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=191|end_char=192
+7-8	Russia's	_	_	_	_	_	_	_	start_char=193|end_char=201
+7	Russia	Russia	PROPN	NNP	Number=Sing	6	_	_	start_char=193|end_char=199
+8	's	's	PART	POS	_	7	_	_	start_char=199|end_char=201
+9	goal	goal	NOUN	NN	Number=Sing	8	_	_	start_char=202|end_char=206
+10	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=207|end_char=210
+11	to	to	PART	TO	_	10	_	_	start_char=211|end_char=213
+12	force	force	VERB	VB	VerbForm=Inf	11	_	_	start_char=214|end_char=219
+13	Ukraine	Ukraine	PROPN	NNP	Number=Sing	12	_	_	start_char=220|end_char=227
+14	to	to	PART	TO	_	13	_	_	start_char=228|end_char=230
+15	use	use	VERB	VB	VerbForm=Inf	14	_	_	start_char=231|end_char=234
+16	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	_	_	start_char=235|end_char=238
+17	valuable	valuable	ADJ	JJ	Degree=Pos	16	_	_	start_char=239|end_char=247
+18	reserves	reserve	NOUN	NNS	Number=Plur	17	_	_	start_char=248|end_char=256
+19	across	across	ADP	IN	_	18	_	_	start_char=257|end_char=263
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=264|end_char=267
+21	front	front	NOUN	NN	Number=Sing	20	_	_	start_char=268|end_char=273|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=273|end_char=274
+23	especially	especially	ADV	RB	_	22	_	_	start_char=275|end_char=285
+24	in	in	ADP	IN	_	23	_	_	start_char=286|end_char=288
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=289|end_char=292
+26	Donbas	Donbas	PROPN	NNP	Number=Sing	25	_	_	start_char=293|end_char=299|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=299|end_char=300|SpaceAfter=No
+28	"	"	PUNCT	''	_	27	_	_	start_char=300|end_char=301|SpacesAfter=\n
+
+# text = According to Reisner, this undermines Ukraine's hopes for a renewed offensive in 2025.
+# sent_id = 3
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=302|end_char=311
+2	to	to	ADP	IN	_	1	_	_	start_char=312|end_char=314
+3	Reisner	Reisner	PROPN	NNP	Number=Sing	2	_	_	start_char=315|end_char=322|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=322|end_char=323
+5	this	this	PRON	DT	Number=Sing|PronType=Dem	4	_	_	start_char=324|end_char=328
+6	undermines	undermine	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=329|end_char=339
+7-8	Ukraine's	_	_	_	_	_	_	_	start_char=340|end_char=349
+7	Ukraine	Ukraine	PROPN	NNP	Number=Sing	6	_	_	start_char=340|end_char=347
+8	's	's	PART	POS	_	7	_	_	start_char=347|end_char=349
+9	hopes	hope	NOUN	NNS	Number=Plur	8	_	_	start_char=350|end_char=355
+10	for	for	ADP	IN	_	9	_	_	start_char=356|end_char=359
+11	a	a	DET	DT	Definite=Ind|PronType=Art	10	_	_	start_char=360|end_char=361
+12	renewed	renew	VERB	VBN	Tense=Past|VerbForm=Part	11	_	_	start_char=362|end_char=369
+13	offensive	offensive	NOUN	NN	Number=Sing	12	_	_	start_char=370|end_char=379
+14	in	in	ADP	IN	_	13	_	_	start_char=380|end_char=382
+15	2025	2025	NUM	CD	NumForm=Digit|NumType=Card	14	_	_	start_char=383|end_char=387|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=387|end_char=388|SpacesAfter=\n
+
+# text = "We are seeing more and more videos showing valuable Ukrainian weapons systems being destroyed," Colonel Reisner points out, citing videos of the destruction of the HIMARS and Patriot complex as examples.
+# sent_id = 4
+1	"	"	PUNCT	``	_	0	_	_	start_char=389|end_char=390|SpaceAfter=No
+2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	1	_	_	start_char=390|end_char=392
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=393|end_char=396
+4	seeing	see	VERB	VBG	Tense=Pres|VerbForm=Part	3	_	_	start_char=397|end_char=403
+5	more	more	ADJ	JJR	Degree=Cmp	4	_	_	start_char=404|end_char=408
+6	and	and	CCONJ	CC	_	5	_	_	start_char=409|end_char=412
+7	more	more	ADJ	JJR	Degree=Cmp	6	_	_	start_char=413|end_char=417
+8	videos	video	NOUN	NNS	Number=Plur	7	_	_	start_char=418|end_char=424
+9	showing	show	VERB	VBG	VerbForm=Ger	8	_	_	start_char=425|end_char=432
+10	valuable	valuable	ADJ	JJ	Degree=Pos	9	_	_	start_char=433|end_char=441
+11	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	10	_	_	start_char=442|end_char=451
+12	weapons	weapon	NOUN	NNS	Number=Plur	11	_	_	start_char=452|end_char=459
+13	systems	system	NOUN	NNS	Number=Plur	12	_	_	start_char=460|end_char=467
+14	being	be	AUX	VBG	VerbForm=Ger	13	_	_	start_char=468|end_char=473
+15	destroyed	destroy	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	_	_	start_char=474|end_char=483|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=483|end_char=484|SpaceAfter=No
+17	"	"	PUNCT	''	_	16	_	_	start_char=484|end_char=485
+18	Colonel	Colonel	PROPN	NNP	Number=Sing	17	_	_	start_char=486|end_char=493
+19	Reisner	Reisner	PROPN	NNP	Number=Sing	18	_	_	start_char=494|end_char=501
+20	points	point	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	_	_	start_char=502|end_char=508
+21	out	out	ADP	RP	_	20	_	_	start_char=509|end_char=512|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=512|end_char=513
+23	citing	cite	VERB	VBG	VerbForm=Ger	22	_	_	start_char=514|end_char=520
+24	videos	video	NOUN	NNS	Number=Plur	23	_	_	start_char=521|end_char=527
+25	of	of	ADP	IN	_	24	_	_	start_char=528|end_char=530
+26	the	the	DET	DT	Definite=Def|PronType=Art	25	_	_	start_char=531|end_char=534
+27	destruction	destruction	NOUN	NN	Number=Sing	26	_	_	start_char=535|end_char=546
+28	of	of	ADP	IN	_	27	_	_	start_char=547|end_char=549
+29	the	the	DET	DT	Definite=Def|PronType=Art	28	_	_	start_char=550|end_char=553
+30	HIMARS	HIMARS	PROPN	NNP	Number=Sing	29	_	_	start_char=554|end_char=560
+31	and	and	CCONJ	CC	_	30	_	_	start_char=561|end_char=564
+32	Patriot	Patriot	PROPN	NNP	Number=Sing	31	_	_	start_char=565|end_char=572
+33	complex	complex	NOUN	NN	Number=Sing	32	_	_	start_char=573|end_char=580
+34	as	as	ADP	IN	_	33	_	_	start_char=581|end_char=583
+35	examples	example	NOUN	NNS	Number=Plur	34	_	_	start_char=584|end_char=592|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=592|end_char=593|SpacesAfter=\n
+
+# text = At the tactical level, Russia managed to make several major breaches in the Ukrainian defense line: Avdeyevka, Ocheretino.
+# sent_id = 5
+1	At	at	ADP	IN	_	0	_	_	start_char=594|end_char=596
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=597|end_char=600
+3	tactical	tactical	ADJ	JJ	Degree=Pos	2	_	_	start_char=601|end_char=609
+4	level	level	NOUN	NN	Number=Sing	3	_	_	start_char=610|end_char=615|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=615|end_char=616
+6	Russia	Russia	PROPN	NNP	Number=Sing	5	_	_	start_char=617|end_char=623
+7	managed	manage	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=624|end_char=631
+8	to	to	PART	TO	_	7	_	_	start_char=632|end_char=634
+9	make	make	VERB	VB	VerbForm=Inf	8	_	_	start_char=635|end_char=639
+10	several	several	ADJ	JJ	Degree=Pos	9	_	_	start_char=640|end_char=647
+11	major	major	ADJ	JJ	Degree=Pos	10	_	_	start_char=648|end_char=653
+12	breaches	breach	NOUN	NNS	Number=Plur	11	_	_	start_char=654|end_char=662
+13	in	in	ADP	IN	_	12	_	_	start_char=663|end_char=665
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=666|end_char=669
+15	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	14	_	_	start_char=670|end_char=679
+16	defense	defense	NOUN	NN	Number=Sing	15	_	_	start_char=680|end_char=687
+17	line	line	NOUN	NN	Number=Sing	16	_	_	start_char=688|end_char=692|SpaceAfter=No
+18	:	:	PUNCT	:	_	17	_	_	start_char=692|end_char=693
+19	Avdeyevka	Avdeyevka	PROPN	NNP	Number=Sing	18	_	_	start_char=694|end_char=703|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=703|end_char=704
+21	Ocheretino	Ocheretino	PROPN	NNP	Number=Sing	20	_	_	start_char=705|end_char=715|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=715|end_char=716|SpacesAfter=\n
+
+# text = Reisner considers the use of planning bombs to be one of the main factors in the success of the Russian armed forces.
+# sent_id = 6
+1	Reisner	Reisner	PROPN	NNP	Number=Sing	0	_	_	start_char=717|end_char=724
+2	considers	consider	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=725|end_char=734
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=735|end_char=738
+4	use	use	NOUN	NN	Number=Sing	3	_	_	start_char=739|end_char=742
+5	of	of	ADP	IN	_	4	_	_	start_char=743|end_char=745
+6	planning	planning	NOUN	NN	Number=Sing	5	_	_	start_char=746|end_char=754
+7	bombs	bomb	NOUN	NNS	Number=Plur	6	_	_	start_char=755|end_char=760
+8	to	to	PART	TO	_	7	_	_	start_char=761|end_char=763
+9	be	be	AUX	VB	VerbForm=Inf	8	_	_	start_char=764|end_char=766
+10	one	one	NUM	CD	NumForm=Word|NumType=Card	9	_	_	start_char=767|end_char=770
+11	of	of	ADP	IN	_	10	_	_	start_char=771|end_char=773
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=774|end_char=777
+13	main	main	ADJ	JJ	Degree=Pos	12	_	_	start_char=778|end_char=782
+14	factors	factor	NOUN	NNS	Number=Plur	13	_	_	start_char=783|end_char=790
+15	in	in	ADP	IN	_	14	_	_	start_char=791|end_char=793
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=794|end_char=797
+17	success	success	NOUN	NN	Number=Sing	16	_	_	start_char=798|end_char=805
+18	of	of	ADP	IN	_	17	_	_	start_char=806|end_char=808
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=809|end_char=812
+20	Russian	Russian	ADJ	JJ	Degree=Pos	19	_	_	start_char=813|end_char=820
+21	armed	armed	ADJ	JJ	Degree=Pos	20	_	_	start_char=821|end_char=826
+22	forces	force	NOUN	NNS	Number=Plur	21	_	_	start_char=827|end_char=833|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=833|end_char=834|SpacesAfter=\n
+
+# text = "When such a bomb weighing 1,500 to 3,000 kg hits Ukrainian fortifications, there is usually almost nothing left of them, and in combination with artillery, of course, it has an incredibly destructive effect."
+# sent_id = 7
+1	"	"	PUNCT	``	_	0	_	_	start_char=835|end_char=836|SpaceAfter=No
+2	When	when	ADV	WRB	PronType=Int	1	_	_	start_char=836|end_char=840
+3	such	such	DET	PDT	_	2	_	_	start_char=841|end_char=845
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=846|end_char=847
+5	bomb	bomb	NOUN	NN	Number=Sing	4	_	_	start_char=848|end_char=852
+6	weighing	weigh	VERB	VBG	VerbForm=Ger	5	_	_	start_char=853|end_char=861
+7	1,500	1500	NUM	CD	NumForm=Digit|NumType=Card	6	_	_	start_char=862|end_char=867
+8	to	to	ADP	IN	_	7	_	_	start_char=868|end_char=870
+9	3,000	3000	NUM	CD	NumForm=Digit|NumType=Card	8	_	_	start_char=871|end_char=876
+10	kg	kg	NOUN	NNS	Number=Plur	9	_	_	start_char=877|end_char=879
+11	hits	hit	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=880|end_char=884
+12	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	11	_	_	start_char=885|end_char=894
+13	fortifications	fortification	NOUN	NNS	Number=Plur	12	_	_	start_char=895|end_char=909|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=909|end_char=910
+15	there	there	PRON	EX	_	14	_	_	start_char=911|end_char=916
+16	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=917|end_char=919
+17	usually	usually	ADV	RB	_	16	_	_	start_char=920|end_char=927
+18	almost	almost	ADV	RB	_	17	_	_	start_char=928|end_char=934
+19	nothing	nothing	PRON	NN	Number=Sing|PronType=Neg	18	_	_	start_char=935|end_char=942
+20	left	leave	VERB	VBN	Tense=Past|VerbForm=Part	19	_	_	start_char=943|end_char=947
+21	of	of	ADP	IN	_	20	_	_	start_char=948|end_char=950
+22	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	21	_	_	start_char=951|end_char=955|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=955|end_char=956
+24	and	and	CCONJ	CC	_	23	_	_	start_char=957|end_char=960
+25	in	in	ADP	IN	_	24	_	_	start_char=961|end_char=963
+26	combination	combination	NOUN	NN	Number=Sing	25	_	_	start_char=964|end_char=975
+27	with	with	ADP	IN	_	26	_	_	start_char=976|end_char=980
+28	artillery	artillery	NOUN	NN	Number=Sing	27	_	_	start_char=981|end_char=990|SpaceAfter=No
+29	,	,	PUNCT	,	_	28	_	_	start_char=990|end_char=991
+30	of	of	ADP	IN	ExtPos=ADV	29	_	_	start_char=992|end_char=994
+31	course	course	NOUN	NN	Number=Sing	30	_	_	start_char=995|end_char=1001|SpaceAfter=No
+32	,	,	PUNCT	,	_	31	_	_	start_char=1001|end_char=1002
+33	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	32	_	_	start_char=1003|end_char=1005
+34	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	_	_	start_char=1006|end_char=1009
+35	an	a	DET	DT	Definite=Ind|PronType=Art	34	_	_	start_char=1010|end_char=1012
+36	incredibly	incredibly	ADV	RB	_	35	_	_	start_char=1013|end_char=1023
+37	destructive	destructive	ADJ	JJ	Degree=Pos	36	_	_	start_char=1024|end_char=1035
+38	effect	effect	NOUN	NN	Number=Sing	37	_	_	start_char=1036|end_char=1042|SpaceAfter=No
+39	.	.	PUNCT	.	_	38	_	_	start_char=1042|end_char=1043|SpaceAfter=No
+40	"	"	PUNCT	''	_	39	_	_	start_char=1043|end_char=1044|SpaceAfter=No
+

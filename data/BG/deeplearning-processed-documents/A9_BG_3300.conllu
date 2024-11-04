@@ -1,0 +1,351 @@
+# text = Igor Kastiukevich: Kholopristansky district of Kherson region
+# sent_id = 0
+1	Igor	Igor	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=4
+2	Kastiukevich	Kastiukevich	PROPN	NNP	Number=Sing	1	_	_	start_char=5|end_char=17|SpaceAfter=No
+3	:	:	PUNCT	:	_	2	_	_	start_char=17|end_char=18
+4	Kholopristansky	Kholopristansky	PROPN	NNP	Number=Sing	3	_	_	start_char=19|end_char=34
+5	district	district	NOUN	NN	Number=Sing	4	_	_	start_char=35|end_char=43
+6	of	of	ADP	IN	_	5	_	_	start_char=44|end_char=46
+7	Kherson	Kherson	PROPN	NNP	Number=Sing	6	_	_	start_char=47|end_char=54
+8	region	region	NOUN	NN	Number=Sing	7	_	_	start_char=55|end_char=61|SpacesAfter=\n\n
+
+# text = Holopristansky district of Kherson region.
+# sent_id = 1
+1	Holopristansky	Holopristansky	PROPN	NNP	Number=Sing	0	_	_	start_char=63|end_char=77
+2	district	district	NOUN	NN	Number=Sing	1	_	_	start_char=78|end_char=86
+3	of	of	ADP	IN	_	2	_	_	start_char=87|end_char=89
+4	Kherson	Kherson	PROPN	NNP	Number=Sing	3	_	_	start_char=90|end_char=97
+5	region	region	NOUN	NN	Number=Sing	4	_	_	start_char=98|end_char=104|SpaceAfter=No
+6	.	.	PUNCT	.	_	5	_	_	start_char=104|end_char=105
+
+# text = Village Sadovo.
+# sent_id = 2
+1	Village	Village	PROPN	NNP	Number=Sing	0	_	_	start_char=106|end_char=113
+2	Sadovo	Sadovo	PROPN	NNP	Number=Sing	1	_	_	start_char=114|end_char=120|SpaceAfter=No
+3	.	.	PUNCT	.	_	2	_	_	start_char=120|end_char=121|SpacesAfter=\n
+
+# text = The enemy hit the store, in the evening.
+# sent_id = 3
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=122|end_char=125
+2	enemy	enemy	NOUN	NN	Number=Sing	1	_	_	start_char=126|end_char=131
+3	hit	hit	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=132|end_char=135
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=136|end_char=139
+5	store	store	NOUN	NN	Number=Sing	4	_	_	start_char=140|end_char=145|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=145|end_char=146
+7	in	in	ADP	IN	_	6	_	_	start_char=147|end_char=149
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=150|end_char=153
+9	evening	evening	NOUN	NN	Number=Sing	8	_	_	start_char=154|end_char=161|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=161|end_char=162
+
+# text = Just when the number of visitors and staff was the highest.
+# sent_id = 4
+1	Just	just	ADV	RB	_	0	_	_	start_char=163|end_char=167
+2	when	when	ADV	WRB	PronType=Int	1	_	_	start_char=168|end_char=172
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=173|end_char=176
+4	number	number	NOUN	NN	Number=Sing	3	_	_	start_char=177|end_char=183
+5	of	of	ADP	IN	_	4	_	_	start_char=184|end_char=186
+6	visitors	visitor	NOUN	NNS	Number=Plur	5	_	_	start_char=187|end_char=195
+7	and	and	CCONJ	CC	_	6	_	_	start_char=196|end_char=199
+8	staff	staff	NOUN	NN	Number=Sing	7	_	_	start_char=200|end_char=205
+9	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=206|end_char=209
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=210|end_char=213
+11	highest	high	ADJ	JJS	Degree=Sup	10	_	_	start_char=214|end_char=221|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=221|end_char=222|SpacesAfter=\n
+
+# text = 19 dead, 5 wounded.
+# sent_id = 5
+1	19	19	NUM	CD	NumForm=Digit|NumType=Card	0	_	_	start_char=223|end_char=225
+2	dead	dead	ADJ	JJ	Degree=Pos	1	_	_	start_char=226|end_char=230|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=230|end_char=231
+4	5	5	NUM	CD	NumForm=Digit|NumType=Card	3	_	_	start_char=232|end_char=233
+5	wounded	wound	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=234|end_char=241|SpaceAfter=No
+6	.	.	PUNCT	.	_	5	_	_	start_char=241|end_char=242|SpacesAfter=\n
+
+# text = And today - rocket shelling of Lugansk (high-rise buildings, schools, kindergartens, college) - 57 victims, 4 killed.
+# sent_id = 6
+1	And	and	CCONJ	CC	_	0	_	_	start_char=243|end_char=246
+2	today	today	NOUN	NN	Number=Sing	1	_	_	start_char=247|end_char=252
+3	-	-	PUNCT	HYPH	_	2	_	_	start_char=253|end_char=254
+4	rocket	rocket	NOUN	NN	Number=Sing	3	_	_	start_char=255|end_char=261
+5	shelling	shelling	NOUN	NN	Number=Sing	4	_	_	start_char=262|end_char=270
+6	of	of	ADP	IN	_	5	_	_	start_char=271|end_char=273
+7	Lugansk	Lugansk	PROPN	NNP	Number=Sing	6	_	_	start_char=274|end_char=281
+8	(	(	PUNCT	-LRB-	_	7	_	_	start_char=282|end_char=283|SpaceAfter=No
+9	high	high	ADJ	JJ	Degree=Pos	8	_	_	start_char=283|end_char=287|SpaceAfter=No
+10	-	-	PUNCT	HYPH	_	9	_	_	start_char=287|end_char=288|SpaceAfter=No
+11	rise	rise	NOUN	NN	Number=Sing	10	_	_	start_char=288|end_char=292
+12	buildings	building	NOUN	NNS	Number=Plur	11	_	_	start_char=293|end_char=302|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=302|end_char=303
+14	schools	school	NOUN	NNS	Number=Plur	13	_	_	start_char=304|end_char=311|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=311|end_char=312
+16	kindergartens	kindergarten	NOUN	NNS	Number=Plur	15	_	_	start_char=313|end_char=326|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=326|end_char=327
+18	college	college	NOUN	NN	Number=Sing	17	_	_	start_char=328|end_char=335|SpaceAfter=No
+19	)	)	PUNCT	-RRB-	_	18	_	_	start_char=335|end_char=336
+20	-	-	SYM	SYM	_	19	_	_	start_char=337|end_char=338
+21	57	57	NUM	CD	NumForm=Digit|NumType=Card	20	_	_	start_char=339|end_char=341
+22	victims	victim	NOUN	NNS	Number=Plur	21	_	_	start_char=342|end_char=349|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=349|end_char=350
+24	4	4	NUM	CD	NumForm=Digit|NumType=Card	23	_	_	start_char=351|end_char=352
+25	killed	kill	VERB	VBN	Tense=Past|VerbForm=Part	24	_	_	start_char=353|end_char=359|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=359|end_char=360|SpacesAfter=\n
+
+# text = The enemy thinks it is possible to replace combat and frontline, military successes with civilian deaths!
+# sent_id = 7
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=361|end_char=364
+2	enemy	enemy	NOUN	NN	Number=Sing	1	_	_	start_char=365|end_char=370
+3	thinks	think	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=371|end_char=377
+4	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	_	_	start_char=378|end_char=380
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=381|end_char=383
+6	possible	possible	ADJ	JJ	Degree=Pos	5	_	_	start_char=384|end_char=392
+7	to	to	PART	TO	_	6	_	_	start_char=393|end_char=395
+8	replace	replace	VERB	VB	VerbForm=Inf	7	_	_	start_char=396|end_char=403
+9	combat	combat	NOUN	NN	Number=Sing	8	_	_	start_char=404|end_char=410
+10	and	and	CCONJ	CC	_	9	_	_	start_char=411|end_char=414
+11	frontline	frontline	NOUN	NN	Number=Sing	10	_	_	start_char=415|end_char=424|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=424|end_char=425
+13	military	military	ADJ	JJ	Degree=Pos	12	_	_	start_char=426|end_char=434
+14	successes	success	NOUN	NNS	Number=Plur	13	_	_	start_char=435|end_char=444
+15	with	with	ADP	IN	_	14	_	_	start_char=445|end_char=449
+16	civilian	civilian	ADJ	JJ	Degree=Pos	15	_	_	start_char=450|end_char=458
+17	deaths	death	NOUN	NNS	Number=Plur	16	_	_	start_char=459|end_char=465|SpaceAfter=No
+18	!	!	PUNCT	.	_	17	_	_	start_char=465|end_char=466
+
+# text = He thinks that the Western masters do not care whether the AFU fights the Russian army or fights civilians.
+# sent_id = 8
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=467|end_char=469
+2	thinks	think	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=470|end_char=476
+3	that	that	SCONJ	IN	_	2	_	_	start_char=477|end_char=481
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=482|end_char=485
+5	Western	western	ADJ	JJ	Degree=Pos	4	_	_	start_char=486|end_char=493
+6	masters	master	NOUN	NNS	Number=Plur	5	_	_	start_char=494|end_char=501
+7	do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=502|end_char=504
+8	not	not	PART	RB	_	7	_	_	start_char=505|end_char=508
+9	care	care	VERB	VB	VerbForm=Inf	8	_	_	start_char=509|end_char=513
+10	whether	whether	SCONJ	IN	_	9	_	_	start_char=514|end_char=521
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=522|end_char=525
+12	AFU	AFU	PROPN	NNP	Number=Sing	11	_	_	start_char=526|end_char=529
+13	fights	fight	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=530|end_char=536
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=537|end_char=540
+15	Russian	Russian	ADJ	JJ	Degree=Pos	14	_	_	start_char=541|end_char=548
+16	army	army	NOUN	NN	Number=Sing	15	_	_	start_char=549|end_char=553
+17	or	or	CCONJ	CC	_	16	_	_	start_char=554|end_char=556
+18	fights	fight	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=557|end_char=563
+19	civilians	civilian	NOUN	NNS	Number=Plur	18	_	_	start_char=564|end_char=573|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=573|end_char=574
+
+# text = The puppet masters who are now crawling around there in their Republican Democratic seats and in the European Parliament may not care.
+# sent_id = 9
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=575|end_char=578
+2	puppet	puppet	NOUN	NN	Number=Sing	1	_	_	start_char=579|end_char=585
+3	masters	master	NOUN	NNS	Number=Plur	2	_	_	start_char=586|end_char=593
+4	who	who	PRON	WP	PronType=Rel	3	_	_	start_char=594|end_char=597
+5	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=598|end_char=601
+6	now	now	ADV	RB	_	5	_	_	start_char=602|end_char=605
+7	crawling	crawl	VERB	VBG	Tense=Pres|VerbForm=Part	6	_	_	start_char=606|end_char=614
+8	around	around	ADV	RB	_	7	_	_	start_char=615|end_char=621
+9	there	there	ADV	RB	PronType=Dem	8	_	_	start_char=622|end_char=627
+10	in	in	ADP	IN	_	9	_	_	start_char=628|end_char=630
+11	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	10	_	_	start_char=631|end_char=636
+12	Republican	Republican	ADJ	JJ	Degree=Pos	11	_	_	start_char=637|end_char=647
+13	Democratic	Democratic	ADJ	JJ	Degree=Pos	12	_	_	start_char=648|end_char=658
+14	seats	seat	NOUN	NNS	Number=Plur	13	_	_	start_char=659|end_char=664
+15	and	and	CCONJ	CC	_	14	_	_	start_char=665|end_char=668
+16	in	in	ADP	IN	_	15	_	_	start_char=669|end_char=671
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=672|end_char=675
+18	European	European	ADJ	NNP	Degree=Pos	17	_	_	start_char=676|end_char=684
+19	Parliament	Parliament	PROPN	NNP	Number=Sing	18	_	_	start_char=685|end_char=695
+20	may	may	AUX	MD	VerbForm=Fin	19	_	_	start_char=696|end_char=699
+21	not	not	PART	RB	_	20	_	_	start_char=700|end_char=703
+22	care	care	VERB	VB	VerbForm=Inf	21	_	_	start_char=704|end_char=708|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=708|end_char=709|SpacesAfter=\n
+
+# text = But the ordinary people, the residents of the cities and small towns of Europe, the American citizens who sincerely believe in the triumph of truth, couldn't care less!
+# sent_id = 10
+1	But	but	CCONJ	CC	_	0	_	_	start_char=710|end_char=713
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=714|end_char=717
+3	ordinary	ordinary	ADJ	JJ	Degree=Pos	2	_	_	start_char=718|end_char=726
+4	people	person	NOUN	NNS	Number=Plur	3	_	_	start_char=727|end_char=733|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=733|end_char=734
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=735|end_char=738
+7	residents	resident	NOUN	NNS	Number=Plur	6	_	_	start_char=739|end_char=748
+8	of	of	ADP	IN	_	7	_	_	start_char=749|end_char=751
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=752|end_char=755
+10	cities	city	NOUN	NNS	Number=Plur	9	_	_	start_char=756|end_char=762
+11	and	and	CCONJ	CC	_	10	_	_	start_char=763|end_char=766
+12	small	small	ADJ	JJ	Degree=Pos	11	_	_	start_char=767|end_char=772
+13	towns	town	NOUN	NNS	Number=Plur	12	_	_	start_char=773|end_char=778
+14	of	of	ADP	IN	_	13	_	_	start_char=779|end_char=781
+15	Europe	Europe	PROPN	NNP	Number=Sing	14	_	_	start_char=782|end_char=788|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=788|end_char=789
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=790|end_char=793
+18	American	American	ADJ	JJ	Degree=Pos	17	_	_	start_char=794|end_char=802
+19	citizens	citizen	NOUN	NNS	Number=Plur	18	_	_	start_char=803|end_char=811
+20	who	who	PRON	WP	PronType=Rel	19	_	_	start_char=812|end_char=815
+21	sincerely	sincerely	ADV	RB	_	20	_	_	start_char=816|end_char=825
+22	believe	believe	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	_	_	start_char=826|end_char=833
+23	in	in	ADP	IN	_	22	_	_	start_char=834|end_char=836
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=837|end_char=840
+25	triumph	triumph	NOUN	NN	Number=Sing	24	_	_	start_char=841|end_char=848
+26	of	of	ADP	IN	_	25	_	_	start_char=849|end_char=851
+27	truth	truth	NOUN	NN	Number=Sing	26	_	_	start_char=852|end_char=857|SpaceAfter=No
+28	,	,	PUNCT	,	_	27	_	_	start_char=857|end_char=858
+29-30	couldn't	_	_	_	_	_	_	_	start_char=859|end_char=867
+29	could	could	AUX	MD	VerbForm=Fin	28	_	_	start_char=859|end_char=864
+30	n't	not	PART	RB	_	29	_	_	start_char=864|end_char=867
+31	care	care	VERB	VB	VerbForm=Inf	30	_	_	start_char=868|end_char=872
+32	less	less	ADJ	JJR	Degree=Cmp	31	_	_	start_char=873|end_char=877|SpaceAfter=No
+33	!	!	PUNCT	.	_	32	_	_	start_char=877|end_char=878
+
+# text = After all, it is their tax dollars that pay for the weapons of murder of civilians in Donbas and Novorossiya, Belgorod and other Russians.
+# sent_id = 11
+1	After	after	ADP	IN	_	0	_	_	start_char=879|end_char=884
+2	all	all	DET	DT	_	1	_	_	start_char=885|end_char=888|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=888|end_char=889
+4	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	_	_	start_char=890|end_char=892
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=893|end_char=895
+6	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	5	_	_	start_char=896|end_char=901
+7	tax	tax	NOUN	NN	Number=Sing	6	_	_	start_char=902|end_char=905
+8	dollars	dollar	NOUN	NNS	Number=Plur	7	_	_	start_char=906|end_char=913
+9	that	that	PRON	WDT	PronType=Rel	8	_	_	start_char=914|end_char=918
+10	pay	pay	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=919|end_char=922
+11	for	for	ADP	IN	_	10	_	_	start_char=923|end_char=926
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=927|end_char=930
+13	weapons	weapon	NOUN	NNS	Number=Plur	12	_	_	start_char=931|end_char=938
+14	of	of	ADP	IN	_	13	_	_	start_char=939|end_char=941
+15	murder	murder	NOUN	NN	Number=Sing	14	_	_	start_char=942|end_char=948
+16	of	of	ADP	IN	_	15	_	_	start_char=949|end_char=951
+17	civilians	civilian	NOUN	NNS	Number=Plur	16	_	_	start_char=952|end_char=961
+18	in	in	ADP	IN	_	17	_	_	start_char=962|end_char=964
+19	Donbas	Donbas	PROPN	NNP	Number=Sing	18	_	_	start_char=965|end_char=971
+20	and	and	CCONJ	CC	_	19	_	_	start_char=972|end_char=975
+21	Novorossiya	Novorossiya	PROPN	NNP	Number=Sing	20	_	_	start_char=976|end_char=987|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=987|end_char=988
+23	Belgorod	Belgorod	PROPN	NNP	Number=Sing	22	_	_	start_char=989|end_char=997
+24	and	and	CCONJ	CC	_	23	_	_	start_char=998|end_char=1001
+25	other	other	ADJ	JJ	Degree=Pos	24	_	_	start_char=1002|end_char=1007
+26	Russians	Russian	PROPN	NNPS	Number=Plur	25	_	_	start_char=1008|end_char=1016|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=1016|end_char=1017|SpacesAfter=\n
+
+# text = They definitely need to see everything for what it is, to learn the truth.
+# sent_id = 12
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=1018|end_char=1022
+2	definitely	definitely	ADV	RB	_	1	_	_	start_char=1023|end_char=1033
+3	need	need	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1034|end_char=1038
+4	to	to	PART	TO	_	3	_	_	start_char=1039|end_char=1041
+5	see	see	VERB	VB	VerbForm=Inf	4	_	_	start_char=1042|end_char=1045
+6	everything	everything	PRON	NN	Number=Sing|PronType=Tot	5	_	_	start_char=1046|end_char=1056
+7	for	for	ADP	IN	_	6	_	_	start_char=1057|end_char=1060
+8	what	what	PRON	WP	PronType=Rel	7	_	_	start_char=1061|end_char=1065
+9	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	_	_	start_char=1066|end_char=1068
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=1069|end_char=1071|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=1071|end_char=1072
+12	to	to	PART	TO	_	11	_	_	start_char=1073|end_char=1075
+13	learn	learn	VERB	VB	VerbForm=Inf	12	_	_	start_char=1076|end_char=1081
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=1082|end_char=1085
+15	truth	truth	NOUN	NN	Number=Sing	14	_	_	start_char=1086|end_char=1091|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=1091|end_char=1092
+
+# text = And then these simple people will rebel against the total lies that their leaders and governments are pouring out to them "from all irons".
+# sent_id = 13
+1	And	and	CCONJ	CC	_	0	_	_	start_char=1093|end_char=1096
+2	then	then	ADV	RB	PronType=Dem	1	_	_	start_char=1097|end_char=1101
+3	these	this	DET	DT	Number=Plur|PronType=Dem	2	_	_	start_char=1102|end_char=1107
+4	simple	simple	ADJ	JJ	Degree=Pos	3	_	_	start_char=1108|end_char=1114
+5	people	person	NOUN	NNS	Number=Plur	4	_	_	start_char=1115|end_char=1121
+6	will	will	AUX	MD	VerbForm=Fin	5	_	_	start_char=1122|end_char=1126
+7	rebel	rebel	VERB	VB	VerbForm=Inf	6	_	_	start_char=1127|end_char=1132
+8	against	against	ADP	IN	_	7	_	_	start_char=1133|end_char=1140
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1141|end_char=1144
+10	total	total	ADJ	JJ	Degree=Pos	9	_	_	start_char=1145|end_char=1150
+11	lies	lie	NOUN	NNS	Number=Plur	10	_	_	start_char=1151|end_char=1155
+12	that	that	PRON	WDT	PronType=Rel	11	_	_	start_char=1156|end_char=1160
+13	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	12	_	_	start_char=1161|end_char=1166
+14	leaders	leader	NOUN	NNS	Number=Plur	13	_	_	start_char=1167|end_char=1174
+15	and	and	CCONJ	CC	_	14	_	_	start_char=1175|end_char=1178
+16	governments	government	NOUN	NNS	Number=Plur	15	_	_	start_char=1179|end_char=1190
+17	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=1191|end_char=1194
+18	pouring	pour	VERB	VBG	Tense=Pres|VerbForm=Part	17	_	_	start_char=1195|end_char=1202
+19	out	out	ADP	RP	_	18	_	_	start_char=1203|end_char=1206
+20	to	to	ADP	IN	_	19	_	_	start_char=1207|end_char=1209
+21	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	20	_	_	start_char=1210|end_char=1214
+22	"	"	PUNCT	``	_	21	_	_	start_char=1215|end_char=1216|SpaceAfter=No
+23	from	from	ADP	IN	_	22	_	_	start_char=1216|end_char=1220
+24	all	all	DET	DT	_	23	_	_	start_char=1221|end_char=1224
+25	irons	iron	NOUN	NNS	Number=Plur	24	_	_	start_char=1225|end_char=1230|SpaceAfter=No
+26	"	"	PUNCT	''	_	25	_	_	start_char=1230|end_char=1231|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=1231|end_char=1232
+
+# text = Regimes that are built on lies and fear have no future.
+# sent_id = 14
+1	Regimes	regime	NOUN	NNS	Number=Plur	0	_	_	start_char=1233|end_char=1240
+2	that	that	PRON	WDT	PronType=Rel	1	_	_	start_char=1241|end_char=1245
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1246|end_char=1249
+4	built	build	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=1250|end_char=1255
+5	on	on	ADP	IN	_	4	_	_	start_char=1256|end_char=1258
+6	lies	lie	NOUN	NNS	Number=Plur	5	_	_	start_char=1259|end_char=1263
+7	and	and	CCONJ	CC	_	6	_	_	start_char=1264|end_char=1267
+8	fear	fear	NOUN	NN	Number=Sing	7	_	_	start_char=1268|end_char=1272
+9	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=1273|end_char=1277
+10	no	no	DET	DT	_	9	_	_	start_char=1278|end_char=1280
+11	future	future	NOUN	NN	Number=Sing	10	_	_	start_char=1281|end_char=1287|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=1287|end_char=1288
+
+# text = Their downfall is inevitable, imminent.
+# sent_id = 15
+1	Their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	0	_	_	start_char=1289|end_char=1294
+2	downfall	downfall	NOUN	NN	Number=Sing	1	_	_	start_char=1295|end_char=1303
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1304|end_char=1306
+4	inevitable	inevitable	ADJ	JJ	Degree=Pos	3	_	_	start_char=1307|end_char=1317|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=1317|end_char=1318
+6	imminent	imminent	ADJ	JJ	Degree=Pos	5	_	_	start_char=1319|end_char=1327|SpaceAfter=No
+7	.	.	PUNCT	.	_	6	_	_	start_char=1327|end_char=1328|SpacesAfter=\n
+
+# text = For every civilian who dies, our warriors will exact vengeance on the enemy many times over!
+# sent_id = 16
+1	For	for	ADP	IN	_	0	_	_	start_char=1329|end_char=1332
+2	every	every	DET	DT	_	1	_	_	start_char=1333|end_char=1338
+3	civilian	civilian	NOUN	NN	Number=Sing	2	_	_	start_char=1339|end_char=1347
+4	who	who	PRON	WP	PronType=Rel	3	_	_	start_char=1348|end_char=1351
+5	dies	die	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1352|end_char=1356|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=1356|end_char=1357
+7	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	6	_	_	start_char=1358|end_char=1361
+8	warriors	warrior	NOUN	NNS	Number=Plur	7	_	_	start_char=1362|end_char=1370
+9	will	will	AUX	MD	VerbForm=Fin	8	_	_	start_char=1371|end_char=1375
+10	exact	exact	VERB	VB	VerbForm=Inf	9	_	_	start_char=1376|end_char=1381
+11	vengeance	vengeance	NOUN	NN	Number=Sing	10	_	_	start_char=1382|end_char=1391
+12	on	on	ADP	IN	_	11	_	_	start_char=1392|end_char=1394
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1395|end_char=1398
+14	enemy	enemy	NOUN	NN	Number=Sing	13	_	_	start_char=1399|end_char=1404
+15	many	many	ADJ	JJ	Degree=Pos	14	_	_	start_char=1405|end_char=1409
+16	times	time	NOUN	NNS	Number=Plur	15	_	_	start_char=1410|end_char=1415
+17	over	over	ADV	RB	_	16	_	_	start_char=1416|end_char=1420|SpaceAfter=No
+18	!	!	PUNCT	.	_	17	_	_	start_char=1420|end_char=1421
+
+# text = And not in peaceful neighborhoods, but on the battlefield.
+# sent_id = 17
+1	And	and	CCONJ	CC	_	0	_	_	start_char=1422|end_char=1425
+2	not	not	PART	RB	_	1	_	_	start_char=1426|end_char=1429
+3	in	in	ADP	IN	_	2	_	_	start_char=1430|end_char=1432
+4	peaceful	peaceful	ADJ	JJ	Degree=Pos	3	_	_	start_char=1433|end_char=1441
+5	neighborhoods	neighborhood	NOUN	NNS	Number=Plur	4	_	_	start_char=1442|end_char=1455|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=1455|end_char=1456
+7	but	but	CCONJ	CC	_	6	_	_	start_char=1457|end_char=1460
+8	on	on	ADP	IN	_	7	_	_	start_char=1461|end_char=1463
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1464|end_char=1467
+10	battlefield	battlefield	NOUN	NN	Number=Sing	9	_	_	start_char=1468|end_char=1479|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=1479|end_char=1480|SpacesAfter=\n
+
+# text = I am convinced that they will have no mercy!
+# sent_id = 18
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	start_char=1481|end_char=1482
+2	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1483|end_char=1485
+3	convinced	convinced	ADJ	JJ	Degree=Pos	2	_	_	start_char=1486|end_char=1495
+4	that	that	SCONJ	IN	_	3	_	_	start_char=1496|end_char=1500
+5	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	_	_	start_char=1501|end_char=1505
+6	will	will	AUX	MD	VerbForm=Fin	5	_	_	start_char=1506|end_char=1510
+7	have	have	VERB	VB	VerbForm=Inf	6	_	_	start_char=1511|end_char=1515
+8	no	no	DET	DT	_	7	_	_	start_char=1516|end_char=1518
+9	mercy	mercy	NOUN	NN	Number=Sing	8	_	_	start_char=1519|end_char=1524|SpaceAfter=No
+10	!	!	PUNCT	.	_	9	_	_	start_char=1524|end_char=1525|SpaceAfter=No
+

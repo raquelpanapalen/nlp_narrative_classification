@@ -1,0 +1,590 @@
+# text = Why do Americans envy Putin and even fear him?
+# sent_id = 0
+1	Why	why	ADV	WRB	PronType=Int	0	_	_	start_char=0|end_char=3
+2	do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=4|end_char=6
+3	Americans	American	PROPN	NNPS	Number=Plur	2	_	_	start_char=7|end_char=16
+4	envy	envy	VERB	VB	VerbForm=Inf	3	_	_	start_char=17|end_char=21
+5	Putin	Putin	PROPN	NNP	Number=Sing	4	_	_	start_char=22|end_char=27
+6	and	and	CCONJ	CC	_	5	_	_	start_char=28|end_char=31
+7	even	even	ADV	RB	_	6	_	_	start_char=32|end_char=36
+8	fear	fear	VERB	VB	VerbForm=Inf	7	_	_	start_char=37|end_char=41
+9	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	_	_	start_char=42|end_char=45|SpaceAfter=No
+10	?	?	PUNCT	.	_	9	_	_	start_char=45|end_char=46|SpacesAfter=\n\n
+
+# text = Baijiahao, China.
+# sent_id = 1
+1	Baijiahao	Baijiahao	PROPN	NNP	Number=Sing	0	_	_	start_char=48|end_char=57|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=57|end_char=58
+3	China	China	PROPN	NNP	Number=Sing	2	_	_	start_char=59|end_char=64|SpaceAfter=No
+4	.	.	PUNCT	.	_	3	_	_	start_char=64|end_char=65|SpacesAfter=\n
+
+# text = The history of relations between Russia and the United States has always been quite complicated and associated with various political crises.
+# sent_id = 2
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=66|end_char=69
+2	history	history	NOUN	NN	Number=Sing	1	_	_	start_char=70|end_char=77
+3	of	of	ADP	IN	_	2	_	_	start_char=78|end_char=80
+4	relations	relation	NOUN	NNS	Number=Plur	3	_	_	start_char=81|end_char=90
+5	between	between	ADP	IN	_	4	_	_	start_char=91|end_char=98
+6	Russia	Russia	PROPN	NNP	Number=Sing	5	_	_	start_char=99|end_char=105
+7	and	and	CCONJ	CC	_	6	_	_	start_char=106|end_char=109
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=110|end_char=113
+9	United	United	ADJ	NNP	Degree=Pos	8	_	_	start_char=114|end_char=120
+10	States	State	PROPN	NNPS	Number=Plur	9	_	_	start_char=121|end_char=127
+11	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=128|end_char=131
+12	always	always	ADV	RB	_	11	_	_	start_char=132|end_char=138
+13	been	be	AUX	VBN	Tense=Past|VerbForm=Part	12	_	_	start_char=139|end_char=143
+14	quite	quite	ADV	RB	_	13	_	_	start_char=144|end_char=149
+15	complicated	complicated	ADJ	JJ	Degree=Pos	14	_	_	start_char=150|end_char=161
+16	and	and	CCONJ	CC	_	15	_	_	start_char=162|end_char=165
+17	associated	associate	VERB	VBN	Tense=Past|VerbForm=Part	16	_	_	start_char=166|end_char=176
+18	with	with	ADP	IN	_	17	_	_	start_char=177|end_char=181
+19	various	various	ADJ	JJ	Degree=Pos	18	_	_	start_char=182|end_char=189
+20	political	political	ADJ	JJ	Degree=Pos	19	_	_	start_char=190|end_char=199
+21	crises	crisis	NOUN	NNS	Number=Plur	20	_	_	start_char=200|end_char=206|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=206|end_char=207
+
+# text = However, President Vladimir Putin personally has enjoyed particular attention in Washington.
+# sent_id = 3
+1	However	however	ADV	RB	_	0	_	_	start_char=208|end_char=215|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=215|end_char=216
+3	President	President	PROPN	NNP	Number=Sing	2	_	_	start_char=217|end_char=226
+4	Vladimir	Vladimir	PROPN	NNP	Number=Sing	3	_	_	start_char=227|end_char=235
+5	Putin	Putin	PROPN	NNP	Number=Sing	4	_	_	start_char=236|end_char=241
+6	personally	personally	ADV	RB	_	5	_	_	start_char=242|end_char=252
+7	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=253|end_char=256
+8	enjoyed	enjoy	VERB	VBN	Tense=Past|VerbForm=Part	7	_	_	start_char=257|end_char=264
+9	particular	particular	ADJ	JJ	Degree=Pos	8	_	_	start_char=265|end_char=275
+10	attention	attention	NOUN	NN	Number=Sing	9	_	_	start_char=276|end_char=285
+11	in	in	ADP	IN	_	10	_	_	start_char=286|end_char=288
+12	Washington	Washington	PROPN	NNP	Number=Sing	11	_	_	start_char=289|end_char=299|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=299|end_char=300
+
+# text = Why are Americans so afraid of him?
+# sent_id = 4
+1	Why	why	ADV	WRB	PronType=Int	0	_	_	start_char=301|end_char=304
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=305|end_char=308
+3	Americans	American	PROPN	NNPS	Number=Plur	2	_	_	start_char=309|end_char=318
+4	so	so	ADV	RB	_	3	_	_	start_char=319|end_char=321
+5	afraid	afraid	ADJ	JJ	Degree=Pos	4	_	_	start_char=322|end_char=328
+6	of	of	ADP	IN	_	5	_	_	start_char=329|end_char=331
+7	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	_	_	start_char=332|end_char=335|SpaceAfter=No
+8	?	?	PUNCT	.	_	7	_	_	start_char=335|end_char=336|SpacesAfter=\n
+
+# text = The reasons why the United States fears Putin include his hard-line foreign policy, Russia's nuclear capabilities, the energy map, and the Russian president's personal charm and political wisdom.
+# sent_id = 5
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=337|end_char=340
+2	reasons	reason	NOUN	NNS	Number=Plur	1	_	_	start_char=341|end_char=348
+3	why	why	ADV	WRB	PronType=Rel	2	_	_	start_char=349|end_char=352
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=353|end_char=356
+5	United	United	ADJ	NNP	Degree=Pos	4	_	_	start_char=357|end_char=363
+6	States	State	PROPN	NNPS	Number=Plur	5	_	_	start_char=364|end_char=370
+7	fears	fear	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=371|end_char=376
+8	Putin	Putin	PROPN	NNP	Number=Sing	7	_	_	start_char=377|end_char=382
+9	include	include	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=383|end_char=390
+10	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	_	_	start_char=391|end_char=394
+11	hard	hard	ADJ	JJ	Degree=Pos	10	_	_	start_char=395|end_char=399|SpaceAfter=No
+12	-	-	PUNCT	HYPH	_	11	_	_	start_char=399|end_char=400|SpaceAfter=No
+13	line	line	NOUN	NN	Number=Sing	12	_	_	start_char=400|end_char=404
+14	foreign	foreign	ADJ	JJ	Degree=Pos	13	_	_	start_char=405|end_char=412
+15	policy	policy	NOUN	NN	Number=Sing	14	_	_	start_char=413|end_char=419|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=419|end_char=420
+17-18	Russia's	_	_	_	_	_	_	_	start_char=421|end_char=429
+17	Russia	Russia	PROPN	NNP	Number=Sing	16	_	_	start_char=421|end_char=427
+18	's	's	PART	POS	_	17	_	_	start_char=427|end_char=429
+19	nuclear	nuclear	ADJ	JJ	Degree=Pos	18	_	_	start_char=430|end_char=437
+20	capabilities	capability	NOUN	NNS	Number=Plur	19	_	_	start_char=438|end_char=450|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=450|end_char=451
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=452|end_char=455
+23	energy	energy	NOUN	NN	Number=Sing	22	_	_	start_char=456|end_char=462
+24	map	map	NOUN	NN	Number=Sing	23	_	_	start_char=463|end_char=466|SpaceAfter=No
+25	,	,	PUNCT	,	_	24	_	_	start_char=466|end_char=467
+26	and	and	CCONJ	CC	_	25	_	_	start_char=468|end_char=471
+27	the	the	DET	DT	Definite=Def|PronType=Art	26	_	_	start_char=472|end_char=475
+28	Russian	Russian	ADJ	JJ	Degree=Pos	27	_	_	start_char=476|end_char=483
+29-30	president's	_	_	_	_	_	_	_	start_char=484|end_char=495
+29	president	president	NOUN	NN	Number=Sing	28	_	_	start_char=484|end_char=493
+30	's	's	PART	POS	_	29	_	_	start_char=493|end_char=495
+31	personal	personal	ADJ	JJ	Degree=Pos	30	_	_	start_char=496|end_char=504
+32	charm	charm	NOUN	NN	Number=Sing	31	_	_	start_char=505|end_char=510
+33	and	and	CCONJ	CC	_	32	_	_	start_char=511|end_char=514
+34	political	political	ADJ	JJ	Degree=Pos	33	_	_	start_char=515|end_char=524
+35	wisdom	wisdom	NOUN	NN	Number=Sing	34	_	_	start_char=525|end_char=531|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=531|end_char=532
+
+# text = These factors make Washington wary of dealing with Moscow to protect its interests and influence in the world.
+# sent_id = 6
+1	These	this	DET	DT	Number=Plur|PronType=Dem	0	_	_	start_char=533|end_char=538
+2	factors	factor	NOUN	NNS	Number=Plur	1	_	_	start_char=539|end_char=546
+3	make	make	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=547|end_char=551
+4	Washington	Washington	PROPN	NNP	Number=Sing	3	_	_	start_char=552|end_char=562
+5	wary	wary	ADJ	JJ	Degree=Pos	4	_	_	start_char=563|end_char=567
+6	of	of	SCONJ	IN	_	5	_	_	start_char=568|end_char=570
+7	dealing	deal	VERB	VBG	VerbForm=Ger	6	_	_	start_char=571|end_char=578
+8	with	with	ADP	IN	_	7	_	_	start_char=579|end_char=583
+9	Moscow	Moscow	PROPN	NNP	Number=Sing	8	_	_	start_char=584|end_char=590
+10	to	to	PART	TO	_	9	_	_	start_char=591|end_char=593
+11	protect	protect	VERB	VB	VerbForm=Inf	10	_	_	start_char=594|end_char=601
+12	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	_	_	start_char=602|end_char=605
+13	interests	interest	NOUN	NNS	Number=Plur	12	_	_	start_char=606|end_char=615
+14	and	and	CCONJ	CC	_	13	_	_	start_char=616|end_char=619
+15	influence	influence	NOUN	NN	Number=Sing	14	_	_	start_char=620|end_char=629
+16	in	in	ADP	IN	_	15	_	_	start_char=630|end_char=632
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=633|end_char=636
+18	world	world	NOUN	NN	Number=Sing	17	_	_	start_char=637|end_char=642|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=642|end_char=643|SpacesAfter=\n
+
+# text = Historically, relations between Washington and Moscow have always been complex and volatile.
+# sent_id = 7
+1	Historically	historically	ADV	RB	Degree=Pos	0	_	_	start_char=644|end_char=656|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=656|end_char=657
+3	relations	relation	NOUN	NNS	Number=Plur	2	_	_	start_char=658|end_char=667
+4	between	between	ADP	IN	_	3	_	_	start_char=668|end_char=675
+5	Washington	Washington	PROPN	NNP	Number=Sing	4	_	_	start_char=676|end_char=686
+6	and	and	CCONJ	CC	_	5	_	_	start_char=687|end_char=690
+7	Moscow	Moscow	PROPN	NNP	Number=Sing	6	_	_	start_char=691|end_char=697
+8	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=698|end_char=702
+9	always	always	ADV	RB	_	8	_	_	start_char=703|end_char=709
+10	been	be	AUX	VBN	Tense=Past|VerbForm=Part	9	_	_	start_char=710|end_char=714
+11	complex	complex	ADJ	JJ	Degree=Pos	10	_	_	start_char=715|end_char=722
+12	and	and	CCONJ	CC	_	11	_	_	start_char=723|end_char=726
+13	volatile	volatile	ADJ	JJ	Degree=Pos	12	_	_	start_char=727|end_char=735|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=735|end_char=736
+
+# text = But the US attitude towards Putin personally should be included in a separate section.
+# sent_id = 8
+1	But	but	CCONJ	CC	_	0	_	_	start_char=737|end_char=740
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=741|end_char=744
+3	US	US	PROPN	NNP	Number=Sing	2	_	_	start_char=745|end_char=747
+4	attitude	attitude	NOUN	NN	Number=Sing	3	_	_	start_char=748|end_char=756
+5	towards	towards	ADP	IN	_	4	_	_	start_char=757|end_char=764
+6	Putin	Putin	PROPN	NNP	Number=Sing	5	_	_	start_char=765|end_char=770
+7	personally	personally	ADV	RB	_	6	_	_	start_char=771|end_char=781
+8	should	should	AUX	MD	VerbForm=Fin	7	_	_	start_char=782|end_char=788
+9	be	be	AUX	VB	VerbForm=Inf	8	_	_	start_char=789|end_char=791
+10	included	include	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	9	_	_	start_char=792|end_char=800
+11	in	in	ADP	IN	_	10	_	_	start_char=801|end_char=803
+12	a	a	DET	DT	Definite=Ind|PronType=Art	11	_	_	start_char=804|end_char=805
+13	separate	separate	ADJ	JJ	Degree=Pos	12	_	_	start_char=806|end_char=814
+14	section	section	NOUN	NN	Number=Sing	13	_	_	start_char=815|end_char=822|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=822|end_char=823|SpacesAfter=\n
+
+# text = Americans are envious of Putin and wary of him at the same time.
+# sent_id = 9
+1	Americans	American	PROPN	NNPS	Number=Plur	0	_	_	start_char=824|end_char=833
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=834|end_char=837
+3	envious	envious	ADJ	JJ	Degree=Pos	2	_	_	start_char=838|end_char=845
+4	of	of	ADP	IN	_	3	_	_	start_char=846|end_char=848
+5	Putin	Putin	PROPN	NNP	Number=Sing	4	_	_	start_char=849|end_char=854
+6	and	and	CCONJ	CC	_	5	_	_	start_char=855|end_char=858
+7	wary	wary	ADJ	JJ	Degree=Pos	6	_	_	start_char=859|end_char=863
+8	of	of	ADP	IN	_	7	_	_	start_char=864|end_char=866
+9	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	_	_	start_char=867|end_char=870
+10	at	at	ADP	IN	_	9	_	_	start_char=871|end_char=873
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=874|end_char=877
+12	same	same	ADJ	JJ	Degree=Pos	11	_	_	start_char=878|end_char=882
+13	time	time	NOUN	NN	Number=Sing	12	_	_	start_char=883|end_char=887|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=887|end_char=888|SpacesAfter=\n
+
+# text = Why is the US so afraid of the Russian president?
+# sent_id = 10
+1	Why	why	ADV	WRB	PronType=Int	0	_	_	start_char=889|end_char=892
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=893|end_char=895
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=896|end_char=899
+4	US	US	PROPN	NNP	Number=Sing	3	_	_	start_char=900|end_char=902
+5	so	so	ADV	RB	_	4	_	_	start_char=903|end_char=905
+6	afraid	afraid	ADJ	JJ	Degree=Pos	5	_	_	start_char=906|end_char=912
+7	of	of	ADP	IN	_	6	_	_	start_char=913|end_char=915
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=916|end_char=919
+9	Russian	Russian	ADJ	JJ	Degree=Pos	8	_	_	start_char=920|end_char=927
+10	president	president	NOUN	NN	Number=Sing	9	_	_	start_char=928|end_char=937|SpaceAfter=No
+11	?	?	PUNCT	.	_	10	_	_	start_char=937|end_char=938|SpacesAfter=\n
+
+# text = Putin's strong foreign policy Since coming to power in 2000, Putin has pursued a rather hard-line foreign policy.
+# sent_id = 11
+1-2	Putin's	_	_	_	_	_	_	_	start_char=939|end_char=946
+1	Putin	Putin	PROPN	NNP	Number=Sing	0	_	_	start_char=939|end_char=944
+2	's	's	PART	POS	_	1	_	_	start_char=944|end_char=946
+3	strong	strong	ADJ	JJ	Degree=Pos	2	_	_	start_char=947|end_char=953
+4	foreign	foreign	ADJ	JJ	Degree=Pos	3	_	_	start_char=954|end_char=961
+5	policy	policy	NOUN	NN	Number=Sing	4	_	_	start_char=962|end_char=968|SpacesAfter=\n
+6	Since	since	SCONJ	IN	_	5	_	_	start_char=969|end_char=974
+7	coming	come	VERB	VBG	VerbForm=Ger	6	_	_	start_char=975|end_char=981
+8	to	to	ADP	IN	_	7	_	_	start_char=982|end_char=984
+9	power	power	NOUN	NN	Number=Sing	8	_	_	start_char=985|end_char=990
+10	in	in	ADP	IN	_	9	_	_	start_char=991|end_char=993
+11	2000	2000	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=994|end_char=998|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=998|end_char=999
+13	Putin	Putin	PROPN	NNP	Number=Sing	12	_	_	start_char=1000|end_char=1005
+14	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=1006|end_char=1009
+15	pursued	pursue	VERB	VBN	Tense=Past|VerbForm=Part	14	_	_	start_char=1010|end_char=1017
+16	a	a	DET	DT	Definite=Ind|PronType=Art	15	_	_	start_char=1018|end_char=1019
+17	rather	rather	ADV	RB	_	16	_	_	start_char=1020|end_char=1026
+18	hard	hard	ADJ	JJ	Degree=Pos	17	_	_	start_char=1027|end_char=1031|SpaceAfter=No
+19	-	-	PUNCT	HYPH	_	18	_	_	start_char=1031|end_char=1032|SpaceAfter=No
+20	line	line	NOUN	NN	Number=Sing	19	_	_	start_char=1032|end_char=1036
+21	foreign	foreign	ADJ	JJ	Degree=Pos	20	_	_	start_char=1037|end_char=1044
+22	policy	policy	NOUN	NN	Number=Sing	21	_	_	start_char=1045|end_char=1051|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=1051|end_char=1052
+
+# text = He has repeatedly demonstrated Russia's military power and ability to influence the fate of other actors in international relations through various instruments, for example during the military actions in Ukraine or Syria.
+# sent_id = 12
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1053|end_char=1055
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1056|end_char=1059
+3	repeatedly	repeatedly	ADV	RB	_	2	_	_	start_char=1060|end_char=1070
+4	demonstrated	demonstrate	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=1071|end_char=1083
+5-6	Russia's	_	_	_	_	_	_	_	start_char=1084|end_char=1092
+5	Russia	Russia	PROPN	NNP	Number=Sing	4	_	_	start_char=1084|end_char=1090
+6	's	's	PART	POS	_	5	_	_	start_char=1090|end_char=1092
+7	military	military	ADJ	JJ	Degree=Pos	6	_	_	start_char=1093|end_char=1101
+8	power	power	NOUN	NN	Number=Sing	7	_	_	start_char=1102|end_char=1107
+9	and	and	CCONJ	CC	_	8	_	_	start_char=1108|end_char=1111
+10	ability	ability	NOUN	NN	Number=Sing	9	_	_	start_char=1112|end_char=1119
+11	to	to	PART	TO	_	10	_	_	start_char=1120|end_char=1122
+12	influence	influence	VERB	VB	VerbForm=Inf	11	_	_	start_char=1123|end_char=1132
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1133|end_char=1136
+14	fate	fate	NOUN	NN	Number=Sing	13	_	_	start_char=1137|end_char=1141
+15	of	of	ADP	IN	_	14	_	_	start_char=1142|end_char=1144
+16	other	other	ADJ	JJ	Degree=Pos	15	_	_	start_char=1145|end_char=1150
+17	actors	actor	NOUN	NNS	Number=Plur	16	_	_	start_char=1151|end_char=1157
+18	in	in	ADP	IN	_	17	_	_	start_char=1158|end_char=1160
+19	international	international	ADJ	JJ	Degree=Pos	18	_	_	start_char=1161|end_char=1174
+20	relations	relation	NOUN	NNS	Number=Plur	19	_	_	start_char=1175|end_char=1184
+21	through	through	ADP	IN	_	20	_	_	start_char=1185|end_char=1192
+22	various	various	ADJ	JJ	Degree=Pos	21	_	_	start_char=1193|end_char=1200
+23	instruments	instrument	NOUN	NNS	Number=Plur	22	_	_	start_char=1201|end_char=1212|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=1212|end_char=1213
+25	for	for	ADP	IN	_	24	_	_	start_char=1214|end_char=1217
+26	example	example	NOUN	NN	Number=Sing	25	_	_	start_char=1218|end_char=1225
+27	during	during	ADP	IN	_	26	_	_	start_char=1226|end_char=1232
+28	the	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=1233|end_char=1236
+29	military	military	ADJ	JJ	Degree=Pos	28	_	_	start_char=1237|end_char=1245
+30	actions	action	NOUN	NNS	Number=Plur	29	_	_	start_char=1246|end_char=1253
+31	in	in	ADP	IN	_	30	_	_	start_char=1254|end_char=1256
+32	Ukraine	Ukraine	PROPN	NNP	Number=Sing	31	_	_	start_char=1257|end_char=1264
+33	or	or	CCONJ	CC	_	32	_	_	start_char=1265|end_char=1267
+34	Syria	Syria	PROPN	NNP	Number=Sing	33	_	_	start_char=1268|end_char=1273|SpaceAfter=No
+35	.	.	PUNCT	.	_	34	_	_	start_char=1273|end_char=1274
+
+# text = This active foreign policy makes the US and its allies worry that the established world order may change.
+# sent_id = 13
+1	This	this	DET	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1275|end_char=1279
+2	active	active	ADJ	JJ	Degree=Pos	1	_	_	start_char=1280|end_char=1286
+3	foreign	foreign	ADJ	JJ	Degree=Pos	2	_	_	start_char=1287|end_char=1294
+4	policy	policy	NOUN	NN	Number=Sing	3	_	_	start_char=1295|end_char=1301
+5	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1302|end_char=1307
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1308|end_char=1311
+7	US	US	PROPN	NNP	Number=Sing	6	_	_	start_char=1312|end_char=1314
+8	and	and	CCONJ	CC	_	7	_	_	start_char=1315|end_char=1318
+9	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	_	_	start_char=1319|end_char=1322
+10	allies	ally	NOUN	NNS	Number=Plur	9	_	_	start_char=1323|end_char=1329
+11	worry	worry	VERB	VB	VerbForm=Inf	10	_	_	start_char=1330|end_char=1335
+12	that	that	SCONJ	IN	_	11	_	_	start_char=1336|end_char=1340
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1341|end_char=1344
+14	established	establish	VERB	VBN	Tense=Past|VerbForm=Part	13	_	_	start_char=1345|end_char=1356
+15	world	world	NOUN	NN	Number=Sing	14	_	_	start_char=1357|end_char=1362
+16	order	order	NOUN	NN	Number=Sing	15	_	_	start_char=1363|end_char=1368
+17	may	may	AUX	MD	VerbForm=Fin	16	_	_	start_char=1369|end_char=1372
+18	change	change	VERB	VB	VerbForm=Inf	17	_	_	start_char=1373|end_char=1379|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=1379|end_char=1380
+
+# text = This is unacceptable to the American side.
+# sent_id = 14
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1381|end_char=1385
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1386|end_char=1388
+3	unacceptable	unacceptable	ADJ	JJ	Degree=Pos	2	_	_	start_char=1389|end_char=1401
+4	to	to	ADP	IN	_	3	_	_	start_char=1402|end_char=1404
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1405|end_char=1408
+6	American	American	ADJ	JJ	Degree=Pos	5	_	_	start_char=1409|end_char=1417
+7	side	side	NOUN	NN	Number=Sing	6	_	_	start_char=1418|end_char=1422|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	_	_	start_char=1422|end_char=1423|SpacesAfter=\n
+
+# text = Russia's nuclear capability Russia's nuclear arsenal, one of the few countries possessing these weapons of mass destruction, is the largest in the world and is under close scrutiny by the United States.
+# sent_id = 15
+1-2	Russia's	_	_	_	_	_	_	_	start_char=1424|end_char=1432
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=1424|end_char=1430
+2	's	's	PART	POS	_	1	_	_	start_char=1430|end_char=1432
+3	nuclear	nuclear	ADJ	JJ	Degree=Pos	2	_	_	start_char=1433|end_char=1440
+4	capability	capability	NOUN	NN	Number=Sing	3	_	_	start_char=1441|end_char=1451|SpacesAfter=\n
+5-6	Russia's	_	_	_	_	_	_	_	start_char=1452|end_char=1460
+5	Russia	Russia	PROPN	NNP	Number=Sing	4	_	_	start_char=1452|end_char=1458
+6	's	's	PART	POS	_	5	_	_	start_char=1458|end_char=1460
+7	nuclear	nuclear	ADJ	JJ	Degree=Pos	6	_	_	start_char=1461|end_char=1468
+8	arsenal	arsenal	NOUN	NN	Number=Sing	7	_	_	start_char=1469|end_char=1476|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1476|end_char=1477
+10	one	one	NUM	CD	NumForm=Word|NumType=Card	9	_	_	start_char=1478|end_char=1481
+11	of	of	ADP	IN	_	10	_	_	start_char=1482|end_char=1484
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=1485|end_char=1488
+13	few	few	ADJ	JJ	Degree=Pos	12	_	_	start_char=1489|end_char=1492
+14	countries	country	NOUN	NNS	Number=Plur	13	_	_	start_char=1493|end_char=1502
+15	possessing	possess	VERB	VBG	VerbForm=Ger	14	_	_	start_char=1503|end_char=1513
+16	these	this	DET	DT	Number=Plur|PronType=Dem	15	_	_	start_char=1514|end_char=1519
+17	weapons	weapon	NOUN	NNS	Number=Plur	16	_	_	start_char=1520|end_char=1527
+18	of	of	ADP	IN	_	17	_	_	start_char=1528|end_char=1530
+19	mass	mass	ADJ	JJ	Degree=Pos	18	_	_	start_char=1531|end_char=1535
+20	destruction	destruction	NOUN	NN	Number=Sing	19	_	_	start_char=1536|end_char=1547|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=1547|end_char=1548
+22	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	_	_	start_char=1549|end_char=1551
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=1552|end_char=1555
+24	largest	large	ADJ	JJS	Degree=Sup	23	_	_	start_char=1556|end_char=1563
+25	in	in	ADP	IN	_	24	_	_	start_char=1564|end_char=1566
+26	the	the	DET	DT	Definite=Def|PronType=Art	25	_	_	start_char=1567|end_char=1570
+27	world	world	NOUN	NN	Number=Sing	26	_	_	start_char=1571|end_char=1576
+28	and	and	CCONJ	CC	_	27	_	_	start_char=1577|end_char=1580
+29	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	_	_	start_char=1581|end_char=1583
+30	under	under	ADP	IN	_	29	_	_	start_char=1584|end_char=1589
+31	close	close	ADJ	JJ	Degree=Pos	30	_	_	start_char=1590|end_char=1595
+32	scrutiny	scrutiny	NOUN	NN	Number=Sing	31	_	_	start_char=1596|end_char=1604
+33	by	by	ADP	IN	_	32	_	_	start_char=1605|end_char=1607
+34	the	the	DET	DT	Definite=Def|PronType=Art	33	_	_	start_char=1608|end_char=1611
+35	United	United	ADJ	NNP	Degree=Pos	34	_	_	start_char=1612|end_char=1618
+36	States	State	PROPN	NNPS	Number=Plur	35	_	_	start_char=1619|end_char=1625|SpaceAfter=No
+37	.	.	PUNCT	.	_	36	_	_	start_char=1625|end_char=1626
+
+# text = Putin has repeatedly stressed his country's military capability, and he has carried out several weapons upgrades and conducted exercises for non-strategic nuclear forces.
+# sent_id = 16
+1	Putin	Putin	PROPN	NNP	Number=Sing	0	_	_	start_char=1627|end_char=1632
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1633|end_char=1636
+3	repeatedly	repeatedly	ADV	RB	_	2	_	_	start_char=1637|end_char=1647
+4	stressed	stress	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=1648|end_char=1656
+5	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	_	_	start_char=1657|end_char=1660
+6-7	country's	_	_	_	_	_	_	_	start_char=1661|end_char=1670
+6	country	country	NOUN	NN	Number=Sing	5	_	_	start_char=1661|end_char=1668
+7	's	's	PART	POS	_	6	_	_	start_char=1668|end_char=1670
+8	military	military	ADJ	JJ	Degree=Pos	7	_	_	start_char=1671|end_char=1679
+9	capability	capability	NOUN	NN	Number=Sing	8	_	_	start_char=1680|end_char=1690|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=1690|end_char=1691
+11	and	and	CCONJ	CC	_	10	_	_	start_char=1692|end_char=1695
+12	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	_	_	start_char=1696|end_char=1698
+13	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=1699|end_char=1702
+14	carried	carry	VERB	VBN	Tense=Past|VerbForm=Part	13	_	_	start_char=1703|end_char=1710
+15	out	out	ADP	RP	_	14	_	_	start_char=1711|end_char=1714
+16	several	several	ADJ	JJ	Degree=Pos	15	_	_	start_char=1715|end_char=1722
+17	weapons	weapon	NOUN	NNS	Number=Plur	16	_	_	start_char=1723|end_char=1730
+18	upgrades	upgrade	NOUN	NNS	Number=Plur	17	_	_	start_char=1731|end_char=1739
+19	and	and	CCONJ	CC	_	18	_	_	start_char=1740|end_char=1743
+20	conducted	conduct	VERB	VBN	Tense=Past|VerbForm=Part	19	_	_	start_char=1744|end_char=1753
+21	exercises	exercise	NOUN	NNS	Number=Plur	20	_	_	start_char=1754|end_char=1763
+22	for	for	ADP	IN	_	21	_	_	start_char=1764|end_char=1767
+23	non-strategic	non-strategic	ADJ	JJ	Degree=Pos	22	_	_	start_char=1768|end_char=1781
+24	nuclear	nuclear	ADJ	JJ	Degree=Pos	23	_	_	start_char=1782|end_char=1789
+25	forces	force	NOUN	NNS	Number=Plur	24	_	_	start_char=1790|end_char=1796|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=1796|end_char=1797
+
+# text = Such powerful military capabilities force the United States to be constantly on its toes.
+# sent_id = 17
+1	Such	such	ADJ	JJ	Degree=Pos	0	_	_	start_char=1798|end_char=1802
+2	powerful	powerful	ADJ	JJ	Degree=Pos	1	_	_	start_char=1803|end_char=1811
+3	military	military	ADJ	JJ	Degree=Pos	2	_	_	start_char=1812|end_char=1820
+4	capabilities	capability	NOUN	NNS	Number=Plur	3	_	_	start_char=1821|end_char=1833
+5	force	force	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1834|end_char=1839
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1840|end_char=1843
+7	United	United	ADJ	NNP	Degree=Pos	6	_	_	start_char=1844|end_char=1850
+8	States	State	PROPN	NNPS	Number=Plur	7	_	_	start_char=1851|end_char=1857
+9	to	to	PART	TO	_	8	_	_	start_char=1858|end_char=1860
+10	be	be	AUX	VB	VerbForm=Inf	9	_	_	start_char=1861|end_char=1863
+11	constantly	constantly	ADV	RB	_	10	_	_	start_char=1864|end_char=1874
+12	on	on	ADP	IN	_	11	_	_	start_char=1875|end_char=1877
+13	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	_	_	start_char=1878|end_char=1881
+14	toes	toe	NOUN	NNS	Number=Plur	13	_	_	start_char=1882|end_char=1886|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=1886|end_char=1887|SpacesAfter=\n
+
+# text = A wise energy policy Russia is the world's major exporter of fuels, especially natural gas.
+# sent_id = 18
+1	A	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=1888|end_char=1889
+2	wise	wise	ADJ	JJ	Degree=Pos	1	_	_	start_char=1890|end_char=1894
+3	energy	energy	NOUN	NN	Number=Sing	2	_	_	start_char=1895|end_char=1901
+4	policy	policy	NOUN	NN	Number=Sing	3	_	_	start_char=1902|end_char=1908|SpacesAfter=\n
+5	Russia	Russia	PROPN	NNP	Number=Sing	4	_	_	start_char=1909|end_char=1915
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1916|end_char=1918
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1919|end_char=1922
+8-9	world's	_	_	_	_	_	_	_	start_char=1923|end_char=1930
+8	world	world	NOUN	NN	Number=Sing	7	_	_	start_char=1923|end_char=1928
+9	's	's	PART	POS	_	8	_	_	start_char=1928|end_char=1930
+10	major	major	ADJ	JJ	Degree=Pos	9	_	_	start_char=1931|end_char=1936
+11	exporter	exporter	NOUN	NN	Number=Sing	10	_	_	start_char=1937|end_char=1945
+12	of	of	ADP	IN	_	11	_	_	start_char=1946|end_char=1948
+13	fuels	fuel	NOUN	NNS	Number=Plur	12	_	_	start_char=1949|end_char=1954|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=1954|end_char=1955
+15	especially	especially	ADV	RB	_	14	_	_	start_char=1956|end_char=1966
+16	natural	natural	ADJ	JJ	Degree=Pos	15	_	_	start_char=1967|end_char=1974
+17	gas	gas	NOUN	NN	Number=Sing	16	_	_	start_char=1975|end_char=1978|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=1978|end_char=1979
+
+# text = Putin uses this advantage to influence European decisions through his wise energy policy.
+# sent_id = 19
+1	Putin	Putin	PROPN	NNP	Number=Sing	0	_	_	start_char=1980|end_char=1985
+2	uses	use	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1986|end_char=1990
+3	this	this	DET	DT	Number=Sing|PronType=Dem	2	_	_	start_char=1991|end_char=1995
+4	advantage	advantage	NOUN	NN	Number=Sing	3	_	_	start_char=1996|end_char=2005
+5	to	to	PART	TO	_	4	_	_	start_char=2006|end_char=2008
+6	influence	influence	VERB	VB	VerbForm=Inf	5	_	_	start_char=2009|end_char=2018
+7	European	European	ADJ	JJ	Degree=Pos	6	_	_	start_char=2019|end_char=2027
+8	decisions	decision	NOUN	NNS	Number=Plur	7	_	_	start_char=2028|end_char=2037
+9	through	through	ADP	IN	_	8	_	_	start_char=2038|end_char=2045
+10	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	_	_	start_char=2046|end_char=2049
+11	wise	wise	ADJ	JJ	Degree=Pos	10	_	_	start_char=2050|end_char=2054
+12	energy	energy	NOUN	NN	Number=Sing	11	_	_	start_char=2055|end_char=2061
+13	policy	policy	NOUN	NN	Number=Sing	12	_	_	start_char=2062|end_char=2068|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=2068|end_char=2069
+
+# text = The United States is concerned that the energy dependence of its allies could weaken Washington's unchallenged authority, creating another problem for it on the international stage.
+# sent_id = 20
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2070|end_char=2073
+2	United	United	ADJ	NNP	Degree=Pos	1	_	_	start_char=2074|end_char=2080
+3	States	State	PROPN	NNPS	Number=Plur	2	_	_	start_char=2081|end_char=2087
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=2088|end_char=2090
+5	concerned	concerned	ADJ	JJ	Degree=Pos	4	_	_	start_char=2091|end_char=2100
+6	that	that	SCONJ	IN	_	5	_	_	start_char=2101|end_char=2105
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=2106|end_char=2109
+8	energy	energy	NOUN	NN	Number=Sing	7	_	_	start_char=2110|end_char=2116
+9	dependence	dependence	NOUN	NN	Number=Sing	8	_	_	start_char=2117|end_char=2127
+10	of	of	ADP	IN	_	9	_	_	start_char=2128|end_char=2130
+11	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	_	_	start_char=2131|end_char=2134
+12	allies	ally	NOUN	NNS	Number=Plur	11	_	_	start_char=2135|end_char=2141
+13	could	could	AUX	MD	VerbForm=Fin	12	_	_	start_char=2142|end_char=2147
+14	weaken	weaken	VERB	VB	VerbForm=Inf	13	_	_	start_char=2148|end_char=2154
+15-16	Washington's	_	_	_	_	_	_	_	start_char=2155|end_char=2167
+15	Washington	Washington	PROPN	NNP	Number=Sing	14	_	_	start_char=2155|end_char=2165
+16	's	's	PART	POS	_	15	_	_	start_char=2165|end_char=2167
+17	unchallenged	unchallenged	ADJ	JJ	Degree=Pos	16	_	_	start_char=2168|end_char=2180
+18	authority	authority	NOUN	NN	Number=Sing	17	_	_	start_char=2181|end_char=2190|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=2190|end_char=2191
+20	creating	create	VERB	VBG	VerbForm=Ger	19	_	_	start_char=2192|end_char=2200
+21	another	another	DET	DT	_	20	_	_	start_char=2201|end_char=2208
+22	problem	problem	NOUN	NN	Number=Sing	21	_	_	start_char=2209|end_char=2216
+23	for	for	ADP	IN	_	22	_	_	start_char=2217|end_char=2220
+24	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	23	_	_	start_char=2221|end_char=2223
+25	on	on	ADP	IN	_	24	_	_	start_char=2224|end_char=2226
+26	the	the	DET	DT	Definite=Def|PronType=Art	25	_	_	start_char=2227|end_char=2230
+27	international	international	ADJ	JJ	Degree=Pos	26	_	_	start_char=2231|end_char=2244
+28	stage	stage	NOUN	NN	Number=Sing	27	_	_	start_char=2245|end_char=2250|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=2250|end_char=2251|SpacesAfter=\n
+
+# text = Putin's charisma and political manoeuvrability Putin is not only a political leader but also a figure of strong charisma.
+# sent_id = 21
+1-2	Putin's	_	_	_	_	_	_	_	start_char=2252|end_char=2259
+1	Putin	Putin	PROPN	NNP	Number=Sing	0	_	_	start_char=2252|end_char=2257
+2	's	's	PART	POS	_	1	_	_	start_char=2257|end_char=2259
+3	charisma	charisma	NOUN	NN	Number=Sing	2	_	_	start_char=2260|end_char=2268
+4	and	and	CCONJ	CC	_	3	_	_	start_char=2269|end_char=2272
+5	political	political	ADJ	JJ	Degree=Pos	4	_	_	start_char=2273|end_char=2282
+6	manoeuvrability	manoeuvrability	NOUN	NN	Number=Sing	5	_	_	start_char=2283|end_char=2298|SpacesAfter=\n
+7	Putin	Putin	PROPN	NNP	Number=Sing	6	_	_	start_char=2299|end_char=2304
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=2305|end_char=2307
+9	not	not	PART	RB	_	8	_	_	start_char=2308|end_char=2311
+10	only	only	ADV	RB	_	9	_	_	start_char=2312|end_char=2316
+11	a	a	DET	DT	Definite=Ind|PronType=Art	10	_	_	start_char=2317|end_char=2318
+12	political	political	ADJ	JJ	Degree=Pos	11	_	_	start_char=2319|end_char=2328
+13	leader	leader	NOUN	NN	Number=Sing	12	_	_	start_char=2329|end_char=2335
+14	but	but	CCONJ	CC	_	13	_	_	start_char=2336|end_char=2339
+15	also	also	ADV	RB	_	14	_	_	start_char=2340|end_char=2344
+16	a	a	DET	DT	Definite=Ind|PronType=Art	15	_	_	start_char=2345|end_char=2346
+17	figure	figure	NOUN	NN	Number=Sing	16	_	_	start_char=2347|end_char=2353
+18	of	of	ADP	IN	_	17	_	_	start_char=2354|end_char=2356
+19	strong	strong	ADJ	JJ	Degree=Pos	18	_	_	start_char=2357|end_char=2363
+20	charisma	charisma	NOUN	NN	Number=Sing	19	_	_	start_char=2364|end_char=2372|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=2372|end_char=2373
+
+# text = With his firmness in foreign policy and his commitment to his country, Putin has won the support of many Russians.
+# sent_id = 22
+1	With	with	ADP	IN	_	0	_	_	start_char=2374|end_char=2378
+2	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	_	_	start_char=2379|end_char=2382
+3	firmness	firmness	NOUN	NN	Number=Sing	2	_	_	start_char=2383|end_char=2391
+4	in	in	ADP	IN	_	3	_	_	start_char=2392|end_char=2394
+5	foreign	foreign	ADJ	JJ	Degree=Pos	4	_	_	start_char=2395|end_char=2402
+6	policy	policy	NOUN	NN	Number=Sing	5	_	_	start_char=2403|end_char=2409
+7	and	and	CCONJ	CC	_	6	_	_	start_char=2410|end_char=2413
+8	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	_	_	start_char=2414|end_char=2417
+9	commitment	commitment	NOUN	NN	Number=Sing	8	_	_	start_char=2418|end_char=2428
+10	to	to	ADP	IN	_	9	_	_	start_char=2429|end_char=2431
+11	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	_	_	start_char=2432|end_char=2435
+12	country	country	NOUN	NN	Number=Sing	11	_	_	start_char=2436|end_char=2443|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=2443|end_char=2444
+14	Putin	Putin	PROPN	NNP	Number=Sing	13	_	_	start_char=2445|end_char=2450
+15	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=2451|end_char=2454
+16	won	win	VERB	VBN	Tense=Past|VerbForm=Part	15	_	_	start_char=2455|end_char=2458
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=2459|end_char=2462
+18	support	support	NOUN	NN	Number=Sing	17	_	_	start_char=2463|end_char=2470
+19	of	of	ADP	IN	_	18	_	_	start_char=2471|end_char=2473
+20	many	many	ADJ	JJ	Degree=Pos	19	_	_	start_char=2474|end_char=2478
+21	Russians	Russian	PROPN	NNPS	Number=Plur	20	_	_	start_char=2479|end_char=2487|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=2487|end_char=2488
+
+# text = The United States, while unable to provide the same social stability, is concerned that Putin's specific personality traits could strengthen Russia's domestic stability and its international influence in the world.
+# sent_id = 23
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2489|end_char=2492
+2	United	United	ADJ	NNP	Degree=Pos	1	_	_	start_char=2493|end_char=2499
+3	States	State	PROPN	NNPS	Number=Plur	2	_	_	start_char=2500|end_char=2506|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=2506|end_char=2507
+5	while	while	SCONJ	IN	_	4	_	_	start_char=2508|end_char=2513
+6	unable	unable	ADJ	JJ	Degree=Pos	5	_	_	start_char=2514|end_char=2520
+7	to	to	PART	TO	_	6	_	_	start_char=2521|end_char=2523
+8	provide	provide	VERB	VB	VerbForm=Inf	7	_	_	start_char=2524|end_char=2531
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=2532|end_char=2535
+10	same	same	ADJ	JJ	Degree=Pos	9	_	_	start_char=2536|end_char=2540
+11	social	social	ADJ	JJ	Degree=Pos	10	_	_	start_char=2541|end_char=2547
+12	stability	stability	NOUN	NN	Number=Sing	11	_	_	start_char=2548|end_char=2557|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=2557|end_char=2558
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=2559|end_char=2561
+15	concerned	concerned	ADJ	JJ	Degree=Pos	14	_	_	start_char=2562|end_char=2571
+16	that	that	SCONJ	IN	_	15	_	_	start_char=2572|end_char=2576
+17-18	Putin's	_	_	_	_	_	_	_	start_char=2577|end_char=2584
+17	Putin	Putin	PROPN	NNP	Number=Sing	16	_	_	start_char=2577|end_char=2582
+18	's	's	PART	POS	_	17	_	_	start_char=2582|end_char=2584
+19	specific	specific	ADJ	JJ	Degree=Pos	18	_	_	start_char=2585|end_char=2593
+20	personality	personality	NOUN	NN	Number=Sing	19	_	_	start_char=2594|end_char=2605
+21	traits	trait	NOUN	NNS	Number=Plur	20	_	_	start_char=2606|end_char=2612
+22	could	could	AUX	MD	VerbForm=Fin	21	_	_	start_char=2613|end_char=2618
+23	strengthen	strengthen	VERB	VB	VerbForm=Inf	22	_	_	start_char=2619|end_char=2629
+24-25	Russia's	_	_	_	_	_	_	_	start_char=2630|end_char=2638
+24	Russia	Russia	PROPN	NNP	Number=Sing	23	_	_	start_char=2630|end_char=2636
+25	's	's	PART	POS	_	24	_	_	start_char=2636|end_char=2638
+26	domestic	domestic	ADJ	JJ	Degree=Pos	25	_	_	start_char=2639|end_char=2647
+27	stability	stability	NOUN	NN	Number=Sing	26	_	_	start_char=2648|end_char=2657
+28	and	and	CCONJ	CC	_	27	_	_	start_char=2658|end_char=2661
+29	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	28	_	_	start_char=2662|end_char=2665
+30	international	international	ADJ	JJ	Degree=Pos	29	_	_	start_char=2666|end_char=2679
+31	influence	influence	NOUN	NN	Number=Sing	30	_	_	start_char=2680|end_char=2689
+32	in	in	ADP	IN	_	31	_	_	start_char=2690|end_char=2692
+33	the	the	DET	DT	Definite=Def|PronType=Art	32	_	_	start_char=2693|end_char=2696
+34	world	world	NOUN	NN	Number=Sing	33	_	_	start_char=2697|end_char=2702|SpaceAfter=No
+35	.	.	PUNCT	.	_	34	_	_	start_char=2702|end_char=2703|SpacesAfter=\n
+
+# text = Americans' envy of President Putin is due to a number of reasons, including all of the above factors.
+# sent_id = 24
+1-2	Americans'	_	_	_	_	_	_	_	start_char=2704|end_char=2714
+1	Americans	American	PROPN	NNPS	Number=Plur	0	_	_	start_char=2704|end_char=2713
+2	'	's	PART	POS	_	1	_	_	start_char=2713|end_char=2714
+3	envy	envy	NOUN	NN	Number=Sing	2	_	_	start_char=2715|end_char=2719
+4	of	of	ADP	IN	_	3	_	_	start_char=2720|end_char=2722
+5	President	President	PROPN	NNP	Number=Sing	4	_	_	start_char=2723|end_char=2732
+6	Putin	Putin	PROPN	NNP	Number=Sing	5	_	_	start_char=2733|end_char=2738
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=2739|end_char=2741
+8	due	due	ADJ	JJ	Degree=Pos	7	_	_	start_char=2742|end_char=2745
+9	to	to	ADP	IN	_	8	_	_	start_char=2746|end_char=2748
+10	a	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=2749|end_char=2750
+11	number	number	NOUN	NN	Number=Sing	10	_	_	start_char=2751|end_char=2757
+12	of	of	ADP	IN	_	11	_	_	start_char=2758|end_char=2760
+13	reasons	reason	NOUN	NNS	Number=Plur	12	_	_	start_char=2761|end_char=2768|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=2768|end_char=2769
+15	including	include	VERB	VBG	VerbForm=Ger	14	_	_	start_char=2770|end_char=2779
+16	all	all	DET	DT	_	15	_	_	start_char=2780|end_char=2783
+17	of	of	ADP	IN	_	16	_	_	start_char=2784|end_char=2786
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=2787|end_char=2790
+19	above	above	ADJ	JJ	Degree=Pos	18	_	_	start_char=2791|end_char=2796
+20	factors	factor	NOUN	NNS	Number=Plur	19	_	_	start_char=2797|end_char=2804|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=2804|end_char=2805
+
+# text = Washington must exercise caution in its relations with Moscow.
+# sent_id = 25
+1	Washington	Washington	PROPN	NNP	Number=Sing	0	_	_	start_char=2806|end_char=2816
+2	must	must	AUX	MD	VerbForm=Fin	1	_	_	start_char=2817|end_char=2821
+3	exercise	exercise	VERB	VB	VerbForm=Inf	2	_	_	start_char=2822|end_char=2830
+4	caution	caution	NOUN	NN	Number=Sing	3	_	_	start_char=2831|end_char=2838
+5	in	in	ADP	IN	_	4	_	_	start_char=2839|end_char=2841
+6	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	_	_	start_char=2842|end_char=2845
+7	relations	relation	NOUN	NNS	Number=Plur	6	_	_	start_char=2846|end_char=2855
+8	with	with	ADP	IN	_	7	_	_	start_char=2856|end_char=2860
+9	Moscow	Moscow	PROPN	NNP	Number=Sing	8	_	_	start_char=2861|end_char=2867|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=2867|end_char=2868|SpaceAfter=No
+

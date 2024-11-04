@@ -1,0 +1,565 @@
+# text = AT: Only cowards do not realize that Ukraine will not be admitted to NATO because the fear of Russia is indescribable
+# sent_id = 0
+1	AT	at	ADP	IN	_	0	_	_	start_char=0|end_char=2|SpaceAfter=No
+2	:	:	PUNCT	:	_	1	_	_	start_char=2|end_char=3
+3	Only	only	ADV	RB	_	2	_	_	start_char=4|end_char=8
+4	cowards	coward	NOUN	NNS	Number=Plur	3	_	_	start_char=9|end_char=16
+5	do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=17|end_char=19
+6	not	not	PART	RB	_	5	_	_	start_char=20|end_char=23
+7	realize	realize	VERB	VB	VerbForm=Inf	6	_	_	start_char=24|end_char=31
+8	that	that	SCONJ	IN	_	7	_	_	start_char=32|end_char=36
+9	Ukraine	Ukraine	PROPN	NNP	Number=Sing	8	_	_	start_char=37|end_char=44
+10	will	will	AUX	MD	VerbForm=Fin	9	_	_	start_char=45|end_char=49
+11	not	not	PART	RB	_	10	_	_	start_char=50|end_char=53
+12	be	be	AUX	VB	VerbForm=Inf	11	_	_	start_char=54|end_char=56
+13	admitted	admit	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	12	_	_	start_char=57|end_char=65
+14	to	to	ADP	IN	_	13	_	_	start_char=66|end_char=68
+15	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	14	_	_	start_char=69|end_char=73
+16	because	because	SCONJ	IN	_	15	_	_	start_char=74|end_char=81
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=82|end_char=85
+18	fear	fear	NOUN	NN	Number=Sing	17	_	_	start_char=86|end_char=90
+19	of	of	ADP	IN	_	18	_	_	start_char=91|end_char=93
+20	Russia	Russia	PROPN	NNP	Number=Sing	19	_	_	start_char=94|end_char=100
+21	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	_	_	start_char=101|end_char=103
+22	indescribable	indescribable	ADJ	JJ	Degree=Pos	21	_	_	start_char=104|end_char=117|SpacesAfter=\n\n
+
+# text = In no sphere has "suicidal nationalism" manifested itself more starkly than in the sphere of domestic politics, which ultimately led to the ongoing conflict between Ukraine and Russia, writes the American Thinker.
+# sent_id = 1
+1	In	in	ADP	IN	_	0	_	_	start_char=119|end_char=121
+2	no	no	DET	DT	_	1	_	_	start_char=122|end_char=124
+3	sphere	sphere	NOUN	NN	Number=Sing	2	_	_	start_char=125|end_char=131
+4	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=132|end_char=135
+5	"	"	PUNCT	``	_	4	_	_	start_char=136|end_char=137|SpaceAfter=No
+6	suicidal	suicidal	ADJ	JJ	Degree=Pos	5	_	_	start_char=137|end_char=145
+7	nationalism	nationalism	NOUN	NN	Number=Sing	6	_	_	start_char=146|end_char=157|SpaceAfter=No
+8	"	"	PUNCT	''	_	7	_	_	start_char=157|end_char=158
+9	manifested	manifest	VERB	VBN	Tense=Past|VerbForm=Part	8	_	_	start_char=159|end_char=169
+10	itself	itself	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Emp|Reflex=Yes	9	_	_	start_char=170|end_char=176
+11	more	more	ADV	RBR	Degree=Cmp	10	_	_	start_char=177|end_char=181
+12	starkly	starkly	ADV	RB	_	11	_	_	start_char=182|end_char=189
+13	than	than	ADP	IN	_	12	_	_	start_char=190|end_char=194
+14	in	in	ADP	IN	_	13	_	_	start_char=195|end_char=197
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=198|end_char=201
+16	sphere	sphere	NOUN	NN	Number=Sing	15	_	_	start_char=202|end_char=208
+17	of	of	ADP	IN	_	16	_	_	start_char=209|end_char=211
+18	domestic	domestic	ADJ	JJ	Degree=Pos	17	_	_	start_char=212|end_char=220
+19	politics	politics	NOUN	NNS	Number=Plur	18	_	_	start_char=221|end_char=229|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=229|end_char=230
+21	which	which	PRON	WDT	PronType=Rel	20	_	_	start_char=231|end_char=236
+22	ultimately	ultimately	ADV	RB	_	21	_	_	start_char=237|end_char=247
+23	led	lead	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	_	_	start_char=248|end_char=251
+24	to	to	ADP	IN	_	23	_	_	start_char=252|end_char=254
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=255|end_char=258
+26	ongoing	ongoing	ADJ	JJ	Degree=Pos	25	_	_	start_char=259|end_char=266
+27	conflict	conflict	NOUN	NN	Number=Sing	26	_	_	start_char=267|end_char=275
+28	between	between	ADP	IN	_	27	_	_	start_char=276|end_char=283
+29	Ukraine	Ukraine	PROPN	NNP	Number=Sing	28	_	_	start_char=284|end_char=291
+30	and	and	CCONJ	CC	_	29	_	_	start_char=292|end_char=295
+31	Russia	Russia	PROPN	NNP	Number=Sing	30	_	_	start_char=296|end_char=302|SpaceAfter=No
+32	,	,	PUNCT	,	_	31	_	_	start_char=302|end_char=303
+33	writes	write	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	_	_	start_char=304|end_char=310
+34	the	the	DET	DT	Definite=Def|PronType=Art	33	_	_	start_char=311|end_char=314
+35	American	American	ADJ	NNP	Degree=Pos	34	_	_	start_char=315|end_char=323
+36	Thinker	Thinker	PROPN	NNP	Number=Sing	35	_	_	start_char=324|end_char=331|SpaceAfter=No
+37	.	.	PUNCT	.	_	36	_	_	start_char=331|end_char=332|SpacesAfter=\n
+
+# text = Translation from American Thinker, USA: After the chaotic collapse of the Soviet Union, Crimea and eastern Ukraine, whose inhabitants are overwhelmingly Russian, came under Ukrainian jurisdiction.
+# sent_id = 2
+1	Translation	Translation	NOUN	NN	Number=Sing	0	_	_	start_char=333|end_char=344
+2	from	from	ADP	IN	_	1	_	_	start_char=345|end_char=349
+3	American	American	ADJ	NNP	Degree=Pos	2	_	_	start_char=350|end_char=358
+4	Thinker	Thinker	PROPN	NNP	Number=Sing	3	_	_	start_char=359|end_char=366|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=366|end_char=367
+6	USA	USA	PROPN	NNP	Number=Sing	5	_	_	start_char=368|end_char=371|SpaceAfter=No
+7	:	:	PUNCT	:	_	6	_	_	start_char=371|end_char=372|SpacesAfter=\n
+8	After	after	ADP	IN	_	7	_	_	start_char=373|end_char=378
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=379|end_char=382
+10	chaotic	chaotic	ADJ	JJ	Degree=Pos	9	_	_	start_char=383|end_char=390
+11	collapse	collapse	NOUN	NN	Number=Sing	10	_	_	start_char=391|end_char=399
+12	of	of	ADP	IN	_	11	_	_	start_char=400|end_char=402
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=403|end_char=406
+14	Soviet	Soviet	PROPN	NNP	Number=Sing	13	_	_	start_char=407|end_char=413
+15	Union	Union	PROPN	NNP	Number=Sing	14	_	_	start_char=414|end_char=419|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=419|end_char=420
+17	Crimea	Crimea	PROPN	NNP	Number=Sing	16	_	_	start_char=421|end_char=427
+18	and	and	CCONJ	CC	_	17	_	_	start_char=428|end_char=431
+19	eastern	eastern	ADJ	JJ	Degree=Pos	18	_	_	start_char=432|end_char=439
+20	Ukraine	Ukraine	PROPN	NNP	Number=Sing	19	_	_	start_char=440|end_char=447|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=447|end_char=448
+22	whose	whose	PRON	WP$	Poss=Yes|PronType=Rel	21	_	_	start_char=449|end_char=454
+23	inhabitants	inhabitant	NOUN	NNS	Number=Plur	22	_	_	start_char=455|end_char=466
+24	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	_	_	start_char=467|end_char=470
+25	overwhelmingly	overwhelmingly	ADV	RB	_	24	_	_	start_char=471|end_char=485
+26	Russian	Russian	ADJ	JJ	Degree=Pos	25	_	_	start_char=486|end_char=493|SpaceAfter=No
+27	,	,	PUNCT	,	_	26	_	_	start_char=493|end_char=494
+28	came	come	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	27	_	_	start_char=495|end_char=499
+29	under	under	ADP	IN	_	28	_	_	start_char=500|end_char=505
+30	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	29	_	_	start_char=506|end_char=515
+31	jurisdiction	jurisdiction	NOUN	NN	Number=Sing	30	_	_	start_char=516|end_char=528|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=528|end_char=529|SpacesAfter=\n
+
+# text = Pro-Russian sentiment in these regions, ranging from demands for recognition of Russian as the official language to the desire for full autonomy from Ukraine, has taken root in Crimea and eastern Ukraine.
+# sent_id = 3
+1	Pro-Russian	Pro-Russian	ADJ	JJ	Degree=Pos	0	_	_	start_char=530|end_char=541
+2	sentiment	sentiment	NOUN	NN	Number=Sing	1	_	_	start_char=542|end_char=551
+3	in	in	ADP	IN	_	2	_	_	start_char=552|end_char=554
+4	these	this	DET	DT	Number=Plur|PronType=Dem	3	_	_	start_char=555|end_char=560
+5	regions	region	NOUN	NNS	Number=Plur	4	_	_	start_char=561|end_char=568|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=568|end_char=569
+7	ranging	range	VERB	VBG	VerbForm=Ger	6	_	_	start_char=570|end_char=577
+8	from	from	ADP	IN	_	7	_	_	start_char=578|end_char=582
+9	demands	demand	NOUN	NNS	Number=Plur	8	_	_	start_char=583|end_char=590
+10	for	for	ADP	IN	_	9	_	_	start_char=591|end_char=594
+11	recognition	recognition	NOUN	NN	Number=Sing	10	_	_	start_char=595|end_char=606
+12	of	of	ADP	IN	_	11	_	_	start_char=607|end_char=609
+13	Russian	Russian	ADJ	JJ	Degree=Pos	12	_	_	start_char=610|end_char=617
+14	as	as	ADP	IN	_	13	_	_	start_char=618|end_char=620
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=621|end_char=624
+16	official	official	ADJ	JJ	Degree=Pos	15	_	_	start_char=625|end_char=633
+17	language	language	NOUN	NN	Number=Sing	16	_	_	start_char=634|end_char=642
+18	to	to	ADP	IN	_	17	_	_	start_char=643|end_char=645
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=646|end_char=649
+20	desire	desire	NOUN	NN	Number=Sing	19	_	_	start_char=650|end_char=656
+21	for	for	ADP	IN	_	20	_	_	start_char=657|end_char=660
+22	full	full	ADJ	JJ	Degree=Pos	21	_	_	start_char=661|end_char=665
+23	autonomy	autonomy	NOUN	NN	Number=Sing	22	_	_	start_char=666|end_char=674
+24	from	from	ADP	IN	_	23	_	_	start_char=675|end_char=679
+25	Ukraine	Ukraine	PROPN	NNP	Number=Sing	24	_	_	start_char=680|end_char=687|SpaceAfter=No
+26	,	,	PUNCT	,	_	25	_	_	start_char=687|end_char=688
+27	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	_	_	start_char=689|end_char=692
+28	taken	take	VERB	VBN	Tense=Past|VerbForm=Part	27	_	_	start_char=693|end_char=698
+29	root	root	NOUN	NN	Number=Sing	28	_	_	start_char=699|end_char=703
+30	in	in	ADP	IN	_	29	_	_	start_char=704|end_char=706
+31	Crimea	Crimea	PROPN	NNP	Number=Sing	30	_	_	start_char=707|end_char=713
+32	and	and	CCONJ	CC	_	31	_	_	start_char=714|end_char=717
+33	eastern	eastern	ADJ	JJ	Degree=Pos	32	_	_	start_char=718|end_char=725
+34	Ukraine	Ukraine	PROPN	NNP	Number=Sing	33	_	_	start_char=726|end_char=733|SpaceAfter=No
+35	.	.	PUNCT	.	_	34	_	_	start_char=733|end_char=734
+
+# text = These sentiments were further strengthened by the overthrow of Ukraine's pro-Russian, democratically elected President Yanukovych in a US-sponsored coup in 2014.
+# sent_id = 4
+1	These	this	DET	DT	Number=Plur|PronType=Dem	0	_	_	start_char=735|end_char=740
+2	sentiments	sentiment	NOUN	NNS	Number=Plur	1	_	_	start_char=741|end_char=751
+3	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=752|end_char=756
+4	further	further	ADV	RB	_	3	_	_	start_char=757|end_char=764
+5	strengthened	strengthen	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	_	_	start_char=765|end_char=777
+6	by	by	ADP	IN	_	5	_	_	start_char=778|end_char=780
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=781|end_char=784
+8	overthrow	overthrow	NOUN	NN	Number=Sing	7	_	_	start_char=785|end_char=794
+9	of	of	ADP	IN	_	8	_	_	start_char=795|end_char=797
+10-11	Ukraine's	_	_	_	_	_	_	_	start_char=798|end_char=807
+10	Ukraine	Ukraine	PROPN	NNP	Number=Sing	9	_	_	start_char=798|end_char=805
+11	's	's	PART	POS	_	10	_	_	start_char=805|end_char=807
+12	pro-Russian	pro-Russian	ADJ	JJ	Degree=Pos	11	_	_	start_char=808|end_char=819|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=819|end_char=820
+14	democratically	democratically	ADV	RB	_	13	_	_	start_char=821|end_char=835
+15	elected	elect	VERB	VBN	Tense=Past|VerbForm=Part	14	_	_	start_char=836|end_char=843
+16	President	President	PROPN	NNP	Number=Sing	15	_	_	start_char=844|end_char=853
+17	Yanukovych	Yanukovych	PROPN	NNP	Number=Sing	16	_	_	start_char=854|end_char=864
+18	in	in	ADP	IN	_	17	_	_	start_char=865|end_char=867
+19	a	a	DET	DT	Definite=Ind|PronType=Art	18	_	_	start_char=868|end_char=869
+20	US	US	PROPN	NNP	Number=Sing	19	_	_	start_char=870|end_char=872|SpaceAfter=No
+21	-	-	PUNCT	HYPH	_	20	_	_	start_char=872|end_char=873|SpaceAfter=No
+22	sponsored	sponsor	VERB	VBN	Tense=Past|VerbForm=Part	21	_	_	start_char=873|end_char=882
+23	coup	coup	NOUN	NN	Number=Sing	22	_	_	start_char=883|end_char=887
+24	in	in	ADP	IN	_	23	_	_	start_char=888|end_char=890
+25	2014	2014	NUM	CD	NumForm=Digit|NumType=Card	24	_	_	start_char=891|end_char=895|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=895|end_char=896|SpacesAfter=\n
+
+# text = To avoid bloody conflict, Kiev could have agreed to limited autonomy for the rebellious east, similar to the autonomy of the US.
+# sent_id = 5
+1	To	to	PART	TO	_	0	_	_	start_char=897|end_char=899
+2	avoid	avoid	VERB	VB	VerbForm=Inf	1	_	_	start_char=900|end_char=905
+3	bloody	bloody	ADJ	JJ	Degree=Pos	2	_	_	start_char=906|end_char=912
+4	conflict	conflict	NOUN	NN	Number=Sing	3	_	_	start_char=913|end_char=921|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=921|end_char=922
+6	Kiev	Kiev	PROPN	NNP	Number=Sing	5	_	_	start_char=923|end_char=927
+7	could	could	AUX	MD	VerbForm=Fin	6	_	_	start_char=928|end_char=933
+8	have	have	AUX	VB	VerbForm=Inf	7	_	_	start_char=934|end_char=938
+9	agreed	agree	VERB	VBN	Tense=Past|VerbForm=Part	8	_	_	start_char=939|end_char=945
+10	to	to	ADP	IN	_	9	_	_	start_char=946|end_char=948
+11	limited	limit	VERB	VBN	Tense=Past|VerbForm=Part	10	_	_	start_char=949|end_char=956
+12	autonomy	autonomy	NOUN	NN	Number=Sing	11	_	_	start_char=957|end_char=965
+13	for	for	ADP	IN	_	12	_	_	start_char=966|end_char=969
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=970|end_char=973
+15	rebellious	rebellious	ADJ	JJ	Degree=Pos	14	_	_	start_char=974|end_char=984
+16	east	east	NOUN	NN	Number=Sing	15	_	_	start_char=985|end_char=989|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=989|end_char=990
+18	similar	similar	ADJ	JJ	Degree=Pos	17	_	_	start_char=991|end_char=998
+19	to	to	ADP	IN	_	18	_	_	start_char=999|end_char=1001
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=1002|end_char=1005
+21	autonomy	autonomy	NOUN	NN	Number=Sing	20	_	_	start_char=1006|end_char=1014
+22	of	of	ADP	IN	_	21	_	_	start_char=1015|end_char=1017
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=1018|end_char=1021
+24	US	US	PROPN	NNP	Number=Sing	23	_	_	start_char=1022|end_char=1024|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=1024|end_char=1025|SpacesAfter=\n
+
+# text = This part of Ukraine has always wanted that.
+# sent_id = 6
+1	This	this	DET	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1026|end_char=1030
+2	part	part	NOUN	NN	Number=Sing	1	_	_	start_char=1031|end_char=1035
+3	of	of	ADP	IN	_	2	_	_	start_char=1036|end_char=1038
+4	Ukraine	Ukraine	PROPN	NNP	Number=Sing	3	_	_	start_char=1039|end_char=1046
+5	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1047|end_char=1050
+6	always	always	ADV	RB	_	5	_	_	start_char=1051|end_char=1057
+7	wanted	want	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=1058|end_char=1064
+8	that	that	PRON	DT	Number=Sing|PronType=Dem	7	_	_	start_char=1065|end_char=1069|SpaceAfter=No
+9	.	.	PUNCT	.	_	8	_	_	start_char=1069|end_char=1070|SpacesAfter=\n
+
+# text = But President-elect Petro Poroshenko ignored President Bush's warning not to "seek independence in order to replace tyranny with local despotism."
+# sent_id = 7
+1	But	but	CCONJ	CC	_	0	_	_	start_char=1071|end_char=1074
+2	President	President	PROPN	NNP	Number=Sing	1	_	_	start_char=1075|end_char=1084|SpaceAfter=No
+3	-	-	PUNCT	HYPH	_	2	_	_	start_char=1084|end_char=1085|SpaceAfter=No
+4	elect	elect	VERB	VB	VerbForm=Inf	3	_	_	start_char=1085|end_char=1090
+5	Petro	Petro	PROPN	NNP	Number=Sing	4	_	_	start_char=1091|end_char=1096
+6	Poroshenko	Poroshenko	PROPN	NNP	Number=Sing	5	_	_	start_char=1097|end_char=1107
+7	ignored	ignore	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=1108|end_char=1115
+8	President	President	PROPN	NNP	Number=Sing	7	_	_	start_char=1116|end_char=1125
+9-10	Bush's	_	_	_	_	_	_	_	start_char=1126|end_char=1132
+9	Bush	Bush	PROPN	NNP	Number=Sing	8	_	_	start_char=1126|end_char=1130
+10	's	's	PART	POS	_	9	_	_	start_char=1130|end_char=1132
+11	warning	warning	NOUN	NN	Number=Sing	10	_	_	start_char=1133|end_char=1140
+12	not	not	PART	RB	_	11	_	_	start_char=1141|end_char=1144
+13	to	to	PART	TO	_	12	_	_	start_char=1145|end_char=1147
+14	"	"	PUNCT	``	_	13	_	_	start_char=1148|end_char=1149|SpaceAfter=No
+15	seek	seek	VERB	VB	VerbForm=Inf	14	_	_	start_char=1149|end_char=1153
+16	independence	independence	NOUN	NN	Number=Sing	15	_	_	start_char=1154|end_char=1166
+17	in	in	ADP	IN	_	16	_	_	start_char=1167|end_char=1169
+18	order	order	NOUN	NN	Number=Sing	17	_	_	start_char=1170|end_char=1175
+19	to	to	PART	TO	_	18	_	_	start_char=1176|end_char=1178
+20	replace	replace	VERB	VB	VerbForm=Inf	19	_	_	start_char=1179|end_char=1186
+21	tyranny	tyranny	NOUN	NN	Number=Sing	20	_	_	start_char=1187|end_char=1194
+22	with	with	ADP	IN	_	21	_	_	start_char=1195|end_char=1199
+23	local	local	ADJ	JJ	Degree=Pos	22	_	_	start_char=1200|end_char=1205
+24	despotism	despotism	NOUN	NN	Number=Sing	23	_	_	start_char=1206|end_char=1215|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=1215|end_char=1216|SpaceAfter=No
+26	"	"	PUNCT	''	_	25	_	_	start_char=1216|end_char=1217|SpacesAfter=\n
+
+# text = Instead, Kiev decided to use military force to subjugate the Russian population of eastern Ukraine.
+# sent_id = 8
+1	Instead	instead	ADV	RB	_	0	_	_	start_char=1218|end_char=1225|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=1225|end_char=1226
+3	Kiev	Kiev	PROPN	NNP	Number=Sing	2	_	_	start_char=1227|end_char=1231
+4	decided	decide	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=1232|end_char=1239
+5	to	to	PART	TO	_	4	_	_	start_char=1240|end_char=1242
+6	use	use	VERB	VB	VerbForm=Inf	5	_	_	start_char=1243|end_char=1246
+7	military	military	ADJ	JJ	Degree=Pos	6	_	_	start_char=1247|end_char=1255
+8	force	force	NOUN	NN	Number=Sing	7	_	_	start_char=1256|end_char=1261
+9	to	to	PART	TO	_	8	_	_	start_char=1262|end_char=1264
+10	subjugate	subjugate	VERB	VB	VerbForm=Inf	9	_	_	start_char=1265|end_char=1274
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=1275|end_char=1278
+12	Russian	Russian	ADJ	JJ	Degree=Pos	11	_	_	start_char=1279|end_char=1286
+13	population	population	NOUN	NN	Number=Sing	12	_	_	start_char=1287|end_char=1297
+14	of	of	ADP	IN	_	13	_	_	start_char=1298|end_char=1300
+15	eastern	eastern	ADJ	JJ	Degree=Pos	14	_	_	start_char=1301|end_char=1308
+16	Ukraine	Ukraine	PROPN	NNP	Number=Sing	15	_	_	start_char=1309|end_char=1316|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=1316|end_char=1317|SpacesAfter=\n
+
+# text = For years it shelled the Donbas, including with American-supplied artillery, destroyed towns and indiscriminately killed thousands of civilians (which the Western media completely ignored).
+# sent_id = 9
+1	For	for	ADP	IN	_	0	_	_	start_char=1318|end_char=1321
+2	years	year	NOUN	NNS	Number=Plur	1	_	_	start_char=1322|end_char=1327
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	_	_	start_char=1328|end_char=1330
+4	shelled	shell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=1331|end_char=1338
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1339|end_char=1342
+6	Donbas	Donbas	PROPN	NNP	Number=Sing	5	_	_	start_char=1343|end_char=1349|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=1349|end_char=1350
+8	including	include	VERB	VBG	VerbForm=Ger	7	_	_	start_char=1351|end_char=1360
+9	with	with	ADP	IN	_	8	_	_	start_char=1361|end_char=1365
+10	American	American	ADJ	JJ	Degree=Pos	9	_	_	start_char=1366|end_char=1374|SpaceAfter=No
+11	-	-	PUNCT	HYPH	_	10	_	_	start_char=1374|end_char=1375|SpaceAfter=No
+12	supplied	supply	VERB	VBN	Tense=Past|VerbForm=Part	11	_	_	start_char=1375|end_char=1383
+13	artillery	artillery	NOUN	NN	Number=Sing	12	_	_	start_char=1384|end_char=1393|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=1393|end_char=1394
+15	destroyed	destroy	VERB	VBN	Tense=Past|VerbForm=Part	14	_	_	start_char=1395|end_char=1404
+16	towns	town	NOUN	NNS	Number=Plur	15	_	_	start_char=1405|end_char=1410
+17	and	and	CCONJ	CC	_	16	_	_	start_char=1411|end_char=1414
+18	indiscriminately	indiscriminately	ADV	RB	_	17	_	_	start_char=1415|end_char=1431
+19	killed	kill	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	_	_	start_char=1432|end_char=1438
+20	thousands	thousand	NOUN	NNS	Number=Plur	19	_	_	start_char=1439|end_char=1448
+21	of	of	ADP	IN	_	20	_	_	start_char=1449|end_char=1451
+22	civilians	civilian	NOUN	NNS	Number=Plur	21	_	_	start_char=1452|end_char=1461
+23	(	(	PUNCT	-LRB-	_	22	_	_	start_char=1462|end_char=1463|SpaceAfter=No
+24	which	which	PRON	WDT	PronType=Rel	23	_	_	start_char=1463|end_char=1468
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=1469|end_char=1472
+26	Western	western	ADJ	JJ	Degree=Pos	25	_	_	start_char=1473|end_char=1480
+27	media	media	NOUN	NNS	Number=Sing	26	_	_	start_char=1481|end_char=1486
+28	completely	completely	ADV	RB	_	27	_	_	start_char=1487|end_char=1497
+29	ignored	ignore	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	_	_	start_char=1498|end_char=1505|SpaceAfter=No
+30	)	)	PUNCT	-RRB-	_	29	_	_	start_char=1505|end_char=1506|SpaceAfter=No
+31	.	.	PUNCT	.	_	30	_	_	start_char=1506|end_char=1507|SpacesAfter=\n
+
+# text = This "suicidal nationalism" became one of the reasons for the annexation of the Donetsk and Luhansk regions to Russia.
+# sent_id = 10
+1	This	this	DET	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1508|end_char=1512
+2	"	"	PUNCT	``	_	1	_	_	start_char=1513|end_char=1514|SpaceAfter=No
+3	suicidal	suicidal	ADJ	JJ	Degree=Pos	2	_	_	start_char=1514|end_char=1522
+4	nationalism	nationalism	NOUN	NN	Number=Sing	3	_	_	start_char=1523|end_char=1534|SpaceAfter=No
+5	"	"	PUNCT	''	_	4	_	_	start_char=1534|end_char=1535
+6	became	become	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=1536|end_char=1542
+7	one	one	NUM	CD	NumForm=Word|NumType=Card	6	_	_	start_char=1543|end_char=1546
+8	of	of	ADP	IN	_	7	_	_	start_char=1547|end_char=1549
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1550|end_char=1553
+10	reasons	reason	NOUN	NNS	Number=Plur	9	_	_	start_char=1554|end_char=1561
+11	for	for	ADP	IN	_	10	_	_	start_char=1562|end_char=1565
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=1566|end_char=1569
+13	annexation	annexation	NOUN	NN	Number=Sing	12	_	_	start_char=1570|end_char=1580
+14	of	of	ADP	IN	_	13	_	_	start_char=1581|end_char=1583
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=1584|end_char=1587
+16	Donetsk	Donetsk	PROPN	NNP	Number=Sing	15	_	_	start_char=1588|end_char=1595
+17	and	and	CCONJ	CC	_	16	_	_	start_char=1596|end_char=1599
+18	Luhansk	Luhansk	PROPN	NNP	Number=Sing	17	_	_	start_char=1600|end_char=1607
+19	regions	region	NOUN	NNS	Number=Plur	18	_	_	start_char=1608|end_char=1615
+20	to	to	ADP	IN	_	19	_	_	start_char=1616|end_char=1618
+21	Russia	Russia	PROPN	NNP	Number=Sing	20	_	_	start_char=1619|end_char=1625|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=1625|end_char=1626|SpacesAfter=\n
+
+# text = In foreign policy, 'suicidal nationalism' also took precedence over national interests.
+# sent_id = 11
+1	In	in	ADP	IN	_	0	_	_	start_char=1627|end_char=1629
+2	foreign	foreign	ADJ	JJ	Degree=Pos	1	_	_	start_char=1630|end_char=1637
+3	policy	policy	NOUN	NN	Number=Sing	2	_	_	start_char=1638|end_char=1644|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1644|end_char=1645
+5	'	'	PUNCT	``	_	4	_	_	start_char=1646|end_char=1647|SpaceAfter=No
+6	suicidal	suicidal	ADJ	JJ	Degree=Pos	5	_	_	start_char=1647|end_char=1655
+7	nationalism	nationalism	NOUN	NN	Number=Sing	6	_	_	start_char=1656|end_char=1667|SpaceAfter=No
+8	'	'	PUNCT	''	_	7	_	_	start_char=1667|end_char=1668
+9	also	also	ADV	RB	_	8	_	_	start_char=1669|end_char=1673
+10	took	take	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=1674|end_char=1678
+11	precedence	precedence	NOUN	NN	Number=Sing	10	_	_	start_char=1679|end_char=1689
+12	over	over	ADP	IN	_	11	_	_	start_char=1690|end_char=1694
+13	national	national	ADJ	JJ	Degree=Pos	12	_	_	start_char=1695|end_char=1703
+14	interests	interest	NOUN	NNS	Number=Plur	13	_	_	start_char=1704|end_char=1713|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=1713|end_char=1714|SpacesAfter=\n
+
+# text = Ukraine's quest for NATO membership, seemingly driven by security concerns, has ignored Russia's repeated warnings over the past three decades about the existential threat of NATO's eastward expansion.
+# sent_id = 12
+1-2	Ukraine's	_	_	_	_	_	_	_	start_char=1715|end_char=1724
+1	Ukraine	Ukraine	PROPN	NNP	Number=Sing	0	_	_	start_char=1715|end_char=1722
+2	's	's	PART	POS	_	1	_	_	start_char=1722|end_char=1724
+3	quest	quest	NOUN	NN	Number=Sing	2	_	_	start_char=1725|end_char=1730
+4	for	for	ADP	IN	_	3	_	_	start_char=1731|end_char=1734
+5	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	4	_	_	start_char=1735|end_char=1739
+6	membership	membership	NOUN	NN	Number=Sing	5	_	_	start_char=1740|end_char=1750|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=1750|end_char=1751
+8	seemingly	seemingly	ADV	RB	_	7	_	_	start_char=1752|end_char=1761
+9	driven	drive	VERB	VBN	Tense=Past|VerbForm=Part	8	_	_	start_char=1762|end_char=1768
+10	by	by	ADP	IN	_	9	_	_	start_char=1769|end_char=1771
+11	security	security	NOUN	NN	Number=Sing	10	_	_	start_char=1772|end_char=1780
+12	concerns	concern	NOUN	NNS	Number=Plur	11	_	_	start_char=1781|end_char=1789|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=1789|end_char=1790
+14	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=1791|end_char=1794
+15	ignored	ignore	VERB	VBN	Tense=Past|VerbForm=Part	14	_	_	start_char=1795|end_char=1802
+16-17	Russia's	_	_	_	_	_	_	_	start_char=1803|end_char=1811
+16	Russia	Russia	PROPN	NNP	Number=Sing	15	_	_	start_char=1803|end_char=1809
+17	's	's	PART	POS	_	16	_	_	start_char=1809|end_char=1811
+18	repeated	repeat	VERB	VBN	Tense=Past|VerbForm=Part	17	_	_	start_char=1812|end_char=1820
+19	warnings	warning	NOUN	NNS	Number=Plur	18	_	_	start_char=1821|end_char=1829
+20	over	over	ADP	IN	_	19	_	_	start_char=1830|end_char=1834
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=1835|end_char=1838
+22	past	past	ADJ	JJ	Degree=Pos	21	_	_	start_char=1839|end_char=1843
+23	three	three	NUM	CD	NumForm=Word|NumType=Card	22	_	_	start_char=1844|end_char=1849
+24	decades	decade	NOUN	NNS	Number=Plur	23	_	_	start_char=1850|end_char=1857
+25	about	about	ADP	IN	_	24	_	_	start_char=1858|end_char=1863
+26	the	the	DET	DT	Definite=Def|PronType=Art	25	_	_	start_char=1864|end_char=1867
+27	existential	existential	ADJ	JJ	Degree=Pos	26	_	_	start_char=1868|end_char=1879
+28	threat	threat	NOUN	NN	Number=Sing	27	_	_	start_char=1880|end_char=1886
+29	of	of	ADP	IN	_	28	_	_	start_char=1887|end_char=1889
+30-31	NATO's	_	_	_	_	_	_	_	start_char=1890|end_char=1896
+30	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	29	_	_	start_char=1890|end_char=1894
+31	's	's	PART	POS	_	30	_	_	start_char=1894|end_char=1896
+32	eastward	eastward	ADJ	JJ	Degree=Pos	31	_	_	start_char=1897|end_char=1905
+33	expansion	expansion	NOUN	NN	Number=Sing	32	_	_	start_char=1906|end_char=1915|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=1915|end_char=1916|SpacesAfter=\n
+
+# text = The desire to become a NATO member could not and would not guarantee Ukraine's security.
+# sent_id = 13
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1917|end_char=1920
+2	desire	desire	NOUN	NN	Number=Sing	1	_	_	start_char=1921|end_char=1927
+3	to	to	PART	TO	_	2	_	_	start_char=1928|end_char=1930
+4	become	become	VERB	VB	VerbForm=Inf	3	_	_	start_char=1931|end_char=1937
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=1938|end_char=1939
+6	NATO	NATO	PROPN	NNP	Number=Sing	5	_	_	start_char=1940|end_char=1944
+7	member	member	NOUN	NN	Number=Sing	6	_	_	start_char=1945|end_char=1951
+8	could	could	AUX	MD	VerbForm=Fin	7	_	_	start_char=1952|end_char=1957
+9	not	not	PART	RB	_	8	_	_	start_char=1958|end_char=1961
+10	and	and	CCONJ	CC	_	9	_	_	start_char=1962|end_char=1965
+11	would	would	AUX	MD	VerbForm=Fin	10	_	_	start_char=1966|end_char=1971
+12	not	not	PART	RB	_	11	_	_	start_char=1972|end_char=1975
+13	guarantee	guarantee	VERB	VB	VerbForm=Inf	12	_	_	start_char=1976|end_char=1985
+14-15	Ukraine's	_	_	_	_	_	_	_	start_char=1986|end_char=1995
+14	Ukraine	Ukraine	PROPN	NNP	Number=Sing	13	_	_	start_char=1986|end_char=1993
+15	's	's	PART	POS	_	14	_	_	start_char=1993|end_char=1995
+16	security	security	NOUN	NN	Number=Sing	15	_	_	start_char=1996|end_char=2004|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=2004|end_char=2005|SpacesAfter=\n
+
+# text = Instead, Ukraine's attempts to break into NATO placed it in mortal danger of violating the terms of the 1997 Treaty of Friendship between Ukraine and the Russian Federation, which explicitly provided for Ukraine's neutrality (Section 6, p. 148).
+# sent_id = 14
+1	Instead	instead	ADV	RB	_	0	_	_	start_char=2006|end_char=2013|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=2013|end_char=2014
+3-4	Ukraine's	_	_	_	_	_	_	_	start_char=2015|end_char=2024
+3	Ukraine	Ukraine	PROPN	NNP	Number=Sing	2	_	_	start_char=2015|end_char=2022
+4	's	's	PART	POS	_	3	_	_	start_char=2022|end_char=2024
+5	attempts	attempt	NOUN	NNS	Number=Plur	4	_	_	start_char=2025|end_char=2033
+6	to	to	PART	TO	_	5	_	_	start_char=2034|end_char=2036
+7	break	break	VERB	VB	VerbForm=Inf	6	_	_	start_char=2037|end_char=2042
+8	into	into	ADP	IN	_	7	_	_	start_char=2043|end_char=2047
+9	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	8	_	_	start_char=2048|end_char=2052
+10	placed	place	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=2053|end_char=2059
+11	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	_	_	start_char=2060|end_char=2062
+12	in	in	ADP	IN	_	11	_	_	start_char=2063|end_char=2065
+13	mortal	mortal	ADJ	JJ	Degree=Pos	12	_	_	start_char=2066|end_char=2072
+14	danger	danger	NOUN	NN	Number=Sing	13	_	_	start_char=2073|end_char=2079
+15	of	of	SCONJ	IN	_	14	_	_	start_char=2080|end_char=2082
+16	violating	violate	VERB	VBG	VerbForm=Ger	15	_	_	start_char=2083|end_char=2092
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=2093|end_char=2096
+18	terms	term	NOUN	NNS	Number=Plur	17	_	_	start_char=2097|end_char=2102
+19	of	of	ADP	IN	_	18	_	_	start_char=2103|end_char=2105
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=2106|end_char=2109
+21	1997	1997	NUM	CD	NumForm=Digit|NumType=Card	20	_	_	start_char=2110|end_char=2114
+22	Treaty	Treaty	PROPN	NNP	Number=Sing	21	_	_	start_char=2115|end_char=2121
+23	of	of	ADP	IN	_	22	_	_	start_char=2122|end_char=2124
+24	Friendship	friendship	PROPN	NNP	Number=Sing	23	_	_	start_char=2125|end_char=2135
+25	between	between	ADP	IN	_	24	_	_	start_char=2136|end_char=2143
+26	Ukraine	Ukraine	PROPN	NNP	Number=Sing	25	_	_	start_char=2144|end_char=2151
+27	and	and	CCONJ	CC	_	26	_	_	start_char=2152|end_char=2155
+28	the	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=2156|end_char=2159
+29	Russian	Russian	ADJ	NNP	Degree=Pos	28	_	_	start_char=2160|end_char=2167
+30	Federation	Federation	PROPN	NNP	Number=Sing	29	_	_	start_char=2168|end_char=2178|SpaceAfter=No
+31	,	,	PUNCT	,	_	30	_	_	start_char=2178|end_char=2179
+32	which	which	PRON	WDT	PronType=Rel	31	_	_	start_char=2180|end_char=2185
+33	explicitly	explicitly	ADV	RB	_	32	_	_	start_char=2186|end_char=2196
+34	provided	provide	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	33	_	_	start_char=2197|end_char=2205
+35	for	for	ADP	IN	_	34	_	_	start_char=2206|end_char=2209
+36-37	Ukraine's	_	_	_	_	_	_	_	start_char=2210|end_char=2219
+36	Ukraine	Ukraine	PROPN	NNP	Number=Sing	35	_	_	start_char=2210|end_char=2217
+37	's	's	PART	POS	_	36	_	_	start_char=2217|end_char=2219
+38	neutrality	neutrality	NOUN	NN	Number=Sing	37	_	_	start_char=2220|end_char=2230
+39	(	(	PUNCT	-LRB-	_	38	_	_	start_char=2231|end_char=2232|SpaceAfter=No
+40	Section	section	NOUN	NN	Number=Sing	39	_	_	start_char=2232|end_char=2239
+41	6	6	NUM	CD	NumForm=Digit|NumType=Card	40	_	_	start_char=2240|end_char=2241|SpaceAfter=No
+42	,	,	PUNCT	,	_	41	_	_	start_char=2241|end_char=2242
+43	p.	p.	NOUN	NN	Number=Sing	42	_	_	start_char=2243|end_char=2245
+44	148	148	NUM	CD	NumForm=Digit|NumType=Card	43	_	_	start_char=2246|end_char=2249|SpaceAfter=No
+45	)	)	PUNCT	-RRB-	_	44	_	_	start_char=2249|end_char=2250|SpaceAfter=No
+46	.	.	PUNCT	.	_	45	_	_	start_char=2250|end_char=2251|SpacesAfter=\n
+
+# text = Ukraine's unwavering pursuit of NATO membership, fueled by political inexperience, recklessness, and heavy reliance on foreign aid, was an illusory goal that did not serve national objectives and tragically led to avoidable military conflict.
+# sent_id = 15
+1-2	Ukraine's	_	_	_	_	_	_	_	start_char=2252|end_char=2261
+1	Ukraine	Ukraine	PROPN	NNP	Number=Sing	0	_	_	start_char=2252|end_char=2259
+2	's	's	PART	POS	_	1	_	_	start_char=2259|end_char=2261
+3	unwavering	unwavering	ADJ	JJ	Degree=Pos	2	_	_	start_char=2262|end_char=2272
+4	pursuit	pursuit	NOUN	NN	Number=Sing	3	_	_	start_char=2273|end_char=2280
+5	of	of	ADP	IN	_	4	_	_	start_char=2281|end_char=2283
+6	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	5	_	_	start_char=2284|end_char=2288
+7	membership	membership	NOUN	NN	Number=Sing	6	_	_	start_char=2289|end_char=2299|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=2299|end_char=2300
+9	fueled	fuel	VERB	VBN	Tense=Past|VerbForm=Part	8	_	_	start_char=2301|end_char=2307
+10	by	by	ADP	IN	_	9	_	_	start_char=2308|end_char=2310
+11	political	political	ADJ	JJ	Degree=Pos	10	_	_	start_char=2311|end_char=2320
+12	inexperience	inexperience	NOUN	NN	Number=Sing	11	_	_	start_char=2321|end_char=2333|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=2333|end_char=2334
+14	recklessness	recklessness	NOUN	NN	Number=Sing	13	_	_	start_char=2335|end_char=2347|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=2347|end_char=2348
+16	and	and	CCONJ	CC	_	15	_	_	start_char=2349|end_char=2352
+17	heavy	heavy	ADJ	JJ	Degree=Pos	16	_	_	start_char=2353|end_char=2358
+18	reliance	reliance	NOUN	NN	Number=Sing	17	_	_	start_char=2359|end_char=2367
+19	on	on	ADP	IN	_	18	_	_	start_char=2368|end_char=2370
+20	foreign	foreign	ADJ	JJ	Degree=Pos	19	_	_	start_char=2371|end_char=2378
+21	aid	aid	NOUN	NN	Number=Sing	20	_	_	start_char=2379|end_char=2382|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=2382|end_char=2383
+23	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	_	_	start_char=2384|end_char=2387
+24	an	a	DET	DT	Definite=Ind|PronType=Art	23	_	_	start_char=2388|end_char=2390
+25	illusory	illusory	ADJ	JJ	Degree=Pos	24	_	_	start_char=2391|end_char=2399
+26	goal	goal	NOUN	NN	Number=Sing	25	_	_	start_char=2400|end_char=2404
+27	that	that	PRON	WDT	PronType=Rel	26	_	_	start_char=2405|end_char=2409
+28	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	27	_	_	start_char=2410|end_char=2413
+29	not	not	PART	RB	_	28	_	_	start_char=2414|end_char=2417
+30	serve	serve	VERB	VB	VerbForm=Inf	29	_	_	start_char=2418|end_char=2423
+31	national	national	ADJ	JJ	Degree=Pos	30	_	_	start_char=2424|end_char=2432
+32	objectives	objective	NOUN	NNS	Number=Plur	31	_	_	start_char=2433|end_char=2443
+33	and	and	CCONJ	CC	_	32	_	_	start_char=2444|end_char=2447
+34	tragically	tragically	ADV	RB	_	33	_	_	start_char=2448|end_char=2458
+35	led	lead	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	34	_	_	start_char=2459|end_char=2462
+36	to	to	ADP	IN	_	35	_	_	start_char=2463|end_char=2465
+37	avoidable	avoidable	ADJ	JJ	Degree=Pos	36	_	_	start_char=2466|end_char=2475
+38	military	military	ADJ	JJ	Degree=Pos	37	_	_	start_char=2476|end_char=2484
+39	conflict	conflict	NOUN	NN	Number=Sing	38	_	_	start_char=2485|end_char=2493|SpaceAfter=No
+40	.	.	PUNCT	.	_	39	_	_	start_char=2493|end_char=2494|SpacesAfter=\n
+
+# text = It is now obvious that Ukraine's quest for NATO membership is akin to chasing a mechanical rabbit.
+# sent_id = 16
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=2495|end_char=2497
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2498|end_char=2500
+3	now	now	ADV	RB	_	2	_	_	start_char=2501|end_char=2504
+4	obvious	obvious	ADJ	JJ	Degree=Pos	3	_	_	start_char=2505|end_char=2512
+5	that	that	SCONJ	IN	_	4	_	_	start_char=2513|end_char=2517
+6-7	Ukraine's	_	_	_	_	_	_	_	start_char=2518|end_char=2527
+6	Ukraine	Ukraine	PROPN	NNP	Number=Sing	5	_	_	start_char=2518|end_char=2525
+7	's	's	PART	POS	_	6	_	_	start_char=2525|end_char=2527
+8	quest	quest	NOUN	NN	Number=Sing	7	_	_	start_char=2528|end_char=2533
+9	for	for	ADP	IN	_	8	_	_	start_char=2534|end_char=2537
+10	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	9	_	_	start_char=2538|end_char=2542
+11	membership	membership	NOUN	NN	Number=Sing	10	_	_	start_char=2543|end_char=2553
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=2554|end_char=2556
+13	akin	akin	ADJ	JJ	Degree=Pos	12	_	_	start_char=2557|end_char=2561
+14	to	to	SCONJ	IN	_	13	_	_	start_char=2562|end_char=2564
+15	chasing	chase	VERB	VBG	VerbForm=Ger	14	_	_	start_char=2565|end_char=2572
+16	a	a	DET	DT	Definite=Ind|PronType=Art	15	_	_	start_char=2573|end_char=2574
+17	mechanical	mechanical	ADJ	JJ	Degree=Pos	16	_	_	start_char=2575|end_char=2585
+18	rabbit	rabbit	NOUN	NN	Number=Sing	17	_	_	start_char=2586|end_char=2592|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=2592|end_char=2593|SpacesAfter=\n
+
+# text = However, Zelensky and company remain unaware that their tireless efforts and sacrifices have been in vain, as NATO membership was never an achievable reality.
+# sent_id = 17
+1	However	however	ADV	RB	_	0	_	_	start_char=2594|end_char=2601|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=2601|end_char=2602
+3	Zelensky	Zelensky	PROPN	NNP	Number=Sing	2	_	_	start_char=2603|end_char=2611
+4	and	and	CCONJ	CC	_	3	_	_	start_char=2612|end_char=2615
+5	company	company	NOUN	NN	Number=Sing	4	_	_	start_char=2616|end_char=2623
+6	remain	remain	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=2624|end_char=2630
+7	unaware	unaware	ADJ	JJ	Degree=Pos	6	_	_	start_char=2631|end_char=2638
+8	that	that	SCONJ	IN	_	7	_	_	start_char=2639|end_char=2643
+9	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	8	_	_	start_char=2644|end_char=2649
+10	tireless	tireless	ADJ	JJ	Degree=Pos	9	_	_	start_char=2650|end_char=2658
+11	efforts	effort	NOUN	NNS	Number=Plur	10	_	_	start_char=2659|end_char=2666
+12	and	and	CCONJ	CC	_	11	_	_	start_char=2667|end_char=2670
+13	sacrifices	sacrifice	NOUN	NNS	Number=Plur	12	_	_	start_char=2671|end_char=2681
+14	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=2682|end_char=2686
+15	been	be	AUX	VBN	Tense=Past|VerbForm=Part	14	_	_	start_char=2687|end_char=2691
+16	in	in	ADP	IN	_	15	_	_	start_char=2692|end_char=2694
+17	vain	vain	NOUN	NN	Number=Sing	16	_	_	start_char=2695|end_char=2699|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=2699|end_char=2700
+19	as	as	SCONJ	IN	_	18	_	_	start_char=2701|end_char=2703
+20	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	19	_	_	start_char=2704|end_char=2708
+21	membership	membership	NOUN	NN	Number=Sing	20	_	_	start_char=2709|end_char=2719
+22	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	_	_	start_char=2720|end_char=2723
+23	never	never	ADV	RB	_	22	_	_	start_char=2724|end_char=2729
+24	an	a	DET	DT	Definite=Ind|PronType=Art	23	_	_	start_char=2730|end_char=2732
+25	achievable	achievable	ADJ	JJ	Degree=Pos	24	_	_	start_char=2733|end_char=2743
+26	reality	reality	NOUN	NN	Number=Sing	25	_	_	start_char=2744|end_char=2751|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=2751|end_char=2752|SpacesAfter=\n
+
+# text = For obvious reasons, NATO members, unlike Ukraine, want to avoid direct confrontation with Russia.
+# sent_id = 18
+1	For	for	ADP	IN	_	0	_	_	start_char=2753|end_char=2756
+2	obvious	obvious	ADJ	JJ	Degree=Pos	1	_	_	start_char=2757|end_char=2764
+3	reasons	reason	NOUN	NNS	Number=Plur	2	_	_	start_char=2765|end_char=2772|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=2772|end_char=2773
+5	NATO	NATO	PROPN	NNP	Number=Sing	4	_	_	start_char=2774|end_char=2778
+6	members	member	NOUN	NNS	Number=Plur	5	_	_	start_char=2779|end_char=2786|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=2786|end_char=2787
+8	unlike	unlike	ADP	IN	_	7	_	_	start_char=2788|end_char=2794
+9	Ukraine	Ukraine	PROPN	NNP	Number=Sing	8	_	_	start_char=2795|end_char=2802|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=2802|end_char=2803
+11	want	want	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=2804|end_char=2808
+12	to	to	PART	TO	_	11	_	_	start_char=2809|end_char=2811
+13	avoid	avoid	VERB	VB	VerbForm=Inf	12	_	_	start_char=2812|end_char=2817
+14	direct	direct	ADJ	JJ	Degree=Pos	13	_	_	start_char=2818|end_char=2824
+15	confrontation	confrontation	NOUN	NN	Number=Sing	14	_	_	start_char=2825|end_char=2838
+16	with	with	ADP	IN	_	15	_	_	start_char=2839|end_char=2843
+17	Russia	Russia	PROPN	NNP	Number=Sing	16	_	_	start_char=2844|end_char=2850|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=2850|end_char=2851|SpaceAfter=No
+

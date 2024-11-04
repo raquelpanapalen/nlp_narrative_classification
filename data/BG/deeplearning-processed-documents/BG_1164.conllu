@@ -1,0 +1,841 @@
+# text = Three questions for the European elections: the Green deal, migrants and Ukraine
+# sent_id = 0
+1	Three	three	NUM	CD	NumForm=Word|NumType=Card	0	_	_	start_char=0|end_char=5
+2	questions	question	NOUN	NNS	Number=Plur	1	_	_	start_char=6|end_char=15
+3	for	for	ADP	IN	_	2	_	_	start_char=16|end_char=19
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=20|end_char=23
+5	European	European	ADJ	JJ	Degree=Pos	4	_	_	start_char=24|end_char=32
+6	elections	election	NOUN	NNS	Number=Plur	5	_	_	start_char=33|end_char=42|SpaceAfter=No
+7	:	:	PUNCT	:	_	6	_	_	start_char=42|end_char=43
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=44|end_char=47
+9	Green	Green	ADJ	JJ	Degree=Pos	8	_	_	start_char=48|end_char=53
+10	deal	deal	NOUN	NN	Number=Sing	9	_	_	start_char=54|end_char=58|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=58|end_char=59
+12	migrants	migrant	NOUN	NNS	Number=Plur	11	_	_	start_char=60|end_char=68
+13	and	and	CCONJ	CC	_	12	_	_	start_char=69|end_char=72
+14	Ukraine	Ukraine	PROPN	NNP	Number=Sing	13	_	_	start_char=73|end_char=80|SpacesAfter=\n\n
+
+# text = Ahead of all elections, there is talk about how crucial they are.
+# sent_id = 1
+1	Ahead	ahead	ADV	RB	_	0	_	_	start_char=82|end_char=87
+2	of	of	ADP	IN	_	1	_	_	start_char=88|end_char=90
+3	all	all	DET	DT	_	2	_	_	start_char=91|end_char=94
+4	elections	election	NOUN	NNS	Number=Plur	3	_	_	start_char=95|end_char=104|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=104|end_char=105
+6	there	there	PRON	EX	_	5	_	_	start_char=106|end_char=111
+7	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=112|end_char=114
+8	talk	talk	NOUN	NN	Number=Sing	7	_	_	start_char=115|end_char=119
+9	about	about	SCONJ	IN	_	8	_	_	start_char=120|end_char=125
+10	how	how	ADV	WRB	PronType=Int	9	_	_	start_char=126|end_char=129
+11	crucial	crucial	ADJ	JJ	Degree=Pos	10	_	_	start_char=130|end_char=137
+12	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	_	_	start_char=138|end_char=142
+13	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=143|end_char=146|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=146|end_char=147
+
+# text = The ones for the European Parliament in 2024 have to decide in general three main issues.
+# sent_id = 2
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=148|end_char=151
+2	ones	one	NOUN	NNS	Number=Plur	1	_	_	start_char=152|end_char=156
+3	for	for	ADP	IN	_	2	_	_	start_char=157|end_char=160
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=161|end_char=164
+5	European	European	ADJ	NNP	Degree=Pos	4	_	_	start_char=165|end_char=173
+6	Parliament	Parliament	PROPN	NNP	Number=Sing	5	_	_	start_char=174|end_char=184
+7	in	in	ADP	IN	_	6	_	_	start_char=185|end_char=187
+8	2024	2024	NUM	CD	NumForm=Digit|NumType=Card	7	_	_	start_char=188|end_char=192
+9	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=193|end_char=197
+10	to	to	PART	TO	_	9	_	_	start_char=198|end_char=200
+11	decide	decide	VERB	VB	VerbForm=Inf	10	_	_	start_char=201|end_char=207
+12	in	in	ADP	IN	_	11	_	_	start_char=208|end_char=210
+13	general	general	ADJ	JJ	Degree=Pos	12	_	_	start_char=211|end_char=218
+14	three	three	NUM	CD	NumForm=Word|NumType=Card	13	_	_	start_char=219|end_char=224
+15	main	main	ADJ	JJ	Degree=Pos	14	_	_	start_char=225|end_char=229
+16	issues	issue	NOUN	NNS	Number=Plur	15	_	_	start_char=230|end_char=236|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=236|end_char=237|SpacesAfter=\n
+
+# text = 1. Will the so-called Green Deal continue in its current form, which is destroying the Czech national economy?
+# sent_id = 3
+1	1	1	NUM	LS	_	0	_	_	start_char=238|end_char=239|SpaceAfter=No
+2	.	.	PUNCT	.	_	1	_	_	start_char=239|end_char=240
+3	Will	will	AUX	MD	VerbForm=Fin	2	_	_	start_char=241|end_char=245
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=246|end_char=249
+5	so	so	ADV	RB	_	4	_	_	start_char=250|end_char=252|SpaceAfter=No
+6	-	-	PUNCT	HYPH	_	5	_	_	start_char=252|end_char=253|SpaceAfter=No
+7	called	call	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=253|end_char=259
+8	Green	Green	ADJ	NNP	Degree=Pos	7	_	_	start_char=260|end_char=265
+9	Deal	deal	PROPN	NNP	Number=Sing	8	_	_	start_char=266|end_char=270
+10	continue	continue	VERB	VB	VerbForm=Inf	9	_	_	start_char=271|end_char=279
+11	in	in	ADP	IN	_	10	_	_	start_char=280|end_char=282
+12	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	_	_	start_char=283|end_char=286
+13	current	current	ADJ	JJ	Degree=Pos	12	_	_	start_char=287|end_char=294
+14	form	form	NOUN	NN	Number=Sing	13	_	_	start_char=295|end_char=299|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=299|end_char=300
+16	which	which	PRON	WDT	PronType=Rel	15	_	_	start_char=301|end_char=306
+17	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=307|end_char=309
+18	destroying	destroy	VERB	VBG	Tense=Pres|VerbForm=Part	17	_	_	start_char=310|end_char=320
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=321|end_char=324
+20	Czech	Czech	ADJ	JJ	Degree=Pos	19	_	_	start_char=325|end_char=330
+21	national	national	ADJ	JJ	Degree=Pos	20	_	_	start_char=331|end_char=339
+22	economy	economy	NOUN	NN	Number=Sing	21	_	_	start_char=340|end_char=347|SpaceAfter=No
+23	?	?	PUNCT	.	_	22	_	_	start_char=347|end_char=348|SpacesAfter=\n
+
+# text = 2. Will the war in Ukraine and its consequences continue - the energy and raw materials crisis leading to large price rises, to endless inflation that is reducing the living standards of the majority of people?
+# sent_id = 4
+1	2	2	NUM	LS	_	0	_	_	start_char=349|end_char=350|SpaceAfter=No
+2	.	.	PUNCT	.	_	1	_	_	start_char=350|end_char=351
+3	Will	will	AUX	MD	VerbForm=Fin	2	_	_	start_char=352|end_char=356
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=357|end_char=360
+5	war	war	NOUN	NN	Number=Sing	4	_	_	start_char=361|end_char=364
+6	in	in	ADP	IN	_	5	_	_	start_char=365|end_char=367
+7	Ukraine	Ukraine	PROPN	NNP	Number=Sing	6	_	_	start_char=368|end_char=375
+8	and	and	CCONJ	CC	_	7	_	_	start_char=376|end_char=379
+9	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	_	_	start_char=380|end_char=383
+10	consequences	consequence	NOUN	NNS	Number=Plur	9	_	_	start_char=384|end_char=396
+11	continue	continue	VERB	VB	VerbForm=Inf	10	_	_	start_char=397|end_char=405
+12	-	-	PUNCT	,	_	11	_	_	start_char=406|end_char=407
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=408|end_char=411
+14	energy	energy	NOUN	NN	Number=Sing	13	_	_	start_char=412|end_char=418
+15	and	and	CCONJ	CC	_	14	_	_	start_char=419|end_char=422
+16	raw	raw	ADJ	JJ	Degree=Pos	15	_	_	start_char=423|end_char=426
+17	materials	material	NOUN	NNS	Number=Plur	16	_	_	start_char=427|end_char=436
+18	crisis	crisis	NOUN	NN	Number=Sing	17	_	_	start_char=437|end_char=443
+19	leading	lead	VERB	VBG	VerbForm=Ger	18	_	_	start_char=444|end_char=451
+20	to	to	ADP	IN	_	19	_	_	start_char=452|end_char=454
+21	large	large	ADJ	JJ	Degree=Pos	20	_	_	start_char=455|end_char=460
+22	price	price	NOUN	NN	Number=Sing	21	_	_	start_char=461|end_char=466
+23	rises	rise	NOUN	NNS	Number=Plur	22	_	_	start_char=467|end_char=472|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=472|end_char=473
+25	to	to	ADP	IN	_	24	_	_	start_char=474|end_char=476
+26	endless	endless	ADJ	JJ	Degree=Pos	25	_	_	start_char=477|end_char=484
+27	inflation	inflation	NOUN	NN	Number=Sing	26	_	_	start_char=485|end_char=494
+28	that	that	PRON	WDT	PronType=Rel	27	_	_	start_char=495|end_char=499
+29	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	_	_	start_char=500|end_char=502
+30	reducing	reduce	VERB	VBG	Tense=Pres|VerbForm=Part	29	_	_	start_char=503|end_char=511
+31	the	the	DET	DT	Definite=Def|PronType=Art	30	_	_	start_char=512|end_char=515
+32	living	living	NOUN	NN	Number=Sing	31	_	_	start_char=516|end_char=522
+33	standards	standard	NOUN	NNS	Number=Plur	32	_	_	start_char=523|end_char=532
+34	of	of	ADP	IN	_	33	_	_	start_char=533|end_char=535
+35	the	the	DET	DT	Definite=Def|PronType=Art	34	_	_	start_char=536|end_char=539
+36	majority	majority	NOUN	NN	Number=Sing	35	_	_	start_char=540|end_char=548
+37	of	of	ADP	IN	_	36	_	_	start_char=549|end_char=551
+38	people	person	NOUN	NNS	Number=Plur	37	_	_	start_char=552|end_char=558|SpaceAfter=No
+39	?	?	PUNCT	.	_	38	_	_	start_char=558|end_char=559|SpacesAfter=\n
+
+# text = 3. Will the massive influx of migrants continue, threatening the social system, freedom of expression and religion, and the safety of EU countries?
+# sent_id = 5
+1	3	3	NUM	LS	_	0	_	_	start_char=560|end_char=561|SpaceAfter=No
+2	.	.	PUNCT	.	_	1	_	_	start_char=561|end_char=562
+3	Will	will	AUX	MD	VerbForm=Fin	2	_	_	start_char=563|end_char=567
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=568|end_char=571
+5	massive	massive	ADJ	JJ	Degree=Pos	4	_	_	start_char=572|end_char=579
+6	influx	influx	NOUN	NN	Number=Sing	5	_	_	start_char=580|end_char=586
+7	of	of	ADP	IN	_	6	_	_	start_char=587|end_char=589
+8	migrants	migrant	NOUN	NNS	Number=Plur	7	_	_	start_char=590|end_char=598
+9	continue	continue	VERB	VB	VerbForm=Inf	8	_	_	start_char=599|end_char=607|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=607|end_char=608
+11	threatening	threaten	VERB	VBG	VerbForm=Ger	10	_	_	start_char=609|end_char=620
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=621|end_char=624
+13	social	social	ADJ	JJ	Degree=Pos	12	_	_	start_char=625|end_char=631
+14	system	system	NOUN	NN	Number=Sing	13	_	_	start_char=632|end_char=638|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=638|end_char=639
+16	freedom	freedom	NOUN	NN	Number=Sing	15	_	_	start_char=640|end_char=647
+17	of	of	ADP	IN	_	16	_	_	start_char=648|end_char=650
+18	expression	expression	NOUN	NN	Number=Sing	17	_	_	start_char=651|end_char=661
+19	and	and	CCONJ	CC	_	18	_	_	start_char=662|end_char=665
+20	religion	religion	NOUN	NN	Number=Sing	19	_	_	start_char=666|end_char=674|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=674|end_char=675
+22	and	and	CCONJ	CC	_	21	_	_	start_char=676|end_char=679
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=680|end_char=683
+24	safety	safety	NOUN	NN	Number=Sing	23	_	_	start_char=684|end_char=690
+25	of	of	ADP	IN	_	24	_	_	start_char=691|end_char=693
+26	EU	EU	PROPN	NNP	Number=Sing	25	_	_	start_char=694|end_char=696
+27	countries	country	NOUN	NNS	Number=Plur	26	_	_	start_char=697|end_char=706|SpaceAfter=No
+28	?	?	PUNCT	.	_	27	_	_	start_char=706|end_char=707|SpacesAfter=\n
+
+# text = The answers to these three questions will fundamentally decide the fate of Europe for the next few generations.
+# sent_id = 6
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=708|end_char=711
+2	answers	answer	NOUN	NNS	Number=Plur	1	_	_	start_char=712|end_char=719
+3	to	to	ADP	IN	_	2	_	_	start_char=720|end_char=722
+4	these	this	DET	DT	Number=Plur|PronType=Dem	3	_	_	start_char=723|end_char=728
+5	three	three	NUM	CD	NumForm=Word|NumType=Card	4	_	_	start_char=729|end_char=734
+6	questions	question	NOUN	NNS	Number=Plur	5	_	_	start_char=735|end_char=744
+7	will	will	AUX	MD	VerbForm=Fin	6	_	_	start_char=745|end_char=749
+8	fundamentally	fundamentally	ADV	RB	_	7	_	_	start_char=750|end_char=763
+9	decide	decide	VERB	VB	VerbForm=Inf	8	_	_	start_char=764|end_char=770
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=771|end_char=774
+11	fate	fate	NOUN	NN	Number=Sing	10	_	_	start_char=775|end_char=779
+12	of	of	ADP	IN	_	11	_	_	start_char=780|end_char=782
+13	Europe	Europe	PROPN	NNP	Number=Sing	12	_	_	start_char=783|end_char=789
+14	for	for	ADP	IN	_	13	_	_	start_char=790|end_char=793
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=794|end_char=797
+16	next	next	ADJ	JJ	Degree=Pos	15	_	_	start_char=798|end_char=802
+17	few	few	ADJ	JJ	Degree=Pos	16	_	_	start_char=803|end_char=806
+18	generations	generation	NOUN	NNS	Number=Plur	17	_	_	start_char=807|end_char=818|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=818|end_char=819|SpacesAfter=\n
+
+# text = The current policy has already done a lot of damage, not all of which can be easily undone.
+# sent_id = 7
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=820|end_char=823
+2	current	current	ADJ	JJ	Degree=Pos	1	_	_	start_char=824|end_char=831
+3	policy	policy	NOUN	NN	Number=Sing	2	_	_	start_char=832|end_char=838
+4	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=839|end_char=842
+5	already	already	ADV	RB	_	4	_	_	start_char=843|end_char=850
+6	done	do	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=851|end_char=855
+7	a	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=856|end_char=857
+8	lot	lot	NOUN	NN	Number=Sing	7	_	_	start_char=858|end_char=861
+9	of	of	ADP	IN	_	8	_	_	start_char=862|end_char=864
+10	damage	damage	NOUN	NN	Number=Sing	9	_	_	start_char=865|end_char=871|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=871|end_char=872
+12	not	not	PART	RB	_	11	_	_	start_char=873|end_char=876
+13	all	all	DET	DT	_	12	_	_	start_char=877|end_char=880
+14	of	of	ADP	IN	_	13	_	_	start_char=881|end_char=883
+15	which	which	PRON	WDT	PronType=Rel	14	_	_	start_char=884|end_char=889
+16	can	can	AUX	MD	VerbForm=Fin	15	_	_	start_char=890|end_char=893
+17	be	be	AUX	VB	VerbForm=Inf	16	_	_	start_char=894|end_char=896
+18	easily	easily	ADV	RB	_	17	_	_	start_char=897|end_char=903
+19	undone	undone	ADJ	JJ	Degree=Pos	18	_	_	start_char=904|end_char=910|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=910|end_char=911
+
+# text = What is being called the 'green deal' is nothing other than a huge wave of deindustrialisation of EU countries.
+# sent_id = 8
+1	What	what	PRON	WP	PronType=Int	0	_	_	start_char=912|end_char=916
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=917|end_char=919
+3	being	be	AUX	VBG	VerbForm=Ger	2	_	_	start_char=920|end_char=925
+4	called	call	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=926|end_char=932
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=933|end_char=936
+6	'	'	PUNCT	``	_	5	_	_	start_char=937|end_char=938|SpaceAfter=No
+7	green	green	ADJ	JJ	Degree=Pos	6	_	_	start_char=938|end_char=943
+8	deal	deal	NOUN	NN	Number=Sing	7	_	_	start_char=944|end_char=948|SpaceAfter=No
+9	'	'	PUNCT	''	_	8	_	_	start_char=948|end_char=949
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=950|end_char=952
+11	nothing	nothing	PRON	NN	Number=Sing|PronType=Neg	10	_	_	start_char=953|end_char=960
+12	other	other	ADJ	JJ	Degree=Pos	11	_	_	start_char=961|end_char=966
+13	than	than	ADP	IN	_	12	_	_	start_char=967|end_char=971
+14	a	a	DET	DT	Definite=Ind|PronType=Art	13	_	_	start_char=972|end_char=973
+15	huge	huge	ADJ	JJ	Degree=Pos	14	_	_	start_char=974|end_char=978
+16	wave	wave	NOUN	NN	Number=Sing	15	_	_	start_char=979|end_char=983
+17	of	of	ADP	IN	_	16	_	_	start_char=984|end_char=986
+18	deindustrialisation	deindustrialisation	NOUN	NN	Number=Sing	17	_	_	start_char=987|end_char=1006
+19	of	of	ADP	IN	_	18	_	_	start_char=1007|end_char=1009
+20	EU	EU	PROPN	NNP	Number=Sing	19	_	_	start_char=1010|end_char=1012
+21	countries	country	NOUN	NNS	Number=Plur	20	_	_	start_char=1013|end_char=1022|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=1022|end_char=1023
+
+# text = In economic terms, it is about impoverishment, loss of markets and loss of influence.
+# sent_id = 9
+1	In	in	ADP	IN	_	0	_	_	start_char=1024|end_char=1026
+2	economic	economic	ADJ	JJ	Degree=Pos	1	_	_	start_char=1027|end_char=1035
+3	terms	term	NOUN	NNS	Number=Plur	2	_	_	start_char=1036|end_char=1041|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1041|end_char=1042
+5	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	_	_	start_char=1043|end_char=1045
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1046|end_char=1048
+7	about	about	ADP	IN	_	6	_	_	start_char=1049|end_char=1054
+8	impoverishment	impoverishment	NOUN	NN	Number=Sing	7	_	_	start_char=1055|end_char=1069|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1069|end_char=1070
+10	loss	loss	NOUN	NN	Number=Sing	9	_	_	start_char=1071|end_char=1075
+11	of	of	ADP	IN	_	10	_	_	start_char=1076|end_char=1078
+12	markets	market	NOUN	NNS	Number=Plur	11	_	_	start_char=1079|end_char=1086
+13	and	and	CCONJ	CC	_	12	_	_	start_char=1087|end_char=1090
+14	loss	loss	NOUN	NN	Number=Sing	13	_	_	start_char=1091|end_char=1095
+15	of	of	ADP	IN	_	14	_	_	start_char=1096|end_char=1098
+16	influence	influence	NOUN	NN	Number=Sing	15	_	_	start_char=1099|end_char=1108|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=1108|end_char=1109
+
+# text = Hand in hand with these processes, the level of economic dependence is also soaring.
+# sent_id = 10
+1	Hand	Hand	NOUN	NN	Number=Sing	0	_	_	start_char=1110|end_char=1114
+2	in	in	ADP	IN	_	1	_	_	start_char=1115|end_char=1117
+3	hand	hand	NOUN	NN	Number=Sing	2	_	_	start_char=1118|end_char=1122
+4	with	with	ADP	IN	_	3	_	_	start_char=1123|end_char=1127
+5	these	this	DET	DT	Number=Plur|PronType=Dem	4	_	_	start_char=1128|end_char=1133
+6	processes	process	NOUN	NNS	Number=Plur	5	_	_	start_char=1134|end_char=1143|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=1143|end_char=1144
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=1145|end_char=1148
+9	level	level	NOUN	NN	Number=Sing	8	_	_	start_char=1149|end_char=1154
+10	of	of	ADP	IN	_	9	_	_	start_char=1155|end_char=1157
+11	economic	economic	ADJ	JJ	Degree=Pos	10	_	_	start_char=1158|end_char=1166
+12	dependence	dependence	NOUN	NN	Number=Sing	11	_	_	start_char=1167|end_char=1177
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=1178|end_char=1180
+14	also	also	ADV	RB	_	13	_	_	start_char=1181|end_char=1185
+15	soaring	soar	VERB	VBG	Tense=Pres|VerbForm=Part	14	_	_	start_char=1186|end_char=1193|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=1193|end_char=1194
+
+# text = The pious talk about saving the climate is just propaganda.
+# sent_id = 11
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1195|end_char=1198
+2	pious	pious	ADJ	JJ	Degree=Pos	1	_	_	start_char=1199|end_char=1204
+3	talk	talk	NOUN	NN	Number=Sing	2	_	_	start_char=1205|end_char=1209
+4	about	about	SCONJ	IN	_	3	_	_	start_char=1210|end_char=1215
+5	saving	save	VERB	VBG	VerbForm=Ger	4	_	_	start_char=1216|end_char=1222
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1223|end_char=1226
+7	climate	climate	NOUN	NN	Number=Sing	6	_	_	start_char=1227|end_char=1234
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=1235|end_char=1237
+9	just	just	ADV	RB	_	8	_	_	start_char=1238|end_char=1242
+10	propaganda	propaganda	NOUN	NN	Number=Sing	9	_	_	start_char=1243|end_char=1253|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=1253|end_char=1254
+
+# text = The banning of internal combustion engines, emissions trading and the abandonment of coal is nothing other than the brightening of the businesses of a select few, for which we will all pay, and we will be impoverished in very real terms.
+# sent_id = 12
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1255|end_char=1258
+2	banning	banning	NOUN	NN	Number=Sing	1	_	_	start_char=1259|end_char=1266
+3	of	of	ADP	IN	_	2	_	_	start_char=1267|end_char=1269
+4	internal	internal	ADJ	JJ	Degree=Pos	3	_	_	start_char=1270|end_char=1278
+5	combustion	combustion	NOUN	NN	Number=Sing	4	_	_	start_char=1279|end_char=1289
+6	engines	engine	NOUN	NNS	Number=Plur	5	_	_	start_char=1290|end_char=1297|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=1297|end_char=1298
+8	emissions	emission	NOUN	NNS	Number=Plur	7	_	_	start_char=1299|end_char=1308
+9	trading	trading	NOUN	NN	Number=Sing	8	_	_	start_char=1309|end_char=1316
+10	and	and	CCONJ	CC	_	9	_	_	start_char=1317|end_char=1320
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=1321|end_char=1324
+12	abandonment	abandonment	NOUN	NN	Number=Sing	11	_	_	start_char=1325|end_char=1336
+13	of	of	ADP	IN	_	12	_	_	start_char=1337|end_char=1339
+14	coal	coal	NOUN	NN	Number=Sing	13	_	_	start_char=1340|end_char=1344
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=1345|end_char=1347
+16	nothing	nothing	PRON	NN	Number=Sing|PronType=Neg	15	_	_	start_char=1348|end_char=1355
+17	other	other	ADJ	JJ	Degree=Pos	16	_	_	start_char=1356|end_char=1361
+18	than	than	ADP	IN	_	17	_	_	start_char=1362|end_char=1366
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=1367|end_char=1370
+20	brightening	brightening	NOUN	NN	Number=Sing	19	_	_	start_char=1371|end_char=1382
+21	of	of	ADP	IN	_	20	_	_	start_char=1383|end_char=1385
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=1386|end_char=1389
+23	businesses	business	NOUN	NNS	Number=Plur	22	_	_	start_char=1390|end_char=1400
+24	of	of	ADP	IN	_	23	_	_	start_char=1401|end_char=1403
+25	a	a	DET	DT	Definite=Ind|PronType=Art	24	_	_	start_char=1404|end_char=1405
+26	select	select	ADJ	JJ	Degree=Pos	25	_	_	start_char=1406|end_char=1412
+27	few	few	ADJ	JJ	Degree=Pos	26	_	_	start_char=1413|end_char=1416|SpaceAfter=No
+28	,	,	PUNCT	,	_	27	_	_	start_char=1416|end_char=1417
+29	for	for	ADP	IN	_	28	_	_	start_char=1418|end_char=1421
+30	which	which	PRON	WDT	PronType=Rel	29	_	_	start_char=1422|end_char=1427
+31	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	30	_	_	start_char=1428|end_char=1430
+32	will	will	AUX	MD	VerbForm=Fin	31	_	_	start_char=1431|end_char=1435
+33	all	all	ADV	RB	_	32	_	_	start_char=1436|end_char=1439
+34	pay	pay	VERB	VB	VerbForm=Inf	33	_	_	start_char=1440|end_char=1443|SpaceAfter=No
+35	,	,	PUNCT	,	_	34	_	_	start_char=1443|end_char=1444
+36	and	and	CCONJ	CC	_	35	_	_	start_char=1445|end_char=1448
+37	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	36	_	_	start_char=1449|end_char=1451
+38	will	will	AUX	MD	VerbForm=Fin	37	_	_	start_char=1452|end_char=1456
+39	be	be	AUX	VB	VerbForm=Inf	38	_	_	start_char=1457|end_char=1459
+40	impoverished	impoverish	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	39	_	_	start_char=1460|end_char=1472
+41	in	in	ADP	IN	_	40	_	_	start_char=1473|end_char=1475
+42	very	very	ADV	RB	_	41	_	_	start_char=1476|end_char=1480
+43	real	real	ADJ	JJ	Degree=Pos	42	_	_	start_char=1481|end_char=1485
+44	terms	term	NOUN	NNS	Number=Plur	43	_	_	start_char=1486|end_char=1491|SpaceAfter=No
+45	.	.	PUNCT	.	_	44	_	_	start_char=1491|end_char=1492|SpacesAfter=\n
+
+# text = The planet and its climate will not be affected at all; on the contrary, there is a risk of an increase in greenhouse gases.
+# sent_id = 13
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1493|end_char=1496
+2	planet	planet	NOUN	NN	Number=Sing	1	_	_	start_char=1497|end_char=1503
+3	and	and	CCONJ	CC	_	2	_	_	start_char=1504|end_char=1507
+4	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	_	_	start_char=1508|end_char=1511
+5	climate	climate	NOUN	NN	Number=Sing	4	_	_	start_char=1512|end_char=1519
+6	will	will	AUX	MD	VerbForm=Fin	5	_	_	start_char=1520|end_char=1524
+7	not	not	PART	RB	_	6	_	_	start_char=1525|end_char=1528
+8	be	be	AUX	VB	VerbForm=Inf	7	_	_	start_char=1529|end_char=1531
+9	affected	affect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	_	_	start_char=1532|end_char=1540
+10	at	at	ADP	IN	_	9	_	_	start_char=1541|end_char=1543
+11	all	all	DET	DT	_	10	_	_	start_char=1544|end_char=1547|SpaceAfter=No
+12	;	;	PUNCT	:	_	11	_	_	start_char=1547|end_char=1548
+13	on	on	ADP	IN	_	12	_	_	start_char=1549|end_char=1551
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=1552|end_char=1555
+15	contrary	contrary	NOUN	NN	Number=Sing	14	_	_	start_char=1556|end_char=1564|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=1564|end_char=1565
+17	there	there	PRON	EX	_	16	_	_	start_char=1566|end_char=1571
+18	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=1572|end_char=1574
+19	a	a	DET	DT	Definite=Ind|PronType=Art	18	_	_	start_char=1575|end_char=1576
+20	risk	risk	NOUN	NN	Number=Sing	19	_	_	start_char=1577|end_char=1581
+21	of	of	ADP	IN	_	20	_	_	start_char=1582|end_char=1584
+22	an	a	DET	DT	Definite=Ind|PronType=Art	21	_	_	start_char=1585|end_char=1587
+23	increase	increase	NOUN	NN	Number=Sing	22	_	_	start_char=1588|end_char=1596
+24	in	in	ADP	IN	_	23	_	_	start_char=1597|end_char=1599
+25	greenhouse	greenhouse	NOUN	NN	Number=Sing	24	_	_	start_char=1600|end_char=1610
+26	gases	gas	NOUN	NNS	Number=Plur	25	_	_	start_char=1611|end_char=1616|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=1616|end_char=1617|SpacesAfter=\n
+
+# text = It is enough to look more complexly at the analyses on the subject.
+# sent_id = 14
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1618|end_char=1620
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1621|end_char=1623
+3	enough	enough	ADJ	JJ	Degree=Pos	2	_	_	start_char=1624|end_char=1630
+4	to	to	PART	TO	_	3	_	_	start_char=1631|end_char=1633
+5	look	look	VERB	VB	VerbForm=Inf	4	_	_	start_char=1634|end_char=1638
+6	more	more	ADV	RBR	Degree=Cmp	5	_	_	start_char=1639|end_char=1643
+7	complexly	complexly	ADV	RB	_	6	_	_	start_char=1644|end_char=1653
+8	at	at	ADP	IN	_	7	_	_	start_char=1654|end_char=1656
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1657|end_char=1660
+10	analyses	analysis	NOUN	NNS	Number=Plur	9	_	_	start_char=1661|end_char=1669
+11	on	on	ADP	IN	_	10	_	_	start_char=1670|end_char=1672
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=1673|end_char=1676
+13	subject	subject	NOUN	NN	Number=Sing	12	_	_	start_char=1677|end_char=1684|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=1684|end_char=1685
+
+# text = The manufacture, transport and disposal of electric cars will cause practically the same amount of greenhouse gases as the production cycle of conventional cars.
+# sent_id = 15
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1686|end_char=1689
+2	manufacture	manufacture	NOUN	NN	Number=Sing	1	_	_	start_char=1690|end_char=1701|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=1701|end_char=1702
+4	transport	transport	NOUN	NN	Number=Sing	3	_	_	start_char=1703|end_char=1712
+5	and	and	CCONJ	CC	_	4	_	_	start_char=1713|end_char=1716
+6	disposal	disposal	NOUN	NN	Number=Sing	5	_	_	start_char=1717|end_char=1725
+7	of	of	ADP	IN	_	6	_	_	start_char=1726|end_char=1728
+8	electric	electric	ADJ	JJ	Degree=Pos	7	_	_	start_char=1729|end_char=1737
+9	cars	car	NOUN	NNS	Number=Plur	8	_	_	start_char=1738|end_char=1742
+10	will	will	AUX	MD	VerbForm=Fin	9	_	_	start_char=1743|end_char=1747
+11	cause	cause	VERB	VB	VerbForm=Inf	10	_	_	start_char=1748|end_char=1753
+12	practically	practically	ADV	RB	_	11	_	_	start_char=1754|end_char=1765
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1766|end_char=1769
+14	same	same	ADJ	JJ	Degree=Pos	13	_	_	start_char=1770|end_char=1774
+15	amount	amount	NOUN	NN	Number=Sing	14	_	_	start_char=1775|end_char=1781
+16	of	of	ADP	IN	_	15	_	_	start_char=1782|end_char=1784
+17	greenhouse	greenhouse	NOUN	NN	Number=Sing	16	_	_	start_char=1785|end_char=1795
+18	gases	gas	NOUN	NNS	Number=Plur	17	_	_	start_char=1796|end_char=1801
+19	as	as	ADP	IN	_	18	_	_	start_char=1802|end_char=1804
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=1805|end_char=1808
+21	production	production	NOUN	NN	Number=Sing	20	_	_	start_char=1809|end_char=1819
+22	cycle	cycle	NOUN	NN	Number=Sing	21	_	_	start_char=1820|end_char=1825
+23	of	of	ADP	IN	_	22	_	_	start_char=1826|end_char=1828
+24	conventional	conventional	ADJ	JJ	Degree=Pos	23	_	_	start_char=1829|end_char=1841
+25	cars	car	NOUN	NNS	Number=Plur	24	_	_	start_char=1842|end_char=1846|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=1846|end_char=1847|SpacesAfter=\n
+
+# text = This is also the conclusion we reach when we compare the consequences of burning domestic coal with the use of liquefied shale gas, which has to be transported by tanker halfway across the planet.
+# sent_id = 16
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1848|end_char=1852
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1853|end_char=1855
+3	also	also	ADV	RB	_	2	_	_	start_char=1856|end_char=1860
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1861|end_char=1864
+5	conclusion	conclusion	NOUN	NN	Number=Sing	4	_	_	start_char=1865|end_char=1875
+6	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	_	_	start_char=1876|end_char=1878
+7	reach	reach	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	_	_	start_char=1879|end_char=1884
+8	when	when	ADV	WRB	PronType=Int	7	_	_	start_char=1885|end_char=1889
+9	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	_	_	start_char=1890|end_char=1892
+10	compare	compare	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	_	_	start_char=1893|end_char=1900
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=1901|end_char=1904
+12	consequences	consequence	NOUN	NNS	Number=Plur	11	_	_	start_char=1905|end_char=1917
+13	of	of	SCONJ	IN	_	12	_	_	start_char=1918|end_char=1920
+14	burning	burn	VERB	VBG	VerbForm=Ger	13	_	_	start_char=1921|end_char=1928
+15	domestic	domestic	ADJ	JJ	Degree=Pos	14	_	_	start_char=1929|end_char=1937
+16	coal	coal	NOUN	NN	Number=Sing	15	_	_	start_char=1938|end_char=1942
+17	with	with	ADP	IN	_	16	_	_	start_char=1943|end_char=1947
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=1948|end_char=1951
+19	use	use	NOUN	NN	Number=Sing	18	_	_	start_char=1952|end_char=1955
+20	of	of	ADP	IN	_	19	_	_	start_char=1956|end_char=1958
+21	liquefied	liquefy	ADJ	JJ	Degree=Pos	20	_	_	start_char=1959|end_char=1968
+22	shale	shale	NOUN	NN	Number=Sing	21	_	_	start_char=1969|end_char=1974
+23	gas	gas	NOUN	NN	Number=Sing	22	_	_	start_char=1975|end_char=1978|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=1978|end_char=1979
+25	which	which	PRON	WDT	PronType=Rel	24	_	_	start_char=1980|end_char=1985
+26	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	_	_	start_char=1986|end_char=1989
+27	to	to	PART	TO	_	26	_	_	start_char=1990|end_char=1992
+28	be	be	AUX	VB	VerbForm=Inf	27	_	_	start_char=1993|end_char=1995
+29	transported	transport	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	28	_	_	start_char=1996|end_char=2007
+30	by	by	ADP	IN	_	29	_	_	start_char=2008|end_char=2010
+31	tanker	tanker	NOUN	NN	Number=Sing	30	_	_	start_char=2011|end_char=2017
+32	halfway	halfway	ADV	RB	_	31	_	_	start_char=2018|end_char=2025
+33	across	across	ADP	IN	_	32	_	_	start_char=2026|end_char=2032
+34	the	the	DET	DT	Definite=Def|PronType=Art	33	_	_	start_char=2033|end_char=2036
+35	planet	planet	NOUN	NN	Number=Sing	34	_	_	start_char=2037|end_char=2043|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=2043|end_char=2044
+
+# text = Photovoltaic panels have to be made somewhere in China, then transported halfway around the world, installed and subsequently destroyed when they wear out.
+# sent_id = 17
+1	Photovoltaic	Photovoltaic	ADJ	JJ	Degree=Pos	0	_	_	start_char=2045|end_char=2057
+2	panels	panel	NOUN	NNS	Number=Plur	1	_	_	start_char=2058|end_char=2064
+3	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2065|end_char=2069
+4	to	to	PART	TO	_	3	_	_	start_char=2070|end_char=2072
+5	be	be	AUX	VB	VerbForm=Inf	4	_	_	start_char=2073|end_char=2075
+6	made	make	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	_	_	start_char=2076|end_char=2080
+7	somewhere	somewhere	ADV	RB	_	6	_	_	start_char=2081|end_char=2090
+8	in	in	ADP	IN	_	7	_	_	start_char=2091|end_char=2093
+9	China	China	PROPN	NNP	Number=Sing	8	_	_	start_char=2094|end_char=2099|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=2099|end_char=2100
+11	then	then	ADV	RB	PronType=Dem	10	_	_	start_char=2101|end_char=2105
+12	transported	transport	VERB	VBN	Tense=Past|VerbForm=Part	11	_	_	start_char=2106|end_char=2117
+13	halfway	halfway	ADV	RB	_	12	_	_	start_char=2118|end_char=2125
+14	around	around	ADP	IN	_	13	_	_	start_char=2126|end_char=2132
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=2133|end_char=2136
+16	world	world	NOUN	NN	Number=Sing	15	_	_	start_char=2137|end_char=2142|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=2142|end_char=2143
+18	installed	install	VERB	VBN	Tense=Past|VerbForm=Part	17	_	_	start_char=2144|end_char=2153
+19	and	and	CCONJ	CC	_	18	_	_	start_char=2154|end_char=2157
+20	subsequently	subsequently	ADV	RB	_	19	_	_	start_char=2158|end_char=2170
+21	destroyed	destroy	VERB	VBN	Tense=Past|VerbForm=Part	20	_	_	start_char=2171|end_char=2180
+22	when	when	ADV	WRB	PronType=Int	21	_	_	start_char=2181|end_char=2185
+23	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	22	_	_	start_char=2186|end_char=2190
+24	wear	wear	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	_	_	start_char=2191|end_char=2195
+25	out	out	ADP	RP	_	24	_	_	start_char=2196|end_char=2199|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=2199|end_char=2200
+
+# text = In our climate belt, their efficiency will be only a few percent.
+# sent_id = 18
+1	In	in	ADP	IN	_	0	_	_	start_char=2201|end_char=2203
+2	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	1	_	_	start_char=2204|end_char=2207
+3	climate	climate	NOUN	NN	Number=Sing	2	_	_	start_char=2208|end_char=2215
+4	belt	belt	NOUN	NN	Number=Sing	3	_	_	start_char=2216|end_char=2220|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=2220|end_char=2221
+6	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	5	_	_	start_char=2222|end_char=2227
+7	efficiency	efficiency	NOUN	NN	Number=Sing	6	_	_	start_char=2228|end_char=2238
+8	will	will	AUX	MD	VerbForm=Fin	7	_	_	start_char=2239|end_char=2243
+9	be	be	AUX	VB	VerbForm=Inf	8	_	_	start_char=2244|end_char=2246
+10	only	only	ADV	RB	_	9	_	_	start_char=2247|end_char=2251
+11	a	a	DET	DT	Definite=Ind|PronType=Art	10	_	_	start_char=2252|end_char=2253
+12	few	few	ADJ	JJ	Degree=Pos	11	_	_	start_char=2254|end_char=2257
+13	percent	percent	NOUN	NN	Number=Sing	12	_	_	start_char=2258|end_char=2265|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=2265|end_char=2266
+
+# text = When we add up the whole cycle of manufacture, transport, maintenance and disposal, exactly how much greenhouse gas emissions will one solar megawatt cost us?
+# sent_id = 19
+1	When	when	ADV	WRB	PronType=Int	0	_	_	start_char=2267|end_char=2271
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	1	_	_	start_char=2272|end_char=2274
+3	add	add	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2275|end_char=2278
+4	up	up	ADP	RP	_	3	_	_	start_char=2279|end_char=2281
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=2282|end_char=2285
+6	whole	whole	ADJ	JJ	Degree=Pos	5	_	_	start_char=2286|end_char=2291
+7	cycle	cycle	NOUN	NN	Number=Sing	6	_	_	start_char=2292|end_char=2297
+8	of	of	ADP	IN	_	7	_	_	start_char=2298|end_char=2300
+9	manufacture	manufacture	NOUN	NN	Number=Sing	8	_	_	start_char=2301|end_char=2312|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=2312|end_char=2313
+11	transport	transport	NOUN	NN	Number=Sing	10	_	_	start_char=2314|end_char=2323|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=2323|end_char=2324
+13	maintenance	maintenance	NOUN	NN	Number=Sing	12	_	_	start_char=2325|end_char=2336
+14	and	and	CCONJ	CC	_	13	_	_	start_char=2337|end_char=2340
+15	disposal	disposal	NOUN	NN	Number=Sing	14	_	_	start_char=2341|end_char=2349|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=2349|end_char=2350
+17	exactly	exactly	ADV	RB	_	16	_	_	start_char=2351|end_char=2358
+18	how	how	ADV	WRB	PronType=Int	17	_	_	start_char=2359|end_char=2362
+19	much	much	ADJ	JJ	Degree=Pos	18	_	_	start_char=2363|end_char=2367
+20	greenhouse	greenhouse	NOUN	NN	Number=Sing	19	_	_	start_char=2368|end_char=2378
+21	gas	gas	NOUN	NN	Number=Sing	20	_	_	start_char=2379|end_char=2382
+22	emissions	emission	NOUN	NNS	Number=Plur	21	_	_	start_char=2383|end_char=2392
+23	will	will	AUX	MD	VerbForm=Fin	22	_	_	start_char=2393|end_char=2397
+24	one	one	NUM	CD	NumForm=Word|NumType=Card	23	_	_	start_char=2398|end_char=2401
+25	solar	solar	NOUN	NN	Number=Sing	24	_	_	start_char=2402|end_char=2407
+26	megawatt	megawatt	NOUN	NN	Number=Sing	25	_	_	start_char=2408|end_char=2416
+27	cost	cost	VERB	VB	VerbForm=Inf	26	_	_	start_char=2417|end_char=2421
+28	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	27	_	_	start_char=2422|end_char=2424|SpaceAfter=No
+29	?	?	PUNCT	.	_	28	_	_	start_char=2424|end_char=2425
+
+# text = Nothing is as simple and unambiguous as we are led to believe.
+# sent_id = 20
+1	Nothing	nothing	PRON	NN	Number=Sing|PronType=Neg	0	_	_	start_char=2426|end_char=2433
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2434|end_char=2436
+3	as	as	ADV	RB	_	2	_	_	start_char=2437|end_char=2439
+4	simple	simple	ADJ	JJ	Degree=Pos	3	_	_	start_char=2440|end_char=2446
+5	and	and	CCONJ	CC	_	4	_	_	start_char=2447|end_char=2450
+6	unambiguous	unambiguous	ADJ	JJ	Degree=Pos	5	_	_	start_char=2451|end_char=2462
+7	as	as	SCONJ	IN	_	6	_	_	start_char=2463|end_char=2465
+8	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	_	_	start_char=2466|end_char=2468
+9	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	_	_	start_char=2469|end_char=2472
+10	led	lead	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	9	_	_	start_char=2473|end_char=2476
+11	to	to	PART	TO	_	10	_	_	start_char=2477|end_char=2479
+12	believe	believe	VERB	VB	VerbForm=Inf	11	_	_	start_char=2480|end_char=2487|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=2487|end_char=2488|SpacesAfter=\n
+
+# text = The truth is that when Europeans become significantly poorer, when their standard of living dramatically deteriorates, fewer greenhouse gases will be produced per capita.
+# sent_id = 21
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2489|end_char=2492
+2	truth	truth	NOUN	NN	Number=Sing	1	_	_	start_char=2493|end_char=2498
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2499|end_char=2501
+4	that	that	SCONJ	IN	_	3	_	_	start_char=2502|end_char=2506
+5	when	when	ADV	WRB	PronType=Int	4	_	_	start_char=2507|end_char=2511
+6	Europeans	European	PROPN	NNPS	Number=Plur	5	_	_	start_char=2512|end_char=2521
+7	become	become	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=2522|end_char=2528
+8	significantly	significantly	ADV	RB	_	7	_	_	start_char=2529|end_char=2542
+9	poorer	poor	ADJ	JJR	Degree=Cmp	8	_	_	start_char=2543|end_char=2549|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=2549|end_char=2550
+11	when	when	ADV	WRB	PronType=Int	10	_	_	start_char=2551|end_char=2555
+12	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	_	_	start_char=2556|end_char=2561
+13	standard	standard	NOUN	NN	Number=Sing	12	_	_	start_char=2562|end_char=2570
+14	of	of	ADP	IN	_	13	_	_	start_char=2571|end_char=2573
+15	living	living	NOUN	NN	Number=Sing	14	_	_	start_char=2574|end_char=2580
+16	dramatically	dramatically	ADV	RB	_	15	_	_	start_char=2581|end_char=2593
+17	deteriorates	deteriorate	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=2594|end_char=2606|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=2606|end_char=2607
+19	fewer	few	ADJ	JJR	Degree=Cmp	18	_	_	start_char=2608|end_char=2613
+20	greenhouse	greenhouse	NOUN	NN	Number=Sing	19	_	_	start_char=2614|end_char=2624
+21	gases	gas	NOUN	NNS	Number=Plur	20	_	_	start_char=2625|end_char=2630
+22	will	will	AUX	MD	VerbForm=Fin	21	_	_	start_char=2631|end_char=2635
+23	be	be	AUX	VB	VerbForm=Inf	22	_	_	start_char=2636|end_char=2638
+24	produced	produce	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	23	_	_	start_char=2639|end_char=2647
+25	per	per	ADP	IN	_	24	_	_	start_char=2648|end_char=2651
+26	capita	capita	NOUN	NN	Number=Sing	25	_	_	start_char=2652|end_char=2658|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=2658|end_char=2659
+
+# text = However, the reduced consumption of the European citizen will be compensated and surpassed by the extreme population growth in a number of countries in Africa and Asia.
+# sent_id = 22
+1	However	however	ADV	RB	_	0	_	_	start_char=2660|end_char=2667|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=2667|end_char=2668
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=2669|end_char=2672
+4	reduced	reduce	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=2673|end_char=2680
+5	consumption	consumption	NOUN	NN	Number=Sing	4	_	_	start_char=2681|end_char=2692
+6	of	of	ADP	IN	_	5	_	_	start_char=2693|end_char=2695
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=2696|end_char=2699
+8	European	European	ADJ	JJ	Degree=Pos	7	_	_	start_char=2700|end_char=2708
+9	citizen	citizen	NOUN	NN	Number=Sing	8	_	_	start_char=2709|end_char=2716
+10	will	will	AUX	MD	VerbForm=Fin	9	_	_	start_char=2717|end_char=2721
+11	be	be	AUX	VB	VerbForm=Inf	10	_	_	start_char=2722|end_char=2724
+12	compensated	compensate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	11	_	_	start_char=2725|end_char=2736
+13	and	and	CCONJ	CC	_	12	_	_	start_char=2737|end_char=2740
+14	surpassed	surpass	VERB	VBN	Tense=Past|VerbForm=Part	13	_	_	start_char=2741|end_char=2750
+15	by	by	ADP	IN	_	14	_	_	start_char=2751|end_char=2753
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=2754|end_char=2757
+17	extreme	extreme	ADJ	JJ	Degree=Pos	16	_	_	start_char=2758|end_char=2765
+18	population	population	NOUN	NN	Number=Sing	17	_	_	start_char=2766|end_char=2776
+19	growth	growth	NOUN	NN	Number=Sing	18	_	_	start_char=2777|end_char=2783
+20	in	in	ADP	IN	_	19	_	_	start_char=2784|end_char=2786
+21	a	a	DET	DT	Definite=Ind|PronType=Art	20	_	_	start_char=2787|end_char=2788
+22	number	number	NOUN	NN	Number=Sing	21	_	_	start_char=2789|end_char=2795
+23	of	of	ADP	IN	_	22	_	_	start_char=2796|end_char=2798
+24	countries	country	NOUN	NNS	Number=Plur	23	_	_	start_char=2799|end_char=2808
+25	in	in	ADP	IN	_	24	_	_	start_char=2809|end_char=2811
+26	Africa	Africa	PROPN	NNP	Number=Sing	25	_	_	start_char=2812|end_char=2818
+27	and	and	CCONJ	CC	_	26	_	_	start_char=2819|end_char=2822
+28	Asia	Asia	PROPN	NNP	Number=Sing	27	_	_	start_char=2823|end_char=2827|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=2827|end_char=2828
+
+# text = The more people, the more emissions, the more greenhouse gases.
+# sent_id = 23
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2829|end_char=2832
+2	more	more	ADJ	JJR	Degree=Cmp	1	_	_	start_char=2833|end_char=2837
+3	people	person	NOUN	NNS	Number=Plur	2	_	_	start_char=2838|end_char=2844|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=2844|end_char=2845
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=2846|end_char=2849
+6	more	more	ADJ	JJR	Degree=Cmp	5	_	_	start_char=2850|end_char=2854
+7	emissions	emission	NOUN	NNS	Number=Plur	6	_	_	start_char=2855|end_char=2864|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=2864|end_char=2865
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=2866|end_char=2869
+10	more	more	ADJ	JJR	Degree=Cmp	9	_	_	start_char=2870|end_char=2874
+11	greenhouse	greenhouse	NOUN	NN	Number=Sing	10	_	_	start_char=2875|end_char=2885
+12	gases	gas	NOUN	NNS	Number=Plur	11	_	_	start_char=2886|end_char=2891|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=2891|end_char=2892
+
+# text = The more waste, the greater the emigration waves.
+# sent_id = 24
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2893|end_char=2896
+2	more	more	ADJ	JJR	Degree=Cmp	1	_	_	start_char=2897|end_char=2901
+3	waste	waste	NOUN	NN	Number=Sing	2	_	_	start_char=2902|end_char=2907|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=2907|end_char=2908
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=2909|end_char=2912
+6	greater	great	ADJ	JJR	Degree=Cmp	5	_	_	start_char=2913|end_char=2920
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=2921|end_char=2924
+8	emigration	emigration	NOUN	NN	Number=Sing	7	_	_	start_char=2925|end_char=2935
+9	waves	wave	NOUN	NNS	Number=Plur	8	_	_	start_char=2936|end_char=2941|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=2941|end_char=2942|SpacesAfter=\n
+
+# text = It is absurd how the modern European elites are causing poverty and decline on their continent, while at the same time directly or indirectly aiding the population explosion in other parts of the world.
+# sent_id = 25
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=2943|end_char=2945
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2946|end_char=2948
+3	absurd	absurd	ADJ	JJ	Degree=Pos	2	_	_	start_char=2949|end_char=2955
+4	how	how	ADV	WRB	PronType=Int	3	_	_	start_char=2956|end_char=2959
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=2960|end_char=2963
+6	modern	modern	ADJ	JJ	Degree=Pos	5	_	_	start_char=2964|end_char=2970
+7	European	European	ADJ	JJ	Degree=Pos	6	_	_	start_char=2971|end_char=2979
+8	elites	elite	NOUN	NNS	Number=Plur	7	_	_	start_char=2980|end_char=2986
+9	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=2987|end_char=2990
+10	causing	cause	VERB	VBG	Tense=Pres|VerbForm=Part	9	_	_	start_char=2991|end_char=2998
+11	poverty	poverty	NOUN	NN	Number=Sing	10	_	_	start_char=2999|end_char=3006
+12	and	and	CCONJ	CC	_	11	_	_	start_char=3007|end_char=3010
+13	decline	decline	NOUN	NN	Number=Sing	12	_	_	start_char=3011|end_char=3018
+14	on	on	ADP	IN	_	13	_	_	start_char=3019|end_char=3021
+15	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	14	_	_	start_char=3022|end_char=3027
+16	continent	continent	NOUN	NN	Number=Sing	15	_	_	start_char=3028|end_char=3037|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=3037|end_char=3038
+18	while	while	SCONJ	IN	_	17	_	_	start_char=3039|end_char=3044
+19	at	at	ADP	IN	_	18	_	_	start_char=3045|end_char=3047
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=3048|end_char=3051
+21	same	same	ADJ	JJ	Degree=Pos	20	_	_	start_char=3052|end_char=3056
+22	time	time	NOUN	NN	Number=Sing	21	_	_	start_char=3057|end_char=3061
+23	directly	directly	ADV	RB	_	22	_	_	start_char=3062|end_char=3070
+24	or	or	CCONJ	CC	_	23	_	_	start_char=3071|end_char=3073
+25	indirectly	indirectly	ADV	RB	_	24	_	_	start_char=3074|end_char=3084
+26	aiding	aid	VERB	VBG	VerbForm=Ger	25	_	_	start_char=3085|end_char=3091
+27	the	the	DET	DT	Definite=Def|PronType=Art	26	_	_	start_char=3092|end_char=3095
+28	population	population	NOUN	NN	Number=Sing	27	_	_	start_char=3096|end_char=3106
+29	explosion	explosion	NOUN	NN	Number=Sing	28	_	_	start_char=3107|end_char=3116
+30	in	in	ADP	IN	_	29	_	_	start_char=3117|end_char=3119
+31	other	other	ADJ	JJ	Degree=Pos	30	_	_	start_char=3120|end_char=3125
+32	parts	part	NOUN	NNS	Number=Plur	31	_	_	start_char=3126|end_char=3131
+33	of	of	ADP	IN	_	32	_	_	start_char=3132|end_char=3134
+34	the	the	DET	DT	Definite=Def|PronType=Art	33	_	_	start_char=3135|end_char=3138
+35	world	world	NOUN	NN	Number=Sing	34	_	_	start_char=3139|end_char=3144|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=3144|end_char=3145
+
+# text = So what else is it precisely the food, medical and other aid that we generously provide, without clear conditions for birth control.
+# sent_id = 26
+1	So	so	ADV	RB	_	0	_	_	start_char=3146|end_char=3148
+2	what	what	PRON	WP	PronType=Int	1	_	_	start_char=3149|end_char=3153
+3	else	else	ADV	RB	_	2	_	_	start_char=3154|end_char=3158
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=3159|end_char=3161
+5	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	_	_	start_char=3162|end_char=3164
+6	precisely	precisely	ADV	RB	_	5	_	_	start_char=3165|end_char=3174
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=3175|end_char=3178
+8	food	food	NOUN	NN	Number=Sing	7	_	_	start_char=3179|end_char=3183|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=3183|end_char=3184
+10	medical	medical	ADJ	JJ	Degree=Pos	9	_	_	start_char=3185|end_char=3192
+11	and	and	CCONJ	CC	_	10	_	_	start_char=3193|end_char=3196
+12	other	other	ADJ	JJ	Degree=Pos	11	_	_	start_char=3197|end_char=3202
+13	aid	aid	NOUN	NN	Number=Sing	12	_	_	start_char=3203|end_char=3206
+14	that	that	PRON	WDT	PronType=Rel	13	_	_	start_char=3207|end_char=3211
+15	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	14	_	_	start_char=3212|end_char=3214
+16	generously	generously	ADV	RB	_	15	_	_	start_char=3215|end_char=3225
+17	provide	provide	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	16	_	_	start_char=3226|end_char=3233|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=3233|end_char=3234
+19	without	without	ADP	IN	_	18	_	_	start_char=3235|end_char=3242
+20	clear	clear	ADJ	JJ	Degree=Pos	19	_	_	start_char=3243|end_char=3248
+21	conditions	condition	NOUN	NNS	Number=Plur	20	_	_	start_char=3249|end_char=3259
+22	for	for	ADP	IN	_	21	_	_	start_char=3260|end_char=3263
+23	birth	birth	NOUN	NN	Number=Sing	22	_	_	start_char=3264|end_char=3269
+24	control	control	NOUN	NN	Number=Sing	23	_	_	start_char=3270|end_char=3277|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=3277|end_char=3278|SpacesAfter=\n
+
+# text = Of course the European elites will wrap all this up in pretty phrases about the health of the planet and comprehensive humanity, but the reality is different.
+# sent_id = 27
+1	Of	of	ADV	IN	_	0	_	_	start_char=3279|end_char=3281
+2	course	course	NOUN	NN	Number=Sing	1	_	_	start_char=3282|end_char=3288
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=3289|end_char=3292
+4	European	European	ADJ	JJ	Degree=Pos	3	_	_	start_char=3293|end_char=3301
+5	elites	elite	NOUN	NNS	Number=Plur	4	_	_	start_char=3302|end_char=3308
+6	will	will	AUX	MD	VerbForm=Fin	5	_	_	start_char=3309|end_char=3313
+7	wrap	wrap	VERB	VB	VerbForm=Inf	6	_	_	start_char=3314|end_char=3318
+8	all	all	DET	PDT	_	7	_	_	start_char=3319|end_char=3322
+9	this	this	PRON	DT	Number=Sing|PronType=Dem	8	_	_	start_char=3323|end_char=3327
+10	up	up	ADP	RP	_	9	_	_	start_char=3328|end_char=3330
+11	in	in	ADP	IN	_	10	_	_	start_char=3331|end_char=3333
+12	pretty	pretty	ADJ	JJ	Degree=Pos	11	_	_	start_char=3334|end_char=3340
+13	phrases	phrase	NOUN	NNS	Number=Plur	12	_	_	start_char=3341|end_char=3348
+14	about	about	ADP	IN	_	13	_	_	start_char=3349|end_char=3354
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=3355|end_char=3358
+16	health	health	NOUN	NN	Number=Sing	15	_	_	start_char=3359|end_char=3365
+17	of	of	ADP	IN	_	16	_	_	start_char=3366|end_char=3368
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=3369|end_char=3372
+19	planet	planet	NOUN	NN	Number=Sing	18	_	_	start_char=3373|end_char=3379
+20	and	and	CCONJ	CC	_	19	_	_	start_char=3380|end_char=3383
+21	comprehensive	comprehensive	ADJ	JJ	Degree=Pos	20	_	_	start_char=3384|end_char=3397
+22	humanity	humanity	NOUN	NN	Number=Sing	21	_	_	start_char=3398|end_char=3406|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=3406|end_char=3407
+24	but	but	CCONJ	CC	_	23	_	_	start_char=3408|end_char=3411
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=3412|end_char=3415
+26	reality	reality	NOUN	NN	Number=Sing	25	_	_	start_char=3416|end_char=3423
+27	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	_	_	start_char=3424|end_char=3426
+28	different	different	ADJ	JJ	Degree=Pos	27	_	_	start_char=3427|end_char=3436|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=3436|end_char=3437
+
+# text = As ordinary citizens we have little chance of halting this decline.
+# sent_id = 28
+1	As	as	ADP	IN	_	0	_	_	start_char=3438|end_char=3440
+2	ordinary	ordinary	ADJ	JJ	Degree=Pos	1	_	_	start_char=3441|end_char=3449
+3	citizens	citizen	NOUN	NNS	Number=Plur	2	_	_	start_char=3450|end_char=3458
+4	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	_	_	start_char=3459|end_char=3461
+5	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	_	_	start_char=3462|end_char=3466
+6	little	little	ADJ	JJ	Degree=Pos	5	_	_	start_char=3467|end_char=3473
+7	chance	chance	NOUN	NN	Number=Sing	6	_	_	start_char=3474|end_char=3480
+8	of	of	SCONJ	IN	_	7	_	_	start_char=3481|end_char=3483
+9	halting	halt	VERB	VBG	VerbForm=Ger	8	_	_	start_char=3484|end_char=3491
+10	this	this	DET	DT	Number=Sing|PronType=Dem	9	_	_	start_char=3492|end_char=3496
+11	decline	decline	NOUN	NN	Number=Sing	10	_	_	start_char=3497|end_char=3504|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=3504|end_char=3505
+
+# text = Time is running out.
+# sent_id = 29
+1	Time	time	NOUN	NN	Number=Sing	0	_	_	start_char=3506|end_char=3510
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=3511|end_char=3513
+3	running	run	VERB	VBG	Tense=Pres|VerbForm=Part	2	_	_	start_char=3514|end_char=3521
+4	out	out	ADP	RP	_	3	_	_	start_char=3522|end_char=3525|SpaceAfter=No
+5	.	.	PUNCT	.	_	4	_	_	start_char=3525|end_char=3526|SpacesAfter=\n
+
+# text = The most significant opportunity is precisely the European Parliament elections in 2024.
+# sent_id = 30
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=3527|end_char=3530
+2	most	most	ADV	RBS	Degree=Sup	1	_	_	start_char=3531|end_char=3535
+3	significant	significant	ADJ	JJ	Degree=Pos	2	_	_	start_char=3536|end_char=3547
+4	opportunity	opportunity	NOUN	NN	Number=Sing	3	_	_	start_char=3548|end_char=3559
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=3560|end_char=3562
+6	precisely	precisely	ADV	RB	_	5	_	_	start_char=3563|end_char=3572
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=3573|end_char=3576
+8	European	European	ADJ	NNP	Degree=Pos	7	_	_	start_char=3577|end_char=3585
+9	Parliament	Parliament	PROPN	NNP	Number=Sing	8	_	_	start_char=3586|end_char=3596
+10	elections	election	NOUN	NNS	Number=Plur	9	_	_	start_char=3597|end_char=3606
+11	in	in	ADP	IN	_	10	_	_	start_char=3607|end_char=3609
+12	2024	2024	NUM	CD	NumForm=Digit|NumType=Card	11	_	_	start_char=3610|end_char=3614|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=3614|end_char=3615
+
+# text = If the new European Parliament rejects the ban on the manufacture of internal combustion cars, ends the trade in banned emissions and forces Ukraine to accept reality as it is today.
+# sent_id = 31
+1	If	if	SCONJ	IN	_	0	_	_	start_char=3616|end_char=3618
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=3619|end_char=3622
+3	new	new	ADJ	JJ	Degree=Pos	2	_	_	start_char=3623|end_char=3626
+4	European	European	ADJ	JJ	Degree=Pos	3	_	_	start_char=3627|end_char=3635
+5	Parliament	Parliament	PROPN	NNP	Number=Sing	4	_	_	start_char=3636|end_char=3646
+6	rejects	reject	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=3647|end_char=3654
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=3655|end_char=3658
+8	ban	ban	NOUN	NN	Number=Sing	7	_	_	start_char=3659|end_char=3662
+9	on	on	ADP	IN	_	8	_	_	start_char=3663|end_char=3665
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=3666|end_char=3669
+11	manufacture	manufacture	NOUN	NN	Number=Sing	10	_	_	start_char=3670|end_char=3681
+12	of	of	ADP	IN	_	11	_	_	start_char=3682|end_char=3684
+13	internal	internal	ADJ	JJ	Degree=Pos	12	_	_	start_char=3685|end_char=3693
+14	combustion	combustion	NOUN	NN	Number=Sing	13	_	_	start_char=3694|end_char=3704
+15	cars	car	NOUN	NNS	Number=Plur	14	_	_	start_char=3705|end_char=3709|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=3709|end_char=3710
+17	ends	end	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=3711|end_char=3715
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=3716|end_char=3719
+19	trade	trade	NOUN	NN	Number=Sing	18	_	_	start_char=3720|end_char=3725
+20	in	in	ADP	IN	_	19	_	_	start_char=3726|end_char=3728
+21	banned	ban	VERB	VBN	Tense=Past|VerbForm=Part	20	_	_	start_char=3729|end_char=3735
+22	emissions	emission	NOUN	NNS	Number=Plur	21	_	_	start_char=3736|end_char=3745
+23	and	and	CCONJ	CC	_	22	_	_	start_char=3746|end_char=3749
+24	forces	force	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	_	_	start_char=3750|end_char=3756
+25	Ukraine	Ukraine	PROPN	NNP	Number=Sing	24	_	_	start_char=3757|end_char=3764
+26	to	to	PART	TO	_	25	_	_	start_char=3765|end_char=3767
+27	accept	accept	VERB	VB	VerbForm=Inf	26	_	_	start_char=3768|end_char=3774
+28	reality	reality	NOUN	NN	Number=Sing	27	_	_	start_char=3775|end_char=3782
+29	as	as	SCONJ	IN	_	28	_	_	start_char=3783|end_char=3785
+30	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	29	_	_	start_char=3786|end_char=3788
+31	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	_	_	start_char=3789|end_char=3791
+32	today	today	NOUN	NN	Number=Sing	31	_	_	start_char=3792|end_char=3797|SpaceAfter=No
+33	.	.	PUNCT	.	_	32	_	_	start_char=3797|end_char=3798
+
+# text = If the EU's external border is closed to illegal migrants, we and our children will have the chance to see that the EU will not become an insignificant, poor, dirty part of the world.
+# sent_id = 32
+1	If	if	SCONJ	IN	_	0	_	_	start_char=3799|end_char=3801
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=3802|end_char=3805
+3-4	EU's	_	_	_	_	_	_	_	start_char=3806|end_char=3810
+3	EU	EU	PROPN	NNP	Number=Sing	2	_	_	start_char=3806|end_char=3808
+4	's	's	PART	POS	_	3	_	_	start_char=3808|end_char=3810
+5	external	external	ADJ	JJ	Degree=Pos	4	_	_	start_char=3811|end_char=3819
+6	border	border	NOUN	NN	Number=Sing	5	_	_	start_char=3820|end_char=3826
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=3827|end_char=3829
+8	closed	close	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	_	_	start_char=3830|end_char=3836
+9	to	to	ADP	IN	_	8	_	_	start_char=3837|end_char=3839
+10	illegal	illegal	ADJ	JJ	Degree=Pos	9	_	_	start_char=3840|end_char=3847
+11	migrants	migrant	NOUN	NNS	Number=Plur	10	_	_	start_char=3848|end_char=3856|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=3856|end_char=3857
+13	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	12	_	_	start_char=3858|end_char=3860
+14	and	and	CCONJ	CC	_	13	_	_	start_char=3861|end_char=3864
+15	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	14	_	_	start_char=3865|end_char=3868
+16	children	child	NOUN	NNS	Number=Plur	15	_	_	start_char=3869|end_char=3877
+17	will	will	AUX	MD	VerbForm=Fin	16	_	_	start_char=3878|end_char=3882
+18	have	have	VERB	VB	VerbForm=Inf	17	_	_	start_char=3883|end_char=3887
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=3888|end_char=3891
+20	chance	chance	NOUN	NN	Number=Sing	19	_	_	start_char=3892|end_char=3898
+21	to	to	PART	TO	_	20	_	_	start_char=3899|end_char=3901
+22	see	see	VERB	VB	VerbForm=Inf	21	_	_	start_char=3902|end_char=3905
+23	that	that	SCONJ	IN	_	22	_	_	start_char=3906|end_char=3910
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=3911|end_char=3914
+25	EU	EU	PROPN	NNP	Number=Sing	24	_	_	start_char=3915|end_char=3917
+26	will	will	AUX	MD	VerbForm=Fin	25	_	_	start_char=3918|end_char=3922
+27	not	not	PART	RB	_	26	_	_	start_char=3923|end_char=3926
+28	become	become	VERB	VB	VerbForm=Inf	27	_	_	start_char=3927|end_char=3933
+29	an	a	DET	DT	Definite=Ind|PronType=Art	28	_	_	start_char=3934|end_char=3936
+30	insignificant	insignificant	ADJ	JJ	Degree=Pos	29	_	_	start_char=3937|end_char=3950|SpaceAfter=No
+31	,	,	PUNCT	,	_	30	_	_	start_char=3950|end_char=3951
+32	poor	poor	ADJ	JJ	Degree=Pos	31	_	_	start_char=3952|end_char=3956|SpaceAfter=No
+33	,	,	PUNCT	,	_	32	_	_	start_char=3956|end_char=3957
+34	dirty	dirty	ADJ	JJ	Degree=Pos	33	_	_	start_char=3958|end_char=3963
+35	part	part	NOUN	NN	Number=Sing	34	_	_	start_char=3964|end_char=3968
+36	of	of	ADP	IN	_	35	_	_	start_char=3969|end_char=3971
+37	the	the	DET	DT	Definite=Def|PronType=Art	36	_	_	start_char=3972|end_char=3975
+38	world	world	NOUN	NN	Number=Sing	37	_	_	start_char=3976|end_char=3981|SpaceAfter=No
+39	.	.	PUNCT	.	_	38	_	_	start_char=3981|end_char=3982|SpaceAfter=No
+

@@ -1,0 +1,241 @@
+# text = AFU reserve colonel: Eastern front collapsing, our troops retreating
+# sent_id = 0
+1	AFU	AFU	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=3
+2	reserve	reserve	NOUN	NN	Number=Sing	1	_	_	start_char=4|end_char=11
+3	colonel	colonel	NOUN	NN	Number=Sing	2	_	_	start_char=12|end_char=19|SpaceAfter=No
+4	:	:	PUNCT	:	_	3	_	_	start_char=19|end_char=20
+5	Eastern	Eastern	ADJ	JJ	Degree=Pos	4	_	_	start_char=21|end_char=28
+6	front	front	NOUN	NN	Number=Sing	5	_	_	start_char=29|end_char=34
+7	collapsing	collapse	NOUN	NN	Number=Sing	6	_	_	start_char=35|end_char=45|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=45|end_char=46
+9	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	8	_	_	start_char=47|end_char=50
+10	troops	troops	NOUN	NNS	Number=Plur	9	_	_	start_char=51|end_char=57
+11	retreating	retreat	VERB	VBG	VerbForm=Ger	10	_	_	start_char=58|end_char=68|SpacesAfter=\n\n
+
+# text = Ukrainian troops are now retreating to the Eastern Front, Armed Forces of Ukraine Reserve Colonel Roman Svitan said in an interview with YouTube channel "News Factory," reports Focus.
+# sent_id = 1
+1	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	0	_	_	start_char=70|end_char=79
+2	troops	troops	NOUN	NNS	Number=Plur	1	_	_	start_char=80|end_char=86
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=87|end_char=90
+4	now	now	ADV	RB	_	3	_	_	start_char=91|end_char=94
+5	retreating	retreat	VERB	VBG	Tense=Pres|VerbForm=Part	4	_	_	start_char=95|end_char=105
+6	to	to	ADP	IN	_	5	_	_	start_char=106|end_char=108
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=109|end_char=112
+8	Eastern	Eastern	ADJ	NNP	Degree=Pos	7	_	_	start_char=113|end_char=120
+9	Front	Front	PROPN	NNP	Number=Sing	8	_	_	start_char=121|end_char=126|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=126|end_char=127
+11	Armed	armed	ADJ	NNP	Degree=Pos	10	_	_	start_char=128|end_char=133
+12	Forces	Force	PROPN	NNPS	Number=Plur	11	_	_	start_char=134|end_char=140
+13	of	of	ADP	IN	_	12	_	_	start_char=141|end_char=143
+14	Ukraine	Ukraine	PROPN	NNP	Number=Sing	13	_	_	start_char=144|end_char=151
+15	Reserve	Reserve	PROPN	NNP	Number=Sing	14	_	_	start_char=152|end_char=159
+16	Colonel	Colonel	PROPN	NNP	Number=Sing	15	_	_	start_char=160|end_char=167
+17	Roman	Roman	PROPN	NNP	Number=Sing	16	_	_	start_char=168|end_char=173
+18	Svitan	Svitan	PROPN	NNP	Number=Sing	17	_	_	start_char=174|end_char=180
+19	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	_	_	start_char=181|end_char=185
+20	in	in	ADP	IN	_	19	_	_	start_char=186|end_char=188
+21	an	a	DET	DT	Definite=Ind|PronType=Art	20	_	_	start_char=189|end_char=191
+22	interview	interview	NOUN	NN	Number=Sing	21	_	_	start_char=192|end_char=201
+23	with	with	ADP	IN	_	22	_	_	start_char=202|end_char=206
+24	YouTube	YouTube	PROPN	NNP	Number=Sing	23	_	_	start_char=207|end_char=214
+25	channel	channel	NOUN	NN	Number=Sing	24	_	_	start_char=215|end_char=222
+26	"	"	PUNCT	``	_	25	_	_	start_char=223|end_char=224|SpaceAfter=No
+27	News	News	PROPN	NNP	Number=Sing	26	_	_	start_char=224|end_char=228
+28	Factory	Factory	PROPN	NNP	Number=Sing	27	_	_	start_char=229|end_char=236|SpaceAfter=No
+29	,	,	PUNCT	,	_	28	_	_	start_char=236|end_char=237|SpaceAfter=No
+30	"	"	PUNCT	''	_	29	_	_	start_char=237|end_char=238
+31	reports	report	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	_	_	start_char=239|end_char=246
+32	Focus	focus	PROPN	NNP	Number=Sing	31	_	_	start_char=247|end_char=252|SpaceAfter=No
+33	.	.	PUNCT	.	_	32	_	_	start_char=252|end_char=253|SpacesAfter=\n
+
+# text = "We see - there are no F-16s, there are not enough weapons.
+# sent_id = 2
+1	"	"	PUNCT	``	_	0	_	_	start_char=254|end_char=255|SpaceAfter=No
+2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	1	_	_	start_char=255|end_char=257
+3	see	see	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=258|end_char=261
+4	-	-	PUNCT	,	_	3	_	_	start_char=262|end_char=263
+5	there	there	PRON	EX	_	4	_	_	start_char=264|end_char=269
+6	are	be	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=270|end_char=273
+7	no	no	DET	DT	_	6	_	_	start_char=274|end_char=276
+8	F	F	PROPN	NNP	Number=Sing	7	_	_	start_char=277|end_char=278|SpaceAfter=No
+9	-	-	PUNCT	HYPH	_	8	_	_	start_char=278|end_char=279|SpaceAfter=No
+10	16s	16	NOUN	NNS	Number=Plur	9	_	_	start_char=279|end_char=282|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=282|end_char=283
+12	there	there	PRON	EX	_	11	_	_	start_char=284|end_char=289
+13	are	be	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=290|end_char=293
+14	not	not	PART	RB	_	13	_	_	start_char=294|end_char=297
+15	enough	enough	ADJ	JJ	Degree=Pos	14	_	_	start_char=298|end_char=304
+16	weapons	weapon	NOUN	NNS	Number=Plur	15	_	_	start_char=305|end_char=312|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=312|end_char=313
+
+# text = The eastern front is nowa crumbling, retreating, but we see this, that we are failing almost the entire width of the front due to insufficient ammunition...," he said.
+# sent_id = 3
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=314|end_char=317
+2	eastern	eastern	ADJ	JJ	Degree=Pos	1	_	_	start_char=318|end_char=325
+3	front	front	NOUN	NN	Number=Sing	2	_	_	start_char=326|end_char=331
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=332|end_char=334
+5	nowa	nowa	PROPN	NNP	Number=Sing	4	_	_	start_char=335|end_char=339
+6	crumbling	crumble	VERB	VBG	Tense=Pres|VerbForm=Part	5	_	_	start_char=340|end_char=349|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=349|end_char=350
+8	retreating	retreat	VERB	VBG	VerbForm=Ger	7	_	_	start_char=351|end_char=361|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=361|end_char=362
+10	but	but	CCONJ	CC	_	9	_	_	start_char=363|end_char=366
+11	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	10	_	_	start_char=367|end_char=369
+12	see	see	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	11	_	_	start_char=370|end_char=373
+13	this	this	PRON	DT	Number=Sing|PronType=Dem	12	_	_	start_char=374|end_char=378|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=378|end_char=379
+15	that	that	SCONJ	IN	_	14	_	_	start_char=380|end_char=384
+16	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	15	_	_	start_char=385|end_char=387
+17	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	16	_	_	start_char=388|end_char=391
+18	failing	fail	VERB	VBG	Tense=Pres|VerbForm=Part	17	_	_	start_char=392|end_char=399
+19	almost	almost	ADV	RB	_	18	_	_	start_char=400|end_char=406
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=407|end_char=410
+21	entire	entire	ADJ	JJ	Degree=Pos	20	_	_	start_char=411|end_char=417
+22	width	width	NOUN	NN	Number=Sing	21	_	_	start_char=418|end_char=423
+23	of	of	ADP	IN	_	22	_	_	start_char=424|end_char=426
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=427|end_char=430
+25	front	front	NOUN	NN	Number=Sing	24	_	_	start_char=431|end_char=436
+26	due	due	ADP	IN	_	25	_	_	start_char=437|end_char=440
+27	to	to	ADP	IN	_	26	_	_	start_char=441|end_char=443
+28	insufficient	insufficient	ADJ	JJ	Degree=Pos	27	_	_	start_char=444|end_char=456
+29	ammunition	ammunition	NOUN	NN	Number=Sing	28	_	_	start_char=457|end_char=467|SpaceAfter=No
+30	...	...	PUNCT	,	_	29	_	_	start_char=467|end_char=470|SpaceAfter=No
+31	,	,	PUNCT	,	_	30	_	_	start_char=470|end_char=471|SpaceAfter=No
+32	"	"	PUNCT	''	_	31	_	_	start_char=471|end_char=472
+33	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	32	_	_	start_char=473|end_char=475
+34	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	33	_	_	start_char=476|end_char=480|SpaceAfter=No
+35	.	.	PUNCT	.	_	34	_	_	start_char=480|end_char=481|SpacesAfter=\n
+
+# text = The colonel added that the Russian military would be applying serious pressure in the next week and a half or two.
+# sent_id = 4
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=482|end_char=485
+2	colonel	colonel	NOUN	NN	Number=Sing	1	_	_	start_char=486|end_char=493
+3	added	add	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=494|end_char=499
+4	that	that	SCONJ	IN	_	3	_	_	start_char=500|end_char=504
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=505|end_char=508
+6	Russian	Russian	ADJ	JJ	Degree=Pos	5	_	_	start_char=509|end_char=516
+7	military	military	NOUN	NN	Number=Sing	6	_	_	start_char=517|end_char=525
+8	would	would	AUX	MD	VerbForm=Fin	7	_	_	start_char=526|end_char=531
+9	be	be	AUX	VB	VerbForm=Inf	8	_	_	start_char=532|end_char=534
+10	applying	apply	VERB	VBG	Tense=Pres|VerbForm=Part	9	_	_	start_char=535|end_char=543
+11	serious	serious	ADJ	JJ	Degree=Pos	10	_	_	start_char=544|end_char=551
+12	pressure	pressure	NOUN	NN	Number=Sing	11	_	_	start_char=552|end_char=560
+13	in	in	ADP	IN	_	12	_	_	start_char=561|end_char=563
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=564|end_char=567
+15	next	next	ADJ	JJ	Degree=Pos	14	_	_	start_char=568|end_char=572
+16	week	week	NOUN	NN	Number=Sing	15	_	_	start_char=573|end_char=577
+17	and	and	CCONJ	CC	_	16	_	_	start_char=578|end_char=581
+18	a	a	DET	DT	Definite=Ind|PronType=Art	17	_	_	start_char=582|end_char=583
+19	half	half	NOUN	NN	NumForm=Word|NumType=Frac|Number=Sing	18	_	_	start_char=584|end_char=588
+20	or	or	CCONJ	CC	_	19	_	_	start_char=589|end_char=591
+21	two	two	NUM	CD	NumForm=Word|NumType=Card	20	_	_	start_char=592|end_char=595|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=595|end_char=596|SpacesAfter=\n
+
+# text = He also blamed the West for Kiev's problems, as Ukraine's partners sent the promised aid too late.
+# sent_id = 5
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=597|end_char=599
+2	also	also	ADV	RB	_	1	_	_	start_char=600|end_char=604
+3	blamed	blame	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=605|end_char=611
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=612|end_char=615
+5	West	West	PROPN	NNP	Number=Sing	4	_	_	start_char=616|end_char=620
+6	for	for	ADP	IN	_	5	_	_	start_char=621|end_char=624
+7-8	Kiev's	_	_	_	_	_	_	_	start_char=625|end_char=631
+7	Kiev	Kiev	PROPN	NNP	Number=Sing	6	_	_	start_char=625|end_char=629
+8	's	's	PART	POS	_	7	_	_	start_char=629|end_char=631
+9	problems	problem	NOUN	NNS	Number=Plur	8	_	_	start_char=632|end_char=640|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=640|end_char=641
+11	as	as	SCONJ	IN	_	10	_	_	start_char=642|end_char=644
+12-13	Ukraine's	_	_	_	_	_	_	_	start_char=645|end_char=654
+12	Ukraine	Ukraine	PROPN	NNP	Number=Sing	11	_	_	start_char=645|end_char=652
+13	's	's	PART	POS	_	12	_	_	start_char=652|end_char=654
+14	partners	partner	NOUN	NNS	Number=Plur	13	_	_	start_char=655|end_char=663
+15	sent	send	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=664|end_char=668
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=669|end_char=672
+17	promised	promise	VERB	VBN	Tense=Past|VerbForm=Part	16	_	_	start_char=673|end_char=681
+18	aid	aid	NOUN	NN	Number=Sing	17	_	_	start_char=682|end_char=685
+19	too	too	ADV	RB	_	18	_	_	start_char=686|end_char=689
+20	late	late	ADV	RB	Degree=Pos	19	_	_	start_char=690|end_char=694|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=694|end_char=695|SpacesAfter=\n
+
+# text = Earlier, First Deputy Defense Minister Ivan Gavrilyuk said that at the beginning of this year, the Russians' artillery advantage was 7:1, but had been reduced to 1:5.
+# sent_id = 6
+1	Earlier	early	ADV	RBR	Degree=Cmp	0	_	_	start_char=696|end_char=703|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=703|end_char=704
+3	First	first	ADJ	NNP	Degree=Pos|NumType=Ord	2	_	_	start_char=705|end_char=710
+4	Deputy	deputy	PROPN	NNP	Number=Sing	3	_	_	start_char=711|end_char=717
+5	Defense	Defense	PROPN	NNP	Number=Sing	4	_	_	start_char=718|end_char=725
+6	Minister	Minister	PROPN	NNP	Number=Sing	5	_	_	start_char=726|end_char=734
+7	Ivan	Ivan	PROPN	NNP	Number=Sing	6	_	_	start_char=735|end_char=739
+8	Gavrilyuk	Gavrilyuk	PROPN	NNP	Number=Sing	7	_	_	start_char=740|end_char=749
+9	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=750|end_char=754
+10	that	that	SCONJ	IN	_	9	_	_	start_char=755|end_char=759
+11	at	at	ADP	IN	_	10	_	_	start_char=760|end_char=762
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=763|end_char=766
+13	beginning	beginning	NOUN	NN	Number=Sing	12	_	_	start_char=767|end_char=776
+14	of	of	ADP	IN	_	13	_	_	start_char=777|end_char=779
+15	this	this	DET	DT	Number=Sing|PronType=Dem	14	_	_	start_char=780|end_char=784
+16	year	year	NOUN	NN	Number=Sing	15	_	_	start_char=785|end_char=789|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=789|end_char=790
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=791|end_char=794
+19-20	Russians'	_	_	_	_	_	_	_	start_char=795|end_char=804
+19	Russians	Russian	PROPN	NNPS	Number=Plur	18	_	_	start_char=795|end_char=803
+20	'	's	PART	POS	_	19	_	_	start_char=803|end_char=804
+21	artillery	artillery	NOUN	NN	Number=Sing	20	_	_	start_char=805|end_char=814
+22	advantage	advantage	NOUN	NN	Number=Sing	21	_	_	start_char=815|end_char=824
+23	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	_	_	start_char=825|end_char=828
+24	7:1	7:1	NUM	CD	NumForm=Digit|NumType=Card	23	_	_	start_char=829|end_char=832|SpaceAfter=No
+25	,	,	PUNCT	,	_	24	_	_	start_char=832|end_char=833
+26	but	but	CCONJ	CC	_	25	_	_	start_char=834|end_char=837
+27	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	26	_	_	start_char=838|end_char=841
+28	been	be	AUX	VBN	Tense=Past|VerbForm=Part	27	_	_	start_char=842|end_char=846
+29	reduced	reduce	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	28	_	_	start_char=847|end_char=854
+30	to	to	ADP	IN	_	29	_	_	start_char=855|end_char=857
+31	1:5	1:5	NUM	CD	NumForm=Digit|NumType=Card	30	_	_	start_char=858|end_char=861|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=861|end_char=862|SpacesAfter=\n
+
+# text = In late winter, Ukraine's President Volodymyr Zelensky noted that the ratio of artillery rounds needed to be 1:3 or 1:1.5 to repel the Russians.
+# sent_id = 7
+1	In	in	ADP	IN	_	0	_	_	start_char=863|end_char=865
+2	late	late	ADJ	JJ	Degree=Pos	1	_	_	start_char=866|end_char=870
+3	winter	winter	NOUN	NN	Number=Sing	2	_	_	start_char=871|end_char=877|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=877|end_char=878
+5-6	Ukraine's	_	_	_	_	_	_	_	start_char=879|end_char=888
+5	Ukraine	Ukraine	PROPN	NNP	Number=Sing	4	_	_	start_char=879|end_char=886
+6	's	's	PART	POS	_	5	_	_	start_char=886|end_char=888
+7	President	President	PROPN	NNP	Number=Sing	6	_	_	start_char=889|end_char=898
+8	Volodymyr	Volodymyr	PROPN	NNP	Number=Sing	7	_	_	start_char=899|end_char=908
+9	Zelensky	Zelensky	PROPN	NNP	Number=Sing	8	_	_	start_char=909|end_char=917
+10	noted	note	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=918|end_char=923
+11	that	that	SCONJ	IN	_	10	_	_	start_char=924|end_char=928
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=929|end_char=932
+13	ratio	ratio	NOUN	NN	Number=Sing	12	_	_	start_char=933|end_char=938
+14	of	of	ADP	IN	_	13	_	_	start_char=939|end_char=941
+15	artillery	artillery	NOUN	NN	Number=Sing	14	_	_	start_char=942|end_char=951
+16	rounds	round	NOUN	NNS	Number=Plur	15	_	_	start_char=952|end_char=958
+17	needed	need	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	_	_	start_char=959|end_char=965
+18	to	to	PART	TO	_	17	_	_	start_char=966|end_char=968
+19	be	be	AUX	VB	VerbForm=Inf	18	_	_	start_char=969|end_char=971
+20	1:3	1:3	NUM	CD	NumForm=Digit|NumType=Card	19	_	_	start_char=972|end_char=975
+21	or	or	CCONJ	CC	_	20	_	_	start_char=976|end_char=978
+22	1:1.5	1:1.5	NUM	CD	NumForm=Digit|NumType=Card	21	_	_	start_char=979|end_char=984
+23	to	to	PART	TO	_	22	_	_	start_char=985|end_char=987
+24	repel	repel	VERB	VB	VerbForm=Inf	23	_	_	start_char=988|end_char=993
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=994|end_char=997
+26	Russians	Russian	PROPN	NNPS	Number=Plur	25	_	_	start_char=998|end_char=1006|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=1006|end_char=1007
+
+# text = Otherwise, the AFU will either stand still or lose control.
+# sent_id = 8
+1	Otherwise	otherwise	ADV	RB	_	0	_	_	start_char=1008|end_char=1017|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=1017|end_char=1018
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1019|end_char=1022
+4	AFU	AFU	PROPN	NNP	Number=Sing	3	_	_	start_char=1023|end_char=1026
+5	will	will	AUX	MD	VerbForm=Fin	4	_	_	start_char=1027|end_char=1031
+6	either	either	CCONJ	CC	_	5	_	_	start_char=1032|end_char=1038
+7	stand	stand	VERB	VB	VerbForm=Inf	6	_	_	start_char=1039|end_char=1044
+8	still	still	ADV	RB	_	7	_	_	start_char=1045|end_char=1050
+9	or	or	CCONJ	CC	_	8	_	_	start_char=1051|end_char=1053
+10	lose	lose	VERB	VB	VerbForm=Inf	9	_	_	start_char=1054|end_char=1058
+11	control	control	NOUN	NN	Number=Sing	10	_	_	start_char=1059|end_char=1066|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=1066|end_char=1067|SpaceAfter=No
+

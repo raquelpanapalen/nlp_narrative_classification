@@ -1,0 +1,309 @@
+# text = Bloomberg: Putin doesn't have much time left to achieve breakthrough in Ukraine
+# sent_id = 0
+1	Bloomberg	Bloomberg	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=9|SpaceAfter=No
+2	:	:	PUNCT	:	_	1	_	_	start_char=9|end_char=10
+3	Putin	Putin	PROPN	NNP	Number=Sing	2	_	_	start_char=11|end_char=16
+4-5	doesn't	_	_	_	_	_	_	_	start_char=17|end_char=24
+4	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=17|end_char=21
+5	n't	not	PART	RB	_	4	_	_	start_char=21|end_char=24
+6	have	have	VERB	VB	VerbForm=Inf	5	_	_	start_char=25|end_char=29
+7	much	much	ADJ	JJ	Degree=Pos	6	_	_	start_char=30|end_char=34
+8	time	time	NOUN	NN	Number=Sing	7	_	_	start_char=35|end_char=39
+9	left	leave	VERB	VBN	Tense=Past|VerbForm=Part	8	_	_	start_char=40|end_char=44
+10	to	to	PART	TO	_	9	_	_	start_char=45|end_char=47
+11	achieve	achieve	VERB	VB	VerbForm=Inf	10	_	_	start_char=48|end_char=55
+12	breakthrough	breakthrough	NOUN	NN	Number=Sing	11	_	_	start_char=56|end_char=68
+13	in	in	ADP	IN	_	12	_	_	start_char=69|end_char=71
+14	Ukraine	Ukraine	PROPN	NNP	Number=Sing	13	_	_	start_char=72|end_char=79|SpacesAfter=\n\n
+
+# text = For months, the Russian military made only limited gains on the battlefield against Ukrainian troops, who were experiencing shortages of weapons and ammunition.
+# sent_id = 1
+1	For	for	ADP	IN	_	0	_	_	start_char=81|end_char=84
+2	months	month	NOUN	NNS	Number=Plur	1	_	_	start_char=85|end_char=91|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=91|end_char=92
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=93|end_char=96
+5	Russian	Russian	ADJ	JJ	Degree=Pos	4	_	_	start_char=97|end_char=104
+6	military	military	NOUN	NN	Number=Sing	5	_	_	start_char=105|end_char=113
+7	made	make	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=114|end_char=118
+8	only	only	ADV	RB	_	7	_	_	start_char=119|end_char=123
+9	limited	limited	ADJ	JJ	Degree=Pos	8	_	_	start_char=124|end_char=131
+10	gains	gain	NOUN	NNS	Number=Plur	9	_	_	start_char=132|end_char=137
+11	on	on	ADP	IN	_	10	_	_	start_char=138|end_char=140
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=141|end_char=144
+13	battlefield	battlefield	NOUN	NN	Number=Sing	12	_	_	start_char=145|end_char=156
+14	against	against	ADP	IN	_	13	_	_	start_char=157|end_char=164
+15	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	14	_	_	start_char=165|end_char=174
+16	troops	troops	NOUN	NNS	Number=Plur	15	_	_	start_char=175|end_char=181|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=181|end_char=182
+18	who	who	PRON	WP	PronType=Rel	17	_	_	start_char=183|end_char=186
+19	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	18	_	_	start_char=187|end_char=191
+20	experiencing	experience	VERB	VBG	Tense=Pres|VerbForm=Part	19	_	_	start_char=192|end_char=204
+21	shortages	shortage	NOUN	NNS	Number=Plur	20	_	_	start_char=205|end_char=214
+22	of	of	ADP	IN	_	21	_	_	start_char=215|end_char=217
+23	weapons	weapon	NOUN	NNS	Number=Plur	22	_	_	start_char=218|end_char=225
+24	and	and	CCONJ	CC	_	23	_	_	start_char=226|end_char=229
+25	ammunition	ammunition	NOUN	NN	Number=Sing	24	_	_	start_char=230|end_char=240|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=240|end_char=241
+
+# text = This is a growing challenge for President Vladimir Putin as his army's advantage begins to wane.
+# sent_id = 2
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=242|end_char=246
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=247|end_char=249
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=250|end_char=251
+4	growing	grow	VERB	VBG	VerbForm=Ger	3	_	_	start_char=252|end_char=259
+5	challenge	challenge	NOUN	NN	Number=Sing	4	_	_	start_char=260|end_char=269
+6	for	for	ADP	IN	_	5	_	_	start_char=270|end_char=273
+7	President	President	PROPN	NNP	Number=Sing	6	_	_	start_char=274|end_char=283
+8	Vladimir	Vladimir	PROPN	NNP	Number=Sing	7	_	_	start_char=284|end_char=292
+9	Putin	Putin	PROPN	NNP	Number=Sing	8	_	_	start_char=293|end_char=298
+10	as	as	SCONJ	IN	_	9	_	_	start_char=299|end_char=301
+11	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	_	_	start_char=302|end_char=305
+12-13	army's	_	_	_	_	_	_	_	start_char=306|end_char=312
+12	army	army	NOUN	NN	Number=Sing	11	_	_	start_char=306|end_char=310
+13	's	's	PART	POS	_	12	_	_	start_char=310|end_char=312
+14	advantage	advantage	NOUN	NN	Number=Sing	13	_	_	start_char=313|end_char=322
+15	begins	begin	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=323|end_char=329
+16	to	to	PART	TO	_	15	_	_	start_char=330|end_char=332
+17	wane	wane	VERB	VB	VerbForm=Inf	16	_	_	start_char=333|end_char=337|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=337|end_char=338|SpacesAfter=\n
+
+# text = As Kiev receives billions of dollars in fresh arms shipments from its U.S. and European allies, the window for a Russian breakout is narrowing, even as it continues to fire missiles and drones at Ukrainian cities, including energy infrastructure.
+# sent_id = 3
+1	As	as	SCONJ	IN	_	0	_	_	start_char=339|end_char=341
+2	Kiev	Kiev	PROPN	NNP	Number=Sing	1	_	_	start_char=342|end_char=346
+3	receives	receive	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=347|end_char=355
+4	billions	billion	NOUN	NNS	Number=Plur	3	_	_	start_char=356|end_char=364
+5	of	of	ADP	IN	_	4	_	_	start_char=365|end_char=367
+6	dollars	dollar	NOUN	NNS	Number=Plur	5	_	_	start_char=368|end_char=375
+7	in	in	ADP	IN	_	6	_	_	start_char=376|end_char=378
+8	fresh	fresh	ADJ	JJ	Degree=Pos	7	_	_	start_char=379|end_char=384
+9	arms	arm	NOUN	NNS	Number=Plur	8	_	_	start_char=385|end_char=389
+10	shipments	shipment	NOUN	NNS	Number=Plur	9	_	_	start_char=390|end_char=399
+11	from	from	ADP	IN	_	10	_	_	start_char=400|end_char=404
+12	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	_	_	start_char=405|end_char=408
+13	U.S.	U.S.	PROPN	NNP	Number=Sing	12	_	_	start_char=409|end_char=413
+14	and	and	CCONJ	CC	_	13	_	_	start_char=414|end_char=417
+15	European	European	ADJ	JJ	Degree=Pos	14	_	_	start_char=418|end_char=426
+16	allies	ally	NOUN	NNS	Number=Plur	15	_	_	start_char=427|end_char=433|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=433|end_char=434
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=435|end_char=438
+19	window	window	NOUN	NN	Number=Sing	18	_	_	start_char=439|end_char=445
+20	for	for	ADP	IN	_	19	_	_	start_char=446|end_char=449
+21	a	a	DET	DT	Definite=Ind|PronType=Art	20	_	_	start_char=450|end_char=451
+22	Russian	Russian	ADJ	JJ	Degree=Pos	21	_	_	start_char=452|end_char=459
+23	breakout	breakout	NOUN	NN	Number=Sing	22	_	_	start_char=460|end_char=468
+24	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	_	_	start_char=469|end_char=471
+25	narrowing	narrow	VERB	VBG	Tense=Pres|VerbForm=Part	24	_	_	start_char=472|end_char=481|SpaceAfter=No
+26	,	,	PUNCT	,	_	25	_	_	start_char=481|end_char=482
+27	even	even	ADV	RB	_	26	_	_	start_char=483|end_char=487
+28	as	as	SCONJ	IN	_	27	_	_	start_char=488|end_char=490
+29	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	28	_	_	start_char=491|end_char=493
+30	continues	continue	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	_	_	start_char=494|end_char=503
+31	to	to	PART	TO	_	30	_	_	start_char=504|end_char=506
+32	fire	fire	VERB	VB	VerbForm=Inf	31	_	_	start_char=507|end_char=511
+33	missiles	missile	NOUN	NNS	Number=Plur	32	_	_	start_char=512|end_char=520
+34	and	and	CCONJ	CC	_	33	_	_	start_char=521|end_char=524
+35	drones	drone	NOUN	NNS	Number=Plur	34	_	_	start_char=525|end_char=531
+36	at	at	ADP	IN	_	35	_	_	start_char=532|end_char=534
+37	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	36	_	_	start_char=535|end_char=544
+38	cities	city	NOUN	NNS	Number=Plur	37	_	_	start_char=545|end_char=551|SpaceAfter=No
+39	,	,	PUNCT	,	_	38	_	_	start_char=551|end_char=552
+40	including	include	VERB	VBG	VerbForm=Ger	39	_	_	start_char=553|end_char=562
+41	energy	energy	NOUN	NN	Number=Sing	40	_	_	start_char=563|end_char=569
+42	infrastructure	infrastructure	NOUN	NN	Number=Sing	41	_	_	start_char=570|end_char=584|SpaceAfter=No
+43	.	.	PUNCT	.	_	42	_	_	start_char=584|end_char=585|SpacesAfter=\n
+
+# text = Russia's attempt to open a new front in northeastern Ukraine near Kharkiv already appears to be floundering, failing to achieve the goal of creating a buffer zone along the border.
+# sent_id = 4
+1-2	Russia's	_	_	_	_	_	_	_	start_char=586|end_char=594
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=586|end_char=592
+2	's	's	PART	POS	_	1	_	_	start_char=592|end_char=594
+3	attempt	attempt	NOUN	NN	Number=Sing	2	_	_	start_char=595|end_char=602
+4	to	to	PART	TO	_	3	_	_	start_char=603|end_char=605
+5	open	open	VERB	VB	VerbForm=Inf	4	_	_	start_char=606|end_char=610
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=611|end_char=612
+7	new	new	ADJ	JJ	Degree=Pos	6	_	_	start_char=613|end_char=616
+8	front	front	NOUN	NN	Number=Sing	7	_	_	start_char=617|end_char=622
+9	in	in	ADP	IN	_	8	_	_	start_char=623|end_char=625
+10	northeastern	northeastern	ADJ	JJ	Degree=Pos	9	_	_	start_char=626|end_char=638
+11	Ukraine	Ukraine	PROPN	NNP	Number=Sing	10	_	_	start_char=639|end_char=646
+12	near	near	ADP	IN	_	11	_	_	start_char=647|end_char=651
+13	Kharkiv	Kharkiv	PROPN	NNP	Number=Sing	12	_	_	start_char=652|end_char=659
+14	already	already	ADV	RB	_	13	_	_	start_char=660|end_char=667
+15	appears	appear	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=668|end_char=675
+16	to	to	PART	TO	_	15	_	_	start_char=676|end_char=678
+17	be	be	AUX	VB	VerbForm=Inf	16	_	_	start_char=679|end_char=681
+18	floundering	flounder	VERB	VBG	Tense=Pres|VerbForm=Part	17	_	_	start_char=682|end_char=693|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=693|end_char=694
+20	failing	fail	VERB	VBG	VerbForm=Ger	19	_	_	start_char=695|end_char=702
+21	to	to	PART	TO	_	20	_	_	start_char=703|end_char=705
+22	achieve	achieve	VERB	VB	VerbForm=Inf	21	_	_	start_char=706|end_char=713
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=714|end_char=717
+24	goal	goal	NOUN	NN	Number=Sing	23	_	_	start_char=718|end_char=722
+25	of	of	SCONJ	IN	_	24	_	_	start_char=723|end_char=725
+26	creating	create	VERB	VBG	VerbForm=Ger	25	_	_	start_char=726|end_char=734
+27	a	a	DET	DT	Definite=Ind|PronType=Art	26	_	_	start_char=735|end_char=736
+28	buffer	buffer	NOUN	NN	Number=Sing	27	_	_	start_char=737|end_char=743
+29	zone	zone	NOUN	NN	Number=Sing	28	_	_	start_char=744|end_char=748
+30	along	along	ADP	IN	_	29	_	_	start_char=749|end_char=754
+31	the	the	DET	DT	Definite=Def|PronType=Art	30	_	_	start_char=755|end_char=758
+32	border	border	NOUN	NN	Number=Sing	31	_	_	start_char=759|end_char=765|SpaceAfter=No
+33	.	.	PUNCT	.	_	32	_	_	start_char=765|end_char=766
+
+# text = Ukraine says it is inflicting "very heavy losses" on Russian troops in the fighting around the town of Volchansk.
+# sent_id = 5
+1	Ukraine	Ukraine	PROPN	NNP	Number=Sing	0	_	_	start_char=767|end_char=774
+2	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=775|end_char=779
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	_	_	start_char=780|end_char=782
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=783|end_char=785
+5	inflicting	inflict	VERB	VBG	Tense=Pres|VerbForm=Part	4	_	_	start_char=786|end_char=796
+6	"	"	PUNCT	``	_	5	_	_	start_char=797|end_char=798|SpaceAfter=No
+7	very	very	ADV	RB	_	6	_	_	start_char=798|end_char=802
+8	heavy	heavy	ADJ	JJ	Degree=Pos	7	_	_	start_char=803|end_char=808
+9	losses	loss	NOUN	NNS	Number=Plur	8	_	_	start_char=809|end_char=815|SpaceAfter=No
+10	"	"	PUNCT	''	_	9	_	_	start_char=815|end_char=816
+11	on	on	ADP	IN	_	10	_	_	start_char=817|end_char=819
+12	Russian	Russian	ADJ	JJ	Degree=Pos	11	_	_	start_char=820|end_char=827
+13	troops	troops	NOUN	NNS	Number=Plur	12	_	_	start_char=828|end_char=834
+14	in	in	ADP	IN	_	13	_	_	start_char=835|end_char=837
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=838|end_char=841
+16	fighting	fighting	NOUN	NN	Number=Sing	15	_	_	start_char=842|end_char=850
+17	around	around	ADP	IN	_	16	_	_	start_char=851|end_char=857
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=858|end_char=861
+19	town	town	NOUN	NN	Number=Sing	18	_	_	start_char=862|end_char=866
+20	of	of	ADP	IN	_	19	_	_	start_char=867|end_char=869
+21	Volchansk	Volchansk	PROPN	NNP	Number=Sing	20	_	_	start_char=870|end_char=879|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=879|end_char=880|SpacesAfter=\n
+
+# text = In addition, Russian forces have made little progress since seizing the strategic eastern Ukrainian town of Avdeyevka in February at the cost of huge losses in months of fighting.
+# sent_id = 6
+1	In	in	ADP	IN	_	0	_	_	start_char=881|end_char=883
+2	addition	addition	NOUN	NN	Number=Sing	1	_	_	start_char=884|end_char=892|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=892|end_char=893
+4	Russian	Russian	ADJ	JJ	Degree=Pos	3	_	_	start_char=894|end_char=901
+5	forces	force	NOUN	NNS	Number=Plur	4	_	_	start_char=902|end_char=908
+6	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=909|end_char=913
+7	made	make	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=914|end_char=918
+8	little	little	ADJ	JJ	Degree=Pos	7	_	_	start_char=919|end_char=925
+9	progress	progress	NOUN	NN	Number=Sing	8	_	_	start_char=926|end_char=934
+10	since	since	SCONJ	IN	_	9	_	_	start_char=935|end_char=940
+11	seizing	seize	VERB	VBG	VerbForm=Ger	10	_	_	start_char=941|end_char=948
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=949|end_char=952
+13	strategic	strategic	ADJ	JJ	Degree=Pos	12	_	_	start_char=953|end_char=962
+14	eastern	eastern	ADJ	JJ	Degree=Pos	13	_	_	start_char=963|end_char=970
+15	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	14	_	_	start_char=971|end_char=980
+16	town	town	NOUN	NN	Number=Sing	15	_	_	start_char=981|end_char=985
+17	of	of	ADP	IN	_	16	_	_	start_char=986|end_char=988
+18	Avdeyevka	Avdeyevka	PROPN	NNP	Number=Sing	17	_	_	start_char=989|end_char=998
+19	in	in	ADP	IN	_	18	_	_	start_char=999|end_char=1001
+20	February	February	PROPN	NNP	Number=Sing	19	_	_	start_char=1002|end_char=1010
+21	at	at	ADP	IN	_	20	_	_	start_char=1011|end_char=1013
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=1014|end_char=1017
+23	cost	cost	NOUN	NN	Number=Sing	22	_	_	start_char=1018|end_char=1022
+24	of	of	ADP	IN	_	23	_	_	start_char=1023|end_char=1025
+25	huge	huge	ADJ	JJ	Degree=Pos	24	_	_	start_char=1026|end_char=1030
+26	losses	loss	NOUN	NNS	Number=Plur	25	_	_	start_char=1031|end_char=1037
+27	in	in	ADP	IN	_	26	_	_	start_char=1038|end_char=1040
+28	months	month	NOUN	NNS	Number=Plur	27	_	_	start_char=1041|end_char=1047
+29	of	of	ADP	IN	_	28	_	_	start_char=1048|end_char=1050
+30	fighting	fighting	NOUN	NN	Number=Sing	29	_	_	start_char=1051|end_char=1059|SpaceAfter=No
+31	.	.	PUNCT	.	_	30	_	_	start_char=1059|end_char=1060
+
+# text = For several weeks, the Russians have been trying to capture the key settlement of Chasov Yar in the eastern Donetsk region.
+# sent_id = 7
+1	For	for	ADP	IN	_	0	_	_	start_char=1061|end_char=1064
+2	several	several	ADJ	JJ	Degree=Pos	1	_	_	start_char=1065|end_char=1072
+3	weeks	week	NOUN	NNS	Number=Plur	2	_	_	start_char=1073|end_char=1078|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1078|end_char=1079
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1080|end_char=1083
+6	Russians	Russian	PROPN	NNPS	Number=Plur	5	_	_	start_char=1084|end_char=1092
+7	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=1093|end_char=1097
+8	been	be	AUX	VBN	Tense=Past|VerbForm=Part	7	_	_	start_char=1098|end_char=1102
+9	trying	try	VERB	VBG	Tense=Pres|VerbForm=Part	8	_	_	start_char=1103|end_char=1109
+10	to	to	PART	TO	_	9	_	_	start_char=1110|end_char=1112
+11	capture	capture	VERB	VB	VerbForm=Inf	10	_	_	start_char=1113|end_char=1120
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=1121|end_char=1124
+13	key	key	ADJ	JJ	Degree=Pos	12	_	_	start_char=1125|end_char=1128
+14	settlement	settlement	NOUN	NN	Number=Sing	13	_	_	start_char=1129|end_char=1139
+15	of	of	ADP	IN	_	14	_	_	start_char=1140|end_char=1142
+16	Chasov	Chasov	PROPN	NNP	Number=Sing	15	_	_	start_char=1143|end_char=1149
+17	Yar	Yar	PROPN	NNP	Number=Sing	16	_	_	start_char=1150|end_char=1153
+18	in	in	ADP	IN	_	17	_	_	start_char=1154|end_char=1156
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=1157|end_char=1160
+20	eastern	eastern	ADJ	JJ	Degree=Pos	19	_	_	start_char=1161|end_char=1168
+21	Donetsk	Donetsk	PROPN	NNP	Number=Sing	20	_	_	start_char=1169|end_char=1176
+22	region	region	NOUN	NN	Number=Sing	21	_	_	start_char=1177|end_char=1183|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=1183|end_char=1184|SpacesAfter=\n
+
+# text = "Russia's strategy of exhausting Ukraine's forces has been very costly and bloody for the Russian army itself.
+# sent_id = 8
+1	"	"	PUNCT	``	_	0	_	_	start_char=1185|end_char=1186|SpaceAfter=No
+2-3	Russia's	_	_	_	_	_	_	_	start_char=1186|end_char=1194
+2	Russia	Russia	PROPN	NNP	Number=Sing	1	_	_	start_char=1186|end_char=1192
+3	's	's	PART	POS	_	2	_	_	start_char=1192|end_char=1194
+4	strategy	strategy	NOUN	NN	Number=Sing	3	_	_	start_char=1195|end_char=1203
+5	of	of	SCONJ	IN	_	4	_	_	start_char=1204|end_char=1206
+6	exhausting	exhausting	VERB	VBG	VerbForm=Ger	5	_	_	start_char=1207|end_char=1217
+7-8	Ukraine's	_	_	_	_	_	_	_	start_char=1218|end_char=1227
+7	Ukraine	Ukraine	PROPN	NNP	Number=Sing	6	_	_	start_char=1218|end_char=1225
+8	's	's	PART	POS	_	7	_	_	start_char=1225|end_char=1227
+9	forces	force	NOUN	NNS	Number=Plur	8	_	_	start_char=1228|end_char=1234
+10	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=1235|end_char=1238
+11	been	be	AUX	VBN	Tense=Past|VerbForm=Part	10	_	_	start_char=1239|end_char=1243
+12	very	very	ADV	RB	_	11	_	_	start_char=1244|end_char=1248
+13	costly	costly	ADJ	JJ	Degree=Pos	12	_	_	start_char=1249|end_char=1255
+14	and	and	CCONJ	CC	_	13	_	_	start_char=1256|end_char=1259
+15	bloody	bloody	ADJ	JJ	Degree=Pos	14	_	_	start_char=1260|end_char=1266
+16	for	for	ADP	IN	_	15	_	_	start_char=1267|end_char=1270
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=1271|end_char=1274
+18	Russian	Russian	ADJ	JJ	Degree=Pos	17	_	_	start_char=1275|end_char=1282
+19	army	army	NOUN	NN	Number=Sing	18	_	_	start_char=1283|end_char=1287
+20	itself	itself	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Emp|Reflex=Yes	19	_	_	start_char=1288|end_char=1294|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=1294|end_char=1295
+
+# text = It may lead to excessive depletion of forces on the Russian side, which in turn gives the Ukrainians a chance to counterattack," says Ruslan Pukhov, head of the Moscow-based Center for Analysis of Strategies and Technologies.
+# sent_id = 9
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1296|end_char=1298
+2	may	may	AUX	MD	VerbForm=Fin	1	_	_	start_char=1299|end_char=1302
+3	lead	lead	VERB	VB	VerbForm=Inf	2	_	_	start_char=1303|end_char=1307
+4	to	to	ADP	IN	_	3	_	_	start_char=1308|end_char=1310
+5	excessive	excessive	ADJ	JJ	Degree=Pos	4	_	_	start_char=1311|end_char=1320
+6	depletion	depletion	NOUN	NN	Number=Sing	5	_	_	start_char=1321|end_char=1330
+7	of	of	ADP	IN	_	6	_	_	start_char=1331|end_char=1333
+8	forces	force	NOUN	NNS	Number=Plur	7	_	_	start_char=1334|end_char=1340
+9	on	on	ADP	IN	_	8	_	_	start_char=1341|end_char=1343
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=1344|end_char=1347
+11	Russian	Russian	ADJ	JJ	Degree=Pos	10	_	_	start_char=1348|end_char=1355
+12	side	side	NOUN	NN	Number=Sing	11	_	_	start_char=1356|end_char=1360|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=1360|end_char=1361
+14	which	which	PRON	WDT	PronType=Rel	13	_	_	start_char=1362|end_char=1367
+15	in	in	ADP	IN	_	14	_	_	start_char=1368|end_char=1370
+16	turn	turn	NOUN	NN	Number=Sing	15	_	_	start_char=1371|end_char=1375
+17	gives	give	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=1376|end_char=1381
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=1382|end_char=1385
+19	Ukrainians	Ukrainian	PROPN	NNPS	Number=Plur	18	_	_	start_char=1386|end_char=1396
+20	a	a	DET	DT	Definite=Ind|PronType=Art	19	_	_	start_char=1397|end_char=1398
+21	chance	chance	NOUN	NN	Number=Sing	20	_	_	start_char=1399|end_char=1405
+22	to	to	PART	TO	_	21	_	_	start_char=1406|end_char=1408
+23	counterattack	counterattack	VERB	VB	VerbForm=Inf	22	_	_	start_char=1409|end_char=1422|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=1422|end_char=1423|SpaceAfter=No
+25	"	"	PUNCT	''	_	24	_	_	start_char=1423|end_char=1424
+26	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	_	_	start_char=1425|end_char=1429
+27	Ruslan	Ruslan	PROPN	NNP	Number=Sing	26	_	_	start_char=1430|end_char=1436
+28	Pukhov	Pukhov	PROPN	NNP	Number=Sing	27	_	_	start_char=1437|end_char=1443|SpaceAfter=No
+29	,	,	PUNCT	,	_	28	_	_	start_char=1443|end_char=1444
+30	head	head	NOUN	NN	Number=Sing	29	_	_	start_char=1445|end_char=1449
+31	of	of	ADP	IN	_	30	_	_	start_char=1450|end_char=1452
+32	the	the	DET	DT	Definite=Def|PronType=Art	31	_	_	start_char=1453|end_char=1456
+33	Moscow	Moscow	PROPN	NNP	Number=Sing	32	_	_	start_char=1457|end_char=1463|SpaceAfter=No
+34	-	-	PUNCT	HYPH	_	33	_	_	start_char=1463|end_char=1464|SpaceAfter=No
+35	based	base	VERB	VBN	Tense=Past|VerbForm=Part	34	_	_	start_char=1464|end_char=1469
+36	Center	Center	PROPN	NNP	Number=Sing	35	_	_	start_char=1470|end_char=1476
+37	for	for	ADP	IN	_	36	_	_	start_char=1477|end_char=1480
+38	Analysis	Analysis	PROPN	NNP	Number=Sing	37	_	_	start_char=1481|end_char=1489
+39	of	of	ADP	IN	_	38	_	_	start_char=1490|end_char=1492
+40	Strategies	Strategyes	PROPN	NNPS	Number=Plur	39	_	_	start_char=1493|end_char=1503
+41	and	and	CCONJ	CC	_	40	_	_	start_char=1504|end_char=1507
+42	Technologies	Technology	PROPN	NNPS	Number=Plur	41	_	_	start_char=1508|end_char=1520|SpaceAfter=No
+43	.	.	PUNCT	.	_	42	_	_	start_char=1520|end_char=1521|SpaceAfter=No
+

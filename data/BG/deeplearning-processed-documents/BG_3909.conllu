@@ -1,0 +1,165 @@
+# text = Orban:
+# sent_id = 0
+1	Orban	Orban	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=5|SpaceAfter=No
+2	:	:	PUNCT	:	_	1	_	_	start_char=5|end_char=6
+
+# text = The war can be stopped in 24 hours
+# sent_id = 1
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=7|end_char=10
+2	war	war	NOUN	NN	Number=Sing	1	_	_	start_char=11|end_char=14
+3	can	can	AUX	MD	VerbForm=Fin	2	_	_	start_char=15|end_char=18
+4	be	be	AUX	VB	VerbForm=Inf	3	_	_	start_char=19|end_char=21
+5	stopped	stop	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	_	_	start_char=22|end_char=29
+6	in	in	ADP	IN	_	5	_	_	start_char=30|end_char=32
+7	24	24	NUM	CD	NumForm=Digit|NumType=Card	6	_	_	start_char=33|end_char=35
+8	hours	hour	NOUN	NNS	Number=Plur	7	_	_	start_char=36|end_char=41|SpacesAfter=\n\n
+
+# text = He reminded voters that the stakes in the current elections are war or peace.
+# sent_id = 2
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=43|end_char=45
+2	reminded	remind	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=46|end_char=54
+3	voters	voter	NOUN	NNS	Number=Plur	2	_	_	start_char=55|end_char=61
+4	that	that	SCONJ	IN	_	3	_	_	start_char=62|end_char=66
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=67|end_char=70
+6	stakes	stake	NOUN	NNS	Number=Plur	5	_	_	start_char=71|end_char=77
+7	in	in	ADP	IN	_	6	_	_	start_char=78|end_char=80
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=81|end_char=84
+9	current	current	ADJ	JJ	Degree=Pos	8	_	_	start_char=85|end_char=92
+10	elections	election	NOUN	NNS	Number=Plur	9	_	_	start_char=93|end_char=102
+11	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=103|end_char=106
+12	war	war	NOUN	NN	Number=Sing	11	_	_	start_char=107|end_char=110
+13	or	or	CCONJ	CC	_	12	_	_	start_char=111|end_char=113
+14	peace	peace	NOUN	NN	Number=Sing	13	_	_	start_char=114|end_char=119|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=119|end_char=120|SpacesAfter=\n
+
+# text = "Western leaders who are on the war path want to defeat Russia militarily.
+# sent_id = 3
+1	"	"	PUNCT	``	_	0	_	_	start_char=121|end_char=122|SpaceAfter=No
+2	Western	western	ADJ	JJ	Degree=Pos	1	_	_	start_char=122|end_char=129
+3	leaders	leader	NOUN	NNS	Number=Plur	2	_	_	start_char=130|end_char=137
+4	who	who	PRON	WP	PronType=Rel	3	_	_	start_char=138|end_char=141
+5	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=142|end_char=145
+6	on	on	ADP	IN	_	5	_	_	start_char=146|end_char=148
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=149|end_char=152
+8	war	war	NOUN	NN	Number=Sing	7	_	_	start_char=153|end_char=156
+9	path	path	NOUN	NN	Number=Sing	8	_	_	start_char=157|end_char=161
+10	want	want	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=162|end_char=166
+11	to	to	PART	TO	_	10	_	_	start_char=167|end_char=169
+12	defeat	defeat	VERB	VB	VerbForm=Inf	11	_	_	start_char=170|end_char=176
+13	Russia	Russia	PROPN	NNP	Number=Sing	12	_	_	start_char=177|end_char=183
+14	militarily	militarily	ADV	RB	_	13	_	_	start_char=184|end_char=194|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=194|end_char=195
+
+# text = Their brilliant plan is absolutely simple because it is about money, which gives influence and power," he said when asked why the West wants to defeat Russia in the Ukrainian conflict.
+# sent_id = 4
+1	Their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	0	_	_	start_char=196|end_char=201
+2	brilliant	brilliant	ADJ	JJ	Degree=Pos	1	_	_	start_char=202|end_char=211
+3	plan	plan	NOUN	NN	Number=Sing	2	_	_	start_char=212|end_char=216
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=217|end_char=219
+5	absolutely	absolutely	ADV	RB	_	4	_	_	start_char=220|end_char=230
+6	simple	simple	ADJ	JJ	Degree=Pos	5	_	_	start_char=231|end_char=237
+7	because	because	SCONJ	IN	_	6	_	_	start_char=238|end_char=245
+8	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	_	_	start_char=246|end_char=248
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=249|end_char=251
+10	about	about	ADP	IN	_	9	_	_	start_char=252|end_char=257
+11	money	money	NOUN	NN	Number=Sing	10	_	_	start_char=258|end_char=263|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=263|end_char=264
+13	which	which	PRON	WDT	PronType=Rel	12	_	_	start_char=265|end_char=270
+14	gives	give	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=271|end_char=276
+15	influence	influence	NOUN	NN	Number=Sing	14	_	_	start_char=277|end_char=286
+16	and	and	CCONJ	CC	_	15	_	_	start_char=287|end_char=290
+17	power	power	NOUN	NN	Number=Sing	16	_	_	start_char=291|end_char=296|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=296|end_char=297|SpaceAfter=No
+19	"	"	PUNCT	''	_	18	_	_	start_char=297|end_char=298
+20	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	_	_	start_char=299|end_char=301
+21	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	_	_	start_char=302|end_char=306
+22	when	when	ADV	WRB	PronType=Int	21	_	_	start_char=307|end_char=311
+23	asked	ask	VERB	VBN	Mood=Ind|Tense=Past|VerbForm=Fin	22	_	_	start_char=312|end_char=317
+24	why	why	ADV	WRB	PronType=Rel	23	_	_	start_char=318|end_char=321
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=322|end_char=325
+26	West	West	PROPN	NNP	Number=Sing	25	_	_	start_char=326|end_char=330
+27	wants	want	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	_	_	start_char=331|end_char=336
+28	to	to	PART	TO	_	27	_	_	start_char=337|end_char=339
+29	defeat	defeat	VERB	VB	VerbForm=Inf	28	_	_	start_char=340|end_char=346
+30	Russia	Russia	PROPN	NNP	Number=Sing	29	_	_	start_char=347|end_char=353
+31	in	in	ADP	IN	_	30	_	_	start_char=354|end_char=356
+32	the	the	DET	DT	Definite=Def|PronType=Art	31	_	_	start_char=357|end_char=360
+33	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	32	_	_	start_char=361|end_char=370
+34	conflict	conflict	NOUN	NN	Number=Sing	33	_	_	start_char=371|end_char=379|SpaceAfter=No
+35	.	.	PUNCT	.	_	34	_	_	start_char=379|end_char=380|SpacesAfter=\n
+
+# text = Today, many Westerners would like to go back to those times.
+# sent_id = 5
+1	Today	today	NOUN	NN	Number=Sing	0	_	_	start_char=381|end_char=386|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=386|end_char=387
+3	many	many	ADJ	JJ	Degree=Pos	2	_	_	start_char=388|end_char=392
+4	Westerners	westerner	PROPN	NNPS	Number=Plur	3	_	_	start_char=393|end_char=403
+5	would	would	AUX	MD	VerbForm=Fin	4	_	_	start_char=404|end_char=409
+6	like	like	VERB	VB	VerbForm=Inf	5	_	_	start_char=410|end_char=414
+7	to	to	PART	TO	_	6	_	_	start_char=415|end_char=417
+8	go	go	VERB	VB	VerbForm=Inf	7	_	_	start_char=418|end_char=420
+9	back	back	ADV	RB	_	8	_	_	start_char=421|end_char=425
+10	to	to	ADP	IN	_	9	_	_	start_char=426|end_char=428
+11	those	that	DET	DT	Number=Plur|PronType=Dem	10	_	_	start_char=429|end_char=434
+12	times	time	NOUN	NNS	Number=Plur	11	_	_	start_char=435|end_char=440|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=440|end_char=441
+
+# text = They, Orbán continued, "dream of a great reconstruction in the East" and hope that the conflict in Ukraine will make that possible.
+# sent_id = 6
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=442|end_char=446|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=446|end_char=447
+3	Orbán	Orbán	PROPN	NNP	Number=Sing	2	_	_	start_char=448|end_char=453
+4	continued	continue	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=454|end_char=463|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=463|end_char=464
+6	"	"	PUNCT	``	_	5	_	_	start_char=465|end_char=466|SpaceAfter=No
+7	dream	dream	VERB	VB	Mood=Imp|VerbForm=Fin	6	_	_	start_char=466|end_char=471
+8	of	of	ADP	IN	_	7	_	_	start_char=472|end_char=474
+9	a	a	DET	DT	Definite=Ind|PronType=Art	8	_	_	start_char=475|end_char=476
+10	great	great	ADJ	JJ	Degree=Pos	9	_	_	start_char=477|end_char=482
+11	reconstruction	reconstruction	NOUN	NN	Number=Sing	10	_	_	start_char=483|end_char=497
+12	in	in	ADP	IN	_	11	_	_	start_char=498|end_char=500
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=501|end_char=504
+14	East	East	PROPN	NNP	Number=Sing	13	_	_	start_char=505|end_char=509|SpaceAfter=No
+15	"	"	PUNCT	''	_	14	_	_	start_char=509|end_char=510
+16	and	and	CCONJ	CC	_	15	_	_	start_char=511|end_char=514
+17	hope	hope	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=515|end_char=519
+18	that	that	SCONJ	IN	_	17	_	_	start_char=520|end_char=524
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=525|end_char=528
+20	conflict	conflict	NOUN	NN	Number=Sing	19	_	_	start_char=529|end_char=537
+21	in	in	ADP	IN	_	20	_	_	start_char=538|end_char=540
+22	Ukraine	Ukraine	PROPN	NNP	Number=Sing	21	_	_	start_char=541|end_char=548
+23	will	will	AUX	MD	VerbForm=Fin	22	_	_	start_char=549|end_char=553
+24	make	make	VERB	VB	VerbForm=Inf	23	_	_	start_char=554|end_char=558
+25	that	that	PRON	DT	Number=Sing|PronType=Dem	24	_	_	start_char=559|end_char=563
+26	possible	possible	ADJ	JJ	Degree=Pos	25	_	_	start_char=564|end_char=572|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=572|end_char=573
+
+# text = Moreover, the prime minister noted, some "arms suppliers, creditors, stock speculators" are already trying to profit from this conflict.
+# sent_id = 7
+1	Moreover	moreover	ADV	RB	_	0	_	_	start_char=574|end_char=582|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=582|end_char=583
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=584|end_char=587
+4	prime	prime	ADJ	JJ	Degree=Pos	3	_	_	start_char=588|end_char=593
+5	minister	minister	NOUN	NN	Number=Sing	4	_	_	start_char=594|end_char=602
+6	noted	note	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=603|end_char=608|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=608|end_char=609
+8	some	some	DET	DT	_	7	_	_	start_char=610|end_char=614
+9	"	"	PUNCT	``	_	8	_	_	start_char=615|end_char=616|SpaceAfter=No
+10	arms	arm	NOUN	NNS	Number=Plur	9	_	_	start_char=616|end_char=620
+11	suppliers	supplier	NOUN	NNS	Number=Plur	10	_	_	start_char=621|end_char=630|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=630|end_char=631
+13	creditors	creditor	NOUN	NNS	Number=Plur	12	_	_	start_char=632|end_char=641|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=641|end_char=642
+15	stock	stock	NOUN	NN	Number=Sing	14	_	_	start_char=643|end_char=648
+16	speculators	speculator	NOUN	NNS	Number=Plur	15	_	_	start_char=649|end_char=660|SpaceAfter=No
+17	"	"	PUNCT	''	_	16	_	_	start_char=660|end_char=661
+18	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=662|end_char=665
+19	already	already	ADV	RB	_	18	_	_	start_char=666|end_char=673
+20	trying	try	VERB	VBG	Tense=Pres|VerbForm=Part	19	_	_	start_char=674|end_char=680
+21	to	to	PART	TO	_	20	_	_	start_char=681|end_char=683
+22	profit	profit	VERB	VB	VerbForm=Inf	21	_	_	start_char=684|end_char=690
+23	from	from	ADP	IN	_	22	_	_	start_char=691|end_char=695
+24	this	this	DET	DT	Number=Sing|PronType=Dem	23	_	_	start_char=696|end_char=700
+25	conflict	conflict	NOUN	NN	Number=Sing	24	_	_	start_char=701|end_char=709|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=709|end_char=710|SpaceAfter=No
+

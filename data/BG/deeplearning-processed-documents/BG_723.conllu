@@ -1,0 +1,278 @@
+# text = Zelensky's staff reacted to the new agreement between Russia and the DPRK
+# sent_id = 0
+1-2	Zelensky's	_	_	_	_	_	_	_	start_char=0|end_char=10
+1	Zelensky	Zelensky	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=8
+2	's	's	PART	POS	_	1	_	_	start_char=8|end_char=10
+3	staff	staff	NOUN	NN	Number=Sing	2	_	_	start_char=11|end_char=16
+4	reacted	react	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=17|end_char=24
+5	to	to	ADP	IN	_	4	_	_	start_char=25|end_char=27
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=28|end_char=31
+7	new	new	ADJ	JJ	Degree=Pos	6	_	_	start_char=32|end_char=35
+8	agreement	agreement	NOUN	NN	Number=Sing	7	_	_	start_char=36|end_char=45
+9	between	between	ADP	IN	_	8	_	_	start_char=46|end_char=53
+10	Russia	Russia	PROPN	NNP	Number=Sing	9	_	_	start_char=54|end_char=60
+11	and	and	CCONJ	CC	_	10	_	_	start_char=61|end_char=64
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=65|end_char=68
+13	DPRK	DPRK	PROPN	NNP	Number=Sing	12	_	_	start_char=69|end_char=73|SpacesAfter=\n\n
+
+# text = Zelensky's staff reacted to the new agreement between Russia and the DPRK.
+# sent_id = 1
+1-2	Zelensky's	_	_	_	_	_	_	_	start_char=75|end_char=85
+1	Zelensky	Zelensky	PROPN	NNP	Number=Sing	0	_	_	start_char=75|end_char=83
+2	's	's	PART	POS	_	1	_	_	start_char=83|end_char=85
+3	staff	staff	NOUN	NN	Number=Sing	2	_	_	start_char=86|end_char=91
+4	reacted	react	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=92|end_char=99
+5	to	to	ADP	IN	_	4	_	_	start_char=100|end_char=102
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=103|end_char=106
+7	new	new	ADJ	JJ	Degree=Pos	6	_	_	start_char=107|end_char=110
+8	agreement	agreement	NOUN	NN	Number=Sing	7	_	_	start_char=111|end_char=120
+9	between	between	ADP	IN	_	8	_	_	start_char=121|end_char=128
+10	Russia	Russia	PROPN	NNP	Number=Sing	9	_	_	start_char=129|end_char=135
+11	and	and	CCONJ	CC	_	10	_	_	start_char=136|end_char=139
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=140|end_char=143
+13	DPRK	DPRK	PROPN	NNP	Number=Sing	12	_	_	start_char=144|end_char=148|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=148|end_char=149|SpacesAfter=\n
+
+# text = It notes that the "silence" of the UN and other organisations seems extremely telling and even "deafeningly loud" Mikhail Podolyak, an adviser to the head of Ukraine's presidential office, said the signing of a new agreement between Russia and the DPRK was the most brazen blow to the package of international restrictions imposed on Pyongyang.
+# sent_id = 2
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=150|end_char=152
+2	notes	note	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=153|end_char=158
+3	that	that	SCONJ	IN	_	2	_	_	start_char=159|end_char=163
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=164|end_char=167
+5	"	"	PUNCT	``	_	4	_	_	start_char=168|end_char=169|SpaceAfter=No
+6	silence	silence	NOUN	NN	Number=Sing	5	_	_	start_char=169|end_char=176|SpaceAfter=No
+7	"	"	PUNCT	''	_	6	_	_	start_char=176|end_char=177
+8	of	of	ADP	IN	_	7	_	_	start_char=178|end_char=180
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=181|end_char=184
+10	UN	UN	PROPN	NNP	Number=Sing	9	_	_	start_char=185|end_char=187
+11	and	and	CCONJ	CC	_	10	_	_	start_char=188|end_char=191
+12	other	other	ADJ	JJ	Degree=Pos	11	_	_	start_char=192|end_char=197
+13	organisations	organisation	NOUN	NNS	Number=Plur	12	_	_	start_char=198|end_char=211
+14	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=212|end_char=217
+15	extremely	extremely	ADV	RB	_	14	_	_	start_char=218|end_char=227
+16	telling	tell	ADJ	JJ	Degree=Pos	15	_	_	start_char=228|end_char=235
+17	and	and	CCONJ	CC	_	16	_	_	start_char=236|end_char=239
+18	even	even	ADV	RB	_	17	_	_	start_char=240|end_char=244
+19	"	"	PUNCT	``	_	18	_	_	start_char=245|end_char=246|SpaceAfter=No
+20	deafeningly	deafeningly	ADV	RB	_	19	_	_	start_char=246|end_char=257
+21	loud	loud	ADJ	JJ	Degree=Pos	20	_	_	start_char=258|end_char=262|SpaceAfter=No
+22	"	"	PUNCT	''	_	21	_	_	start_char=262|end_char=263|SpacesAfter=\n
+23	Mikhail	Mikhail	PROPN	NNP	Number=Sing	22	_	_	start_char=264|end_char=271
+24	Podolyak	Podolyak	PROPN	NNP	Number=Sing	23	_	_	start_char=272|end_char=280|SpaceAfter=No
+25	,	,	PUNCT	,	_	24	_	_	start_char=280|end_char=281
+26	an	a	DET	DT	Definite=Ind|PronType=Art	25	_	_	start_char=282|end_char=284
+27	adviser	adviser	NOUN	NN	Number=Sing	26	_	_	start_char=285|end_char=292
+28	to	to	ADP	IN	_	27	_	_	start_char=293|end_char=295
+29	the	the	DET	DT	Definite=Def|PronType=Art	28	_	_	start_char=296|end_char=299
+30	head	head	NOUN	NN	Number=Sing	29	_	_	start_char=300|end_char=304
+31	of	of	ADP	IN	_	30	_	_	start_char=305|end_char=307
+32-33	Ukraine's	_	_	_	_	_	_	_	start_char=308|end_char=317
+32	Ukraine	Ukraine	PROPN	NNP	Number=Sing	31	_	_	start_char=308|end_char=315
+33	's	's	PART	POS	_	32	_	_	start_char=315|end_char=317
+34	presidential	presidential	ADJ	JJ	Degree=Pos	33	_	_	start_char=318|end_char=330
+35	office	office	NOUN	NN	Number=Sing	34	_	_	start_char=331|end_char=337|SpaceAfter=No
+36	,	,	PUNCT	,	_	35	_	_	start_char=337|end_char=338
+37	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	36	_	_	start_char=339|end_char=343
+38	the	the	DET	DT	Definite=Def|PronType=Art	37	_	_	start_char=344|end_char=347
+39	signing	signing	NOUN	NN	Number=Sing	38	_	_	start_char=348|end_char=355
+40	of	of	ADP	IN	_	39	_	_	start_char=356|end_char=358
+41	a	a	DET	DT	Definite=Ind|PronType=Art	40	_	_	start_char=359|end_char=360
+42	new	new	ADJ	JJ	Degree=Pos	41	_	_	start_char=361|end_char=364
+43	agreement	agreement	NOUN	NN	Number=Sing	42	_	_	start_char=365|end_char=374
+44	between	between	ADP	IN	_	43	_	_	start_char=375|end_char=382
+45	Russia	Russia	PROPN	NNP	Number=Sing	44	_	_	start_char=383|end_char=389
+46	and	and	CCONJ	CC	_	45	_	_	start_char=390|end_char=393
+47	the	the	DET	DT	Definite=Def|PronType=Art	46	_	_	start_char=394|end_char=397
+48	DPRK	DPRK	PROPN	NNP	Number=Sing	47	_	_	start_char=398|end_char=402
+49	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	48	_	_	start_char=403|end_char=406
+50	the	the	DET	DT	Definite=Def|PronType=Art	49	_	_	start_char=407|end_char=410
+51	most	most	ADV	RBS	Degree=Sup	50	_	_	start_char=411|end_char=415
+52	brazen	brazen	ADJ	JJ	Degree=Pos	51	_	_	start_char=416|end_char=422
+53	blow	blow	NOUN	NN	Number=Sing	52	_	_	start_char=423|end_char=427
+54	to	to	ADP	IN	_	53	_	_	start_char=428|end_char=430
+55	the	the	DET	DT	Definite=Def|PronType=Art	54	_	_	start_char=431|end_char=434
+56	package	package	NOUN	NN	Number=Sing	55	_	_	start_char=435|end_char=442
+57	of	of	ADP	IN	_	56	_	_	start_char=443|end_char=445
+58	international	international	ADJ	JJ	Degree=Pos	57	_	_	start_char=446|end_char=459
+59	restrictions	restriction	NOUN	NNS	Number=Plur	58	_	_	start_char=460|end_char=472
+60	imposed	impose	VERB	VBN	Tense=Past|VerbForm=Part	59	_	_	start_char=473|end_char=480
+61	on	on	ADP	IN	_	60	_	_	start_char=481|end_char=483
+62	Pyongyang	Pyongyang	PROPN	NNP	Number=Sing	61	_	_	start_char=484|end_char=493|SpaceAfter=No
+63	.	.	PUNCT	.	_	62	_	_	start_char=493|end_char=494
+
+# text = Podolyak shared his views on X (formerly Twitter).
+# sent_id = 3
+1	Podolyak	Podolyak	PROPN	NNP	Number=Sing	0	_	_	start_char=495|end_char=503
+2	shared	share	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=504|end_char=510
+3	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	_	_	start_char=511|end_char=514
+4	views	view	NOUN	NNS	Number=Plur	3	_	_	start_char=515|end_char=520
+5	on	on	ADP	IN	_	4	_	_	start_char=521|end_char=523
+6	X	X	PROPN	NNP	Number=Sing	5	_	_	start_char=524|end_char=525
+7	(	(	PUNCT	-LRB-	_	6	_	_	start_char=526|end_char=527|SpaceAfter=No
+8	formerly	formerly	ADV	RB	_	7	_	_	start_char=527|end_char=535
+9	Twitter	Twitter	PROPN	NNP	Number=Sing	8	_	_	start_char=536|end_char=543|SpaceAfter=No
+10	)	)	PUNCT	-RRB-	_	9	_	_	start_char=543|end_char=544|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=544|end_char=545|SpacesAfter=\n
+
+# text = According to him, the prohibitive tools don't work and there are no rules anymore.
+# sent_id = 4
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=546|end_char=555
+2	to	to	ADP	IN	_	1	_	_	start_char=556|end_char=558
+3	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	_	_	start_char=559|end_char=562|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=562|end_char=563
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=564|end_char=567
+6	prohibitive	prohibitive	ADJ	JJ	Degree=Pos	5	_	_	start_char=568|end_char=579
+7	tools	tool	NOUN	NNS	Number=Plur	6	_	_	start_char=580|end_char=585
+8-9	don't	_	_	_	_	_	_	_	start_char=586|end_char=591
+8	do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=586|end_char=588
+9	n't	not	PART	RB	_	8	_	_	start_char=588|end_char=591
+10	work	work	VERB	VB	VerbForm=Inf	9	_	_	start_char=592|end_char=596
+11	and	and	CCONJ	CC	_	10	_	_	start_char=597|end_char=600
+12	there	there	PRON	EX	_	11	_	_	start_char=601|end_char=606
+13	are	be	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=607|end_char=610
+14	no	no	DET	DT	_	13	_	_	start_char=611|end_char=613
+15	rules	rule	NOUN	NNS	Number=Plur	14	_	_	start_char=614|end_char=619
+16	anymore	anymore	ADV	RB	_	15	_	_	start_char=620|end_char=627|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=627|end_char=628
+
+# text = According to him, the document signed between Kremlin leader Vladimir Putin and North Korean leader Kim Jong Un is a pact to jointly destroy global rules and organize mass killings of civilians in other countries.
+# sent_id = 5
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=629|end_char=638
+2	to	to	ADP	IN	_	1	_	_	start_char=639|end_char=641
+3	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	_	_	start_char=642|end_char=645|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=645|end_char=646
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=647|end_char=650
+6	document	document	NOUN	NN	Number=Sing	5	_	_	start_char=651|end_char=659
+7	signed	sign	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=660|end_char=666
+8	between	between	ADP	IN	_	7	_	_	start_char=667|end_char=674
+9	Kremlin	Kremlin	ADJ	JJ	Degree=Pos	8	_	_	start_char=675|end_char=682
+10	leader	leader	NOUN	NN	Number=Sing	9	_	_	start_char=683|end_char=689
+11	Vladimir	Vladimir	PROPN	NNP	Number=Sing	10	_	_	start_char=690|end_char=698
+12	Putin	Putin	PROPN	NNP	Number=Sing	11	_	_	start_char=699|end_char=704
+13	and	and	CCONJ	CC	_	12	_	_	start_char=705|end_char=708
+14	North	North	PROPN	NNP	Number=Sing	13	_	_	start_char=709|end_char=714
+15	Korean	Korean	ADJ	JJ	Degree=Pos	14	_	_	start_char=715|end_char=721
+16	leader	leader	NOUN	NN	Number=Sing	15	_	_	start_char=722|end_char=728
+17	Kim	Kim	PROPN	NNP	Number=Sing	16	_	_	start_char=729|end_char=732
+18	Jong	Jong	PROPN	NNP	Number=Sing	17	_	_	start_char=733|end_char=737
+19	Un	Un	PROPN	NNP	Number=Sing	18	_	_	start_char=738|end_char=740
+20	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	_	_	start_char=741|end_char=743
+21	a	a	DET	DT	Definite=Ind|PronType=Art	20	_	_	start_char=744|end_char=745
+22	pact	pact	NOUN	NN	Number=Sing	21	_	_	start_char=746|end_char=750
+23	to	to	PART	TO	_	22	_	_	start_char=751|end_char=753
+24	jointly	jointly	ADV	RB	_	23	_	_	start_char=754|end_char=761
+25	destroy	destroy	VERB	VB	VerbForm=Inf	24	_	_	start_char=762|end_char=769
+26	global	global	ADJ	JJ	Degree=Pos	25	_	_	start_char=770|end_char=776
+27	rules	rule	NOUN	NNS	Number=Plur	26	_	_	start_char=777|end_char=782
+28	and	and	CCONJ	CC	_	27	_	_	start_char=783|end_char=786
+29	organize	organize	VERB	VB	VerbForm=Inf	28	_	_	start_char=787|end_char=795
+30	mass	mass	ADJ	JJ	Degree=Pos	29	_	_	start_char=796|end_char=800
+31	killings	killing	NOUN	NNS	Number=Plur	30	_	_	start_char=801|end_char=809
+32	of	of	ADP	IN	_	31	_	_	start_char=810|end_char=812
+33	civilians	civilian	NOUN	NNS	Number=Plur	32	_	_	start_char=813|end_char=822
+34	in	in	ADP	IN	_	33	_	_	start_char=823|end_char=825
+35	other	other	ADJ	JJ	Degree=Pos	34	_	_	start_char=826|end_char=831
+36	countries	country	NOUN	NNS	Number=Plur	35	_	_	start_char=832|end_char=841|SpaceAfter=No
+37	.	.	PUNCT	.	_	36	_	_	start_char=841|end_char=842|SpacesAfter=\n
+
+# text = "It is a unilateral and most brazen nullifying blow to the entire package of international decisions, resolutions and restrictions imposed on the DPRK," Podolyak wrote.
+# sent_id = 6
+1	"	"	PUNCT	``	_	0	_	_	start_char=843|end_char=844|SpaceAfter=No
+2	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	_	_	start_char=844|end_char=846
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=847|end_char=849
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=850|end_char=851
+5	unilateral	unilateral	ADJ	JJ	Degree=Pos	4	_	_	start_char=852|end_char=862
+6	and	and	CCONJ	CC	_	5	_	_	start_char=863|end_char=866
+7	most	most	ADV	RBS	Degree=Sup	6	_	_	start_char=867|end_char=871
+8	brazen	brazen	ADJ	JJ	Degree=Pos	7	_	_	start_char=872|end_char=878
+9	nullifying	nullify	VERB	VBG	VerbForm=Ger	8	_	_	start_char=879|end_char=889
+10	blow	blow	NOUN	NN	Number=Sing	9	_	_	start_char=890|end_char=894
+11	to	to	ADP	IN	_	10	_	_	start_char=895|end_char=897
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=898|end_char=901
+13	entire	entire	ADJ	JJ	Degree=Pos	12	_	_	start_char=902|end_char=908
+14	package	package	NOUN	NN	Number=Sing	13	_	_	start_char=909|end_char=916
+15	of	of	ADP	IN	_	14	_	_	start_char=917|end_char=919
+16	international	international	ADJ	JJ	Degree=Pos	15	_	_	start_char=920|end_char=933
+17	decisions	decision	NOUN	NNS	Number=Plur	16	_	_	start_char=934|end_char=943|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=943|end_char=944
+19	resolutions	resolution	NOUN	NNS	Number=Plur	18	_	_	start_char=945|end_char=956
+20	and	and	CCONJ	CC	_	19	_	_	start_char=957|end_char=960
+21	restrictions	restriction	NOUN	NNS	Number=Plur	20	_	_	start_char=961|end_char=973
+22	imposed	impose	VERB	VBN	Tense=Past|VerbForm=Part	21	_	_	start_char=974|end_char=981
+23	on	on	ADP	IN	_	22	_	_	start_char=982|end_char=984
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=985|end_char=988
+25	DPRK	DPRK	PROPN	NNP	Number=Sing	24	_	_	start_char=989|end_char=993|SpaceAfter=No
+26	,	,	PUNCT	,	_	25	_	_	start_char=993|end_char=994|SpaceAfter=No
+27	"	"	PUNCT	''	_	26	_	_	start_char=994|end_char=995
+28	Podolyak	Podolyak	PROPN	NNP	Number=Sing	27	_	_	start_char=996|end_char=1004
+29	wrote	write	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	_	_	start_char=1005|end_char=1010|SpaceAfter=No
+30	.	.	PUNCT	.	_	29	_	_	start_char=1010|end_char=1011|SpacesAfter=\n
+
+# text = He notes that the "silence" of the UN and other organizations responsible for effectively overseeing the implementation of sanctions seems extremely telling and even "deafeningly resounding."
+# sent_id = 7
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1012|end_char=1014
+2	notes	note	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1015|end_char=1020
+3	that	that	SCONJ	IN	_	2	_	_	start_char=1021|end_char=1025
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1026|end_char=1029
+5	"	"	PUNCT	``	_	4	_	_	start_char=1030|end_char=1031|SpaceAfter=No
+6	silence	silence	NOUN	NN	Number=Sing	5	_	_	start_char=1031|end_char=1038|SpaceAfter=No
+7	"	"	PUNCT	''	_	6	_	_	start_char=1038|end_char=1039
+8	of	of	ADP	IN	_	7	_	_	start_char=1040|end_char=1042
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1043|end_char=1046
+10	UN	UN	PROPN	NNP	Number=Sing	9	_	_	start_char=1047|end_char=1049
+11	and	and	CCONJ	CC	_	10	_	_	start_char=1050|end_char=1053
+12	other	other	ADJ	JJ	Degree=Pos	11	_	_	start_char=1054|end_char=1059
+13	organizations	organization	NOUN	NNS	Number=Plur	12	_	_	start_char=1060|end_char=1073
+14	responsible	responsible	ADJ	JJ	Degree=Pos	13	_	_	start_char=1074|end_char=1085
+15	for	for	SCONJ	IN	_	14	_	_	start_char=1086|end_char=1089
+16	effectively	effectively	ADV	RB	_	15	_	_	start_char=1090|end_char=1101
+17	overseeing	oversee	VERB	VBG	VerbForm=Ger	16	_	_	start_char=1102|end_char=1112
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=1113|end_char=1116
+19	implementation	implementation	NOUN	NN	Number=Sing	18	_	_	start_char=1117|end_char=1131
+20	of	of	ADP	IN	_	19	_	_	start_char=1132|end_char=1134
+21	sanctions	sanction	NOUN	NNS	Number=Plur	20	_	_	start_char=1135|end_char=1144
+22	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	_	_	start_char=1145|end_char=1150
+23	extremely	extremely	ADV	RB	_	22	_	_	start_char=1151|end_char=1160
+24	telling	tell	ADJ	JJ	Degree=Pos	23	_	_	start_char=1161|end_char=1168
+25	and	and	CCONJ	CC	_	24	_	_	start_char=1169|end_char=1172
+26	even	even	ADV	RB	_	25	_	_	start_char=1173|end_char=1177
+27	"	"	PUNCT	``	_	26	_	_	start_char=1178|end_char=1179|SpaceAfter=No
+28	deafeningly	deafeningly	ADV	RB	_	27	_	_	start_char=1179|end_char=1190
+29	resounding	resounding	ADJ	JJ	Degree=Pos	28	_	_	start_char=1191|end_char=1201|SpaceAfter=No
+30	.	.	PUNCT	.	_	29	_	_	start_char=1201|end_char=1202|SpaceAfter=No
+31	"	"	PUNCT	''	_	30	_	_	start_char=1202|end_char=1203|SpacesAfter=\n
+
+# text = "What next?"
+# sent_id = 8
+1	"	"	PUNCT	``	_	0	_	_	start_char=1204|end_char=1205|SpaceAfter=No
+2	What	what	PRON	WP	PronType=Int	1	_	_	start_char=1205|end_char=1209
+3	next	next	ADJ	JJ	Degree=Pos	2	_	_	start_char=1210|end_char=1214|SpaceAfter=No
+4	?	?	PUNCT	.	_	3	_	_	start_char=1214|end_char=1215|SpaceAfter=No
+5	"	"	PUNCT	''	_	4	_	_	start_char=1215|end_char=1216
+
+# text = What is this global lawlessness?
+# sent_id = 9
+1	What	what	PRON	WP	PronType=Int	0	_	_	start_char=1217|end_char=1221
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1222|end_char=1224
+3	this	this	DET	DT	Number=Sing|PronType=Dem	2	_	_	start_char=1225|end_char=1229
+4	global	global	ADJ	JJ	Degree=Pos	3	_	_	start_char=1230|end_char=1236
+5	lawlessness	lawlessness	NOUN	NN	Number=Sing	4	_	_	start_char=1237|end_char=1248|SpaceAfter=No
+6	?	?	PUNCT	.	_	5	_	_	start_char=1248|end_char=1249
+
+# text = And what does "UN resolution" mean now?" he notes.
+# sent_id = 10
+1	And	and	CCONJ	CC	_	0	_	_	start_char=1250|end_char=1253
+2	what	what	PRON	WP	PronType=Int	1	_	_	start_char=1254|end_char=1258
+3	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1259|end_char=1263
+4	"	"	PUNCT	``	_	3	_	_	start_char=1264|end_char=1265|SpaceAfter=No
+5	UN	UN	PROPN	NNP	Number=Sing	4	_	_	start_char=1265|end_char=1267
+6	resolution	resolution	NOUN	NN	Number=Sing	5	_	_	start_char=1268|end_char=1278|SpaceAfter=No
+7	"	"	PUNCT	''	_	6	_	_	start_char=1278|end_char=1279
+8	mean	mean	VERB	VB	VerbForm=Inf	7	_	_	start_char=1280|end_char=1284
+9	now	now	ADV	RB	_	8	_	_	start_char=1285|end_char=1288|SpaceAfter=No
+10	?	?	PUNCT	.	_	9	_	_	start_char=1288|end_char=1289|SpaceAfter=No
+11	"	"	PUNCT	''	_	10	_	_	start_char=1289|end_char=1290
+12	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	_	_	start_char=1291|end_char=1293
+13	notes	note	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=1294|end_char=1299|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=1299|end_char=1300|SpaceAfter=No
+

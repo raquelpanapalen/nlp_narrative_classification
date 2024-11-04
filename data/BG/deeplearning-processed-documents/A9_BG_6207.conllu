@@ -1,0 +1,397 @@
+# text = British Army Commander: World War III is not inevitable
+# sent_id = 0
+1	British	British	ADJ	NNP	Degree=Pos	0	_	_	start_char=0|end_char=7
+2	Army	Army	PROPN	NNP	Number=Sing	1	_	_	start_char=8|end_char=12
+3	Commander	Commander	PROPN	NNP	Number=Sing	2	_	_	start_char=13|end_char=22|SpaceAfter=No
+4	:	:	PUNCT	:	_	3	_	_	start_char=22|end_char=23
+5	World	World	PROPN	NNP	Number=Sing	4	_	_	start_char=24|end_char=29
+6	War	War	PROPN	NNP	Number=Sing	5	_	_	start_char=30|end_char=33
+7	III	III	NUM	CD	NumForm=Roman|NumType=Card	6	_	_	start_char=34|end_char=37
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=38|end_char=40
+9	not	not	PART	RB	_	8	_	_	start_char=41|end_char=44
+10	inevitable	inevitable	ADJ	JJ	Degree=Pos	9	_	_	start_char=45|end_char=55|SpacesAfter=\n\n
+
+# text = The Chief of Staff of the British Armed Forces, Admiral Tony Radakin, has said that a third world war is not inevitable.
+# sent_id = 1
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=57|end_char=60
+2	Chief	Chief	PROPN	NNP	Number=Sing	1	_	_	start_char=61|end_char=66
+3	of	of	ADP	IN	_	2	_	_	start_char=67|end_char=69
+4	Staff	Staff	PROPN	NNP	Number=Sing	3	_	_	start_char=70|end_char=75
+5	of	of	ADP	IN	_	4	_	_	start_char=76|end_char=78
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=79|end_char=82
+7	British	British	ADJ	NNP	Degree=Pos	6	_	_	start_char=83|end_char=90
+8	Armed	armed	ADJ	NNP	Degree=Pos	7	_	_	start_char=91|end_char=96
+9	Forces	Force	PROPN	NNPS	Number=Plur	8	_	_	start_char=97|end_char=103|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=103|end_char=104
+11	Admiral	Admiral	PROPN	NNP	Number=Sing	10	_	_	start_char=105|end_char=112
+12	Tony	Tony	PROPN	NNP	Number=Sing	11	_	_	start_char=113|end_char=117
+13	Radakin	Radakin	PROPN	NNP	Number=Sing	12	_	_	start_char=118|end_char=125|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=125|end_char=126
+15	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=127|end_char=130
+16	said	say	VERB	VBN	Tense=Past|VerbForm=Part	15	_	_	start_char=131|end_char=135
+17	that	that	SCONJ	IN	_	16	_	_	start_char=136|end_char=140
+18	a	a	DET	DT	Definite=Ind|PronType=Art	17	_	_	start_char=141|end_char=142
+19	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	18	_	_	start_char=143|end_char=148
+20	world	world	NOUN	NN	Number=Sing	19	_	_	start_char=149|end_char=154
+21	war	war	NOUN	NN	Number=Sing	20	_	_	start_char=155|end_char=158
+22	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	_	_	start_char=159|end_char=161
+23	not	not	PART	RB	_	22	_	_	start_char=162|end_char=165
+24	inevitable	inevitable	ADJ	JJ	Degree=Pos	23	_	_	start_char=166|end_char=176|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=176|end_char=177|SpacesAfter=\n
+
+# text = He gave an interview to Sky News in honor of the 80th anniversary of the Normandy landings, reports "Focus".
+# sent_id = 2
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=178|end_char=180
+2	gave	give	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=181|end_char=185
+3	an	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=186|end_char=188
+4	interview	interview	NOUN	NN	Number=Sing	3	_	_	start_char=189|end_char=198
+5	to	to	ADP	IN	_	4	_	_	start_char=199|end_char=201
+6	Sky	Sky	PROPN	NNP	Number=Sing	5	_	_	start_char=202|end_char=205
+7	News	News	PROPN	NNP	Number=Sing	6	_	_	start_char=206|end_char=210
+8	in	in	ADP	IN	_	7	_	_	start_char=211|end_char=213
+9	honor	honor	NOUN	NN	Number=Sing	8	_	_	start_char=214|end_char=219
+10	of	of	ADP	IN	_	9	_	_	start_char=220|end_char=222
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=223|end_char=226
+12	80th	80th	ADJ	JJ	Degree=Pos|NumType=Ord	11	_	_	start_char=227|end_char=231
+13	anniversary	anniversary	NOUN	NN	Number=Sing	12	_	_	start_char=232|end_char=243
+14	of	of	ADP	IN	_	13	_	_	start_char=244|end_char=246
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=247|end_char=250
+16	Normandy	Normandy	PROPN	NNP	Number=Sing	15	_	_	start_char=251|end_char=259
+17	landings	landing	NOUN	NNS	Number=Plur	16	_	_	start_char=260|end_char=268|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=268|end_char=269
+19	reports	report	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=270|end_char=277
+20	"	"	PUNCT	``	_	19	_	_	start_char=278|end_char=279|SpaceAfter=No
+21	Focus	focus	PROPN	NNP	Number=Sing	20	_	_	start_char=279|end_char=284|SpaceAfter=No
+22	"	"	PUNCT	''	_	21	_	_	start_char=284|end_char=285|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=285|end_char=286|SpacesAfter=\n
+
+# text = According to Radakin, Russian President Vladimir Putin is not interested in a direct armed conflict with NATO, which could lead to nuclear war.
+# sent_id = 3
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=287|end_char=296
+2	to	to	ADP	IN	_	1	_	_	start_char=297|end_char=299
+3	Radakin	Radakin	PROPN	NNP	Number=Sing	2	_	_	start_char=300|end_char=307|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=307|end_char=308
+5	Russian	Russian	ADJ	JJ	Degree=Pos	4	_	_	start_char=309|end_char=316
+6	President	President	PROPN	NNP	Number=Sing	5	_	_	start_char=317|end_char=326
+7	Vladimir	Vladimir	PROPN	NNP	Number=Sing	6	_	_	start_char=327|end_char=335
+8	Putin	Putin	PROPN	NNP	Number=Sing	7	_	_	start_char=336|end_char=341
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=342|end_char=344
+10	not	not	PART	RB	_	9	_	_	start_char=345|end_char=348
+11	interested	interested	ADJ	JJ	Degree=Pos	10	_	_	start_char=349|end_char=359
+12	in	in	ADP	IN	_	11	_	_	start_char=360|end_char=362
+13	a	a	DET	DT	Definite=Ind|PronType=Art	12	_	_	start_char=363|end_char=364
+14	direct	direct	ADJ	JJ	Degree=Pos	13	_	_	start_char=365|end_char=371
+15	armed	armed	ADJ	JJ	Degree=Pos	14	_	_	start_char=372|end_char=377
+16	conflict	conflict	NOUN	NN	Number=Sing	15	_	_	start_char=378|end_char=386
+17	with	with	ADP	IN	_	16	_	_	start_char=387|end_char=391
+18	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	17	_	_	start_char=392|end_char=396|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=396|end_char=397
+20	which	which	PRON	WDT	PronType=Rel	19	_	_	start_char=398|end_char=403
+21	could	could	AUX	MD	VerbForm=Fin	20	_	_	start_char=404|end_char=409
+22	lead	lead	VERB	VB	VerbForm=Inf	21	_	_	start_char=410|end_char=414
+23	to	to	ADP	IN	_	22	_	_	start_char=415|end_char=417
+24	nuclear	nuclear	ADJ	JJ	Degree=Pos	23	_	_	start_char=418|end_char=425
+25	war	war	NOUN	NN	Number=Sing	24	_	_	start_char=426|end_char=429|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=429|end_char=430|SpacesAfter=\n
+
+# text = However, the admiral urged politicians and journalists to be careful when using such statements.
+# sent_id = 4
+1	However	however	ADV	RB	_	0	_	_	start_char=431|end_char=438|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=438|end_char=439
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=440|end_char=443
+4	admiral	admiral	NOUN	NN	Number=Sing	3	_	_	start_char=444|end_char=451
+5	urged	urge	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=452|end_char=457
+6	politicians	politician	NOUN	NNS	Number=Plur	5	_	_	start_char=458|end_char=469
+7	and	and	CCONJ	CC	_	6	_	_	start_char=470|end_char=473
+8	journalists	journalist	NOUN	NNS	Number=Plur	7	_	_	start_char=474|end_char=485
+9	to	to	PART	TO	_	8	_	_	start_char=486|end_char=488
+10	be	be	AUX	VB	VerbForm=Inf	9	_	_	start_char=489|end_char=491
+11	careful	careful	ADJ	JJ	Degree=Pos	10	_	_	start_char=492|end_char=499
+12	when	when	ADV	WRB	PronType=Int	11	_	_	start_char=500|end_char=504
+13	using	use	VERB	VBG	VerbForm=Ger	12	_	_	start_char=505|end_char=510
+14	such	such	ADJ	JJ	Degree=Pos	13	_	_	start_char=511|end_char=515
+15	statements	statement	NOUN	NNS	Number=Plur	14	_	_	start_char=516|end_char=526|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=526|end_char=527|SpacesAfter=\n
+
+# text = Radakin believes that a third world war is not inevitable, just that the global situation has become "a little more dangerous."
+# sent_id = 5
+1	Radakin	Radakin	PROPN	NNP	Number=Sing	0	_	_	start_char=528|end_char=535
+2	believes	believe	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=536|end_char=544
+3	that	that	SCONJ	IN	_	2	_	_	start_char=545|end_char=549
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=550|end_char=551
+5	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	4	_	_	start_char=552|end_char=557
+6	world	world	NOUN	NN	Number=Sing	5	_	_	start_char=558|end_char=563
+7	war	war	NOUN	NN	Number=Sing	6	_	_	start_char=564|end_char=567
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=568|end_char=570
+9	not	not	PART	RB	_	8	_	_	start_char=571|end_char=574
+10	inevitable	inevitable	ADJ	JJ	Degree=Pos	9	_	_	start_char=575|end_char=585|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=585|end_char=586
+12	just	just	ADV	RB	_	11	_	_	start_char=587|end_char=591
+13	that	that	SCONJ	IN	_	12	_	_	start_char=592|end_char=596
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=597|end_char=600
+15	global	global	ADJ	JJ	Degree=Pos	14	_	_	start_char=601|end_char=607
+16	situation	situation	NOUN	NN	Number=Sing	15	_	_	start_char=608|end_char=617
+17	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=618|end_char=621
+18	become	become	VERB	VBN	Tense=Past|VerbForm=Part	17	_	_	start_char=622|end_char=628
+19	"	"	PUNCT	``	_	18	_	_	start_char=629|end_char=630|SpaceAfter=No
+20	a	a	DET	DT	Definite=Ind|PronType=Art	19	_	_	start_char=630|end_char=631
+21	little	little	ADJ	JJ	Degree=Pos	20	_	_	start_char=632|end_char=638
+22	more	more	ADV	RBR	Degree=Cmp	21	_	_	start_char=639|end_char=643
+23	dangerous	dangerous	ADJ	JJ	Degree=Pos	22	_	_	start_char=644|end_char=653|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=653|end_char=654|SpaceAfter=No
+25	"	"	PUNCT	''	_	24	_	_	start_char=654|end_char=655|SpacesAfter=\n
+
+# text = He drew a comparison between Allied actions against the Nazis and the way Western nations are banding together to help Ukraine against Russia today.
+# sent_id = 6
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=656|end_char=658
+2	drew	draw	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=659|end_char=663
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=664|end_char=665
+4	comparison	comparison	NOUN	NN	Number=Sing	3	_	_	start_char=666|end_char=676
+5	between	between	ADP	IN	_	4	_	_	start_char=677|end_char=684
+6	Allied	Allied	ADJ	JJ	Degree=Pos	5	_	_	start_char=685|end_char=691
+7	actions	action	NOUN	NNS	Number=Plur	6	_	_	start_char=692|end_char=699
+8	against	against	ADP	IN	_	7	_	_	start_char=700|end_char=707
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=708|end_char=711
+10	Nazis	Nazi	PROPN	NNPS	Number=Plur	9	_	_	start_char=712|end_char=717
+11	and	and	CCONJ	CC	_	10	_	_	start_char=718|end_char=721
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=722|end_char=725
+13	way	way	NOUN	NN	Number=Sing	12	_	_	start_char=726|end_char=729
+14	Western	western	ADJ	JJ	Degree=Pos	13	_	_	start_char=730|end_char=737
+15	nations	nation	NOUN	NNS	Number=Plur	14	_	_	start_char=738|end_char=745
+16	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=746|end_char=749
+17	banding	band	VERB	VBG	Tense=Pres|VerbForm=Part	16	_	_	start_char=750|end_char=757
+18	together	together	ADV	RB	_	17	_	_	start_char=758|end_char=766
+19	to	to	PART	TO	_	18	_	_	start_char=767|end_char=769
+20	help	help	VERB	VB	VerbForm=Inf	19	_	_	start_char=770|end_char=774
+21	Ukraine	Ukraine	PROPN	NNP	Number=Sing	20	_	_	start_char=775|end_char=782
+22	against	against	ADP	IN	_	21	_	_	start_char=783|end_char=790
+23	Russia	Russia	PROPN	NNP	Number=Sing	22	_	_	start_char=791|end_char=797
+24	today	today	NOUN	NN	Number=Sing	23	_	_	start_char=798|end_char=803|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=803|end_char=804|SpacesAfter=\n
+
+# text = "This is a war of economies.
+# sent_id = 7
+1	"	"	PUNCT	``	_	0	_	_	start_char=805|end_char=806|SpaceAfter=No
+2	This	this	PRON	DT	Number=Sing|PronType=Dem	1	_	_	start_char=806|end_char=810
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=811|end_char=813
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=814|end_char=815
+5	war	war	NOUN	NN	Number=Sing	4	_	_	start_char=816|end_char=819
+6	of	of	ADP	IN	_	5	_	_	start_char=820|end_char=822
+7	economies	economy	NOUN	NNS	Number=Plur	6	_	_	start_char=823|end_char=832|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	_	_	start_char=832|end_char=833
+
+# text = This is a war of logistics.
+# sent_id = 8
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=834|end_char=838
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=839|end_char=841
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=842|end_char=843
+4	war	war	NOUN	NN	Number=Sing	3	_	_	start_char=844|end_char=847
+5	of	of	ADP	IN	_	4	_	_	start_char=848|end_char=850
+6	logistics	logistic	NOUN	NN	Number=Sing	5	_	_	start_char=851|end_char=860|SpaceAfter=No
+7	.	.	PUNCT	.	_	6	_	_	start_char=860|end_char=861
+
+# text = This is a war of industrial production.
+# sent_id = 9
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=862|end_char=866
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=867|end_char=869
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=870|end_char=871
+4	war	war	NOUN	NN	Number=Sing	3	_	_	start_char=872|end_char=875
+5	of	of	ADP	IN	_	4	_	_	start_char=876|end_char=878
+6	industrial	industrial	ADJ	JJ	Degree=Pos	5	_	_	start_char=879|end_char=889
+7	production	production	NOUN	NN	Number=Sing	6	_	_	start_char=890|end_char=900|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	_	_	start_char=900|end_char=901
+
+# text = It's a war of political will, All of these things are just about returning peace to the people of Ukraine," Radakin stressed.
+# sent_id = 10
+1-2	It's	_	_	_	_	_	_	_	start_char=902|end_char=906
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=902|end_char=904
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=904|end_char=906
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=907|end_char=908
+4	war	war	NOUN	NN	Number=Sing	3	_	_	start_char=909|end_char=912
+5	of	of	ADP	IN	_	4	_	_	start_char=913|end_char=915
+6	political	political	ADJ	JJ	Degree=Pos	5	_	_	start_char=916|end_char=925
+7	will	will	NOUN	NN	Number=Sing	6	_	_	start_char=926|end_char=930|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=930|end_char=931
+9	All	all	DET	DT	_	8	_	_	start_char=932|end_char=935
+10	of	of	ADP	IN	_	9	_	_	start_char=936|end_char=938
+11	these	this	DET	DT	Number=Plur|PronType=Dem	10	_	_	start_char=939|end_char=944
+12	things	thing	NOUN	NNS	Number=Plur	11	_	_	start_char=945|end_char=951
+13	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=952|end_char=955
+14	just	just	ADV	RB	_	13	_	_	start_char=956|end_char=960
+15	about	about	SCONJ	IN	_	14	_	_	start_char=961|end_char=966
+16	returning	return	VERB	VBG	Tense=Pres|VerbForm=Part	15	_	_	start_char=967|end_char=976
+17	peace	peace	NOUN	NN	Number=Sing	16	_	_	start_char=977|end_char=982
+18	to	to	ADP	IN	_	17	_	_	start_char=983|end_char=985
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=986|end_char=989
+20	people	person	NOUN	NNS	Number=Plur	19	_	_	start_char=990|end_char=996
+21	of	of	ADP	IN	_	20	_	_	start_char=997|end_char=999
+22	Ukraine	Ukraine	PROPN	NNP	Number=Sing	21	_	_	start_char=1000|end_char=1007|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=1007|end_char=1008|SpaceAfter=No
+24	"	"	PUNCT	''	_	23	_	_	start_char=1008|end_char=1009
+25	Radakin	Radakin	PROPN	NNP	Number=Sing	24	_	_	start_char=1010|end_char=1017
+26	stressed	stress	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	_	_	start_char=1018|end_char=1026|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=1026|end_char=1027|SpacesAfter=\n
+
+# text = He insisted that Russia is "failing" in Ukraine.
+# sent_id = 11
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1028|end_char=1030
+2	insisted	insist	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1031|end_char=1039
+3	that	that	SCONJ	IN	_	2	_	_	start_char=1040|end_char=1044
+4	Russia	Russia	PROPN	NNP	Number=Sing	3	_	_	start_char=1045|end_char=1051
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1052|end_char=1054
+6	"	"	PUNCT	``	_	5	_	_	start_char=1055|end_char=1056|SpaceAfter=No
+7	failing	fail	VERB	VBG	Tense=Pres|VerbForm=Part	6	_	_	start_char=1056|end_char=1063|SpaceAfter=No
+8	"	"	PUNCT	''	_	7	_	_	start_char=1063|end_char=1064
+9	in	in	ADP	IN	_	8	_	_	start_char=1065|end_char=1067
+10	Ukraine	Ukraine	PROPN	NNP	Number=Sing	9	_	_	start_char=1068|end_char=1075|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=1075|end_char=1076|SpacesAfter=\n
+
+# text = "Russia is making tactical advances on land," the British army chief explained, "But then you have to pull back a little bit.
+# sent_id = 12
+1	"	"	PUNCT	``	_	0	_	_	start_char=1077|end_char=1078|SpaceAfter=No
+2	Russia	Russia	PROPN	NNP	Number=Sing	1	_	_	start_char=1078|end_char=1084
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1085|end_char=1087
+4	making	make	VERB	VBG	Tense=Pres|VerbForm=Part	3	_	_	start_char=1088|end_char=1094
+5	tactical	tactical	ADJ	JJ	Degree=Pos	4	_	_	start_char=1095|end_char=1103
+6	advances	advance	NOUN	NNS	Number=Plur	5	_	_	start_char=1104|end_char=1112
+7	on	on	ADP	IN	_	6	_	_	start_char=1113|end_char=1115
+8	land	land	NOUN	NN	Number=Sing	7	_	_	start_char=1116|end_char=1120|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1120|end_char=1121|SpaceAfter=No
+10	"	"	PUNCT	''	_	9	_	_	start_char=1121|end_char=1122
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=1123|end_char=1126
+12	British	British	ADJ	JJ	Degree=Pos	11	_	_	start_char=1127|end_char=1134
+13	army	army	NOUN	NN	Number=Sing	12	_	_	start_char=1135|end_char=1139
+14	chief	chief	NOUN	NN	Number=Sing	13	_	_	start_char=1140|end_char=1145
+15	explained	explain	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=1146|end_char=1155|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=1155|end_char=1156
+17	"	"	PUNCT	``	_	16	_	_	start_char=1157|end_char=1158|SpaceAfter=No
+18	But	but	CCONJ	CC	_	17	_	_	start_char=1158|end_char=1161
+19	then	then	ADV	RB	PronType=Dem	18	_	_	start_char=1162|end_char=1166
+20	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	19	_	_	start_char=1167|end_char=1170
+21	have	have	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	20	_	_	start_char=1171|end_char=1175
+22	to	to	PART	TO	_	21	_	_	start_char=1176|end_char=1178
+23	pull	pull	VERB	VB	VerbForm=Inf	22	_	_	start_char=1179|end_char=1183
+24	back	back	ADV	RB	_	23	_	_	start_char=1184|end_char=1188
+25	a	a	DET	DT	Definite=Ind|PronType=Art	24	_	_	start_char=1189|end_char=1190
+26	little	little	ADJ	JJ	Degree=Pos	25	_	_	start_char=1191|end_char=1197
+27	bit	bit	NOUN	NN	Number=Sing	26	_	_	start_char=1198|end_char=1201|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=1201|end_char=1202
+
+# text = If you go back to March 2022, Russia had taken about 17% of Ukraine.
+# sent_id = 13
+1	If	if	SCONJ	IN	_	0	_	_	start_char=1203|end_char=1205
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	1	_	_	start_char=1206|end_char=1209
+3	go	go	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1210|end_char=1212
+4	back	back	ADV	RB	_	3	_	_	start_char=1213|end_char=1217
+5	to	to	ADP	IN	_	4	_	_	start_char=1218|end_char=1220
+6	March	March	PROPN	NNP	Number=Sing	5	_	_	start_char=1221|end_char=1226
+7	2022	2022	NUM	CD	NumForm=Digit|NumType=Card	6	_	_	start_char=1227|end_char=1231|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=1231|end_char=1232
+9	Russia	Russia	PROPN	NNP	Number=Sing	8	_	_	start_char=1233|end_char=1239
+10	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=1240|end_char=1243
+11	taken	take	VERB	VBN	Tense=Past|VerbForm=Part	10	_	_	start_char=1244|end_char=1249
+12	about	about	ADV	RB	_	11	_	_	start_char=1250|end_char=1255
+13	17	17	NUM	CD	NumForm=Digit|NumType=Card	12	_	_	start_char=1256|end_char=1258|SpaceAfter=No
+14	%	%	SYM	NN	Number=Sing	13	_	_	start_char=1258|end_char=1259
+15	of	of	ADP	IN	_	14	_	_	start_char=1260|end_char=1262
+16	Ukraine	Ukraine	PROPN	NNP	Number=Sing	15	_	_	start_char=1263|end_char=1270|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=1270|end_char=1271
+
+# text = Today it has 11%.
+# sent_id = 14
+1	Today	today	NOUN	NN	Number=Sing	0	_	_	start_char=1272|end_char=1277
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	_	_	start_char=1278|end_char=1280
+3	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1281|end_char=1284
+4	11	11	NUM	CD	NumForm=Digit|NumType=Card	3	_	_	start_char=1285|end_char=1287|SpaceAfter=No
+5	%	%	SYM	NN	Number=Sing	4	_	_	start_char=1287|end_char=1288|SpaceAfter=No
+6	.	.	PUNCT	.	_	5	_	_	start_char=1288|end_char=1289
+
+# text = So Russia is still losing."
+# sent_id = 15
+1	So	so	ADV	RB	_	0	_	_	start_char=1290|end_char=1292
+2	Russia	Russia	PROPN	NNP	Number=Sing	1	_	_	start_char=1293|end_char=1299
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1300|end_char=1302
+4	still	still	ADV	RB	_	3	_	_	start_char=1303|end_char=1308
+5	losing	lose	VERB	VBG	Tense=Pres|VerbForm=Part	4	_	_	start_char=1309|end_char=1315|SpaceAfter=No
+6	.	.	PUNCT	.	_	5	_	_	start_char=1315|end_char=1316|SpaceAfter=No
+7	"	"	PUNCT	''	_	6	_	_	start_char=1316|end_char=1317|SpacesAfter=\n
+
+# text = Asked if he was confident Ukraine would prevail, Admiral Radakin stressed, "I am, extremely confident...
+# sent_id = 16
+1	Asked	ask	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	_	_	start_char=1318|end_char=1323
+2	if	if	SCONJ	IN	_	1	_	_	start_char=1324|end_char=1326
+3	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	_	_	start_char=1327|end_char=1329
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=1330|end_char=1333
+5	confident	confident	ADJ	JJ	Degree=Pos	4	_	_	start_char=1334|end_char=1343
+6	Ukraine	Ukraine	PROPN	NNP	Number=Sing	5	_	_	start_char=1344|end_char=1351
+7	would	would	AUX	MD	VerbForm=Fin	6	_	_	start_char=1352|end_char=1357
+8	prevail	prevail	VERB	VB	VerbForm=Inf	7	_	_	start_char=1358|end_char=1365|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1365|end_char=1366
+10	Admiral	Admiral	PROPN	NNP	Number=Sing	9	_	_	start_char=1367|end_char=1374
+11	Radakin	Radakin	PROPN	NNP	Number=Sing	10	_	_	start_char=1375|end_char=1382
+12	stressed	stress	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=1383|end_char=1391|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=1391|end_char=1392
+14	"	"	PUNCT	``	_	13	_	_	start_char=1393|end_char=1394|SpaceAfter=No
+15	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	_	_	start_char=1394|end_char=1395
+16	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	_	_	start_char=1396|end_char=1398|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=1398|end_char=1399
+18	extremely	extremely	ADV	RB	_	17	_	_	start_char=1400|end_char=1409
+19	confident	confident	ADJ	JJ	Degree=Pos	18	_	_	start_char=1410|end_char=1419|SpaceAfter=No
+20	...	...	PUNCT	.	_	19	_	_	start_char=1419|end_char=1422
+
+# text = By the end of June, Russia will have lost 500,000 people - killed and wounded.
+# sent_id = 17
+1	By	by	ADP	IN	_	0	_	_	start_char=1423|end_char=1425
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=1426|end_char=1429
+3	end	end	NOUN	NN	Number=Sing	2	_	_	start_char=1430|end_char=1433
+4	of	of	ADP	IN	_	3	_	_	start_char=1434|end_char=1436
+5	June	June	PROPN	NNP	Number=Sing	4	_	_	start_char=1437|end_char=1441|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=1441|end_char=1442
+7	Russia	Russia	PROPN	NNP	Number=Sing	6	_	_	start_char=1443|end_char=1449
+8	will	will	AUX	MD	VerbForm=Fin	7	_	_	start_char=1450|end_char=1454
+9	have	have	AUX	VB	VerbForm=Inf	8	_	_	start_char=1455|end_char=1459
+10	lost	lose	VERB	VBN	Tense=Past|VerbForm=Part	9	_	_	start_char=1460|end_char=1464
+11	500,000	500000	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=1465|end_char=1472
+12	people	person	NOUN	NNS	Number=Plur	11	_	_	start_char=1473|end_char=1479
+13	-	-	PUNCT	HYPH	_	12	_	_	start_char=1480|end_char=1481
+14	killed	kill	VERB	VBN	Tense=Past|VerbForm=Part	13	_	_	start_char=1482|end_char=1488
+15	and	and	CCONJ	CC	_	14	_	_	start_char=1489|end_char=1492
+16	wounded	wound	VERB	VBN	Tense=Past|VerbForm=Part	15	_	_	start_char=1493|end_char=1500|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=1500|end_char=1501
+
+# text = Already 800 days have passed for a war that Putin expected to last three days.
+# sent_id = 18
+1	Already	already	ADV	RB	_	0	_	_	start_char=1502|end_char=1509
+2	800	800	NUM	CD	NumForm=Digit|NumType=Card	1	_	_	start_char=1510|end_char=1513
+3	days	day	NOUN	NNS	Number=Plur	2	_	_	start_char=1514|end_char=1518
+4	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1519|end_char=1523
+5	passed	pass	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=1524|end_char=1530
+6	for	for	ADP	IN	_	5	_	_	start_char=1531|end_char=1534
+7	a	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=1535|end_char=1536
+8	war	war	NOUN	NN	Number=Sing	7	_	_	start_char=1537|end_char=1540
+9	that	that	PRON	WDT	PronType=Rel	8	_	_	start_char=1541|end_char=1545
+10	Putin	Putin	PROPN	NNP	Number=Sing	9	_	_	start_char=1546|end_char=1551
+11	expected	expect	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=1552|end_char=1560
+12	to	to	PART	TO	_	11	_	_	start_char=1561|end_char=1563
+13	last	last	VERB	VB	VerbForm=Inf	12	_	_	start_char=1564|end_char=1568
+14	three	three	NUM	CD	NumForm=Word|NumType=Card	13	_	_	start_char=1569|end_char=1574
+15	days	day	NOUN	NNS	Number=Plur	14	_	_	start_char=1575|end_char=1579|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=1579|end_char=1580
+
+# text = This is difficult for Ukraine, but we must maintain our support."
+# sent_id = 19
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1581|end_char=1585
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1586|end_char=1588
+3	difficult	difficult	ADJ	JJ	Degree=Pos	2	_	_	start_char=1589|end_char=1598
+4	for	for	ADP	IN	_	3	_	_	start_char=1599|end_char=1602
+5	Ukraine	Ukraine	PROPN	NNP	Number=Sing	4	_	_	start_char=1603|end_char=1610|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=1610|end_char=1611
+7	but	but	CCONJ	CC	_	6	_	_	start_char=1612|end_char=1615
+8	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	_	_	start_char=1616|end_char=1618
+9	must	must	AUX	MD	VerbForm=Fin	8	_	_	start_char=1619|end_char=1623
+10	maintain	maintain	VERB	VB	VerbForm=Inf	9	_	_	start_char=1624|end_char=1632
+11	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	10	_	_	start_char=1633|end_char=1636
+12	support	support	NOUN	NN	Number=Sing	11	_	_	start_char=1637|end_char=1644|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=1644|end_char=1645|SpaceAfter=No
+14	"	"	PUNCT	''	_	13	_	_	start_char=1645|end_char=1646|SpaceAfter=No
+

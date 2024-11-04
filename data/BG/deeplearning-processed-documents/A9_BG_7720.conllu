@@ -1,0 +1,422 @@
+# text = Medvedchuk: US and UK want to replace Zelensky
+# sent_id = 0
+1	Medvedchuk	Medvedchuk	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=10|SpaceAfter=No
+2	:	:	PUNCT	:	_	1	_	_	start_char=10|end_char=11
+3	US	US	PROPN	NNP	Number=Sing	2	_	_	start_char=12|end_char=14
+4	and	and	CCONJ	CC	_	3	_	_	start_char=15|end_char=18
+5	UK	UK	PROPN	NNP	Number=Sing	4	_	_	start_char=19|end_char=21
+6	want	want	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=22|end_char=26
+7	to	to	PART	TO	_	6	_	_	start_char=27|end_char=29
+8	replace	replace	VERB	VB	VerbForm=Inf	7	_	_	start_char=30|end_char=37
+9	Zelensky	Zelensky	PROPN	NNP	Number=Sing	8	_	_	start_char=38|end_char=46|SpacesAfter=\n\n
+
+# text = Pro-Kremlin Ukrainian politician Viktor Medvedchuk told TASS that the US and Britain want to replace Ukrainian President Volodymyr Zelensky.
+# sent_id = 1
+1	Pro-Kremlin	Pro-Kremlin	ADJ	JJ	Degree=Pos	0	_	_	start_char=48|end_char=59
+2	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	1	_	_	start_char=60|end_char=69
+3	politician	politician	NOUN	NN	Number=Sing	2	_	_	start_char=70|end_char=80
+4	Viktor	Viktor	PROPN	NNP	Number=Sing	3	_	_	start_char=81|end_char=87
+5	Medvedchuk	Medvedchuk	PROPN	NNP	Number=Sing	4	_	_	start_char=88|end_char=98
+6	told	tell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=99|end_char=103
+7	TASS	TASS	PROPN	NNP	Number=Sing	6	_	_	start_char=104|end_char=108
+8	that	that	SCONJ	IN	_	7	_	_	start_char=109|end_char=113
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=114|end_char=117
+10	US	US	PROPN	NNP	Number=Sing	9	_	_	start_char=118|end_char=120
+11	and	and	CCONJ	CC	_	10	_	_	start_char=121|end_char=124
+12	Britain	Britain	PROPN	NNP	Number=Sing	11	_	_	start_char=125|end_char=132
+13	want	want	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=133|end_char=137
+14	to	to	PART	TO	_	13	_	_	start_char=138|end_char=140
+15	replace	replace	VERB	VB	VerbForm=Inf	14	_	_	start_char=141|end_char=148
+16	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	15	_	_	start_char=149|end_char=158
+17	President	President	PROPN	NNP	Number=Sing	16	_	_	start_char=159|end_char=168
+18	Volodymyr	Volodymyr	PROPN	NNP	Number=Sing	17	_	_	start_char=169|end_char=178
+19	Zelensky	Zelensky	PROPN	NNP	Number=Sing	18	_	_	start_char=179|end_char=187|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=187|end_char=188|SpacesAfter=\n
+
+# text = According to him, Zelensky is already signaling that he is ready to negotiate with Russia because of pressure from Kiev's Western partners.
+# sent_id = 2
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=189|end_char=198
+2	to	to	ADP	IN	_	1	_	_	start_char=199|end_char=201
+3	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	_	_	start_char=202|end_char=205|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=205|end_char=206
+5	Zelensky	Zelensky	PROPN	NNP	Number=Sing	4	_	_	start_char=207|end_char=215
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=216|end_char=218
+7	already	already	ADV	RB	_	6	_	_	start_char=219|end_char=226
+8	signaling	signal	VERB	VBG	Tense=Pres|VerbForm=Part	7	_	_	start_char=227|end_char=236
+9	that	that	SCONJ	IN	_	8	_	_	start_char=237|end_char=241
+10	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	_	_	start_char=242|end_char=244
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=245|end_char=247
+12	ready	ready	ADJ	JJ	Degree=Pos	11	_	_	start_char=248|end_char=253
+13	to	to	PART	TO	_	12	_	_	start_char=254|end_char=256
+14	negotiate	negotiate	VERB	VB	VerbForm=Inf	13	_	_	start_char=257|end_char=266
+15	with	with	ADP	IN	_	14	_	_	start_char=267|end_char=271
+16	Russia	Russia	PROPN	NNP	Number=Sing	15	_	_	start_char=272|end_char=278
+17	because	because	ADP	IN	_	16	_	_	start_char=279|end_char=286
+18	of	of	ADP	IN	_	17	_	_	start_char=287|end_char=289
+19	pressure	pressure	NOUN	NN	Number=Sing	18	_	_	start_char=290|end_char=298
+20	from	from	ADP	IN	_	19	_	_	start_char=299|end_char=303
+21-22	Kiev's	_	_	_	_	_	_	_	start_char=304|end_char=310
+21	Kiev	Kiev	PROPN	NNP	Number=Sing	20	_	_	start_char=304|end_char=308
+22	's	's	PART	POS	_	21	_	_	start_char=308|end_char=310
+23	Western	western	ADJ	JJ	Degree=Pos	22	_	_	start_char=311|end_char=318
+24	partners	partner	NOUN	NNS	Number=Plur	23	_	_	start_char=319|end_char=327|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=327|end_char=328|SpacesAfter=\n
+
+# text = "The emergence of such signals does little to change the real political situation in Ukraine and in its international politics.
+# sent_id = 3
+1	"	"	PUNCT	``	_	0	_	_	start_char=329|end_char=330|SpaceAfter=No
+2	The	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=330|end_char=333
+3	emergence	emergence	NOUN	NN	Number=Sing	2	_	_	start_char=334|end_char=343
+4	of	of	ADP	IN	_	3	_	_	start_char=344|end_char=346
+5	such	such	ADJ	JJ	Degree=Pos	4	_	_	start_char=347|end_char=351
+6	signals	signal	NOUN	NNS	Number=Plur	5	_	_	start_char=352|end_char=359
+7	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=360|end_char=364
+8	little	little	ADJ	JJ	Degree=Pos	7	_	_	start_char=365|end_char=371
+9	to	to	PART	TO	_	8	_	_	start_char=372|end_char=374
+10	change	change	VERB	VB	VerbForm=Inf	9	_	_	start_char=375|end_char=381
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=382|end_char=385
+12	real	real	ADJ	JJ	Degree=Pos	11	_	_	start_char=386|end_char=390
+13	political	political	ADJ	JJ	Degree=Pos	12	_	_	start_char=391|end_char=400
+14	situation	situation	NOUN	NN	Number=Sing	13	_	_	start_char=401|end_char=410
+15	in	in	ADP	IN	_	14	_	_	start_char=411|end_char=413
+16	Ukraine	Ukraine	PROPN	NNP	Number=Sing	15	_	_	start_char=414|end_char=421
+17	and	and	CCONJ	CC	_	16	_	_	start_char=422|end_char=425
+18	in	in	ADP	IN	_	17	_	_	start_char=426|end_char=428
+19	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	18	_	_	start_char=429|end_char=432
+20	international	international	ADJ	JJ	Degree=Pos	19	_	_	start_char=433|end_char=446
+21	politics	politics	NOUN	NNS	Number=Plur	20	_	_	start_char=447|end_char=455|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=455|end_char=456
+
+# text = Zelensky is forced to send such signals because he is forced to do so by his Western masters and the change of leadership in the United States.
+# sent_id = 4
+1	Zelensky	Zelensky	PROPN	NNP	Number=Sing	0	_	_	start_char=457|end_char=465
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=466|end_char=468
+3	forced	force	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	_	_	start_char=469|end_char=475
+4	to	to	PART	TO	_	3	_	_	start_char=476|end_char=478
+5	send	send	VERB	VB	VerbForm=Inf	4	_	_	start_char=479|end_char=483
+6	such	such	ADJ	JJ	Degree=Pos	5	_	_	start_char=484|end_char=488
+7	signals	signal	NOUN	NNS	Number=Plur	6	_	_	start_char=489|end_char=496
+8	because	because	SCONJ	IN	_	7	_	_	start_char=497|end_char=504
+9	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	_	_	start_char=505|end_char=507
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=508|end_char=510
+11	forced	force	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10	_	_	start_char=511|end_char=517
+12	to	to	PART	TO	_	11	_	_	start_char=518|end_char=520
+13	do	do	VERB	VB	VerbForm=Inf	12	_	_	start_char=521|end_char=523
+14	so	so	ADV	RB	_	13	_	_	start_char=524|end_char=526
+15	by	by	ADP	IN	_	14	_	_	start_char=527|end_char=529
+16	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	_	_	start_char=530|end_char=533
+17	Western	western	ADJ	JJ	Degree=Pos	16	_	_	start_char=534|end_char=541
+18	masters	master	NOUN	NNS	Number=Plur	17	_	_	start_char=542|end_char=549
+19	and	and	CCONJ	CC	_	18	_	_	start_char=550|end_char=553
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=554|end_char=557
+21	change	change	NOUN	NN	Number=Sing	20	_	_	start_char=558|end_char=564
+22	of	of	ADP	IN	_	21	_	_	start_char=565|end_char=567
+23	leadership	leadership	NOUN	NN	Number=Sing	22	_	_	start_char=568|end_char=578
+24	in	in	ADP	IN	_	23	_	_	start_char=579|end_char=581
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=582|end_char=585
+26	United	United	ADJ	NNP	Degree=Pos	25	_	_	start_char=586|end_char=592
+27	States	State	PROPN	NNPS	Number=Plur	26	_	_	start_char=593|end_char=599|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=599|end_char=600
+
+# text = But in reality, the chance for peace talks was permanently missed by Zelensky's team in the spring of 2022, when Ukraine withdrew from the Istanbul Accords and then ignored Russian President Vladimir Putin's proposals.
+# sent_id = 5
+1	But	but	CCONJ	CC	_	0	_	_	start_char=601|end_char=604
+2	in	in	ADP	IN	_	1	_	_	start_char=605|end_char=607
+3	reality	reality	NOUN	NN	Number=Sing	2	_	_	start_char=608|end_char=615|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=615|end_char=616
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=617|end_char=620
+6	chance	chance	NOUN	NN	Number=Sing	5	_	_	start_char=621|end_char=627
+7	for	for	ADP	IN	_	6	_	_	start_char=628|end_char=631
+8	peace	peace	NOUN	NN	Number=Sing	7	_	_	start_char=632|end_char=637
+9	talks	talk	NOUN	NNS	Number=Plur	8	_	_	start_char=638|end_char=643
+10	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=644|end_char=647
+11	permanently	permanently	ADV	RB	_	10	_	_	start_char=648|end_char=659
+12	missed	miss	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	11	_	_	start_char=660|end_char=666
+13	by	by	ADP	IN	_	12	_	_	start_char=667|end_char=669
+14-15	Zelensky's	_	_	_	_	_	_	_	start_char=670|end_char=680
+14	Zelensky	Zelensky	PROPN	NNP	Number=Sing	13	_	_	start_char=670|end_char=678
+15	's	's	PART	POS	_	14	_	_	start_char=678|end_char=680
+16	team	team	NOUN	NN	Number=Sing	15	_	_	start_char=681|end_char=685
+17	in	in	ADP	IN	_	16	_	_	start_char=686|end_char=688
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=689|end_char=692
+19	spring	spring	NOUN	NN	Number=Sing	18	_	_	start_char=693|end_char=699
+20	of	of	ADP	IN	_	19	_	_	start_char=700|end_char=702
+21	2022	2022	NUM	CD	NumForm=Digit|NumType=Card	20	_	_	start_char=703|end_char=707|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=707|end_char=708
+23	when	when	ADV	WRB	PronType=Int	22	_	_	start_char=709|end_char=713
+24	Ukraine	Ukraine	PROPN	NNP	Number=Sing	23	_	_	start_char=714|end_char=721
+25	withdrew	withdraw	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	_	_	start_char=722|end_char=730
+26	from	from	ADP	IN	_	25	_	_	start_char=731|end_char=735
+27	the	the	DET	DT	Definite=Def|PronType=Art	26	_	_	start_char=736|end_char=739
+28	Istanbul	Istanbul	PROPN	NNP	Number=Sing	27	_	_	start_char=740|end_char=748
+29	Accords	Accord	PROPN	NNP	Number=Sing	28	_	_	start_char=749|end_char=756
+30	and	and	CCONJ	CC	_	29	_	_	start_char=757|end_char=760
+31	then	then	ADV	RB	PronType=Dem	30	_	_	start_char=761|end_char=765
+32	ignored	ignore	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	31	_	_	start_char=766|end_char=773
+33	Russian	Russian	ADJ	JJ	Degree=Pos	32	_	_	start_char=774|end_char=781
+34	President	President	PROPN	NNP	Number=Sing	33	_	_	start_char=782|end_char=791
+35	Vladimir	Vladimir	PROPN	NNP	Number=Sing	34	_	_	start_char=792|end_char=800
+36-37	Putin's	_	_	_	_	_	_	_	start_char=801|end_char=808
+36	Putin	Putin	PROPN	NNP	Number=Sing	35	_	_	start_char=801|end_char=806
+37	's	's	PART	POS	_	36	_	_	start_char=806|end_char=808
+38	proposals	proposal	NOUN	NNS	Number=Plur	37	_	_	start_char=809|end_char=818|SpaceAfter=No
+39	.	.	PUNCT	.	_	38	_	_	start_char=818|end_char=819
+
+# text = This government won't have those chances again," Medvedchuk said.
+# sent_id = 6
+1	This	this	DET	DT	Number=Sing|PronType=Dem	0	_	_	start_char=820|end_char=824
+2	government	government	NOUN	NN	Number=Sing	1	_	_	start_char=825|end_char=835
+3-4	won't	_	_	_	_	_	_	_	start_char=836|end_char=841
+3	wo	will	AUX	MD	VerbForm=Fin	2	_	_	start_char=836|end_char=838
+4	n't	not	PART	RB	_	3	_	_	start_char=838|end_char=841
+5	have	have	VERB	VB	VerbForm=Inf	4	_	_	start_char=842|end_char=846
+6	those	that	DET	DT	Number=Plur|PronType=Dem	5	_	_	start_char=847|end_char=852
+7	chances	chance	NOUN	NNS	Number=Plur	6	_	_	start_char=853|end_char=860
+8	again	again	ADV	RB	_	7	_	_	start_char=861|end_char=866|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=866|end_char=867|SpaceAfter=No
+10	"	"	PUNCT	''	_	9	_	_	start_char=867|end_char=868
+11	Medvedchuk	Medvedchuk	PROPN	NNP	Number=Sing	10	_	_	start_char=869|end_char=879
+12	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=880|end_char=884|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=884|end_char=885|SpacesAfter=\n
+
+# text = "The mobilization process in Ukraine accurately shows the true intentions of Zelensky's team.
+# sent_id = 7
+1	"	"	PUNCT	``	_	0	_	_	start_char=886|end_char=887|SpaceAfter=No
+2	The	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=887|end_char=890
+3	mobilization	mobilization	NOUN	NN	Number=Sing	2	_	_	start_char=891|end_char=903
+4	process	process	NOUN	NN	Number=Sing	3	_	_	start_char=904|end_char=911
+5	in	in	ADP	IN	_	4	_	_	start_char=912|end_char=914
+6	Ukraine	Ukraine	PROPN	NNP	Number=Sing	5	_	_	start_char=915|end_char=922
+7	accurately	accurately	ADV	RB	_	6	_	_	start_char=923|end_char=933
+8	shows	show	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=934|end_char=939
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=940|end_char=943
+10	true	true	ADJ	JJ	Degree=Pos	9	_	_	start_char=944|end_char=948
+11	intentions	intention	NOUN	NNS	Number=Plur	10	_	_	start_char=949|end_char=959
+12	of	of	ADP	IN	_	11	_	_	start_char=960|end_char=962
+13-14	Zelensky's	_	_	_	_	_	_	_	start_char=963|end_char=973
+13	Zelensky	Zelensky	PROPN	NNP	Number=Sing	12	_	_	start_char=963|end_char=971
+14	's	's	PART	POS	_	13	_	_	start_char=971|end_char=973
+15	team	team	NOUN	NN	Number=Sing	14	_	_	start_char=974|end_char=978|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=978|end_char=979
+
+# text = He has already gone down in history as the politician who allowed the forcible capture of citizens in the army in the 21st century.
+# sent_id = 8
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=980|end_char=982
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=983|end_char=986
+3	already	already	ADV	RB	_	2	_	_	start_char=987|end_char=994
+4	gone	go	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=995|end_char=999
+5	down	down	ADP	RP	_	4	_	_	start_char=1000|end_char=1004
+6	in	in	ADP	IN	_	5	_	_	start_char=1005|end_char=1007
+7	history	history	NOUN	NN	Number=Sing	6	_	_	start_char=1008|end_char=1015
+8	as	as	ADP	IN	_	7	_	_	start_char=1016|end_char=1018
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1019|end_char=1022
+10	politician	politician	NOUN	NN	Number=Sing	9	_	_	start_char=1023|end_char=1033
+11	who	who	PRON	WP	PronType=Rel	10	_	_	start_char=1034|end_char=1037
+12	allowed	allow	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=1038|end_char=1045
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1046|end_char=1049
+14	forcible	forcible	ADJ	JJ	Degree=Pos	13	_	_	start_char=1050|end_char=1058
+15	capture	capture	NOUN	NN	Number=Sing	14	_	_	start_char=1059|end_char=1066
+16	of	of	ADP	IN	_	15	_	_	start_char=1067|end_char=1069
+17	citizens	citizen	NOUN	NNS	Number=Plur	16	_	_	start_char=1070|end_char=1078
+18	in	in	ADP	IN	_	17	_	_	start_char=1079|end_char=1081
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=1082|end_char=1085
+20	army	army	NOUN	NN	Number=Sing	19	_	_	start_char=1086|end_char=1090
+21	in	in	ADP	IN	_	20	_	_	start_char=1091|end_char=1093
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=1094|end_char=1097
+23	21st	21st	ADJ	JJ	Degree=Pos|NumType=Ord	22	_	_	start_char=1098|end_char=1102
+24	century	century	NOUN	NN	Number=Sing	23	_	_	start_char=1103|end_char=1110|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=1110|end_char=1111
+
+# text = This did not happen even in Nazi Germany," he said.
+# sent_id = 9
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1112|end_char=1116
+2	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1117|end_char=1120
+3	not	not	PART	RB	_	2	_	_	start_char=1121|end_char=1124
+4	happen	happen	VERB	VB	VerbForm=Inf	3	_	_	start_char=1125|end_char=1131
+5	even	even	ADV	RB	_	4	_	_	start_char=1132|end_char=1136
+6	in	in	ADP	IN	_	5	_	_	start_char=1137|end_char=1139
+7	Nazi	Nazi	PROPN	NNP	Number=Sing	6	_	_	start_char=1140|end_char=1144
+8	Germany	Germany	PROPN	NNP	Number=Sing	7	_	_	start_char=1145|end_char=1152|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1152|end_char=1153|SpaceAfter=No
+10	"	"	PUNCT	''	_	9	_	_	start_char=1153|end_char=1154
+11	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	_	_	start_char=1155|end_char=1157
+12	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=1158|end_char=1162|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=1162|end_char=1163|SpacesAfter=\n
+
+# text = "Zelensky introduced corruption into the management of the army, and corrupt officials see war as a profitable business.
+# sent_id = 10
+1	"	"	PUNCT	``	_	0	_	_	start_char=1164|end_char=1165|SpaceAfter=No
+2	Zelensky	Zelensky	PROPN	NNP	Number=Sing	1	_	_	start_char=1165|end_char=1173
+3	introduced	introduce	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1174|end_char=1184
+4	corruption	corruption	NOUN	NN	Number=Sing	3	_	_	start_char=1185|end_char=1195
+5	into	into	ADP	IN	_	4	_	_	start_char=1196|end_char=1200
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1201|end_char=1204
+7	management	management	NOUN	NN	Number=Sing	6	_	_	start_char=1205|end_char=1215
+8	of	of	ADP	IN	_	7	_	_	start_char=1216|end_char=1218
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1219|end_char=1222
+10	army	army	NOUN	NN	Number=Sing	9	_	_	start_char=1223|end_char=1227|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=1227|end_char=1228
+12	and	and	CCONJ	CC	_	11	_	_	start_char=1229|end_char=1232
+13	corrupt	corrupt	ADJ	JJ	Degree=Pos	12	_	_	start_char=1233|end_char=1240
+14	officials	official	NOUN	NNS	Number=Plur	13	_	_	start_char=1241|end_char=1250
+15	see	see	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=1251|end_char=1254
+16	war	war	NOUN	NN	Number=Sing	15	_	_	start_char=1255|end_char=1258
+17	as	as	ADP	IN	_	16	_	_	start_char=1259|end_char=1261
+18	a	a	DET	DT	Definite=Ind|PronType=Art	17	_	_	start_char=1262|end_char=1263
+19	profitable	profitable	ADJ	JJ	Degree=Pos	18	_	_	start_char=1264|end_char=1274
+20	business	business	NOUN	NN	Number=Sing	19	_	_	start_char=1275|end_char=1283|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=1283|end_char=1284
+
+# text = And they don't care about the fact that Ukraine is becoming one big graveyard - they won't live in Ukraine, all their families have been living in the West for a long time," Medvedchuk said.
+# sent_id = 11
+1	And	and	CCONJ	CC	_	0	_	_	start_char=1285|end_char=1288
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	1	_	_	start_char=1289|end_char=1293
+3-4	don't	_	_	_	_	_	_	_	start_char=1294|end_char=1299
+3	do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1294|end_char=1296
+4	n't	not	PART	RB	_	3	_	_	start_char=1296|end_char=1299
+5	care	care	VERB	VB	VerbForm=Inf	4	_	_	start_char=1300|end_char=1304
+6	about	about	ADP	IN	_	5	_	_	start_char=1305|end_char=1310
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1311|end_char=1314
+8	fact	fact	NOUN	NN	Number=Sing	7	_	_	start_char=1315|end_char=1319
+9	that	that	SCONJ	IN	_	8	_	_	start_char=1320|end_char=1324
+10	Ukraine	Ukraine	PROPN	NNP	Number=Sing	9	_	_	start_char=1325|end_char=1332
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=1333|end_char=1335
+12	becoming	become	VERB	VBG	Tense=Pres|VerbForm=Part	11	_	_	start_char=1336|end_char=1344
+13	one	one	NUM	CD	NumForm=Word|NumType=Card	12	_	_	start_char=1345|end_char=1348
+14	big	big	ADJ	JJ	Degree=Pos	13	_	_	start_char=1349|end_char=1352
+15	graveyard	graveyard	NOUN	NN	Number=Sing	14	_	_	start_char=1353|end_char=1362
+16	-	-	PUNCT	,	_	15	_	_	start_char=1363|end_char=1364
+17	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	_	_	start_char=1365|end_char=1369
+18-19	won't	_	_	_	_	_	_	_	start_char=1370|end_char=1375
+18	wo	will	AUX	MD	VerbForm=Fin	17	_	_	start_char=1370|end_char=1372
+19	n't	not	PART	RB	_	18	_	_	start_char=1372|end_char=1375
+20	live	live	VERB	VB	VerbForm=Inf	19	_	_	start_char=1376|end_char=1380
+21	in	in	ADP	IN	_	20	_	_	start_char=1381|end_char=1383
+22	Ukraine	Ukraine	PROPN	NNP	Number=Sing	21	_	_	start_char=1384|end_char=1391|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=1391|end_char=1392
+24	all	all	DET	PDT	_	23	_	_	start_char=1393|end_char=1396
+25	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	24	_	_	start_char=1397|end_char=1402
+26	families	family	NOUN	NNS	Number=Plur	25	_	_	start_char=1403|end_char=1411
+27	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	_	_	start_char=1412|end_char=1416
+28	been	be	AUX	VBN	Tense=Past|VerbForm=Part	27	_	_	start_char=1417|end_char=1421
+29	living	live	VERB	VBG	Tense=Pres|VerbForm=Part	28	_	_	start_char=1422|end_char=1428
+30	in	in	ADP	IN	_	29	_	_	start_char=1429|end_char=1431
+31	the	the	DET	DT	Definite=Def|PronType=Art	30	_	_	start_char=1432|end_char=1435
+32	West	West	PROPN	NNP	Number=Sing	31	_	_	start_char=1436|end_char=1440
+33	for	for	ADP	IN	_	32	_	_	start_char=1441|end_char=1444
+34	a	a	DET	DT	Definite=Ind|PronType=Art	33	_	_	start_char=1445|end_char=1446
+35	long	long	ADJ	JJ	Degree=Pos	34	_	_	start_char=1447|end_char=1451
+36	time	time	NOUN	NN	Number=Sing	35	_	_	start_char=1452|end_char=1456|SpaceAfter=No
+37	,	,	PUNCT	,	_	36	_	_	start_char=1456|end_char=1457|SpaceAfter=No
+38	"	"	PUNCT	''	_	37	_	_	start_char=1457|end_char=1458
+39	Medvedchuk	Medvedchuk	PROPN	NNP	Number=Sing	38	_	_	start_char=1459|end_char=1469
+40	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	39	_	_	start_char=1470|end_char=1474|SpaceAfter=No
+41	.	.	PUNCT	.	_	40	_	_	start_char=1474|end_char=1475|SpacesAfter=\n
+
+# text = "Blocking Russian energy supplies to Europe is an element of the economic war between Russia and the US, where Europe is a battlefield.
+# sent_id = 12
+1	"	"	PUNCT	``	_	0	_	_	start_char=1476|end_char=1477|SpaceAfter=No
+2	Blocking	block	VERB	VBG	VerbForm=Ger	1	_	_	start_char=1477|end_char=1485
+3	Russian	Russian	ADJ	JJ	Degree=Pos	2	_	_	start_char=1486|end_char=1493
+4	energy	energy	NOUN	NN	Number=Sing	3	_	_	start_char=1494|end_char=1500
+5	supplies	supplies	NOUN	NNS	Number=Plur	4	_	_	start_char=1501|end_char=1509
+6	to	to	ADP	IN	_	5	_	_	start_char=1510|end_char=1512
+7	Europe	Europe	PROPN	NNP	Number=Sing	6	_	_	start_char=1513|end_char=1519
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=1520|end_char=1522
+9	an	a	DET	DT	Definite=Ind|PronType=Art	8	_	_	start_char=1523|end_char=1525
+10	element	element	NOUN	NN	Number=Sing	9	_	_	start_char=1526|end_char=1533
+11	of	of	ADP	IN	_	10	_	_	start_char=1534|end_char=1536
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=1537|end_char=1540
+13	economic	economic	ADJ	JJ	Degree=Pos	12	_	_	start_char=1541|end_char=1549
+14	war	war	NOUN	NN	Number=Sing	13	_	_	start_char=1550|end_char=1553
+15	between	between	ADP	IN	_	14	_	_	start_char=1554|end_char=1561
+16	Russia	Russia	PROPN	NNP	Number=Sing	15	_	_	start_char=1562|end_char=1568
+17	and	and	CCONJ	CC	_	16	_	_	start_char=1569|end_char=1572
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=1573|end_char=1576
+19	US	US	PROPN	NNP	Number=Sing	18	_	_	start_char=1577|end_char=1579|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=1579|end_char=1580
+21	where	where	ADV	WRB	PronType=Rel	20	_	_	start_char=1581|end_char=1586
+22	Europe	Europe	PROPN	NNP	Number=Sing	21	_	_	start_char=1587|end_char=1593
+23	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	_	_	start_char=1594|end_char=1596
+24	a	a	DET	DT	Definite=Ind|PronType=Art	23	_	_	start_char=1597|end_char=1598
+25	battlefield	battlefield	NOUN	NN	Number=Sing	24	_	_	start_char=1599|end_char=1610|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=1610|end_char=1611
+
+# text = Naturally, Europe is suffering huge economic losses.
+# sent_id = 13
+1	Naturally	naturally	ADV	RB	_	0	_	_	start_char=1612|end_char=1621|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=1621|end_char=1622
+3	Europe	Europe	PROPN	NNP	Number=Sing	2	_	_	start_char=1623|end_char=1629
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1630|end_char=1632
+5	suffering	suffer	VERB	VBG	Tense=Pres|VerbForm=Part	4	_	_	start_char=1633|end_char=1642
+6	huge	huge	ADJ	JJ	Degree=Pos	5	_	_	start_char=1643|end_char=1647
+7	economic	economic	ADJ	JJ	Degree=Pos	6	_	_	start_char=1648|end_char=1656
+8	losses	loss	NOUN	NNS	Number=Plur	7	_	_	start_char=1657|end_char=1663|SpaceAfter=No
+9	.	.	PUNCT	.	_	8	_	_	start_char=1663|end_char=1664
+
+# text = The leaders of Hungary and Slovakia have already spoken out against restricting these supplies, but, as we can see, an assassination attempt has been made on Slovak Prime Minister Robert Fico, and Hungarian Prime Minister Viktor Orban is being subjected to mass information persecution and isolation among his EU colleagues," he told the Russian news agency.
+# sent_id = 14
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1665|end_char=1668
+2	leaders	leader	NOUN	NNS	Number=Plur	1	_	_	start_char=1669|end_char=1676
+3	of	of	ADP	IN	_	2	_	_	start_char=1677|end_char=1679
+4	Hungary	Hungary	PROPN	NNP	Number=Sing	3	_	_	start_char=1680|end_char=1687
+5	and	and	CCONJ	CC	_	4	_	_	start_char=1688|end_char=1691
+6	Slovakia	Slovakia	PROPN	NNP	Number=Sing	5	_	_	start_char=1692|end_char=1700
+7	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=1701|end_char=1705
+8	already	already	ADV	RB	_	7	_	_	start_char=1706|end_char=1713
+9	spoken	speak	VERB	VBN	Tense=Past|VerbForm=Part	8	_	_	start_char=1714|end_char=1720
+10	out	out	ADP	RP	_	9	_	_	start_char=1721|end_char=1724
+11	against	against	SCONJ	IN	_	10	_	_	start_char=1725|end_char=1732
+12	restricting	restrict	VERB	VBG	VerbForm=Ger	11	_	_	start_char=1733|end_char=1744
+13	these	this	DET	DT	Number=Plur|PronType=Dem	12	_	_	start_char=1745|end_char=1750
+14	supplies	supplies	NOUN	NNS	Number=Plur	13	_	_	start_char=1751|end_char=1759|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=1759|end_char=1760
+16	but	but	CCONJ	CC	_	15	_	_	start_char=1761|end_char=1764|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=1764|end_char=1765
+18	as	as	SCONJ	IN	_	17	_	_	start_char=1766|end_char=1768
+19	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	18	_	_	start_char=1769|end_char=1771
+20	can	can	AUX	MD	VerbForm=Fin	19	_	_	start_char=1772|end_char=1775
+21	see	see	VERB	VB	VerbForm=Inf	20	_	_	start_char=1776|end_char=1779|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=1779|end_char=1780
+23	an	a	DET	DT	Definite=Ind|PronType=Art	22	_	_	start_char=1781|end_char=1783
+24	assassination	assassination	NOUN	NN	Number=Sing	23	_	_	start_char=1784|end_char=1797
+25	attempt	attempt	NOUN	NN	Number=Sing	24	_	_	start_char=1798|end_char=1805
+26	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	_	_	start_char=1806|end_char=1809
+27	been	be	AUX	VBN	Tense=Past|VerbForm=Part	26	_	_	start_char=1810|end_char=1814
+28	made	make	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	27	_	_	start_char=1815|end_char=1819
+29	on	on	ADP	IN	_	28	_	_	start_char=1820|end_char=1822
+30	Slovak	slovak	ADJ	JJ	Degree=Pos	29	_	_	start_char=1823|end_char=1829
+31	Prime	Prime	ADJ	NNP	Degree=Pos	30	_	_	start_char=1830|end_char=1835
+32	Minister	Minister	PROPN	NNP	Number=Sing	31	_	_	start_char=1836|end_char=1844
+33	Robert	Robert	PROPN	NNP	Number=Sing	32	_	_	start_char=1845|end_char=1851
+34	Fico	Fico	PROPN	NNP	Number=Sing	33	_	_	start_char=1852|end_char=1856|SpaceAfter=No
+35	,	,	PUNCT	,	_	34	_	_	start_char=1856|end_char=1857
+36	and	and	CCONJ	CC	_	35	_	_	start_char=1858|end_char=1861
+37	Hungarian	Hungarian	ADJ	JJ	Degree=Pos	36	_	_	start_char=1862|end_char=1871
+38	Prime	Prime	ADJ	NNP	Degree=Pos	37	_	_	start_char=1872|end_char=1877
+39	Minister	Minister	PROPN	NNP	Number=Sing	38	_	_	start_char=1878|end_char=1886
+40	Viktor	Viktor	PROPN	NNP	Number=Sing	39	_	_	start_char=1887|end_char=1893
+41	Orban	Orban	PROPN	NNP	Number=Sing	40	_	_	start_char=1894|end_char=1899
+42	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	41	_	_	start_char=1900|end_char=1902
+43	being	be	AUX	VBG	VerbForm=Ger	42	_	_	start_char=1903|end_char=1908
+44	subjected	subject	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	43	_	_	start_char=1909|end_char=1918
+45	to	to	ADP	IN	_	44	_	_	start_char=1919|end_char=1921
+46	mass	mass	ADJ	JJ	Degree=Pos	45	_	_	start_char=1922|end_char=1926
+47	information	information	NOUN	NN	Number=Sing	46	_	_	start_char=1927|end_char=1938
+48	persecution	persecution	NOUN	NN	Number=Sing	47	_	_	start_char=1939|end_char=1950
+49	and	and	CCONJ	CC	_	48	_	_	start_char=1951|end_char=1954
+50	isolation	isolation	NOUN	NN	Number=Sing	49	_	_	start_char=1955|end_char=1964
+51	among	among	ADP	IN	_	50	_	_	start_char=1965|end_char=1970
+52	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	51	_	_	start_char=1971|end_char=1974
+53	EU	EU	PROPN	NNP	Number=Sing	52	_	_	start_char=1975|end_char=1977
+54	colleagues	colleague	NOUN	NNS	Number=Plur	53	_	_	start_char=1978|end_char=1988|SpaceAfter=No
+55	,	,	PUNCT	,	_	54	_	_	start_char=1988|end_char=1989|SpaceAfter=No
+56	"	"	PUNCT	''	_	55	_	_	start_char=1989|end_char=1990
+57	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	56	_	_	start_char=1991|end_char=1993
+58	told	tell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	57	_	_	start_char=1994|end_char=1998
+59	the	the	DET	DT	Definite=Def|PronType=Art	58	_	_	start_char=1999|end_char=2002
+60	Russian	Russian	ADJ	JJ	Degree=Pos	59	_	_	start_char=2003|end_char=2010
+61	news	news	NOUN	NN	Number=Sing	60	_	_	start_char=2011|end_char=2015
+62	agency	agency	NOUN	NN	Number=Sing	61	_	_	start_char=2016|end_char=2022|SpaceAfter=No
+63	.	.	PUNCT	.	_	62	_	_	start_char=2022|end_char=2023|SpaceAfter=No
+

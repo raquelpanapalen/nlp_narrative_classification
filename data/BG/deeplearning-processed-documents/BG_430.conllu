@@ -1,0 +1,305 @@
+# text = American journalist: It's a madhouse in the US, everyone is zombified against Russia (video)
+# sent_id = 0
+1	American	American	ADJ	JJ	Degree=Pos	0	_	_	start_char=0|end_char=8
+2	journalist	journalist	NOUN	NN	Number=Sing	1	_	_	start_char=9|end_char=19|SpaceAfter=No
+3	:	:	PUNCT	:	_	2	_	_	start_char=19|end_char=20
+4-5	It's	_	_	_	_	_	_	_	start_char=21|end_char=25
+4	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	_	_	start_char=21|end_char=23
+5	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=23|end_char=25
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=26|end_char=27
+7	madhouse	madhouse	NOUN	NN	Number=Sing	6	_	_	start_char=28|end_char=36
+8	in	in	ADP	IN	_	7	_	_	start_char=37|end_char=39
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=40|end_char=43
+10	US	US	PROPN	NNP	Number=Sing	9	_	_	start_char=44|end_char=46|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=46|end_char=47
+12	everyone	everyone	PRON	NN	Number=Sing|PronType=Tot	11	_	_	start_char=48|end_char=56
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=57|end_char=59
+14	zombified	zombified	ADJ	JJ	Degree=Pos	13	_	_	start_char=60|end_char=69
+15	against	against	ADP	IN	_	14	_	_	start_char=70|end_char=77
+16	Russia	Russia	PROPN	NNP	Number=Sing	15	_	_	start_char=78|end_char=84
+17	(	(	PUNCT	-LRB-	_	16	_	_	start_char=85|end_char=86|SpaceAfter=No
+18	video	video	NOUN	NN	Number=Sing	17	_	_	start_char=86|end_char=91|SpaceAfter=No
+19	)	)	PUNCT	-RRB-	_	18	_	_	start_char=91|end_char=92|SpacesAfter=\n\n
+
+# text = The anti-Russian hysteria deliberately stoked in the US after Trump's victory over Hillary Clinton is hampering diplomatic contacts between Moscow and Washington, independent journalist Glenn Greenwald notes in an interview with the Tucker Carlson Network.
+# sent_id = 1
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=94|end_char=97
+2	anti-Russian	anti-Russian	ADJ	JJ	Degree=Pos	1	_	_	start_char=98|end_char=110
+3	hysteria	hysteria	NOUN	NN	Number=Sing	2	_	_	start_char=111|end_char=119
+4	deliberately	deliberately	ADV	RB	_	3	_	_	start_char=120|end_char=132
+5	stoked	stoke	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=133|end_char=139
+6	in	in	ADP	IN	_	5	_	_	start_char=140|end_char=142
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=143|end_char=146
+8	US	US	PROPN	NNP	Number=Sing	7	_	_	start_char=147|end_char=149
+9	after	after	ADP	IN	_	8	_	_	start_char=150|end_char=155
+10-11	Trump's	_	_	_	_	_	_	_	start_char=156|end_char=163
+10	Trump	Trump	PROPN	NNP	Number=Sing	9	_	_	start_char=156|end_char=161
+11	's	's	PART	POS	_	10	_	_	start_char=161|end_char=163
+12	victory	victory	NOUN	NN	Number=Sing	11	_	_	start_char=164|end_char=171
+13	over	over	ADP	IN	_	12	_	_	start_char=172|end_char=176
+14	Hillary	Hillary	PROPN	NNP	Number=Sing	13	_	_	start_char=177|end_char=184
+15	Clinton	Clinton	PROPN	NNP	Number=Sing	14	_	_	start_char=185|end_char=192
+16	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=193|end_char=195
+17	hampering	hamper	VERB	VBG	Tense=Pres|VerbForm=Part	16	_	_	start_char=196|end_char=205
+18	diplomatic	diplomatic	ADJ	JJ	Degree=Pos	17	_	_	start_char=206|end_char=216
+19	contacts	contact	NOUN	NNS	Number=Plur	18	_	_	start_char=217|end_char=225
+20	between	between	ADP	IN	_	19	_	_	start_char=226|end_char=233
+21	Moscow	Moscow	PROPN	NNP	Number=Sing	20	_	_	start_char=234|end_char=240
+22	and	and	CCONJ	CC	_	21	_	_	start_char=241|end_char=244
+23	Washington	Washington	PROPN	NNP	Number=Sing	22	_	_	start_char=245|end_char=255|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=255|end_char=256
+25	independent	independent	ADJ	JJ	Degree=Pos	24	_	_	start_char=257|end_char=268
+26	journalist	journalist	NOUN	NN	Number=Sing	25	_	_	start_char=269|end_char=279
+27	Glenn	Glenn	PROPN	NNP	Number=Sing	26	_	_	start_char=280|end_char=285
+28	Greenwald	Greenwald	PROPN	NNP	Number=Sing	27	_	_	start_char=286|end_char=295
+29	notes	note	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	_	_	start_char=296|end_char=301
+30	in	in	ADP	IN	_	29	_	_	start_char=302|end_char=304
+31	an	a	DET	DT	Definite=Ind|PronType=Art	30	_	_	start_char=305|end_char=307
+32	interview	interview	NOUN	NN	Number=Sing	31	_	_	start_char=308|end_char=317
+33	with	with	ADP	IN	_	32	_	_	start_char=318|end_char=322
+34	the	the	DET	DT	Definite=Def|PronType=Art	33	_	_	start_char=323|end_char=326
+35	Tucker	Tucker	PROPN	NNP	Number=Sing	34	_	_	start_char=327|end_char=333
+36	Carlson	Carlson	PROPN	NNP	Number=Sing	35	_	_	start_char=334|end_char=341
+37	Network	Network	PROPN	NNP	Number=Sing	36	_	_	start_char=342|end_char=349|SpaceAfter=No
+38	.	.	PUNCT	.	_	37	_	_	start_char=349|end_char=350
+
+# text = According to Greenwald, a direct consequence of this is the Ukrainian conflict and the threat of a nuclear confrontation.
+# sent_id = 2
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=351|end_char=360
+2	to	to	ADP	IN	_	1	_	_	start_char=361|end_char=363
+3	Greenwald	Greenwald	PROPN	NNP	Number=Sing	2	_	_	start_char=364|end_char=373|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=373|end_char=374
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=375|end_char=376
+6	direct	direct	ADJ	JJ	Degree=Pos	5	_	_	start_char=377|end_char=383
+7	consequence	consequence	NOUN	NN	Number=Sing	6	_	_	start_char=384|end_char=395
+8	of	of	ADP	IN	_	7	_	_	start_char=396|end_char=398
+9	this	this	PRON	DT	Number=Sing|PronType=Dem	8	_	_	start_char=399|end_char=403
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=404|end_char=406
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=407|end_char=410
+12	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	11	_	_	start_char=411|end_char=420
+13	conflict	conflict	NOUN	NN	Number=Sing	12	_	_	start_char=421|end_char=429
+14	and	and	CCONJ	CC	_	13	_	_	start_char=430|end_char=433
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=434|end_char=437
+16	threat	threat	NOUN	NN	Number=Sing	15	_	_	start_char=438|end_char=444
+17	of	of	ADP	IN	_	16	_	_	start_char=445|end_char=447
+18	a	a	DET	DT	Definite=Ind|PronType=Art	17	_	_	start_char=448|end_char=449
+19	nuclear	nuclear	ADJ	JJ	Degree=Pos	18	_	_	start_char=450|end_char=457
+20	confrontation	confrontation	NOUN	NN	Number=Sing	19	_	_	start_char=458|end_char=471|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=471|end_char=472|SpacesAfter=\n
+
+# text = GLENN GREENWALD, JOURNALIST: The main problem here, and this is what I've always disliked about Rashgate, is that from the very beginning, the U.S. national security apparatus has been trying to damage the Trump campaign staff and then the Trump administration, using unsubstantiated outrageous allegations to do so.
+# sent_id = 3
+1	GLENN	GLENN	PROPN	NNP	Number=Sing	0	_	_	start_char=473|end_char=478
+2	GREENWALD	Greenwald	PROPN	NNP	Number=Sing	1	_	_	start_char=479|end_char=488|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=488|end_char=489
+4	JOURNALIST	journalist	NOUN	NN	Number=Sing	3	_	_	start_char=490|end_char=500|SpaceAfter=No
+5	:	:	PUNCT	:	_	4	_	_	start_char=500|end_char=501
+6	The	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=502|end_char=505
+7	main	main	ADJ	JJ	Degree=Pos	6	_	_	start_char=506|end_char=510
+8	problem	problem	NOUN	NN	Number=Sing	7	_	_	start_char=511|end_char=518
+9	here	here	ADV	RB	PronType=Dem	8	_	_	start_char=519|end_char=523|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=523|end_char=524
+11	and	and	CCONJ	CC	_	10	_	_	start_char=525|end_char=528
+12	this	this	PRON	DT	Number=Sing|PronType=Dem	11	_	_	start_char=529|end_char=533
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=534|end_char=536
+14	what	what	PRON	WP	PronType=Rel	13	_	_	start_char=537|end_char=541
+15-16	I've	_	_	_	_	_	_	_	start_char=542|end_char=546
+15	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	_	_	start_char=542|end_char=543
+16	've	have	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	_	_	start_char=543|end_char=546
+17	always	always	ADV	RB	_	16	_	_	start_char=547|end_char=553
+18	disliked	dislike	VERB	VBN	Tense=Past|VerbForm=Part	17	_	_	start_char=554|end_char=562
+19	about	about	ADP	IN	_	18	_	_	start_char=563|end_char=568
+20	Rashgate	Rashgate	PROPN	NNP	Number=Sing	19	_	_	start_char=569|end_char=577|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=577|end_char=578
+22	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	_	_	start_char=579|end_char=581
+23	that	that	SCONJ	IN	_	22	_	_	start_char=582|end_char=586
+24	from	from	ADP	IN	_	23	_	_	start_char=587|end_char=591
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=592|end_char=595
+26	very	very	ADJ	JJ	Degree=Pos	25	_	_	start_char=596|end_char=600
+27	beginning	beginning	NOUN	NN	Number=Sing	26	_	_	start_char=601|end_char=610|SpaceAfter=No
+28	,	,	PUNCT	,	_	27	_	_	start_char=610|end_char=611
+29	the	the	DET	DT	Definite=Def|PronType=Art	28	_	_	start_char=612|end_char=615
+30	U.S.	U.S.	PROPN	NNP	Number=Sing	29	_	_	start_char=616|end_char=620
+31	national	national	ADJ	JJ	Degree=Pos	30	_	_	start_char=621|end_char=629
+32	security	security	NOUN	NN	Number=Sing	31	_	_	start_char=630|end_char=638
+33	apparatus	apparatus	NOUN	NN	Number=Sing	32	_	_	start_char=639|end_char=648
+34	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	_	_	start_char=649|end_char=652
+35	been	be	AUX	VBN	Tense=Past|VerbForm=Part	34	_	_	start_char=653|end_char=657
+36	trying	try	VERB	VBG	Tense=Pres|VerbForm=Part	35	_	_	start_char=658|end_char=664
+37	to	to	PART	TO	_	36	_	_	start_char=665|end_char=667
+38	damage	damage	VERB	VB	VerbForm=Inf	37	_	_	start_char=668|end_char=674
+39	the	the	DET	DT	Definite=Def|PronType=Art	38	_	_	start_char=675|end_char=678
+40	Trump	Trump	PROPN	NNP	Number=Sing	39	_	_	start_char=679|end_char=684
+41	campaign	campaign	NOUN	NN	Number=Sing	40	_	_	start_char=685|end_char=693
+42	staff	staff	NOUN	NN	Number=Sing	41	_	_	start_char=694|end_char=699
+43	and	and	CCONJ	CC	_	42	_	_	start_char=700|end_char=703
+44	then	then	ADV	RB	PronType=Dem	43	_	_	start_char=704|end_char=708
+45	the	the	DET	DT	Definite=Def|PronType=Art	44	_	_	start_char=709|end_char=712
+46	Trump	Trump	PROPN	NNP	Number=Sing	45	_	_	start_char=713|end_char=718
+47	administration	administration	NOUN	NN	Number=Sing	46	_	_	start_char=719|end_char=733|SpaceAfter=No
+48	,	,	PUNCT	,	_	47	_	_	start_char=733|end_char=734
+49	using	use	VERB	VBG	VerbForm=Ger	48	_	_	start_char=735|end_char=740
+50	unsubstantiated	unsubstantiated	ADJ	JJ	Degree=Pos	49	_	_	start_char=741|end_char=756
+51	outrageous	outrageous	ADJ	JJ	Degree=Pos	50	_	_	start_char=757|end_char=767
+52	allegations	allegation	NOUN	NNS	Number=Plur	51	_	_	start_char=768|end_char=779
+53	to	to	PART	TO	_	52	_	_	start_char=780|end_char=782
+54	do	do	VERB	VB	VerbForm=Inf	53	_	_	start_char=783|end_char=785
+55	so	so	ADV	RB	_	54	_	_	start_char=786|end_char=788|SpaceAfter=No
+56	.	.	PUNCT	.	_	55	_	_	start_char=788|end_char=789
+
+# text = This worries me as a journalist, these are unproven allegations.
+# sent_id = 4
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=790|end_char=794
+2	worries	worry	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=795|end_char=802
+3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	_	_	start_char=803|end_char=805
+4	as	as	ADP	IN	_	3	_	_	start_char=806|end_char=808
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=809|end_char=810
+6	journalist	journalist	NOUN	NN	Number=Sing	5	_	_	start_char=811|end_char=821|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=821|end_char=822
+8	these	this	PRON	DT	Number=Plur|PronType=Dem	7	_	_	start_char=823|end_char=828
+9	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=829|end_char=832
+10	unproven	unproven	ADJ	JJ	Degree=Pos	9	_	_	start_char=833|end_char=841
+11	allegations	allegation	NOUN	NNS	Number=Plur	10	_	_	start_char=842|end_char=853|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=853|end_char=854
+
+# text = They dominate US politics.
+# sent_id = 5
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=855|end_char=859
+2	dominate	dominate	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=860|end_char=868
+3	US	US	PROPN	NNP	Number=Sing	2	_	_	start_char=869|end_char=871
+4	politics	politics	NOUN	NNS	Number=Plur	3	_	_	start_char=872|end_char=880|SpaceAfter=No
+5	.	.	PUNCT	.	_	4	_	_	start_char=880|end_char=881|SpacesAfter=\n
+
+# text = But what worries me considerably more is that the current aim is to blame Russia for everything - so that Americans will once again start to see Russia as their sworn enemy.
+# sent_id = 6
+1	But	but	CCONJ	CC	_	0	_	_	start_char=882|end_char=885
+2	what	what	PRON	WP	PronType=Int	1	_	_	start_char=886|end_char=890
+3	worries	worry	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=891|end_char=898
+4	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	_	_	start_char=899|end_char=901
+5	considerably	considerably	ADV	RB	_	4	_	_	start_char=902|end_char=914
+6	more	more	ADJ	JJR	Degree=Cmp	5	_	_	start_char=915|end_char=919
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=920|end_char=922
+8	that	that	SCONJ	IN	_	7	_	_	start_char=923|end_char=927
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=928|end_char=931
+10	current	current	ADJ	JJ	Degree=Pos	9	_	_	start_char=932|end_char=939
+11	aim	aim	NOUN	NN	Number=Sing	10	_	_	start_char=940|end_char=943
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=944|end_char=946
+13	to	to	PART	TO	_	12	_	_	start_char=947|end_char=949
+14	blame	blame	VERB	VB	VerbForm=Inf	13	_	_	start_char=950|end_char=955
+15	Russia	Russia	PROPN	NNP	Number=Sing	14	_	_	start_char=956|end_char=962
+16	for	for	ADP	IN	_	15	_	_	start_char=963|end_char=966
+17	everything	everything	PRON	NN	Number=Sing|PronType=Tot	16	_	_	start_char=967|end_char=977
+18	-	-	PUNCT	,	_	17	_	_	start_char=978|end_char=979
+19	so	so	SCONJ	IN	_	18	_	_	start_char=980|end_char=982
+20	that	that	SCONJ	IN	_	19	_	_	start_char=983|end_char=987
+21	Americans	American	PROPN	NNPS	Number=Plur	20	_	_	start_char=988|end_char=997
+22	will	will	AUX	MD	VerbForm=Fin	21	_	_	start_char=998|end_char=1002
+23	once	once	ADV	RB	NumType=Mult	22	_	_	start_char=1003|end_char=1007
+24	again	again	ADV	RB	_	23	_	_	start_char=1008|end_char=1013
+25	start	start	VERB	VB	VerbForm=Inf	24	_	_	start_char=1014|end_char=1019
+26	to	to	PART	TO	_	25	_	_	start_char=1020|end_char=1022
+27	see	see	VERB	VB	VerbForm=Inf	26	_	_	start_char=1023|end_char=1026
+28	Russia	Russia	PROPN	NNP	Number=Sing	27	_	_	start_char=1027|end_char=1033
+29	as	as	ADP	IN	_	28	_	_	start_char=1034|end_char=1036
+30	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	29	_	_	start_char=1037|end_char=1042
+31	sworn	swear	VERB	VBN	Tense=Past|VerbForm=Part	30	_	_	start_char=1043|end_char=1048
+32	enemy	enemy	NOUN	NN	Number=Sing	31	_	_	start_char=1049|end_char=1054|SpaceAfter=No
+33	.	.	PUNCT	.	_	32	_	_	start_char=1054|end_char=1055|SpacesAfter=\n
+
+# text = So that American diplomats can't talk to Russian diplomats.
+# sent_id = 7
+1	So	so	ADV	RB	_	0	_	_	start_char=1056|end_char=1058
+2	that	that	SCONJ	IN	_	1	_	_	start_char=1059|end_char=1063
+3	American	American	ADJ	JJ	Degree=Pos	2	_	_	start_char=1064|end_char=1072
+4	diplomats	diplomat	NOUN	NNS	Number=Plur	3	_	_	start_char=1073|end_char=1082
+5-6	can't	_	_	_	_	_	_	_	start_char=1083|end_char=1088
+5	ca	can	AUX	MD	VerbForm=Fin	4	_	_	start_char=1083|end_char=1085
+6	n't	not	PART	RB	_	5	_	_	start_char=1085|end_char=1088
+7	talk	talk	VERB	VB	VerbForm=Inf	6	_	_	start_char=1089|end_char=1093
+8	to	to	ADP	IN	_	7	_	_	start_char=1094|end_char=1096
+9	Russian	Russian	ADJ	JJ	Degree=Pos	8	_	_	start_char=1097|end_char=1104
+10	diplomats	diplomat	NOUN	NNS	Number=Plur	9	_	_	start_char=1105|end_char=1114|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=1114|end_char=1115|SpacesAfter=\n
+
+# text = Everyone in Washington is scared to death of meeting Russians because they will immediately accuse you of being Russian spies.
+# sent_id = 8
+1	Everyone	everyone	PRON	NN	Number=Sing|PronType=Tot	0	_	_	start_char=1116|end_char=1124
+2	in	in	ADP	IN	_	1	_	_	start_char=1125|end_char=1127
+3	Washington	Washington	PROPN	NNP	Number=Sing	2	_	_	start_char=1128|end_char=1138
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1139|end_char=1141
+5	scared	scared	ADJ	JJ	Degree=Pos	4	_	_	start_char=1142|end_char=1148
+6	to	to	ADP	IN	_	5	_	_	start_char=1149|end_char=1151
+7	death	death	NOUN	NN	Number=Sing	6	_	_	start_char=1152|end_char=1157
+8	of	of	SCONJ	IN	_	7	_	_	start_char=1158|end_char=1160
+9	meeting	meet	VERB	VBG	VerbForm=Ger	8	_	_	start_char=1161|end_char=1168
+10	Russians	Russian	PROPN	NNPS	Number=Plur	9	_	_	start_char=1169|end_char=1177
+11	because	because	SCONJ	IN	_	10	_	_	start_char=1178|end_char=1185
+12	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	_	_	start_char=1186|end_char=1190
+13	will	will	AUX	MD	VerbForm=Fin	12	_	_	start_char=1191|end_char=1195
+14	immediately	immediately	ADV	RB	_	13	_	_	start_char=1196|end_char=1207
+15	accuse	accuse	VERB	VB	VerbForm=Inf	14	_	_	start_char=1208|end_char=1214
+16	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	15	_	_	start_char=1215|end_char=1218
+17	of	of	SCONJ	IN	_	16	_	_	start_char=1219|end_char=1221
+18	being	be	AUX	VBG	VerbForm=Ger	17	_	_	start_char=1222|end_char=1227
+19	Russian	Russian	ADJ	JJ	Degree=Pos	18	_	_	start_char=1228|end_char=1235
+20	spies	spy	NOUN	NNS	Number=Plur	19	_	_	start_char=1236|end_char=1241|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=1241|end_char=1242|SpacesAfter=\n
+
+# text = But we are talking about the country with the largest arsenal of nuclear weapons.
+# sent_id = 9
+1	But	but	CCONJ	CC	_	0	_	_	start_char=1243|end_char=1246
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	1	_	_	start_char=1247|end_char=1249
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1250|end_char=1253
+4	talking	talk	VERB	VBG	Tense=Pres|VerbForm=Part	3	_	_	start_char=1254|end_char=1261
+5	about	about	ADP	IN	_	4	_	_	start_char=1262|end_char=1267
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1268|end_char=1271
+7	country	country	NOUN	NN	Number=Sing	6	_	_	start_char=1272|end_char=1279
+8	with	with	ADP	IN	_	7	_	_	start_char=1280|end_char=1284
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1285|end_char=1288
+10	largest	large	ADJ	JJS	Degree=Sup	9	_	_	start_char=1289|end_char=1296
+11	arsenal	arsenal	NOUN	NN	Number=Sing	10	_	_	start_char=1297|end_char=1304
+12	of	of	ADP	IN	_	11	_	_	start_char=1305|end_char=1307
+13	nuclear	nuclear	ADJ	JJ	Degree=Pos	12	_	_	start_char=1308|end_char=1315
+14	weapons	weapon	NOUN	NNS	Number=Plur	13	_	_	start_char=1316|end_char=1323|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=1323|end_char=1324
+
+# text = I think there is a direct link between the Trump administration's fake collusion with Russia and Americans already being zombified by our politicians by anti-Russian propaganda and what we are now doing in Ukraine.
+# sent_id = 10
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	start_char=1325|end_char=1326
+2	think	think	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1327|end_char=1332
+3	there	there	PRON	EX	_	2	_	_	start_char=1333|end_char=1338
+4	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1339|end_char=1341
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=1342|end_char=1343
+6	direct	direct	ADJ	JJ	Degree=Pos	5	_	_	start_char=1344|end_char=1350
+7	link	link	NOUN	NN	Number=Sing	6	_	_	start_char=1351|end_char=1355
+8	between	between	ADP	IN	_	7	_	_	start_char=1356|end_char=1363
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1364|end_char=1367
+10	Trump	Trump	PROPN	NNP	Number=Sing	9	_	_	start_char=1368|end_char=1373
+11-12	administration's	_	_	_	_	_	_	_	start_char=1374|end_char=1390
+11	administration	administration	NOUN	NN	Number=Sing	10	_	_	start_char=1374|end_char=1388
+12	's	's	PART	POS	_	11	_	_	start_char=1388|end_char=1390
+13	fake	fake	ADJ	JJ	Degree=Pos	12	_	_	start_char=1391|end_char=1395
+14	collusion	collusion	NOUN	NN	Number=Sing	13	_	_	start_char=1396|end_char=1405
+15	with	with	ADP	IN	_	14	_	_	start_char=1406|end_char=1410
+16	Russia	Russia	PROPN	NNP	Number=Sing	15	_	_	start_char=1411|end_char=1417
+17	and	and	CCONJ	CC	_	16	_	_	start_char=1418|end_char=1421
+18	Americans	American	PROPN	NNPS	Number=Plur	17	_	_	start_char=1422|end_char=1431
+19	already	already	ADV	RB	_	18	_	_	start_char=1432|end_char=1439
+20	being	be	AUX	VBG	VerbForm=Ger	19	_	_	start_char=1440|end_char=1445
+21	zombified	zombify	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	20	_	_	start_char=1446|end_char=1455
+22	by	by	ADP	IN	_	21	_	_	start_char=1456|end_char=1458
+23	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	22	_	_	start_char=1459|end_char=1462
+24	politicians	politician	NOUN	NNS	Number=Plur	23	_	_	start_char=1463|end_char=1474
+25	by	by	ADP	IN	_	24	_	_	start_char=1475|end_char=1477
+26	anti-Russian	anti-Russian	ADJ	JJ	Degree=Pos	25	_	_	start_char=1478|end_char=1490
+27	propaganda	propaganda	NOUN	NN	Number=Sing	26	_	_	start_char=1491|end_char=1501
+28	and	and	CCONJ	CC	_	27	_	_	start_char=1502|end_char=1505
+29	what	what	PRON	WP	PronType=Rel	28	_	_	start_char=1506|end_char=1510
+30	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	29	_	_	start_char=1511|end_char=1513
+31	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	30	_	_	start_char=1514|end_char=1517
+32	now	now	ADV	RB	_	31	_	_	start_char=1518|end_char=1521
+33	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	32	_	_	start_char=1522|end_char=1527
+34	in	in	ADP	IN	_	33	_	_	start_char=1528|end_char=1530
+35	Ukraine	Ukraine	PROPN	NNP	Number=Sing	34	_	_	start_char=1531|end_char=1538|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=1538|end_char=1539|SpaceAfter=No
+

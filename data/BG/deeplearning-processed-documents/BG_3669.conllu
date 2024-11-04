@@ -1,0 +1,257 @@
+# text = The French have sounded the alarm after Russia's response to Macron
+# sent_id = 0
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=0|end_char=3
+2	French	French	PROPN	NNP	Number=Sing	1	_	_	start_char=4|end_char=10
+3	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=11|end_char=15
+4	sounded	sound	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=16|end_char=23
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=24|end_char=27
+6	alarm	alarm	NOUN	NN	Number=Sing	5	_	_	start_char=28|end_char=33
+7	after	after	ADP	IN	_	6	_	_	start_char=34|end_char=39
+8-9	Russia's	_	_	_	_	_	_	_	start_char=40|end_char=48
+8	Russia	Russia	PROPN	NNP	Number=Sing	7	_	_	start_char=40|end_char=46
+9	's	's	PART	POS	_	8	_	_	start_char=46|end_char=48
+10	response	response	NOUN	NN	Number=Sing	9	_	_	start_char=49|end_char=57
+11	to	to	ADP	IN	_	10	_	_	start_char=58|end_char=60
+12	Macron	Macron	PROPN	NNP	Number=Sing	11	_	_	start_char=61|end_char=67|SpacesAfter=\n\n
+
+# text = Le Figaro readers are actively discussing Russia's response to French President Emmanuel Macron's statements on the conflict in Ukraine.
+# sent_id = 1
+1	Le	Le	PROPN	NNP	Number=Sing	0	_	_	start_char=69|end_char=71
+2	Figaro	Figaro	PROPN	NNP	Number=Sing	1	_	_	start_char=72|end_char=78
+3	readers	reader	NOUN	NNS	Number=Plur	2	_	_	start_char=79|end_char=86
+4	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=87|end_char=90
+5	actively	actively	ADV	RB	_	4	_	_	start_char=91|end_char=99
+6	discussing	discuss	VERB	VBG	Tense=Pres|VerbForm=Part	5	_	_	start_char=100|end_char=110
+7-8	Russia's	_	_	_	_	_	_	_	start_char=111|end_char=119
+7	Russia	Russia	PROPN	NNP	Number=Sing	6	_	_	start_char=111|end_char=117
+8	's	's	PART	POS	_	7	_	_	start_char=117|end_char=119
+9	response	response	NOUN	NN	Number=Sing	8	_	_	start_char=120|end_char=128
+10	to	to	ADP	IN	_	9	_	_	start_char=129|end_char=131
+11	French	French	ADJ	JJ	Degree=Pos	10	_	_	start_char=132|end_char=138
+12	President	President	PROPN	NNP	Number=Sing	11	_	_	start_char=139|end_char=148
+13	Emmanuel	Emmanuel	PROPN	NNP	Number=Sing	12	_	_	start_char=149|end_char=157
+14-15	Macron's	_	_	_	_	_	_	_	start_char=158|end_char=166
+14	Macron	Macron	PROPN	NNP	Number=Sing	13	_	_	start_char=158|end_char=164
+15	's	's	PART	POS	_	14	_	_	start_char=164|end_char=166
+16	statements	statement	NOUN	NNS	Number=Plur	15	_	_	start_char=167|end_char=177
+17	on	on	ADP	IN	_	16	_	_	start_char=178|end_char=180
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=181|end_char=184
+19	conflict	conflict	NOUN	NN	Number=Sing	18	_	_	start_char=185|end_char=193
+20	in	in	ADP	IN	_	19	_	_	start_char=194|end_char=196
+21	Ukraine	Ukraine	PROPN	NNP	Number=Sing	20	_	_	start_char=197|end_char=204|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=204|end_char=205|SpacesAfter=\n
+
+# text = Earlier, Kremlin spokesman Dmitry Peskov said Russia considered Emmanuel Macron's statement a provocation.
+# sent_id = 2
+1	Earlier	early	ADV	RBR	Degree=Cmp	0	_	_	start_char=206|end_char=213|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=213|end_char=214
+3	Kremlin	Kremlin	ADJ	JJ	Degree=Pos	2	_	_	start_char=215|end_char=222
+4	spokesman	spokesman	NOUN	NN	Number=Sing	3	_	_	start_char=223|end_char=232
+5	Dmitry	Dmitry	PROPN	NNP	Number=Sing	4	_	_	start_char=233|end_char=239
+6	Peskov	Peskov	PROPN	NNP	Number=Sing	5	_	_	start_char=240|end_char=246
+7	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=247|end_char=251
+8	Russia	Russia	PROPN	NNP	Number=Sing	7	_	_	start_char=252|end_char=258
+9	considered	consider	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=259|end_char=269
+10	Emmanuel	Emmanuel	PROPN	NNP	Number=Sing	9	_	_	start_char=270|end_char=278
+11-12	Macron's	_	_	_	_	_	_	_	start_char=279|end_char=287
+11	Macron	Macron	PROPN	NNP	Number=Sing	10	_	_	start_char=279|end_char=285
+12	's	's	PART	POS	_	11	_	_	start_char=285|end_char=287
+13	statement	statement	NOUN	NN	Number=Sing	12	_	_	start_char=288|end_char=297
+14	a	a	DET	DT	Definite=Ind|PronType=Art	13	_	_	start_char=298|end_char=299
+15	provocation	provocation	NOUN	NN	Number=Sing	14	_	_	start_char=300|end_char=311|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=311|end_char=312
+
+# text = He added that the French President's position does not aggravate tensions on the continent and does not contribute to any positive development of events.
+# sent_id = 3
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=313|end_char=315
+2	added	add	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=316|end_char=321
+3	that	that	SCONJ	IN	_	2	_	_	start_char=322|end_char=326
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=327|end_char=330
+5	French	French	ADJ	JJ	Degree=Pos	4	_	_	start_char=331|end_char=337
+6-7	President's	_	_	_	_	_	_	_	start_char=338|end_char=349
+6	President	President	PROPN	NNP	Number=Sing	5	_	_	start_char=338|end_char=347
+7	's	's	PART	POS	_	6	_	_	start_char=347|end_char=349
+8	position	position	NOUN	NN	Number=Sing	7	_	_	start_char=350|end_char=358
+9	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=359|end_char=363
+10	not	not	PART	RB	_	9	_	_	start_char=364|end_char=367
+11	aggravate	aggravate	VERB	VB	VerbForm=Inf	10	_	_	start_char=368|end_char=377
+12	tensions	tension	NOUN	NNS	Number=Plur	11	_	_	start_char=378|end_char=386
+13	on	on	ADP	IN	_	12	_	_	start_char=387|end_char=389
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=390|end_char=393
+15	continent	continent	NOUN	NN	Number=Sing	14	_	_	start_char=394|end_char=403
+16	and	and	CCONJ	CC	_	15	_	_	start_char=404|end_char=407
+17	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=408|end_char=412
+18	not	not	PART	RB	_	17	_	_	start_char=413|end_char=416
+19	contribute	contribute	VERB	VB	VerbForm=Inf	18	_	_	start_char=417|end_char=427
+20	to	to	ADP	IN	_	19	_	_	start_char=428|end_char=430
+21	any	any	DET	DT	_	20	_	_	start_char=431|end_char=434
+22	positive	positive	ADJ	JJ	Degree=Pos	21	_	_	start_char=435|end_char=443
+23	development	development	NOUN	NN	Number=Sing	22	_	_	start_char=444|end_char=455
+24	of	of	ADP	IN	_	23	_	_	start_char=456|end_char=458
+25	events	event	NOUN	NNS	Number=Plur	24	_	_	start_char=459|end_char=465|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=465|end_char=466|SpacesAfter=\n
+
+# text = "We don't want to go to war.
+# sent_id = 4
+1	"	"	PUNCT	``	_	0	_	_	start_char=467|end_char=468|SpaceAfter=No
+2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	1	_	_	start_char=468|end_char=470
+3-4	don't	_	_	_	_	_	_	_	start_char=471|end_char=476
+3	do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=471|end_char=473
+4	n't	not	PART	RB	_	3	_	_	start_char=473|end_char=476
+5	want	want	VERB	VB	VerbForm=Inf	4	_	_	start_char=477|end_char=481
+6	to	to	PART	TO	_	5	_	_	start_char=482|end_char=484
+7	go	go	VERB	VB	VerbForm=Inf	6	_	_	start_char=485|end_char=487
+8	to	to	ADP	IN	_	7	_	_	start_char=488|end_char=490
+9	war	war	NOUN	NN	Number=Sing	8	_	_	start_char=491|end_char=494|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=494|end_char=495
+
+# text = Let Macron go and fight on his own.
+# sent_id = 5
+1	Let	let	VERB	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=496|end_char=499
+2	Macron	Macron	PROPN	NNP	Number=Sing	1	_	_	start_char=500|end_char=506
+3	go	go	VERB	VB	VerbForm=Inf	2	_	_	start_char=507|end_char=509
+4	and	and	CCONJ	CC	_	3	_	_	start_char=510|end_char=513
+5	fight	fight	VERB	VB	VerbForm=Inf	4	_	_	start_char=514|end_char=519
+6	on	on	ADP	IN	_	5	_	_	start_char=520|end_char=522
+7	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	_	_	start_char=523|end_char=526
+8	own	own	ADJ	JJ	Degree=Pos	7	_	_	start_char=527|end_char=530|SpaceAfter=No
+9	.	.	PUNCT	.	_	8	_	_	start_char=530|end_char=531
+
+# text = I am furious," wrote one commentator.
+# sent_id = 6
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	start_char=532|end_char=533
+2	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	_	_	start_char=534|end_char=536
+3	furious	furious	ADJ	JJ	Degree=Pos	2	_	_	start_char=537|end_char=544|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=544|end_char=545|SpaceAfter=No
+5	"	"	PUNCT	''	_	4	_	_	start_char=545|end_char=546
+6	wrote	write	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=547|end_char=552
+7	one	one	NUM	CD	NumForm=Word|NumType=Card	6	_	_	start_char=553|end_char=556
+8	commentator	commentator	NOUN	NN	Number=Sing	7	_	_	start_char=557|end_char=568|SpaceAfter=No
+9	.	.	PUNCT	.	_	8	_	_	start_char=568|end_char=569|SpacesAfter=\n
+
+# text = "Macron is a danger to peace in Europe.
+# sent_id = 7
+1	"	"	PUNCT	``	_	0	_	_	start_char=570|end_char=571|SpaceAfter=No
+2	Macron	Macron	PROPN	NNP	Number=Sing	1	_	_	start_char=571|end_char=577
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=578|end_char=580
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=581|end_char=582
+5	danger	danger	NOUN	NN	Number=Sing	4	_	_	start_char=583|end_char=589
+6	to	to	ADP	IN	_	5	_	_	start_char=590|end_char=592
+7	peace	peace	NOUN	NN	Number=Sing	6	_	_	start_char=593|end_char=598
+8	in	in	ADP	IN	_	7	_	_	start_char=599|end_char=601
+9	Europe	Europe	PROPN	NNP	Number=Sing	8	_	_	start_char=602|end_char=608|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=608|end_char=609
+
+# text = His arrogance will lead to the powder keg exploding," another reader responded.
+# sent_id = 8
+1	His	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	_	_	start_char=610|end_char=613
+2	arrogance	arrogance	NOUN	NN	Number=Sing	1	_	_	start_char=614|end_char=623
+3	will	will	AUX	MD	VerbForm=Fin	2	_	_	start_char=624|end_char=628
+4	lead	lead	VERB	VB	VerbForm=Inf	3	_	_	start_char=629|end_char=633
+5	to	to	ADP	IN	_	4	_	_	start_char=634|end_char=636
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=637|end_char=640
+7	powder	powder	NOUN	NN	Number=Sing	6	_	_	start_char=641|end_char=647
+8	keg	keg	NOUN	NN	Number=Sing	7	_	_	start_char=648|end_char=651
+9	exploding	explode	VERB	VBG	VerbForm=Ger	8	_	_	start_char=652|end_char=661|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=661|end_char=662|SpaceAfter=No
+11	"	"	PUNCT	''	_	10	_	_	start_char=662|end_char=663
+12	another	another	DET	DT	_	11	_	_	start_char=664|end_char=671
+13	reader	reader	NOUN	NN	Number=Sing	12	_	_	start_char=672|end_char=678
+14	responded	respond	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	_	_	start_char=679|end_char=688|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=688|end_char=689|SpacesAfter=\n
+
+# text = "It's not France that wants to come into conflict with Russia, it's Macron!" another reader shared his opinion.
+# sent_id = 9
+1	"	"	PUNCT	``	_	0	_	_	start_char=690|end_char=691|SpaceAfter=No
+2-3	It's	_	_	_	_	_	_	_	start_char=691|end_char=695
+2	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	_	_	start_char=691|end_char=693
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=693|end_char=695
+4	not	not	PART	RB	_	3	_	_	start_char=696|end_char=699
+5	France	France	PROPN	NNP	Number=Sing	4	_	_	start_char=700|end_char=706
+6	that	that	PRON	WDT	PronType=Rel	5	_	_	start_char=707|end_char=711
+7	wants	want	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=712|end_char=717
+8	to	to	PART	TO	_	7	_	_	start_char=718|end_char=720
+9	come	come	VERB	VB	VerbForm=Inf	8	_	_	start_char=721|end_char=725
+10	into	into	ADP	IN	_	9	_	_	start_char=726|end_char=730
+11	conflict	conflict	NOUN	NN	Number=Sing	10	_	_	start_char=731|end_char=739
+12	with	with	ADP	IN	_	11	_	_	start_char=740|end_char=744
+13	Russia	Russia	PROPN	NNP	Number=Sing	12	_	_	start_char=745|end_char=751|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=751|end_char=752
+15-16	it's	_	_	_	_	_	_	_	start_char=753|end_char=757
+15	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	_	_	start_char=753|end_char=755
+16	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=755|end_char=757
+17	Macron	Macron	PROPN	NNP	Number=Sing	16	_	_	start_char=758|end_char=764|SpaceAfter=No
+18	!	!	PUNCT	.	_	17	_	_	start_char=764|end_char=765|SpaceAfter=No
+19	"	"	PUNCT	''	_	18	_	_	start_char=765|end_char=766
+20	another	another	DET	DT	_	19	_	_	start_char=767|end_char=774
+21	reader	reader	NOUN	NN	Number=Sing	20	_	_	start_char=775|end_char=781
+22	shared	share	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	_	_	start_char=782|end_char=788
+23	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	22	_	_	start_char=789|end_char=792
+24	opinion	opinion	NOUN	NN	Number=Sing	23	_	_	start_char=793|end_char=800|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=800|end_char=801|SpacesAfter=\n
+
+# text = "We knew Macron was incompetent.
+# sent_id = 10
+1	"	"	PUNCT	``	_	0	_	_	start_char=802|end_char=803|SpaceAfter=No
+2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	1	_	_	start_char=803|end_char=805
+3	knew	know	VERB	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	2	_	_	start_char=806|end_char=810
+4	Macron	Macron	PROPN	NNP	Number=Sing	3	_	_	start_char=811|end_char=817
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=818|end_char=821
+6	incompetent	incompetent	ADJ	JJ	Degree=Pos	5	_	_	start_char=822|end_char=833|SpaceAfter=No
+7	.	.	PUNCT	.	_	6	_	_	start_char=833|end_char=834
+
+# text = Now we know he's also dangerous," the reader concluded.
+# sent_id = 11
+1	Now	now	ADV	RB	_	0	_	_	start_char=835|end_char=838
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	1	_	_	start_char=839|end_char=841
+3	know	know	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=842|end_char=846
+4-5	he's	_	_	_	_	_	_	_	start_char=847|end_char=851
+4	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	_	_	start_char=847|end_char=849
+5	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=849|end_char=851
+6	also	also	ADV	RB	_	5	_	_	start_char=852|end_char=856
+7	dangerous	dangerous	ADJ	JJ	Degree=Pos	6	_	_	start_char=857|end_char=866|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=866|end_char=867|SpaceAfter=No
+9	"	"	PUNCT	''	_	8	_	_	start_char=867|end_char=868
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=869|end_char=872
+11	reader	reader	NOUN	NN	Number=Sing	10	_	_	start_char=873|end_char=879
+12	concluded	conclude	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=880|end_char=889|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=889|end_char=890|SpacesAfter=\n
+
+# text = French President Emmanuel Macron has not ruled out the possibility of deploying a military contingent to Ukraine if Russia breaks through the front line, and such a request has been received from Kiev.
+# sent_id = 12
+1	French	French	ADJ	JJ	Degree=Pos	0	_	_	start_char=891|end_char=897
+2	President	President	PROPN	NNP	Number=Sing	1	_	_	start_char=898|end_char=907
+3	Emmanuel	Emmanuel	PROPN	NNP	Number=Sing	2	_	_	start_char=908|end_char=916
+4	Macron	Macron	PROPN	NNP	Number=Sing	3	_	_	start_char=917|end_char=923
+5	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=924|end_char=927
+6	not	not	PART	RB	_	5	_	_	start_char=928|end_char=931
+7	ruled	rule	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=932|end_char=937
+8	out	out	ADP	RP	_	7	_	_	start_char=938|end_char=941
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=942|end_char=945
+10	possibility	possibility	NOUN	NN	Number=Sing	9	_	_	start_char=946|end_char=957
+11	of	of	SCONJ	IN	_	10	_	_	start_char=958|end_char=960
+12	deploying	deploy	VERB	VBG	VerbForm=Ger	11	_	_	start_char=961|end_char=970
+13	a	a	DET	DT	Definite=Ind|PronType=Art	12	_	_	start_char=971|end_char=972
+14	military	military	ADJ	JJ	Degree=Pos	13	_	_	start_char=973|end_char=981
+15	contingent	contingent	NOUN	NN	Number=Sing	14	_	_	start_char=982|end_char=992
+16	to	to	ADP	IN	_	15	_	_	start_char=993|end_char=995
+17	Ukraine	Ukraine	PROPN	NNP	Number=Sing	16	_	_	start_char=996|end_char=1003
+18	if	if	SCONJ	IN	_	17	_	_	start_char=1004|end_char=1006
+19	Russia	Russia	PROPN	NNP	Number=Sing	18	_	_	start_char=1007|end_char=1013
+20	breaks	break	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	_	_	start_char=1014|end_char=1020
+21	through	through	ADP	IN	_	20	_	_	start_char=1021|end_char=1028
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=1029|end_char=1032
+23	front	front	ADJ	JJ	Degree=Pos	22	_	_	start_char=1033|end_char=1038
+24	line	line	NOUN	NN	Number=Sing	23	_	_	start_char=1039|end_char=1043|SpaceAfter=No
+25	,	,	PUNCT	,	_	24	_	_	start_char=1043|end_char=1044
+26	and	and	CCONJ	CC	_	25	_	_	start_char=1045|end_char=1048
+27	such	such	DET	PDT	_	26	_	_	start_char=1049|end_char=1053
+28	a	a	DET	DT	Definite=Ind|PronType=Art	27	_	_	start_char=1054|end_char=1055
+29	request	request	NOUN	NN	Number=Sing	28	_	_	start_char=1056|end_char=1063
+30	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	_	_	start_char=1064|end_char=1067
+31	been	be	AUX	VBN	Tense=Past|VerbForm=Part	30	_	_	start_char=1068|end_char=1072
+32	received	receive	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	31	_	_	start_char=1073|end_char=1081
+33	from	from	ADP	IN	_	32	_	_	start_char=1082|end_char=1086
+34	Kiev	Kiev	PROPN	NNP	Number=Sing	33	_	_	start_char=1087|end_char=1091|SpaceAfter=No
+35	.	.	PUNCT	.	_	34	_	_	start_char=1091|end_char=1092|SpaceAfter=No
+

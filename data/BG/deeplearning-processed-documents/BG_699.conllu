@@ -1,0 +1,273 @@
+# text = "NATO countries have created a 40,000-strong army against Russia in Ukraine for billions of dollars" (video)
+# sent_id = 0
+1	"	"	PUNCT	``	_	0	_	_	start_char=0|end_char=1|SpaceAfter=No
+2	NATO	NATO	PROPN	NNP	Number=Sing	1	_	_	start_char=1|end_char=5
+3	countries	country	NOUN	NNS	Number=Plur	2	_	_	start_char=6|end_char=15
+4	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=16|end_char=20
+5	created	create	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=21|end_char=28
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=29|end_char=30
+7	40,000	40000	NUM	CD	NumForm=Digit|NumType=Card	6	_	_	start_char=31|end_char=37|SpaceAfter=No
+8	-	-	PUNCT	HYPH	_	7	_	_	start_char=37|end_char=38|SpaceAfter=No
+9	strong	strong	ADJ	JJ	Degree=Pos	8	_	_	start_char=38|end_char=44
+10	army	army	NOUN	NN	Number=Sing	9	_	_	start_char=45|end_char=49
+11	against	against	ADP	IN	_	10	_	_	start_char=50|end_char=57
+12	Russia	Russia	PROPN	NNP	Number=Sing	11	_	_	start_char=58|end_char=64
+13	in	in	ADP	IN	_	12	_	_	start_char=65|end_char=67
+14	Ukraine	Ukraine	PROPN	NNP	Number=Sing	13	_	_	start_char=68|end_char=75
+15	for	for	ADP	IN	_	14	_	_	start_char=76|end_char=79
+16	billions	billion	NOUN	NNS	Number=Plur	15	_	_	start_char=80|end_char=88
+17	of	of	ADP	IN	_	16	_	_	start_char=89|end_char=91
+18	dollars	dollar	NOUN	NNS	Number=Plur	17	_	_	start_char=92|end_char=99|SpaceAfter=No
+19	"	"	PUNCT	''	_	18	_	_	start_char=99|end_char=100
+20	(	(	PUNCT	-LRB-	_	19	_	_	start_char=101|end_char=102|SpaceAfter=No
+21	video	video	NOUN	NN	Number=Sing	20	_	_	start_char=102|end_char=107|SpaceAfter=No
+22	)	)	PUNCT	-RRB-	_	21	_	_	start_char=107|end_char=108|SpacesAfter=\n\n
+
+# text = US Colonel Douglas McGregor speaking to De Nieuwe Wereld: Presenter.
+# sent_id = 1
+1	US	US	PROPN	NNP	Number=Sing	0	_	_	start_char=110|end_char=112
+2	Colonel	Colonel	PROPN	NNP	Number=Sing	1	_	_	start_char=113|end_char=120
+3	Douglas	Douglas	PROPN	NNP	Number=Sing	2	_	_	start_char=121|end_char=128
+4	McGregor	McGregor	PROPN	NNP	Number=Sing	3	_	_	start_char=129|end_char=137
+5	speaking	speak	VERB	VBG	VerbForm=Ger	4	_	_	start_char=138|end_char=146
+6	to	to	ADP	IN	_	5	_	_	start_char=147|end_char=149
+7	De	De	PROPN	NNP	Number=Sing	6	_	_	start_char=150|end_char=152
+8	Nieuwe	Nieuwe	PROPN	NNP	Number=Sing	7	_	_	start_char=153|end_char=159
+9	Wereld	Wereld	PROPN	NNP	Number=Sing	8	_	_	start_char=160|end_char=166|SpaceAfter=No
+10	:	:	PUNCT	:	_	9	_	_	start_char=166|end_char=167|SpacesAfter=\n
+11	Presenter	presenter	NOUN	NN	Number=Sing	10	_	_	start_char=168|end_char=177|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=177|end_char=178
+
+# text = The United States has begun to create a NATO-style Ukrainian army in eastern Ukraine to attack Russia.
+# sent_id = 2
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=179|end_char=182
+2	United	United	ADJ	NNP	Degree=Pos	1	_	_	start_char=183|end_char=189
+3	States	State	PROPN	NNPS	Number=Plur	2	_	_	start_char=190|end_char=196
+4	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=197|end_char=200
+5	begun	begin	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=201|end_char=206
+6	to	to	PART	TO	_	5	_	_	start_char=207|end_char=209
+7	create	create	VERB	VB	VerbForm=Inf	6	_	_	start_char=210|end_char=216
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=217|end_char=218
+9	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	8	_	_	start_char=219|end_char=223|SpaceAfter=No
+10	-	-	PUNCT	HYPH	_	9	_	_	start_char=223|end_char=224|SpaceAfter=No
+11	style	style	NOUN	NN	Number=Sing	10	_	_	start_char=224|end_char=229
+12	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	11	_	_	start_char=230|end_char=239
+13	army	army	NOUN	NN	Number=Sing	12	_	_	start_char=240|end_char=244
+14	in	in	ADP	IN	_	13	_	_	start_char=245|end_char=247
+15	eastern	eastern	ADJ	JJ	Degree=Pos	14	_	_	start_char=248|end_char=255
+16	Ukraine	Ukraine	PROPN	NNP	Number=Sing	15	_	_	start_char=256|end_char=263
+17	to	to	PART	TO	_	16	_	_	start_char=264|end_char=266
+18	attack	attack	VERB	VB	VerbForm=Inf	17	_	_	start_char=267|end_char=273
+19	Russia	Russia	PROPN	NNP	Number=Sing	18	_	_	start_char=274|end_char=280|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=280|end_char=281
+
+# text = That's a very important point because now, of course, we're discussing NATO support, European and US support for the Ukrainian defense forces, but NATO intervention was already taking place at that time.
+# sent_id = 3
+1-2	That's	_	_	_	_	_	_	_	start_char=282|end_char=288
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=282|end_char=286
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=286|end_char=288
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=289|end_char=290
+4	very	very	ADV	RB	_	3	_	_	start_char=291|end_char=295
+5	important	important	ADJ	JJ	Degree=Pos	4	_	_	start_char=296|end_char=305
+6	point	point	NOUN	NN	Number=Sing	5	_	_	start_char=306|end_char=311
+7	because	because	SCONJ	IN	_	6	_	_	start_char=312|end_char=319
+8	now	now	ADV	RB	_	7	_	_	start_char=320|end_char=323|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=323|end_char=324
+10	of	of	ADV	IN	_	9	_	_	start_char=325|end_char=327
+11	course	course	NOUN	NN	Number=Sing	10	_	_	start_char=328|end_char=334|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=334|end_char=335
+13-14	we're	_	_	_	_	_	_	_	start_char=336|end_char=341
+13	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	12	_	_	start_char=336|end_char=338
+14	're	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	13	_	_	start_char=338|end_char=341
+15	discussing	discuss	VERB	VBG	Tense=Pres|VerbForm=Part	14	_	_	start_char=342|end_char=352
+16	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	15	_	_	start_char=353|end_char=357
+17	support	support	NOUN	NN	Number=Sing	16	_	_	start_char=358|end_char=365|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=365|end_char=366
+19	European	European	ADJ	JJ	Degree=Pos	18	_	_	start_char=367|end_char=375
+20	and	and	CCONJ	CC	_	19	_	_	start_char=376|end_char=379
+21	US	US	PROPN	NNP	Number=Sing	20	_	_	start_char=380|end_char=382
+22	support	support	NOUN	NN	Number=Sing	21	_	_	start_char=383|end_char=390
+23	for	for	ADP	IN	_	22	_	_	start_char=391|end_char=394
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=395|end_char=398
+25	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	24	_	_	start_char=399|end_char=408
+26	defense	defense	NOUN	NN	Number=Sing	25	_	_	start_char=409|end_char=416
+27	forces	force	NOUN	NNS	Number=Plur	26	_	_	start_char=417|end_char=423|SpaceAfter=No
+28	,	,	PUNCT	,	_	27	_	_	start_char=423|end_char=424
+29	but	but	CCONJ	CC	_	28	_	_	start_char=425|end_char=428
+30	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	29	_	_	start_char=429|end_char=433
+31	intervention	intervention	NOUN	NN	Number=Sing	30	_	_	start_char=434|end_char=446
+32	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	31	_	_	start_char=447|end_char=450
+33	already	already	ADV	RB	_	32	_	_	start_char=451|end_char=458
+34	taking	take	VERB	VBG	Tense=Pres|VerbForm=Part	33	_	_	start_char=459|end_char=465
+35	place	place	NOUN	NN	Number=Sing	34	_	_	start_char=466|end_char=471
+36	at	at	ADP	IN	_	35	_	_	start_char=472|end_char=474
+37	that	that	DET	DT	Number=Sing|PronType=Dem	36	_	_	start_char=475|end_char=479
+38	time	time	NOUN	NN	Number=Sing	37	_	_	start_char=480|end_char=484|SpaceAfter=No
+39	.	.	PUNCT	.	_	38	_	_	start_char=484|end_char=485
+
+# text = In what way?
+# sent_id = 4
+1	In	in	ADP	IN	_	0	_	_	start_char=486|end_char=488
+2	what	what	DET	WDT	PronType=Int	1	_	_	start_char=489|end_char=493
+3	way	way	NOUN	NN	Number=Sing	2	_	_	start_char=494|end_char=497|SpaceAfter=No
+4	?	?	PUNCT	.	_	3	_	_	start_char=497|end_char=498
+
+# text = What were we doing?
+# sent_id = 5
+1	What	what	PRON	WP	PronType=Int	0	_	_	start_char=499|end_char=503
+2	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	1	_	_	start_char=504|end_char=508
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	_	_	start_char=509|end_char=511
+4	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	3	_	_	start_char=512|end_char=517|SpaceAfter=No
+5	?	?	PUNCT	.	_	4	_	_	start_char=517|end_char=518|SpacesAfter=\n
+
+# text = DOUGLAS MCGREGOR, RETIRED U.S. ARMY COLONEL:
+# sent_id = 6
+1	DOUGLAS	DOUGLAS	PROPN	NNP	Number=Sing	0	_	_	start_char=519|end_char=526
+2	MCGREGOR	MCGREGOR	PROPN	NNP	Number=Sing	1	_	_	start_char=527|end_char=535|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=535|end_char=536
+4	RETIRED	retire	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=537|end_char=544
+5	U.S.	U.S.	PROPN	NNP	Number=Sing	4	_	_	start_char=545|end_char=549
+6	ARMY	ARMY	PROPN	NNP	Number=Sing	5	_	_	start_char=550|end_char=554
+7	COLONEL	colonel	NOUN	NN	Number=Sing	6	_	_	start_char=555|end_char=562|SpaceAfter=No
+8	:	:	PUNCT	:	_	7	_	_	start_char=562|end_char=563
+
+# text = This army was created under the pretense of gaining or regaining control of Crimea.
+# sent_id = 7
+1	This	this	DET	DT	Number=Sing|PronType=Dem	0	_	_	start_char=564|end_char=568
+2	army	army	NOUN	NN	Number=Sing	1	_	_	start_char=569|end_char=573
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=574|end_char=577
+4	created	create	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=578|end_char=585
+5	under	under	ADP	IN	_	4	_	_	start_char=586|end_char=591
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=592|end_char=595
+7	pretense	pretense	NOUN	NN	Number=Sing	6	_	_	start_char=596|end_char=604
+8	of	of	SCONJ	IN	_	7	_	_	start_char=605|end_char=607
+9	gaining	gain	VERB	VBG	VerbForm=Ger	8	_	_	start_char=608|end_char=615
+10	or	or	CCONJ	CC	_	9	_	_	start_char=616|end_char=618
+11	regaining	regain	VERB	VBG	VerbForm=Ger	10	_	_	start_char=619|end_char=628
+12	control	control	NOUN	NN	Number=Sing	11	_	_	start_char=629|end_char=636
+13	of	of	ADP	IN	_	12	_	_	start_char=637|end_char=639
+14	Crimea	Crimea	PROPN	NNP	Number=Sing	13	_	_	start_char=640|end_char=646|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=646|end_char=647
+
+# text = It was a huge force, numbering more than 400,000 men, I think they were that... HOST: How broad was the support at the time, starting in 2014?
+# sent_id = 8
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=648|end_char=650
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=651|end_char=654
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=655|end_char=656
+4	huge	huge	ADJ	JJ	Degree=Pos	3	_	_	start_char=657|end_char=661
+5	force	force	NOUN	NN	Number=Sing	4	_	_	start_char=662|end_char=667|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=667|end_char=668
+7	numbering	number	VERB	VBG	VerbForm=Ger	6	_	_	start_char=669|end_char=678
+8	more	more	ADJ	JJR	Degree=Cmp	7	_	_	start_char=679|end_char=683
+9	than	than	ADP	IN	_	8	_	_	start_char=684|end_char=688
+10	400,000	400000	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=689|end_char=696
+11	men	man	NOUN	NNS	Number=Plur	10	_	_	start_char=697|end_char=700|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=700|end_char=701
+13	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	_	_	start_char=702|end_char=703
+14	think	think	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	_	_	start_char=704|end_char=709
+15	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	_	_	start_char=710|end_char=714
+16	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	15	_	_	start_char=715|end_char=719
+17	that	that	PRON	DT	Number=Sing|PronType=Dem	16	_	_	start_char=720|end_char=724|SpaceAfter=No
+18	...	...	PUNCT	,	_	17	_	_	start_char=724|end_char=727|SpacesAfter=\n
+19	HOST	host	NOUN	NN	Number=Sing	18	_	_	start_char=728|end_char=732|SpaceAfter=No
+20	:	:	PUNCT	:	_	19	_	_	start_char=732|end_char=733
+21	How	how	ADV	WRB	PronType=Int	20	_	_	start_char=734|end_char=737
+22	broad	broad	ADJ	JJ	Degree=Pos	21	_	_	start_char=738|end_char=743
+23	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	_	_	start_char=744|end_char=747
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=748|end_char=751
+25	support	support	NOUN	NN	Number=Sing	24	_	_	start_char=752|end_char=759
+26	at	at	ADP	IN	_	25	_	_	start_char=760|end_char=762
+27	the	the	DET	DT	Definite=Def|PronType=Art	26	_	_	start_char=763|end_char=766
+28	time	time	NOUN	NN	Number=Sing	27	_	_	start_char=767|end_char=771|SpaceAfter=No
+29	,	,	PUNCT	,	_	28	_	_	start_char=771|end_char=772
+30	starting	start	VERB	VBG	VerbForm=Ger	29	_	_	start_char=773|end_char=781
+31	in	in	ADP	IN	_	30	_	_	start_char=782|end_char=784
+32	2014	2014	NUM	CD	NumForm=Digit|NumType=Card	31	_	_	start_char=785|end_char=789|SpaceAfter=No
+33	?	?	PUNCT	.	_	32	_	_	start_char=789|end_char=790
+
+# text = In your opinion, it was probably billions?
+# sent_id = 9
+1	In	in	ADP	IN	_	0	_	_	start_char=791|end_char=793
+2	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	1	_	_	start_char=794|end_char=798
+3	opinion	opinion	NOUN	NN	Number=Sing	2	_	_	start_char=799|end_char=806|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=806|end_char=807
+5	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	_	_	start_char=808|end_char=810
+6	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=811|end_char=814
+7	probably	probably	ADV	RB	_	6	_	_	start_char=815|end_char=823
+8	billions	billion	NOUN	NNS	Number=Plur	7	_	_	start_char=824|end_char=832|SpaceAfter=No
+9	?	?	PUNCT	.	_	8	_	_	start_char=832|end_char=833|SpacesAfter=\n
+
+# text = DOUGLAS MCGREGOR: Billions of dollars came from the United States and NATO countries, especially Germany, Britain and France.
+# sent_id = 10
+1	DOUGLAS	DOUGLAS	PROPN	NNP	Number=Sing	0	_	_	start_char=834|end_char=841
+2	MCGREGOR	MCGREGOR	PROPN	NNP	Number=Sing	1	_	_	start_char=842|end_char=850|SpaceAfter=No
+3	:	:	PUNCT	:	_	2	_	_	start_char=850|end_char=851
+4	Billions	billion	NOUN	NNS	Number=Plur	3	_	_	start_char=852|end_char=860
+5	of	of	ADP	IN	_	4	_	_	start_char=861|end_char=863
+6	dollars	dollar	NOUN	NNS	Number=Plur	5	_	_	start_char=864|end_char=871
+7	came	come	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=872|end_char=876
+8	from	from	ADP	IN	_	7	_	_	start_char=877|end_char=881
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=882|end_char=885
+10	United	United	ADJ	NNP	Degree=Pos	9	_	_	start_char=886|end_char=892
+11	States	State	PROPN	NNPS	Number=Plur	10	_	_	start_char=893|end_char=899
+12	and	and	CCONJ	CC	_	11	_	_	start_char=900|end_char=903
+13	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	12	_	_	start_char=904|end_char=908
+14	countries	country	NOUN	NNS	Number=Plur	13	_	_	start_char=909|end_char=918|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=918|end_char=919
+16	especially	especially	ADV	RB	_	15	_	_	start_char=920|end_char=930
+17	Germany	Germany	PROPN	NNP	Number=Sing	16	_	_	start_char=931|end_char=938|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=938|end_char=939
+19	Britain	Britain	PROPN	NNP	Number=Sing	18	_	_	start_char=940|end_char=947
+20	and	and	CCONJ	CC	_	19	_	_	start_char=948|end_char=951
+21	France	France	PROPN	NNP	Number=Sing	20	_	_	start_char=952|end_char=958|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=958|end_char=959
+
+# text = I don't know what the Dutch contribution was, but there was a NATO program, which of course we spearheaded, to create a completely new NATO-standard army on the territory of Ukraine, which was clearly offensive in nature.
+# sent_id = 11
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	start_char=960|end_char=961
+2-3	don't	_	_	_	_	_	_	_	start_char=962|end_char=967
+2	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	_	_	start_char=962|end_char=964
+3	n't	not	PART	RB	_	2	_	_	start_char=964|end_char=967
+4	know	know	VERB	VB	VerbForm=Inf	3	_	_	start_char=968|end_char=972
+5	what	what	PRON	WP	PronType=Rel	4	_	_	start_char=973|end_char=977
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=978|end_char=981
+7	Dutch	dutch	ADJ	JJ	Degree=Pos	6	_	_	start_char=982|end_char=987
+8	contribution	contribution	NOUN	NN	Number=Sing	7	_	_	start_char=988|end_char=1000
+9	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=1001|end_char=1004|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=1004|end_char=1005
+11	but	but	CCONJ	CC	_	10	_	_	start_char=1006|end_char=1009
+12	there	there	PRON	EX	_	11	_	_	start_char=1010|end_char=1015
+13	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=1016|end_char=1019
+14	a	a	DET	DT	Definite=Ind|PronType=Art	13	_	_	start_char=1020|end_char=1021
+15	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	14	_	_	start_char=1022|end_char=1026
+16	program	program	NOUN	NN	Number=Sing	15	_	_	start_char=1027|end_char=1034|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=1034|end_char=1035
+18	which	which	PRON	WDT	PronType=Rel	17	_	_	start_char=1036|end_char=1041
+19	of	of	ADV	IN	_	18	_	_	start_char=1042|end_char=1044
+20	course	course	NOUN	NN	Number=Sing	19	_	_	start_char=1045|end_char=1051
+21	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	20	_	_	start_char=1052|end_char=1054
+22	spearheaded	spearhead	VERB	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	21	_	_	start_char=1055|end_char=1066|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=1066|end_char=1067
+24	to	to	PART	TO	_	23	_	_	start_char=1068|end_char=1070
+25	create	create	VERB	VB	VerbForm=Inf	24	_	_	start_char=1071|end_char=1077
+26	a	a	DET	DT	Definite=Ind|PronType=Art	25	_	_	start_char=1078|end_char=1079
+27	completely	completely	ADV	RB	_	26	_	_	start_char=1080|end_char=1090
+28	new	new	ADJ	JJ	Degree=Pos	27	_	_	start_char=1091|end_char=1094
+29	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	28	_	_	start_char=1095|end_char=1099|SpaceAfter=No
+30	-	-	PUNCT	HYPH	_	29	_	_	start_char=1099|end_char=1100|SpaceAfter=No
+31	standard	standard	ADJ	JJ	Degree=Pos	30	_	_	start_char=1100|end_char=1108
+32	army	army	NOUN	NN	Number=Sing	31	_	_	start_char=1109|end_char=1113
+33	on	on	ADP	IN	_	32	_	_	start_char=1114|end_char=1116
+34	the	the	DET	DT	Definite=Def|PronType=Art	33	_	_	start_char=1117|end_char=1120
+35	territory	territory	NOUN	NN	Number=Sing	34	_	_	start_char=1121|end_char=1130
+36	of	of	ADP	IN	_	35	_	_	start_char=1131|end_char=1133
+37	Ukraine	Ukraine	PROPN	NNP	Number=Sing	36	_	_	start_char=1134|end_char=1141|SpaceAfter=No
+38	,	,	PUNCT	,	_	37	_	_	start_char=1141|end_char=1142
+39	which	which	PRON	WDT	PronType=Rel	38	_	_	start_char=1143|end_char=1148
+40	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	39	_	_	start_char=1149|end_char=1152
+41	clearly	clearly	ADV	RB	_	40	_	_	start_char=1153|end_char=1160
+42	offensive	offensive	ADJ	JJ	Degree=Pos	41	_	_	start_char=1161|end_char=1170
+43	in	in	ADP	IN	_	42	_	_	start_char=1171|end_char=1173
+44	nature	nature	NOUN	NN	Number=Sing	43	_	_	start_char=1174|end_char=1180|SpaceAfter=No
+45	.	.	PUNCT	.	_	44	_	_	start_char=1180|end_char=1181|SpaceAfter=No
+

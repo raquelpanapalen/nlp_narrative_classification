@@ -1,0 +1,281 @@
+# text = Putin's voice: No preconditions for peace talks with Ukraine
+# sent_id = 0
+1-2	Putin's	_	_	_	_	_	_	_	start_char=0|end_char=7
+1	Putin	Putin	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=5
+2	's	's	PART	POS	_	1	_	_	start_char=5|end_char=7
+3	voice	voice	NOUN	NN	Number=Sing	2	_	_	start_char=8|end_char=13|SpaceAfter=No
+4	:	:	PUNCT	:	_	3	_	_	start_char=13|end_char=14
+5	No	no	DET	DT	_	4	_	_	start_char=15|end_char=17
+6	preconditions	precondition	NOUN	NNS	Number=Plur	5	_	_	start_char=18|end_char=31
+7	for	for	ADP	IN	_	6	_	_	start_char=32|end_char=35
+8	peace	peace	NOUN	NN	Number=Sing	7	_	_	start_char=36|end_char=41
+9	talks	talk	NOUN	NNS	Number=Plur	8	_	_	start_char=42|end_char=47
+10	with	with	ADP	IN	_	9	_	_	start_char=48|end_char=52
+11	Ukraine	Ukraine	PROPN	NNP	Number=Sing	10	_	_	start_char=53|end_char=60|SpacesAfter=\n\n
+
+# text = At the moment, there are no preconditions for peace talks between Moscow and Kiev, Ukraine itself has closed the door to this.
+# sent_id = 1
+1	At	at	ADP	IN	_	0	_	_	start_char=62|end_char=64
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=65|end_char=68
+3	moment	moment	NOUN	NN	Number=Sing	2	_	_	start_char=69|end_char=75|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=75|end_char=76
+5	there	there	PRON	EX	_	4	_	_	start_char=77|end_char=82
+6	are	be	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=83|end_char=86
+7	no	no	DET	DT	_	6	_	_	start_char=87|end_char=89
+8	preconditions	precondition	NOUN	NNS	Number=Plur	7	_	_	start_char=90|end_char=103
+9	for	for	ADP	IN	_	8	_	_	start_char=104|end_char=107
+10	peace	peace	NOUN	NN	Number=Sing	9	_	_	start_char=108|end_char=113
+11	talks	talk	NOUN	NNS	Number=Plur	10	_	_	start_char=114|end_char=119
+12	between	between	ADP	IN	_	11	_	_	start_char=120|end_char=127
+13	Moscow	Moscow	PROPN	NNP	Number=Sing	12	_	_	start_char=128|end_char=134
+14	and	and	CCONJ	CC	_	13	_	_	start_char=135|end_char=138
+15	Kiev	Kiev	PROPN	NNP	Number=Sing	14	_	_	start_char=139|end_char=143|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=143|end_char=144
+17	Ukraine	Ukraine	PROPN	NNP	Number=Sing	16	_	_	start_char=145|end_char=152
+18	itself	itself	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Emp|Reflex=Yes	17	_	_	start_char=153|end_char=159
+19	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=160|end_char=163
+20	closed	close	VERB	VBN	Tense=Past|VerbForm=Part	19	_	_	start_char=164|end_char=170
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=171|end_char=174
+22	door	door	NOUN	NN	Number=Sing	21	_	_	start_char=175|end_char=179
+23	to	to	ADP	IN	_	22	_	_	start_char=180|end_char=182
+24	this	this	PRON	DT	Number=Sing|PronType=Dem	23	_	_	start_char=183|end_char=187|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=187|end_char=188|SpacesAfter=\n
+
+# text = This was said by the press secretary of the Russian President Dmitry Peskov, in an interview with Izvestia, quoted by TASS.
+# sent_id = 2
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=189|end_char=193
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=194|end_char=197
+3	said	say	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	_	_	start_char=198|end_char=202
+4	by	by	ADP	IN	_	3	_	_	start_char=203|end_char=205
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=206|end_char=209
+6	press	press	NOUN	NN	Number=Sing	5	_	_	start_char=210|end_char=215
+7	secretary	secretary	NOUN	NN	Number=Sing	6	_	_	start_char=216|end_char=225
+8	of	of	ADP	IN	_	7	_	_	start_char=226|end_char=228
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=229|end_char=232
+10	Russian	Russian	ADJ	JJ	Degree=Pos	9	_	_	start_char=233|end_char=240
+11	President	President	PROPN	NNP	Number=Sing	10	_	_	start_char=241|end_char=250
+12	Dmitry	Dmitry	PROPN	NNP	Number=Sing	11	_	_	start_char=251|end_char=257
+13	Peskov	Peskov	PROPN	NNP	Number=Sing	12	_	_	start_char=258|end_char=264|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=264|end_char=265
+15	in	in	ADP	IN	_	14	_	_	start_char=266|end_char=268
+16	an	a	DET	DT	Definite=Ind|PronType=Art	15	_	_	start_char=269|end_char=271
+17	interview	interview	NOUN	NN	Number=Sing	16	_	_	start_char=272|end_char=281
+18	with	with	ADP	IN	_	17	_	_	start_char=282|end_char=286
+19	Izvestia	Izvestia	PROPN	NNP	Number=Sing	18	_	_	start_char=287|end_char=295|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=295|end_char=296
+21	quoted	quote	VERB	VBN	Tense=Past|VerbForm=Part	20	_	_	start_char=297|end_char=303
+22	by	by	ADP	IN	_	21	_	_	start_char=304|end_char=306
+23	TASS	TASS	PROPN	NNP	Number=Sing	22	_	_	start_char=307|end_char=311|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=311|end_char=312|SpacesAfter=\n
+
+# text = "At the moment there are no grounds for starting the negotiation process.
+# sent_id = 3
+1	"	"	PUNCT	``	_	0	_	_	start_char=313|end_char=314|SpaceAfter=No
+2	At	at	ADP	IN	_	1	_	_	start_char=314|end_char=316
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=317|end_char=320
+4	moment	moment	NOUN	NN	Number=Sing	3	_	_	start_char=321|end_char=327
+5	there	there	PRON	EX	_	4	_	_	start_char=328|end_char=333
+6	are	be	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=334|end_char=337
+7	no	no	DET	DT	_	6	_	_	start_char=338|end_char=340
+8	grounds	grounds	NOUN	NNS	Number=Plur	7	_	_	start_char=341|end_char=348
+9	for	for	SCONJ	IN	_	8	_	_	start_char=349|end_char=352
+10	starting	start	VERB	VBG	VerbForm=Ger	9	_	_	start_char=353|end_char=361
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=362|end_char=365
+12	negotiation	negotiation	NOUN	NN	Number=Sing	11	_	_	start_char=366|end_char=377
+13	process	process	NOUN	NN	Number=Sing	12	_	_	start_char=378|end_char=385|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=385|end_char=386
+
+# text = The Kiev regime has still completely closed all doors to the negotiation process.
+# sent_id = 4
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=387|end_char=390
+2	Kiev	Kiev	PROPN	NNP	Number=Sing	1	_	_	start_char=391|end_char=395
+3	regime	regime	NOUN	NN	Number=Sing	2	_	_	start_char=396|end_char=402
+4	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=403|end_char=406
+5	still	still	ADV	RB	_	4	_	_	start_char=407|end_char=412
+6	completely	completely	ADV	RB	_	5	_	_	start_char=413|end_char=423
+7	closed	close	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=424|end_char=430
+8	all	all	DET	DT	_	7	_	_	start_char=431|end_char=434
+9	doors	door	NOUN	NNS	Number=Plur	8	_	_	start_char=435|end_char=440
+10	to	to	ADP	IN	_	9	_	_	start_char=441|end_char=443
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=444|end_char=447
+12	negotiation	negotiation	NOUN	NN	Number=Sing	11	_	_	start_char=448|end_char=459
+13	process	process	NOUN	NN	Number=Sing	12	_	_	start_char=460|end_char=467|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=467|end_char=468
+
+# text = We continue to achieve our goals through a special military operation," he said.
+# sent_id = 5
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	start_char=469|end_char=471
+2	continue	continue	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	_	_	start_char=472|end_char=480
+3	to	to	PART	TO	_	2	_	_	start_char=481|end_char=483
+4	achieve	achieve	VERB	VB	VerbForm=Inf	3	_	_	start_char=484|end_char=491
+5	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	4	_	_	start_char=492|end_char=495
+6	goals	goal	NOUN	NNS	Number=Plur	5	_	_	start_char=496|end_char=501
+7	through	through	ADP	IN	_	6	_	_	start_char=502|end_char=509
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=510|end_char=511
+9	special	special	ADJ	JJ	Degree=Pos	8	_	_	start_char=512|end_char=519
+10	military	military	ADJ	JJ	Degree=Pos	9	_	_	start_char=520|end_char=528
+11	operation	operation	NOUN	NN	Number=Sing	10	_	_	start_char=529|end_char=538|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=538|end_char=539|SpaceAfter=No
+13	"	"	PUNCT	''	_	12	_	_	start_char=539|end_char=540
+14	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	_	_	start_char=541|end_char=543
+15	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=544|end_char=548|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=548|end_char=549|SpacesAfter=\n
+
+# text = Recall that Moscow has repeated several times that it no longer accepts Volodymyr Zelensky as Ukraine's legitimate president due to the expiration of his term, although Kiev has explained why no elections have been held in the country.
+# sent_id = 6
+1	Recall	recall	VERB	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=550|end_char=556
+2	that	that	SCONJ	IN	_	1	_	_	start_char=557|end_char=561
+3	Moscow	Moscow	PROPN	NNP	Number=Sing	2	_	_	start_char=562|end_char=568
+4	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=569|end_char=572
+5	repeated	repeat	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=573|end_char=581
+6	several	several	ADJ	JJ	Degree=Pos	5	_	_	start_char=582|end_char=589
+7	times	time	NOUN	NNS	Number=Plur	6	_	_	start_char=590|end_char=595
+8	that	that	SCONJ	IN	_	7	_	_	start_char=596|end_char=600
+9	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	_	_	start_char=601|end_char=603
+10	no	no	ADV	RB	_	9	_	_	start_char=604|end_char=606
+11	longer	long	ADV	RBR	Degree=Cmp	10	_	_	start_char=607|end_char=613
+12	accepts	accept	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=614|end_char=621
+13	Volodymyr	Volodymyr	PROPN	NNP	Number=Sing	12	_	_	start_char=622|end_char=631
+14	Zelensky	Zelensky	PROPN	NNP	Number=Sing	13	_	_	start_char=632|end_char=640
+15	as	as	ADP	IN	_	14	_	_	start_char=641|end_char=643
+16-17	Ukraine's	_	_	_	_	_	_	_	start_char=644|end_char=653
+16	Ukraine	Ukraine	PROPN	NNP	Number=Sing	15	_	_	start_char=644|end_char=651
+17	's	's	PART	POS	_	16	_	_	start_char=651|end_char=653
+18	legitimate	legitimate	ADJ	JJ	Degree=Pos	17	_	_	start_char=654|end_char=664
+19	president	president	NOUN	NN	Number=Sing	18	_	_	start_char=665|end_char=674
+20	due	due	ADP	IN	_	19	_	_	start_char=675|end_char=678
+21	to	to	ADP	IN	_	20	_	_	start_char=679|end_char=681
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=682|end_char=685
+23	expiration	expiration	NOUN	NN	Number=Sing	22	_	_	start_char=686|end_char=696
+24	of	of	ADP	IN	_	23	_	_	start_char=697|end_char=699
+25	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	24	_	_	start_char=700|end_char=703
+26	term	term	NOUN	NN	Number=Sing	25	_	_	start_char=704|end_char=708|SpaceAfter=No
+27	,	,	PUNCT	,	_	26	_	_	start_char=708|end_char=709
+28	although	although	SCONJ	IN	_	27	_	_	start_char=710|end_char=718
+29	Kiev	Kiev	PROPN	NNP	Number=Sing	28	_	_	start_char=719|end_char=723
+30	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	_	_	start_char=724|end_char=727
+31	explained	explain	VERB	VBN	Tense=Past|VerbForm=Part	30	_	_	start_char=728|end_char=737
+32	why	why	ADV	WRB	PronType=Rel	31	_	_	start_char=738|end_char=741
+33	no	no	DET	DT	_	32	_	_	start_char=742|end_char=744
+34	elections	election	NOUN	NNS	Number=Plur	33	_	_	start_char=745|end_char=754
+35	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	34	_	_	start_char=755|end_char=759
+36	been	be	AUX	VBN	Tense=Past|VerbForm=Part	35	_	_	start_char=760|end_char=764
+37	held	hold	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	36	_	_	start_char=765|end_char=769
+38	in	in	ADP	IN	_	37	_	_	start_char=770|end_char=772
+39	the	the	DET	DT	Definite=Def|PronType=Art	38	_	_	start_char=773|end_char=776
+40	country	country	NOUN	NN	Number=Sing	39	_	_	start_char=777|end_char=784|SpaceAfter=No
+41	.	.	PUNCT	.	_	40	_	_	start_char=784|end_char=785|SpacesAfter=\n
+
+# text = Ukraine also did not include Russia in the peace conference in Switzerland due to take place in June.
+# sent_id = 7
+1	Ukraine	Ukraine	PROPN	NNP	Number=Sing	0	_	_	start_char=786|end_char=793
+2	also	also	ADV	RB	_	1	_	_	start_char=794|end_char=798
+3	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=799|end_char=802
+4	not	not	PART	RB	_	3	_	_	start_char=803|end_char=806
+5	include	include	VERB	VB	VerbForm=Inf	4	_	_	start_char=807|end_char=814
+6	Russia	Russia	PROPN	NNP	Number=Sing	5	_	_	start_char=815|end_char=821
+7	in	in	ADP	IN	_	6	_	_	start_char=822|end_char=824
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=825|end_char=828
+9	peace	peace	NOUN	NN	Number=Sing	8	_	_	start_char=829|end_char=834
+10	conference	conference	NOUN	NN	Number=Sing	9	_	_	start_char=835|end_char=845
+11	in	in	ADP	IN	_	10	_	_	start_char=846|end_char=848
+12	Switzerland	Switzerland	PROPN	NNP	Number=Sing	11	_	_	start_char=849|end_char=860
+13	due	due	ADJ	JJ	Degree=Pos	12	_	_	start_char=861|end_char=864
+14	to	to	PART	TO	_	13	_	_	start_char=865|end_char=867
+15	take	take	VERB	VB	VerbForm=Inf	14	_	_	start_char=868|end_char=872
+16	place	place	NOUN	NN	Number=Sing	15	_	_	start_char=873|end_char=878
+17	in	in	ADP	IN	_	16	_	_	start_char=879|end_char=881
+18	June	June	PROPN	NNP	Number=Sing	17	_	_	start_char=882|end_char=886|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=886|end_char=887|SpacesAfter=\n
+
+# text = Strikes against the Russian Federation involving Western countries mean direct war, to which Moscow will respond.
+# sent_id = 8
+1	Strikes	strike	NOUN	NNS	Number=Plur	0	_	_	start_char=888|end_char=895
+2	against	against	ADP	IN	_	1	_	_	start_char=896|end_char=903
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=904|end_char=907
+4	Russian	Russian	ADJ	JJ	Degree=Pos	3	_	_	start_char=908|end_char=915
+5	Federation	Federation	PROPN	NNP	Number=Sing	4	_	_	start_char=916|end_char=926
+6	involving	involve	VERB	VBG	VerbForm=Ger	5	_	_	start_char=927|end_char=936
+7	Western	western	ADJ	JJ	Degree=Pos	6	_	_	start_char=937|end_char=944
+8	countries	country	NOUN	NNS	Number=Plur	7	_	_	start_char=945|end_char=954
+9	mean	mean	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=955|end_char=959
+10	direct	direct	ADJ	JJ	Degree=Pos	9	_	_	start_char=960|end_char=966
+11	war	war	NOUN	NN	Number=Sing	10	_	_	start_char=967|end_char=970|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=970|end_char=971
+13	to	to	ADP	IN	_	12	_	_	start_char=972|end_char=974
+14	which	which	PRON	WDT	PronType=Rel	13	_	_	start_char=975|end_char=980
+15	Moscow	Moscow	PROPN	NNP	Number=Sing	14	_	_	start_char=981|end_char=987
+16	will	will	AUX	MD	VerbForm=Fin	15	_	_	start_char=988|end_char=992
+17	respond	respond	VERB	VB	VerbForm=Inf	16	_	_	start_char=993|end_char=1000|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=1000|end_char=1001
+
+# text = This was stated by Russian President Vladimir Putin at a meeting organized by TASS with heads of world news agencies.
+# sent_id = 9
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1002|end_char=1006
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1007|end_char=1010
+3	stated	state	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	_	_	start_char=1011|end_char=1017
+4	by	by	ADP	IN	_	3	_	_	start_char=1018|end_char=1020
+5	Russian	Russian	ADJ	JJ	Degree=Pos	4	_	_	start_char=1021|end_char=1028
+6	President	President	PROPN	NNP	Number=Sing	5	_	_	start_char=1029|end_char=1038
+7	Vladimir	Vladimir	PROPN	NNP	Number=Sing	6	_	_	start_char=1039|end_char=1047
+8	Putin	Putin	PROPN	NNP	Number=Sing	7	_	_	start_char=1048|end_char=1053
+9	at	at	ADP	IN	_	8	_	_	start_char=1054|end_char=1056
+10	a	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=1057|end_char=1058
+11	meeting	meeting	NOUN	NN	Number=Sing	10	_	_	start_char=1059|end_char=1066
+12	organized	organize	VERB	VBN	Tense=Past|VerbForm=Part	11	_	_	start_char=1067|end_char=1076
+13	by	by	ADP	IN	_	12	_	_	start_char=1077|end_char=1079
+14	TASS	TASS	PROPN	NNP	Number=Sing	13	_	_	start_char=1080|end_char=1084
+15	with	with	ADP	IN	_	14	_	_	start_char=1085|end_char=1089
+16	heads	head	NOUN	NNS	Number=Plur	15	_	_	start_char=1090|end_char=1095
+17	of	of	ADP	IN	_	16	_	_	start_char=1096|end_char=1098
+18	world	world	NOUN	NN	Number=Sing	17	_	_	start_char=1099|end_char=1104
+19	news	news	NOUN	NN	Number=Sing	18	_	_	start_char=1105|end_char=1109
+20	agencies	agency	NOUN	NNS	Number=Plur	19	_	_	start_char=1110|end_char=1118|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=1118|end_char=1119|SpacesAfter=\n
+
+# text = Russian weapons could be supplied to any of the enemies of the United States of America as a symmetrical response to arming Ukraine against Russian Federation.
+# sent_id = 10
+1	Russian	Russian	ADJ	JJ	Degree=Pos	0	_	_	start_char=1120|end_char=1127
+2	weapons	weapon	NOUN	NNS	Number=Plur	1	_	_	start_char=1128|end_char=1135
+3	could	could	AUX	MD	VerbForm=Fin	2	_	_	start_char=1136|end_char=1141
+4	be	be	AUX	VB	VerbForm=Inf	3	_	_	start_char=1142|end_char=1144
+5	supplied	supply	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	_	_	start_char=1145|end_char=1153
+6	to	to	ADP	IN	_	5	_	_	start_char=1154|end_char=1156
+7	any	any	DET	DT	_	6	_	_	start_char=1157|end_char=1160
+8	of	of	ADP	IN	_	7	_	_	start_char=1161|end_char=1163
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1164|end_char=1167
+10	enemies	enemy	NOUN	NNS	Number=Plur	9	_	_	start_char=1168|end_char=1175
+11	of	of	ADP	IN	_	10	_	_	start_char=1176|end_char=1178
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=1179|end_char=1182
+13	United	United	ADJ	NNP	Degree=Pos	12	_	_	start_char=1183|end_char=1189
+14	States	State	PROPN	NNPS	Number=Plur	13	_	_	start_char=1190|end_char=1196
+15	of	of	ADP	IN	_	14	_	_	start_char=1197|end_char=1199
+16	America	America	PROPN	NNP	Number=Sing	15	_	_	start_char=1200|end_char=1207
+17	as	as	ADP	IN	_	16	_	_	start_char=1208|end_char=1210
+18	a	a	DET	DT	Definite=Ind|PronType=Art	17	_	_	start_char=1211|end_char=1212
+19	symmetrical	symmetrical	ADJ	JJ	Degree=Pos	18	_	_	start_char=1213|end_char=1224
+20	response	response	NOUN	NN	Number=Sing	19	_	_	start_char=1225|end_char=1233
+21	to	to	SCONJ	IN	_	20	_	_	start_char=1234|end_char=1236
+22	arming	arm	VERB	VBG	VerbForm=Ger	21	_	_	start_char=1237|end_char=1243
+23	Ukraine	Ukraine	PROPN	NNP	Number=Sing	22	_	_	start_char=1244|end_char=1251
+24	against	against	ADP	IN	_	23	_	_	start_char=1252|end_char=1259
+25	Russian	Russian	ADJ	JJ	Degree=Pos	24	_	_	start_char=1260|end_char=1267
+26	Federation	Federation	PROPN	NNP	Number=Sing	25	_	_	start_char=1268|end_char=1278|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=1278|end_char=1279
+
+# text = This was stated by Deputy Chairman of the Russian Security Council Dmitry Medvedev
+# sent_id = 11
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1280|end_char=1284
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1285|end_char=1288
+3	stated	state	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	_	_	start_char=1289|end_char=1295
+4	by	by	ADP	IN	_	3	_	_	start_char=1296|end_char=1298
+5	Deputy	deputy	PROPN	NNP	Number=Sing	4	_	_	start_char=1299|end_char=1305
+6	Chairman	Chairman	PROPN	NNP	Number=Sing	5	_	_	start_char=1306|end_char=1314
+7	of	of	ADP	IN	_	6	_	_	start_char=1315|end_char=1317
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=1318|end_char=1321
+9	Russian	Russian	ADJ	NNP	Degree=Pos	8	_	_	start_char=1322|end_char=1329
+10	Security	Security	PROPN	NNP	Number=Sing	9	_	_	start_char=1330|end_char=1338
+11	Council	Council	PROPN	NNP	Number=Sing	10	_	_	start_char=1339|end_char=1346
+12	Dmitry	Dmitry	PROPN	NNP	Number=Sing	11	_	_	start_char=1347|end_char=1353
+13	Medvedev	Medvedev	PROPN	NNP	Number=Sing	12	_	_	start_char=1354|end_char=1362|SpaceAfter=No
+

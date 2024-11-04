@@ -1,0 +1,364 @@
+# text = Global warming?
+# sent_id = 0
+1	Global	Global	ADJ	JJ	Degree=Pos	0	_	_	start_char=0|end_char=6
+2	warming	warming	NOUN	NN	Number=Sing	1	_	_	start_char=7|end_char=14|SpaceAfter=No
+3	?	?	PUNCT	.	_	2	_	_	start_char=14|end_char=15
+
+# text = No need to worry, it's on Mars too
+# sent_id = 1
+1	No	no	DET	DT	_	0	_	_	start_char=16|end_char=18
+2	need	need	NOUN	NN	Number=Sing	1	_	_	start_char=19|end_char=23
+3	to	to	PART	TO	_	2	_	_	start_char=24|end_char=26
+4	worry	worry	VERB	VB	VerbForm=Inf	3	_	_	start_char=27|end_char=32|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=32|end_char=33
+6-7	it's	_	_	_	_	_	_	_	start_char=34|end_char=38
+6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	_	_	start_char=34|end_char=36
+7	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=36|end_char=38
+8	on	on	ADP	IN	_	7	_	_	start_char=39|end_char=41
+9	Mars	Mars	PROPN	NNP	Number=Sing	8	_	_	start_char=42|end_char=46
+10	too	too	ADV	RB	_	9	_	_	start_char=47|end_char=50|SpacesAfter=\n\n
+
+# text = "The study is focused on the drainage systems of glaciers, that is, those cracks that form the bottom surface of each glacier, they take in an amount of heat from the outer atmosphere and collect it inside," said Bulgarian researcher and physicist Eng. Tsvetan Parov, a scientist and physicist, was speaking on "Bulgaria in the Morning" The summary is based on a month-long monitoring of data acquired from sensors specially deployed for the project inside the glacier itself.
+# sent_id = 2
+1	"	"	PUNCT	``	_	0	_	_	start_char=52|end_char=53|SpaceAfter=No
+2	The	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=53|end_char=56
+3	study	study	NOUN	NN	Number=Sing	2	_	_	start_char=57|end_char=62
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=63|end_char=65
+5	focused	focus	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	_	_	start_char=66|end_char=73
+6	on	on	ADP	IN	_	5	_	_	start_char=74|end_char=76
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=77|end_char=80
+8	drainage	drainage	NOUN	NN	Number=Sing	7	_	_	start_char=81|end_char=89
+9	systems	system	NOUN	NNS	Number=Plur	8	_	_	start_char=90|end_char=97
+10	of	of	ADP	IN	_	9	_	_	start_char=98|end_char=100
+11	glaciers	glacier	NOUN	NNS	Number=Plur	10	_	_	start_char=101|end_char=109|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=109|end_char=110
+13	that	that	PRON	DT	Number=Sing|PronType=Dem	12	_	_	start_char=111|end_char=115
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=116|end_char=118|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=118|end_char=119
+16	those	that	DET	DT	Number=Plur|PronType=Dem	15	_	_	start_char=120|end_char=125
+17	cracks	crack	NOUN	NNS	Number=Plur	16	_	_	start_char=126|end_char=132
+18	that	that	PRON	WDT	PronType=Rel	17	_	_	start_char=133|end_char=137
+19	form	form	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=138|end_char=142
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=143|end_char=146
+21	bottom	bottom	ADJ	JJ	Degree=Pos	20	_	_	start_char=147|end_char=153
+22	surface	surface	NOUN	NN	Number=Sing	21	_	_	start_char=154|end_char=161
+23	of	of	ADP	IN	_	22	_	_	start_char=162|end_char=164
+24	each	each	DET	DT	_	23	_	_	start_char=165|end_char=169
+25	glacier	glacier	NOUN	NN	Number=Sing	24	_	_	start_char=170|end_char=177|SpaceAfter=No
+26	,	,	PUNCT	,	_	25	_	_	start_char=177|end_char=178
+27	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	26	_	_	start_char=179|end_char=183
+28	take	take	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	27	_	_	start_char=184|end_char=188
+29	in	in	ADP	RP	_	28	_	_	start_char=189|end_char=191
+30	an	a	DET	DT	Definite=Ind|PronType=Art	29	_	_	start_char=192|end_char=194
+31	amount	amount	NOUN	NN	Number=Sing	30	_	_	start_char=195|end_char=201
+32	of	of	ADP	IN	_	31	_	_	start_char=202|end_char=204
+33	heat	heat	NOUN	NN	Number=Sing	32	_	_	start_char=205|end_char=209
+34	from	from	ADP	IN	_	33	_	_	start_char=210|end_char=214
+35	the	the	DET	DT	Definite=Def|PronType=Art	34	_	_	start_char=215|end_char=218
+36	outer	outer	ADJ	JJ	Degree=Pos	35	_	_	start_char=219|end_char=224
+37	atmosphere	atmosphere	NOUN	NN	Number=Sing	36	_	_	start_char=225|end_char=235
+38	and	and	CCONJ	CC	_	37	_	_	start_char=236|end_char=239
+39	collect	collect	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	38	_	_	start_char=240|end_char=247
+40	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	39	_	_	start_char=248|end_char=250
+41	inside	inside	ADV	RB	_	40	_	_	start_char=251|end_char=257|SpaceAfter=No
+42	,	,	PUNCT	,	_	41	_	_	start_char=257|end_char=258|SpaceAfter=No
+43	"	"	PUNCT	''	_	42	_	_	start_char=258|end_char=259
+44	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	43	_	_	start_char=260|end_char=264
+45	Bulgarian	Bulgarian	ADJ	JJ	Degree=Pos	44	_	_	start_char=265|end_char=274
+46	researcher	researcher	NOUN	NN	Number=Sing	45	_	_	start_char=275|end_char=285
+47	and	and	CCONJ	CC	_	46	_	_	start_char=286|end_char=289
+48	physicist	physicist	NOUN	NN	Number=Sing	47	_	_	start_char=290|end_char=299
+49	Eng.	eng.	NOUN	NN	Number=Sing	48	_	_	start_char=300|end_char=304
+50	Tsvetan	Tsvetan	PROPN	NNP	Number=Sing	49	_	_	start_char=305|end_char=312
+51	Parov	Parov	PROPN	NNP	Number=Sing	50	_	_	start_char=313|end_char=318|SpaceAfter=No
+52	,	,	PUNCT	,	_	51	_	_	start_char=318|end_char=319
+53	a	a	DET	DT	Definite=Ind|PronType=Art	52	_	_	start_char=320|end_char=321
+54	scientist	scientist	NOUN	NN	Number=Sing	53	_	_	start_char=322|end_char=331
+55	and	and	CCONJ	CC	_	54	_	_	start_char=332|end_char=335
+56	physicist	physicist	NOUN	NN	Number=Sing	55	_	_	start_char=336|end_char=345|SpaceAfter=No
+57	,	,	PUNCT	,	_	56	_	_	start_char=345|end_char=346
+58	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	57	_	_	start_char=347|end_char=350
+59	speaking	speak	VERB	VBG	Tense=Pres|VerbForm=Part	58	_	_	start_char=351|end_char=359
+60	on	on	ADP	IN	_	59	_	_	start_char=360|end_char=362
+61	"	"	PUNCT	``	_	60	_	_	start_char=363|end_char=364|SpaceAfter=No
+62	Bulgaria	Bulgaria	PROPN	NNP	Number=Sing	61	_	_	start_char=364|end_char=372
+63	in	in	ADP	IN	_	62	_	_	start_char=373|end_char=375
+64	the	the	DET	DT	Definite=Def|PronType=Art	63	_	_	start_char=376|end_char=379
+65	Morning	Morning	PROPN	NNP	Number=Sing	64	_	_	start_char=380|end_char=387|SpaceAfter=No
+66	"	"	PUNCT	''	_	65	_	_	start_char=387|end_char=388|SpacesAfter=\n
+67	The	the	DET	DT	Definite=Def|PronType=Art	66	_	_	start_char=389|end_char=392
+68	summary	summary	NOUN	NN	Number=Sing	67	_	_	start_char=393|end_char=400
+69	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	68	_	_	start_char=401|end_char=403
+70	based	base	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	69	_	_	start_char=404|end_char=409
+71	on	on	ADP	IN	_	70	_	_	start_char=410|end_char=412
+72	a	a	DET	DT	Definite=Ind|PronType=Art	71	_	_	start_char=413|end_char=414
+73	month	month	NOUN	NN	Number=Sing	72	_	_	start_char=415|end_char=420|SpaceAfter=No
+74	-	-	PUNCT	HYPH	_	73	_	_	start_char=420|end_char=421|SpaceAfter=No
+75	long	long	ADJ	JJ	Degree=Pos	74	_	_	start_char=421|end_char=425
+76	monitoring	monitoring	NOUN	NN	Number=Sing	75	_	_	start_char=426|end_char=436
+77	of	of	ADP	IN	_	76	_	_	start_char=437|end_char=439
+78	data	datum	NOUN	NNS	Number=Plur	77	_	_	start_char=440|end_char=444
+79	acquired	acquire	VERB	VBN	Tense=Past|VerbForm=Part	78	_	_	start_char=445|end_char=453
+80	from	from	ADP	IN	_	79	_	_	start_char=454|end_char=458
+81	sensors	sensor	NOUN	NNS	Number=Plur	80	_	_	start_char=459|end_char=466
+82	specially	specially	ADV	RB	_	81	_	_	start_char=467|end_char=476
+83	deployed	deploy	VERB	VBN	Tense=Past|VerbForm=Part	82	_	_	start_char=477|end_char=485
+84	for	for	ADP	IN	_	83	_	_	start_char=486|end_char=489
+85	the	the	DET	DT	Definite=Def|PronType=Art	84	_	_	start_char=490|end_char=493
+86	project	project	NOUN	NN	Number=Sing	85	_	_	start_char=494|end_char=501
+87	inside	inside	ADP	IN	_	86	_	_	start_char=502|end_char=508
+88	the	the	DET	DT	Definite=Def|PronType=Art	87	_	_	start_char=509|end_char=512
+89	glacier	glacier	NOUN	NN	Number=Sing	88	_	_	start_char=513|end_char=520
+90	itself	itself	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Emp|Reflex=Yes	89	_	_	start_char=521|end_char=527|SpaceAfter=No
+91	.	.	PUNCT	.	_	90	_	_	start_char=527|end_char=528|SpacesAfter=\n
+
+# text = "This temperature that we found down in the bowels of this glacier is only 0.2 degrees below zero, which means that a warming would have a reflection on the amount of this ice," explained Eng. Parov told Bulgaria ON AIR.
+# sent_id = 3
+1	"	"	PUNCT	``	_	0	_	_	start_char=529|end_char=530|SpaceAfter=No
+2	This	this	DET	DT	Number=Sing|PronType=Dem	1	_	_	start_char=530|end_char=534
+3	temperature	temperature	NOUN	NN	Number=Sing	2	_	_	start_char=535|end_char=546
+4	that	that	PRON	WDT	PronType=Rel	3	_	_	start_char=547|end_char=551
+5	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	_	_	start_char=552|end_char=554
+6	found	find	VERB	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	5	_	_	start_char=555|end_char=560
+7	down	down	ADV	RB	_	6	_	_	start_char=561|end_char=565
+8	in	in	ADP	IN	_	7	_	_	start_char=566|end_char=568
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=569|end_char=572
+10	bowels	bowel	NOUN	NNS	Number=Plur	9	_	_	start_char=573|end_char=579
+11	of	of	ADP	IN	_	10	_	_	start_char=580|end_char=582
+12	this	this	DET	DT	Number=Sing|PronType=Dem	11	_	_	start_char=583|end_char=587
+13	glacier	glacier	NOUN	NN	Number=Sing	12	_	_	start_char=588|end_char=595
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=596|end_char=598
+15	only	only	ADV	RB	_	14	_	_	start_char=599|end_char=603
+16	0.2	0.2	NUM	CD	NumForm=Digit|NumType=Frac	15	_	_	start_char=604|end_char=607
+17	degrees	degree	NOUN	NNS	Number=Plur	16	_	_	start_char=608|end_char=615
+18	below	below	ADP	IN	_	17	_	_	start_char=616|end_char=621
+19	zero	zero	NUM	CD	NumForm=Word|NumType=Card	18	_	_	start_char=622|end_char=626|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=626|end_char=627
+21	which	which	PRON	WDT	PronType=Rel	20	_	_	start_char=628|end_char=633
+22	means	mean	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	_	_	start_char=634|end_char=639
+23	that	that	SCONJ	IN	_	22	_	_	start_char=640|end_char=644
+24	a	a	DET	DT	Definite=Ind|PronType=Art	23	_	_	start_char=645|end_char=646
+25	warming	warming	NOUN	NN	Number=Sing	24	_	_	start_char=647|end_char=654
+26	would	would	AUX	MD	VerbForm=Fin	25	_	_	start_char=655|end_char=660
+27	have	have	VERB	VB	VerbForm=Inf	26	_	_	start_char=661|end_char=665
+28	a	a	DET	DT	Definite=Ind|PronType=Art	27	_	_	start_char=666|end_char=667
+29	reflection	reflection	NOUN	NN	Number=Sing	28	_	_	start_char=668|end_char=678
+30	on	on	ADP	IN	_	29	_	_	start_char=679|end_char=681
+31	the	the	DET	DT	Definite=Def|PronType=Art	30	_	_	start_char=682|end_char=685
+32	amount	amount	NOUN	NN	Number=Sing	31	_	_	start_char=686|end_char=692
+33	of	of	ADP	IN	_	32	_	_	start_char=693|end_char=695
+34	this	this	DET	DT	Number=Sing|PronType=Dem	33	_	_	start_char=696|end_char=700
+35	ice	ice	NOUN	NN	Number=Sing	34	_	_	start_char=701|end_char=704|SpaceAfter=No
+36	,	,	PUNCT	,	_	35	_	_	start_char=704|end_char=705|SpaceAfter=No
+37	"	"	PUNCT	''	_	36	_	_	start_char=705|end_char=706
+38	explained	explain	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	37	_	_	start_char=707|end_char=716
+39	Eng.	Eng.	PROPN	NNP	Number=Sing	38	_	_	start_char=717|end_char=721
+40	Parov	Parov	PROPN	NNP	Number=Sing	39	_	_	start_char=722|end_char=727
+41	told	tell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	40	_	_	start_char=728|end_char=732
+42	Bulgaria	Bulgaria	PROPN	NNP	Number=Sing	41	_	_	start_char=733|end_char=741
+43	ON	on	ADP	IN	_	42	_	_	start_char=742|end_char=744
+44	AIR	AIR	PROPN	NNP	Number=Sing	43	_	_	start_char=745|end_char=748|SpaceAfter=No
+45	.	.	PUNCT	.	_	44	_	_	start_char=748|end_char=749|SpacesAfter=\n
+
+# text = Such a study has not been done so far, especially in such large time ranges.
+# sent_id = 4
+1	Such	such	DET	PDT	_	0	_	_	start_char=750|end_char=754
+2	a	a	DET	DT	Definite=Ind|PronType=Art	1	_	_	start_char=755|end_char=756
+3	study	study	NOUN	NN	Number=Sing	2	_	_	start_char=757|end_char=762
+4	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=763|end_char=766
+5	not	not	PART	RB	_	4	_	_	start_char=767|end_char=770
+6	been	be	AUX	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=771|end_char=775
+7	done	do	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	_	_	start_char=776|end_char=780
+8	so	so	ADV	RB	_	7	_	_	start_char=781|end_char=783
+9	far	far	ADV	RB	Degree=Pos	8	_	_	start_char=784|end_char=787|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=787|end_char=788
+11	especially	especially	ADV	RB	_	10	_	_	start_char=789|end_char=799
+12	in	in	ADP	IN	_	11	_	_	start_char=800|end_char=802
+13	such	such	ADJ	JJ	Degree=Pos	12	_	_	start_char=803|end_char=807
+14	large	large	ADJ	JJ	Degree=Pos	13	_	_	start_char=808|end_char=813
+15	time	time	NOUN	NN	Number=Sing	14	_	_	start_char=814|end_char=818
+16	ranges	range	NOUN	NNS	Number=Plur	15	_	_	start_char=819|end_char=825|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=825|end_char=826|SpacesAfter=\n
+
+# text = "We don't know if this temperature hasn't been like this for a thousand years and will be for another thousand years.
+# sent_id = 5
+1	"	"	PUNCT	``	_	0	_	_	start_char=827|end_char=828|SpaceAfter=No
+2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	1	_	_	start_char=828|end_char=830
+3-4	don't	_	_	_	_	_	_	_	start_char=831|end_char=836
+3	do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=831|end_char=833
+4	n't	not	PART	RB	_	3	_	_	start_char=833|end_char=836
+5	know	know	VERB	VB	VerbForm=Inf	4	_	_	start_char=837|end_char=841
+6	if	if	SCONJ	IN	_	5	_	_	start_char=842|end_char=844
+7	this	this	DET	DT	Number=Sing|PronType=Dem	6	_	_	start_char=845|end_char=849
+8	temperature	temperature	NOUN	NN	Number=Sing	7	_	_	start_char=850|end_char=861
+9-10	hasn't	_	_	_	_	_	_	_	start_char=862|end_char=868
+9	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=862|end_char=865
+10	n't	not	PART	RB	_	9	_	_	start_char=865|end_char=868
+11	been	be	AUX	VBN	Tense=Past|VerbForm=Part	10	_	_	start_char=869|end_char=873
+12	like	like	ADP	IN	_	11	_	_	start_char=874|end_char=878
+13	this	this	PRON	DT	Number=Sing|PronType=Dem	12	_	_	start_char=879|end_char=883
+14	for	for	ADP	IN	_	13	_	_	start_char=884|end_char=887
+15	a	a	DET	DT	Definite=Ind|PronType=Art	14	_	_	start_char=888|end_char=889
+16	thousand	thousand	NUM	CD	NumForm=Word|NumType=Card	15	_	_	start_char=890|end_char=898
+17	years	year	NOUN	NNS	Number=Plur	16	_	_	start_char=899|end_char=904
+18	and	and	CCONJ	CC	_	17	_	_	start_char=905|end_char=908
+19	will	will	AUX	MD	VerbForm=Fin	18	_	_	start_char=909|end_char=913
+20	be	be	AUX	VB	VerbForm=Inf	19	_	_	start_char=914|end_char=916
+21	for	for	ADP	IN	_	20	_	_	start_char=917|end_char=920
+22	another	another	DET	DT	_	21	_	_	start_char=921|end_char=928
+23	thousand	thousand	NUM	CD	NumForm=Word|NumType=Card	22	_	_	start_char=929|end_char=937
+24	years	year	NOUN	NNS	Number=Plur	23	_	_	start_char=938|end_char=943|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=943|end_char=944
+
+# text = There is no cause for concern at the moment.
+# sent_id = 6
+1	There	there	PRON	EX	_	0	_	_	start_char=945|end_char=950
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=951|end_char=953
+3	no	no	DET	DT	_	2	_	_	start_char=954|end_char=956
+4	cause	cause	NOUN	NN	Number=Sing	3	_	_	start_char=957|end_char=962
+5	for	for	ADP	IN	_	4	_	_	start_char=963|end_char=966
+6	concern	concern	NOUN	NN	Number=Sing	5	_	_	start_char=967|end_char=974
+7	at	at	ADP	IN	_	6	_	_	start_char=975|end_char=977
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=978|end_char=981
+9	moment	moment	NOUN	NN	Number=Sing	8	_	_	start_char=982|end_char=988|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=988|end_char=989
+
+# text = There is global warming on Mars as well," the Bulgarian researcher said.
+# sent_id = 7
+1	There	there	PRON	EX	_	0	_	_	start_char=990|end_char=995
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=996|end_char=998
+3	global	global	ADJ	JJ	Degree=Pos	2	_	_	start_char=999|end_char=1005
+4	warming	warming	NOUN	NN	Number=Sing	3	_	_	start_char=1006|end_char=1013
+5	on	on	ADP	IN	_	4	_	_	start_char=1014|end_char=1016
+6	Mars	Mars	PROPN	NNP	Number=Sing	5	_	_	start_char=1017|end_char=1021
+7	as	as	ADV	RB	_	6	_	_	start_char=1022|end_char=1024
+8	well	well	ADV	RB	Degree=Pos	7	_	_	start_char=1025|end_char=1029|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1029|end_char=1030|SpaceAfter=No
+10	"	"	PUNCT	''	_	9	_	_	start_char=1030|end_char=1031
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=1032|end_char=1035
+12	Bulgarian	Bulgarian	ADJ	JJ	Degree=Pos	11	_	_	start_char=1036|end_char=1045
+13	researcher	researcher	NOUN	NN	Number=Sing	12	_	_	start_char=1046|end_char=1056
+14	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	_	_	start_char=1057|end_char=1061|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=1061|end_char=1062|SpacesAfter=\n
+
+# text = In his words, this study is yet to reveal new things about life around us.
+# sent_id = 8
+1	In	in	ADP	IN	_	0	_	_	start_char=1063|end_char=1065
+2	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	_	_	start_char=1066|end_char=1069
+3	words	word	NOUN	NNS	Number=Plur	2	_	_	start_char=1070|end_char=1075|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1075|end_char=1076
+5	this	this	DET	DT	Number=Sing|PronType=Dem	4	_	_	start_char=1077|end_char=1081
+6	study	study	NOUN	NN	Number=Sing	5	_	_	start_char=1082|end_char=1087
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=1088|end_char=1090
+8	yet	yet	ADV	RB	_	7	_	_	start_char=1091|end_char=1094
+9	to	to	PART	TO	_	8	_	_	start_char=1095|end_char=1097
+10	reveal	reveal	VERB	VB	VerbForm=Inf	9	_	_	start_char=1098|end_char=1104
+11	new	new	ADJ	JJ	Degree=Pos	10	_	_	start_char=1105|end_char=1108
+12	things	thing	NOUN	NNS	Number=Plur	11	_	_	start_char=1109|end_char=1115
+13	about	about	ADP	IN	_	12	_	_	start_char=1116|end_char=1121
+14	life	life	NOUN	NN	Number=Sing	13	_	_	start_char=1122|end_char=1126
+15	around	around	ADP	IN	_	14	_	_	start_char=1127|end_char=1133
+16	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	15	_	_	start_char=1134|end_char=1136|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=1136|end_char=1137
+
+# text = "This temperature interaction between the outer atmosphere and the subglacial atmosphere is still being studied, we are just getting further towards the front of glaciology.
+# sent_id = 9
+1	"	"	PUNCT	``	_	0	_	_	start_char=1138|end_char=1139|SpaceAfter=No
+2	This	this	DET	DT	Number=Sing|PronType=Dem	1	_	_	start_char=1139|end_char=1143
+3	temperature	temperature	NOUN	NN	Number=Sing	2	_	_	start_char=1144|end_char=1155
+4	interaction	interaction	NOUN	NN	Number=Sing	3	_	_	start_char=1156|end_char=1167
+5	between	between	ADP	IN	_	4	_	_	start_char=1168|end_char=1175
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1176|end_char=1179
+7	outer	outer	ADJ	JJ	Degree=Pos	6	_	_	start_char=1180|end_char=1185
+8	atmosphere	atmosphere	NOUN	NN	Number=Sing	7	_	_	start_char=1186|end_char=1196
+9	and	and	CCONJ	CC	_	8	_	_	start_char=1197|end_char=1200
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=1201|end_char=1204
+11	subglacial	subglacial	ADJ	JJ	Degree=Pos	10	_	_	start_char=1205|end_char=1215
+12	atmosphere	atmosphere	NOUN	NN	Number=Sing	11	_	_	start_char=1216|end_char=1226
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=1227|end_char=1229
+14	still	still	ADV	RB	_	13	_	_	start_char=1230|end_char=1235
+15	being	be	AUX	VBG	VerbForm=Ger	14	_	_	start_char=1236|end_char=1241
+16	studied	study	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	15	_	_	start_char=1242|end_char=1249|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=1249|end_char=1250
+18	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	17	_	_	start_char=1251|end_char=1253
+19	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	18	_	_	start_char=1254|end_char=1257
+20	just	just	ADV	RB	_	19	_	_	start_char=1258|end_char=1262
+21	getting	get	VERB	VBG	Tense=Pres|VerbForm=Part	20	_	_	start_char=1263|end_char=1270
+22	further	further	ADJ	JJR	Degree=Cmp	21	_	_	start_char=1271|end_char=1278
+23	towards	towards	ADP	IN	_	22	_	_	start_char=1279|end_char=1286
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=1287|end_char=1290
+25	front	front	NOUN	NN	Number=Sing	24	_	_	start_char=1291|end_char=1296
+26	of	of	ADP	IN	_	25	_	_	start_char=1297|end_char=1299
+27	glaciology	glaciology	NOUN	NN	Number=Sing	26	_	_	start_char=1300|end_char=1310|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=1310|end_char=1311
+
+# text = As technology advances and these sensors that we're using, we're just looking at these glaciers to see what's going on inside them," explained Eng. Parov.
+# sent_id = 10
+1	As	as	SCONJ	IN	_	0	_	_	start_char=1312|end_char=1314
+2	technology	technology	NOUN	NN	Number=Sing	1	_	_	start_char=1315|end_char=1325
+3	advances	advance	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1326|end_char=1334
+4	and	and	CCONJ	CC	_	3	_	_	start_char=1335|end_char=1338
+5	these	this	DET	DT	Number=Plur|PronType=Dem	4	_	_	start_char=1339|end_char=1344
+6	sensors	sensor	NOUN	NNS	Number=Plur	5	_	_	start_char=1345|end_char=1352
+7	that	that	PRON	WDT	PronType=Rel	6	_	_	start_char=1353|end_char=1357
+8-9	we're	_	_	_	_	_	_	_	start_char=1358|end_char=1363
+8	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	_	_	start_char=1358|end_char=1360
+9	're	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	_	_	start_char=1360|end_char=1363
+10	using	use	VERB	VBG	Tense=Pres|VerbForm=Part	9	_	_	start_char=1364|end_char=1369|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=1369|end_char=1370
+12-13	we're	_	_	_	_	_	_	_	start_char=1371|end_char=1376
+12	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	11	_	_	start_char=1371|end_char=1373
+13	're	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	_	_	start_char=1373|end_char=1376
+14	just	just	ADV	RB	_	13	_	_	start_char=1377|end_char=1381
+15	looking	look	VERB	VBG	Tense=Pres|VerbForm=Part	14	_	_	start_char=1382|end_char=1389
+16	at	at	ADP	IN	_	15	_	_	start_char=1390|end_char=1392
+17	these	this	DET	DT	Number=Plur|PronType=Dem	16	_	_	start_char=1393|end_char=1398
+18	glaciers	glacier	NOUN	NNS	Number=Plur	17	_	_	start_char=1399|end_char=1407
+19	to	to	PART	TO	_	18	_	_	start_char=1408|end_char=1410
+20	see	see	VERB	VB	VerbForm=Inf	19	_	_	start_char=1411|end_char=1414
+21-22	what's	_	_	_	_	_	_	_	start_char=1415|end_char=1421
+21	what	what	PRON	WP	PronType=Rel	20	_	_	start_char=1415|end_char=1419
+22	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	_	_	start_char=1419|end_char=1421
+23	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	22	_	_	start_char=1422|end_char=1427
+24	on	on	ADP	RP	_	23	_	_	start_char=1428|end_char=1430
+25	inside	inside	ADP	IN	_	24	_	_	start_char=1431|end_char=1437
+26	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	25	_	_	start_char=1438|end_char=1442|SpaceAfter=No
+27	,	,	PUNCT	,	_	26	_	_	start_char=1442|end_char=1443|SpaceAfter=No
+28	"	"	PUNCT	''	_	27	_	_	start_char=1443|end_char=1444
+29	explained	explain	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	_	_	start_char=1445|end_char=1454
+30	Eng.	Eng.	PROPN	NNP	Number=Sing	29	_	_	start_char=1455|end_char=1459
+31	Parov	Parov	PROPN	NNP	Number=Sing	30	_	_	start_char=1460|end_char=1465|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=1465|end_char=1466|SpacesAfter=\n
+
+# text = For the moment, the main factor influencing the temperature is solar activity and the anthropogenic factor - mankind, which produces an enormous amount of carbon dioxide.
+# sent_id = 11
+1	For	for	ADP	IN	_	0	_	_	start_char=1467|end_char=1470
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=1471|end_char=1474
+3	moment	moment	NOUN	NN	Number=Sing	2	_	_	start_char=1475|end_char=1481|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1481|end_char=1482
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1483|end_char=1486
+6	main	main	ADJ	JJ	Degree=Pos	5	_	_	start_char=1487|end_char=1491
+7	factor	factor	NOUN	NN	Number=Sing	6	_	_	start_char=1492|end_char=1498
+8	influencing	influence	VERB	VBG	VerbForm=Ger	7	_	_	start_char=1499|end_char=1510
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1511|end_char=1514
+10	temperature	temperature	NOUN	NN	Number=Sing	9	_	_	start_char=1515|end_char=1526
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=1527|end_char=1529
+12	solar	solar	ADJ	JJ	Degree=Pos	11	_	_	start_char=1530|end_char=1535
+13	activity	activity	NOUN	NN	Number=Sing	12	_	_	start_char=1536|end_char=1544
+14	and	and	CCONJ	CC	_	13	_	_	start_char=1545|end_char=1548
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=1549|end_char=1552
+16	anthropogenic	anthropogenic	ADJ	JJ	Degree=Pos	15	_	_	start_char=1553|end_char=1566
+17	factor	factor	NOUN	NN	Number=Sing	16	_	_	start_char=1567|end_char=1573
+18	-	-	PUNCT	HYPH	_	17	_	_	start_char=1574|end_char=1575
+19	mankind	mankind	NOUN	NN	Number=Sing	18	_	_	start_char=1576|end_char=1583|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=1583|end_char=1584
+21	which	which	PRON	WDT	PronType=Rel	20	_	_	start_char=1585|end_char=1590
+22	produces	produce	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	_	_	start_char=1591|end_char=1599
+23	an	a	DET	DT	Definite=Ind|PronType=Art	22	_	_	start_char=1600|end_char=1602
+24	enormous	enormous	ADJ	JJ	Degree=Pos	23	_	_	start_char=1603|end_char=1611
+25	amount	amount	NOUN	NN	Number=Sing	24	_	_	start_char=1612|end_char=1618
+26	of	of	ADP	IN	_	25	_	_	start_char=1619|end_char=1621
+27	carbon	carbon	NOUN	NN	Number=Sing	26	_	_	start_char=1622|end_char=1628
+28	dioxide	dioxide	NOUN	NN	Number=Sing	27	_	_	start_char=1629|end_char=1636|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=1636|end_char=1637|SpaceAfter=No
+

@@ -1,0 +1,274 @@
+# text = "Absolutely concrete": the West admired Putin's proposal for Ukraine
+# sent_id = 0
+1	"	"	PUNCT	``	_	0	_	_	start_char=0|end_char=1|SpaceAfter=No
+2	Absolutely	absolutely	ADV	RB	_	1	_	_	start_char=1|end_char=11
+3	concrete	concrete	NOUN	NN	Number=Sing	2	_	_	start_char=12|end_char=20|SpaceAfter=No
+4	"	"	PUNCT	''	_	3	_	_	start_char=20|end_char=21|SpaceAfter=No
+5	:	:	PUNCT	:	_	4	_	_	start_char=21|end_char=22
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=23|end_char=26
+7	West	West	PROPN	NNP	Number=Sing	6	_	_	start_char=27|end_char=31
+8	admired	admire	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=32|end_char=39
+9-10	Putin's	_	_	_	_	_	_	_	start_char=40|end_char=47
+9	Putin	Putin	PROPN	NNP	Number=Sing	8	_	_	start_char=40|end_char=45
+10	's	's	PART	POS	_	9	_	_	start_char=45|end_char=47
+11	proposal	proposal	NOUN	NN	Number=Sing	10	_	_	start_char=48|end_char=56
+12	for	for	ADP	IN	_	11	_	_	start_char=57|end_char=60
+13	Ukraine	Ukraine	PROPN	NNP	Number=Sing	12	_	_	start_char=61|end_char=68|SpacesAfter=\n\n
+
+# text = Journalist Keppel: Putin offered a clear plan to end the conflict in Ukraine Russian President Vladimir Putin has offered clear steps to resolve the Ukrainian conflict, Die Weltwoche Editor-in-Chief Roger Keppel reports on his YouTube channel.
+# sent_id = 1
+1	Journalist	journalist	NOUN	NN	Number=Sing	0	_	_	start_char=70|end_char=80
+2	Keppel	Keppel	PROPN	NNP	Number=Sing	1	_	_	start_char=81|end_char=87|SpaceAfter=No
+3	:	:	PUNCT	:	_	2	_	_	start_char=87|end_char=88
+4	Putin	Putin	PROPN	NNP	Number=Sing	3	_	_	start_char=89|end_char=94
+5	offered	offer	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=95|end_char=102
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=103|end_char=104
+7	clear	clear	ADJ	JJ	Degree=Pos	6	_	_	start_char=105|end_char=110
+8	plan	plan	NOUN	NN	Number=Sing	7	_	_	start_char=111|end_char=115
+9	to	to	PART	TO	_	8	_	_	start_char=116|end_char=118
+10	end	end	VERB	VB	VerbForm=Inf	9	_	_	start_char=119|end_char=122
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=123|end_char=126
+12	conflict	conflict	NOUN	NN	Number=Sing	11	_	_	start_char=127|end_char=135
+13	in	in	ADP	IN	_	12	_	_	start_char=136|end_char=138
+14	Ukraine	Ukraine	PROPN	NNP	Number=Sing	13	_	_	start_char=139|end_char=146|SpacesAfter=\n
+15	Russian	Russian	ADJ	JJ	Degree=Pos	14	_	_	start_char=147|end_char=154
+16	President	President	PROPN	NNP	Number=Sing	15	_	_	start_char=155|end_char=164
+17	Vladimir	Vladimir	PROPN	NNP	Number=Sing	16	_	_	start_char=165|end_char=173
+18	Putin	Putin	PROPN	NNP	Number=Sing	17	_	_	start_char=174|end_char=179
+19	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=180|end_char=183
+20	offered	offer	VERB	VBN	Tense=Past|VerbForm=Part	19	_	_	start_char=184|end_char=191
+21	clear	clear	ADJ	JJ	Degree=Pos	20	_	_	start_char=192|end_char=197
+22	steps	step	NOUN	NNS	Number=Plur	21	_	_	start_char=198|end_char=203
+23	to	to	PART	TO	_	22	_	_	start_char=204|end_char=206
+24	resolve	resolve	VERB	VB	VerbForm=Inf	23	_	_	start_char=207|end_char=214
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=215|end_char=218
+26	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	25	_	_	start_char=219|end_char=228
+27	conflict	conflict	NOUN	NN	Number=Sing	26	_	_	start_char=229|end_char=237|SpaceAfter=No
+28	,	,	PUNCT	,	_	27	_	_	start_char=237|end_char=238
+29	Die	Die	PROPN	NNP	Number=Sing	28	_	_	start_char=239|end_char=242
+30	Weltwoche	Weltwoche	PROPN	NNP	Number=Sing	29	_	_	start_char=243|end_char=252
+31	Editor	Editor	PROPN	NNP	Number=Sing	30	_	_	start_char=253|end_char=259|SpaceAfter=No
+32	-	-	PUNCT	HYPH	_	31	_	_	start_char=259|end_char=260|SpaceAfter=No
+33	in	in	ADP	IN	_	32	_	_	start_char=260|end_char=262|SpaceAfter=No
+34	-	-	PUNCT	HYPH	_	33	_	_	start_char=262|end_char=263|SpaceAfter=No
+35	Chief	Chief	PROPN	NNP	Number=Sing	34	_	_	start_char=263|end_char=268
+36	Roger	Roger	PROPN	NNP	Number=Sing	35	_	_	start_char=269|end_char=274
+37	Keppel	Keppel	PROPN	NNP	Number=Sing	36	_	_	start_char=275|end_char=281
+38	reports	report	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	37	_	_	start_char=282|end_char=289
+39	on	on	ADP	IN	_	38	_	_	start_char=290|end_char=292
+40	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	39	_	_	start_char=293|end_char=296
+41	YouTube	YouTube	PROPN	NNP	Number=Sing	40	_	_	start_char=297|end_char=304
+42	channel	channel	NOUN	NN	Number=Sing	41	_	_	start_char=305|end_char=312|SpaceAfter=No
+43	.	.	PUNCT	.	_	42	_	_	start_char=312|end_char=313|SpacesAfter=\n
+
+# text = "This is an absolutely concrete proposal by President Putin that was rejected by the Ukrainian side," he noted.
+# sent_id = 2
+1	"	"	PUNCT	``	_	0	_	_	start_char=314|end_char=315|SpaceAfter=No
+2	This	this	PRON	DT	Number=Sing|PronType=Dem	1	_	_	start_char=315|end_char=319
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=320|end_char=322
+4	an	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=323|end_char=325
+5	absolutely	absolutely	ADV	RB	_	4	_	_	start_char=326|end_char=336
+6	concrete	concrete	ADJ	JJ	Degree=Pos	5	_	_	start_char=337|end_char=345
+7	proposal	proposal	NOUN	NN	Number=Sing	6	_	_	start_char=346|end_char=354
+8	by	by	ADP	IN	_	7	_	_	start_char=355|end_char=357
+9	President	President	PROPN	NNP	Number=Sing	8	_	_	start_char=358|end_char=367
+10	Putin	Putin	PROPN	NNP	Number=Sing	9	_	_	start_char=368|end_char=373
+11	that	that	PRON	WDT	PronType=Rel	10	_	_	start_char=374|end_char=378
+12	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=379|end_char=382
+13	rejected	reject	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	12	_	_	start_char=383|end_char=391
+14	by	by	ADP	IN	_	13	_	_	start_char=392|end_char=394
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=395|end_char=398
+16	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	15	_	_	start_char=399|end_char=408
+17	side	side	NOUN	NN	Number=Sing	16	_	_	start_char=409|end_char=413|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=413|end_char=414|SpaceAfter=No
+19	"	"	PUNCT	''	_	18	_	_	start_char=414|end_char=415
+20	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	_	_	start_char=416|end_char=418
+21	noted	note	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	_	_	start_char=419|end_char=424|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=424|end_char=425|SpacesAfter=\n
+
+# text = Keppel also called the G-7 countries' decision to lend Ukraine $50 billion from blocked Russian assets "theft."
+# sent_id = 3
+1	Keppel	Keppel	PROPN	NNP	Number=Sing	0	_	_	start_char=426|end_char=432
+2	also	also	ADV	RB	_	1	_	_	start_char=433|end_char=437
+3	called	call	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=438|end_char=444
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=445|end_char=448
+5	G	G	PROPN	NNP	Number=Sing	4	_	_	start_char=449|end_char=450|SpaceAfter=No
+6	-	-	PUNCT	HYPH	_	5	_	_	start_char=450|end_char=451|SpaceAfter=No
+7	7	7	NUM	CD	NumForm=Digit|NumType=Card	6	_	_	start_char=451|end_char=452
+8-9	countries'	_	_	_	_	_	_	_	start_char=453|end_char=463
+8	countries	country	NOUN	NNS	Number=Plur	7	_	_	start_char=453|end_char=462
+9	'	's	PART	POS	_	8	_	_	start_char=462|end_char=463
+10	decision	decision	NOUN	NN	Number=Sing	9	_	_	start_char=464|end_char=472
+11	to	to	PART	TO	_	10	_	_	start_char=473|end_char=475
+12	lend	lend	VERB	VB	VerbForm=Inf	11	_	_	start_char=476|end_char=480
+13	Ukraine	Ukraine	PROPN	NNP	Number=Sing	12	_	_	start_char=481|end_char=488
+14	$	$	SYM	$	_	13	_	_	start_char=489|end_char=490|SpaceAfter=No
+15	50	50	NUM	CD	NumForm=Digit|NumType=Card	14	_	_	start_char=490|end_char=492
+16	billion	billion	NUM	CD	NumForm=Word|NumType=Card	15	_	_	start_char=493|end_char=500
+17	from	from	ADP	IN	_	16	_	_	start_char=501|end_char=505
+18	blocked	block	VERB	VBN	Tense=Past|VerbForm=Part	17	_	_	start_char=506|end_char=513
+19	Russian	Russian	ADJ	JJ	Degree=Pos	18	_	_	start_char=514|end_char=521
+20	assets	asset	NOUN	NNS	Number=Plur	19	_	_	start_char=522|end_char=528
+21	"	"	PUNCT	``	_	20	_	_	start_char=529|end_char=530|SpaceAfter=No
+22	theft	theft	NOUN	NN	Number=Sing	21	_	_	start_char=530|end_char=535|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=535|end_char=536|SpaceAfter=No
+24	"	"	PUNCT	''	_	23	_	_	start_char=536|end_char=537
+
+# text = He added that he was skeptical of such an initiative.
+# sent_id = 4
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=538|end_char=540
+2	added	add	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=541|end_char=546
+3	that	that	SCONJ	IN	_	2	_	_	start_char=547|end_char=551
+4	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	_	_	start_char=552|end_char=554
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=555|end_char=558
+6	skeptical	skeptical	ADJ	JJ	Degree=Pos	5	_	_	start_char=559|end_char=568
+7	of	of	ADP	IN	_	6	_	_	start_char=569|end_char=571
+8	such	such	DET	PDT	_	7	_	_	start_char=572|end_char=576
+9	an	a	DET	DT	Definite=Ind|PronType=Art	8	_	_	start_char=577|end_char=579
+10	initiative	initiative	NOUN	NN	Number=Sing	9	_	_	start_char=580|end_char=590|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=590|end_char=591
+
+# text = According to him, this measure will lead to even more serious confrontation.
+# sent_id = 5
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=592|end_char=601
+2	to	to	ADP	IN	_	1	_	_	start_char=602|end_char=604
+3	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	_	_	start_char=605|end_char=608|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=608|end_char=609
+5	this	this	DET	DT	Number=Sing|PronType=Dem	4	_	_	start_char=610|end_char=614
+6	measure	measure	NOUN	NN	Number=Sing	5	_	_	start_char=615|end_char=622
+7	will	will	AUX	MD	VerbForm=Fin	6	_	_	start_char=623|end_char=627
+8	lead	lead	VERB	VB	VerbForm=Inf	7	_	_	start_char=628|end_char=632
+9	to	to	ADP	IN	_	8	_	_	start_char=633|end_char=635
+10	even	even	ADV	RB	_	9	_	_	start_char=636|end_char=640
+11	more	more	ADV	RBR	Degree=Cmp	10	_	_	start_char=641|end_char=645
+12	serious	serious	ADJ	JJ	Degree=Pos	11	_	_	start_char=646|end_char=653
+13	confrontation	confrontation	NOUN	NN	Number=Sing	12	_	_	start_char=654|end_char=667|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=667|end_char=668|SpacesAfter=\n
+
+# text = On Friday, at a meeting with the leadership of the Foreign Ministry, Russian President Vladimir Putin said that for negotiations to begin, Ukraine must withdraw its troops from the entire territory of Russia's new regions - the Donetsk People's Republic, the Lugansk People's Republic and Kherson and Zaporizhzhya regions.
+# sent_id = 6
+1	On	on	ADP	IN	_	0	_	_	start_char=669|end_char=671
+2	Friday	Friday	PROPN	NNP	Number=Sing	1	_	_	start_char=672|end_char=678|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=678|end_char=679
+4	at	at	ADP	IN	_	3	_	_	start_char=680|end_char=682
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=683|end_char=684
+6	meeting	meeting	NOUN	NN	Number=Sing	5	_	_	start_char=685|end_char=692
+7	with	with	ADP	IN	_	6	_	_	start_char=693|end_char=697
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=698|end_char=701
+9	leadership	leadership	NOUN	NN	Number=Sing	8	_	_	start_char=702|end_char=712
+10	of	of	ADP	IN	_	9	_	_	start_char=713|end_char=715
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=716|end_char=719
+12	Foreign	foreign	ADJ	NNP	Degree=Pos	11	_	_	start_char=720|end_char=727
+13	Ministry	Ministry	PROPN	NNP	Number=Sing	12	_	_	start_char=728|end_char=736|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=736|end_char=737
+15	Russian	Russian	ADJ	JJ	Degree=Pos	14	_	_	start_char=738|end_char=745
+16	President	President	PROPN	NNP	Number=Sing	15	_	_	start_char=746|end_char=755
+17	Vladimir	Vladimir	PROPN	NNP	Number=Sing	16	_	_	start_char=756|end_char=764
+18	Putin	Putin	PROPN	NNP	Number=Sing	17	_	_	start_char=765|end_char=770
+19	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	_	_	start_char=771|end_char=775
+20	that	that	SCONJ	IN	_	19	_	_	start_char=776|end_char=780
+21	for	for	ADP	IN	_	20	_	_	start_char=781|end_char=784
+22	negotiations	negotiation	NOUN	NNS	Number=Plur	21	_	_	start_char=785|end_char=797
+23	to	to	PART	TO	_	22	_	_	start_char=798|end_char=800
+24	begin	begin	VERB	VB	VerbForm=Inf	23	_	_	start_char=801|end_char=806|SpaceAfter=No
+25	,	,	PUNCT	,	_	24	_	_	start_char=806|end_char=807
+26	Ukraine	Ukraine	PROPN	NNP	Number=Sing	25	_	_	start_char=808|end_char=815
+27	must	must	AUX	MD	VerbForm=Fin	26	_	_	start_char=816|end_char=820
+28	withdraw	withdraw	VERB	VB	VerbForm=Inf	27	_	_	start_char=821|end_char=829
+29	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	28	_	_	start_char=830|end_char=833
+30	troops	troops	NOUN	NNS	Number=Plur	29	_	_	start_char=834|end_char=840
+31	from	from	ADP	IN	_	30	_	_	start_char=841|end_char=845
+32	the	the	DET	DT	Definite=Def|PronType=Art	31	_	_	start_char=846|end_char=849
+33	entire	entire	ADJ	JJ	Degree=Pos	32	_	_	start_char=850|end_char=856
+34	territory	territory	NOUN	NN	Number=Sing	33	_	_	start_char=857|end_char=866
+35	of	of	ADP	IN	_	34	_	_	start_char=867|end_char=869
+36-37	Russia's	_	_	_	_	_	_	_	start_char=870|end_char=878
+36	Russia	Russia	PROPN	NNP	Number=Sing	35	_	_	start_char=870|end_char=876
+37	's	's	PART	POS	_	36	_	_	start_char=876|end_char=878
+38	new	new	ADJ	JJ	Degree=Pos	37	_	_	start_char=879|end_char=882
+39	regions	region	NOUN	NNS	Number=Plur	38	_	_	start_char=883|end_char=890
+40	-	-	PUNCT	,	_	39	_	_	start_char=891|end_char=892
+41	the	the	DET	DT	Definite=Def|PronType=Art	40	_	_	start_char=893|end_char=896
+42	Donetsk	Donetsk	PROPN	NNP	Number=Sing	41	_	_	start_char=897|end_char=904
+43-44	People's	_	_	_	_	_	_	_	start_char=905|end_char=913
+43	People	People	PROPN	NNP	Number=Sing	42	_	_	start_char=905|end_char=911
+44	's	's	PART	POS	_	43	_	_	start_char=911|end_char=913
+45	Republic	Republic	PROPN	NNP	Number=Sing	44	_	_	start_char=914|end_char=922|SpaceAfter=No
+46	,	,	PUNCT	,	_	45	_	_	start_char=922|end_char=923
+47	the	the	DET	DT	Definite=Def|PronType=Art	46	_	_	start_char=924|end_char=927
+48	Lugansk	Lugansk	PROPN	NNP	Number=Sing	47	_	_	start_char=928|end_char=935
+49-50	People's	_	_	_	_	_	_	_	start_char=936|end_char=944
+49	People	People	PROPN	NNP	Number=Sing	48	_	_	start_char=936|end_char=942
+50	's	's	PART	POS	_	49	_	_	start_char=942|end_char=944
+51	Republic	Republic	PROPN	NNP	Number=Sing	50	_	_	start_char=945|end_char=953
+52	and	and	CCONJ	CC	_	51	_	_	start_char=954|end_char=957
+53	Kherson	Kherson	PROPN	NNP	Number=Sing	52	_	_	start_char=958|end_char=965
+54	and	and	CCONJ	CC	_	53	_	_	start_char=966|end_char=969
+55	Zaporizhzhya	Zaporizhzhya	PROPN	NNP	Number=Sing	54	_	_	start_char=970|end_char=982
+56	regions	region	NOUN	NNS	Number=Plur	55	_	_	start_char=983|end_char=990|SpaceAfter=No
+57	.	.	PUNCT	.	_	56	_	_	start_char=990|end_char=991|SpacesAfter=\n
+
+# text = The head of the Russian state noted that hostilities would cease as soon as Kiev agreed to this condition.
+# sent_id = 7
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=992|end_char=995
+2	head	head	NOUN	NN	Number=Sing	1	_	_	start_char=996|end_char=1000
+3	of	of	ADP	IN	_	2	_	_	start_char=1001|end_char=1003
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1004|end_char=1007
+5	Russian	Russian	ADJ	JJ	Degree=Pos	4	_	_	start_char=1008|end_char=1015
+6	state	state	NOUN	NN	Number=Sing	5	_	_	start_char=1016|end_char=1021
+7	noted	note	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=1022|end_char=1027
+8	that	that	SCONJ	IN	_	7	_	_	start_char=1028|end_char=1032
+9	hostilities	hostility	NOUN	NNS	Number=Plur	8	_	_	start_char=1033|end_char=1044
+10	would	would	AUX	MD	VerbForm=Fin	9	_	_	start_char=1045|end_char=1050
+11	cease	cease	VERB	VB	VerbForm=Inf	10	_	_	start_char=1051|end_char=1056
+12	as	as	ADV	RB	_	11	_	_	start_char=1057|end_char=1059
+13	soon	soon	ADV	RB	Degree=Pos	12	_	_	start_char=1060|end_char=1064
+14	as	as	SCONJ	IN	_	13	_	_	start_char=1065|end_char=1067
+15	Kiev	Kiev	PROPN	NNP	Number=Sing	14	_	_	start_char=1068|end_char=1072
+16	agreed	agree	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	_	_	start_char=1073|end_char=1079
+17	to	to	ADP	IN	_	16	_	_	start_char=1080|end_char=1082
+18	this	this	DET	DT	Number=Sing|PronType=Dem	17	_	_	start_char=1083|end_char=1087
+19	condition	condition	NOUN	NN	Number=Sing	18	_	_	start_char=1088|end_char=1097|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=1097|end_char=1098
+
+# text = Also, according to Russian President Vladimir Putin, Kiev should formally notify that it is abandoning its plans to join NATO - Moscow needs Ukraine's neutral, non-aligned, non-nuclear status for peaceful regulation.
+# sent_id = 8
+1	Also	also	ADV	RB	_	0	_	_	start_char=1099|end_char=1103|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=1103|end_char=1104
+3	according	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	2	_	_	start_char=1105|end_char=1114
+4	to	to	ADP	IN	_	3	_	_	start_char=1115|end_char=1117
+5	Russian	Russian	ADJ	JJ	Degree=Pos	4	_	_	start_char=1118|end_char=1125
+6	President	President	PROPN	NNP	Number=Sing	5	_	_	start_char=1126|end_char=1135
+7	Vladimir	Vladimir	PROPN	NNP	Number=Sing	6	_	_	start_char=1136|end_char=1144
+8	Putin	Putin	PROPN	NNP	Number=Sing	7	_	_	start_char=1145|end_char=1150|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1150|end_char=1151
+10	Kiev	Kiev	PROPN	NNP	Number=Sing	9	_	_	start_char=1152|end_char=1156
+11	should	should	AUX	MD	VerbForm=Fin	10	_	_	start_char=1157|end_char=1163
+12	formally	formally	ADV	RB	_	11	_	_	start_char=1164|end_char=1172
+13	notify	notify	VERB	VB	VerbForm=Inf	12	_	_	start_char=1173|end_char=1179
+14	that	that	SCONJ	IN	_	13	_	_	start_char=1180|end_char=1184
+15	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	_	_	start_char=1185|end_char=1187
+16	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=1188|end_char=1190
+17	abandoning	abandon	VERB	VBG	Tense=Pres|VerbForm=Part	16	_	_	start_char=1191|end_char=1201
+18	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	_	_	start_char=1202|end_char=1205
+19	plans	plan	NOUN	NNS	Number=Plur	18	_	_	start_char=1206|end_char=1211
+20	to	to	PART	TO	_	19	_	_	start_char=1212|end_char=1214
+21	join	join	VERB	VB	VerbForm=Inf	20	_	_	start_char=1215|end_char=1219
+22	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	21	_	_	start_char=1220|end_char=1224
+23	-	-	PUNCT	HYPH	_	22	_	_	start_char=1225|end_char=1226
+24	Moscow	Moscow	PROPN	NNP	Number=Sing	23	_	_	start_char=1227|end_char=1233
+25	needs	need	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	_	_	start_char=1234|end_char=1239
+26-27	Ukraine's	_	_	_	_	_	_	_	start_char=1240|end_char=1249
+26	Ukraine	Ukraine	PROPN	NNP	Number=Sing	25	_	_	start_char=1240|end_char=1247
+27	's	's	PART	POS	_	26	_	_	start_char=1247|end_char=1249
+28	neutral	neutral	ADJ	JJ	Degree=Pos	27	_	_	start_char=1250|end_char=1257|SpaceAfter=No
+29	,	,	PUNCT	,	_	28	_	_	start_char=1257|end_char=1258
+30	non-aligned	non-aligned	ADJ	JJ	Degree=Pos	29	_	_	start_char=1259|end_char=1270|SpaceAfter=No
+31	,	,	PUNCT	,	_	30	_	_	start_char=1270|end_char=1271
+32	non-nuclear	non-nuclear	ADJ	JJ	Degree=Pos	31	_	_	start_char=1272|end_char=1283
+33	status	status	NOUN	NN	Number=Sing	32	_	_	start_char=1284|end_char=1290
+34	for	for	ADP	IN	_	33	_	_	start_char=1291|end_char=1294
+35	peaceful	peaceful	ADJ	JJ	Degree=Pos	34	_	_	start_char=1295|end_char=1303
+36	regulation	regulation	NOUN	NN	Number=Sing	35	_	_	start_char=1304|end_char=1314|SpaceAfter=No
+37	.	.	PUNCT	.	_	36	_	_	start_char=1314|end_char=1315|SpaceAfter=No
+

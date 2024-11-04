@@ -1,0 +1,510 @@
+# text = Russian MoD blamed US for Sevastopol attack and stressed - "these attacks will be answered"
+# sent_id = 0
+1	Russian	Russian	ADJ	JJ	Degree=Pos	0	_	_	start_char=0|end_char=7
+2	MoD	MoD	PROPN	NNP	Number=Sing	1	_	_	start_char=8|end_char=11
+3	blamed	blame	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=12|end_char=18
+4	US	US	PROPN	NNP	Number=Sing	3	_	_	start_char=19|end_char=21
+5	for	for	ADP	IN	_	4	_	_	start_char=22|end_char=25
+6	Sevastopol	Sevastopol	PROPN	NNP	Number=Sing	5	_	_	start_char=26|end_char=36
+7	attack	attack	NOUN	NN	Number=Sing	6	_	_	start_char=37|end_char=43
+8	and	and	CCONJ	CC	_	7	_	_	start_char=44|end_char=47
+9	stressed	stress	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=48|end_char=56
+10	-	-	PUNCT	,	_	9	_	_	start_char=57|end_char=58
+11	"	"	PUNCT	``	_	10	_	_	start_char=59|end_char=60|SpaceAfter=No
+12	these	this	DET	DT	Number=Plur|PronType=Dem	11	_	_	start_char=60|end_char=65
+13	attacks	attack	NOUN	NNS	Number=Plur	12	_	_	start_char=66|end_char=73
+14	will	will	AUX	MD	VerbForm=Fin	13	_	_	start_char=74|end_char=78
+15	be	be	AUX	VB	VerbForm=Inf	14	_	_	start_char=79|end_char=81
+16	answered	answer	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	15	_	_	start_char=82|end_char=90|SpaceAfter=No
+17	"	"	PUNCT	''	_	16	_	_	start_char=90|end_char=91|SpacesAfter=\n\n
+
+# text = Russian Defense Ministry: the United States is responsible for the attack of the Ukrainian armed forces on Sevastopol.
+# sent_id = 1
+1	Russian	Russian	ADJ	NNP	Degree=Pos	0	_	_	start_char=93|end_char=100
+2	Defense	Defense	PROPN	NNP	Number=Sing	1	_	_	start_char=101|end_char=108
+3	Ministry	Ministry	PROPN	NNP	Number=Sing	2	_	_	start_char=109|end_char=117|SpaceAfter=No
+4	:	:	PUNCT	:	_	3	_	_	start_char=117|end_char=118
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=119|end_char=122
+6	United	United	ADJ	NNP	Degree=Pos	5	_	_	start_char=123|end_char=129
+7	States	State	PROPN	NNPS	Number=Plur	6	_	_	start_char=130|end_char=136
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=137|end_char=139
+9	responsible	responsible	ADJ	JJ	Degree=Pos	8	_	_	start_char=140|end_char=151
+10	for	for	ADP	IN	_	9	_	_	start_char=152|end_char=155
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=156|end_char=159
+12	attack	attack	NOUN	NN	Number=Sing	11	_	_	start_char=160|end_char=166
+13	of	of	ADP	IN	_	12	_	_	start_char=167|end_char=169
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=170|end_char=173
+15	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	14	_	_	start_char=174|end_char=183
+16	armed	armed	ADJ	JJ	Degree=Pos	15	_	_	start_char=184|end_char=189
+17	forces	force	NOUN	NNS	Number=Plur	16	_	_	start_char=190|end_char=196
+18	on	on	ADP	IN	_	17	_	_	start_char=197|end_char=199
+19	Sevastopol	Sevastopol	PROPN	NNP	Number=Sing	18	_	_	start_char=200|end_char=210|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=210|end_char=211|SpacesAfter=\n
+
+# text = The Russian Defense Ministry on Sunday, June 23, blamed the United States for the attack on civilians in Sevastopol: all ATACMS missile flights are conducted by American specialists based on their own data.
+# sent_id = 2
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=212|end_char=215
+2	Russian	Russian	ADJ	NNP	Degree=Pos	1	_	_	start_char=216|end_char=223
+3	Defense	Defense	PROPN	NNP	Number=Sing	2	_	_	start_char=224|end_char=231
+4	Ministry	Ministry	PROPN	NNP	Number=Sing	3	_	_	start_char=232|end_char=240
+5	on	on	ADP	IN	_	4	_	_	start_char=241|end_char=243
+6	Sunday	Sunday	PROPN	NNP	Number=Sing	5	_	_	start_char=244|end_char=250|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=250|end_char=251
+8	June	June	PROPN	NNP	Number=Sing	7	_	_	start_char=252|end_char=256
+9	23	23	NUM	CD	NumForm=Digit|NumType=Card	8	_	_	start_char=257|end_char=259|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=259|end_char=260
+11	blamed	blame	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=261|end_char=267
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=268|end_char=271
+13	United	United	ADJ	NNP	Degree=Pos	12	_	_	start_char=272|end_char=278
+14	States	State	PROPN	NNPS	Number=Plur	13	_	_	start_char=279|end_char=285
+15	for	for	ADP	IN	_	14	_	_	start_char=286|end_char=289
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=290|end_char=293
+17	attack	attack	NOUN	NN	Number=Sing	16	_	_	start_char=294|end_char=300
+18	on	on	ADP	IN	_	17	_	_	start_char=301|end_char=303
+19	civilians	civilian	NOUN	NNS	Number=Plur	18	_	_	start_char=304|end_char=313
+20	in	in	ADP	IN	_	19	_	_	start_char=314|end_char=316
+21	Sevastopol	Sevastopol	PROPN	NNP	Number=Sing	20	_	_	start_char=317|end_char=327|SpaceAfter=No
+22	:	:	PUNCT	:	_	21	_	_	start_char=327|end_char=328
+23	all	all	DET	DT	_	22	_	_	start_char=329|end_char=332
+24	ATACMS	ATACMS	PROPN	NNP	Number=Sing	23	_	_	start_char=333|end_char=339
+25	missile	missile	NOUN	NN	Number=Sing	24	_	_	start_char=340|end_char=347
+26	flights	flight	NOUN	NNS	Number=Plur	25	_	_	start_char=348|end_char=355
+27	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	_	_	start_char=356|end_char=359
+28	conducted	conduct	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	27	_	_	start_char=360|end_char=369
+29	by	by	ADP	IN	_	28	_	_	start_char=370|end_char=372
+30	American	American	ADJ	JJ	Degree=Pos	29	_	_	start_char=373|end_char=381
+31	specialists	specialist	NOUN	NNS	Number=Plur	30	_	_	start_char=382|end_char=393
+32	based	base	VERB	VBN	Tense=Past|VerbForm=Part	31	_	_	start_char=394|end_char=399
+33	on	on	ADP	IN	_	32	_	_	start_char=400|end_char=402
+34	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	33	_	_	start_char=403|end_char=408
+35	own	own	ADJ	JJ	Degree=Pos	34	_	_	start_char=409|end_char=412
+36	data	datum	NOUN	NNS	Number=Plur	35	_	_	start_char=413|end_char=417|SpaceAfter=No
+37	.	.	PUNCT	.	_	36	_	_	start_char=417|end_char=418|SpacesAfter=\n
+
+# text = "Today at 12:15, a deliberate terrorist missile strike was carried out on the city of Sevastopol by five US ATACMS operational-tactical missiles equipped with cluster warheads.
+# sent_id = 3
+1	"	"	PUNCT	``	_	0	_	_	start_char=419|end_char=420|SpaceAfter=No
+2	Today	today	NOUN	NN	Number=Sing	1	_	_	start_char=420|end_char=425
+3	at	at	ADP	IN	_	2	_	_	start_char=426|end_char=428
+4	12:15	12:15	NUM	CD	NumForm=Digit|NumType=Card	3	_	_	start_char=429|end_char=434|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=434|end_char=435
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=436|end_char=437
+7	deliberate	deliberate	ADJ	JJ	Degree=Pos	6	_	_	start_char=438|end_char=448
+8	terrorist	terrorist	ADJ	JJ	Degree=Pos	7	_	_	start_char=449|end_char=458
+9	missile	missile	NOUN	NN	Number=Sing	8	_	_	start_char=459|end_char=466
+10	strike	strike	NOUN	NN	Number=Sing	9	_	_	start_char=467|end_char=473
+11	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=474|end_char=477
+12	carried	carry	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	11	_	_	start_char=478|end_char=485
+13	out	out	ADP	RP	_	12	_	_	start_char=486|end_char=489
+14	on	on	ADP	IN	_	13	_	_	start_char=490|end_char=492
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=493|end_char=496
+16	city	city	NOUN	NN	Number=Sing	15	_	_	start_char=497|end_char=501
+17	of	of	ADP	IN	_	16	_	_	start_char=502|end_char=504
+18	Sevastopol	Sevastopol	PROPN	NNP	Number=Sing	17	_	_	start_char=505|end_char=515
+19	by	by	ADP	IN	_	18	_	_	start_char=516|end_char=518
+20	five	five	NUM	CD	NumForm=Word|NumType=Card	19	_	_	start_char=519|end_char=523
+21	US	US	PROPN	NNP	Number=Sing	20	_	_	start_char=524|end_char=526
+22	ATACMS	ATACMS	PROPN	NNP	Number=Sing	21	_	_	start_char=527|end_char=533
+23	operational	operational	ADJ	JJ	Degree=Pos	22	_	_	start_char=534|end_char=545|SpaceAfter=No
+24	-	-	PUNCT	HYPH	_	23	_	_	start_char=545|end_char=546|SpaceAfter=No
+25	tactical	tactical	ADJ	JJ	Degree=Pos	24	_	_	start_char=546|end_char=554
+26	missiles	missile	NOUN	NNS	Number=Plur	25	_	_	start_char=555|end_char=563
+27	equipped	equip	VERB	VBN	Tense=Past|VerbForm=Part	26	_	_	start_char=564|end_char=572
+28	with	with	ADP	IN	_	27	_	_	start_char=573|end_char=577
+29	cluster	cluster	NOUN	NN	Number=Sing	28	_	_	start_char=578|end_char=585
+30	warheads	warhead	NOUN	NNS	Number=Plur	29	_	_	start_char=586|end_char=594|SpaceAfter=No
+31	.	.	PUNCT	.	_	30	_	_	start_char=594|end_char=595
+
+# text = All flights of ATACMS missiles are conducted by US specialists based on US satellite intelligence data," the Russian military said in a statement.
+# sent_id = 4
+1	All	all	DET	DT	_	0	_	_	start_char=596|end_char=599
+2	flights	flight	NOUN	NNS	Number=Plur	1	_	_	start_char=600|end_char=607
+3	of	of	ADP	IN	_	2	_	_	start_char=608|end_char=610
+4	ATACMS	ATACMS	PROPN	NNP	Number=Sing	3	_	_	start_char=611|end_char=617
+5	missiles	missile	NOUN	NNS	Number=Plur	4	_	_	start_char=618|end_char=626
+6	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=627|end_char=630
+7	conducted	conduct	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	_	_	start_char=631|end_char=640
+8	by	by	ADP	IN	_	7	_	_	start_char=641|end_char=643
+9	US	US	PROPN	NNP	Number=Sing	8	_	_	start_char=644|end_char=646
+10	specialists	specialist	NOUN	NNS	Number=Plur	9	_	_	start_char=647|end_char=658
+11	based	base	VERB	VBN	Tense=Past|VerbForm=Part	10	_	_	start_char=659|end_char=664
+12	on	on	ADP	IN	_	11	_	_	start_char=665|end_char=667
+13	US	US	PROPN	NNP	Number=Sing	12	_	_	start_char=668|end_char=670
+14	satellite	satellite	NOUN	NN	Number=Sing	13	_	_	start_char=671|end_char=680
+15	intelligence	intelligence	NOUN	NN	Number=Sing	14	_	_	start_char=681|end_char=693
+16	data	datum	NOUN	NNS	Number=Plur	15	_	_	start_char=694|end_char=698|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=698|end_char=699|SpaceAfter=No
+18	"	"	PUNCT	''	_	17	_	_	start_char=699|end_char=700
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=701|end_char=704
+20	Russian	Russian	ADJ	JJ	Degree=Pos	19	_	_	start_char=705|end_char=712
+21	military	military	NOUN	NN	Number=Sing	20	_	_	start_char=713|end_char=721
+22	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	_	_	start_char=722|end_char=726
+23	in	in	ADP	IN	_	22	_	_	start_char=727|end_char=729
+24	a	a	DET	DT	Definite=Ind|PronType=Art	23	_	_	start_char=730|end_char=731
+25	statement	statement	NOUN	NN	Number=Sing	24	_	_	start_char=732|end_char=741|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=741|end_char=742|SpacesAfter=\n
+
+# text = Therefore, as the Defense Ministry pointed out, the responsibility for the deliberate attack lies primarily with Washington, which transferred these missiles to the Armed Forces of Ukraine (AFU).
+# sent_id = 5
+1	Therefore	therefore	ADV	RB	_	0	_	_	start_char=743|end_char=752|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=752|end_char=753
+3	as	as	SCONJ	IN	_	2	_	_	start_char=754|end_char=756
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=757|end_char=760
+5	Defense	Defense	PROPN	NNP	Number=Sing	4	_	_	start_char=761|end_char=768
+6	Ministry	Ministry	PROPN	NNP	Number=Sing	5	_	_	start_char=769|end_char=777
+7	pointed	point	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=778|end_char=785
+8	out	out	ADP	RP	_	7	_	_	start_char=786|end_char=789|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=789|end_char=790
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=791|end_char=794
+11	responsibility	responsibility	NOUN	NN	Number=Sing	10	_	_	start_char=795|end_char=809
+12	for	for	ADP	IN	_	11	_	_	start_char=810|end_char=813
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=814|end_char=817
+14	deliberate	deliberate	ADJ	JJ	Degree=Pos	13	_	_	start_char=818|end_char=828
+15	attack	attack	NOUN	NN	Number=Sing	14	_	_	start_char=829|end_char=835
+16	lies	lie	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=836|end_char=840
+17	primarily	primarily	ADV	RB	_	16	_	_	start_char=841|end_char=850
+18	with	with	ADP	IN	_	17	_	_	start_char=851|end_char=855
+19	Washington	Washington	PROPN	NNP	Number=Sing	18	_	_	start_char=856|end_char=866|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=866|end_char=867
+21	which	which	PRON	WDT	PronType=Rel	20	_	_	start_char=868|end_char=873
+22	transferred	transfer	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	_	_	start_char=874|end_char=885
+23	these	this	DET	DT	Number=Plur|PronType=Dem	22	_	_	start_char=886|end_char=891
+24	missiles	missile	NOUN	NNS	Number=Plur	23	_	_	start_char=892|end_char=900
+25	to	to	ADP	IN	_	24	_	_	start_char=901|end_char=903
+26	the	the	DET	DT	Definite=Def|PronType=Art	25	_	_	start_char=904|end_char=907
+27	Armed	armed	ADJ	JJ	Degree=Pos	26	_	_	start_char=908|end_char=913
+28	Forces	force	NOUN	NNS	Number=Plur	27	_	_	start_char=914|end_char=920
+29	of	of	ADP	IN	_	28	_	_	start_char=921|end_char=923
+30	Ukraine	Ukraine	PROPN	NNP	Number=Sing	29	_	_	start_char=924|end_char=931
+31	(	(	PUNCT	-LRB-	_	30	_	_	start_char=932|end_char=933|SpaceAfter=No
+32	AFU	AFU	PROPN	NNP	Number=Sing	31	_	_	start_char=933|end_char=936|SpaceAfter=No
+33	)	)	PUNCT	-RRB-	_	32	_	_	start_char=936|end_char=937|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=937|end_char=938
+
+# text = The blame also lies with the Kiev regime, from whose territory the attack was launched.
+# sent_id = 6
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=939|end_char=942
+2	blame	blame	NOUN	NN	Number=Sing	1	_	_	start_char=943|end_char=948
+3	also	also	ADV	RB	_	2	_	_	start_char=949|end_char=953
+4	lies	lie	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=954|end_char=958
+5	with	with	ADP	IN	_	4	_	_	start_char=959|end_char=963
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=964|end_char=967
+7	Kiev	Kiev	PROPN	NNP	Number=Sing	6	_	_	start_char=968|end_char=972
+8	regime	regime	NOUN	NN	Number=Sing	7	_	_	start_char=973|end_char=979|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=979|end_char=980
+10	from	from	ADP	IN	_	9	_	_	start_char=981|end_char=985
+11	whose	whose	PRON	WP$	Poss=Yes|PronType=Rel	10	_	_	start_char=986|end_char=991
+12	territory	territory	NOUN	NN	Number=Sing	11	_	_	start_char=992|end_char=1001
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1002|end_char=1005
+14	attack	attack	NOUN	NN	Number=Sing	13	_	_	start_char=1006|end_char=1012
+15	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=1013|end_char=1016
+16	launched	launch	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	15	_	_	start_char=1017|end_char=1025|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=1025|end_char=1026
+
+# text = The ministry stressed that such attacks would receive a response.
+# sent_id = 7
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1027|end_char=1030
+2	ministry	ministry	NOUN	NN	Number=Sing	1	_	_	start_char=1031|end_char=1039
+3	stressed	stress	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1040|end_char=1048
+4	that	that	SCONJ	IN	_	3	_	_	start_char=1049|end_char=1053
+5	such	such	ADJ	JJ	Degree=Pos	4	_	_	start_char=1054|end_char=1058
+6	attacks	attack	NOUN	NNS	Number=Plur	5	_	_	start_char=1059|end_char=1066
+7	would	would	AUX	MD	VerbForm=Fin	6	_	_	start_char=1067|end_char=1072
+8	receive	receive	VERB	VB	VerbForm=Inf	7	_	_	start_char=1073|end_char=1080
+9	a	a	DET	DT	Definite=Ind|PronType=Art	8	_	_	start_char=1081|end_char=1082
+10	response	response	NOUN	NN	Number=Sing	9	_	_	start_char=1083|end_char=1091|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=1091|end_char=1092|SpacesAfter=\n
+
+# text = The ministry also recalled that Russian air defense systems had shot down four ATACMS missiles, and on the fifth one a fragmentation warhead exploded in the air, resulting in the death of civilians in Sevastopol.
+# sent_id = 8
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1093|end_char=1096
+2	ministry	ministry	NOUN	NN	Number=Sing	1	_	_	start_char=1097|end_char=1105
+3	also	also	ADV	RB	_	2	_	_	start_char=1106|end_char=1110
+4	recalled	recall	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=1111|end_char=1119
+5	that	that	SCONJ	IN	_	4	_	_	start_char=1120|end_char=1124
+6	Russian	Russian	ADJ	JJ	Degree=Pos	5	_	_	start_char=1125|end_char=1132
+7	air	air	NOUN	NN	Number=Sing	6	_	_	start_char=1133|end_char=1136
+8	defense	defense	NOUN	NN	Number=Sing	7	_	_	start_char=1137|end_char=1144
+9	systems	system	NOUN	NNS	Number=Plur	8	_	_	start_char=1145|end_char=1152
+10	had	have	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=1153|end_char=1156
+11	shot	shoot	VERB	VBN	Tense=Past|VerbForm=Part	10	_	_	start_char=1157|end_char=1161
+12	down	down	ADP	RP	_	11	_	_	start_char=1162|end_char=1166
+13	four	four	NUM	CD	NumForm=Word|NumType=Card	12	_	_	start_char=1167|end_char=1171
+14	ATACMS	ATACMS	PROPN	NNP	Number=Sing	13	_	_	start_char=1172|end_char=1178
+15	missiles	missile	NOUN	NNS	Number=Plur	14	_	_	start_char=1179|end_char=1187|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=1187|end_char=1188
+17	and	and	CCONJ	CC	_	16	_	_	start_char=1189|end_char=1192
+18	on	on	ADP	IN	_	17	_	_	start_char=1193|end_char=1195
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=1196|end_char=1199
+20	fifth	fifth	ADJ	JJ	Degree=Pos|NumType=Ord	19	_	_	start_char=1200|end_char=1205
+21	one	one	NOUN	NN	Number=Sing	20	_	_	start_char=1206|end_char=1209
+22	a	a	DET	DT	Definite=Ind|PronType=Art	21	_	_	start_char=1210|end_char=1211
+23	fragmentation	fragmentation	NOUN	NN	Number=Sing	22	_	_	start_char=1212|end_char=1225
+24	warhead	warhead	NOUN	NN	Number=Sing	23	_	_	start_char=1226|end_char=1233
+25	exploded	explode	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	_	_	start_char=1234|end_char=1242
+26	in	in	ADP	IN	_	25	_	_	start_char=1243|end_char=1245
+27	the	the	DET	DT	Definite=Def|PronType=Art	26	_	_	start_char=1246|end_char=1249
+28	air	air	NOUN	NN	Number=Sing	27	_	_	start_char=1250|end_char=1253|SpaceAfter=No
+29	,	,	PUNCT	,	_	28	_	_	start_char=1253|end_char=1254
+30	resulting	result	VERB	VBG	VerbForm=Ger	29	_	_	start_char=1255|end_char=1264
+31	in	in	ADP	IN	_	30	_	_	start_char=1265|end_char=1267
+32	the	the	DET	DT	Definite=Def|PronType=Art	31	_	_	start_char=1268|end_char=1271
+33	death	death	NOUN	NN	Number=Sing	32	_	_	start_char=1272|end_char=1277
+34	of	of	ADP	IN	_	33	_	_	start_char=1278|end_char=1280
+35	civilians	civilian	NOUN	NNS	Number=Plur	34	_	_	start_char=1281|end_char=1290
+36	in	in	ADP	IN	_	35	_	_	start_char=1291|end_char=1293
+37	Sevastopol	Sevastopol	PROPN	NNP	Number=Sing	36	_	_	start_char=1294|end_char=1304|SpaceAfter=No
+38	.	.	PUNCT	.	_	37	_	_	start_char=1304|end_char=1305|SpacesAfter=\n
+
+# text = Earlier in the day, Sevastopol Governor Mikhail Razvozzhayev said Ukrainian forces had launched a missile strike on the city and Russian air defense forces were working to repel it.
+# sent_id = 9
+1	Earlier	early	ADV	RBR	Degree=Cmp	0	_	_	start_char=1306|end_char=1313
+2	in	in	ADP	IN	_	1	_	_	start_char=1314|end_char=1316
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1317|end_char=1320
+4	day	day	NOUN	NN	Number=Sing	3	_	_	start_char=1321|end_char=1324|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=1324|end_char=1325
+6	Sevastopol	Sevastopol	PROPN	NNP	Number=Sing	5	_	_	start_char=1326|end_char=1336
+7	Governor	Governor	PROPN	NNP	Number=Sing	6	_	_	start_char=1337|end_char=1345
+8	Mikhail	Mikhail	PROPN	NNP	Number=Sing	7	_	_	start_char=1346|end_char=1353
+9	Razvozzhayev	Razvozzhayev	PROPN	NNP	Number=Sing	8	_	_	start_char=1354|end_char=1366
+10	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=1367|end_char=1371
+11	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	10	_	_	start_char=1372|end_char=1381
+12	forces	force	NOUN	NNS	Number=Plur	11	_	_	start_char=1382|end_char=1388
+13	had	have	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=1389|end_char=1392
+14	launched	launch	VERB	VBN	Tense=Past|VerbForm=Part	13	_	_	start_char=1393|end_char=1401
+15	a	a	DET	DT	Definite=Ind|PronType=Art	14	_	_	start_char=1402|end_char=1403
+16	missile	missile	NOUN	NN	Number=Sing	15	_	_	start_char=1404|end_char=1411
+17	strike	strike	NOUN	NN	Number=Sing	16	_	_	start_char=1412|end_char=1418
+18	on	on	ADP	IN	_	17	_	_	start_char=1419|end_char=1421
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=1422|end_char=1425
+20	city	city	NOUN	NN	Number=Sing	19	_	_	start_char=1426|end_char=1430
+21	and	and	CCONJ	CC	_	20	_	_	start_char=1431|end_char=1434
+22	Russian	Russian	ADJ	JJ	Degree=Pos	21	_	_	start_char=1435|end_char=1442
+23	air	air	NOUN	NN	Number=Sing	22	_	_	start_char=1443|end_char=1446
+24	defense	defense	NOUN	NN	Number=Sing	23	_	_	start_char=1447|end_char=1454
+25	forces	force	NOUN	NNS	Number=Plur	24	_	_	start_char=1455|end_char=1461
+26	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	25	_	_	start_char=1462|end_char=1466
+27	working	work	VERB	VBG	Tense=Pres|VerbForm=Part	26	_	_	start_char=1467|end_char=1474
+28	to	to	PART	TO	_	27	_	_	start_char=1475|end_char=1477
+29	repel	repel	VERB	VB	VerbForm=Inf	28	_	_	start_char=1478|end_char=1483
+30	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	29	_	_	start_char=1484|end_char=1486|SpaceAfter=No
+31	.	.	PUNCT	.	_	30	_	_	start_char=1486|end_char=1487
+
+# text = Razvozzhayev later said two children and an adult were killed in the strike.
+# sent_id = 10
+1	Razvozzhayev	Razvozzhayev	PROPN	NNP	Number=Sing	0	_	_	start_char=1488|end_char=1500
+2	later	late	ADV	RBR	Degree=Cmp	1	_	_	start_char=1501|end_char=1506
+3	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1507|end_char=1511
+4	two	two	NUM	CD	NumForm=Word|NumType=Card	3	_	_	start_char=1512|end_char=1515
+5	children	child	NOUN	NNS	Number=Plur	4	_	_	start_char=1516|end_char=1524
+6	and	and	CCONJ	CC	_	5	_	_	start_char=1525|end_char=1528
+7	an	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=1529|end_char=1531
+8	adult	adult	NOUN	NN	Number=Sing	7	_	_	start_char=1532|end_char=1537
+9	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=1538|end_char=1542
+10	killed	kill	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	9	_	_	start_char=1543|end_char=1549
+11	in	in	ADP	IN	_	10	_	_	start_char=1550|end_char=1552
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=1553|end_char=1556
+13	strike	strike	NOUN	NN	Number=Sing	12	_	_	start_char=1557|end_char=1563|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=1563|end_char=1564
+
+# text = The Russian Health Ministry clarified that 124 people were injured in the attack, including 27 children.
+# sent_id = 11
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1565|end_char=1568
+2	Russian	Russian	ADJ	NNP	Degree=Pos	1	_	_	start_char=1569|end_char=1576
+3	Health	Health	PROPN	NNP	Number=Sing	2	_	_	start_char=1577|end_char=1583
+4	Ministry	Ministry	PROPN	NNP	Number=Sing	3	_	_	start_char=1584|end_char=1592
+5	clarified	clarify	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=1593|end_char=1602
+6	that	that	SCONJ	IN	_	5	_	_	start_char=1603|end_char=1607
+7	124	124	NUM	CD	NumForm=Digit|NumType=Card	6	_	_	start_char=1608|end_char=1611
+8	people	person	NOUN	NNS	Number=Plur	7	_	_	start_char=1612|end_char=1618
+9	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=1619|end_char=1623
+10	injured	injure	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	9	_	_	start_char=1624|end_char=1631
+11	in	in	ADP	IN	_	10	_	_	start_char=1632|end_char=1634
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=1635|end_char=1638
+13	attack	attack	NOUN	NN	Number=Sing	12	_	_	start_char=1639|end_char=1645|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=1645|end_char=1646
+15	including	include	VERB	VBG	VerbForm=Ger	14	_	_	start_char=1647|end_char=1656
+16	27	27	NUM	CD	NumForm=Digit|NumType=Card	15	_	_	start_char=1657|end_char=1659
+17	children	child	NOUN	NNS	Number=Plur	16	_	_	start_char=1660|end_char=1668|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=1668|end_char=1669
+
+# text = The Investigative Committee (IC) of Russia opened a criminal case under Article 205 of the Criminal Code of the Russian Federation ("Terrorist Act").
+# sent_id = 12
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1670|end_char=1673
+2	Investigative	investigative	ADJ	NNP	Degree=Pos	1	_	_	start_char=1674|end_char=1687
+3	Committee	Committee	PROPN	NNP	Number=Sing	2	_	_	start_char=1688|end_char=1697
+4	(	(	PUNCT	-LRB-	_	3	_	_	start_char=1698|end_char=1699|SpaceAfter=No
+5	IC	IC	PROPN	NNP	Number=Sing	4	_	_	start_char=1699|end_char=1701|SpaceAfter=No
+6	)	)	PUNCT	-RRB-	_	5	_	_	start_char=1701|end_char=1702
+7	of	of	ADP	IN	_	6	_	_	start_char=1703|end_char=1705
+8	Russia	Russia	PROPN	NNP	Number=Sing	7	_	_	start_char=1706|end_char=1712
+9	opened	open	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=1713|end_char=1719
+10	a	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=1720|end_char=1721
+11	criminal	criminal	ADJ	JJ	Degree=Pos	10	_	_	start_char=1722|end_char=1730
+12	case	case	NOUN	NN	Number=Sing	11	_	_	start_char=1731|end_char=1735
+13	under	under	ADP	IN	_	12	_	_	start_char=1736|end_char=1741
+14	Article	article	PROPN	NNP	Number=Sing	13	_	_	start_char=1742|end_char=1749
+15	205	205	NUM	CD	NumForm=Digit|NumType=Card	14	_	_	start_char=1750|end_char=1753
+16	of	of	ADP	IN	_	15	_	_	start_char=1754|end_char=1756
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=1757|end_char=1760
+18	Criminal	criminal	ADJ	NNP	Degree=Pos	17	_	_	start_char=1761|end_char=1769
+19	Code	code	PROPN	NNP	Number=Sing	18	_	_	start_char=1770|end_char=1774
+20	of	of	ADP	IN	_	19	_	_	start_char=1775|end_char=1777
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=1778|end_char=1781
+22	Russian	Russian	ADJ	NNP	Degree=Pos	21	_	_	start_char=1782|end_char=1789
+23	Federation	Federation	PROPN	NNP	Number=Sing	22	_	_	start_char=1790|end_char=1800
+24	(	(	PUNCT	-LRB-	_	23	_	_	start_char=1801|end_char=1802|SpaceAfter=No
+25	"	"	PUNCT	``	_	24	_	_	start_char=1802|end_char=1803|SpaceAfter=No
+26	Terrorist	Terrorist	ADJ	NNP	Degree=Pos	25	_	_	start_char=1803|end_char=1812
+27	Act	Act	PROPN	NNP	Number=Sing	26	_	_	start_char=1813|end_char=1816|SpaceAfter=No
+28	"	"	PUNCT	''	_	27	_	_	start_char=1816|end_char=1817|SpaceAfter=No
+29	)	)	PUNCT	-RRB-	_	28	_	_	start_char=1817|end_char=1818|SpaceAfter=No
+30	.	.	PUNCT	.	_	29	_	_	start_char=1818|end_char=1819|SpacesAfter=\n
+
+# text = The moment of the strike was filmed by an eyewitness; the footage shows holidaymakers rushing to flee the beach after hearing loud sounds from the sky.
+# sent_id = 13
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1820|end_char=1823
+2	moment	moment	NOUN	NN	Number=Sing	1	_	_	start_char=1824|end_char=1830
+3	of	of	ADP	IN	_	2	_	_	start_char=1831|end_char=1833
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1834|end_char=1837
+5	strike	strike	NOUN	NN	Number=Sing	4	_	_	start_char=1838|end_char=1844
+6	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=1845|end_char=1848
+7	filmed	film	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	_	_	start_char=1849|end_char=1855
+8	by	by	ADP	IN	_	7	_	_	start_char=1856|end_char=1858
+9	an	a	DET	DT	Definite=Ind|PronType=Art	8	_	_	start_char=1859|end_char=1861
+10	eyewitness	eyewitness	NOUN	NN	Number=Sing	9	_	_	start_char=1862|end_char=1872|SpaceAfter=No
+11	;	;	PUNCT	:	_	10	_	_	start_char=1872|end_char=1873
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=1874|end_char=1877
+13	footage	footage	NOUN	NN	Number=Sing	12	_	_	start_char=1878|end_char=1885
+14	shows	show	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=1886|end_char=1891
+15	holidaymakers	holidaymaker	NOUN	NNS	Number=Plur	14	_	_	start_char=1892|end_char=1905
+16	rushing	rush	VERB	VBG	VerbForm=Ger	15	_	_	start_char=1906|end_char=1913
+17	to	to	PART	TO	_	16	_	_	start_char=1914|end_char=1916
+18	flee	flee	VERB	VB	VerbForm=Inf	17	_	_	start_char=1917|end_char=1921
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=1922|end_char=1925
+20	beach	beach	NOUN	NN	Number=Sing	19	_	_	start_char=1926|end_char=1931
+21	after	after	SCONJ	IN	_	20	_	_	start_char=1932|end_char=1937
+22	hearing	hear	VERB	VBG	VerbForm=Ger	21	_	_	start_char=1938|end_char=1945
+23	loud	loud	ADJ	JJ	Degree=Pos	22	_	_	start_char=1946|end_char=1950
+24	sounds	sound	NOUN	NNS	Number=Plur	23	_	_	start_char=1951|end_char=1957
+25	from	from	ADP	IN	_	24	_	_	start_char=1958|end_char=1962
+26	the	the	DET	DT	Definite=Def|PronType=Art	25	_	_	start_char=1963|end_char=1966
+27	sky	sky	NOUN	NN	Number=Sing	26	_	_	start_char=1967|end_char=1970|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=1970|end_char=1971|SpacesAfter=\n
+
+# text = Russian Foreign Ministry spokesperson Maria Zakharova called this attack by the Armed Forces of Ukraine a ritual crime, as Ukraine carried it out on Holy Trinity Day.
+# sent_id = 14
+1	Russian	Russian	ADJ	JJ	Degree=Pos	0	_	_	start_char=1972|end_char=1979
+2	Foreign	foreign	ADJ	NNP	Degree=Pos	1	_	_	start_char=1980|end_char=1987
+3	Ministry	Ministry	PROPN	NNP	Number=Sing	2	_	_	start_char=1988|end_char=1996
+4	spokesperson	spokesperson	NOUN	NN	Number=Sing	3	_	_	start_char=1997|end_char=2009
+5	Maria	Maria	PROPN	NNP	Number=Sing	4	_	_	start_char=2010|end_char=2015
+6	Zakharova	Zakharova	PROPN	NNP	Number=Sing	5	_	_	start_char=2016|end_char=2025
+7	called	call	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=2026|end_char=2032
+8	this	this	DET	DT	Number=Sing|PronType=Dem	7	_	_	start_char=2033|end_char=2037
+9	attack	attack	NOUN	NN	Number=Sing	8	_	_	start_char=2038|end_char=2044
+10	by	by	ADP	IN	_	9	_	_	start_char=2045|end_char=2047
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=2048|end_char=2051
+12	Armed	armed	ADJ	NNP	Degree=Pos	11	_	_	start_char=2052|end_char=2057
+13	Forces	Force	PROPN	NNPS	Number=Plur	12	_	_	start_char=2058|end_char=2064
+14	of	of	ADP	IN	_	13	_	_	start_char=2065|end_char=2067
+15	Ukraine	Ukraine	PROPN	NNP	Number=Sing	14	_	_	start_char=2068|end_char=2075
+16	a	a	DET	DT	Definite=Ind|PronType=Art	15	_	_	start_char=2076|end_char=2077
+17	ritual	ritual	NOUN	NN	Number=Sing	16	_	_	start_char=2078|end_char=2084
+18	crime	crime	NOUN	NN	Number=Sing	17	_	_	start_char=2085|end_char=2090|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=2090|end_char=2091
+20	as	as	SCONJ	IN	_	19	_	_	start_char=2092|end_char=2094
+21	Ukraine	Ukraine	PROPN	NNP	Number=Sing	20	_	_	start_char=2095|end_char=2102
+22	carried	carry	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	_	_	start_char=2103|end_char=2110
+23	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	22	_	_	start_char=2111|end_char=2113
+24	out	out	ADP	RP	_	23	_	_	start_char=2114|end_char=2117
+25	on	on	ADP	IN	_	24	_	_	start_char=2118|end_char=2120
+26	Holy	Holy	ADJ	NNP	Degree=Pos	25	_	_	start_char=2121|end_char=2125
+27	Trinity	Trinity	PROPN	NNP	Number=Sing	26	_	_	start_char=2126|end_char=2133
+28	Day	Day	PROPN	NNP	Number=Sing	27	_	_	start_char=2134|end_char=2137|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=2137|end_char=2138
+
+# text = Russia will demand a response to this strike from international organisations, but these, as Zakharova recalled, are engaged by the West.
+# sent_id = 15
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=2139|end_char=2145
+2	will	will	AUX	MD	VerbForm=Fin	1	_	_	start_char=2146|end_char=2150
+3	demand	demand	VERB	VB	VerbForm=Inf	2	_	_	start_char=2151|end_char=2157
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=2158|end_char=2159
+5	response	response	NOUN	NN	Number=Sing	4	_	_	start_char=2160|end_char=2168
+6	to	to	ADP	IN	_	5	_	_	start_char=2169|end_char=2171
+7	this	this	DET	DT	Number=Sing|PronType=Dem	6	_	_	start_char=2172|end_char=2176
+8	strike	strike	NOUN	NN	Number=Sing	7	_	_	start_char=2177|end_char=2183
+9	from	from	ADP	IN	_	8	_	_	start_char=2184|end_char=2188
+10	international	international	ADJ	JJ	Degree=Pos	9	_	_	start_char=2189|end_char=2202
+11	organisations	organisation	NOUN	NNS	Number=Plur	10	_	_	start_char=2203|end_char=2216|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=2216|end_char=2217
+13	but	but	CCONJ	CC	_	12	_	_	start_char=2218|end_char=2221
+14	these	this	PRON	DT	Number=Plur|PronType=Dem	13	_	_	start_char=2222|end_char=2227|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=2227|end_char=2228
+16	as	as	SCONJ	IN	_	15	_	_	start_char=2229|end_char=2231
+17	Zakharova	Zakharova	PROPN	NNP	Number=Sing	16	_	_	start_char=2232|end_char=2241
+18	recalled	recall	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	_	_	start_char=2242|end_char=2250|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=2250|end_char=2251
+20	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	_	_	start_char=2252|end_char=2255
+21	engaged	engage	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	20	_	_	start_char=2256|end_char=2263
+22	by	by	ADP	IN	_	21	_	_	start_char=2264|end_char=2266
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=2267|end_char=2270
+24	West	West	PROPN	NNP	Number=Sing	23	_	_	start_char=2271|end_char=2275|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=2275|end_char=2276|SpacesAfter=\n
+
+# text = Ukrainian militants are trying to strike Russian territories amid a special operation in the Donbass, the start of which was announced on 24 February 2022.
+# sent_id = 16
+1	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	0	_	_	start_char=2277|end_char=2286
+2	militants	militant	NOUN	NNS	Number=Plur	1	_	_	start_char=2287|end_char=2296
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2297|end_char=2300
+4	trying	try	VERB	VBG	Tense=Pres|VerbForm=Part	3	_	_	start_char=2301|end_char=2307
+5	to	to	PART	TO	_	4	_	_	start_char=2308|end_char=2310
+6	strike	strike	VERB	VB	VerbForm=Inf	5	_	_	start_char=2311|end_char=2317
+7	Russian	Russian	ADJ	JJ	Degree=Pos	6	_	_	start_char=2318|end_char=2325
+8	territories	territory	NOUN	NNS	Number=Plur	7	_	_	start_char=2326|end_char=2337
+9	amid	amid	ADP	IN	_	8	_	_	start_char=2338|end_char=2342
+10	a	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=2343|end_char=2344
+11	special	special	ADJ	JJ	Degree=Pos	10	_	_	start_char=2345|end_char=2352
+12	operation	operation	NOUN	NN	Number=Sing	11	_	_	start_char=2353|end_char=2362
+13	in	in	ADP	IN	_	12	_	_	start_char=2363|end_char=2365
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=2366|end_char=2369
+15	Donbass	Donbass	PROPN	NNP	Number=Sing	14	_	_	start_char=2370|end_char=2377|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=2377|end_char=2378
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=2379|end_char=2382
+18	start	start	NOUN	NN	Number=Sing	17	_	_	start_char=2383|end_char=2388
+19	of	of	ADP	IN	_	18	_	_	start_char=2389|end_char=2391
+20	which	which	PRON	WDT	PronType=Rel	19	_	_	start_char=2392|end_char=2397
+21	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	_	_	start_char=2398|end_char=2401
+22	announced	announce	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	21	_	_	start_char=2402|end_char=2411
+23	on	on	ADP	IN	_	22	_	_	start_char=2412|end_char=2414
+24	24	24	NUM	CD	NumForm=Digit|NumType=Card	23	_	_	start_char=2415|end_char=2417
+25	February	February	PROPN	NNP	Number=Sing	24	_	_	start_char=2418|end_char=2426
+26	2022	2022	NUM	CD	NumForm=Digit|NumType=Card	25	_	_	start_char=2427|end_char=2431|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=2431|end_char=2432
+
+# text = The decision was taken due to the aggravation of the situation in the region because of the shelling by the Ukrainian military.
+# sent_id = 17
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2433|end_char=2436
+2	decision	decision	NOUN	NN	Number=Sing	1	_	_	start_char=2437|end_char=2445
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=2446|end_char=2449
+4	taken	take	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=2450|end_char=2455
+5	due	due	ADP	IN	_	4	_	_	start_char=2456|end_char=2459
+6	to	to	ADP	IN	_	5	_	_	start_char=2460|end_char=2462
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=2463|end_char=2466
+8	aggravation	aggravation	NOUN	NN	Number=Sing	7	_	_	start_char=2467|end_char=2478
+9	of	of	ADP	IN	_	8	_	_	start_char=2479|end_char=2481
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=2482|end_char=2485
+11	situation	situation	NOUN	NN	Number=Sing	10	_	_	start_char=2486|end_char=2495
+12	in	in	ADP	IN	_	11	_	_	start_char=2496|end_char=2498
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=2499|end_char=2502
+14	region	region	NOUN	NN	Number=Sing	13	_	_	start_char=2503|end_char=2509
+15	because	because	ADP	IN	_	14	_	_	start_char=2510|end_char=2517
+16	of	of	ADP	IN	_	15	_	_	start_char=2518|end_char=2520
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=2521|end_char=2524
+18	shelling	shelling	NOUN	NN	Number=Sing	17	_	_	start_char=2525|end_char=2533
+19	by	by	ADP	IN	_	18	_	_	start_char=2534|end_char=2536
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=2537|end_char=2540
+21	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	20	_	_	start_char=2541|end_char=2550
+22	military	military	NOUN	NN	Number=Sing	21	_	_	start_char=2551|end_char=2559|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=2559|end_char=2560|SpaceAfter=No
+

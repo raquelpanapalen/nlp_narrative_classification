@@ -1,0 +1,388 @@
+# text = Pentagon: Sevastopol beach was not a target of Ukrainian armed forces
+# sent_id = 0
+1	Pentagon	Pentagon	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=8|SpaceAfter=No
+2	:	:	PUNCT	:	_	1	_	_	start_char=8|end_char=9
+3	Sevastopol	Sevastopol	PROPN	NNP	Number=Sing	2	_	_	start_char=10|end_char=20
+4	beach	beach	NOUN	NN	Number=Sing	3	_	_	start_char=21|end_char=26
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=27|end_char=30
+6	not	not	PART	RB	_	5	_	_	start_char=31|end_char=34
+7	a	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=35|end_char=36
+8	target	target	NOUN	NN	Number=Sing	7	_	_	start_char=37|end_char=43
+9	of	of	ADP	IN	_	8	_	_	start_char=44|end_char=46
+10	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	9	_	_	start_char=47|end_char=56
+11	armed	armed	ADJ	JJ	Degree=Pos	10	_	_	start_char=57|end_char=62
+12	forces	force	NOUN	NNS	Number=Plur	11	_	_	start_char=63|end_char=69|SpacesAfter=\n\n
+
+# text = The Pentagon said the beach in Sevastopol was not the target of a Ukrainian missile strike.
+# sent_id = 1
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=71|end_char=74
+2	Pentagon	Pentagon	PROPN	NNP	Number=Sing	1	_	_	start_char=75|end_char=83
+3	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=84|end_char=88
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=89|end_char=92
+5	beach	beach	NOUN	NN	Number=Sing	4	_	_	start_char=93|end_char=98
+6	in	in	ADP	IN	_	5	_	_	start_char=99|end_char=101
+7	Sevastopol	Sevastopol	PROPN	NNP	Number=Sing	6	_	_	start_char=102|end_char=112
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=113|end_char=116
+9	not	not	PART	RB	_	8	_	_	start_char=117|end_char=120
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=121|end_char=124
+11	target	target	NOUN	NN	Number=Sing	10	_	_	start_char=125|end_char=131
+12	of	of	ADP	IN	_	11	_	_	start_char=132|end_char=134
+13	a	a	DET	DT	Definite=Ind|PronType=Art	12	_	_	start_char=135|end_char=136
+14	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	13	_	_	start_char=137|end_char=146
+15	missile	missile	NOUN	NN	Number=Sing	14	_	_	start_char=147|end_char=154
+16	strike	strike	NOUN	NN	Number=Sing	15	_	_	start_char=155|end_char=161|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=161|end_char=162|SpacesAfter=\n
+
+# text = The beach in Sevastopol was not the target of a missile strike by the Armed Forces of Ukraine (AFU).
+# sent_id = 2
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=163|end_char=166
+2	beach	beach	NOUN	NN	Number=Sing	1	_	_	start_char=167|end_char=172
+3	in	in	ADP	IN	_	2	_	_	start_char=173|end_char=175
+4	Sevastopol	Sevastopol	PROPN	NNP	Number=Sing	3	_	_	start_char=176|end_char=186
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=187|end_char=190
+6	not	not	PART	RB	_	5	_	_	start_char=191|end_char=194
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=195|end_char=198
+8	target	target	NOUN	NN	Number=Sing	7	_	_	start_char=199|end_char=205
+9	of	of	ADP	IN	_	8	_	_	start_char=206|end_char=208
+10	a	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=209|end_char=210
+11	missile	missile	NOUN	NN	Number=Sing	10	_	_	start_char=211|end_char=218
+12	strike	strike	NOUN	NN	Number=Sing	11	_	_	start_char=219|end_char=225
+13	by	by	ADP	IN	_	12	_	_	start_char=226|end_char=228
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=229|end_char=232
+15	Armed	armed	ADJ	NNP	Degree=Pos	14	_	_	start_char=233|end_char=238
+16	Forces	Force	PROPN	NNPS	Number=Plur	15	_	_	start_char=239|end_char=245
+17	of	of	ADP	IN	_	16	_	_	start_char=246|end_char=248
+18	Ukraine	Ukraine	PROPN	NNP	Number=Sing	17	_	_	start_char=249|end_char=256
+19	(	(	PUNCT	-LRB-	_	18	_	_	start_char=257|end_char=258|SpaceAfter=No
+20	AFU	AFU	PROPN	NNP	Number=Sing	19	_	_	start_char=258|end_char=261|SpaceAfter=No
+21	)	)	PUNCT	-RRB-	_	20	_	_	start_char=261|end_char=262|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=262|end_char=263
+
+# text = This was stated by a representative of the Pentagon, reports RIA Novosti .
+# sent_id = 3
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=264|end_char=268
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=269|end_char=272
+3	stated	state	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	_	_	start_char=273|end_char=279
+4	by	by	ADP	IN	_	3	_	_	start_char=280|end_char=282
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=283|end_char=284
+6	representative	representative	NOUN	NN	Number=Sing	5	_	_	start_char=285|end_char=299
+7	of	of	ADP	IN	_	6	_	_	start_char=300|end_char=302
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=303|end_char=306
+9	Pentagon	Pentagon	PROPN	NNP	Number=Sing	8	_	_	start_char=307|end_char=315|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=315|end_char=316
+11	reports	report	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=317|end_char=324
+12	RIA	RIA	PROPN	NNP	Number=Sing	11	_	_	start_char=325|end_char=328
+13	Novosti	Novosti	PROPN	NNP	Number=Sing	12	_	_	start_char=329|end_char=336
+14	.	.	PUNCT	.	_	13	_	_	start_char=337|end_char=338|SpacesAfter=\n
+
+# text = He said that the U.S. Department of Defense assessed that "a Russian anti-aircraft missile intercepted a Ukrainian missile that was traveling to a military target in Crimea, and shrapnel from the intercept fell on the beach, injuring civilians."
+# sent_id = 4
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=339|end_char=341
+2	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=342|end_char=346
+3	that	that	SCONJ	IN	_	2	_	_	start_char=347|end_char=351
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=352|end_char=355
+5	U.S.	U.S.	PROPN	NNP	Number=Sing	4	_	_	start_char=356|end_char=360
+6	Department	Department	PROPN	NNP	Number=Sing	5	_	_	start_char=361|end_char=371
+7	of	of	ADP	IN	_	6	_	_	start_char=372|end_char=374
+8	Defense	Defense	PROPN	NNP	Number=Sing	7	_	_	start_char=375|end_char=382
+9	assessed	assess	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=383|end_char=391
+10	that	that	SCONJ	IN	_	9	_	_	start_char=392|end_char=396
+11	"	"	PUNCT	``	_	10	_	_	start_char=397|end_char=398|SpaceAfter=No
+12	a	a	DET	DT	Definite=Ind|PronType=Art	11	_	_	start_char=398|end_char=399
+13	Russian	Russian	ADJ	JJ	Degree=Pos	12	_	_	start_char=400|end_char=407
+14	anti-aircraft	anti-aircraft	ADJ	JJ	Degree=Pos	13	_	_	start_char=408|end_char=421
+15	missile	missile	NOUN	NN	Number=Sing	14	_	_	start_char=422|end_char=429
+16	intercepted	intercept	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	_	_	start_char=430|end_char=441
+17	a	a	DET	DT	Definite=Ind|PronType=Art	16	_	_	start_char=442|end_char=443
+18	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	17	_	_	start_char=444|end_char=453
+19	missile	missile	NOUN	NN	Number=Sing	18	_	_	start_char=454|end_char=461
+20	that	that	PRON	WDT	PronType=Rel	19	_	_	start_char=462|end_char=466
+21	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	_	_	start_char=467|end_char=470
+22	traveling	travel	VERB	VBG	Tense=Pres|VerbForm=Part	21	_	_	start_char=471|end_char=480
+23	to	to	ADP	IN	_	22	_	_	start_char=481|end_char=483
+24	a	a	DET	DT	Definite=Ind|PronType=Art	23	_	_	start_char=484|end_char=485
+25	military	military	ADJ	JJ	Degree=Pos	24	_	_	start_char=486|end_char=494
+26	target	target	NOUN	NN	Number=Sing	25	_	_	start_char=495|end_char=501
+27	in	in	ADP	IN	_	26	_	_	start_char=502|end_char=504
+28	Crimea	Crimea	PROPN	NNP	Number=Sing	27	_	_	start_char=505|end_char=511|SpaceAfter=No
+29	,	,	PUNCT	,	_	28	_	_	start_char=511|end_char=512
+30	and	and	CCONJ	CC	_	29	_	_	start_char=513|end_char=516
+31	shrapnel	shrapnel	NOUN	NN	Number=Sing	30	_	_	start_char=517|end_char=525
+32	from	from	ADP	IN	_	31	_	_	start_char=526|end_char=530
+33	the	the	DET	DT	Definite=Def|PronType=Art	32	_	_	start_char=531|end_char=534
+34	intercept	intercept	NOUN	NN	Number=Sing	33	_	_	start_char=535|end_char=544
+35	fell	fall	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	34	_	_	start_char=545|end_char=549
+36	on	on	ADP	IN	_	35	_	_	start_char=550|end_char=552
+37	the	the	DET	DT	Definite=Def|PronType=Art	36	_	_	start_char=553|end_char=556
+38	beach	beach	NOUN	NN	Number=Sing	37	_	_	start_char=557|end_char=562|SpaceAfter=No
+39	,	,	PUNCT	,	_	38	_	_	start_char=562|end_char=563
+40	injuring	injure	VERB	VBG	VerbForm=Ger	39	_	_	start_char=564|end_char=572
+41	civilians	civilian	NOUN	NNS	Number=Plur	40	_	_	start_char=573|end_char=582|SpaceAfter=No
+42	.	.	PUNCT	.	_	41	_	_	start_char=582|end_char=583|SpaceAfter=No
+43	"	"	PUNCT	''	_	42	_	_	start_char=583|end_char=584
+
+# text = According to a Pentagon spokesman, Kiev is "independent in its choice of military targets."
+# sent_id = 5
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=585|end_char=594
+2	to	to	ADP	IN	_	1	_	_	start_char=595|end_char=597
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=598|end_char=599
+4	Pentagon	Pentagon	PROPN	NNP	Number=Sing	3	_	_	start_char=600|end_char=608
+5	spokesman	spokesman	NOUN	NN	Number=Sing	4	_	_	start_char=609|end_char=618|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=618|end_char=619
+7	Kiev	Kiev	PROPN	NNP	Number=Sing	6	_	_	start_char=620|end_char=624
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=625|end_char=627
+9	"	"	PUNCT	``	_	8	_	_	start_char=628|end_char=629|SpaceAfter=No
+10	independent	independent	ADJ	JJ	Degree=Pos	9	_	_	start_char=629|end_char=640
+11	in	in	ADP	IN	_	10	_	_	start_char=641|end_char=643
+12	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	_	_	start_char=644|end_char=647
+13	choice	choice	NOUN	NN	Number=Sing	12	_	_	start_char=648|end_char=654
+14	of	of	ADP	IN	_	13	_	_	start_char=655|end_char=657
+15	military	military	ADJ	JJ	Degree=Pos	14	_	_	start_char=658|end_char=666
+16	targets	target	NOUN	NNS	Number=Plur	15	_	_	start_char=667|end_char=674|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=674|end_char=675|SpaceAfter=No
+18	"	"	PUNCT	''	_	17	_	_	start_char=675|end_char=676|SpacesAfter=\n
+
+# text = He also declined to comment on reports that US ATACMS missiles were used in the attack.
+# sent_id = 6
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=677|end_char=679
+2	also	also	ADV	RB	_	1	_	_	start_char=680|end_char=684
+3	declined	decline	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=685|end_char=693
+4	to	to	PART	TO	_	3	_	_	start_char=694|end_char=696
+5	comment	comment	VERB	VB	VerbForm=Inf	4	_	_	start_char=697|end_char=704
+6	on	on	ADP	IN	_	5	_	_	start_char=705|end_char=707
+7	reports	report	NOUN	NNS	Number=Plur	6	_	_	start_char=708|end_char=715
+8	that	that	SCONJ	IN	_	7	_	_	start_char=716|end_char=720
+9	US	US	PROPN	NNP	Number=Sing	8	_	_	start_char=721|end_char=723
+10	ATACMS	ATACMS	PROPN	NNP	Number=Sing	9	_	_	start_char=724|end_char=730
+11	missiles	missile	NOUN	NNS	Number=Plur	10	_	_	start_char=731|end_char=739
+12	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=740|end_char=744
+13	used	use	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	12	_	_	start_char=745|end_char=749
+14	in	in	ADP	IN	_	13	_	_	start_char=750|end_char=752
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=753|end_char=756
+16	attack	attack	NOUN	NN	Number=Sing	15	_	_	start_char=757|end_char=763|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=763|end_char=764|SpacesAfter=\n
+
+# text = On 25 June, the United States expressed condolences over the Ukrainian armed forces' strike on Sevastopol.
+# sent_id = 7
+1	On	on	ADP	IN	_	0	_	_	start_char=765|end_char=767
+2	25	25	NUM	CD	NumForm=Digit|NumType=Card	1	_	_	start_char=768|end_char=770
+3	June	June	PROPN	NNP	Number=Sing	2	_	_	start_char=771|end_char=775|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=775|end_char=776
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=777|end_char=780
+6	United	United	ADJ	NNP	Degree=Pos	5	_	_	start_char=781|end_char=787
+7	States	State	PROPN	NNPS	Number=Plur	6	_	_	start_char=788|end_char=794
+8	expressed	express	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=795|end_char=804
+9	condolences	condolence	NOUN	NNS	Number=Plur	8	_	_	start_char=805|end_char=816
+10	over	over	ADP	IN	_	9	_	_	start_char=817|end_char=821
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=822|end_char=825
+12	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	11	_	_	start_char=826|end_char=835
+13	armed	armed	ADJ	JJ	Degree=Pos	12	_	_	start_char=836|end_char=841
+14-15	forces'	_	_	_	_	_	_	_	start_char=842|end_char=849
+14	forces	force	NOUN	NNS	Number=Plur	13	_	_	start_char=842|end_char=848
+15	'	's	PART	POS	_	14	_	_	start_char=848|end_char=849
+16	strike	strike	NOUN	NN	Number=Sing	15	_	_	start_char=850|end_char=856
+17	on	on	ADP	IN	_	16	_	_	start_char=857|end_char=859
+18	Sevastopol	Sevastopol	PROPN	NNP	Number=Sing	17	_	_	start_char=860|end_char=870|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=870|end_char=871|SpacesAfter=\n
+
+# text = On the same day, retired Swiss General Staff Colonel Jacques Bode said that the attack by Ukrainian forces on Sevastopol once again exposed the lies of the United States, which had previously publicly banned the use of Western weapons transferred to Kiev against civilian targets on Russian territory.
+# sent_id = 8
+1	On	on	ADP	IN	_	0	_	_	start_char=872|end_char=874
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=875|end_char=878
+3	same	same	ADJ	JJ	Degree=Pos	2	_	_	start_char=879|end_char=883
+4	day	day	NOUN	NN	Number=Sing	3	_	_	start_char=884|end_char=887|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=887|end_char=888
+6	retired	retired	ADJ	JJ	Degree=Pos	5	_	_	start_char=889|end_char=896
+7	Swiss	Swiss	ADJ	JJ	Degree=Pos	6	_	_	start_char=897|end_char=902
+8	General	General	PROPN	NNP	Number=Sing	7	_	_	start_char=903|end_char=910
+9	Staff	Staff	PROPN	NNP	Number=Sing	8	_	_	start_char=911|end_char=916
+10	Colonel	Colonel	PROPN	NNP	Number=Sing	9	_	_	start_char=917|end_char=924
+11	Jacques	Jacques	PROPN	NNP	Number=Sing	10	_	_	start_char=925|end_char=932
+12	Bode	Bode	PROPN	NNP	Number=Sing	11	_	_	start_char=933|end_char=937
+13	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=938|end_char=942
+14	that	that	SCONJ	IN	_	13	_	_	start_char=943|end_char=947
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=948|end_char=951
+16	attack	attack	NOUN	NN	Number=Sing	15	_	_	start_char=952|end_char=958
+17	by	by	ADP	IN	_	16	_	_	start_char=959|end_char=961
+18	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	17	_	_	start_char=962|end_char=971
+19	forces	force	NOUN	NNS	Number=Plur	18	_	_	start_char=972|end_char=978
+20	on	on	ADP	IN	_	19	_	_	start_char=979|end_char=981
+21	Sevastopol	Sevastopol	PROPN	NNP	Number=Sing	20	_	_	start_char=982|end_char=992
+22	once	once	ADV	RB	NumType=Mult	21	_	_	start_char=993|end_char=997
+23	again	again	ADV	RB	_	22	_	_	start_char=998|end_char=1003
+24	exposed	expose	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	23	_	_	start_char=1004|end_char=1011
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=1012|end_char=1015
+26	lies	lie	NOUN	NNS	Number=Plur	25	_	_	start_char=1016|end_char=1020
+27	of	of	ADP	IN	_	26	_	_	start_char=1021|end_char=1023
+28	the	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=1024|end_char=1027
+29	United	United	ADJ	NNP	Degree=Pos	28	_	_	start_char=1028|end_char=1034
+30	States	State	PROPN	NNPS	Number=Plur	29	_	_	start_char=1035|end_char=1041|SpaceAfter=No
+31	,	,	PUNCT	,	_	30	_	_	start_char=1041|end_char=1042
+32	which	which	PRON	WDT	PronType=Rel	31	_	_	start_char=1043|end_char=1048
+33	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	32	_	_	start_char=1049|end_char=1052
+34	previously	previously	ADV	RB	_	33	_	_	start_char=1053|end_char=1063
+35	publicly	publicly	ADV	RB	_	34	_	_	start_char=1064|end_char=1072
+36	banned	ban	VERB	VBN	Tense=Past|VerbForm=Part	35	_	_	start_char=1073|end_char=1079
+37	the	the	DET	DT	Definite=Def|PronType=Art	36	_	_	start_char=1080|end_char=1083
+38	use	use	NOUN	NN	Number=Sing	37	_	_	start_char=1084|end_char=1087
+39	of	of	ADP	IN	_	38	_	_	start_char=1088|end_char=1090
+40	Western	western	ADJ	JJ	Degree=Pos	39	_	_	start_char=1091|end_char=1098
+41	weapons	weapon	NOUN	NNS	Number=Plur	40	_	_	start_char=1099|end_char=1106
+42	transferred	transfer	VERB	VBN	Tense=Past|VerbForm=Part	41	_	_	start_char=1107|end_char=1118
+43	to	to	ADP	IN	_	42	_	_	start_char=1119|end_char=1121
+44	Kiev	Kiev	PROPN	NNP	Number=Sing	43	_	_	start_char=1122|end_char=1126
+45	against	against	ADP	IN	_	44	_	_	start_char=1127|end_char=1134
+46	civilian	civilian	ADJ	JJ	Degree=Pos	45	_	_	start_char=1135|end_char=1143
+47	targets	target	NOUN	NNS	Number=Plur	46	_	_	start_char=1144|end_char=1151
+48	on	on	ADP	IN	_	47	_	_	start_char=1152|end_char=1154
+49	Russian	Russian	ADJ	JJ	Degree=Pos	48	_	_	start_char=1155|end_char=1162
+50	territory	territory	NOUN	NN	Number=Sing	49	_	_	start_char=1163|end_char=1172|SpaceAfter=No
+51	.	.	PUNCT	.	_	50	_	_	start_char=1172|end_char=1173|SpacesAfter=\n
+
+# text = On June 23, Ukrainian forces shelled Sevastopol with U.S. ATACMS missiles equipped with cluster warheads.
+# sent_id = 9
+1	On	on	ADP	IN	_	0	_	_	start_char=1174|end_char=1176
+2	June	June	PROPN	NNP	Number=Sing	1	_	_	start_char=1177|end_char=1181
+3	23	23	NUM	CD	NumForm=Digit|NumType=Card	2	_	_	start_char=1182|end_char=1184|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1184|end_char=1185
+5	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	4	_	_	start_char=1186|end_char=1195
+6	forces	force	NOUN	NNS	Number=Plur	5	_	_	start_char=1196|end_char=1202
+7	shelled	shell	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=1203|end_char=1210
+8	Sevastopol	Sevastopol	PROPN	NNP	Number=Sing	7	_	_	start_char=1211|end_char=1221
+9	with	with	ADP	IN	_	8	_	_	start_char=1222|end_char=1226
+10	U.S.	U.S.	PROPN	NNP	Number=Sing	9	_	_	start_char=1227|end_char=1231
+11	ATACMS	ATACMS	PROPN	NNP	Number=Sing	10	_	_	start_char=1232|end_char=1238
+12	missiles	missile	NOUN	NNS	Number=Plur	11	_	_	start_char=1239|end_char=1247
+13	equipped	equip	VERB	VBN	Tense=Past|VerbForm=Part	12	_	_	start_char=1248|end_char=1256
+14	with	with	ADP	IN	_	13	_	_	start_char=1257|end_char=1261
+15	cluster	cluster	NOUN	NN	Number=Sing	14	_	_	start_char=1262|end_char=1269
+16	warheads	warhead	NOUN	NNS	Number=Plur	15	_	_	start_char=1270|end_char=1278|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=1278|end_char=1279
+
+# text = According to the Russian Defense Ministry, the air defense systems shot down four missiles, and one shell exploded in the air over the city.
+# sent_id = 10
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=1280|end_char=1289
+2	to	to	ADP	IN	_	1	_	_	start_char=1290|end_char=1292
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1293|end_char=1296
+4	Russian	Russian	ADJ	NNP	Degree=Pos	3	_	_	start_char=1297|end_char=1304
+5	Defense	Defense	PROPN	NNP	Number=Sing	4	_	_	start_char=1305|end_char=1312
+6	Ministry	Ministry	PROPN	NNP	Number=Sing	5	_	_	start_char=1313|end_char=1321|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=1321|end_char=1322
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=1323|end_char=1326
+9	air	air	NOUN	NN	Number=Sing	8	_	_	start_char=1327|end_char=1330
+10	defense	defense	NOUN	NN	Number=Sing	9	_	_	start_char=1331|end_char=1338
+11	systems	system	NOUN	NNS	Number=Plur	10	_	_	start_char=1339|end_char=1346
+12	shot	shoot	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=1347|end_char=1351
+13	down	down	ADP	RP	_	12	_	_	start_char=1352|end_char=1356
+14	four	four	NUM	CD	NumForm=Word|NumType=Card	13	_	_	start_char=1357|end_char=1361
+15	missiles	missile	NOUN	NNS	Number=Plur	14	_	_	start_char=1362|end_char=1370|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=1370|end_char=1371
+17	and	and	CCONJ	CC	_	16	_	_	start_char=1372|end_char=1375
+18	one	one	NUM	CD	NumForm=Word|NumType=Card	17	_	_	start_char=1376|end_char=1379
+19	shell	shell	NOUN	NN	Number=Sing	18	_	_	start_char=1380|end_char=1385
+20	exploded	explode	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	_	_	start_char=1386|end_char=1394
+21	in	in	ADP	IN	_	20	_	_	start_char=1395|end_char=1397
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=1398|end_char=1401
+23	air	air	NOUN	NN	Number=Sing	22	_	_	start_char=1402|end_char=1405
+24	over	over	ADP	IN	_	23	_	_	start_char=1406|end_char=1410
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=1411|end_char=1414
+26	city	city	NOUN	NN	Number=Sing	25	_	_	start_char=1415|end_char=1419|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=1419|end_char=1420|SpacesAfter=\n
+
+# text = Earlier, the Kremlin named those responsible for the attack on Sevastopol.
+# sent_id = 11
+1	Earlier	early	ADV	RBR	Degree=Cmp	0	_	_	start_char=1421|end_char=1428|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=1428|end_char=1429
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1430|end_char=1433
+4	Kremlin	Kremlin	PROPN	NNP	Number=Sing	3	_	_	start_char=1434|end_char=1441
+5	named	name	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=1442|end_char=1447
+6	those	that	PRON	DT	Number=Plur|PronType=Dem	5	_	_	start_char=1448|end_char=1453
+7	responsible	responsible	ADJ	JJ	Degree=Pos	6	_	_	start_char=1454|end_char=1465
+8	for	for	ADP	IN	_	7	_	_	start_char=1466|end_char=1469
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1470|end_char=1473
+10	attack	attack	NOUN	NN	Number=Sing	9	_	_	start_char=1474|end_char=1480
+11	on	on	ADP	IN	_	10	_	_	start_char=1481|end_char=1483
+12	Sevastopol	Sevastopol	PROPN	NNP	Number=Sing	11	_	_	start_char=1484|end_char=1494|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=1494|end_char=1495|SpacesAfter=\n
+
+# text = "I can't say anything about this We see, on the one hand, an absolutely barbaric attack in Crimea.
+# sent_id = 12
+1	"	"	PUNCT	``	_	0	_	_	start_char=1496|end_char=1497|SpaceAfter=No
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	_	_	start_char=1497|end_char=1498
+3-4	can't	_	_	_	_	_	_	_	start_char=1499|end_char=1504
+3	ca	can	AUX	MD	VerbForm=Fin	2	_	_	start_char=1499|end_char=1501
+4	n't	not	PART	RB	_	3	_	_	start_char=1501|end_char=1504
+5	say	say	VERB	VB	VerbForm=Inf	4	_	_	start_char=1505|end_char=1508
+6	anything	anything	PRON	NN	Number=Sing|PronType=Ind	5	_	_	start_char=1509|end_char=1517
+7	about	about	ADP	IN	_	6	_	_	start_char=1518|end_char=1523
+8	this	this	PRON	DT	Number=Sing|PronType=Dem	7	_	_	start_char=1524|end_char=1528
+9	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	_	_	start_char=1529|end_char=1531
+10	see	see	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	_	_	start_char=1532|end_char=1535|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=1535|end_char=1536
+12	on	on	ADP	IN	_	11	_	_	start_char=1537|end_char=1539
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1540|end_char=1543
+14	one	one	NUM	CD	NumForm=Word|NumType=Card	13	_	_	start_char=1544|end_char=1547
+15	hand	hand	NOUN	NN	Number=Sing	14	_	_	start_char=1548|end_char=1552|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=1552|end_char=1553
+17	an	a	DET	DT	Definite=Ind|PronType=Art	16	_	_	start_char=1554|end_char=1556
+18	absolutely	absolutely	ADV	RB	_	17	_	_	start_char=1557|end_char=1567
+19	barbaric	barbaric	ADJ	JJ	Degree=Pos	18	_	_	start_char=1568|end_char=1576
+20	attack	attack	NOUN	NN	Number=Sing	19	_	_	start_char=1577|end_char=1583
+21	in	in	ADP	IN	_	20	_	_	start_char=1584|end_char=1586
+22	Crimea	Crimea	PROPN	NNP	Number=Sing	21	_	_	start_char=1587|end_char=1593|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=1593|end_char=1594
+
+# text = We understand perfectly well who is behind this.
+# sent_id = 13
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	start_char=1595|end_char=1597
+2	understand	understand	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1598|end_char=1608
+3	perfectly	perfectly	ADV	RB	_	2	_	_	start_char=1609|end_char=1618
+4	well	well	ADV	RB	Degree=Pos	3	_	_	start_char=1619|end_char=1623
+5	who	who	PRON	WP	PronType=Rel	4	_	_	start_char=1624|end_char=1627
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1628|end_char=1630
+7	behind	behind	ADP	IN	_	6	_	_	start_char=1631|end_char=1637
+8	this	this	PRON	DT	Number=Sing|PronType=Dem	7	_	_	start_char=1638|end_char=1642|SpaceAfter=No
+9	.	.	PUNCT	.	_	8	_	_	start_char=1642|end_char=1643
+
+# text = President [of Russia Vladimir Putin] said who is directing these missiles to their targets, who is providing these launches.
+# sent_id = 14
+1	President	President	PROPN	NNP	Number=Sing	0	_	_	start_char=1644|end_char=1653
+2	[	[	PUNCT	-LRB-	_	1	_	_	start_char=1654|end_char=1655|SpaceAfter=No
+3	of	of	ADP	IN	_	2	_	_	start_char=1655|end_char=1657
+4	Russia	Russia	PROPN	NNP	Number=Sing	3	_	_	start_char=1658|end_char=1664
+5	Vladimir	Vladimir	PROPN	NNP	Number=Sing	4	_	_	start_char=1665|end_char=1673
+6	Putin	Putin	PROPN	NNP	Number=Sing	5	_	_	start_char=1674|end_char=1679|SpaceAfter=No
+7	]	]	PUNCT	-RRB-	_	6	_	_	start_char=1679|end_char=1680
+8	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=1681|end_char=1685
+9	who	who	PRON	WP	PronType=Rel	8	_	_	start_char=1686|end_char=1689
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=1690|end_char=1692
+11	directing	direct	VERB	VBG	Tense=Pres|VerbForm=Part	10	_	_	start_char=1693|end_char=1702
+12	these	this	DET	DT	Number=Plur|PronType=Dem	11	_	_	start_char=1703|end_char=1708
+13	missiles	missile	NOUN	NNS	Number=Plur	12	_	_	start_char=1709|end_char=1717
+14	to	to	ADP	IN	_	13	_	_	start_char=1718|end_char=1720
+15	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	14	_	_	start_char=1721|end_char=1726
+16	targets	target	NOUN	NNS	Number=Plur	15	_	_	start_char=1727|end_char=1734|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=1734|end_char=1735
+18	who	who	PRON	WP	PronType=Rel	17	_	_	start_char=1736|end_char=1739
+19	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=1740|end_char=1742
+20	providing	provide	VERB	VBG	Tense=Pres|VerbForm=Part	19	_	_	start_char=1743|end_char=1752
+21	these	this	DET	DT	Number=Plur|PronType=Dem	20	_	_	start_char=1753|end_char=1758
+22	launches	launch	NOUN	NNS	Number=Plur	21	_	_	start_char=1759|end_char=1767|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=1767|end_char=1768
+
+# text = Ask my colleagues in Europe, in Washington," Peskov explained.
+# sent_id = 15
+1	Ask	ask	VERB	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=1769|end_char=1772
+2	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	_	_	start_char=1773|end_char=1775
+3	colleagues	colleague	NOUN	NNS	Number=Plur	2	_	_	start_char=1776|end_char=1786
+4	in	in	ADP	IN	_	3	_	_	start_char=1787|end_char=1789
+5	Europe	Europe	PROPN	NNP	Number=Sing	4	_	_	start_char=1790|end_char=1796|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=1796|end_char=1797
+7	in	in	ADP	IN	_	6	_	_	start_char=1798|end_char=1800
+8	Washington	Washington	PROPN	NNP	Number=Sing	7	_	_	start_char=1801|end_char=1811|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1811|end_char=1812|SpaceAfter=No
+10	"	"	PUNCT	''	_	9	_	_	start_char=1812|end_char=1813
+11	Peskov	Peskov	PROPN	NNP	Number=Sing	10	_	_	start_char=1814|end_char=1820
+12	explained	explain	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=1821|end_char=1830|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=1830|end_char=1831|SpaceAfter=No
+

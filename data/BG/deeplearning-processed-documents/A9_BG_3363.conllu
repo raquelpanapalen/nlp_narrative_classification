@@ -1,0 +1,332 @@
+# text = Sarkozy's adviser: it is not normal to go to war with a nuclear state
+# sent_id = 0
+1-2	Sarkozy's	_	_	_	_	_	_	_	start_char=0|end_char=9
+1	Sarkozy	Sarkozy	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=7
+2	's	's	PART	POS	_	1	_	_	start_char=7|end_char=9
+3	adviser	adviser	NOUN	NN	Number=Sing	2	_	_	start_char=10|end_char=17|SpaceAfter=No
+4	:	:	PUNCT	:	_	3	_	_	start_char=17|end_char=18
+5	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	_	_	start_char=19|end_char=21
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=22|end_char=24
+7	not	not	PART	RB	_	6	_	_	start_char=25|end_char=28
+8	normal	normal	ADJ	JJ	Degree=Pos	7	_	_	start_char=29|end_char=35
+9	to	to	PART	TO	_	8	_	_	start_char=36|end_char=38
+10	go	go	VERB	VB	VerbForm=Inf	9	_	_	start_char=39|end_char=41
+11	to	to	ADP	IN	_	10	_	_	start_char=42|end_char=44
+12	war	war	NOUN	NN	Number=Sing	11	_	_	start_char=45|end_char=48
+13	with	with	ADP	IN	_	12	_	_	start_char=49|end_char=53
+14	a	a	DET	DT	Definite=Ind|PronType=Art	13	_	_	start_char=54|end_char=55
+15	nuclear	nuclear	ADJ	JJ	Degree=Pos	14	_	_	start_char=56|end_char=63
+16	state	state	NOUN	NN	Number=Sing	15	_	_	start_char=64|end_char=69|SpacesAfter=\n\n
+
+# text = The conflict in Ukraine marked the end of the westernisation of the world and the beginning of a new phase when countries that have long been under the heel of the West want to return to the international arena, said former MP and adviser to Nicolas Sarkozy Henri Gounod.
+# sent_id = 1
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=71|end_char=74
+2	conflict	conflict	NOUN	NN	Number=Sing	1	_	_	start_char=75|end_char=83
+3	in	in	ADP	IN	_	2	_	_	start_char=84|end_char=86
+4	Ukraine	Ukraine	PROPN	NNP	Number=Sing	3	_	_	start_char=87|end_char=94
+5	marked	mark	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=95|end_char=101
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=102|end_char=105
+7	end	end	NOUN	NN	Number=Sing	6	_	_	start_char=106|end_char=109
+8	of	of	ADP	IN	_	7	_	_	start_char=110|end_char=112
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=113|end_char=116
+10	westernisation	westernisation	NOUN	NN	Number=Sing	9	_	_	start_char=117|end_char=131
+11	of	of	ADP	IN	_	10	_	_	start_char=132|end_char=134
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=135|end_char=138
+13	world	world	NOUN	NN	Number=Sing	12	_	_	start_char=139|end_char=144
+14	and	and	CCONJ	CC	_	13	_	_	start_char=145|end_char=148
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=149|end_char=152
+16	beginning	beginning	NOUN	NN	Number=Sing	15	_	_	start_char=153|end_char=162
+17	of	of	ADP	IN	_	16	_	_	start_char=163|end_char=165
+18	a	a	DET	DT	Definite=Ind|PronType=Art	17	_	_	start_char=166|end_char=167
+19	new	new	ADJ	JJ	Degree=Pos	18	_	_	start_char=168|end_char=171
+20	phase	phase	NOUN	NN	Number=Sing	19	_	_	start_char=172|end_char=177
+21	when	when	ADV	WRB	PronType=Int	20	_	_	start_char=178|end_char=182
+22	countries	country	NOUN	NNS	Number=Plur	21	_	_	start_char=183|end_char=192
+23	that	that	PRON	WDT	PronType=Rel	22	_	_	start_char=193|end_char=197
+24	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	_	_	start_char=198|end_char=202
+25	long	long	ADV	RB	Degree=Pos	24	_	_	start_char=203|end_char=207
+26	been	be	AUX	VBN	Tense=Past|VerbForm=Part	25	_	_	start_char=208|end_char=212
+27	under	under	ADP	IN	_	26	_	_	start_char=213|end_char=218
+28	the	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=219|end_char=222
+29	heel	heel	NOUN	NN	Number=Sing	28	_	_	start_char=223|end_char=227
+30	of	of	ADP	IN	_	29	_	_	start_char=228|end_char=230
+31	the	the	DET	DT	Definite=Def|PronType=Art	30	_	_	start_char=231|end_char=234
+32	West	West	PROPN	NNP	Number=Sing	31	_	_	start_char=235|end_char=239
+33	want	want	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	32	_	_	start_char=240|end_char=244
+34	to	to	PART	TO	_	33	_	_	start_char=245|end_char=247
+35	return	return	VERB	VB	VerbForm=Inf	34	_	_	start_char=248|end_char=254
+36	to	to	ADP	IN	_	35	_	_	start_char=255|end_char=257
+37	the	the	DET	DT	Definite=Def|PronType=Art	36	_	_	start_char=258|end_char=261
+38	international	international	ADJ	JJ	Degree=Pos	37	_	_	start_char=262|end_char=275
+39	arena	arena	NOUN	NN	Number=Sing	38	_	_	start_char=276|end_char=281|SpaceAfter=No
+40	,	,	PUNCT	,	_	39	_	_	start_char=281|end_char=282
+41	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	40	_	_	start_char=283|end_char=287
+42	former	former	ADJ	JJ	Degree=Pos	41	_	_	start_char=288|end_char=294
+43	MP	mp	NOUN	NN	Number=Sing	42	_	_	start_char=295|end_char=297
+44	and	and	CCONJ	CC	_	43	_	_	start_char=298|end_char=301
+45	adviser	adviser	NOUN	NN	Number=Sing	44	_	_	start_char=302|end_char=309
+46	to	to	ADP	IN	_	45	_	_	start_char=310|end_char=312
+47	Nicolas	Nicolas	PROPN	NNP	Number=Sing	46	_	_	start_char=313|end_char=320
+48	Sarkozy	Sarkozy	PROPN	NNP	Number=Sing	47	_	_	start_char=321|end_char=328
+49	Henri	Henri	PROPN	NNP	Number=Sing	48	_	_	start_char=329|end_char=334
+50	Gounod	Gounod	PROPN	NNP	Number=Sing	49	_	_	start_char=335|end_char=341|SpaceAfter=No
+51	.	.	PUNCT	.	_	50	_	_	start_char=341|end_char=342
+
+# text = On TVL, he expressed doubts about the wisdom and morality of the proxy war being waged by Kiev's allies with Russia, even though it does not directly threaten anyone.
+# sent_id = 2
+1	On	on	ADP	IN	_	0	_	_	start_char=343|end_char=345
+2	TVL	TVL	PROPN	NNP	Number=Sing	1	_	_	start_char=346|end_char=349|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=349|end_char=350
+4	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	_	_	start_char=351|end_char=353
+5	expressed	express	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=354|end_char=363
+6	doubts	doubt	NOUN	NNS	Number=Plur	5	_	_	start_char=364|end_char=370
+7	about	about	ADP	IN	_	6	_	_	start_char=371|end_char=376
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=377|end_char=380
+9	wisdom	wisdom	NOUN	NN	Number=Sing	8	_	_	start_char=381|end_char=387
+10	and	and	CCONJ	CC	_	9	_	_	start_char=388|end_char=391
+11	morality	morality	NOUN	NN	Number=Sing	10	_	_	start_char=392|end_char=400
+12	of	of	ADP	IN	_	11	_	_	start_char=401|end_char=403
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=404|end_char=407
+14	proxy	proxy	NOUN	NN	Number=Sing	13	_	_	start_char=408|end_char=413
+15	war	war	NOUN	NN	Number=Sing	14	_	_	start_char=414|end_char=417
+16	being	be	AUX	VBG	VerbForm=Ger	15	_	_	start_char=418|end_char=423
+17	waged	wage	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	16	_	_	start_char=424|end_char=429
+18	by	by	ADP	IN	_	17	_	_	start_char=430|end_char=432
+19-20	Kiev's	_	_	_	_	_	_	_	start_char=433|end_char=439
+19	Kiev	Kiev	PROPN	NNP	Number=Sing	18	_	_	start_char=433|end_char=437
+20	's	's	PART	POS	_	19	_	_	start_char=437|end_char=439
+21	allies	ally	NOUN	NNS	Number=Plur	20	_	_	start_char=440|end_char=446
+22	with	with	ADP	IN	_	21	_	_	start_char=447|end_char=451
+23	Russia	Russia	PROPN	NNP	Number=Sing	22	_	_	start_char=452|end_char=458|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=458|end_char=459
+25	even	even	ADV	RB	_	24	_	_	start_char=460|end_char=464
+26	though	though	SCONJ	IN	_	25	_	_	start_char=465|end_char=471
+27	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	26	_	_	start_char=472|end_char=474
+28	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	_	_	start_char=475|end_char=479
+29	not	not	PART	RB	_	28	_	_	start_char=480|end_char=483
+30	directly	directly	ADV	RB	_	29	_	_	start_char=484|end_char=492
+31	threaten	threaten	VERB	VB	VerbForm=Inf	30	_	_	start_char=493|end_char=501
+32	anyone	anyone	PRON	NN	Number=Sing|PronType=Ind	31	_	_	start_char=502|end_char=508|SpaceAfter=No
+33	.	.	PUNCT	.	_	32	_	_	start_char=508|end_char=509|SpacesAfter=\n
+
+# text = Henri Gueneau, former MP and adviser to Nicolas Sarkozy:
+# sent_id = 3
+1	Henri	Henri	PROPN	NNP	Number=Sing	0	_	_	start_char=510|end_char=515
+2	Gueneau	Gueneau	PROPN	NNP	Number=Sing	1	_	_	start_char=516|end_char=523|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=523|end_char=524
+4	former	former	ADJ	JJ	Degree=Pos	3	_	_	start_char=525|end_char=531
+5	MP	mp	NOUN	NN	Number=Sing	4	_	_	start_char=532|end_char=534
+6	and	and	CCONJ	CC	_	5	_	_	start_char=535|end_char=538
+7	adviser	adviser	NOUN	NN	Number=Sing	6	_	_	start_char=539|end_char=546
+8	to	to	ADP	IN	_	7	_	_	start_char=547|end_char=549
+9	Nicolas	Nicolas	PROPN	NNP	Number=Sing	8	_	_	start_char=550|end_char=557
+10	Sarkozy	Sarkozy	PROPN	NNP	Number=Sing	9	_	_	start_char=558|end_char=565|SpaceAfter=No
+11	:	:	PUNCT	:	_	10	_	_	start_char=565|end_char=566
+
+# text = What are the consequences for Europe of this war?
+# sent_id = 4
+1	What	what	PRON	WP	PronType=Int	0	_	_	start_char=567|end_char=571
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=572|end_char=575
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=576|end_char=579
+4	consequences	consequence	NOUN	NNS	Number=Plur	3	_	_	start_char=580|end_char=592
+5	for	for	ADP	IN	_	4	_	_	start_char=593|end_char=596
+6	Europe	Europe	PROPN	NNP	Number=Sing	5	_	_	start_char=597|end_char=603
+7	of	of	ADP	IN	_	6	_	_	start_char=604|end_char=606
+8	this	this	DET	DT	Number=Sing|PronType=Dem	7	_	_	start_char=607|end_char=611
+9	war	war	NOUN	NN	Number=Sing	8	_	_	start_char=612|end_char=615|SpaceAfter=No
+10	?	?	PUNCT	.	_	9	_	_	start_char=615|end_char=616
+
+# text = To push Russia into the arms of China - is this a good idea for the West and in particular for Europe, which is the most vulnerable part of the West?
+# sent_id = 5
+1	To	to	PART	TO	_	0	_	_	start_char=617|end_char=619
+2	push	push	VERB	VB	VerbForm=Inf	1	_	_	start_char=620|end_char=624
+3	Russia	Russia	PROPN	NNP	Number=Sing	2	_	_	start_char=625|end_char=631
+4	into	into	ADP	IN	_	3	_	_	start_char=632|end_char=636
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=637|end_char=640
+6	arms	arm	NOUN	NNS	Number=Plur	5	_	_	start_char=641|end_char=645
+7	of	of	ADP	IN	_	6	_	_	start_char=646|end_char=648
+8	China	China	PROPN	NNP	Number=Sing	7	_	_	start_char=649|end_char=654
+9	-	-	PUNCT	,	_	8	_	_	start_char=655|end_char=656
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=657|end_char=659
+11	this	this	PRON	DT	Number=Sing|PronType=Dem	10	_	_	start_char=660|end_char=664
+12	a	a	DET	DT	Definite=Ind|PronType=Art	11	_	_	start_char=665|end_char=666
+13	good	good	ADJ	JJ	Degree=Pos	12	_	_	start_char=667|end_char=671
+14	idea	idea	NOUN	NN	Number=Sing	13	_	_	start_char=672|end_char=676
+15	for	for	ADP	IN	_	14	_	_	start_char=677|end_char=680
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=681|end_char=684
+17	West	West	PROPN	NNP	Number=Sing	16	_	_	start_char=685|end_char=689
+18	and	and	CCONJ	CC	_	17	_	_	start_char=690|end_char=693
+19	in	in	ADP	IN	_	18	_	_	start_char=694|end_char=696
+20	particular	particular	ADJ	JJ	Degree=Pos	19	_	_	start_char=697|end_char=707
+21	for	for	ADP	IN	_	20	_	_	start_char=708|end_char=711
+22	Europe	Europe	PROPN	NNP	Number=Sing	21	_	_	start_char=712|end_char=718|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=718|end_char=719
+24	which	which	PRON	WDT	PronType=Rel	23	_	_	start_char=720|end_char=725
+25	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	_	_	start_char=726|end_char=728
+26	the	the	DET	DT	Definite=Def|PronType=Art	25	_	_	start_char=729|end_char=732
+27	most	most	ADV	RBS	Degree=Sup	26	_	_	start_char=733|end_char=737
+28	vulnerable	vulnerable	ADJ	JJ	Degree=Pos	27	_	_	start_char=738|end_char=748
+29	part	part	NOUN	NN	Number=Sing	28	_	_	start_char=749|end_char=753
+30	of	of	ADP	IN	_	29	_	_	start_char=754|end_char=756
+31	the	the	DET	DT	Definite=Def|PronType=Art	30	_	_	start_char=757|end_char=760
+32	West	West	PROPN	NNP	Number=Sing	31	_	_	start_char=761|end_char=765|SpaceAfter=No
+33	?	?	PUNCT	.	_	32	_	_	start_char=765|end_char=766|SpacesAfter=\n
+
+# text = Is it wise to widen the ever-deeper gap between the West and the rest of the world - we call it the Global South?
+# sent_id = 6
+1	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	start_char=767|end_char=769
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	_	_	start_char=770|end_char=772
+3	wise	wise	ADJ	JJ	Degree=Pos	2	_	_	start_char=773|end_char=777
+4	to	to	PART	TO	_	3	_	_	start_char=778|end_char=780
+5	widen	wide	VERB	VB	VerbForm=Inf	4	_	_	start_char=781|end_char=786
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=787|end_char=790
+7	ever	ever	ADV	RB	_	6	_	_	start_char=791|end_char=795|SpaceAfter=No
+8	-	-	PUNCT	HYPH	_	7	_	_	start_char=795|end_char=796|SpaceAfter=No
+9	deeper	deep	ADJ	JJR	Degree=Cmp	8	_	_	start_char=796|end_char=802
+10	gap	gap	NOUN	NN	Number=Sing	9	_	_	start_char=803|end_char=806
+11	between	between	ADP	IN	_	10	_	_	start_char=807|end_char=814
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=815|end_char=818
+13	West	west	NOUN	NN	Number=Sing	12	_	_	start_char=819|end_char=823
+14	and	and	CCONJ	CC	_	13	_	_	start_char=824|end_char=827
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=828|end_char=831
+16	rest	rest	NOUN	NN	Number=Sing	15	_	_	start_char=832|end_char=836
+17	of	of	ADP	IN	_	16	_	_	start_char=837|end_char=839
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=840|end_char=843
+19	world	world	NOUN	NN	Number=Sing	18	_	_	start_char=844|end_char=849
+20	-	-	PUNCT	,	_	19	_	_	start_char=850|end_char=851
+21	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	20	_	_	start_char=852|end_char=854
+22	call	call	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	21	_	_	start_char=855|end_char=859
+23	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	22	_	_	start_char=860|end_char=862
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=863|end_char=866
+25	Global	Global	ADJ	NNP	Degree=Pos	24	_	_	start_char=867|end_char=873
+26	South	South	PROPN	NNP	Number=Sing	25	_	_	start_char=874|end_char=879|SpaceAfter=No
+27	?	?	PUNCT	.	_	26	_	_	start_char=879|end_char=880|SpacesAfter=\n
+
+# text = Where is the morality of fighting a proxy war?
+# sent_id = 7
+1	Where	where	ADV	WRB	PronType=Int	0	_	_	start_char=881|end_char=886
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=887|end_char=889
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=890|end_char=893
+4	morality	morality	NOUN	NN	Number=Sing	3	_	_	start_char=894|end_char=902
+5	of	of	SCONJ	IN	_	4	_	_	start_char=903|end_char=905
+6	fighting	fight	VERB	VBG	VerbForm=Ger	5	_	_	start_char=906|end_char=914
+7	a	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=915|end_char=916
+8	proxy	proxy	NOUN	NN	Number=Sing	7	_	_	start_char=917|end_char=922
+9	war	war	NOUN	NN	Number=Sing	8	_	_	start_char=923|end_char=926|SpaceAfter=No
+10	?	?	PUNCT	.	_	9	_	_	start_char=926|end_char=927|SpacesAfter=\n
+
+# text = They say it forces Europe to be brave, but is waging a proxy war - is that courage?
+# sent_id = 8
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=928|end_char=932
+2	say	say	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=933|end_char=936
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	_	_	start_char=937|end_char=939
+4	forces	force	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=940|end_char=946
+5	Europe	Europe	PROPN	NNP	Number=Sing	4	_	_	start_char=947|end_char=953
+6	to	to	PART	TO	_	5	_	_	start_char=954|end_char=956
+7	be	be	AUX	VB	VerbForm=Inf	6	_	_	start_char=957|end_char=959
+8	brave	brave	ADJ	JJ	Degree=Pos	7	_	_	start_char=960|end_char=965|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=965|end_char=966
+10	but	but	CCONJ	CC	_	9	_	_	start_char=967|end_char=970
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=971|end_char=973
+12	waging	wage	VERB	VBG	Tense=Pres|VerbForm=Part	11	_	_	start_char=974|end_char=980
+13	a	a	DET	DT	Definite=Ind|PronType=Art	12	_	_	start_char=981|end_char=982
+14	proxy	proxy	NOUN	NN	Number=Sing	13	_	_	start_char=983|end_char=988
+15	war	war	NOUN	NN	Number=Sing	14	_	_	start_char=989|end_char=992
+16	-	-	PUNCT	,	_	15	_	_	start_char=993|end_char=994
+17	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=995|end_char=997
+18	that	that	DET	DT	Number=Sing|PronType=Dem	17	_	_	start_char=998|end_char=1002
+19	courage	courage	NOUN	NN	Number=Sing	18	_	_	start_char=1003|end_char=1010|SpaceAfter=No
+20	?	?	PUNCT	.	_	19	_	_	start_char=1010|end_char=1011|SpacesAfter=\n
+
+# text = Or we are in real danger, and then we have to go to war.
+# sent_id = 9
+1	Or	or	CCONJ	CC	_	0	_	_	start_char=1012|end_char=1014
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	1	_	_	start_char=1015|end_char=1017
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1018|end_char=1021
+4	in	in	ADP	IN	_	3	_	_	start_char=1022|end_char=1024
+5	real	real	ADJ	JJ	Degree=Pos	4	_	_	start_char=1025|end_char=1029
+6	danger	danger	NOUN	NN	Number=Sing	5	_	_	start_char=1030|end_char=1036|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=1036|end_char=1037
+8	and	and	CCONJ	CC	_	7	_	_	start_char=1038|end_char=1041
+9	then	then	ADV	RB	PronType=Dem	8	_	_	start_char=1042|end_char=1046
+10	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	_	_	start_char=1047|end_char=1049
+11	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	_	_	start_char=1050|end_char=1054
+12	to	to	PART	TO	_	11	_	_	start_char=1055|end_char=1057
+13	go	go	VERB	VB	VerbForm=Inf	12	_	_	start_char=1058|end_char=1060
+14	to	to	ADP	IN	_	13	_	_	start_char=1061|end_char=1063
+15	war	war	NOUN	NN	Number=Sing	14	_	_	start_char=1064|end_char=1067|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=1067|end_char=1068|SpacesAfter=\n
+
+# text = But in a war with a nuclear state, one must give the account that it is quite possible that bombs will fly over Paris.
+# sent_id = 10
+1	But	but	CCONJ	CC	_	0	_	_	start_char=1069|end_char=1072
+2	in	in	ADP	IN	_	1	_	_	start_char=1073|end_char=1075
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=1076|end_char=1077
+4	war	war	NOUN	NN	Number=Sing	3	_	_	start_char=1078|end_char=1081
+5	with	with	ADP	IN	_	4	_	_	start_char=1082|end_char=1086
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=1087|end_char=1088
+7	nuclear	nuclear	ADJ	JJ	Degree=Pos	6	_	_	start_char=1089|end_char=1096
+8	state	state	NOUN	NN	Number=Sing	7	_	_	start_char=1097|end_char=1102|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1102|end_char=1103
+10	one	one	PRON	PRP	Number=Sing|Person=3|PronType=Prs	9	_	_	start_char=1104|end_char=1107
+11	must	must	AUX	MD	VerbForm=Fin	10	_	_	start_char=1108|end_char=1112
+12	give	give	VERB	VB	VerbForm=Inf	11	_	_	start_char=1113|end_char=1117
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1118|end_char=1121
+14	account	account	NOUN	NN	Number=Sing	13	_	_	start_char=1122|end_char=1129
+15	that	that	SCONJ	IN	_	14	_	_	start_char=1130|end_char=1134
+16	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	_	_	start_char=1135|end_char=1137
+17	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=1138|end_char=1140
+18	quite	quite	ADV	RB	_	17	_	_	start_char=1141|end_char=1146
+19	possible	possible	ADJ	JJ	Degree=Pos	18	_	_	start_char=1147|end_char=1155
+20	that	that	SCONJ	IN	_	19	_	_	start_char=1156|end_char=1160
+21	bombs	bomb	NOUN	NNS	Number=Plur	20	_	_	start_char=1161|end_char=1166
+22	will	will	AUX	MD	VerbForm=Fin	21	_	_	start_char=1167|end_char=1171
+23	fly	fly	VERB	VB	VerbForm=Inf	22	_	_	start_char=1172|end_char=1175
+24	over	over	ADP	IN	_	23	_	_	start_char=1176|end_char=1180
+25	Paris	Paris	PROPN	NNP	Number=Sing	24	_	_	start_char=1181|end_char=1186|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=1186|end_char=1187|SpacesAfter=\n
+
+# text = Or there is no danger - and there isn't, notwithstanding the very serious problem at the regional level that they must try to contain and contain.
+# sent_id = 11
+1	Or	or	CCONJ	CC	_	0	_	_	start_char=1188|end_char=1190
+2	there	there	PRON	EX	_	1	_	_	start_char=1191|end_char=1196
+3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1197|end_char=1199
+4	no	no	DET	DT	_	3	_	_	start_char=1200|end_char=1202
+5	danger	danger	NOUN	NN	Number=Sing	4	_	_	start_char=1203|end_char=1209
+6	-	-	PUNCT	,	_	5	_	_	start_char=1210|end_char=1211
+7	and	and	CCONJ	CC	_	6	_	_	start_char=1212|end_char=1215
+8	there	there	PRON	EX	_	7	_	_	start_char=1216|end_char=1221
+9-10	isn't	_	_	_	_	_	_	_	start_char=1222|end_char=1227|SpaceAfter=No
+9	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=1222|end_char=1224
+10	n't	not	PART	RB	_	9	_	_	start_char=1224|end_char=1227
+11	,	,	PUNCT	,	_	10	_	_	start_char=1227|end_char=1228
+12	notwithstanding	notwithstand	VERB	VBG	VerbForm=Ger	11	_	_	start_char=1229|end_char=1244
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1245|end_char=1248
+14	very	very	ADV	RB	_	13	_	_	start_char=1249|end_char=1253
+15	serious	serious	ADJ	JJ	Degree=Pos	14	_	_	start_char=1254|end_char=1261
+16	problem	problem	NOUN	NN	Number=Sing	15	_	_	start_char=1262|end_char=1269
+17	at	at	ADP	IN	_	16	_	_	start_char=1270|end_char=1272
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=1273|end_char=1276
+19	regional	regional	ADJ	JJ	Degree=Pos	18	_	_	start_char=1277|end_char=1285
+20	level	level	NOUN	NN	Number=Sing	19	_	_	start_char=1286|end_char=1291
+21	that	that	SCONJ	IN	_	20	_	_	start_char=1292|end_char=1296
+22	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	21	_	_	start_char=1297|end_char=1301
+23	must	must	AUX	MD	VerbForm=Fin	22	_	_	start_char=1302|end_char=1306
+24	try	try	VERB	VB	VerbForm=Inf	23	_	_	start_char=1307|end_char=1310
+25	to	to	PART	TO	_	24	_	_	start_char=1311|end_char=1313
+26	contain	contain	VERB	VB	VerbForm=Inf	25	_	_	start_char=1314|end_char=1321
+27	and	and	CCONJ	CC	_	26	_	_	start_char=1322|end_char=1325
+28	contain	contain	VERB	VB	VerbForm=Inf	27	_	_	start_char=1326|end_char=1333|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=1333|end_char=1334|SpacesAfter=\n
+
+# text = Nobody in Europe is threatened by Russia.
+# sent_id = 12
+1	Nobody	nobody	PRON	NN	Number=Sing|PronType=Neg	0	_	_	start_char=1335|end_char=1341
+2	in	in	ADP	IN	_	1	_	_	start_char=1342|end_char=1344
+3	Europe	Europe	PROPN	NNP	Number=Sing	2	_	_	start_char=1345|end_char=1351
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1352|end_char=1354
+5	threatened	threaten	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	_	_	start_char=1355|end_char=1365
+6	by	by	ADP	IN	_	5	_	_	start_char=1366|end_char=1368
+7	Russia	Russia	PROPN	NNP	Number=Sing	6	_	_	start_char=1369|end_char=1375|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	_	_	start_char=1375|end_char=1376|SpaceAfter=No
+

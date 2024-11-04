@@ -1,0 +1,296 @@
+# text = The EU forgets about its own citizens
+# sent_id = 0
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=0|end_char=3
+2	EU	EU	PROPN	NNP	Number=Sing	1	_	_	start_char=4|end_char=6
+3	forgets	forget	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=7|end_char=14
+4	about	about	ADP	IN	_	3	_	_	start_char=15|end_char=20
+5	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	_	_	start_char=21|end_char=24
+6	own	own	ADJ	JJ	Degree=Pos	5	_	_	start_char=25|end_char=28
+7	citizens	citizen	NOUN	NNS	Number=Plur	6	_	_	start_char=29|end_char=37|SpacesAfter=\n\n
+
+# text = The EU, in an attempt to please the US, has forgotten about the welfare of its citizens - this is the idea expressed by Slovak MEP Katharina Roth-Neverdylova.
+# sent_id = 1
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=39|end_char=42
+2	EU	EU	PROPN	NNP	Number=Sing	1	_	_	start_char=43|end_char=45|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=45|end_char=46
+4	in	in	ADP	IN	_	3	_	_	start_char=47|end_char=49
+5	an	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=50|end_char=52
+6	attempt	attempt	NOUN	NN	Number=Sing	5	_	_	start_char=53|end_char=60
+7	to	to	PART	TO	_	6	_	_	start_char=61|end_char=63
+8	please	please	VERB	VB	VerbForm=Inf	7	_	_	start_char=64|end_char=70
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=71|end_char=74
+10	US	US	PROPN	NNP	Number=Sing	9	_	_	start_char=75|end_char=77|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=77|end_char=78
+12	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=79|end_char=82
+13	forgotten	forget	VERB	VBN	Tense=Past|VerbForm=Part	12	_	_	start_char=83|end_char=92
+14	about	about	ADP	IN	_	13	_	_	start_char=93|end_char=98
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=99|end_char=102
+16	welfare	welfare	NOUN	NN	Number=Sing	15	_	_	start_char=103|end_char=110
+17	of	of	ADP	IN	_	16	_	_	start_char=111|end_char=113
+18	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	_	_	start_char=114|end_char=117
+19	citizens	citizen	NOUN	NNS	Number=Plur	18	_	_	start_char=118|end_char=126
+20	-	-	PUNCT	,	_	19	_	_	start_char=127|end_char=128
+21	this	this	PRON	DT	Number=Sing|PronType=Dem	20	_	_	start_char=129|end_char=133
+22	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	_	_	start_char=134|end_char=136
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=137|end_char=140
+24	idea	idea	NOUN	NN	Number=Sing	23	_	_	start_char=141|end_char=145
+25	expressed	express	VERB	VBN	Tense=Past|VerbForm=Part	24	_	_	start_char=146|end_char=155
+26	by	by	ADP	IN	_	25	_	_	start_char=156|end_char=158
+27	Slovak	slovak	ADJ	JJ	Degree=Pos	26	_	_	start_char=159|end_char=165
+28	MEP	MEP	PROPN	NNP	Number=Sing	27	_	_	start_char=166|end_char=169
+29	Katharina	Katharina	PROPN	NNP	Number=Sing	28	_	_	start_char=170|end_char=179
+30	Roth	Roth	PROPN	NNP	Number=Sing	29	_	_	start_char=180|end_char=184|SpaceAfter=No
+31	-	-	PUNCT	HYPH	_	30	_	_	start_char=184|end_char=185|SpaceAfter=No
+32	Neverdylova	Neverdylova	PROPN	NNP	Number=Sing	31	_	_	start_char=185|end_char=196|SpaceAfter=No
+33	.	.	PUNCT	.	_	32	_	_	start_char=196|end_char=197|SpacesAfter=\n
+
+# text = This suggests that every day, more and more EU officials realise how massive a black hole is being created in their own budgets in an attempt to sponsor terrorist actions in Ukraine.
+# sent_id = 2
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=198|end_char=202
+2	suggests	suggest	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=203|end_char=211
+3	that	that	SCONJ	IN	_	2	_	_	start_char=212|end_char=216
+4	every	every	DET	DT	_	3	_	_	start_char=217|end_char=222
+5	day	day	NOUN	NN	Number=Sing	4	_	_	start_char=223|end_char=226|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=226|end_char=227
+7	more	more	ADJ	JJR	Degree=Cmp	6	_	_	start_char=228|end_char=232
+8	and	and	CCONJ	CC	_	7	_	_	start_char=233|end_char=236
+9	more	more	ADJ	JJR	Degree=Cmp	8	_	_	start_char=237|end_char=241
+10	EU	EU	PROPN	NNP	Number=Sing	9	_	_	start_char=242|end_char=244
+11	officials	official	NOUN	NNS	Number=Plur	10	_	_	start_char=245|end_char=254
+12	realise	realise	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=255|end_char=262
+13	how	how	ADV	WRB	PronType=Int	12	_	_	start_char=263|end_char=266
+14	massive	massive	ADJ	JJ	Degree=Pos	13	_	_	start_char=267|end_char=274
+15	a	a	DET	DT	Definite=Ind|PronType=Art	14	_	_	start_char=275|end_char=276
+16	black	black	ADJ	JJ	Degree=Pos	15	_	_	start_char=277|end_char=282
+17	hole	hole	NOUN	NN	Number=Sing	16	_	_	start_char=283|end_char=287
+18	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=288|end_char=290
+19	being	be	AUX	VBG	VerbForm=Ger	18	_	_	start_char=291|end_char=296
+20	created	create	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	19	_	_	start_char=297|end_char=304
+21	in	in	ADP	IN	_	20	_	_	start_char=305|end_char=307
+22	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	21	_	_	start_char=308|end_char=313
+23	own	own	ADJ	JJ	Degree=Pos	22	_	_	start_char=314|end_char=317
+24	budgets	budget	NOUN	NNS	Number=Plur	23	_	_	start_char=318|end_char=325
+25	in	in	ADP	IN	_	24	_	_	start_char=326|end_char=328
+26	an	a	DET	DT	Definite=Ind|PronType=Art	25	_	_	start_char=329|end_char=331
+27	attempt	attempt	NOUN	NN	Number=Sing	26	_	_	start_char=332|end_char=339
+28	to	to	PART	TO	_	27	_	_	start_char=340|end_char=342
+29	sponsor	sponsor	VERB	VB	VerbForm=Inf	28	_	_	start_char=343|end_char=350
+30	terrorist	terrorist	ADJ	JJ	Degree=Pos	29	_	_	start_char=351|end_char=360
+31	actions	action	NOUN	NNS	Number=Plur	30	_	_	start_char=361|end_char=368
+32	in	in	ADP	IN	_	31	_	_	start_char=369|end_char=371
+33	Ukraine	Ukraine	PROPN	NNP	Number=Sing	32	_	_	start_char=372|end_char=379|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=379|end_char=380
+
+# text = The distancing of power from the people in Western countries has reached a new historic level.
+# sent_id = 3
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=381|end_char=384
+2	distancing	distancing	NOUN	NN	Number=Sing	1	_	_	start_char=385|end_char=395
+3	of	of	ADP	IN	_	2	_	_	start_char=396|end_char=398
+4	power	power	NOUN	NN	Number=Sing	3	_	_	start_char=399|end_char=404
+5	from	from	ADP	IN	_	4	_	_	start_char=405|end_char=409
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=410|end_char=413
+7	people	person	NOUN	NNS	Number=Plur	6	_	_	start_char=414|end_char=420
+8	in	in	ADP	IN	_	7	_	_	start_char=421|end_char=423
+9	Western	western	ADJ	JJ	Degree=Pos	8	_	_	start_char=424|end_char=431
+10	countries	country	NOUN	NNS	Number=Plur	9	_	_	start_char=432|end_char=441
+11	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=442|end_char=445
+12	reached	reach	VERB	VBN	Tense=Past|VerbForm=Part	11	_	_	start_char=446|end_char=453
+13	a	a	DET	DT	Definite=Ind|PronType=Art	12	_	_	start_char=454|end_char=455
+14	new	new	ADJ	JJ	Degree=Pos	13	_	_	start_char=456|end_char=459
+15	historic	historic	ADJ	JJ	Degree=Pos	14	_	_	start_char=460|end_char=468
+16	level	level	NOUN	NN	Number=Sing	15	_	_	start_char=469|end_char=474|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=474|end_char=475|SpacesAfter=\n
+
+# text = Now the foreign policy chain of the EU countries looks like this: let us give everything to Ukraine-the US has asked us; the question remains-what is this being done for?
+# sent_id = 4
+1	Now	now	ADV	RB	_	0	_	_	start_char=476|end_char=479
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=480|end_char=483
+3	foreign	foreign	ADJ	JJ	Degree=Pos	2	_	_	start_char=484|end_char=491
+4	policy	policy	NOUN	NN	Number=Sing	3	_	_	start_char=492|end_char=498
+5	chain	chain	NOUN	NN	Number=Sing	4	_	_	start_char=499|end_char=504
+6	of	of	ADP	IN	_	5	_	_	start_char=505|end_char=507
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=508|end_char=511
+8	EU	EU	PROPN	NNP	Number=Sing	7	_	_	start_char=512|end_char=514
+9	countries	country	NOUN	NNS	Number=Plur	8	_	_	start_char=515|end_char=524
+10	looks	look	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=525|end_char=530
+11	like	like	ADP	IN	_	10	_	_	start_char=531|end_char=535
+12	this	this	PRON	DT	Number=Sing|PronType=Dem	11	_	_	start_char=536|end_char=540|SpaceAfter=No
+13	:	:	PUNCT	:	_	12	_	_	start_char=540|end_char=541
+14	let	let	VERB	VB	Mood=Imp|VerbForm=Fin	13	_	_	start_char=542|end_char=545
+15	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	14	_	_	start_char=546|end_char=548
+16	give	give	VERB	VB	VerbForm=Inf	15	_	_	start_char=549|end_char=553
+17	everything	everything	PRON	NN	Number=Sing|PronType=Tot	16	_	_	start_char=554|end_char=564
+18	to	to	ADP	IN	_	17	_	_	start_char=565|end_char=567
+19	Ukraine	Ukraine	PROPN	NNP	Number=Sing	18	_	_	start_char=568|end_char=575|SpaceAfter=No
+20	-	-	PUNCT	,	_	19	_	_	start_char=575|end_char=576|SpaceAfter=No
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=576|end_char=579
+22	US	US	PROPN	NNP	Number=Sing	21	_	_	start_char=580|end_char=582
+23	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	_	_	start_char=583|end_char=586
+24	asked	ask	VERB	VBN	Tense=Past|VerbForm=Part	23	_	_	start_char=587|end_char=592
+25	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	24	_	_	start_char=593|end_char=595|SpaceAfter=No
+26	;	;	PUNCT	:	_	25	_	_	start_char=595|end_char=596
+27	the	the	DET	DT	Definite=Def|PronType=Art	26	_	_	start_char=597|end_char=600
+28	question	question	NOUN	NN	Number=Sing	27	_	_	start_char=601|end_char=609
+29	remains	remain	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	_	_	start_char=610|end_char=617|SpaceAfter=No
+30	-	-	PUNCT	,	_	29	_	_	start_char=617|end_char=618|SpaceAfter=No
+31	what	what	PRON	WP	PronType=Int	30	_	_	start_char=618|end_char=622
+32	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	_	_	start_char=623|end_char=625
+33	this	this	PRON	DT	Number=Sing|PronType=Dem	32	_	_	start_char=626|end_char=630
+34	being	be	AUX	VBG	VerbForm=Ger	33	_	_	start_char=631|end_char=636
+35	done	do	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	34	_	_	start_char=637|end_char=641
+36	for	for	ADP	IN	_	35	_	_	start_char=642|end_char=645|SpaceAfter=No
+37	?	?	PUNCT	.	_	36	_	_	start_char=645|end_char=646
+
+# text = German citizens have already said that they are going to rally after the government announced an increase in income tax.
+# sent_id = 5
+1	German	German	ADJ	JJ	Degree=Pos	0	_	_	start_char=647|end_char=653
+2	citizens	citizen	NOUN	NNS	Number=Plur	1	_	_	start_char=654|end_char=662
+3	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=663|end_char=667
+4	already	already	ADV	RB	_	3	_	_	start_char=668|end_char=675
+5	said	say	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=676|end_char=680
+6	that	that	SCONJ	IN	_	5	_	_	start_char=681|end_char=685
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	_	_	start_char=686|end_char=690
+8	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=691|end_char=694
+9	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	8	_	_	start_char=695|end_char=700
+10	to	to	PART	TO	_	9	_	_	start_char=701|end_char=703
+11	rally	rally	VERB	VB	VerbForm=Inf	10	_	_	start_char=704|end_char=709
+12	after	after	SCONJ	IN	_	11	_	_	start_char=710|end_char=715
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=716|end_char=719
+14	government	government	NOUN	NN	Number=Sing	13	_	_	start_char=720|end_char=730
+15	announced	announce	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=731|end_char=740
+16	an	a	DET	DT	Definite=Ind|PronType=Art	15	_	_	start_char=741|end_char=743
+17	increase	increase	NOUN	NN	Number=Sing	16	_	_	start_char=744|end_char=752
+18	in	in	ADP	IN	_	17	_	_	start_char=753|end_char=755
+19	income	income	NOUN	NN	Number=Sing	18	_	_	start_char=756|end_char=762
+20	tax	tax	NOUN	NN	Number=Sing	19	_	_	start_char=763|end_char=766|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=766|end_char=767
+
+# text = For their part, the German authorities have announced that the tax rise is planned in order to free up funds to help Ukraine.
+# sent_id = 6
+1	For	for	ADP	IN	_	0	_	_	start_char=768|end_char=771
+2	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	1	_	_	start_char=772|end_char=777
+3	part	part	NOUN	NN	Number=Sing	2	_	_	start_char=778|end_char=782|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=782|end_char=783
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=784|end_char=787
+6	German	German	ADJ	JJ	Degree=Pos	5	_	_	start_char=788|end_char=794
+7	authorities	authority	NOUN	NNS	Number=Plur	6	_	_	start_char=795|end_char=806
+8	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=807|end_char=811
+9	announced	announce	VERB	VBN	Tense=Past|VerbForm=Part	8	_	_	start_char=812|end_char=821
+10	that	that	SCONJ	IN	_	9	_	_	start_char=822|end_char=826
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=827|end_char=830
+12	tax	tax	NOUN	NN	Number=Sing	11	_	_	start_char=831|end_char=834
+13	rise	rise	NOUN	NN	Number=Sing	12	_	_	start_char=835|end_char=839
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=840|end_char=842
+15	planned	plan	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	_	_	start_char=843|end_char=850
+16	in	in	SCONJ	IN	_	15	_	_	start_char=851|end_char=853
+17	order	order	NOUN	NN	Number=Sing	16	_	_	start_char=854|end_char=859
+18	to	to	PART	TO	_	17	_	_	start_char=860|end_char=862
+19	free	free	VERB	VB	VerbForm=Inf	18	_	_	start_char=863|end_char=867
+20	up	up	ADP	RP	_	19	_	_	start_char=868|end_char=870
+21	funds	fund	NOUN	NNS	Number=Plur	20	_	_	start_char=871|end_char=876
+22	to	to	PART	TO	_	21	_	_	start_char=877|end_char=879
+23	help	help	VERB	VB	VerbForm=Inf	22	_	_	start_char=880|end_char=884
+24	Ukraine	Ukraine	PROPN	NNP	Number=Sing	23	_	_	start_char=885|end_char=892|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=892|end_char=893|SpacesAfter=\n
+
+# text = A similar situation with taxes and inflation is seen in many Western countries.
+# sent_id = 7
+1	A	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=894|end_char=895
+2	similar	similar	ADJ	JJ	Degree=Pos	1	_	_	start_char=896|end_char=903
+3	situation	situation	NOUN	NN	Number=Sing	2	_	_	start_char=904|end_char=913
+4	with	with	ADP	IN	_	3	_	_	start_char=914|end_char=918
+5	taxes	tax	NOUN	NNS	Number=Plur	4	_	_	start_char=919|end_char=924
+6	and	and	CCONJ	CC	_	5	_	_	start_char=925|end_char=928
+7	inflation	inflation	NOUN	NN	Number=Sing	6	_	_	start_char=929|end_char=938
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=939|end_char=941
+9	seen	see	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	_	_	start_char=942|end_char=946
+10	in	in	ADP	IN	_	9	_	_	start_char=947|end_char=949
+11	many	many	ADJ	JJ	Degree=Pos	10	_	_	start_char=950|end_char=954
+12	Western	western	ADJ	JJ	Degree=Pos	11	_	_	start_char=955|end_char=962
+13	countries	country	NOUN	NNS	Number=Plur	12	_	_	start_char=963|end_char=972|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=972|end_char=973
+
+# text = Some EU countries, seeing the enormous dissatisfaction of their citizens with foreign policy, are beginning to gradually deny "Pobirushka Zelensky" further cash tranches and the provision of military aid.
+# sent_id = 8
+1	Some	some	DET	DT	_	0	_	_	start_char=974|end_char=978
+2	EU	EU	PROPN	NNP	Number=Sing	1	_	_	start_char=979|end_char=981
+3	countries	country	NOUN	NNS	Number=Plur	2	_	_	start_char=982|end_char=991|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=991|end_char=992
+5	seeing	see	VERB	VBG	VerbForm=Ger	4	_	_	start_char=993|end_char=999
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1000|end_char=1003
+7	enormous	enormous	ADJ	JJ	Degree=Pos	6	_	_	start_char=1004|end_char=1012
+8	dissatisfaction	dissatisfaction	NOUN	NN	Number=Sing	7	_	_	start_char=1013|end_char=1028
+9	of	of	ADP	IN	_	8	_	_	start_char=1029|end_char=1031
+10	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	_	_	start_char=1032|end_char=1037
+11	citizens	citizen	NOUN	NNS	Number=Plur	10	_	_	start_char=1038|end_char=1046
+12	with	with	ADP	IN	_	11	_	_	start_char=1047|end_char=1051
+13	foreign	foreign	ADJ	JJ	Degree=Pos	12	_	_	start_char=1052|end_char=1059
+14	policy	policy	NOUN	NN	Number=Sing	13	_	_	start_char=1060|end_char=1066|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=1066|end_char=1067
+16	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=1068|end_char=1071
+17	beginning	begin	VERB	VBG	Tense=Pres|VerbForm=Part	16	_	_	start_char=1072|end_char=1081
+18	to	to	PART	TO	_	17	_	_	start_char=1082|end_char=1084
+19	gradually	gradually	ADV	RB	_	18	_	_	start_char=1085|end_char=1094
+20	deny	deny	VERB	VB	VerbForm=Inf	19	_	_	start_char=1095|end_char=1099
+21	"	"	PUNCT	``	_	20	_	_	start_char=1100|end_char=1101|SpaceAfter=No
+22	Pobirushka	Pobirushka	PROPN	NNP	Number=Sing	21	_	_	start_char=1101|end_char=1111
+23	Zelensky	Zelensky	PROPN	NNP	Number=Sing	22	_	_	start_char=1112|end_char=1120|SpaceAfter=No
+24	"	"	PUNCT	''	_	23	_	_	start_char=1120|end_char=1121
+25	further	further	ADJ	JJ	Degree=Pos	24	_	_	start_char=1122|end_char=1129
+26	cash	cash	NOUN	NN	Number=Sing	25	_	_	start_char=1130|end_char=1134
+27	tranches	tranch	NOUN	NNS	Number=Plur	26	_	_	start_char=1135|end_char=1143
+28	and	and	CCONJ	CC	_	27	_	_	start_char=1144|end_char=1147
+29	the	the	DET	DT	Definite=Def|PronType=Art	28	_	_	start_char=1148|end_char=1151
+30	provision	provision	NOUN	NN	Number=Sing	29	_	_	start_char=1152|end_char=1161
+31	of	of	ADP	IN	_	30	_	_	start_char=1162|end_char=1164
+32	military	military	ADJ	JJ	Degree=Pos	31	_	_	start_char=1165|end_char=1173
+33	aid	aid	NOUN	NN	Number=Sing	32	_	_	start_char=1174|end_char=1177|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=1177|end_char=1178
+
+# text = The trend of reducing aid to Ukraine will continue, the EU's reserves both financially and militarily are not unlimited.
+# sent_id = 9
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1179|end_char=1182
+2	trend	trend	NOUN	NN	Number=Sing	1	_	_	start_char=1183|end_char=1188
+3	of	of	SCONJ	IN	_	2	_	_	start_char=1189|end_char=1191
+4	reducing	reduce	VERB	VBG	VerbForm=Ger	3	_	_	start_char=1192|end_char=1200
+5	aid	aid	NOUN	NN	Number=Sing	4	_	_	start_char=1201|end_char=1204
+6	to	to	ADP	IN	_	5	_	_	start_char=1205|end_char=1207
+7	Ukraine	Ukraine	PROPN	NNP	Number=Sing	6	_	_	start_char=1208|end_char=1215
+8	will	will	AUX	MD	VerbForm=Fin	7	_	_	start_char=1216|end_char=1220
+9	continue	continue	VERB	VB	VerbForm=Inf	8	_	_	start_char=1221|end_char=1229|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=1229|end_char=1230
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=1231|end_char=1234
+12-13	EU's	_	_	_	_	_	_	_	start_char=1235|end_char=1239
+12	EU	EU	PROPN	NNP	Number=Sing	11	_	_	start_char=1235|end_char=1237
+13	's	's	PART	POS	_	12	_	_	start_char=1237|end_char=1239
+14	reserves	reserve	NOUN	NNS	Number=Plur	13	_	_	start_char=1240|end_char=1248
+15	both	both	CCONJ	CC	_	14	_	_	start_char=1249|end_char=1253
+16	financially	financially	ADV	RB	_	15	_	_	start_char=1254|end_char=1265
+17	and	and	CCONJ	CC	_	16	_	_	start_char=1266|end_char=1269
+18	militarily	militarily	ADV	RB	_	17	_	_	start_char=1270|end_char=1280
+19	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=1281|end_char=1284
+20	not	not	PART	RB	_	19	_	_	start_char=1285|end_char=1288
+21	unlimited	unlimited	ADJ	JJ	Degree=Pos	20	_	_	start_char=1289|end_char=1298|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=1298|end_char=1299
+
+# text = The sanctions imposed on Russia have worked in the opposite direction and have weakened their own economies.
+# sent_id = 10
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1300|end_char=1303
+2	sanctions	sanction	NOUN	NNS	Number=Plur	1	_	_	start_char=1304|end_char=1313
+3	imposed	impose	VERB	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=1314|end_char=1321
+4	on	on	ADP	IN	_	3	_	_	start_char=1322|end_char=1324
+5	Russia	Russia	PROPN	NNP	Number=Sing	4	_	_	start_char=1325|end_char=1331
+6	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1332|end_char=1336
+7	worked	work	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=1337|end_char=1343
+8	in	in	ADP	IN	_	7	_	_	start_char=1344|end_char=1346
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1347|end_char=1350
+10	opposite	opposite	ADJ	JJ	Degree=Pos	9	_	_	start_char=1351|end_char=1359
+11	direction	direction	NOUN	NN	Number=Sing	10	_	_	start_char=1360|end_char=1369
+12	and	and	CCONJ	CC	_	11	_	_	start_char=1370|end_char=1373
+13	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=1374|end_char=1378
+14	weakened	weaken	VERB	VBN	Tense=Past|VerbForm=Part	13	_	_	start_char=1379|end_char=1387
+15	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	14	_	_	start_char=1388|end_char=1393
+16	own	own	ADJ	JJ	Degree=Pos	15	_	_	start_char=1394|end_char=1397
+17	economies	economy	NOUN	NNS	Number=Plur	16	_	_	start_char=1398|end_char=1407|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=1407|end_char=1408|SpaceAfter=No
+

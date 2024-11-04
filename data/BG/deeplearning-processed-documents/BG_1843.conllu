@@ -1,0 +1,276 @@
+# text = Global warming will hit markets hard
+# sent_id = 0
+1	Global	Global	ADJ	JJ	Degree=Pos	0	_	_	start_char=0|end_char=6
+2	warming	warming	NOUN	NN	Number=Sing	1	_	_	start_char=7|end_char=14
+3	will	will	AUX	MD	VerbForm=Fin	2	_	_	start_char=15|end_char=19
+4	hit	hit	VERB	VB	VerbForm=Inf	3	_	_	start_char=20|end_char=23
+5	markets	market	NOUN	NNS	Number=Plur	4	_	_	start_char=24|end_char=31
+6	hard	hard	ADV	RB	Degree=Pos	5	_	_	start_char=32|end_char=36|SpacesAfter=\n\n
+
+# text = According to a study by the EDHEC-Risk Climate Impact Institute, failure to take action to slow the warming of the planet caused by greenhouse gas emissions will reduce global stock valuations by 40%.
+# sent_id = 1
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=38|end_char=47
+2	to	to	ADP	IN	_	1	_	_	start_char=48|end_char=50
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=51|end_char=52
+4	study	study	NOUN	NN	Number=Sing	3	_	_	start_char=53|end_char=58
+5	by	by	ADP	IN	_	4	_	_	start_char=59|end_char=61
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=62|end_char=65
+7	EDHEC	EDHEC	PROPN	NNP	Number=Sing	6	_	_	start_char=66|end_char=71|SpaceAfter=No
+8	-	-	PUNCT	HYPH	_	7	_	_	start_char=71|end_char=72|SpaceAfter=No
+9	Risk	Risk	PROPN	NNP	Number=Sing	8	_	_	start_char=72|end_char=76
+10	Climate	Climate	PROPN	NNP	Number=Sing	9	_	_	start_char=77|end_char=84
+11	Impact	Impact	PROPN	NNP	Number=Sing	10	_	_	start_char=85|end_char=91
+12	Institute	Institute	PROPN	NNP	Number=Sing	11	_	_	start_char=92|end_char=101|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=101|end_char=102
+14	failure	failure	NOUN	NN	Number=Sing	13	_	_	start_char=103|end_char=110
+15	to	to	PART	TO	_	14	_	_	start_char=111|end_char=113
+16	take	take	VERB	VB	VerbForm=Inf	15	_	_	start_char=114|end_char=118
+17	action	action	NOUN	NN	Number=Sing	16	_	_	start_char=119|end_char=125
+18	to	to	PART	TO	_	17	_	_	start_char=126|end_char=128
+19	slow	slow	VERB	VB	VerbForm=Inf	18	_	_	start_char=129|end_char=133
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=134|end_char=137
+21	warming	warming	NOUN	NN	Number=Sing	20	_	_	start_char=138|end_char=145
+22	of	of	ADP	IN	_	21	_	_	start_char=146|end_char=148
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=149|end_char=152
+24	planet	planet	NOUN	NN	Number=Sing	23	_	_	start_char=153|end_char=159
+25	caused	cause	VERB	VBN	Tense=Past|VerbForm=Part	24	_	_	start_char=160|end_char=166
+26	by	by	ADP	IN	_	25	_	_	start_char=167|end_char=169
+27	greenhouse	greenhouse	NOUN	NN	Number=Sing	26	_	_	start_char=170|end_char=180
+28	gas	gas	NOUN	NN	Number=Sing	27	_	_	start_char=181|end_char=184
+29	emissions	emission	NOUN	NNS	Number=Plur	28	_	_	start_char=185|end_char=194
+30	will	will	AUX	MD	VerbForm=Fin	29	_	_	start_char=195|end_char=199
+31	reduce	reduce	VERB	VB	VerbForm=Inf	30	_	_	start_char=200|end_char=206
+32	global	global	ADJ	JJ	Degree=Pos	31	_	_	start_char=207|end_char=213
+33	stock	stock	NOUN	NN	Number=Sing	32	_	_	start_char=214|end_char=219
+34	valuations	valuation	NOUN	NNS	Number=Plur	33	_	_	start_char=220|end_char=230
+35	by	by	ADP	IN	_	34	_	_	start_char=231|end_char=233
+36	40	40	NUM	CD	NumForm=Digit|NumType=Card	35	_	_	start_char=234|end_char=236|SpaceAfter=No
+37	%	%	SYM	NN	Number=Sing	36	_	_	start_char=236|end_char=237|SpaceAfter=No
+38	.	.	PUNCT	.	_	37	_	_	start_char=237|end_char=238|SpacesAfter=\n
+
+# text = Accounting for "tipping points" accelerating climate change, such as the Amazon rainforest dying or large gas emissions, market losses rise to 50%.
+# sent_id = 2
+1	Accounting	accounting	NOUN	NN	Number=Sing	0	_	_	start_char=239|end_char=249
+2	for	for	ADP	IN	_	1	_	_	start_char=250|end_char=253
+3	"	"	PUNCT	``	_	2	_	_	start_char=254|end_char=255|SpaceAfter=No
+4	tipping	tipping	NOUN	NN	Number=Sing	3	_	_	start_char=255|end_char=262
+5	points	point	NOUN	NNS	Number=Plur	4	_	_	start_char=263|end_char=269|SpaceAfter=No
+6	"	"	PUNCT	''	_	5	_	_	start_char=269|end_char=270
+7	accelerating	accelerate	VERB	VBG	VerbForm=Ger	6	_	_	start_char=271|end_char=283
+8	climate	climate	NOUN	NN	Number=Sing	7	_	_	start_char=284|end_char=291
+9	change	change	NOUN	NN	Number=Sing	8	_	_	start_char=292|end_char=298|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=298|end_char=299
+11	such	such	ADJ	JJ	Degree=Pos	10	_	_	start_char=300|end_char=304
+12	as	as	ADP	IN	_	11	_	_	start_char=305|end_char=307
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=308|end_char=311
+14	Amazon	Amazon	PROPN	NNP	Number=Sing	13	_	_	start_char=312|end_char=318
+15	rainforest	rainforest	NOUN	NN	Number=Sing	14	_	_	start_char=319|end_char=329
+16	dying	die	VERB	VBG	VerbForm=Ger	15	_	_	start_char=330|end_char=335
+17	or	or	CCONJ	CC	_	16	_	_	start_char=336|end_char=338
+18	large	large	ADJ	JJ	Degree=Pos	17	_	_	start_char=339|end_char=344
+19	gas	gas	NOUN	NN	Number=Sing	18	_	_	start_char=345|end_char=348
+20	emissions	emission	NOUN	NNS	Number=Plur	19	_	_	start_char=349|end_char=358|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=358|end_char=359
+22	market	market	NOUN	NN	Number=Sing	21	_	_	start_char=360|end_char=366
+23	losses	loss	NOUN	NNS	Number=Plur	22	_	_	start_char=367|end_char=373
+24	rise	rise	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	_	_	start_char=374|end_char=378
+25	to	to	ADP	IN	_	24	_	_	start_char=379|end_char=381
+26	50	50	NUM	CD	NumForm=Digit|NumType=Card	25	_	_	start_char=382|end_char=384|SpaceAfter=No
+27	%	%	SYM	NN	Number=Sing	26	_	_	start_char=384|end_char=385|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=385|end_char=386
+
+# text = On the other hand, if the world were to tighten up and limit warming to 2 degrees Celsius above pre-industrial averages, then the hit to stock prices would be only 5% to 10%.
+# sent_id = 3
+1	On	on	ADP	IN	_	0	_	_	start_char=387|end_char=389
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=390|end_char=393
+3	other	other	ADJ	JJ	Degree=Pos	2	_	_	start_char=394|end_char=399
+4	hand	hand	NOUN	NN	Number=Sing	3	_	_	start_char=400|end_char=404|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=404|end_char=405
+6	if	if	SCONJ	IN	_	5	_	_	start_char=406|end_char=408
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=409|end_char=412
+8	world	world	NOUN	NN	Number=Sing	7	_	_	start_char=413|end_char=418
+9	were	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=419|end_char=423
+10	to	to	PART	TO	_	9	_	_	start_char=424|end_char=426
+11	tighten	tighten	VERB	VB	VerbForm=Inf	10	_	_	start_char=427|end_char=434
+12	up	up	ADP	RP	_	11	_	_	start_char=435|end_char=437
+13	and	and	CCONJ	CC	_	12	_	_	start_char=438|end_char=441
+14	limit	limit	VERB	VB	VerbForm=Inf	13	_	_	start_char=442|end_char=447
+15	warming	warming	NOUN	NN	Number=Sing	14	_	_	start_char=448|end_char=455
+16	to	to	ADP	IN	_	15	_	_	start_char=456|end_char=458
+17	2	2	NUM	CD	NumForm=Digit|NumType=Card	16	_	_	start_char=459|end_char=460
+18	degrees	degree	NOUN	NNS	Number=Plur	17	_	_	start_char=461|end_char=468
+19	Celsius	Celsius	NOUN	NNS	Number=Plur	18	_	_	start_char=469|end_char=476
+20	above	above	ADP	IN	_	19	_	_	start_char=477|end_char=482
+21	pre-industrial	pre-industrial	ADJ	JJ	Degree=Pos	20	_	_	start_char=483|end_char=497
+22	averages	average	NOUN	NNS	Number=Plur	21	_	_	start_char=498|end_char=506|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=506|end_char=507
+24	then	then	ADV	RB	PronType=Dem	23	_	_	start_char=508|end_char=512
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=513|end_char=516
+26	hit	hit	NOUN	NN	Number=Sing	25	_	_	start_char=517|end_char=520
+27	to	to	ADP	IN	_	26	_	_	start_char=521|end_char=523
+28	stock	stock	NOUN	NN	Number=Sing	27	_	_	start_char=524|end_char=529
+29	prices	price	NOUN	NNS	Number=Plur	28	_	_	start_char=530|end_char=536
+30	would	would	AUX	MD	VerbForm=Fin	29	_	_	start_char=537|end_char=542
+31	be	be	AUX	VB	VerbForm=Inf	30	_	_	start_char=543|end_char=545
+32	only	only	ADV	RB	_	31	_	_	start_char=546|end_char=550
+33	5	5	NUM	CD	NumForm=Digit|NumType=Card	32	_	_	start_char=551|end_char=552|SpaceAfter=No
+34	%	%	SYM	NN	Number=Sing	33	_	_	start_char=552|end_char=553
+35	to	to	ADP	IN	_	34	_	_	start_char=554|end_char=556
+36	10	10	NUM	CD	NumForm=Digit|NumType=Card	35	_	_	start_char=557|end_char=559|SpaceAfter=No
+37	%	%	SYM	NN	Number=Sing	36	_	_	start_char=559|end_char=560|SpaceAfter=No
+38	.	.	PUNCT	.	_	37	_	_	start_char=560|end_char=561|SpacesAfter=\n
+
+# text = These would not be one-off losses, warned one of the study's authors, Riccardo Rebonato, a professor of finance at EDHEC Business School in London and a former Pimco executive.
+# sent_id = 4
+1	These	this	PRON	DT	Number=Plur|PronType=Dem	0	_	_	start_char=562|end_char=567
+2	would	would	AUX	MD	VerbForm=Fin	1	_	_	start_char=568|end_char=573
+3	not	not	PART	RB	_	2	_	_	start_char=574|end_char=577
+4	be	be	AUX	VB	VerbForm=Inf	3	_	_	start_char=578|end_char=580
+5	one	one	NUM	CD	NumForm=Word|NumType=Card	4	_	_	start_char=581|end_char=584|SpaceAfter=No
+6	-	-	PUNCT	HYPH	_	5	_	_	start_char=584|end_char=585|SpaceAfter=No
+7	off	off	ADP	RP	_	6	_	_	start_char=585|end_char=588
+8	losses	loss	NOUN	NNS	Number=Plur	7	_	_	start_char=589|end_char=595|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=595|end_char=596
+10	warned	warn	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=597|end_char=603
+11	one	one	NUM	CD	NumForm=Word|NumType=Card	10	_	_	start_char=604|end_char=607
+12	of	of	ADP	IN	_	11	_	_	start_char=608|end_char=610
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=611|end_char=614
+14-15	study's	_	_	_	_	_	_	_	start_char=615|end_char=622
+14	study	study	NOUN	NN	Number=Sing	13	_	_	start_char=615|end_char=620
+15	's	's	PART	POS	_	14	_	_	start_char=620|end_char=622
+16	authors	author	NOUN	NNS	Number=Plur	15	_	_	start_char=623|end_char=630|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=630|end_char=631
+18	Riccardo	Riccardo	PROPN	NNP	Number=Sing	17	_	_	start_char=632|end_char=640
+19	Rebonato	Rebonato	PROPN	NNP	Number=Sing	18	_	_	start_char=641|end_char=649|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=649|end_char=650
+21	a	a	DET	DT	Definite=Ind|PronType=Art	20	_	_	start_char=651|end_char=652
+22	professor	professor	NOUN	NN	Number=Sing	21	_	_	start_char=653|end_char=662
+23	of	of	ADP	IN	_	22	_	_	start_char=663|end_char=665
+24	finance	finance	NOUN	NN	Number=Sing	23	_	_	start_char=666|end_char=673
+25	at	at	ADP	IN	_	24	_	_	start_char=674|end_char=676
+26	EDHEC	EDHEC	PROPN	NNP	Number=Sing	25	_	_	start_char=677|end_char=682
+27	Business	Business	PROPN	NNP	Number=Sing	26	_	_	start_char=683|end_char=691
+28	School	School	PROPN	NNP	Number=Sing	27	_	_	start_char=692|end_char=698
+29	in	in	ADP	IN	_	28	_	_	start_char=699|end_char=701
+30	London	London	PROPN	NNP	Number=Sing	29	_	_	start_char=702|end_char=708
+31	and	and	CCONJ	CC	_	30	_	_	start_char=709|end_char=712
+32	a	a	DET	DT	Definite=Ind|PronType=Art	31	_	_	start_char=713|end_char=714
+33	former	former	ADJ	JJ	Degree=Pos	32	_	_	start_char=715|end_char=721
+34	Pimco	Pimco	PROPN	NNP	Number=Sing	33	_	_	start_char=722|end_char=727
+35	executive	executive	NOUN	NN	Number=Sing	34	_	_	start_char=728|end_char=737|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=737|end_char=738|SpacesAfter=\n
+
+# text = "After Covid-19 we had a huge GDP loss, but then a rebound.
+# sent_id = 5
+1	"	"	PUNCT	``	_	0	_	_	start_char=739|end_char=740|SpaceAfter=No
+2	After	after	ADP	IN	_	1	_	_	start_char=740|end_char=745
+3	Covid	Covid	PROPN	NNP	Number=Sing	2	_	_	start_char=746|end_char=751|SpaceAfter=No
+4	-	-	PUNCT	HYPH	_	3	_	_	start_char=751|end_char=752|SpaceAfter=No
+5	19	19	NUM	CD	NumForm=Digit|NumType=Card	4	_	_	start_char=752|end_char=754
+6	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	_	_	start_char=755|end_char=757
+7	had	have	VERB	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	6	_	_	start_char=758|end_char=761
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=762|end_char=763
+9	huge	huge	ADJ	JJ	Degree=Pos	8	_	_	start_char=764|end_char=768
+10	GDP	gdp	NOUN	NN	Number=Sing	9	_	_	start_char=769|end_char=772
+11	loss	loss	NOUN	NN	Number=Sing	10	_	_	start_char=773|end_char=777|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=777|end_char=778
+13	but	but	CCONJ	CC	_	12	_	_	start_char=779|end_char=782
+14	then	then	ADV	RB	PronType=Dem	13	_	_	start_char=783|end_char=787
+15	a	a	DET	DT	Definite=Ind|PronType=Art	14	_	_	start_char=788|end_char=789
+16	rebound	rebound	NOUN	NN	Number=Sing	15	_	_	start_char=790|end_char=797|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=797|end_char=798
+
+# text = And this looks like a headwind, a permanent headwind, with no rebound.
+# sent_id = 6
+1	And	and	CCONJ	CC	_	0	_	_	start_char=799|end_char=802
+2	this	this	PRON	DT	Number=Sing|PronType=Dem	1	_	_	start_char=803|end_char=807
+3	looks	look	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=808|end_char=813
+4	like	like	ADP	IN	_	3	_	_	start_char=814|end_char=818
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=819|end_char=820
+6	headwind	headwind	NOUN	NN	Number=Sing	5	_	_	start_char=821|end_char=829|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=829|end_char=830
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=831|end_char=832
+9	permanent	permanent	ADJ	JJ	Degree=Pos	8	_	_	start_char=833|end_char=842
+10	headwind	headwind	NOUN	NN	Number=Sing	9	_	_	start_char=843|end_char=851|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=851|end_char=852
+12	with	with	ADP	IN	_	11	_	_	start_char=853|end_char=857
+13	no	no	DET	DT	_	12	_	_	start_char=858|end_char=860
+14	rebound	rebound	NOUN	NN	Number=Sing	13	_	_	start_char=861|end_char=868|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=868|end_char=869
+
+# text = This could be the lost generation because of the climate in returns on capital," Rebonato added.
+# sent_id = 7
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=870|end_char=874
+2	could	could	AUX	MD	VerbForm=Fin	1	_	_	start_char=875|end_char=880
+3	be	be	AUX	VB	VerbForm=Inf	2	_	_	start_char=881|end_char=883
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=884|end_char=887
+5	lost	lose	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=888|end_char=892
+6	generation	generation	NOUN	NN	Number=Sing	5	_	_	start_char=893|end_char=903
+7	because	because	ADP	IN	_	6	_	_	start_char=904|end_char=911
+8	of	of	ADP	IN	_	7	_	_	start_char=912|end_char=914
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=915|end_char=918
+10	climate	climate	NOUN	NN	Number=Sing	9	_	_	start_char=919|end_char=926
+11	in	in	ADP	IN	_	10	_	_	start_char=927|end_char=929
+12	returns	return	NOUN	NNS	Number=Plur	11	_	_	start_char=930|end_char=937
+13	on	on	ADP	IN	_	12	_	_	start_char=938|end_char=940
+14	capital	capital	NOUN	NN	Number=Sing	13	_	_	start_char=941|end_char=948|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=948|end_char=949|SpaceAfter=No
+16	"	"	PUNCT	''	_	15	_	_	start_char=949|end_char=950
+17	Rebonato	Rebonato	PROPN	NNP	Number=Sing	16	_	_	start_char=951|end_char=959
+18	added	add	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	_	_	start_char=960|end_char=965|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=965|end_char=966|SpacesAfter=\n
+
+# text = The EDHEC paper predicts much larger stock market losses than most other studies do.
+# sent_id = 8
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=967|end_char=970
+2	EDHEC	EDHEC	PROPN	NNP	Number=Sing	1	_	_	start_char=971|end_char=976
+3	paper	paper	NOUN	NN	Number=Sing	2	_	_	start_char=977|end_char=982
+4	predicts	predict	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=983|end_char=991
+5	much	much	ADV	RB	_	4	_	_	start_char=992|end_char=996
+6	larger	large	ADJ	JJR	Degree=Cmp	5	_	_	start_char=997|end_char=1003
+7	stock	stock	NOUN	NN	Number=Sing	6	_	_	start_char=1004|end_char=1009
+8	market	market	NOUN	NN	Number=Sing	7	_	_	start_char=1010|end_char=1016
+9	losses	loss	NOUN	NNS	Number=Plur	8	_	_	start_char=1017|end_char=1023
+10	than	than	SCONJ	IN	_	9	_	_	start_char=1024|end_char=1028
+11	most	most	ADJ	JJS	Degree=Sup	10	_	_	start_char=1029|end_char=1033
+12	other	other	ADJ	JJ	Degree=Pos	11	_	_	start_char=1034|end_char=1039
+13	studies	study	NOUN	NNS	Number=Plur	12	_	_	start_char=1040|end_char=1047
+14	do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=1048|end_char=1050|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=1050|end_char=1051
+
+# text = That's partly because those other studies focused on the costs of transitioning the global economy to renewable energy, not the much greater havoc climate change will wreak on growth.
+# sent_id = 9
+1-2	That's	_	_	_	_	_	_	_	start_char=1052|end_char=1058
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1052|end_char=1056
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1056|end_char=1058
+3	partly	partly	ADV	RB	_	2	_	_	start_char=1059|end_char=1065
+4	because	because	SCONJ	IN	_	3	_	_	start_char=1066|end_char=1073
+5	those	that	DET	DT	Number=Plur|PronType=Dem	4	_	_	start_char=1074|end_char=1079
+6	other	other	ADJ	JJ	Degree=Pos	5	_	_	start_char=1080|end_char=1085
+7	studies	study	NOUN	NNS	Number=Plur	6	_	_	start_char=1086|end_char=1093
+8	focused	focus	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=1094|end_char=1101
+9	on	on	ADP	IN	_	8	_	_	start_char=1102|end_char=1104
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=1105|end_char=1108
+11	costs	cost	NOUN	NNS	Number=Plur	10	_	_	start_char=1109|end_char=1114
+12	of	of	SCONJ	IN	_	11	_	_	start_char=1115|end_char=1117
+13	transitioning	transition	VERB	VBG	VerbForm=Ger	12	_	_	start_char=1118|end_char=1131
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=1132|end_char=1135
+15	global	global	ADJ	JJ	Degree=Pos	14	_	_	start_char=1136|end_char=1142
+16	economy	economy	NOUN	NN	Number=Sing	15	_	_	start_char=1143|end_char=1150
+17	to	to	ADP	IN	_	16	_	_	start_char=1151|end_char=1153
+18	renewable	renewable	ADJ	JJ	Degree=Pos	17	_	_	start_char=1154|end_char=1163
+19	energy	energy	NOUN	NN	Number=Sing	18	_	_	start_char=1164|end_char=1170|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=1170|end_char=1171
+21	not	not	PART	RB	_	20	_	_	start_char=1172|end_char=1175
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=1176|end_char=1179
+23	much	much	ADV	RB	_	22	_	_	start_char=1180|end_char=1184
+24	greater	great	ADJ	JJR	Degree=Cmp	23	_	_	start_char=1185|end_char=1192
+25	havoc	havoc	NOUN	NN	Number=Sing	24	_	_	start_char=1193|end_char=1198
+26	climate	climate	NOUN	NN	Number=Sing	25	_	_	start_char=1199|end_char=1206
+27	change	change	NOUN	NN	Number=Sing	26	_	_	start_char=1207|end_char=1213
+28	will	will	AUX	MD	VerbForm=Fin	27	_	_	start_char=1214|end_char=1218
+29	wreak	wreak	VERB	VB	VerbForm=Inf	28	_	_	start_char=1219|end_char=1224
+30	on	on	ADP	IN	_	29	_	_	start_char=1225|end_char=1227
+31	growth	growth	NOUN	NN	Number=Sing	30	_	_	start_char=1228|end_char=1234|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=1234|end_char=1235|SpaceAfter=No
+

@@ -1,0 +1,256 @@
+# text = American professor: Russia is breaking Ukraine, and we have huge problems
+# sent_id = 0
+1	American	American	ADJ	JJ	Degree=Pos	0	_	_	start_char=0|end_char=8
+2	professor	professor	NOUN	NN	Number=Sing	1	_	_	start_char=9|end_char=18|SpaceAfter=No
+3	:	:	PUNCT	:	_	2	_	_	start_char=18|end_char=19
+4	Russia	Russia	PROPN	NNP	Number=Sing	3	_	_	start_char=20|end_char=26
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=27|end_char=29
+6	breaking	break	VERB	VBG	Tense=Pres|VerbForm=Part	5	_	_	start_char=30|end_char=38
+7	Ukraine	Ukraine	PROPN	NNP	Number=Sing	6	_	_	start_char=39|end_char=46|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=46|end_char=47
+9	and	and	CCONJ	CC	_	8	_	_	start_char=48|end_char=51
+10	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	_	_	start_char=52|end_char=54
+11	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	_	_	start_char=55|end_char=59
+12	huge	huge	ADJ	JJ	Degree=Pos	11	_	_	start_char=60|end_char=64
+13	problems	problem	NOUN	NNS	Number=Plur	12	_	_	start_char=65|end_char=73|SpacesAfter=\n\n
+
+# text = American political scientist John Mearsheimer:
+# sent_id = 1
+1	American	American	ADJ	JJ	Degree=Pos	0	_	_	start_char=75|end_char=83
+2	political	political	ADJ	JJ	Degree=Pos	1	_	_	start_char=84|end_char=93
+3	scientist	scientist	NOUN	NN	Number=Sing	2	_	_	start_char=94|end_char=103
+4	John	John	PROPN	NNP	Number=Sing	3	_	_	start_char=104|end_char=108
+5	Mearsheimer	Mearsheimer	PROPN	NNP	Number=Sing	4	_	_	start_char=109|end_char=120|SpaceAfter=No
+6	:	:	PUNCT	:	_	5	_	_	start_char=120|end_char=121|SpacesAfter=\n
+
+# text = It's just astounding how Russia is disposing of its air force and the devastation it's inflicting on, say, Ukraine's energy system.
+# sent_id = 2
+1-2	It's	_	_	_	_	_	_	_	start_char=122|end_char=126
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=122|end_char=124
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=124|end_char=126
+3	just	just	ADV	RB	_	2	_	_	start_char=127|end_char=131
+4	astounding	astounding	ADJ	JJ	Degree=Pos	3	_	_	start_char=132|end_char=142
+5	how	how	ADV	WRB	PronType=Int	4	_	_	start_char=143|end_char=146
+6	Russia	Russia	PROPN	NNP	Number=Sing	5	_	_	start_char=147|end_char=153
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=154|end_char=156
+8	disposing	dispose	VERB	VBG	Tense=Pres|VerbForm=Part	7	_	_	start_char=157|end_char=166
+9	of	of	ADP	IN	_	8	_	_	start_char=167|end_char=169
+10	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	_	_	start_char=170|end_char=173
+11	air	air	NOUN	NN	Number=Sing	10	_	_	start_char=174|end_char=177
+12	force	force	NOUN	NN	Number=Sing	11	_	_	start_char=178|end_char=183
+13	and	and	CCONJ	CC	_	12	_	_	start_char=184|end_char=187
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=188|end_char=191
+15	devastation	devastation	NOUN	NN	Number=Sing	14	_	_	start_char=192|end_char=203
+16-17	it's	_	_	_	_	_	_	_	start_char=204|end_char=208
+16	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	_	_	start_char=204|end_char=206
+17	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=206|end_char=208
+18	inflicting	inflict	VERB	VBG	Tense=Pres|VerbForm=Part	17	_	_	start_char=209|end_char=219
+19	on	on	ADP	IN	_	18	_	_	start_char=220|end_char=222|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=222|end_char=223
+21	say	say	VERB	VB	VerbForm=Inf	20	_	_	start_char=224|end_char=227|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=227|end_char=228
+23-24	Ukraine's	_	_	_	_	_	_	_	start_char=229|end_char=238
+23	Ukraine	Ukraine	PROPN	NNP	Number=Sing	22	_	_	start_char=229|end_char=236
+24	's	's	PART	POS	_	23	_	_	start_char=236|end_char=238
+25	energy	energy	NOUN	NN	Number=Sing	24	_	_	start_char=239|end_char=245
+26	system	system	NOUN	NN	Number=Sing	25	_	_	start_char=246|end_char=252|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=252|end_char=253
+
+# text = They have knocked out such a significant part of that energy system that Ukraine's electricity supply has been cut in half.
+# sent_id = 3
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=254|end_char=258
+2	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=259|end_char=263
+3	knocked	knock	VERB	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=264|end_char=271
+4	out	out	ADP	RP	_	3	_	_	start_char=272|end_char=275
+5	such	such	DET	PDT	_	4	_	_	start_char=276|end_char=280
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=281|end_char=282
+7	significant	significant	ADJ	JJ	Degree=Pos	6	_	_	start_char=283|end_char=294
+8	part	part	NOUN	NN	Number=Sing	7	_	_	start_char=295|end_char=299
+9	of	of	ADP	IN	_	8	_	_	start_char=300|end_char=302
+10	that	that	DET	DT	Number=Sing|PronType=Dem	9	_	_	start_char=303|end_char=307
+11	energy	energy	NOUN	NN	Number=Sing	10	_	_	start_char=308|end_char=314
+12	system	system	NOUN	NN	Number=Sing	11	_	_	start_char=315|end_char=321
+13	that	that	SCONJ	IN	_	12	_	_	start_char=322|end_char=326
+14-15	Ukraine's	_	_	_	_	_	_	_	start_char=327|end_char=336
+14	Ukraine	Ukraine	PROPN	NNP	Number=Sing	13	_	_	start_char=327|end_char=334
+15	's	's	PART	POS	_	14	_	_	start_char=334|end_char=336
+16	electricity	electricity	NOUN	NN	Number=Sing	15	_	_	start_char=337|end_char=348
+17	supply	supply	NOUN	NN	Number=Sing	16	_	_	start_char=349|end_char=355
+18	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=356|end_char=359
+19	been	be	AUX	VBN	Tense=Past|VerbForm=Part	18	_	_	start_char=360|end_char=364
+20	cut	cut	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	19	_	_	start_char=365|end_char=368
+21	in	in	ADP	IN	_	20	_	_	start_char=369|end_char=371
+22	half	half	NOUN	NN	NumForm=Word|NumType=Frac|Number=Sing	21	_	_	start_char=372|end_char=376|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=376|end_char=377
+
+# text = In many places in Ukraine, there is no electricity at all for 10 hours a day.
+# sent_id = 4
+1	In	in	ADP	IN	_	0	_	_	start_char=378|end_char=380
+2	many	many	ADJ	JJ	Degree=Pos	1	_	_	start_char=381|end_char=385
+3	places	place	NOUN	NNS	Number=Plur	2	_	_	start_char=386|end_char=392
+4	in	in	ADP	IN	_	3	_	_	start_char=393|end_char=395
+5	Ukraine	Ukraine	PROPN	NNP	Number=Sing	4	_	_	start_char=396|end_char=403|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=403|end_char=404
+7	there	there	PRON	EX	_	6	_	_	start_char=405|end_char=410
+8	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=411|end_char=413
+9	no	no	DET	DT	_	8	_	_	start_char=414|end_char=416
+10	electricity	electricity	NOUN	NN	Number=Sing	9	_	_	start_char=417|end_char=428
+11	at	at	ADP	IN	_	10	_	_	start_char=429|end_char=431
+12	all	all	DET	DT	_	11	_	_	start_char=432|end_char=435
+13	for	for	ADP	IN	_	12	_	_	start_char=436|end_char=439
+14	10	10	NUM	CD	NumForm=Digit|NumType=Card	13	_	_	start_char=440|end_char=442
+15	hours	hour	NOUN	NNS	Number=Plur	14	_	_	start_char=443|end_char=448
+16	a	a	DET	DT	Definite=Ind|PronType=Art	15	_	_	start_char=449|end_char=450
+17	day	day	NOUN	NN	Number=Sing	16	_	_	start_char=451|end_char=454|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=454|end_char=455|SpacesAfter=\n
+
+# text = This state of affairs will only get worse in the coming months as the Russians continue to attack the electricity grid.
+# sent_id = 5
+1	This	this	DET	DT	Number=Sing|PronType=Dem	0	_	_	start_char=456|end_char=460
+2	state	state	NOUN	NN	Number=Sing	1	_	_	start_char=461|end_char=466
+3	of	of	ADP	IN	_	2	_	_	start_char=467|end_char=469
+4	affairs	affair	NOUN	NNS	Number=Plur	3	_	_	start_char=470|end_char=477
+5	will	will	AUX	MD	VerbForm=Fin	4	_	_	start_char=478|end_char=482
+6	only	only	ADV	RB	_	5	_	_	start_char=483|end_char=487
+7	get	get	VERB	VB	VerbForm=Inf	6	_	_	start_char=488|end_char=491
+8	worse	bad	ADJ	JJR	Degree=Cmp	7	_	_	start_char=492|end_char=497
+9	in	in	ADP	IN	_	8	_	_	start_char=498|end_char=500
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=501|end_char=504
+11	coming	come	VERB	VBG	VerbForm=Ger	10	_	_	start_char=505|end_char=511
+12	months	month	NOUN	NNS	Number=Plur	11	_	_	start_char=512|end_char=518
+13	as	as	SCONJ	IN	_	12	_	_	start_char=519|end_char=521
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=522|end_char=525
+15	Russians	Russian	PROPN	NNPS	Number=Plur	14	_	_	start_char=526|end_char=534
+16	continue	continue	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=535|end_char=543
+17	to	to	PART	TO	_	16	_	_	start_char=544|end_char=546
+18	attack	attack	VERB	VB	VerbForm=Inf	17	_	_	start_char=547|end_char=553
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=554|end_char=557
+20	electricity	electricity	NOUN	NN	Number=Sing	19	_	_	start_char=558|end_char=569
+21	grid	grid	NOUN	NN	Number=Sing	20	_	_	start_char=570|end_char=574|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=574|end_char=575
+
+# text = And then, when autumn and especially winter come, the population of Ukraine will find it very difficult.
+# sent_id = 6
+1	And	and	CCONJ	CC	_	0	_	_	start_char=576|end_char=579
+2	then	then	ADV	RB	PronType=Dem	1	_	_	start_char=580|end_char=584|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=584|end_char=585
+4	when	when	ADV	WRB	PronType=Int	3	_	_	start_char=586|end_char=590
+5	autumn	autumn	NOUN	NN	Number=Sing	4	_	_	start_char=591|end_char=597
+6	and	and	CCONJ	CC	_	5	_	_	start_char=598|end_char=601
+7	especially	especially	ADV	RB	_	6	_	_	start_char=602|end_char=612
+8	winter	winter	NOUN	NN	Number=Sing	7	_	_	start_char=613|end_char=619
+9	come	come	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=620|end_char=624|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=624|end_char=625
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=626|end_char=629
+12	population	population	NOUN	NN	Number=Sing	11	_	_	start_char=630|end_char=640
+13	of	of	ADP	IN	_	12	_	_	start_char=641|end_char=643
+14	Ukraine	Ukraine	PROPN	NNP	Number=Sing	13	_	_	start_char=644|end_char=651
+15	will	will	AUX	MD	VerbForm=Fin	14	_	_	start_char=652|end_char=656
+16	find	find	VERB	VB	VerbForm=Inf	15	_	_	start_char=657|end_char=661
+17	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	_	_	start_char=662|end_char=664
+18	very	very	ADV	RB	_	17	_	_	start_char=665|end_char=669
+19	difficult	difficult	ADJ	JJ	Degree=Pos	18	_	_	start_char=670|end_char=679|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=679|end_char=680|SpacesAfter=\n
+
+# text = By the way, when you destroy the power grid, it causes enormous damage not only to the civilian population, but it also has various negative effects on industry and the armed forces.
+# sent_id = 7
+1	By	by	ADP	IN	_	0	_	_	start_char=681|end_char=683
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=684|end_char=687
+3	way	way	NOUN	NN	Number=Sing	2	_	_	start_char=688|end_char=691|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=691|end_char=692
+5	when	when	ADV	WRB	PronType=Int	4	_	_	start_char=693|end_char=697
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	_	_	start_char=698|end_char=701
+7	destroy	destroy	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	_	_	start_char=702|end_char=709
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=710|end_char=713
+9	power	power	NOUN	NN	Number=Sing	8	_	_	start_char=714|end_char=719
+10	grid	grid	NOUN	NN	Number=Sing	9	_	_	start_char=720|end_char=724|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=724|end_char=725
+12	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	_	_	start_char=726|end_char=728
+13	causes	cause	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=729|end_char=735
+14	enormous	enormous	ADJ	JJ	Degree=Pos	13	_	_	start_char=736|end_char=744
+15	damage	damage	NOUN	NN	Number=Sing	14	_	_	start_char=745|end_char=751
+16	not	not	PART	RB	_	15	_	_	start_char=752|end_char=755
+17	only	only	ADV	RB	_	16	_	_	start_char=756|end_char=760
+18	to	to	ADP	IN	_	17	_	_	start_char=761|end_char=763
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=764|end_char=767
+20	civilian	civilian	ADJ	JJ	Degree=Pos	19	_	_	start_char=768|end_char=776
+21	population	population	NOUN	NN	Number=Sing	20	_	_	start_char=777|end_char=787|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=787|end_char=788
+23	but	but	CCONJ	CC	_	22	_	_	start_char=789|end_char=792
+24	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	23	_	_	start_char=793|end_char=795
+25	also	also	ADV	RB	_	24	_	_	start_char=796|end_char=800
+26	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	_	_	start_char=801|end_char=804
+27	various	various	ADJ	JJ	Degree=Pos	26	_	_	start_char=805|end_char=812
+28	negative	negative	ADJ	JJ	Degree=Pos	27	_	_	start_char=813|end_char=821
+29	effects	effect	NOUN	NNS	Number=Plur	28	_	_	start_char=822|end_char=829
+30	on	on	ADP	IN	_	29	_	_	start_char=830|end_char=832
+31	industry	industry	NOUN	NN	Number=Sing	30	_	_	start_char=833|end_char=841
+32	and	and	CCONJ	CC	_	31	_	_	start_char=842|end_char=845
+33	the	the	DET	DT	Definite=Def|PronType=Art	32	_	_	start_char=846|end_char=849
+34	armed	armed	ADJ	JJ	Degree=Pos	33	_	_	start_char=850|end_char=855
+35	forces	force	NOUN	NNS	Number=Plur	34	_	_	start_char=856|end_char=862|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=862|end_char=863|SpacesAfter=\n
+
+# text = So claims that Ukraine is doing well and we are helping them to stabilise the situation are nonsense.
+# sent_id = 8
+1	So	so	ADV	RB	_	0	_	_	start_char=864|end_char=866
+2	claims	claim	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=867|end_char=873
+3	that	that	SCONJ	IN	_	2	_	_	start_char=874|end_char=878
+4	Ukraine	Ukraine	PROPN	NNP	Number=Sing	3	_	_	start_char=879|end_char=886
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=887|end_char=889
+6	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	5	_	_	start_char=890|end_char=895
+7	well	well	ADV	RB	Degree=Pos	6	_	_	start_char=896|end_char=900
+8	and	and	CCONJ	CC	_	7	_	_	start_char=901|end_char=904
+9	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	_	_	start_char=905|end_char=907
+10	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	_	_	start_char=908|end_char=911
+11	helping	help	VERB	VBG	Tense=Pres|VerbForm=Part	10	_	_	start_char=912|end_char=919
+12	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	11	_	_	start_char=920|end_char=924
+13	to	to	PART	TO	_	12	_	_	start_char=925|end_char=927
+14	stabilise	stabilise	VERB	VB	VerbForm=Inf	13	_	_	start_char=928|end_char=937
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=938|end_char=941
+16	situation	situation	NOUN	NN	Number=Sing	15	_	_	start_char=942|end_char=951
+17	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=952|end_char=955
+18	nonsense	nonsense	NOUN	NN	Number=Sing	17	_	_	start_char=956|end_char=964|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=964|end_char=965
+
+# text = This is just the foremost example of how Tony Blinken and the Biden administration in general make statements that are devoid of any sense.
+# sent_id = 9
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=966|end_char=970
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=971|end_char=973
+3	just	just	ADV	RB	_	2	_	_	start_char=974|end_char=978
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=979|end_char=982
+5	foremost	foremost	ADJ	JJS	Degree=Sup	4	_	_	start_char=983|end_char=991
+6	example	example	NOUN	NN	Number=Sing	5	_	_	start_char=992|end_char=999
+7	of	of	ADP	IN	_	6	_	_	start_char=1000|end_char=1002
+8	how	how	ADV	WRB	PronType=Rel	7	_	_	start_char=1003|end_char=1006
+9	Tony	Tony	PROPN	NNP	Number=Sing	8	_	_	start_char=1007|end_char=1011
+10	Blinken	Blinken	PROPN	NNP	Number=Sing	9	_	_	start_char=1012|end_char=1019
+11	and	and	CCONJ	CC	_	10	_	_	start_char=1020|end_char=1023
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=1024|end_char=1027
+13	Biden	Biden	PROPN	NNP	Number=Sing	12	_	_	start_char=1028|end_char=1033
+14	administration	administration	NOUN	NN	Number=Sing	13	_	_	start_char=1034|end_char=1048
+15	in	in	ADP	IN	_	14	_	_	start_char=1049|end_char=1051
+16	general	general	ADJ	JJ	Degree=Pos	15	_	_	start_char=1052|end_char=1059
+17	make	make	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=1060|end_char=1064
+18	statements	statement	NOUN	NNS	Number=Plur	17	_	_	start_char=1065|end_char=1075
+19	that	that	PRON	WDT	PronType=Rel	18	_	_	start_char=1076|end_char=1080
+20	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	_	_	start_char=1081|end_char=1084
+21	devoid	devoid	ADJ	JJ	Degree=Pos	20	_	_	start_char=1085|end_char=1091
+22	of	of	ADP	IN	_	21	_	_	start_char=1092|end_char=1094
+23	any	any	DET	DT	_	22	_	_	start_char=1095|end_char=1098
+24	sense	sense	NOUN	NN	Number=Sing	23	_	_	start_char=1099|end_char=1104|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=1104|end_char=1105
+
+# text = Ukraine has huge problems, and so do we.
+# sent_id = 10
+1	Ukraine	Ukraine	PROPN	NNP	Number=Sing	0	_	_	start_char=1106|end_char=1113
+2	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1114|end_char=1117
+3	huge	huge	ADJ	JJ	Degree=Pos	2	_	_	start_char=1118|end_char=1122
+4	problems	problem	NOUN	NNS	Number=Plur	3	_	_	start_char=1123|end_char=1131|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=1131|end_char=1132
+6	and	and	CCONJ	CC	_	5	_	_	start_char=1133|end_char=1136
+7	so	so	ADV	RB	_	6	_	_	start_char=1137|end_char=1139
+8	do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	_	_	start_char=1140|end_char=1142
+9	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	_	_	start_char=1143|end_char=1145|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=1145|end_char=1146|SpaceAfter=No
+

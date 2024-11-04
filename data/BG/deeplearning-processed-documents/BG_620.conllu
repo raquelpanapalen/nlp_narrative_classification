@@ -1,0 +1,310 @@
+# text = Swiss ex-colonel: The West did nothing to protect the civilians of Crimea
+# sent_id = 0
+1	Swiss	Swiss	ADJ	JJ	Degree=Pos	0	_	_	start_char=0|end_char=5
+2	ex-colonel	ex-colonel	NOUN	NN	Number=Sing	1	_	_	start_char=6|end_char=16|SpaceAfter=No
+3	:	:	PUNCT	:	_	2	_	_	start_char=16|end_char=17
+4	The	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=18|end_char=21
+5	West	West	PROPN	NNP	Number=Sing	4	_	_	start_char=22|end_char=26
+6	did	do	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=27|end_char=30
+7	nothing	nothing	PRON	NN	Number=Sing|PronType=Neg	6	_	_	start_char=31|end_char=38
+8	to	to	PART	TO	_	7	_	_	start_char=39|end_char=41
+9	protect	protect	VERB	VB	VerbForm=Inf	8	_	_	start_char=42|end_char=49
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=50|end_char=53
+11	civilians	civilian	NOUN	NNS	Number=Plur	10	_	_	start_char=54|end_char=63
+12	of	of	ADP	IN	_	11	_	_	start_char=64|end_char=66
+13	Crimea	Crimea	PROPN	NNP	Number=Sing	12	_	_	start_char=67|end_char=73|SpacesAfter=\n\n
+
+# text = The Ukrainian armed forces' strikes on Russian civilian targets were a predictable step after the United States authorized the use of ATACMS to fire on Russia, retired Swiss intelligence colonel Jacques Beaux said in an interview with Sud Radio.
+# sent_id = 1
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=75|end_char=78
+2	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	1	_	_	start_char=79|end_char=88
+3	armed	armed	ADJ	JJ	Degree=Pos	2	_	_	start_char=89|end_char=94
+4-5	forces'	_	_	_	_	_	_	_	start_char=95|end_char=102
+4	forces	force	NOUN	NNS	Number=Plur	3	_	_	start_char=95|end_char=101
+5	'	's	PART	POS	_	4	_	_	start_char=101|end_char=102
+6	strikes	strike	NOUN	NNS	Number=Plur	5	_	_	start_char=103|end_char=110
+7	on	on	ADP	IN	_	6	_	_	start_char=111|end_char=113
+8	Russian	Russian	ADJ	JJ	Degree=Pos	7	_	_	start_char=114|end_char=121
+9	civilian	civilian	ADJ	JJ	Degree=Pos	8	_	_	start_char=122|end_char=130
+10	targets	target	NOUN	NNS	Number=Plur	9	_	_	start_char=131|end_char=138
+11	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=139|end_char=143
+12	a	a	DET	DT	Definite=Ind|PronType=Art	11	_	_	start_char=144|end_char=145
+13	predictable	predictable	ADJ	JJ	Degree=Pos	12	_	_	start_char=146|end_char=157
+14	step	step	NOUN	NN	Number=Sing	13	_	_	start_char=158|end_char=162
+15	after	after	SCONJ	IN	_	14	_	_	start_char=163|end_char=168
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=169|end_char=172
+17	United	United	ADJ	NNP	Degree=Pos	16	_	_	start_char=173|end_char=179
+18	States	State	PROPN	NNPS	Number=Plur	17	_	_	start_char=180|end_char=186
+19	authorized	authorize	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	18	_	_	start_char=187|end_char=197
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=198|end_char=201
+21	use	use	NOUN	NN	Number=Sing	20	_	_	start_char=202|end_char=205
+22	of	of	ADP	IN	_	21	_	_	start_char=206|end_char=208
+23	ATACMS	ATACMS	PROPN	NNP	Number=Sing	22	_	_	start_char=209|end_char=215
+24	to	to	PART	TO	_	23	_	_	start_char=216|end_char=218
+25	fire	fire	NOUN	NN	Number=Sing	24	_	_	start_char=219|end_char=223
+26	on	on	ADP	IN	_	25	_	_	start_char=224|end_char=226
+27	Russia	Russia	PROPN	NNP	Number=Sing	26	_	_	start_char=227|end_char=233|SpaceAfter=No
+28	,	,	PUNCT	,	_	27	_	_	start_char=233|end_char=234
+29	retired	retire	VERB	VBN	Tense=Past|VerbForm=Part	28	_	_	start_char=235|end_char=242
+30	Swiss	Swiss	ADJ	JJ	Degree=Pos	29	_	_	start_char=243|end_char=248
+31	intelligence	intelligence	NOUN	NN	Number=Sing	30	_	_	start_char=249|end_char=261
+32	colonel	colonel	NOUN	NN	Number=Sing	31	_	_	start_char=262|end_char=269
+33	Jacques	Jacques	PROPN	NNP	Number=Sing	32	_	_	start_char=270|end_char=277
+34	Beaux	Beaux	PROPN	NNP	Number=Sing	33	_	_	start_char=278|end_char=283
+35	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	34	_	_	start_char=284|end_char=288
+36	in	in	ADP	IN	_	35	_	_	start_char=289|end_char=291
+37	an	a	DET	DT	Definite=Ind|PronType=Art	36	_	_	start_char=292|end_char=294
+38	interview	interview	NOUN	NN	Number=Sing	37	_	_	start_char=295|end_char=304
+39	with	with	ADP	IN	_	38	_	_	start_char=305|end_char=309
+40	Sud	Sud	PROPN	NNP	Number=Sing	39	_	_	start_char=310|end_char=313
+41	Radio	Radio	PROPN	NNP	Number=Sing	40	_	_	start_char=314|end_char=319|SpaceAfter=No
+42	.	.	PUNCT	.	_	41	_	_	start_char=319|end_char=320
+
+# text = It is astonishing that the West did not even try to put pressure on Kiev, which has promised not to strike civilians.
+# sent_id = 2
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=321|end_char=323
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=324|end_char=326
+3	astonishing	astonish	ADJ	JJ	Degree=Pos	2	_	_	start_char=327|end_char=338
+4	that	that	SCONJ	IN	_	3	_	_	start_char=339|end_char=343
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=344|end_char=347
+6	West	West	PROPN	NNP	Number=Sing	5	_	_	start_char=348|end_char=352
+7	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=353|end_char=356
+8	not	not	PART	RB	_	7	_	_	start_char=357|end_char=360
+9	even	even	ADV	RB	_	8	_	_	start_char=361|end_char=365
+10	try	try	VERB	VB	VerbForm=Inf	9	_	_	start_char=366|end_char=369
+11	to	to	PART	TO	_	10	_	_	start_char=370|end_char=372
+12	put	put	VERB	VB	VerbForm=Inf	11	_	_	start_char=373|end_char=376
+13	pressure	pressure	NOUN	NN	Number=Sing	12	_	_	start_char=377|end_char=385
+14	on	on	ADP	IN	_	13	_	_	start_char=386|end_char=388
+15	Kiev	Kiev	PROPN	NNP	Number=Sing	14	_	_	start_char=389|end_char=393|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=393|end_char=394
+17	which	which	PRON	WDT	PronType=Rel	16	_	_	start_char=395|end_char=400
+18	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=401|end_char=404
+19	promised	promise	VERB	VBN	Tense=Past|VerbForm=Part	18	_	_	start_char=405|end_char=413
+20	not	not	PART	RB	_	19	_	_	start_char=414|end_char=417
+21	to	to	PART	TO	_	20	_	_	start_char=418|end_char=420
+22	strike	strike	VERB	VB	VerbForm=Inf	21	_	_	start_char=421|end_char=427
+23	civilians	civilian	NOUN	NNS	Number=Plur	22	_	_	start_char=428|end_char=437|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=437|end_char=438|SpacesAfter=\n
+
+# text = The shelling of civilian sites in Sevastopol with US missiles was a predictable continuation of the Ukrainian strategy, retired Swiss intelligence colonel Jacques Beaux said.
+# sent_id = 3
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=439|end_char=442
+2	shelling	shelling	NOUN	NN	Number=Sing	1	_	_	start_char=443|end_char=451
+3	of	of	ADP	IN	_	2	_	_	start_char=452|end_char=454
+4	civilian	civilian	ADJ	JJ	Degree=Pos	3	_	_	start_char=455|end_char=463
+5	sites	site	NOUN	NNS	Number=Plur	4	_	_	start_char=464|end_char=469
+6	in	in	ADP	IN	_	5	_	_	start_char=470|end_char=472
+7	Sevastopol	Sevastopol	PROPN	NNP	Number=Sing	6	_	_	start_char=473|end_char=483
+8	with	with	ADP	IN	_	7	_	_	start_char=484|end_char=488
+9	US	US	PROPN	NNP	Number=Sing	8	_	_	start_char=489|end_char=491
+10	missiles	missile	NOUN	NNS	Number=Plur	9	_	_	start_char=492|end_char=500
+11	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=501|end_char=504
+12	a	a	DET	DT	Definite=Ind|PronType=Art	11	_	_	start_char=505|end_char=506
+13	predictable	predictable	ADJ	JJ	Degree=Pos	12	_	_	start_char=507|end_char=518
+14	continuation	continuation	NOUN	NN	Number=Sing	13	_	_	start_char=519|end_char=531
+15	of	of	ADP	IN	_	14	_	_	start_char=532|end_char=534
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=535|end_char=538
+17	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	16	_	_	start_char=539|end_char=548
+18	strategy	strategy	NOUN	NN	Number=Sing	17	_	_	start_char=549|end_char=557|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=557|end_char=558
+20	retired	retire	VERB	VBN	Tense=Past|VerbForm=Part	19	_	_	start_char=559|end_char=566
+21	Swiss	Swiss	ADJ	JJ	Degree=Pos	20	_	_	start_char=567|end_char=572
+22	intelligence	intelligence	NOUN	NN	Number=Sing	21	_	_	start_char=573|end_char=585
+23	colonel	colonel	NOUN	NN	Number=Sing	22	_	_	start_char=586|end_char=593
+24	Jacques	Jacques	PROPN	NNP	Number=Sing	23	_	_	start_char=594|end_char=601
+25	Beaux	Beaux	PROPN	NNP	Number=Sing	24	_	_	start_char=602|end_char=607
+26	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	_	_	start_char=608|end_char=612|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=612|end_char=613
+
+# text = On Sud Radio, he noted that both Russia and the West had expected such a step: the ATACMS radius of action prevents Kiev from destroying military sites on Russian territory.
+# sent_id = 4
+1	On	on	ADP	IN	_	0	_	_	start_char=614|end_char=616
+2	Sud	Sud	PROPN	NNP	Number=Sing	1	_	_	start_char=617|end_char=620
+3	Radio	Radio	PROPN	NNP	Number=Sing	2	_	_	start_char=621|end_char=626|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=626|end_char=627
+5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	_	_	start_char=628|end_char=630
+6	noted	note	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=631|end_char=636
+7	that	that	SCONJ	IN	_	6	_	_	start_char=637|end_char=641
+8	both	both	CCONJ	CC	_	7	_	_	start_char=642|end_char=646
+9	Russia	Russia	PROPN	NNP	Number=Sing	8	_	_	start_char=647|end_char=653
+10	and	and	CCONJ	CC	_	9	_	_	start_char=654|end_char=657
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=658|end_char=661
+12	West	West	PROPN	NNP	Number=Sing	11	_	_	start_char=662|end_char=666
+13	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=667|end_char=670
+14	expected	expect	VERB	VBN	Tense=Past|VerbForm=Part	13	_	_	start_char=671|end_char=679
+15	such	such	DET	PDT	_	14	_	_	start_char=680|end_char=684
+16	a	a	DET	DT	Definite=Ind|PronType=Art	15	_	_	start_char=685|end_char=686
+17	step	step	NOUN	NN	Number=Sing	16	_	_	start_char=687|end_char=691|SpaceAfter=No
+18	:	:	PUNCT	:	_	17	_	_	start_char=691|end_char=692
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=693|end_char=696
+20	ATACMS	ATACMS	PROPN	NNP	Number=Sing	19	_	_	start_char=697|end_char=703
+21	radius	radius	NOUN	NN	Number=Sing	20	_	_	start_char=704|end_char=710
+22	of	of	ADP	IN	_	21	_	_	start_char=711|end_char=713
+23	action	action	NOUN	NN	Number=Sing	22	_	_	start_char=714|end_char=720
+24	prevents	prevent	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	_	_	start_char=721|end_char=729
+25	Kiev	Kiev	PROPN	NNP	Number=Sing	24	_	_	start_char=730|end_char=734
+26	from	from	SCONJ	IN	_	25	_	_	start_char=735|end_char=739
+27	destroying	destroy	VERB	VBG	VerbForm=Ger	26	_	_	start_char=740|end_char=750
+28	military	military	ADJ	JJ	Degree=Pos	27	_	_	start_char=751|end_char=759
+29	sites	site	NOUN	NNS	Number=Plur	28	_	_	start_char=760|end_char=765
+30	on	on	ADP	IN	_	29	_	_	start_char=766|end_char=768
+31	Russian	Russian	ADJ	JJ	Degree=Pos	30	_	_	start_char=769|end_char=776
+32	territory	territory	NOUN	NN	Number=Sing	31	_	_	start_char=777|end_char=786|SpaceAfter=No
+33	.	.	PUNCT	.	_	32	_	_	start_char=786|end_char=787
+
+# text = Not surprisingly, Moscow was outraged that Washington allowed its weapons to be used to strike Russia.
+# sent_id = 5
+1	Not	not	PART	RB	_	0	_	_	start_char=788|end_char=791
+2	surprisingly	surprisingly	ADV	RB	_	1	_	_	start_char=792|end_char=804|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=804|end_char=805
+4	Moscow	Moscow	PROPN	NNP	Number=Sing	3	_	_	start_char=806|end_char=812
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=813|end_char=816
+6	outraged	outrage	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	_	_	start_char=817|end_char=825
+7	that	that	SCONJ	IN	_	6	_	_	start_char=826|end_char=830
+8	Washington	Washington	PROPN	NNP	Number=Sing	7	_	_	start_char=831|end_char=841
+9	allowed	allow	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=842|end_char=849
+10	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	_	_	start_char=850|end_char=853
+11	weapons	weapon	NOUN	NNS	Number=Plur	10	_	_	start_char=854|end_char=861
+12	to	to	PART	TO	_	11	_	_	start_char=862|end_char=864
+13	be	be	AUX	VB	VerbForm=Inf	12	_	_	start_char=865|end_char=867
+14	used	use	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	13	_	_	start_char=868|end_char=872
+15	to	to	PART	TO	_	14	_	_	start_char=873|end_char=875
+16	strike	strike	VERB	VB	VerbForm=Inf	15	_	_	start_char=876|end_char=882
+17	Russia	Russia	PROPN	NNP	Number=Sing	16	_	_	start_char=883|end_char=889|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=889|end_char=890|SpacesAfter=\n
+
+# text = Surprisingly, the allies took no action despite knowing about the Ukrainian armed forces' plans to break the promise Ukraine had made, Jacques Beaux points out.
+# sent_id = 6
+1	Surprisingly	surprisingly	ADV	RB	_	0	_	_	start_char=891|end_char=903|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=903|end_char=904
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=905|end_char=908
+4	allies	ally	NOUN	NNS	Number=Plur	3	_	_	start_char=909|end_char=915
+5	took	take	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=916|end_char=920
+6	no	no	DET	DT	_	5	_	_	start_char=921|end_char=923
+7	action	action	NOUN	NN	Number=Sing	6	_	_	start_char=924|end_char=930
+8	despite	despite	SCONJ	IN	_	7	_	_	start_char=931|end_char=938
+9	knowing	know	VERB	VBG	VerbForm=Ger	8	_	_	start_char=939|end_char=946
+10	about	about	ADP	IN	_	9	_	_	start_char=947|end_char=952
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=953|end_char=956
+12	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	11	_	_	start_char=957|end_char=966
+13	armed	armed	ADJ	JJ	Degree=Pos	12	_	_	start_char=967|end_char=972
+14-15	forces'	_	_	_	_	_	_	_	start_char=973|end_char=980
+14	forces	force	NOUN	NNS	Number=Plur	13	_	_	start_char=973|end_char=979
+15	'	's	PART	POS	_	14	_	_	start_char=979|end_char=980
+16	plans	plan	NOUN	NNS	Number=Plur	15	_	_	start_char=981|end_char=986
+17	to	to	PART	TO	_	16	_	_	start_char=987|end_char=989
+18	break	break	VERB	VB	VerbForm=Inf	17	_	_	start_char=990|end_char=995
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=996|end_char=999
+20	promise	promise	NOUN	NN	Number=Sing	19	_	_	start_char=1000|end_char=1007
+21	Ukraine	Ukraine	PROPN	NNP	Number=Sing	20	_	_	start_char=1008|end_char=1015
+22	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	_	_	start_char=1016|end_char=1019
+23	made	make	VERB	VBN	Tense=Past|VerbForm=Part	22	_	_	start_char=1020|end_char=1024|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=1024|end_char=1025
+25	Jacques	Jacques	PROPN	NNP	Number=Sing	24	_	_	start_char=1026|end_char=1033
+26	Beaux	Beaux	PROPN	NNP	Number=Sing	25	_	_	start_char=1034|end_char=1039
+27	points	point	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	_	_	start_char=1040|end_char=1046
+28	out	out	ADP	RP	_	27	_	_	start_char=1047|end_char=1050|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=1050|end_char=1051
+
+# text = He recalls that the cluster munitions were supplied to stop the Russian infantry advance, not to shell civilians.
+# sent_id = 7
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1052|end_char=1054
+2	recalls	recall	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1055|end_char=1062
+3	that	that	SCONJ	IN	_	2	_	_	start_char=1063|end_char=1067
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1068|end_char=1071
+5	cluster	cluster	NOUN	NN	Number=Sing	4	_	_	start_char=1072|end_char=1079
+6	munitions	munition	NOUN	NNS	Number=Plur	5	_	_	start_char=1080|end_char=1089
+7	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=1090|end_char=1094
+8	supplied	supply	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	_	_	start_char=1095|end_char=1103
+9	to	to	PART	TO	_	8	_	_	start_char=1104|end_char=1106
+10	stop	stop	VERB	VB	VerbForm=Inf	9	_	_	start_char=1107|end_char=1111
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=1112|end_char=1115
+12	Russian	Russian	ADJ	JJ	Degree=Pos	11	_	_	start_char=1116|end_char=1123
+13	infantry	infantry	NOUN	NN	Number=Sing	12	_	_	start_char=1124|end_char=1132
+14	advance	advance	NOUN	NN	Number=Sing	13	_	_	start_char=1133|end_char=1140|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=1140|end_char=1141
+16	not	not	PART	RB	_	15	_	_	start_char=1142|end_char=1145
+17	to	to	PART	TO	_	16	_	_	start_char=1146|end_char=1148
+18	shell	shell	VERB	VB	VerbForm=Inf	17	_	_	start_char=1149|end_char=1154
+19	civilians	civilian	NOUN	NNS	Number=Plur	18	_	_	start_char=1155|end_char=1164|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=1164|end_char=1165
+
+# text = In his view, this approach is contrary to Ukraine's desire to "liberate" the peninsula.
+# sent_id = 8
+1	In	in	ADP	IN	_	0	_	_	start_char=1166|end_char=1168
+2	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	_	_	start_char=1169|end_char=1172
+3	view	view	NOUN	NN	Number=Sing	2	_	_	start_char=1173|end_char=1177|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1177|end_char=1178
+5	this	this	DET	DT	Number=Sing|PronType=Dem	4	_	_	start_char=1179|end_char=1183
+6	approach	approach	NOUN	NN	Number=Sing	5	_	_	start_char=1184|end_char=1192
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=1193|end_char=1195
+8	contrary	contrary	ADJ	JJ	Degree=Pos	7	_	_	start_char=1196|end_char=1204
+9	to	to	ADP	IN	_	8	_	_	start_char=1205|end_char=1207
+10-11	Ukraine's	_	_	_	_	_	_	_	start_char=1208|end_char=1217
+10	Ukraine	Ukraine	PROPN	NNP	Number=Sing	9	_	_	start_char=1208|end_char=1215
+11	's	's	PART	POS	_	10	_	_	start_char=1215|end_char=1217
+12	desire	desire	NOUN	NN	Number=Sing	11	_	_	start_char=1218|end_char=1224
+13	to	to	PART	TO	_	12	_	_	start_char=1225|end_char=1227
+14	"	"	PUNCT	``	_	13	_	_	start_char=1228|end_char=1229|SpaceAfter=No
+15	liberate	liberate	VERB	VB	VerbForm=Inf	14	_	_	start_char=1229|end_char=1237|SpaceAfter=No
+16	"	"	PUNCT	''	_	15	_	_	start_char=1237|end_char=1238
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=1239|end_char=1242
+18	peninsula	peninsula	NOUN	NN	Number=Sing	17	_	_	start_char=1243|end_char=1252|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=1252|end_char=1253|SpacesAfter=\n
+
+# text = Removing restrictions on strikes on Russia shows that the West is in despair over Kiev's failures, the former colonel stresses.
+# sent_id = 9
+1	Removing	remove	VERB	VBG	VerbForm=Ger	0	_	_	start_char=1254|end_char=1262
+2	restrictions	restriction	NOUN	NNS	Number=Plur	1	_	_	start_char=1263|end_char=1275
+3	on	on	ADP	IN	_	2	_	_	start_char=1276|end_char=1278
+4	strikes	strike	NOUN	NNS	Number=Plur	3	_	_	start_char=1279|end_char=1286
+5	on	on	ADP	IN	_	4	_	_	start_char=1287|end_char=1289
+6	Russia	Russia	PROPN	NNP	Number=Sing	5	_	_	start_char=1290|end_char=1296
+7	shows	show	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=1297|end_char=1302
+8	that	that	SCONJ	IN	_	7	_	_	start_char=1303|end_char=1307
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1308|end_char=1311
+10	West	West	PROPN	NNP	Number=Sing	9	_	_	start_char=1312|end_char=1316
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=1317|end_char=1319
+12	in	in	ADP	IN	_	11	_	_	start_char=1320|end_char=1322
+13	despair	despair	NOUN	NN	Number=Sing	12	_	_	start_char=1323|end_char=1330
+14	over	over	ADP	IN	_	13	_	_	start_char=1331|end_char=1335
+15-16	Kiev's	_	_	_	_	_	_	_	start_char=1336|end_char=1342
+15	Kiev	Kiev	PROPN	NNP	Number=Sing	14	_	_	start_char=1336|end_char=1340
+16	's	's	PART	POS	_	15	_	_	start_char=1340|end_char=1342
+17	failures	failure	NOUN	NNS	Number=Plur	16	_	_	start_char=1343|end_char=1351|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=1351|end_char=1352
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=1353|end_char=1356
+20	former	former	ADJ	JJ	Degree=Pos	19	_	_	start_char=1357|end_char=1363
+21	colonel	colonel	NOUN	NN	Number=Sing	20	_	_	start_char=1364|end_char=1371
+22	stresses	stress	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	_	_	start_char=1372|end_char=1380|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=1380|end_char=1381
+
+# text = He admits: whatever the Western mass media (mass media) say, the military advantage is now on Russia's side.
+# sent_id = 10
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1382|end_char=1384
+2	admits	admit	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1385|end_char=1391|SpaceAfter=No
+3	:	:	PUNCT	:	_	2	_	_	start_char=1391|end_char=1392
+4	whatever	whatever	PRON	WP	PronType=Rel	3	_	_	start_char=1393|end_char=1401
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1402|end_char=1405
+6	Western	western	ADJ	JJ	Degree=Pos	5	_	_	start_char=1406|end_char=1413
+7	mass	mass	ADJ	JJ	Degree=Pos	6	_	_	start_char=1414|end_char=1418
+8	media	media	NOUN	NN	Number=Sing	7	_	_	start_char=1419|end_char=1424
+9	(	(	PUNCT	-LRB-	_	8	_	_	start_char=1425|end_char=1426|SpaceAfter=No
+10	mass	mass	ADJ	JJ	Degree=Pos	9	_	_	start_char=1426|end_char=1430
+11	media	media	NOUN	NN	Number=Sing	10	_	_	start_char=1431|end_char=1436|SpaceAfter=No
+12	)	)	PUNCT	-RRB-	_	11	_	_	start_char=1436|end_char=1437
+13	say	say	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=1438|end_char=1441|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=1441|end_char=1442
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=1443|end_char=1446
+16	military	military	ADJ	JJ	Degree=Pos	15	_	_	start_char=1447|end_char=1455
+17	advantage	advantage	NOUN	NN	Number=Sing	16	_	_	start_char=1456|end_char=1465
+18	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=1466|end_char=1468
+19	now	now	ADV	RB	_	18	_	_	start_char=1469|end_char=1472
+20	on	on	ADP	IN	_	19	_	_	start_char=1473|end_char=1475
+21-22	Russia's	_	_	_	_	_	_	_	start_char=1476|end_char=1484
+21	Russia	Russia	PROPN	NNP	Number=Sing	20	_	_	start_char=1476|end_char=1482
+22	's	's	PART	POS	_	21	_	_	start_char=1482|end_char=1484
+23	side	side	NOUN	NN	Number=Sing	22	_	_	start_char=1485|end_char=1489|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=1489|end_char=1490|SpaceAfter=No
+

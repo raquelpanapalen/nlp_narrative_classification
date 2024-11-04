@@ -1,0 +1,298 @@
+# text = BILD: Russians in this place are a "growing disaster"
+# sent_id = 0
+1	BILD	BILD	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=4|SpaceAfter=No
+2	:	:	PUNCT	:	_	1	_	_	start_char=4|end_char=5
+3	Russians	Russian	PROPN	NNPS	Number=Plur	2	_	_	start_char=6|end_char=14
+4	in	in	ADP	IN	_	3	_	_	start_char=15|end_char=17
+5	this	this	DET	DT	Number=Sing|PronType=Dem	4	_	_	start_char=18|end_char=22
+6	place	place	NOUN	NN	Number=Sing	5	_	_	start_char=23|end_char=28
+7	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=29|end_char=32
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=33|end_char=34
+9	"	"	PUNCT	``	_	8	_	_	start_char=35|end_char=36|SpaceAfter=No
+10	growing	grow	VERB	VBG	VerbForm=Ger	9	_	_	start_char=36|end_char=43
+11	disaster	disaster	NOUN	NN	Number=Sing	10	_	_	start_char=44|end_char=52|SpaceAfter=No
+12	"	"	PUNCT	''	_	11	_	_	start_char=52|end_char=53|SpacesAfter=\n\n
+
+# text = Neither were they able to take Kharkiv nor create a buffer zone along the border to secure Belgorod
+# sent_id = 1
+1	Neither	neither	DET	DT	_	0	_	_	start_char=55|end_char=62
+2	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=63|end_char=67
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	_	_	start_char=68|end_char=72
+4	able	able	ADJ	JJ	Degree=Pos	3	_	_	start_char=73|end_char=77
+5	to	to	PART	TO	_	4	_	_	start_char=78|end_char=80
+6	take	take	VERB	VB	VerbForm=Inf	5	_	_	start_char=81|end_char=85
+7	Kharkiv	Kharkiv	PROPN	NNP	Number=Sing	6	_	_	start_char=86|end_char=93
+8	nor	nor	CCONJ	CC	_	7	_	_	start_char=94|end_char=97
+9	create	create	VERB	VB	VerbForm=Inf	8	_	_	start_char=98|end_char=104
+10	a	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=105|end_char=106
+11	buffer	buffer	NOUN	NN	Number=Sing	10	_	_	start_char=107|end_char=113
+12	zone	zone	NOUN	NN	Number=Sing	11	_	_	start_char=114|end_char=118
+13	along	along	ADP	IN	_	12	_	_	start_char=119|end_char=124
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=125|end_char=128
+15	border	border	NOUN	NN	Number=Sing	14	_	_	start_char=129|end_char=135
+16	to	to	PART	TO	_	15	_	_	start_char=136|end_char=138
+17	secure	secure	VERB	VB	VerbForm=Inf	16	_	_	start_char=139|end_char=145
+18	Belgorod	Belgorod	PROPN	NNP	Number=Sing	17	_	_	start_char=146|end_char=154|SpacesAfter=\n
+
+# text = The offensive of Russian troops in the Kharkiv region is becoming an "ever-growing catastrophe," writes German newspaper BILD's military analyst Julian Roepke.
+# sent_id = 2
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=155|end_char=158
+2	offensive	offensive	NOUN	NN	Number=Sing	1	_	_	start_char=159|end_char=168
+3	of	of	ADP	IN	_	2	_	_	start_char=169|end_char=171
+4	Russian	Russian	ADJ	JJ	Degree=Pos	3	_	_	start_char=172|end_char=179
+5	troops	troops	NOUN	NNS	Number=Plur	4	_	_	start_char=180|end_char=186
+6	in	in	ADP	IN	_	5	_	_	start_char=187|end_char=189
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=190|end_char=193
+8	Kharkiv	Kharkiv	PROPN	NNP	Number=Sing	7	_	_	start_char=194|end_char=201
+9	region	region	NOUN	NN	Number=Sing	8	_	_	start_char=202|end_char=208
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=209|end_char=211
+11	becoming	become	VERB	VBG	Tense=Pres|VerbForm=Part	10	_	_	start_char=212|end_char=220
+12	an	a	DET	DT	Definite=Ind|PronType=Art	11	_	_	start_char=221|end_char=223
+13	"	"	PUNCT	``	_	12	_	_	start_char=224|end_char=225|SpaceAfter=No
+14	ever	ever	ADV	RB	_	13	_	_	start_char=225|end_char=229|SpaceAfter=No
+15	-	-	PUNCT	HYPH	_	14	_	_	start_char=229|end_char=230|SpaceAfter=No
+16	growing	grow	VERB	VBG	VerbForm=Ger	15	_	_	start_char=230|end_char=237
+17	catastrophe	catastrophe	NOUN	NN	Number=Sing	16	_	_	start_char=238|end_char=249|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=249|end_char=250|SpaceAfter=No
+19	"	"	PUNCT	''	_	18	_	_	start_char=250|end_char=251
+20	writes	write	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	_	_	start_char=252|end_char=258
+21	German	German	ADJ	JJ	Degree=Pos	20	_	_	start_char=259|end_char=265
+22	newspaper	newspaper	NOUN	NN	Number=Sing	21	_	_	start_char=266|end_char=275
+23-24	BILD's	_	_	_	_	_	_	_	start_char=276|end_char=282
+23	BILD	BILD	PROPN	NNP	Number=Sing	22	_	_	start_char=276|end_char=280
+24	's	's	PART	POS	_	23	_	_	start_char=280|end_char=282
+25	military	military	ADJ	JJ	Degree=Pos	24	_	_	start_char=283|end_char=291
+26	analyst	analyst	NOUN	NN	Number=Sing	25	_	_	start_char=292|end_char=299
+27	Julian	Julian	PROPN	NNP	Number=Sing	26	_	_	start_char=300|end_char=306
+28	Roepke	Roepke	PROPN	NNP	Number=Sing	27	_	_	start_char=307|end_char=313|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=313|end_char=314|SpacesAfter=\n
+
+# text = The Russians "have neither succeeded in capturing Kharkiv nor in creating a 'buffer zone' along the border to secure Belgorod.
+# sent_id = 3
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=315|end_char=318
+2	Russians	Russian	PROPN	NNPS	Number=Plur	1	_	_	start_char=319|end_char=327
+3	"	"	PUNCT	``	_	2	_	_	start_char=328|end_char=329|SpaceAfter=No
+4	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=329|end_char=333
+5	neither	neither	ADV	RB	_	4	_	_	start_char=334|end_char=341
+6	succeeded	succeed	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=342|end_char=351
+7	in	in	SCONJ	IN	_	6	_	_	start_char=352|end_char=354
+8	capturing	capture	VERB	VBG	VerbForm=Ger	7	_	_	start_char=355|end_char=364
+9	Kharkiv	Kharkiv	PROPN	NNP	Number=Sing	8	_	_	start_char=365|end_char=372
+10	nor	nor	CCONJ	CC	_	9	_	_	start_char=373|end_char=376
+11	in	in	SCONJ	IN	_	10	_	_	start_char=377|end_char=379
+12	creating	create	VERB	VBG	VerbForm=Ger	11	_	_	start_char=380|end_char=388
+13	a	a	DET	DT	Definite=Ind|PronType=Art	12	_	_	start_char=389|end_char=390
+14	'	'	PUNCT	``	_	13	_	_	start_char=391|end_char=392|SpaceAfter=No
+15	buffer	buffer	NOUN	NN	Number=Sing	14	_	_	start_char=392|end_char=398
+16	zone	zone	NOUN	NN	Number=Sing	15	_	_	start_char=399|end_char=403|SpaceAfter=No
+17	'	'	PUNCT	''	_	16	_	_	start_char=403|end_char=404
+18	along	along	ADP	IN	_	17	_	_	start_char=405|end_char=410
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=411|end_char=414
+20	border	border	NOUN	NN	Number=Sing	19	_	_	start_char=415|end_char=421
+21	to	to	PART	TO	_	20	_	_	start_char=422|end_char=424
+22	secure	secure	VERB	VB	VerbForm=Inf	21	_	_	start_char=425|end_char=431
+23	Belgorod	Belgorod	PROPN	NNP	Number=Sing	22	_	_	start_char=432|end_char=440|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=440|end_char=441
+
+# text = And now, because of the heavy fighting, people and equipment have to be transferred there from other sections of the front," the expert explains.
+# sent_id = 4
+1	And	and	CCONJ	CC	_	0	_	_	start_char=442|end_char=445
+2	now	now	ADV	RB	_	1	_	_	start_char=446|end_char=449|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=449|end_char=450
+4	because	because	ADP	IN	_	3	_	_	start_char=451|end_char=458
+5	of	of	ADP	IN	_	4	_	_	start_char=459|end_char=461
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=462|end_char=465
+7	heavy	heavy	ADJ	JJ	Degree=Pos	6	_	_	start_char=466|end_char=471
+8	fighting	fighting	NOUN	NN	Number=Sing	7	_	_	start_char=472|end_char=480|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=480|end_char=481
+10	people	person	NOUN	NNS	Number=Plur	9	_	_	start_char=482|end_char=488
+11	and	and	CCONJ	CC	_	10	_	_	start_char=489|end_char=492
+12	equipment	equipment	NOUN	NN	Number=Sing	11	_	_	start_char=493|end_char=502
+13	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=503|end_char=507
+14	to	to	PART	TO	_	13	_	_	start_char=508|end_char=510
+15	be	be	AUX	VB	VerbForm=Inf	14	_	_	start_char=511|end_char=513
+16	transferred	transfer	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	15	_	_	start_char=514|end_char=525
+17	there	there	ADV	RB	PronType=Dem	16	_	_	start_char=526|end_char=531
+18	from	from	ADP	IN	_	17	_	_	start_char=532|end_char=536
+19	other	other	ADJ	JJ	Degree=Pos	18	_	_	start_char=537|end_char=542
+20	sections	section	NOUN	NNS	Number=Plur	19	_	_	start_char=543|end_char=551
+21	of	of	ADP	IN	_	20	_	_	start_char=552|end_char=554
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=555|end_char=558
+23	front	front	NOUN	NN	Number=Sing	22	_	_	start_char=559|end_char=564|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=564|end_char=565|SpaceAfter=No
+25	"	"	PUNCT	''	_	24	_	_	start_char=565|end_char=566
+26	the	the	DET	DT	Definite=Def|PronType=Art	25	_	_	start_char=567|end_char=570
+27	expert	expert	NOUN	NN	Number=Sing	26	_	_	start_char=571|end_char=577
+28	explains	explain	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	_	_	start_char=578|end_char=586|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=586|end_char=587|SpacesAfter=\n
+
+# text = The situation is worsened by the shortage of armoured vehicles.
+# sent_id = 5
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=588|end_char=591
+2	situation	situation	NOUN	NN	Number=Sing	1	_	_	start_char=592|end_char=601
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=602|end_char=604
+4	worsened	worsen	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=605|end_char=613
+5	by	by	ADP	IN	_	4	_	_	start_char=614|end_char=616
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=617|end_char=620
+7	shortage	shortage	NOUN	NN	Number=Sing	6	_	_	start_char=621|end_char=629
+8	of	of	ADP	IN	_	7	_	_	start_char=630|end_char=632
+9	armoured	armoured	ADJ	JJ	Degree=Pos	8	_	_	start_char=633|end_char=641
+10	vehicles	vehicle	NOUN	NNS	Number=Plur	9	_	_	start_char=642|end_char=650|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=650|end_char=651
+
+# text = Every month the Armed Forces of Ukraine (AFU) destroy about 80 tanks and 250 armoured personnel carriers and infantry fighting vehicles.
+# sent_id = 6
+1	Every	every	DET	DT	_	0	_	_	start_char=652|end_char=657
+2	month	month	NOUN	NN	Number=Sing	1	_	_	start_char=658|end_char=663
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=664|end_char=667
+4	Armed	armed	ADJ	NNP	Degree=Pos	3	_	_	start_char=668|end_char=673
+5	Forces	Force	PROPN	NNPS	Number=Plur	4	_	_	start_char=674|end_char=680
+6	of	of	ADP	IN	_	5	_	_	start_char=681|end_char=683
+7	Ukraine	Ukraine	PROPN	NNP	Number=Sing	6	_	_	start_char=684|end_char=691
+8	(	(	PUNCT	-LRB-	_	7	_	_	start_char=692|end_char=693|SpaceAfter=No
+9	AFU	AFU	PROPN	NNP	Number=Sing	8	_	_	start_char=693|end_char=696|SpaceAfter=No
+10	)	)	PUNCT	-RRB-	_	9	_	_	start_char=696|end_char=697
+11	destroy	destroy	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=698|end_char=705
+12	about	about	ADV	RB	_	11	_	_	start_char=706|end_char=711
+13	80	80	NUM	CD	NumForm=Digit|NumType=Card	12	_	_	start_char=712|end_char=714
+14	tanks	tank	NOUN	NNS	Number=Plur	13	_	_	start_char=715|end_char=720
+15	and	and	CCONJ	CC	_	14	_	_	start_char=721|end_char=724
+16	250	250	NUM	CD	NumForm=Digit|NumType=Card	15	_	_	start_char=725|end_char=728
+17	armoured	armoured	ADJ	JJ	Degree=Pos	16	_	_	start_char=729|end_char=737
+18	personnel	personnel	NOUN	NN	Number=Sing	17	_	_	start_char=738|end_char=747
+19	carriers	carrier	NOUN	NNS	Number=Plur	18	_	_	start_char=748|end_char=756
+20	and	and	CCONJ	CC	_	19	_	_	start_char=757|end_char=760
+21	infantry	infantry	NOUN	NN	Number=Sing	20	_	_	start_char=761|end_char=769
+22	fighting	fighting	NOUN	NN	Number=Sing	21	_	_	start_char=770|end_char=778
+23	vehicles	vehicle	NOUN	NNS	Number=Plur	22	_	_	start_char=779|end_char=787|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=787|end_char=788|SpacesAfter=\n
+
+# text = Russia has no time to make up for these losses.
+# sent_id = 7
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=789|end_char=795
+2	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=796|end_char=799
+3	no	no	DET	DT	_	2	_	_	start_char=800|end_char=802
+4	time	time	NOUN	NN	Number=Sing	3	_	_	start_char=803|end_char=807
+5	to	to	PART	TO	_	4	_	_	start_char=808|end_char=810
+6	make	make	VERB	VB	VerbForm=Inf	5	_	_	start_char=811|end_char=815
+7	up	up	ADP	RP	_	6	_	_	start_char=816|end_char=818
+8	for	for	ADP	IN	_	7	_	_	start_char=819|end_char=822
+9	these	this	DET	DT	Number=Plur|PronType=Dem	8	_	_	start_char=823|end_char=828
+10	losses	loss	NOUN	NNS	Number=Plur	9	_	_	start_char=829|end_char=835|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=835|end_char=836
+
+# text = Because of this, supplying the Russian troop group in Volchansk is already difficult.
+# sent_id = 8
+1	Because	because	ADP	IN	_	0	_	_	start_char=837|end_char=844
+2	of	of	ADP	IN	_	1	_	_	start_char=845|end_char=847
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	2	_	_	start_char=848|end_char=852|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=852|end_char=853
+5	supplying	supply	VERB	VBG	VerbForm=Ger	4	_	_	start_char=854|end_char=863
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=864|end_char=867
+7	Russian	Russian	ADJ	JJ	Degree=Pos	6	_	_	start_char=868|end_char=875
+8	troop	troop	NOUN	NN	Number=Sing	7	_	_	start_char=876|end_char=881
+9	group	group	NOUN	NN	Number=Sing	8	_	_	start_char=882|end_char=887
+10	in	in	ADP	IN	_	9	_	_	start_char=888|end_char=890
+11	Volchansk	Volchansk	PROPN	NNP	Number=Sing	10	_	_	start_char=891|end_char=900
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=901|end_char=903
+13	already	already	ADV	RB	_	12	_	_	start_char=904|end_char=911
+14	difficult	difficult	ADJ	JJ	Degree=Pos	13	_	_	start_char=912|end_char=921|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=921|end_char=922|SpacesAfter=\n
+
+# text = There is a five-kilometre-long road leading there (on the map), which is under continuous fire from the AFU.
+# sent_id = 9
+1	There	there	PRON	EX	_	0	_	_	start_char=923|end_char=928
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=929|end_char=931
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=932|end_char=933
+4	five	five	NUM	CD	NumForm=Word|NumType=Card	3	_	_	start_char=934|end_char=938|SpaceAfter=No
+5	-	-	PUNCT	HYPH	_	4	_	_	start_char=938|end_char=939|SpaceAfter=No
+6	kilometre	kilometre	NOUN	NN	Number=Sing	5	_	_	start_char=939|end_char=948|SpaceAfter=No
+7	-	-	PUNCT	HYPH	_	6	_	_	start_char=948|end_char=949|SpaceAfter=No
+8	long	long	ADJ	JJ	Degree=Pos	7	_	_	start_char=949|end_char=953
+9	road	road	NOUN	NN	Number=Sing	8	_	_	start_char=954|end_char=958
+10	leading	lead	VERB	VBG	VerbForm=Ger	9	_	_	start_char=959|end_char=966
+11	there	there	ADV	RB	PronType=Dem	10	_	_	start_char=967|end_char=972
+12	(	(	PUNCT	-LRB-	_	11	_	_	start_char=973|end_char=974|SpaceAfter=No
+13	on	on	ADP	IN	_	12	_	_	start_char=974|end_char=976
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=977|end_char=980
+15	map	map	NOUN	NN	Number=Sing	14	_	_	start_char=981|end_char=984|SpaceAfter=No
+16	)	)	PUNCT	-RRB-	_	15	_	_	start_char=984|end_char=985|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=985|end_char=986
+18	which	which	PRON	WDT	PronType=Rel	17	_	_	start_char=987|end_char=992
+19	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=993|end_char=995
+20	under	under	ADP	IN	_	19	_	_	start_char=996|end_char=1001
+21	continuous	continuous	ADJ	JJ	Degree=Pos	20	_	_	start_char=1002|end_char=1012
+22	fire	fire	NOUN	NN	Number=Sing	21	_	_	start_char=1013|end_char=1017
+23	from	from	ADP	IN	_	22	_	_	start_char=1018|end_char=1022
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=1023|end_char=1026
+25	AFU	AFU	PROPN	NNP	Number=Sing	24	_	_	start_char=1027|end_char=1030|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=1030|end_char=1031|SpacesAfter=\n
+
+# text = In the absence of armoured vehicles, the Russians are sending civilian equipment over them without adequate protection.
+# sent_id = 10
+1	In	in	ADP	IN	_	0	_	_	start_char=1032|end_char=1034
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=1035|end_char=1038
+3	absence	absence	NOUN	NN	Number=Sing	2	_	_	start_char=1039|end_char=1046
+4	of	of	ADP	IN	_	3	_	_	start_char=1047|end_char=1049
+5	armoured	armoured	ADJ	JJ	Degree=Pos	4	_	_	start_char=1050|end_char=1058
+6	vehicles	vehicle	NOUN	NNS	Number=Plur	5	_	_	start_char=1059|end_char=1067|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=1067|end_char=1068
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=1069|end_char=1072
+9	Russians	Russian	PROPN	NNPS	Number=Plur	8	_	_	start_char=1073|end_char=1081
+10	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=1082|end_char=1085
+11	sending	send	VERB	VBG	Tense=Pres|VerbForm=Part	10	_	_	start_char=1086|end_char=1093
+12	civilian	civilian	ADJ	JJ	Degree=Pos	11	_	_	start_char=1094|end_char=1102
+13	equipment	equipment	NOUN	NN	Number=Sing	12	_	_	start_char=1103|end_char=1112
+14	over	over	ADP	IN	_	13	_	_	start_char=1113|end_char=1117
+15	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	14	_	_	start_char=1118|end_char=1122
+16	without	without	ADP	IN	_	15	_	_	start_char=1123|end_char=1130
+17	adequate	adequate	ADJ	JJ	Degree=Pos	16	_	_	start_char=1131|end_char=1139
+18	protection	protection	NOUN	NN	Number=Sing	17	_	_	start_char=1140|end_char=1150|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=1150|end_char=1151
+
+# text = Footage has already shown a destroyed Soviet UAZ-2206 van as well as a UAZ-469.
+# sent_id = 11
+1	Footage	footage	NOUN	NN	Number=Sing	0	_	_	start_char=1152|end_char=1159
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1160|end_char=1163
+3	already	already	ADV	RB	_	2	_	_	start_char=1164|end_char=1171
+4	shown	show	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=1172|end_char=1177
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=1178|end_char=1179
+6	destroyed	destroy	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=1180|end_char=1189
+7	Soviet	Soviet	PROPN	NNP	Number=Sing	6	_	_	start_char=1190|end_char=1196
+8	UAZ	UAZ	PROPN	NNP	Number=Sing	7	_	_	start_char=1197|end_char=1200|SpaceAfter=No
+9	-	-	PUNCT	HYPH	_	8	_	_	start_char=1200|end_char=1201|SpaceAfter=No
+10	2206	2206	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=1201|end_char=1205
+11	van	van	PROPN	NNP	Number=Sing	10	_	_	start_char=1206|end_char=1209
+12	as	as	ADV	RB	_	11	_	_	start_char=1210|end_char=1212
+13	well	well	ADV	RB	Degree=Pos	12	_	_	start_char=1213|end_char=1217
+14	as	as	ADP	IN	_	13	_	_	start_char=1218|end_char=1220
+15	a	a	DET	DT	Definite=Ind|PronType=Art	14	_	_	start_char=1221|end_char=1222
+16	UAZ	UAZ	PROPN	NNP	Number=Sing	15	_	_	start_char=1223|end_char=1226|SpaceAfter=No
+17	-	-	SYM	SYM	_	16	_	_	start_char=1226|end_char=1227|SpaceAfter=No
+18	469	469	NUM	CD	NumForm=Digit|NumType=Card	17	_	_	start_char=1227|end_char=1230|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=1230|end_char=1231
+
+# text = According to Roepke, civilian equipment is being thrown into the fighting in the direction of the village of Glubokoye.
+# sent_id = 12
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=1232|end_char=1241
+2	to	to	ADP	IN	_	1	_	_	start_char=1242|end_char=1244
+3	Roepke	Roepke	PROPN	NNP	Number=Sing	2	_	_	start_char=1245|end_char=1251|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1251|end_char=1252
+5	civilian	civilian	ADJ	JJ	Degree=Pos	4	_	_	start_char=1253|end_char=1261
+6	equipment	equipment	NOUN	NN	Number=Sing	5	_	_	start_char=1262|end_char=1271
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=1272|end_char=1274
+8	being	be	AUX	VBG	VerbForm=Ger	7	_	_	start_char=1275|end_char=1280
+9	thrown	throw	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	_	_	start_char=1281|end_char=1287
+10	into	into	ADP	IN	_	9	_	_	start_char=1288|end_char=1292
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=1293|end_char=1296
+12	fighting	fighting	NOUN	NN	Number=Sing	11	_	_	start_char=1297|end_char=1305
+13	in	in	ADP	IN	_	12	_	_	start_char=1306|end_char=1308
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=1309|end_char=1312
+15	direction	direction	NOUN	NN	Number=Sing	14	_	_	start_char=1313|end_char=1322
+16	of	of	ADP	IN	_	15	_	_	start_char=1323|end_char=1325
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=1326|end_char=1329
+18	village	village	NOUN	NN	Number=Sing	17	_	_	start_char=1330|end_char=1337
+19	of	of	ADP	IN	_	18	_	_	start_char=1338|end_char=1340
+20	Glubokoye	Glubokoye	PROPN	NNP	Number=Sing	19	_	_	start_char=1341|end_char=1350|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=1350|end_char=1351|SpaceAfter=No
+

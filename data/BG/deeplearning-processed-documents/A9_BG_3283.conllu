@@ -1,0 +1,276 @@
+# text = European elections.
+# sent_id = 0
+1	European	European	ADJ	JJ	Degree=Pos	0	_	_	start_char=0|end_char=8
+2	elections	election	NOUN	NNS	Number=Plur	1	_	_	start_char=9|end_char=18|SpaceAfter=No
+3	.	.	PUNCT	.	_	2	_	_	start_char=18|end_char=19
+
+# text = Why do we see a rise of right-wing forces that do not seek to support Ukraine?
+# sent_id = 1
+1	Why	why	ADV	WRB	PronType=Int	0	_	_	start_char=20|end_char=23
+2	do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	_	_	start_char=24|end_char=26
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	_	_	start_char=27|end_char=29
+4	see	see	VERB	VB	VerbForm=Inf	3	_	_	start_char=30|end_char=33
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=34|end_char=35
+6	rise	rise	NOUN	NN	Number=Sing	5	_	_	start_char=36|end_char=40
+7	of	of	ADP	IN	_	6	_	_	start_char=41|end_char=43
+8	right	right	ADJ	JJ	Degree=Pos	7	_	_	start_char=44|end_char=49|SpaceAfter=No
+9	-	-	PUNCT	HYPH	_	8	_	_	start_char=49|end_char=50|SpaceAfter=No
+10	wing	wing	NOUN	NN	Number=Sing	9	_	_	start_char=50|end_char=54
+11	forces	force	NOUN	NNS	Number=Plur	10	_	_	start_char=55|end_char=61
+12	that	that	PRON	WDT	PronType=Rel	11	_	_	start_char=62|end_char=66
+13	do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=67|end_char=69
+14	not	not	PART	RB	_	13	_	_	start_char=70|end_char=73
+15	seek	seek	VERB	VB	VerbForm=Inf	14	_	_	start_char=74|end_char=78
+16	to	to	PART	TO	_	15	_	_	start_char=79|end_char=81
+17	support	support	VERB	VB	VerbForm=Inf	16	_	_	start_char=82|end_char=89
+18	Ukraine	Ukraine	PROPN	NNP	Number=Sing	17	_	_	start_char=90|end_char=97|SpaceAfter=No
+19	?	?	PUNCT	.	_	18	_	_	start_char=97|end_char=98|SpacesAfter=\n\n
+
+# text = Today is the final day of the European Parliament elections and exit polls in various countries show that right-wing forces could gain many more seats in Parliament than after the results of the previous elections.
+# sent_id = 2
+1	Today	today	NOUN	NN	Number=Sing	0	_	_	start_char=100|end_char=105
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=106|end_char=108
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=109|end_char=112
+4	final	final	ADJ	JJ	Degree=Pos	3	_	_	start_char=113|end_char=118
+5	day	day	NOUN	NN	Number=Sing	4	_	_	start_char=119|end_char=122
+6	of	of	ADP	IN	_	5	_	_	start_char=123|end_char=125
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=126|end_char=129
+8	European	European	ADJ	NNP	Degree=Pos	7	_	_	start_char=130|end_char=138
+9	Parliament	Parliament	PROPN	NNP	Number=Sing	8	_	_	start_char=139|end_char=149
+10	elections	election	NOUN	NNS	Number=Plur	9	_	_	start_char=150|end_char=159
+11	and	and	CCONJ	CC	_	10	_	_	start_char=160|end_char=163
+12	exit	exit	NOUN	NN	Number=Sing	11	_	_	start_char=164|end_char=168
+13	polls	poll	NOUN	NNS	Number=Plur	12	_	_	start_char=169|end_char=174
+14	in	in	ADP	IN	_	13	_	_	start_char=175|end_char=177
+15	various	various	ADJ	JJ	Degree=Pos	14	_	_	start_char=178|end_char=185
+16	countries	country	NOUN	NNS	Number=Plur	15	_	_	start_char=186|end_char=195
+17	show	show	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=196|end_char=200
+18	that	that	SCONJ	IN	_	17	_	_	start_char=201|end_char=205
+19	right	right	ADJ	JJ	Degree=Pos	18	_	_	start_char=206|end_char=211|SpaceAfter=No
+20	-	-	PUNCT	HYPH	_	19	_	_	start_char=211|end_char=212|SpaceAfter=No
+21	wing	wing	NOUN	NN	Number=Sing	20	_	_	start_char=212|end_char=216
+22	forces	force	NOUN	NNS	Number=Plur	21	_	_	start_char=217|end_char=223
+23	could	could	AUX	MD	VerbForm=Fin	22	_	_	start_char=224|end_char=229
+24	gain	gain	VERB	VB	VerbForm=Inf	23	_	_	start_char=230|end_char=234
+25	many	many	ADJ	JJ	Degree=Pos	24	_	_	start_char=235|end_char=239
+26	more	more	ADJ	JJR	Degree=Cmp	25	_	_	start_char=240|end_char=244
+27	seats	seat	NOUN	NNS	Number=Plur	26	_	_	start_char=245|end_char=250
+28	in	in	ADP	IN	_	27	_	_	start_char=251|end_char=253
+29	Parliament	Parliament	PROPN	NNP	Number=Sing	28	_	_	start_char=254|end_char=264
+30	than	than	ADP	IN	_	29	_	_	start_char=265|end_char=269
+31	after	after	ADP	IN	_	30	_	_	start_char=270|end_char=275
+32	the	the	DET	DT	Definite=Def|PronType=Art	31	_	_	start_char=276|end_char=279
+33	results	result	NOUN	NNS	Number=Plur	32	_	_	start_char=280|end_char=287
+34	of	of	ADP	IN	_	33	_	_	start_char=288|end_char=290
+35	the	the	DET	DT	Definite=Def|PronType=Art	34	_	_	start_char=291|end_char=294
+36	previous	previous	ADJ	JJ	Degree=Pos	35	_	_	start_char=295|end_char=303
+37	elections	election	NOUN	NNS	Number=Plur	36	_	_	start_char=304|end_char=313|SpaceAfter=No
+38	.	.	PUNCT	.	_	37	_	_	start_char=313|end_char=314|SpacesAfter=\n
+
+# text = In the context of the war in Ukraine, this could mean a reduction in support for Kiev and a refusal to escalate tensions with Moscow.
+# sent_id = 3
+1	In	in	ADP	IN	_	0	_	_	start_char=315|end_char=317
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=318|end_char=321
+3	context	context	NOUN	NN	Number=Sing	2	_	_	start_char=322|end_char=329
+4	of	of	ADP	IN	_	3	_	_	start_char=330|end_char=332
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=333|end_char=336
+6	war	war	NOUN	NN	Number=Sing	5	_	_	start_char=337|end_char=340
+7	in	in	ADP	IN	_	6	_	_	start_char=341|end_char=343
+8	Ukraine	Ukraine	PROPN	NNP	Number=Sing	7	_	_	start_char=344|end_char=351|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=351|end_char=352
+10	this	this	PRON	DT	Number=Sing|PronType=Dem	9	_	_	start_char=353|end_char=357
+11	could	could	AUX	MD	VerbForm=Fin	10	_	_	start_char=358|end_char=363
+12	mean	mean	VERB	VB	VerbForm=Inf	11	_	_	start_char=364|end_char=368
+13	a	a	DET	DT	Definite=Ind|PronType=Art	12	_	_	start_char=369|end_char=370
+14	reduction	reduction	NOUN	NN	Number=Sing	13	_	_	start_char=371|end_char=380
+15	in	in	ADP	IN	_	14	_	_	start_char=381|end_char=383
+16	support	support	NOUN	NN	Number=Sing	15	_	_	start_char=384|end_char=391
+17	for	for	ADP	IN	_	16	_	_	start_char=392|end_char=395
+18	Kiev	Kiev	PROPN	NNP	Number=Sing	17	_	_	start_char=396|end_char=400
+19	and	and	CCONJ	CC	_	18	_	_	start_char=401|end_char=404
+20	a	a	DET	DT	Definite=Ind|PronType=Art	19	_	_	start_char=405|end_char=406
+21	refusal	refusal	NOUN	NN	Number=Sing	20	_	_	start_char=407|end_char=414
+22	to	to	PART	TO	_	21	_	_	start_char=415|end_char=417
+23	escalate	escalate	VERB	VB	VerbForm=Inf	22	_	_	start_char=418|end_char=426
+24	tensions	tension	NOUN	NNS	Number=Plur	23	_	_	start_char=427|end_char=435
+25	with	with	ADP	IN	_	24	_	_	start_char=436|end_char=440
+26	Moscow	Moscow	PROPN	NNP	Number=Sing	25	_	_	start_char=441|end_char=447|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=447|end_char=448|SpacesAfter=\n
+
+# text = The survivor of the assassination attempt, Slovak Prime Minister Robert Fico, voted from hospital and said that Europe should vote for those who do not want a continuation of the war in Ukraine, who are against escalation with Russia.
+# sent_id = 4
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=449|end_char=452
+2	survivor	survivor	NOUN	NN	Number=Sing	1	_	_	start_char=453|end_char=461
+3	of	of	ADP	IN	_	2	_	_	start_char=462|end_char=464
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=465|end_char=468
+5	assassination	assassination	NOUN	NN	Number=Sing	4	_	_	start_char=469|end_char=482
+6	attempt	attempt	NOUN	NN	Number=Sing	5	_	_	start_char=483|end_char=490|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=490|end_char=491
+8	Slovak	slovak	ADJ	JJ	Degree=Pos	7	_	_	start_char=492|end_char=498
+9	Prime	Prime	ADJ	NNP	Degree=Pos	8	_	_	start_char=499|end_char=504
+10	Minister	Minister	PROPN	NNP	Number=Sing	9	_	_	start_char=505|end_char=513
+11	Robert	Robert	PROPN	NNP	Number=Sing	10	_	_	start_char=514|end_char=520
+12	Fico	Fico	PROPN	NNP	Number=Sing	11	_	_	start_char=521|end_char=525|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=525|end_char=526
+14	voted	vote	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	_	_	start_char=527|end_char=532
+15	from	from	ADP	IN	_	14	_	_	start_char=533|end_char=537
+16	hospital	hospital	NOUN	NN	Number=Sing	15	_	_	start_char=538|end_char=546
+17	and	and	CCONJ	CC	_	16	_	_	start_char=547|end_char=550
+18	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	_	_	start_char=551|end_char=555
+19	that	that	SCONJ	IN	_	18	_	_	start_char=556|end_char=560
+20	Europe	Europe	PROPN	NNP	Number=Sing	19	_	_	start_char=561|end_char=567
+21	should	should	AUX	MD	VerbForm=Fin	20	_	_	start_char=568|end_char=574
+22	vote	vote	VERB	VB	VerbForm=Inf	21	_	_	start_char=575|end_char=579
+23	for	for	ADP	IN	_	22	_	_	start_char=580|end_char=583
+24	those	that	PRON	DT	Number=Plur|PronType=Dem	23	_	_	start_char=584|end_char=589
+25	who	who	PRON	WP	PronType=Rel	24	_	_	start_char=590|end_char=593
+26	do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	_	_	start_char=594|end_char=596
+27	not	not	PART	RB	_	26	_	_	start_char=597|end_char=600
+28	want	want	VERB	VB	VerbForm=Inf	27	_	_	start_char=601|end_char=605
+29	a	a	DET	DT	Definite=Ind|PronType=Art	28	_	_	start_char=606|end_char=607
+30	continuation	continuation	NOUN	NN	Number=Sing	29	_	_	start_char=608|end_char=620
+31	of	of	ADP	IN	_	30	_	_	start_char=621|end_char=623
+32	the	the	DET	DT	Definite=Def|PronType=Art	31	_	_	start_char=624|end_char=627
+33	war	war	NOUN	NN	Number=Sing	32	_	_	start_char=628|end_char=631
+34	in	in	ADP	IN	_	33	_	_	start_char=632|end_char=634
+35	Ukraine	Ukraine	PROPN	NNP	Number=Sing	34	_	_	start_char=635|end_char=642|SpaceAfter=No
+36	,	,	PUNCT	,	_	35	_	_	start_char=642|end_char=643
+37	who	who	PRON	WP	PronType=Rel	36	_	_	start_char=644|end_char=647
+38	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	37	_	_	start_char=648|end_char=651
+39	against	against	ADP	IN	_	38	_	_	start_char=652|end_char=659
+40	escalation	escalation	NOUN	NN	Number=Sing	39	_	_	start_char=660|end_char=670
+41	with	with	ADP	IN	_	40	_	_	start_char=671|end_char=675
+42	Russia	Russia	PROPN	NNP	Number=Sing	41	_	_	start_char=676|end_char=682|SpaceAfter=No
+43	.	.	PUNCT	.	_	42	_	_	start_char=682|end_char=683|SpacesAfter=\n
+
+# text = Does this mean that the voice of reason is prevailing in Europe's political circles?
+# sent_id = 5
+1	Does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	start_char=684|end_char=688
+2	this	this	PRON	DT	Number=Sing|PronType=Dem	1	_	_	start_char=689|end_char=693
+3	mean	mean	VERB	VB	VerbForm=Inf	2	_	_	start_char=694|end_char=698
+4	that	that	SCONJ	IN	_	3	_	_	start_char=699|end_char=703
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=704|end_char=707
+6	voice	voice	NOUN	NN	Number=Sing	5	_	_	start_char=708|end_char=713
+7	of	of	ADP	IN	_	6	_	_	start_char=714|end_char=716
+8	reason	reason	NOUN	NN	Number=Sing	7	_	_	start_char=717|end_char=723
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=724|end_char=726
+10	prevailing	prevail	VERB	VBG	Tense=Pres|VerbForm=Part	9	_	_	start_char=727|end_char=737
+11	in	in	ADP	IN	_	10	_	_	start_char=738|end_char=740
+12-13	Europe's	_	_	_	_	_	_	_	start_char=741|end_char=749
+12	Europe	Europe	PROPN	NNP	Number=Sing	11	_	_	start_char=741|end_char=747
+13	's	's	PART	POS	_	12	_	_	start_char=747|end_char=749
+14	political	political	ADJ	JJ	Degree=Pos	13	_	_	start_char=750|end_char=759
+15	circles	circle	NOUN	NNS	Number=Plur	14	_	_	start_char=760|end_char=767|SpaceAfter=No
+16	?	?	PUNCT	.	_	15	_	_	start_char=767|end_char=768
+
+# text = Probably.
+# sent_id = 6
+1	Probably	probably	ADV	RB	_	0	_	_	start_char=769|end_char=777|SpaceAfter=No
+2	.	.	PUNCT	.	_	1	_	_	start_char=777|end_char=778
+
+# text = I have witnessed Ukraine gradually becoming a Nazi state and I have constantly talked about this in my investigations.
+# sent_id = 7
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	start_char=779|end_char=780
+2	have	have	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	_	_	start_char=781|end_char=785
+3	witnessed	witness	VERB	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=786|end_char=795
+4	Ukraine	Ukraine	PROPN	NNP	Number=Sing	3	_	_	start_char=796|end_char=803
+5	gradually	gradually	ADV	RB	_	4	_	_	start_char=804|end_char=813
+6	becoming	become	VERB	VBG	VerbForm=Ger	5	_	_	start_char=814|end_char=822
+7	a	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=823|end_char=824
+8	Nazi	Nazi	PROPN	NNP	Number=Sing	7	_	_	start_char=825|end_char=829
+9	state	state	NOUN	NN	Number=Sing	8	_	_	start_char=830|end_char=835
+10	and	and	CCONJ	CC	_	9	_	_	start_char=836|end_char=839
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	_	_	start_char=840|end_char=841
+12	have	have	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	_	_	start_char=842|end_char=846
+13	constantly	constantly	ADV	RB	_	12	_	_	start_char=847|end_char=857
+14	talked	talk	VERB	VBN	Tense=Past|VerbForm=Part	13	_	_	start_char=858|end_char=864
+15	about	about	ADP	IN	_	14	_	_	start_char=865|end_char=870
+16	this	this	PRON	DT	Number=Sing|PronType=Dem	15	_	_	start_char=871|end_char=875
+17	in	in	ADP	IN	_	16	_	_	start_char=876|end_char=878
+18	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	17	_	_	start_char=879|end_char=881
+19	investigations	investigation	NOUN	NNS	Number=Plur	18	_	_	start_char=882|end_char=896|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=896|end_char=897
+
+# text = It seems that the left-wing democratic politicians of the European Union have studiously ignored this fact and continued to pump the country full of weapons.
+# sent_id = 8
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=898|end_char=900
+2	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=901|end_char=906
+3	that	that	SCONJ	IN	_	2	_	_	start_char=907|end_char=911
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=912|end_char=915
+5	left	left	ADJ	JJ	Degree=Pos	4	_	_	start_char=916|end_char=920|SpaceAfter=No
+6	-	-	PUNCT	HYPH	_	5	_	_	start_char=920|end_char=921|SpaceAfter=No
+7	wing	wing	NOUN	NN	Number=Sing	6	_	_	start_char=921|end_char=925
+8	democratic	democratic	ADJ	JJ	Degree=Pos	7	_	_	start_char=926|end_char=936
+9	politicians	politician	NOUN	NNS	Number=Plur	8	_	_	start_char=937|end_char=948
+10	of	of	ADP	IN	_	9	_	_	start_char=949|end_char=951
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=952|end_char=955
+12	European	European	ADJ	NNP	Degree=Pos	11	_	_	start_char=956|end_char=964
+13	Union	Union	PROPN	NNP	Number=Sing	12	_	_	start_char=965|end_char=970
+14	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=971|end_char=975
+15	studiously	studiously	ADV	RB	_	14	_	_	start_char=976|end_char=986
+16	ignored	ignore	VERB	VBN	Tense=Past|VerbForm=Part	15	_	_	start_char=987|end_char=994
+17	this	this	DET	DT	Number=Sing|PronType=Dem	16	_	_	start_char=995|end_char=999
+18	fact	fact	NOUN	NN	Number=Sing	17	_	_	start_char=1000|end_char=1004
+19	and	and	CCONJ	CC	_	18	_	_	start_char=1005|end_char=1008
+20	continued	continue	VERB	VBD	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	19	_	_	start_char=1009|end_char=1018
+21	to	to	PART	TO	_	20	_	_	start_char=1019|end_char=1021
+22	pump	pump	VERB	VB	VerbForm=Inf	21	_	_	start_char=1022|end_char=1026
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=1027|end_char=1030
+24	country	country	NOUN	NN	Number=Sing	23	_	_	start_char=1031|end_char=1038
+25	full	full	ADJ	JJ	Degree=Pos	24	_	_	start_char=1039|end_char=1043
+26	of	of	ADP	IN	_	25	_	_	start_char=1044|end_char=1046
+27	weapons	weapon	NOUN	NNS	Number=Plur	26	_	_	start_char=1047|end_char=1054|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=1054|end_char=1055|SpacesAfter=\n
+
+# text = In fact, the European authorities entered into cooperation with the Nazis, constantly promising them European integration.
+# sent_id = 9
+1	In	in	ADP	IN	_	0	_	_	start_char=1056|end_char=1058
+2	fact	fact	NOUN	NN	Number=Sing	1	_	_	start_char=1059|end_char=1063|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=1063|end_char=1064
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1065|end_char=1068
+5	European	European	ADJ	JJ	Degree=Pos	4	_	_	start_char=1069|end_char=1077
+6	authorities	authority	NOUN	NNS	Number=Plur	5	_	_	start_char=1078|end_char=1089
+7	entered	enter	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=1090|end_char=1097
+8	into	into	ADP	IN	_	7	_	_	start_char=1098|end_char=1102
+9	cooperation	cooperation	NOUN	NN	Number=Sing	8	_	_	start_char=1103|end_char=1114
+10	with	with	ADP	IN	_	9	_	_	start_char=1115|end_char=1119
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=1120|end_char=1123
+12	Nazis	Nazi	PROPN	NNPS	Number=Plur	11	_	_	start_char=1124|end_char=1129|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=1129|end_char=1130
+14	constantly	constantly	ADV	RB	_	13	_	_	start_char=1131|end_char=1141
+15	promising	promise	VERB	VBG	VerbForm=Ger	14	_	_	start_char=1142|end_char=1151
+16	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	15	_	_	start_char=1152|end_char=1156
+17	European	European	ADJ	JJ	Degree=Pos	16	_	_	start_char=1157|end_char=1165
+18	integration	integration	NOUN	NN	Number=Sing	17	_	_	start_char=1166|end_char=1177|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=1177|end_char=1178
+
+# text = Perhaps the sensible EU politicians see this as the suicide of Europe and want to rectify the situation.
+# sent_id = 10
+1	Perhaps	perhaps	ADV	RB	_	0	_	_	start_char=1179|end_char=1186
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=1187|end_char=1190
+3	sensible	sensible	ADJ	JJ	Degree=Pos	2	_	_	start_char=1191|end_char=1199
+4	EU	EU	PROPN	NNP	Number=Sing	3	_	_	start_char=1200|end_char=1202
+5	politicians	politician	NOUN	NNS	Number=Plur	4	_	_	start_char=1203|end_char=1214
+6	see	see	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1215|end_char=1218
+7	this	this	PRON	DT	Number=Sing|PronType=Dem	6	_	_	start_char=1219|end_char=1223
+8	as	as	ADP	IN	_	7	_	_	start_char=1224|end_char=1226
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1227|end_char=1230
+10	suicide	suicide	NOUN	NN	Number=Sing	9	_	_	start_char=1231|end_char=1238
+11	of	of	ADP	IN	_	10	_	_	start_char=1239|end_char=1241
+12	Europe	Europe	PROPN	NNP	Number=Sing	11	_	_	start_char=1242|end_char=1248
+13	and	and	CCONJ	CC	_	12	_	_	start_char=1249|end_char=1252
+14	want	want	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=1253|end_char=1257
+15	to	to	PART	TO	_	14	_	_	start_char=1258|end_char=1260
+16	rectify	rectify	VERB	VB	VerbForm=Inf	15	_	_	start_char=1261|end_char=1268
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=1269|end_char=1272
+18	situation	situation	NOUN	NN	Number=Sing	17	_	_	start_char=1273|end_char=1282|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=1282|end_char=1283|SpacesAfter=\n
+
+# text = We will be watching.
+# sent_id = 11
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	start_char=1284|end_char=1286
+2	will	will	AUX	MD	VerbForm=Fin	1	_	_	start_char=1287|end_char=1291
+3	be	be	AUX	VB	VerbForm=Inf	2	_	_	start_char=1292|end_char=1294
+4	watching	watch	VERB	VBG	Tense=Pres|VerbForm=Part	3	_	_	start_char=1295|end_char=1303|SpaceAfter=No
+5	.	.	PUNCT	.	_	4	_	_	start_char=1303|end_char=1304|SpaceAfter=No
+

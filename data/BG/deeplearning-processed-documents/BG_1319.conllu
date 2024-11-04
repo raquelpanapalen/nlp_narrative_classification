@@ -1,0 +1,507 @@
+# text = Scorching heat: Over 50 degrees plague the US and Mexico
+# sent_id = 0
+1	Scorching	scorch	VERB	VBG	VerbForm=Ger	0	_	_	start_char=0|end_char=9
+2	heat	heat	NOUN	NN	Number=Sing	1	_	_	start_char=10|end_char=14|SpaceAfter=No
+3	:	:	PUNCT	:	_	2	_	_	start_char=14|end_char=15
+4	Over	over	ADV	RB	_	3	_	_	start_char=16|end_char=20
+5	50	50	NUM	CD	NumForm=Digit|NumType=Card	4	_	_	start_char=21|end_char=23
+6	degrees	degree	NOUN	NNS	Number=Plur	5	_	_	start_char=24|end_char=31
+7	plague	plague	VERB	VBP	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=32|end_char=38
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=39|end_char=42
+9	US	US	PROPN	NNP	Number=Sing	8	_	_	start_char=43|end_char=45
+10	and	and	CCONJ	CC	_	9	_	_	start_char=46|end_char=49
+11	Mexico	Mexico	PROPN	NNP	Number=Sing	10	_	_	start_char=50|end_char=56|SpacesAfter=\n\n
+
+# text = Earth is 1.64 degrees hotter than in pre-industrial era Temperatures in 2023 were the highest in human history, and the Earth was 1.64 °C hotter than in the pre-industrial era.
+# sent_id = 1
+1	Earth	Earth	PROPN	NNP	Number=Sing	0	_	_	start_char=58|end_char=63
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=64|end_char=66
+3	1.64	1.64	NUM	CD	NumForm=Digit|NumType=Frac	2	_	_	start_char=67|end_char=71
+4	degrees	degree	NOUN	NNS	Number=Plur	3	_	_	start_char=72|end_char=79
+5	hotter	hot	ADJ	JJR	Degree=Cmp	4	_	_	start_char=80|end_char=86
+6	than	than	ADP	IN	_	5	_	_	start_char=87|end_char=91
+7	in	in	ADP	IN	_	6	_	_	start_char=92|end_char=94
+8	pre-industrial	pre-industrial	ADJ	JJ	Degree=Pos	7	_	_	start_char=95|end_char=109
+9	era	era	NOUN	NN	Number=Sing	8	_	_	start_char=110|end_char=113|SpacesAfter=\n
+10	Temperatures	temperature	NOUN	NNS	Number=Plur	9	_	_	start_char=114|end_char=126
+11	in	in	ADP	IN	_	10	_	_	start_char=127|end_char=129
+12	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	11	_	_	start_char=130|end_char=134
+13	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=135|end_char=139
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=140|end_char=143
+15	highest	high	ADJ	JJS	Degree=Sup	14	_	_	start_char=144|end_char=151
+16	in	in	ADP	IN	_	15	_	_	start_char=152|end_char=154
+17	human	human	ADJ	JJ	Degree=Pos	16	_	_	start_char=155|end_char=160
+18	history	history	NOUN	NN	Number=Sing	17	_	_	start_char=161|end_char=168|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=168|end_char=169
+20	and	and	CCONJ	CC	_	19	_	_	start_char=170|end_char=173
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=174|end_char=177
+22	Earth	Earth	PROPN	NNP	Number=Sing	21	_	_	start_char=178|end_char=183
+23	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	_	_	start_char=184|end_char=187
+24	1.64	1.64	NUM	CD	NumForm=Digit|NumType=Frac	23	_	_	start_char=188|end_char=192
+25	°C	°c	NOUN	NNS	Number=Plur	24	_	_	start_char=193|end_char=195
+26	hotter	hot	ADJ	JJR	Degree=Cmp	25	_	_	start_char=196|end_char=202
+27	than	than	ADP	IN	_	26	_	_	start_char=203|end_char=207
+28	in	in	ADP	IN	_	27	_	_	start_char=208|end_char=210
+29	the	the	DET	DT	Definite=Def|PronType=Art	28	_	_	start_char=211|end_char=214
+30	pre-industrial	pre-industrial	ADJ	JJ	Degree=Pos	29	_	_	start_char=215|end_char=229
+31	era	era	NOUN	NN	Number=Sing	30	_	_	start_char=230|end_char=233|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=233|end_char=234
+
+# text = That's according to a new study that tracked monthly averages from July 2023 to June 2024.
+# sent_id = 2
+1-2	That's	_	_	_	_	_	_	_	start_char=235|end_char=241
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=235|end_char=239
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=239|end_char=241
+3	according	accord	VERB	VBG	VerbForm=Ger	2	_	_	start_char=242|end_char=251
+4	to	to	ADP	IN	_	3	_	_	start_char=252|end_char=254
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=255|end_char=256
+6	new	new	ADJ	JJ	Degree=Pos	5	_	_	start_char=257|end_char=260
+7	study	study	NOUN	NN	Number=Sing	6	_	_	start_char=261|end_char=266
+8	that	that	PRON	WDT	PronType=Rel	7	_	_	start_char=267|end_char=271
+9	tracked	track	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=272|end_char=279
+10	monthly	monthly	ADJ	JJ	Degree=Pos	9	_	_	start_char=280|end_char=287
+11	averages	average	NOUN	NNS	Number=Plur	10	_	_	start_char=288|end_char=296
+12	from	from	ADP	IN	_	11	_	_	start_char=297|end_char=301
+13	July	July	PROPN	NNP	Number=Sing	12	_	_	start_char=302|end_char=306
+14	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	13	_	_	start_char=307|end_char=311
+15	to	to	ADP	IN	_	14	_	_	start_char=312|end_char=314
+16	June	June	PROPN	NNP	Number=Sing	15	_	_	start_char=315|end_char=319
+17	2024	2024	NUM	CD	NumForm=Digit|NumType=Card	16	_	_	start_char=320|end_char=324|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=324|end_char=325|SpacesAfter=\n
+
+# text = The heat is creating increasingly unusual phenomena in every part of the world - overheating causes disorientation and heat strokes as early as the start of the summer season, air traffic is disrupted, and in Kuwait even the cones on the highways have melted.
+# sent_id = 3
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=326|end_char=329
+2	heat	heat	NOUN	NN	Number=Sing	1	_	_	start_char=330|end_char=334
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=335|end_char=337
+4	creating	create	VERB	VBG	Tense=Pres|VerbForm=Part	3	_	_	start_char=338|end_char=346
+5	increasingly	increasingly	ADV	RB	_	4	_	_	start_char=347|end_char=359
+6	unusual	unusual	ADJ	JJ	Degree=Pos	5	_	_	start_char=360|end_char=367
+7	phenomena	phenomenon	NOUN	NNS	Number=Plur	6	_	_	start_char=368|end_char=377
+8	in	in	ADP	IN	_	7	_	_	start_char=378|end_char=380
+9	every	every	DET	DT	_	8	_	_	start_char=381|end_char=386
+10	part	part	NOUN	NN	Number=Sing	9	_	_	start_char=387|end_char=391
+11	of	of	ADP	IN	_	10	_	_	start_char=392|end_char=394
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=395|end_char=398
+13	world	world	NOUN	NN	Number=Sing	12	_	_	start_char=399|end_char=404
+14	-	-	PUNCT	HYPH	_	13	_	_	start_char=405|end_char=406
+15	overheating	overheating	NOUN	NN	Number=Sing	14	_	_	start_char=407|end_char=418
+16	causes	cause	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=419|end_char=425
+17	disorientation	disorientation	NOUN	NN	Number=Sing	16	_	_	start_char=426|end_char=440
+18	and	and	CCONJ	CC	_	17	_	_	start_char=441|end_char=444
+19	heat	heat	NOUN	NN	Number=Sing	18	_	_	start_char=445|end_char=449
+20	strokes	stroke	NOUN	NNS	Number=Plur	19	_	_	start_char=450|end_char=457
+21	as	as	ADV	RB	_	20	_	_	start_char=458|end_char=460
+22	early	early	ADV	RB	Degree=Pos	21	_	_	start_char=461|end_char=466
+23	as	as	ADP	IN	_	22	_	_	start_char=467|end_char=469
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=470|end_char=473
+25	start	start	NOUN	NN	Number=Sing	24	_	_	start_char=474|end_char=479
+26	of	of	ADP	IN	_	25	_	_	start_char=480|end_char=482
+27	the	the	DET	DT	Definite=Def|PronType=Art	26	_	_	start_char=483|end_char=486
+28	summer	summer	NOUN	NN	Number=Sing	27	_	_	start_char=487|end_char=493
+29	season	season	NOUN	NN	Number=Sing	28	_	_	start_char=494|end_char=500|SpaceAfter=No
+30	,	,	PUNCT	,	_	29	_	_	start_char=500|end_char=501
+31	air	air	NOUN	NN	Number=Sing	30	_	_	start_char=502|end_char=505
+32	traffic	traffic	NOUN	NN	Number=Sing	31	_	_	start_char=506|end_char=513
+33	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	_	_	start_char=514|end_char=516
+34	disrupted	disrupt	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	33	_	_	start_char=517|end_char=526|SpaceAfter=No
+35	,	,	PUNCT	,	_	34	_	_	start_char=526|end_char=527
+36	and	and	CCONJ	CC	_	35	_	_	start_char=528|end_char=531
+37	in	in	ADP	IN	_	36	_	_	start_char=532|end_char=534
+38	Kuwait	Kuwait	PROPN	NNP	Number=Sing	37	_	_	start_char=535|end_char=541
+39	even	even	ADV	RB	_	38	_	_	start_char=542|end_char=546
+40	the	the	DET	DT	Definite=Def|PronType=Art	39	_	_	start_char=547|end_char=550
+41	cones	cone	NOUN	NNS	Number=Plur	40	_	_	start_char=551|end_char=556
+42	on	on	ADP	IN	_	41	_	_	start_char=557|end_char=559
+43	the	the	DET	DT	Definite=Def|PronType=Art	42	_	_	start_char=560|end_char=563
+44	highways	highway	NOUN	NNS	Number=Plur	43	_	_	start_char=564|end_char=572
+45	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	44	_	_	start_char=573|end_char=577
+46	melted	melt	VERB	VBN	Tense=Past|VerbForm=Part	45	_	_	start_char=578|end_char=584|SpaceAfter=No
+47	.	.	PUNCT	.	_	46	_	_	start_char=584|end_char=585
+
+# text = Against this backdrop, hurricanes more powerful than ever are devastating thousands of homes.
+# sent_id = 4
+1	Against	against	ADP	IN	_	0	_	_	start_char=586|end_char=593
+2	this	this	DET	DT	Number=Sing|PronType=Dem	1	_	_	start_char=594|end_char=598
+3	backdrop	backdrop	NOUN	NN	Number=Sing	2	_	_	start_char=599|end_char=607|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=607|end_char=608
+5	hurricanes	hurricane	NOUN	NNS	Number=Plur	4	_	_	start_char=609|end_char=619
+6	more	more	ADV	RBR	Degree=Cmp	5	_	_	start_char=620|end_char=624
+7	powerful	powerful	ADJ	JJ	Degree=Pos	6	_	_	start_char=625|end_char=633
+8	than	than	ADP	IN	_	7	_	_	start_char=634|end_char=638
+9	ever	ever	ADV	RB	_	8	_	_	start_char=639|end_char=643
+10	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=644|end_char=647
+11	devastating	devastating	VERB	VBG	Tense=Pres|VerbForm=Part	10	_	_	start_char=648|end_char=659
+12	thousands	thousand	NOUN	NNS	Number=Plur	11	_	_	start_char=660|end_char=669
+13	of	of	ADP	IN	_	12	_	_	start_char=670|end_char=672
+14	homes	home	NOUN	NNS	Number=Plur	13	_	_	start_char=673|end_char=678|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=678|end_char=679|SpacesAfter=\n
+
+# text = In the US, for example, while temperatures in places on the West Coast were knocking 51 degrees, the eastern states of Texas and Louisiana were being battered by Hurricane Beryl.
+# sent_id = 5
+1	In	in	ADP	IN	_	0	_	_	start_char=680|end_char=682
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=683|end_char=686
+3	US	US	PROPN	NNP	Number=Sing	2	_	_	start_char=687|end_char=689|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=689|end_char=690
+5	for	for	ADP	IN	_	4	_	_	start_char=691|end_char=694
+6	example	example	NOUN	NN	Number=Sing	5	_	_	start_char=695|end_char=702|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=702|end_char=703
+8	while	while	SCONJ	IN	_	7	_	_	start_char=704|end_char=709
+9	temperatures	temperature	NOUN	NNS	Number=Plur	8	_	_	start_char=710|end_char=722
+10	in	in	ADP	IN	_	9	_	_	start_char=723|end_char=725
+11	places	place	NOUN	NNS	Number=Plur	10	_	_	start_char=726|end_char=732
+12	on	on	ADP	IN	_	11	_	_	start_char=733|end_char=735
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=736|end_char=739
+14	West	West	PROPN	NNP	Number=Sing	13	_	_	start_char=740|end_char=744
+15	Coast	Coast	PROPN	NNP	Number=Sing	14	_	_	start_char=745|end_char=750
+16	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	15	_	_	start_char=751|end_char=755
+17	knocking	knock	VERB	VBG	Tense=Pres|VerbForm=Part	16	_	_	start_char=756|end_char=764
+18	51	51	NUM	CD	NumForm=Digit|NumType=Card	17	_	_	start_char=765|end_char=767
+19	degrees	degree	NOUN	NNS	Number=Plur	18	_	_	start_char=768|end_char=775|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=775|end_char=776
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=777|end_char=780
+22	eastern	eastern	ADJ	JJ	Degree=Pos	21	_	_	start_char=781|end_char=788
+23	states	state	NOUN	NNS	Number=Plur	22	_	_	start_char=789|end_char=795
+24	of	of	ADP	IN	_	23	_	_	start_char=796|end_char=798
+25	Texas	Texas	PROPN	NNP	Number=Sing	24	_	_	start_char=799|end_char=804
+26	and	and	CCONJ	CC	_	25	_	_	start_char=805|end_char=808
+27	Louisiana	Louisiana	PROPN	NNP	Number=Sing	26	_	_	start_char=809|end_char=818
+28	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	27	_	_	start_char=819|end_char=823
+29	being	be	AUX	VBG	VerbForm=Ger	28	_	_	start_char=824|end_char=829
+30	battered	batter	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	29	_	_	start_char=830|end_char=838
+31	by	by	ADP	IN	_	30	_	_	start_char=839|end_char=841
+32	Hurricane	Hurricane	PROPN	NNP	Number=Sing	31	_	_	start_char=842|end_char=851
+33	Beryl	Beryl	PROPN	NNP	Number=Sing	32	_	_	start_char=852|end_char=857|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=857|end_char=858
+
+# text = It picked up speed all week, reaching Category 5 hurricane status - with winds stronger than 252 kilometres per hour.
+# sent_id = 6
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=859|end_char=861
+2	picked	pick	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=862|end_char=868
+3	up	up	ADP	RP	_	2	_	_	start_char=869|end_char=871
+4	speed	speed	NOUN	NN	Number=Sing	3	_	_	start_char=872|end_char=877
+5	all	all	DET	DT	_	4	_	_	start_char=878|end_char=881
+6	week	week	NOUN	NN	Number=Sing	5	_	_	start_char=882|end_char=886|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=886|end_char=887
+8	reaching	reach	VERB	VBG	VerbForm=Ger	7	_	_	start_char=888|end_char=896
+9	Category	category	NOUN	NN	Number=Sing	8	_	_	start_char=897|end_char=905
+10	5	5	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=906|end_char=907
+11	hurricane	hurricane	NOUN	NN	Number=Sing	10	_	_	start_char=908|end_char=917
+12	status	status	NOUN	NN	Number=Sing	11	_	_	start_char=918|end_char=924
+13	-	-	PUNCT	,	_	12	_	_	start_char=925|end_char=926
+14	with	with	ADP	IN	_	13	_	_	start_char=927|end_char=931
+15	winds	wind	NOUN	NNS	Number=Plur	14	_	_	start_char=932|end_char=937
+16	stronger	strong	ADJ	JJR	Degree=Cmp	15	_	_	start_char=938|end_char=946
+17	than	than	ADP	IN	_	16	_	_	start_char=947|end_char=951
+18	252	252	NUM	CD	NumForm=Digit|NumType=Card	17	_	_	start_char=952|end_char=955
+19	kilometres	kilometre	NOUN	NNS	Number=Plur	18	_	_	start_char=956|end_char=966
+20	per	per	ADP	IN	_	19	_	_	start_char=967|end_char=970
+21	hour	hour	NOUN	NN	Number=Sing	20	_	_	start_char=971|end_char=975|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=975|end_char=976|SpacesAfter=\n
+
+# text = It hit the Caribbean islands first, and also passed through Mexico, leaving thousands homeless and sweeping away entire populated areas.
+# sent_id = 7
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=977|end_char=979
+2	hit	hit	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=980|end_char=983
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=984|end_char=987
+4	Caribbean	caribbean	ADJ	JJ	Degree=Pos	3	_	_	start_char=988|end_char=997
+5	islands	island	NOUN	NNS	Number=Plur	4	_	_	start_char=998|end_char=1005
+6	first	first	ADV	RB	NumType=Ord	5	_	_	start_char=1006|end_char=1011|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=1011|end_char=1012
+8	and	and	CCONJ	CC	_	7	_	_	start_char=1013|end_char=1016
+9	also	also	ADV	RB	_	8	_	_	start_char=1017|end_char=1021
+10	passed	pass	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=1022|end_char=1028
+11	through	through	ADP	IN	_	10	_	_	start_char=1029|end_char=1036
+12	Mexico	Mexico	PROPN	NNP	Number=Sing	11	_	_	start_char=1037|end_char=1043|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=1043|end_char=1044
+14	leaving	leave	VERB	VBG	VerbForm=Ger	13	_	_	start_char=1045|end_char=1052
+15	thousands	thousand	NOUN	NNS	Number=Plur	14	_	_	start_char=1053|end_char=1062
+16	homeless	homeless	ADJ	JJ	Degree=Pos	15	_	_	start_char=1063|end_char=1071
+17	and	and	CCONJ	CC	_	16	_	_	start_char=1072|end_char=1075
+18	sweeping	sweep	VERB	VBG	VerbForm=Ger	17	_	_	start_char=1076|end_char=1084
+19	away	away	ADV	RB	_	18	_	_	start_char=1085|end_char=1089
+20	entire	entire	ADJ	JJ	Degree=Pos	19	_	_	start_char=1090|end_char=1096
+21	populated	populate	VERB	VBN	Tense=Past|VerbForm=Part	20	_	_	start_char=1097|end_char=1106
+22	areas	area	NOUN	NNS	Number=Plur	21	_	_	start_char=1107|end_char=1112|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=1112|end_char=1113
+
+# text = When it hit Texas and Louisiana on Monday, it had downgraded to Category 1 strength and still claimed eight victims and knocked out power to nearly 3 million Americans.
+# sent_id = 8
+1	When	when	ADV	WRB	PronType=Int	0	_	_	start_char=1114|end_char=1118
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	_	_	start_char=1119|end_char=1121
+3	hit	hit	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1122|end_char=1125
+4	Texas	Texas	PROPN	NNP	Number=Sing	3	_	_	start_char=1126|end_char=1131
+5	and	and	CCONJ	CC	_	4	_	_	start_char=1132|end_char=1135
+6	Louisiana	Louisiana	PROPN	NNP	Number=Sing	5	_	_	start_char=1136|end_char=1145
+7	on	on	ADP	IN	_	6	_	_	start_char=1146|end_char=1148
+8	Monday	Monday	PROPN	NNP	Number=Sing	7	_	_	start_char=1149|end_char=1155|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1155|end_char=1156
+10	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	_	_	start_char=1157|end_char=1159
+11	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=1160|end_char=1163
+12	downgraded	downgrade	VERB	VBN	Tense=Past|VerbForm=Part	11	_	_	start_char=1164|end_char=1174
+13	to	to	ADP	IN	_	12	_	_	start_char=1175|end_char=1177
+14	Category	category	PROPN	NNP	Number=Sing	13	_	_	start_char=1178|end_char=1186
+15	1	1	NUM	CD	NumForm=Digit|NumType=Card	14	_	_	start_char=1187|end_char=1188
+16	strength	strength	NOUN	NN	Number=Sing	15	_	_	start_char=1189|end_char=1197
+17	and	and	CCONJ	CC	_	16	_	_	start_char=1198|end_char=1201
+18	still	still	ADV	RB	_	17	_	_	start_char=1202|end_char=1207
+19	claimed	claim	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	_	_	start_char=1208|end_char=1215
+20	eight	eight	NUM	CD	NumForm=Word|NumType=Card	19	_	_	start_char=1216|end_char=1221
+21	victims	victim	NOUN	NNS	Number=Plur	20	_	_	start_char=1222|end_char=1229
+22	and	and	CCONJ	CC	_	21	_	_	start_char=1230|end_char=1233
+23	knocked	knock	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	_	_	start_char=1234|end_char=1241
+24	out	out	ADP	RP	_	23	_	_	start_char=1242|end_char=1245
+25	power	power	NOUN	NN	Number=Sing	24	_	_	start_char=1246|end_char=1251
+26	to	to	ADP	IN	_	25	_	_	start_char=1252|end_char=1254
+27	nearly	nearly	ADV	RB	_	26	_	_	start_char=1255|end_char=1261
+28	3	3	NUM	CD	NumForm=Digit|NumType=Card	27	_	_	start_char=1262|end_char=1263
+29	million	million	NUM	CD	NumForm=Word|NumType=Card	28	_	_	start_char=1264|end_char=1271
+30	Americans	American	PROPN	NNPS	Number=Plur	29	_	_	start_char=1272|end_char=1281|SpaceAfter=No
+31	.	.	PUNCT	.	_	30	_	_	start_char=1281|end_char=1282|SpacesAfter=\n
+
+# text = Authorities said it could take them more than a week to restore power.
+# sent_id = 9
+1	Authorities	authority	NOUN	NNS	Number=Plur	0	_	_	start_char=1283|end_char=1294
+2	said	say	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1295|end_char=1299
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	_	_	start_char=1300|end_char=1302
+4	could	could	AUX	MD	VerbForm=Fin	3	_	_	start_char=1303|end_char=1308
+5	take	take	VERB	VB	VerbForm=Inf	4	_	_	start_char=1309|end_char=1313
+6	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	5	_	_	start_char=1314|end_char=1318
+7	more	more	ADJ	JJR	Degree=Cmp	6	_	_	start_char=1319|end_char=1323
+8	than	than	ADP	IN	_	7	_	_	start_char=1324|end_char=1328
+9	a	a	DET	DT	Definite=Ind|PronType=Art	8	_	_	start_char=1329|end_char=1330
+10	week	week	NOUN	NN	Number=Sing	9	_	_	start_char=1331|end_char=1335
+11	to	to	PART	TO	_	10	_	_	start_char=1336|end_char=1338
+12	restore	restore	VERB	VB	VerbForm=Inf	11	_	_	start_char=1339|end_char=1346
+13	power	power	NOUN	NN	Number=Sing	12	_	_	start_char=1347|end_char=1352|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=1352|end_char=1353
+
+# text = Against this backdrop, temperatures in the region were expected to reach 40 degrees Celsius as early as Tuesday.
+# sent_id = 10
+1	Against	against	ADP	IN	_	0	_	_	start_char=1354|end_char=1361
+2	this	this	DET	DT	Number=Sing|PronType=Dem	1	_	_	start_char=1362|end_char=1366
+3	backdrop	backdrop	NOUN	NN	Number=Sing	2	_	_	start_char=1367|end_char=1375|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1375|end_char=1376
+5	temperatures	temperature	NOUN	NNS	Number=Plur	4	_	_	start_char=1377|end_char=1389
+6	in	in	ADP	IN	_	5	_	_	start_char=1390|end_char=1392
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1393|end_char=1396
+8	region	region	NOUN	NN	Number=Sing	7	_	_	start_char=1397|end_char=1403
+9	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=1404|end_char=1408
+10	expected	expect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	9	_	_	start_char=1409|end_char=1417
+11	to	to	PART	TO	_	10	_	_	start_char=1418|end_char=1420
+12	reach	reach	VERB	VB	VerbForm=Inf	11	_	_	start_char=1421|end_char=1426
+13	40	40	NUM	CD	NumForm=Digit|NumType=Card	12	_	_	start_char=1427|end_char=1429
+14	degrees	degree	NOUN	NNS	Number=Plur	13	_	_	start_char=1430|end_char=1437
+15	Celsius	Celsius	PROPN	NNP	Number=Sing	14	_	_	start_char=1438|end_char=1445
+16	as	as	ADV	RB	_	15	_	_	start_char=1446|end_char=1448
+17	early	early	ADV	RB	Degree=Pos	16	_	_	start_char=1449|end_char=1454
+18	as	as	ADP	IN	_	17	_	_	start_char=1455|end_char=1457
+19	Tuesday	Tuesday	PROPN	NNP	Number=Sing	18	_	_	start_char=1458|end_char=1465|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=1465|end_char=1466|SpacesAfter=\n
+
+# text = And on the West Coast, July began with extreme heat - in California, a long-lasting heat wave broke records 96 days in a row.
+# sent_id = 11
+1	And	and	CCONJ	CC	_	0	_	_	start_char=1467|end_char=1470
+2	on	on	ADP	IN	_	1	_	_	start_char=1471|end_char=1473
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1474|end_char=1477
+4	West	West	PROPN	NNP	Number=Sing	3	_	_	start_char=1478|end_char=1482
+5	Coast	Coast	PROPN	NNP	Number=Sing	4	_	_	start_char=1483|end_char=1488|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=1488|end_char=1489
+7	July	July	PROPN	NNP	Number=Sing	6	_	_	start_char=1490|end_char=1494
+8	began	begin	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=1495|end_char=1500
+9	with	with	ADP	IN	_	8	_	_	start_char=1501|end_char=1505
+10	extreme	extreme	ADJ	JJ	Degree=Pos	9	_	_	start_char=1506|end_char=1513
+11	heat	heat	NOUN	NN	Number=Sing	10	_	_	start_char=1514|end_char=1518
+12	-	-	PUNCT	HYPH	_	11	_	_	start_char=1519|end_char=1520
+13	in	in	ADP	IN	_	12	_	_	start_char=1521|end_char=1523
+14	California	California	PROPN	NNP	Number=Sing	13	_	_	start_char=1524|end_char=1534|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=1534|end_char=1535
+16	a	a	DET	DT	Definite=Ind|PronType=Art	15	_	_	start_char=1536|end_char=1537
+17	long	long	ADJ	JJ	Degree=Pos	16	_	_	start_char=1538|end_char=1542|SpaceAfter=No
+18	-	-	PUNCT	HYPH	_	17	_	_	start_char=1542|end_char=1543|SpaceAfter=No
+19	lasting	lasting	ADJ	JJ	Degree=Pos	18	_	_	start_char=1543|end_char=1550
+20	heat	heat	NOUN	NN	Number=Sing	19	_	_	start_char=1551|end_char=1555
+21	wave	wave	NOUN	NN	Number=Sing	20	_	_	start_char=1556|end_char=1560
+22	broke	break	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	_	_	start_char=1561|end_char=1566
+23	records	record	NOUN	NNS	Number=Plur	22	_	_	start_char=1567|end_char=1574
+24	96	96	NUM	CD	NumForm=Digit|NumType=Card	23	_	_	start_char=1575|end_char=1577
+25	days	day	NOUN	NNS	Number=Plur	24	_	_	start_char=1578|end_char=1582
+26	in	in	ADP	IN	_	25	_	_	start_char=1583|end_char=1585
+27	a	a	DET	DT	Definite=Ind|PronType=Art	26	_	_	start_char=1586|end_char=1587
+28	row	row	NOUN	NN	Number=Sing	27	_	_	start_char=1588|end_char=1591|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=1591|end_char=1592|SpacesAfter=\n
+
+# text = Palm Springs broke 51 degrees on July 4, reaching its highest since records began in 1893.
+# sent_id = 12
+1	Palm	Palm	PROPN	NNP	Number=Sing	0	_	_	start_char=1593|end_char=1597
+2	Springs	Springs	PROPN	NNP	Number=Sing	1	_	_	start_char=1598|end_char=1605
+3	broke	break	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1606|end_char=1611
+4	51	51	NUM	CD	NumForm=Digit|NumType=Card	3	_	_	start_char=1612|end_char=1614
+5	degrees	degree	NOUN	NNS	Number=Plur	4	_	_	start_char=1615|end_char=1622
+6	on	on	ADP	IN	_	5	_	_	start_char=1623|end_char=1625
+7	July	July	PROPN	NNP	Number=Sing	6	_	_	start_char=1626|end_char=1630
+8	4	4	NUM	CD	NumForm=Digit|NumType=Card	7	_	_	start_char=1631|end_char=1632|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1632|end_char=1633
+10	reaching	reach	VERB	VBG	VerbForm=Ger	9	_	_	start_char=1634|end_char=1642
+11	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	_	_	start_char=1643|end_char=1646
+12	highest	high	ADJ	JJS	Degree=Sup	11	_	_	start_char=1647|end_char=1654
+13	since	since	SCONJ	IN	_	12	_	_	start_char=1655|end_char=1660
+14	records	record	NOUN	NNS	Number=Plur	13	_	_	start_char=1661|end_char=1668
+15	began	begin	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=1669|end_char=1674
+16	in	in	ADP	IN	_	15	_	_	start_char=1675|end_char=1677
+17	1893	1893	NUM	CD	NumForm=Digit|NumType=Card	16	_	_	start_char=1678|end_char=1682|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=1682|end_char=1683
+
+# text = In Las Vegas, thermometers also passed 50 degrees.
+# sent_id = 13
+1	In	in	ADP	IN	_	0	_	_	start_char=1684|end_char=1686
+2	Las	Las	PROPN	NNP	Number=Sing	1	_	_	start_char=1687|end_char=1690
+3	Vegas	Vegas	PROPN	NNP	Number=Sing	2	_	_	start_char=1691|end_char=1696|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1696|end_char=1697
+5	thermometers	thermometer	NOUN	NNS	Number=Plur	4	_	_	start_char=1698|end_char=1710
+6	also	also	ADV	RB	_	5	_	_	start_char=1711|end_char=1715
+7	passed	pass	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=1716|end_char=1722
+8	50	50	NUM	CD	NumForm=Digit|NumType=Card	7	_	_	start_char=1723|end_char=1725
+9	degrees	degree	NOUN	NNS	Number=Plur	8	_	_	start_char=1726|end_char=1733|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=1733|end_char=1734
+
+# text = Shortly before being pummeled by the hurricane, Mexico also recorded its hottest day on record, at 51.9 degrees.
+# sent_id = 14
+1	Shortly	shortly	ADV	RB	_	0	_	_	start_char=1735|end_char=1742
+2	before	before	SCONJ	IN	_	1	_	_	start_char=1743|end_char=1749
+3	being	be	AUX	VBG	VerbForm=Ger	2	_	_	start_char=1750|end_char=1755
+4	pummeled	pummel	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=1756|end_char=1764
+5	by	by	ADP	IN	_	4	_	_	start_char=1765|end_char=1767
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1768|end_char=1771
+7	hurricane	hurricane	NOUN	NN	Number=Sing	6	_	_	start_char=1772|end_char=1781|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=1781|end_char=1782
+9	Mexico	Mexico	PROPN	NNP	Number=Sing	8	_	_	start_char=1783|end_char=1789
+10	also	also	ADV	RB	_	9	_	_	start_char=1790|end_char=1794
+11	recorded	record	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=1795|end_char=1803
+12	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	_	_	start_char=1804|end_char=1807
+13	hottest	hot	ADJ	JJS	Degree=Sup	12	_	_	start_char=1808|end_char=1815
+14	day	day	NOUN	NN	Number=Sing	13	_	_	start_char=1816|end_char=1819
+15	on	on	ADP	IN	_	14	_	_	start_char=1820|end_char=1822
+16	record	record	NOUN	NN	Number=Sing	15	_	_	start_char=1823|end_char=1829|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=1829|end_char=1830
+18	at	at	ADP	IN	_	17	_	_	start_char=1831|end_char=1833
+19	51.9	51.9	NUM	CD	NumForm=Digit|NumType=Card	18	_	_	start_char=1834|end_char=1838
+20	degrees	degree	NOUN	NNS	Number=Plur	19	_	_	start_char=1839|end_char=1846|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=1846|end_char=1847|SpacesAfter=\n
+
+# text = The heat also caused another massive traffic jam in New York City, where the Third Avenue Bridge, which connects the Bronx to Manhattan, was blocked during a rotation on Monday due to overheating.
+# sent_id = 15
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1848|end_char=1851
+2	heat	heat	NOUN	NN	Number=Sing	1	_	_	start_char=1852|end_char=1856
+3	also	also	ADV	RB	_	2	_	_	start_char=1857|end_char=1861
+4	caused	cause	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=1862|end_char=1868
+5	another	another	DET	DT	_	4	_	_	start_char=1869|end_char=1876
+6	massive	massive	ADJ	JJ	Degree=Pos	5	_	_	start_char=1877|end_char=1884
+7	traffic	traffic	NOUN	NN	Number=Sing	6	_	_	start_char=1885|end_char=1892
+8	jam	jam	NOUN	NN	Number=Sing	7	_	_	start_char=1893|end_char=1896
+9	in	in	ADP	IN	_	8	_	_	start_char=1897|end_char=1899
+10	New	New	ADJ	NNP	Degree=Pos	9	_	_	start_char=1900|end_char=1903
+11	York	York	PROPN	NNP	Number=Sing	10	_	_	start_char=1904|end_char=1908
+12	City	City	PROPN	NNP	Number=Sing	11	_	_	start_char=1909|end_char=1913|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=1913|end_char=1914
+14	where	where	ADV	WRB	PronType=Rel	13	_	_	start_char=1915|end_char=1920
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=1921|end_char=1924
+16	Third	Third	PROPN	NNP	Number=Sing	15	_	_	start_char=1925|end_char=1930
+17	Avenue	Avenue	PROPN	NNP	Number=Sing	16	_	_	start_char=1931|end_char=1937
+18	Bridge	Bridge	PROPN	NNP	Number=Sing	17	_	_	start_char=1938|end_char=1944|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=1944|end_char=1945
+20	which	which	PRON	WDT	PronType=Rel	19	_	_	start_char=1946|end_char=1951
+21	connects	connect	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	_	_	start_char=1952|end_char=1960
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=1961|end_char=1964
+23	Bronx	Bronx	PROPN	NNP	Number=Sing	22	_	_	start_char=1965|end_char=1970
+24	to	to	ADP	IN	_	23	_	_	start_char=1971|end_char=1973
+25	Manhattan	Manhattan	PROPN	NNP	Number=Sing	24	_	_	start_char=1974|end_char=1983|SpaceAfter=No
+26	,	,	PUNCT	,	_	25	_	_	start_char=1983|end_char=1984
+27	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	26	_	_	start_char=1985|end_char=1988
+28	blocked	block	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	27	_	_	start_char=1989|end_char=1996
+29	during	during	ADP	IN	_	28	_	_	start_char=1997|end_char=2003
+30	a	a	DET	DT	Definite=Ind|PronType=Art	29	_	_	start_char=2004|end_char=2005
+31	rotation	rotation	NOUN	NN	Number=Sing	30	_	_	start_char=2006|end_char=2014
+32	on	on	ADP	IN	_	31	_	_	start_char=2015|end_char=2017
+33	Monday	Monday	PROPN	NNP	Number=Sing	32	_	_	start_char=2018|end_char=2024
+34	due	due	ADP	IN	_	33	_	_	start_char=2025|end_char=2028
+35	to	to	ADP	IN	_	34	_	_	start_char=2029|end_char=2031
+36	overheating	overheating	NOUN	NN	Number=Sing	35	_	_	start_char=2032|end_char=2043|SpaceAfter=No
+37	.	.	PUNCT	.	_	36	_	_	start_char=2043|end_char=2044
+
+# text = The bridge over the Harlem River opened the same day, but caused huge delays on New York's warmest day on record as temperatures reached 33 degrees.
+# sent_id = 16
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2045|end_char=2048
+2	bridge	bridge	NOUN	NN	Number=Sing	1	_	_	start_char=2049|end_char=2055
+3	over	over	ADP	IN	_	2	_	_	start_char=2056|end_char=2060
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=2061|end_char=2064
+5	Harlem	Harlem	PROPN	NNP	Number=Sing	4	_	_	start_char=2065|end_char=2071
+6	River	River	PROPN	NNP	Number=Sing	5	_	_	start_char=2072|end_char=2077
+7	opened	open	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=2078|end_char=2084
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=2085|end_char=2088
+9	same	same	ADJ	JJ	Degree=Pos	8	_	_	start_char=2089|end_char=2093
+10	day	day	NOUN	NN	Number=Sing	9	_	_	start_char=2094|end_char=2097|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=2097|end_char=2098
+12	but	but	CCONJ	CC	_	11	_	_	start_char=2099|end_char=2102
+13	caused	cause	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=2103|end_char=2109
+14	huge	huge	ADJ	JJ	Degree=Pos	13	_	_	start_char=2110|end_char=2114
+15	delays	delay	NOUN	NNS	Number=Plur	14	_	_	start_char=2115|end_char=2121
+16	on	on	ADP	IN	_	15	_	_	start_char=2122|end_char=2124
+17	New	New	ADJ	NNP	Degree=Pos	16	_	_	start_char=2125|end_char=2128
+18-19	York's	_	_	_	_	_	_	_	start_char=2129|end_char=2135
+18	York	York	PROPN	NNP	Number=Sing	17	_	_	start_char=2129|end_char=2133
+19	's	's	PART	POS	_	18	_	_	start_char=2133|end_char=2135
+20	warmest	warm	ADJ	JJS	Degree=Sup	19	_	_	start_char=2136|end_char=2143
+21	day	day	NOUN	NN	Number=Sing	20	_	_	start_char=2144|end_char=2147
+22	on	on	ADP	IN	_	21	_	_	start_char=2148|end_char=2150
+23	record	record	NOUN	NN	Number=Sing	22	_	_	start_char=2151|end_char=2157
+24	as	as	SCONJ	IN	_	23	_	_	start_char=2158|end_char=2160
+25	temperatures	temperature	NOUN	NNS	Number=Plur	24	_	_	start_char=2161|end_char=2173
+26	reached	reach	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	25	_	_	start_char=2174|end_char=2181
+27	33	33	NUM	CD	NumForm=Digit|NumType=Card	26	_	_	start_char=2182|end_char=2184
+28	degrees	degree	NOUN	NNS	Number=Plur	27	_	_	start_char=2185|end_char=2192|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=2192|end_char=2193|SpacesAfter=\n
+
+# text = Climate change is exposing more people to extreme weather and increasing the chances of killer heat, scientists say.
+# sent_id = 17
+1	Climate	climate	NOUN	NN	Number=Sing	0	_	_	start_char=2194|end_char=2201
+2	change	change	NOUN	NN	Number=Sing	1	_	_	start_char=2202|end_char=2208
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2209|end_char=2211
+4	exposing	expose	VERB	VBG	Tense=Pres|VerbForm=Part	3	_	_	start_char=2212|end_char=2220
+5	more	more	ADJ	JJR	Degree=Cmp	4	_	_	start_char=2221|end_char=2225
+6	people	person	NOUN	NNS	Number=Plur	5	_	_	start_char=2226|end_char=2232
+7	to	to	ADP	IN	_	6	_	_	start_char=2233|end_char=2235
+8	extreme	extreme	ADJ	JJ	Degree=Pos	7	_	_	start_char=2236|end_char=2243
+9	weather	weather	NOUN	NN	Number=Sing	8	_	_	start_char=2244|end_char=2251
+10	and	and	CCONJ	CC	_	9	_	_	start_char=2252|end_char=2255
+11	increasing	increase	VERB	VBG	VerbForm=Ger	10	_	_	start_char=2256|end_char=2266
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=2267|end_char=2270
+13	chances	chance	NOUN	NNS	Number=Plur	12	_	_	start_char=2271|end_char=2278
+14	of	of	ADP	IN	_	13	_	_	start_char=2279|end_char=2281
+15	killer	killer	NOUN	NN	Number=Sing	14	_	_	start_char=2282|end_char=2288
+16	heat	heat	NOUN	NN	Number=Sing	15	_	_	start_char=2289|end_char=2293|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=2293|end_char=2294
+18	scientists	scientist	NOUN	NNS	Number=Plur	17	_	_	start_char=2295|end_char=2305
+19	say	say	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=2306|end_char=2309|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=2309|end_char=2310
+
+# text = A prolonged rise in temperatures above current levels increases the risk of uncertain but catastrophic events.
+# sent_id = 18
+1	A	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=2311|end_char=2312
+2	prolonged	prolonged	ADJ	JJ	Degree=Pos	1	_	_	start_char=2313|end_char=2322
+3	rise	rise	NOUN	NN	Number=Sing	2	_	_	start_char=2323|end_char=2327
+4	in	in	ADP	IN	_	3	_	_	start_char=2328|end_char=2330
+5	temperatures	temperature	NOUN	NNS	Number=Plur	4	_	_	start_char=2331|end_char=2343
+6	above	above	ADP	IN	_	5	_	_	start_char=2344|end_char=2349
+7	current	current	ADJ	JJ	Degree=Pos	6	_	_	start_char=2350|end_char=2357
+8	levels	level	NOUN	NNS	Number=Plur	7	_	_	start_char=2358|end_char=2364
+9	increases	increase	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=2365|end_char=2374
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=2375|end_char=2378
+11	risk	risk	NOUN	NN	Number=Sing	10	_	_	start_char=2379|end_char=2383
+12	of	of	ADP	IN	_	11	_	_	start_char=2384|end_char=2386
+13	uncertain	uncertain	ADJ	JJ	Degree=Pos	12	_	_	start_char=2387|end_char=2396
+14	but	but	CCONJ	CC	_	13	_	_	start_char=2397|end_char=2400
+15	catastrophic	catastrophic	ADJ	JJ	Degree=Pos	14	_	_	start_char=2401|end_char=2413
+16	events	event	NOUN	NNS	Number=Plur	15	_	_	start_char=2414|end_char=2420|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=2420|end_char=2421|SpaceAfter=No
+

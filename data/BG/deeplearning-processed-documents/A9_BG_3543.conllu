@@ -1,0 +1,410 @@
+# text = CHIEF, YOU STUPID ASS!
+# sent_id = 0
+1	CHIEF	chief	NOUN	NN	Number=Sing	0	_	_	start_char=0|end_char=5|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=5|end_char=6
+3	YOU	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	_	_	start_char=7|end_char=10
+4	STUPID	stupid	ADJ	JJ	Degree=Pos	3	_	_	start_char=11|end_char=17
+5	ASS	ASS	NOUN	NN	Number=Sing	4	_	_	start_char=18|end_char=21|SpaceAfter=No
+6	!	!	PUNCT	.	_	5	_	_	start_char=21|end_char=22|SpacesAfter=\n\n
+
+# text = In the last decades Bulgaria has not had the luck to have men as prime ministers.
+# sent_id = 1
+1	In	in	ADP	IN	_	0	_	_	start_char=24|end_char=26
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=27|end_char=30
+3	last	last	ADJ	JJ	Degree=Pos	2	_	_	start_char=31|end_char=35
+4	decades	decade	NOUN	NNS	Number=Plur	3	_	_	start_char=36|end_char=43
+5	Bulgaria	Bulgaria	PROPN	NNP	Number=Sing	4	_	_	start_char=44|end_char=52
+6	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=53|end_char=56
+7	not	not	PART	RB	_	6	_	_	start_char=57|end_char=60
+8	had	have	VERB	VBN	Tense=Past|VerbForm=Part	7	_	_	start_char=61|end_char=64
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=65|end_char=68
+10	luck	luck	NOUN	NN	Number=Sing	9	_	_	start_char=69|end_char=73
+11	to	to	PART	TO	_	10	_	_	start_char=74|end_char=76
+12	have	have	VERB	VB	VerbForm=Inf	11	_	_	start_char=77|end_char=81
+13	men	man	NOUN	NNS	Number=Plur	12	_	_	start_char=82|end_char=85
+14	as	as	ADP	IN	_	13	_	_	start_char=86|end_char=88
+15	prime	prime	ADJ	JJ	Degree=Pos	14	_	_	start_char=89|end_char=94
+16	ministers	minister	NOUN	NNS	Number=Plur	15	_	_	start_char=95|end_char=104|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=104|end_char=105
+
+# text = The caretaker, although he tries to pretend to be a ficus and nobody notices him, has ugly stuck to our attention with another idiocy.
+# sent_id = 2
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=106|end_char=109
+2	caretaker	caretaker	NOUN	NN	Number=Sing	1	_	_	start_char=110|end_char=119|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=119|end_char=120
+4	although	although	SCONJ	IN	_	3	_	_	start_char=121|end_char=129
+5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	_	_	start_char=130|end_char=132
+6	tries	try	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=133|end_char=138
+7	to	to	PART	TO	_	6	_	_	start_char=139|end_char=141
+8	pretend	pretend	VERB	VB	VerbForm=Inf	7	_	_	start_char=142|end_char=149
+9	to	to	PART	TO	_	8	_	_	start_char=150|end_char=152
+10	be	be	AUX	VB	VerbForm=Inf	9	_	_	start_char=153|end_char=155
+11	a	a	DET	DT	Definite=Ind|PronType=Art	10	_	_	start_char=156|end_char=157
+12	ficus	ficus	NOUN	NN	Number=Sing	11	_	_	start_char=158|end_char=163
+13	and	and	CCONJ	CC	_	12	_	_	start_char=164|end_char=167
+14	nobody	nobody	PRON	NN	Number=Sing|PronType=Neg	13	_	_	start_char=168|end_char=174
+15	notices	notice	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=175|end_char=182
+16	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	_	_	start_char=183|end_char=186|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=186|end_char=187
+18	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=188|end_char=191
+19	ugly	ugly	ADJ	JJ	Degree=Pos	18	_	_	start_char=192|end_char=196
+20	stuck	stick	VERB	VBN	Tense=Past|VerbForm=Part	19	_	_	start_char=197|end_char=202
+21	to	to	ADP	IN	_	20	_	_	start_char=203|end_char=205
+22	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	21	_	_	start_char=206|end_char=209
+23	attention	attention	NOUN	NN	Number=Sing	22	_	_	start_char=210|end_char=219
+24	with	with	ADP	IN	_	23	_	_	start_char=220|end_char=224
+25	another	another	DET	DT	_	24	_	_	start_char=225|end_char=232
+26	idiocy	idiocy	NOUN	NN	Number=Sing	25	_	_	start_char=233|end_char=239|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=239|end_char=240
+
+# text = He took a picture with some idiots, one known and one unknown, and claimed that Bulgaria was committed to the EU and NATO response to Russian aggression against Ukraine?
+# sent_id = 3
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=241|end_char=243
+2	took	take	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=244|end_char=248
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=249|end_char=250
+4	picture	picture	NOUN	NN	Number=Sing	3	_	_	start_char=251|end_char=258
+5	with	with	ADP	IN	_	4	_	_	start_char=259|end_char=263
+6	some	some	DET	DT	_	5	_	_	start_char=264|end_char=268
+7	idiots	idiot	NOUN	NNS	Number=Plur	6	_	_	start_char=269|end_char=275|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=275|end_char=276
+9	one	one	NUM	CD	NumForm=Word|NumType=Card	8	_	_	start_char=277|end_char=280
+10	known	know	VERB	VBN	Tense=Past|VerbForm=Part	9	_	_	start_char=281|end_char=286
+11	and	and	CCONJ	CC	_	10	_	_	start_char=287|end_char=290
+12	one	one	NUM	CD	NumForm=Word|NumType=Card	11	_	_	start_char=291|end_char=294
+13	unknown	unknown	ADJ	JJ	Degree=Pos	12	_	_	start_char=295|end_char=302|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=302|end_char=303
+15	and	and	CCONJ	CC	_	14	_	_	start_char=304|end_char=307
+16	claimed	claim	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	_	_	start_char=308|end_char=315
+17	that	that	SCONJ	IN	_	16	_	_	start_char=316|end_char=320
+18	Bulgaria	Bulgaria	PROPN	NNP	Number=Sing	17	_	_	start_char=321|end_char=329
+19	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	_	_	start_char=330|end_char=333
+20	committed	commit	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	19	_	_	start_char=334|end_char=343
+21	to	to	ADP	IN	_	20	_	_	start_char=344|end_char=346
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=347|end_char=350
+23	EU	EU	PROPN	NNP	Number=Sing	22	_	_	start_char=351|end_char=353
+24	and	and	CCONJ	CC	_	23	_	_	start_char=354|end_char=357
+25	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	24	_	_	start_char=358|end_char=362
+26	response	response	NOUN	NN	Number=Sing	25	_	_	start_char=363|end_char=371
+27	to	to	ADP	IN	_	26	_	_	start_char=372|end_char=374
+28	Russian	Russian	ADJ	JJ	Degree=Pos	27	_	_	start_char=375|end_char=382
+29	aggression	aggression	NOUN	NN	Number=Sing	28	_	_	start_char=383|end_char=393
+30	against	against	ADP	IN	_	29	_	_	start_char=394|end_char=401
+31	Ukraine	Ukraine	PROPN	NNP	Number=Sing	30	_	_	start_char=402|end_char=409|SpaceAfter=No
+32	?	?	PUNCT	.	_	31	_	_	start_char=409|end_char=410
+
+# text = How is it committed, you fool?
+# sent_id = 4
+1	How	how	ADV	WRB	PronType=Int	0	_	_	start_char=411|end_char=414
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=415|end_char=417
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	_	_	start_char=418|end_char=420
+4	committed	commit	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=421|end_char=430|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=430|end_char=431
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	_	_	start_char=432|end_char=435
+7	fool	fool	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	_	_	start_char=436|end_char=440|SpaceAfter=No
+8	?	?	PUNCT	.	_	7	_	_	start_char=440|end_char=441
+
+# text = Ukraine is not a member of either NATO or the EU.
+# sent_id = 5
+1	Ukraine	Ukraine	PROPN	NNP	Number=Sing	0	_	_	start_char=442|end_char=449
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=450|end_char=452
+3	not	not	PART	RB	_	2	_	_	start_char=453|end_char=456
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=457|end_char=458
+5	member	member	NOUN	NN	Number=Sing	4	_	_	start_char=459|end_char=465
+6	of	of	ADP	IN	_	5	_	_	start_char=466|end_char=468
+7	either	either	CCONJ	CC	_	6	_	_	start_char=469|end_char=475
+8	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	7	_	_	start_char=476|end_char=480
+9	or	or	CCONJ	CC	_	8	_	_	start_char=481|end_char=483
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=484|end_char=487
+11	EU	EU	PROPN	NNP	Number=Sing	10	_	_	start_char=488|end_char=490|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=490|end_char=491
+
+# text = Ukraine does not even have internationally recognised borders.
+# sent_id = 6
+1	Ukraine	Ukraine	PROPN	NNP	Number=Sing	0	_	_	start_char=492|end_char=499
+2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=500|end_char=504
+3	not	not	PART	RB	_	2	_	_	start_char=505|end_char=508
+4	even	even	ADV	RB	_	3	_	_	start_char=509|end_char=513
+5	have	have	VERB	VB	VerbForm=Inf	4	_	_	start_char=514|end_char=518
+6	internationally	internationally	ADV	RB	_	5	_	_	start_char=519|end_char=534
+7	recognised	recognise	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=535|end_char=545
+8	borders	border	NOUN	NNS	Number=Plur	7	_	_	start_char=546|end_char=553|SpaceAfter=No
+9	.	.	PUNCT	.	_	8	_	_	start_char=553|end_char=554
+
+# text = A new Nazism has begun to grow in Ukraine.
+# sent_id = 7
+1	A	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=555|end_char=556
+2	new	new	ADJ	JJ	Degree=Pos	1	_	_	start_char=557|end_char=560
+3	Nazism	Nazism	PROPN	NNP	Number=Sing	2	_	_	start_char=561|end_char=567
+4	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=568|end_char=571
+5	begun	begin	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=572|end_char=577
+6	to	to	PART	TO	_	5	_	_	start_char=578|end_char=580
+7	grow	grow	VERB	VB	VerbForm=Inf	6	_	_	start_char=581|end_char=585
+8	in	in	ADP	IN	_	7	_	_	start_char=586|end_char=588
+9	Ukraine	Ukraine	PROPN	NNP	Number=Sing	8	_	_	start_char=589|end_char=596|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=596|end_char=597
+
+# text = People were burning alive and killing children in Ukraine in 2014.
+# sent_id = 8
+1	People	person	NOUN	NNS	Number=Plur	0	_	_	start_char=598|end_char=604
+2	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=605|end_char=609
+3	burning	burn	VERB	VBG	Tense=Pres|VerbForm=Part	2	_	_	start_char=610|end_char=617
+4	alive	alive	ADJ	JJ	Degree=Pos	3	_	_	start_char=618|end_char=623
+5	and	and	CCONJ	CC	_	4	_	_	start_char=624|end_char=627
+6	killing	kill	VERB	VBG	VerbForm=Ger	5	_	_	start_char=628|end_char=635
+7	children	child	NOUN	NNS	Number=Plur	6	_	_	start_char=636|end_char=644
+8	in	in	ADP	IN	_	7	_	_	start_char=645|end_char=647
+9	Ukraine	Ukraine	PROPN	NNP	Number=Sing	8	_	_	start_char=648|end_char=655
+10	in	in	ADP	IN	_	9	_	_	start_char=656|end_char=658
+11	2014	2014	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=659|end_char=663|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=663|end_char=664
+
+# text = In Ukraine, men and women proudly tattooed or wore the swastika, which has been denied by the civilised world.
+# sent_id = 9
+1	In	in	ADP	IN	_	0	_	_	start_char=665|end_char=667
+2	Ukraine	Ukraine	PROPN	NNP	Number=Sing	1	_	_	start_char=668|end_char=675|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=675|end_char=676
+4	men	man	NOUN	NNS	Number=Plur	3	_	_	start_char=677|end_char=680
+5	and	and	CCONJ	CC	_	4	_	_	start_char=681|end_char=684
+6	women	woman	NOUN	NNS	Number=Plur	5	_	_	start_char=685|end_char=690
+7	proudly	proudly	ADV	RB	_	6	_	_	start_char=691|end_char=698
+8	tattooed	tattooe	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=699|end_char=707
+9	or	or	CCONJ	CC	_	8	_	_	start_char=708|end_char=710
+10	wore	wear	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=711|end_char=715
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=716|end_char=719
+12	swastika	swastika	NOUN	NN	Number=Sing	11	_	_	start_char=720|end_char=728|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=728|end_char=729
+14	which	which	PRON	WDT	PronType=Rel	13	_	_	start_char=730|end_char=735
+15	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=736|end_char=739
+16	been	be	AUX	VBN	Tense=Past|VerbForm=Part	15	_	_	start_char=740|end_char=744
+17	denied	deny	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	16	_	_	start_char=745|end_char=751
+18	by	by	ADP	IN	_	17	_	_	start_char=752|end_char=754
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=755|end_char=758
+20	civilised	civilised	ADJ	JJ	Degree=Pos	19	_	_	start_char=759|end_char=768
+21	world	world	NOUN	NN	Number=Sing	20	_	_	start_char=769|end_char=774|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=774|end_char=775|SpacesAfter=\n
+
+# text = Bulgaria is a loyal vassal of the United States.
+# sent_id = 10
+1	Bulgaria	Bulgaria	PROPN	NNP	Number=Sing	0	_	_	start_char=776|end_char=784
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=785|end_char=787
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=788|end_char=789
+4	loyal	loyal	ADJ	JJ	Degree=Pos	3	_	_	start_char=790|end_char=795
+5	vassal	vassal	NOUN	NN	Number=Sing	4	_	_	start_char=796|end_char=802
+6	of	of	ADP	IN	_	5	_	_	start_char=803|end_char=805
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=806|end_char=809
+8	United	United	ADJ	NNP	Degree=Pos	7	_	_	start_char=810|end_char=816
+9	States	State	PROPN	NNPS	Number=Plur	8	_	_	start_char=817|end_char=823|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=823|end_char=824
+
+# text = And ready to become a Kurban for American interests in Ukraine.
+# sent_id = 11
+1	And	and	CCONJ	CC	_	0	_	_	start_char=825|end_char=828
+2	ready	ready	ADJ	JJ	Degree=Pos	1	_	_	start_char=829|end_char=834
+3	to	to	PART	TO	_	2	_	_	start_char=835|end_char=837
+4	become	become	VERB	VB	VerbForm=Inf	3	_	_	start_char=838|end_char=844
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=845|end_char=846
+6	Kurban	Kurban	PROPN	NNP	Number=Sing	5	_	_	start_char=847|end_char=853
+7	for	for	ADP	IN	_	6	_	_	start_char=854|end_char=857
+8	American	American	ADJ	JJ	Degree=Pos	7	_	_	start_char=858|end_char=866
+9	interests	interest	NOUN	NNS	Number=Plur	8	_	_	start_char=867|end_char=876
+10	in	in	ADP	IN	_	9	_	_	start_char=877|end_char=879
+11	Ukraine	Ukraine	PROPN	NNP	Number=Sing	10	_	_	start_char=880|end_char=887|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=887|end_char=888
+
+# text = Your government, fool, is again sending "surplus" weapons to Ukraine.
+# sent_id = 12
+1	Your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	0	_	_	start_char=889|end_char=893
+2	government	government	NOUN	NN	Number=Sing	1	_	_	start_char=894|end_char=904|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=904|end_char=905
+4	fool	fool	NOUN	NN	Number=Sing	3	_	_	start_char=906|end_char=910|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=910|end_char=911
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=912|end_char=914
+7	again	again	ADV	RB	_	6	_	_	start_char=915|end_char=920
+8	sending	send	VERB	VBG	Tense=Pres|VerbForm=Part	7	_	_	start_char=921|end_char=928
+9	"	"	PUNCT	``	_	8	_	_	start_char=929|end_char=930|SpaceAfter=No
+10	surplus	surplus	NOUN	NN	Number=Sing	9	_	_	start_char=930|end_char=937|SpaceAfter=No
+11	"	"	PUNCT	''	_	10	_	_	start_char=937|end_char=938
+12	weapons	weapon	NOUN	NNS	Number=Plur	11	_	_	start_char=939|end_char=946
+13	to	to	ADP	IN	_	12	_	_	start_char=947|end_char=949
+14	Ukraine	Ukraine	PROPN	NNP	Number=Sing	13	_	_	start_char=950|end_char=957|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=957|end_char=958
+
+# text = Well, with this undermanned army of ours, we don't need weapons.
+# sent_id = 13
+1	Well	well	INTJ	UH	_	0	_	_	start_char=959|end_char=963|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=963|end_char=964
+3	with	with	ADP	IN	_	2	_	_	start_char=965|end_char=969
+4	this	this	DET	DT	Number=Sing|PronType=Dem	3	_	_	start_char=970|end_char=974
+5	undermanned	undermanned	ADJ	JJ	Degree=Pos	4	_	_	start_char=975|end_char=986
+6	army	army	NOUN	NN	Number=Sing	5	_	_	start_char=987|end_char=991
+7	of	of	ADP	IN	_	6	_	_	start_char=992|end_char=994
+8	ours	our	PRON	PRP	Case=Acc|Number=Plur|Person=1|Poss=Yes|PronType=Prs	7	_	_	start_char=995|end_char=999|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=999|end_char=1000
+10	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	_	_	start_char=1001|end_char=1003
+11-12	don't	_	_	_	_	_	_	_	start_char=1004|end_char=1009
+11	do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	_	_	start_char=1004|end_char=1006
+12	n't	not	PART	RB	_	11	_	_	start_char=1006|end_char=1009
+13	need	need	VERB	VB	VerbForm=Inf	12	_	_	start_char=1010|end_char=1014
+14	weapons	weapon	NOUN	NNS	Number=Plur	13	_	_	start_char=1015|end_char=1022|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=1022|end_char=1023
+
+# text = Just an honor escort, when someone attacks us, to escort them more formally to Sofia!
+# sent_id = 14
+1	Just	just	ADV	RB	_	0	_	_	start_char=1024|end_char=1028
+2	an	a	DET	DT	Definite=Ind|PronType=Art	1	_	_	start_char=1029|end_char=1031
+3	honor	honor	NOUN	NN	Number=Sing	2	_	_	start_char=1032|end_char=1037
+4	escort	escort	NOUN	NN	Number=Sing	3	_	_	start_char=1038|end_char=1044|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=1044|end_char=1045
+6	when	when	ADV	WRB	PronType=Int	5	_	_	start_char=1046|end_char=1050
+7	someone	someone	PRON	NN	Number=Sing|PronType=Ind	6	_	_	start_char=1051|end_char=1058
+8	attacks	attack	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=1059|end_char=1066
+9	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	8	_	_	start_char=1067|end_char=1069|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=1069|end_char=1070
+11	to	to	PART	TO	_	10	_	_	start_char=1071|end_char=1073
+12	escort	escort	VERB	VB	VerbForm=Inf	11	_	_	start_char=1074|end_char=1080
+13	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	12	_	_	start_char=1081|end_char=1085
+14	more	more	ADV	RBR	Degree=Cmp	13	_	_	start_char=1086|end_char=1090
+15	formally	formally	ADV	RB	_	14	_	_	start_char=1091|end_char=1099
+16	to	to	ADP	IN	_	15	_	_	start_char=1100|end_char=1102
+17	Sofia	Sofia	PROPN	NNP	Number=Sing	16	_	_	start_char=1103|end_char=1108|SpaceAfter=No
+18	!	!	PUNCT	.	_	17	_	_	start_char=1108|end_char=1109
+
+# text = What you are doing by disarming our military is TREASON and STATE TREASON.
+# sent_id = 15
+1	What	what	PRON	WP	PronType=Rel	0	_	_	start_char=1110|end_char=1114
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	1	_	_	start_char=1115|end_char=1118
+3	are	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1119|end_char=1122
+4	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	3	_	_	start_char=1123|end_char=1128
+5	by	by	SCONJ	IN	_	4	_	_	start_char=1129|end_char=1131
+6	disarming	disarming	VERB	VBG	VerbForm=Ger	5	_	_	start_char=1132|end_char=1141
+7	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	6	_	_	start_char=1142|end_char=1145
+8	military	military	NOUN	NN	Number=Sing	7	_	_	start_char=1146|end_char=1154
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=1155|end_char=1157
+10	TREASON	treason	ADJ	JJ	Degree=Pos	9	_	_	start_char=1158|end_char=1165
+11	and	and	CCONJ	CC	_	10	_	_	start_char=1166|end_char=1169
+12	STATE	state	NOUN	NN	Number=Sing	11	_	_	start_char=1170|end_char=1175
+13	TREASON	treason	NOUN	NN	Number=Sing	12	_	_	start_char=1176|end_char=1183|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=1183|end_char=1184|SpacesAfter=\n
+
+# text = Fool, Bulgaria does not want to go to war, it does not care about NATO interests and US interests.
+# sent_id = 16
+1	Fool	fool	NOUN	NN	Number=Sing	0	_	_	start_char=1185|end_char=1189|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=1189|end_char=1190
+3	Bulgaria	Bulgaria	PROPN	NNP	Number=Sing	2	_	_	start_char=1191|end_char=1199
+4	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1200|end_char=1204
+5	not	not	PART	RB	_	4	_	_	start_char=1205|end_char=1208
+6	want	want	VERB	VB	VerbForm=Inf	5	_	_	start_char=1209|end_char=1213
+7	to	to	PART	TO	_	6	_	_	start_char=1214|end_char=1216
+8	go	go	VERB	VB	VerbForm=Inf	7	_	_	start_char=1217|end_char=1219
+9	to	to	ADP	IN	_	8	_	_	start_char=1220|end_char=1222
+10	war	war	NOUN	NN	Number=Sing	9	_	_	start_char=1223|end_char=1226|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=1226|end_char=1227
+12	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	_	_	start_char=1228|end_char=1230
+13	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=1231|end_char=1235
+14	not	not	PART	RB	_	13	_	_	start_char=1236|end_char=1239
+15	care	care	VERB	VB	VerbForm=Inf	14	_	_	start_char=1240|end_char=1244
+16	about	about	ADP	IN	_	15	_	_	start_char=1245|end_char=1250
+17	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	16	_	_	start_char=1251|end_char=1255
+18	interests	interest	NOUN	NNS	Number=Plur	17	_	_	start_char=1256|end_char=1265
+19	and	and	CCONJ	CC	_	18	_	_	start_char=1266|end_char=1269
+20	US	US	PROPN	NNP	Number=Sing	19	_	_	start_char=1270|end_char=1272
+21	interests	interest	NOUN	NNS	Number=Plur	20	_	_	start_char=1273|end_char=1282|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=1282|end_char=1283
+
+# text = Bulgaria wants peace, wants good relations with Russia, at least from a purely practical point of view.
+# sent_id = 17
+1	Bulgaria	Bulgaria	PROPN	NNP	Number=Sing	0	_	_	start_char=1284|end_char=1292
+2	wants	want	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1293|end_char=1298
+3	peace	peace	NOUN	NN	Number=Sing	2	_	_	start_char=1299|end_char=1304|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1304|end_char=1305
+5	wants	want	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1306|end_char=1311
+6	good	good	ADJ	JJ	Degree=Pos	5	_	_	start_char=1312|end_char=1316
+7	relations	relation	NOUN	NNS	Number=Plur	6	_	_	start_char=1317|end_char=1326
+8	with	with	ADP	IN	_	7	_	_	start_char=1327|end_char=1331
+9	Russia	Russia	PROPN	NNP	Number=Sing	8	_	_	start_char=1332|end_char=1338|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=1338|end_char=1339
+11	at	at	ADP	IN	ExtPos=ADV	10	_	_	start_char=1340|end_char=1342
+12	least	least	ADJ	JJS	Degree=Sup	11	_	_	start_char=1343|end_char=1348
+13	from	from	ADP	IN	_	12	_	_	start_char=1349|end_char=1353
+14	a	a	DET	DT	Definite=Ind|PronType=Art	13	_	_	start_char=1354|end_char=1355
+15	purely	purely	ADV	RB	_	14	_	_	start_char=1356|end_char=1362
+16	practical	practical	ADJ	JJ	Degree=Pos	15	_	_	start_char=1363|end_char=1372
+17	point	point	NOUN	NN	Number=Sing	16	_	_	start_char=1373|end_char=1378
+18	of	of	ADP	IN	_	17	_	_	start_char=1379|end_char=1381
+19	view	view	NOUN	NN	Number=Sing	18	_	_	start_char=1382|end_char=1386|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=1386|end_char=1387
+
+# text = Bulgaria does not want herds of migrants from Ukraine to come here with their shiny SUVs and support them.
+# sent_id = 18
+1	Bulgaria	Bulgaria	PROPN	NNP	Number=Sing	0	_	_	start_char=1388|end_char=1396
+2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1397|end_char=1401
+3	not	not	PART	RB	_	2	_	_	start_char=1402|end_char=1405
+4	want	want	VERB	VB	VerbForm=Inf	3	_	_	start_char=1406|end_char=1410
+5	herds	herd	NOUN	NNS	Number=Plur	4	_	_	start_char=1411|end_char=1416
+6	of	of	ADP	IN	_	5	_	_	start_char=1417|end_char=1419
+7	migrants	migrant	NOUN	NNS	Number=Plur	6	_	_	start_char=1420|end_char=1428
+8	from	from	ADP	IN	_	7	_	_	start_char=1429|end_char=1433
+9	Ukraine	Ukraine	PROPN	NNP	Number=Sing	8	_	_	start_char=1434|end_char=1441
+10	to	to	PART	TO	_	9	_	_	start_char=1442|end_char=1444
+11	come	come	VERB	VB	VerbForm=Inf	10	_	_	start_char=1445|end_char=1449
+12	here	here	ADV	RB	PronType=Dem	11	_	_	start_char=1450|end_char=1454
+13	with	with	ADP	IN	_	12	_	_	start_char=1455|end_char=1459
+14	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	13	_	_	start_char=1460|end_char=1465
+15	shiny	shiny	ADJ	JJ	Degree=Pos	14	_	_	start_char=1466|end_char=1471
+16	SUVs	suvs	NOUN	NNS	Number=Plur	15	_	_	start_char=1472|end_char=1476
+17	and	and	CCONJ	CC	_	16	_	_	start_char=1477|end_char=1480
+18	support	support	VERB	VB	VerbForm=Inf	17	_	_	start_char=1481|end_char=1488
+19	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	18	_	_	start_char=1489|end_char=1493|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=1493|end_char=1494
+
+# text = Bulgaria does not want to become a launching pad for attacks against Russia.
+# sent_id = 19
+1	Bulgaria	Bulgaria	PROPN	NNP	Number=Sing	0	_	_	start_char=1495|end_char=1503
+2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1504|end_char=1508
+3	not	not	PART	RB	_	2	_	_	start_char=1509|end_char=1512
+4	want	want	VERB	VB	VerbForm=Inf	3	_	_	start_char=1513|end_char=1517
+5	to	to	PART	TO	_	4	_	_	start_char=1518|end_char=1520
+6	become	become	VERB	VB	VerbForm=Inf	5	_	_	start_char=1521|end_char=1527
+7	a	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=1528|end_char=1529
+8	launching	launching	NOUN	NN	Number=Sing	7	_	_	start_char=1530|end_char=1539
+9	pad	pad	NOUN	NN	Number=Sing	8	_	_	start_char=1540|end_char=1543
+10	for	for	ADP	IN	_	9	_	_	start_char=1544|end_char=1547
+11	attacks	attack	NOUN	NNS	Number=Plur	10	_	_	start_char=1548|end_char=1555
+12	against	against	ADP	IN	_	11	_	_	start_char=1556|end_char=1563
+13	Russia	Russia	PROPN	NNP	Number=Sing	12	_	_	start_char=1564|end_char=1570|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=1570|end_char=1571
+
+# text = Where are you off to, you fool, to speak for Bulgaria?
+# sent_id = 20
+1	Where	where	ADV	WRB	PronType=Int	0	_	_	start_char=1572|end_char=1577
+2	are	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1578|end_char=1581
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	_	_	start_char=1582|end_char=1585
+4	off	off	ADV	RB	_	3	_	_	start_char=1586|end_char=1589
+5	to	to	ADP	IN	_	4	_	_	start_char=1590|end_char=1592|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=1592|end_char=1593
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	_	_	start_char=1594|end_char=1597
+8	fool	fool	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	_	_	start_char=1598|end_char=1602|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1602|end_char=1603
+10	to	to	PART	TO	_	9	_	_	start_char=1604|end_char=1606
+11	speak	speak	VERB	VB	VerbForm=Inf	10	_	_	start_char=1607|end_char=1612
+12	for	for	ADP	IN	_	11	_	_	start_char=1613|end_char=1616
+13	Bulgaria	Bulgaria	PROPN	NNP	Number=Sing	12	_	_	start_char=1617|end_char=1625|SpaceAfter=No
+14	?	?	PUNCT	.	_	13	_	_	start_char=1625|end_char=1626|SpacesAfter=\n
+
+# text = Another fool in government.
+# sent_id = 21
+1	Another	another	DET	DT	_	0	_	_	start_char=1627|end_char=1634
+2	fool	fool	NOUN	NN	Number=Sing	1	_	_	start_char=1635|end_char=1639
+3	in	in	ADP	IN	_	2	_	_	start_char=1640|end_char=1642
+4	government	government	NOUN	NN	Number=Sing	3	_	_	start_char=1643|end_char=1653|SpaceAfter=No
+5	.	.	PUNCT	.	_	4	_	_	start_char=1653|end_char=1654
+
+# text = Pathetic, cowardly and stupid!
+# sent_id = 22
+1	Pathetic	Pathetic	ADJ	JJ	Degree=Pos	0	_	_	start_char=1655|end_char=1663|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=1663|end_char=1664
+3	cowardly	cowardly	ADJ	JJ	Degree=Pos	2	_	_	start_char=1665|end_char=1673
+4	and	and	CCONJ	CC	_	3	_	_	start_char=1674|end_char=1677
+5	stupid	stupid	ADJ	JJ	Degree=Pos	4	_	_	start_char=1678|end_char=1684|SpaceAfter=No
+6	!	!	PUNCT	.	_	5	_	_	start_char=1684|end_char=1685|SpaceAfter=No
+

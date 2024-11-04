@@ -1,0 +1,330 @@
+# text = Ukraine categorically rejected Moscow's ceasefire offer
+# sent_id = 0
+1	Ukraine	Ukraine	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=7
+2	categorically	categorically	ADV	RB	_	1	_	_	start_char=8|end_char=21
+3	rejected	reject	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=22|end_char=30
+4-5	Moscow's	_	_	_	_	_	_	_	start_char=31|end_char=39
+4	Moscow	Moscow	PROPN	NNP	Number=Sing	3	_	_	start_char=31|end_char=37
+5	's	's	PART	POS	_	4	_	_	start_char=37|end_char=39
+6	ceasefire	ceasefire	NOUN	NN	Number=Sing	5	_	_	start_char=40|end_char=49
+7	offer	offer	NOUN	NN	Number=Sing	6	_	_	start_char=50|end_char=55|SpacesAfter=\n\n
+
+# text = The terms spoke eloquently of "the inability of the current Russian leadership to adequately assess the realities," a Zelensky adviser commented A senior Ukrainian adviser has rejected the conditions set by Russian President Vladimir Putin for the start of peace talks.
+# sent_id = 1
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=57|end_char=60
+2	terms	term	NOUN	NNS	Number=Plur	1	_	_	start_char=61|end_char=66
+3	spoke	speak	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=67|end_char=72
+4	eloquently	eloquently	ADV	RB	_	3	_	_	start_char=73|end_char=83
+5	of	of	ADP	IN	_	4	_	_	start_char=84|end_char=86
+6	"	"	PUNCT	``	_	5	_	_	start_char=87|end_char=88|SpaceAfter=No
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=88|end_char=91
+8	inability	inability	NOUN	NN	Number=Sing	7	_	_	start_char=92|end_char=101
+9	of	of	ADP	IN	_	8	_	_	start_char=102|end_char=104
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=105|end_char=108
+11	current	current	ADJ	JJ	Degree=Pos	10	_	_	start_char=109|end_char=116
+12	Russian	Russian	ADJ	JJ	Degree=Pos	11	_	_	start_char=117|end_char=124
+13	leadership	leadership	NOUN	NN	Number=Sing	12	_	_	start_char=125|end_char=135
+14	to	to	PART	TO	_	13	_	_	start_char=136|end_char=138
+15	adequately	adequately	ADV	RB	_	14	_	_	start_char=139|end_char=149
+16	assess	assess	VERB	VB	VerbForm=Inf	15	_	_	start_char=150|end_char=156
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=157|end_char=160
+18	realities	reality	NOUN	NNS	Number=Plur	17	_	_	start_char=161|end_char=170|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=170|end_char=171|SpaceAfter=No
+20	"	"	PUNCT	''	_	19	_	_	start_char=171|end_char=172
+21	a	a	DET	DT	Definite=Ind|PronType=Art	20	_	_	start_char=173|end_char=174
+22	Zelensky	Zelensky	PROPN	NNP	Number=Sing	21	_	_	start_char=175|end_char=183
+23	adviser	adviser	NOUN	NN	Number=Sing	22	_	_	start_char=184|end_char=191
+24	commented	comment	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	23	_	_	start_char=192|end_char=201|SpacesAfter=\n
+25	A	a	DET	DT	Definite=Ind|PronType=Art	24	_	_	start_char=202|end_char=203
+26	senior	senior	ADJ	JJ	Degree=Pos	25	_	_	start_char=204|end_char=210
+27	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	26	_	_	start_char=211|end_char=220
+28	adviser	adviser	NOUN	NN	Number=Sing	27	_	_	start_char=221|end_char=228
+29	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	_	_	start_char=229|end_char=232
+30	rejected	reject	VERB	VBN	Tense=Past|VerbForm=Part	29	_	_	start_char=233|end_char=241
+31	the	the	DET	DT	Definite=Def|PronType=Art	30	_	_	start_char=242|end_char=245
+32	conditions	condition	NOUN	NNS	Number=Plur	31	_	_	start_char=246|end_char=256
+33	set	set	VERB	VBN	Tense=Past|VerbForm=Part	32	_	_	start_char=257|end_char=260
+34	by	by	ADP	IN	_	33	_	_	start_char=261|end_char=263
+35	Russian	Russian	ADJ	JJ	Degree=Pos	34	_	_	start_char=264|end_char=271
+36	President	President	PROPN	NNP	Number=Sing	35	_	_	start_char=272|end_char=281
+37	Vladimir	Vladimir	PROPN	NNP	Number=Sing	36	_	_	start_char=282|end_char=290
+38	Putin	Putin	PROPN	NNP	Number=Sing	37	_	_	start_char=291|end_char=296
+39	for	for	ADP	IN	_	38	_	_	start_char=297|end_char=300
+40	the	the	DET	DT	Definite=Def|PronType=Art	39	_	_	start_char=301|end_char=304
+41	start	start	NOUN	NN	Number=Sing	40	_	_	start_char=305|end_char=310
+42	of	of	ADP	IN	_	41	_	_	start_char=311|end_char=313
+43	peace	peace	NOUN	NN	Number=Sing	42	_	_	start_char=314|end_char=319
+44	talks	talk	NOUN	NNS	Number=Plur	43	_	_	start_char=320|end_char=325|SpaceAfter=No
+45	.	.	PUNCT	.	_	44	_	_	start_char=325|end_char=326
+
+# text = According to Mikhailo Podolyak, an adviser to President Volodymyr Zelensky, Putin's conditions are quite specific and highly offensive to international law.
+# sent_id = 2
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=327|end_char=336
+2	to	to	ADP	IN	_	1	_	_	start_char=337|end_char=339
+3	Mikhailo	Mikhailo	PROPN	NNP	Number=Sing	2	_	_	start_char=340|end_char=348
+4	Podolyak	Podolyak	PROPN	NNP	Number=Sing	3	_	_	start_char=349|end_char=357|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=357|end_char=358
+6	an	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=359|end_char=361
+7	adviser	adviser	NOUN	NN	Number=Sing	6	_	_	start_char=362|end_char=369
+8	to	to	ADP	IN	_	7	_	_	start_char=370|end_char=372
+9	President	President	PROPN	NNP	Number=Sing	8	_	_	start_char=373|end_char=382
+10	Volodymyr	Volodymyr	PROPN	NNP	Number=Sing	9	_	_	start_char=383|end_char=392
+11	Zelensky	Zelensky	PROPN	NNP	Number=Sing	10	_	_	start_char=393|end_char=401|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=401|end_char=402
+13-14	Putin's	_	_	_	_	_	_	_	start_char=403|end_char=410
+13	Putin	Putin	PROPN	NNP	Number=Sing	12	_	_	start_char=403|end_char=408
+14	's	's	PART	POS	_	13	_	_	start_char=408|end_char=410
+15	conditions	condition	NOUN	NNS	Number=Plur	14	_	_	start_char=411|end_char=421
+16	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=422|end_char=425
+17	quite	quite	ADV	RB	_	16	_	_	start_char=426|end_char=431
+18	specific	specific	ADJ	JJ	Degree=Pos	17	_	_	start_char=432|end_char=440
+19	and	and	CCONJ	CC	_	18	_	_	start_char=441|end_char=444
+20	highly	highly	ADV	RB	_	19	_	_	start_char=445|end_char=451
+21	offensive	offensive	ADJ	JJ	Degree=Pos	20	_	_	start_char=452|end_char=461
+22	to	to	ADP	IN	_	21	_	_	start_char=462|end_char=464
+23	international	international	ADJ	JJ	Degree=Pos	22	_	_	start_char=465|end_char=478
+24	law	law	NOUN	NN	Number=Sing	23	_	_	start_char=479|end_char=482|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=482|end_char=483|SpacesAfter=\n
+
+# text = Putin: I stop the war if Ukraine gives up NATO and what Russia seized "They speak absolutely eloquently about the inability of the current Russian leadership to adequately assess the realities," Podolyak points out.
+# sent_id = 3
+1	Putin	Putin	PROPN	NNP	Number=Sing	0	_	_	start_char=484|end_char=489|SpaceAfter=No
+2	:	:	PUNCT	:	_	1	_	_	start_char=489|end_char=490
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	_	_	start_char=491|end_char=492
+4	stop	stop	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	_	_	start_char=493|end_char=497
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=498|end_char=501
+6	war	war	NOUN	NN	Number=Sing	5	_	_	start_char=502|end_char=505
+7	if	if	SCONJ	IN	_	6	_	_	start_char=506|end_char=508
+8	Ukraine	Ukraine	PROPN	NNP	Number=Sing	7	_	_	start_char=509|end_char=516
+9	gives	give	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=517|end_char=522
+10	up	up	ADP	RP	_	9	_	_	start_char=523|end_char=525
+11	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	10	_	_	start_char=526|end_char=530
+12	and	and	CCONJ	CC	_	11	_	_	start_char=531|end_char=534
+13	what	what	PRON	WP	PronType=Rel	12	_	_	start_char=535|end_char=539
+14	Russia	Russia	PROPN	NNP	Number=Sing	13	_	_	start_char=540|end_char=546
+15	seized	seize	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=547|end_char=553|SpacesAfter=\n
+16	"	"	PUNCT	``	_	15	_	_	start_char=554|end_char=555|SpaceAfter=No
+17	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	_	_	start_char=555|end_char=559
+18	speak	speak	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=560|end_char=565
+19	absolutely	absolutely	ADV	RB	_	18	_	_	start_char=566|end_char=576
+20	eloquently	eloquently	ADV	RB	_	19	_	_	start_char=577|end_char=587
+21	about	about	ADP	IN	_	20	_	_	start_char=588|end_char=593
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=594|end_char=597
+23	inability	inability	NOUN	NN	Number=Sing	22	_	_	start_char=598|end_char=607
+24	of	of	ADP	IN	_	23	_	_	start_char=608|end_char=610
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=611|end_char=614
+26	current	current	ADJ	JJ	Degree=Pos	25	_	_	start_char=615|end_char=622
+27	Russian	Russian	ADJ	JJ	Degree=Pos	26	_	_	start_char=623|end_char=630
+28	leadership	leadership	NOUN	NN	Number=Sing	27	_	_	start_char=631|end_char=641
+29	to	to	PART	TO	_	28	_	_	start_char=642|end_char=644
+30	adequately	adequately	ADV	RB	_	29	_	_	start_char=645|end_char=655
+31	assess	assess	VERB	VB	VerbForm=Inf	30	_	_	start_char=656|end_char=662
+32	the	the	DET	DT	Definite=Def|PronType=Art	31	_	_	start_char=663|end_char=666
+33	realities	reality	NOUN	NNS	Number=Plur	32	_	_	start_char=667|end_char=676|SpaceAfter=No
+34	,	,	PUNCT	,	_	33	_	_	start_char=676|end_char=677|SpaceAfter=No
+35	"	"	PUNCT	''	_	34	_	_	start_char=677|end_char=678
+36	Podolyak	Podolyak	PROPN	NNP	Number=Sing	35	_	_	start_char=679|end_char=687
+37	points	point	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	_	_	start_char=688|end_char=694
+38	out	out	ADP	RP	_	37	_	_	start_char=695|end_char=698|SpaceAfter=No
+39	.	.	PUNCT	.	_	38	_	_	start_char=698|end_char=699|SpacesAfter=\n
+
+# text = He shows how "point by point" the Russian head of state's conditions look: 1. Give us your territories.
+# sent_id = 4
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=700|end_char=702
+2	shows	show	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=703|end_char=708
+3	how	how	ADV	WRB	PronType=Int	2	_	_	start_char=709|end_char=712
+4	"	"	PUNCT	``	_	3	_	_	start_char=713|end_char=714|SpaceAfter=No
+5	point	point	NOUN	NN	Number=Sing	4	_	_	start_char=714|end_char=719
+6	by	by	ADP	IN	_	5	_	_	start_char=720|end_char=722
+7	point	point	NOUN	NN	Number=Sing	6	_	_	start_char=723|end_char=728|SpaceAfter=No
+8	"	"	PUNCT	''	_	7	_	_	start_char=728|end_char=729
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=730|end_char=733
+10	Russian	Russian	ADJ	JJ	Degree=Pos	9	_	_	start_char=734|end_char=741
+11	head	head	NOUN	NN	Number=Sing	10	_	_	start_char=742|end_char=746
+12	of	of	ADP	IN	_	11	_	_	start_char=747|end_char=749
+13-14	state's	_	_	_	_	_	_	_	start_char=750|end_char=757
+13	state	state	NOUN	NN	Number=Sing	12	_	_	start_char=750|end_char=755
+14	's	's	PART	POS	_	13	_	_	start_char=755|end_char=757
+15	conditions	condition	NOUN	NNS	Number=Plur	14	_	_	start_char=758|end_char=768
+16	look	look	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=769|end_char=773|SpaceAfter=No
+17	:	:	PUNCT	:	_	16	_	_	start_char=773|end_char=774|SpacesAfter=\n
+18	1	1	NUM	LS	_	17	_	_	start_char=775|end_char=776|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=776|end_char=777
+20	Give	give	VERB	VB	Mood=Imp|VerbForm=Fin	19	_	_	start_char=778|end_char=782
+21	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	20	_	_	start_char=783|end_char=785
+22	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	21	_	_	start_char=786|end_char=790
+23	territories	territory	NOUN	NNS	Number=Plur	22	_	_	start_char=791|end_char=802|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=802|end_char=803|SpacesAfter=\n
+
+# text = 2. Give up your sovereignty 3.
+# sent_id = 5
+1	2	2	NUM	LS	_	0	_	_	start_char=804|end_char=805|SpaceAfter=No
+2	.	.	PUNCT	.	_	1	_	_	start_char=805|end_char=806
+3	Give	give	VERB	VB	Mood=Imp|VerbForm=Fin	2	_	_	start_char=807|end_char=811
+4	up	up	ADP	RP	_	3	_	_	start_char=812|end_char=814
+5	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	4	_	_	start_char=815|end_char=819
+6	sovereignty	sovereignty	NOUN	NN	Number=Sing	5	_	_	start_char=820|end_char=831|SpacesAfter=\n
+7	3	3	NUM	CD	NumForm=Digit|NumType=Card	6	_	_	start_char=832|end_char=833|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	_	_	start_char=833|end_char=834
+
+# text = Allow yourselves to be unprotected (no alliances).
+# sent_id = 6
+1	Allow	allow	VERB	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=835|end_char=840
+2	yourselves	yourselves	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	1	_	_	start_char=841|end_char=851
+3	to	to	PART	TO	_	2	_	_	start_char=852|end_char=854
+4	be	be	AUX	VB	VerbForm=Inf	3	_	_	start_char=855|end_char=857
+5	unprotected	unprotect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	_	_	start_char=858|end_char=869
+6	(	(	PUNCT	-LRB-	_	5	_	_	start_char=870|end_char=871|SpaceAfter=No
+7	no	no	DET	DT	_	6	_	_	start_char=871|end_char=873
+8	alliances	alliance	NOUN	NNS	Number=Plur	7	_	_	start_char=874|end_char=883|SpaceAfter=No
+9	)	)	PUNCT	-RRB-	_	8	_	_	start_char=883|end_char=884|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=884|end_char=885|SpacesAfter=\n
+
+# text = 4. Remove all sanctions completely and immediately so we can replenish our militarized economy and make more investments in information provocations around the world.
+# sent_id = 7
+1	4	4	NUM	LS	_	0	_	_	start_char=886|end_char=887|SpaceAfter=No
+2	.	.	PUNCT	.	_	1	_	_	start_char=887|end_char=888
+3	Remove	remove	VERB	VB	Mood=Imp|VerbForm=Fin	2	_	_	start_char=889|end_char=895
+4	all	all	DET	DT	_	3	_	_	start_char=896|end_char=899
+5	sanctions	sanction	NOUN	NNS	Number=Plur	4	_	_	start_char=900|end_char=909
+6	completely	completely	ADV	RB	_	5	_	_	start_char=910|end_char=920
+7	and	and	CCONJ	CC	_	6	_	_	start_char=921|end_char=924
+8	immediately	immediately	ADV	RB	_	7	_	_	start_char=925|end_char=936
+9	so	so	SCONJ	IN	_	8	_	_	start_char=937|end_char=939
+10	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	_	_	start_char=940|end_char=942
+11	can	can	AUX	MD	VerbForm=Fin	10	_	_	start_char=943|end_char=946
+12	replenish	replenish	VERB	VB	VerbForm=Inf	11	_	_	start_char=947|end_char=956
+13	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	12	_	_	start_char=957|end_char=960
+14	militarized	militarized	ADJ	JJ	Degree=Pos	13	_	_	start_char=961|end_char=972
+15	economy	economy	NOUN	NN	Number=Sing	14	_	_	start_char=973|end_char=980
+16	and	and	CCONJ	CC	_	15	_	_	start_char=981|end_char=984
+17	make	make	VERB	VB	VerbForm=Inf	16	_	_	start_char=985|end_char=989
+18	more	more	ADJ	JJR	Degree=Cmp	17	_	_	start_char=990|end_char=994
+19	investments	investment	NOUN	NNS	Number=Plur	18	_	_	start_char=995|end_char=1006
+20	in	in	ADP	IN	_	19	_	_	start_char=1007|end_char=1009
+21	information	information	NOUN	NN	Number=Sing	20	_	_	start_char=1010|end_char=1021
+22	provocations	provocation	NOUN	NNS	Number=Plur	21	_	_	start_char=1022|end_char=1034
+23	around	around	ADP	IN	_	22	_	_	start_char=1035|end_char=1041
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=1042|end_char=1045
+25	world	world	NOUN	NN	Number=Sing	24	_	_	start_char=1046|end_char=1051|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=1051|end_char=1052|SpacesAfter=\n
+
+# text = 5. Let's urgently fix Russia's "no/fail" at Ukraine's expense.
+# sent_id = 8
+1	5	5	NUM	LS	_	0	_	_	start_char=1053|end_char=1054|SpaceAfter=No
+2	.	.	PUNCT	.	_	1	_	_	start_char=1054|end_char=1055
+3-4	Let's	_	_	_	_	_	_	_	start_char=1056|end_char=1061
+3	Let	let	VERB	VB	Mood=Imp|VerbForm=Fin	2	_	_	start_char=1056|end_char=1059
+4	's	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	3	_	_	start_char=1059|end_char=1061
+5	urgently	urgently	ADV	RB	_	4	_	_	start_char=1062|end_char=1070
+6	fix	fix	VERB	VB	VerbForm=Inf	5	_	_	start_char=1071|end_char=1074
+7-8	Russia's	_	_	_	_	_	_	_	start_char=1075|end_char=1083
+7	Russia	Russia	PROPN	NNP	Number=Sing	6	_	_	start_char=1075|end_char=1081
+8	's	's	PART	POS	_	7	_	_	start_char=1081|end_char=1083
+9	"	"	PUNCT	``	_	8	_	_	start_char=1084|end_char=1085|SpaceAfter=No
+10	no	no	DET	DT	PronType=Art	9	_	_	start_char=1085|end_char=1087|SpaceAfter=No
+11	/	/	SYM	,	_	10	_	_	start_char=1087|end_char=1088|SpaceAfter=No
+12	fail	fail	NOUN	NN	Number=Sing	11	_	_	start_char=1088|end_char=1092|SpaceAfter=No
+13	"	"	PUNCT	''	_	12	_	_	start_char=1092|end_char=1093
+14	at	at	ADP	IN	_	13	_	_	start_char=1094|end_char=1096
+15-16	Ukraine's	_	_	_	_	_	_	_	start_char=1097|end_char=1106
+15	Ukraine	Ukraine	PROPN	NNP	Number=Sing	14	_	_	start_char=1097|end_char=1104
+16	's	's	PART	POS	_	15	_	_	start_char=1104|end_char=1106
+17	expense	expense	NOUN	NN	Number=Sing	16	_	_	start_char=1107|end_char=1114|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=1114|end_char=1115|SpacesAfter=\n
+
+# text = "Of course, there is no novelty in this, no real proposals for peace, no desire to end the war.
+# sent_id = 9
+1	"	"	PUNCT	``	_	0	_	_	start_char=1116|end_char=1117|SpaceAfter=No
+2	Of	of	ADV	IN	_	1	_	_	start_char=1117|end_char=1119
+3	course	course	NOUN	NN	Number=Sing	2	_	_	start_char=1120|end_char=1126|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1126|end_char=1127
+5	there	there	PRON	EX	_	4	_	_	start_char=1128|end_char=1133
+6	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1134|end_char=1136
+7	no	no	DET	DT	_	6	_	_	start_char=1137|end_char=1139
+8	novelty	novelty	NOUN	NN	Number=Sing	7	_	_	start_char=1140|end_char=1147
+9	in	in	ADP	IN	_	8	_	_	start_char=1148|end_char=1150
+10	this	this	PRON	DT	Number=Sing|PronType=Dem	9	_	_	start_char=1151|end_char=1155|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=1155|end_char=1156
+12	no	no	DET	DT	_	11	_	_	start_char=1157|end_char=1159
+13	real	real	ADJ	JJ	Degree=Pos	12	_	_	start_char=1160|end_char=1164
+14	proposals	proposal	NOUN	NNS	Number=Plur	13	_	_	start_char=1165|end_char=1174
+15	for	for	ADP	IN	_	14	_	_	start_char=1175|end_char=1178
+16	peace	peace	NOUN	NN	Number=Sing	15	_	_	start_char=1179|end_char=1184|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=1184|end_char=1185
+18	no	no	DET	DT	_	17	_	_	start_char=1186|end_char=1188
+19	desire	desire	NOUN	NN	Number=Sing	18	_	_	start_char=1189|end_char=1195
+20	to	to	PART	TO	_	19	_	_	start_char=1196|end_char=1198
+21	end	end	VERB	VB	VerbForm=Inf	20	_	_	start_char=1199|end_char=1202
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=1203|end_char=1206
+23	war	war	NOUN	NN	Number=Sing	22	_	_	start_char=1207|end_char=1210|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=1210|end_char=1211
+
+# text = But there is a desire not to pay for this war and to continue in new formats.
+# sent_id = 10
+1	But	but	CCONJ	CC	_	0	_	_	start_char=1212|end_char=1215
+2	there	there	PRON	EX	_	1	_	_	start_char=1216|end_char=1221
+3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1222|end_char=1224
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=1225|end_char=1226
+5	desire	desire	NOUN	NN	Number=Sing	4	_	_	start_char=1227|end_char=1233
+6	not	not	PART	RB	_	5	_	_	start_char=1234|end_char=1237
+7	to	to	PART	TO	_	6	_	_	start_char=1238|end_char=1240
+8	pay	pay	VERB	VB	VerbForm=Inf	7	_	_	start_char=1241|end_char=1244
+9	for	for	ADP	IN	_	8	_	_	start_char=1245|end_char=1248
+10	this	this	DET	DT	Number=Sing|PronType=Dem	9	_	_	start_char=1249|end_char=1253
+11	war	war	NOUN	NN	Number=Sing	10	_	_	start_char=1254|end_char=1257
+12	and	and	CCONJ	CC	_	11	_	_	start_char=1258|end_char=1261
+13	to	to	PART	TO	_	12	_	_	start_char=1262|end_char=1264
+14	continue	continue	VERB	VB	VerbForm=Inf	13	_	_	start_char=1265|end_char=1273
+15	in	in	ADP	IN	_	14	_	_	start_char=1274|end_char=1276
+16	new	new	ADJ	JJ	Degree=Pos	15	_	_	start_char=1277|end_char=1280
+17	formats	format	NOUN	NNS	Number=Plur	16	_	_	start_char=1281|end_char=1288|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=1288|end_char=1289
+
+# text = All this is a complete disgrace.
+# sent_id = 11
+1	All	all	DET	PDT	_	0	_	_	start_char=1290|end_char=1293
+2	this	this	PRON	DT	Number=Sing|PronType=Dem	1	_	_	start_char=1294|end_char=1298
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1299|end_char=1301
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=1302|end_char=1303
+5	complete	complete	ADJ	JJ	Degree=Pos	4	_	_	start_char=1304|end_char=1312
+6	disgrace	disgrace	NOUN	NN	Number=Sing	5	_	_	start_char=1313|end_char=1321|SpaceAfter=No
+7	.	.	PUNCT	.	_	6	_	_	start_char=1321|end_char=1322
+
+# text = Therefore - once again, free yourselves from illusions and stop taking seriously "Russia's proposals", which are offensive to common sense," Podolyak said, bTV reports.
+# sent_id = 12
+1	Therefore	therefore	ADV	RB	_	0	_	_	start_char=1323|end_char=1332
+2	-	-	PUNCT	,	_	1	_	_	start_char=1333|end_char=1334
+3	once	once	ADV	RB	NumType=Mult	2	_	_	start_char=1335|end_char=1339
+4	again	again	ADV	RB	_	3	_	_	start_char=1340|end_char=1345|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=1345|end_char=1346
+6	free	free	VERB	VB	Mood=Imp|VerbForm=Fin	5	_	_	start_char=1347|end_char=1351
+7	yourselves	yourselves	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	6	_	_	start_char=1352|end_char=1362
+8	from	from	ADP	IN	_	7	_	_	start_char=1363|end_char=1367
+9	illusions	illusion	NOUN	NNS	Number=Plur	8	_	_	start_char=1368|end_char=1377
+10	and	and	CCONJ	CC	_	9	_	_	start_char=1378|end_char=1381
+11	stop	stop	VERB	VB	Mood=Imp|VerbForm=Fin	10	_	_	start_char=1382|end_char=1386
+12	taking	take	VERB	VBG	VerbForm=Ger	11	_	_	start_char=1387|end_char=1393
+13	seriously	seriously	ADV	RB	_	12	_	_	start_char=1394|end_char=1403
+14	"	"	PUNCT	``	_	13	_	_	start_char=1404|end_char=1405|SpaceAfter=No
+15-16	Russia's	_	_	_	_	_	_	_	start_char=1405|end_char=1413
+15	Russia	Russia	PROPN	NNP	Number=Sing	14	_	_	start_char=1405|end_char=1411
+16	's	's	PART	POS	_	15	_	_	start_char=1411|end_char=1413
+17	proposals	proposal	NOUN	NNS	Number=Plur	16	_	_	start_char=1414|end_char=1423|SpaceAfter=No
+18	"	"	PUNCT	''	_	17	_	_	start_char=1423|end_char=1424|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=1424|end_char=1425
+20	which	which	PRON	WDT	PronType=Rel	19	_	_	start_char=1426|end_char=1431
+21	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	_	_	start_char=1432|end_char=1435
+22	offensive	offensive	ADJ	JJ	Degree=Pos	21	_	_	start_char=1436|end_char=1445
+23	to	to	ADP	IN	_	22	_	_	start_char=1446|end_char=1448
+24	common	common	ADJ	JJ	Degree=Pos	23	_	_	start_char=1449|end_char=1455
+25	sense	sense	NOUN	NN	Number=Sing	24	_	_	start_char=1456|end_char=1461|SpaceAfter=No
+26	,	,	PUNCT	,	_	25	_	_	start_char=1461|end_char=1462|SpaceAfter=No
+27	"	"	PUNCT	''	_	26	_	_	start_char=1462|end_char=1463
+28	Podolyak	Podolyak	PROPN	NNP	Number=Sing	27	_	_	start_char=1464|end_char=1472
+29	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	_	_	start_char=1473|end_char=1477|SpaceAfter=No
+30	,	,	PUNCT	,	_	29	_	_	start_char=1477|end_char=1478
+31	bTV	bTV	PROPN	NNP	Number=Sing	30	_	_	start_char=1479|end_char=1482
+32	reports	report	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	_	_	start_char=1483|end_char=1490|SpaceAfter=No
+33	.	.	PUNCT	.	_	32	_	_	start_char=1490|end_char=1491|SpaceAfter=No
+

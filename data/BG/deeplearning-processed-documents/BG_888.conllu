@@ -1,0 +1,365 @@
+# text = World's largest bank JP Morgan quits $68 trillion climate coalition
+# sent_id = 0
+1-2	World's	_	_	_	_	_	_	_	start_char=0|end_char=7
+1	World	World	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=5
+2	's	's	PART	POS	_	1	_	_	start_char=5|end_char=7
+3	largest	large	ADJ	JJS	Degree=Sup	2	_	_	start_char=8|end_char=15
+4	bank	bank	NOUN	NN	Number=Sing	3	_	_	start_char=16|end_char=20
+5	JP	JP	PROPN	NNP	Number=Sing	4	_	_	start_char=21|end_char=23
+6	Morgan	Morgan	PROPN	NNP	Number=Sing	5	_	_	start_char=24|end_char=30
+7	quits	quit	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=31|end_char=36
+8	$	$	SYM	$	_	7	_	_	start_char=37|end_char=38|SpaceAfter=No
+9	68	68	NUM	CD	NumForm=Digit|NumType=Card	8	_	_	start_char=38|end_char=40
+10	trillion	trillion	NUM	CD	NumForm=Word|NumType=Card	9	_	_	start_char=41|end_char=49
+11	climate	climate	NOUN	NN	Number=Sing	10	_	_	start_char=50|end_char=57
+12	coalition	coalition	NOUN	NN	Number=Sing	11	_	_	start_char=58|end_char=67|SpacesAfter=\n\n
+
+# text = The value of these investments to support green policies is estimated at $68 trillion.
+# sent_id = 1
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=69|end_char=72
+2	value	value	NOUN	NN	Number=Sing	1	_	_	start_char=73|end_char=78
+3	of	of	ADP	IN	_	2	_	_	start_char=79|end_char=81
+4	these	this	DET	DT	Number=Plur|PronType=Dem	3	_	_	start_char=82|end_char=87
+5	investments	investment	NOUN	NNS	Number=Plur	4	_	_	start_char=88|end_char=99
+6	to	to	PART	TO	_	5	_	_	start_char=100|end_char=102
+7	support	support	VERB	VB	VerbForm=Inf	6	_	_	start_char=103|end_char=110
+8	green	green	ADJ	JJ	Degree=Pos	7	_	_	start_char=111|end_char=116
+9	policies	policy	NOUN	NNS	Number=Plur	8	_	_	start_char=117|end_char=125
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=126|end_char=128
+11	estimated	estimate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10	_	_	start_char=129|end_char=138
+12	at	at	ADP	IN	_	11	_	_	start_char=139|end_char=141
+13	$	$	SYM	$	_	12	_	_	start_char=142|end_char=143|SpaceAfter=No
+14	68	68	NUM	CD	NumForm=Digit|NumType=Card	13	_	_	start_char=143|end_char=145
+15	trillion	trillion	NUM	CD	NumForm=Word|NumType=Card	14	_	_	start_char=146|end_char=154|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=154|end_char=155
+
+# text = JP Morgan is the largest bank in the U.S. and the largest bank in the world by market capitalization as of 2023.
+# sent_id = 2
+1	JP	JP	PROPN	NNP	Number=Sing	0	_	_	start_char=156|end_char=158
+2	Morgan	Morgan	PROPN	NNP	Number=Sing	1	_	_	start_char=159|end_char=165
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=166|end_char=168
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=169|end_char=172
+5	largest	large	ADJ	JJS	Degree=Sup	4	_	_	start_char=173|end_char=180
+6	bank	bank	NOUN	NN	Number=Sing	5	_	_	start_char=181|end_char=185
+7	in	in	ADP	IN	_	6	_	_	start_char=186|end_char=188
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=189|end_char=192
+9	U.S.	U.S.	PROPN	NNP	Number=Sing	8	_	_	start_char=193|end_char=197
+10	and	and	CCONJ	CC	_	9	_	_	start_char=198|end_char=201
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=202|end_char=205
+12	largest	large	ADJ	JJS	Degree=Sup	11	_	_	start_char=206|end_char=213
+13	bank	bank	NOUN	NN	Number=Sing	12	_	_	start_char=214|end_char=218
+14	in	in	ADP	IN	_	13	_	_	start_char=219|end_char=221
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=222|end_char=225
+16	world	world	NOUN	NN	Number=Sing	15	_	_	start_char=226|end_char=231
+17	by	by	ADP	IN	_	16	_	_	start_char=232|end_char=234
+18	market	market	NOUN	NN	Number=Sing	17	_	_	start_char=235|end_char=241
+19	capitalization	capitalization	NOUN	NN	Number=Sing	18	_	_	start_char=242|end_char=256
+20	as	as	ADP	IN	_	19	_	_	start_char=257|end_char=259
+21	of	of	ADP	IN	_	20	_	_	start_char=260|end_char=262
+22	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	21	_	_	start_char=263|end_char=267|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=267|end_char=268|SpacesAfter=\n
+
+# text = The news sparked comments that the 'fight' to decarbonise is breaking down.
+# sent_id = 3
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=269|end_char=272
+2	news	news	NOUN	NN	Number=Sing	1	_	_	start_char=273|end_char=277
+3	sparked	spark	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=278|end_char=285
+4	comments	comment	NOUN	NNS	Number=Plur	3	_	_	start_char=286|end_char=294
+5	that	that	SCONJ	IN	_	4	_	_	start_char=295|end_char=299
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=300|end_char=303
+7	'	'	PUNCT	``	_	6	_	_	start_char=304|end_char=305|SpaceAfter=No
+8	fight	fight	NOUN	NN	Number=Sing	7	_	_	start_char=305|end_char=310|SpaceAfter=No
+9	'	'	PUNCT	''	_	8	_	_	start_char=310|end_char=311
+10	to	to	PART	TO	_	9	_	_	start_char=312|end_char=314
+11	decarbonise	decarbonise	VERB	VB	VerbForm=Inf	10	_	_	start_char=315|end_char=326
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=327|end_char=329
+13	breaking	break	VERB	VBG	Tense=Pres|VerbForm=Part	12	_	_	start_char=330|end_char=338
+14	down	down	ADP	RP	_	13	_	_	start_char=339|end_char=343|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=343|end_char=344
+
+# text = JP Morgan said it was leaving Climate Action100+ because it had "made significant investments in developing its own framework for engaging with climate risk", the finance corporation said in a statement.
+# sent_id = 4
+1	JP	JP	PROPN	NNP	Number=Sing	0	_	_	start_char=345|end_char=347
+2	Morgan	Morgan	PROPN	NNP	Number=Sing	1	_	_	start_char=348|end_char=354
+3	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=355|end_char=359
+4	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	_	_	start_char=360|end_char=362
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=363|end_char=366
+6	leaving	leave	VERB	VBG	Tense=Pres|VerbForm=Part	5	_	_	start_char=367|end_char=374
+7	Climate	Climate	PROPN	NNP	Number=Sing	6	_	_	start_char=375|end_char=382
+8	Action100	Action100	PROPN	NNP	Number=Sing	7	_	_	start_char=383|end_char=392|SpaceAfter=No
+9	+	+	SYM	SYM	_	8	_	_	start_char=392|end_char=393
+10	because	because	SCONJ	IN	_	9	_	_	start_char=394|end_char=401
+11	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	_	_	start_char=402|end_char=404
+12	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=405|end_char=408
+13	"	"	PUNCT	``	_	12	_	_	start_char=409|end_char=410|SpaceAfter=No
+14	made	make	VERB	VBN	Tense=Past|VerbForm=Part	13	_	_	start_char=410|end_char=414
+15	significant	significant	ADJ	JJ	Degree=Pos	14	_	_	start_char=415|end_char=426
+16	investments	investment	NOUN	NNS	Number=Plur	15	_	_	start_char=427|end_char=438
+17	in	in	SCONJ	IN	_	16	_	_	start_char=439|end_char=441
+18	developing	develop	VERB	VBG	VerbForm=Ger	17	_	_	start_char=442|end_char=452
+19	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	18	_	_	start_char=453|end_char=456
+20	own	own	ADJ	JJ	Degree=Pos	19	_	_	start_char=457|end_char=460
+21	framework	framework	NOUN	NN	Number=Sing	20	_	_	start_char=461|end_char=470
+22	for	for	SCONJ	IN	_	21	_	_	start_char=471|end_char=474
+23	engaging	engage	VERB	VBG	VerbForm=Ger	22	_	_	start_char=475|end_char=483
+24	with	with	ADP	IN	_	23	_	_	start_char=484|end_char=488
+25	climate	climate	NOUN	NN	Number=Sing	24	_	_	start_char=489|end_char=496
+26	risk	risk	NOUN	NN	Number=Sing	25	_	_	start_char=497|end_char=501|SpaceAfter=No
+27	"	"	PUNCT	''	_	26	_	_	start_char=501|end_char=502|SpaceAfter=No
+28	,	,	PUNCT	,	_	27	_	_	start_char=502|end_char=503
+29	the	the	DET	DT	Definite=Def|PronType=Art	28	_	_	start_char=504|end_char=507
+30	finance	finance	NOUN	NN	Number=Sing	29	_	_	start_char=508|end_char=515
+31	corporation	corporation	NOUN	NN	Number=Sing	30	_	_	start_char=516|end_char=527
+32	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	31	_	_	start_char=528|end_char=532
+33	in	in	ADP	IN	_	32	_	_	start_char=533|end_char=535
+34	a	a	DET	DT	Definite=Ind|PronType=Art	33	_	_	start_char=536|end_char=537
+35	statement	statement	NOUN	NN	Number=Sing	34	_	_	start_char=538|end_char=547|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=547|end_char=548
+
+# text = The bank says it now has 40 professionals focused on sustainable investing.
+# sent_id = 5
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=549|end_char=552
+2	bank	bank	NOUN	NN	Number=Sing	1	_	_	start_char=553|end_char=557
+3	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=558|end_char=562
+4	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	_	_	start_char=563|end_char=565
+5	now	now	ADV	RB	_	4	_	_	start_char=566|end_char=569
+6	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=570|end_char=573
+7	40	40	NUM	CD	NumForm=Digit|NumType=Card	6	_	_	start_char=574|end_char=576
+8	professionals	professional	NOUN	NNS	Number=Plur	7	_	_	start_char=577|end_char=590
+9	focused	focus	VERB	VBN	Tense=Past|VerbForm=Part	8	_	_	start_char=591|end_char=598
+10	on	on	ADP	IN	_	9	_	_	start_char=599|end_char=601
+11	sustainable	sustainable	ADJ	JJ	Degree=Pos	10	_	_	start_char=602|end_char=613
+12	investing	investing	NOUN	NN	Number=Sing	11	_	_	start_char=614|end_char=623|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=623|end_char=624|SpacesAfter=\n
+
+# text = And the damage to Climate Action100+ following JP Morgan's departure may just be beginning.
+# sent_id = 6
+1	And	and	CCONJ	CC	_	0	_	_	start_char=625|end_char=628
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=629|end_char=632
+3	damage	damage	NOUN	NN	Number=Sing	2	_	_	start_char=633|end_char=639
+4	to	to	ADP	IN	_	3	_	_	start_char=640|end_char=642
+5	Climate	Climate	PROPN	NNP	Number=Sing	4	_	_	start_char=643|end_char=650
+6	Action100	Action100	PROPN	NNP	Number=Sing	5	_	_	start_char=651|end_char=660|SpaceAfter=No
+7	+	+	SYM	SYM	_	6	_	_	start_char=660|end_char=661
+8	following	follow	VERB	VBG	VerbForm=Ger	7	_	_	start_char=662|end_char=671
+9	JP	JP	PROPN	NNP	Number=Sing	8	_	_	start_char=672|end_char=674
+10-11	Morgan's	_	_	_	_	_	_	_	start_char=675|end_char=683
+10	Morgan	Morgan	PROPN	NNP	Number=Sing	9	_	_	start_char=675|end_char=681
+11	's	's	PART	POS	_	10	_	_	start_char=681|end_char=683
+12	departure	departure	NOUN	NN	Number=Sing	11	_	_	start_char=684|end_char=693
+13	may	may	AUX	MD	VerbForm=Fin	12	_	_	start_char=694|end_char=697
+14	just	just	ADV	RB	_	13	_	_	start_char=698|end_char=702
+15	be	be	AUX	VB	VerbForm=Inf	14	_	_	start_char=703|end_char=705
+16	beginning	begin	VERB	VBG	Tense=Pres|VerbForm=Part	15	_	_	start_char=706|end_char=715|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=715|end_char=716
+
+# text = Lance Dial, a Boston-based partner at law firm K&L Gates LLP, told Bloomberg, "I wouldn't be surprised if we see more defections, especially given that there are costs now, such as potential litigation, that weren't there when the companies joined."
+# sent_id = 7
+1	Lance	Lance	PROPN	NNP	Number=Sing	0	_	_	start_char=717|end_char=722
+2	Dial	Dial	PROPN	NNP	Number=Sing	1	_	_	start_char=723|end_char=727|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=727|end_char=728
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=729|end_char=730
+5	Boston	Boston	PROPN	NNP	Number=Sing	4	_	_	start_char=731|end_char=737|SpaceAfter=No
+6	-	-	PUNCT	HYPH	_	5	_	_	start_char=737|end_char=738|SpaceAfter=No
+7	based	base	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=738|end_char=743
+8	partner	partner	NOUN	NN	Number=Sing	7	_	_	start_char=744|end_char=751
+9	at	at	ADP	IN	_	8	_	_	start_char=752|end_char=754
+10	law	law	NOUN	NN	Number=Sing	9	_	_	start_char=755|end_char=758
+11	firm	firm	NOUN	NN	Number=Sing	10	_	_	start_char=759|end_char=763
+12	K&L	K&L	PROPN	NNP	Number=Sing	11	_	_	start_char=764|end_char=767
+13	Gates	Gates	PROPN	NNP	Number=Sing	12	_	_	start_char=768|end_char=773
+14	LLP	LLP	PROPN	NNP	Number=Sing	13	_	_	start_char=774|end_char=777|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=777|end_char=778
+16	told	tell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	_	_	start_char=779|end_char=783
+17	Bloomberg	Bloomberg	PROPN	NNP	Number=Sing	16	_	_	start_char=784|end_char=793|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=793|end_char=794
+19	"	"	PUNCT	``	_	18	_	_	start_char=795|end_char=796|SpaceAfter=No
+20	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	19	_	_	start_char=796|end_char=797
+21-22	wouldn't	_	_	_	_	_	_	_	start_char=798|end_char=806
+21	would	would	AUX	MD	VerbForm=Fin	20	_	_	start_char=798|end_char=803
+22	n't	not	PART	RB	_	21	_	_	start_char=803|end_char=806
+23	be	be	AUX	VB	VerbForm=Inf	22	_	_	start_char=807|end_char=809
+24	surprised	surprise	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	23	_	_	start_char=810|end_char=819
+25	if	if	SCONJ	IN	_	24	_	_	start_char=820|end_char=822
+26	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	25	_	_	start_char=823|end_char=825
+27	see	see	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	26	_	_	start_char=826|end_char=829
+28	more	more	ADJ	JJR	Degree=Cmp	27	_	_	start_char=830|end_char=834
+29	defections	defection	NOUN	NNS	Number=Plur	28	_	_	start_char=835|end_char=845|SpaceAfter=No
+30	,	,	PUNCT	,	_	29	_	_	start_char=845|end_char=846
+31	especially	especially	ADV	RB	_	30	_	_	start_char=847|end_char=857
+32	given	give	VERB	VBN	Tense=Past|VerbForm=Part	31	_	_	start_char=858|end_char=863
+33	that	that	SCONJ	IN	_	32	_	_	start_char=864|end_char=868
+34	there	there	PRON	EX	_	33	_	_	start_char=869|end_char=874
+35	are	be	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	34	_	_	start_char=875|end_char=878
+36	costs	cost	NOUN	NNS	Number=Plur	35	_	_	start_char=879|end_char=884
+37	now	now	ADV	RB	_	36	_	_	start_char=885|end_char=888|SpaceAfter=No
+38	,	,	PUNCT	,	_	37	_	_	start_char=888|end_char=889
+39	such	such	ADJ	JJ	Degree=Pos	38	_	_	start_char=890|end_char=894
+40	as	as	ADP	IN	_	39	_	_	start_char=895|end_char=897
+41	potential	potential	ADJ	JJ	Degree=Pos	40	_	_	start_char=898|end_char=907
+42	litigation	litigation	NOUN	NN	Number=Sing	41	_	_	start_char=908|end_char=918|SpaceAfter=No
+43	,	,	PUNCT	,	_	42	_	_	start_char=918|end_char=919
+44	that	that	PRON	WDT	PronType=Rel	43	_	_	start_char=920|end_char=924
+45-46	weren't	_	_	_	_	_	_	_	start_char=925|end_char=932
+45	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	44	_	_	start_char=925|end_char=929
+46	n't	not	PART	RB	_	45	_	_	start_char=929|end_char=932
+47	there	there	ADV	RB	PronType=Dem	46	_	_	start_char=933|end_char=938
+48	when	when	ADV	WRB	PronType=Int	47	_	_	start_char=939|end_char=943
+49	the	the	DET	DT	Definite=Def|PronType=Art	48	_	_	start_char=944|end_char=947
+50	companies	company	NOUN	NNS	Number=Plur	49	_	_	start_char=948|end_char=957
+51	joined	join	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	50	_	_	start_char=958|end_char=964|SpaceAfter=No
+52	.	.	PUNCT	.	_	51	_	_	start_char=964|end_char=965|SpaceAfter=No
+53	"	"	PUNCT	''	_	52	_	_	start_char=965|end_char=966|SpacesAfter=\n
+
+# text = The group said its 700+ members are "committed to managing climate risk and preserving shareholder value through their participation in the initiative".
+# sent_id = 8
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=967|end_char=970
+2	group	group	NOUN	NN	Number=Sing	1	_	_	start_char=971|end_char=976
+3	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=977|end_char=981
+4	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	_	_	start_char=982|end_char=985
+5	700	700	NUM	CD	NumForm=Digit|NumType=Card	4	_	_	start_char=986|end_char=989|SpaceAfter=No
+6	+	+	SYM	SYM	_	5	_	_	start_char=989|end_char=990
+7	members	member	NOUN	NNS	Number=Plur	6	_	_	start_char=991|end_char=998
+8	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=999|end_char=1002
+9	"	"	PUNCT	``	_	8	_	_	start_char=1003|end_char=1004|SpaceAfter=No
+10	committed	commit	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	9	_	_	start_char=1004|end_char=1013
+11	to	to	SCONJ	IN	_	10	_	_	start_char=1014|end_char=1016
+12	managing	manage	VERB	VBG	VerbForm=Ger	11	_	_	start_char=1017|end_char=1025
+13	climate	climate	NOUN	NN	Number=Sing	12	_	_	start_char=1026|end_char=1033
+14	risk	risk	NOUN	NN	Number=Sing	13	_	_	start_char=1034|end_char=1038
+15	and	and	CCONJ	CC	_	14	_	_	start_char=1039|end_char=1042
+16	preserving	preserve	VERB	VBG	VerbForm=Ger	15	_	_	start_char=1043|end_char=1053
+17	shareholder	shareholder	NOUN	NN	Number=Sing	16	_	_	start_char=1054|end_char=1065
+18	value	value	NOUN	NN	Number=Sing	17	_	_	start_char=1066|end_char=1071
+19	through	through	ADP	IN	_	18	_	_	start_char=1072|end_char=1079
+20	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	19	_	_	start_char=1080|end_char=1085
+21	participation	participation	NOUN	NN	Number=Sing	20	_	_	start_char=1086|end_char=1099
+22	in	in	ADP	IN	_	21	_	_	start_char=1100|end_char=1102
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=1103|end_char=1106
+24	initiative	initiative	NOUN	NN	Number=Sing	23	_	_	start_char=1107|end_char=1117|SpaceAfter=No
+25	"	"	PUNCT	''	_	24	_	_	start_char=1117|end_char=1118|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=1118|end_char=1119|SpacesAfter=\n
+
+# text = The initiative, along with its participants, has faced growing criticism from Republican circles in the US, describing it as politically motivated.
+# sent_id = 9
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1120|end_char=1123
+2	initiative	initiative	NOUN	NN	Number=Sing	1	_	_	start_char=1124|end_char=1134|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=1134|end_char=1135
+4	along	along	ADP	IN	_	3	_	_	start_char=1136|end_char=1141
+5	with	with	ADP	IN	_	4	_	_	start_char=1142|end_char=1146
+6	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	_	_	start_char=1147|end_char=1150
+7	participants	participant	NOUN	NNS	Number=Plur	6	_	_	start_char=1151|end_char=1163|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=1163|end_char=1164
+9	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=1165|end_char=1168
+10	faced	face	VERB	VBN	Tense=Past|VerbForm=Part	9	_	_	start_char=1169|end_char=1174
+11	growing	grow	VERB	VBG	VerbForm=Ger	10	_	_	start_char=1175|end_char=1182
+12	criticism	criticism	NOUN	NN	Number=Sing	11	_	_	start_char=1183|end_char=1192
+13	from	from	ADP	IN	_	12	_	_	start_char=1193|end_char=1197
+14	Republican	Republican	ADJ	JJ	Degree=Pos	13	_	_	start_char=1198|end_char=1208
+15	circles	circle	NOUN	NNS	Number=Plur	14	_	_	start_char=1209|end_char=1216
+16	in	in	ADP	IN	_	15	_	_	start_char=1217|end_char=1219
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=1220|end_char=1223
+18	US	US	PROPN	NNP	Number=Sing	17	_	_	start_char=1224|end_char=1226|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=1226|end_char=1227
+20	describing	describe	VERB	VBG	VerbForm=Ger	19	_	_	start_char=1228|end_char=1238
+21	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	20	_	_	start_char=1239|end_char=1241
+22	as	as	SCONJ	IN	_	21	_	_	start_char=1242|end_char=1244
+23	politically	politically	ADV	RB	_	22	_	_	start_char=1245|end_char=1256
+24	motivated	motivate	VERB	VBN	Tense=Past|VerbForm=Part	23	_	_	start_char=1257|end_char=1266|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=1266|end_char=1267|SpacesAfter=\n
+
+# text = This criticism has led many investment firms to withdraw from publicly aligning with net-zero emission commitments and to downplay their participation in climate-focused financial groups, which are now seen as a political liability rather than a merit.
+# sent_id = 10
+1	This	this	DET	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1268|end_char=1272
+2	criticism	criticism	NOUN	NN	Number=Sing	1	_	_	start_char=1273|end_char=1282
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1283|end_char=1286
+4	led	lead	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=1287|end_char=1290
+5	many	many	ADJ	JJ	Degree=Pos	4	_	_	start_char=1291|end_char=1295
+6	investment	investment	NOUN	NN	Number=Sing	5	_	_	start_char=1296|end_char=1306
+7	firms	firm	NOUN	NNS	Number=Plur	6	_	_	start_char=1307|end_char=1312
+8	to	to	PART	TO	_	7	_	_	start_char=1313|end_char=1315
+9	withdraw	withdraw	VERB	VB	VerbForm=Inf	8	_	_	start_char=1316|end_char=1324
+10	from	from	SCONJ	IN	_	9	_	_	start_char=1325|end_char=1329
+11	publicly	publicly	ADV	RB	_	10	_	_	start_char=1330|end_char=1338
+12	aligning	align	VERB	VBG	VerbForm=Ger	11	_	_	start_char=1339|end_char=1347
+13	with	with	ADP	IN	_	12	_	_	start_char=1348|end_char=1352
+14	net	net	NOUN	NN	Number=Sing	13	_	_	start_char=1353|end_char=1356|SpaceAfter=No
+15	-	-	PUNCT	HYPH	_	14	_	_	start_char=1356|end_char=1357|SpaceAfter=No
+16	zero	zero	NUM	CD	NumForm=Word|NumType=Card	15	_	_	start_char=1357|end_char=1361
+17	emission	emission	NOUN	NN	Number=Sing	16	_	_	start_char=1362|end_char=1370
+18	commitments	commitment	NOUN	NNS	Number=Plur	17	_	_	start_char=1371|end_char=1382
+19	and	and	CCONJ	CC	_	18	_	_	start_char=1383|end_char=1386
+20	to	to	PART	TO	_	19	_	_	start_char=1387|end_char=1389
+21	downplay	downplay	VERB	VB	VerbForm=Inf	20	_	_	start_char=1390|end_char=1398
+22	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	21	_	_	start_char=1399|end_char=1404
+23	participation	participation	NOUN	NN	Number=Sing	22	_	_	start_char=1405|end_char=1418
+24	in	in	ADP	IN	_	23	_	_	start_char=1419|end_char=1421
+25	climate	climate	NOUN	NN	Number=Sing	24	_	_	start_char=1422|end_char=1429|SpaceAfter=No
+26	-	-	PUNCT	HYPH	_	25	_	_	start_char=1429|end_char=1430|SpaceAfter=No
+27	focused	focus	VERB	VBN	Tense=Past|VerbForm=Part	26	_	_	start_char=1430|end_char=1437
+28	financial	financial	ADJ	JJ	Degree=Pos	27	_	_	start_char=1438|end_char=1447
+29	groups	group	NOUN	NNS	Number=Plur	28	_	_	start_char=1448|end_char=1454|SpaceAfter=No
+30	,	,	PUNCT	,	_	29	_	_	start_char=1454|end_char=1455
+31	which	which	PRON	WDT	PronType=Rel	30	_	_	start_char=1456|end_char=1461
+32	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	31	_	_	start_char=1462|end_char=1465
+33	now	now	ADV	RB	_	32	_	_	start_char=1466|end_char=1469
+34	seen	see	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	33	_	_	start_char=1470|end_char=1474
+35	as	as	ADP	IN	_	34	_	_	start_char=1475|end_char=1477
+36	a	a	DET	DT	Definite=Ind|PronType=Art	35	_	_	start_char=1478|end_char=1479
+37	political	political	ADJ	JJ	Degree=Pos	36	_	_	start_char=1480|end_char=1489
+38	liability	liability	NOUN	NN	Number=Sing	37	_	_	start_char=1490|end_char=1499
+39	rather	rather	ADV	RB	_	38	_	_	start_char=1500|end_char=1506
+40	than	than	ADP	IN	_	39	_	_	start_char=1507|end_char=1511
+41	a	a	DET	DT	Definite=Ind|PronType=Art	40	_	_	start_char=1512|end_char=1513
+42	merit	merit	NOUN	NN	Number=Sing	41	_	_	start_char=1514|end_char=1519|SpaceAfter=No
+43	.	.	PUNCT	.	_	42	_	_	start_char=1519|end_char=1520|SpacesAfter=\n
+
+# text = "Climate Action100+ is now entering a more proactive phase, requiring members to ensure that companies move from plans to tangible emissions reductions.
+# sent_id = 11
+1	"	"	PUNCT	``	_	0	_	_	start_char=1521|end_char=1522|SpaceAfter=No
+2	Climate	Climate	PROPN	NNP	Number=Sing	1	_	_	start_char=1522|end_char=1529
+3	Action100	Action100	PROPN	NNP	Number=Sing	2	_	_	start_char=1530|end_char=1539|SpaceAfter=No
+4	+	+	SYM	SYM	_	3	_	_	start_char=1539|end_char=1540
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1541|end_char=1543
+6	now	now	ADV	RB	_	5	_	_	start_char=1544|end_char=1547
+7	entering	enter	VERB	VBG	Tense=Pres|VerbForm=Part	6	_	_	start_char=1548|end_char=1556
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=1557|end_char=1558
+9	more	more	ADV	RBR	Degree=Cmp	8	_	_	start_char=1559|end_char=1563
+10	proactive	proactive	ADJ	JJ	Degree=Pos	9	_	_	start_char=1564|end_char=1573
+11	phase	phase	NOUN	NN	Number=Sing	10	_	_	start_char=1574|end_char=1579|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=1579|end_char=1580
+13	requiring	require	VERB	VBG	VerbForm=Ger	12	_	_	start_char=1581|end_char=1590
+14	members	member	NOUN	NNS	Number=Plur	13	_	_	start_char=1591|end_char=1598
+15	to	to	PART	TO	_	14	_	_	start_char=1599|end_char=1601
+16	ensure	ensure	VERB	VB	VerbForm=Inf	15	_	_	start_char=1602|end_char=1608
+17	that	that	SCONJ	IN	_	16	_	_	start_char=1609|end_char=1613
+18	companies	company	NOUN	NNS	Number=Plur	17	_	_	start_char=1614|end_char=1623
+19	move	move	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=1624|end_char=1628
+20	from	from	ADP	IN	_	19	_	_	start_char=1629|end_char=1633
+21	plans	plan	NOUN	NNS	Number=Plur	20	_	_	start_char=1634|end_char=1639
+22	to	to	ADP	IN	_	21	_	_	start_char=1640|end_char=1642
+23	tangible	tangible	ADJ	JJ	Degree=Pos	22	_	_	start_char=1643|end_char=1651
+24	emissions	emission	NOUN	NNS	Number=Plur	23	_	_	start_char=1652|end_char=1661
+25	reductions	reduction	NOUN	NNS	Number=Plur	24	_	_	start_char=1662|end_char=1672|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=1672|end_char=1673
+
+# text = These requirements create additional difficulties for investors wishing to maintain a lower profile in climate advocacy.
+# sent_id = 12
+1	These	this	DET	DT	Number=Plur|PronType=Dem	0	_	_	start_char=1674|end_char=1679
+2	requirements	requirement	NOUN	NNS	Number=Plur	1	_	_	start_char=1680|end_char=1692
+3	create	create	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1693|end_char=1699
+4	additional	additional	ADJ	JJ	Degree=Pos	3	_	_	start_char=1700|end_char=1710
+5	difficulties	difficulty	NOUN	NNS	Number=Plur	4	_	_	start_char=1711|end_char=1723
+6	for	for	ADP	IN	_	5	_	_	start_char=1724|end_char=1727
+7	investors	investor	NOUN	NNS	Number=Plur	6	_	_	start_char=1728|end_char=1737
+8	wishing	wish	VERB	VBG	VerbForm=Ger	7	_	_	start_char=1738|end_char=1745
+9	to	to	PART	TO	_	8	_	_	start_char=1746|end_char=1748
+10	maintain	maintain	VERB	VB	VerbForm=Inf	9	_	_	start_char=1749|end_char=1757
+11	a	a	DET	DT	Definite=Ind|PronType=Art	10	_	_	start_char=1758|end_char=1759
+12	lower	low	ADJ	JJR	Degree=Cmp	11	_	_	start_char=1760|end_char=1765
+13	profile	profile	NOUN	NN	Number=Sing	12	_	_	start_char=1766|end_char=1773
+14	in	in	ADP	IN	_	13	_	_	start_char=1774|end_char=1776
+15	climate	climate	NOUN	NN	Number=Sing	14	_	_	start_char=1777|end_char=1784
+16	advocacy	advocacy	NOUN	NN	Number=Sing	15	_	_	start_char=1785|end_char=1793|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=1793|end_char=1794|SpaceAfter=No
+

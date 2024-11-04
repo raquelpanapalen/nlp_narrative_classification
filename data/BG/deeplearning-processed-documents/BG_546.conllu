@@ -1,0 +1,469 @@
+# text = The National Interest: FAB-3000 strikes will overwhelm Ukrainian air defenses
+# sent_id = 0
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=0|end_char=3
+2	National	National	ADJ	NNP	Degree=Pos	1	_	_	start_char=4|end_char=12
+3	Interest	interest	NOUN	NN	Number=Sing	2	_	_	start_char=13|end_char=21|SpaceAfter=No
+4	:	:	PUNCT	:	_	3	_	_	start_char=21|end_char=22
+5	FAB	FAB	PROPN	NNP	Number=Sing	4	_	_	start_char=23|end_char=26|SpaceAfter=No
+6	-	-	PUNCT	HYPH	_	5	_	_	start_char=26|end_char=27|SpaceAfter=No
+7	3000	3000	NUM	CD	NumForm=Digit|NumType=Card	6	_	_	start_char=27|end_char=31
+8	strikes	strike	NOUN	NNS	Number=Plur	7	_	_	start_char=32|end_char=39
+9	will	will	AUX	MD	VerbForm=Fin	8	_	_	start_char=40|end_char=44
+10	overwhelm	overwhelm	VERB	VB	VerbForm=Inf	9	_	_	start_char=45|end_char=54
+11	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	10	_	_	start_char=55|end_char=64
+12	air	air	NOUN	NN	Number=Sing	11	_	_	start_char=65|end_char=68
+13	defenses	defens	NOUN	NNS	Number=Plur	12	_	_	start_char=69|end_char=77|SpacesAfter=\n\n
+
+# text = Bombing Ukrainian Armed Forces positions with giant FAB-3000 bombs will overwhelm Ukraine's air defenses.
+# sent_id = 1
+1	Bombing	bomb	VERB	VBG	VerbForm=Ger	0	_	_	start_char=79|end_char=86
+2	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	1	_	_	start_char=87|end_char=96
+3	Armed	armed	ADJ	JJ	Degree=Pos	2	_	_	start_char=97|end_char=102
+4	Forces	force	NOUN	NNS	Number=Plur	3	_	_	start_char=103|end_char=109
+5	positions	position	NOUN	NNS	Number=Plur	4	_	_	start_char=110|end_char=119
+6	with	with	ADP	IN	_	5	_	_	start_char=120|end_char=124
+7	giant	giant	ADJ	JJ	Degree=Pos	6	_	_	start_char=125|end_char=130
+8	FAB	FAB	PROPN	NNP	Number=Sing	7	_	_	start_char=131|end_char=134|SpaceAfter=No
+9	-	-	PUNCT	HYPH	_	8	_	_	start_char=134|end_char=135|SpaceAfter=No
+10	3000	3000	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=135|end_char=139
+11	bombs	bomb	NOUN	NNS	Number=Plur	10	_	_	start_char=140|end_char=145
+12	will	will	AUX	MD	VerbForm=Fin	11	_	_	start_char=146|end_char=150
+13	overwhelm	overwhelm	VERB	VB	VerbForm=Inf	12	_	_	start_char=151|end_char=160
+14-15	Ukraine's	_	_	_	_	_	_	_	start_char=161|end_char=170
+14	Ukraine	Ukraine	PROPN	NNP	Number=Sing	13	_	_	start_char=161|end_char=168
+15	's	's	PART	POS	_	14	_	_	start_char=168|end_char=170
+16	air	air	NOUN	NN	Number=Sing	15	_	_	start_char=171|end_char=174
+17	defenses	defens	NOUN	NNS	Number=Plur	16	_	_	start_char=175|end_char=183|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=183|end_char=184
+
+# text = This is what analyst Brandon J. Weichert in an article for The National Interest.
+# sent_id = 2
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=185|end_char=189
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=190|end_char=192
+3	what	what	DET	WDT	PronType=Int	2	_	_	start_char=193|end_char=197
+4	analyst	analyst	NOUN	NN	Number=Sing	3	_	_	start_char=198|end_char=205
+5	Brandon	Brandon	PROPN	NNP	Number=Sing	4	_	_	start_char=206|end_char=213
+6	J.	J.	PROPN	NNP	Number=Sing	5	_	_	start_char=214|end_char=216
+7	Weichert	Weichert	PROPN	NNP	Number=Sing	6	_	_	start_char=217|end_char=225
+8	in	in	ADP	IN	_	7	_	_	start_char=226|end_char=228
+9	an	a	DET	DT	Definite=Ind|PronType=Art	8	_	_	start_char=229|end_char=231
+10	article	article	NOUN	NN	Number=Sing	9	_	_	start_char=232|end_char=239
+11	for	for	ADP	IN	_	10	_	_	start_char=240|end_char=243
+12	The	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=244|end_char=247
+13	National	National	ADJ	NNP	Degree=Pos	12	_	_	start_char=248|end_char=256
+14	Interest	Interest	PROPN	NNP	Number=Sing	13	_	_	start_char=257|end_char=265|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=265|end_char=266|SpacesAfter=\n
+
+# text = "If these weapons are mass-produced in eastern Russia, as Russian media report, then bombing these giants against Ukrainian targets will overwhelm Ukraine's air defenses and disrupt its entire strategy of defending against airstrikes," the piece reads.
+# sent_id = 3
+1	"	"	PUNCT	``	_	0	_	_	start_char=267|end_char=268|SpaceAfter=No
+2	If	if	SCONJ	IN	_	1	_	_	start_char=268|end_char=270
+3	these	this	DET	DT	Number=Plur|PronType=Dem	2	_	_	start_char=271|end_char=276
+4	weapons	weapon	NOUN	NNS	Number=Plur	3	_	_	start_char=277|end_char=284
+5	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=285|end_char=288
+6	mass	mass	NOUN	NN	Number=Sing	5	_	_	start_char=289|end_char=293|SpaceAfter=No
+7	-	-	PUNCT	HYPH	_	6	_	_	start_char=293|end_char=294|SpaceAfter=No
+8	produced	produce	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	_	_	start_char=294|end_char=302
+9	in	in	ADP	IN	_	8	_	_	start_char=303|end_char=305
+10	eastern	eastern	ADJ	JJ	Degree=Pos	9	_	_	start_char=306|end_char=313
+11	Russia	Russia	PROPN	NNP	Number=Sing	10	_	_	start_char=314|end_char=320|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=320|end_char=321
+13	as	as	ADP	IN	_	12	_	_	start_char=322|end_char=324
+14	Russian	Russian	ADJ	JJ	Degree=Pos	13	_	_	start_char=325|end_char=332
+15	media	media	NOUN	NN	Number=Sing	14	_	_	start_char=333|end_char=338
+16	report	report	NOUN	NN	Number=Sing	15	_	_	start_char=339|end_char=345|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=345|end_char=346
+18	then	then	ADV	RB	PronType=Dem	17	_	_	start_char=347|end_char=351
+19	bombing	bombing	VERB	VBG	VerbForm=Ger	18	_	_	start_char=352|end_char=359
+20	these	this	DET	DT	Number=Plur|PronType=Dem	19	_	_	start_char=360|end_char=365
+21	giants	giant	NOUN	NNS	Number=Plur	20	_	_	start_char=366|end_char=372
+22	against	against	ADP	IN	_	21	_	_	start_char=373|end_char=380
+23	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	22	_	_	start_char=381|end_char=390
+24	targets	target	NOUN	NNS	Number=Plur	23	_	_	start_char=391|end_char=398
+25	will	will	AUX	MD	VerbForm=Fin	24	_	_	start_char=399|end_char=403
+26	overwhelm	overwhelm	VERB	VB	VerbForm=Inf	25	_	_	start_char=404|end_char=413
+27-28	Ukraine's	_	_	_	_	_	_	_	start_char=414|end_char=423
+27	Ukraine	Ukraine	PROPN	NNP	Number=Sing	26	_	_	start_char=414|end_char=421
+28	's	's	PART	POS	_	27	_	_	start_char=421|end_char=423
+29	air	air	NOUN	NN	Number=Sing	28	_	_	start_char=424|end_char=427
+30	defenses	defens	NOUN	NNS	Number=Plur	29	_	_	start_char=428|end_char=436
+31	and	and	CCONJ	CC	_	30	_	_	start_char=437|end_char=440
+32	disrupt	disrupt	VERB	VB	VerbForm=Inf	31	_	_	start_char=441|end_char=448
+33	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	32	_	_	start_char=449|end_char=452
+34	entire	entire	ADJ	JJ	Degree=Pos	33	_	_	start_char=453|end_char=459
+35	strategy	strategy	NOUN	NN	Number=Sing	34	_	_	start_char=460|end_char=468
+36	of	of	SCONJ	IN	_	35	_	_	start_char=469|end_char=471
+37	defending	defend	VERB	VBG	VerbForm=Ger	36	_	_	start_char=472|end_char=481
+38	against	against	ADP	IN	_	37	_	_	start_char=482|end_char=489
+39	airstrikes	airstrike	NOUN	NNS	Number=Plur	38	_	_	start_char=490|end_char=500|SpaceAfter=No
+40	,	,	PUNCT	,	_	39	_	_	start_char=500|end_char=501|SpaceAfter=No
+41	"	"	PUNCT	''	_	40	_	_	start_char=501|end_char=502
+42	the	the	DET	DT	Definite=Def|PronType=Art	41	_	_	start_char=503|end_char=506
+43	piece	piece	NOUN	NN	Number=Sing	42	_	_	start_char=507|end_char=512
+44	reads	read	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	43	_	_	start_char=513|end_char=518|SpaceAfter=No
+45	.	.	PUNCT	.	_	44	_	_	start_char=518|end_char=519|SpacesAfter=\n
+
+# text = "The Russians have been striking NATO-provided Ukrainian air defenses for months.
+# sent_id = 4
+1	"	"	PUNCT	``	_	0	_	_	start_char=520|end_char=521|SpaceAfter=No
+2	The	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=521|end_char=524
+3	Russians	Russian	PROPN	NNPS	Number=Plur	2	_	_	start_char=525|end_char=533
+4	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=534|end_char=538
+5	been	be	AUX	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=539|end_char=543
+6	striking	strike	VERB	VBG	Tense=Pres|VerbForm=Part	5	_	_	start_char=544|end_char=552
+7	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	6	_	_	start_char=553|end_char=557|SpaceAfter=No
+8	-	-	PUNCT	HYPH	_	7	_	_	start_char=557|end_char=558|SpaceAfter=No
+9	provided	provide	VERB	VBN	Tense=Past|VerbForm=Part	8	_	_	start_char=558|end_char=566
+10	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	9	_	_	start_char=567|end_char=576
+11	air	air	NOUN	NN	Number=Sing	10	_	_	start_char=577|end_char=580
+12	defenses	defens	NOUN	NNS	Number=Plur	11	_	_	start_char=581|end_char=589
+13	for	for	ADP	IN	_	12	_	_	start_char=590|end_char=593
+14	months	month	NOUN	NNS	Number=Plur	13	_	_	start_char=594|end_char=600|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=600|end_char=601
+
+# text = This is now starting to have an impact as the Americans are on the verge of running out of key missiles for their air defense systems.
+# sent_id = 5
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=602|end_char=606
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=607|end_char=609
+3	now	now	ADV	RB	_	2	_	_	start_char=610|end_char=613
+4	starting	start	VERB	VBG	Tense=Pres|VerbForm=Part	3	_	_	start_char=614|end_char=622
+5	to	to	PART	TO	_	4	_	_	start_char=623|end_char=625
+6	have	have	VERB	VB	VerbForm=Inf	5	_	_	start_char=626|end_char=630
+7	an	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=631|end_char=633
+8	impact	impact	NOUN	NN	Number=Sing	7	_	_	start_char=634|end_char=640
+9	as	as	SCONJ	IN	_	8	_	_	start_char=641|end_char=643
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=644|end_char=647
+11	Americans	American	PROPN	NNPS	Number=Plur	10	_	_	start_char=648|end_char=657
+12	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=658|end_char=661
+13	on	on	ADP	IN	_	12	_	_	start_char=662|end_char=664
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=665|end_char=668
+15	verge	verge	NOUN	NN	Number=Sing	14	_	_	start_char=669|end_char=674
+16	of	of	SCONJ	IN	_	15	_	_	start_char=675|end_char=677
+17	running	run	VERB	VBG	VerbForm=Ger	16	_	_	start_char=678|end_char=685
+18	out	out	ADP	IN	_	17	_	_	start_char=686|end_char=689
+19	of	of	ADP	IN	_	18	_	_	start_char=690|end_char=692
+20	key	key	ADJ	JJ	Degree=Pos	19	_	_	start_char=693|end_char=696
+21	missiles	missile	NOUN	NNS	Number=Plur	20	_	_	start_char=697|end_char=705
+22	for	for	ADP	IN	_	21	_	_	start_char=706|end_char=709
+23	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	22	_	_	start_char=710|end_char=715
+24	air	air	NOUN	NN	Number=Sing	23	_	_	start_char=716|end_char=719
+25	defense	defense	NOUN	NN	Number=Sing	24	_	_	start_char=720|end_char=727
+26	systems	system	NOUN	NNS	Number=Plur	25	_	_	start_char=728|end_char=735|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=735|end_char=736
+
+# text = It's so bad, in fact, that the Americans have already told the Israelis and their partners in the Indo-Pacific that all the missiles for the U.S.-built air defense systems are now being diverted to Ukraine.
+# sent_id = 6
+1-2	It's	_	_	_	_	_	_	_	start_char=737|end_char=741
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=737|end_char=739
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=739|end_char=741
+3	so	so	ADV	RB	_	2	_	_	start_char=742|end_char=744
+4	bad	bad	ADJ	JJ	Degree=Pos	3	_	_	start_char=745|end_char=748|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=748|end_char=749
+6	in	in	ADP	IN	_	5	_	_	start_char=750|end_char=752
+7	fact	fact	NOUN	NN	Number=Sing	6	_	_	start_char=753|end_char=757|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=757|end_char=758
+9	that	that	SCONJ	IN	_	8	_	_	start_char=759|end_char=763
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=764|end_char=767
+11	Americans	American	PROPN	NNPS	Number=Plur	10	_	_	start_char=768|end_char=777
+12	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=778|end_char=782
+13	already	already	ADV	RB	_	12	_	_	start_char=783|end_char=790
+14	told	tell	VERB	VBN	Tense=Past|VerbForm=Part	13	_	_	start_char=791|end_char=795
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=796|end_char=799
+16	Israelis	Israeli	PROPN	NNPS	Number=Plur	15	_	_	start_char=800|end_char=808
+17	and	and	CCONJ	CC	_	16	_	_	start_char=809|end_char=812
+18	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	17	_	_	start_char=813|end_char=818
+19	partners	partner	NOUN	NNS	Number=Plur	18	_	_	start_char=819|end_char=827
+20	in	in	ADP	IN	_	19	_	_	start_char=828|end_char=830
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=831|end_char=834
+22	Indo	Indo	PROPN	NNP	Number=Sing	21	_	_	start_char=835|end_char=839|SpaceAfter=No
+23	-	-	PUNCT	HYPH	_	22	_	_	start_char=839|end_char=840|SpaceAfter=No
+24	Pacific	Pacific	PROPN	NNP	Number=Sing	23	_	_	start_char=840|end_char=847
+25	that	that	SCONJ	IN	_	24	_	_	start_char=848|end_char=852
+26	all	all	DET	PDT	_	25	_	_	start_char=853|end_char=856
+27	the	the	DET	DT	Definite=Def|PronType=Art	26	_	_	start_char=857|end_char=860
+28	missiles	missile	NOUN	NNS	Number=Plur	27	_	_	start_char=861|end_char=869
+29	for	for	ADP	IN	_	28	_	_	start_char=870|end_char=873
+30	the	the	DET	DT	Definite=Def|PronType=Art	29	_	_	start_char=874|end_char=877
+31	U.S.	U.S.	PROPN	NNP	Number=Sing	30	_	_	start_char=878|end_char=882|SpaceAfter=No
+32	-	-	PUNCT	HYPH	_	31	_	_	start_char=882|end_char=883|SpaceAfter=No
+33	built	build	VERB	VBN	Tense=Past|VerbForm=Part	32	_	_	start_char=883|end_char=888
+34	air	air	NOUN	NN	Number=Sing	33	_	_	start_char=889|end_char=892
+35	defense	defense	NOUN	NN	Number=Sing	34	_	_	start_char=893|end_char=900
+36	systems	system	NOUN	NNS	Number=Plur	35	_	_	start_char=901|end_char=908
+37	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	36	_	_	start_char=909|end_char=912
+38	now	now	ADV	RB	_	37	_	_	start_char=913|end_char=916
+39	being	be	AUX	VBG	VerbForm=Ger	38	_	_	start_char=917|end_char=922
+40	diverted	divert	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	39	_	_	start_char=923|end_char=931
+41	to	to	ADP	IN	_	40	_	_	start_char=932|end_char=934
+42	Ukraine	Ukraine	PROPN	NNP	Number=Sing	41	_	_	start_char=935|end_char=942|SpaceAfter=No
+43	.	.	PUNCT	.	_	42	_	_	start_char=942|end_char=943
+
+# text = So much for the arsenal of democracy.
+# sent_id = 7
+1	So	so	ADV	RB	_	0	_	_	start_char=944|end_char=946
+2	much	much	ADJ	JJ	Degree=Pos	1	_	_	start_char=947|end_char=951
+3	for	for	ADP	IN	_	2	_	_	start_char=952|end_char=955
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=956|end_char=959
+5	arsenal	arsenal	NOUN	NN	Number=Sing	4	_	_	start_char=960|end_char=967
+6	of	of	ADP	IN	_	5	_	_	start_char=968|end_char=970
+7	democracy	democracy	NOUN	NN	Number=Sing	6	_	_	start_char=971|end_char=980|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	_	_	start_char=980|end_char=981
+
+# text = The Russian FAB-3000 is one of the largest general-purpose conventional fusion bombs in the Russian military.
+# sent_id = 8
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=982|end_char=985
+2	Russian	Russian	ADJ	JJ	Degree=Pos	1	_	_	start_char=986|end_char=993
+3	FAB	FAB	PROPN	NNP	Number=Sing	2	_	_	start_char=994|end_char=997|SpaceAfter=No
+4	-	-	PUNCT	HYPH	_	3	_	_	start_char=997|end_char=998|SpaceAfter=No
+5	3000	3000	NUM	CD	NumForm=Digit|NumType=Card	4	_	_	start_char=998|end_char=1002
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1003|end_char=1005
+7	one	one	NUM	CD	NumForm=Word|NumType=Card	6	_	_	start_char=1006|end_char=1009
+8	of	of	ADP	IN	_	7	_	_	start_char=1010|end_char=1012
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1013|end_char=1016
+10	largest	large	ADJ	JJS	Degree=Sup	9	_	_	start_char=1017|end_char=1024
+11	general	general	ADJ	JJ	Degree=Pos	10	_	_	start_char=1025|end_char=1032|SpaceAfter=No
+12	-	-	PUNCT	HYPH	_	11	_	_	start_char=1032|end_char=1033|SpaceAfter=No
+13	purpose	purpose	NOUN	NN	Number=Sing	12	_	_	start_char=1033|end_char=1040
+14	conventional	conventional	ADJ	JJ	Degree=Pos	13	_	_	start_char=1041|end_char=1053
+15	fusion	fusion	NOUN	NN	Number=Sing	14	_	_	start_char=1054|end_char=1060
+16	bombs	bomb	NOUN	NNS	Number=Plur	15	_	_	start_char=1061|end_char=1066
+17	in	in	ADP	IN	_	16	_	_	start_char=1067|end_char=1069
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=1070|end_char=1073
+19	Russian	Russian	ADJ	JJ	Degree=Pos	18	_	_	start_char=1074|end_char=1081
+20	military	military	NOUN	NN	Number=Sing	19	_	_	start_char=1082|end_char=1090|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=1090|end_char=1091|SpacesAfter=\n
+
+# text = These bombs cover more area and will be very difficult to shoot down.
+# sent_id = 9
+1	These	this	DET	DT	Number=Plur|PronType=Dem	0	_	_	start_char=1092|end_char=1097
+2	bombs	bomb	NOUN	NNS	Number=Plur	1	_	_	start_char=1098|end_char=1103
+3	cover	cover	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1104|end_char=1109
+4	more	more	ADJ	JJR	Degree=Cmp	3	_	_	start_char=1110|end_char=1114
+5	area	area	NOUN	NN	Number=Sing	4	_	_	start_char=1115|end_char=1119
+6	and	and	CCONJ	CC	_	5	_	_	start_char=1120|end_char=1123
+7	will	will	AUX	MD	VerbForm=Fin	6	_	_	start_char=1124|end_char=1128
+8	be	be	AUX	VB	VerbForm=Inf	7	_	_	start_char=1129|end_char=1131
+9	very	very	ADV	RB	_	8	_	_	start_char=1132|end_char=1136
+10	difficult	difficult	ADJ	JJ	Degree=Pos	9	_	_	start_char=1137|end_char=1146
+11	to	to	PART	TO	_	10	_	_	start_char=1147|end_char=1149
+12	shoot	shoot	VERB	VB	VerbForm=Inf	11	_	_	start_char=1150|end_char=1155
+13	down	down	ADP	RP	_	12	_	_	start_char=1156|end_char=1160|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=1160|end_char=1161
+
+# text = If they are mass-produced in weapons factories in the east, as the Russian media suggests, then launching these giants against Ukrainian targets will overwhelm Ukraine's air defenses and break the back of the entire air defense strategy.
+# sent_id = 10
+1	If	if	SCONJ	IN	_	0	_	_	start_char=1162|end_char=1164
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	1	_	_	start_char=1165|end_char=1169
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1170|end_char=1173
+4	mass	mass	NOUN	NN	Number=Sing	3	_	_	start_char=1174|end_char=1178|SpaceAfter=No
+5	-	-	PUNCT	HYPH	_	4	_	_	start_char=1178|end_char=1179|SpaceAfter=No
+6	produced	produce	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	_	_	start_char=1179|end_char=1187
+7	in	in	ADP	IN	_	6	_	_	start_char=1188|end_char=1190
+8	weapons	weapon	NOUN	NNS	Number=Plur	7	_	_	start_char=1191|end_char=1198
+9	factories	factory	NOUN	NNS	Number=Plur	8	_	_	start_char=1199|end_char=1208
+10	in	in	ADP	IN	_	9	_	_	start_char=1209|end_char=1211
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=1212|end_char=1215
+12	east	east	NOUN	NN	Number=Sing	11	_	_	start_char=1216|end_char=1220|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=1220|end_char=1221
+14	as	as	SCONJ	IN	_	13	_	_	start_char=1222|end_char=1224
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=1225|end_char=1228
+16	Russian	Russian	ADJ	JJ	Degree=Pos	15	_	_	start_char=1229|end_char=1236
+17	media	media	NOUN	NN	Number=Sing	16	_	_	start_char=1237|end_char=1242
+18	suggests	suggest	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=1243|end_char=1251|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=1251|end_char=1252
+20	then	then	ADV	RB	PronType=Dem	19	_	_	start_char=1253|end_char=1257
+21	launching	launch	VERB	VBG	VerbForm=Ger	20	_	_	start_char=1258|end_char=1267
+22	these	this	DET	DT	Number=Plur|PronType=Dem	21	_	_	start_char=1268|end_char=1273
+23	giants	giant	NOUN	NNS	Number=Plur	22	_	_	start_char=1274|end_char=1280
+24	against	against	ADP	IN	_	23	_	_	start_char=1281|end_char=1288
+25	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	24	_	_	start_char=1289|end_char=1298
+26	targets	target	NOUN	NNS	Number=Plur	25	_	_	start_char=1299|end_char=1306
+27	will	will	AUX	MD	VerbForm=Fin	26	_	_	start_char=1307|end_char=1311
+28	overwhelm	overwhelm	VERB	VB	VerbForm=Inf	27	_	_	start_char=1312|end_char=1321
+29-30	Ukraine's	_	_	_	_	_	_	_	start_char=1322|end_char=1331
+29	Ukraine	Ukraine	PROPN	NNP	Number=Sing	28	_	_	start_char=1322|end_char=1329
+30	's	's	PART	POS	_	29	_	_	start_char=1329|end_char=1331
+31	air	air	NOUN	NN	Number=Sing	30	_	_	start_char=1332|end_char=1335
+32	defenses	defens	NOUN	NNS	Number=Plur	31	_	_	start_char=1336|end_char=1344
+33	and	and	CCONJ	CC	_	32	_	_	start_char=1345|end_char=1348
+34	break	break	VERB	VB	VerbForm=Inf	33	_	_	start_char=1349|end_char=1354
+35	the	the	DET	DT	Definite=Def|PronType=Art	34	_	_	start_char=1355|end_char=1358
+36	back	back	NOUN	NN	Number=Sing	35	_	_	start_char=1359|end_char=1363
+37	of	of	ADP	IN	_	36	_	_	start_char=1364|end_char=1366
+38	the	the	DET	DT	Definite=Def|PronType=Art	37	_	_	start_char=1367|end_char=1370
+39	entire	entire	ADJ	JJ	Degree=Pos	38	_	_	start_char=1371|end_char=1377
+40	air	air	NOUN	NN	Number=Sing	39	_	_	start_char=1378|end_char=1381
+41	defense	defense	NOUN	NN	Number=Sing	40	_	_	start_char=1382|end_char=1389
+42	strategy	strategy	NOUN	NN	Number=Sing	41	_	_	start_char=1390|end_char=1398|SpaceAfter=No
+43	.	.	PUNCT	.	_	42	_	_	start_char=1398|end_char=1399|SpacesAfter=\n
+
+# text = It was believed that the FAB-3000 M54 could only be fired from the Tu-22M3, a massive bomber that would be unnecessarily at risk for firing such weapons on the missions for which they are used.
+# sent_id = 11
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1400|end_char=1402
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1403|end_char=1406
+3	believed	believe	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	_	_	start_char=1407|end_char=1415
+4	that	that	SCONJ	IN	_	3	_	_	start_char=1416|end_char=1420
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1421|end_char=1424
+6	FAB	FAB	PROPN	NNP	Number=Sing	5	_	_	start_char=1425|end_char=1428|SpaceAfter=No
+7	-	-	PUNCT	HYPH	_	6	_	_	start_char=1428|end_char=1429|SpaceAfter=No
+8	3000	3000	NUM	CD	NumForm=Digit|NumType=Card	7	_	_	start_char=1429|end_char=1433
+9	M54	M54	PROPN	NNP	Number=Sing	8	_	_	start_char=1434|end_char=1437
+10	could	could	AUX	MD	VerbForm=Fin	9	_	_	start_char=1438|end_char=1443
+11	only	only	ADV	RB	_	10	_	_	start_char=1444|end_char=1448
+12	be	be	AUX	VB	VerbForm=Inf	11	_	_	start_char=1449|end_char=1451
+13	fired	fire	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	12	_	_	start_char=1452|end_char=1457
+14	from	from	ADP	IN	_	13	_	_	start_char=1458|end_char=1462
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=1463|end_char=1466
+16	Tu-22M3	Tu-22M3	PROPN	NNP	Number=Sing	15	_	_	start_char=1467|end_char=1474|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=1474|end_char=1475
+18	a	a	DET	DT	Definite=Ind|PronType=Art	17	_	_	start_char=1476|end_char=1477
+19	massive	massive	ADJ	JJ	Degree=Pos	18	_	_	start_char=1478|end_char=1485
+20	bomber	bomber	NOUN	NN	Number=Sing	19	_	_	start_char=1486|end_char=1492
+21	that	that	PRON	WDT	PronType=Rel	20	_	_	start_char=1493|end_char=1497
+22	would	would	AUX	MD	VerbForm=Fin	21	_	_	start_char=1498|end_char=1503
+23	be	be	AUX	VB	VerbForm=Inf	22	_	_	start_char=1504|end_char=1506
+24	unnecessarily	unnecessarily	ADV	RB	_	23	_	_	start_char=1507|end_char=1520
+25	at	at	ADP	IN	_	24	_	_	start_char=1521|end_char=1523
+26	risk	risk	NOUN	NN	Number=Sing	25	_	_	start_char=1524|end_char=1528
+27	for	for	SCONJ	IN	_	26	_	_	start_char=1529|end_char=1532
+28	firing	fire	VERB	VBG	VerbForm=Ger	27	_	_	start_char=1533|end_char=1539
+29	such	such	ADJ	JJ	Degree=Pos	28	_	_	start_char=1540|end_char=1544
+30	weapons	weapon	NOUN	NNS	Number=Plur	29	_	_	start_char=1545|end_char=1552
+31	on	on	ADP	IN	_	30	_	_	start_char=1553|end_char=1555
+32	the	the	DET	DT	Definite=Def|PronType=Art	31	_	_	start_char=1556|end_char=1559
+33	missions	mission	NOUN	NNS	Number=Plur	32	_	_	start_char=1560|end_char=1568
+34	for	for	ADP	IN	_	33	_	_	start_char=1569|end_char=1572
+35	which	which	PRON	WDT	PronType=Rel	34	_	_	start_char=1573|end_char=1578
+36	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	35	_	_	start_char=1579|end_char=1583
+37	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	36	_	_	start_char=1584|end_char=1587
+38	used	use	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	37	_	_	start_char=1588|end_char=1592|SpaceAfter=No
+39	.	.	PUNCT	.	_	38	_	_	start_char=1592|end_char=1593
+
+# text = Instead, Russian Su-34s are believed to have fired these leviathans," the paper said.
+# sent_id = 12
+1	Instead	instead	ADV	RB	_	0	_	_	start_char=1594|end_char=1601|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=1601|end_char=1602
+3	Russian	Russian	ADJ	JJ	Degree=Pos	2	_	_	start_char=1603|end_char=1610
+4	Su-	Su-	PROPN	NNP	Number=Sing	3	_	_	start_char=1611|end_char=1614|SpaceAfter=No
+5	34s	34	NOUN	NNS	Number=Plur	4	_	_	start_char=1614|end_char=1617
+6	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1618|end_char=1621
+7	believed	believe	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	_	_	start_char=1622|end_char=1630
+8	to	to	PART	TO	_	7	_	_	start_char=1631|end_char=1633
+9	have	have	AUX	VB	VerbForm=Inf	8	_	_	start_char=1634|end_char=1638
+10	fired	fire	VERB	VBN	Tense=Past|VerbForm=Part	9	_	_	start_char=1639|end_char=1644
+11	these	this	DET	DT	Number=Plur|PronType=Dem	10	_	_	start_char=1645|end_char=1650
+12	leviathans	leviathan	NOUN	NNS	Number=Plur	11	_	_	start_char=1651|end_char=1661|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=1661|end_char=1662|SpaceAfter=No
+14	"	"	PUNCT	''	_	13	_	_	start_char=1662|end_char=1663
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=1664|end_char=1667
+16	paper	paper	NOUN	NN	Number=Sing	15	_	_	start_char=1668|end_char=1673
+17	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	_	_	start_char=1674|end_char=1678|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=1678|end_char=1679|SpacesAfter=\n
+
+# text = Brandon J. Weichert, a National Interest national security analyst , is a former congressional staffer and geopolitical analyst who has been a contributor to The Washington Times, Asia Times and The-Pipeline.
+# sent_id = 13
+1	Brandon	Brandon	PROPN	NNP	Number=Sing	0	_	_	start_char=1680|end_char=1687
+2	J.	J.	PROPN	NNP	Number=Sing	1	_	_	start_char=1688|end_char=1690
+3	Weichert	Weichert	PROPN	NNP	Number=Sing	2	_	_	start_char=1691|end_char=1699|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1699|end_char=1700
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=1701|end_char=1702
+6	National	National	ADJ	NNP	Degree=Pos	5	_	_	start_char=1703|end_char=1711
+7	Interest	Interest	PROPN	NNP	Number=Sing	6	_	_	start_char=1712|end_char=1720
+8	national	national	ADJ	JJ	Degree=Pos	7	_	_	start_char=1721|end_char=1729
+9	security	security	NOUN	NN	Number=Sing	8	_	_	start_char=1730|end_char=1738
+10	analyst	analyst	NOUN	NN	Number=Sing	9	_	_	start_char=1739|end_char=1746
+11	,	,	PUNCT	,	_	10	_	_	start_char=1747|end_char=1748
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=1749|end_char=1751
+13	a	a	DET	DT	Definite=Ind|PronType=Art	12	_	_	start_char=1752|end_char=1753
+14	former	former	ADJ	JJ	Degree=Pos	13	_	_	start_char=1754|end_char=1760
+15	congressional	congressional	ADJ	JJ	Degree=Pos	14	_	_	start_char=1761|end_char=1774
+16	staffer	staffer	NOUN	NN	Number=Sing	15	_	_	start_char=1775|end_char=1782
+17	and	and	CCONJ	CC	_	16	_	_	start_char=1783|end_char=1786
+18	geopolitical	geopolitical	ADJ	JJ	Degree=Pos	17	_	_	start_char=1787|end_char=1799
+19	analyst	analyst	NOUN	NN	Number=Sing	18	_	_	start_char=1800|end_char=1807
+20	who	who	PRON	WP	PronType=Rel	19	_	_	start_char=1808|end_char=1811
+21	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	_	_	start_char=1812|end_char=1815
+22	been	be	AUX	VBN	Tense=Past|VerbForm=Part	21	_	_	start_char=1816|end_char=1820
+23	a	a	DET	DT	Definite=Ind|PronType=Art	22	_	_	start_char=1821|end_char=1822
+24	contributor	contributor	NOUN	NN	Number=Sing	23	_	_	start_char=1823|end_char=1834
+25	to	to	ADP	IN	_	24	_	_	start_char=1835|end_char=1837
+26	The	the	DET	DT	Definite=Def|PronType=Art	25	_	_	start_char=1838|end_char=1841
+27	Washington	Washington	PROPN	NNP	Number=Sing	26	_	_	start_char=1842|end_char=1852
+28	Times	Times	PROPN	NNP	Number=Sing	27	_	_	start_char=1853|end_char=1858|SpaceAfter=No
+29	,	,	PUNCT	,	_	28	_	_	start_char=1858|end_char=1859
+30	Asia	Asia	PROPN	NNP	Number=Sing	29	_	_	start_char=1860|end_char=1864
+31	Times	Times	PROPN	NNP	Number=Sing	30	_	_	start_char=1865|end_char=1870
+32	and	and	CCONJ	CC	_	31	_	_	start_char=1871|end_char=1874
+33	The	the	DET	DT	Definite=Def|PronType=Art	32	_	_	start_char=1875|end_char=1878|SpaceAfter=No
+34	-	-	PUNCT	HYPH	_	33	_	_	start_char=1878|end_char=1879|SpaceAfter=No
+35	Pipeline	Pipeline	PROPN	NNP	Number=Sing	34	_	_	start_char=1879|end_char=1887|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=1887|end_char=1888
+
+# text = He is the author of Winning Space: How America Remains a Superpower, Biohacked: China's Race to Control Life, and The Shadow War: Iran's Quest for Supremacy.
+# sent_id = 14
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1889|end_char=1891
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1892|end_char=1894
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1895|end_char=1898
+4	author	author	NOUN	NN	Number=Sing	3	_	_	start_char=1899|end_char=1905
+5	of	of	ADP	IN	_	4	_	_	start_char=1906|end_char=1908
+6	Winning	win	VERB	VBG	VerbForm=Ger	5	_	_	start_char=1909|end_char=1916
+7	Space	Space	PROPN	NNP	Number=Sing	6	_	_	start_char=1917|end_char=1922|SpaceAfter=No
+8	:	:	PUNCT	:	_	7	_	_	start_char=1922|end_char=1923
+9	How	how	ADV	WRB	PronType=Int	8	_	_	start_char=1924|end_char=1927
+10	America	America	PROPN	NNP	Number=Sing	9	_	_	start_char=1928|end_char=1935
+11	Remains	remain	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=1936|end_char=1943
+12	a	a	DET	DT	Definite=Ind|PronType=Art	11	_	_	start_char=1944|end_char=1945
+13	Superpower	superpower	NOUN	NN	Number=Sing	12	_	_	start_char=1946|end_char=1956|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=1956|end_char=1957
+15	Biohacked	Biohacked	PROPN	NNP	Number=Sing	14	_	_	start_char=1958|end_char=1967|SpaceAfter=No
+16	:	:	PUNCT	:	_	15	_	_	start_char=1967|end_char=1968
+17-18	China's	_	_	_	_	_	_	_	start_char=1969|end_char=1976
+17	China	China	PROPN	NNP	Number=Sing	16	_	_	start_char=1969|end_char=1974
+18	's	's	PART	POS	_	17	_	_	start_char=1974|end_char=1976
+19	Race	Race	PROPN	NNP	Number=Sing	18	_	_	start_char=1977|end_char=1981
+20	to	to	ADP	IN	_	19	_	_	start_char=1982|end_char=1984
+21	Control	Control	PROPN	NNP	Number=Sing	20	_	_	start_char=1985|end_char=1992
+22	Life	Life	PROPN	NNP	Number=Sing	21	_	_	start_char=1993|end_char=1997|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=1997|end_char=1998
+24	and	and	CCONJ	CC	_	23	_	_	start_char=1999|end_char=2002
+25	The	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=2003|end_char=2006
+26	Shadow	Shadow	PROPN	NNP	Number=Sing	25	_	_	start_char=2007|end_char=2013
+27	War	War	PROPN	NNP	Number=Sing	26	_	_	start_char=2014|end_char=2017|SpaceAfter=No
+28	:	:	PUNCT	:	_	27	_	_	start_char=2017|end_char=2018
+29-30	Iran's	_	_	_	_	_	_	_	start_char=2019|end_char=2025
+29	Iran	Iran	PROPN	NNP	Number=Sing	28	_	_	start_char=2019|end_char=2023
+30	's	's	PART	POS	_	29	_	_	start_char=2023|end_char=2025
+31	Quest	Quest	PROPN	NNP	Number=Sing	30	_	_	start_char=2026|end_char=2031
+32	for	for	ADP	IN	_	31	_	_	start_char=2032|end_char=2035
+33	Supremacy	Supremacy	PROPN	NNP	Number=Sing	32	_	_	start_char=2036|end_char=2045|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=2045|end_char=2046
+
+# text = His next book, A Disaster of Our Own Making: How the West Lost Ukraine, is due out October 22 from Encounter Books.
+# sent_id = 15
+1	His	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	_	_	start_char=2047|end_char=2050
+2	next	next	ADJ	JJ	Degree=Pos	1	_	_	start_char=2051|end_char=2055
+3	book	book	NOUN	NN	Number=Sing	2	_	_	start_char=2056|end_char=2060|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=2060|end_char=2061
+5	A	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=2062|end_char=2063
+6	Disaster	disaster	NOUN	NN	Number=Sing	5	_	_	start_char=2064|end_char=2072
+7	of	of	ADP	IN	_	6	_	_	start_char=2073|end_char=2075
+8	Our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	7	_	_	start_char=2076|end_char=2079
+9	Own	own	ADJ	JJ	Degree=Pos	8	_	_	start_char=2080|end_char=2083
+10	Making	make	NOUN	NN	Number=Sing	9	_	_	start_char=2084|end_char=2090|SpaceAfter=No
+11	:	:	PUNCT	:	_	10	_	_	start_char=2090|end_char=2091
+12	How	how	ADV	WRB	PronType=Int	11	_	_	start_char=2092|end_char=2095
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=2096|end_char=2099
+14	West	West	PROPN	NNP	Number=Sing	13	_	_	start_char=2100|end_char=2104
+15	Lost	lost	ADJ	NNP	Degree=Pos	14	_	_	start_char=2105|end_char=2109
+16	Ukraine	Ukraine	PROPN	NNP	Number=Sing	15	_	_	start_char=2110|end_char=2117|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=2117|end_char=2118
+18	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=2119|end_char=2121
+19	due	due	ADJ	JJ	Degree=Pos	18	_	_	start_char=2122|end_char=2125
+20	out	out	ADP	RP	_	19	_	_	start_char=2126|end_char=2129
+21	October	October	PROPN	NNP	Number=Sing	20	_	_	start_char=2130|end_char=2137
+22	22	22	NUM	CD	NumForm=Digit|NumType=Card	21	_	_	start_char=2138|end_char=2140
+23	from	from	ADP	IN	_	22	_	_	start_char=2141|end_char=2145
+24	Encounter	Encounter	PROPN	NNP	Number=Sing	23	_	_	start_char=2146|end_char=2155
+25	Books	book	PROPN	NNPS	Number=Plur	24	_	_	start_char=2156|end_char=2161|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=2161|end_char=2162|SpaceAfter=No
+

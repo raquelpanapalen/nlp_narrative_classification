@@ -1,0 +1,262 @@
+# text = CIA Ex-Analyst: Soon it will be about the unconditional surrender of Ukraine
+# sent_id = 0
+1	CIA	CIA	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=3
+2	Ex-Analyst	Ex-Analyst	NOUN	NN	Number=Sing	1	_	_	start_char=4|end_char=14|SpaceAfter=No
+3	:	:	PUNCT	:	_	2	_	_	start_char=14|end_char=15
+4	Soon	soon	ADV	RB	Degree=Pos	3	_	_	start_char=16|end_char=20
+5	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	_	_	start_char=21|end_char=23
+6	will	will	AUX	MD	VerbForm=Fin	5	_	_	start_char=24|end_char=28
+7	be	be	AUX	VB	VerbForm=Inf	6	_	_	start_char=29|end_char=31
+8	about	about	ADP	IN	_	7	_	_	start_char=32|end_char=37
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=38|end_char=41
+10	unconditional	unconditional	ADJ	JJ	Degree=Pos	9	_	_	start_char=42|end_char=55
+11	surrender	surrender	NOUN	NN	Number=Sing	10	_	_	start_char=56|end_char=65
+12	of	of	ADP	IN	_	11	_	_	start_char=66|end_char=68
+13	Ukraine	Ukraine	PROPN	NNP	Number=Sing	12	_	_	start_char=69|end_char=76|SpacesAfter=\n\n
+
+# text = In March 2022.
+# sent_id = 1
+1	In	in	ADP	IN	_	0	_	_	start_char=78|end_char=80
+2	March	March	PROPN	NNP	Number=Sing	1	_	_	start_char=81|end_char=86
+3	2022	2022	NUM	CD	NumForm=Digit|NumType=Card	2	_	_	start_char=87|end_char=91|SpaceAfter=No
+4	.	.	PUNCT	.	_	3	_	_	start_char=91|end_char=92
+
+# text = Moscow offered Kiev the most favorable settlement of the conflict, but this plan was rejected, recalls former CIA analyst Larry Johnson in an interview for the Deep Dive podcast.
+# sent_id = 2
+1	Moscow	Moscow	PROPN	NNP	Number=Sing	0	_	_	start_char=93|end_char=99
+2	offered	offer	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=100|end_char=107
+3	Kiev	Kiev	PROPN	NNP	Number=Sing	2	_	_	start_char=108|end_char=112
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=113|end_char=116
+5	most	most	ADV	RBS	Degree=Sup	4	_	_	start_char=117|end_char=121
+6	favorable	favorable	ADJ	JJ	Degree=Pos	5	_	_	start_char=122|end_char=131
+7	settlement	settlement	NOUN	NN	Number=Sing	6	_	_	start_char=132|end_char=142
+8	of	of	ADP	IN	_	7	_	_	start_char=143|end_char=145
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=146|end_char=149
+10	conflict	conflict	NOUN	NN	Number=Sing	9	_	_	start_char=150|end_char=158|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=158|end_char=159
+12	but	but	CCONJ	CC	_	11	_	_	start_char=160|end_char=163
+13	this	this	DET	DT	Number=Sing|PronType=Dem	12	_	_	start_char=164|end_char=168
+14	plan	plan	NOUN	NN	Number=Sing	13	_	_	start_char=169|end_char=173
+15	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=174|end_char=177
+16	rejected	reject	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	15	_	_	start_char=178|end_char=186|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=186|end_char=187
+18	recalls	recall	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=188|end_char=195
+19	former	former	ADJ	JJ	Degree=Pos	18	_	_	start_char=196|end_char=202
+20	CIA	CIA	PROPN	NNP	Number=Sing	19	_	_	start_char=203|end_char=206
+21	analyst	analyst	NOUN	NN	Number=Sing	20	_	_	start_char=207|end_char=214
+22	Larry	Larry	PROPN	NNP	Number=Sing	21	_	_	start_char=215|end_char=220
+23	Johnson	Johnson	PROPN	NNP	Number=Sing	22	_	_	start_char=221|end_char=228
+24	in	in	ADP	IN	_	23	_	_	start_char=229|end_char=231
+25	an	a	DET	DT	Definite=Ind|PronType=Art	24	_	_	start_char=232|end_char=234
+26	interview	interview	NOUN	NN	Number=Sing	25	_	_	start_char=235|end_char=244
+27	for	for	ADP	IN	_	26	_	_	start_char=245|end_char=248
+28	the	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=249|end_char=252
+29	Deep	deep	ADJ	NNP	Degree=Pos	28	_	_	start_char=253|end_char=257
+30	Dive	Dive	PROPN	NNP	Number=Sing	29	_	_	start_char=258|end_char=262
+31	podcast	podcast	NOUN	NN	Number=Sing	30	_	_	start_char=263|end_char=270|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=270|end_char=271
+
+# text = Each time, conditions worsened for the Ukrainian side.
+# sent_id = 3
+1	Each	each	DET	DT	_	0	_	_	start_char=272|end_char=276
+2	time	time	NOUN	NN	Number=Sing	1	_	_	start_char=277|end_char=281|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=281|end_char=282
+4	conditions	condition	NOUN	NNS	Number=Plur	3	_	_	start_char=283|end_char=293
+5	worsened	worsen	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=294|end_char=302
+6	for	for	ADP	IN	_	5	_	_	start_char=303|end_char=306
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=307|end_char=310
+8	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	7	_	_	start_char=311|end_char=320
+9	side	side	NOUN	NN	Number=Sing	8	_	_	start_char=321|end_char=325|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=325|end_char=326
+
+# text = Eventually, the unwillingness to negotiate could lead to Ukraine's complete defeat, he said in the interview.
+# sent_id = 4
+1	Eventually	eventually	ADV	RB	_	0	_	_	start_char=327|end_char=337|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=337|end_char=338
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=339|end_char=342
+4	unwillingness	unwillingness	NOUN	NN	Number=Sing	3	_	_	start_char=343|end_char=356
+5	to	to	PART	TO	_	4	_	_	start_char=357|end_char=359
+6	negotiate	negotiate	VERB	VB	VerbForm=Inf	5	_	_	start_char=360|end_char=369
+7	could	could	AUX	MD	VerbForm=Fin	6	_	_	start_char=370|end_char=375
+8	lead	lead	VERB	VB	VerbForm=Inf	7	_	_	start_char=376|end_char=380
+9	to	to	ADP	IN	_	8	_	_	start_char=381|end_char=383
+10-11	Ukraine's	_	_	_	_	_	_	_	start_char=384|end_char=393
+10	Ukraine	Ukraine	PROPN	NNP	Number=Sing	9	_	_	start_char=384|end_char=391
+11	's	's	PART	POS	_	10	_	_	start_char=391|end_char=393
+12	complete	complete	ADJ	JJ	Degree=Pos	11	_	_	start_char=394|end_char=402
+13	defeat	defeat	NOUN	NN	Number=Sing	12	_	_	start_char=403|end_char=409|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=409|end_char=410
+15	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	_	_	start_char=411|end_char=413
+16	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	_	_	start_char=414|end_char=418
+17	in	in	ADP	IN	_	16	_	_	start_char=419|end_char=421
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=422|end_char=425
+19	interview	interview	NOUN	NN	Number=Sing	18	_	_	start_char=426|end_char=435|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=435|end_char=436|SpacesAfter=\n
+
+# text = LARRY JOHNSON, FORMER CIA ANALYST:
+# sent_id = 5
+1	LARRY	Larry	PROPN	NNP	Number=Sing	0	_	_	start_char=437|end_char=442
+2	JOHNSON	JOHNSON	PROPN	NNP	Number=Sing	1	_	_	start_char=443|end_char=450|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=450|end_char=451
+4	FORMER	former	ADJ	JJ	Degree=Pos	3	_	_	start_char=452|end_char=458
+5	CIA	CIA	PROPN	NNP	Number=Sing	4	_	_	start_char=459|end_char=462
+6	ANALYST	analyst	NOUN	NN	Number=Sing	5	_	_	start_char=463|end_char=470|SpaceAfter=No
+7	:	:	PUNCT	:	_	6	_	_	start_char=470|end_char=471
+
+# text = What the Ukrainians are facing is they missed the best deal they were offered, now they have a worse deal.
+# sent_id = 6
+1	What	what	PRON	WP	PronType=Rel	0	_	_	start_char=472|end_char=476
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=477|end_char=480
+3	Ukrainians	Ukrainian	PROPN	NNPS	Number=Plur	2	_	_	start_char=481|end_char=491
+4	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=492|end_char=495
+5	facing	face	VERB	VBG	Tense=Pres|VerbForm=Part	4	_	_	start_char=496|end_char=502
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=503|end_char=505
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	_	_	start_char=506|end_char=510
+8	missed	miss	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=511|end_char=517
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=518|end_char=521
+10	best	good	ADJ	JJS	Degree=Sup	9	_	_	start_char=522|end_char=526
+11	deal	deal	NOUN	NN	Number=Sing	10	_	_	start_char=527|end_char=531
+12	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	_	_	start_char=532|end_char=536
+13	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=537|end_char=541
+14	offered	offer	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	13	_	_	start_char=542|end_char=549|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=549|end_char=550
+16	now	now	ADV	RB	_	15	_	_	start_char=551|end_char=554
+17	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	_	_	start_char=555|end_char=559
+18	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=560|end_char=564
+19	a	a	DET	DT	Definite=Ind|PronType=Art	18	_	_	start_char=565|end_char=566
+20	worse	bad	ADJ	JJR	Degree=Cmp	19	_	_	start_char=567|end_char=572
+21	deal	deal	NOUN	NN	Number=Sing	20	_	_	start_char=573|end_char=577|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=577|end_char=578
+
+# text = If they walk away from that deal as well, it's going to get even worse, the conditions are going to become catastrophic.
+# sent_id = 7
+1	If	if	SCONJ	IN	_	0	_	_	start_char=579|end_char=581
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	1	_	_	start_char=582|end_char=586
+3	walk	walk	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=587|end_char=591
+4	away	away	ADV	RB	_	3	_	_	start_char=592|end_char=596
+5	from	from	ADP	IN	_	4	_	_	start_char=597|end_char=601
+6	that	that	DET	DT	Number=Sing|PronType=Dem	5	_	_	start_char=602|end_char=606
+7	deal	deal	NOUN	NN	Number=Sing	6	_	_	start_char=607|end_char=611
+8	as	as	ADV	RB	_	7	_	_	start_char=612|end_char=614
+9	well	well	ADV	RB	Degree=Pos	8	_	_	start_char=615|end_char=619|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=619|end_char=620
+11-12	it's	_	_	_	_	_	_	_	start_char=621|end_char=625
+11	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	_	_	start_char=621|end_char=623
+12	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=623|end_char=625
+13	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	12	_	_	start_char=626|end_char=631
+14	to	to	PART	TO	_	13	_	_	start_char=632|end_char=634
+15	get	get	VERB	VB	VerbForm=Inf	14	_	_	start_char=635|end_char=638
+16	even	even	ADV	RB	_	15	_	_	start_char=639|end_char=643
+17	worse	bad	ADJ	JJR	Degree=Cmp	16	_	_	start_char=644|end_char=649|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=649|end_char=650
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=651|end_char=654
+20	conditions	condition	NOUN	NNS	Number=Plur	19	_	_	start_char=655|end_char=665
+21	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	_	_	start_char=666|end_char=669
+22	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	21	_	_	start_char=670|end_char=675
+23	to	to	PART	TO	_	22	_	_	start_char=676|end_char=678
+24	become	become	VERB	VB	VerbForm=Inf	23	_	_	start_char=679|end_char=685
+25	catastrophic	catastrophic	ADJ	JJ	Degree=Pos	24	_	_	start_char=686|end_char=698|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=698|end_char=699
+
+# text = It will become a question of their unconditional capitulation.
+# sent_id = 8
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=700|end_char=702
+2	will	will	AUX	MD	VerbForm=Fin	1	_	_	start_char=703|end_char=707
+3	become	become	VERB	VB	VerbForm=Inf	2	_	_	start_char=708|end_char=714
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=715|end_char=716
+5	question	question	NOUN	NN	Number=Sing	4	_	_	start_char=717|end_char=725
+6	of	of	ADP	IN	_	5	_	_	start_char=726|end_char=728
+7	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	6	_	_	start_char=729|end_char=734
+8	unconditional	unconditional	ADJ	JJ	Degree=Pos	7	_	_	start_char=735|end_char=748
+9	capitulation	capitulation	NOUN	NN	Number=Sing	8	_	_	start_char=749|end_char=761|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=761|end_char=762|SpacesAfter=\n
+
+# text = Because if you remember in March 2022, they had a chance offered by Russia: 'Okay, we will withdraw our troops, you will return Lugansk and Donetsk to your control.
+# sent_id = 9
+1	Because	because	SCONJ	IN	_	0	_	_	start_char=763|end_char=770
+2	if	if	SCONJ	IN	_	1	_	_	start_char=771|end_char=773
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	_	_	start_char=774|end_char=777
+4	remember	remember	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	_	_	start_char=778|end_char=786
+5	in	in	ADP	IN	_	4	_	_	start_char=787|end_char=789
+6	March	March	PROPN	NNP	Number=Sing	5	_	_	start_char=790|end_char=795
+7	2022	2022	NUM	CD	NumForm=Digit|NumType=Card	6	_	_	start_char=796|end_char=800|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=800|end_char=801
+9	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	_	_	start_char=802|end_char=806
+10	had	have	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=807|end_char=810
+11	a	a	DET	DT	Definite=Ind|PronType=Art	10	_	_	start_char=811|end_char=812
+12	chance	chance	NOUN	NN	Number=Sing	11	_	_	start_char=813|end_char=819
+13	offered	offer	VERB	VBN	Tense=Past|VerbForm=Part	12	_	_	start_char=820|end_char=827
+14	by	by	ADP	IN	_	13	_	_	start_char=828|end_char=830
+15	Russia	Russia	PROPN	NNP	Number=Sing	14	_	_	start_char=831|end_char=837|SpaceAfter=No
+16	:	:	PUNCT	:	_	15	_	_	start_char=837|end_char=838
+17	'	'	PUNCT	``	_	16	_	_	start_char=839|end_char=840|SpaceAfter=No
+18	Okay	okay	INTJ	UH	_	17	_	_	start_char=840|end_char=844|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=844|end_char=845
+20	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	19	_	_	start_char=846|end_char=848
+21	will	will	AUX	MD	VerbForm=Fin	20	_	_	start_char=849|end_char=853
+22	withdraw	withdraw	VERB	VB	VerbForm=Inf	21	_	_	start_char=854|end_char=862
+23	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	22	_	_	start_char=863|end_char=866
+24	troops	troops	NOUN	NNS	Number=Plur	23	_	_	start_char=867|end_char=873|SpaceAfter=No
+25	,	,	PUNCT	,	_	24	_	_	start_char=873|end_char=874
+26	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	25	_	_	start_char=875|end_char=878
+27	will	will	AUX	MD	VerbForm=Fin	26	_	_	start_char=879|end_char=883
+28	return	return	VERB	VB	VerbForm=Inf	27	_	_	start_char=884|end_char=890
+29	Lugansk	Lugansk	PROPN	NNP	Number=Sing	28	_	_	start_char=891|end_char=898
+30	and	and	CCONJ	CC	_	29	_	_	start_char=899|end_char=902
+31	Donetsk	Donetsk	PROPN	NNP	Number=Sing	30	_	_	start_char=903|end_char=910
+32	to	to	ADP	IN	_	31	_	_	start_char=911|end_char=913
+33	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	32	_	_	start_char=914|end_char=918
+34	control	control	NOUN	NN	Number=Sing	33	_	_	start_char=919|end_char=926|SpaceAfter=No
+35	.	.	PUNCT	.	_	34	_	_	start_char=926|end_char=927
+
+# text = They will have some independence, their rights will be protected, and we will withdraw the troops."
+# sent_id = 10
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=928|end_char=932
+2	will	will	AUX	MD	VerbForm=Fin	1	_	_	start_char=933|end_char=937
+3	have	have	VERB	VB	VerbForm=Inf	2	_	_	start_char=938|end_char=942
+4	some	some	DET	DT	_	3	_	_	start_char=943|end_char=947
+5	independence	independence	NOUN	NN	Number=Sing	4	_	_	start_char=948|end_char=960|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=960|end_char=961
+7	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	6	_	_	start_char=962|end_char=967
+8	rights	right	NOUN	NNS	Number=Plur	7	_	_	start_char=968|end_char=974
+9	will	will	AUX	MD	VerbForm=Fin	8	_	_	start_char=975|end_char=979
+10	be	be	AUX	VB	VerbForm=Inf	9	_	_	start_char=980|end_char=982
+11	protected	protect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10	_	_	start_char=983|end_char=992|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=992|end_char=993
+13	and	and	CCONJ	CC	_	12	_	_	start_char=994|end_char=997
+14	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	13	_	_	start_char=998|end_char=1000
+15	will	will	AUX	MD	VerbForm=Fin	14	_	_	start_char=1001|end_char=1005
+16	withdraw	withdraw	VERB	VB	VerbForm=Inf	15	_	_	start_char=1006|end_char=1014
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=1015|end_char=1018
+18	troops	troops	NOUN	NNS	Number=Plur	17	_	_	start_char=1019|end_char=1025|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=1025|end_char=1026|SpaceAfter=No
+20	"	"	PUNCT	''	_	19	_	_	start_char=1026|end_char=1027|SpacesAfter=\n
+
+# text = That was two years ago, and the reaction was: 'No!
+# sent_id = 11
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1028|end_char=1032
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1033|end_char=1036
+3	two	two	NUM	CD	NumForm=Word|NumType=Card	2	_	_	start_char=1037|end_char=1040
+4	years	year	NOUN	NNS	Number=Plur	3	_	_	start_char=1041|end_char=1046
+5	ago	ago	ADV	RB	_	4	_	_	start_char=1047|end_char=1050|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=1050|end_char=1051
+7	and	and	CCONJ	CC	_	6	_	_	start_char=1052|end_char=1055
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=1056|end_char=1059
+9	reaction	reaction	NOUN	NN	Number=Sing	8	_	_	start_char=1060|end_char=1068
+10	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=1069|end_char=1072|SpaceAfter=No
+11	:	:	PUNCT	:	_	10	_	_	start_char=1072|end_char=1073
+12	'	'	PUNCT	``	_	11	_	_	start_char=1074|end_char=1075|SpaceAfter=No
+13	No	no	INTJ	UH	Polarity=Neg	12	_	_	start_char=1075|end_char=1077|SpaceAfter=No
+14	!	!	PUNCT	.	_	13	_	_	start_char=1077|end_char=1078
+
+# text = We will not agree to this!"
+# sent_id = 12
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	start_char=1079|end_char=1081
+2	will	will	AUX	MD	VerbForm=Fin	1	_	_	start_char=1082|end_char=1086
+3	not	not	PART	RB	_	2	_	_	start_char=1087|end_char=1090
+4	agree	agree	VERB	VB	VerbForm=Inf	3	_	_	start_char=1091|end_char=1096
+5	to	to	ADP	IN	_	4	_	_	start_char=1097|end_char=1099
+6	this	this	PRON	DT	Number=Sing|PronType=Dem	5	_	_	start_char=1100|end_char=1104|SpaceAfter=No
+7	!	!	PUNCT	.	_	6	_	_	start_char=1104|end_char=1105|SpaceAfter=No
+8	"	"	PUNCT	''	_	7	_	_	start_char=1105|end_char=1106|SpaceAfter=No
+

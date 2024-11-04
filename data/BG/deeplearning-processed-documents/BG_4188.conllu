@@ -1,0 +1,227 @@
+# text = Zelensky, speaking in the German Bundestag today, said Kiev would never compromise with Russia
+# sent_id = 0
+1	Zelensky	Zelensky	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=8|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=8|end_char=9
+3	speaking	speak	VERB	VBG	VerbForm=Ger	2	_	_	start_char=10|end_char=18
+4	in	in	ADP	IN	_	3	_	_	start_char=19|end_char=21
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=22|end_char=25
+6	German	German	ADJ	JJ	Degree=Pos	5	_	_	start_char=26|end_char=32
+7	Bundestag	Bundestag	PROPN	NNP	Number=Sing	6	_	_	start_char=33|end_char=42
+8	today	today	NOUN	NN	Number=Sing	7	_	_	start_char=43|end_char=48|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=48|end_char=49
+10	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=50|end_char=54
+11	Kiev	Kiev	PROPN	NNP	Number=Sing	10	_	_	start_char=55|end_char=59
+12	would	would	AUX	MD	VerbForm=Fin	11	_	_	start_char=60|end_char=65
+13	never	never	ADV	RB	_	12	_	_	start_char=66|end_char=71
+14	compromise	compromise	VERB	VB	VerbForm=Inf	13	_	_	start_char=72|end_char=82
+15	with	with	ADP	IN	_	14	_	_	start_char=83|end_char=87
+16	Russia	Russia	PROPN	NNP	Number=Sing	15	_	_	start_char=88|end_char=94|SpacesAfter=\n\n
+
+# text = Zelensky, speaking today in the German Bundestag, said Kiev would never compromise with Russia.
+# sent_id = 1
+1	Zelensky	Zelensky	PROPN	NNP	Number=Sing	0	_	_	start_char=96|end_char=104|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=104|end_char=105
+3	speaking	speak	VERB	VBG	VerbForm=Ger	2	_	_	start_char=106|end_char=114
+4	today	today	NOUN	NN	Number=Sing	3	_	_	start_char=115|end_char=120
+5	in	in	ADP	IN	_	4	_	_	start_char=121|end_char=123
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=124|end_char=127
+7	German	German	ADJ	JJ	Degree=Pos	6	_	_	start_char=128|end_char=134
+8	Bundestag	Bundestag	PROPN	NNP	Number=Sing	7	_	_	start_char=135|end_char=144|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=144|end_char=145
+10	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=146|end_char=150
+11	Kiev	Kiev	PROPN	NNP	Number=Sing	10	_	_	start_char=151|end_char=155
+12	would	would	AUX	MD	VerbForm=Fin	11	_	_	start_char=156|end_char=161
+13	never	never	ADV	RB	_	12	_	_	start_char=162|end_char=167
+14	compromise	compromise	VERB	VB	VerbForm=Inf	13	_	_	start_char=168|end_char=178
+15	with	with	ADP	IN	_	14	_	_	start_char=179|end_char=183
+16	Russia	Russia	PROPN	NNP	Number=Sing	15	_	_	start_char=184|end_char=190|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=190|end_char=191|SpacesAfter=\n
+
+# text = According to Zelensky, the time for compromise was past.
+# sent_id = 2
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=192|end_char=201
+2	to	to	ADP	IN	_	1	_	_	start_char=202|end_char=204
+3	Zelensky	Zelensky	PROPN	NNP	Number=Sing	2	_	_	start_char=205|end_char=213|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=213|end_char=214
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=215|end_char=218
+6	time	time	NOUN	NN	Number=Sing	5	_	_	start_char=219|end_char=223
+7	for	for	ADP	IN	_	6	_	_	start_char=224|end_char=227
+8	compromise	compromise	NOUN	NN	Number=Sing	7	_	_	start_char=228|end_char=238
+9	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=239|end_char=242
+10	past	past	ADJ	JJ	Degree=Pos	9	_	_	start_char=243|end_char=247|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=247|end_char=248|SpacesAfter=\n
+
+# text = During his speech, Zelensky also demanded the seizure of Russian assets to rebuild the country.
+# sent_id = 3
+1	During	during	ADP	IN	_	0	_	_	start_char=249|end_char=255
+2	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	_	_	start_char=256|end_char=259
+3	speech	speech	NOUN	NN	Number=Sing	2	_	_	start_char=260|end_char=266|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=266|end_char=267
+5	Zelensky	Zelensky	PROPN	NNP	Number=Sing	4	_	_	start_char=268|end_char=276
+6	also	also	ADV	RB	_	5	_	_	start_char=277|end_char=281
+7	demanded	demand	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=282|end_char=290
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=291|end_char=294
+9	seizure	seizure	NOUN	NN	Number=Sing	8	_	_	start_char=295|end_char=302
+10	of	of	ADP	IN	_	9	_	_	start_char=303|end_char=305
+11	Russian	Russian	ADJ	JJ	Degree=Pos	10	_	_	start_char=306|end_char=313
+12	assets	asset	NOUN	NNS	Number=Plur	11	_	_	start_char=314|end_char=320
+13	to	to	PART	TO	_	12	_	_	start_char=321|end_char=323
+14	rebuild	rebuild	VERB	VB	VerbForm=Inf	13	_	_	start_char=324|end_char=331
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=332|end_char=335
+16	country	country	NOUN	NN	Number=Sing	15	_	_	start_char=336|end_char=343|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=343|end_char=344|SpacesAfter=\n
+
+# text = He reiterated that the conflict had to end on Kiev's terms.
+# sent_id = 4
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=345|end_char=347
+2	reiterated	reiterate	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=348|end_char=358
+3	that	that	SCONJ	IN	_	2	_	_	start_char=359|end_char=363
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=364|end_char=367
+5	conflict	conflict	NOUN	NN	Number=Sing	4	_	_	start_char=368|end_char=376
+6	had	have	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=377|end_char=380
+7	to	to	PART	TO	_	6	_	_	start_char=381|end_char=383
+8	end	end	VERB	VB	VerbForm=Inf	7	_	_	start_char=384|end_char=387
+9	on	on	ADP	IN	_	8	_	_	start_char=388|end_char=390
+10-11	Kiev's	_	_	_	_	_	_	_	start_char=391|end_char=397
+10	Kiev	Kiev	PROPN	NNP	Number=Sing	9	_	_	start_char=391|end_char=395
+11	's	's	PART	POS	_	10	_	_	start_char=395|end_char=397
+12	terms	term	NOUN	NNS	Number=Plur	11	_	_	start_char=398|end_char=403|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=403|end_char=404|SpacesAfter=\n
+
+# text = Zelensky had no choice.
+# sent_id = 5
+1	Zelensky	Zelensky	PROPN	NNP	Number=Sing	0	_	_	start_char=405|end_char=413
+2	had	have	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=414|end_char=417
+3	no	no	DET	DT	_	2	_	_	start_char=418|end_char=420
+4	choice	choice	NOUN	NN	Number=Sing	3	_	_	start_char=421|end_char=427|SpaceAfter=No
+5	.	.	PUNCT	.	_	4	_	_	start_char=427|end_char=428
+
+# text = Compromise and he would die.
+# sent_id = 6
+1	Compromise	compromise	NOUN	NN	Number=Sing	0	_	_	start_char=429|end_char=439
+2	and	and	CCONJ	CC	_	1	_	_	start_char=440|end_char=443
+3	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	_	_	start_char=444|end_char=446
+4	would	would	AUX	MD	VerbForm=Fin	3	_	_	start_char=447|end_char=452
+5	die	die	VERB	VB	VerbForm=Inf	4	_	_	start_char=453|end_char=456|SpaceAfter=No
+6	.	.	PUNCT	.	_	5	_	_	start_char=456|end_char=457
+
+# text = Literally.
+# sent_id = 7
+1	Literally	literally	ADV	RB	_	0	_	_	start_char=458|end_char=467|SpaceAfter=No
+2	.	.	PUNCT	.	_	1	_	_	start_char=467|end_char=468|SpacesAfter=\n
+
+# text = The Minsk agreements - under which Ukraine did not lose territories at all - he refused to implement.
+# sent_id = 8
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=469|end_char=472
+2	Minsk	Minsk	PROPN	NNP	Number=Sing	1	_	_	start_char=473|end_char=478
+3	agreements	agreement	NOUN	NNS	Number=Plur	2	_	_	start_char=479|end_char=489
+4	-	-	PUNCT	,	_	3	_	_	start_char=490|end_char=491
+5	under	under	ADP	IN	_	4	_	_	start_char=492|end_char=497
+6	which	which	PRON	WDT	PronType=Rel	5	_	_	start_char=498|end_char=503
+7	Ukraine	Ukraine	PROPN	NNP	Number=Sing	6	_	_	start_char=504|end_char=511
+8	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=512|end_char=515
+9	not	not	PART	RB	_	8	_	_	start_char=516|end_char=519
+10	lose	lose	VERB	VB	VerbForm=Inf	9	_	_	start_char=520|end_char=524
+11	territories	territory	NOUN	NNS	Number=Plur	10	_	_	start_char=525|end_char=536
+12	at	at	ADP	IN	_	11	_	_	start_char=537|end_char=539
+13	all	all	DET	DT	_	12	_	_	start_char=540|end_char=543
+14	-	-	PUNCT	,	_	13	_	_	start_char=544|end_char=545
+15	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	_	_	start_char=546|end_char=548
+16	refused	refuse	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	_	_	start_char=549|end_char=556
+17	to	to	PART	TO	_	16	_	_	start_char=557|end_char=559
+18	implement	implement	VERB	VB	VerbForm=Inf	17	_	_	start_char=560|end_char=569|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=569|end_char=570|SpacesAfter=\n
+
+# text = Istanbul - 1, under which Ukraine again lost nothing of what it controlled on 24.02.2022, and the issue of DNR and LNR was postponed - he refused to implement.
+# sent_id = 9
+1	Istanbul	Istanbul	PROPN	NNP	Number=Sing	0	_	_	start_char=571|end_char=579
+2	-	-	PUNCT	HYPH	_	1	_	_	start_char=580|end_char=581
+3	1	1	NUM	CD	NumForm=Digit|NumType=Card	2	_	_	start_char=582|end_char=583|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=583|end_char=584
+5	under	under	ADP	IN	_	4	_	_	start_char=585|end_char=590
+6	which	which	PRON	WDT	PronType=Rel	5	_	_	start_char=591|end_char=596
+7	Ukraine	Ukraine	PROPN	NNP	Number=Sing	6	_	_	start_char=597|end_char=604
+8	again	again	ADV	RB	_	7	_	_	start_char=605|end_char=610
+9	lost	lose	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=611|end_char=615
+10	nothing	nothing	PRON	NN	Number=Sing|PronType=Neg	9	_	_	start_char=616|end_char=623
+11	of	of	ADP	IN	_	10	_	_	start_char=624|end_char=626
+12	what	what	PRON	WP	PronType=Rel	11	_	_	start_char=627|end_char=631
+13	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	_	_	start_char=632|end_char=634
+14	controlled	control	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	_	_	start_char=635|end_char=645
+15	on	on	ADP	IN	_	14	_	_	start_char=646|end_char=648
+16	24.02.2022	24.02.2022	NUM	CD	NumForm=Digit|NumType=Card	15	_	_	start_char=649|end_char=659|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=659|end_char=660
+18	and	and	CCONJ	CC	_	17	_	_	start_char=661|end_char=664
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=665|end_char=668
+20	issue	issue	NOUN	NN	Number=Sing	19	_	_	start_char=669|end_char=674
+21	of	of	ADP	IN	_	20	_	_	start_char=675|end_char=677
+22	DNR	DNR	PROPN	NNP	Number=Sing	21	_	_	start_char=678|end_char=681
+23	and	and	CCONJ	CC	_	22	_	_	start_char=682|end_char=685
+24	LNR	LNR	PROPN	NNP	Number=Sing	23	_	_	start_char=686|end_char=689
+25	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	_	_	start_char=690|end_char=693
+26	postponed	postpone	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	25	_	_	start_char=694|end_char=703
+27	-	-	PUNCT	,	_	26	_	_	start_char=704|end_char=705
+28	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	_	_	start_char=706|end_char=708
+29	refused	refuse	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	_	_	start_char=709|end_char=716
+30	to	to	PART	TO	_	29	_	_	start_char=717|end_char=719
+31	implement	implement	VERB	VB	VerbForm=Inf	30	_	_	start_char=720|end_char=729|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=729|end_char=730|SpacesAfter=\n
+
+# text = Now it has a million Ukrainian corpses hanging on it, a ruined economy, refugees, repression... and all to arrive at terms worse than those offered before?
+# sent_id = 10
+1	Now	now	ADV	RB	_	0	_	_	start_char=731|end_char=734
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	_	_	start_char=735|end_char=737
+3	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=738|end_char=741
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=742|end_char=743
+5	million	million	NUM	CD	NumForm=Word|NumType=Card	4	_	_	start_char=744|end_char=751
+6	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	5	_	_	start_char=752|end_char=761
+7	corpses	corpse	NOUN	NNS	Number=Plur	6	_	_	start_char=762|end_char=769
+8	hanging	hang	VERB	VBG	VerbForm=Ger	7	_	_	start_char=770|end_char=777
+9	on	on	ADP	IN	_	8	_	_	start_char=778|end_char=780
+10	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	_	_	start_char=781|end_char=783|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=783|end_char=784
+12	a	a	DET	DT	Definite=Ind|PronType=Art	11	_	_	start_char=785|end_char=786
+13	ruined	ruin	VERB	VBN	Tense=Past|VerbForm=Part	12	_	_	start_char=787|end_char=793
+14	economy	economy	NOUN	NN	Number=Sing	13	_	_	start_char=794|end_char=801|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=801|end_char=802
+16	refugees	refugee	NOUN	NNS	Number=Plur	15	_	_	start_char=803|end_char=811|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=811|end_char=812
+18	repression	repression	NOUN	NN	Number=Sing	17	_	_	start_char=813|end_char=823|SpaceAfter=No
+19	...	...	PUNCT	,	_	18	_	_	start_char=823|end_char=826
+20	and	and	CCONJ	CC	_	19	_	_	start_char=827|end_char=830
+21	all	all	DET	DT	_	20	_	_	start_char=831|end_char=834
+22	to	to	PART	TO	_	21	_	_	start_char=835|end_char=837
+23	arrive	arrive	VERB	VB	VerbForm=Inf	22	_	_	start_char=838|end_char=844
+24	at	at	ADP	IN	_	23	_	_	start_char=845|end_char=847
+25	terms	term	NOUN	NNS	Number=Plur	24	_	_	start_char=848|end_char=853
+26	worse	bad	ADJ	JJR	Degree=Cmp	25	_	_	start_char=854|end_char=859
+27	than	than	ADP	IN	_	26	_	_	start_char=860|end_char=864
+28	those	that	PRON	DT	Number=Plur|PronType=Dem	27	_	_	start_char=865|end_char=870
+29	offered	offer	VERB	VBN	Tense=Past|VerbForm=Part	28	_	_	start_char=871|end_char=878
+30	before	before	ADV	RB	_	29	_	_	start_char=879|end_char=885|SpaceAfter=No
+31	?	?	PUNCT	.	_	30	_	_	start_char=885|end_char=886
+
+# text = Zelensky will fight until his own (well, or his Western masters) strangle him with their own hands.
+# sent_id = 11
+1	Zelensky	Zelensky	PROPN	NNP	Number=Sing	0	_	_	start_char=887|end_char=895
+2	will	will	AUX	MD	VerbForm=Fin	1	_	_	start_char=896|end_char=900
+3	fight	fight	VERB	VB	VerbForm=Inf	2	_	_	start_char=901|end_char=906
+4	until	until	ADP	IN	_	3	_	_	start_char=907|end_char=912
+5	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	_	_	start_char=913|end_char=916
+6	own	own	ADJ	JJ	Degree=Pos	5	_	_	start_char=917|end_char=920
+7	(	(	PUNCT	-LRB-	_	6	_	_	start_char=921|end_char=922|SpaceAfter=No
+8	well	well	INTJ	UH	_	7	_	_	start_char=922|end_char=926|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=926|end_char=927
+10	or	or	CCONJ	CC	_	9	_	_	start_char=928|end_char=930
+11	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	_	_	start_char=931|end_char=934
+12	Western	western	ADJ	JJ	Degree=Pos	11	_	_	start_char=935|end_char=942
+13	masters	master	NOUN	NNS	Number=Plur	12	_	_	start_char=943|end_char=950|SpaceAfter=No
+14	)	)	PUNCT	-RRB-	_	13	_	_	start_char=950|end_char=951
+15	strangle	strangle	VERB	VB	VerbForm=Inf	14	_	_	start_char=952|end_char=960
+16	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	_	_	start_char=961|end_char=964
+17	with	with	ADP	IN	_	16	_	_	start_char=965|end_char=969
+18	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	17	_	_	start_char=970|end_char=975
+19	own	own	ADJ	JJ	Degree=Pos	18	_	_	start_char=976|end_char=979
+20	hands	hand	NOUN	NNS	Number=Plur	19	_	_	start_char=980|end_char=985|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=985|end_char=986|SpaceAfter=No
+

@@ -1,0 +1,236 @@
+# text = 5: Western arms strikes against Russia will not force it to capitulate
+# sent_id = 0
+1	5	5	NUM	CD	NumForm=Digit|NumType=Card	0	_	_	start_char=0|end_char=1|SpaceAfter=No
+2	:	:	PUNCT	:	_	1	_	_	start_char=1|end_char=2
+3	Western	western	ADJ	JJ	Degree=Pos	2	_	_	start_char=3|end_char=10
+4	arms	arm	NOUN	NNS	Number=Plur	3	_	_	start_char=11|end_char=15
+5	strikes	strike	NOUN	NNS	Number=Plur	4	_	_	start_char=16|end_char=23
+6	against	against	ADP	IN	_	5	_	_	start_char=24|end_char=31
+7	Russia	Russia	PROPN	NNP	Number=Sing	6	_	_	start_char=32|end_char=38
+8	will	will	AUX	MD	VerbForm=Fin	7	_	_	start_char=39|end_char=43
+9	not	not	PART	RB	_	8	_	_	start_char=44|end_char=47
+10	force	force	VERB	VB	VerbForm=Inf	9	_	_	start_char=48|end_char=53
+11	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	_	_	start_char=54|end_char=56
+12	to	to	PART	TO	_	11	_	_	start_char=57|end_char=59
+13	capitulate	capitulate	VERB	VB	VerbForm=Inf	12	_	_	start_char=60|end_char=70|SpacesAfter=\n\n
+
+# text = Allowing NATO weapons strikes on Russia's territory will not force Russia to capitulate, but will only contribute to exposing the bankruptcy of Western leaders.
+# sent_id = 1
+1	Allowing	allow	VERB	VBG	VerbForm=Ger	0	_	_	start_char=72|end_char=80
+2	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	1	_	_	start_char=81|end_char=85
+3	weapons	weapon	NOUN	NNS	Number=Plur	2	_	_	start_char=86|end_char=93
+4	strikes	strike	NOUN	NNS	Number=Plur	3	_	_	start_char=94|end_char=101
+5	on	on	ADP	IN	_	4	_	_	start_char=102|end_char=104
+6-7	Russia's	_	_	_	_	_	_	_	start_char=105|end_char=113
+6	Russia	Russia	PROPN	NNP	Number=Sing	5	_	_	start_char=105|end_char=111
+7	's	's	PART	POS	_	6	_	_	start_char=111|end_char=113
+8	territory	territory	NOUN	NN	Number=Sing	7	_	_	start_char=114|end_char=123
+9	will	will	AUX	MD	VerbForm=Fin	8	_	_	start_char=124|end_char=128
+10	not	not	PART	RB	_	9	_	_	start_char=129|end_char=132
+11	force	force	VERB	VB	VerbForm=Inf	10	_	_	start_char=133|end_char=138
+12	Russia	Russia	PROPN	NNP	Number=Sing	11	_	_	start_char=139|end_char=145
+13	to	to	PART	TO	_	12	_	_	start_char=146|end_char=148
+14	capitulate	capitulate	VERB	VB	VerbForm=Inf	13	_	_	start_char=149|end_char=159|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=159|end_char=160
+16	but	but	CCONJ	CC	_	15	_	_	start_char=161|end_char=164
+17	will	will	AUX	MD	VerbForm=Fin	16	_	_	start_char=165|end_char=169
+18	only	only	ADV	RB	_	17	_	_	start_char=170|end_char=174
+19	contribute	contribute	VERB	VB	VerbForm=Inf	18	_	_	start_char=175|end_char=185
+20	to	to	SCONJ	IN	_	19	_	_	start_char=186|end_char=188
+21	exposing	expose	VERB	VBG	VerbForm=Ger	20	_	_	start_char=189|end_char=197
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=198|end_char=201
+23	bankruptcy	bankruptcy	NOUN	NN	Number=Sing	22	_	_	start_char=202|end_char=212
+24	of	of	ADP	IN	_	23	_	_	start_char=213|end_char=215
+25	Western	western	ADJ	JJ	Degree=Pos	24	_	_	start_char=216|end_char=223
+26	leaders	leader	NOUN	NNS	Number=Plur	25	_	_	start_char=224|end_char=231|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=231|end_char=232
+
+# text = These conclusions were reached by Italian newspaper IL Fatto Quotidiano.
+# sent_id = 2
+1	These	this	DET	DT	Number=Plur|PronType=Dem	0	_	_	start_char=233|end_char=238
+2	conclusions	conclusion	NOUN	NNS	Number=Plur	1	_	_	start_char=239|end_char=250
+3	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=251|end_char=255
+4	reached	reach	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=256|end_char=263
+5	by	by	ADP	IN	_	4	_	_	start_char=264|end_char=266
+6	Italian	Italian	ADJ	JJ	Degree=Pos	5	_	_	start_char=267|end_char=274
+7	newspaper	newspaper	NOUN	NN	Number=Sing	6	_	_	start_char=275|end_char=284
+8	IL	IL	PROPN	NNP	Number=Sing	7	_	_	start_char=285|end_char=287
+9	Fatto	Fatto	PROPN	NNP	Number=Sing	8	_	_	start_char=288|end_char=293
+10	Quotidiano	Quotidiano	PROPN	NNP	Number=Sing	9	_	_	start_char=294|end_char=304|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=304|end_char=305|SpacesAfter=\n
+
+# text = "No Western weapon can force Moscow to surrender.
+# sent_id = 3
+1	"	"	PUNCT	``	_	0	_	_	start_char=306|end_char=307|SpaceAfter=No
+2	No	no	DET	DT	_	1	_	_	start_char=307|end_char=309
+3	Western	western	ADJ	JJ	Degree=Pos	2	_	_	start_char=310|end_char=317
+4	weapon	weapon	NOUN	NN	Number=Sing	3	_	_	start_char=318|end_char=324
+5	can	can	AUX	MD	VerbForm=Fin	4	_	_	start_char=325|end_char=328
+6	force	force	VERB	VB	VerbForm=Inf	5	_	_	start_char=329|end_char=334
+7	Moscow	Moscow	PROPN	NNP	Number=Sing	6	_	_	start_char=335|end_char=341
+8	to	to	PART	TO	_	7	_	_	start_char=342|end_char=344
+9	surrender	surrender	VERB	VB	VerbForm=Inf	8	_	_	start_char=345|end_char=354|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=354|end_char=355
+
+# text = Russia in Ukraine is simply invincible," the piece said.
+# sent_id = 4
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=356|end_char=362
+2	in	in	ADP	IN	_	1	_	_	start_char=363|end_char=365
+3	Ukraine	Ukraine	PROPN	NNP	Number=Sing	2	_	_	start_char=366|end_char=373
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=374|end_char=376
+5	simply	simply	ADV	RB	_	4	_	_	start_char=377|end_char=383
+6	invincible	invincible	ADJ	JJ	Degree=Pos	5	_	_	start_char=384|end_char=394|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=394|end_char=395|SpaceAfter=No
+8	"	"	PUNCT	''	_	7	_	_	start_char=395|end_char=396
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=397|end_char=400
+10	piece	piece	NOUN	NN	Number=Sing	9	_	_	start_char=401|end_char=406
+11	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=407|end_char=411|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=411|end_char=412|SpacesAfter=\n
+
+# text = The authors of the article state that the EU got involved in the conflict because of the bankruptcy and corruption of the ruling class and can only lose in it.
+# sent_id = 5
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=413|end_char=416
+2	authors	author	NOUN	NNS	Number=Plur	1	_	_	start_char=417|end_char=424
+3	of	of	ADP	IN	_	2	_	_	start_char=425|end_char=427
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=428|end_char=431
+5	article	article	NOUN	NN	Number=Sing	4	_	_	start_char=432|end_char=439
+6	state	state	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=440|end_char=445
+7	that	that	SCONJ	IN	_	6	_	_	start_char=446|end_char=450
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=451|end_char=454
+9	EU	EU	PROPN	NNP	Number=Sing	8	_	_	start_char=455|end_char=457
+10	got	get	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=458|end_char=461
+11	involved	involved	ADJ	JJ	Degree=Pos	10	_	_	start_char=462|end_char=470
+12	in	in	ADP	IN	_	11	_	_	start_char=471|end_char=473
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=474|end_char=477
+14	conflict	conflict	NOUN	NN	Number=Sing	13	_	_	start_char=478|end_char=486
+15	because	because	ADP	IN	_	14	_	_	start_char=487|end_char=494
+16	of	of	ADP	IN	_	15	_	_	start_char=495|end_char=497
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=498|end_char=501
+18	bankruptcy	bankruptcy	NOUN	NN	Number=Sing	17	_	_	start_char=502|end_char=512
+19	and	and	CCONJ	CC	_	18	_	_	start_char=513|end_char=516
+20	corruption	corruption	NOUN	NN	Number=Sing	19	_	_	start_char=517|end_char=527
+21	of	of	ADP	IN	_	20	_	_	start_char=528|end_char=530
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=531|end_char=534
+23	ruling	ruling	NOUN	NN	Number=Sing	22	_	_	start_char=535|end_char=541
+24	class	class	NOUN	NN	Number=Sing	23	_	_	start_char=542|end_char=547
+25	and	and	CCONJ	CC	_	24	_	_	start_char=548|end_char=551
+26	can	can	AUX	MD	VerbForm=Fin	25	_	_	start_char=552|end_char=555
+27	only	only	ADV	RB	_	26	_	_	start_char=556|end_char=560
+28	lose	lose	VERB	VB	VerbForm=Inf	27	_	_	start_char=561|end_char=565
+29	in	in	ADP	IN	_	28	_	_	start_char=566|end_char=568
+30	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	29	_	_	start_char=569|end_char=571|SpaceAfter=No
+31	.	.	PUNCT	.	_	30	_	_	start_char=571|end_char=572|SpacesAfter=\n
+
+# text = A former French politician, Pierre Lelouch, he said that possible strikes with NATO weapons on Russian territory, as well as the introduction of Alliance troops into Ukraine, would lead to the conflict spiralling out of control.
+# sent_id = 6
+1	A	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=573|end_char=574
+2	former	former	ADJ	JJ	Degree=Pos	1	_	_	start_char=575|end_char=581
+3	French	French	ADJ	JJ	Degree=Pos	2	_	_	start_char=582|end_char=588
+4	politician	politician	NOUN	NN	Number=Sing	3	_	_	start_char=589|end_char=599|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=599|end_char=600
+6	Pierre	Pierre	PROPN	NNP	Number=Sing	5	_	_	start_char=601|end_char=607
+7	Lelouch	Lelouch	PROPN	NNP	Number=Sing	6	_	_	start_char=608|end_char=615|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=615|end_char=616
+9	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	_	_	start_char=617|end_char=619
+10	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=620|end_char=624
+11	that	that	SCONJ	IN	_	10	_	_	start_char=625|end_char=629
+12	possible	possible	ADJ	JJ	Degree=Pos	11	_	_	start_char=630|end_char=638
+13	strikes	strike	NOUN	NNS	Number=Plur	12	_	_	start_char=639|end_char=646
+14	with	with	ADP	IN	_	13	_	_	start_char=647|end_char=651
+15	NATO	NATO	PROPN	NNP	Number=Sing	14	_	_	start_char=652|end_char=656
+16	weapons	weapon	NOUN	NNS	Number=Plur	15	_	_	start_char=657|end_char=664
+17	on	on	ADP	IN	_	16	_	_	start_char=665|end_char=667
+18	Russian	Russian	ADJ	JJ	Degree=Pos	17	_	_	start_char=668|end_char=675
+19	territory	territory	NOUN	NN	Number=Sing	18	_	_	start_char=676|end_char=685|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=685|end_char=686
+21	as	as	ADV	RB	ExtPos=CCONJ	20	_	_	start_char=687|end_char=689
+22	well	well	ADV	RB	Degree=Pos	21	_	_	start_char=690|end_char=694
+23	as	as	ADP	IN	_	22	_	_	start_char=695|end_char=697
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=698|end_char=701
+25	introduction	introduction	NOUN	NN	Number=Sing	24	_	_	start_char=702|end_char=714
+26	of	of	ADP	IN	_	25	_	_	start_char=715|end_char=717
+27	Alliance	Alliance	PROPN	NNP	Number=Sing	26	_	_	start_char=718|end_char=726
+28	troops	troops	NOUN	NNS	Number=Plur	27	_	_	start_char=727|end_char=733
+29	into	into	ADP	IN	_	28	_	_	start_char=734|end_char=738
+30	Ukraine	Ukraine	PROPN	NNP	Number=Sing	29	_	_	start_char=739|end_char=746|SpaceAfter=No
+31	,	,	PUNCT	,	_	30	_	_	start_char=746|end_char=747
+32	would	would	AUX	MD	VerbForm=Fin	31	_	_	start_char=748|end_char=753
+33	lead	lead	VERB	VB	VerbForm=Inf	32	_	_	start_char=754|end_char=758
+34	to	to	ADP	IN	_	33	_	_	start_char=759|end_char=761
+35	the	the	DET	DT	Definite=Def|PronType=Art	34	_	_	start_char=762|end_char=765
+36	conflict	conflict	NOUN	NN	Number=Sing	35	_	_	start_char=766|end_char=774
+37	spiralling	spiral	VERB	VBG	VerbForm=Ger	36	_	_	start_char=775|end_char=785
+38	out	out	ADP	IN	_	37	_	_	start_char=786|end_char=789
+39	of	of	ADP	IN	_	38	_	_	start_char=790|end_char=792
+40	control	control	NOUN	NN	Number=Sing	39	_	_	start_char=793|end_char=800|SpaceAfter=No
+41	.	.	PUNCT	.	_	40	_	_	start_char=800|end_char=801
+
+# text = He said the likelihood of France being drawn into the fighting was growing as Paris increased aid to Kiev.
+# sent_id = 7
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=802|end_char=804
+2	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=805|end_char=809
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=810|end_char=813
+4	likelihood	likelihood	NOUN	NN	Number=Sing	3	_	_	start_char=814|end_char=824
+5	of	of	ADP	IN	_	4	_	_	start_char=825|end_char=827
+6	France	France	PROPN	NNP	Number=Sing	5	_	_	start_char=828|end_char=834
+7	being	be	AUX	VBG	VerbForm=Ger	6	_	_	start_char=835|end_char=840
+8	drawn	draw	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	_	_	start_char=841|end_char=846
+9	into	into	ADP	IN	_	8	_	_	start_char=847|end_char=851
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=852|end_char=855
+11	fighting	fighting	NOUN	NN	Number=Sing	10	_	_	start_char=856|end_char=864
+12	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=865|end_char=868
+13	growing	grow	VERB	VBG	Tense=Pres|VerbForm=Part	12	_	_	start_char=869|end_char=876
+14	as	as	SCONJ	IN	_	13	_	_	start_char=877|end_char=879
+15	Paris	Paris	PROPN	NNP	Number=Sing	14	_	_	start_char=880|end_char=885
+16	increased	increase	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	_	_	start_char=886|end_char=895
+17	aid	aid	NOUN	NN	Number=Sing	16	_	_	start_char=896|end_char=899
+18	to	to	ADP	IN	_	17	_	_	start_char=900|end_char=902
+19	Kiev	Kiev	PROPN	NNP	Number=Sing	18	_	_	start_char=903|end_char=907|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=907|end_char=908|SpacesAfter=\n
+
+# text = Deputy Chairman of the Russian Security Council Russia
+# sent_id = 8
+1	Deputy	deputy	ADJ	JJ	Degree=Pos	0	_	_	start_char=909|end_char=915
+2	Chairman	Chairman	PROPN	NNP	Number=Sing	1	_	_	start_char=916|end_char=924
+3	of	of	ADP	IN	_	2	_	_	start_char=925|end_char=927
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=928|end_char=931
+5	Russian	Russian	ADJ	NNP	Degree=Pos	4	_	_	start_char=932|end_char=939
+6	Security	Security	PROPN	NNP	Number=Sing	5	_	_	start_char=940|end_char=948
+7	Council	Council	PROPN	NNP	Number=Sing	6	_	_	start_char=949|end_char=956
+8	Russia	Russia	PROPN	NNP	Number=Sing	7	_	_	start_char=957|end_char=963
+
+# text = He noted that the military equipment of Western countries will be destroyed both in Ukraine and on the territory of other countries, from where strikes will be launched on Russia.
+# sent_id = 9
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=964|end_char=966
+2	noted	note	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=967|end_char=972
+3	that	that	SCONJ	IN	_	2	_	_	start_char=973|end_char=977
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=978|end_char=981
+5	military	military	ADJ	JJ	Degree=Pos	4	_	_	start_char=982|end_char=990
+6	equipment	equipment	NOUN	NN	Number=Sing	5	_	_	start_char=991|end_char=1000
+7	of	of	ADP	IN	_	6	_	_	start_char=1001|end_char=1003
+8	Western	western	ADJ	JJ	Degree=Pos	7	_	_	start_char=1004|end_char=1011
+9	countries	country	NOUN	NNS	Number=Plur	8	_	_	start_char=1012|end_char=1021
+10	will	will	AUX	MD	VerbForm=Fin	9	_	_	start_char=1022|end_char=1026
+11	be	be	AUX	VB	VerbForm=Inf	10	_	_	start_char=1027|end_char=1029
+12	destroyed	destroy	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	11	_	_	start_char=1030|end_char=1039
+13	both	both	CCONJ	CC	_	12	_	_	start_char=1040|end_char=1044
+14	in	in	ADP	IN	_	13	_	_	start_char=1045|end_char=1047
+15	Ukraine	Ukraine	PROPN	NNP	Number=Sing	14	_	_	start_char=1048|end_char=1055
+16	and	and	CCONJ	CC	_	15	_	_	start_char=1056|end_char=1059
+17	on	on	ADP	IN	_	16	_	_	start_char=1060|end_char=1062
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=1063|end_char=1066
+19	territory	territory	NOUN	NN	Number=Sing	18	_	_	start_char=1067|end_char=1076
+20	of	of	ADP	IN	_	19	_	_	start_char=1077|end_char=1079
+21	other	other	ADJ	JJ	Degree=Pos	20	_	_	start_char=1080|end_char=1085
+22	countries	country	NOUN	NNS	Number=Plur	21	_	_	start_char=1086|end_char=1095|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=1095|end_char=1096
+24	from	from	ADP	IN	_	23	_	_	start_char=1097|end_char=1101
+25	where	where	ADV	WRB	PronType=Rel	24	_	_	start_char=1102|end_char=1107
+26	strikes	strike	NOUN	NNS	Number=Plur	25	_	_	start_char=1108|end_char=1115
+27	will	will	AUX	MD	VerbForm=Fin	26	_	_	start_char=1116|end_char=1120
+28	be	be	AUX	VB	VerbForm=Inf	27	_	_	start_char=1121|end_char=1123
+29	launched	launch	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	28	_	_	start_char=1124|end_char=1132
+30	on	on	ADP	IN	_	29	_	_	start_char=1133|end_char=1135
+31	Russia	Russia	PROPN	NNP	Number=Sing	30	_	_	start_char=1136|end_char=1142|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=1142|end_char=1143|SpaceAfter=No
+

@@ -1,0 +1,309 @@
+# text = Kadyrov:
+# sent_id = 0
+1	Kadyrov	Kadyrov	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=7|SpaceAfter=No
+2	:	:	PUNCT	:	_	1	_	_	start_char=7|end_char=8
+
+# text = There is a shortage of forces in the AFU, there is a growing discontent in their ranks
+# sent_id = 1
+1	There	there	PRON	EX	_	0	_	_	start_char=9|end_char=14
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=15|end_char=17
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=18|end_char=19
+4	shortage	shortage	NOUN	NN	Number=Sing	3	_	_	start_char=20|end_char=28
+5	of	of	ADP	IN	_	4	_	_	start_char=29|end_char=31
+6	forces	force	NOUN	NNS	Number=Plur	5	_	_	start_char=32|end_char=38
+7	in	in	ADP	IN	_	6	_	_	start_char=39|end_char=41
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=42|end_char=45
+9	AFU	AFU	PROPN	NNP	Number=Sing	8	_	_	start_char=46|end_char=49|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=49|end_char=50
+11	there	there	PRON	EX	_	10	_	_	start_char=51|end_char=56
+12	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=57|end_char=59
+13	a	a	DET	DT	Definite=Ind|PronType=Art	12	_	_	start_char=60|end_char=61
+14	growing	grow	VERB	VBG	VerbForm=Ger	13	_	_	start_char=62|end_char=69
+15	discontent	discontent	NOUN	NN	Number=Sing	14	_	_	start_char=70|end_char=80
+16	in	in	ADP	IN	_	15	_	_	start_char=81|end_char=83
+17	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	16	_	_	start_char=84|end_char=89
+18	ranks	rank	NOUN	NNS	Number=Plur	17	_	_	start_char=90|end_char=95|SpacesAfter=\n\n
+
+# text = The head of Chechnya, Ramzan Kadyrov, has spoken of a shortage of forces and growing discontent among the Ukrainian military.
+# sent_id = 2
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=97|end_char=100
+2	head	head	NOUN	NN	Number=Sing	1	_	_	start_char=101|end_char=105
+3	of	of	ADP	IN	_	2	_	_	start_char=106|end_char=108
+4	Chechnya	Chechnya	PROPN	NNP	Number=Sing	3	_	_	start_char=109|end_char=117|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=117|end_char=118
+6	Ramzan	Ramzan	PROPN	NNP	Number=Sing	5	_	_	start_char=119|end_char=125
+7	Kadyrov	Kadyrov	PROPN	NNP	Number=Sing	6	_	_	start_char=126|end_char=133|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=133|end_char=134
+9	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=135|end_char=138
+10	spoken	speak	VERB	VBN	Tense=Past|VerbForm=Part	9	_	_	start_char=139|end_char=145
+11	of	of	ADP	IN	_	10	_	_	start_char=146|end_char=148
+12	a	a	DET	DT	Definite=Ind|PronType=Art	11	_	_	start_char=149|end_char=150
+13	shortage	shortage	NOUN	NN	Number=Sing	12	_	_	start_char=151|end_char=159
+14	of	of	ADP	IN	_	13	_	_	start_char=160|end_char=162
+15	forces	force	NOUN	NNS	Number=Plur	14	_	_	start_char=163|end_char=169
+16	and	and	CCONJ	CC	_	15	_	_	start_char=170|end_char=173
+17	growing	grow	VERB	VBG	VerbForm=Ger	16	_	_	start_char=174|end_char=181
+18	discontent	discontent	NOUN	NN	Number=Sing	17	_	_	start_char=182|end_char=192
+19	among	among	ADP	IN	_	18	_	_	start_char=193|end_char=198
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=199|end_char=202
+21	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	20	_	_	start_char=203|end_char=212
+22	military	military	NOUN	NN	Number=Sing	21	_	_	start_char=213|end_char=221|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=221|end_char=222
+
+# text = He wrote this in his Telegram channel.
+# sent_id = 3
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=223|end_char=225
+2	wrote	write	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=226|end_char=231
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	2	_	_	start_char=232|end_char=236
+4	in	in	ADP	IN	_	3	_	_	start_char=237|end_char=239
+5	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	_	_	start_char=240|end_char=243
+6	Telegram	Telegram	PROPN	NNP	Number=Sing	5	_	_	start_char=244|end_char=252
+7	channel	channel	NOUN	NN	Number=Sing	6	_	_	start_char=253|end_char=260|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	_	_	start_char=260|end_char=261|SpacesAfter=\n
+
+# text = "...
+# sent_id = 4
+1	"	"	PUNCT	``	_	0	_	_	start_char=262|end_char=263|SpaceAfter=No
+2	...	...	PUNCT	.	_	1	_	_	start_char=263|end_char=266
+
+# text = Ordinary Ukrainian fighters, including a large number of those forcibly mobilized, are increasingly defying their superiors.
+# sent_id = 5
+1	Ordinary	Ordinary	ADJ	JJ	Degree=Pos	0	_	_	start_char=267|end_char=275
+2	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	1	_	_	start_char=276|end_char=285
+3	fighters	fighter	NOUN	NNS	Number=Plur	2	_	_	start_char=286|end_char=294|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=294|end_char=295
+5	including	include	VERB	VBG	VerbForm=Ger	4	_	_	start_char=296|end_char=305
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=306|end_char=307
+7	large	large	ADJ	JJ	Degree=Pos	6	_	_	start_char=308|end_char=313
+8	number	number	NOUN	NN	Number=Sing	7	_	_	start_char=314|end_char=320
+9	of	of	ADP	IN	_	8	_	_	start_char=321|end_char=323
+10	those	that	PRON	DT	Number=Plur|PronType=Dem	9	_	_	start_char=324|end_char=329
+11	forcibly	forcibly	ADV	RB	_	10	_	_	start_char=330|end_char=338
+12	mobilized	mobilize	VERB	VBN	Tense=Past|VerbForm=Part	11	_	_	start_char=339|end_char=348|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=348|end_char=349
+14	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=350|end_char=353
+15	increasingly	increasingly	ADV	RB	_	14	_	_	start_char=354|end_char=366
+16	defying	defy	VERB	VBG	Tense=Pres|VerbForm=Part	15	_	_	start_char=367|end_char=374
+17	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	16	_	_	start_char=375|end_char=380
+18	superiors	superior	NOUN	NNS	Number=Plur	17	_	_	start_char=381|end_char=390|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=390|end_char=391
+
+# text = The fact that there are foreigners in the ranks of Ukraine's armed forces shows a critical shortage of live power," he wrote on his Telegram channel.
+# sent_id = 6
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=392|end_char=395
+2	fact	fact	NOUN	NN	Number=Sing	1	_	_	start_char=396|end_char=400
+3	that	that	SCONJ	IN	_	2	_	_	start_char=401|end_char=405
+4	there	there	PRON	EX	_	3	_	_	start_char=406|end_char=411
+5	are	be	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=412|end_char=415
+6	foreigners	foreigner	NOUN	NNS	Number=Plur	5	_	_	start_char=416|end_char=426
+7	in	in	ADP	IN	_	6	_	_	start_char=427|end_char=429
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=430|end_char=433
+9	ranks	rank	NOUN	NNS	Number=Plur	8	_	_	start_char=434|end_char=439
+10	of	of	ADP	IN	_	9	_	_	start_char=440|end_char=442
+11-12	Ukraine's	_	_	_	_	_	_	_	start_char=443|end_char=452
+11	Ukraine	Ukraine	PROPN	NNP	Number=Sing	10	_	_	start_char=443|end_char=450
+12	's	's	PART	POS	_	11	_	_	start_char=450|end_char=452
+13	armed	armed	ADJ	JJ	Degree=Pos	12	_	_	start_char=453|end_char=458
+14	forces	force	NOUN	NNS	Number=Plur	13	_	_	start_char=459|end_char=465
+15	shows	show	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=466|end_char=471
+16	a	a	DET	DT	Definite=Ind|PronType=Art	15	_	_	start_char=472|end_char=473
+17	critical	critical	ADJ	JJ	Degree=Pos	16	_	_	start_char=474|end_char=482
+18	shortage	shortage	NOUN	NN	Number=Sing	17	_	_	start_char=483|end_char=491
+19	of	of	ADP	IN	_	18	_	_	start_char=492|end_char=494
+20	live	live	ADJ	JJ	Degree=Pos	19	_	_	start_char=495|end_char=499
+21	power	power	NOUN	NN	Number=Sing	20	_	_	start_char=500|end_char=505|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=505|end_char=506|SpaceAfter=No
+23	"	"	PUNCT	''	_	22	_	_	start_char=506|end_char=507
+24	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	_	_	start_char=508|end_char=510
+25	wrote	write	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	_	_	start_char=511|end_char=516
+26	on	on	ADP	IN	_	25	_	_	start_char=517|end_char=519
+27	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	26	_	_	start_char=520|end_char=523
+28	Telegram	Telegram	PROPN	NNP	Number=Sing	27	_	_	start_char=524|end_char=532
+29	channel	channel	NOUN	NN	Number=Sing	28	_	_	start_char=533|end_char=540|SpaceAfter=No
+30	.	.	PUNCT	.	_	29	_	_	start_char=540|end_char=541|SpacesAfter=\n
+
+# text = Kadyrov added that many Ukrainian servicemen have recently surrendered voluntarily in the Artyomovsk front.
+# sent_id = 7
+1	Kadyrov	Kadyrov	PROPN	NNP	Number=Sing	0	_	_	start_char=542|end_char=549
+2	added	add	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=550|end_char=555
+3	that	that	SCONJ	IN	_	2	_	_	start_char=556|end_char=560
+4	many	many	ADJ	JJ	Degree=Pos	3	_	_	start_char=561|end_char=565
+5	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	4	_	_	start_char=566|end_char=575
+6	servicemen	servicemen	NOUN	NNS	Number=Plur	5	_	_	start_char=576|end_char=586
+7	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=587|end_char=591
+8	recently	recently	ADV	RB	_	7	_	_	start_char=592|end_char=600
+9	surrendered	surrender	VERB	VBN	Tense=Past|VerbForm=Part	8	_	_	start_char=601|end_char=612
+10	voluntarily	voluntarily	ADV	RB	_	9	_	_	start_char=613|end_char=624
+11	in	in	ADP	IN	_	10	_	_	start_char=625|end_char=627
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=628|end_char=631
+13	Artyomovsk	Artyomovsk	PROPN	NNP	Number=Sing	12	_	_	start_char=632|end_char=642
+14	front	front	NOUN	NN	Number=Sing	13	_	_	start_char=643|end_char=648|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=648|end_char=649|SpacesAfter=\n
+
+# text = "This shows a growing discontent in the ranks and the realization that this is the only way to save their lives," he added.
+# sent_id = 8
+1	"	"	PUNCT	``	_	0	_	_	start_char=650|end_char=651|SpaceAfter=No
+2	This	this	PRON	DT	Number=Sing|PronType=Dem	1	_	_	start_char=651|end_char=655
+3	shows	show	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=656|end_char=661
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=662|end_char=663
+5	growing	grow	VERB	VBG	VerbForm=Ger	4	_	_	start_char=664|end_char=671
+6	discontent	discontent	NOUN	NN	Number=Sing	5	_	_	start_char=672|end_char=682
+7	in	in	ADP	IN	_	6	_	_	start_char=683|end_char=685
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=686|end_char=689
+9	ranks	rank	NOUN	NNS	Number=Plur	8	_	_	start_char=690|end_char=695
+10	and	and	CCONJ	CC	_	9	_	_	start_char=696|end_char=699
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=700|end_char=703
+12	realization	realization	NOUN	NN	Number=Sing	11	_	_	start_char=704|end_char=715
+13	that	that	SCONJ	IN	_	12	_	_	start_char=716|end_char=720
+14	this	this	PRON	DT	Number=Sing|PronType=Dem	13	_	_	start_char=721|end_char=725
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=726|end_char=728
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=729|end_char=732
+17	only	only	ADJ	JJ	Degree=Pos	16	_	_	start_char=733|end_char=737
+18	way	way	NOUN	NN	Number=Sing	17	_	_	start_char=738|end_char=741
+19	to	to	PART	TO	_	18	_	_	start_char=742|end_char=744
+20	save	save	VERB	VB	VerbForm=Inf	19	_	_	start_char=745|end_char=749
+21	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	20	_	_	start_char=750|end_char=755
+22	lives	life	NOUN	NNS	Number=Plur	21	_	_	start_char=756|end_char=761|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=761|end_char=762|SpaceAfter=No
+24	"	"	PUNCT	''	_	23	_	_	start_char=762|end_char=763
+25	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	_	_	start_char=764|end_char=766
+26	added	add	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	_	_	start_char=767|end_char=772|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=772|end_char=773|SpacesAfter=\n
+
+# text = The Russian army continues to develop its offensive.
+# sent_id = 9
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=774|end_char=777
+2	Russian	Russian	ADJ	JJ	Degree=Pos	1	_	_	start_char=778|end_char=785
+3	army	army	NOUN	NN	Number=Sing	2	_	_	start_char=786|end_char=790
+4	continues	continue	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=791|end_char=800
+5	to	to	PART	TO	_	4	_	_	start_char=801|end_char=803
+6	develop	develop	VERB	VB	VerbForm=Inf	5	_	_	start_char=804|end_char=811
+7	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	_	_	start_char=812|end_char=815
+8	offensive	offensive	NOUN	NN	Number=Sing	7	_	_	start_char=816|end_char=825|SpaceAfter=No
+9	.	.	PUNCT	.	_	8	_	_	start_char=825|end_char=826
+
+# text = New settlements are being liberated every week.
+# sent_id = 10
+1	New	New	ADJ	JJ	Degree=Pos	0	_	_	start_char=827|end_char=830
+2	settlements	settlement	NOUN	NNS	Number=Plur	1	_	_	start_char=831|end_char=842
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=843|end_char=846
+4	being	be	AUX	VBG	VerbForm=Ger	3	_	_	start_char=847|end_char=852
+5	liberated	liberate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	_	_	start_char=853|end_char=862
+6	every	every	DET	DT	_	5	_	_	start_char=863|end_char=868
+7	week	week	NOUN	NN	Number=Sing	6	_	_	start_char=869|end_char=873|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	_	_	start_char=873|end_char=874|SpacesAfter=\n
+
+# text = Earlier, the Ministry of Defense of the Russian Federation reported that Russian troops had seized the settlements of Progress and Yevgenyovka in the Donetsk People's Republic.
+# sent_id = 11
+1	Earlier	early	ADV	RBR	Degree=Cmp	0	_	_	start_char=875|end_char=882|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=882|end_char=883
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=884|end_char=887
+4	Ministry	Ministry	PROPN	NNP	Number=Sing	3	_	_	start_char=888|end_char=896
+5	of	of	ADP	IN	_	4	_	_	start_char=897|end_char=899
+6	Defense	Defense	PROPN	NNP	Number=Sing	5	_	_	start_char=900|end_char=907
+7	of	of	ADP	IN	_	6	_	_	start_char=908|end_char=910
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=911|end_char=914
+9	Russian	Russian	ADJ	NNP	Degree=Pos	8	_	_	start_char=915|end_char=922
+10	Federation	Federation	PROPN	NNP	Number=Sing	9	_	_	start_char=923|end_char=933
+11	reported	report	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=934|end_char=942
+12	that	that	SCONJ	IN	_	11	_	_	start_char=943|end_char=947
+13	Russian	Russian	ADJ	JJ	Degree=Pos	12	_	_	start_char=948|end_char=955
+14	troops	troops	NOUN	NNS	Number=Plur	13	_	_	start_char=956|end_char=962
+15	had	have	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=963|end_char=966
+16	seized	seize	VERB	VBN	Tense=Past|VerbForm=Part	15	_	_	start_char=967|end_char=973
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=974|end_char=977
+18	settlements	settlement	NOUN	NNS	Number=Plur	17	_	_	start_char=978|end_char=989
+19	of	of	ADP	IN	_	18	_	_	start_char=990|end_char=992
+20	Progress	Progress	PROPN	NNP	Number=Sing	19	_	_	start_char=993|end_char=1001
+21	and	and	CCONJ	CC	_	20	_	_	start_char=1002|end_char=1005
+22	Yevgenyovka	Yevgenyovka	PROPN	NNP	Number=Sing	21	_	_	start_char=1006|end_char=1017
+23	in	in	ADP	IN	_	22	_	_	start_char=1018|end_char=1020
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=1021|end_char=1024
+25	Donetsk	Donetsk	PROPN	NNP	Number=Sing	24	_	_	start_char=1025|end_char=1032
+26-27	People's	_	_	_	_	_	_	_	start_char=1033|end_char=1041
+26	People	People	PROPN	NNP	Number=Sing	25	_	_	start_char=1033|end_char=1039
+27	's	's	PART	POS	_	26	_	_	start_char=1039|end_char=1041
+28	Republic	Republic	PROPN	NNP	Number=Sing	27	_	_	start_char=1042|end_char=1050|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=1050|end_char=1051|SpacesAfter=\n
+
+# text = Yevgenyovka is a settlement in the lowlands on the western edge of the Ocheretin Hills.
+# sent_id = 12
+1	Yevgenyovka	Yevgenyovka	PROPN	NNP	Number=Sing	0	_	_	start_char=1052|end_char=1063
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1064|end_char=1066
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=1067|end_char=1068
+4	settlement	settlement	NOUN	NN	Number=Sing	3	_	_	start_char=1069|end_char=1079
+5	in	in	ADP	IN	_	4	_	_	start_char=1080|end_char=1082
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1083|end_char=1086
+7	lowlands	lowland	NOUN	NNS	Number=Plur	6	_	_	start_char=1087|end_char=1095
+8	on	on	ADP	IN	_	7	_	_	start_char=1096|end_char=1098
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1099|end_char=1102
+10	western	western	ADJ	JJ	Degree=Pos	9	_	_	start_char=1103|end_char=1110
+11	edge	edge	NOUN	NN	Number=Sing	10	_	_	start_char=1111|end_char=1115
+12	of	of	ADP	IN	_	11	_	_	start_char=1116|end_char=1118
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1119|end_char=1122
+14	Ocheretin	Ocheretin	PROPN	NNP	Number=Sing	13	_	_	start_char=1123|end_char=1132
+15	Hills	Hills	PROPN	NNPS	Number=Plur	14	_	_	start_char=1133|end_char=1138|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=1138|end_char=1139
+
+# text = The settlement of Progress is located north of the aforementioned settlement, it is one of the defensive lines of the Ukrainian armed forces near the Volcha River.
+# sent_id = 13
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1140|end_char=1143
+2	settlement	settlement	NOUN	NN	Number=Sing	1	_	_	start_char=1144|end_char=1154
+3	of	of	ADP	IN	_	2	_	_	start_char=1155|end_char=1157
+4	Progress	progress	NOUN	NN	Number=Sing	3	_	_	start_char=1158|end_char=1166
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1167|end_char=1169
+6	located	locate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	_	_	start_char=1170|end_char=1177
+7	north	north	ADV	RB	_	6	_	_	start_char=1178|end_char=1183
+8	of	of	ADP	IN	_	7	_	_	start_char=1184|end_char=1186
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1187|end_char=1190
+10	aforementioned	aforementioned	ADJ	JJ	Degree=Pos	9	_	_	start_char=1191|end_char=1205
+11	settlement	settlement	NOUN	NN	Number=Sing	10	_	_	start_char=1206|end_char=1216|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=1216|end_char=1217
+13	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	_	_	start_char=1218|end_char=1220
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=1221|end_char=1223
+15	one	one	NUM	CD	NumForm=Word|NumType=Card	14	_	_	start_char=1224|end_char=1227
+16	of	of	ADP	IN	_	15	_	_	start_char=1228|end_char=1230
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=1231|end_char=1234
+18	defensive	defensive	ADJ	JJ	Degree=Pos	17	_	_	start_char=1235|end_char=1244
+19	lines	line	NOUN	NNS	Number=Plur	18	_	_	start_char=1245|end_char=1250
+20	of	of	ADP	IN	_	19	_	_	start_char=1251|end_char=1253
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=1254|end_char=1257
+22	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	21	_	_	start_char=1258|end_char=1267
+23	armed	armed	ADJ	JJ	Degree=Pos	22	_	_	start_char=1268|end_char=1273
+24	forces	force	NOUN	NNS	Number=Plur	23	_	_	start_char=1274|end_char=1280
+25	near	near	ADP	IN	_	24	_	_	start_char=1281|end_char=1285
+26	the	the	DET	DT	Definite=Def|PronType=Art	25	_	_	start_char=1286|end_char=1289
+27	Volcha	Volcha	PROPN	NNP	Number=Sing	26	_	_	start_char=1290|end_char=1296
+28	River	River	PROPN	NNP	Number=Sing	27	_	_	start_char=1297|end_char=1302|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=1302|end_char=1303|SpacesAfter=\n
+
+# text = The liberation of these villages enables the Russian army to advance towards Krasnoarmeysk, the most important transport hub of the Ukrainian army in the Donbas.
+# sent_id = 14
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1304|end_char=1307
+2	liberation	liberation	NOUN	NN	Number=Sing	1	_	_	start_char=1308|end_char=1318
+3	of	of	ADP	IN	_	2	_	_	start_char=1319|end_char=1321
+4	these	this	DET	DT	Number=Plur|PronType=Dem	3	_	_	start_char=1322|end_char=1327
+5	villages	village	NOUN	NNS	Number=Plur	4	_	_	start_char=1328|end_char=1336
+6	enables	enable	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1337|end_char=1344
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1345|end_char=1348
+8	Russian	Russian	ADJ	JJ	Degree=Pos	7	_	_	start_char=1349|end_char=1356
+9	army	army	NOUN	NN	Number=Sing	8	_	_	start_char=1357|end_char=1361
+10	to	to	PART	TO	_	9	_	_	start_char=1362|end_char=1364
+11	advance	advance	VERB	VB	VerbForm=Inf	10	_	_	start_char=1365|end_char=1372
+12	towards	towards	ADP	IN	_	11	_	_	start_char=1373|end_char=1380
+13	Krasnoarmeysk	Krasnoarmeysk	PROPN	NNP	Number=Sing	12	_	_	start_char=1381|end_char=1394|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=1394|end_char=1395
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=1396|end_char=1399
+16	most	most	ADV	RBS	Degree=Sup	15	_	_	start_char=1400|end_char=1404
+17	important	important	ADJ	JJ	Degree=Pos	16	_	_	start_char=1405|end_char=1414
+18	transport	transport	NOUN	NN	Number=Sing	17	_	_	start_char=1415|end_char=1424
+19	hub	hub	NOUN	NN	Number=Sing	18	_	_	start_char=1425|end_char=1428
+20	of	of	ADP	IN	_	19	_	_	start_char=1429|end_char=1431
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=1432|end_char=1435
+22	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	21	_	_	start_char=1436|end_char=1445
+23	army	army	NOUN	NN	Number=Sing	22	_	_	start_char=1446|end_char=1450
+24	in	in	ADP	IN	_	23	_	_	start_char=1451|end_char=1453
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=1454|end_char=1457
+26	Donbas	Donbas	PROPN	NNP	Number=Sing	25	_	_	start_char=1458|end_char=1464|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=1464|end_char=1465|SpaceAfter=No
+

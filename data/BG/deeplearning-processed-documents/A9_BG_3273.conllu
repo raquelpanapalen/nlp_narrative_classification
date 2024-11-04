@@ -1,0 +1,369 @@
+# text = Dmitry Medvedev, Vice-President of the Russian Security Council:
+# sent_id = 0
+1	Dmitry	Dmitry	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=6
+2	Medvedev	Medvedev	PROPN	NNP	Number=Sing	1	_	_	start_char=7|end_char=15|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=15|end_char=16
+4	Vice	Vice	PROPN	NNP	Number=Sing	3	_	_	start_char=17|end_char=21|SpaceAfter=No
+5	-	-	PUNCT	HYPH	_	4	_	_	start_char=21|end_char=22|SpaceAfter=No
+6	President	President	PROPN	NNP	Number=Sing	5	_	_	start_char=22|end_char=31
+7	of	of	ADP	IN	_	6	_	_	start_char=32|end_char=34
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=35|end_char=38
+9	Russian	Russian	ADJ	NNP	Degree=Pos	8	_	_	start_char=39|end_char=46
+10	Security	Security	PROPN	NNP	Number=Sing	9	_	_	start_char=47|end_char=55
+11	Council	Council	PROPN	NNP	Number=Sing	10	_	_	start_char=56|end_char=63|SpaceAfter=No
+12	:	:	PUNCT	:	_	11	_	_	start_char=63|end_char=64|SpacesAfter=\n\n
+
+# text = Deputy Chairman of the Russian Security Council Dmitry Medvedev: Yesterday, for the first time, the Russian President allowed the dispatch of our weapons to regions that are at war with countries supplying arms to b.
+# sent_id = 1
+1	Deputy	deputy	ADJ	JJ	Degree=Pos	0	_	_	start_char=66|end_char=72
+2	Chairman	Chairman	PROPN	NNP	Number=Sing	1	_	_	start_char=73|end_char=81
+3	of	of	ADP	IN	_	2	_	_	start_char=82|end_char=84
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=85|end_char=88
+5	Russian	Russian	ADJ	NNP	Degree=Pos	4	_	_	start_char=89|end_char=96
+6	Security	Security	PROPN	NNP	Number=Sing	5	_	_	start_char=97|end_char=105
+7	Council	Council	PROPN	NNP	Number=Sing	6	_	_	start_char=106|end_char=113
+8	Dmitry	Dmitry	PROPN	NNP	Number=Sing	7	_	_	start_char=114|end_char=120
+9	Medvedev	Medvedev	PROPN	NNP	Number=Sing	8	_	_	start_char=121|end_char=129|SpaceAfter=No
+10	:	:	PUNCT	:	_	9	_	_	start_char=129|end_char=130|SpacesAfter=\n
+11	Yesterday	yesterday	NOUN	NN	Number=Sing	10	_	_	start_char=131|end_char=140|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=140|end_char=141
+13	for	for	ADP	IN	_	12	_	_	start_char=142|end_char=145
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=146|end_char=149
+15	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	14	_	_	start_char=150|end_char=155
+16	time	time	NOUN	NN	Number=Sing	15	_	_	start_char=156|end_char=160|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=160|end_char=161
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=162|end_char=165
+19	Russian	Russian	ADJ	JJ	Degree=Pos	18	_	_	start_char=166|end_char=173
+20	President	President	PROPN	NNP	Number=Sing	19	_	_	start_char=174|end_char=183
+21	allowed	allow	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	_	_	start_char=184|end_char=191
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=192|end_char=195
+23	dispatch	dispatch	NOUN	NN	Number=Sing	22	_	_	start_char=196|end_char=204
+24	of	of	ADP	IN	_	23	_	_	start_char=205|end_char=207
+25	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	24	_	_	start_char=208|end_char=211
+26	weapons	weapon	NOUN	NNS	Number=Plur	25	_	_	start_char=212|end_char=219
+27	to	to	ADP	IN	_	26	_	_	start_char=220|end_char=222
+28	regions	region	NOUN	NNS	Number=Plur	27	_	_	start_char=223|end_char=230
+29	that	that	PRON	WDT	PronType=Rel	28	_	_	start_char=231|end_char=235
+30	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	29	_	_	start_char=236|end_char=239
+31	at	at	ADP	IN	_	30	_	_	start_char=240|end_char=242
+32	war	war	NOUN	NN	Number=Sing	31	_	_	start_char=243|end_char=246
+33	with	with	ADP	IN	_	32	_	_	start_char=247|end_char=251
+34	countries	country	NOUN	NNS	Number=Plur	33	_	_	start_char=252|end_char=261
+35	supplying	supply	VERB	VBG	VerbForm=Ger	34	_	_	start_char=262|end_char=271
+36	arms	arm	NOUN	NNS	Number=Plur	35	_	_	start_char=272|end_char=276
+37	to	to	ADP	IN	_	36	_	_	start_char=277|end_char=279
+38	b	benefit	NOUN	NN	Number=Sing	37	_	_	start_char=280|end_char=281|SpaceAfter=No
+39	.	.	PUNCT	.	_	38	_	_	start_char=281|end_char=282
+
+# text = "We are sending weapons to Russia, which is supplying our country with weapons that are being used against Ukraine (or rather, are using these weapons against our country).
+# sent_id = 2
+1	"	"	PUNCT	``	_	0	_	_	start_char=283|end_char=284|SpaceAfter=No
+2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	1	_	_	start_char=284|end_char=286
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=287|end_char=290
+4	sending	send	VERB	VBG	Tense=Pres|VerbForm=Part	3	_	_	start_char=291|end_char=298
+5	weapons	weapon	NOUN	NNS	Number=Plur	4	_	_	start_char=299|end_char=306
+6	to	to	ADP	IN	_	5	_	_	start_char=307|end_char=309
+7	Russia	Russia	PROPN	NNP	Number=Sing	6	_	_	start_char=310|end_char=316|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=316|end_char=317
+9	which	which	PRON	WDT	PronType=Rel	8	_	_	start_char=318|end_char=323
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=324|end_char=326
+11	supplying	supply	VERB	VBG	Tense=Pres|VerbForm=Part	10	_	_	start_char=327|end_char=336
+12	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	11	_	_	start_char=337|end_char=340
+13	country	country	NOUN	NN	Number=Sing	12	_	_	start_char=341|end_char=348
+14	with	with	ADP	IN	_	13	_	_	start_char=349|end_char=353
+15	weapons	weapon	NOUN	NNS	Number=Plur	14	_	_	start_char=354|end_char=361
+16	that	that	PRON	WDT	PronType=Rel	15	_	_	start_char=362|end_char=366
+17	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=367|end_char=370
+18	being	be	AUX	VBG	VerbForm=Ger	17	_	_	start_char=371|end_char=376
+19	used	use	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	18	_	_	start_char=377|end_char=381
+20	against	against	ADP	IN	_	19	_	_	start_char=382|end_char=389
+21	Ukraine	Ukraine	PROPN	NNP	Number=Sing	20	_	_	start_char=390|end_char=397
+22	(	(	PUNCT	-LRB-	_	21	_	_	start_char=398|end_char=399|SpaceAfter=No
+23	or	or	CCONJ	CC	_	22	_	_	start_char=399|end_char=401
+24	rather	rather	ADV	RB	_	23	_	_	start_char=402|end_char=408|SpaceAfter=No
+25	,	,	PUNCT	,	_	24	_	_	start_char=408|end_char=409
+26	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	_	_	start_char=410|end_char=413
+27	using	use	VERB	VBG	Tense=Pres|VerbForm=Part	26	_	_	start_char=414|end_char=419
+28	these	this	DET	DT	Number=Plur|PronType=Dem	27	_	_	start_char=420|end_char=425
+29	weapons	weapon	NOUN	NNS	Number=Plur	28	_	_	start_char=426|end_char=433
+30	against	against	ADP	IN	_	29	_	_	start_char=434|end_char=441
+31	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	30	_	_	start_char=442|end_char=445
+32	country	country	NOUN	NN	Number=Sing	31	_	_	start_char=446|end_char=453|SpaceAfter=No
+33	)	)	PUNCT	-RRB-	_	32	_	_	start_char=453|end_char=454|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=454|end_char=455
+
+# text = In other words, those forces that are in conflict with America and NATO countries.
+# sent_id = 3
+1	In	in	ADP	IN	_	0	_	_	start_char=456|end_char=458
+2	other	other	ADJ	JJ	Degree=Pos	1	_	_	start_char=459|end_char=464
+3	words	word	NOUN	NNS	Number=Plur	2	_	_	start_char=465|end_char=470|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=470|end_char=471
+5	those	that	DET	DT	Number=Plur|PronType=Dem	4	_	_	start_char=472|end_char=477
+6	forces	force	NOUN	NNS	Number=Plur	5	_	_	start_char=478|end_char=484
+7	that	that	PRON	WDT	PronType=Rel	6	_	_	start_char=485|end_char=489
+8	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=490|end_char=493
+9	in	in	ADP	IN	_	8	_	_	start_char=494|end_char=496
+10	conflict	conflict	NOUN	NN	Number=Sing	9	_	_	start_char=497|end_char=505
+11	with	with	ADP	IN	_	10	_	_	start_char=506|end_char=510
+12	America	America	PROPN	NNP	Number=Sing	11	_	_	start_char=511|end_char=518
+13	and	and	CCONJ	CC	_	12	_	_	start_char=519|end_char=522
+14	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	13	_	_	start_char=523|end_char=527
+15	countries	country	NOUN	NNS	Number=Plur	14	_	_	start_char=528|end_char=537|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=537|end_char=538|SpacesAfter=\n
+
+# text = This is a very significant change in our foreign policy.
+# sent_id = 4
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=539|end_char=543
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=544|end_char=546
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=547|end_char=548
+4	very	very	ADV	RB	_	3	_	_	start_char=549|end_char=553
+5	significant	significant	ADJ	JJ	Degree=Pos	4	_	_	start_char=554|end_char=565
+6	change	change	NOUN	NN	Number=Sing	5	_	_	start_char=566|end_char=572
+7	in	in	ADP	IN	_	6	_	_	start_char=573|end_char=575
+8	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	7	_	_	start_char=576|end_char=579
+9	foreign	foreign	ADJ	JJ	Degree=Pos	8	_	_	start_char=580|end_char=587
+10	policy	policy	NOUN	NN	Number=Sing	9	_	_	start_char=588|end_char=594|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=594|end_char=595
+
+# text = After all, how the yanks and their European lapdogs reason: we have the right to hand over any weapons to b.
+# sent_id = 5
+1	After	after	ADP	IN	_	0	_	_	start_char=596|end_char=601
+2	all	all	DET	DT	_	1	_	_	start_char=602|end_char=605|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=605|end_char=606
+4	how	how	ADV	WRB	PronType=Int	3	_	_	start_char=607|end_char=610
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=611|end_char=614
+6	yanks	yank	NOUN	NNS	Number=Plur	5	_	_	start_char=615|end_char=620
+7	and	and	CCONJ	CC	_	6	_	_	start_char=621|end_char=624
+8	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	7	_	_	start_char=625|end_char=630
+9	European	European	ADJ	JJ	Degree=Pos	8	_	_	start_char=631|end_char=639
+10	lapdogs	lapdog	NOUN	NNS	Number=Plur	9	_	_	start_char=640|end_char=647
+11	reason	reason	NOUN	NN	Number=Sing	10	_	_	start_char=648|end_char=654|SpaceAfter=No
+12	:	:	PUNCT	:	_	11	_	_	start_char=654|end_char=655
+13	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	12	_	_	start_char=656|end_char=658
+14	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	13	_	_	start_char=659|end_char=663
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=664|end_char=667
+16	right	right	NOUN	NN	Number=Sing	15	_	_	start_char=668|end_char=673
+17	to	to	PART	TO	_	16	_	_	start_char=674|end_char=676
+18	hand	hand	VERB	VB	VerbForm=Inf	17	_	_	start_char=677|end_char=681
+19	over	over	ADP	RP	_	18	_	_	start_char=682|end_char=686
+20	any	any	DET	DT	_	19	_	_	start_char=687|end_char=690
+21	weapons	weapon	NOUN	NNS	Number=Plur	20	_	_	start_char=691|end_char=698
+22	to	to	ADP	IN	_	21	_	_	start_char=699|end_char=701
+23	b.	bear	NOUN	NN	Number=Sing	22	_	_	start_char=702|end_char=704
+
+# text = Ukraine (i.e. to the enemy of our country), and all other countries cannot help Russia.
+# sent_id = 6
+1	Ukraine	Ukraine	PROPN	NNP	Number=Sing	0	_	_	start_char=705|end_char=712
+2	(	(	PUNCT	-LRB-	_	1	_	_	start_char=713|end_char=714|SpaceAfter=No
+3	i.e.	i.e.	ADV	FW	Abbr=Yes	2	_	_	start_char=714|end_char=718
+4	to	to	ADP	IN	_	3	_	_	start_char=719|end_char=721
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=722|end_char=725
+6	enemy	enemy	NOUN	NN	Number=Sing	5	_	_	start_char=726|end_char=731
+7	of	of	ADP	IN	_	6	_	_	start_char=732|end_char=734
+8	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	7	_	_	start_char=735|end_char=738
+9	country	country	NOUN	NN	Number=Sing	8	_	_	start_char=739|end_char=746|SpaceAfter=No
+10	)	)	PUNCT	-RRB-	_	9	_	_	start_char=746|end_char=747|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=747|end_char=748
+12	and	and	CCONJ	CC	_	11	_	_	start_char=749|end_char=752
+13	all	all	DET	DT	_	12	_	_	start_char=753|end_char=756
+14	other	other	ADJ	JJ	Degree=Pos	13	_	_	start_char=757|end_char=762
+15	countries	country	NOUN	NNS	Number=Plur	14	_	_	start_char=763|end_char=772
+16-17	cannot	_	_	_	_	_	_	_	start_char=773|end_char=779
+16	can	can	AUX	MD	VerbForm=Fin	15	_	_	start_char=773|end_char=776
+17	not	not	PART	RB	_	16	_	_	start_char=776|end_char=779
+18	help	help	VERB	VB	VerbForm=Inf	17	_	_	start_char=780|end_char=784
+19	Russia	Russia	PROPN	NNP	Number=Sing	18	_	_	start_char=785|end_char=791|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=791|end_char=792
+
+# text = In other words, we will destroy you in all possible ways, but nobody dares to supply you with weapons/equipment/other assets to defend the country.
+# sent_id = 7
+1	In	in	ADP	IN	_	0	_	_	start_char=793|end_char=795
+2	other	other	ADJ	JJ	Degree=Pos	1	_	_	start_char=796|end_char=801
+3	words	word	NOUN	NNS	Number=Plur	2	_	_	start_char=802|end_char=807|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=807|end_char=808
+5	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	_	_	start_char=809|end_char=811
+6	will	will	AUX	MD	VerbForm=Fin	5	_	_	start_char=812|end_char=816
+7	destroy	destroy	VERB	VB	VerbForm=Inf	6	_	_	start_char=817|end_char=824
+8	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	7	_	_	start_char=825|end_char=828
+9	in	in	ADP	IN	_	8	_	_	start_char=829|end_char=831
+10	all	all	DET	DT	_	9	_	_	start_char=832|end_char=835
+11	possible	possible	ADJ	JJ	Degree=Pos	10	_	_	start_char=836|end_char=844
+12	ways	way	NOUN	NNS	Number=Plur	11	_	_	start_char=845|end_char=849|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=849|end_char=850
+14	but	but	CCONJ	CC	_	13	_	_	start_char=851|end_char=854
+15	nobody	nobody	PRON	NN	Number=Sing|PronType=Neg	14	_	_	start_char=855|end_char=861
+16	dares	dare	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=862|end_char=867
+17	to	to	PART	TO	_	16	_	_	start_char=868|end_char=870
+18	supply	supply	VERB	VB	VerbForm=Inf	17	_	_	start_char=871|end_char=877
+19	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	18	_	_	start_char=878|end_char=881
+20	with	with	ADP	IN	_	19	_	_	start_char=882|end_char=886
+21	weapons	weapon	NOUN	NNS	Number=Plur	20	_	_	start_char=887|end_char=894|SpaceAfter=No
+22	/	/	SYM	,	_	21	_	_	start_char=894|end_char=895|SpaceAfter=No
+23	equipment	equipment	NOUN	NN	Number=Sing	22	_	_	start_char=895|end_char=904|SpaceAfter=No
+24	/	/	SYM	,	_	23	_	_	start_char=904|end_char=905|SpaceAfter=No
+25	other	other	ADJ	JJ	Degree=Pos	24	_	_	start_char=905|end_char=910
+26	assets	asset	NOUN	NNS	Number=Plur	25	_	_	start_char=911|end_char=917
+27	to	to	PART	TO	_	26	_	_	start_char=918|end_char=920
+28	defend	defend	VERB	VB	VerbForm=Inf	27	_	_	start_char=921|end_char=927
+29	the	the	DET	DT	Definite=Def|PronType=Art	28	_	_	start_char=928|end_char=931
+30	country	country	NOUN	NN	Number=Sing	29	_	_	start_char=932|end_char=939|SpaceAfter=No
+31	.	.	PUNCT	.	_	30	_	_	start_char=939|end_char=940|SpacesAfter=\n
+
+# text = Now let the US and its allies feel the direct use of Russian weapons by third countries.
+# sent_id = 8
+1	Now	now	ADV	RB	_	0	_	_	start_char=941|end_char=944
+2	let	let	VERB	VB	Mood=Imp|VerbForm=Fin	1	_	_	start_char=945|end_char=948
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=949|end_char=952
+4	US	US	PROPN	NNP	Number=Sing	3	_	_	start_char=953|end_char=955
+5	and	and	CCONJ	CC	_	4	_	_	start_char=956|end_char=959
+6	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	_	_	start_char=960|end_char=963
+7	allies	ally	NOUN	NNS	Number=Plur	6	_	_	start_char=964|end_char=970
+8	feel	feel	VERB	VB	VerbForm=Inf	7	_	_	start_char=971|end_char=975
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=976|end_char=979
+10	direct	direct	ADJ	JJ	Degree=Pos	9	_	_	start_char=980|end_char=986
+11	use	use	NOUN	NN	Number=Sing	10	_	_	start_char=987|end_char=990
+12	of	of	ADP	IN	_	11	_	_	start_char=991|end_char=993
+13	Russian	Russian	ADJ	JJ	Degree=Pos	12	_	_	start_char=994|end_char=1001
+14	weapons	weapon	NOUN	NNS	Number=Plur	13	_	_	start_char=1002|end_char=1009
+15	by	by	ADP	IN	_	14	_	_	start_char=1010|end_char=1012
+16	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	15	_	_	start_char=1013|end_char=1018
+17	countries	country	NOUN	NNS	Number=Plur	16	_	_	start_char=1019|end_char=1028|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=1028|end_char=1029
+
+# text = These persons and regions are deliberately not named, but they could be anyone who considers the US and its comrades as their enemies.
+# sent_id = 9
+1	These	this	DET	DT	Number=Plur|PronType=Dem	0	_	_	start_char=1030|end_char=1035
+2	persons	person	NOUN	NNS	Number=Plur	1	_	_	start_char=1036|end_char=1043
+3	and	and	CCONJ	CC	_	2	_	_	start_char=1044|end_char=1047
+4	regions	region	NOUN	NNS	Number=Plur	3	_	_	start_char=1048|end_char=1055
+5	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1056|end_char=1059
+6	deliberately	deliberately	ADV	RB	_	5	_	_	start_char=1060|end_char=1072
+7	not	not	PART	RB	_	6	_	_	start_char=1073|end_char=1076
+8	named	name	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	_	_	start_char=1077|end_char=1082|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1082|end_char=1083
+10	but	but	CCONJ	CC	_	9	_	_	start_char=1084|end_char=1087
+11	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	_	_	start_char=1088|end_char=1092
+12	could	could	AUX	MD	VerbForm=Fin	11	_	_	start_char=1093|end_char=1098
+13	be	be	AUX	VB	VerbForm=Inf	12	_	_	start_char=1099|end_char=1101
+14	anyone	anyone	PRON	NN	Number=Sing|PronType=Ind	13	_	_	start_char=1102|end_char=1108
+15	who	who	PRON	WP	PronType=Rel	14	_	_	start_char=1109|end_char=1112
+16	considers	consider	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=1113|end_char=1122
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=1123|end_char=1126
+18	US	US	PROPN	NNP	Number=Sing	17	_	_	start_char=1127|end_char=1129
+19	and	and	CCONJ	CC	_	18	_	_	start_char=1130|end_char=1133
+20	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	_	_	start_char=1134|end_char=1137
+21	comrades	comrade	NOUN	NNS	Number=Plur	20	_	_	start_char=1138|end_char=1146
+22	as	as	ADP	IN	_	21	_	_	start_char=1147|end_char=1149
+23	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	22	_	_	start_char=1150|end_char=1155
+24	enemies	enemy	NOUN	NNS	Number=Plur	23	_	_	start_char=1156|end_char=1163|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=1163|end_char=1164
+
+# text = Regardless of their political beliefs and international recognition.
+# sent_id = 10
+1	Regardless	regardless	ADV	RB	_	0	_	_	start_char=1165|end_char=1175
+2	of	of	ADP	IN	_	1	_	_	start_char=1176|end_char=1178
+3	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	2	_	_	start_char=1179|end_char=1184
+4	political	political	ADJ	JJ	Degree=Pos	3	_	_	start_char=1185|end_char=1194
+5	beliefs	belief	NOUN	NNS	Number=Plur	4	_	_	start_char=1195|end_char=1202
+6	and	and	CCONJ	CC	_	5	_	_	start_char=1203|end_char=1206
+7	international	international	ADJ	JJ	Degree=Pos	6	_	_	start_char=1207|end_char=1220
+8	recognition	recognition	NOUN	NN	Number=Sing	7	_	_	start_char=1221|end_char=1232|SpaceAfter=No
+9	.	.	PUNCT	.	_	8	_	_	start_char=1232|end_char=1233|SpacesAfter=\n
+
+# text = Their enemy is the US, which means they are our friends.
+# sent_id = 11
+1	Their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	0	_	_	start_char=1234|end_char=1239
+2	enemy	enemy	NOUN	NN	Number=Sing	1	_	_	start_char=1240|end_char=1245
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1246|end_char=1248
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1249|end_char=1252
+5	US	US	PROPN	NNP	Number=Sing	4	_	_	start_char=1253|end_char=1255|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=1255|end_char=1256
+7	which	which	PRON	WDT	PronType=Rel	6	_	_	start_char=1257|end_char=1262
+8	means	mean	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=1263|end_char=1268
+9	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	_	_	start_char=1269|end_char=1273
+10	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=1274|end_char=1277
+11	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	10	_	_	start_char=1278|end_char=1281
+12	friends	friend	NOUN	NNS	Number=Plur	11	_	_	start_char=1282|end_char=1289|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=1289|end_char=1290|SpacesAfter=\n
+
+# text = And let the use of Russian weaponry by the so far unnamed "regions" be as destructive as possible to them and our adversaries.
+# sent_id = 12
+1	And	and	CCONJ	CC	_	0	_	_	start_char=1291|end_char=1294
+2	let	let	VERB	VB	Mood=Imp|VerbForm=Fin	1	_	_	start_char=1295|end_char=1298
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1299|end_char=1302
+4	use	use	NOUN	NN	Number=Sing	3	_	_	start_char=1303|end_char=1306
+5	of	of	ADP	IN	_	4	_	_	start_char=1307|end_char=1309
+6	Russian	Russian	ADJ	JJ	Degree=Pos	5	_	_	start_char=1310|end_char=1317
+7	weaponry	weaponry	NOUN	NN	Number=Sing	6	_	_	start_char=1318|end_char=1326
+8	by	by	ADP	IN	_	7	_	_	start_char=1327|end_char=1329
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1330|end_char=1333
+10	so	so	ADV	RB	_	9	_	_	start_char=1334|end_char=1336
+11	far	far	ADV	RB	Degree=Pos	10	_	_	start_char=1337|end_char=1340
+12	unnamed	unnamed	ADJ	JJ	Degree=Pos	11	_	_	start_char=1341|end_char=1348
+13	"	"	PUNCT	``	_	12	_	_	start_char=1349|end_char=1350|SpaceAfter=No
+14	regions	region	NOUN	NNS	Number=Plur	13	_	_	start_char=1350|end_char=1357|SpaceAfter=No
+15	"	"	PUNCT	''	_	14	_	_	start_char=1357|end_char=1358
+16	be	be	AUX	VB	VerbForm=Inf	15	_	_	start_char=1359|end_char=1361
+17	as	as	ADV	RB	_	16	_	_	start_char=1362|end_char=1364
+18	destructive	destructive	ADJ	JJ	Degree=Pos	17	_	_	start_char=1365|end_char=1376
+19	as	as	SCONJ	IN	_	18	_	_	start_char=1377|end_char=1379
+20	possible	possible	ADJ	JJ	Degree=Pos	19	_	_	start_char=1380|end_char=1388
+21	to	to	ADP	IN	_	20	_	_	start_char=1389|end_char=1391
+22	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	21	_	_	start_char=1392|end_char=1396
+23	and	and	CCONJ	CC	_	22	_	_	start_char=1397|end_char=1400
+24	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	23	_	_	start_char=1401|end_char=1404
+25	adversaries	adversary	NOUN	NNS	Number=Plur	24	_	_	start_char=1405|end_char=1416|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=1416|end_char=1417
+
+# text = And let the "sensitive sites of countries supplying arms to Kiev" burn in the infernal flames.
+# sent_id = 13
+1	And	and	CCONJ	CC	_	0	_	_	start_char=1418|end_char=1421
+2	let	let	VERB	VB	Mood=Imp|VerbForm=Fin	1	_	_	start_char=1422|end_char=1425
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1426|end_char=1429
+4	"	"	PUNCT	``	_	3	_	_	start_char=1430|end_char=1431|SpaceAfter=No
+5	sensitive	sensitive	ADJ	JJ	Degree=Pos	4	_	_	start_char=1431|end_char=1440
+6	sites	site	NOUN	NNS	Number=Plur	5	_	_	start_char=1441|end_char=1446
+7	of	of	ADP	IN	_	6	_	_	start_char=1447|end_char=1449
+8	countries	country	NOUN	NNS	Number=Plur	7	_	_	start_char=1450|end_char=1459
+9	supplying	supply	VERB	VBG	VerbForm=Ger	8	_	_	start_char=1460|end_char=1469
+10	arms	arm	NOUN	NNS	Number=Plur	9	_	_	start_char=1470|end_char=1474
+11	to	to	ADP	IN	_	10	_	_	start_char=1475|end_char=1477
+12	Kiev	Kiev	PROPN	NNP	Number=Sing	11	_	_	start_char=1478|end_char=1482|SpaceAfter=No
+13	"	"	PUNCT	''	_	12	_	_	start_char=1482|end_char=1483
+14	burn	burn	VERB	VB	VerbForm=Inf	13	_	_	start_char=1484|end_char=1488
+15	in	in	ADP	IN	_	14	_	_	start_char=1489|end_char=1491
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=1492|end_char=1495
+17	infernal	infernal	ADJ	JJ	Degree=Pos	16	_	_	start_char=1496|end_char=1504
+18	flames	flame	NOUN	NNS	Number=Plur	17	_	_	start_char=1505|end_char=1511|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=1511|end_char=1512
+
+# text = Burn along with those who run them.
+# sent_id = 14
+1	Burn	burn	VERB	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=1513|end_char=1517
+2	along	along	ADP	IN	_	1	_	_	start_char=1518|end_char=1523
+3	with	with	ADP	IN	_	2	_	_	start_char=1524|end_char=1528
+4	those	that	PRON	DT	Number=Plur|PronType=Dem	3	_	_	start_char=1529|end_char=1534
+5	who	who	PRON	WP	PronType=Rel	4	_	_	start_char=1535|end_char=1538
+6	run	run	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1539|end_char=1542
+7	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	6	_	_	start_char=1543|end_char=1547|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	_	_	start_char=1547|end_char=1548|SpacesAfter=\n
+
+# text = And we will rejoice in the successful strikes with our weapons on our common enemies!
+# sent_id = 15
+1	And	and	CCONJ	CC	_	0	_	_	start_char=1549|end_char=1552
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	1	_	_	start_char=1553|end_char=1555
+3	will	will	AUX	MD	VerbForm=Fin	2	_	_	start_char=1556|end_char=1560
+4	rejoice	rejoice	VERB	VB	VerbForm=Inf	3	_	_	start_char=1561|end_char=1568
+5	in	in	ADP	IN	_	4	_	_	start_char=1569|end_char=1571
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1572|end_char=1575
+7	successful	successful	ADJ	JJ	Degree=Pos	6	_	_	start_char=1576|end_char=1586
+8	strikes	strike	NOUN	NNS	Number=Plur	7	_	_	start_char=1587|end_char=1594
+9	with	with	ADP	IN	_	8	_	_	start_char=1595|end_char=1599
+10	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	9	_	_	start_char=1600|end_char=1603
+11	weapons	weapon	NOUN	NNS	Number=Plur	10	_	_	start_char=1604|end_char=1611
+12	on	on	ADP	IN	_	11	_	_	start_char=1612|end_char=1614
+13	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	12	_	_	start_char=1615|end_char=1618
+14	common	common	ADJ	JJ	Degree=Pos	13	_	_	start_char=1619|end_char=1625
+15	enemies	enemy	NOUN	NNS	Number=Plur	14	_	_	start_char=1626|end_char=1633|SpaceAfter=No
+16	!	!	PUNCT	.	_	15	_	_	start_char=1633|end_char=1634|SpaceAfter=No
+

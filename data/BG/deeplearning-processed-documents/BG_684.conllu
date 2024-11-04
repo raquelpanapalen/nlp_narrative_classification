@@ -1,0 +1,563 @@
+# text = Shall we strike back?!
+# sent_id = 0
+1	Shall	shall	AUX	MD	VerbForm=Fin	0	_	_	start_char=0|end_char=5
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	1	_	_	start_char=6|end_char=8
+3	strike	strike	VERB	VB	VerbForm=Inf	2	_	_	start_char=9|end_char=15
+4	back	back	ADV	RB	_	3	_	_	start_char=16|end_char=20|SpaceAfter=No
+5	?!	?!	PUNCT	.	_	4	_	_	start_char=20|end_char=22
+
+# text = Necessarily, but not now and not quite hit
+# sent_id = 1
+1	Necessarily	necessarily	ADV	RB	_	0	_	_	start_char=23|end_char=34|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=34|end_char=35
+3	but	but	CCONJ	CC	_	2	_	_	start_char=36|end_char=39
+4	not	not	PART	RB	_	3	_	_	start_char=40|end_char=43
+5	now	now	ADV	RB	_	4	_	_	start_char=44|end_char=47
+6	and	and	CCONJ	CC	_	5	_	_	start_char=48|end_char=51
+7	not	not	PART	RB	_	6	_	_	start_char=52|end_char=55
+8	quite	quite	ADV	RB	_	7	_	_	start_char=56|end_char=61
+9	hit	hit	VERB	VBN	Tense=Past|VerbForm=Part	8	_	_	start_char=62|end_char=65|SpacesAfter=\n\n
+
+# text = Provocation is a weapon of the weak (because there is no possibility to win in the already set frame of the conflict).
+# sent_id = 2
+1	Provocation	provocation	NOUN	NN	Number=Sing	0	_	_	start_char=67|end_char=78
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=79|end_char=81
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=82|end_char=83
+4	weapon	weapon	NOUN	NN	Number=Sing	3	_	_	start_char=84|end_char=90
+5	of	of	ADP	IN	_	4	_	_	start_char=91|end_char=93
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=94|end_char=97
+7	weak	weak	ADJ	JJ	Degree=Pos	6	_	_	start_char=98|end_char=102
+8	(	(	PUNCT	-LRB-	_	7	_	_	start_char=103|end_char=104|SpaceAfter=No
+9	because	because	SCONJ	IN	_	8	_	_	start_char=104|end_char=111
+10	there	there	PRON	EX	_	9	_	_	start_char=112|end_char=117
+11	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=118|end_char=120
+12	no	no	DET	DT	_	11	_	_	start_char=121|end_char=123
+13	possibility	possibility	NOUN	NN	Number=Sing	12	_	_	start_char=124|end_char=135
+14	to	to	PART	TO	_	13	_	_	start_char=136|end_char=138
+15	win	win	VERB	VB	VerbForm=Inf	14	_	_	start_char=139|end_char=142
+16	in	in	ADP	IN	_	15	_	_	start_char=143|end_char=145
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=146|end_char=149
+18	already	already	ADV	RB	_	17	_	_	start_char=150|end_char=157
+19	set	set	ADJ	JJ	Degree=Pos	18	_	_	start_char=158|end_char=161
+20	frame	frame	NOUN	NN	Number=Sing	19	_	_	start_char=162|end_char=167
+21	of	of	ADP	IN	_	20	_	_	start_char=168|end_char=170
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=171|end_char=174
+23	conflict	conflict	NOUN	NN	Number=Sing	22	_	_	start_char=175|end_char=183|SpaceAfter=No
+24	)	)	PUNCT	-RRB-	_	23	_	_	start_char=183|end_char=184|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=184|end_char=185|SpacesAfter=\n
+
+# text = The key to responding to it is not to give the opponent what he wants.
+# sent_id = 3
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=186|end_char=189
+2	key	key	NOUN	NN	Number=Sing	1	_	_	start_char=190|end_char=193
+3	to	to	SCONJ	IN	_	2	_	_	start_char=194|end_char=196
+4	responding	respond	VERB	VBG	VerbForm=Ger	3	_	_	start_char=197|end_char=207
+5	to	to	ADP	IN	_	4	_	_	start_char=208|end_char=210
+6	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	_	_	start_char=211|end_char=213
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=214|end_char=216
+8	not	not	PART	RB	_	7	_	_	start_char=217|end_char=220
+9	to	to	PART	TO	_	8	_	_	start_char=221|end_char=223
+10	give	give	VERB	VB	VerbForm=Inf	9	_	_	start_char=224|end_char=228
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=229|end_char=232
+12	opponent	opponent	NOUN	NN	Number=Sing	11	_	_	start_char=233|end_char=241
+13	what	what	PRON	WP	PronType=Rel	12	_	_	start_char=242|end_char=246
+14	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	_	_	start_char=247|end_char=249
+15	wants	want	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=250|end_char=255|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=255|end_char=256|SpacesAfter=\n
+
+# text = Ideally - don't respond at all.
+# sent_id = 4
+1	Ideally	ideally	ADV	RB	_	0	_	_	start_char=257|end_char=264
+2	-	-	PUNCT	,	_	1	_	_	start_char=265|end_char=266
+3-4	don't	_	_	_	_	_	_	_	start_char=267|end_char=272
+3	do	do	AUX	VB	Mood=Imp|VerbForm=Fin	2	_	_	start_char=267|end_char=269
+4	n't	not	PART	RB	_	3	_	_	start_char=269|end_char=272
+5	respond	respond	VERB	VB	Mood=Imp|VerbForm=Fin	4	_	_	start_char=273|end_char=280
+6	at	at	ADP	IN	_	5	_	_	start_char=281|end_char=283
+7	all	all	DET	DT	_	6	_	_	start_char=284|end_char=287|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	_	_	start_char=287|end_char=288|SpacesAfter=\n
+
+# text = But!
+# sent_id = 5
+1	But	but	CCONJ	CC	_	0	_	_	start_char=289|end_char=292|SpaceAfter=No
+2	!	!	PUNCT	.	_	1	_	_	start_char=292|end_char=293
+
+# text = This is reasonable only on a tactical level: we will have to respond to a series of constantly intensifying provocations (if the enemy needs our reaction, sooner or later he will get it) ‼️
+# sent_id = 6
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=294|end_char=298
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=299|end_char=301
+3	reasonable	reasonable	ADJ	JJ	Degree=Pos	2	_	_	start_char=302|end_char=312
+4	only	only	ADV	RB	_	3	_	_	start_char=313|end_char=317
+5	on	on	ADP	IN	_	4	_	_	start_char=318|end_char=320
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=321|end_char=322
+7	tactical	tactical	ADJ	JJ	Degree=Pos	6	_	_	start_char=323|end_char=331
+8	level	level	NOUN	NN	Number=Sing	7	_	_	start_char=332|end_char=337|SpaceAfter=No
+9	:	:	PUNCT	:	_	8	_	_	start_char=337|end_char=338
+10	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	_	_	start_char=339|end_char=341
+11	will	will	AUX	MD	VerbForm=Fin	10	_	_	start_char=342|end_char=346
+12	have	have	VERB	VB	VerbForm=Inf	11	_	_	start_char=347|end_char=351
+13	to	to	PART	TO	_	12	_	_	start_char=352|end_char=354
+14	respond	respond	VERB	VB	VerbForm=Inf	13	_	_	start_char=355|end_char=362
+15	to	to	ADP	IN	_	14	_	_	start_char=363|end_char=365
+16	a	a	DET	DT	Definite=Ind|PronType=Art	15	_	_	start_char=366|end_char=367
+17	series	series	NOUN	NN	Number=Sing	16	_	_	start_char=368|end_char=374
+18	of	of	ADP	IN	_	17	_	_	start_char=375|end_char=377
+19	constantly	constantly	ADV	RB	_	18	_	_	start_char=378|end_char=388
+20	intensifying	intensify	VERB	VBG	VerbForm=Ger	19	_	_	start_char=389|end_char=401
+21	provocations	provocation	NOUN	NNS	Number=Plur	20	_	_	start_char=402|end_char=414
+22	(	(	PUNCT	-LRB-	_	21	_	_	start_char=415|end_char=416|SpaceAfter=No
+23	if	if	SCONJ	IN	_	22	_	_	start_char=416|end_char=418
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=419|end_char=422
+25	enemy	enemy	NOUN	NN	Number=Sing	24	_	_	start_char=423|end_char=428
+26	needs	need	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	_	_	start_char=429|end_char=434
+27	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	26	_	_	start_char=435|end_char=438
+28	reaction	reaction	NOUN	NN	Number=Sing	27	_	_	start_char=439|end_char=447|SpaceAfter=No
+29	,	,	PUNCT	,	_	28	_	_	start_char=447|end_char=448
+30	sooner	soon	ADV	RBR	Degree=Cmp	29	_	_	start_char=449|end_char=455
+31	or	or	CCONJ	CC	_	30	_	_	start_char=456|end_char=458
+32	later	late	ADV	RBR	Degree=Cmp	31	_	_	start_char=459|end_char=464
+33	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	32	_	_	start_char=465|end_char=467
+34	will	will	AUX	MD	VerbForm=Fin	33	_	_	start_char=468|end_char=472
+35	get	get	VERB	VB	VerbForm=Inf	34	_	_	start_char=473|end_char=476
+36	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	35	_	_	start_char=477|end_char=479|SpaceAfter=No
+37	)	)	PUNCT	-RRB-	_	36	_	_	start_char=479|end_char=480|SpacesAfter=\n
+38	‼️	‼️	PUNCT	.	_	37	_	_	start_char=481|end_char=483
+
+# text = The way out of the dilemma is simple: don't ignore the provocations, but respond as and when the enemy doesn't expect it...
+# sent_id = 7
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=484|end_char=487
+2	way	way	NOUN	NN	Number=Sing	1	_	_	start_char=488|end_char=491
+3	out	out	ADP	IN	_	2	_	_	start_char=492|end_char=495
+4	of	of	ADP	IN	_	3	_	_	start_char=496|end_char=498
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=499|end_char=502
+6	dilemma	dilemma	NOUN	NN	Number=Sing	5	_	_	start_char=503|end_char=510
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=511|end_char=513
+8	simple	simple	ADJ	JJ	Degree=Pos	7	_	_	start_char=514|end_char=520|SpaceAfter=No
+9	:	:	PUNCT	:	_	8	_	_	start_char=520|end_char=521
+10-11	don't	_	_	_	_	_	_	_	start_char=522|end_char=527
+10	do	do	AUX	VB	Mood=Imp|VerbForm=Fin	9	_	_	start_char=522|end_char=524
+11	n't	not	PART	RB	_	10	_	_	start_char=524|end_char=527
+12	ignore	ignore	VERB	VB	Mood=Imp|VerbForm=Fin	11	_	_	start_char=528|end_char=534
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=535|end_char=538
+14	provocations	provocation	NOUN	NNS	Number=Plur	13	_	_	start_char=539|end_char=551|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=551|end_char=552
+16	but	but	CCONJ	CC	_	15	_	_	start_char=553|end_char=556
+17	respond	respond	VERB	VB	Mood=Imp|VerbForm=Fin	16	_	_	start_char=557|end_char=564
+18	as	as	SCONJ	IN	_	17	_	_	start_char=565|end_char=567
+19	and	and	CCONJ	CC	_	18	_	_	start_char=568|end_char=571
+20	when	when	ADV	WRB	PronType=Int	19	_	_	start_char=572|end_char=576
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=577|end_char=580
+22	enemy	enemy	NOUN	NN	Number=Sing	21	_	_	start_char=581|end_char=586
+23-24	doesn't	_	_	_	_	_	_	_	start_char=587|end_char=594
+23	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	_	_	start_char=587|end_char=591
+24	n't	not	PART	RB	_	23	_	_	start_char=591|end_char=594
+25	expect	expect	VERB	VB	VerbForm=Inf	24	_	_	start_char=595|end_char=601
+26	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	25	_	_	start_char=602|end_char=604|SpaceAfter=No
+27	...	...	PUNCT	.	_	26	_	_	start_char=604|end_char=607
+
+# text = Not clear?
+# sent_id = 8
+1	Not	not	PART	RB	_	0	_	_	start_char=608|end_char=611
+2	clear	clear	ADJ	JJ	Degree=Pos	1	_	_	start_char=612|end_char=617|SpaceAfter=No
+3	?	?	PUNCT	.	_	2	_	_	start_char=617|end_char=618|SpacesAfter=\n
+
+# text = Let's look at an example 2008, Georgia Saakashvili, by shelling South Ossetia, expected Moscow's firm reaction.
+# sent_id = 9
+1-2	Let's	_	_	_	_	_	_	_	start_char=619|end_char=624
+1	Let	let	VERB	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=619|end_char=622
+2	's	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	1	_	_	start_char=622|end_char=624
+3	look	look	VERB	VB	VerbForm=Inf	2	_	_	start_char=625|end_char=629
+4	at	at	ADP	IN	_	3	_	_	start_char=630|end_char=632
+5	an	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=633|end_char=635
+6	example	example	NOUN	NN	Number=Sing	5	_	_	start_char=636|end_char=643|SpacesAfter=\n
+7	2008	2008	NUM	CD	NumForm=Digit|NumType=Card	6	_	_	start_char=644|end_char=648|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=648|end_char=649
+9	Georgia	Georgia	PROPN	NNP	Number=Sing	8	_	_	start_char=650|end_char=657|SpacesAfter=\n
+10	Saakashvili	Saakashvili	PROPN	NNP	Number=Sing	9	_	_	start_char=658|end_char=669|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=669|end_char=670
+12	by	by	SCONJ	IN	_	11	_	_	start_char=671|end_char=673
+13	shelling	shell	VERB	VBG	VerbForm=Ger	12	_	_	start_char=674|end_char=682
+14	South	South	PROPN	NNP	Number=Sing	13	_	_	start_char=683|end_char=688
+15	Ossetia	Ossetia	PROPN	NNP	Number=Sing	14	_	_	start_char=689|end_char=696|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=696|end_char=697
+17	expected	expect	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	_	_	start_char=698|end_char=706
+18-19	Moscow's	_	_	_	_	_	_	_	start_char=707|end_char=715
+18	Moscow	Moscow	PROPN	NNP	Number=Sing	17	_	_	start_char=707|end_char=713
+19	's	's	PART	POS	_	18	_	_	start_char=713|end_char=715
+20	firm	firm	ADJ	JJ	Degree=Pos	19	_	_	start_char=716|end_char=720
+21	reaction	reaction	NOUN	NN	Number=Sing	20	_	_	start_char=721|end_char=729|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=729|end_char=730
+
+# text = International hysteria, condemnation of Russia, buns for Georgia (and excellent chances for Mishiko to be re-elected in 2012) would follow in response.
+# sent_id = 10
+1	International	International	ADJ	JJ	Degree=Pos	0	_	_	start_char=731|end_char=744
+2	hysteria	hysteria	NOUN	NN	Number=Sing	1	_	_	start_char=745|end_char=753|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=753|end_char=754
+4	condemnation	condemnation	NOUN	NN	Number=Sing	3	_	_	start_char=755|end_char=767
+5	of	of	ADP	IN	_	4	_	_	start_char=768|end_char=770
+6	Russia	Russia	PROPN	NNP	Number=Sing	5	_	_	start_char=771|end_char=777|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=777|end_char=778
+8	buns	bun	NOUN	NNS	Number=Plur	7	_	_	start_char=779|end_char=783
+9	for	for	ADP	IN	_	8	_	_	start_char=784|end_char=787
+10	Georgia	Georgia	PROPN	NNP	Number=Sing	9	_	_	start_char=788|end_char=795
+11	(	(	PUNCT	-LRB-	_	10	_	_	start_char=796|end_char=797|SpaceAfter=No
+12	and	and	CCONJ	CC	_	11	_	_	start_char=797|end_char=800
+13	excellent	excellent	ADJ	JJ	Degree=Pos	12	_	_	start_char=801|end_char=810
+14	chances	chance	NOUN	NNS	Number=Plur	13	_	_	start_char=811|end_char=818
+15	for	for	ADP	IN	_	14	_	_	start_char=819|end_char=822
+16	Mishiko	Mishiko	PROPN	NNP	Number=Sing	15	_	_	start_char=823|end_char=830
+17	to	to	PART	TO	_	16	_	_	start_char=831|end_char=833
+18	be	be	AUX	VB	VerbForm=Inf	17	_	_	start_char=834|end_char=836
+19	re-elected	re-elect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	18	_	_	start_char=837|end_char=847
+20	in	in	ADP	IN	_	19	_	_	start_char=848|end_char=850
+21	2012	2012	NUM	CD	NumForm=Digit|NumType=Card	20	_	_	start_char=851|end_char=855|SpaceAfter=No
+22	)	)	PUNCT	-RRB-	_	21	_	_	start_char=855|end_char=856
+23	would	would	AUX	MD	VerbForm=Fin	22	_	_	start_char=857|end_char=862
+24	follow	follow	VERB	VB	VerbForm=Inf	23	_	_	start_char=863|end_char=869
+25	in	in	ADP	IN	_	24	_	_	start_char=870|end_char=872
+26	response	response	NOUN	NN	Number=Sing	25	_	_	start_char=873|end_char=881|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=881|end_char=882
+
+# text = The status quo for Tskhinvali would remain...)
+# sent_id = 11
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=883|end_char=886
+2	status	status	NOUN	NN	Number=Sing	1	_	_	start_char=887|end_char=893
+3	quo	quo	NOUN	NN	Number=Sing	2	_	_	start_char=894|end_char=897
+4	for	for	ADP	IN	_	3	_	_	start_char=898|end_char=901
+5	Tskhinvali	Tskhinvali	PROPN	NNP	Number=Sing	4	_	_	start_char=902|end_char=912
+6	would	would	AUX	MD	VerbForm=Fin	5	_	_	start_char=913|end_char=918
+7	remain	remain	VERB	VB	VerbForm=Inf	6	_	_	start_char=919|end_char=925|SpaceAfter=No
+8	...	...	PUNCT	.	_	7	_	_	start_char=925|end_char=928|SpaceAfter=No
+9	)	)	PUNCT	-RRB-	_	8	_	_	start_char=928|end_char=929|SpacesAfter=\n
+
+# text = Moscow was silent and insisted the militia keep quiet (I know from eyewitnesses).
+# sent_id = 12
+1	Moscow	Moscow	PROPN	NNP	Number=Sing	0	_	_	start_char=930|end_char=936
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=937|end_char=940
+3	silent	silent	ADJ	JJ	Degree=Pos	2	_	_	start_char=941|end_char=947
+4	and	and	CCONJ	CC	_	3	_	_	start_char=948|end_char=951
+5	insisted	insist	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=952|end_char=960
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=961|end_char=964
+7	militia	militia	NOUN	NN	Number=Sing	6	_	_	start_char=965|end_char=972
+8	keep	keep	VERB	VB	VerbForm=Inf	7	_	_	start_char=973|end_char=977
+9	quiet	quiet	ADJ	JJ	Degree=Pos	8	_	_	start_char=978|end_char=983
+10	(	(	PUNCT	-LRB-	_	9	_	_	start_char=984|end_char=985|SpaceAfter=No
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	_	_	start_char=985|end_char=986
+12	know	know	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	_	_	start_char=987|end_char=991
+13	from	from	ADP	IN	_	12	_	_	start_char=992|end_char=996
+14	eyewitnesses	eyewitness	NOUN	NNS	Number=Plur	13	_	_	start_char=997|end_char=1009|SpaceAfter=No
+15	)	)	PUNCT	-RRB-	_	14	_	_	start_char=1009|end_char=1010|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=1010|end_char=1011
+
+# text = Intoxicated by impunity, Saakashvili decided he was immortal and started a war.
+# sent_id = 13
+1	Intoxicated	intoxicate	VERB	VBN	Tense=Past|VerbForm=Part	0	_	_	start_char=1012|end_char=1023
+2	by	by	ADP	IN	_	1	_	_	start_char=1024|end_char=1026
+3	impunity	impunity	NOUN	NN	Number=Sing	2	_	_	start_char=1027|end_char=1035|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1035|end_char=1036
+5	Saakashvili	Saakashvili	PROPN	NNP	Number=Sing	4	_	_	start_char=1037|end_char=1048
+6	decided	decide	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=1049|end_char=1056
+7	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	_	_	start_char=1057|end_char=1059
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=1060|end_char=1063
+9	immortal	immortal	ADJ	JJ	Degree=Pos	8	_	_	start_char=1064|end_char=1072
+10	and	and	CCONJ	CC	_	9	_	_	start_char=1073|end_char=1076
+11	started	start	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=1077|end_char=1084
+12	a	a	DET	DT	Definite=Ind|PronType=Art	11	_	_	start_char=1085|end_char=1086
+13	war	war	NOUN	NN	Number=Sing	12	_	_	start_char=1087|end_char=1090|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=1090|end_char=1091
+
+# text = Then Moscow responded, Russian troops stood near Tbilisi.
+# sent_id = 14
+1	Then	then	ADV	RB	PronType=Dem	0	_	_	start_char=1092|end_char=1096
+2	Moscow	Moscow	PROPN	NNP	Number=Sing	1	_	_	start_char=1097|end_char=1103
+3	responded	respond	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1104|end_char=1113|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1113|end_char=1114
+5	Russian	Russian	ADJ	JJ	Degree=Pos	4	_	_	start_char=1115|end_char=1122
+6	troops	troops	NOUN	NNS	Number=Plur	5	_	_	start_char=1123|end_char=1129
+7	stood	stand	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=1130|end_char=1135
+8	near	near	ADP	IN	_	7	_	_	start_char=1136|end_char=1140
+9	Tbilisi	Tbilisi	PROPN	NNP	Number=Sing	8	_	_	start_char=1141|end_char=1148|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=1148|end_char=1149|SpacesAfter=\n
+
+# text = As a result, Mishiko was expelled by his own people, and in Georgia, a process of conscientization of the population began in no time.
+# sent_id = 15
+1	As	as	ADP	IN	_	0	_	_	start_char=1150|end_char=1152
+2	a	a	DET	DT	Definite=Ind|PronType=Art	1	_	_	start_char=1153|end_char=1154
+3	result	result	NOUN	NN	Number=Sing	2	_	_	start_char=1155|end_char=1161|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1161|end_char=1162
+5	Mishiko	Mishiko	PROPN	NNP	Number=Sing	4	_	_	start_char=1163|end_char=1170
+6	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=1171|end_char=1174
+7	expelled	expel	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	_	_	start_char=1175|end_char=1183
+8	by	by	ADP	IN	_	7	_	_	start_char=1184|end_char=1186
+9	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	_	_	start_char=1187|end_char=1190
+10	own	own	ADJ	JJ	Degree=Pos	9	_	_	start_char=1191|end_char=1194
+11	people	person	NOUN	NNS	Number=Plur	10	_	_	start_char=1195|end_char=1201|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=1201|end_char=1202
+13	and	and	CCONJ	CC	_	12	_	_	start_char=1203|end_char=1206
+14	in	in	ADP	IN	_	13	_	_	start_char=1207|end_char=1209
+15	Georgia	Georgia	PROPN	NNP	Number=Sing	14	_	_	start_char=1210|end_char=1217|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=1217|end_char=1218
+17	a	a	DET	DT	Definite=Ind|PronType=Art	16	_	_	start_char=1219|end_char=1220
+18	process	process	NOUN	NN	Number=Sing	17	_	_	start_char=1221|end_char=1228
+19	of	of	ADP	IN	_	18	_	_	start_char=1229|end_char=1231
+20	conscientization	conscientization	NOUN	NN	Number=Sing	19	_	_	start_char=1232|end_char=1248
+21	of	of	ADP	IN	_	20	_	_	start_char=1249|end_char=1251
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=1252|end_char=1255
+23	population	population	NOUN	NN	Number=Sing	22	_	_	start_char=1256|end_char=1266
+24	began	begin	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	23	_	_	start_char=1267|end_char=1272
+25	in	in	ADP	IN	_	24	_	_	start_char=1273|end_char=1275
+26	no	no	DET	DT	_	25	_	_	start_char=1276|end_char=1278
+27	time	time	NOUN	NN	Number=Sing	26	_	_	start_char=1279|end_char=1283|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=1283|end_char=1284|SpacesAfter=\n
+
+# text = In Ukraine, such a trick did not work: the enemy learns from its mistakes.
+# sent_id = 16
+1	In	in	ADP	IN	_	0	_	_	start_char=1285|end_char=1287
+2	Ukraine	Ukraine	PROPN	NNP	Number=Sing	1	_	_	start_char=1288|end_char=1295|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=1295|end_char=1296
+4	such	such	DET	PDT	_	3	_	_	start_char=1297|end_char=1301
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=1302|end_char=1303
+6	trick	trick	NOUN	NN	Number=Sing	5	_	_	start_char=1304|end_char=1309
+7	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=1310|end_char=1313
+8	not	not	PART	RB	_	7	_	_	start_char=1314|end_char=1317
+9	work	work	VERB	VB	VerbForm=Inf	8	_	_	start_char=1318|end_char=1322|SpaceAfter=No
+10	:	:	PUNCT	:	_	9	_	_	start_char=1322|end_char=1323
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=1324|end_char=1327
+12	enemy	enemy	NOUN	NN	Number=Sing	11	_	_	start_char=1328|end_char=1333
+13	learns	learn	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=1334|end_char=1340
+14	from	from	ADP	IN	_	13	_	_	start_char=1341|end_char=1345
+15	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	_	_	start_char=1346|end_char=1349
+16	mistakes	mistake	NOUN	NNS	Number=Plur	15	_	_	start_char=1350|end_char=1358|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=1358|end_char=1359
+
+# text = But the struggle is losing it, and so it is again resorting to provocations.
+# sent_id = 17
+1	But	but	CCONJ	CC	_	0	_	_	start_char=1360|end_char=1363
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=1364|end_char=1367
+3	struggle	struggle	NOUN	NN	Number=Sing	2	_	_	start_char=1368|end_char=1376
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1377|end_char=1379
+5	losing	lose	VERB	VBG	Tense=Pres|VerbForm=Part	4	_	_	start_char=1380|end_char=1386
+6	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	_	_	start_char=1387|end_char=1389|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=1389|end_char=1390
+8	and	and	CCONJ	CC	_	7	_	_	start_char=1391|end_char=1394
+9	so	so	ADV	RB	_	8	_	_	start_char=1395|end_char=1397
+10	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	_	_	start_char=1398|end_char=1400
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=1401|end_char=1403
+12	again	again	ADV	RB	_	11	_	_	start_char=1404|end_char=1409
+13	resorting	resort	VERB	VBG	Tense=Pres|VerbForm=Part	12	_	_	start_char=1410|end_char=1419
+14	to	to	ADP	IN	_	13	_	_	start_char=1420|end_char=1422
+15	provocations	provocation	NOUN	NNS	Number=Plur	14	_	_	start_char=1423|end_char=1435|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=1435|end_char=1436
+
+# text = They need a firm reaction from Russia in the Black Sea Then perhaps it will be possible to bend Turkey and launch the NATO fleet with all the resulting possibilities.
+# sent_id = 18
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=1437|end_char=1441
+2	need	need	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1442|end_char=1446
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=1447|end_char=1448
+4	firm	firm	ADJ	JJ	Degree=Pos	3	_	_	start_char=1449|end_char=1453
+5	reaction	reaction	NOUN	NN	Number=Sing	4	_	_	start_char=1454|end_char=1462
+6	from	from	ADP	IN	_	5	_	_	start_char=1463|end_char=1467
+7	Russia	Russia	PROPN	NNP	Number=Sing	6	_	_	start_char=1468|end_char=1474
+8	in	in	ADP	IN	_	7	_	_	start_char=1475|end_char=1477
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1478|end_char=1481
+10	Black	Black	ADJ	NNP	Degree=Pos	9	_	_	start_char=1482|end_char=1487
+11	Sea	Sea	PROPN	NNP	Number=Sing	10	_	_	start_char=1488|end_char=1491|SpacesAfter=\n
+12	Then	then	ADV	RB	PronType=Dem	11	_	_	start_char=1492|end_char=1496
+13	perhaps	perhaps	ADV	RB	_	12	_	_	start_char=1497|end_char=1504
+14	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	_	_	start_char=1505|end_char=1507
+15	will	will	AUX	MD	VerbForm=Fin	14	_	_	start_char=1508|end_char=1512
+16	be	be	AUX	VB	VerbForm=Inf	15	_	_	start_char=1513|end_char=1515
+17	possible	possible	ADJ	JJ	Degree=Pos	16	_	_	start_char=1516|end_char=1524
+18	to	to	PART	TO	_	17	_	_	start_char=1525|end_char=1527
+19	bend	bend	VERB	VB	VerbForm=Inf	18	_	_	start_char=1528|end_char=1532
+20	Turkey	Turkey	PROPN	NNP	Number=Sing	19	_	_	start_char=1533|end_char=1539
+21	and	and	CCONJ	CC	_	20	_	_	start_char=1540|end_char=1543
+22	launch	launch	VERB	VB	VerbForm=Inf	21	_	_	start_char=1544|end_char=1550
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=1551|end_char=1554
+24	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	23	_	_	start_char=1555|end_char=1559
+25	fleet	fleet	NOUN	NN	Number=Sing	24	_	_	start_char=1560|end_char=1565
+26	with	with	ADP	IN	_	25	_	_	start_char=1566|end_char=1570
+27	all	all	DET	PDT	_	26	_	_	start_char=1571|end_char=1574
+28	the	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=1575|end_char=1578
+29	resulting	result	VERB	VBG	VerbForm=Ger	28	_	_	start_char=1579|end_char=1588
+30	possibilities	possibility	NOUN	NNS	Number=Plur	29	_	_	start_char=1589|end_char=1602|SpaceAfter=No
+31	.	.	PUNCT	.	_	30	_	_	start_char=1602|end_char=1603
+
+# text = And an attack on NATO equipment (UAVs, even better to some extent) would be presented as Russia's willingness to go to war with NATO, again with all the ensuing consequences.
+# sent_id = 19
+1	And	and	CCONJ	CC	_	0	_	_	start_char=1604|end_char=1607
+2	an	a	DET	DT	Definite=Ind|PronType=Art	1	_	_	start_char=1608|end_char=1610
+3	attack	attack	NOUN	NN	Number=Sing	2	_	_	start_char=1611|end_char=1617
+4	on	on	ADP	IN	_	3	_	_	start_char=1618|end_char=1620
+5	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	4	_	_	start_char=1621|end_char=1625
+6	equipment	equipment	NOUN	NN	Number=Sing	5	_	_	start_char=1626|end_char=1635
+7	(	(	PUNCT	-LRB-	_	6	_	_	start_char=1636|end_char=1637|SpaceAfter=No
+8	UAVs	UAVs	NOUN	NNS	Number=Plur	7	_	_	start_char=1637|end_char=1641|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1641|end_char=1642
+10	even	even	ADV	RB	_	9	_	_	start_char=1643|end_char=1647
+11	better	good	ADJ	JJR	Degree=Cmp	10	_	_	start_char=1648|end_char=1654
+12	to	to	ADP	IN	_	11	_	_	start_char=1655|end_char=1657
+13	some	some	DET	DT	_	12	_	_	start_char=1658|end_char=1662
+14	extent	extent	NOUN	NN	Number=Sing	13	_	_	start_char=1663|end_char=1669|SpaceAfter=No
+15	)	)	PUNCT	-RRB-	_	14	_	_	start_char=1669|end_char=1670
+16	would	would	AUX	MD	VerbForm=Fin	15	_	_	start_char=1671|end_char=1676
+17	be	be	AUX	VB	VerbForm=Inf	16	_	_	start_char=1677|end_char=1679
+18	presented	present	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	17	_	_	start_char=1680|end_char=1689
+19	as	as	ADP	IN	_	18	_	_	start_char=1690|end_char=1692
+20-21	Russia's	_	_	_	_	_	_	_	start_char=1693|end_char=1701
+20	Russia	Russia	PROPN	NNP	Number=Sing	19	_	_	start_char=1693|end_char=1699
+21	's	's	PART	POS	_	20	_	_	start_char=1699|end_char=1701
+22	willingness	willingness	NOUN	NN	Number=Sing	21	_	_	start_char=1702|end_char=1713
+23	to	to	PART	TO	_	22	_	_	start_char=1714|end_char=1716
+24	go	go	VERB	VB	VerbForm=Inf	23	_	_	start_char=1717|end_char=1719
+25	to	to	ADP	IN	_	24	_	_	start_char=1720|end_char=1722
+26	war	war	NOUN	NN	Number=Sing	25	_	_	start_char=1723|end_char=1726
+27	with	with	ADP	IN	_	26	_	_	start_char=1727|end_char=1731
+28	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	27	_	_	start_char=1732|end_char=1736|SpaceAfter=No
+29	,	,	PUNCT	,	_	28	_	_	start_char=1736|end_char=1737
+30	again	again	ADV	RB	_	29	_	_	start_char=1738|end_char=1743
+31	with	with	ADP	IN	_	30	_	_	start_char=1744|end_char=1748
+32	all	all	DET	PDT	_	31	_	_	start_char=1749|end_char=1752
+33	the	the	DET	DT	Definite=Def|PronType=Art	32	_	_	start_char=1753|end_char=1756
+34	ensuing	ensuing	ADJ	JJ	Degree=Pos	33	_	_	start_char=1757|end_char=1764
+35	consequences	consequence	NOUN	NNS	Number=Plur	34	_	_	start_char=1765|end_char=1777|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=1777|end_char=1778
+
+# text = And many other things...
+# sent_id = 20
+1	And	and	CCONJ	CC	_	0	_	_	start_char=1779|end_char=1782
+2	many	many	ADJ	JJ	Degree=Pos	1	_	_	start_char=1783|end_char=1787
+3	other	other	ADJ	JJ	Degree=Pos	2	_	_	start_char=1788|end_char=1793
+4	things	thing	NOUN	NNS	Number=Plur	3	_	_	start_char=1794|end_char=1800|SpaceAfter=No
+5	...	...	PUNCT	.	_	4	_	_	start_char=1800|end_char=1803|SpacesAfter=\n
+
+# text = What's that for!
+# sent_id = 21
+1-2	What's	_	_	_	_	_	_	_	start_char=1804|end_char=1810
+1	What	what	PRON	WP	PronType=Int	0	_	_	start_char=1804|end_char=1808
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1808|end_char=1810
+3	that	that	PRON	DT	Number=Sing|PronType=Dem	2	_	_	start_char=1811|end_char=1815
+4	for	for	ADP	IN	_	3	_	_	start_char=1816|end_char=1819|SpaceAfter=No
+5	!	!	PUNCT	.	_	4	_	_	start_char=1819|end_char=1820|SpacesAfter=\n
+
+# text = "Patience in battle is Victory," wrote the great Suvorov.
+# sent_id = 22
+1	"	"	PUNCT	``	_	0	_	_	start_char=1821|end_char=1822|SpaceAfter=No
+2	Patience	patience	NOUN	NN	Number=Sing	1	_	_	start_char=1822|end_char=1830
+3	in	in	ADP	IN	_	2	_	_	start_char=1831|end_char=1833
+4	battle	battle	NOUN	NN	Number=Sing	3	_	_	start_char=1834|end_char=1840
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1841|end_char=1843
+6	Victory	Victory	PROPN	NNP	Number=Sing	5	_	_	start_char=1844|end_char=1851|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=1851|end_char=1852|SpaceAfter=No
+8	"	"	PUNCT	''	_	7	_	_	start_char=1852|end_char=1853
+9	wrote	write	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=1854|end_char=1859
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=1860|end_char=1863
+11	great	great	ADJ	JJ	Degree=Pos	10	_	_	start_char=1864|end_char=1869
+12	Suvorov	Suvorov	PROPN	NNP	Number=Sing	11	_	_	start_char=1870|end_char=1877|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=1877|end_char=1878
+
+# text = Russia is right not to rush into a response (sometimes calling planned massive attacks "responses" to put out particularly hot heads)
+# sent_id = 23
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=1879|end_char=1885
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1886|end_char=1888
+3	right	right	ADJ	JJ	Degree=Pos	2	_	_	start_char=1889|end_char=1894
+4	not	not	PART	RB	_	3	_	_	start_char=1895|end_char=1898
+5	to	to	PART	TO	_	4	_	_	start_char=1899|end_char=1901
+6	rush	rush	VERB	VB	VerbForm=Inf	5	_	_	start_char=1902|end_char=1906
+7	into	into	ADP	IN	_	6	_	_	start_char=1907|end_char=1911
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=1912|end_char=1913
+9	response	response	NOUN	NN	Number=Sing	8	_	_	start_char=1914|end_char=1922
+10	(	(	PUNCT	-LRB-	_	9	_	_	start_char=1923|end_char=1924|SpaceAfter=No
+11	sometimes	sometimes	ADV	RB	_	10	_	_	start_char=1924|end_char=1933
+12	calling	call	VERB	VBG	VerbForm=Ger	11	_	_	start_char=1934|end_char=1941
+13	planned	plan	VERB	VBN	Tense=Past|VerbForm=Part	12	_	_	start_char=1942|end_char=1949
+14	massive	massive	ADJ	JJ	Degree=Pos	13	_	_	start_char=1950|end_char=1957
+15	attacks	attack	NOUN	NNS	Number=Plur	14	_	_	start_char=1958|end_char=1965
+16	"	"	PUNCT	``	_	15	_	_	start_char=1966|end_char=1967|SpaceAfter=No
+17	responses	response	NOUN	NNS	Number=Plur	16	_	_	start_char=1967|end_char=1976|SpaceAfter=No
+18	"	"	PUNCT	''	_	17	_	_	start_char=1976|end_char=1977
+19	to	to	PART	TO	_	18	_	_	start_char=1978|end_char=1980
+20	put	put	VERB	VB	VerbForm=Inf	19	_	_	start_char=1981|end_char=1984
+21	out	out	ADP	RP	_	20	_	_	start_char=1985|end_char=1988
+22	particularly	particularly	ADV	RB	_	21	_	_	start_char=1989|end_char=2001
+23	hot	hot	ADJ	JJ	Degree=Pos	22	_	_	start_char=2002|end_char=2005
+24	heads	head	NOUN	NNS	Number=Plur	23	_	_	start_char=2006|end_char=2011|SpaceAfter=No
+25	)	)	PUNCT	-RRB-	_	24	_	_	start_char=2011|end_char=2012|SpacesAfter=\n
+
+# text = We will wait, find the most painful option for the enemy, and strike.
+# sent_id = 24
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	start_char=2013|end_char=2015
+2	will	will	AUX	MD	VerbForm=Fin	1	_	_	start_char=2016|end_char=2020
+3	wait	wait	VERB	VB	VerbForm=Inf	2	_	_	start_char=2021|end_char=2025|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=2025|end_char=2026
+5	find	find	VERB	VB	VerbForm=Inf	4	_	_	start_char=2027|end_char=2031
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=2032|end_char=2035
+7	most	most	ADV	RBS	Degree=Sup	6	_	_	start_char=2036|end_char=2040
+8	painful	painful	ADJ	JJ	Degree=Pos	7	_	_	start_char=2041|end_char=2048
+9	option	option	NOUN	NN	Number=Sing	8	_	_	start_char=2049|end_char=2055
+10	for	for	ADP	IN	_	9	_	_	start_char=2056|end_char=2059
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=2060|end_char=2063
+12	enemy	enemy	NOUN	NN	Number=Sing	11	_	_	start_char=2064|end_char=2069|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=2069|end_char=2070
+14	and	and	CCONJ	CC	_	13	_	_	start_char=2071|end_char=2074
+15	strike	strike	VERB	VB	VerbForm=Inf	14	_	_	start_char=2075|end_char=2081|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=2081|end_char=2082
+
+# text = Furthermore, most likely with someone else's hands, better yet - allegedly due to an accident, the result of bad weather or a gifted box of chocolates.
+# sent_id = 25
+1	Furthermore	furthermore	ADV	RB	_	0	_	_	start_char=2083|end_char=2094|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=2094|end_char=2095
+3	most	most	ADV	RBS	Degree=Sup	2	_	_	start_char=2096|end_char=2100
+4	likely	likely	ADJ	JJ	Degree=Pos	3	_	_	start_char=2101|end_char=2107
+5	with	with	ADP	IN	_	4	_	_	start_char=2108|end_char=2112
+6	someone	someone	PRON	NN	Number=Sing|PronType=Ind	5	_	_	start_char=2113|end_char=2120
+7-8	else's	_	_	_	_	_	_	_	start_char=2121|end_char=2127
+7	else	else	ADJ	JJ	Degree=Pos	6	_	_	start_char=2121|end_char=2125
+8	's	's	PART	POS	_	7	_	_	start_char=2125|end_char=2127
+9	hands	hand	NOUN	NNS	Number=Plur	8	_	_	start_char=2128|end_char=2133|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=2133|end_char=2134
+11	better	well	ADV	RBR	Degree=Cmp	10	_	_	start_char=2135|end_char=2141
+12	yet	yet	ADV	RB	_	11	_	_	start_char=2142|end_char=2145
+13	-	-	PUNCT	,	_	12	_	_	start_char=2146|end_char=2147
+14	allegedly	allegedly	ADV	RB	_	13	_	_	start_char=2148|end_char=2157
+15	due	due	ADP	IN	_	14	_	_	start_char=2158|end_char=2161
+16	to	to	ADP	IN	_	15	_	_	start_char=2162|end_char=2164
+17	an	a	DET	DT	Definite=Ind|PronType=Art	16	_	_	start_char=2165|end_char=2167
+18	accident	accident	NOUN	NN	Number=Sing	17	_	_	start_char=2168|end_char=2176|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=2176|end_char=2177
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=2178|end_char=2181
+21	result	result	NOUN	NN	Number=Sing	20	_	_	start_char=2182|end_char=2188
+22	of	of	ADP	IN	_	21	_	_	start_char=2189|end_char=2191
+23	bad	bad	ADJ	JJ	Degree=Pos	22	_	_	start_char=2192|end_char=2195
+24	weather	weather	NOUN	NN	Number=Sing	23	_	_	start_char=2196|end_char=2203
+25	or	or	CCONJ	CC	_	24	_	_	start_char=2204|end_char=2206
+26	a	a	DET	DT	Definite=Ind|PronType=Art	25	_	_	start_char=2207|end_char=2208
+27	gifted	gift	ADJ	JJ	Degree=Pos	26	_	_	start_char=2209|end_char=2215
+28	box	box	NOUN	NN	Number=Sing	27	_	_	start_char=2216|end_char=2219
+29	of	of	ADP	IN	_	28	_	_	start_char=2220|end_char=2222
+30	chocolates	chocolate	NOUN	NNS	Number=Plur	29	_	_	start_char=2223|end_char=2233|SpaceAfter=No
+31	.	.	PUNCT	.	_	30	_	_	start_char=2233|end_char=2234
+
+# text = Bombing in response to bombing and killing in response to killing is ineffective, risky, and not optimal...
+# sent_id = 26
+1	Bombing	bombing	NOUN	NN	Number=Sing	0	_	_	start_char=2235|end_char=2242
+2	in	in	ADP	IN	_	1	_	_	start_char=2243|end_char=2245
+3	response	response	NOUN	NN	Number=Sing	2	_	_	start_char=2246|end_char=2254
+4	to	to	ADP	IN	_	3	_	_	start_char=2255|end_char=2257
+5	bombing	bombing	NOUN	NN	Number=Sing	4	_	_	start_char=2258|end_char=2265
+6	and	and	CCONJ	CC	_	5	_	_	start_char=2266|end_char=2269
+7	killing	killing	NOUN	NN	Number=Sing	6	_	_	start_char=2270|end_char=2277
+8	in	in	ADP	IN	_	7	_	_	start_char=2278|end_char=2280
+9	response	response	NOUN	NN	Number=Sing	8	_	_	start_char=2281|end_char=2289
+10	to	to	ADP	IN	_	9	_	_	start_char=2290|end_char=2292
+11	killing	killing	NOUN	NN	Number=Sing	10	_	_	start_char=2293|end_char=2300
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=2301|end_char=2303
+13	ineffective	ineffective	ADJ	JJ	Degree=Pos	12	_	_	start_char=2304|end_char=2315|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=2315|end_char=2316
+15	risky	risky	ADJ	JJ	Degree=Pos	14	_	_	start_char=2317|end_char=2322|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=2322|end_char=2323
+17	and	and	CCONJ	CC	_	16	_	_	start_char=2324|end_char=2327
+18	not	not	PART	RB	_	17	_	_	start_char=2328|end_char=2331
+19	optimal	optimal	ADJ	JJ	Degree=Pos	18	_	_	start_char=2332|end_char=2339|SpaceAfter=No
+20	...	...	PUNCT	.	_	19	_	_	start_char=2339|end_char=2342|SpaceAfter=No
+

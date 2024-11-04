@@ -1,0 +1,257 @@
+# text = Tucker Carlson adamant: It's simply impossible for Ukraine to win
+# sent_id = 0
+1	Tucker	Tucker	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=6
+2	Carlson	Carlson	PROPN	NNP	Number=Sing	1	_	_	start_char=7|end_char=14
+3	adamant	adamant	ADJ	JJ	Degree=Pos	2	_	_	start_char=15|end_char=22|SpaceAfter=No
+4	:	:	PUNCT	:	_	3	_	_	start_char=22|end_char=23
+5-6	It's	_	_	_	_	_	_	_	start_char=24|end_char=28
+5	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	_	_	start_char=24|end_char=26
+6	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=26|end_char=28
+7	simply	simply	ADV	RB	_	6	_	_	start_char=29|end_char=35
+8	impossible	impossible	ADJ	JJ	Degree=Pos	7	_	_	start_char=36|end_char=46
+9	for	for	SCONJ	IN	_	8	_	_	start_char=47|end_char=50
+10	Ukraine	Ukraine	PROPN	NNP	Number=Sing	9	_	_	start_char=51|end_char=58
+11	to	to	PART	TO	_	10	_	_	start_char=59|end_char=61
+12	win	win	VERB	VB	VerbForm=Inf	11	_	_	start_char=62|end_char=65|SpacesAfter=\n\n
+
+# text = American journalist Tucker Carlson, known for his pro-Russian statements, called Ukraine's victory in the conflict impossible and stressed that the whole world knows who prevented Ukrainian leader Volodymyr Zelensky from making peace with Russia, mk.
+# sent_id = 1
+1	American	American	ADJ	JJ	Degree=Pos	0	_	_	start_char=67|end_char=75
+2	journalist	journalist	NOUN	NN	Number=Sing	1	_	_	start_char=76|end_char=86
+3	Tucker	Tucker	PROPN	NNP	Number=Sing	2	_	_	start_char=87|end_char=93
+4	Carlson	Carlson	PROPN	NNP	Number=Sing	3	_	_	start_char=94|end_char=101|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=101|end_char=102
+6	known	know	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=103|end_char=108
+7	for	for	ADP	IN	_	6	_	_	start_char=109|end_char=112
+8	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	_	_	start_char=113|end_char=116
+9	pro-Russian	pro-Russian	ADJ	JJ	Degree=Pos	8	_	_	start_char=117|end_char=128
+10	statements	statement	NOUN	NNS	Number=Plur	9	_	_	start_char=129|end_char=139|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=139|end_char=140
+12	called	call	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=141|end_char=147
+13-14	Ukraine's	_	_	_	_	_	_	_	start_char=148|end_char=157
+13	Ukraine	Ukraine	PROPN	NNP	Number=Sing	12	_	_	start_char=148|end_char=155
+14	's	's	PART	POS	_	13	_	_	start_char=155|end_char=157
+15	victory	victory	NOUN	NN	Number=Sing	14	_	_	start_char=158|end_char=165
+16	in	in	ADP	IN	_	15	_	_	start_char=166|end_char=168
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=169|end_char=172
+18	conflict	conflict	NOUN	NN	Number=Sing	17	_	_	start_char=173|end_char=181
+19	impossible	impossible	ADJ	JJ	Degree=Pos	18	_	_	start_char=182|end_char=192
+20	and	and	CCONJ	CC	_	19	_	_	start_char=193|end_char=196
+21	stressed	stress	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	_	_	start_char=197|end_char=205
+22	that	that	SCONJ	IN	_	21	_	_	start_char=206|end_char=210
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=211|end_char=214
+24	whole	whole	ADJ	JJ	Degree=Pos	23	_	_	start_char=215|end_char=220
+25	world	world	NOUN	NN	Number=Sing	24	_	_	start_char=221|end_char=226
+26	knows	know	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	_	_	start_char=227|end_char=232
+27	who	who	PRON	WP	PronType=Rel	26	_	_	start_char=233|end_char=236
+28	prevented	prevent	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	27	_	_	start_char=237|end_char=246
+29	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	28	_	_	start_char=247|end_char=256
+30	leader	leader	NOUN	NN	Number=Sing	29	_	_	start_char=257|end_char=263
+31	Volodymyr	Volodymyr	PROPN	NNP	Number=Sing	30	_	_	start_char=264|end_char=273
+32	Zelensky	Zelensky	PROPN	NNP	Number=Sing	31	_	_	start_char=274|end_char=282
+33	from	from	SCONJ	IN	_	32	_	_	start_char=283|end_char=287
+34	making	make	VERB	VBG	VerbForm=Ger	33	_	_	start_char=288|end_char=294
+35	peace	peace	NOUN	NN	Number=Sing	34	_	_	start_char=295|end_char=300
+36	with	with	ADP	IN	_	35	_	_	start_char=301|end_char=305
+37	Russia	Russia	PROPN	NNP	Number=Sing	36	_	_	start_char=306|end_char=312|SpaceAfter=No
+38	,	,	PUNCT	,	_	37	_	_	start_char=312|end_char=313
+39	mk.	mk.	NOUN	NN	Number=Sing	38	_	_	start_char=314|end_char=317|SpaceAfter=No
+
+# text = ru reported.
+# sent_id = 2
+1	ru	ru	PROPN	NNP	Number=Sing	0	_	_	start_char=317|end_char=319
+2	reported	report	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=320|end_char=328|SpaceAfter=No
+3	.	.	PUNCT	.	_	2	_	_	start_char=328|end_char=329|SpacesAfter=\n
+
+# text = "It is simply impossible for Ukraine to win," he said, referring to the ongoing conflict.
+# sent_id = 3
+1	"	"	PUNCT	``	_	0	_	_	start_char=330|end_char=331|SpaceAfter=No
+2	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	_	_	start_char=331|end_char=333
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=334|end_char=336
+4	simply	simply	ADV	RB	_	3	_	_	start_char=337|end_char=343
+5	impossible	impossible	ADJ	JJ	Degree=Pos	4	_	_	start_char=344|end_char=354
+6	for	for	SCONJ	IN	_	5	_	_	start_char=355|end_char=358
+7	Ukraine	Ukraine	PROPN	NNP	Number=Sing	6	_	_	start_char=359|end_char=366
+8	to	to	PART	TO	_	7	_	_	start_char=367|end_char=369
+9	win	win	VERB	VB	VerbForm=Inf	8	_	_	start_char=370|end_char=373|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=373|end_char=374|SpaceAfter=No
+11	"	"	PUNCT	''	_	10	_	_	start_char=374|end_char=375
+12	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	_	_	start_char=376|end_char=378
+13	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=379|end_char=383|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=383|end_char=384
+15	referring	refer	VERB	VBG	VerbForm=Ger	14	_	_	start_char=385|end_char=394
+16	to	to	ADP	IN	_	15	_	_	start_char=395|end_char=397
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=398|end_char=401
+18	ongoing	ongoing	ADJ	JJ	Degree=Pos	17	_	_	start_char=402|end_char=409
+19	conflict	conflict	NOUN	NN	Number=Sing	18	_	_	start_char=410|end_char=418|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=418|end_char=419
+
+# text = "The best they can do is sign a peace treaty," the journalist noted, adding that everyone knows about it, including Zelensky, who "has wanted this since the beginning" of hostilities.
+# sent_id = 4
+1	"	"	PUNCT	``	_	0	_	_	start_char=420|end_char=421|SpaceAfter=No
+2	The	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=421|end_char=424
+3	best	good	ADJ	JJS	Degree=Sup	2	_	_	start_char=425|end_char=429
+4	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	_	_	start_char=430|end_char=434
+5	can	can	AUX	MD	VerbForm=Fin	4	_	_	start_char=435|end_char=438
+6	do	do	VERB	VB	VerbForm=Inf	5	_	_	start_char=439|end_char=441
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=442|end_char=444
+8	sign	sign	VERB	VB	VerbForm=Inf	7	_	_	start_char=445|end_char=449
+9	a	a	DET	DT	Definite=Ind|PronType=Art	8	_	_	start_char=450|end_char=451
+10	peace	peace	NOUN	NN	Number=Sing	9	_	_	start_char=452|end_char=457
+11	treaty	treaty	NOUN	NN	Number=Sing	10	_	_	start_char=458|end_char=464|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=464|end_char=465|SpaceAfter=No
+13	"	"	PUNCT	''	_	12	_	_	start_char=465|end_char=466
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=467|end_char=470
+15	journalist	journalist	NOUN	NN	Number=Sing	14	_	_	start_char=471|end_char=481
+16	noted	note	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	_	_	start_char=482|end_char=487|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=487|end_char=488
+18	adding	add	VERB	VBG	VerbForm=Ger	17	_	_	start_char=489|end_char=495
+19	that	that	SCONJ	IN	_	18	_	_	start_char=496|end_char=500
+20	everyone	everyone	PRON	NN	Number=Sing|PronType=Tot	19	_	_	start_char=501|end_char=509
+21	knows	know	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	_	_	start_char=510|end_char=515
+22	about	about	ADP	IN	_	21	_	_	start_char=516|end_char=521
+23	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	22	_	_	start_char=522|end_char=524|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=524|end_char=525
+25	including	include	VERB	VBG	VerbForm=Ger	24	_	_	start_char=526|end_char=535
+26	Zelensky	Zelensky	PROPN	NNP	Number=Sing	25	_	_	start_char=536|end_char=544|SpaceAfter=No
+27	,	,	PUNCT	,	_	26	_	_	start_char=544|end_char=545
+28	who	who	PRON	WP	PronType=Rel	27	_	_	start_char=546|end_char=549
+29	"	"	PUNCT	``	_	28	_	_	start_char=550|end_char=551|SpaceAfter=No
+30	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	_	_	start_char=551|end_char=554
+31	wanted	want	VERB	VBN	Tense=Past|VerbForm=Part	30	_	_	start_char=555|end_char=561
+32	this	this	PRON	DT	Number=Sing|PronType=Dem	31	_	_	start_char=562|end_char=566
+33	since	since	ADP	IN	_	32	_	_	start_char=567|end_char=572
+34	the	the	DET	DT	Definite=Def|PronType=Art	33	_	_	start_char=573|end_char=576
+35	beginning	beginning	NOUN	NN	Number=Sing	34	_	_	start_char=577|end_char=586|SpaceAfter=No
+36	"	"	PUNCT	''	_	35	_	_	start_char=586|end_char=587
+37	of	of	ADP	IN	_	36	_	_	start_char=588|end_char=590
+38	hostilities	hostility	NOUN	NNS	Number=Plur	37	_	_	start_char=591|end_char=602|SpaceAfter=No
+39	.	.	PUNCT	.	_	38	_	_	start_char=602|end_char=603|SpacesAfter=\n
+
+# text = Carlson stressed that the signing of the peace treaty had been prevented by former British Prime Minister Boris Johnson, who was acting at the behest of US President Joe Biden's administration.
+# sent_id = 5
+1	Carlson	Carlson	PROPN	NNP	Number=Sing	0	_	_	start_char=604|end_char=611
+2	stressed	stress	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=612|end_char=620
+3	that	that	SCONJ	IN	_	2	_	_	start_char=621|end_char=625
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=626|end_char=629
+5	signing	signing	NOUN	NN	Number=Sing	4	_	_	start_char=630|end_char=637
+6	of	of	ADP	IN	_	5	_	_	start_char=638|end_char=640
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=641|end_char=644
+8	peace	peace	NOUN	NN	Number=Sing	7	_	_	start_char=645|end_char=650
+9	treaty	treaty	NOUN	NN	Number=Sing	8	_	_	start_char=651|end_char=657
+10	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=658|end_char=661
+11	been	be	AUX	VBN	Tense=Past|VerbForm=Part	10	_	_	start_char=662|end_char=666
+12	prevented	prevent	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	11	_	_	start_char=667|end_char=676
+13	by	by	ADP	IN	_	12	_	_	start_char=677|end_char=679
+14	former	former	ADJ	JJ	Degree=Pos	13	_	_	start_char=680|end_char=686
+15	British	British	ADJ	JJ	Degree=Pos	14	_	_	start_char=687|end_char=694
+16	Prime	Prime	ADJ	NNP	Degree=Pos	15	_	_	start_char=695|end_char=700
+17	Minister	Minister	PROPN	NNP	Number=Sing	16	_	_	start_char=701|end_char=709
+18	Boris	Boris	PROPN	NNP	Number=Sing	17	_	_	start_char=710|end_char=715
+19	Johnson	Johnson	PROPN	NNP	Number=Sing	18	_	_	start_char=716|end_char=723|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=723|end_char=724
+21	who	who	PRON	WP	PronType=Rel	20	_	_	start_char=725|end_char=728
+22	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	_	_	start_char=729|end_char=732
+23	acting	act	VERB	VBG	Tense=Pres|VerbForm=Part	22	_	_	start_char=733|end_char=739
+24	at	at	ADP	IN	_	23	_	_	start_char=740|end_char=742
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=743|end_char=746
+26	behest	behest	NOUN	NN	Number=Sing	25	_	_	start_char=747|end_char=753
+27	of	of	ADP	IN	_	26	_	_	start_char=754|end_char=756
+28	US	US	PROPN	NNP	Number=Sing	27	_	_	start_char=757|end_char=759
+29	President	President	PROPN	NNP	Number=Sing	28	_	_	start_char=760|end_char=769
+30	Joe	Joe	PROPN	NNP	Number=Sing	29	_	_	start_char=770|end_char=773
+31-32	Biden's	_	_	_	_	_	_	_	start_char=774|end_char=781
+31	Biden	Biden	PROPN	NNP	Number=Sing	30	_	_	start_char=774|end_char=779
+32	's	's	PART	POS	_	31	_	_	start_char=779|end_char=781
+33	administration	administration	NOUN	NN	Number=Sing	32	_	_	start_char=782|end_char=796|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=796|end_char=797|SpacesAfter=\n
+
+# text = "Everybody acknowledges that, he stopped the peace talks almost two years ago," Carlsson said, summing up that Ukraine was completely destroyed as a result.
+# sent_id = 6
+1	"	"	PUNCT	``	_	0	_	_	start_char=798|end_char=799|SpaceAfter=No
+2	Everybody	everybody	PRON	NN	Number=Sing|PronType=Tot	1	_	_	start_char=799|end_char=808
+3	acknowledges	acknowledge	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=809|end_char=821
+4	that	that	SCONJ	IN	_	3	_	_	start_char=822|end_char=826|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=826|end_char=827
+6	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	_	_	start_char=828|end_char=830
+7	stopped	stop	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=831|end_char=838
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=839|end_char=842
+9	peace	peace	NOUN	NN	Number=Sing	8	_	_	start_char=843|end_char=848
+10	talks	talk	NOUN	NNS	Number=Plur	9	_	_	start_char=849|end_char=854
+11	almost	almost	ADV	RB	_	10	_	_	start_char=855|end_char=861
+12	two	two	NUM	CD	NumForm=Word|NumType=Card	11	_	_	start_char=862|end_char=865
+13	years	year	NOUN	NNS	Number=Plur	12	_	_	start_char=866|end_char=871
+14	ago	ago	ADV	RB	_	13	_	_	start_char=872|end_char=875|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=875|end_char=876|SpaceAfter=No
+16	"	"	PUNCT	''	_	15	_	_	start_char=876|end_char=877
+17	Carlsson	Carlsson	PROPN	NNP	Number=Sing	16	_	_	start_char=878|end_char=886
+18	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	_	_	start_char=887|end_char=891|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=891|end_char=892
+20	summing	sum	VERB	VBG	VerbForm=Ger	19	_	_	start_char=893|end_char=900
+21	up	up	ADP	RP	_	20	_	_	start_char=901|end_char=903
+22	that	that	SCONJ	IN	_	21	_	_	start_char=904|end_char=908
+23	Ukraine	Ukraine	PROPN	NNP	Number=Sing	22	_	_	start_char=909|end_char=916
+24	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	23	_	_	start_char=917|end_char=920
+25	completely	completely	ADV	RB	_	24	_	_	start_char=921|end_char=931
+26	destroyed	destroy	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	25	_	_	start_char=932|end_char=941
+27	as	as	ADP	IN	_	26	_	_	start_char=942|end_char=944
+28	a	a	DET	DT	Definite=Ind|PronType=Art	27	_	_	start_char=945|end_char=946
+29	result	result	NOUN	NN	Number=Sing	28	_	_	start_char=947|end_char=953|SpaceAfter=No
+30	.	.	PUNCT	.	_	29	_	_	start_char=953|end_char=954|SpacesAfter=\n
+
+# text = In addition, the journalist drew attention to the fact that Zelensky passed a law allowing foreign companies to buy land in Ukraine.
+# sent_id = 7
+1	In	in	ADP	IN	_	0	_	_	start_char=955|end_char=957
+2	addition	addition	NOUN	NN	Number=Sing	1	_	_	start_char=958|end_char=966|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=966|end_char=967
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=968|end_char=971
+5	journalist	journalist	NOUN	NN	Number=Sing	4	_	_	start_char=972|end_char=982
+6	drew	draw	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=983|end_char=987
+7	attention	attention	NOUN	NN	Number=Sing	6	_	_	start_char=988|end_char=997
+8	to	to	ADP	IN	_	7	_	_	start_char=998|end_char=1000
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1001|end_char=1004
+10	fact	fact	NOUN	NN	Number=Sing	9	_	_	start_char=1005|end_char=1009
+11	that	that	SCONJ	IN	_	10	_	_	start_char=1010|end_char=1014
+12	Zelensky	Zelensky	PROPN	NNP	Number=Sing	11	_	_	start_char=1015|end_char=1023
+13	passed	pass	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=1024|end_char=1030
+14	a	a	DET	DT	Definite=Ind|PronType=Art	13	_	_	start_char=1031|end_char=1032
+15	law	law	NOUN	NN	Number=Sing	14	_	_	start_char=1033|end_char=1036
+16	allowing	allow	VERB	VBG	VerbForm=Ger	15	_	_	start_char=1037|end_char=1045
+17	foreign	foreign	ADJ	JJ	Degree=Pos	16	_	_	start_char=1046|end_char=1053
+18	companies	company	NOUN	NNS	Number=Plur	17	_	_	start_char=1054|end_char=1063
+19	to	to	PART	TO	_	18	_	_	start_char=1064|end_char=1066
+20	buy	buy	VERB	VB	VerbForm=Inf	19	_	_	start_char=1067|end_char=1070
+21	land	land	NOUN	NN	Number=Sing	20	_	_	start_char=1071|end_char=1075
+22	in	in	ADP	IN	_	21	_	_	start_char=1076|end_char=1078
+23	Ukraine	Ukraine	PROPN	NNP	Number=Sing	22	_	_	start_char=1079|end_char=1086|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=1086|end_char=1087
+
+# text = Karlsson expressed confidence that in 30 years the whole Ukraine will be occupied by foreign companies and the population will not be Ukrainian at all.
+# sent_id = 8
+1	Karlsson	Karlsson	PROPN	NNP	Number=Sing	0	_	_	start_char=1088|end_char=1096
+2	expressed	express	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1097|end_char=1106
+3	confidence	confidence	NOUN	NN	Number=Sing	2	_	_	start_char=1107|end_char=1117
+4	that	that	SCONJ	IN	_	3	_	_	start_char=1118|end_char=1122
+5	in	in	ADP	IN	_	4	_	_	start_char=1123|end_char=1125
+6	30	30	NUM	CD	NumForm=Digit|NumType=Card	5	_	_	start_char=1126|end_char=1128
+7	years	year	NOUN	NNS	Number=Plur	6	_	_	start_char=1129|end_char=1134
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=1135|end_char=1138
+9	whole	whole	ADJ	JJ	Degree=Pos	8	_	_	start_char=1139|end_char=1144
+10	Ukraine	Ukraine	PROPN	NNP	Number=Sing	9	_	_	start_char=1145|end_char=1152
+11	will	will	AUX	MD	VerbForm=Fin	10	_	_	start_char=1153|end_char=1157
+12	be	be	AUX	VB	VerbForm=Inf	11	_	_	start_char=1158|end_char=1160
+13	occupied	occupy	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	12	_	_	start_char=1161|end_char=1169
+14	by	by	ADP	IN	_	13	_	_	start_char=1170|end_char=1172
+15	foreign	foreign	ADJ	JJ	Degree=Pos	14	_	_	start_char=1173|end_char=1180
+16	companies	company	NOUN	NNS	Number=Plur	15	_	_	start_char=1181|end_char=1190
+17	and	and	CCONJ	CC	_	16	_	_	start_char=1191|end_char=1194
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=1195|end_char=1198
+19	population	population	NOUN	NN	Number=Sing	18	_	_	start_char=1199|end_char=1209
+20	will	will	AUX	MD	VerbForm=Fin	19	_	_	start_char=1210|end_char=1214
+21	not	not	PART	RB	_	20	_	_	start_char=1215|end_char=1218
+22	be	be	AUX	VB	VerbForm=Inf	21	_	_	start_char=1219|end_char=1221
+23	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	22	_	_	start_char=1222|end_char=1231
+24	at	at	ADP	IN	_	23	_	_	start_char=1232|end_char=1234
+25	all	all	DET	DT	_	24	_	_	start_char=1235|end_char=1238|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=1238|end_char=1239|SpaceAfter=No
+

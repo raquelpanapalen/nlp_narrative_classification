@@ -1,0 +1,279 @@
+# text = A new report with horrifying news for Europe, soon we'll be roasting like chickens
+# sent_id = 0
+1	A	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=0|end_char=1
+2	new	new	ADJ	JJ	Degree=Pos	1	_	_	start_char=2|end_char=5
+3	report	report	NOUN	NN	Number=Sing	2	_	_	start_char=6|end_char=12
+4	with	with	ADP	IN	_	3	_	_	start_char=13|end_char=17
+5	horrifying	horrifying	ADJ	JJ	Degree=Pos	4	_	_	start_char=18|end_char=28
+6	news	news	NOUN	NN	Number=Sing	5	_	_	start_char=29|end_char=33
+7	for	for	ADP	IN	_	6	_	_	start_char=34|end_char=37
+8	Europe	Europe	PROPN	NNP	Number=Sing	7	_	_	start_char=38|end_char=44|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=44|end_char=45
+10	soon	soon	ADV	RB	Degree=Pos	9	_	_	start_char=46|end_char=50
+11-12	we'll	_	_	_	_	_	_	_	start_char=51|end_char=56
+11	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	10	_	_	start_char=51|end_char=53
+12	'll	will	AUX	MD	VerbForm=Fin	11	_	_	start_char=53|end_char=56
+13	be	be	AUX	VB	VerbForm=Inf	12	_	_	start_char=57|end_char=59
+14	roasting	roast	VERB	VBG	Tense=Pres|VerbForm=Part	13	_	_	start_char=60|end_char=68
+15	like	like	ADP	IN	_	14	_	_	start_char=69|end_char=73
+16	chickens	chicken	NOUN	NNS	Number=Plur	15	_	_	start_char=74|end_char=82|SpacesAfter=\n\n
+
+# text = The old continent is heating up twice as fast as the rest of the world because of climate change A new report from the European Environment Agency (EEA) paints a worrying picture for the continent's future.
+# sent_id = 1
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=84|end_char=87
+2	old	old	ADJ	JJ	Degree=Pos	1	_	_	start_char=88|end_char=91
+3	continent	continent	NOUN	NN	Number=Sing	2	_	_	start_char=92|end_char=101
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=102|end_char=104
+5	heating	heat	VERB	VBG	Tense=Pres|VerbForm=Part	4	_	_	start_char=105|end_char=112
+6	up	up	ADP	RP	_	5	_	_	start_char=113|end_char=115
+7	twice	twice	ADV	RB	NumType=Mult	6	_	_	start_char=116|end_char=121
+8	as	as	ADV	RB	_	7	_	_	start_char=122|end_char=124
+9	fast	fast	ADV	RB	Degree=Pos	8	_	_	start_char=125|end_char=129
+10	as	as	ADP	IN	_	9	_	_	start_char=130|end_char=132
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=133|end_char=136
+12	rest	rest	NOUN	NN	Number=Sing	11	_	_	start_char=137|end_char=141
+13	of	of	ADP	IN	_	12	_	_	start_char=142|end_char=144
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=145|end_char=148
+15	world	world	NOUN	NN	Number=Sing	14	_	_	start_char=149|end_char=154
+16	because	because	ADP	IN	_	15	_	_	start_char=155|end_char=162
+17	of	of	ADP	IN	_	16	_	_	start_char=163|end_char=165
+18	climate	climate	NOUN	NN	Number=Sing	17	_	_	start_char=166|end_char=173
+19	change	change	NOUN	NN	Number=Sing	18	_	_	start_char=174|end_char=180|SpacesAfter=\n
+20	A	a	DET	DT	Definite=Ind|PronType=Art	19	_	_	start_char=181|end_char=182
+21	new	new	ADJ	JJ	Degree=Pos	20	_	_	start_char=183|end_char=186
+22	report	report	NOUN	NN	Number=Sing	21	_	_	start_char=187|end_char=193
+23	from	from	ADP	IN	_	22	_	_	start_char=194|end_char=198
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=199|end_char=202
+25	European	European	ADJ	NNP	Degree=Pos	24	_	_	start_char=203|end_char=211
+26	Environment	environment	PROPN	NNP	Number=Sing	25	_	_	start_char=212|end_char=223
+27	Agency	Agency	PROPN	NNP	Number=Sing	26	_	_	start_char=224|end_char=230
+28	(	(	PUNCT	-LRB-	_	27	_	_	start_char=231|end_char=232|SpaceAfter=No
+29	EEA	EEA	PROPN	NNP	Number=Sing	28	_	_	start_char=232|end_char=235|SpaceAfter=No
+30	)	)	PUNCT	-RRB-	_	29	_	_	start_char=235|end_char=236
+31	paints	paint	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	_	_	start_char=237|end_char=243
+32	a	a	DET	DT	Definite=Ind|PronType=Art	31	_	_	start_char=244|end_char=245
+33	worrying	worry	VERB	VBG	VerbForm=Ger	32	_	_	start_char=246|end_char=254
+34	picture	picture	NOUN	NN	Number=Sing	33	_	_	start_char=255|end_char=262
+35	for	for	ADP	IN	_	34	_	_	start_char=263|end_char=266
+36	the	the	DET	DT	Definite=Def|PronType=Art	35	_	_	start_char=267|end_char=270
+37-38	continent's	_	_	_	_	_	_	_	start_char=271|end_char=282
+37	continent	continent	NOUN	NN	Number=Sing	36	_	_	start_char=271|end_char=280
+38	's	's	PART	POS	_	37	_	_	start_char=280|end_char=282
+39	future	future	NOUN	NN	Number=Sing	38	_	_	start_char=283|end_char=289|SpaceAfter=No
+40	.	.	PUNCT	.	_	39	_	_	start_char=289|end_char=290
+
+# text = Europe faces growing climate risks that could radically alter the lives of millions of people, according to the study.
+# sent_id = 2
+1	Europe	Europe	PROPN	NNP	Number=Sing	0	_	_	start_char=291|end_char=297
+2	faces	face	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=298|end_char=303
+3	growing	grow	VERB	VBG	VerbForm=Ger	2	_	_	start_char=304|end_char=311
+4	climate	climate	NOUN	NN	Number=Sing	3	_	_	start_char=312|end_char=319
+5	risks	risk	NOUN	NNS	Number=Plur	4	_	_	start_char=320|end_char=325
+6	that	that	PRON	WDT	PronType=Rel	5	_	_	start_char=326|end_char=330
+7	could	could	AUX	MD	VerbForm=Fin	6	_	_	start_char=331|end_char=336
+8	radically	radically	ADV	RB	_	7	_	_	start_char=337|end_char=346
+9	alter	alter	VERB	VB	VerbForm=Inf	8	_	_	start_char=347|end_char=352
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=353|end_char=356
+11	lives	life	NOUN	NNS	Number=Plur	10	_	_	start_char=357|end_char=362
+12	of	of	ADP	IN	_	11	_	_	start_char=363|end_char=365
+13	millions	million	NOUN	NNS	Number=Plur	12	_	_	start_char=366|end_char=374
+14	of	of	ADP	IN	_	13	_	_	start_char=375|end_char=377
+15	people	person	NOUN	NNS	Number=Plur	14	_	_	start_char=378|end_char=384|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=384|end_char=385
+17	according	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	16	_	_	start_char=386|end_char=395
+18	to	to	ADP	IN	_	17	_	_	start_char=396|end_char=398
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=399|end_char=402
+20	study	study	NOUN	NN	Number=Sing	19	_	_	start_char=403|end_char=408|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=408|end_char=409|SpacesAfter=\n
+
+# text = The report has been produced jointly with the World Meteorological Organisation (WMO) and the European Union's Copernicus Climate Change Office.
+# sent_id = 3
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=410|end_char=413
+2	report	report	NOUN	NN	Number=Sing	1	_	_	start_char=414|end_char=420
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=421|end_char=424
+4	been	be	AUX	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=425|end_char=429
+5	produced	produce	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	_	_	start_char=430|end_char=438
+6	jointly	jointly	ADV	RB	_	5	_	_	start_char=439|end_char=446
+7	with	with	ADP	IN	_	6	_	_	start_char=447|end_char=451
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=452|end_char=455
+9	World	World	PROPN	NNP	Number=Sing	8	_	_	start_char=456|end_char=461
+10	Meteorological	Meteorological	ADJ	NNP	Degree=Pos	9	_	_	start_char=462|end_char=476
+11	Organisation	Organisation	PROPN	NNP	Number=Sing	10	_	_	start_char=477|end_char=489
+12	(	(	PUNCT	-LRB-	_	11	_	_	start_char=490|end_char=491|SpaceAfter=No
+13	WMO	WMO	PROPN	NNP	Number=Sing	12	_	_	start_char=491|end_char=494|SpaceAfter=No
+14	)	)	PUNCT	-RRB-	_	13	_	_	start_char=494|end_char=495
+15	and	and	CCONJ	CC	_	14	_	_	start_char=496|end_char=499
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=500|end_char=503
+17	European	European	ADJ	NNP	Degree=Pos	16	_	_	start_char=504|end_char=512
+18-19	Union's	_	_	_	_	_	_	_	start_char=513|end_char=520
+18	Union	Union	PROPN	NNP	Number=Sing	17	_	_	start_char=513|end_char=518
+19	's	's	PART	POS	_	18	_	_	start_char=518|end_char=520
+20	Copernicus	Copernicus	PROPN	NNP	Number=Sing	19	_	_	start_char=521|end_char=531
+21	Climate	Climate	PROPN	NNP	Number=Sing	20	_	_	start_char=532|end_char=539
+22	Change	Change	PROPN	NNP	Number=Sing	21	_	_	start_char=540|end_char=546
+23	Office	Office	PROPN	NNP	Number=Sing	22	_	_	start_char=547|end_char=553|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=553|end_char=554
+
+# text = It shows that temperatures in Europe have risen by 2.3 degrees Celsius above pre-industrial levels, outpacing the global rise of 1.3 degrees.
+# sent_id = 4
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=555|end_char=557
+2	shows	show	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=558|end_char=563
+3	that	that	SCONJ	IN	_	2	_	_	start_char=564|end_char=568
+4	temperatures	temperature	NOUN	NNS	Number=Plur	3	_	_	start_char=569|end_char=581
+5	in	in	ADP	IN	_	4	_	_	start_char=582|end_char=584
+6	Europe	Europe	PROPN	NNP	Number=Sing	5	_	_	start_char=585|end_char=591
+7	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=592|end_char=596
+8	risen	rise	VERB	VBN	Tense=Past|VerbForm=Part	7	_	_	start_char=597|end_char=602
+9	by	by	ADP	IN	_	8	_	_	start_char=603|end_char=605
+10	2.3	2.3	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=606|end_char=609
+11	degrees	degree	NOUN	NNS	Number=Plur	10	_	_	start_char=610|end_char=617
+12	Celsius	Celsius	NOUN	NNS	Number=Plur	11	_	_	start_char=618|end_char=625
+13	above	above	ADP	IN	_	12	_	_	start_char=626|end_char=631
+14	pre-industrial	pre-industrial	ADJ	JJ	Degree=Pos	13	_	_	start_char=632|end_char=646
+15	levels	level	NOUN	NNS	Number=Plur	14	_	_	start_char=647|end_char=653|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=653|end_char=654
+17	outpacing	outpace	VERB	VBG	VerbForm=Ger	16	_	_	start_char=655|end_char=664
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=665|end_char=668
+19	global	global	ADJ	JJ	Degree=Pos	18	_	_	start_char=669|end_char=675
+20	rise	rise	NOUN	NN	Number=Sing	19	_	_	start_char=676|end_char=680
+21	of	of	ADP	IN	_	20	_	_	start_char=681|end_char=683
+22	1.3	1.3	NUM	CD	NumForm=Digit|NumType=Frac	21	_	_	start_char=684|end_char=687
+23	degrees	degree	NOUN	NNS	Number=Plur	22	_	_	start_char=688|end_char=695|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=695|end_char=696|SpacesAfter=\n
+
+# text = It turns out that Europe is warming twice as fast as the rest of the world.
+# sent_id = 5
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=697|end_char=699
+2	turns	turn	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=700|end_char=705
+3	out	out	ADP	RP	_	2	_	_	start_char=706|end_char=709
+4	that	that	SCONJ	IN	_	3	_	_	start_char=710|end_char=714
+5	Europe	Europe	PROPN	NNP	Number=Sing	4	_	_	start_char=715|end_char=721
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=722|end_char=724
+7	warming	warm	VERB	VBG	Tense=Pres|VerbForm=Part	6	_	_	start_char=725|end_char=732
+8	twice	twice	ADV	RB	NumType=Mult	7	_	_	start_char=733|end_char=738
+9	as	as	ADV	RB	_	8	_	_	start_char=739|end_char=741
+10	fast	fast	ADV	RB	Degree=Pos	9	_	_	start_char=742|end_char=746
+11	as	as	ADP	IN	_	10	_	_	start_char=747|end_char=749
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=750|end_char=753
+13	rest	rest	NOUN	NN	Number=Sing	12	_	_	start_char=754|end_char=758
+14	of	of	ADP	IN	_	13	_	_	start_char=759|end_char=761
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=762|end_char=765
+16	world	world	NOUN	NN	Number=Sing	15	_	_	start_char=766|end_char=771|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=771|end_char=772|SpacesAfter=\n
+
+# text = Elizabeth Hamdouche, deputy director of the European Commission's Copernicus Unit, points out that the past year has been marked by record temperatures, forest fires and a lack of snowfall.
+# sent_id = 6
+1	Elizabeth	Elizabeth	PROPN	NNP	Number=Sing	0	_	_	start_char=773|end_char=782
+2	Hamdouche	Hamdouche	PROPN	NNP	Number=Sing	1	_	_	start_char=783|end_char=792|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=792|end_char=793
+4	deputy	deputy	ADJ	JJ	Degree=Pos	3	_	_	start_char=794|end_char=800
+5	director	director	NOUN	NN	Number=Sing	4	_	_	start_char=801|end_char=809
+6	of	of	ADP	IN	_	5	_	_	start_char=810|end_char=812
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=813|end_char=816
+8	European	European	ADJ	NNP	Degree=Pos	7	_	_	start_char=817|end_char=825
+9-10	Commission's	_	_	_	_	_	_	_	start_char=826|end_char=838
+9	Commission	Commission	PROPN	NNP	Number=Sing	8	_	_	start_char=826|end_char=836
+10	's	's	PART	POS	_	9	_	_	start_char=836|end_char=838
+11	Copernicus	Copernicus	PROPN	NNP	Number=Sing	10	_	_	start_char=839|end_char=849
+12	Unit	unit	PROPN	NNP	Number=Sing	11	_	_	start_char=850|end_char=854|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=854|end_char=855
+14	points	point	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=856|end_char=862
+15	out	out	ADP	RP	_	14	_	_	start_char=863|end_char=866
+16	that	that	SCONJ	IN	_	15	_	_	start_char=867|end_char=871
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=872|end_char=875
+18	past	past	ADJ	JJ	Degree=Pos	17	_	_	start_char=876|end_char=880
+19	year	year	NOUN	NN	Number=Sing	18	_	_	start_char=881|end_char=885
+20	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	_	_	start_char=886|end_char=889
+21	been	be	AUX	VBN	Tense=Past|VerbForm=Part	20	_	_	start_char=890|end_char=894
+22	marked	mark	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	21	_	_	start_char=895|end_char=901
+23	by	by	ADP	IN	_	22	_	_	start_char=902|end_char=904
+24	record	record	NOUN	NN	Number=Sing	23	_	_	start_char=905|end_char=911
+25	temperatures	temperature	NOUN	NNS	Number=Plur	24	_	_	start_char=912|end_char=924|SpaceAfter=No
+26	,	,	PUNCT	,	_	25	_	_	start_char=924|end_char=925
+27	forest	forest	NOUN	NN	Number=Sing	26	_	_	start_char=926|end_char=932
+28	fires	fire	NOUN	NNS	Number=Plur	27	_	_	start_char=933|end_char=938
+29	and	and	CCONJ	CC	_	28	_	_	start_char=939|end_char=942
+30	a	a	DET	DT	Definite=Ind|PronType=Art	29	_	_	start_char=943|end_char=944
+31	lack	lack	NOUN	NN	Number=Sing	30	_	_	start_char=945|end_char=949
+32	of	of	ADP	IN	_	31	_	_	start_char=950|end_char=952
+33	snowfall	snowfall	NOUN	NN	Number=Sing	32	_	_	start_char=953|end_char=961|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=961|end_char=962|SpacesAfter=\n
+
+# text = Heatwaves previously considered 'extreme' are now affecting parts of Ireland and the UK, where temperatures have reached 'excessive' levels.
+# sent_id = 7
+1	Heatwaves	heatwave	NOUN	NNS	Number=Plur	0	_	_	start_char=963|end_char=972
+2	previously	previously	ADV	RB	_	1	_	_	start_char=973|end_char=983
+3	considered	consider	VERB	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=984|end_char=994
+4	'	'	PUNCT	``	_	3	_	_	start_char=995|end_char=996|SpaceAfter=No
+5	extreme	extreme	ADJ	JJ	Degree=Pos	4	_	_	start_char=996|end_char=1003|SpaceAfter=No
+6	'	'	PUNCT	''	_	5	_	_	start_char=1003|end_char=1004
+7	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=1005|end_char=1008
+8	now	now	ADV	RB	_	7	_	_	start_char=1009|end_char=1012
+9	affecting	affect	VERB	VBG	Tense=Pres|VerbForm=Part	8	_	_	start_char=1013|end_char=1022
+10	parts	part	NOUN	NNS	Number=Plur	9	_	_	start_char=1023|end_char=1028
+11	of	of	ADP	IN	_	10	_	_	start_char=1029|end_char=1031
+12	Ireland	Ireland	PROPN	NNP	Number=Sing	11	_	_	start_char=1032|end_char=1039
+13	and	and	CCONJ	CC	_	12	_	_	start_char=1040|end_char=1043
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=1044|end_char=1047
+15	UK	UK	PROPN	NNP	Number=Sing	14	_	_	start_char=1048|end_char=1050|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=1050|end_char=1051
+17	where	where	ADV	WRB	PronType=Rel	16	_	_	start_char=1052|end_char=1057
+18	temperatures	temperature	NOUN	NNS	Number=Plur	17	_	_	start_char=1058|end_char=1070
+19	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=1071|end_char=1075
+20	reached	reach	VERB	VBN	Tense=Past|VerbForm=Part	19	_	_	start_char=1076|end_char=1083
+21	'	'	PUNCT	``	_	20	_	_	start_char=1084|end_char=1085|SpaceAfter=No
+22	excessive	excessive	ADJ	JJ	Degree=Pos	21	_	_	start_char=1085|end_char=1094|SpaceAfter=No
+23	'	'	PUNCT	''	_	22	_	_	start_char=1094|end_char=1095
+24	levels	level	NOUN	NNS	Number=Plur	23	_	_	start_char=1096|end_char=1102|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=1102|end_char=1103|SpacesAfter=\n
+
+# text = Copernicus director Carlo Buontempo notes that extreme weather events in 2023 resulted in losses of tens of billions of euros.
+# sent_id = 8
+1	Copernicus	Copernicus	PROPN	NNP	Number=Sing	0	_	_	start_char=1104|end_char=1114
+2	director	director	NOUN	NN	Number=Sing	1	_	_	start_char=1115|end_char=1123
+3	Carlo	Carlo	PROPN	NNP	Number=Sing	2	_	_	start_char=1124|end_char=1129
+4	Buontempo	Buontempo	PROPN	NNP	Number=Sing	3	_	_	start_char=1130|end_char=1139
+5	notes	note	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1140|end_char=1145
+6	that	that	SCONJ	IN	_	5	_	_	start_char=1146|end_char=1150
+7	extreme	extreme	ADJ	JJ	Degree=Pos	6	_	_	start_char=1151|end_char=1158
+8	weather	weather	NOUN	NN	Number=Sing	7	_	_	start_char=1159|end_char=1166
+9	events	event	NOUN	NNS	Number=Plur	8	_	_	start_char=1167|end_char=1173
+10	in	in	ADP	IN	_	9	_	_	start_char=1174|end_char=1176
+11	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=1177|end_char=1181
+12	resulted	result	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=1182|end_char=1190
+13	in	in	ADP	IN	_	12	_	_	start_char=1191|end_char=1193
+14	losses	loss	NOUN	NNS	Number=Plur	13	_	_	start_char=1194|end_char=1200
+15	of	of	ADP	IN	_	14	_	_	start_char=1201|end_char=1203
+16	tens	ten	NOUN	NNS	Number=Plur	15	_	_	start_char=1204|end_char=1208
+17	of	of	ADP	IN	_	16	_	_	start_char=1209|end_char=1211
+18	billions	billion	NOUN	NNS	Number=Plur	17	_	_	start_char=1212|end_char=1220
+19	of	of	ADP	IN	_	18	_	_	start_char=1221|end_char=1223
+20	euros	euro	NOUN	NNS	Number=Plur	19	_	_	start_char=1224|end_char=1229|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=1229|end_char=1230|SpacesAfter=\n
+
+# text = Since the 1980s, Europe has warmed by 0.5 ºC per decade, 0.2 ºC more than the global average.
+# sent_id = 9
+1	Since	since	ADP	IN	_	0	_	_	start_char=1231|end_char=1236
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=1237|end_char=1240
+3	1980s	1980s	NOUN	NNS	Number=Plur	2	_	_	start_char=1241|end_char=1246|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1246|end_char=1247
+5	Europe	Europe	PROPN	NNP	Number=Sing	4	_	_	start_char=1248|end_char=1254
+6	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1255|end_char=1258
+7	warmed	warm	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=1259|end_char=1265
+8	by	by	ADP	IN	_	7	_	_	start_char=1266|end_char=1268
+9	0.5	0.5	NUM	CD	NumForm=Digit|NumType=Frac	8	_	_	start_char=1269|end_char=1272
+10	º	º	NOUN	NNS	Number=Plur	9	_	_	start_char=1273|end_char=1274|SpaceAfter=No
+11	C	C	PROPN	NNP	Number=Sing	10	_	_	start_char=1274|end_char=1275
+12	per	per	ADP	IN	_	11	_	_	start_char=1276|end_char=1279
+13	decade	decade	NOUN	NN	Number=Sing	12	_	_	start_char=1280|end_char=1286|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=1286|end_char=1287
+15	0.2	0.2	NUM	CD	NumForm=Digit|NumType=Frac	14	_	_	start_char=1288|end_char=1291
+16	º	º	SYM	SYM	_	15	_	_	start_char=1292|end_char=1293|SpaceAfter=No
+17	C	C	PROPN	NNP	Number=Sing	16	_	_	start_char=1293|end_char=1294
+18	more	more	ADJ	JJR	Degree=Cmp	17	_	_	start_char=1295|end_char=1299
+19	than	than	ADP	IN	_	18	_	_	start_char=1300|end_char=1304
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=1305|end_char=1308
+21	global	global	ADJ	JJ	Degree=Pos	20	_	_	start_char=1309|end_char=1315
+22	average	average	NOUN	NN	Number=Sing	21	_	_	start_char=1316|end_char=1323|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=1323|end_char=1324|SpaceAfter=No
+

@@ -1,0 +1,349 @@
+# text = Atrocity!
+# sent_id = 0
+1	Atrocity	atrocity	NOUN	NN	Number=Sing	0	_	_	start_char=0|end_char=8|SpaceAfter=No
+2	!	!	PUNCT	.	_	1	_	_	start_char=8|end_char=9
+
+# text = The Russians began to cut heads on the front
+# sent_id = 1
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=10|end_char=13
+2	Russians	Russian	PROPN	NNPS	Number=Plur	1	_	_	start_char=14|end_char=22
+3	began	begin	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=23|end_char=28
+4	to	to	PART	TO	_	3	_	_	start_char=29|end_char=31
+5	cut	cut	VERB	VB	VerbForm=Inf	4	_	_	start_char=32|end_char=35
+6	heads	head	NOUN	NNS	Number=Plur	5	_	_	start_char=36|end_char=41
+7	on	on	ADP	IN	_	6	_	_	start_char=42|end_char=44
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=45|end_char=48
+9	front	front	NOUN	NN	Number=Sing	8	_	_	start_char=49|end_char=54|SpacesAfter=\n\n
+
+# text = This is the latest accusation of atrocity made by Ukrainian prosecutors against Moscow Kiev has accused Russian forces of beheading a Ukrainian serviceman in the eastern Donetsk region, the latest accusation of atrocity leveled by Ukrainian prosecutors at Moscow.
+# sent_id = 2
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=56|end_char=60
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=61|end_char=63
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=64|end_char=67
+4	latest	late	ADJ	JJS	Degree=Sup	3	_	_	start_char=68|end_char=74
+5	accusation	accusation	NOUN	NN	Number=Sing	4	_	_	start_char=75|end_char=85
+6	of	of	ADP	IN	_	5	_	_	start_char=86|end_char=88
+7	atrocity	atrocity	NOUN	NN	Number=Sing	6	_	_	start_char=89|end_char=97
+8	made	make	VERB	VBN	Tense=Past|VerbForm=Part	7	_	_	start_char=98|end_char=102
+9	by	by	ADP	IN	_	8	_	_	start_char=103|end_char=105
+10	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	9	_	_	start_char=106|end_char=115
+11	prosecutors	prosecutor	NOUN	NNS	Number=Plur	10	_	_	start_char=116|end_char=127
+12	against	against	ADP	IN	_	11	_	_	start_char=128|end_char=135
+13	Moscow	Moscow	PROPN	NNP	Number=Sing	12	_	_	start_char=136|end_char=142|SpacesAfter=\n
+14	Kiev	Kiev	PROPN	NNP	Number=Sing	13	_	_	start_char=143|end_char=147
+15	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=148|end_char=151
+16	accused	accuse	VERB	VBN	Tense=Past|VerbForm=Part	15	_	_	start_char=152|end_char=159
+17	Russian	Russian	ADJ	JJ	Degree=Pos	16	_	_	start_char=160|end_char=167
+18	forces	force	NOUN	NNS	Number=Plur	17	_	_	start_char=168|end_char=174
+19	of	of	SCONJ	IN	_	18	_	_	start_char=175|end_char=177
+20	beheading	behead	VERB	VBG	VerbForm=Ger	19	_	_	start_char=178|end_char=187
+21	a	a	DET	DT	Definite=Ind|PronType=Art	20	_	_	start_char=188|end_char=189
+22	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	21	_	_	start_char=190|end_char=199
+23	serviceman	serviceman	NOUN	NN	Number=Sing	22	_	_	start_char=200|end_char=210
+24	in	in	ADP	IN	_	23	_	_	start_char=211|end_char=213
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=214|end_char=217
+26	eastern	eastern	ADJ	JJ	Degree=Pos	25	_	_	start_char=218|end_char=225
+27	Donetsk	Donetsk	PROPN	NNP	Number=Sing	26	_	_	start_char=226|end_char=233
+28	region	region	NOUN	NN	Number=Sing	27	_	_	start_char=234|end_char=240|SpaceAfter=No
+29	,	,	PUNCT	,	_	28	_	_	start_char=240|end_char=241
+30	the	the	DET	DT	Definite=Def|PronType=Art	29	_	_	start_char=242|end_char=245
+31	latest	late	ADJ	JJS	Degree=Sup	30	_	_	start_char=246|end_char=252
+32	accusation	accusation	NOUN	NN	Number=Sing	31	_	_	start_char=253|end_char=263
+33	of	of	ADP	IN	_	32	_	_	start_char=264|end_char=266
+34	atrocity	atrocity	NOUN	NN	Number=Sing	33	_	_	start_char=267|end_char=275
+35	leveled	level	VERB	VBN	Tense=Past|VerbForm=Part	34	_	_	start_char=276|end_char=283
+36	by	by	ADP	IN	_	35	_	_	start_char=284|end_char=286
+37	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	36	_	_	start_char=287|end_char=296
+38	prosecutors	prosecutor	NOUN	NNS	Number=Plur	37	_	_	start_char=297|end_char=308
+39	at	at	ADP	IN	_	38	_	_	start_char=309|end_char=311
+40	Moscow	Moscow	PROPN	NNP	Number=Sing	39	_	_	start_char=312|end_char=318|SpaceAfter=No
+41	.	.	PUNCT	.	_	40	_	_	start_char=318|end_char=319|SpacesAfter=\n
+
+# text = "While conducting an aerial reconnaissance of one of the fighting positions in Donetsk region, the Ukrainian military discovered a damaged Ukrainian Defense Forces armored vehicle.
+# sent_id = 3
+1	"	"	PUNCT	``	_	0	_	_	start_char=320|end_char=321|SpaceAfter=No
+2	While	while	SCONJ	IN	_	1	_	_	start_char=321|end_char=326
+3	conducting	conduct	VERB	VBG	VerbForm=Ger	2	_	_	start_char=327|end_char=337
+4	an	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=338|end_char=340
+5	aerial	aerial	ADJ	JJ	Degree=Pos	4	_	_	start_char=341|end_char=347
+6	reconnaissance	reconnaissance	NOUN	NN	Number=Sing	5	_	_	start_char=348|end_char=362
+7	of	of	ADP	IN	_	6	_	_	start_char=363|end_char=365
+8	one	one	NUM	CD	NumForm=Word|NumType=Card	7	_	_	start_char=366|end_char=369
+9	of	of	ADP	IN	_	8	_	_	start_char=370|end_char=372
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=373|end_char=376
+11	fighting	fighting	NOUN	NN	Number=Sing	10	_	_	start_char=377|end_char=385
+12	positions	position	NOUN	NNS	Number=Plur	11	_	_	start_char=386|end_char=395
+13	in	in	ADP	IN	_	12	_	_	start_char=396|end_char=398
+14	Donetsk	Donetsk	PROPN	NNP	Number=Sing	13	_	_	start_char=399|end_char=406
+15	region	region	NOUN	NN	Number=Sing	14	_	_	start_char=407|end_char=413|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=413|end_char=414
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=415|end_char=418
+18	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	17	_	_	start_char=419|end_char=428
+19	military	military	NOUN	NN	Number=Sing	18	_	_	start_char=429|end_char=437
+20	discovered	discover	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	_	_	start_char=438|end_char=448
+21	a	a	DET	DT	Definite=Ind|PronType=Art	20	_	_	start_char=449|end_char=450
+22	damaged	damage	VERB	VBN	Tense=Past|VerbForm=Part	21	_	_	start_char=451|end_char=458
+23	Ukrainian	Ukrainian	ADJ	NNP	Degree=Pos	22	_	_	start_char=459|end_char=468
+24	Defense	Defense	PROPN	NNP	Number=Sing	23	_	_	start_char=469|end_char=476
+25	Forces	Force	PROPN	NNPS	Number=Plur	24	_	_	start_char=477|end_char=483
+26	armored	armored	ADJ	JJ	Degree=Pos	25	_	_	start_char=484|end_char=491
+27	vehicle	vehicle	NOUN	NN	Number=Sing	26	_	_	start_char=492|end_char=499|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=499|end_char=500
+
+# text = It contained the severed head of a Ukrainian defender," the office of Ukraine's Prosecutor General Andriy Kostin said on social media.
+# sent_id = 4
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=501|end_char=503
+2	contained	contain	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=504|end_char=513
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=514|end_char=517
+4	severed	severed	ADJ	JJ	Degree=Pos	3	_	_	start_char=518|end_char=525
+5	head	head	NOUN	NN	Number=Sing	4	_	_	start_char=526|end_char=530
+6	of	of	ADP	IN	_	5	_	_	start_char=531|end_char=533
+7	a	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=534|end_char=535
+8	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	7	_	_	start_char=536|end_char=545
+9	defender	defender	NOUN	NN	Number=Sing	8	_	_	start_char=546|end_char=554|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=554|end_char=555|SpaceAfter=No
+11	"	"	PUNCT	''	_	10	_	_	start_char=555|end_char=556
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=557|end_char=560
+13	office	office	NOUN	NN	Number=Sing	12	_	_	start_char=561|end_char=567
+14	of	of	ADP	IN	_	13	_	_	start_char=568|end_char=570
+15-16	Ukraine's	_	_	_	_	_	_	_	start_char=571|end_char=580
+15	Ukraine	Ukraine	PROPN	NNP	Number=Sing	14	_	_	start_char=571|end_char=578
+16	's	's	PART	POS	_	15	_	_	start_char=578|end_char=580
+17	Prosecutor	Prosecutor	PROPN	NNP	Number=Sing	16	_	_	start_char=581|end_char=591
+18	General	General	PROPN	NNP	Number=Sing	17	_	_	start_char=592|end_char=599
+19	Andriy	Andriy	PROPN	NNP	Number=Sing	18	_	_	start_char=600|end_char=606
+20	Kostin	Kostin	PROPN	NNP	Number=Sing	19	_	_	start_char=607|end_char=613
+21	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	_	_	start_char=614|end_char=618
+22	on	on	ADP	IN	_	21	_	_	start_char=619|end_char=621
+23	social	social	ADJ	JJ	Degree=Pos	22	_	_	start_char=622|end_char=628
+24	media	media	NOUN	NN	Number=Sing	23	_	_	start_char=629|end_char=634|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=634|end_char=635|SpacesAfter=\n
+
+# text = "We have received information that Russian commanders issued orders that Ukrainian servicemen should not be captured, but killed with inhuman cruelty - by beheading," he was quoted by UNIAN as saying.
+# sent_id = 5
+1	"	"	PUNCT	``	_	0	_	_	start_char=636|end_char=637|SpaceAfter=No
+2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	1	_	_	start_char=637|end_char=639
+3	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=640|end_char=644
+4	received	receive	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=645|end_char=653
+5	information	information	NOUN	NN	Number=Sing	4	_	_	start_char=654|end_char=665
+6	that	that	SCONJ	IN	_	5	_	_	start_char=666|end_char=670
+7	Russian	Russian	ADJ	JJ	Degree=Pos	6	_	_	start_char=671|end_char=678
+8	commanders	commander	NOUN	NNS	Number=Plur	7	_	_	start_char=679|end_char=689
+9	issued	issue	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=690|end_char=696
+10	orders	order	NOUN	NNS	Number=Plur	9	_	_	start_char=697|end_char=703
+11	that	that	SCONJ	IN	_	10	_	_	start_char=704|end_char=708
+12	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	11	_	_	start_char=709|end_char=718
+13	servicemen	servicemen	NOUN	NNS	Number=Plur	12	_	_	start_char=719|end_char=729
+14	should	should	AUX	MD	VerbForm=Fin	13	_	_	start_char=730|end_char=736
+15	not	not	PART	RB	_	14	_	_	start_char=737|end_char=740
+16	be	be	AUX	VB	VerbForm=Inf	15	_	_	start_char=741|end_char=743
+17	captured	capture	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	16	_	_	start_char=744|end_char=752|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=752|end_char=753
+19	but	but	CCONJ	CC	_	18	_	_	start_char=754|end_char=757
+20	killed	kill	VERB	VBN	Tense=Past|VerbForm=Part	19	_	_	start_char=758|end_char=764
+21	with	with	ADP	IN	_	20	_	_	start_char=765|end_char=769
+22	inhuman	inhuman	ADJ	JJ	Degree=Pos	21	_	_	start_char=770|end_char=777
+23	cruelty	cruelty	NOUN	NN	Number=Sing	22	_	_	start_char=778|end_char=785
+24	-	-	PUNCT	HYPH	_	23	_	_	start_char=786|end_char=787
+25	by	by	SCONJ	IN	_	24	_	_	start_char=788|end_char=790
+26	beheading	behead	VERB	VBG	VerbForm=Ger	25	_	_	start_char=791|end_char=800|SpaceAfter=No
+27	,	,	PUNCT	,	_	26	_	_	start_char=800|end_char=801|SpaceAfter=No
+28	"	"	PUNCT	''	_	27	_	_	start_char=801|end_char=802
+29	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	_	_	start_char=803|end_char=805
+30	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	29	_	_	start_char=806|end_char=809
+31	quoted	quote	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	30	_	_	start_char=810|end_char=816
+32	by	by	ADP	IN	_	31	_	_	start_char=817|end_char=819
+33	UNIAN	UNIAN	PROPN	NNP	Number=Sing	32	_	_	start_char=820|end_char=825
+34	as	as	SCONJ	IN	_	33	_	_	start_char=826|end_char=828
+35	saying	say	VERB	VBG	VerbForm=Ger	34	_	_	start_char=829|end_char=835|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=835|end_char=836|SpacesAfter=\n
+
+# text = Such an act, he said, is "a terrible barbarity that has no place in the 21st century."
+# sent_id = 6
+1	Such	such	DET	PDT	_	0	_	_	start_char=837|end_char=841
+2	an	a	DET	DT	Definite=Ind|PronType=Art	1	_	_	start_char=842|end_char=844
+3	act	act	NOUN	NN	Number=Sing	2	_	_	start_char=845|end_char=848|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=848|end_char=849
+5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	_	_	start_char=850|end_char=852
+6	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=853|end_char=857|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=857|end_char=858
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=859|end_char=861
+9	"	"	PUNCT	``	_	8	_	_	start_char=862|end_char=863|SpaceAfter=No
+10	a	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=863|end_char=864
+11	terrible	terrible	ADJ	JJ	Degree=Pos	10	_	_	start_char=865|end_char=873
+12	barbarity	barbarity	NOUN	NN	Number=Sing	11	_	_	start_char=874|end_char=883
+13	that	that	PRON	WDT	PronType=Rel	12	_	_	start_char=884|end_char=888
+14	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=889|end_char=892
+15	no	no	DET	DT	_	14	_	_	start_char=893|end_char=895
+16	place	place	NOUN	NN	Number=Sing	15	_	_	start_char=896|end_char=901
+17	in	in	ADP	IN	_	16	_	_	start_char=902|end_char=904
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=905|end_char=908
+19	21st	21st	ADJ	JJ	Degree=Pos|NumType=Ord	18	_	_	start_char=909|end_char=913
+20	century	century	NOUN	NN	Number=Sing	19	_	_	start_char=914|end_char=921|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=921|end_char=922|SpaceAfter=No
+22	"	"	PUNCT	''	_	21	_	_	start_char=922|end_char=923|SpacesAfter=\n
+
+# text = "And this is further proof that the war crimes committed by the Russians are not isolated incidents, but a planned strategy of the Russian regime.
+# sent_id = 7
+1	"	"	PUNCT	``	_	0	_	_	start_char=924|end_char=925|SpaceAfter=No
+2	And	and	CCONJ	CC	_	1	_	_	start_char=925|end_char=928
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	2	_	_	start_char=929|end_char=933
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=934|end_char=936
+5	further	further	ADJ	JJ	Degree=Pos	4	_	_	start_char=937|end_char=944
+6	proof	proof	NOUN	NN	Number=Sing	5	_	_	start_char=945|end_char=950
+7	that	that	SCONJ	IN	_	6	_	_	start_char=951|end_char=955
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=956|end_char=959
+9	war	war	NOUN	NN	Number=Sing	8	_	_	start_char=960|end_char=963
+10	crimes	crime	NOUN	NNS	Number=Plur	9	_	_	start_char=964|end_char=970
+11	committed	commit	VERB	VBN	Tense=Past|VerbForm=Part	10	_	_	start_char=971|end_char=980
+12	by	by	ADP	IN	_	11	_	_	start_char=981|end_char=983
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=984|end_char=987
+14	Russians	Russian	PROPN	NNPS	Number=Plur	13	_	_	start_char=988|end_char=996
+15	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=997|end_char=1000
+16	not	not	PART	RB	_	15	_	_	start_char=1001|end_char=1004
+17	isolated	isolated	ADJ	JJ	Degree=Pos	16	_	_	start_char=1005|end_char=1013
+18	incidents	incident	NOUN	NNS	Number=Plur	17	_	_	start_char=1014|end_char=1023|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=1023|end_char=1024
+20	but	but	CCONJ	CC	_	19	_	_	start_char=1025|end_char=1028
+21	a	a	DET	DT	Definite=Ind|PronType=Art	20	_	_	start_char=1029|end_char=1030
+22	planned	plan	VERB	VBN	Tense=Past|VerbForm=Part	21	_	_	start_char=1031|end_char=1038
+23	strategy	strategy	NOUN	NN	Number=Sing	22	_	_	start_char=1039|end_char=1047
+24	of	of	ADP	IN	_	23	_	_	start_char=1048|end_char=1050
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=1051|end_char=1054
+26	Russian	Russian	ADJ	JJ	Degree=Pos	25	_	_	start_char=1055|end_char=1062
+27	regime	regime	NOUN	NN	Number=Sing	26	_	_	start_char=1063|end_char=1069|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=1069|end_char=1070
+
+# text = These criminal orders were given at the level of the battalion and company leadership of the occupation troops," added Ukraine's chief prosecutor.
+# sent_id = 8
+1	These	this	DET	DT	Number=Plur|PronType=Dem	0	_	_	start_char=1071|end_char=1076
+2	criminal	criminal	ADJ	JJ	Degree=Pos	1	_	_	start_char=1077|end_char=1085
+3	orders	order	NOUN	NNS	Number=Plur	2	_	_	start_char=1086|end_char=1092
+4	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=1093|end_char=1097
+5	given	give	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	_	_	start_char=1098|end_char=1103
+6	at	at	ADP	IN	_	5	_	_	start_char=1104|end_char=1106
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1107|end_char=1110
+8	level	level	NOUN	NN	Number=Sing	7	_	_	start_char=1111|end_char=1116
+9	of	of	ADP	IN	_	8	_	_	start_char=1117|end_char=1119
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=1120|end_char=1123
+11	battalion	battalion	NOUN	NN	Number=Sing	10	_	_	start_char=1124|end_char=1133
+12	and	and	CCONJ	CC	_	11	_	_	start_char=1134|end_char=1137
+13	company	company	NOUN	NN	Number=Sing	12	_	_	start_char=1138|end_char=1145
+14	leadership	leadership	NOUN	NN	Number=Sing	13	_	_	start_char=1146|end_char=1156
+15	of	of	ADP	IN	_	14	_	_	start_char=1157|end_char=1159
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=1160|end_char=1163
+17	occupation	occupation	NOUN	NN	Number=Sing	16	_	_	start_char=1164|end_char=1174
+18	troops	troops	NOUN	NNS	Number=Plur	17	_	_	start_char=1175|end_char=1181|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=1181|end_char=1182|SpaceAfter=No
+20	"	"	PUNCT	''	_	19	_	_	start_char=1182|end_char=1183
+21	added	add	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	_	_	start_char=1184|end_char=1189
+22-23	Ukraine's	_	_	_	_	_	_	_	start_char=1190|end_char=1199
+22	Ukraine	Ukraine	PROPN	NNP	Number=Sing	21	_	_	start_char=1190|end_char=1197
+23	's	's	PART	POS	_	22	_	_	start_char=1197|end_char=1199
+24	chief	chief	ADJ	JJ	Degree=Pos	23	_	_	start_char=1200|end_char=1205
+25	prosecutor	prosecutor	NOUN	NN	Number=Sing	24	_	_	start_char=1206|end_char=1216|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=1216|end_char=1217|SpacesAfter=\n
+
+# text = Earlier, the commissioner of the Verkhovna Rada on human rights Dmytro Lubynets said that the Russians committed war crimes against Ukrainian prisoners of war.
+# sent_id = 9
+1	Earlier	early	ADV	RBR	Degree=Cmp	0	_	_	start_char=1218|end_char=1225|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=1225|end_char=1226
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1227|end_char=1230
+4	commissioner	commissioner	NOUN	NN	Number=Sing	3	_	_	start_char=1231|end_char=1243
+5	of	of	ADP	IN	_	4	_	_	start_char=1244|end_char=1246
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1247|end_char=1250
+7	Verkhovna	Verkhovna	PROPN	NNP	Number=Sing	6	_	_	start_char=1251|end_char=1260
+8	Rada	Rada	PROPN	NNP	Number=Sing	7	_	_	start_char=1261|end_char=1265
+9	on	on	ADP	IN	_	8	_	_	start_char=1266|end_char=1268
+10	human	human	ADJ	JJ	Degree=Pos	9	_	_	start_char=1269|end_char=1274
+11	rights	right	NOUN	NNS	Number=Plur	10	_	_	start_char=1275|end_char=1281
+12	Dmytro	Dmytro	PROPN	NNP	Number=Sing	11	_	_	start_char=1282|end_char=1288
+13	Lubynets	Lubynets	PROPN	NNP	Number=Sing	12	_	_	start_char=1289|end_char=1297
+14	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	_	_	start_char=1298|end_char=1302
+15	that	that	SCONJ	IN	_	14	_	_	start_char=1303|end_char=1307
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=1308|end_char=1311
+17	Russians	Russian	PROPN	NNPS	Number=Plur	16	_	_	start_char=1312|end_char=1320
+18	committed	commit	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	17	_	_	start_char=1321|end_char=1330
+19	war	war	NOUN	NN	Number=Sing	18	_	_	start_char=1331|end_char=1334
+20	crimes	crime	NOUN	NNS	Number=Plur	19	_	_	start_char=1335|end_char=1341
+21	against	against	ADP	IN	_	20	_	_	start_char=1342|end_char=1349
+22	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	21	_	_	start_char=1350|end_char=1359
+23	prisoners	prisoner	NOUN	NNS	Number=Plur	22	_	_	start_char=1360|end_char=1369
+24	of	of	ADP	IN	_	23	_	_	start_char=1370|end_char=1372
+25	war	war	NOUN	NN	Number=Sing	24	_	_	start_char=1373|end_char=1376|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=1376|end_char=1377
+
+# text = According to him, there are many such cases.
+# sent_id = 10
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=1378|end_char=1387
+2	to	to	ADP	IN	_	1	_	_	start_char=1388|end_char=1390
+3	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	_	_	start_char=1391|end_char=1394|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1394|end_char=1395
+5	there	there	PRON	EX	_	4	_	_	start_char=1396|end_char=1401
+6	are	be	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1402|end_char=1405
+7	many	many	ADJ	JJ	Degree=Pos	6	_	_	start_char=1406|end_char=1410
+8	such	such	ADJ	JJ	Degree=Pos	7	_	_	start_char=1411|end_char=1415
+9	cases	case	NOUN	NNS	Number=Plur	8	_	_	start_char=1416|end_char=1421|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=1421|end_char=1422|SpacesAfter=\n
+
+# text = "Actually, the cases, executions, beatings or torture of our prisoners of war that become public are a small part of the data I receive every day.
+# sent_id = 11
+1	"	"	PUNCT	``	_	0	_	_	start_char=1423|end_char=1424|SpaceAfter=No
+2	Actually	actually	ADV	RB	_	1	_	_	start_char=1424|end_char=1432|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=1432|end_char=1433
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1434|end_char=1437
+5	cases	case	NOUN	NNS	Number=Plur	4	_	_	start_char=1438|end_char=1443|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=1443|end_char=1444
+7	executions	execution	NOUN	NNS	Number=Plur	6	_	_	start_char=1445|end_char=1455|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=1455|end_char=1456
+9	beatings	beating	NOUN	NNS	Number=Plur	8	_	_	start_char=1457|end_char=1465
+10	or	or	CCONJ	CC	_	9	_	_	start_char=1466|end_char=1468
+11	torture	torture	NOUN	NN	Number=Sing	10	_	_	start_char=1469|end_char=1476
+12	of	of	ADP	IN	_	11	_	_	start_char=1477|end_char=1479
+13	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	12	_	_	start_char=1480|end_char=1483
+14	prisoners	prisoner	NOUN	NNS	Number=Plur	13	_	_	start_char=1484|end_char=1493
+15	of	of	ADP	IN	_	14	_	_	start_char=1494|end_char=1496
+16	war	war	NOUN	NN	Number=Sing	15	_	_	start_char=1497|end_char=1500
+17	that	that	PRON	WDT	PronType=Rel	16	_	_	start_char=1501|end_char=1505
+18	become	become	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=1506|end_char=1512
+19	public	public	NOUN	NN	Number=Sing	18	_	_	start_char=1513|end_char=1519
+20	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	_	_	start_char=1520|end_char=1523
+21	a	a	DET	DT	Definite=Ind|PronType=Art	20	_	_	start_char=1524|end_char=1525
+22	small	small	ADJ	JJ	Degree=Pos	21	_	_	start_char=1526|end_char=1531
+23	part	part	NOUN	NN	Number=Sing	22	_	_	start_char=1532|end_char=1536
+24	of	of	ADP	IN	_	23	_	_	start_char=1537|end_char=1539
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=1540|end_char=1543
+26	data	datum	NOUN	NNS	Number=Plur	25	_	_	start_char=1544|end_char=1548
+27	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	26	_	_	start_char=1549|end_char=1550
+28	receive	receive	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	27	_	_	start_char=1551|end_char=1558
+29	every	every	DET	DT	PronType=Tot	28	_	_	start_char=1559|end_char=1564
+30	day	day	NOUN	NN	Number=Sing	29	_	_	start_char=1565|end_char=1568|SpaceAfter=No
+31	.	.	PUNCT	.	_	30	_	_	start_char=1568|end_char=1569
+
+# text = A very small part.
+# sent_id = 12
+1	A	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=1570|end_char=1571
+2	very	very	ADV	RB	_	1	_	_	start_char=1572|end_char=1576
+3	small	small	ADJ	JJ	Degree=Pos	2	_	_	start_char=1577|end_char=1582
+4	part	part	NOUN	NN	Number=Sing	3	_	_	start_char=1583|end_char=1587|SpaceAfter=No
+5	.	.	PUNCT	.	_	4	_	_	start_char=1587|end_char=1588
+
+# text = A lot of work has been done to identify every member of the Russian army.
+# sent_id = 13
+1	A	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=1589|end_char=1590
+2	lot	lot	NOUN	NN	Number=Sing	1	_	_	start_char=1591|end_char=1594
+3	of	of	ADP	IN	_	2	_	_	start_char=1595|end_char=1597
+4	work	work	NOUN	NN	Number=Sing	3	_	_	start_char=1598|end_char=1602
+5	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1603|end_char=1606
+6	been	be	AUX	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=1607|end_char=1611
+7	done	do	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	_	_	start_char=1612|end_char=1616
+8	to	to	PART	TO	_	7	_	_	start_char=1617|end_char=1619
+9	identify	identify	VERB	VB	VerbForm=Inf	8	_	_	start_char=1620|end_char=1628
+10	every	every	DET	DT	_	9	_	_	start_char=1629|end_char=1634
+11	member	member	NOUN	NN	Number=Sing	10	_	_	start_char=1635|end_char=1641
+12	of	of	ADP	IN	_	11	_	_	start_char=1642|end_char=1644
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1645|end_char=1648
+14	Russian	Russian	ADJ	JJ	Degree=Pos	13	_	_	start_char=1649|end_char=1656
+15	army	army	NOUN	NN	Number=Sing	14	_	_	start_char=1657|end_char=1661|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=1661|end_char=1662|SpaceAfter=No
+

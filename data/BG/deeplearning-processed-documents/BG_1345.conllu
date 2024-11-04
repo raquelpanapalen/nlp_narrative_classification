@@ -1,0 +1,704 @@
+# text = Biden approves massive wind turbine project that could raise energy bills by more than 50%
+# sent_id = 0
+1	Biden	Biden	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=5
+2	approves	approve	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=6|end_char=14
+3	massive	massive	ADJ	JJ	Degree=Pos	2	_	_	start_char=15|end_char=22
+4	wind	wind	NOUN	NN	Number=Sing	3	_	_	start_char=23|end_char=27
+5	turbine	turbine	NOUN	NN	Number=Sing	4	_	_	start_char=28|end_char=35
+6	project	project	NOUN	NN	Number=Sing	5	_	_	start_char=36|end_char=43
+7	that	that	PRON	WDT	PronType=Rel	6	_	_	start_char=44|end_char=48
+8	could	could	AUX	MD	VerbForm=Fin	7	_	_	start_char=49|end_char=54
+9	raise	raise	VERB	VB	VerbForm=Inf	8	_	_	start_char=55|end_char=60
+10	energy	energy	NOUN	NN	Number=Sing	9	_	_	start_char=61|end_char=67
+11	bills	bill	NOUN	NNS	Number=Plur	10	_	_	start_char=68|end_char=73
+12	by	by	ADP	IN	_	11	_	_	start_char=74|end_char=76
+13	more	more	ADJ	JJR	Degree=Cmp	12	_	_	start_char=77|end_char=81
+14	than	than	ADP	IN	_	13	_	_	start_char=82|end_char=86
+15	50	50	NUM	CD	NumForm=Digit|NumType=Card	14	_	_	start_char=87|end_char=89|SpaceAfter=No
+16	%	%	SYM	NN	Number=Sing	15	_	_	start_char=89|end_char=90|SpacesAfter=\n\n
+
+# text = New Jersey has become the latest victim of the Biden administration's drive for net-zero consumption.
+# sent_id = 1
+1	New	New	ADJ	NNP	Degree=Pos	0	_	_	start_char=92|end_char=95
+2	Jersey	Jersey	PROPN	NNP	Number=Sing	1	_	_	start_char=96|end_char=102
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=103|end_char=106
+4	become	become	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=107|end_char=113
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=114|end_char=117
+6	latest	late	ADJ	JJS	Degree=Sup	5	_	_	start_char=118|end_char=124
+7	victim	victim	NOUN	NN	Number=Sing	6	_	_	start_char=125|end_char=131
+8	of	of	ADP	IN	_	7	_	_	start_char=132|end_char=134
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=135|end_char=138
+10	Biden	Biden	PROPN	NNP	Number=Sing	9	_	_	start_char=139|end_char=144
+11-12	administration's	_	_	_	_	_	_	_	start_char=145|end_char=161
+11	administration	administration	NOUN	NN	Number=Sing	10	_	_	start_char=145|end_char=159
+12	's	's	PART	POS	_	11	_	_	start_char=159|end_char=161
+13	drive	drive	NOUN	NN	Number=Sing	12	_	_	start_char=162|end_char=167
+14	for	for	ADP	IN	_	13	_	_	start_char=168|end_char=171
+15	net	net	NOUN	NN	Number=Sing	14	_	_	start_char=172|end_char=175|SpaceAfter=No
+16	-	-	PUNCT	HYPH	_	15	_	_	start_char=175|end_char=176|SpaceAfter=No
+17	zero	zero	NUM	CD	NumForm=Word|NumType=Card	16	_	_	start_char=176|end_char=180
+18	consumption	consumption	NOUN	NN	Number=Sing	17	_	_	start_char=181|end_char=192|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=192|end_char=193
+
+# text = Earlier this month, the president approved a massive offshore project to build 195 wind turbines by 2028, with the closest one just 14.4 miles from the South Shore.
+# sent_id = 2
+1	Earlier	early	ADV	RBR	Degree=Cmp	0	_	_	start_char=194|end_char=201
+2	this	this	DET	DT	Number=Sing|PronType=Dem	1	_	_	start_char=202|end_char=206
+3	month	month	NOUN	NN	Number=Sing	2	_	_	start_char=207|end_char=212|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=212|end_char=213
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=214|end_char=217
+6	president	president	NOUN	NN	Number=Sing	5	_	_	start_char=218|end_char=227
+7	approved	approve	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=228|end_char=236
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=237|end_char=238
+9	massive	massive	ADJ	JJ	Degree=Pos	8	_	_	start_char=239|end_char=246
+10	offshore	offshore	ADJ	JJ	Degree=Pos	9	_	_	start_char=247|end_char=255
+11	project	project	NOUN	NN	Number=Sing	10	_	_	start_char=256|end_char=263
+12	to	to	PART	TO	_	11	_	_	start_char=264|end_char=266
+13	build	build	VERB	VB	VerbForm=Inf	12	_	_	start_char=267|end_char=272
+14	195	195	NUM	CD	NumForm=Digit|NumType=Card	13	_	_	start_char=273|end_char=276
+15	wind	wind	NOUN	NN	Number=Sing	14	_	_	start_char=277|end_char=281
+16	turbines	turbine	NOUN	NNS	Number=Plur	15	_	_	start_char=282|end_char=290
+17	by	by	ADP	IN	_	16	_	_	start_char=291|end_char=293
+18	2028	2028	NUM	CD	NumForm=Digit|NumType=Card	17	_	_	start_char=294|end_char=298|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=298|end_char=299
+20	with	with	ADP	IN	_	19	_	_	start_char=300|end_char=304
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=305|end_char=308
+22	closest	close	ADJ	JJS	Degree=Sup	21	_	_	start_char=309|end_char=316
+23	one	one	NOUN	NN	Number=Sing	22	_	_	start_char=317|end_char=320
+24	just	just	ADV	RB	_	23	_	_	start_char=321|end_char=325
+25	14.4	14.4	NUM	CD	NumForm=Digit|NumType=Card	24	_	_	start_char=326|end_char=330
+26	miles	mile	NOUN	NNS	Number=Plur	25	_	_	start_char=331|end_char=336
+27	from	from	ADP	IN	_	26	_	_	start_char=337|end_char=341
+28	the	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=342|end_char=345
+29	South	South	PROPN	NNP	Number=Sing	28	_	_	start_char=346|end_char=351
+30	Shore	Shore	PROPN	NNP	Number=Sing	29	_	_	start_char=352|end_char=357|SpaceAfter=No
+31	.	.	PUNCT	.	_	30	_	_	start_char=357|end_char=358|SpacesAfter=\n
+
+# text = The Atlantic Coast-South project, nine years in the making, will deliver 2,800 megawatts of clean, renewable electricity to the Garden State - enough to power about one million homes.
+# sent_id = 3
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=359|end_char=362
+2	Atlantic	Atlantic	ADJ	NNP	Degree=Pos	1	_	_	start_char=363|end_char=371
+3	Coast	Coast	PROPN	NNP	Number=Sing	2	_	_	start_char=372|end_char=377|SpaceAfter=No
+4	-	-	PUNCT	HYPH	_	3	_	_	start_char=377|end_char=378|SpaceAfter=No
+5	South	South	PROPN	NNP	Number=Sing	4	_	_	start_char=378|end_char=383
+6	project	project	NOUN	NN	Number=Sing	5	_	_	start_char=384|end_char=391|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=391|end_char=392
+8	nine	nine	NUM	CD	NumForm=Word|NumType=Card	7	_	_	start_char=393|end_char=397
+9	years	year	NOUN	NNS	Number=Plur	8	_	_	start_char=398|end_char=403
+10	in	in	ADP	IN	_	9	_	_	start_char=404|end_char=406
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=407|end_char=410
+12	making	making	NOUN	NN	Number=Sing	11	_	_	start_char=411|end_char=417|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=417|end_char=418
+14	will	will	AUX	MD	VerbForm=Fin	13	_	_	start_char=419|end_char=423
+15	deliver	deliver	VERB	VB	VerbForm=Inf	14	_	_	start_char=424|end_char=431
+16	2,800	2800	NUM	CD	NumForm=Digit|NumType=Card	15	_	_	start_char=432|end_char=437
+17	megawatts	megawatt	NOUN	NNS	Number=Plur	16	_	_	start_char=438|end_char=447
+18	of	of	ADP	IN	_	17	_	_	start_char=448|end_char=450
+19	clean	clean	ADJ	JJ	Degree=Pos	18	_	_	start_char=451|end_char=456|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=456|end_char=457
+21	renewable	renewable	ADJ	JJ	Degree=Pos	20	_	_	start_char=458|end_char=467
+22	electricity	electricity	NOUN	NN	Number=Sing	21	_	_	start_char=468|end_char=479
+23	to	to	ADP	IN	_	22	_	_	start_char=480|end_char=482
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=483|end_char=486
+25	Garden	Garden	PROPN	NNP	Number=Sing	24	_	_	start_char=487|end_char=493
+26	State	State	PROPN	NNP	Number=Sing	25	_	_	start_char=494|end_char=499
+27	-	-	PUNCT	,	_	26	_	_	start_char=500|end_char=501
+28	enough	enough	ADV	RB	_	27	_	_	start_char=502|end_char=508
+29	to	to	PART	TO	_	28	_	_	start_char=509|end_char=511
+30	power	power	VERB	VB	VerbForm=Inf	29	_	_	start_char=512|end_char=517
+31	about	about	ADV	RB	_	30	_	_	start_char=518|end_char=523
+32	one	one	NUM	CD	NumForm=Word|NumType=Card	31	_	_	start_char=524|end_char=527
+33	million	million	NUM	CD	NumForm=Word|NumType=Card	32	_	_	start_char=528|end_char=535
+34	homes	home	NOUN	NNS	Number=Plur	33	_	_	start_char=536|end_char=541|SpaceAfter=No
+35	.	.	PUNCT	.	_	34	_	_	start_char=541|end_char=542|SpacesAfter=\n
+
+# text = The Biden administration sees the project as another milestone in reaching its goal of deploying 30 gigawatts of offshore wind capacity by 2030.
+# sent_id = 4
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=543|end_char=546
+2	Biden	Biden	PROPN	NNP	Number=Sing	1	_	_	start_char=547|end_char=552
+3	administration	administration	NOUN	NN	Number=Sing	2	_	_	start_char=553|end_char=567
+4	sees	see	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=568|end_char=572
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=573|end_char=576
+6	project	project	NOUN	NN	Number=Sing	5	_	_	start_char=577|end_char=584
+7	as	as	ADP	IN	_	6	_	_	start_char=585|end_char=587
+8	another	another	DET	DT	_	7	_	_	start_char=588|end_char=595
+9	milestone	milestone	NOUN	NN	Number=Sing	8	_	_	start_char=596|end_char=605
+10	in	in	SCONJ	IN	_	9	_	_	start_char=606|end_char=608
+11	reaching	reach	VERB	VBG	VerbForm=Ger	10	_	_	start_char=609|end_char=617
+12	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	_	_	start_char=618|end_char=621
+13	goal	goal	NOUN	NN	Number=Sing	12	_	_	start_char=622|end_char=626
+14	of	of	SCONJ	IN	_	13	_	_	start_char=627|end_char=629
+15	deploying	deploy	VERB	VBG	VerbForm=Ger	14	_	_	start_char=630|end_char=639
+16	30	30	NUM	CD	NumForm=Digit|NumType=Card	15	_	_	start_char=640|end_char=642
+17	gigawatts	gigawatt	NOUN	NNS	Number=Plur	16	_	_	start_char=643|end_char=652
+18	of	of	ADP	IN	_	17	_	_	start_char=653|end_char=655
+19	offshore	offshore	ADJ	JJ	Degree=Pos	18	_	_	start_char=656|end_char=664
+20	wind	wind	NOUN	NN	Number=Sing	19	_	_	start_char=665|end_char=669
+21	capacity	capacity	NOUN	NN	Number=Sing	20	_	_	start_char=670|end_char=678
+22	by	by	ADP	IN	_	21	_	_	start_char=679|end_char=681
+23	2030	2030	NUM	CD	NumForm=Digit|NumType=Card	22	_	_	start_char=682|end_char=686|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=686|end_char=687
+
+# text = But according to an impact report prepared by Whitestrand Consulting, such rapid scale-up is expected to increase residents' energy costs by 55% by 2047, and for industrial users, the increase could be as high as 80%.
+# sent_id = 5
+1	But	but	CCONJ	CC	_	0	_	_	start_char=688|end_char=691
+2	according	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	1	_	_	start_char=692|end_char=701
+3	to	to	ADP	IN	_	2	_	_	start_char=702|end_char=704
+4	an	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=705|end_char=707
+5	impact	impact	NOUN	NN	Number=Sing	4	_	_	start_char=708|end_char=714
+6	report	report	NOUN	NN	Number=Sing	5	_	_	start_char=715|end_char=721
+7	prepared	prepare	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=722|end_char=730
+8	by	by	ADP	IN	_	7	_	_	start_char=731|end_char=733
+9	Whitestrand	Whitestrand	PROPN	NNP	Number=Sing	8	_	_	start_char=734|end_char=745
+10	Consulting	Consulting	PROPN	NNP	Number=Sing	9	_	_	start_char=746|end_char=756|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=756|end_char=757
+12	such	such	ADJ	JJ	Degree=Pos	11	_	_	start_char=758|end_char=762
+13	rapid	rapid	ADJ	JJ	Degree=Pos	12	_	_	start_char=763|end_char=768
+14	scale	scale	NOUN	NN	Number=Sing	13	_	_	start_char=769|end_char=774|SpaceAfter=No
+15	-	-	PUNCT	HYPH	_	14	_	_	start_char=774|end_char=775|SpaceAfter=No
+16	up	up	NOUN	NN	Number=Sing	15	_	_	start_char=775|end_char=777
+17	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=778|end_char=780
+18	expected	expect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	17	_	_	start_char=781|end_char=789
+19	to	to	PART	TO	_	18	_	_	start_char=790|end_char=792
+20	increase	increase	VERB	VB	VerbForm=Inf	19	_	_	start_char=793|end_char=801
+21-22	residents'	_	_	_	_	_	_	_	start_char=802|end_char=812
+21	residents	resident	NOUN	NNS	Number=Plur	20	_	_	start_char=802|end_char=811
+22	'	's	PART	POS	_	21	_	_	start_char=811|end_char=812
+23	energy	energy	NOUN	NN	Number=Sing	22	_	_	start_char=813|end_char=819
+24	costs	cost	NOUN	NNS	Number=Plur	23	_	_	start_char=820|end_char=825
+25	by	by	ADP	IN	_	24	_	_	start_char=826|end_char=828
+26	55	55	NUM	CD	NumForm=Digit|NumType=Card	25	_	_	start_char=829|end_char=831|SpaceAfter=No
+27	%	%	SYM	NN	Number=Sing	26	_	_	start_char=831|end_char=832
+28	by	by	ADP	IN	_	27	_	_	start_char=833|end_char=835
+29	2047	2047	NUM	CD	NumForm=Digit|NumType=Card	28	_	_	start_char=836|end_char=840|SpaceAfter=No
+30	,	,	PUNCT	,	_	29	_	_	start_char=840|end_char=841
+31	and	and	CCONJ	CC	_	30	_	_	start_char=842|end_char=845
+32	for	for	ADP	IN	_	31	_	_	start_char=846|end_char=849
+33	industrial	industrial	ADJ	JJ	Degree=Pos	32	_	_	start_char=850|end_char=860
+34	users	user	NOUN	NNS	Number=Plur	33	_	_	start_char=861|end_char=866|SpaceAfter=No
+35	,	,	PUNCT	,	_	34	_	_	start_char=866|end_char=867
+36	the	the	DET	DT	Definite=Def|PronType=Art	35	_	_	start_char=868|end_char=871
+37	increase	increase	NOUN	NN	Number=Sing	36	_	_	start_char=872|end_char=880
+38	could	could	AUX	MD	VerbForm=Fin	37	_	_	start_char=881|end_char=886
+39	be	be	AUX	VB	VerbForm=Inf	38	_	_	start_char=887|end_char=889
+40	as	as	ADV	RB	_	39	_	_	start_char=890|end_char=892
+41	high	high	ADJ	JJ	Degree=Pos	40	_	_	start_char=893|end_char=897
+42	as	as	ADP	IN	_	41	_	_	start_char=898|end_char=900
+43	80	80	NUM	CD	NumForm=Digit|NumType=Card	42	_	_	start_char=901|end_char=903|SpaceAfter=No
+44	%	%	SYM	NN	Number=Sing	43	_	_	start_char=903|end_char=904|SpaceAfter=No
+45	.	.	PUNCT	.	_	44	_	_	start_char=904|end_char=905
+
+# text = And residents are not happy about it.
+# sent_id = 6
+1	And	and	CCONJ	CC	_	0	_	_	start_char=906|end_char=909
+2	residents	resident	NOUN	NNS	Number=Plur	1	_	_	start_char=910|end_char=919
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=920|end_char=923
+4	not	not	PART	RB	_	3	_	_	start_char=924|end_char=927
+5	happy	happy	ADJ	JJ	Degree=Pos	4	_	_	start_char=928|end_char=933
+6	about	about	ADP	IN	_	5	_	_	start_char=934|end_char=939
+7	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	_	_	start_char=940|end_char=942|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	_	_	start_char=942|end_char=943|SpacesAfter=\n
+
+# text = "Everyone in the city is against windmills.
+# sent_id = 7
+1	"	"	PUNCT	``	_	0	_	_	start_char=944|end_char=945|SpaceAfter=No
+2	Everyone	everyone	PRON	NN	Number=Sing|PronType=Tot	1	_	_	start_char=945|end_char=953
+3	in	in	ADP	IN	_	2	_	_	start_char=954|end_char=956
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=957|end_char=960
+5	city	city	NOUN	NN	Number=Sing	4	_	_	start_char=961|end_char=965
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=966|end_char=968
+7	against	against	ADP	IN	_	6	_	_	start_char=969|end_char=976
+8	windmills	windmill	NOUN	NNS	Number=Plur	7	_	_	start_char=977|end_char=986|SpaceAfter=No
+9	.	.	PUNCT	.	_	8	_	_	start_char=986|end_char=987
+
+# text = I have yet to meet a person who is for windmills," Nancy McGinnis, an Ocean City resident, told Fox 29.
+# sent_id = 8
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	start_char=988|end_char=989
+2	have	have	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	_	_	start_char=990|end_char=994
+3	yet	yet	ADV	RB	_	2	_	_	start_char=995|end_char=998
+4	to	to	PART	TO	_	3	_	_	start_char=999|end_char=1001
+5	meet	meet	VERB	VB	VerbForm=Inf	4	_	_	start_char=1002|end_char=1006
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=1007|end_char=1008
+7	person	person	NOUN	NN	Number=Sing	6	_	_	start_char=1009|end_char=1015
+8	who	who	PRON	WP	PronType=Rel	7	_	_	start_char=1016|end_char=1019
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=1020|end_char=1022
+10	for	for	ADP	IN	_	9	_	_	start_char=1023|end_char=1026
+11	windmills	windmill	NOUN	NNS	Number=Plur	10	_	_	start_char=1027|end_char=1036|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=1036|end_char=1037|SpaceAfter=No
+13	"	"	PUNCT	''	_	12	_	_	start_char=1037|end_char=1038
+14	Nancy	Nancy	PROPN	NNP	Number=Sing	13	_	_	start_char=1039|end_char=1044
+15	McGinnis	McGinnis	PROPN	NNP	Number=Sing	14	_	_	start_char=1045|end_char=1053|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=1053|end_char=1054
+17	an	a	DET	DT	Definite=Ind|PronType=Art	16	_	_	start_char=1055|end_char=1057
+18	Ocean	Ocean	PROPN	NNP	Number=Sing	17	_	_	start_char=1058|end_char=1063
+19	City	City	PROPN	NNP	Number=Sing	18	_	_	start_char=1064|end_char=1068
+20	resident	resident	NOUN	NN	Number=Sing	19	_	_	start_char=1069|end_char=1077|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=1077|end_char=1078
+22	told	tell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	_	_	start_char=1079|end_char=1083
+23	Fox	Fox	PROPN	NNP	Number=Sing	22	_	_	start_char=1084|end_char=1087
+24	29	29	NUM	CD	NumForm=Digit|NumType=Card	23	_	_	start_char=1088|end_char=1090|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=1090|end_char=1091|SpacesAfter=\n
+
+# text = The company behind the project, Atlantic Shores Offshore Wind LLC, is a joint venture between Shell and EDF Renewables.
+# sent_id = 9
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1092|end_char=1095
+2	company	company	NOUN	NN	Number=Sing	1	_	_	start_char=1096|end_char=1103
+3	behind	behind	ADP	IN	_	2	_	_	start_char=1104|end_char=1110
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1111|end_char=1114
+5	project	project	NOUN	NN	Number=Sing	4	_	_	start_char=1115|end_char=1122|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=1122|end_char=1123
+7	Atlantic	Atlantic	ADJ	NNP	Degree=Pos	6	_	_	start_char=1124|end_char=1132
+8	Shores	Shores	PROPN	NNPS	Number=Plur	7	_	_	start_char=1133|end_char=1139
+9	Offshore	offshore	PROPN	NNP	Number=Sing	8	_	_	start_char=1140|end_char=1148
+10	Wind	Wind	PROPN	NNP	Number=Sing	9	_	_	start_char=1149|end_char=1153
+11	LLC	LLC	PROPN	NNP	Number=Sing	10	_	_	start_char=1154|end_char=1157|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=1157|end_char=1158
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=1159|end_char=1161
+14	a	a	DET	DT	Definite=Ind|PronType=Art	13	_	_	start_char=1162|end_char=1163
+15	joint	joint	ADJ	JJ	Degree=Pos	14	_	_	start_char=1164|end_char=1169
+16	venture	venture	NOUN	NN	Number=Sing	15	_	_	start_char=1170|end_char=1177
+17	between	between	ADP	IN	_	16	_	_	start_char=1178|end_char=1185
+18	Shell	Shell	PROPN	NNP	Number=Sing	17	_	_	start_char=1186|end_char=1191
+19	and	and	CCONJ	CC	_	18	_	_	start_char=1192|end_char=1195
+20	EDF	EDF	PROPN	NNP	Number=Sing	19	_	_	start_char=1196|end_char=1199
+21	Renewables	Renewables	PROPN	NNPS	Number=Plur	20	_	_	start_char=1200|end_char=1210|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=1210|end_char=1211
+
+# text = They say the project will bring $1.9 billion in economic benefits to New Jersey and create about 50,000 jobs.
+# sent_id = 10
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=1212|end_char=1216
+2	say	say	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1217|end_char=1220
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1221|end_char=1224
+4	project	project	NOUN	NN	Number=Sing	3	_	_	start_char=1225|end_char=1232
+5	will	will	AUX	MD	VerbForm=Fin	4	_	_	start_char=1233|end_char=1237
+6	bring	bring	VERB	VB	VerbForm=Inf	5	_	_	start_char=1238|end_char=1243
+7	$	$	SYM	$	_	6	_	_	start_char=1244|end_char=1245|SpaceAfter=No
+8	1.9	1.9	NUM	CD	NumForm=Digit|NumType=Card	7	_	_	start_char=1245|end_char=1248
+9	billion	billion	NUM	CD	NumForm=Word|NumType=Card	8	_	_	start_char=1249|end_char=1256
+10	in	in	ADP	IN	_	9	_	_	start_char=1257|end_char=1259
+11	economic	economic	ADJ	JJ	Degree=Pos	10	_	_	start_char=1260|end_char=1268
+12	benefits	benefit	NOUN	NNS	Number=Plur	11	_	_	start_char=1269|end_char=1277
+13	to	to	ADP	IN	_	12	_	_	start_char=1278|end_char=1280
+14	New	New	ADJ	NNP	Degree=Pos	13	_	_	start_char=1281|end_char=1284
+15	Jersey	Jersey	PROPN	NNP	Number=Sing	14	_	_	start_char=1285|end_char=1291
+16	and	and	CCONJ	CC	_	15	_	_	start_char=1292|end_char=1295
+17	create	create	VERB	VB	VerbForm=Inf	16	_	_	start_char=1296|end_char=1302
+18	about	about	ADV	RB	_	17	_	_	start_char=1303|end_char=1308
+19	50,000	50000	NUM	CD	NumForm=Digit|NumType=Card	18	_	_	start_char=1309|end_char=1315
+20	jobs	job	NOUN	NNS	Number=Plur	19	_	_	start_char=1316|end_char=1320|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=1320|end_char=1321|SpacesAfter=\n
+
+# text = However, according to the Whitestrand Impact Report, the offshore wind industry in New Jersey is moving in an economically unsustainable direction.
+# sent_id = 11
+1	However	however	ADV	RB	_	0	_	_	start_char=1322|end_char=1329|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=1329|end_char=1330
+3	according	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	2	_	_	start_char=1331|end_char=1340
+4	to	to	ADP	IN	_	3	_	_	start_char=1341|end_char=1343
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1344|end_char=1347
+6	Whitestrand	Whitestrand	PROPN	NNP	Number=Sing	5	_	_	start_char=1348|end_char=1359
+7	Impact	Impact	PROPN	NNP	Number=Sing	6	_	_	start_char=1360|end_char=1366
+8	Report	report	NOUN	NN	Number=Sing	7	_	_	start_char=1367|end_char=1373|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1373|end_char=1374
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=1375|end_char=1378
+11	offshore	offshore	ADJ	JJ	Degree=Pos	10	_	_	start_char=1379|end_char=1387
+12	wind	wind	NOUN	NN	Number=Sing	11	_	_	start_char=1388|end_char=1392
+13	industry	industry	NOUN	NN	Number=Sing	12	_	_	start_char=1393|end_char=1401
+14	in	in	ADP	IN	_	13	_	_	start_char=1402|end_char=1404
+15	New	New	ADJ	NNP	Degree=Pos	14	_	_	start_char=1405|end_char=1408
+16	Jersey	Jersey	PROPN	NNP	Number=Sing	15	_	_	start_char=1409|end_char=1415
+17	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=1416|end_char=1418
+18	moving	move	VERB	VBG	Tense=Pres|VerbForm=Part	17	_	_	start_char=1419|end_char=1425
+19	in	in	ADP	IN	_	18	_	_	start_char=1426|end_char=1428
+20	an	a	DET	DT	Definite=Ind|PronType=Art	19	_	_	start_char=1429|end_char=1431
+21	economically	economically	ADV	RB	_	20	_	_	start_char=1432|end_char=1444
+22	unsustainable	unsustainable	ADJ	JJ	Degree=Pos	21	_	_	start_char=1445|end_char=1458
+23	direction	direction	NOUN	NN	Number=Sing	22	_	_	start_char=1459|end_char=1468|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=1468|end_char=1469|SpacesAfter=\n
+
+# text = "Offshore wind is economically unviable without large subsidies in the form of federal tax credits and guaranteed above-market electricity prices.
+# sent_id = 12
+1	"	"	PUNCT	``	_	0	_	_	start_char=1470|end_char=1471|SpaceAfter=No
+2	Offshore	offshore	ADJ	JJ	Degree=Pos	1	_	_	start_char=1471|end_char=1479
+3	wind	wind	NOUN	NN	Number=Sing	2	_	_	start_char=1480|end_char=1484
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1485|end_char=1487
+5	economically	economically	ADV	RB	_	4	_	_	start_char=1488|end_char=1500
+6	unviable	unviable	ADJ	JJ	Degree=Pos	5	_	_	start_char=1501|end_char=1509
+7	without	without	ADP	IN	_	6	_	_	start_char=1510|end_char=1517
+8	large	large	ADJ	JJ	Degree=Pos	7	_	_	start_char=1518|end_char=1523
+9	subsidies	subsidy	NOUN	NNS	Number=Plur	8	_	_	start_char=1524|end_char=1533
+10	in	in	ADP	IN	_	9	_	_	start_char=1534|end_char=1536
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=1537|end_char=1540
+12	form	form	NOUN	NN	Number=Sing	11	_	_	start_char=1541|end_char=1545
+13	of	of	ADP	IN	_	12	_	_	start_char=1546|end_char=1548
+14	federal	federal	ADJ	JJ	Degree=Pos	13	_	_	start_char=1549|end_char=1556
+15	tax	tax	NOUN	NN	Number=Sing	14	_	_	start_char=1557|end_char=1560
+16	credits	credit	NOUN	NNS	Number=Plur	15	_	_	start_char=1561|end_char=1568
+17	and	and	CCONJ	CC	_	16	_	_	start_char=1569|end_char=1572
+18	guaranteed	guarantee	VERB	VBN	Tense=Past|VerbForm=Part	17	_	_	start_char=1573|end_char=1583
+19	above	above	ADP	IN	_	18	_	_	start_char=1584|end_char=1589|SpaceAfter=No
+20	-	-	PUNCT	HYPH	_	19	_	_	start_char=1589|end_char=1590|SpaceAfter=No
+21	market	market	NOUN	NN	Number=Sing	20	_	_	start_char=1590|end_char=1596
+22	electricity	electricity	NOUN	NN	Number=Sing	21	_	_	start_char=1597|end_char=1608
+23	prices	price	NOUN	NNS	Number=Plur	22	_	_	start_char=1609|end_char=1615|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=1615|end_char=1616|SpacesAfter=\n
+
+# text = The former is passed on to U.S. taxpayers, while the latter is a cost borne by electricity ratepayers in the state of New Jersey," the report states.
+# sent_id = 13
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1617|end_char=1620
+2	former	former	NOUN	NN	Number=Sing	1	_	_	start_char=1621|end_char=1627
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1628|end_char=1630
+4	passed	pass	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=1631|end_char=1637
+5	on	on	ADP	RP	_	4	_	_	start_char=1638|end_char=1640
+6	to	to	ADP	IN	_	5	_	_	start_char=1641|end_char=1643
+7	U.S.	U.S.	PROPN	NNP	Number=Sing	6	_	_	start_char=1644|end_char=1648
+8	taxpayers	taxpayer	NOUN	NNS	Number=Plur	7	_	_	start_char=1649|end_char=1658|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1658|end_char=1659
+10	while	while	SCONJ	IN	_	9	_	_	start_char=1660|end_char=1665
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=1666|end_char=1669
+12	latter	latter	NOUN	NN	Number=Sing	11	_	_	start_char=1670|end_char=1676
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=1677|end_char=1679
+14	a	a	DET	DT	Definite=Ind|PronType=Art	13	_	_	start_char=1680|end_char=1681
+15	cost	cost	NOUN	NN	Number=Sing	14	_	_	start_char=1682|end_char=1686
+16	borne	borne	VERB	VBN	Tense=Past|VerbForm=Part	15	_	_	start_char=1687|end_char=1692
+17	by	by	ADP	IN	_	16	_	_	start_char=1693|end_char=1695
+18	electricity	electricity	NOUN	NN	Number=Sing	17	_	_	start_char=1696|end_char=1707
+19	ratepayers	ratepayer	NOUN	NNS	Number=Plur	18	_	_	start_char=1708|end_char=1718
+20	in	in	ADP	IN	_	19	_	_	start_char=1719|end_char=1721
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=1722|end_char=1725
+22	state	state	NOUN	NN	Number=Sing	21	_	_	start_char=1726|end_char=1731
+23	of	of	ADP	IN	_	22	_	_	start_char=1732|end_char=1734
+24	New	New	ADJ	NNP	Degree=Pos	23	_	_	start_char=1735|end_char=1738
+25	Jersey	Jersey	PROPN	NNP	Number=Sing	24	_	_	start_char=1739|end_char=1745|SpaceAfter=No
+26	,	,	PUNCT	,	_	25	_	_	start_char=1745|end_char=1746|SpaceAfter=No
+27	"	"	PUNCT	''	_	26	_	_	start_char=1746|end_char=1747
+28	the	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=1748|end_char=1751
+29	report	report	NOUN	NN	Number=Sing	28	_	_	start_char=1752|end_char=1758
+30	states	state	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	_	_	start_char=1759|end_char=1765|SpaceAfter=No
+31	.	.	PUNCT	.	_	30	_	_	start_char=1765|end_char=1766|SpacesAfter=\n
+
+# text = But New Jersey coastal residents aren't just worried about energy costs.
+# sent_id = 14
+1	But	but	CCONJ	CC	_	0	_	_	start_char=1767|end_char=1770
+2	New	New	ADJ	NNP	Degree=Pos	1	_	_	start_char=1771|end_char=1774
+3	Jersey	Jersey	PROPN	NNP	Number=Sing	2	_	_	start_char=1775|end_char=1781
+4	coastal	coastal	ADJ	JJ	Degree=Pos	3	_	_	start_char=1782|end_char=1789
+5	residents	resident	NOUN	NNS	Number=Plur	4	_	_	start_char=1790|end_char=1799
+6-7	aren't	_	_	_	_	_	_	_	start_char=1800|end_char=1806
+6	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1800|end_char=1803
+7	n't	not	PART	RB	_	6	_	_	start_char=1803|end_char=1806
+8	just	just	ADV	RB	_	7	_	_	start_char=1807|end_char=1811
+9	worried	worried	ADJ	JJ	Degree=Pos	8	_	_	start_char=1812|end_char=1819
+10	about	about	ADP	IN	_	9	_	_	start_char=1820|end_char=1825
+11	energy	energy	NOUN	NN	Number=Sing	10	_	_	start_char=1826|end_char=1832
+12	costs	cost	NOUN	NNS	Number=Plur	11	_	_	start_char=1833|end_char=1838|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=1838|end_char=1839|SpacesAfter=\n
+
+# text = Although Atlantic Shores Wind LLC expects the project to reduce the state's annual greenhouse gas emissions by four million tons, local residents are concerned about the potential negative environmental impacts.
+# sent_id = 15
+1	Although	although	SCONJ	IN	_	0	_	_	start_char=1840|end_char=1848
+2	Atlantic	Atlantic	ADJ	NNP	Degree=Pos	1	_	_	start_char=1849|end_char=1857
+3	Shores	Shores	PROPN	NNPS	Number=Plur	2	_	_	start_char=1858|end_char=1864
+4	Wind	Wind	PROPN	NNP	Number=Sing	3	_	_	start_char=1865|end_char=1869
+5	LLC	LLC	PROPN	NNP	Number=Sing	4	_	_	start_char=1870|end_char=1873
+6	expects	expect	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1874|end_char=1881
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1882|end_char=1885
+8	project	project	NOUN	NN	Number=Sing	7	_	_	start_char=1886|end_char=1893
+9	to	to	PART	TO	_	8	_	_	start_char=1894|end_char=1896
+10	reduce	reduce	VERB	VB	VerbForm=Inf	9	_	_	start_char=1897|end_char=1903
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=1904|end_char=1907
+12-13	state's	_	_	_	_	_	_	_	start_char=1908|end_char=1915
+12	state	state	NOUN	NN	Number=Sing	11	_	_	start_char=1908|end_char=1913
+13	's	's	PART	POS	_	12	_	_	start_char=1913|end_char=1915
+14	annual	annual	ADJ	JJ	Degree=Pos	13	_	_	start_char=1916|end_char=1922
+15	greenhouse	greenhouse	NOUN	NN	Number=Sing	14	_	_	start_char=1923|end_char=1933
+16	gas	gas	NOUN	NN	Number=Sing	15	_	_	start_char=1934|end_char=1937
+17	emissions	emission	NOUN	NNS	Number=Plur	16	_	_	start_char=1938|end_char=1947
+18	by	by	ADP	IN	_	17	_	_	start_char=1948|end_char=1950
+19	four	four	NUM	CD	NumForm=Word|NumType=Card	18	_	_	start_char=1951|end_char=1955
+20	million	million	NUM	CD	NumForm=Word|NumType=Card	19	_	_	start_char=1956|end_char=1963
+21	tons	ton	NOUN	NNS	Number=Plur	20	_	_	start_char=1964|end_char=1968|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=1968|end_char=1969
+23	local	local	ADJ	JJ	Degree=Pos	22	_	_	start_char=1970|end_char=1975
+24	residents	resident	NOUN	NNS	Number=Plur	23	_	_	start_char=1976|end_char=1985
+25	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	24	_	_	start_char=1986|end_char=1989
+26	concerned	concerned	ADJ	JJ	Degree=Pos	25	_	_	start_char=1990|end_char=1999
+27	about	about	ADP	IN	_	26	_	_	start_char=2000|end_char=2005
+28	the	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=2006|end_char=2009
+29	potential	potential	ADJ	JJ	Degree=Pos	28	_	_	start_char=2010|end_char=2019
+30	negative	negative	ADJ	JJ	Degree=Pos	29	_	_	start_char=2020|end_char=2028
+31	environmental	environmental	ADJ	JJ	Degree=Pos	30	_	_	start_char=2029|end_char=2042
+32	impacts	impact	NOUN	NNS	Number=Plur	31	_	_	start_char=2043|end_char=2050|SpaceAfter=No
+33	.	.	PUNCT	.	_	32	_	_	start_char=2050|end_char=2051|SpacesAfter=\n
+
+# text = Long Beach Island (LBI) residents have formed the Save LBI Coalition, which is uniting against the Atlantic Shores South project.
+# sent_id = 16
+1	Long	long	ADJ	JJ	Degree=Pos	0	_	_	start_char=2052|end_char=2056
+2	Beach	Beach	PROPN	NNP	Number=Sing	1	_	_	start_char=2057|end_char=2062
+3	Island	Island	PROPN	NNP	Number=Sing	2	_	_	start_char=2063|end_char=2069
+4	(	(	PUNCT	-LRB-	_	3	_	_	start_char=2070|end_char=2071|SpaceAfter=No
+5	LBI	LBI	PROPN	NNP	Number=Sing	4	_	_	start_char=2071|end_char=2074|SpaceAfter=No
+6	)	)	PUNCT	-RRB-	_	5	_	_	start_char=2074|end_char=2075
+7	residents	resident	NOUN	NNS	Number=Plur	6	_	_	start_char=2076|end_char=2085
+8	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=2086|end_char=2090
+9	formed	form	VERB	VBN	Tense=Past|VerbForm=Part	8	_	_	start_char=2091|end_char=2097
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=2098|end_char=2101
+11	Save	save	PROPN	NNP	Number=Sing	10	_	_	start_char=2102|end_char=2106
+12	LBI	LBI	PROPN	NNP	Number=Sing	11	_	_	start_char=2107|end_char=2110
+13	Coalition	Coalition	PROPN	NNP	Number=Sing	12	_	_	start_char=2111|end_char=2120|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=2120|end_char=2121
+15	which	which	PRON	WDT	PronType=Rel	14	_	_	start_char=2122|end_char=2127
+16	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=2128|end_char=2130
+17	uniting	unite	VERB	VBG	Tense=Pres|VerbForm=Part	16	_	_	start_char=2131|end_char=2138
+18	against	against	ADP	IN	_	17	_	_	start_char=2139|end_char=2146
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=2147|end_char=2150
+20	Atlantic	Atlantic	ADJ	NNP	Degree=Pos	19	_	_	start_char=2151|end_char=2159
+21	Shores	Shores	PROPN	NNPS	Number=Plur	20	_	_	start_char=2160|end_char=2166
+22	South	South	PROPN	NNP	Number=Sing	21	_	_	start_char=2167|end_char=2172
+23	project	project	NOUN	NN	Number=Sing	22	_	_	start_char=2173|end_char=2180|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=2180|end_char=2181
+
+# text = They are concerned about the "devastating impacts of placing hundreds of wind turbines in the ocean adjacent to Long Beach Island and other coastal communities," according to the Save LBI website.
+# sent_id = 17
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=2182|end_char=2186
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2187|end_char=2190
+3	concerned	concerned	ADJ	JJ	Degree=Pos	2	_	_	start_char=2191|end_char=2200
+4	about	about	ADP	IN	_	3	_	_	start_char=2201|end_char=2206
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=2207|end_char=2210
+6	"	"	PUNCT	``	_	5	_	_	start_char=2211|end_char=2212|SpaceAfter=No
+7	devastating	devastating	ADJ	JJ	Degree=Pos	6	_	_	start_char=2212|end_char=2223
+8	impacts	impact	NOUN	NNS	Number=Plur	7	_	_	start_char=2224|end_char=2231
+9	of	of	SCONJ	IN	_	8	_	_	start_char=2232|end_char=2234
+10	placing	place	VERB	VBG	VerbForm=Ger	9	_	_	start_char=2235|end_char=2242
+11	hundreds	hundred	NOUN	NNS	Number=Plur	10	_	_	start_char=2243|end_char=2251
+12	of	of	ADP	IN	_	11	_	_	start_char=2252|end_char=2254
+13	wind	wind	NOUN	NN	Number=Sing	12	_	_	start_char=2255|end_char=2259
+14	turbines	turbine	NOUN	NNS	Number=Plur	13	_	_	start_char=2260|end_char=2268
+15	in	in	ADP	IN	_	14	_	_	start_char=2269|end_char=2271
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=2272|end_char=2275
+17	ocean	ocean	NOUN	NN	Number=Sing	16	_	_	start_char=2276|end_char=2281
+18	adjacent	adjacent	ADJ	JJ	Degree=Pos	17	_	_	start_char=2282|end_char=2290
+19	to	to	ADP	IN	_	18	_	_	start_char=2291|end_char=2293
+20	Long	long	ADJ	NNP	Degree=Pos	19	_	_	start_char=2294|end_char=2298
+21	Beach	Beach	PROPN	NNP	Number=Sing	20	_	_	start_char=2299|end_char=2304
+22	Island	Island	PROPN	NNP	Number=Sing	21	_	_	start_char=2305|end_char=2311
+23	and	and	CCONJ	CC	_	22	_	_	start_char=2312|end_char=2315
+24	other	other	ADJ	JJ	Degree=Pos	23	_	_	start_char=2316|end_char=2321
+25	coastal	coastal	ADJ	JJ	Degree=Pos	24	_	_	start_char=2322|end_char=2329
+26	communities	community	NOUN	NNS	Number=Plur	25	_	_	start_char=2330|end_char=2341|SpaceAfter=No
+27	,	,	PUNCT	,	_	26	_	_	start_char=2341|end_char=2342|SpaceAfter=No
+28	"	"	PUNCT	''	_	27	_	_	start_char=2342|end_char=2343
+29	according	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	28	_	_	start_char=2344|end_char=2353
+30	to	to	ADP	IN	_	29	_	_	start_char=2354|end_char=2356
+31	the	the	DET	DT	Definite=Def|PronType=Art	30	_	_	start_char=2357|end_char=2360
+32	Save	save	PROPN	NNP	Number=Sing	31	_	_	start_char=2361|end_char=2365
+33	LBI	LBI	PROPN	NNP	Number=Sing	32	_	_	start_char=2366|end_char=2369
+34	website	website	NOUN	NN	Number=Sing	33	_	_	start_char=2370|end_char=2377|SpaceAfter=No
+35	.	.	PUNCT	.	_	34	_	_	start_char=2377|end_char=2378|SpacesAfter=\n
+
+# text = In particular, Save LBI is concerned about the project's impact on marine wildlife.
+# sent_id = 18
+1	In	in	ADP	IN	_	0	_	_	start_char=2379|end_char=2381
+2	particular	particular	ADJ	JJ	Degree=Pos	1	_	_	start_char=2382|end_char=2392|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=2392|end_char=2393
+4	Save	save	PROPN	NNP	Number=Sing	3	_	_	start_char=2394|end_char=2398
+5	LBI	LBI	PROPN	NNP	Number=Sing	4	_	_	start_char=2399|end_char=2402
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=2403|end_char=2405
+7	concerned	concerned	ADJ	JJ	Degree=Pos	6	_	_	start_char=2406|end_char=2415
+8	about	about	ADP	IN	_	7	_	_	start_char=2416|end_char=2421
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=2422|end_char=2425
+10-11	project's	_	_	_	_	_	_	_	start_char=2426|end_char=2435
+10	project	project	NOUN	NN	Number=Sing	9	_	_	start_char=2426|end_char=2433
+11	's	's	PART	POS	_	10	_	_	start_char=2433|end_char=2435
+12	impact	impact	NOUN	NN	Number=Sing	11	_	_	start_char=2436|end_char=2442
+13	on	on	ADP	IN	_	12	_	_	start_char=2443|end_char=2445
+14	marine	marine	ADJ	JJ	Degree=Pos	13	_	_	start_char=2446|end_char=2452
+15	wildlife	wildlife	NOUN	NN	Number=Sing	14	_	_	start_char=2453|end_char=2461|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=2461|end_char=2462
+
+# text = The project would block a major migration corridor for the endangered North Atlantic right whale.
+# sent_id = 19
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2463|end_char=2466
+2	project	project	NOUN	NN	Number=Sing	1	_	_	start_char=2467|end_char=2474
+3	would	would	AUX	MD	VerbForm=Fin	2	_	_	start_char=2475|end_char=2480
+4	block	block	VERB	VB	VerbForm=Inf	3	_	_	start_char=2481|end_char=2486
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=2487|end_char=2488
+6	major	major	ADJ	JJ	Degree=Pos	5	_	_	start_char=2489|end_char=2494
+7	migration	migration	NOUN	NN	Number=Sing	6	_	_	start_char=2495|end_char=2504
+8	corridor	corridor	NOUN	NN	Number=Sing	7	_	_	start_char=2505|end_char=2513
+9	for	for	ADP	IN	_	8	_	_	start_char=2514|end_char=2517
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=2518|end_char=2521
+11	endangered	endangered	ADJ	JJ	Degree=Pos	10	_	_	start_char=2522|end_char=2532
+12	North	North	PROPN	NNP	Number=Sing	11	_	_	start_char=2533|end_char=2538
+13	Atlantic	Atlantic	PROPN	NNP	Number=Sing	12	_	_	start_char=2539|end_char=2547
+14	right	right	ADJ	JJ	Degree=Pos	13	_	_	start_char=2548|end_char=2553
+15	whale	whale	NOUN	NN	Number=Sing	14	_	_	start_char=2554|end_char=2559|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=2559|end_char=2560
+
+# text = In addition, it will force shipping traffic to navigate a narrow 17.7 km wide corridor, which could cause safety issues for both ships and migrating whales.
+# sent_id = 20
+1	In	in	ADP	IN	_	0	_	_	start_char=2561|end_char=2563
+2	addition	addition	NOUN	NN	Number=Sing	1	_	_	start_char=2564|end_char=2572|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=2572|end_char=2573
+4	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	_	_	start_char=2574|end_char=2576
+5	will	will	AUX	MD	VerbForm=Fin	4	_	_	start_char=2577|end_char=2581
+6	force	force	VERB	VB	VerbForm=Inf	5	_	_	start_char=2582|end_char=2587
+7	shipping	shipping	NOUN	NN	Number=Sing	6	_	_	start_char=2588|end_char=2596
+8	traffic	traffic	NOUN	NN	Number=Sing	7	_	_	start_char=2597|end_char=2604
+9	to	to	PART	TO	_	8	_	_	start_char=2605|end_char=2607
+10	navigate	navigate	VERB	VB	VerbForm=Inf	9	_	_	start_char=2608|end_char=2616
+11	a	a	DET	DT	Definite=Ind|PronType=Art	10	_	_	start_char=2617|end_char=2618
+12	narrow	narrow	ADJ	JJ	Degree=Pos	11	_	_	start_char=2619|end_char=2625
+13	17.7	17.7	NUM	CD	NumForm=Digit|NumType=Frac	12	_	_	start_char=2626|end_char=2630
+14	km	kilometer	NOUN	NN	Number=Sing	13	_	_	start_char=2631|end_char=2633
+15	wide	wide	ADJ	JJ	Degree=Pos	14	_	_	start_char=2634|end_char=2638
+16	corridor	corridor	NOUN	NN	Number=Sing	15	_	_	start_char=2639|end_char=2647|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=2647|end_char=2648
+18	which	which	PRON	WDT	PronType=Rel	17	_	_	start_char=2649|end_char=2654
+19	could	could	AUX	MD	VerbForm=Fin	18	_	_	start_char=2655|end_char=2660
+20	cause	cause	VERB	VB	VerbForm=Inf	19	_	_	start_char=2661|end_char=2666
+21	safety	safety	NOUN	NN	Number=Sing	20	_	_	start_char=2667|end_char=2673
+22	issues	issue	NOUN	NNS	Number=Plur	21	_	_	start_char=2674|end_char=2680
+23	for	for	ADP	IN	_	22	_	_	start_char=2681|end_char=2684
+24	both	both	CCONJ	CC	_	23	_	_	start_char=2685|end_char=2689
+25	ships	ship	NOUN	NNS	Number=Plur	24	_	_	start_char=2690|end_char=2695
+26	and	and	CCONJ	CC	_	25	_	_	start_char=2696|end_char=2699
+27	migrating	migrate	VERB	VBG	VerbForm=Ger	26	_	_	start_char=2700|end_char=2709
+28	whales	whale	NOUN	NNS	Number=Plur	27	_	_	start_char=2710|end_char=2716|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=2716|end_char=2717|SpacesAfter=\n
+
+# text = In addition, offshore wind farms generate underwater noise pollution that can affect the behavior of fish, whales, and other species.
+# sent_id = 21
+1	In	in	ADP	IN	_	0	_	_	start_char=2718|end_char=2720
+2	addition	addition	NOUN	NN	Number=Sing	1	_	_	start_char=2721|end_char=2729|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=2729|end_char=2730
+4	offshore	offshore	ADJ	JJ	Degree=Pos	3	_	_	start_char=2731|end_char=2739
+5	wind	wind	NOUN	NN	Number=Sing	4	_	_	start_char=2740|end_char=2744
+6	farms	farm	NOUN	NNS	Number=Plur	5	_	_	start_char=2745|end_char=2750
+7	generate	generate	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=2751|end_char=2759
+8	underwater	underwater	ADJ	JJ	Degree=Pos	7	_	_	start_char=2760|end_char=2770
+9	noise	noise	NOUN	NN	Number=Sing	8	_	_	start_char=2771|end_char=2776
+10	pollution	pollution	NOUN	NN	Number=Sing	9	_	_	start_char=2777|end_char=2786
+11	that	that	PRON	WDT	PronType=Rel	10	_	_	start_char=2787|end_char=2791
+12	can	can	AUX	MD	VerbForm=Fin	11	_	_	start_char=2792|end_char=2795
+13	affect	affect	VERB	VB	VerbForm=Inf	12	_	_	start_char=2796|end_char=2802
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=2803|end_char=2806
+15	behavior	behavior	NOUN	NN	Number=Sing	14	_	_	start_char=2807|end_char=2815
+16	of	of	ADP	IN	_	15	_	_	start_char=2816|end_char=2818
+17	fish	fish	NOUN	NNS	Number=Plur	16	_	_	start_char=2819|end_char=2823|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=2823|end_char=2824
+19	whales	whale	NOUN	NNS	Number=Plur	18	_	_	start_char=2825|end_char=2831|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=2831|end_char=2832
+21	and	and	CCONJ	CC	_	20	_	_	start_char=2833|end_char=2836
+22	other	other	ADJ	JJ	Degree=Pos	21	_	_	start_char=2837|end_char=2842
+23	species	species	NOUN	NNS	Number=Plur	22	_	_	start_char=2843|end_char=2850|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=2850|end_char=2851|SpacesAfter=\n
+
+# text = Save LBI also fears that the wind farm will obstruct ocean views and "forever destroy the natural view of the horizon."
+# sent_id = 22
+1	Save	save	VERB	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=2852|end_char=2856
+2	LBI	LBI	PROPN	NNP	Number=Sing	1	_	_	start_char=2857|end_char=2860
+3	also	also	ADV	RB	_	2	_	_	start_char=2861|end_char=2865
+4	fears	fear	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=2866|end_char=2871
+5	that	that	SCONJ	IN	_	4	_	_	start_char=2872|end_char=2876
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=2877|end_char=2880
+7	wind	wind	NOUN	NN	Number=Sing	6	_	_	start_char=2881|end_char=2885
+8	farm	farm	NOUN	NN	Number=Sing	7	_	_	start_char=2886|end_char=2890
+9	will	will	AUX	MD	VerbForm=Fin	8	_	_	start_char=2891|end_char=2895
+10	obstruct	obstruct	VERB	VB	VerbForm=Inf	9	_	_	start_char=2896|end_char=2904
+11	ocean	ocean	NOUN	NN	Number=Sing	10	_	_	start_char=2905|end_char=2910
+12	views	view	NOUN	NNS	Number=Plur	11	_	_	start_char=2911|end_char=2916
+13	and	and	CCONJ	CC	_	12	_	_	start_char=2917|end_char=2920
+14	"	"	PUNCT	``	_	13	_	_	start_char=2921|end_char=2922|SpaceAfter=No
+15	forever	forever	ADV	RB	_	14	_	_	start_char=2922|end_char=2929
+16	destroy	destroy	VERB	VB	VerbForm=Inf	15	_	_	start_char=2930|end_char=2937
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=2938|end_char=2941
+18	natural	natural	ADJ	JJ	Degree=Pos	17	_	_	start_char=2942|end_char=2949
+19	view	view	NOUN	NN	Number=Sing	18	_	_	start_char=2950|end_char=2954
+20	of	of	ADP	IN	_	19	_	_	start_char=2955|end_char=2957
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=2958|end_char=2961
+22	horizon	horizon	NOUN	NN	Number=Sing	21	_	_	start_char=2962|end_char=2969|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=2969|end_char=2970|SpaceAfter=No
+24	"	"	PUNCT	''	_	23	_	_	start_char=2970|end_char=2971
+
+# text = In an effort to stop the project, Save LBI plans to take the matter to New Jersey state court.
+# sent_id = 23
+1	In	in	ADP	IN	_	0	_	_	start_char=2972|end_char=2974
+2	an	a	DET	DT	Definite=Ind|PronType=Art	1	_	_	start_char=2975|end_char=2977
+3	effort	effort	NOUN	NN	Number=Sing	2	_	_	start_char=2978|end_char=2984
+4	to	to	PART	TO	_	3	_	_	start_char=2985|end_char=2987
+5	stop	stop	VERB	VB	VerbForm=Inf	4	_	_	start_char=2988|end_char=2992
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=2993|end_char=2996
+7	project	project	NOUN	NN	Number=Sing	6	_	_	start_char=2997|end_char=3004|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=3004|end_char=3005
+9	Save	save	PROPN	NNP	Number=Sing	8	_	_	start_char=3006|end_char=3010
+10	LBI	LBI	PROPN	NNP	Number=Sing	9	_	_	start_char=3011|end_char=3014
+11	plans	plan	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=3015|end_char=3020
+12	to	to	PART	TO	_	11	_	_	start_char=3021|end_char=3023
+13	take	take	VERB	VB	VerbForm=Inf	12	_	_	start_char=3024|end_char=3028
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=3029|end_char=3032
+15	matter	matter	NOUN	NN	Number=Sing	14	_	_	start_char=3033|end_char=3039
+16	to	to	ADP	IN	_	15	_	_	start_char=3040|end_char=3042
+17	New	New	ADJ	NNP	Degree=Pos	16	_	_	start_char=3043|end_char=3046
+18	Jersey	Jersey	PROPN	NNP	Number=Sing	17	_	_	start_char=3047|end_char=3053
+19	state	state	NOUN	NN	Number=Sing	18	_	_	start_char=3054|end_char=3059
+20	court	court	NOUN	NN	Number=Sing	19	_	_	start_char=3060|end_char=3065|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=3065|end_char=3066
+
+# text = "The project violates a number of laws and should be stopped, which is why we are challenging it in court.
+# sent_id = 24
+1	"	"	PUNCT	``	_	0	_	_	start_char=3067|end_char=3068|SpaceAfter=No
+2	The	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=3068|end_char=3071
+3	project	project	NOUN	NN	Number=Sing	2	_	_	start_char=3072|end_char=3079
+4	violates	violate	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=3080|end_char=3088
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=3089|end_char=3090
+6	number	number	NOUN	NN	Number=Sing	5	_	_	start_char=3091|end_char=3097
+7	of	of	ADP	IN	_	6	_	_	start_char=3098|end_char=3100
+8	laws	law	NOUN	NNS	Number=Plur	7	_	_	start_char=3101|end_char=3105
+9	and	and	CCONJ	CC	_	8	_	_	start_char=3106|end_char=3109
+10	should	should	AUX	MD	VerbForm=Fin	9	_	_	start_char=3110|end_char=3116
+11	be	be	AUX	VB	VerbForm=Inf	10	_	_	start_char=3117|end_char=3119
+12	stopped	stop	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	11	_	_	start_char=3120|end_char=3127|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=3127|end_char=3128
+14	which	which	PRON	WDT	PronType=Rel	13	_	_	start_char=3129|end_char=3134
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=3135|end_char=3137
+16	why	why	ADV	WRB	PronType=Rel	15	_	_	start_char=3138|end_char=3141
+17	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	16	_	_	start_char=3142|end_char=3144
+18	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	17	_	_	start_char=3145|end_char=3148
+19	challenging	challenge	VERB	VBG	Tense=Pres|VerbForm=Part	18	_	_	start_char=3149|end_char=3160
+20	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	19	_	_	start_char=3161|end_char=3163
+21	in	in	ADP	IN	_	20	_	_	start_char=3164|end_char=3166
+22	court	court	NOUN	NN	Number=Sing	21	_	_	start_char=3167|end_char=3172|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=3172|end_char=3173
+
+# text = We have one lawsuit pending and will use at least seven other avenues for legal intervention," said Bob Stern, president and founder of Save LBI.
+# sent_id = 25
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	start_char=3174|end_char=3176
+2	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	_	_	start_char=3177|end_char=3181
+3	one	one	NUM	CD	NumForm=Word|NumType=Card	2	_	_	start_char=3182|end_char=3185
+4	lawsuit	lawsuit	NOUN	NN	Number=Sing	3	_	_	start_char=3186|end_char=3193
+5	pending	pend	VERB	VBG	VerbForm=Ger	4	_	_	start_char=3194|end_char=3201
+6	and	and	CCONJ	CC	_	5	_	_	start_char=3202|end_char=3205
+7	will	will	AUX	MD	VerbForm=Fin	6	_	_	start_char=3206|end_char=3210
+8	use	use	VERB	VB	VerbForm=Inf	7	_	_	start_char=3211|end_char=3214
+9	at	at	ADP	IN	_	8	_	_	start_char=3215|end_char=3217
+10	least	least	ADJ	JJS	Degree=Sup	9	_	_	start_char=3218|end_char=3223
+11	seven	seven	NUM	CD	NumForm=Word|NumType=Card	10	_	_	start_char=3224|end_char=3229
+12	other	other	ADJ	JJ	Degree=Pos	11	_	_	start_char=3230|end_char=3235
+13	avenues	avenue	NOUN	NNS	Number=Plur	12	_	_	start_char=3236|end_char=3243
+14	for	for	ADP	IN	_	13	_	_	start_char=3244|end_char=3247
+15	legal	legal	ADJ	JJ	Degree=Pos	14	_	_	start_char=3248|end_char=3253
+16	intervention	intervention	NOUN	NN	Number=Sing	15	_	_	start_char=3254|end_char=3266|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=3266|end_char=3267|SpaceAfter=No
+18	"	"	PUNCT	''	_	17	_	_	start_char=3267|end_char=3268
+19	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	_	_	start_char=3269|end_char=3273
+20	Bob	Bob	PROPN	NNP	Number=Sing	19	_	_	start_char=3274|end_char=3277
+21	Stern	Stern	PROPN	NNP	Number=Sing	20	_	_	start_char=3278|end_char=3283|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=3283|end_char=3284
+23	president	president	NOUN	NN	Number=Sing	22	_	_	start_char=3285|end_char=3294
+24	and	and	CCONJ	CC	_	23	_	_	start_char=3295|end_char=3298
+25	founder	founder	NOUN	NN	Number=Sing	24	_	_	start_char=3299|end_char=3306
+26	of	of	ADP	IN	_	25	_	_	start_char=3307|end_char=3309
+27	Save	save	PROPN	NNP	Number=Sing	26	_	_	start_char=3310|end_char=3314
+28	LBI	LBI	PROPN	NNP	Number=Sing	27	_	_	start_char=3315|end_char=3318|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=3318|end_char=3319|SpaceAfter=No
+

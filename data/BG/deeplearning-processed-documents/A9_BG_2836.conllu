@@ -1,0 +1,364 @@
+# text = Vyacheslav Volodin: a solution to the Ukrainian issue without Russia's participation is impossible
+# sent_id = 0
+1	Vyacheslav	Vyacheslav	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=10
+2	Volodin	Volodin	PROPN	NNP	Number=Sing	1	_	_	start_char=11|end_char=18|SpaceAfter=No
+3	:	:	PUNCT	:	_	2	_	_	start_char=18|end_char=19
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=20|end_char=21
+5	solution	solution	NOUN	NN	Number=Sing	4	_	_	start_char=22|end_char=30
+6	to	to	ADP	IN	_	5	_	_	start_char=31|end_char=33
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=34|end_char=37
+8	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	7	_	_	start_char=38|end_char=47
+9	issue	issue	NOUN	NN	Number=Sing	8	_	_	start_char=48|end_char=53
+10	without	without	ADP	IN	_	9	_	_	start_char=54|end_char=61
+11-12	Russia's	_	_	_	_	_	_	_	start_char=62|end_char=70
+11	Russia	Russia	PROPN	NNP	Number=Sing	10	_	_	start_char=62|end_char=68
+12	's	's	PART	POS	_	11	_	_	start_char=68|end_char=70
+13	participation	participation	NOUN	NN	Number=Sing	12	_	_	start_char=71|end_char=84
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=85|end_char=87
+15	impossible	impossible	ADJ	JJ	Degree=Pos	14	_	_	start_char=88|end_char=98|SpacesAfter=\n\n
+
+# text = The solution of the Ukrainian issue without Russia's participation is impossible.
+# sent_id = 1
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=100|end_char=103
+2	solution	solution	NOUN	NN	Number=Sing	1	_	_	start_char=104|end_char=112
+3	of	of	ADP	IN	_	2	_	_	start_char=113|end_char=115
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=116|end_char=119
+5	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	4	_	_	start_char=120|end_char=129
+6	issue	issue	NOUN	NN	Number=Sing	5	_	_	start_char=130|end_char=135
+7	without	without	ADP	IN	_	6	_	_	start_char=136|end_char=143
+8-9	Russia's	_	_	_	_	_	_	_	start_char=144|end_char=152
+8	Russia	Russia	PROPN	NNP	Number=Sing	7	_	_	start_char=144|end_char=150
+9	's	's	PART	POS	_	8	_	_	start_char=150|end_char=152
+10	participation	participation	NOUN	NN	Number=Sing	9	_	_	start_char=153|end_char=166
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=167|end_char=169
+12	impossible	impossible	ADJ	JJ	Degree=Pos	11	_	_	start_char=170|end_char=180|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=180|end_char=181|SpacesAfter=\n
+
+# text = Participants in the conference on the Ukrainian crisis in Switzerland are becoming fewer.
+# sent_id = 2
+1	Participants	participant	NOUN	NNS	Number=Plur	0	_	_	start_char=182|end_char=194
+2	in	in	ADP	IN	_	1	_	_	start_char=195|end_char=197
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=198|end_char=201
+4	conference	conference	NOUN	NN	Number=Sing	3	_	_	start_char=202|end_char=212
+5	on	on	ADP	IN	_	4	_	_	start_char=213|end_char=215
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=216|end_char=219
+7	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	6	_	_	start_char=220|end_char=229
+8	crisis	crisis	NOUN	NN	Number=Sing	7	_	_	start_char=230|end_char=236
+9	in	in	ADP	IN	_	8	_	_	start_char=237|end_char=239
+10	Switzerland	Switzerland	PROPN	NNP	Number=Sing	9	_	_	start_char=240|end_char=251
+11	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=252|end_char=255
+12	becoming	become	VERB	VBG	Tense=Pres|VerbForm=Part	11	_	_	start_char=256|end_char=264
+13	fewer	few	ADJ	JJR	Degree=Cmp	12	_	_	start_char=265|end_char=270|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=270|end_char=271|SpacesAfter=\n
+
+# text = Saudi Arabia will not participate in the conference on Ukraine in Switzerland.
+# sent_id = 3
+1	Saudi	Saudi	ADJ	NNP	Degree=Pos	0	_	_	start_char=272|end_char=277
+2	Arabia	Arabia	PROPN	NNP	Number=Sing	1	_	_	start_char=278|end_char=284
+3	will	will	AUX	MD	VerbForm=Fin	2	_	_	start_char=285|end_char=289
+4	not	not	PART	RB	_	3	_	_	start_char=290|end_char=293
+5	participate	participate	VERB	VB	VerbForm=Inf	4	_	_	start_char=294|end_char=305
+6	in	in	ADP	IN	_	5	_	_	start_char=306|end_char=308
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=309|end_char=312
+8	conference	conference	NOUN	NN	Number=Sing	7	_	_	start_char=313|end_char=323
+9	on	on	ADP	IN	_	8	_	_	start_char=324|end_char=326
+10	Ukraine	Ukraine	PROPN	NNP	Number=Sing	9	_	_	start_char=327|end_char=334
+11	in	in	ADP	IN	_	10	_	_	start_char=335|end_char=337
+12	Switzerland	Switzerland	PROPN	NNP	Number=Sing	11	_	_	start_char=338|end_char=349|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=349|end_char=350
+
+# text = "The reason for the decision of the government in Riyadh is that Russia will not participate in it," the media reported.
+# sent_id = 4
+1	"	"	PUNCT	``	_	0	_	_	start_char=351|end_char=352|SpaceAfter=No
+2	The	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=352|end_char=355
+3	reason	reason	NOUN	NN	Number=Sing	2	_	_	start_char=356|end_char=362
+4	for	for	ADP	IN	_	3	_	_	start_char=363|end_char=366
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=367|end_char=370
+6	decision	decision	NOUN	NN	Number=Sing	5	_	_	start_char=371|end_char=379
+7	of	of	ADP	IN	_	6	_	_	start_char=380|end_char=382
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=383|end_char=386
+9	government	government	NOUN	NN	Number=Sing	8	_	_	start_char=387|end_char=397
+10	in	in	ADP	IN	_	9	_	_	start_char=398|end_char=400
+11	Riyadh	Riyadh	PROPN	NNP	Number=Sing	10	_	_	start_char=401|end_char=407
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=408|end_char=410
+13	that	that	SCONJ	IN	_	12	_	_	start_char=411|end_char=415
+14	Russia	Russia	PROPN	NNP	Number=Sing	13	_	_	start_char=416|end_char=422
+15	will	will	AUX	MD	VerbForm=Fin	14	_	_	start_char=423|end_char=427
+16	not	not	PART	RB	_	15	_	_	start_char=428|end_char=431
+17	participate	participate	VERB	VB	VerbForm=Inf	16	_	_	start_char=432|end_char=443
+18	in	in	ADP	IN	_	17	_	_	start_char=444|end_char=446
+19	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	_	_	start_char=447|end_char=449|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=449|end_char=450|SpaceAfter=No
+21	"	"	PUNCT	''	_	20	_	_	start_char=450|end_char=451
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=452|end_char=455
+23	media	media	NOUN	NN	Number=Sing	22	_	_	start_char=456|end_char=461
+24	reported	report	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	23	_	_	start_char=462|end_char=470|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=470|end_char=471|SpacesAfter=\n
+
+# text = Earlier, China refused to attend the conference.
+# sent_id = 5
+1	Earlier	early	ADV	RBR	Degree=Cmp	0	_	_	start_char=472|end_char=479|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=479|end_char=480
+3	China	China	PROPN	NNP	Number=Sing	2	_	_	start_char=481|end_char=486
+4	refused	refuse	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=487|end_char=494
+5	to	to	PART	TO	_	4	_	_	start_char=495|end_char=497
+6	attend	attend	VERB	VB	VerbForm=Inf	5	_	_	start_char=498|end_char=504
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=505|end_char=508
+8	conference	conference	NOUN	NN	Number=Sing	7	_	_	start_char=509|end_char=519|SpaceAfter=No
+9	.	.	PUNCT	.	_	8	_	_	start_char=519|end_char=520
+
+# text = China's Foreign Ministry said the agenda "contradicts Beijing's demands" and the general expectations of the global community.
+# sent_id = 6
+1-2	China's	_	_	_	_	_	_	_	start_char=521|end_char=528
+1	China	China	PROPN	NNP	Number=Sing	0	_	_	start_char=521|end_char=526
+2	's	's	PART	POS	_	1	_	_	start_char=526|end_char=528
+3	Foreign	foreign	ADJ	NNP	Degree=Pos	2	_	_	start_char=529|end_char=536
+4	Ministry	Ministry	PROPN	NNP	Number=Sing	3	_	_	start_char=537|end_char=545
+5	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=546|end_char=550
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=551|end_char=554
+7	agenda	agenda	NOUN	NN	Number=Sing	6	_	_	start_char=555|end_char=561
+8	"	"	PUNCT	``	_	7	_	_	start_char=562|end_char=563|SpaceAfter=No
+9	contradicts	contradict	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=563|end_char=574
+10-11	Beijing's	_	_	_	_	_	_	_	start_char=575|end_char=584
+10	Beijing	Beijing	PROPN	NNP	Number=Sing	9	_	_	start_char=575|end_char=582
+11	's	's	PART	POS	_	10	_	_	start_char=582|end_char=584
+12	demands	demand	NOUN	NNS	Number=Plur	11	_	_	start_char=585|end_char=592|SpaceAfter=No
+13	"	"	PUNCT	''	_	12	_	_	start_char=592|end_char=593
+14	and	and	CCONJ	CC	_	13	_	_	start_char=594|end_char=597
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=598|end_char=601
+16	general	general	ADJ	JJ	Degree=Pos	15	_	_	start_char=602|end_char=609
+17	expectations	expectation	NOUN	NNS	Number=Plur	16	_	_	start_char=610|end_char=622
+18	of	of	ADP	IN	_	17	_	_	start_char=623|end_char=625
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=626|end_char=629
+20	global	global	ADJ	JJ	Degree=Pos	19	_	_	start_char=630|end_char=636
+21	community	community	NOUN	NN	Number=Sing	20	_	_	start_char=637|end_char=646|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=646|end_char=647|SpacesAfter=\n
+
+# text = Even Washington's allies like Australia are lowering their level of participation.
+# sent_id = 7
+1	Even	even	ADV	RB	_	0	_	_	start_char=648|end_char=652
+2-3	Washington's	_	_	_	_	_	_	_	start_char=653|end_char=665
+2	Washington	Washington	PROPN	NNP	Number=Sing	1	_	_	start_char=653|end_char=663
+3	's	's	PART	POS	_	2	_	_	start_char=663|end_char=665
+4	allies	ally	NOUN	NNS	Number=Plur	3	_	_	start_char=666|end_char=672
+5	like	like	ADP	IN	_	4	_	_	start_char=673|end_char=677
+6	Australia	Australia	PROPN	NNP	Number=Sing	5	_	_	start_char=678|end_char=687
+7	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=688|end_char=691
+8	lowering	lower	VERB	VBG	Tense=Pres|VerbForm=Part	7	_	_	start_char=692|end_char=700
+9	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	8	_	_	start_char=701|end_char=706
+10	level	level	NOUN	NN	Number=Sing	9	_	_	start_char=707|end_char=712
+11	of	of	ADP	IN	_	10	_	_	start_char=713|end_char=715
+12	participation	participation	NOUN	NN	Number=Sing	11	_	_	start_char=716|end_char=729|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=729|end_char=730
+
+# text = Instead of the prime minister, the minister of disability insurance will go to Switzerland.
+# sent_id = 8
+1	Instead	instead	ADV	RB	_	0	_	_	start_char=731|end_char=738
+2	of	of	ADP	IN	_	1	_	_	start_char=739|end_char=741
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=742|end_char=745
+4	prime	prime	ADJ	JJ	Degree=Pos	3	_	_	start_char=746|end_char=751
+5	minister	minister	NOUN	NN	Number=Sing	4	_	_	start_char=752|end_char=760|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=760|end_char=761
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=762|end_char=765
+8	minister	minister	NOUN	NN	Number=Sing	7	_	_	start_char=766|end_char=774
+9	of	of	ADP	IN	_	8	_	_	start_char=775|end_char=777
+10	disability	disability	NOUN	NN	Number=Sing	9	_	_	start_char=778|end_char=788
+11	insurance	insurance	NOUN	NN	Number=Sing	10	_	_	start_char=789|end_char=798
+12	will	will	AUX	MD	VerbForm=Fin	11	_	_	start_char=799|end_char=803
+13	go	go	VERB	VB	VerbForm=Inf	12	_	_	start_char=804|end_char=806
+14	to	to	ADP	IN	_	13	_	_	start_char=807|end_char=809
+15	Switzerland	Switzerland	PROPN	NNP	Number=Sing	14	_	_	start_char=810|end_char=821|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=821|end_char=822|SpacesAfter=\n
+
+# text = And this probably has a deep meaning.
+# sent_id = 9
+1	And	and	CCONJ	CC	_	0	_	_	start_char=823|end_char=826
+2	this	this	PRON	DT	Number=Sing|PronType=Dem	1	_	_	start_char=827|end_char=831
+3	probably	probably	ADV	RB	_	2	_	_	start_char=832|end_char=840
+4	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=841|end_char=844
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=845|end_char=846
+6	deep	deep	ADJ	JJ	Degree=Pos	5	_	_	start_char=847|end_char=851
+7	meaning	meaning	NOUN	NN	Number=Sing	6	_	_	start_char=852|end_char=859|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	_	_	start_char=859|end_char=860|SpacesAfter=\n
+
+# text = There will be at least one mentally disabled person at this meeting - Zelensky.
+# sent_id = 10
+1	There	there	PRON	EX	_	0	_	_	start_char=861|end_char=866
+2	will	will	AUX	MD	VerbForm=Fin	1	_	_	start_char=867|end_char=871
+3	be	be	VERB	VB	VerbForm=Inf	2	_	_	start_char=872|end_char=874
+4	at	at	ADP	IN	_	3	_	_	start_char=875|end_char=877
+5	least	least	ADJ	JJS	Degree=Sup	4	_	_	start_char=878|end_char=883
+6	one	one	NUM	CD	NumForm=Word|NumType=Card	5	_	_	start_char=884|end_char=887
+7	mentally	mentally	ADV	RB	_	6	_	_	start_char=888|end_char=896
+8	disabled	disabled	ADJ	JJ	Degree=Pos	7	_	_	start_char=897|end_char=905
+9	person	person	NOUN	NN	Number=Sing	8	_	_	start_char=906|end_char=912
+10	at	at	ADP	IN	_	9	_	_	start_char=913|end_char=915
+11	this	this	DET	DT	Number=Sing|PronType=Dem	10	_	_	start_char=916|end_char=920
+12	meeting	meeting	NOUN	NN	Number=Sing	11	_	_	start_char=921|end_char=928
+13	-	-	PUNCT	HYPH	_	12	_	_	start_char=929|end_char=930
+14	Zelensky	Zelensky	PROPN	NNP	Number=Sing	13	_	_	start_char=931|end_char=939|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=939|end_char=940
+
+# text = And also those who went to meet with Zelensky, who today is nobody: his powers as the head of Ukraine are over.
+# sent_id = 11
+1	And	and	CCONJ	CC	_	0	_	_	start_char=941|end_char=944
+2	also	also	ADV	RB	_	1	_	_	start_char=945|end_char=949
+3	those	that	PRON	DT	Number=Plur|PronType=Dem	2	_	_	start_char=950|end_char=955
+4	who	who	PRON	WP	PronType=Rel	3	_	_	start_char=956|end_char=959
+5	went	go	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=960|end_char=964
+6	to	to	PART	TO	_	5	_	_	start_char=965|end_char=967
+7	meet	meet	VERB	VB	VerbForm=Inf	6	_	_	start_char=968|end_char=972
+8	with	with	ADP	IN	_	7	_	_	start_char=973|end_char=977
+9	Zelensky	Zelensky	PROPN	NNP	Number=Sing	8	_	_	start_char=978|end_char=986|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=986|end_char=987
+11	who	who	PRON	WP	PronType=Rel	10	_	_	start_char=988|end_char=991
+12	today	today	NOUN	NN	Number=Sing	11	_	_	start_char=992|end_char=997
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=998|end_char=1000
+14	nobody	nobody	PRON	NN	Number=Sing|PronType=Neg	13	_	_	start_char=1001|end_char=1007|SpaceAfter=No
+15	:	:	PUNCT	:	_	14	_	_	start_char=1007|end_char=1008
+16	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	_	_	start_char=1009|end_char=1012
+17	powers	power	NOUN	NNS	Number=Plur	16	_	_	start_char=1013|end_char=1019
+18	as	as	ADP	IN	_	17	_	_	start_char=1020|end_char=1022
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=1023|end_char=1026
+20	head	head	NOUN	NN	Number=Sing	19	_	_	start_char=1027|end_char=1031
+21	of	of	ADP	IN	_	20	_	_	start_char=1032|end_char=1034
+22	Ukraine	Ukraine	PROPN	NNP	Number=Sing	21	_	_	start_char=1035|end_char=1042
+23	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	_	_	start_char=1043|end_char=1046
+24	over	over	ADV	RB	_	23	_	_	start_char=1047|end_char=1051|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=1051|end_char=1052|SpacesAfter=\n
+
+# text = More and more countries are convinced that the policy of Washington and Brussels is based on hypocrisy and double standards.
+# sent_id = 12
+1	More	more	ADJ	JJR	Degree=Cmp	0	_	_	start_char=1053|end_char=1057
+2	and	and	CCONJ	CC	_	1	_	_	start_char=1058|end_char=1061
+3	more	more	ADJ	JJR	Degree=Cmp	2	_	_	start_char=1062|end_char=1066
+4	countries	country	NOUN	NNS	Number=Plur	3	_	_	start_char=1067|end_char=1076
+5	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1077|end_char=1080
+6	convinced	convince	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	_	_	start_char=1081|end_char=1090
+7	that	that	SCONJ	IN	_	6	_	_	start_char=1091|end_char=1095
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=1096|end_char=1099
+9	policy	policy	NOUN	NN	Number=Sing	8	_	_	start_char=1100|end_char=1106
+10	of	of	ADP	IN	_	9	_	_	start_char=1107|end_char=1109
+11	Washington	Washington	PROPN	NNP	Number=Sing	10	_	_	start_char=1110|end_char=1120
+12	and	and	CCONJ	CC	_	11	_	_	start_char=1121|end_char=1124
+13	Brussels	Brussels	PROPN	NNP	Number=Sing	12	_	_	start_char=1125|end_char=1133
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=1134|end_char=1136
+15	based	base	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	_	_	start_char=1137|end_char=1142
+16	on	on	ADP	IN	_	15	_	_	start_char=1143|end_char=1145
+17	hypocrisy	hypocrisy	NOUN	NN	Number=Sing	16	_	_	start_char=1146|end_char=1155
+18	and	and	CCONJ	CC	_	17	_	_	start_char=1156|end_char=1159
+19	double	double	ADJ	JJ	Degree=Pos	18	_	_	start_char=1160|end_char=1166
+20	standards	standard	NOUN	NNS	Number=Plur	19	_	_	start_char=1167|end_char=1176|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=1176|end_char=1177|SpacesAfter=\n
+
+# text = On the one hand, the US and the EU are trying to drag the countries to the conference in Switzerland, lying about their desire for peaceful regulation, and on the other hand, they are giving the Kiev regime permission to strike using its weapons on the territory of the Russian Federation.
+# sent_id = 13
+1	On	on	ADP	IN	_	0	_	_	start_char=1178|end_char=1180
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=1181|end_char=1184
+3	one	one	NUM	CD	NumForm=Word|NumType=Card	2	_	_	start_char=1185|end_char=1188
+4	hand	hand	NOUN	NN	Number=Sing	3	_	_	start_char=1189|end_char=1193|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=1193|end_char=1194
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1195|end_char=1198
+7	US	US	PROPN	NNP	Number=Sing	6	_	_	start_char=1199|end_char=1201
+8	and	and	CCONJ	CC	_	7	_	_	start_char=1202|end_char=1205
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1206|end_char=1209
+10	EU	EU	PROPN	NNP	Number=Sing	9	_	_	start_char=1210|end_char=1212
+11	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=1213|end_char=1216
+12	trying	try	VERB	VBG	Tense=Pres|VerbForm=Part	11	_	_	start_char=1217|end_char=1223
+13	to	to	PART	TO	_	12	_	_	start_char=1224|end_char=1226
+14	drag	drag	VERB	VB	VerbForm=Inf	13	_	_	start_char=1227|end_char=1231
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=1232|end_char=1235
+16	countries	country	NOUN	NNS	Number=Plur	15	_	_	start_char=1236|end_char=1245
+17	to	to	ADP	IN	_	16	_	_	start_char=1246|end_char=1248
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=1249|end_char=1252
+19	conference	conference	NOUN	NN	Number=Sing	18	_	_	start_char=1253|end_char=1263
+20	in	in	ADP	IN	_	19	_	_	start_char=1264|end_char=1266
+21	Switzerland	Switzerland	PROPN	NNP	Number=Sing	20	_	_	start_char=1267|end_char=1278|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=1278|end_char=1279
+23	lying	lie	VERB	VBG	VerbForm=Ger	22	_	_	start_char=1280|end_char=1285
+24	about	about	ADP	IN	_	23	_	_	start_char=1286|end_char=1291
+25	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	24	_	_	start_char=1292|end_char=1297
+26	desire	desire	NOUN	NN	Number=Sing	25	_	_	start_char=1298|end_char=1304
+27	for	for	ADP	IN	_	26	_	_	start_char=1305|end_char=1308
+28	peaceful	peaceful	ADJ	JJ	Degree=Pos	27	_	_	start_char=1309|end_char=1317
+29	regulation	regulation	NOUN	NN	Number=Sing	28	_	_	start_char=1318|end_char=1328|SpaceAfter=No
+30	,	,	PUNCT	,	_	29	_	_	start_char=1328|end_char=1329
+31	and	and	CCONJ	CC	_	30	_	_	start_char=1330|end_char=1333
+32	on	on	ADP	IN	_	31	_	_	start_char=1334|end_char=1336
+33	the	the	DET	DT	Definite=Def|PronType=Art	32	_	_	start_char=1337|end_char=1340
+34	other	other	ADJ	JJ	Degree=Pos	33	_	_	start_char=1341|end_char=1346
+35	hand	hand	NOUN	NN	Number=Sing	34	_	_	start_char=1347|end_char=1351|SpaceAfter=No
+36	,	,	PUNCT	,	_	35	_	_	start_char=1351|end_char=1352
+37	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	36	_	_	start_char=1353|end_char=1357
+38	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	37	_	_	start_char=1358|end_char=1361
+39	giving	give	VERB	VBG	Tense=Pres|VerbForm=Part	38	_	_	start_char=1362|end_char=1368
+40	the	the	DET	DT	Definite=Def|PronType=Art	39	_	_	start_char=1369|end_char=1372
+41	Kiev	Kiev	PROPN	NNP	Number=Sing	40	_	_	start_char=1373|end_char=1377
+42	regime	regime	NOUN	NN	Number=Sing	41	_	_	start_char=1378|end_char=1384
+43	permission	permission	NOUN	NN	Number=Sing	42	_	_	start_char=1385|end_char=1395
+44	to	to	PART	TO	_	43	_	_	start_char=1396|end_char=1398
+45	strike	strike	VERB	VB	VerbForm=Inf	44	_	_	start_char=1399|end_char=1405
+46	using	use	VERB	VBG	VerbForm=Ger	45	_	_	start_char=1406|end_char=1411
+47	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	46	_	_	start_char=1412|end_char=1415
+48	weapons	weapon	NOUN	NNS	Number=Plur	47	_	_	start_char=1416|end_char=1423
+49	on	on	ADP	IN	_	48	_	_	start_char=1424|end_char=1426
+50	the	the	DET	DT	Definite=Def|PronType=Art	49	_	_	start_char=1427|end_char=1430
+51	territory	territory	NOUN	NN	Number=Sing	50	_	_	start_char=1431|end_char=1440
+52	of	of	ADP	IN	_	51	_	_	start_char=1441|end_char=1443
+53	the	the	DET	DT	Definite=Def|PronType=Art	52	_	_	start_char=1444|end_char=1447
+54	Russian	Russian	ADJ	NNP	Degree=Pos	53	_	_	start_char=1448|end_char=1455
+55	Federation	Federation	PROPN	NNP	Number=Sing	54	_	_	start_char=1456|end_char=1466|SpaceAfter=No
+56	.	.	PUNCT	.	_	55	_	_	start_char=1466|end_char=1467
+
+# text = Whereas the most effective and quickest way to end the conflict in Ukraine is to stop supplying arms to the Kiev Nazis.
+# sent_id = 14
+1	Whereas	whereas	SCONJ	IN	_	0	_	_	start_char=1468|end_char=1475
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=1476|end_char=1479
+3	most	most	ADV	RBS	Degree=Sup	2	_	_	start_char=1480|end_char=1484
+4	effective	effective	ADJ	JJ	Degree=Pos	3	_	_	start_char=1485|end_char=1494
+5	and	and	CCONJ	CC	_	4	_	_	start_char=1495|end_char=1498
+6	quickest	quick	ADJ	JJS	Degree=Sup	5	_	_	start_char=1499|end_char=1507
+7	way	way	NOUN	NN	Number=Sing	6	_	_	start_char=1508|end_char=1511
+8	to	to	PART	TO	_	7	_	_	start_char=1512|end_char=1514
+9	end	end	VERB	VB	VerbForm=Inf	8	_	_	start_char=1515|end_char=1518
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=1519|end_char=1522
+11	conflict	conflict	NOUN	NN	Number=Sing	10	_	_	start_char=1523|end_char=1531
+12	in	in	ADP	IN	_	11	_	_	start_char=1532|end_char=1534
+13	Ukraine	Ukraine	PROPN	NNP	Number=Sing	12	_	_	start_char=1535|end_char=1542
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=1543|end_char=1545
+15	to	to	PART	TO	_	14	_	_	start_char=1546|end_char=1548
+16	stop	stop	VERB	VB	VerbForm=Inf	15	_	_	start_char=1549|end_char=1553
+17	supplying	supply	VERB	VBG	VerbForm=Ger	16	_	_	start_char=1554|end_char=1563
+18	arms	arm	NOUN	NNS	Number=Plur	17	_	_	start_char=1564|end_char=1568
+19	to	to	ADP	IN	_	18	_	_	start_char=1569|end_char=1571
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=1572|end_char=1575
+21	Kiev	Kiev	PROPN	NNP	Number=Sing	20	_	_	start_char=1576|end_char=1580
+22	Nazis	Nazi	PROPN	NNPS	Number=Plur	21	_	_	start_char=1581|end_char=1586|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=1586|end_char=1587|SpacesAfter=\n
+
+# text = Any attempt to impose on Russia any decisions taken at the engagement meetings organised by Washington and Brussels are doomed to failure.
+# sent_id = 15
+1	Any	any	DET	DT	_	0	_	_	start_char=1588|end_char=1591
+2	attempt	attempt	NOUN	NN	Number=Sing	1	_	_	start_char=1592|end_char=1599
+3	to	to	PART	TO	_	2	_	_	start_char=1600|end_char=1602
+4	impose	impose	VERB	VB	VerbForm=Inf	3	_	_	start_char=1603|end_char=1609
+5	on	on	ADP	IN	_	4	_	_	start_char=1610|end_char=1612
+6	Russia	Russia	PROPN	NNP	Number=Sing	5	_	_	start_char=1613|end_char=1619
+7	any	any	DET	DT	_	6	_	_	start_char=1620|end_char=1623
+8	decisions	decision	NOUN	NNS	Number=Plur	7	_	_	start_char=1624|end_char=1633
+9	taken	take	VERB	VBN	Tense=Past|VerbForm=Part	8	_	_	start_char=1634|end_char=1639
+10	at	at	ADP	IN	_	9	_	_	start_char=1640|end_char=1642
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=1643|end_char=1646
+12	engagement	engagement	NOUN	NN	Number=Sing	11	_	_	start_char=1647|end_char=1657
+13	meetings	meeting	NOUN	NNS	Number=Plur	12	_	_	start_char=1658|end_char=1666
+14	organised	organised	VERB	VBN	Tense=Past|VerbForm=Part	13	_	_	start_char=1667|end_char=1676
+15	by	by	ADP	IN	_	14	_	_	start_char=1677|end_char=1679
+16	Washington	Washington	PROPN	NNP	Number=Sing	15	_	_	start_char=1680|end_char=1690
+17	and	and	CCONJ	CC	_	16	_	_	start_char=1691|end_char=1694
+18	Brussels	Brussels	PROPN	NNP	Number=Sing	17	_	_	start_char=1695|end_char=1703
+19	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=1704|end_char=1707
+20	doomed	doom	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	19	_	_	start_char=1708|end_char=1714
+21	to	to	ADP	IN	_	20	_	_	start_char=1715|end_char=1717
+22	failure	failure	NOUN	NN	Number=Sing	21	_	_	start_char=1718|end_char=1725|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=1725|end_char=1726|SpaceAfter=No
+

@@ -1,0 +1,342 @@
+# text = Scientists warn: the Earth is screaming for help
+# sent_id = 0
+1	Scientists	scientist	NOUN	NNS	Number=Plur	0	_	_	start_char=0|end_char=10
+2	warn	warn	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=11|end_char=15|SpaceAfter=No
+3	:	:	PUNCT	:	_	2	_	_	start_char=15|end_char=16
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=17|end_char=20
+5	Earth	Earth	PROPN	NNP	Number=Sing	4	_	_	start_char=21|end_char=26
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=27|end_char=29
+7	screaming	scream	VERB	VBG	Tense=Pres|VerbForm=Part	6	_	_	start_char=30|end_char=39
+8	for	for	ADP	IN	_	7	_	_	start_char=40|end_char=43
+9	help	help	NOUN	NN	Number=Sing	8	_	_	start_char=44|end_char=48|SpacesAfter=\n\n
+
+# text = A new study shows that global methane emissions are skyrocketing and humanity must take immediate action.
+# sent_id = 1
+1	A	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=50|end_char=51
+2	new	new	ADJ	JJ	Degree=Pos	1	_	_	start_char=52|end_char=55
+3	study	study	NOUN	NN	Number=Sing	2	_	_	start_char=56|end_char=61
+4	shows	show	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=62|end_char=67
+5	that	that	SCONJ	IN	_	4	_	_	start_char=68|end_char=72
+6	global	global	ADJ	JJ	Degree=Pos	5	_	_	start_char=73|end_char=79
+7	methane	methane	NOUN	NN	Number=Sing	6	_	_	start_char=80|end_char=87
+8	emissions	emission	NOUN	NNS	Number=Plur	7	_	_	start_char=88|end_char=97
+9	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=98|end_char=101
+10	skyrocketing	skyrocket	VERB	VBG	Tense=Pres|VerbForm=Part	9	_	_	start_char=102|end_char=114
+11	and	and	CCONJ	CC	_	10	_	_	start_char=115|end_char=118
+12	humanity	humanity	NOUN	NN	Number=Sing	11	_	_	start_char=119|end_char=127
+13	must	must	AUX	MD	VerbForm=Fin	12	_	_	start_char=128|end_char=132
+14	take	take	VERB	VB	VerbForm=Inf	13	_	_	start_char=133|end_char=137
+15	immediate	immediate	ADJ	JJ	Degree=Pos	14	_	_	start_char=138|end_char=147
+16	action	action	NOUN	NN	Number=Sing	15	_	_	start_char=148|end_char=154|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=154|end_char=155|SpacesAfter=\n
+
+# text = A climate crisis is looming over the planet and the Earth is literally screaming for help, sending out all sorts of warning signs Including - record heatwaves, ill health, disappearing ice sheets and unpredictable weather.
+# sent_id = 2
+1	A	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=156|end_char=157
+2	climate	climate	NOUN	NN	Number=Sing	1	_	_	start_char=158|end_char=165
+3	crisis	crisis	NOUN	NN	Number=Sing	2	_	_	start_char=166|end_char=172
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=173|end_char=175
+5	looming	loom	VERB	VBG	Tense=Pres|VerbForm=Part	4	_	_	start_char=176|end_char=183
+6	over	over	ADP	IN	_	5	_	_	start_char=184|end_char=188
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=189|end_char=192
+8	planet	planet	NOUN	NN	Number=Sing	7	_	_	start_char=193|end_char=199
+9	and	and	CCONJ	CC	_	8	_	_	start_char=200|end_char=203
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=204|end_char=207
+11	Earth	Earth	PROPN	NNP	Number=Sing	10	_	_	start_char=208|end_char=213
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=214|end_char=216
+13	literally	literally	ADV	RB	_	12	_	_	start_char=217|end_char=226
+14	screaming	scream	VERB	VBG	Tense=Pres|VerbForm=Part	13	_	_	start_char=227|end_char=236
+15	for	for	ADP	IN	_	14	_	_	start_char=237|end_char=240
+16	help	help	NOUN	NN	Number=Sing	15	_	_	start_char=241|end_char=245|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=245|end_char=246
+18	sending	send	VERB	VBG	VerbForm=Ger	17	_	_	start_char=247|end_char=254
+19	out	out	ADP	RP	_	18	_	_	start_char=255|end_char=258
+20	all	all	DET	DT	_	19	_	_	start_char=259|end_char=262
+21	sorts	sort	NOUN	NNS	Number=Plur	20	_	_	start_char=263|end_char=268
+22	of	of	ADP	IN	_	21	_	_	start_char=269|end_char=271
+23	warning	warning	NOUN	NN	Number=Sing	22	_	_	start_char=272|end_char=279
+24	signs	sign	NOUN	NNS	Number=Plur	23	_	_	start_char=280|end_char=285|SpacesAfter=\n
+25	Including	include	VERB	VBG	VerbForm=Ger	24	_	_	start_char=286|end_char=295
+26	-	-	PUNCT	HYPH	_	25	_	_	start_char=296|end_char=297
+27	record	record	NOUN	NN	Number=Sing	26	_	_	start_char=298|end_char=304
+28	heatwaves	heatwave	NOUN	NNS	Number=Plur	27	_	_	start_char=305|end_char=314|SpaceAfter=No
+29	,	,	PUNCT	,	_	28	_	_	start_char=314|end_char=315
+30	ill	ill	ADJ	JJ	Degree=Pos	29	_	_	start_char=316|end_char=319
+31	health	health	NOUN	NN	Number=Sing	30	_	_	start_char=320|end_char=326|SpaceAfter=No
+32	,	,	PUNCT	,	_	31	_	_	start_char=326|end_char=327
+33	disappearing	disappear	VERB	VBG	VerbForm=Ger	32	_	_	start_char=328|end_char=340
+34	ice	ice	NOUN	NN	Number=Sing	33	_	_	start_char=341|end_char=344
+35	sheets	sheet	NOUN	NNS	Number=Plur	34	_	_	start_char=345|end_char=351
+36	and	and	CCONJ	CC	_	35	_	_	start_char=352|end_char=355
+37	unpredictable	unpredictable	ADJ	JJ	Degree=Pos	36	_	_	start_char=356|end_char=369
+38	weather	weather	NOUN	NN	Number=Sing	37	_	_	start_char=370|end_char=377|SpaceAfter=No
+39	.	.	PUNCT	.	_	38	_	_	start_char=377|end_char=378|SpacesAfter=\n
+
+# text = Yet humanity continues to release incredible amounts of carbon dioxide and methane into the atmosphere, Science Alert reports.
+# sent_id = 3
+1	Yet	yet	CCONJ	CC	_	0	_	_	start_char=379|end_char=382
+2	humanity	humanity	NOUN	NN	Number=Sing	1	_	_	start_char=383|end_char=391
+3	continues	continue	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=392|end_char=401
+4	to	to	PART	TO	_	3	_	_	start_char=402|end_char=404
+5	release	release	VERB	VB	VerbForm=Inf	4	_	_	start_char=405|end_char=412
+6	incredible	incredible	ADJ	JJ	Degree=Pos	5	_	_	start_char=413|end_char=423
+7	amounts	amount	NOUN	NNS	Number=Plur	6	_	_	start_char=424|end_char=431
+8	of	of	ADP	IN	_	7	_	_	start_char=432|end_char=434
+9	carbon	carbon	NOUN	NN	Number=Sing	8	_	_	start_char=435|end_char=441
+10	dioxide	dioxide	NOUN	NN	Number=Sing	9	_	_	start_char=442|end_char=449
+11	and	and	CCONJ	CC	_	10	_	_	start_char=450|end_char=453
+12	methane	methane	NOUN	NN	Number=Sing	11	_	_	start_char=454|end_char=461
+13	into	into	ADP	IN	_	12	_	_	start_char=462|end_char=466
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=467|end_char=470
+15	atmosphere	atmosphere	NOUN	NN	Number=Sing	14	_	_	start_char=471|end_char=481|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=481|end_char=482
+17	Science	Science	PROPN	NNP	Number=Sing	16	_	_	start_char=483|end_char=490
+18	Alert	Alert	PROPN	NNP	Number=Sing	17	_	_	start_char=491|end_char=496
+19	reports	report	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=497|end_char=504|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=504|end_char=505|SpacesAfter=\n
+
+# text = A new study shows that the planet's global methane emissions are rising, threatening the survival of not only humanity, but all life on the planet.
+# sent_id = 4
+1	A	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=506|end_char=507
+2	new	new	ADJ	JJ	Degree=Pos	1	_	_	start_char=508|end_char=511
+3	study	study	NOUN	NN	Number=Sing	2	_	_	start_char=512|end_char=517
+4	shows	show	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=518|end_char=523
+5	that	that	SCONJ	IN	_	4	_	_	start_char=524|end_char=528
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=529|end_char=532
+7-8	planet's	_	_	_	_	_	_	_	start_char=533|end_char=541
+7	planet	planet	NOUN	NN	Number=Sing	6	_	_	start_char=533|end_char=539
+8	's	's	PART	POS	_	7	_	_	start_char=539|end_char=541
+9	global	global	ADJ	JJ	Degree=Pos	8	_	_	start_char=542|end_char=548
+10	methane	methane	NOUN	NN	Number=Sing	9	_	_	start_char=549|end_char=556
+11	emissions	emission	NOUN	NNS	Number=Plur	10	_	_	start_char=557|end_char=566
+12	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=567|end_char=570
+13	rising	rise	VERB	VBG	Tense=Pres|VerbForm=Part	12	_	_	start_char=571|end_char=577|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=577|end_char=578
+15	threatening	threaten	VERB	VBG	VerbForm=Ger	14	_	_	start_char=579|end_char=590
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=591|end_char=594
+17	survival	survival	NOUN	NN	Number=Sing	16	_	_	start_char=595|end_char=603
+18	of	of	ADP	IN	_	17	_	_	start_char=604|end_char=606
+19	not	not	PART	RB	_	18	_	_	start_char=607|end_char=610
+20	only	only	ADV	RB	_	19	_	_	start_char=611|end_char=615
+21	humanity	humanity	NOUN	NN	Number=Sing	20	_	_	start_char=616|end_char=624|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=624|end_char=625
+23	but	but	CCONJ	CC	_	22	_	_	start_char=626|end_char=629
+24	all	all	DET	DT	_	23	_	_	start_char=630|end_char=633
+25	life	life	NOUN	NN	Number=Sing	24	_	_	start_char=634|end_char=638
+26	on	on	ADP	IN	_	25	_	_	start_char=639|end_char=641
+27	the	the	DET	DT	Definite=Def|PronType=Art	26	_	_	start_char=642|end_char=645
+28	planet	planet	NOUN	NN	Number=Sing	27	_	_	start_char=646|end_char=652|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=652|end_char=653|SpacesAfter=\n
+
+# text = Scientists also suggest several strategies that countries could use to reduce greenhouse gas emissions.
+# sent_id = 5
+1	Scientists	scientist	NOUN	NNS	Number=Plur	0	_	_	start_char=654|end_char=664
+2	also	also	ADV	RB	_	1	_	_	start_char=665|end_char=669
+3	suggest	suggest	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=670|end_char=677
+4	several	several	ADJ	JJ	Degree=Pos	3	_	_	start_char=678|end_char=685
+5	strategies	strategy	NOUN	NNS	Number=Plur	4	_	_	start_char=686|end_char=696
+6	that	that	PRON	WDT	PronType=Rel	5	_	_	start_char=697|end_char=701
+7	countries	country	NOUN	NNS	Number=Plur	6	_	_	start_char=702|end_char=711
+8	could	could	AUX	MD	VerbForm=Fin	7	_	_	start_char=712|end_char=717
+9	use	use	VERB	VB	VerbForm=Inf	8	_	_	start_char=718|end_char=721
+10	to	to	PART	TO	_	9	_	_	start_char=722|end_char=724
+11	reduce	reduce	VERB	VB	VerbForm=Inf	10	_	_	start_char=725|end_char=731
+12	greenhouse	greenhouse	NOUN	NN	Number=Sing	11	_	_	start_char=732|end_char=742
+13	gas	gas	NOUN	NN	Number=Sing	12	_	_	start_char=743|end_char=746
+14	emissions	emission	NOUN	NNS	Number=Plur	13	_	_	start_char=747|end_char=756|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=756|end_char=757|SpacesAfter=\n
+
+# text = They have also created a special online tool that can help solve the problem.
+# sent_id = 6
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=758|end_char=762
+2	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=763|end_char=767
+3	also	also	ADV	RB	_	2	_	_	start_char=768|end_char=772
+4	created	create	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=773|end_char=780
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=781|end_char=782
+6	special	special	ADJ	JJ	Degree=Pos	5	_	_	start_char=783|end_char=790
+7	online	online	ADJ	JJ	Degree=Pos	6	_	_	start_char=791|end_char=797
+8	tool	tool	NOUN	NN	Number=Sing	7	_	_	start_char=798|end_char=802
+9	that	that	PRON	WDT	PronType=Rel	8	_	_	start_char=803|end_char=807
+10	can	can	AUX	MD	VerbForm=Fin	9	_	_	start_char=808|end_char=811
+11	help	help	VERB	VB	VerbForm=Inf	10	_	_	start_char=812|end_char=816
+12	solve	solve	VERB	VB	VerbForm=Inf	11	_	_	start_char=817|end_char=822
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=823|end_char=826
+14	problem	problem	NOUN	NN	Number=Sing	13	_	_	start_char=827|end_char=834|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=834|end_char=835|SpacesAfter=\n
+
+# text = The steady increase in methane emissions is known to be largely due to humanity's inability to move away from fossil fuels and towards cleaner alternatives.
+# sent_id = 7
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=836|end_char=839
+2	steady	steady	ADJ	JJ	Degree=Pos	1	_	_	start_char=840|end_char=846
+3	increase	increase	NOUN	NN	Number=Sing	2	_	_	start_char=847|end_char=855
+4	in	in	ADP	IN	_	3	_	_	start_char=856|end_char=858
+5	methane	methane	NOUN	NN	Number=Sing	4	_	_	start_char=859|end_char=866
+6	emissions	emission	NOUN	NNS	Number=Plur	5	_	_	start_char=867|end_char=876
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=877|end_char=879
+8	known	know	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	_	_	start_char=880|end_char=885
+9	to	to	PART	TO	_	8	_	_	start_char=886|end_char=888
+10	be	be	AUX	VB	VerbForm=Inf	9	_	_	start_char=889|end_char=891
+11	largely	largely	ADV	RB	_	10	_	_	start_char=892|end_char=899
+12	due	due	ADP	IN	_	11	_	_	start_char=900|end_char=903
+13	to	to	ADP	IN	_	12	_	_	start_char=904|end_char=906
+14-15	humanity's	_	_	_	_	_	_	_	start_char=907|end_char=917
+14	humanity	humanity	NOUN	NN	Number=Sing	13	_	_	start_char=907|end_char=915
+15	's	's	PART	POS	_	14	_	_	start_char=915|end_char=917
+16	inability	inability	NOUN	NN	Number=Sing	15	_	_	start_char=918|end_char=927
+17	to	to	PART	TO	_	16	_	_	start_char=928|end_char=930
+18	move	move	VERB	VB	VerbForm=Inf	17	_	_	start_char=931|end_char=935
+19	away	away	ADV	RB	_	18	_	_	start_char=936|end_char=940
+20	from	from	ADP	IN	_	19	_	_	start_char=941|end_char=945
+21	fossil	fossil	NOUN	NN	Number=Sing	20	_	_	start_char=946|end_char=952
+22	fuels	fuel	NOUN	NNS	Number=Plur	21	_	_	start_char=953|end_char=958
+23	and	and	CCONJ	CC	_	22	_	_	start_char=959|end_char=962
+24	towards	towards	ADP	IN	_	23	_	_	start_char=963|end_char=970
+25	cleaner	clean	ADJ	JJ	Degree=Cmp	24	_	_	start_char=971|end_char=978
+26	alternatives	alternative	NOUN	NNS	Number=Plur	25	_	_	start_char=979|end_char=991|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=991|end_char=992|SpacesAfter=\n
+
+# text = Previous studies have already shown that methane is produced directly during the drilling and processing of oil, gas and coal.
+# sent_id = 8
+1	Previous	previous	ADJ	JJ	Degree=Pos	0	_	_	start_char=993|end_char=1001
+2	studies	study	NOUN	NNS	Number=Plur	1	_	_	start_char=1002|end_char=1009
+3	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1010|end_char=1014
+4	already	already	ADV	RB	_	3	_	_	start_char=1015|end_char=1022
+5	shown	show	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=1023|end_char=1028
+6	that	that	SCONJ	IN	_	5	_	_	start_char=1029|end_char=1033
+7	methane	methane	NOUN	NN	Number=Sing	6	_	_	start_char=1034|end_char=1041
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=1042|end_char=1044
+9	produced	produce	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	_	_	start_char=1045|end_char=1053
+10	directly	directly	ADV	RB	_	9	_	_	start_char=1054|end_char=1062
+11	during	during	ADP	IN	_	10	_	_	start_char=1063|end_char=1069
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=1070|end_char=1073
+13	drilling	drilling	NOUN	NN	Number=Sing	12	_	_	start_char=1074|end_char=1082
+14	and	and	CCONJ	CC	_	13	_	_	start_char=1083|end_char=1086
+15	processing	processing	NOUN	NN	Number=Sing	14	_	_	start_char=1087|end_char=1097
+16	of	of	ADP	IN	_	15	_	_	start_char=1098|end_char=1100
+17	oil	oil	NOUN	NN	Number=Sing	16	_	_	start_char=1101|end_char=1104|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=1104|end_char=1105
+19	gas	gas	NOUN	NN	Number=Sing	18	_	_	start_char=1106|end_char=1109
+20	and	and	CCONJ	CC	_	19	_	_	start_char=1110|end_char=1113
+21	coal	coal	NOUN	NN	Number=Sing	20	_	_	start_char=1114|end_char=1118|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=1118|end_char=1119
+
+# text = Increasing methane emissions from wetlands are also contributing to the climate crisis.
+# sent_id = 9
+1	Increasing	increase	VERB	VBG	VerbForm=Ger	0	_	_	start_char=1120|end_char=1130
+2	methane	methane	NOUN	NN	Number=Sing	1	_	_	start_char=1131|end_char=1138
+3	emissions	emission	NOUN	NNS	Number=Plur	2	_	_	start_char=1139|end_char=1148
+4	from	from	ADP	IN	_	3	_	_	start_char=1149|end_char=1153
+5	wetlands	wetland	NOUN	NNS	Number=Plur	4	_	_	start_char=1154|end_char=1162
+6	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1163|end_char=1166
+7	also	also	ADV	RB	_	6	_	_	start_char=1167|end_char=1171
+8	contributing	contribute	VERB	VBG	Tense=Pres|VerbForm=Part	7	_	_	start_char=1172|end_char=1184
+9	to	to	ADP	IN	_	8	_	_	start_char=1185|end_char=1187
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=1188|end_char=1191
+11	climate	climate	NOUN	NN	Number=Sing	10	_	_	start_char=1192|end_char=1199
+12	crisis	crisis	NOUN	NN	Number=Sing	11	_	_	start_char=1200|end_char=1206|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=1206|end_char=1207|SpacesAfter=\n
+
+# text = Methane is also known to be produced from landfills, glacier melt and livestock farming.
+# sent_id = 10
+1	Methane	methane	NOUN	NN	Number=Sing	0	_	_	start_char=1208|end_char=1215
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1216|end_char=1218
+3	also	also	ADV	RB	_	2	_	_	start_char=1219|end_char=1223
+4	known	know	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=1224|end_char=1229
+5	to	to	PART	TO	_	4	_	_	start_char=1230|end_char=1232
+6	be	be	AUX	VB	VerbForm=Inf	5	_	_	start_char=1233|end_char=1235
+7	produced	produce	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	_	_	start_char=1236|end_char=1244
+8	from	from	ADP	IN	_	7	_	_	start_char=1245|end_char=1249
+9	landfills	landfill	NOUN	NNS	Number=Plur	8	_	_	start_char=1250|end_char=1259|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=1259|end_char=1260
+11	glacier	glacier	NOUN	NN	Number=Sing	10	_	_	start_char=1261|end_char=1268
+12	melt	melt	NOUN	NN	Number=Sing	11	_	_	start_char=1269|end_char=1273
+13	and	and	CCONJ	CC	_	12	_	_	start_char=1274|end_char=1277
+14	livestock	livestock	NOUN	NN	Number=Sing	13	_	_	start_char=1278|end_char=1287
+15	farming	farming	NOUN	NN	Number=Sing	14	_	_	start_char=1288|end_char=1295|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=1295|end_char=1296|SpacesAfter=\n
+
+# text = A new study by experts led by physicist and climatologist Drew Schindel of Duke University suggests that all of these factors are having a small impact but require attention.
+# sent_id = 11
+1	A	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=1297|end_char=1298
+2	new	new	ADJ	JJ	Degree=Pos	1	_	_	start_char=1299|end_char=1302
+3	study	study	NOUN	NN	Number=Sing	2	_	_	start_char=1303|end_char=1308
+4	by	by	ADP	IN	_	3	_	_	start_char=1309|end_char=1311
+5	experts	expert	NOUN	NNS	Number=Plur	4	_	_	start_char=1312|end_char=1319
+6	led	lead	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=1320|end_char=1323
+7	by	by	ADP	IN	_	6	_	_	start_char=1324|end_char=1326
+8	physicist	physicist	NOUN	NN	Number=Sing	7	_	_	start_char=1327|end_char=1336
+9	and	and	CCONJ	CC	_	8	_	_	start_char=1337|end_char=1340
+10	climatologist	climatologist	NOUN	NN	Number=Sing	9	_	_	start_char=1341|end_char=1354
+11	Drew	Drew	PROPN	NNP	Number=Sing	10	_	_	start_char=1355|end_char=1359
+12	Schindel	Schindel	PROPN	NNP	Number=Sing	11	_	_	start_char=1360|end_char=1368
+13	of	of	ADP	IN	_	12	_	_	start_char=1369|end_char=1371
+14	Duke	Duke	PROPN	NNP	Number=Sing	13	_	_	start_char=1372|end_char=1376
+15	University	University	PROPN	NNP	Number=Sing	14	_	_	start_char=1377|end_char=1387
+16	suggests	suggest	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=1388|end_char=1396
+17	that	that	SCONJ	IN	_	16	_	_	start_char=1397|end_char=1401
+18	all	all	DET	DT	_	17	_	_	start_char=1402|end_char=1405
+19	of	of	ADP	IN	_	18	_	_	start_char=1406|end_char=1408
+20	these	this	DET	DT	Number=Plur|PronType=Dem	19	_	_	start_char=1409|end_char=1414
+21	factors	factor	NOUN	NNS	Number=Plur	20	_	_	start_char=1415|end_char=1422
+22	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	_	_	start_char=1423|end_char=1426
+23	having	have	VERB	VBG	Tense=Pres|VerbForm=Part	22	_	_	start_char=1427|end_char=1433
+24	a	a	DET	DT	Definite=Ind|PronType=Art	23	_	_	start_char=1434|end_char=1435
+25	small	small	ADJ	JJ	Degree=Pos	24	_	_	start_char=1436|end_char=1441
+26	impact	impact	NOUN	NN	Number=Sing	25	_	_	start_char=1442|end_char=1448
+27	but	but	CCONJ	CC	_	26	_	_	start_char=1449|end_char=1452
+28	require	require	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	27	_	_	start_char=1453|end_char=1460
+29	attention	attention	NOUN	NN	Number=Sing	28	_	_	start_char=1461|end_char=1470|SpaceAfter=No
+30	.	.	PUNCT	.	_	29	_	_	start_char=1470|end_char=1471|SpacesAfter=\n
+
+# text = Observations show that the Earth's atmosphere today contains significantly less methane than carbon dioxide.
+# sent_id = 12
+1	Observations	observation	NOUN	NNS	Number=Plur	0	_	_	start_char=1472|end_char=1484
+2	show	show	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1485|end_char=1489
+3	that	that	SCONJ	IN	_	2	_	_	start_char=1490|end_char=1494
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1495|end_char=1498
+5-6	Earth's	_	_	_	_	_	_	_	start_char=1499|end_char=1506
+5	Earth	Earth	PROPN	NNP	Number=Sing	4	_	_	start_char=1499|end_char=1504
+6	's	's	PART	POS	_	5	_	_	start_char=1504|end_char=1506
+7	atmosphere	atmosphere	NOUN	NN	Number=Sing	6	_	_	start_char=1507|end_char=1517
+8	today	today	NOUN	NN	Number=Sing	7	_	_	start_char=1518|end_char=1523
+9	contains	contain	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=1524|end_char=1532
+10	significantly	significantly	ADV	RB	_	9	_	_	start_char=1533|end_char=1546
+11	less	less	ADJ	JJR	Degree=Cmp	10	_	_	start_char=1547|end_char=1551
+12	methane	methane	NOUN	NN	Number=Sing	11	_	_	start_char=1552|end_char=1559
+13	than	than	ADP	IN	_	12	_	_	start_char=1560|end_char=1564
+14	carbon	carbon	NOUN	NN	Number=Sing	13	_	_	start_char=1565|end_char=1571
+15	dioxide	dioxide	NOUN	NN	Number=Sing	14	_	_	start_char=1572|end_char=1579|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=1579|end_char=1580|SpacesAfter=\n
+
+# text = However, methane is known to be the major contributor to global warming.
+# sent_id = 13
+1	However	however	ADV	RB	_	0	_	_	start_char=1581|end_char=1588|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=1588|end_char=1589
+3	methane	methane	NOUN	NN	Number=Sing	2	_	_	start_char=1590|end_char=1597
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1598|end_char=1600
+5	known	know	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	_	_	start_char=1601|end_char=1606
+6	to	to	PART	TO	_	5	_	_	start_char=1607|end_char=1609
+7	be	be	AUX	VB	VerbForm=Inf	6	_	_	start_char=1610|end_char=1612
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=1613|end_char=1616
+9	major	major	ADJ	JJ	Degree=Pos	8	_	_	start_char=1617|end_char=1622
+10	contributor	contributor	NOUN	NN	Number=Sing	9	_	_	start_char=1623|end_char=1634
+11	to	to	ADP	IN	_	10	_	_	start_char=1635|end_char=1637
+12	global	global	ADJ	JJ	Degree=Pos	11	_	_	start_char=1638|end_char=1644
+13	warming	warming	NOUN	NN	Number=Sing	12	_	_	start_char=1645|end_char=1652|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=1652|end_char=1653|SpacesAfter=\n
+
+# text = Scientists are therefore urging mankind to start drastically reducing methane emissions.
+# sent_id = 14
+1	Scientists	scientist	NOUN	NNS	Number=Plur	0	_	_	start_char=1654|end_char=1664
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1665|end_char=1668
+3	therefore	therefore	ADV	RB	_	2	_	_	start_char=1669|end_char=1678
+4	urging	urge	VERB	VBG	Tense=Pres|VerbForm=Part	3	_	_	start_char=1679|end_char=1685
+5	mankind	mankind	NOUN	NN	Number=Sing	4	_	_	start_char=1686|end_char=1693
+6	to	to	PART	TO	_	5	_	_	start_char=1694|end_char=1696
+7	start	start	VERB	VB	VerbForm=Inf	6	_	_	start_char=1697|end_char=1702
+8	drastically	drastically	ADV	RB	_	7	_	_	start_char=1703|end_char=1714
+9	reducing	reduce	VERB	VBG	VerbForm=Ger	8	_	_	start_char=1715|end_char=1723
+10	methane	methane	NOUN	NN	Number=Sing	9	_	_	start_char=1724|end_char=1731
+11	emissions	emission	NOUN	NNS	Number=Plur	10	_	_	start_char=1732|end_char=1741|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=1741|end_char=1742|SpaceAfter=No
+
