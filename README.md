@@ -54,4 +54,24 @@ To translate  data, follow these steps:
     ```
     GOOGLE_CLOUD_API_KEY=your_google_cloud_api_key
     ```
-3. **After this, use the scripts `translate.py` for translating Bulgarian and Portuguese texts, and `translatehindi.py` for translating Hindi texts from ([preprocessing](preprocessing).**
+3. **After this, use the scripts `translate.py` for translating Bulgarian and Portuguese texts, and `translatehindi.py` for translating Hindi texts from [preprocessing](preprocessing).**
+
+## Data Preprocessing
+
+Scripts `preprocessing.py`, `preprocessing_bg.py` etc  prepares data for further analysis or modeling by applying transformations such as text normalization, tokenization, and filtering irrelevant information.
+
+To run the scripts:
+```bash
+    python preprocessing/script_name.py -i <input_directory> -o <output_directory> --remove-stopwords --remove-punctuation --lower-text
+```
+
+#### Parameters
+- **`-i <input_directory>`**: Specifies the path to the input directory containing the raw Bulgarian text files.  
+  **Example:** `data/BG/translated-documents`
+- **`-o <output_directory>`**: Specifies the path to the output directory where the processed files will be saved.  
+  **Example:** `data/BG/processed`
+
+#### Options
+- **`--remove-stopwords`**: Removes common stopwords from the text to enhance the quality of text data.
+- **`--remove-punctuation`**: Removes punctuation, which is often unnecessary for text processing.
+- **`--lower-text`**: Converts all text to lowercase to ensure uniform formatting, beneficial for case-insensitive analysis.
