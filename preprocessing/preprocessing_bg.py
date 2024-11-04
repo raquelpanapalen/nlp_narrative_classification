@@ -6,6 +6,13 @@ import stanza
 from stanza.utils.conll import CoNLL
 import argparse
 
+"""
+This script preprocesses text files for two types of models: traditional and deep learning.
+The traditional model applies cleaning techniques like removing stopwords and punctuation,
+whereas the deep learning model retains the original text to leverage complex representations
+without extensive preprocessing.
+"""
+
 def get_args():
     parser = argparse.ArgumentParser(description="Preprocess text files")
     parser.add_argument(
@@ -85,7 +92,8 @@ class TextPreprocessor:
 
         # Remove patterns that should remove everything after them
         remove_after_patterns = [
-            "about_the_writer", "share_your_thougths", "join_contribute", "ads",
+            "about_the_writer",
+            "calls_to_action",  
         ]
         for pattern_name in remove_after_patterns:
             if pattern_name in self.compiled_patterns:
@@ -94,10 +102,14 @@ class TextPreprocessor:
 
         # Handle patterns that should remove the entire line
         remove_line_patterns = [
-            "read_more", "un_subscribe", "sign_up", "follow_us", "click_here",
-            "share", "publish_date", "copyright", "watch_video", "watch_more",
-            "find out more", "latest_video", "terms_of_use", "urls",
-            "journalist", "top_stories", "make_donation",
+            "read_more",
+            "share",
+            "publish_date",
+            "copyright",
+            "find_out_more",
+            "terms_of_use",
+            "urls",
+            "headlines",
         ]
         for pattern_name in remove_line_patterns:
             if pattern_name in self.compiled_patterns:
