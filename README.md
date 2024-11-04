@@ -58,7 +58,7 @@ To translate  data, follow these steps:
 
 ## Data Preprocessing
 
-Scripts `preprocessing.py`, `preprocessing_bg.py` etc  prepares data for further analysis or modeling by applying transformations such as text normalization, tokenization, and filtering irrelevant information.
+Scripts `preprocessing.py`, `preprocessing_bg.py`, etc.  prepares data for further analysis or modeling by applying transformations such as text normalization, tokenization, and filtering irrelevant information.
 
 To run the scripts:
 ```bash
@@ -66,12 +66,14 @@ To run the scripts:
 ```
 
 #### Parameters
-- **`-i <input_directory>`**: Specifies the path to the input directory containing the raw Bulgarian text files.  
+- **`-i <input_directory>`**: Specifies the path to the input directory containing the text files.  
   **Example:** `data/BG/translated-documents`
 - **`-o <output_directory>`**: Specifies the path to the output directory where the processed files will be saved.  
-  **Example:** `data/BG/processed`
+  **Example:** `data/BG`
 
 #### Options
 - **`--remove-stopwords`**: Removes common stopwords from the text to enhance the quality of text data.
 - **`--remove-punctuation`**: Removes punctuation, which is often unnecessary for text processing.
 - **`--lower-text`**: Converts all text to lowercase to ensure uniform formatting, beneficial for case-insensitive analysis.
+  
+The traditional-processed-documents folder contains text files preprocessed for traditional models with stopwords,punctuation removed, etc. , while the deeplearning-processed-documents folder contains the original text files retained for deep learning model input
