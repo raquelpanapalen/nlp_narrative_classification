@@ -1,4 +1,4 @@
-# Narrative Classification Project
+# Narrative Classification Project ( group 8 "Word Wizards")
 
 This project is about narrative classification for the NLP course at TU Wien.
 
