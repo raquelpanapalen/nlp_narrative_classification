@@ -60,6 +60,8 @@ To translate  data, follow these steps:
 
 Scripts `preprocessing.py`, `preprocessing_bg.py`, etc.  prepares data for further analysis or modeling by applying transformations such as text normalization, tokenization, and filtering irrelevant information.
 
+For preprocessing the Hindi-translated texts, the script `preprocessing_hindi.py` is used to clean and process the content before further analysis. This, again, includes tasks like removing unwanted stopwords (including custom stopwords for HI translated text), punctuation, and performing tokenization using Stanza's NLP pipeline.
+
 To run the scripts:
 ```bash
     python preprocessing/script_name.py -i <input_directory> -o <output_directory> --remove-stopwords --remove-punctuation --lower-text
