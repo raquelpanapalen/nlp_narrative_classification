@@ -47,8 +47,16 @@ class TextPreprocessor:
         self.additional_stopwords = {
             "said", "would", "could", "also", "one", "two", "three", "first", 
             "second", "third", "new", "time", "year", "years", "many", "much",
-            "may", "might", "must", "like", "well", "therefore", "thus", "furthermore"
+            "may", "might", "must", "like", "well", "therefore", "thus", "furthermore",
+            "mr.", "sir", "madam", "miss", "kindly", "please", "respectfully", "dear", 
+            "is", "are", "was", "were", "have", "has", "had", "do", "does", "did", 
+            "doing", "been", "being", "and", "but", "or", "because", "although", "if", 
+            "then", "that", "this", "I", "he", "she", "it", "we", "they", "you", "his", 
+            "her", "their", "its", "very", "too", "so", "much", "many", "more", "some", 
+            "only", "just", "still", "always", "never", "often", "about", "actually", 
+            "basically", "in", "on", "at", "to", "from", "with", "by", "for", "of"
         }
+
         
         self.all_stopwords = self.nltk_stopwords.union(self.additional_stopwords)
 
