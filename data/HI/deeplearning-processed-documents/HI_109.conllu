@@ -1,0 +1,391 @@
+# text = &#39;Don&#39;t spread chaos in Asia&#39;, China furious after being called a supporter of Ukraine war... China on Thursday targeted the Western military alliance NATO.
+# sent_id = 0
+1	&#39	&#39	NUM	CD	NumForm=Digit|NumType=Card	0	_	_	start_char=0|end_char=4|SpaceAfter=No
+2	;	;	PUNCT	:	_	1	_	_	start_char=4|end_char=5|SpaceAfter=No
+3	Don&#39	Don&#39	PROPN	NNP	Number=Sing	2	_	_	start_char=5|end_char=12|SpaceAfter=No
+4	;	;	PUNCT	:	_	3	_	_	start_char=12|end_char=13|SpaceAfter=No
+5	t	t	NOUN	NN	Number=Sing	4	_	_	start_char=13|end_char=14
+6	spread	spread	VERB	VB	VerbForm=Fin	5	_	_	start_char=15|end_char=21
+7	chaos	chaos	NOUN	NN	Number=Sing	6	_	_	start_char=22|end_char=27
+8	in	in	ADP	IN	_	7	_	_	start_char=28|end_char=30
+9	Asia&#39	Asia&#39	PROPN	NNP	Number=Sing	8	_	_	start_char=31|end_char=39|SpaceAfter=No
+10	;	;	PUNCT	:	_	9	_	_	start_char=39|end_char=40|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=40|end_char=41
+12	China	China	PROPN	NNP	Number=Sing	11	_	_	start_char=42|end_char=47
+13	furious	furious	ADJ	JJ	Degree=Pos	12	_	_	start_char=48|end_char=55
+14	after	after	SCONJ	IN	_	13	_	_	start_char=56|end_char=61
+15	being	be	AUX	VBG	VerbForm=Ger	14	_	_	start_char=62|end_char=67
+16	called	call	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	15	_	_	start_char=68|end_char=74
+17	a	a	DET	DT	Definite=Ind|PronType=Art	16	_	_	start_char=75|end_char=76
+18	supporter	supporter	NOUN	NN	Number=Sing	17	_	_	start_char=77|end_char=86
+19	of	of	ADP	IN	_	18	_	_	start_char=87|end_char=89
+20	Ukraine	Ukraine	PROPN	NNP	Number=Sing	19	_	_	start_char=90|end_char=97
+21	war	war	NOUN	NN	Number=Sing	20	_	_	start_char=98|end_char=101|SpaceAfter=No
+22	...	...	PUNCT	,	_	21	_	_	start_char=101|end_char=104
+23	China	China	PROPN	NNP	Number=Sing	22	_	_	start_char=105|end_char=110
+24	on	on	ADP	IN	_	23	_	_	start_char=111|end_char=113
+25	Thursday	Thursday	PROPN	NNP	Number=Sing	24	_	_	start_char=114|end_char=122
+26	targeted	target	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	_	_	start_char=123|end_char=131
+27	the	the	DET	DT	Definite=Def|PronType=Art	26	_	_	start_char=132|end_char=135
+28	Western	western	ADJ	JJ	Degree=Pos	27	_	_	start_char=136|end_char=143
+29	military	military	ADJ	JJ	Degree=Pos	28	_	_	start_char=144|end_char=152
+30	alliance	alliance	NOUN	NN	Number=Sing	29	_	_	start_char=153|end_char=161
+31	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	30	_	_	start_char=162|end_char=166|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=166|end_char=167
+
+# text = NATO had described China as a &#39;decisive supporter&#39; in Russia&#39;s war against Ukraine.
+# sent_id = 1
+1	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	0	_	_	start_char=168|end_char=172
+2	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=173|end_char=176
+3	described	describe	VERB	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=177|end_char=186
+4	China	China	PROPN	NNP	Number=Sing	3	_	_	start_char=187|end_char=192
+5	as	as	ADP	IN	_	4	_	_	start_char=193|end_char=195
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=196|end_char=197
+7	&	&	CCONJ	CC	_	6	_	_	start_char=198|end_char=199|SpaceAfter=No
+8	#	#	SYM	NN	Number=Sing	7	_	_	start_char=199|end_char=200|SpaceAfter=No
+9	39	39	NUM	CD	NumForm=Digit|NumType=Card	8	_	_	start_char=200|end_char=202|SpaceAfter=No
+10	;	;	PUNCT	:	_	9	_	_	start_char=202|end_char=203|SpaceAfter=No
+11	decisive	decisive	ADJ	JJ	Degree=Pos	10	_	_	start_char=203|end_char=211
+12	supporter&	supporter&	NOUN	NN	Number=Sing	11	_	_	start_char=212|end_char=222|SpaceAfter=No
+13	#	#	SYM	NN	Number=Sing	12	_	_	start_char=222|end_char=223|SpaceAfter=No
+14	39	39	NUM	CD	NumForm=Digit|NumType=Card	13	_	_	start_char=223|end_char=225|SpaceAfter=No
+15	;	;	PUNCT	:	_	14	_	_	start_char=225|end_char=226
+16	in	in	ADP	IN	_	15	_	_	start_char=227|end_char=229
+17	Russia&	Russia&	PROPN	NNP	Number=Sing	16	_	_	start_char=230|end_char=237|SpaceAfter=No
+18	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	17	_	_	start_char=237|end_char=240|SpaceAfter=No
+19	;	;	PUNCT	:	_	18	_	_	start_char=240|end_char=241|SpaceAfter=No
+20	s	's	PART	POS	Typo=Yes	19	_	_	start_char=241|end_char=242
+21	war	war	NOUN	NN	Number=Sing	20	_	_	start_char=243|end_char=246
+22	against	against	ADP	IN	_	21	_	_	start_char=247|end_char=254
+23	Ukraine	Ukraine	PROPN	NNP	Number=Sing	22	_	_	start_char=255|end_char=262|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=262|end_char=263
+
+# text = China lodged a diplomatic protest with the Western alliance for &#39;provocative&#39; remarks and said not to bring &#39;chaos&#39; to Asia.
+# sent_id = 2
+1	China	China	PROPN	NNP	Number=Sing	0	_	_	start_char=264|end_char=269
+2	lodged	lod	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=270|end_char=276
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=277|end_char=278
+4	diplomatic	diplomatic	ADJ	JJ	Degree=Pos	3	_	_	start_char=279|end_char=289
+5	protest	protest	NOUN	NN	Number=Sing	4	_	_	start_char=290|end_char=297
+6	with	with	ADP	IN	_	5	_	_	start_char=298|end_char=302
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=303|end_char=306
+8	Western	western	ADJ	JJ	Degree=Pos	7	_	_	start_char=307|end_char=314
+9	alliance	alliance	NOUN	NN	Number=Sing	8	_	_	start_char=315|end_char=323
+10	for	for	ADP	IN	_	9	_	_	start_char=324|end_char=327
+11	&	&	CCONJ	CC	_	10	_	_	start_char=328|end_char=329|SpaceAfter=No
+12	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	11	_	_	start_char=329|end_char=332|SpaceAfter=No
+13	;	;	PUNCT	:	_	12	_	_	start_char=332|end_char=333|SpaceAfter=No
+14	provocative&	provocative&	NOUN	NN	Number=Sing	13	_	_	start_char=333|end_char=345|SpaceAfter=No
+15	#	#	SYM	NN	Number=Sing	14	_	_	start_char=345|end_char=346|SpaceAfter=No
+16	39	39	NUM	CD	NumForm=Digit|NumType=Card	15	_	_	start_char=346|end_char=348|SpaceAfter=No
+17	;	;	PUNCT	:	_	16	_	_	start_char=348|end_char=349
+18	remarks	remark	NOUN	NNS	Number=Plur	17	_	_	start_char=350|end_char=357
+19	and	and	CCONJ	CC	_	18	_	_	start_char=358|end_char=361
+20	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	_	_	start_char=362|end_char=366
+21	not	not	PART	RB	_	20	_	_	start_char=367|end_char=370
+22	to	to	PART	TO	_	21	_	_	start_char=371|end_char=373
+23	bring	bring	VERB	VB	VerbForm=Inf	22	_	_	start_char=374|end_char=379
+24	&	&	CCONJ	CC	_	23	_	_	start_char=380|end_char=381|SpaceAfter=No
+25	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	24	_	_	start_char=381|end_char=384|SpaceAfter=No
+26	;	;	PUNCT	:	_	25	_	_	start_char=384|end_char=385|SpaceAfter=No
+27	chaos&	Chaos&	PROPN	NNP	Number=Sing	26	_	_	start_char=385|end_char=391|SpaceAfter=No
+28	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	27	_	_	start_char=391|end_char=394|SpaceAfter=No
+29	;	;	PUNCT	:	_	28	_	_	start_char=394|end_char=395
+30	to	to	ADP	IN	_	29	_	_	start_char=396|end_char=398
+31	Asia	Asia	PROPN	NNP	Number=Sing	30	_	_	start_char=399|end_char=403|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=403|end_char=404
+
+# text = Chinese Foreign Ministry spokesman Lin Jian said in a media briefing that the paragraphs related to China in the NATO Washington summit declaration are &#39;biased, provocative and aimed at insulting Beijing&#39;.
+# sent_id = 3
+1	Chinese	Chinese	ADJ	JJ	Degree=Pos	0	_	_	start_char=405|end_char=412
+2	Foreign	foreign	ADJ	NNP	Degree=Pos	1	_	_	start_char=413|end_char=420
+3	Ministry	Ministry	PROPN	NNP	Number=Sing	2	_	_	start_char=421|end_char=429
+4	spokesman	spokesman	NOUN	NN	Number=Sing	3	_	_	start_char=430|end_char=439
+5	Lin	Lin	PROPN	NNP	Number=Sing	4	_	_	start_char=440|end_char=443
+6	Jian	Jian	PROPN	NNP	Number=Sing	5	_	_	start_char=444|end_char=448
+7	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=449|end_char=453
+8	in	in	ADP	IN	_	7	_	_	start_char=454|end_char=456
+9	a	a	DET	DT	Definite=Ind|PronType=Art	8	_	_	start_char=457|end_char=458
+10	media	media	NOUN	NN	Number=Sing	9	_	_	start_char=459|end_char=464
+11	briefing	briefing	NOUN	NN	Number=Sing	10	_	_	start_char=465|end_char=473
+12	that	that	SCONJ	IN	_	11	_	_	start_char=474|end_char=478
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=479|end_char=482
+14	paragraphs	paragraph	NOUN	NNS	Number=Plur	13	_	_	start_char=483|end_char=493
+15	related	related	ADJ	JJ	Degree=Pos	14	_	_	start_char=494|end_char=501
+16	to	to	ADP	IN	_	15	_	_	start_char=502|end_char=504
+17	China	China	PROPN	NNP	Number=Sing	16	_	_	start_char=505|end_char=510
+18	in	in	ADP	IN	_	17	_	_	start_char=511|end_char=513
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=514|end_char=517
+20	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	19	_	_	start_char=518|end_char=522
+21	Washington	Washington	PROPN	NNP	Number=Sing	20	_	_	start_char=523|end_char=533
+22	summit	summit	NOUN	NN	Number=Sing	21	_	_	start_char=534|end_char=540
+23	declaration	declaration	NOUN	NN	Number=Sing	22	_	_	start_char=541|end_char=552
+24	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	_	_	start_char=553|end_char=556
+25	&	&	CCONJ	CC	_	24	_	_	start_char=557|end_char=558|SpaceAfter=No
+26	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	25	_	_	start_char=558|end_char=561|SpaceAfter=No
+27	;	;	PUNCT	:	_	26	_	_	start_char=561|end_char=562|SpaceAfter=No
+28	biased	biased	ADJ	JJ	Degree=Pos	27	_	_	start_char=562|end_char=568|SpaceAfter=No
+29	,	,	PUNCT	,	_	28	_	_	start_char=568|end_char=569
+30	provocative	provocative	ADJ	JJ	Degree=Pos	29	_	_	start_char=570|end_char=581
+31	and	and	CCONJ	CC	_	30	_	_	start_char=582|end_char=585
+32	aimed	aim	VERB	VBN	Tense=Past|VerbForm=Part	31	_	_	start_char=586|end_char=591
+33	at	at	SCONJ	IN	_	32	_	_	start_char=592|end_char=594
+34	insulting	insult	VERB	VBG	VerbForm=Ger	33	_	_	start_char=595|end_char=604
+35	Beijing&	Beijing&	PROPN	NNP	Number=Sing	34	_	_	start_char=605|end_char=613|SpaceAfter=No
+36	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	35	_	_	start_char=613|end_char=616|SpaceAfter=No
+37	;	;	PUNCT	:	_	36	_	_	start_char=616|end_char=617|SpaceAfter=No
+38	.	.	PUNCT	.	_	37	_	_	start_char=617|end_char=618
+
+# text = Lin said, &#39;
+# sent_id = 4
+1	Lin	Lin	PROPN	NNP	Number=Sing	0	_	_	start_char=619|end_char=622
+2	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=623|end_char=627|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=627|end_char=628
+4	&#39	&#39	NUM	CD	NumForm=Digit|NumType=Card	3	_	_	start_char=629|end_char=633|SpaceAfter=No
+5	;	;	PUNCT	:	_	4	_	_	start_char=633|end_char=634|SpaceAfter=No
+
+# text = We strongly condemn this and firmly oppose it.
+# sent_id = 5
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	start_char=634|end_char=636
+2	strongly	strongly	ADV	RB	_	1	_	_	start_char=637|end_char=645
+3	condemn	condemn	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=646|end_char=653
+4	this	this	PRON	DT	Number=Sing|PronType=Dem	3	_	_	start_char=654|end_char=658
+5	and	and	CCONJ	CC	_	4	_	_	start_char=659|end_char=662
+6	firmly	firmly	ADV	RB	_	5	_	_	start_char=663|end_char=669
+7	oppose	oppose	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	_	_	start_char=670|end_char=676
+8	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	_	_	start_char=677|end_char=679|SpaceAfter=No
+9	.	.	PUNCT	.	_	8	_	_	start_char=679|end_char=680
+
+# text = We have lodged a serious diplomatic protest with NATO.&#39; &#39;Don&#39;t bring chaos to Asia&#39;
+# sent_id = 6
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	start_char=681|end_char=683
+2	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	_	_	start_char=684|end_char=688
+3	lodged	lod	VERB	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=689|end_char=695
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=696|end_char=697
+5	serious	serious	ADJ	JJ	Degree=Pos	4	_	_	start_char=698|end_char=705
+6	diplomatic	diplomatic	ADJ	JJ	Degree=Pos	5	_	_	start_char=706|end_char=716
+7	protest	protest	NOUN	NN	Number=Sing	6	_	_	start_char=717|end_char=724
+8	with	with	ADP	IN	_	7	_	_	start_char=725|end_char=729
+9	NATO.&#39	NATO.&#39	PROPN	NNP	Number=Sing	8	_	_	start_char=730|end_char=739|SpaceAfter=No
+10	;	;	PUNCT	:	_	9	_	_	start_char=739|end_char=740
+11	&#39	&#39	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=741|end_char=745|SpaceAfter=No
+12	;	;	PUNCT	:	_	11	_	_	start_char=745|end_char=746|SpaceAfter=No
+13	Don&#39	Don&#39	PROPN	NNP	Number=Sing	12	_	_	start_char=746|end_char=753|SpaceAfter=No
+14	;	;	PUNCT	:	_	13	_	_	start_char=753|end_char=754|SpaceAfter=No
+15	t	t	INTJ	UH	_	14	_	_	start_char=754|end_char=755
+16	bring	bring	VERB	VB	VerbForm=Fin	15	_	_	start_char=756|end_char=761
+17	chaos	chaos	NOUN	NN	Number=Sing	16	_	_	start_char=762|end_char=767
+18	to	to	ADP	IN	_	17	_	_	start_char=768|end_char=770
+19	Asia&	Asia&	PROPN	NNP	Number=Sing	18	_	_	start_char=771|end_char=776|SpaceAfter=No
+20	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	19	_	_	start_char=776|end_char=779|SpaceAfter=No
+21	;	;	PUNCT	:	_	20	_	_	start_char=779|end_char=780
+
+# text = He also criticized NATO&#39;s Asia-Pacific effort and said that the organization is strengthening relations with China&#39;s neighbors and US allies.
+# sent_id = 7
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=781|end_char=783
+2	also	also	ADV	RB	_	1	_	_	start_char=784|end_char=788
+3	criticized	criticize	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=789|end_char=799
+4	NATO&	NATO&	PROPN	NNP	Number=Sing	3	_	_	start_char=800|end_char=805|SpaceAfter=No
+5	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	4	_	_	start_char=805|end_char=808|SpaceAfter=No
+6	;	;	PUNCT	:	_	5	_	_	start_char=808|end_char=809|SpaceAfter=No
+7	s	's	PART	POS	Typo=Yes	6	_	_	start_char=809|end_char=810
+8	Asia	Asia	PROPN	NNP	Number=Sing	7	_	_	start_char=811|end_char=815|SpaceAfter=No
+9	-	-	PUNCT	HYPH	_	8	_	_	start_char=815|end_char=816|SpaceAfter=No
+10	Pacific	Pacific	ADJ	NNP	Degree=Pos	9	_	_	start_char=816|end_char=823
+11	effort	effort	NOUN	NN	Number=Sing	10	_	_	start_char=824|end_char=830
+12	and	and	CCONJ	CC	_	11	_	_	start_char=831|end_char=834
+13	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=835|end_char=839
+14	that	that	SCONJ	IN	_	13	_	_	start_char=840|end_char=844
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=845|end_char=848
+16	organization	organization	NOUN	NN	Number=Sing	15	_	_	start_char=849|end_char=861
+17	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=862|end_char=864
+18	strengthening	strengthen	VERB	VBG	Tense=Pres|VerbForm=Part	17	_	_	start_char=865|end_char=878
+19	relations	relation	NOUN	NNS	Number=Plur	18	_	_	start_char=879|end_char=888
+20	with	with	ADP	IN	_	19	_	_	start_char=889|end_char=893
+21	China&	China&	PROPN	NNP	Number=Sing	20	_	_	start_char=894|end_char=900|SpaceAfter=No
+22	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	21	_	_	start_char=900|end_char=903|SpaceAfter=No
+23	;	;	PUNCT	:	_	22	_	_	start_char=903|end_char=904|SpaceAfter=No
+24	s	's	PART	POS	Typo=Yes	23	_	_	start_char=904|end_char=905
+25	neighbors	neighbor	NOUN	NNS	Number=Plur	24	_	_	start_char=906|end_char=915
+26	and	and	CCONJ	CC	_	25	_	_	start_char=916|end_char=919
+27	US	US	PROPN	NNP	Number=Sing	26	_	_	start_char=920|end_char=922
+28	allies	ally	NOUN	NNS	Number=Plur	27	_	_	start_char=923|end_char=929|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=929|end_char=930
+
+# text = China asked NATO not to spread &#39;chaos&#39; in Asia.
+# sent_id = 8
+1	China	China	PROPN	NNP	Number=Sing	0	_	_	start_char=931|end_char=936
+2	asked	ask	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=937|end_char=942
+3	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	2	_	_	start_char=943|end_char=947
+4	not	not	PART	RB	_	3	_	_	start_char=948|end_char=951
+5	to	to	PART	TO	_	4	_	_	start_char=952|end_char=954
+6	spread	spread	VERB	VB	VerbForm=Inf	5	_	_	start_char=955|end_char=961
+7	&	&	CCONJ	CC	_	6	_	_	start_char=962|end_char=963|SpaceAfter=No
+8	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	7	_	_	start_char=963|end_char=966|SpaceAfter=No
+9	;	;	PUNCT	:	_	8	_	_	start_char=966|end_char=967|SpaceAfter=No
+10	chaos&	Chaos&	PROPN	NNP	Number=Sing	9	_	_	start_char=967|end_char=973|SpaceAfter=No
+11	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=973|end_char=976|SpaceAfter=No
+12	;	;	PUNCT	:	_	11	_	_	start_char=976|end_char=977
+13	in	in	ADP	IN	_	12	_	_	start_char=978|end_char=980
+14	Asia	Asia	PROPN	NNP	Number=Sing	13	_	_	start_char=981|end_char=985|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=985|end_char=986
+
+# text = Lin said that NATO&#39;s Asia Pacific strategy has harmed China&#39;s interests.
+# sent_id = 9
+1	Lin	Lin	PROPN	NNP	Number=Sing	0	_	_	start_char=987|end_char=990
+2	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=991|end_char=995
+3	that	that	SCONJ	IN	_	2	_	_	start_char=996|end_char=1000
+4	NATO&	NATO&	PROPN	NNP	Number=Sing	3	_	_	start_char=1001|end_char=1006|SpaceAfter=No
+5	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	4	_	_	start_char=1006|end_char=1009|SpaceAfter=No
+6	;	;	PUNCT	:	_	5	_	_	start_char=1009|end_char=1010|SpaceAfter=No
+7	s	's	PART	POS	Typo=Yes	6	_	_	start_char=1010|end_char=1011
+8	Asia	Asia	PROPN	NNP	Number=Sing	7	_	_	start_char=1012|end_char=1016
+9	Pacific	Pacific	PROPN	NNP	Number=Sing	8	_	_	start_char=1017|end_char=1024
+10	strategy	strategy	NOUN	NN	Number=Sing	9	_	_	start_char=1025|end_char=1033
+11	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=1034|end_char=1037
+12	harmed	harm	VERB	VBN	Tense=Past|VerbForm=Part	11	_	_	start_char=1038|end_char=1044
+13	China&	China&	PROPN	NNP	Number=Sing	12	_	_	start_char=1045|end_char=1051|SpaceAfter=No
+14	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	13	_	_	start_char=1051|end_char=1054|SpaceAfter=No
+15	;	;	PUNCT	:	_	14	_	_	start_char=1054|end_char=1055|SpaceAfter=No
+16	s	's	PART	POS	Typo=Yes	15	_	_	start_char=1055|end_char=1056
+17	interests	interest	NOUN	NNS	Number=Plur	16	_	_	start_char=1057|end_char=1066|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=1066|end_char=1067
+
+# text = China urged NATO to stop interfering in its internal affairs.
+# sent_id = 10
+1	China	China	PROPN	NNP	Number=Sing	0	_	_	start_char=1068|end_char=1073
+2	urged	urge	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1074|end_char=1079
+3	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	2	_	_	start_char=1080|end_char=1084
+4	to	to	PART	TO	_	3	_	_	start_char=1085|end_char=1087
+5	stop	stop	VERB	VB	VerbForm=Inf	4	_	_	start_char=1088|end_char=1092
+6	interfering	interfere	VERB	VBG	VerbForm=Ger	5	_	_	start_char=1093|end_char=1104
+7	in	in	ADP	IN	_	6	_	_	start_char=1105|end_char=1107
+8	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	_	_	start_char=1108|end_char=1111
+9	internal	internal	ADJ	JJ	Degree=Pos	8	_	_	start_char=1112|end_char=1120
+10	affairs	affair	NOUN	NNS	Number=Plur	9	_	_	start_char=1121|end_char=1128|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=1128|end_char=1129
+
+# text = He said, &#39;China will firmly defend its sovereignty, security and development interests.
+# sent_id = 11
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1130|end_char=1132
+2	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1133|end_char=1137|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=1137|end_char=1138
+4	&	&	CCONJ	CC	_	3	_	_	start_char=1139|end_char=1140|SpaceAfter=No
+5	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	4	_	_	start_char=1140|end_char=1143|SpaceAfter=No
+6	;	;	PUNCT	:	_	5	_	_	start_char=1143|end_char=1144|SpaceAfter=No
+7	China	China	PROPN	NNP	Number=Sing	6	_	_	start_char=1144|end_char=1149
+8	will	will	AUX	MD	VerbForm=Fin	7	_	_	start_char=1150|end_char=1154
+9	firmly	firmly	ADV	RB	_	8	_	_	start_char=1155|end_char=1161
+10	defend	defend	VERB	VB	VerbForm=Inf	9	_	_	start_char=1162|end_char=1168
+11	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	_	_	start_char=1169|end_char=1172
+12	sovereignty	sovereignty	NOUN	NN	Number=Sing	11	_	_	start_char=1173|end_char=1184|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=1184|end_char=1185
+14	security	security	NOUN	NN	Number=Sing	13	_	_	start_char=1186|end_char=1194
+15	and	and	CCONJ	CC	_	14	_	_	start_char=1195|end_char=1198
+16	development	development	NOUN	NN	Number=Sing	15	_	_	start_char=1199|end_char=1210
+17	interests	interest	NOUN	NNS	Number=Plur	16	_	_	start_char=1211|end_char=1220|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=1220|end_char=1221|SpaceAfter=No
+
+# text = &#39; NATO targeted China
+# sent_id = 12
+1	&#39	&#39	NUM	CD	NumForm=Digit|NumType=Card	0	_	_	start_char=1221|end_char=1225|SpaceAfter=No
+2	;	;	PUNCT	:	_	1	_	_	start_char=1225|end_char=1226
+3	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	2	_	_	start_char=1227|end_char=1231
+4	targeted	target	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=1232|end_char=1240
+5	China	China	PROPN	NNP	Number=Sing	4	_	_	start_char=1241|end_char=1246
+
+# text = The NATO Washington summit has sharply criticized Beijing, saying that China has become a &#39;decisive supporter of Russia&#39;s war against Ukraine&#39; through its partnership and massive support for Russia&#39;s defense industrial base.
+# sent_id = 13
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1247|end_char=1250
+2	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	1	_	_	start_char=1251|end_char=1255
+3	Washington	Washington	PROPN	NNP	Number=Sing	2	_	_	start_char=1256|end_char=1266
+4	summit	summit	NOUN	NN	Number=Sing	3	_	_	start_char=1267|end_char=1273
+5	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1274|end_char=1277
+6	sharply	sharply	ADV	RB	_	5	_	_	start_char=1278|end_char=1285
+7	criticized	criticize	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=1286|end_char=1296
+8	Beijing	Beijing	PROPN	NNP	Number=Sing	7	_	_	start_char=1297|end_char=1304|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1304|end_char=1305
+10	saying	say	VERB	VBG	VerbForm=Ger	9	_	_	start_char=1306|end_char=1312
+11	that	that	SCONJ	IN	_	10	_	_	start_char=1313|end_char=1317
+12	China	China	PROPN	NNP	Number=Sing	11	_	_	start_char=1318|end_char=1323
+13	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=1324|end_char=1327
+14	become	become	VERB	VBN	Tense=Past|VerbForm=Part	13	_	_	start_char=1328|end_char=1334
+15	a	a	DET	DT	Definite=Ind|PronType=Art	14	_	_	start_char=1335|end_char=1336
+16	&	&	CCONJ	CC	_	15	_	_	start_char=1337|end_char=1338|SpaceAfter=No
+17	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	16	_	_	start_char=1338|end_char=1341|SpaceAfter=No
+18	;	;	PUNCT	:	_	17	_	_	start_char=1341|end_char=1342|SpaceAfter=No
+19	decisive	decisive	ADJ	JJ	Degree=Pos	18	_	_	start_char=1342|end_char=1350
+20	supporter	supporter	NOUN	NN	Number=Sing	19	_	_	start_char=1351|end_char=1360
+21	of	of	ADP	IN	_	20	_	_	start_char=1361|end_char=1363
+22	Russia&	Russia&	PROPN	NNP	Number=Sing	21	_	_	start_char=1364|end_char=1371|SpaceAfter=No
+23	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	22	_	_	start_char=1371|end_char=1374|SpaceAfter=No
+24	;	;	PUNCT	:	_	23	_	_	start_char=1374|end_char=1375|SpaceAfter=No
+25	s	's	PART	POS	Typo=Yes	24	_	_	start_char=1375|end_char=1376
+26	war	war	NOUN	NN	Number=Sing	25	_	_	start_char=1377|end_char=1380
+27	against	against	ADP	IN	_	26	_	_	start_char=1381|end_char=1388
+28	Ukraine&	Ukraine&	PROPN	NNP	Number=Sing	27	_	_	start_char=1389|end_char=1397|SpaceAfter=No
+29	#	#	SYM	NN	Number=Sing	28	_	_	start_char=1397|end_char=1398|SpaceAfter=No
+30	39	39	NUM	CD	NumForm=Digit|NumType=Card	29	_	_	start_char=1398|end_char=1400|SpaceAfter=No
+31	;	;	PUNCT	,	_	30	_	_	start_char=1400|end_char=1401
+32	through	through	ADP	IN	_	31	_	_	start_char=1402|end_char=1409
+33	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	32	_	_	start_char=1410|end_char=1413
+34	partnership	partnership	NOUN	NN	Number=Sing	33	_	_	start_char=1414|end_char=1425
+35	and	and	CCONJ	CC	_	34	_	_	start_char=1426|end_char=1429
+36	massive	massive	ADJ	JJ	Degree=Pos	35	_	_	start_char=1430|end_char=1437
+37	support	support	NOUN	NN	Number=Sing	36	_	_	start_char=1438|end_char=1445
+38	for	for	ADP	IN	_	37	_	_	start_char=1446|end_char=1449
+39	Russia&	Russia&	PROPN	NNP	Number=Sing	38	_	_	start_char=1450|end_char=1457|SpaceAfter=No
+40	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	39	_	_	start_char=1457|end_char=1460|SpaceAfter=No
+41	;	;	PUNCT	:	_	40	_	_	start_char=1460|end_char=1461|SpaceAfter=No
+42	s	's	PART	POS	Typo=Yes	41	_	_	start_char=1461|end_char=1462
+43	defense	defense	NOUN	NN	Number=Sing	42	_	_	start_char=1463|end_char=1470
+44	industrial	industrial	ADJ	JJ	Degree=Pos	43	_	_	start_char=1471|end_char=1481
+45	base	base	NOUN	NN	Number=Sing	44	_	_	start_char=1482|end_char=1486|SpaceAfter=No
+46	.	.	PUNCT	.	_	45	_	_	start_char=1486|end_char=1487
+
+# text = Apart from this, China&#39;s military exercises with Russia&#39;s close ally Belarus were also sharply criticized by NATO.
+# sent_id = 14
+1	Apart	apart	ADV	RB	_	0	_	_	start_char=1488|end_char=1493
+2	from	from	ADP	IN	_	1	_	_	start_char=1494|end_char=1498
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	2	_	_	start_char=1499|end_char=1503|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1503|end_char=1504
+5	China&#39	China&#39	PROPN	NNP	Number=Sing	4	_	_	start_char=1505|end_char=1514|SpaceAfter=No
+6	;	;	PUNCT	:	_	5	_	_	start_char=1514|end_char=1515|SpaceAfter=No
+7	s	's	PART	POS	Typo=Yes	6	_	_	start_char=1515|end_char=1516
+8	military	military	ADJ	JJ	Degree=Pos	7	_	_	start_char=1517|end_char=1525
+9	exercises	exercise	NOUN	NNS	Number=Plur	8	_	_	start_char=1526|end_char=1535
+10	with	with	ADP	IN	_	9	_	_	start_char=1536|end_char=1540
+11	Russia&	Russia&	PROPN	NNP	Number=Sing	10	_	_	start_char=1541|end_char=1548|SpaceAfter=No
+12	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	11	_	_	start_char=1548|end_char=1551|SpaceAfter=No
+13	;	;	PUNCT	:	_	12	_	_	start_char=1551|end_char=1552|SpaceAfter=No
+14	s	's	PART	POS	Typo=Yes	13	_	_	start_char=1552|end_char=1553
+15	close	close	ADJ	JJ	Degree=Pos	14	_	_	start_char=1554|end_char=1559
+16	ally	ally	NOUN	NN	Number=Sing	15	_	_	start_char=1560|end_char=1564
+17	Belarus	Belarus	PROPN	NNP	Number=Sing	16	_	_	start_char=1565|end_char=1572
+18	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	17	_	_	start_char=1573|end_char=1577
+19	also	also	ADV	RB	_	18	_	_	start_char=1578|end_char=1582
+20	sharply	sharply	ADV	RB	_	19	_	_	start_char=1583|end_char=1590
+21	criticized	criticize	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	20	_	_	start_char=1591|end_char=1601
+22	by	by	ADP	IN	_	21	_	_	start_char=1602|end_char=1604
+23	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	22	_	_	start_char=1605|end_char=1609|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=1609|end_char=1610
+
+# text = Especially because they are being conducted close to the border of NATO member country Poland.
+# sent_id = 15
+1	Especially	especially	ADV	RB	_	0	_	_	start_char=1611|end_char=1621
+2	because	because	SCONJ	IN	_	1	_	_	start_char=1622|end_char=1629
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	_	_	start_char=1630|end_char=1634
+4	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1635|end_char=1638
+5	being	be	AUX	VBG	VerbForm=Ger	4	_	_	start_char=1639|end_char=1644
+6	conducted	conduct	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	_	_	start_char=1645|end_char=1654
+7	close	close	ADV	RB	Degree=Pos	6	_	_	start_char=1655|end_char=1660
+8	to	to	ADP	IN	_	7	_	_	start_char=1661|end_char=1663
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1664|end_char=1667
+10	border	border	NOUN	NN	Number=Sing	9	_	_	start_char=1668|end_char=1674
+11	of	of	ADP	IN	_	10	_	_	start_char=1675|end_char=1677
+12	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	11	_	_	start_char=1678|end_char=1682
+13	member	member	NOUN	NN	Number=Sing	12	_	_	start_char=1683|end_char=1689
+14	country	country	NOUN	NN	Number=Sing	13	_	_	start_char=1690|end_char=1697
+15	Poland	Poland	PROPN	NNP	Number=Sing	14	_	_	start_char=1698|end_char=1704|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=1704|end_char=1705|SpaceAfter=No
+

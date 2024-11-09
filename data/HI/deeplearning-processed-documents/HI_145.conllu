@@ -1,0 +1,545 @@
+# text = These 5 cities are sinking rapidly in the sea, may disappear completely by 2100.
+# sent_id = 0
+1	These	this	DET	DT	Number=Plur|PronType=Dem	0	_	_	start_char=0|end_char=5
+2	5	5	NUM	CD	NumForm=Digit|NumType=Card	1	_	_	start_char=6|end_char=7
+3	cities	city	NOUN	NNS	Number=Plur	2	_	_	start_char=8|end_char=14
+4	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=15|end_char=18
+5	sinking	sink	VERB	VBG	Tense=Pres|VerbForm=Part	4	_	_	start_char=19|end_char=26
+6	rapidly	rapidly	ADV	RB	_	5	_	_	start_char=27|end_char=34
+7	in	in	ADP	IN	_	6	_	_	start_char=35|end_char=37
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=38|end_char=41
+9	sea	sea	NOUN	NN	Number=Sing	8	_	_	start_char=42|end_char=45|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=45|end_char=46
+11	may	may	AUX	MD	VerbForm=Fin	10	_	_	start_char=47|end_char=50
+12	disappear	disappear	VERB	VB	VerbForm=Inf	11	_	_	start_char=51|end_char=60
+13	completely	completely	ADV	RB	_	12	_	_	start_char=61|end_char=71
+14	by	by	ADP	IN	_	13	_	_	start_char=72|end_char=74
+15	2100	2100	NUM	CD	NumForm=Digit|NumType=Card	14	_	_	start_char=75|end_char=79|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=79|end_char=80
+
+# text = Due to the rising sea level every day, some cities are on the verge of sinking.
+# sent_id = 1
+1	Due	due	ADP	IN	_	0	_	_	start_char=81|end_char=84
+2	to	to	ADP	IN	_	1	_	_	start_char=85|end_char=87
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=88|end_char=91
+4	rising	rise	VERB	VBG	VerbForm=Ger	3	_	_	start_char=92|end_char=98
+5	sea	sea	NOUN	NN	Number=Sing	4	_	_	start_char=99|end_char=102
+6	level	level	NOUN	NN	Number=Sing	5	_	_	start_char=103|end_char=108
+7	every	every	DET	DT	_	6	_	_	start_char=109|end_char=114
+8	day	day	NOUN	NN	Number=Sing	7	_	_	start_char=115|end_char=118|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=118|end_char=119
+10	some	some	DET	DT	_	9	_	_	start_char=120|end_char=124
+11	cities	city	NOUN	NNS	Number=Plur	10	_	_	start_char=125|end_char=131
+12	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=132|end_char=135
+13	on	on	ADP	IN	_	12	_	_	start_char=136|end_char=138
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=139|end_char=142
+15	verge	verge	NOUN	NN	Number=Sing	14	_	_	start_char=143|end_char=148
+16	of	of	SCONJ	IN	_	15	_	_	start_char=149|end_char=151
+17	sinking	sink	VERB	VBG	VerbForm=Ger	16	_	_	start_char=152|end_char=159|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=159|end_char=160
+
+# text = According to the &#39;World Economic Forum&#39;, these 5 cities may sink soon due to global warming.
+# sent_id = 2
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=161|end_char=170
+2	to	to	ADP	IN	_	1	_	_	start_char=171|end_char=173
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=174|end_char=177
+4	&	&	CCONJ	CC	_	3	_	_	start_char=178|end_char=179|SpaceAfter=No
+5	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	4	_	_	start_char=179|end_char=182|SpaceAfter=No
+6	;	;	PUNCT	:	_	5	_	_	start_char=182|end_char=183|SpaceAfter=No
+7	World	World	PROPN	NNP	Number=Sing	6	_	_	start_char=183|end_char=188
+8	Economic	Economic	ADJ	NNP	Degree=Pos	7	_	_	start_char=189|end_char=197
+9	Forum&	Forum&	PROPN	NNP	Number=Sing	8	_	_	start_char=198|end_char=204|SpaceAfter=No
+10	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=204|end_char=207|SpaceAfter=No
+11	;	;	PUNCT	:	_	10	_	_	start_char=207|end_char=208|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=208|end_char=209
+13	these	this	DET	DT	Number=Plur|PronType=Dem	12	_	_	start_char=210|end_char=215
+14	5	5	NUM	CD	NumForm=Digit|NumType=Card	13	_	_	start_char=216|end_char=217
+15	cities	city	NOUN	NNS	Number=Plur	14	_	_	start_char=218|end_char=224
+16	may	may	AUX	MD	VerbForm=Fin	15	_	_	start_char=225|end_char=228
+17	sink	sink	VERB	VB	VerbForm=Inf	16	_	_	start_char=229|end_char=233
+18	soon	soon	ADV	RB	Degree=Pos	17	_	_	start_char=234|end_char=238
+19	due	due	ADP	IN	_	18	_	_	start_char=239|end_char=242
+20	to	to	ADP	IN	_	19	_	_	start_char=243|end_char=245
+21	global	global	ADJ	JJ	Degree=Pos	20	_	_	start_char=246|end_char=252
+22	warming	warming	NOUN	NN	Number=Sing	21	_	_	start_char=253|end_char=260|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=260|end_char=261
+
+# text = Due to the rise in global temperature and sea level, low-lying coastal cities are facing terrible floods.
+# sent_id = 3
+1	Due	due	ADP	IN	_	0	_	_	start_char=262|end_char=265
+2	to	to	ADP	IN	_	1	_	_	start_char=266|end_char=268
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=269|end_char=272
+4	rise	rise	NOUN	NN	Number=Sing	3	_	_	start_char=273|end_char=277
+5	in	in	ADP	IN	_	4	_	_	start_char=278|end_char=280
+6	global	global	ADJ	JJ	Degree=Pos	5	_	_	start_char=281|end_char=287
+7	temperature	temperature	NOUN	NN	Number=Sing	6	_	_	start_char=288|end_char=299
+8	and	and	CCONJ	CC	_	7	_	_	start_char=300|end_char=303
+9	sea	sea	NOUN	NN	Number=Sing	8	_	_	start_char=304|end_char=307
+10	level	level	NOUN	NN	Number=Sing	9	_	_	start_char=308|end_char=313|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=313|end_char=314
+12	low	low	ADJ	JJ	Degree=Pos	11	_	_	start_char=315|end_char=318|SpaceAfter=No
+13	-	-	PUNCT	HYPH	_	12	_	_	start_char=318|end_char=319|SpaceAfter=No
+14	lying	lie	VERB	VBG	VerbForm=Ger	13	_	_	start_char=319|end_char=324
+15	coastal	coastal	ADJ	JJ	Degree=Pos	14	_	_	start_char=325|end_char=332
+16	cities	city	NOUN	NNS	Number=Plur	15	_	_	start_char=333|end_char=339
+17	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=340|end_char=343
+18	facing	face	VERB	VBG	Tense=Pres|VerbForm=Part	17	_	_	start_char=344|end_char=350
+19	terrible	terrible	ADJ	JJ	Degree=Pos	18	_	_	start_char=351|end_char=359
+20	floods	flood	NOUN	NNS	Number=Plur	19	_	_	start_char=360|end_char=366|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=366|end_char=367
+
+# text = Some of these cities are on the verge of sinking due to rising sea levels and some are sinking due to excessive groundwater pumping.
+# sent_id = 4
+1	Some	some	DET	DT	_	0	_	_	start_char=368|end_char=372
+2	of	of	ADP	IN	_	1	_	_	start_char=373|end_char=375
+3	these	this	DET	DT	Number=Plur|PronType=Dem	2	_	_	start_char=376|end_char=381
+4	cities	city	NOUN	NNS	Number=Plur	3	_	_	start_char=382|end_char=388
+5	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=389|end_char=392
+6	on	on	ADP	IN	_	5	_	_	start_char=393|end_char=395
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=396|end_char=399
+8	verge	verge	NOUN	NN	Number=Sing	7	_	_	start_char=400|end_char=405
+9	of	of	SCONJ	IN	_	8	_	_	start_char=406|end_char=408
+10	sinking	sink	VERB	VBG	VerbForm=Ger	9	_	_	start_char=409|end_char=416
+11	due	due	ADP	IN	_	10	_	_	start_char=417|end_char=420
+12	to	to	ADP	IN	_	11	_	_	start_char=421|end_char=423
+13	rising	rise	VERB	VBG	VerbForm=Ger	12	_	_	start_char=424|end_char=430
+14	sea	sea	NOUN	NN	Number=Sing	13	_	_	start_char=431|end_char=434
+15	levels	level	NOUN	NNS	Number=Plur	14	_	_	start_char=435|end_char=441
+16	and	and	CCONJ	CC	_	15	_	_	start_char=442|end_char=445
+17	some	some	DET	DT	_	16	_	_	start_char=446|end_char=450
+18	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=451|end_char=454
+19	sinking	sink	VERB	VBG	Tense=Pres|VerbForm=Part	18	_	_	start_char=455|end_char=462
+20	due	due	ADP	IN	_	19	_	_	start_char=463|end_char=466
+21	to	to	ADP	IN	_	20	_	_	start_char=467|end_char=469
+22	excessive	excessive	ADJ	JJ	Degree=Pos	21	_	_	start_char=470|end_char=479
+23	groundwater	groundwater	NOUN	NN	Number=Sing	22	_	_	start_char=480|end_char=491
+24	pumping	pump	NOUN	NN	Number=Sing	23	_	_	start_char=492|end_char=499|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=499|end_char=500
+
+# text = Groundwater pumping puts a lot of pressure on pressure and volume, due to which the land starts sinking.
+# sent_id = 5
+1	Groundwater	groundwater	NOUN	NN	Number=Sing	0	_	_	start_char=501|end_char=512
+2	pumping	pump	NOUN	NN	Number=Sing	1	_	_	start_char=513|end_char=520
+3	puts	put	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=521|end_char=525
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=526|end_char=527
+5	lot	lot	NOUN	NN	Number=Sing	4	_	_	start_char=528|end_char=531
+6	of	of	ADP	IN	_	5	_	_	start_char=532|end_char=534
+7	pressure	pressure	NOUN	NN	Number=Sing	6	_	_	start_char=535|end_char=543
+8	on	on	ADP	IN	_	7	_	_	start_char=544|end_char=546
+9	pressure	pressure	NOUN	NN	Number=Sing	8	_	_	start_char=547|end_char=555
+10	and	and	CCONJ	CC	_	9	_	_	start_char=556|end_char=559
+11	volume	volume	NOUN	NN	Number=Sing	10	_	_	start_char=560|end_char=566|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=566|end_char=567
+13	due	due	ADP	IN	_	12	_	_	start_char=568|end_char=571
+14	to	to	ADP	IN	_	13	_	_	start_char=572|end_char=574
+15	which	which	PRON	WDT	PronType=Rel	14	_	_	start_char=575|end_char=580
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=581|end_char=584
+17	land	land	NOUN	NN	Number=Sing	16	_	_	start_char=585|end_char=589
+18	starts	start	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=590|end_char=596
+19	sinking	sink	VERB	VBG	VerbForm=Ger	18	_	_	start_char=597|end_char=604|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=604|end_char=605
+
+# text = According to the &#39;World Economic Forum&#39;, these 5 cities are on the verge of sinking due to global warming.
+# sent_id = 6
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=606|end_char=615
+2	to	to	ADP	IN	_	1	_	_	start_char=616|end_char=618
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=619|end_char=622
+4	&	&	CCONJ	CC	_	3	_	_	start_char=623|end_char=624|SpaceAfter=No
+5	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	4	_	_	start_char=624|end_char=627|SpaceAfter=No
+6	;	;	PUNCT	:	_	5	_	_	start_char=627|end_char=628|SpaceAfter=No
+7	World	World	PROPN	NNP	Number=Sing	6	_	_	start_char=628|end_char=633
+8	Economic	Economic	ADJ	NNP	Degree=Pos	7	_	_	start_char=634|end_char=642
+9	Forum&	Forum&	PROPN	NNP	Number=Sing	8	_	_	start_char=643|end_char=649|SpaceAfter=No
+10	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=649|end_char=652|SpaceAfter=No
+11	;	;	PUNCT	:	_	10	_	_	start_char=652|end_char=653|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=653|end_char=654
+13	these	this	DET	DT	Number=Plur|PronType=Dem	12	_	_	start_char=655|end_char=660
+14	5	5	NUM	CD	NumForm=Digit|NumType=Card	13	_	_	start_char=661|end_char=662
+15	cities	city	NOUN	NNS	Number=Plur	14	_	_	start_char=663|end_char=669
+16	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=670|end_char=673
+17	on	on	ADP	IN	_	16	_	_	start_char=674|end_char=676
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=677|end_char=680
+19	verge	verge	NOUN	NN	Number=Sing	18	_	_	start_char=681|end_char=686
+20	of	of	SCONJ	IN	_	19	_	_	start_char=687|end_char=689
+21	sinking	sink	VERB	VBG	VerbForm=Ger	20	_	_	start_char=690|end_char=697
+22	due	due	ADP	IN	_	21	_	_	start_char=698|end_char=701
+23	to	to	ADP	IN	_	22	_	_	start_char=702|end_char=704
+24	global	global	ADJ	JJ	Degree=Pos	23	_	_	start_char=705|end_char=711
+25	warming	warming	NOUN	NN	Number=Sing	24	_	_	start_char=712|end_char=719|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=719|end_char=720
+
+# text = Jakarta, Indonesia: Due to excessive groundwater pumping, Indonesia&#39;s capital Jakarta is sinking by 6.7 inches every year.
+# sent_id = 7
+1	Jakarta	Jakarta	PROPN	NNP	Number=Sing	0	_	_	start_char=721|end_char=728|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=728|end_char=729
+3	Indonesia	Indonesia	PROPN	NNP	Number=Sing	2	_	_	start_char=730|end_char=739|SpaceAfter=No
+4	:	:	PUNCT	:	_	3	_	_	start_char=739|end_char=740
+5	Due	due	ADP	IN	_	4	_	_	start_char=741|end_char=744
+6	to	to	ADP	IN	_	5	_	_	start_char=745|end_char=747
+7	excessive	excessive	ADJ	JJ	Degree=Pos	6	_	_	start_char=748|end_char=757
+8	groundwater	groundwater	NOUN	NN	Number=Sing	7	_	_	start_char=758|end_char=769
+9	pumping	pump	NOUN	NN	Number=Sing	8	_	_	start_char=770|end_char=777|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=777|end_char=778
+11	Indonesia&	Indonesia&	PROPN	NNP	Number=Sing	10	_	_	start_char=779|end_char=789|SpaceAfter=No
+12	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	11	_	_	start_char=789|end_char=792|SpaceAfter=No
+13	;	;	PUNCT	:	_	12	_	_	start_char=792|end_char=793|SpaceAfter=No
+14	s	's	PART	POS	Typo=Yes	13	_	_	start_char=793|end_char=794
+15	capital	capital	NOUN	NN	Number=Sing	14	_	_	start_char=795|end_char=802
+16	Jakarta	Jakarta	PROPN	NNP	Number=Sing	15	_	_	start_char=803|end_char=810
+17	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=811|end_char=813
+18	sinking	sink	VERB	VBG	Tense=Pres|VerbForm=Part	17	_	_	start_char=814|end_char=821
+19	by	by	ADP	IN	_	18	_	_	start_char=822|end_char=824
+20	6.7	6.7	NUM	CD	NumForm=Digit|NumType=Frac	19	_	_	start_char=825|end_char=828
+21	inches	inch	NOUN	NNS	Number=Plur	20	_	_	start_char=829|end_char=835
+22	every	every	DET	DT	PronType=Tot	21	_	_	start_char=836|end_char=841
+23	year	year	NOUN	NN	Number=Sing	22	_	_	start_char=842|end_char=846|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=846|end_char=847
+
+# text = Most of this city may sink by the year 2050.
+# sent_id = 8
+1	Most	most	ADJ	JJS	Degree=Sup	0	_	_	start_char=848|end_char=852
+2	of	of	ADP	IN	_	1	_	_	start_char=853|end_char=855
+3	this	this	DET	DT	Number=Sing|PronType=Dem	2	_	_	start_char=856|end_char=860
+4	city	city	NOUN	NN	Number=Sing	3	_	_	start_char=861|end_char=865
+5	may	may	AUX	MD	VerbForm=Fin	4	_	_	start_char=866|end_char=869
+6	sink	sink	VERB	VB	VerbForm=Inf	5	_	_	start_char=870|end_char=874
+7	by	by	ADP	IN	_	6	_	_	start_char=875|end_char=877
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=878|end_char=881
+9	year	year	NOUN	NN	Number=Sing	8	_	_	start_char=882|end_char=886
+10	2050	2050	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=887|end_char=891|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=891|end_char=892
+
+# text = The Indonesian government is thinking of shifting its capital 100 miles away from its current location on Java Island.
+# sent_id = 9
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=893|end_char=896
+2	Indonesian	Indonesian	ADJ	JJ	Degree=Pos	1	_	_	start_char=897|end_char=907
+3	government	government	NOUN	NN	Number=Sing	2	_	_	start_char=908|end_char=918
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=919|end_char=921
+5	thinking	think	VERB	VBG	Tense=Pres|VerbForm=Part	4	_	_	start_char=922|end_char=930
+6	of	of	SCONJ	IN	_	5	_	_	start_char=931|end_char=933
+7	shifting	shift	VERB	VBG	VerbForm=Ger	6	_	_	start_char=934|end_char=942
+8	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	_	_	start_char=943|end_char=946
+9	capital	capital	NOUN	NN	Number=Sing	8	_	_	start_char=947|end_char=954
+10	100	100	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=955|end_char=958
+11	miles	mile	NOUN	NNS	Number=Plur	10	_	_	start_char=959|end_char=964
+12	away	away	ADV	RB	_	11	_	_	start_char=965|end_char=969
+13	from	from	ADP	IN	_	12	_	_	start_char=970|end_char=974
+14	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	_	_	start_char=975|end_char=978
+15	current	current	ADJ	JJ	Degree=Pos	14	_	_	start_char=979|end_char=986
+16	location	location	NOUN	NN	Number=Sing	15	_	_	start_char=987|end_char=995
+17	on	on	ADP	IN	_	16	_	_	start_char=996|end_char=998
+18	Java	Java	PROPN	NNP	Number=Sing	17	_	_	start_char=999|end_char=1003
+19	Island	Island	PROPN	NNP	Number=Sing	18	_	_	start_char=1004|end_char=1010|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=1010|end_char=1011
+
+# text = Lagos, Nigeria: Rising sea levels due to global warming have created the risk of flooding in Lagos, Africa&#39;s largest city.
+# sent_id = 10
+1	Lagos	Lagos	PROPN	NNP	Number=Sing	0	_	_	start_char=1012|end_char=1017|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=1017|end_char=1018
+3	Nigeria	Nigeria	PROPN	NNP	Number=Sing	2	_	_	start_char=1019|end_char=1026|SpaceAfter=No
+4	:	:	PUNCT	:	_	3	_	_	start_char=1026|end_char=1027
+5	Rising	rise	VERB	VBG	VerbForm=Ger	4	_	_	start_char=1028|end_char=1034
+6	sea	sea	NOUN	NN	Number=Sing	5	_	_	start_char=1035|end_char=1038
+7	levels	level	NOUN	NNS	Number=Plur	6	_	_	start_char=1039|end_char=1045
+8	due	due	ADP	IN	_	7	_	_	start_char=1046|end_char=1049
+9	to	to	ADP	IN	_	8	_	_	start_char=1050|end_char=1052
+10	global	global	ADJ	JJ	Degree=Pos	9	_	_	start_char=1053|end_char=1059
+11	warming	warming	NOUN	NN	Number=Sing	10	_	_	start_char=1060|end_char=1067
+12	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=1068|end_char=1072
+13	created	create	VERB	VBN	Tense=Past|VerbForm=Part	12	_	_	start_char=1073|end_char=1080
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=1081|end_char=1084
+15	risk	risk	NOUN	NN	Number=Sing	14	_	_	start_char=1085|end_char=1089
+16	of	of	ADP	IN	_	15	_	_	start_char=1090|end_char=1092
+17	flooding	flooding	NOUN	NN	Number=Sing	16	_	_	start_char=1093|end_char=1101
+18	in	in	ADP	IN	_	17	_	_	start_char=1102|end_char=1104
+19	Lagos	Lagos	PROPN	NNP	Number=Sing	18	_	_	start_char=1105|end_char=1110|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=1110|end_char=1111
+21	Africa&	Africa&	PROPN	NNP	Number=Sing	20	_	_	start_char=1112|end_char=1119|SpaceAfter=No
+22	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	21	_	_	start_char=1119|end_char=1122|SpaceAfter=No
+23	;	;	PUNCT	:	_	22	_	_	start_char=1122|end_char=1123|SpaceAfter=No
+24	s	's	PART	POS	Typo=Yes	23	_	_	start_char=1123|end_char=1124
+25	largest	large	ADJ	JJS	Degree=Sup	24	_	_	start_char=1125|end_char=1132
+26	city	city	NOUN	NN	Number=Sing	25	_	_	start_char=1133|end_char=1137|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=1137|end_char=1138
+
+# text = According to a 2012 report by Plymouth University, a 3-9 foot rise in sea level in this area could have a devastating effect on human activities.
+# sent_id = 11
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=1139|end_char=1148
+2	to	to	ADP	IN	_	1	_	_	start_char=1149|end_char=1151
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=1152|end_char=1153
+4	2012	2012	NUM	CD	NumForm=Digit|NumType=Card	3	_	_	start_char=1154|end_char=1158
+5	report	report	NOUN	NN	Number=Sing	4	_	_	start_char=1159|end_char=1165
+6	by	by	ADP	IN	_	5	_	_	start_char=1166|end_char=1168
+7	Plymouth	Plymouth	PROPN	NNP	Number=Sing	6	_	_	start_char=1169|end_char=1177
+8	University	University	PROPN	NNP	Number=Sing	7	_	_	start_char=1178|end_char=1188|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1188|end_char=1189
+10	a	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=1190|end_char=1191
+11	3	3	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=1192|end_char=1193|SpaceAfter=No
+12	-	-	PUNCT	HYPH	_	11	_	_	start_char=1193|end_char=1194|SpaceAfter=No
+13	9	9	NUM	CD	NumForm=Digit|NumType=Card	12	_	_	start_char=1194|end_char=1195
+14	foot	foot	NOUN	NN	Number=Sing	13	_	_	start_char=1196|end_char=1200
+15	rise	rise	NOUN	NN	Number=Sing	14	_	_	start_char=1201|end_char=1205
+16	in	in	ADP	IN	_	15	_	_	start_char=1206|end_char=1208
+17	sea	sea	NOUN	NN	Number=Sing	16	_	_	start_char=1209|end_char=1212
+18	level	level	NOUN	NN	Number=Sing	17	_	_	start_char=1213|end_char=1218
+19	in	in	ADP	IN	_	18	_	_	start_char=1219|end_char=1221
+20	this	this	DET	DT	Number=Sing|PronType=Dem	19	_	_	start_char=1222|end_char=1226
+21	area	area	NOUN	NN	Number=Sing	20	_	_	start_char=1227|end_char=1231
+22	could	could	AUX	MD	VerbForm=Fin	21	_	_	start_char=1232|end_char=1237
+23	have	have	VERB	VB	VerbForm=Inf	22	_	_	start_char=1238|end_char=1242
+24	a	a	DET	DT	Definite=Ind|PronType=Art	23	_	_	start_char=1243|end_char=1244
+25	devastating	devastating	ADJ	JJ	Degree=Pos	24	_	_	start_char=1245|end_char=1256
+26	effect	effect	NOUN	NN	Number=Sing	25	_	_	start_char=1257|end_char=1263
+27	on	on	ADP	IN	_	26	_	_	start_char=1264|end_char=1266
+28	human	human	ADJ	JJ	Degree=Pos	27	_	_	start_char=1267|end_char=1272
+29	activities	activity	NOUN	NNS	Number=Plur	28	_	_	start_char=1273|end_char=1283|SpaceAfter=No
+30	.	.	PUNCT	.	_	29	_	_	start_char=1283|end_char=1284
+
+# text = Houston, Texas:
+# sent_id = 12
+1	Houston	Houston	PROPN	NNP	Number=Sing	0	_	_	start_char=1285|end_char=1292|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=1292|end_char=1293
+3	Texas	Texas	PROPN	NNP	Number=Sing	2	_	_	start_char=1294|end_char=1299|SpaceAfter=No
+4	:	:	PUNCT	:	_	3	_	_	start_char=1299|end_char=1300
+
+# text = This Texas city is sinking at the rate of 2 inches every year due to excessive groundwater extraction.
+# sent_id = 13
+1	This	this	DET	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1301|end_char=1305
+2	Texas	Texas	PROPN	NNP	Number=Sing	1	_	_	start_char=1306|end_char=1311
+3	city	city	NOUN	NN	Number=Sing	2	_	_	start_char=1312|end_char=1316
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1317|end_char=1319
+5	sinking	sink	VERB	VBG	Tense=Pres|VerbForm=Part	4	_	_	start_char=1320|end_char=1327
+6	at	at	ADP	IN	_	5	_	_	start_char=1328|end_char=1330
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1331|end_char=1334
+8	rate	rate	NOUN	NN	Number=Sing	7	_	_	start_char=1335|end_char=1339
+9	of	of	ADP	IN	_	8	_	_	start_char=1340|end_char=1342
+10	2	2	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=1343|end_char=1344
+11	inches	inch	NOUN	NNS	Number=Plur	10	_	_	start_char=1345|end_char=1351
+12	every	every	DET	DT	PronType=Tot	11	_	_	start_char=1352|end_char=1357
+13	year	year	NOUN	NN	Number=Sing	12	_	_	start_char=1358|end_char=1362
+14	due	due	ADP	IN	_	13	_	_	start_char=1363|end_char=1366
+15	to	to	ADP	IN	_	14	_	_	start_char=1367|end_char=1369
+16	excessive	excessive	ADJ	JJ	Degree=Pos	15	_	_	start_char=1370|end_char=1379
+17	groundwater	groundwater	NOUN	NN	Number=Sing	16	_	_	start_char=1380|end_char=1391
+18	extraction	extraction	NOUN	NN	Number=Sing	17	_	_	start_char=1392|end_char=1402|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=1402|end_char=1403
+
+# text = Many parts of Houston are sinking badly.
+# sent_id = 14
+1	Many	many	ADJ	JJ	Degree=Pos	0	_	_	start_char=1404|end_char=1408
+2	parts	part	NOUN	NNS	Number=Plur	1	_	_	start_char=1409|end_char=1414
+3	of	of	ADP	IN	_	2	_	_	start_char=1415|end_char=1417
+4	Houston	Houston	PROPN	NNP	Number=Sing	3	_	_	start_char=1418|end_char=1425
+5	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1426|end_char=1429
+6	sinking	sink	VERB	VBG	Tense=Pres|VerbForm=Part	5	_	_	start_char=1430|end_char=1437
+7	badly	badly	ADV	RB	Degree=Pos	6	_	_	start_char=1438|end_char=1443|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	_	_	start_char=1443|end_char=1444
+
+# text = The more this city sinks, the more the risk of disasters will increase.
+# sent_id = 15
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1445|end_char=1448
+2	more	more	ADV	RBR	Degree=Cmp	1	_	_	start_char=1449|end_char=1453
+3	this	this	DET	DT	Number=Sing|PronType=Dem	2	_	_	start_char=1454|end_char=1458
+4	city	city	NOUN	NN	Number=Sing	3	_	_	start_char=1459|end_char=1463
+5	sinks	sink	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1464|end_char=1469|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=1469|end_char=1470
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1471|end_char=1474
+8	more	more	ADV	RBR	Degree=Cmp	7	_	_	start_char=1475|end_char=1479
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1480|end_char=1483
+10	risk	risk	NOUN	NN	Number=Sing	9	_	_	start_char=1484|end_char=1488
+11	of	of	ADP	IN	_	10	_	_	start_char=1489|end_char=1491
+12	disasters	disaster	NOUN	NNS	Number=Plur	11	_	_	start_char=1492|end_char=1501
+13	will	will	AUX	MD	VerbForm=Fin	12	_	_	start_char=1502|end_char=1506
+14	increase	increase	VERB	VB	VerbForm=Inf	13	_	_	start_char=1507|end_char=1515|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=1515|end_char=1516
+
+# text = Hurricane Harvey destroyed 135,000 houses in this city and displaced 30,000 people.
+# sent_id = 16
+1	Hurricane	Hurricane	PROPN	NNP	Number=Sing	0	_	_	start_char=1517|end_char=1526
+2	Harvey	Harvey	PROPN	NNP	Number=Sing	1	_	_	start_char=1527|end_char=1533
+3	destroyed	destroy	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1534|end_char=1543
+4	135,000	135000	NUM	CD	NumForm=Digit|NumType=Card	3	_	_	start_char=1544|end_char=1551
+5	houses	house	NOUN	NNS	Number=Plur	4	_	_	start_char=1552|end_char=1558
+6	in	in	ADP	IN	_	5	_	_	start_char=1559|end_char=1561
+7	this	this	DET	DT	Number=Sing|PronType=Dem	6	_	_	start_char=1562|end_char=1566
+8	city	city	NOUN	NN	Number=Sing	7	_	_	start_char=1567|end_char=1571
+9	and	and	CCONJ	CC	_	8	_	_	start_char=1572|end_char=1575
+10	displaced	displace	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=1576|end_char=1585
+11	30,000	30000	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=1586|end_char=1592
+12	people	person	NOUN	NNS	Number=Plur	11	_	_	start_char=1593|end_char=1599|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=1599|end_char=1600
+
+# text = Dhaka, Bangladesh: According to the New York Times, Bangladesh produces 0.3 percent of emissions for climate change.
+# sent_id = 17
+1	Dhaka	Dhaka	PROPN	NNP	Number=Sing	0	_	_	start_char=1601|end_char=1606|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=1606|end_char=1607
+3	Bangladesh	Bangladesh	PROPN	NNP	Number=Sing	2	_	_	start_char=1608|end_char=1618|SpaceAfter=No
+4	:	:	PUNCT	:	_	3	_	_	start_char=1618|end_char=1619
+5	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	4	_	_	start_char=1620|end_char=1629
+6	to	to	ADP	IN	_	5	_	_	start_char=1630|end_char=1632
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1633|end_char=1636
+8	New	New	PROPN	NNP	Number=Sing	7	_	_	start_char=1637|end_char=1640
+9	York	York	PROPN	NNP	Number=Sing	8	_	_	start_char=1641|end_char=1645
+10	Times	Times	PROPN	NNP	Number=Sing	9	_	_	start_char=1646|end_char=1651|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=1651|end_char=1652
+12	Bangladesh	Bangladesh	PROPN	NNP	Number=Sing	11	_	_	start_char=1653|end_char=1663
+13	produces	produce	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=1664|end_char=1672
+14	0.3	0.3	NUM	CD	NumForm=Digit|NumType=Frac	13	_	_	start_char=1673|end_char=1676
+15	percent	percent	NOUN	NN	Number=Sing	14	_	_	start_char=1677|end_char=1684
+16	of	of	ADP	IN	_	15	_	_	start_char=1685|end_char=1687
+17	emissions	emission	NOUN	NNS	Number=Plur	16	_	_	start_char=1688|end_char=1697
+18	for	for	ADP	IN	_	17	_	_	start_char=1698|end_char=1701
+19	climate	climate	NOUN	NN	Number=Sing	18	_	_	start_char=1702|end_char=1709
+20	change	change	NOUN	NN	Number=Sing	19	_	_	start_char=1710|end_char=1716|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=1716|end_char=1717
+
+# text = According to the report, this country is facing the biggest consequences of rising sea levels.
+# sent_id = 18
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=1718|end_char=1727
+2	to	to	ADP	IN	_	1	_	_	start_char=1728|end_char=1730
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1731|end_char=1734
+4	report	report	NOUN	NN	Number=Sing	3	_	_	start_char=1735|end_char=1741|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=1741|end_char=1742
+6	this	this	DET	DT	Number=Sing|PronType=Dem	5	_	_	start_char=1743|end_char=1747
+7	country	country	NOUN	NN	Number=Sing	6	_	_	start_char=1748|end_char=1755
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=1756|end_char=1758
+9	facing	face	VERB	VBG	Tense=Pres|VerbForm=Part	8	_	_	start_char=1759|end_char=1765
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=1766|end_char=1769
+11	biggest	big	ADJ	JJS	Degree=Sup	10	_	_	start_char=1770|end_char=1777
+12	consequences	consequence	NOUN	NNS	Number=Plur	11	_	_	start_char=1778|end_char=1790
+13	of	of	ADP	IN	_	12	_	_	start_char=1791|end_char=1793
+14	rising	rise	VERB	VBG	VerbForm=Ger	13	_	_	start_char=1794|end_char=1800
+15	sea	sea	NOUN	NN	Number=Sing	14	_	_	start_char=1801|end_char=1804
+16	levels	level	NOUN	NNS	Number=Plur	15	_	_	start_char=1805|end_char=1811|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=1811|end_char=1812
+
+# text = By the year 2050, 17 percent of Bangladesh could be submerged in the land due to seas.
+# sent_id = 19
+1	By	by	ADP	IN	_	0	_	_	start_char=1813|end_char=1815
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=1816|end_char=1819
+3	year	year	NOUN	NN	Number=Sing	2	_	_	start_char=1820|end_char=1824
+4	2050	2050	NUM	CD	NumForm=Digit|NumType=Card	3	_	_	start_char=1825|end_char=1829|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=1829|end_char=1830
+6	17	17	NUM	CD	NumForm=Digit|NumType=Card	5	_	_	start_char=1831|end_char=1833
+7	percent	percent	NOUN	NN	Number=Sing	6	_	_	start_char=1834|end_char=1841
+8	of	of	ADP	IN	_	7	_	_	start_char=1842|end_char=1844
+9	Bangladesh	Bangladesh	PROPN	NNP	Number=Sing	8	_	_	start_char=1845|end_char=1855
+10	could	could	AUX	MD	VerbForm=Fin	9	_	_	start_char=1856|end_char=1861
+11	be	be	AUX	VB	VerbForm=Inf	10	_	_	start_char=1862|end_char=1864
+12	submerged	submerge	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	11	_	_	start_char=1865|end_char=1874
+13	in	in	ADP	IN	_	12	_	_	start_char=1875|end_char=1877
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=1878|end_char=1881
+15	land	land	NOUN	NN	Number=Sing	14	_	_	start_char=1882|end_char=1886
+16	due	due	ADP	IN	_	15	_	_	start_char=1887|end_char=1890
+17	to	to	ADP	IN	_	16	_	_	start_char=1891|end_char=1893
+18	seas	sea	NOUN	NNS	Number=Plur	17	_	_	start_char=1894|end_char=1898|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=1898|end_char=1899
+
+# text = This could displace 18 million people.
+# sent_id = 20
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1900|end_char=1904
+2	could	could	AUX	MD	VerbForm=Fin	1	_	_	start_char=1905|end_char=1910
+3	displace	displace	VERB	VB	VerbForm=Inf	2	_	_	start_char=1911|end_char=1919
+4	18	18	NUM	CD	NumForm=Digit|NumType=Card	3	_	_	start_char=1920|end_char=1922
+5	million	million	NUM	CD	NumForm=Word|NumType=Card	4	_	_	start_char=1923|end_char=1930
+6	people	person	NOUN	NNS	Number=Plur	5	_	_	start_char=1931|end_char=1937|SpaceAfter=No
+7	.	.	PUNCT	.	_	6	_	_	start_char=1937|end_char=1938
+
+# text = Venice, Italy: According to the &#39;World Economic Forum&#39;, Venice is sinking by 0.08 inches every year.
+# sent_id = 21
+1	Venice	Venice	PROPN	NNP	Number=Sing	0	_	_	start_char=1939|end_char=1945|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=1945|end_char=1946
+3	Italy	Italy	PROPN	NNP	Number=Sing	2	_	_	start_char=1947|end_char=1952|SpaceAfter=No
+4	:	:	PUNCT	:	_	3	_	_	start_char=1952|end_char=1953
+5	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	4	_	_	start_char=1954|end_char=1963
+6	to	to	ADP	IN	_	5	_	_	start_char=1964|end_char=1966
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1967|end_char=1970
+8	&	&	CCONJ	CC	_	7	_	_	start_char=1971|end_char=1972|SpaceAfter=No
+9	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	8	_	_	start_char=1972|end_char=1975|SpaceAfter=No
+10	;	;	PUNCT	:	_	9	_	_	start_char=1975|end_char=1976|SpaceAfter=No
+11	World	World	PROPN	NNP	Number=Sing	10	_	_	start_char=1976|end_char=1981
+12	Economic	Economic	ADJ	NNP	Degree=Pos	11	_	_	start_char=1982|end_char=1990
+13	Forum&	Forum&	PROPN	NNP	Number=Sing	12	_	_	start_char=1991|end_char=1997|SpaceAfter=No
+14	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	13	_	_	start_char=1997|end_char=2000|SpaceAfter=No
+15	;	;	PUNCT	:	_	14	_	_	start_char=2000|end_char=2001|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=2001|end_char=2002
+17	Venice	Venice	PROPN	NNP	Number=Sing	16	_	_	start_char=2003|end_char=2009
+18	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=2010|end_char=2012
+19	sinking	sink	VERB	VBG	Tense=Pres|VerbForm=Part	18	_	_	start_char=2013|end_char=2020
+20	by	by	ADP	IN	_	19	_	_	start_char=2021|end_char=2023
+21	0.08	0.08	NUM	CD	NumForm=Digit|NumType=Frac	20	_	_	start_char=2024|end_char=2028
+22	inches	inch	NOUN	NNS	Number=Plur	21	_	_	start_char=2029|end_char=2035
+23	every	every	DET	DT	PronType=Tot	22	_	_	start_char=2036|end_char=2041
+24	year	year	NOUN	NN	Number=Sing	23	_	_	start_char=2042|end_char=2046|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=2046|end_char=2047
+
+# text = This Italian city is well known for its canals.
+# sent_id = 22
+1	This	this	DET	DT	Number=Sing|PronType=Dem	0	_	_	start_char=2048|end_char=2052
+2	Italian	Italian	ADJ	JJ	Degree=Pos	1	_	_	start_char=2053|end_char=2060
+3	city	city	NOUN	NN	Number=Sing	2	_	_	start_char=2061|end_char=2065
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=2066|end_char=2068
+5	well	well	ADV	RB	Degree=Pos	4	_	_	start_char=2069|end_char=2073
+6	known	know	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	_	_	start_char=2074|end_char=2079
+7	for	for	ADP	IN	_	6	_	_	start_char=2080|end_char=2083
+8	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	_	_	start_char=2084|end_char=2087
+9	canals	canal	NOUN	NNS	Number=Plur	8	_	_	start_char=2088|end_char=2094|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=2094|end_char=2095
+
+# text = Most of it is under water.
+# sent_id = 23
+1	Most	most	ADJ	JJS	Degree=Sup	0	_	_	start_char=2096|end_char=2100
+2	of	of	ADP	IN	_	1	_	_	start_char=2101|end_char=2103
+3	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	_	_	start_char=2104|end_char=2106
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=2107|end_char=2109
+5	under	under	ADP	IN	_	4	_	_	start_char=2110|end_char=2115
+6	water	water	NOUN	NN	Number=Sing	5	_	_	start_char=2116|end_char=2121|SpaceAfter=No
+7	.	.	PUNCT	.	_	6	_	_	start_char=2121|end_char=2122
+
+# text = There is a possibility of this city sinking completely into the sea at some point.
+# sent_id = 24
+1	There	there	PRON	EX	_	0	_	_	start_char=2123|end_char=2128
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2129|end_char=2131
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=2132|end_char=2133
+4	possibility	possibility	NOUN	NN	Number=Sing	3	_	_	start_char=2134|end_char=2145
+5	of	of	ADP	IN	_	4	_	_	start_char=2146|end_char=2148
+6	this	this	DET	DT	Number=Sing|PronType=Dem	5	_	_	start_char=2149|end_char=2153
+7	city	city	NOUN	NN	Number=Sing	6	_	_	start_char=2154|end_char=2158
+8	sinking	sink	VERB	VBG	VerbForm=Ger	7	_	_	start_char=2159|end_char=2166
+9	completely	completely	ADV	RB	_	8	_	_	start_char=2167|end_char=2177
+10	into	into	ADP	IN	_	9	_	_	start_char=2178|end_char=2182
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=2183|end_char=2186
+12	sea	sea	NOUN	NN	Number=Sing	11	_	_	start_char=2187|end_char=2190
+13	at	at	ADP	IN	_	12	_	_	start_char=2191|end_char=2193
+14	some	some	DET	DT	_	13	_	_	start_char=2194|end_char=2198
+15	point	point	NOUN	NN	Number=Sing	14	_	_	start_char=2199|end_char=2204|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=2204|end_char=2205
+
+# text = In the year 2018, there were many storms in Venice, due to which this city had to suffer a lot of damage.
+# sent_id = 25
+1	In	in	ADP	IN	_	0	_	_	start_char=2206|end_char=2208
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=2209|end_char=2212
+3	year	year	NOUN	NN	Number=Sing	2	_	_	start_char=2213|end_char=2217
+4	2018	2018	NUM	CD	NumForm=Digit|NumType=Card	3	_	_	start_char=2218|end_char=2222|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=2222|end_char=2223
+6	there	there	PRON	EX	_	5	_	_	start_char=2224|end_char=2229
+7	were	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=2230|end_char=2234
+8	many	many	ADJ	JJ	Degree=Pos	7	_	_	start_char=2235|end_char=2239
+9	storms	storm	NOUN	NNS	Number=Plur	8	_	_	start_char=2240|end_char=2246
+10	in	in	ADP	IN	_	9	_	_	start_char=2247|end_char=2249
+11	Venice	Venice	PROPN	NNP	Number=Sing	10	_	_	start_char=2250|end_char=2256|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=2256|end_char=2257
+13	due	due	ADP	IN	_	12	_	_	start_char=2258|end_char=2261
+14	to	to	ADP	IN	_	13	_	_	start_char=2262|end_char=2264
+15	which	which	PRON	WDT	PronType=Rel	14	_	_	start_char=2265|end_char=2270
+16	this	this	DET	DT	Number=Sing|PronType=Dem	15	_	_	start_char=2271|end_char=2275
+17	city	city	NOUN	NN	Number=Sing	16	_	_	start_char=2276|end_char=2280
+18	had	have	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	_	_	start_char=2281|end_char=2284
+19	to	to	PART	TO	_	18	_	_	start_char=2285|end_char=2287
+20	suffer	suffer	VERB	VB	VerbForm=Inf	19	_	_	start_char=2288|end_char=2294
+21	a	a	DET	DT	Definite=Ind|PronType=Art	20	_	_	start_char=2295|end_char=2296
+22	lot	lot	NOUN	NN	Number=Sing	21	_	_	start_char=2297|end_char=2300
+23	of	of	ADP	IN	_	22	_	_	start_char=2301|end_char=2303
+24	damage	damage	NOUN	NN	Number=Sing	23	_	_	start_char=2304|end_char=2310|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=2310|end_char=2311|SpaceAfter=No
+

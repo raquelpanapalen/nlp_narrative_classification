@@ -1,0 +1,421 @@
+# text = Viktor Orban in China: Hungarian Prime Minister Viktor Orban visits Russia Ukraine and the European Union criticized Orban for his visit to Russia.
+# sent_id = 0
+1	Viktor	Viktor	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=6
+2	Orban	Orban	PROPN	NNP	Number=Sing	1	_	_	start_char=7|end_char=12
+3	in	in	ADP	IN	_	2	_	_	start_char=13|end_char=15
+4	China	China	PROPN	NNP	Number=Sing	3	_	_	start_char=16|end_char=21|SpaceAfter=No
+5	:	:	PUNCT	:	_	4	_	_	start_char=21|end_char=22
+6	Hungarian	Hungarian	ADJ	JJ	Degree=Pos	5	_	_	start_char=23|end_char=32
+7	Prime	Prime	ADJ	NNP	Degree=Pos	6	_	_	start_char=33|end_char=38
+8	Minister	Minister	PROPN	NNP	Number=Sing	7	_	_	start_char=39|end_char=47
+9	Viktor	Viktor	PROPN	NNP	Number=Sing	8	_	_	start_char=48|end_char=54
+10	Orban	Orban	PROPN	NNP	Number=Sing	9	_	_	start_char=55|end_char=60
+11	visits	visit	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=61|end_char=67
+12	Russia	Russia	PROPN	NNP	Number=Sing	11	_	_	start_char=68|end_char=74
+13	Ukraine	Ukraine	PROPN	NNP	Number=Sing	12	_	_	start_char=75|end_char=82
+14	and	and	CCONJ	CC	_	13	_	_	start_char=83|end_char=86
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=87|end_char=90
+16	European	European	ADJ	NNP	Degree=Pos	15	_	_	start_char=91|end_char=99
+17	Union	Union	PROPN	NNP	Number=Sing	16	_	_	start_char=100|end_char=105
+18	criticized	criticize	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	_	_	start_char=106|end_char=116
+19	Orban	Orban	PROPN	NNP	Number=Sing	18	_	_	start_char=117|end_char=122
+20	for	for	ADP	IN	_	19	_	_	start_char=123|end_char=126
+21	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	20	_	_	start_char=127|end_char=130
+22	visit	visit	NOUN	NN	Number=Sing	21	_	_	start_char=131|end_char=136
+23	to	to	ADP	IN	_	22	_	_	start_char=137|end_char=139
+24	Russia	Russia	PROPN	NNP	Number=Sing	23	_	_	start_char=140|end_char=146|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=146|end_char=147
+
+# text = Trending Photos Russia Ukraine War: Hungarian Prime Minister Viktor Orban suddenly arrived in China on Monday after visiting Russia and Ukraine.
+# sent_id = 1
+1	Trending	trending	NOUN	NN	Number=Sing	0	_	_	start_char=148|end_char=156
+2	Photos	photo	NOUN	NNS	Number=Plur	1	_	_	start_char=157|end_char=163
+3	Russia	Russia	PROPN	NNP	Number=Sing	2	_	_	start_char=164|end_char=170
+4	Ukraine	Ukraine	PROPN	NNP	Number=Sing	3	_	_	start_char=171|end_char=178
+5	War	War	PROPN	NNP	Number=Sing	4	_	_	start_char=179|end_char=182|SpaceAfter=No
+6	:	:	PUNCT	:	_	5	_	_	start_char=182|end_char=183
+7	Hungarian	Hungarian	ADJ	JJ	Degree=Pos	6	_	_	start_char=184|end_char=193
+8	Prime	Prime	ADJ	NNP	Degree=Pos	7	_	_	start_char=194|end_char=199
+9	Minister	Minister	PROPN	NNP	Number=Sing	8	_	_	start_char=200|end_char=208
+10	Viktor	Viktor	PROPN	NNP	Number=Sing	9	_	_	start_char=209|end_char=215
+11	Orban	Orban	PROPN	NNP	Number=Sing	10	_	_	start_char=216|end_char=221
+12	suddenly	suddenly	ADV	RB	_	11	_	_	start_char=222|end_char=230
+13	arrived	arrive	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=231|end_char=238
+14	in	in	ADP	IN	_	13	_	_	start_char=239|end_char=241
+15	China	China	PROPN	NNP	Number=Sing	14	_	_	start_char=242|end_char=247
+16	on	on	ADP	IN	_	15	_	_	start_char=248|end_char=250
+17	Monday	Monday	PROPN	NNP	Number=Sing	16	_	_	start_char=251|end_char=257
+18	after	after	SCONJ	IN	_	17	_	_	start_char=258|end_char=263
+19	visiting	visit	VERB	VBG	VerbForm=Ger	18	_	_	start_char=264|end_char=272
+20	Russia	Russia	PROPN	NNP	Number=Sing	19	_	_	start_char=273|end_char=279
+21	and	and	CCONJ	CC	_	20	_	_	start_char=280|end_char=283
+22	Ukraine	Ukraine	PROPN	NNP	Number=Sing	21	_	_	start_char=284|end_char=291|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=291|end_char=292
+
+# text = He has arrived in China to discuss the possibilities of a peace agreement in Ukraine.
+# sent_id = 2
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=293|end_char=295
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=296|end_char=299
+3	arrived	arrive	VERB	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=300|end_char=307
+4	in	in	ADP	IN	_	3	_	_	start_char=308|end_char=310
+5	China	China	PROPN	NNP	Number=Sing	4	_	_	start_char=311|end_char=316
+6	to	to	PART	TO	_	5	_	_	start_char=317|end_char=319
+7	discuss	discuss	VERB	VB	VerbForm=Inf	6	_	_	start_char=320|end_char=327
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=328|end_char=331
+9	possibilities	possibility	NOUN	NNS	Number=Plur	8	_	_	start_char=332|end_char=345
+10	of	of	ADP	IN	_	9	_	_	start_char=346|end_char=348
+11	a	a	DET	DT	Definite=Ind|PronType=Art	10	_	_	start_char=349|end_char=350
+12	peace	peace	NOUN	NN	Number=Sing	11	_	_	start_char=351|end_char=356
+13	agreement	agreement	NOUN	NN	Number=Sing	12	_	_	start_char=357|end_char=366
+14	in	in	ADP	IN	_	13	_	_	start_char=367|end_char=369
+15	Ukraine	Ukraine	PROPN	NNP	Number=Sing	14	_	_	start_char=370|end_char=377|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=377|end_char=378
+
+# text = State broadcaster CCTV informed that he met President Xi Jinping.
+# sent_id = 3
+1	State	state	NOUN	NN	Number=Sing	0	_	_	start_char=379|end_char=384
+2	broadcaster	broadcaster	NOUN	NN	Number=Sing	1	_	_	start_char=385|end_char=396
+3	CCTV	CCTV	PROPN	NNP	Number=Sing	2	_	_	start_char=397|end_char=401
+4	informed	inform	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=402|end_char=410
+5	that	that	SCONJ	IN	_	4	_	_	start_char=411|end_char=415
+6	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	_	_	start_char=416|end_char=418
+7	met	meet	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=419|end_char=422
+8	President	President	PROPN	NNP	Number=Sing	7	_	_	start_char=423|end_char=432
+9	Xi	Xi	PROPN	NNP	Number=Sing	8	_	_	start_char=433|end_char=435
+10	Jinping	Jinping	PROPN	NNP	Number=Sing	9	_	_	start_char=436|end_char=443|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=443|end_char=444
+
+# text = Orban&#39;s visit comes just days after a similar unannounced visit to Ukraine and Russia last week.
+# sent_id = 4
+1	Orban&	Orban&	PROPN	NNP	Number=Sing	0	_	_	start_char=445|end_char=451|SpaceAfter=No
+2	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	1	_	_	start_char=451|end_char=454|SpaceAfter=No
+3	;	;	PUNCT	:	_	2	_	_	start_char=454|end_char=455|SpaceAfter=No
+4	s	's	PART	POS	Typo=Yes	3	_	_	start_char=455|end_char=456
+5	visit	visit	NOUN	NN	Number=Sing	4	_	_	start_char=457|end_char=462
+6	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=463|end_char=468
+7	just	just	ADV	RB	_	6	_	_	start_char=469|end_char=473
+8	days	day	NOUN	NNS	Number=Plur	7	_	_	start_char=474|end_char=478
+9	after	after	ADP	IN	_	8	_	_	start_char=479|end_char=484
+10	a	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=485|end_char=486
+11	similar	similar	ADJ	JJ	Degree=Pos	10	_	_	start_char=487|end_char=494
+12	unannounced	unannounced	ADJ	JJ	Degree=Pos	11	_	_	start_char=495|end_char=506
+13	visit	visit	NOUN	NN	Number=Sing	12	_	_	start_char=507|end_char=512
+14	to	to	ADP	IN	_	13	_	_	start_char=513|end_char=515
+15	Ukraine	Ukraine	PROPN	NNP	Number=Sing	14	_	_	start_char=516|end_char=523
+16	and	and	CCONJ	CC	_	15	_	_	start_char=524|end_char=527
+17	Russia	Russia	PROPN	NNP	Number=Sing	16	_	_	start_char=528|end_char=534
+18	last	last	ADJ	JJ	Degree=Pos	17	_	_	start_char=535|end_char=539
+19	week	week	NOUN	NN	Number=Sing	18	_	_	start_char=540|end_char=544|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=544|end_char=545
+
+# text = However, Ukraine and the European Union criticized Orban for his visit to Russia.
+# sent_id = 5
+1	However	however	ADV	RB	_	0	_	_	start_char=546|end_char=553|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=553|end_char=554
+3	Ukraine	Ukraine	PROPN	NNP	Number=Sing	2	_	_	start_char=555|end_char=562
+4	and	and	CCONJ	CC	_	3	_	_	start_char=563|end_char=566
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=567|end_char=570
+6	European	European	ADJ	NNP	Degree=Pos	5	_	_	start_char=571|end_char=579
+7	Union	Union	PROPN	NNP	Number=Sing	6	_	_	start_char=580|end_char=585
+8	criticized	criticize	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=586|end_char=596
+9	Orban	Orban	PROPN	NNP	Number=Sing	8	_	_	start_char=597|end_char=602
+10	for	for	ADP	IN	_	9	_	_	start_char=603|end_char=606
+11	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	_	_	start_char=607|end_char=610
+12	visit	visit	NOUN	NN	Number=Sing	11	_	_	start_char=611|end_char=616
+13	to	to	ADP	IN	_	12	_	_	start_char=617|end_char=619
+14	Russia	Russia	PROPN	NNP	Number=Sing	13	_	_	start_char=620|end_char=626|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=626|end_char=627
+
+# text = Hungary can talk to anyone Orban said, &#39;The number of countries talking to both the warring countries is decreasing.
+# sent_id = 6
+1	Hungary	Hungary	PROPN	NNP	Number=Sing	0	_	_	start_char=628|end_char=635
+2	can	can	AUX	MD	VerbForm=Fin	1	_	_	start_char=636|end_char=639
+3	talk	talk	VERB	VB	VerbForm=Inf	2	_	_	start_char=640|end_char=644
+4	to	to	ADP	IN	_	3	_	_	start_char=645|end_char=647
+5	anyone	anyone	PRON	NN	Number=Sing|PronType=Ind	4	_	_	start_char=648|end_char=654
+6	Orban	Orban	PROPN	NNP	Number=Sing	5	_	_	start_char=655|end_char=660
+7	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=661|end_char=665|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=665|end_char=666
+9	&#39	&#39	INTJ	UH	_	8	_	_	start_char=667|end_char=671|SpaceAfter=No
+10	;	;	PUNCT	:	_	9	_	_	start_char=671|end_char=672|SpaceAfter=No
+11	The	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=672|end_char=675
+12	number	number	NOUN	NN	Number=Sing	11	_	_	start_char=676|end_char=682
+13	of	of	ADP	IN	_	12	_	_	start_char=683|end_char=685
+14	countries	country	NOUN	NNS	Number=Plur	13	_	_	start_char=686|end_char=695
+15	talking	talk	VERB	VBG	VerbForm=Ger	14	_	_	start_char=696|end_char=703
+16	to	to	ADP	IN	_	15	_	_	start_char=704|end_char=706
+17	both	both	CCONJ	CC	_	16	_	_	start_char=707|end_char=711
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=712|end_char=715
+19	warring	warr	VERB	VBG	VerbForm=Ger	18	_	_	start_char=716|end_char=723
+20	countries	country	NOUN	NNS	Number=Plur	19	_	_	start_char=724|end_char=733
+21	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	_	_	start_char=734|end_char=736
+22	decreasing	decrease	VERB	VBG	Tense=Pres|VerbForm=Part	21	_	_	start_char=737|end_char=747|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=747|end_char=748
+
+# text = Hungary is gradually emerging as the only country in Europe that can talk to everyone.
+# sent_id = 7
+1	Hungary	Hungary	PROPN	NNP	Number=Sing	0	_	_	start_char=749|end_char=756
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=757|end_char=759
+3	gradually	gradually	ADV	RB	_	2	_	_	start_char=760|end_char=769
+4	emerging	emerge	VERB	VBG	Tense=Pres|VerbForm=Part	3	_	_	start_char=770|end_char=778
+5	as	as	ADP	IN	_	4	_	_	start_char=779|end_char=781
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=782|end_char=785
+7	only	only	ADJ	JJ	Degree=Pos	6	_	_	start_char=786|end_char=790
+8	country	country	NOUN	NN	Number=Sing	7	_	_	start_char=791|end_char=798
+9	in	in	ADP	IN	_	8	_	_	start_char=799|end_char=801
+10	Europe	Europe	PROPN	NNP	Number=Sing	9	_	_	start_char=802|end_char=808
+11	that	that	PRON	WDT	PronType=Rel	10	_	_	start_char=809|end_char=813
+12	can	can	AUX	MD	VerbForm=Fin	11	_	_	start_char=814|end_char=817
+13	talk	talk	VERB	VB	VerbForm=Inf	12	_	_	start_char=818|end_char=822
+14	to	to	ADP	IN	_	13	_	_	start_char=823|end_char=825
+15	everyone	everyone	PRON	NN	Number=Sing|PronType=Tot	14	_	_	start_char=826|end_char=834|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=834|end_char=835|SpaceAfter=No
+
+# text = &#39; Controversy over Orban&#39;s visit to Russia Hungary took over the six-month rotating presidency of the European Union at the beginning of the month.
+# sent_id = 8
+1	&#	&#	SYM	SYM	_	0	_	_	start_char=835|end_char=837|SpaceAfter=No
+2	39	39	NUM	CD	NumForm=Digit|NumType=Card	1	_	_	start_char=837|end_char=839|SpaceAfter=No
+3	;	;	PUNCT	:	_	2	_	_	start_char=839|end_char=840
+4	Controversy	controversy	NOUN	NN	Number=Sing	3	_	_	start_char=841|end_char=852
+5	over	over	ADP	IN	_	4	_	_	start_char=853|end_char=857
+6	Orban&	Orban&	PROPN	NNP	Number=Sing	5	_	_	start_char=858|end_char=864|SpaceAfter=No
+7	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	6	_	_	start_char=864|end_char=867|SpaceAfter=No
+8	;	;	PUNCT	:	_	7	_	_	start_char=867|end_char=868|SpaceAfter=No
+9	s	's	PART	POS	Typo=Yes	8	_	_	start_char=868|end_char=869
+10	visit	visit	NOUN	NN	Number=Sing	9	_	_	start_char=870|end_char=875
+11	to	to	ADP	IN	_	10	_	_	start_char=876|end_char=878
+12	Russia	Russia	PROPN	NNP	Number=Sing	11	_	_	start_char=879|end_char=885
+13	Hungary	Hungary	PROPN	NNP	Number=Sing	12	_	_	start_char=886|end_char=893
+14	took	take	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	_	_	start_char=894|end_char=898
+15	over	over	ADP	RP	_	14	_	_	start_char=899|end_char=903
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=904|end_char=907
+17	six	six	NUM	CD	NumForm=Word|NumType=Card	16	_	_	start_char=908|end_char=911|SpaceAfter=No
+18	-	-	PUNCT	HYPH	_	17	_	_	start_char=911|end_char=912|SpaceAfter=No
+19	month	month	NOUN	NN	Number=Sing	18	_	_	start_char=912|end_char=917
+20	rotating	rotate	VERB	VBG	VerbForm=Ger	19	_	_	start_char=918|end_char=926
+21	presidency	presidency	NOUN	NN	Number=Sing	20	_	_	start_char=927|end_char=937
+22	of	of	ADP	IN	_	21	_	_	start_char=938|end_char=940
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=941|end_char=944
+24	European	European	ADJ	NNP	Degree=Pos	23	_	_	start_char=945|end_char=953
+25	Union	Union	PROPN	NNP	Number=Sing	24	_	_	start_char=954|end_char=959
+26	at	at	ADP	IN	_	25	_	_	start_char=960|end_char=962
+27	the	the	DET	DT	Definite=Def|PronType=Art	26	_	_	start_char=963|end_char=966
+28	beginning	beginning	NOUN	NN	Number=Sing	27	_	_	start_char=967|end_char=976
+29	of	of	ADP	IN	_	28	_	_	start_char=977|end_char=979
+30	the	the	DET	DT	Definite=Def|PronType=Art	29	_	_	start_char=980|end_char=983
+31	month	month	NOUN	NN	Number=Sing	30	_	_	start_char=984|end_char=989|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=989|end_char=990
+
+# text = During this time, Russian President Vladimir Putin had indicated that Orban had come to Moscow as the top representative of the European Council.
+# sent_id = 9
+1	During	during	ADP	IN	_	0	_	_	start_char=991|end_char=997
+2	this	this	DET	DT	Number=Sing|PronType=Dem	1	_	_	start_char=998|end_char=1002
+3	time	time	NOUN	NN	Number=Sing	2	_	_	start_char=1003|end_char=1007|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1007|end_char=1008
+5	Russian	Russian	ADJ	JJ	Degree=Pos	4	_	_	start_char=1009|end_char=1016
+6	President	President	PROPN	NNP	Number=Sing	5	_	_	start_char=1017|end_char=1026
+7	Vladimir	Vladimir	PROPN	NNP	Number=Sing	6	_	_	start_char=1027|end_char=1035
+8	Putin	Putin	PROPN	NNP	Number=Sing	7	_	_	start_char=1036|end_char=1041
+9	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=1042|end_char=1045
+10	indicated	indicate	VERB	VBN	Tense=Past|VerbForm=Part	9	_	_	start_char=1046|end_char=1055
+11	that	that	SCONJ	IN	_	10	_	_	start_char=1056|end_char=1060
+12	Orban	Orban	PROPN	NNP	Number=Sing	11	_	_	start_char=1061|end_char=1066
+13	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=1067|end_char=1070
+14	come	come	VERB	VBN	Tense=Past|VerbForm=Part	13	_	_	start_char=1071|end_char=1075
+15	to	to	ADP	IN	_	14	_	_	start_char=1076|end_char=1078
+16	Moscow	Moscow	PROPN	NNP	Number=Sing	15	_	_	start_char=1079|end_char=1085
+17	as	as	ADP	IN	_	16	_	_	start_char=1086|end_char=1088
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=1089|end_char=1092
+19	top	top	ADJ	JJ	Degree=Pos	18	_	_	start_char=1093|end_char=1096
+20	representative	representative	NOUN	NN	Number=Sing	19	_	_	start_char=1097|end_char=1111
+21	of	of	ADP	IN	_	20	_	_	start_char=1112|end_char=1114
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=1115|end_char=1118
+23	European	European	ADJ	NNP	Degree=Pos	22	_	_	start_char=1119|end_char=1127
+24	Council	Council	PROPN	NNP	Number=Sing	23	_	_	start_char=1128|end_char=1135|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=1135|end_char=1136
+
+# text = Several top officials of the European Council rejected Putin&#39;s statement and said that Orban has no authority to do anything other than discuss bilateral relations.
+# sent_id = 10
+1	Several	several	ADJ	JJ	Degree=Pos	0	_	_	start_char=1137|end_char=1144
+2	top	top	ADJ	JJ	Degree=Pos	1	_	_	start_char=1145|end_char=1148
+3	officials	official	NOUN	NNS	Number=Plur	2	_	_	start_char=1149|end_char=1158
+4	of	of	ADP	IN	_	3	_	_	start_char=1159|end_char=1161
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1162|end_char=1165
+6	European	European	ADJ	NNP	Degree=Pos	5	_	_	start_char=1166|end_char=1174
+7	Council	Council	PROPN	NNP	Number=Sing	6	_	_	start_char=1175|end_char=1182
+8	rejected	reject	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=1183|end_char=1191
+9	Putin&	Putin&	PROPN	NNP	Number=Sing	8	_	_	start_char=1192|end_char=1198|SpaceAfter=No
+10	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=1198|end_char=1201|SpaceAfter=No
+11	;	;	PUNCT	:	_	10	_	_	start_char=1201|end_char=1202|SpaceAfter=No
+12	s	's	PART	POS	Typo=Yes	11	_	_	start_char=1202|end_char=1203
+13	statement	statement	NOUN	NN	Number=Sing	12	_	_	start_char=1204|end_char=1213
+14	and	and	CCONJ	CC	_	13	_	_	start_char=1214|end_char=1217
+15	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=1218|end_char=1222
+16	that	that	SCONJ	IN	_	15	_	_	start_char=1223|end_char=1227
+17	Orban	Orban	PROPN	NNP	Number=Sing	16	_	_	start_char=1228|end_char=1233
+18	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=1234|end_char=1237
+19	no	no	DET	DT	_	18	_	_	start_char=1238|end_char=1240
+20	authority	authority	NOUN	NN	Number=Sing	19	_	_	start_char=1241|end_char=1250
+21	to	to	PART	TO	_	20	_	_	start_char=1251|end_char=1253
+22	do	do	VERB	VB	VerbForm=Inf	21	_	_	start_char=1254|end_char=1256
+23	anything	anything	PRON	NN	Number=Sing|PronType=Ind	22	_	_	start_char=1257|end_char=1265
+24	other	other	ADJ	JJ	Degree=Pos	23	_	_	start_char=1266|end_char=1271
+25	than	than	PART	TO	_	24	_	_	start_char=1272|end_char=1276
+26	discuss	discuss	VERB	VB	VerbForm=Inf	25	_	_	start_char=1277|end_char=1284
+27	bilateral	bilateral	ADJ	JJ	Degree=Pos	26	_	_	start_char=1285|end_char=1294
+28	relations	relation	NOUN	NNS	Number=Plur	27	_	_	start_char=1295|end_char=1304|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=1304|end_char=1305
+
+# text = Orban is close to Putin Orban, considered Putin&#39;s closest ally in the European Union, has obstructed the EU&#39;s efforts to help Ukraine and impose sanctions on Moscow for the war.
+# sent_id = 11
+1	Orban	Orban	PROPN	NNP	Number=Sing	0	_	_	start_char=1306|end_char=1311
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1312|end_char=1314
+3	close	close	ADV	RB	Degree=Pos	2	_	_	start_char=1315|end_char=1320
+4	to	to	ADP	IN	_	3	_	_	start_char=1321|end_char=1323
+5	Putin	Putin	PROPN	NNP	Number=Sing	4	_	_	start_char=1324|end_char=1329
+6	Orban	Orban	PROPN	NNP	Number=Sing	5	_	_	start_char=1330|end_char=1335|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=1335|end_char=1336
+8	considered	consider	VERB	VBN	Tense=Past|VerbForm=Part	7	_	_	start_char=1337|end_char=1347
+9	Putin&	Putin&	PROPN	NNP	Number=Sing	8	_	_	start_char=1348|end_char=1354|SpaceAfter=No
+10	#	#	SYM	NN	Number=Sing	9	_	_	start_char=1354|end_char=1355|SpaceAfter=No
+11	39	39	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=1355|end_char=1357|SpaceAfter=No
+12	;	;	PUNCT	:	_	11	_	_	start_char=1357|end_char=1358|SpaceAfter=No
+13	s	's	PART	POS	Typo=Yes	12	_	_	start_char=1358|end_char=1359
+14	closest	close	ADJ	JJS	Degree=Sup	13	_	_	start_char=1360|end_char=1367
+15	ally	ally	NOUN	NN	Number=Sing	14	_	_	start_char=1368|end_char=1372
+16	in	in	ADP	IN	_	15	_	_	start_char=1373|end_char=1375
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=1376|end_char=1379
+18	European	European	ADJ	NNP	Degree=Pos	17	_	_	start_char=1380|end_char=1388
+19	Union	Union	PROPN	NNP	Number=Sing	18	_	_	start_char=1389|end_char=1394|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=1394|end_char=1395
+21	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	_	_	start_char=1396|end_char=1399
+22	obstructed	obstruct	VERB	VBN	Tense=Past|VerbForm=Part	21	_	_	start_char=1400|end_char=1410
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=1411|end_char=1414
+24	EU&	EU&	PROPN	NNP	Number=Sing	23	_	_	start_char=1415|end_char=1418|SpaceAfter=No
+25	#	#	SYM	NN	Number=Sing	24	_	_	start_char=1418|end_char=1419|SpaceAfter=No
+26	39	39	NUM	CD	NumForm=Digit|NumType=Card	25	_	_	start_char=1419|end_char=1421|SpaceAfter=No
+27	;s	's	PART	POS	_	26	_	_	start_char=1421|end_char=1423
+28	efforts	effort	NOUN	NNS	Number=Plur	27	_	_	start_char=1424|end_char=1431
+29	to	to	PART	TO	_	28	_	_	start_char=1432|end_char=1434
+30	help	help	VERB	VB	VerbForm=Inf	29	_	_	start_char=1435|end_char=1439
+31	Ukraine	Ukraine	PROPN	NNP	Number=Sing	30	_	_	start_char=1440|end_char=1447
+32	and	and	CCONJ	CC	_	31	_	_	start_char=1448|end_char=1451
+33	impose	impose	VERB	VB	VerbForm=Inf	32	_	_	start_char=1452|end_char=1458
+34	sanctions	sanction	NOUN	NNS	Number=Plur	33	_	_	start_char=1459|end_char=1468
+35	on	on	ADP	IN	_	34	_	_	start_char=1469|end_char=1471
+36	Moscow	Moscow	PROPN	NNP	Number=Sing	35	_	_	start_char=1472|end_char=1478
+37	for	for	ADP	IN	_	36	_	_	start_char=1479|end_char=1482
+38	the	the	DET	DT	Definite=Def|PronType=Art	37	_	_	start_char=1483|end_char=1486
+39	war	war	NOUN	NN	Number=Sing	38	_	_	start_char=1487|end_char=1490|SpaceAfter=No
+40	.	.	PUNCT	.	_	39	_	_	start_char=1490|end_char=1491
+
+# text = China visit before NATO summit According to Reuters, Orban is a critic of Western military aid to Ukraine.
+# sent_id = 12
+1	China	China	PROPN	NNP	Number=Sing	0	_	_	start_char=1492|end_char=1497
+2	visit	visit	VERB	VB	VerbForm=Inf	1	_	_	start_char=1498|end_char=1503
+3	before	before	ADP	IN	_	2	_	_	start_char=1504|end_char=1510
+4	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	3	_	_	start_char=1511|end_char=1515
+5	summit	summit	NOUN	NN	Number=Sing	4	_	_	start_char=1516|end_char=1522
+6	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	5	_	_	start_char=1523|end_char=1532
+7	to	to	ADP	IN	_	6	_	_	start_char=1533|end_char=1535
+8	Reuters	Reuters	PROPN	NNP	Number=Sing	7	_	_	start_char=1536|end_char=1543|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1543|end_char=1544
+10	Orban	Orban	PROPN	NNP	Number=Sing	9	_	_	start_char=1545|end_char=1550
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=1551|end_char=1553
+12	a	a	DET	DT	Definite=Ind|PronType=Art	11	_	_	start_char=1554|end_char=1555
+13	critic	critic	NOUN	NN	Number=Sing	12	_	_	start_char=1556|end_char=1562
+14	of	of	ADP	IN	_	13	_	_	start_char=1563|end_char=1565
+15	Western	western	ADJ	JJ	Degree=Pos	14	_	_	start_char=1566|end_char=1573
+16	military	military	ADJ	JJ	Degree=Pos	15	_	_	start_char=1574|end_char=1582
+17	aid	aid	NOUN	NN	Number=Sing	16	_	_	start_char=1583|end_char=1586
+18	to	to	ADP	IN	_	17	_	_	start_char=1587|end_char=1589
+19	Ukraine	Ukraine	PROPN	NNP	Number=Sing	18	_	_	start_char=1590|end_char=1597|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=1597|end_char=1598
+
+# text = He has cordial relations with Xi and Putin.
+# sent_id = 13
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1599|end_char=1601
+2	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1602|end_char=1605
+3	cordial	cordial	ADJ	JJ	Degree=Pos	2	_	_	start_char=1606|end_char=1613
+4	relations	relation	NOUN	NNS	Number=Plur	3	_	_	start_char=1614|end_char=1623
+5	with	with	ADP	IN	_	4	_	_	start_char=1624|end_char=1628
+6	Xi	Xi	PROPN	NNP	Number=Sing	5	_	_	start_char=1629|end_char=1631
+7	and	and	CCONJ	CC	_	6	_	_	start_char=1632|end_char=1635
+8	Putin	Putin	PROPN	NNP	Number=Sing	7	_	_	start_char=1636|end_char=1641|SpaceAfter=No
+9	.	.	PUNCT	.	_	8	_	_	start_char=1641|end_char=1642
+
+# text = His visit to China comes a few days before the NATO summit, in which providing more aid to Ukraine will be discussed.
+# sent_id = 14
+1	His	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	_	_	start_char=1643|end_char=1646
+2	visit	visit	NOUN	NN	Number=Sing	1	_	_	start_char=1647|end_char=1652
+3	to	to	ADP	IN	_	2	_	_	start_char=1653|end_char=1655
+4	China	China	PROPN	NNP	Number=Sing	3	_	_	start_char=1656|end_char=1661
+5	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1662|end_char=1667
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=1668|end_char=1669
+7	few	few	ADJ	JJ	Degree=Pos	6	_	_	start_char=1670|end_char=1673
+8	days	day	NOUN	NNS	Number=Plur	7	_	_	start_char=1674|end_char=1678
+9	before	before	ADP	IN	_	8	_	_	start_char=1679|end_char=1685
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=1686|end_char=1689
+11	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	10	_	_	start_char=1690|end_char=1694
+12	summit	summit	NOUN	NN	Number=Sing	11	_	_	start_char=1695|end_char=1701|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=1701|end_char=1702
+14	in	in	ADP	IN	_	13	_	_	start_char=1703|end_char=1705
+15	which	which	PRON	WDT	PronType=Rel	14	_	_	start_char=1706|end_char=1711
+16	providing	provide	VERB	VBG	VerbForm=Ger	15	_	_	start_char=1712|end_char=1721
+17	more	more	ADJ	JJR	Degree=Cmp	16	_	_	start_char=1722|end_char=1726
+18	aid	aid	NOUN	NN	Number=Sing	17	_	_	start_char=1727|end_char=1730
+19	to	to	ADP	IN	_	18	_	_	start_char=1731|end_char=1733
+20	Ukraine	Ukraine	PROPN	NNP	Number=Sing	19	_	_	start_char=1734|end_char=1741
+21	will	will	AUX	MD	VerbForm=Fin	20	_	_	start_char=1742|end_char=1746
+22	be	be	AUX	VB	VerbForm=Inf	21	_	_	start_char=1747|end_char=1749
+23	discussed	discuss	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	22	_	_	start_char=1750|end_char=1759|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=1759|end_char=1760
+
+# text = Hungary has become an important trade and investment partner for China, while some other EU countries want to be less dependent on the world&#39;s second largest economy.
+# sent_id = 15
+1	Hungary	Hungary	PROPN	NNP	Number=Sing	0	_	_	start_char=1761|end_char=1768
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1769|end_char=1772
+3	become	become	VERB	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=1773|end_char=1779
+4	an	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=1780|end_char=1782
+5	important	important	ADJ	JJ	Degree=Pos	4	_	_	start_char=1783|end_char=1792
+6	trade	trade	NOUN	NN	Number=Sing	5	_	_	start_char=1793|end_char=1798
+7	and	and	CCONJ	CC	_	6	_	_	start_char=1799|end_char=1802
+8	investment	investment	NOUN	NN	Number=Sing	7	_	_	start_char=1803|end_char=1813
+9	partner	partner	NOUN	NN	Number=Sing	8	_	_	start_char=1814|end_char=1821
+10	for	for	ADP	IN	_	9	_	_	start_char=1822|end_char=1825
+11	China	China	PROPN	NNP	Number=Sing	10	_	_	start_char=1826|end_char=1831|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=1831|end_char=1832
+13	while	while	SCONJ	IN	_	12	_	_	start_char=1833|end_char=1838
+14	some	some	DET	DT	_	13	_	_	start_char=1839|end_char=1843
+15	other	other	ADJ	JJ	Degree=Pos	14	_	_	start_char=1844|end_char=1849
+16	EU	EU	PROPN	NNP	Number=Sing	15	_	_	start_char=1850|end_char=1852
+17	countries	country	NOUN	NNS	Number=Plur	16	_	_	start_char=1853|end_char=1862
+18	want	want	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=1863|end_char=1867
+19	to	to	PART	TO	_	18	_	_	start_char=1868|end_char=1870
+20	be	be	AUX	VB	VerbForm=Inf	19	_	_	start_char=1871|end_char=1873
+21	less	less	ADV	RBR	Degree=Cmp	20	_	_	start_char=1874|end_char=1878
+22	dependent	dependent	ADJ	JJ	Degree=Pos	21	_	_	start_char=1879|end_char=1888
+23	on	on	ADP	IN	_	22	_	_	start_char=1889|end_char=1891
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=1892|end_char=1895
+25	world&	world&	NOUN	NN	Number=Sing	24	_	_	start_char=1896|end_char=1902|SpaceAfter=No
+26	#	#	SYM	NN	Number=Sing	25	_	_	start_char=1902|end_char=1903|SpaceAfter=No
+27	39	39	NUM	CD	NumForm=Digit|NumType=Card	26	_	_	start_char=1903|end_char=1905|SpaceAfter=No
+28	;	;	PUNCT	:	_	27	_	_	start_char=1905|end_char=1906|SpaceAfter=No
+29	s	's	PART	POS	Typo=Yes	28	_	_	start_char=1906|end_char=1907
+30	second	second	ADJ	JJ	Degree=Pos|NumType=Ord	29	_	_	start_char=1908|end_char=1914
+31	largest	large	ADJ	JJS	Degree=Sup	30	_	_	start_char=1915|end_char=1922
+32	economy	economy	NOUN	NN	Number=Sing	31	_	_	start_char=1923|end_char=1930|SpaceAfter=No
+33	.	.	PUNCT	.	_	32	_	_	start_char=1930|end_char=1931
+
+# text = (With agency input) Photo courtesy: Reuters
+# sent_id = 16
+1	(	(	PUNCT	-LRB-	_	0	_	_	start_char=1932|end_char=1933|SpaceAfter=No
+2	With	with	ADP	IN	_	1	_	_	start_char=1933|end_char=1937
+3	agency	agency	NOUN	NN	Number=Sing	2	_	_	start_char=1938|end_char=1944
+4	input	input	NOUN	NN	Number=Sing	3	_	_	start_char=1945|end_char=1950|SpaceAfter=No
+5	)	)	PUNCT	-RRB-	_	4	_	_	start_char=1950|end_char=1951
+6	Photo	photo	NOUN	NN	Number=Sing	5	_	_	start_char=1952|end_char=1957
+7	courtesy	courtesy	NOUN	NN	Number=Sing	6	_	_	start_char=1958|end_char=1966|SpaceAfter=No
+8	:	:	PUNCT	:	_	7	_	_	start_char=1966|end_char=1967
+9	Reuters	Reuters	PROPN	NNP	Number=Sing	8	_	_	start_char=1968|end_char=1975|SpaceAfter=No
+

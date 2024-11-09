@@ -1,0 +1,56 @@
+# text = Amidst the Russia-Ukraine war, NATO has started a war exercise that had never happened before in its history.
+# sent_id = 0
+1	Amidst	amidst	ADP	IN	_	0	_	_	start_char=0|end_char=6
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=7|end_char=10
+3	Russia	Russia	PROPN	NNP	Number=Sing	2	_	_	start_char=11|end_char=17|SpaceAfter=No
+4	-	-	PUNCT	HYPH	_	3	_	_	start_char=17|end_char=18|SpaceAfter=No
+5	Ukraine	Ukraine	PROPN	NNP	Number=Sing	4	_	_	start_char=18|end_char=25
+6	war	war	NOUN	NN	Number=Sing	5	_	_	start_char=26|end_char=29|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=29|end_char=30
+8	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	7	_	_	start_char=31|end_char=35
+9	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=36|end_char=39
+10	started	start	VERB	VBN	Tense=Past|VerbForm=Part	9	_	_	start_char=40|end_char=47
+11	a	a	DET	DT	Definite=Ind|PronType=Art	10	_	_	start_char=48|end_char=49
+12	war	war	NOUN	NN	Number=Sing	11	_	_	start_char=50|end_char=53
+13	exercise	exercise	NOUN	NN	Number=Sing	12	_	_	start_char=54|end_char=62
+14	that	that	PRON	WDT	PronType=Rel	13	_	_	start_char=63|end_char=67
+15	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=68|end_char=71
+16	never	never	ADV	RB	_	15	_	_	start_char=72|end_char=77
+17	happened	happen	VERB	VBN	Tense=Past|VerbForm=Part	16	_	_	start_char=78|end_char=86
+18	before	before	ADV	RB	_	17	_	_	start_char=87|end_char=93
+19	in	in	ADP	IN	_	18	_	_	start_char=94|end_char=96
+20	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	_	_	start_char=97|end_char=100
+21	history	history	NOUN	NN	Number=Sing	20	_	_	start_char=101|end_char=108|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=108|end_char=109
+
+# text = More than 250 aircraft from 25 NATO countries are participating in the war exercise named Air Defender 2023 in Germany.
+# sent_id = 1
+1	More	more	ADJ	JJR	Degree=Cmp	0	_	_	start_char=110|end_char=114
+2	than	than	ADP	IN	_	1	_	_	start_char=115|end_char=119
+3	250	250	NUM	CD	NumForm=Digit|NumType=Card	2	_	_	start_char=120|end_char=123
+4	aircraft	aircraft	NOUN	NN	Number=Sing	3	_	_	start_char=124|end_char=132
+5	from	from	ADP	IN	_	4	_	_	start_char=133|end_char=137
+6	25	25	NUM	CD	NumForm=Digit|NumType=Card	5	_	_	start_char=138|end_char=140
+7	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	6	_	_	start_char=141|end_char=145
+8	countries	country	NOUN	NNS	Number=Plur	7	_	_	start_char=146|end_char=155
+9	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=156|end_char=159
+10	participating	participate	VERB	VBG	Tense=Pres|VerbForm=Part	9	_	_	start_char=160|end_char=173
+11	in	in	ADP	IN	_	10	_	_	start_char=174|end_char=176
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=177|end_char=180
+13	war	war	NOUN	NN	Number=Sing	12	_	_	start_char=181|end_char=184
+14	exercise	exercise	NOUN	NN	Number=Sing	13	_	_	start_char=185|end_char=193
+15	named	name	VERB	VBN	Tense=Past|VerbForm=Part	14	_	_	start_char=194|end_char=199
+16	Air	Air	PROPN	NNP	Number=Sing	15	_	_	start_char=200|end_char=203
+17	Defender	Defender	PROPN	NNP	Number=Sing	16	_	_	start_char=204|end_char=212
+18	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	17	_	_	start_char=213|end_char=217
+19	in	in	ADP	IN	_	18	_	_	start_char=218|end_char=220
+20	Germany	Germany	PROPN	NNP	Number=Sing	19	_	_	start_char=221|end_char=228|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=228|end_char=229
+
+# text = Watch the report.
+# sent_id = 2
+1	Watch	watch	VERB	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=230|end_char=235
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=236|end_char=239
+3	report	report	NOUN	NN	Number=Sing	2	_	_	start_char=240|end_char=246|SpaceAfter=No
+4	.	.	PUNCT	.	_	3	_	_	start_char=246|end_char=247|SpaceAfter=No
+

@@ -1,0 +1,953 @@
+# text = Russia Ukraine War: When Ukraine is not a member country, then why should NATO fight with Russia...
+# sent_id = 0
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=6
+2	Ukraine	Ukraine	PROPN	NNP	Number=Sing	1	_	_	start_char=7|end_char=14
+3	War	War	PROPN	NNP	Number=Sing	2	_	_	start_char=15|end_char=18|SpaceAfter=No
+4	:	:	PUNCT	:	_	3	_	_	start_char=18|end_char=19
+5	When	when	ADV	WRB	PronType=Int	4	_	_	start_char=20|end_char=24
+6	Ukraine	Ukraine	PROPN	NNP	Number=Sing	5	_	_	start_char=25|end_char=32
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=33|end_char=35
+8	not	not	PART	RB	_	7	_	_	start_char=36|end_char=39
+9	a	a	DET	DT	Definite=Ind|PronType=Art	8	_	_	start_char=40|end_char=41
+10	member	member	NOUN	NN	Number=Sing	9	_	_	start_char=42|end_char=48
+11	country	country	NOUN	NN	Number=Sing	10	_	_	start_char=49|end_char=56|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=56|end_char=57
+13	then	then	ADV	RB	PronType=Dem	12	_	_	start_char=58|end_char=62
+14	why	why	ADV	WRB	PronType=Int	13	_	_	start_char=63|end_char=66
+15	should	should	AUX	MD	VerbForm=Fin	14	_	_	start_char=67|end_char=73
+16	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	15	_	_	start_char=74|end_char=78
+17	fight	fight	VERB	VB	VerbForm=Inf	16	_	_	start_char=79|end_char=84
+18	with	with	ADP	IN	_	17	_	_	start_char=85|end_char=89
+19	Russia	Russia	PROPN	NNP	Number=Sing	18	_	_	start_char=90|end_char=96|SpaceAfter=No
+20	...	...	PUNCT	.	_	19	_	_	start_char=96|end_char=99
+
+# text = The North Atlantic Treaty Organization (NATO) has become the focal point of the Ukraine-Russia war.
+# sent_id = 1
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=100|end_char=103
+2	North	North	PROPN	NNP	Number=Sing	1	_	_	start_char=104|end_char=109
+3	Atlantic	Atlantic	ADJ	NNP	Degree=Pos	2	_	_	start_char=110|end_char=118
+4	Treaty	Treaty	PROPN	NNP	Number=Sing	3	_	_	start_char=119|end_char=125
+5	Organization	Organization	PROPN	NNP	Number=Sing	4	_	_	start_char=126|end_char=138
+6	(	(	PUNCT	-LRB-	_	5	_	_	start_char=139|end_char=140|SpaceAfter=No
+7	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	6	_	_	start_char=140|end_char=144|SpaceAfter=No
+8	)	)	PUNCT	-RRB-	_	7	_	_	start_char=144|end_char=145
+9	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=146|end_char=149
+10	become	become	VERB	VBN	Tense=Past|VerbForm=Part	9	_	_	start_char=150|end_char=156
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=157|end_char=160
+12	focal	focal	ADJ	JJ	Degree=Pos	11	_	_	start_char=161|end_char=166
+13	point	point	NOUN	NN	Number=Sing	12	_	_	start_char=167|end_char=172
+14	of	of	ADP	IN	_	13	_	_	start_char=173|end_char=175
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=176|end_char=179
+16	Ukraine	Ukraine	PROPN	NNP	Number=Sing	15	_	_	start_char=180|end_char=187|SpaceAfter=No
+17	-	-	PUNCT	HYPH	_	16	_	_	start_char=187|end_char=188|SpaceAfter=No
+18	Russia	Russia	PROPN	NNP	Number=Sing	17	_	_	start_char=188|end_char=194
+19	war	war	NOUN	NN	Number=Sing	18	_	_	start_char=195|end_char=198|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=198|end_char=199
+
+# text = NATO has also declared war.
+# sent_id = 2
+1	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	0	_	_	start_char=200|end_char=204
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=205|end_char=208
+3	also	also	ADV	RB	_	2	_	_	start_char=209|end_char=213
+4	declared	declare	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=214|end_char=222
+5	war	war	NOUN	NN	Number=Sing	4	_	_	start_char=223|end_char=226|SpaceAfter=No
+6	.	.	PUNCT	.	_	5	_	_	start_char=226|end_char=227
+
+# text = NATO was established in 1949 after World War II with 12 members from North America and Europe.
+# sent_id = 3
+1	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	0	_	_	start_char=228|end_char=232
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=233|end_char=236
+3	established	establish	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	_	_	start_char=237|end_char=248
+4	in	in	ADP	IN	_	3	_	_	start_char=249|end_char=251
+5	1949	1949	NUM	CD	NumForm=Digit|NumType=Card	4	_	_	start_char=252|end_char=256
+6	after	after	ADP	IN	_	5	_	_	start_char=257|end_char=262
+7	World	World	PROPN	NNP	Number=Sing	6	_	_	start_char=263|end_char=268
+8	War	War	PROPN	NNP	Number=Sing	7	_	_	start_char=269|end_char=272
+9	II	II	NUM	CD	NumForm=Roman|NumType=Card	8	_	_	start_char=273|end_char=275
+10	with	with	ADP	IN	_	9	_	_	start_char=276|end_char=280
+11	12	12	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=281|end_char=283
+12	members	member	NOUN	NNS	Number=Plur	11	_	_	start_char=284|end_char=291
+13	from	from	ADP	IN	_	12	_	_	start_char=292|end_char=296
+14	North	North	PROPN	NNP	Number=Sing	13	_	_	start_char=297|end_char=302
+15	America	America	PROPN	NNP	Number=Sing	14	_	_	start_char=303|end_char=310
+16	and	and	CCONJ	CC	_	15	_	_	start_char=311|end_char=314
+17	Europe	Europe	PROPN	NNP	Number=Sing	16	_	_	start_char=315|end_char=321|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=321|end_char=322
+
+# text = Now it has 30 members, but Ukraine is not a member of NATO.
+# sent_id = 4
+1	Now	now	ADV	RB	_	0	_	_	start_char=323|end_char=326
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	_	_	start_char=327|end_char=329
+3	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=330|end_char=333
+4	30	30	NUM	CD	NumForm=Digit|NumType=Card	3	_	_	start_char=334|end_char=336
+5	members	member	NOUN	NNS	Number=Plur	4	_	_	start_char=337|end_char=344|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=344|end_char=345
+7	but	but	CCONJ	CC	_	6	_	_	start_char=346|end_char=349
+8	Ukraine	Ukraine	PROPN	NNP	Number=Sing	7	_	_	start_char=350|end_char=357
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=358|end_char=360
+10	not	not	PART	RB	_	9	_	_	start_char=361|end_char=364
+11	a	a	DET	DT	Definite=Ind|PronType=Art	10	_	_	start_char=365|end_char=366
+12	member	member	NOUN	NN	Number=Sing	11	_	_	start_char=367|end_char=373
+13	of	of	ADP	IN	_	12	_	_	start_char=374|end_char=376
+14	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	13	_	_	start_char=377|end_char=381|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=381|end_char=382
+
+# text = It has been waiting to become a member of NATO since 2008.
+# sent_id = 5
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=383|end_char=385
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=386|end_char=389
+3	been	be	AUX	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=390|end_char=394
+4	waiting	wait	VERB	VBG	Tense=Pres|VerbForm=Part	3	_	_	start_char=395|end_char=402
+5	to	to	PART	TO	_	4	_	_	start_char=403|end_char=405
+6	become	become	VERB	VB	VerbForm=Inf	5	_	_	start_char=406|end_char=412
+7	a	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=413|end_char=414
+8	member	member	NOUN	NN	Number=Sing	7	_	_	start_char=415|end_char=421
+9	of	of	ADP	IN	_	8	_	_	start_char=422|end_char=424
+10	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	9	_	_	start_char=425|end_char=429
+11	since	since	ADP	IN	_	10	_	_	start_char=430|end_char=435
+12	2008	2008	NUM	CD	NumForm=Digit|NumType=Card	11	_	_	start_char=436|end_char=440|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=440|end_char=441
+
+# text = US President George W. Bush had insisted on Ukraine&#39;s Membership Action Plan (MAP), but Germany and France blocked the move.
+# sent_id = 6
+1	US	US	PROPN	NNP	Number=Sing	0	_	_	start_char=442|end_char=444
+2	President	President	PROPN	NNP	Number=Sing	1	_	_	start_char=445|end_char=454
+3	George	George	PROPN	NNP	Number=Sing	2	_	_	start_char=455|end_char=461
+4	W.	W.	PROPN	NNP	Number=Sing	3	_	_	start_char=462|end_char=464
+5	Bush	Bush	PROPN	NNP	Number=Sing	4	_	_	start_char=465|end_char=469
+6	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=470|end_char=473
+7	insisted	insist	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=474|end_char=482
+8	on	on	ADP	IN	_	7	_	_	start_char=483|end_char=485
+9	Ukraine&	Ukraine&	PROPN	NNP	Number=Sing	8	_	_	start_char=486|end_char=494|SpaceAfter=No
+10	#	#	SYM	NN	Number=Sing	9	_	_	start_char=494|end_char=495|SpaceAfter=No
+11	39	39	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=495|end_char=497|SpaceAfter=No
+12	;	;	PUNCT	:	_	11	_	_	start_char=497|end_char=498|SpaceAfter=No
+13	s	's	PART	POS	Typo=Yes	12	_	_	start_char=498|end_char=499
+14	Membership	Membership	PROPN	NNP	Number=Sing	13	_	_	start_char=500|end_char=510
+15	Action	Action	PROPN	NNP	Number=Sing	14	_	_	start_char=511|end_char=517
+16	Plan	Plan	PROPN	NNP	Number=Sing	15	_	_	start_char=518|end_char=522
+17	(	(	PUNCT	-LRB-	_	16	_	_	start_char=523|end_char=524|SpaceAfter=No
+18	MAP	MAP	NOUN	NN	Number=Sing	17	_	_	start_char=524|end_char=527|SpaceAfter=No
+19	)	)	PUNCT	-RRB-	_	18	_	_	start_char=527|end_char=528|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=528|end_char=529
+21	but	but	CCONJ	CC	_	20	_	_	start_char=530|end_char=533
+22	Germany	Germany	PROPN	NNP	Number=Sing	21	_	_	start_char=534|end_char=541
+23	and	and	CCONJ	CC	_	22	_	_	start_char=542|end_char=545
+24	France	France	PROPN	NNP	Number=Sing	23	_	_	start_char=546|end_char=552
+25	blocked	block	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	_	_	start_char=553|end_char=560
+26	the	the	DET	DT	Definite=Def|PronType=Art	25	_	_	start_char=561|end_char=564
+27	move	move	NOUN	NN	Number=Sing	26	_	_	start_char=565|end_char=569|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=569|end_char=570
+
+# text = They had said that Ukraine would have to meet certain eligibility criteria.
+# sent_id = 7
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=571|end_char=575
+2	had	have	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=576|end_char=579
+3	said	say	VERB	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=580|end_char=584
+4	that	that	SCONJ	IN	_	3	_	_	start_char=585|end_char=589
+5	Ukraine	Ukraine	PROPN	NNP	Number=Sing	4	_	_	start_char=590|end_char=597
+6	would	would	AUX	MD	VerbForm=Fin	5	_	_	start_char=598|end_char=603
+7	have	have	VERB	VB	VerbForm=Inf	6	_	_	start_char=604|end_char=608
+8	to	to	PART	TO	_	7	_	_	start_char=609|end_char=611
+9	meet	meet	VERB	VB	VerbForm=Inf	8	_	_	start_char=612|end_char=616
+10	certain	certain	ADJ	JJ	Degree=Pos	9	_	_	start_char=617|end_char=624
+11	eligibility	eligibility	NOUN	NN	Number=Sing	10	_	_	start_char=625|end_char=636
+12	criteria	criterion	NOUN	NNS	Number=Plur	11	_	_	start_char=637|end_char=645|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=645|end_char=646
+
+# text = Article 5 is the heart of NATO Article 5 of the NATO Charter is the cornerstone of this military alliance.
+# sent_id = 8
+1	Article	article	NOUN	NN	Number=Sing	0	_	_	start_char=647|end_char=654
+2	5	5	NUM	CD	NumForm=Digit|NumType=Card	1	_	_	start_char=655|end_char=656
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=657|end_char=659
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=660|end_char=663
+5	heart	heart	NOUN	NN	Number=Sing	4	_	_	start_char=664|end_char=669
+6	of	of	ADP	IN	_	5	_	_	start_char=670|end_char=672
+7	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	6	_	_	start_char=673|end_char=677
+8	Article	article	NOUN	NN	Number=Sing	7	_	_	start_char=678|end_char=685
+9	5	5	NUM	CD	NumForm=Digit|NumType=Card	8	_	_	start_char=686|end_char=687
+10	of	of	ADP	IN	_	9	_	_	start_char=688|end_char=690
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=691|end_char=694
+12	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	11	_	_	start_char=695|end_char=699
+13	Charter	Charter	PROPN	NNP	Number=Sing	12	_	_	start_char=700|end_char=707
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=708|end_char=710
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=711|end_char=714
+16	cornerstone	cornerstone	NOUN	NN	Number=Sing	15	_	_	start_char=715|end_char=726
+17	of	of	ADP	IN	_	16	_	_	start_char=727|end_char=729
+18	this	this	DET	DT	Number=Sing|PronType=Dem	17	_	_	start_char=730|end_char=734
+19	military	military	ADJ	JJ	Degree=Pos	18	_	_	start_char=735|end_char=743
+20	alliance	alliance	NOUN	NN	Number=Sing	19	_	_	start_char=744|end_char=752|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=752|end_char=753
+
+# text = It talks about the principle of collective defense, declaring it the heart of NATO.
+# sent_id = 9
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=754|end_char=756
+2	talks	talk	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=757|end_char=762
+3	about	about	ADP	IN	_	2	_	_	start_char=763|end_char=768
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=769|end_char=772
+5	principle	principle	NOUN	NN	Number=Sing	4	_	_	start_char=773|end_char=782
+6	of	of	ADP	IN	_	5	_	_	start_char=783|end_char=785
+7	collective	collective	ADJ	JJ	Degree=Pos	6	_	_	start_char=786|end_char=796
+8	defense	defense	NOUN	NN	Number=Sing	7	_	_	start_char=797|end_char=804|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=804|end_char=805
+10	declaring	declare	VERB	VBG	VerbForm=Ger	9	_	_	start_char=806|end_char=815
+11	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	_	_	start_char=816|end_char=818
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=819|end_char=822
+13	heart	heart	NOUN	NN	Number=Sing	12	_	_	start_char=823|end_char=828
+14	of	of	ADP	IN	_	13	_	_	start_char=829|end_char=831
+15	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	14	_	_	start_char=832|end_char=836|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=836|end_char=837
+
+# text = It obliges NATO member countries to defend each other and establish a sense of solidarity within the alliance.
+# sent_id = 10
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=838|end_char=840
+2	obliges	oblige	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=841|end_char=848
+3	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	2	_	_	start_char=849|end_char=853
+4	member	member	NOUN	NN	Number=Sing	3	_	_	start_char=854|end_char=860
+5	countries	country	NOUN	NNS	Number=Plur	4	_	_	start_char=861|end_char=870
+6	to	to	PART	TO	_	5	_	_	start_char=871|end_char=873
+7	defend	defend	VERB	VB	VerbForm=Inf	6	_	_	start_char=874|end_char=880
+8	each	each	DET	DT	ExtPos=PRON|PronType=Rcp	7	_	_	start_char=881|end_char=885
+9	other	other	ADJ	JJ	Degree=Pos	8	_	_	start_char=886|end_char=891
+10	and	and	CCONJ	CC	_	9	_	_	start_char=892|end_char=895
+11	establish	establish	VERB	VB	VerbForm=Inf	10	_	_	start_char=896|end_char=905
+12	a	a	DET	DT	Definite=Ind|PronType=Art	11	_	_	start_char=906|end_char=907
+13	sense	sense	NOUN	NN	Number=Sing	12	_	_	start_char=908|end_char=913
+14	of	of	ADP	IN	_	13	_	_	start_char=914|end_char=916
+15	solidarity	solidarity	NOUN	NN	Number=Sing	14	_	_	start_char=917|end_char=927
+16	within	within	ADP	IN	_	15	_	_	start_char=928|end_char=934
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=935|end_char=938
+18	alliance	alliance	NOUN	NN	Number=Sing	17	_	_	start_char=939|end_char=947|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=947|end_char=948
+
+# text = This means that if a member country is attacked by a non-member country, all members will consider it an attack on individual countries and will respond militarily.
+# sent_id = 11
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=949|end_char=953
+2	means	mean	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=954|end_char=959
+3	that	that	SCONJ	IN	_	2	_	_	start_char=960|end_char=964
+4	if	if	SCONJ	IN	_	3	_	_	start_char=965|end_char=967
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=968|end_char=969
+6	member	member	NOUN	NN	Number=Sing	5	_	_	start_char=970|end_char=976
+7	country	country	NOUN	NN	Number=Sing	6	_	_	start_char=977|end_char=984
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=985|end_char=987
+9	attacked	attack	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	_	_	start_char=988|end_char=996
+10	by	by	ADP	IN	_	9	_	_	start_char=997|end_char=999
+11	a	a	DET	DT	Definite=Ind|PronType=Art	10	_	_	start_char=1000|end_char=1001
+12	non-member	non-member	ADJ	JJ	Degree=Pos	11	_	_	start_char=1002|end_char=1012
+13	country	country	NOUN	NN	Number=Sing	12	_	_	start_char=1013|end_char=1020|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=1020|end_char=1021
+15	all	all	DET	DT	_	14	_	_	start_char=1022|end_char=1025
+16	members	member	NOUN	NNS	Number=Plur	15	_	_	start_char=1026|end_char=1033
+17	will	will	AUX	MD	VerbForm=Fin	16	_	_	start_char=1034|end_char=1038
+18	consider	consider	VERB	VB	VerbForm=Inf	17	_	_	start_char=1039|end_char=1047
+19	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	_	_	start_char=1048|end_char=1050
+20	an	a	DET	DT	Definite=Ind|PronType=Art	19	_	_	start_char=1051|end_char=1053
+21	attack	attack	NOUN	NN	Number=Sing	20	_	_	start_char=1054|end_char=1060
+22	on	on	ADP	IN	_	21	_	_	start_char=1061|end_char=1063
+23	individual	individual	ADJ	JJ	Degree=Pos	22	_	_	start_char=1064|end_char=1074
+24	countries	country	NOUN	NNS	Number=Plur	23	_	_	start_char=1075|end_char=1084
+25	and	and	CCONJ	CC	_	24	_	_	start_char=1085|end_char=1088
+26	will	will	AUX	MD	VerbForm=Fin	25	_	_	start_char=1089|end_char=1093
+27	respond	respond	VERB	VB	VerbForm=Inf	26	_	_	start_char=1094|end_char=1101
+28	militarily	militarily	ADV	RB	_	27	_	_	start_char=1102|end_char=1112|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=1112|end_char=1113
+
+# text = But Article 5 does not apply to a non-member country like Ukraine.
+# sent_id = 12
+1	But	but	CCONJ	CC	_	0	_	_	start_char=1114|end_char=1117
+2	Article	article	NOUN	NN	Number=Sing	1	_	_	start_char=1118|end_char=1125
+3	5	5	NUM	CD	NumForm=Digit|NumType=Card	2	_	_	start_char=1126|end_char=1127
+4	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1128|end_char=1132
+5	not	not	PART	RB	_	4	_	_	start_char=1133|end_char=1136
+6	apply	apply	VERB	VB	VerbForm=Inf	5	_	_	start_char=1137|end_char=1142
+7	to	to	ADP	IN	_	6	_	_	start_char=1143|end_char=1145
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=1146|end_char=1147
+9	non-member	non-member	ADJ	JJ	Degree=Pos	8	_	_	start_char=1148|end_char=1158
+10	country	country	NOUN	NN	Number=Sing	9	_	_	start_char=1159|end_char=1166
+11	like	like	ADP	IN	_	10	_	_	start_char=1167|end_char=1171
+12	Ukraine	Ukraine	PROPN	NNP	Number=Sing	11	_	_	start_char=1172|end_char=1179|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=1179|end_char=1180
+
+# text = NATO expanded rapidly after 1997 Till the 1980s, only three countries - Greece, West Germany and Spain - became new members of NATO.
+# sent_id = 13
+1	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	0	_	_	start_char=1181|end_char=1185
+2	expanded	expand	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1186|end_char=1194
+3	rapidly	rapidly	ADV	RB	_	2	_	_	start_char=1195|end_char=1202
+4	after	after	ADP	IN	_	3	_	_	start_char=1203|end_char=1208
+5	1997	1997	NUM	CD	NumForm=Digit|NumType=Card	4	_	_	start_char=1209|end_char=1213
+6	Till	till	ADP	IN	_	5	_	_	start_char=1214|end_char=1218
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1219|end_char=1222
+8	1980s	1980s	NOUN	NNS	Number=Plur	7	_	_	start_char=1223|end_char=1228|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1228|end_char=1229
+10	only	only	ADV	RB	_	9	_	_	start_char=1230|end_char=1234
+11	three	three	NUM	CD	NumForm=Word|NumType=Card	10	_	_	start_char=1235|end_char=1240
+12	countries	country	NOUN	NNS	Number=Plur	11	_	_	start_char=1241|end_char=1250
+13	-	-	PUNCT	,	_	12	_	_	start_char=1251|end_char=1252
+14	Greece	Greece	PROPN	NNP	Number=Sing	13	_	_	start_char=1253|end_char=1259|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=1259|end_char=1260
+16	West	West	PROPN	NNP	Number=Sing	15	_	_	start_char=1261|end_char=1265
+17	Germany	Germany	PROPN	NNP	Number=Sing	16	_	_	start_char=1266|end_char=1273
+18	and	and	CCONJ	CC	_	17	_	_	start_char=1274|end_char=1277
+19	Spain	Spain	PROPN	NNP	Number=Sing	18	_	_	start_char=1278|end_char=1283
+20	-	-	PUNCT	,	_	19	_	_	start_char=1284|end_char=1285
+21	became	become	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	20	_	_	start_char=1286|end_char=1292
+22	new	new	ADJ	JJ	Degree=Pos	21	_	_	start_char=1293|end_char=1296
+23	members	member	NOUN	NNS	Number=Plur	22	_	_	start_char=1297|end_char=1304
+24	of	of	ADP	IN	_	23	_	_	start_char=1305|end_char=1307
+25	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	24	_	_	start_char=1308|end_char=1312|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=1312|end_char=1313
+
+# text = Then after unification, Germany became its member in 1990.
+# sent_id = 14
+1	Then	then	ADV	RB	PronType=Dem	0	_	_	start_char=1314|end_char=1318
+2	after	after	ADP	IN	_	1	_	_	start_char=1319|end_char=1324
+3	unification	unification	NOUN	NN	Number=Sing	2	_	_	start_char=1325|end_char=1336|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1336|end_char=1337
+5	Germany	Germany	PROPN	NNP	Number=Sing	4	_	_	start_char=1338|end_char=1345
+6	became	become	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=1346|end_char=1352
+7	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	_	_	start_char=1353|end_char=1356
+8	member	member	NOUN	NN	Number=Sing	7	_	_	start_char=1357|end_char=1363
+9	in	in	ADP	IN	_	8	_	_	start_char=1364|end_char=1366
+10	1990	1990	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=1367|end_char=1371|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=1371|end_char=1372
+
+# text = After 1997, NATO&#39;s expansion suddenly gained momentum.
+# sent_id = 15
+1	After	after	ADP	IN	_	0	_	_	start_char=1373|end_char=1378
+2	1997	1997	NUM	CD	NumForm=Digit|NumType=Card	1	_	_	start_char=1379|end_char=1383|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=1383|end_char=1384
+4	NATO&	NATO&	PROPN	NNP	Number=Sing	3	_	_	start_char=1385|end_char=1390|SpaceAfter=No
+5	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	4	_	_	start_char=1390|end_char=1393|SpaceAfter=No
+6	;	;	PUNCT	:	_	5	_	_	start_char=1393|end_char=1394|SpaceAfter=No
+7	s	's	PART	POS	Typo=Yes	6	_	_	start_char=1394|end_char=1395
+8	expansion	expansion	NOUN	NN	Number=Sing	7	_	_	start_char=1396|end_char=1405
+9	suddenly	suddenly	ADV	RB	_	8	_	_	start_char=1406|end_char=1414
+10	gained	gain	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=1415|end_char=1421
+11	momentum	momentum	NOUN	NN	Number=Sing	10	_	_	start_char=1422|end_char=1430|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=1430|end_char=1431
+
+# text = The first targeted members were the Czech Republic, Hungary and Poland (1999), which were once under Russian influence.
+# sent_id = 16
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1432|end_char=1435
+2	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	1	_	_	start_char=1436|end_char=1441
+3	targeted	target	VERB	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=1442|end_char=1450
+4	members	member	NOUN	NNS	Number=Plur	3	_	_	start_char=1451|end_char=1458
+5	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=1459|end_char=1463
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1464|end_char=1467
+7	Czech	Czech	ADJ	NNP	Degree=Pos	6	_	_	start_char=1468|end_char=1473
+8	Republic	Republic	PROPN	NNP	Number=Sing	7	_	_	start_char=1474|end_char=1482|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1482|end_char=1483
+10	Hungary	Hungary	PROPN	NNP	Number=Sing	9	_	_	start_char=1484|end_char=1491
+11	and	and	CCONJ	CC	_	10	_	_	start_char=1492|end_char=1495
+12	Poland	Poland	PROPN	NNP	Number=Sing	11	_	_	start_char=1496|end_char=1502
+13	(	(	PUNCT	-LRB-	_	12	_	_	start_char=1503|end_char=1504|SpaceAfter=No
+14	1999	1999	NUM	CD	NumForm=Digit|NumType=Card	13	_	_	start_char=1504|end_char=1508|SpaceAfter=No
+15	)	)	PUNCT	-RRB-	_	14	_	_	start_char=1508|end_char=1509|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=1509|end_char=1510
+17	which	which	PRON	WDT	PronType=Rel	16	_	_	start_char=1511|end_char=1516
+18	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	17	_	_	start_char=1517|end_char=1521
+19	once	once	ADV	RB	NumType=Mult	18	_	_	start_char=1522|end_char=1526
+20	under	under	ADP	IN	_	19	_	_	start_char=1527|end_char=1532
+21	Russian	Russian	ADJ	JJ	Degree=Pos	20	_	_	start_char=1533|end_char=1540
+22	influence	influence	NOUN	NN	Number=Sing	21	_	_	start_char=1541|end_char=1550|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=1550|end_char=1551
+
+# text = After this, former Soviet components came under its purview.
+# sent_id = 17
+1	After	after	ADP	IN	_	0	_	_	start_char=1552|end_char=1557
+2	this	this	PRON	DT	Number=Sing|PronType=Dem	1	_	_	start_char=1558|end_char=1562|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=1562|end_char=1563
+4	former	former	ADJ	JJ	Degree=Pos	3	_	_	start_char=1564|end_char=1570
+5	Soviet	Soviet	PROPN	NNP	Number=Sing	4	_	_	start_char=1571|end_char=1577
+6	components	component	NOUN	NNS	Number=Plur	5	_	_	start_char=1578|end_char=1588
+7	came	come	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=1589|end_char=1593
+8	under	under	ADP	IN	_	7	_	_	start_char=1594|end_char=1599
+9	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	_	_	start_char=1600|end_char=1603
+10	purview	purview	NOUN	NN	Number=Sing	9	_	_	start_char=1604|end_char=1611|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=1611|end_char=1612
+
+# text = Members doubled during Putin&#39;s tenure NATO now has 30 member countries, this number has doubled during the tenure of Russian President Vladimir Putin.
+# sent_id = 18
+1	Members	member	NOUN	NNS	Number=Plur	0	_	_	start_char=1613|end_char=1620
+2	doubled	double	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1621|end_char=1628
+3	during	during	ADP	IN	_	2	_	_	start_char=1629|end_char=1635
+4	Putin&	Putin&	PROPN	NNP	Number=Sing	3	_	_	start_char=1636|end_char=1642|SpaceAfter=No
+5	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	4	_	_	start_char=1642|end_char=1645|SpaceAfter=No
+6	;	;	PUNCT	:	_	5	_	_	start_char=1645|end_char=1646|SpaceAfter=No
+7	s	's	PART	POS	Typo=Yes	6	_	_	start_char=1646|end_char=1647
+8	tenure	tenure	NOUN	NN	Number=Sing	7	_	_	start_char=1648|end_char=1654
+9	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	8	_	_	start_char=1655|end_char=1659
+10	now	now	ADV	RB	_	9	_	_	start_char=1660|end_char=1663
+11	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=1664|end_char=1667
+12	30	30	NUM	CD	NumForm=Digit|NumType=Card	11	_	_	start_char=1668|end_char=1670
+13	member	member	NOUN	NN	Number=Sing	12	_	_	start_char=1671|end_char=1677
+14	countries	country	NOUN	NNS	Number=Plur	13	_	_	start_char=1678|end_char=1687|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=1687|end_char=1688
+16	this	this	DET	DT	Number=Sing|PronType=Dem	15	_	_	start_char=1689|end_char=1693
+17	number	number	NOUN	NN	Number=Sing	16	_	_	start_char=1694|end_char=1700
+18	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=1701|end_char=1704
+19	doubled	double	VERB	VBN	Tense=Past|VerbForm=Part	18	_	_	start_char=1705|end_char=1712
+20	during	during	ADP	IN	_	19	_	_	start_char=1713|end_char=1719
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=1720|end_char=1723
+22	tenure	tenure	NOUN	NN	Number=Sing	21	_	_	start_char=1724|end_char=1730
+23	of	of	ADP	IN	_	22	_	_	start_char=1731|end_char=1733
+24	Russian	Russian	ADJ	JJ	Degree=Pos	23	_	_	start_char=1734|end_char=1741
+25	President	President	PROPN	NNP	Number=Sing	24	_	_	start_char=1742|end_char=1751
+26	Vladimir	Vladimir	PROPN	NNP	Number=Sing	25	_	_	start_char=1752|end_char=1760
+27	Putin	Putin	PROPN	NNP	Number=Sing	26	_	_	start_char=1761|end_char=1766|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=1766|end_char=1767
+
+# text = Most of the new members are members of the former Soviet Union.
+# sent_id = 19
+1	Most	most	ADJ	JJS	Degree=Sup	0	_	_	start_char=1768|end_char=1772
+2	of	of	ADP	IN	_	1	_	_	start_char=1773|end_char=1775
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1776|end_char=1779
+4	new	new	ADJ	JJ	Degree=Pos	3	_	_	start_char=1780|end_char=1783
+5	members	member	NOUN	NNS	Number=Plur	4	_	_	start_char=1784|end_char=1791
+6	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1792|end_char=1795
+7	members	member	NOUN	NNS	Number=Plur	6	_	_	start_char=1796|end_char=1803
+8	of	of	ADP	IN	_	7	_	_	start_char=1804|end_char=1806
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1807|end_char=1810
+10	former	former	ADJ	JJ	Degree=Pos	9	_	_	start_char=1811|end_char=1817
+11	Soviet	Soviet	PROPN	NNP	Number=Sing	10	_	_	start_char=1818|end_char=1824
+12	Union	Union	PROPN	NNP	Number=Sing	11	_	_	start_char=1825|end_char=1830|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=1830|end_char=1831
+
+# text = NATO strengthened by the disintegration of the Soviet Union
+# sent_id = 20
+1	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	0	_	_	start_char=1832|end_char=1836
+2	strengthened	strengthen	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1837|end_char=1849
+3	by	by	ADP	IN	_	2	_	_	start_char=1850|end_char=1852
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1853|end_char=1856
+5	disintegration	disintegration	NOUN	NN	Number=Sing	4	_	_	start_char=1857|end_char=1871
+6	of	of	ADP	IN	_	5	_	_	start_char=1872|end_char=1874
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1875|end_char=1878
+8	Soviet	Soviet	PROPN	NNP	Number=Sing	7	_	_	start_char=1879|end_char=1885
+9	Union	Union	PROPN	NNP	Number=Sing	8	_	_	start_char=1886|end_char=1891
+
+# text = It was the collapse of the Soviet Union that prompted NATO to re-strategize its role.
+# sent_id = 21
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1892|end_char=1894
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1895|end_char=1898
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1899|end_char=1902
+4	collapse	collapse	NOUN	NN	Number=Sing	3	_	_	start_char=1903|end_char=1911
+5	of	of	ADP	IN	_	4	_	_	start_char=1912|end_char=1914
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1915|end_char=1918
+7	Soviet	Soviet	PROPN	NNP	Number=Sing	6	_	_	start_char=1919|end_char=1925
+8	Union	Union	PROPN	NNP	Number=Sing	7	_	_	start_char=1926|end_char=1931
+9	that	that	PRON	WDT	PronType=Rel	8	_	_	start_char=1932|end_char=1936
+10	prompted	prompt	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=1937|end_char=1945
+11	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	10	_	_	start_char=1946|end_char=1950
+12	to	to	PART	TO	_	11	_	_	start_char=1951|end_char=1953
+13	re-strategize	re-strategize	VERB	VB	VerbForm=Inf	12	_	_	start_char=1954|end_char=1967
+14	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	_	_	start_char=1968|end_char=1971
+15	role	role	NOUN	NN	Number=Sing	14	_	_	start_char=1972|end_char=1976|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=1976|end_char=1977
+
+# text = Article 5 of the NATO Charter was interpreted to include non-member countries to protect the interests of member countries.
+# sent_id = 22
+1	Article	article	NOUN	NN	Number=Sing	0	_	_	start_char=1978|end_char=1985
+2	5	5	NUM	CD	NumForm=Digit|NumType=Card	1	_	_	start_char=1986|end_char=1987
+3	of	of	ADP	IN	_	2	_	_	start_char=1988|end_char=1990
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1991|end_char=1994
+5	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	4	_	_	start_char=1995|end_char=1999
+6	Charter	Charter	PROPN	NNP	Number=Sing	5	_	_	start_char=2000|end_char=2007
+7	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=2008|end_char=2011
+8	interpreted	interpret	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	_	_	start_char=2012|end_char=2023
+9	to	to	PART	TO	_	8	_	_	start_char=2024|end_char=2026
+10	include	include	VERB	VB	VerbForm=Inf	9	_	_	start_char=2027|end_char=2034
+11	non-member	non-member	ADJ	JJ	Degree=Pos	10	_	_	start_char=2035|end_char=2045
+12	countries	country	NOUN	NNS	Number=Plur	11	_	_	start_char=2046|end_char=2055
+13	to	to	PART	TO	_	12	_	_	start_char=2056|end_char=2058
+14	protect	protect	VERB	VB	VerbForm=Inf	13	_	_	start_char=2059|end_char=2066
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=2067|end_char=2070
+16	interests	interest	NOUN	NNS	Number=Plur	15	_	_	start_char=2071|end_char=2080
+17	of	of	ADP	IN	_	16	_	_	start_char=2081|end_char=2083
+18	member	member	NOUN	NN	Number=Sing	17	_	_	start_char=2084|end_char=2090
+19	countries	country	NOUN	NNS	Number=Plur	18	_	_	start_char=2091|end_char=2100|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=2100|end_char=2101
+
+# text = Also, if a member wanted NATO&#39;s intervention somewhere, the proposal could be discussed and approved by the Governing Council.
+# sent_id = 23
+1	Also	also	ADV	RB	_	0	_	_	start_char=2102|end_char=2106|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=2106|end_char=2107
+3	if	if	SCONJ	IN	_	2	_	_	start_char=2108|end_char=2110
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=2111|end_char=2112
+5	member	member	NOUN	NN	Number=Sing	4	_	_	start_char=2113|end_char=2119
+6	wanted	want	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=2120|end_char=2126
+7	NATO&#39	NATO&#39	PROPN	NNP	Number=Sing	6	_	_	start_char=2127|end_char=2135|SpaceAfter=No
+8	;	;	PUNCT	:	_	7	_	_	start_char=2135|end_char=2136|SpaceAfter=No
+9	s	's	PART	POS	Typo=Yes	8	_	_	start_char=2136|end_char=2137
+10	intervention	intervention	NOUN	NN	Number=Sing	9	_	_	start_char=2138|end_char=2150
+11	somewhere	somewhere	ADV	RB	_	10	_	_	start_char=2151|end_char=2160|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=2160|end_char=2161
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=2162|end_char=2165
+14	proposal	proposal	NOUN	NN	Number=Sing	13	_	_	start_char=2166|end_char=2174
+15	could	could	AUX	MD	VerbForm=Fin	14	_	_	start_char=2175|end_char=2180
+16	be	be	AUX	VB	VerbForm=Inf	15	_	_	start_char=2181|end_char=2183
+17	discussed	discuss	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	16	_	_	start_char=2184|end_char=2193
+18	and	and	CCONJ	CC	_	17	_	_	start_char=2194|end_char=2197
+19	approved	approve	VERB	VBN	Tense=Past|VerbForm=Part	18	_	_	start_char=2198|end_char=2206
+20	by	by	ADP	IN	_	19	_	_	start_char=2207|end_char=2209
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=2210|end_char=2213
+22	Governing	governing	ADJ	NNP	Degree=Pos	21	_	_	start_char=2214|end_char=2223
+23	Council	Council	PROPN	NNP	Number=Sing	22	_	_	start_char=2224|end_char=2231|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=2231|end_char=2232
+
+# text = When a doctrine troubled NATO
+# sent_id = 24
+1	When	when	ADV	WRB	PronType=Int	0	_	_	start_char=2233|end_char=2237
+2	a	a	DET	DT	Definite=Ind|PronType=Art	1	_	_	start_char=2238|end_char=2239
+3	doctrine	doctrine	NOUN	NN	Number=Sing	2	_	_	start_char=2240|end_char=2248
+4	troubled	trouble	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=2249|end_char=2257
+5	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	4	_	_	start_char=2258|end_char=2262
+
+# text = The invasion of Iraq in the early 1990s is an example of what did not happen according to the NATO Charter.
+# sent_id = 25
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2263|end_char=2266
+2	invasion	invasion	NOUN	NN	Number=Sing	1	_	_	start_char=2267|end_char=2275
+3	of	of	ADP	IN	_	2	_	_	start_char=2276|end_char=2278
+4	Iraq	Iraq	PROPN	NNP	Number=Sing	3	_	_	start_char=2279|end_char=2283
+5	in	in	ADP	IN	_	4	_	_	start_char=2284|end_char=2286
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=2287|end_char=2290
+7	early	early	ADJ	JJ	Degree=Pos	6	_	_	start_char=2291|end_char=2296
+8	1990s	1990s	NOUN	NNS	Number=Plur	7	_	_	start_char=2297|end_char=2302
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=2303|end_char=2305
+10	an	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=2306|end_char=2308
+11	example	example	NOUN	NN	Number=Sing	10	_	_	start_char=2309|end_char=2316
+12	of	of	ADP	IN	_	11	_	_	start_char=2317|end_char=2319
+13	what	what	PRON	WP	PronType=Rel	12	_	_	start_char=2320|end_char=2324
+14	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	_	_	start_char=2325|end_char=2328
+15	not	not	PART	RB	_	14	_	_	start_char=2329|end_char=2332
+16	happen	happen	VERB	VB	VerbForm=Inf	15	_	_	start_char=2333|end_char=2339
+17	according	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	16	_	_	start_char=2340|end_char=2349
+18	to	to	ADP	IN	_	17	_	_	start_char=2350|end_char=2352
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=2353|end_char=2356
+20	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	19	_	_	start_char=2357|end_char=2361
+21	Charter	Charter	PROPN	NNP	Number=Sing	20	_	_	start_char=2362|end_char=2369|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=2369|end_char=2370
+
+# text = Kosovo was intervened in 1999 after the approval of the United Nations Security Council.
+# sent_id = 26
+1	Kosovo	Kosovo	PROPN	NNP	Number=Sing	0	_	_	start_char=2371|end_char=2377
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=2378|end_char=2381
+3	intervened	intervene	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	_	_	start_char=2382|end_char=2392
+4	in	in	ADP	IN	_	3	_	_	start_char=2393|end_char=2395
+5	1999	1999	NUM	CD	NumForm=Digit|NumType=Card	4	_	_	start_char=2396|end_char=2400
+6	after	after	ADP	IN	_	5	_	_	start_char=2401|end_char=2406
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=2407|end_char=2410
+8	approval	approval	NOUN	NN	Number=Sing	7	_	_	start_char=2411|end_char=2419
+9	of	of	ADP	IN	_	8	_	_	start_char=2420|end_char=2422
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=2423|end_char=2426
+11	United	United	ADJ	NNP	Degree=Pos	10	_	_	start_char=2427|end_char=2433
+12	Nations	Nation	PROPN	NNPS	Number=Plur	11	_	_	start_char=2434|end_char=2441
+13	Security	Security	PROPN	NNP	Number=Sing	12	_	_	start_char=2442|end_char=2450
+14	Council	Council	PROPN	NNP	Number=Sing	13	_	_	start_char=2451|end_char=2458|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=2458|end_char=2459
+
+# text = At that time, a doctrine emerged that NATO could go to war after getting a mandate from the United Nations Security Council (UNSC).
+# sent_id = 27
+1	At	at	ADP	IN	_	0	_	_	start_char=2460|end_char=2462
+2	that	that	DET	DT	Number=Sing|PronType=Dem	1	_	_	start_char=2463|end_char=2467
+3	time	time	NOUN	NN	Number=Sing	2	_	_	start_char=2468|end_char=2472|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=2472|end_char=2473
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=2474|end_char=2475
+6	doctrine	doctrine	NOUN	NN	Number=Sing	5	_	_	start_char=2476|end_char=2484
+7	emerged	emerge	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=2485|end_char=2492
+8	that	that	SCONJ	IN	_	7	_	_	start_char=2493|end_char=2497
+9	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	8	_	_	start_char=2498|end_char=2502
+10	could	could	AUX	MD	VerbForm=Fin	9	_	_	start_char=2503|end_char=2508
+11	go	go	VERB	VB	VerbForm=Inf	10	_	_	start_char=2509|end_char=2511
+12	to	to	ADP	IN	_	11	_	_	start_char=2512|end_char=2514
+13	war	war	NOUN	NN	Number=Sing	12	_	_	start_char=2515|end_char=2518
+14	after	after	SCONJ	IN	_	13	_	_	start_char=2519|end_char=2524
+15	getting	get	VERB	VBG	VerbForm=Ger	14	_	_	start_char=2525|end_char=2532
+16	a	a	DET	DT	Definite=Ind|PronType=Art	15	_	_	start_char=2533|end_char=2534
+17	mandate	mandate	NOUN	NN	Number=Sing	16	_	_	start_char=2535|end_char=2542
+18	from	from	ADP	IN	_	17	_	_	start_char=2543|end_char=2547
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=2548|end_char=2551
+20	United	United	ADJ	NNP	Degree=Pos	19	_	_	start_char=2552|end_char=2558
+21	Nations	Nation	PROPN	NNPS	Number=Plur	20	_	_	start_char=2559|end_char=2566
+22	Security	Security	PROPN	NNP	Number=Sing	21	_	_	start_char=2567|end_char=2575
+23	Council	Council	PROPN	NNP	Number=Sing	22	_	_	start_char=2576|end_char=2583
+24	(	(	PUNCT	-LRB-	_	23	_	_	start_char=2584|end_char=2585|SpaceAfter=No
+25	UNSC	UNSC	PROPN	NNP	Number=Sing	24	_	_	start_char=2585|end_char=2589|SpaceAfter=No
+26	)	)	PUNCT	-RRB-	_	25	_	_	start_char=2589|end_char=2590|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=2590|end_char=2591
+
+# text = Such a doctrine would have made NATO dependent on the veto of Russia or China, so the idea was rejected.
+# sent_id = 28
+1	Such	such	DET	PDT	_	0	_	_	start_char=2592|end_char=2596
+2	a	a	DET	DT	Definite=Ind|PronType=Art	1	_	_	start_char=2597|end_char=2598
+3	doctrine	doctrine	NOUN	NN	Number=Sing	2	_	_	start_char=2599|end_char=2607
+4	would	would	AUX	MD	VerbForm=Fin	3	_	_	start_char=2608|end_char=2613
+5	have	have	AUX	VB	VerbForm=Inf	4	_	_	start_char=2614|end_char=2618
+6	made	make	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=2619|end_char=2623
+7	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	6	_	_	start_char=2624|end_char=2628
+8	dependent	dependent	ADJ	JJ	Degree=Pos	7	_	_	start_char=2629|end_char=2638
+9	on	on	ADP	IN	_	8	_	_	start_char=2639|end_char=2641
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=2642|end_char=2645
+11	veto	veto	NOUN	NN	Number=Sing	10	_	_	start_char=2646|end_char=2650
+12	of	of	ADP	IN	_	11	_	_	start_char=2651|end_char=2653
+13	Russia	Russia	PROPN	NNP	Number=Sing	12	_	_	start_char=2654|end_char=2660
+14	or	or	CCONJ	CC	_	13	_	_	start_char=2661|end_char=2663
+15	China	China	PROPN	NNP	Number=Sing	14	_	_	start_char=2664|end_char=2669|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=2669|end_char=2670
+17	so	so	ADV	RB	_	16	_	_	start_char=2671|end_char=2673
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=2674|end_char=2677
+19	idea	idea	NOUN	NN	Number=Sing	18	_	_	start_char=2678|end_char=2682
+20	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	_	_	start_char=2683|end_char=2686
+21	rejected	reject	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	20	_	_	start_char=2687|end_char=2695|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=2695|end_char=2696
+
+# text = This is why NATO has decided to fight Ukraine&#39;s Russian war.
+# sent_id = 29
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=2697|end_char=2701
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2702|end_char=2704
+3	why	why	ADV	WRB	PronType=Rel	2	_	_	start_char=2705|end_char=2708
+4	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	3	_	_	start_char=2709|end_char=2713
+5	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=2714|end_char=2717
+6	decided	decide	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=2718|end_char=2725
+7	to	to	PART	TO	_	6	_	_	start_char=2726|end_char=2728
+8	fight	fight	VERB	VB	VerbForm=Inf	7	_	_	start_char=2729|end_char=2734
+9	Ukraine&	Ukraine&	PROPN	NNP	Number=Sing	8	_	_	start_char=2735|end_char=2743|SpaceAfter=No
+10	#	#	SYM	NN	Number=Sing	9	_	_	start_char=2743|end_char=2744|SpaceAfter=No
+11	39	39	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=2744|end_char=2746|SpaceAfter=No
+12	;	;	PUNCT	:	_	11	_	_	start_char=2746|end_char=2747|SpaceAfter=No
+13	s	's	PART	POS	Typo=Yes	12	_	_	start_char=2747|end_char=2748
+14	Russian	Russian	ADJ	JJ	Degree=Pos	13	_	_	start_char=2749|end_char=2756
+15	war	war	NOUN	NN	Number=Sing	14	_	_	start_char=2757|end_char=2760|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=2760|end_char=2761
+
+# text = Article 5 invoked for the first time after 9/11
+# sent_id = 30
+1	Article	article	NOUN	NN	Number=Sing	0	_	_	start_char=2762|end_char=2769
+2	5	5	NUM	CD	NumForm=Digit|NumType=Card	1	_	_	start_char=2770|end_char=2771
+3	invoked	invoke	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=2772|end_char=2779
+4	for	for	ADP	IN	_	3	_	_	start_char=2780|end_char=2783
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=2784|end_char=2787
+6	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	5	_	_	start_char=2788|end_char=2793
+7	time	time	NOUN	NN	Number=Sing	6	_	_	start_char=2794|end_char=2798
+8	after	after	ADP	IN	_	7	_	_	start_char=2799|end_char=2804
+9	9/11	9/11	NUM	CD	NumForm=Digit|NumType=Card	8	_	_	start_char=2805|end_char=2809
+
+# text = In fact, NATO invoked Article 5 for military action for the first time in 2001 after the 9/11 terrorist attacks on the United States.
+# sent_id = 31
+1	In	in	ADP	IN	_	0	_	_	start_char=2810|end_char=2812
+2	fact	fact	NOUN	NN	Number=Sing	1	_	_	start_char=2813|end_char=2817|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=2817|end_char=2818
+4	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	3	_	_	start_char=2819|end_char=2823
+5	invoked	invoke	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=2824|end_char=2831
+6	Article	article	NOUN	NN	Number=Sing	5	_	_	start_char=2832|end_char=2839
+7	5	5	NUM	CD	NumForm=Digit|NumType=Card	6	_	_	start_char=2840|end_char=2841
+8	for	for	ADP	IN	_	7	_	_	start_char=2842|end_char=2845
+9	military	military	ADJ	JJ	Degree=Pos	8	_	_	start_char=2846|end_char=2854
+10	action	action	NOUN	NN	Number=Sing	9	_	_	start_char=2855|end_char=2861
+11	for	for	ADP	IN	_	10	_	_	start_char=2862|end_char=2865
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=2866|end_char=2869
+13	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	12	_	_	start_char=2870|end_char=2875
+14	time	time	NOUN	NN	Number=Sing	13	_	_	start_char=2876|end_char=2880
+15	in	in	ADP	IN	_	14	_	_	start_char=2881|end_char=2883
+16	2001	2001	NUM	CD	NumForm=Digit|NumType=Card	15	_	_	start_char=2884|end_char=2888
+17	after	after	ADP	IN	_	16	_	_	start_char=2889|end_char=2894
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=2895|end_char=2898
+19	9/11	9/11	NUM	CD	NumForm=Digit|NumType=Card	18	_	_	start_char=2899|end_char=2903
+20	terrorist	terrorist	NOUN	NN	Number=Sing	19	_	_	start_char=2904|end_char=2913
+21	attacks	attack	NOUN	NNS	Number=Plur	20	_	_	start_char=2914|end_char=2921
+22	on	on	ADP	IN	_	21	_	_	start_char=2922|end_char=2924
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=2925|end_char=2928
+24	United	United	ADJ	NNP	Degree=Pos	23	_	_	start_char=2929|end_char=2935
+25	States	State	PROPN	NNPS	Number=Plur	24	_	_	start_char=2936|end_char=2942|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=2942|end_char=2943
+
+# text = Later, NATO took a collective decision to intervene in the Syrian-Islamic war.
+# sent_id = 32
+1	Later	late	ADV	RBR	Degree=Cmp	0	_	_	start_char=2944|end_char=2949|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=2949|end_char=2950
+3	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	2	_	_	start_char=2951|end_char=2955
+4	took	take	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=2956|end_char=2960
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=2961|end_char=2962
+6	collective	collective	ADJ	JJ	Degree=Pos	5	_	_	start_char=2963|end_char=2973
+7	decision	decision	NOUN	NN	Number=Sing	6	_	_	start_char=2974|end_char=2982
+8	to	to	PART	TO	_	7	_	_	start_char=2983|end_char=2985
+9	intervene	intervene	VERB	VB	VerbForm=Inf	8	_	_	start_char=2986|end_char=2995
+10	in	in	ADP	IN	_	9	_	_	start_char=2996|end_char=2998
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=2999|end_char=3002
+12	Syrian	Syrian	ADJ	JJ	Degree=Pos	11	_	_	start_char=3003|end_char=3009|SpaceAfter=No
+13	-	-	PUNCT	HYPH	_	12	_	_	start_char=3009|end_char=3010|SpaceAfter=No
+14	Islamic	Islamic	ADJ	JJ	Degree=Pos	13	_	_	start_char=3010|end_char=3017
+15	war	war	NOUN	NN	Number=Sing	14	_	_	start_char=3018|end_char=3021|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=3021|end_char=3022
+
+# text = Now NATO has intervened in the Ukraine-Russia crisis.
+# sent_id = 33
+1	Now	now	ADV	RB	_	0	_	_	start_char=3023|end_char=3026
+2	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	1	_	_	start_char=3027|end_char=3031
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=3032|end_char=3035
+4	intervened	intervene	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=3036|end_char=3046
+5	in	in	ADP	IN	_	4	_	_	start_char=3047|end_char=3049
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=3050|end_char=3053
+7	Ukraine	Ukraine	PROPN	NNP	Number=Sing	6	_	_	start_char=3054|end_char=3061|SpaceAfter=No
+8	-	-	PUNCT	HYPH	_	7	_	_	start_char=3061|end_char=3062|SpaceAfter=No
+9	Russia	Russia	PROPN	NNP	Number=Sing	8	_	_	start_char=3062|end_char=3068
+10	crisis	crisis	NOUN	NN	Number=Sing	9	_	_	start_char=3069|end_char=3075|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=3075|end_char=3076
+
+# text = NATO chairman has appealed for Ukraine&#39;s membership NATO sees the Russian aggression in Ukraine as a threat to its ally which began trying to join NATO in 1991 and signed a partnership for participation in the NATO program in 1994.
+# sent_id = 34
+1	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	0	_	_	start_char=3077|end_char=3081
+2	chairman	chairman	NOUN	NN	Number=Sing	1	_	_	start_char=3082|end_char=3090
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=3091|end_char=3094
+4	appealed	appeal	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=3095|end_char=3103
+5	for	for	ADP	IN	_	4	_	_	start_char=3104|end_char=3107
+6	Ukraine&	Ukraine&	PROPN	NNP	Number=Sing	5	_	_	start_char=3108|end_char=3116|SpaceAfter=No
+7	#	#	SYM	NN	Number=Sing	6	_	_	start_char=3116|end_char=3117|SpaceAfter=No
+8	39	39	NUM	CD	NumForm=Digit|NumType=Card	7	_	_	start_char=3117|end_char=3119|SpaceAfter=No
+9	;	;	PUNCT	:	_	8	_	_	start_char=3119|end_char=3120|SpaceAfter=No
+10	s	's	PART	POS	Typo=Yes	9	_	_	start_char=3120|end_char=3121
+11	membership	membership	NOUN	NN	Number=Sing	10	_	_	start_char=3122|end_char=3132
+12	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	11	_	_	start_char=3133|end_char=3137
+13	sees	see	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=3138|end_char=3142
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=3143|end_char=3146
+15	Russian	Russian	ADJ	JJ	Degree=Pos	14	_	_	start_char=3147|end_char=3154
+16	aggression	aggression	NOUN	NN	Number=Sing	15	_	_	start_char=3155|end_char=3165
+17	in	in	ADP	IN	_	16	_	_	start_char=3166|end_char=3168
+18	Ukraine	Ukraine	PROPN	NNP	Number=Sing	17	_	_	start_char=3169|end_char=3176
+19	as	as	ADP	IN	_	18	_	_	start_char=3177|end_char=3179
+20	a	a	DET	DT	Definite=Ind|PronType=Art	19	_	_	start_char=3180|end_char=3181
+21	threat	threat	NOUN	NN	Number=Sing	20	_	_	start_char=3182|end_char=3188
+22	to	to	ADP	IN	_	21	_	_	start_char=3189|end_char=3191
+23	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	22	_	_	start_char=3192|end_char=3195
+24	ally	ally	NOUN	NN	Number=Sing	23	_	_	start_char=3196|end_char=3200
+25	which	which	PRON	WDT	PronType=Rel	24	_	_	start_char=3201|end_char=3206
+26	began	begin	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	_	_	start_char=3207|end_char=3212
+27	trying	try	VERB	VBG	VerbForm=Ger	26	_	_	start_char=3213|end_char=3219
+28	to	to	PART	TO	_	27	_	_	start_char=3220|end_char=3222
+29	join	join	VERB	VB	VerbForm=Inf	28	_	_	start_char=3223|end_char=3227
+30	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	29	_	_	start_char=3228|end_char=3232
+31	in	in	ADP	IN	_	30	_	_	start_char=3233|end_char=3235
+32	1991	1991	NUM	CD	NumForm=Digit|NumType=Card	31	_	_	start_char=3236|end_char=3240
+33	and	and	CCONJ	CC	_	32	_	_	start_char=3241|end_char=3244
+34	signed	sign	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	33	_	_	start_char=3245|end_char=3251
+35	a	a	DET	DT	Definite=Ind|PronType=Art	34	_	_	start_char=3252|end_char=3253
+36	partnership	partnership	NOUN	NN	Number=Sing	35	_	_	start_char=3254|end_char=3265
+37	for	for	ADP	IN	_	36	_	_	start_char=3266|end_char=3269
+38	participation	participation	NOUN	NN	Number=Sing	37	_	_	start_char=3270|end_char=3283
+39	in	in	ADP	IN	_	38	_	_	start_char=3284|end_char=3286
+40	the	the	DET	DT	Definite=Def|PronType=Art	39	_	_	start_char=3287|end_char=3290
+41	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	40	_	_	start_char=3291|end_char=3295
+42	program	program	NOUN	NN	Number=Sing	41	_	_	start_char=3296|end_char=3303
+43	in	in	ADP	IN	_	42	_	_	start_char=3304|end_char=3306
+44	1994	1994	NUM	CD	NumForm=Digit|NumType=Card	43	_	_	start_char=3307|end_char=3311|SpaceAfter=No
+45	.	.	PUNCT	.	_	44	_	_	start_char=3311|end_char=3312
+
+# text = Russia also signed for it.
+# sent_id = 35
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=3313|end_char=3319
+2	also	also	ADV	RB	_	1	_	_	start_char=3320|end_char=3324
+3	signed	sign	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=3325|end_char=3331
+4	for	for	ADP	IN	_	3	_	_	start_char=3332|end_char=3335
+5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	_	_	start_char=3336|end_char=3338|SpaceAfter=No
+6	.	.	PUNCT	.	_	5	_	_	start_char=3338|end_char=3339
+
+# text = Both Russia and Ukraine have their eyes on NATO membership but Ukraine had actually applied for it.
+# sent_id = 36
+1	Both	both	CCONJ	CC	_	0	_	_	start_char=3340|end_char=3344
+2	Russia	Russia	PROPN	NNP	Number=Sing	1	_	_	start_char=3345|end_char=3351
+3	and	and	CCONJ	CC	_	2	_	_	start_char=3352|end_char=3355
+4	Ukraine	Ukraine	PROPN	NNP	Number=Sing	3	_	_	start_char=3356|end_char=3363
+5	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=3364|end_char=3368
+6	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	5	_	_	start_char=3369|end_char=3374
+7	eyes	eye	NOUN	NNS	Number=Plur	6	_	_	start_char=3375|end_char=3379
+8	on	on	ADP	IN	_	7	_	_	start_char=3380|end_char=3382
+9	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	8	_	_	start_char=3383|end_char=3387
+10	membership	membership	NOUN	NN	Number=Sing	9	_	_	start_char=3388|end_char=3398
+11	but	but	CCONJ	CC	_	10	_	_	start_char=3399|end_char=3402
+12	Ukraine	Ukraine	PROPN	NNP	Number=Sing	11	_	_	start_char=3403|end_char=3410
+13	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=3411|end_char=3414
+14	actually	actually	ADV	RB	_	13	_	_	start_char=3415|end_char=3423
+15	applied	apply	VERB	VBN	Tense=Past|VerbForm=Part	14	_	_	start_char=3424|end_char=3431
+16	for	for	ADP	IN	_	15	_	_	start_char=3432|end_char=3435
+17	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	_	_	start_char=3436|end_char=3438|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=3438|end_char=3439
+
+# text = Its application for NATO membership is pending.
+# sent_id = 37
+1	Its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	_	_	start_char=3440|end_char=3443
+2	application	application	NOUN	NN	Number=Sing	1	_	_	start_char=3444|end_char=3455
+3	for	for	ADP	IN	_	2	_	_	start_char=3456|end_char=3459
+4	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	3	_	_	start_char=3460|end_char=3464
+5	membership	membership	NOUN	NN	Number=Sing	4	_	_	start_char=3465|end_char=3475
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=3476|end_char=3478
+7	pending	pend	VERB	VBG	Tense=Pres|VerbForm=Part	6	_	_	start_char=3479|end_char=3486|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	_	_	start_char=3486|end_char=3487
+
+# text = Its president Zelensky has recently appealed again to expedite the decision on the Membership Action Plan (MAP).
+# sent_id = 38
+1	Its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	_	_	start_char=3488|end_char=3491
+2	president	president	NOUN	NN	Number=Sing	1	_	_	start_char=3492|end_char=3501
+3	Zelensky	Zelensky	PROPN	NNP	Number=Sing	2	_	_	start_char=3502|end_char=3510
+4	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=3511|end_char=3514
+5	recently	recently	ADV	RB	_	4	_	_	start_char=3515|end_char=3523
+6	appealed	appeal	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=3524|end_char=3532
+7	again	again	ADV	RB	_	6	_	_	start_char=3533|end_char=3538
+8	to	to	PART	TO	_	7	_	_	start_char=3539|end_char=3541
+9	expedite	expedite	VERB	VB	VerbForm=Inf	8	_	_	start_char=3542|end_char=3550
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=3551|end_char=3554
+11	decision	decision	NOUN	NN	Number=Sing	10	_	_	start_char=3555|end_char=3563
+12	on	on	ADP	IN	_	11	_	_	start_char=3564|end_char=3566
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=3567|end_char=3570
+14	Membership	Membership	PROPN	NNP	Number=Sing	13	_	_	start_char=3571|end_char=3581
+15	Action	Action	PROPN	NNP	Number=Sing	14	_	_	start_char=3582|end_char=3588
+16	Plan	Plan	PROPN	NNP	Number=Sing	15	_	_	start_char=3589|end_char=3593
+17	(	(	PUNCT	-LRB-	_	16	_	_	start_char=3594|end_char=3595|SpaceAfter=No
+18	MAP	MAP	NOUN	NN	Number=Sing	17	_	_	start_char=3595|end_char=3598|SpaceAfter=No
+19	)	)	PUNCT	-RRB-	_	18	_	_	start_char=3598|end_char=3599|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=3599|end_char=3600
+
+# text = This is how NATO-Russia relations deteriorated.
+# sent_id = 39
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=3601|end_char=3605
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=3606|end_char=3608
+3	how	how	ADV	WRB	PronType=Int	2	_	_	start_char=3609|end_char=3612
+4	NATO	NATO	PROPN	NNP	Number=Sing	3	_	_	start_char=3613|end_char=3617|SpaceAfter=No
+5	-	-	PUNCT	HYPH	_	4	_	_	start_char=3617|end_char=3618|SpaceAfter=No
+6	Russia	Russia	PROPN	NNP	Number=Sing	5	_	_	start_char=3618|end_char=3624
+7	relations	relation	NOUN	NNS	Number=Plur	6	_	_	start_char=3625|end_char=3634
+8	deteriorated	deteriorate	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=3635|end_char=3647|SpaceAfter=No
+9	.	.	PUNCT	.	_	8	_	_	start_char=3647|end_char=3648
+
+# text = Russia and NATO formed a consultation forum called the NATO-Russia Council (NRC) after the collapse of the Soviet Union, but Russia&#39;s relations with NATO remained turbulent over Ukraine.
+# sent_id = 40
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=3649|end_char=3655
+2	and	and	CCONJ	CC	_	1	_	_	start_char=3656|end_char=3659
+3	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	2	_	_	start_char=3660|end_char=3664
+4	formed	form	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=3665|end_char=3671
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=3672|end_char=3673
+6	consultation	consultation	NOUN	NN	Number=Sing	5	_	_	start_char=3674|end_char=3686
+7	forum	forum	NOUN	NN	Number=Sing	6	_	_	start_char=3687|end_char=3692
+8	called	call	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	_	_	start_char=3693|end_char=3699
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=3700|end_char=3703
+10	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	9	_	_	start_char=3704|end_char=3708|SpaceAfter=No
+11	-	-	PUNCT	HYPH	_	10	_	_	start_char=3708|end_char=3709|SpaceAfter=No
+12	Russia	Russia	PROPN	NNP	Number=Sing	11	_	_	start_char=3709|end_char=3715
+13	Council	Council	PROPN	NNP	Number=Sing	12	_	_	start_char=3716|end_char=3723
+14	(	(	PUNCT	-LRB-	_	13	_	_	start_char=3724|end_char=3725|SpaceAfter=No
+15	NRC	NRC	PROPN	NNP	Number=Sing	14	_	_	start_char=3725|end_char=3728|SpaceAfter=No
+16	)	)	PUNCT	-RRB-	_	15	_	_	start_char=3728|end_char=3729
+17	after	after	ADP	IN	_	16	_	_	start_char=3730|end_char=3735
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=3736|end_char=3739
+19	collapse	collapse	NOUN	NN	Number=Sing	18	_	_	start_char=3740|end_char=3748
+20	of	of	ADP	IN	_	19	_	_	start_char=3749|end_char=3751
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=3752|end_char=3755
+22	Soviet	Soviet	PROPN	NNP	Number=Sing	21	_	_	start_char=3756|end_char=3762
+23	Union	Union	PROPN	NNP	Number=Sing	22	_	_	start_char=3763|end_char=3768|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=3768|end_char=3769
+25	but	but	CCONJ	CC	_	24	_	_	start_char=3770|end_char=3773
+26	Russia&	Russia&	PROPN	NNP	Number=Sing	25	_	_	start_char=3774|end_char=3781|SpaceAfter=No
+27	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	26	_	_	start_char=3781|end_char=3784|SpaceAfter=No
+28	;	;	PUNCT	:	_	27	_	_	start_char=3784|end_char=3785|SpaceAfter=No
+29	s	's	PART	POS	Typo=Yes	28	_	_	start_char=3785|end_char=3786
+30	relations	relation	NOUN	NNS	Number=Plur	29	_	_	start_char=3787|end_char=3796
+31	with	with	ADP	IN	_	30	_	_	start_char=3797|end_char=3801
+32	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	31	_	_	start_char=3802|end_char=3806
+33	remained	remain	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	32	_	_	start_char=3807|end_char=3815
+34	turbulent	turbulent	ADJ	JJ	Degree=Pos	33	_	_	start_char=3816|end_char=3825
+35	over	over	ADP	IN	_	34	_	_	start_char=3826|end_char=3830
+36	Ukraine	Ukraine	PROPN	NNP	Number=Sing	35	_	_	start_char=3831|end_char=3838|SpaceAfter=No
+37	.	.	PUNCT	.	_	36	_	_	start_char=3838|end_char=3839
+
+# text = Relations turned hostile during the Kosovo crisis in 1999 and Russia&#39;s military action against Georgia in 2008.
+# sent_id = 41
+1	Relations	Relation	NOUN	NNS	Number=Plur	0	_	_	start_char=3840|end_char=3849
+2	turned	turn	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=3850|end_char=3856
+3	hostile	hostile	ADJ	JJ	Degree=Pos	2	_	_	start_char=3857|end_char=3864
+4	during	during	ADP	IN	_	3	_	_	start_char=3865|end_char=3871
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=3872|end_char=3875
+6	Kosovo	Kosovo	PROPN	NNP	Number=Sing	5	_	_	start_char=3876|end_char=3882
+7	crisis	crisis	NOUN	NN	Number=Sing	6	_	_	start_char=3883|end_char=3889
+8	in	in	ADP	IN	_	7	_	_	start_char=3890|end_char=3892
+9	1999	1999	NUM	CD	NumForm=Digit|NumType=Card	8	_	_	start_char=3893|end_char=3897
+10	and	and	CCONJ	CC	_	9	_	_	start_char=3898|end_char=3901
+11	Russia&	Russia&	PROPN	NNP	Number=Sing	10	_	_	start_char=3902|end_char=3909|SpaceAfter=No
+12	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	11	_	_	start_char=3909|end_char=3912|SpaceAfter=No
+13	;	;	PUNCT	:	_	12	_	_	start_char=3912|end_char=3913|SpaceAfter=No
+14	s	's	PART	POS	Typo=Yes	13	_	_	start_char=3913|end_char=3914
+15	military	military	ADJ	JJ	Degree=Pos	14	_	_	start_char=3915|end_char=3923
+16	action	action	NOUN	NN	Number=Sing	15	_	_	start_char=3924|end_char=3930
+17	against	against	ADP	IN	_	16	_	_	start_char=3931|end_char=3938
+18	Georgia	Georgia	PROPN	NNP	Number=Sing	17	_	_	start_char=3939|end_char=3946
+19	in	in	ADP	IN	_	18	_	_	start_char=3947|end_char=3949
+20	2008	2008	NUM	CD	NumForm=Digit|NumType=Card	19	_	_	start_char=3950|end_char=3954|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=3954|end_char=3955
+
+# text = NATO removed Russia from the cooperation council after Putin ordered the annexation of Crimea in 2014, but Ukraine remained a willing ally of NATO.
+# sent_id = 42
+1	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	0	_	_	start_char=3956|end_char=3960
+2	removed	remove	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=3961|end_char=3968
+3	Russia	Russia	PROPN	NNP	Number=Sing	2	_	_	start_char=3969|end_char=3975
+4	from	from	ADP	IN	_	3	_	_	start_char=3976|end_char=3980
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=3981|end_char=3984
+6	cooperation	cooperation	NOUN	NN	Number=Sing	5	_	_	start_char=3985|end_char=3996
+7	council	council	NOUN	NN	Number=Sing	6	_	_	start_char=3997|end_char=4004
+8	after	after	SCONJ	IN	_	7	_	_	start_char=4005|end_char=4010
+9	Putin	Putin	PROPN	NNP	Number=Sing	8	_	_	start_char=4011|end_char=4016
+10	ordered	order	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=4017|end_char=4024
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=4025|end_char=4028
+12	annexation	annexation	NOUN	NN	Number=Sing	11	_	_	start_char=4029|end_char=4039
+13	of	of	ADP	IN	_	12	_	_	start_char=4040|end_char=4042
+14	Crimea	Crimea	PROPN	NNP	Number=Sing	13	_	_	start_char=4043|end_char=4049
+15	in	in	ADP	IN	_	14	_	_	start_char=4050|end_char=4052
+16	2014	2014	NUM	CD	NumForm=Digit|NumType=Card	15	_	_	start_char=4053|end_char=4057|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=4057|end_char=4058
+18	but	but	CCONJ	CC	_	17	_	_	start_char=4059|end_char=4062
+19	Ukraine	Ukraine	PROPN	NNP	Number=Sing	18	_	_	start_char=4063|end_char=4070
+20	remained	remain	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	_	_	start_char=4071|end_char=4079
+21	a	a	DET	DT	Definite=Ind|PronType=Art	20	_	_	start_char=4080|end_char=4081
+22	willing	willing	ADJ	JJ	Degree=Pos	21	_	_	start_char=4082|end_char=4089
+23	ally	ally	NOUN	NN	Number=Sing	22	_	_	start_char=4090|end_char=4094
+24	of	of	ADP	IN	_	23	_	_	start_char=4095|end_char=4097
+25	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	24	_	_	start_char=4098|end_char=4102|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=4102|end_char=4103
+
+# text = Russia continued to test the US-dominated military alliance to ignite the flame of the Cold War.
+# sent_id = 43
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=4104|end_char=4110
+2	continued	continue	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=4111|end_char=4120
+3	to	to	PART	TO	_	2	_	_	start_char=4121|end_char=4123
+4	test	test	VERB	VB	VerbForm=Inf	3	_	_	start_char=4124|end_char=4128
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=4129|end_char=4132
+6	US	US	PROPN	NNP	Number=Sing	5	_	_	start_char=4133|end_char=4135|SpaceAfter=No
+7	-	-	PUNCT	HYPH	_	6	_	_	start_char=4135|end_char=4136|SpaceAfter=No
+8	dominated	dominate	VERB	VBN	Tense=Past|VerbForm=Part	7	_	_	start_char=4136|end_char=4145
+9	military	military	ADJ	JJ	Degree=Pos	8	_	_	start_char=4146|end_char=4154
+10	alliance	alliance	NOUN	NN	Number=Sing	9	_	_	start_char=4155|end_char=4163
+11	to	to	PART	TO	_	10	_	_	start_char=4164|end_char=4166
+12	ignite	ignite	VERB	VB	VerbForm=Inf	11	_	_	start_char=4167|end_char=4173
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=4174|end_char=4177
+14	flame	flame	NOUN	NN	Number=Sing	13	_	_	start_char=4178|end_char=4183
+15	of	of	ADP	IN	_	14	_	_	start_char=4184|end_char=4186
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=4187|end_char=4190
+17	Cold	cold	ADJ	NNP	Degree=Pos	16	_	_	start_char=4191|end_char=4195
+18	War	War	PROPN	NNP	Number=Sing	17	_	_	start_char=4196|end_char=4199|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=4199|end_char=4200
+
+# text = The result is that Ukraine has become a battleground for NATO-Russia military battles.
+# sent_id = 44
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=4201|end_char=4204
+2	result	result	NOUN	NN	Number=Sing	1	_	_	start_char=4205|end_char=4211
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=4212|end_char=4214
+4	that	that	SCONJ	IN	_	3	_	_	start_char=4215|end_char=4219
+5	Ukraine	Ukraine	PROPN	NNP	Number=Sing	4	_	_	start_char=4220|end_char=4227
+6	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=4228|end_char=4231
+7	become	become	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=4232|end_char=4238
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=4239|end_char=4240
+9	battleground	battleground	NOUN	NN	Number=Sing	8	_	_	start_char=4241|end_char=4253
+10	for	for	ADP	IN	_	9	_	_	start_char=4254|end_char=4257
+11	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	10	_	_	start_char=4258|end_char=4262|SpaceAfter=No
+12	-	-	PUNCT	HYPH	_	11	_	_	start_char=4262|end_char=4263|SpaceAfter=No
+13	Russia	Russia	PROPN	NNP	Number=Sing	12	_	_	start_char=4263|end_char=4269
+14	military	military	ADJ	JJ	Degree=Pos	13	_	_	start_char=4270|end_char=4278
+15	battles	battle	NOUN	NNS	Number=Plur	14	_	_	start_char=4279|end_char=4286|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=4286|end_char=4287|SpaceAfter=No
+

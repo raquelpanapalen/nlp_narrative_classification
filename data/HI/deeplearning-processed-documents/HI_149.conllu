@@ -1,0 +1,496 @@
+# text = How did Bengaluru and Pune change from &#39;pleasant weather&#39; to hot cities?
+# sent_id = 0
+1	How	how	ADV	WRB	PronType=Int	0	_	_	start_char=0|end_char=3
+2	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=4|end_char=7
+3	Bengaluru	Bengaluru	PROPN	NNP	Number=Sing	2	_	_	start_char=8|end_char=17
+4	and	and	CCONJ	CC	_	3	_	_	start_char=18|end_char=21
+5	Pune	Pune	PROPN	NNP	Number=Sing	4	_	_	start_char=22|end_char=26
+6	change	change	VERB	VB	VerbForm=Inf	5	_	_	start_char=27|end_char=33
+7	from	from	ADP	IN	_	6	_	_	start_char=34|end_char=38
+8	&	&	CCONJ	CC	_	7	_	_	start_char=39|end_char=40|SpaceAfter=No
+9	#	#	SYM	NN	Number=Sing	8	_	_	start_char=40|end_char=41|SpaceAfter=No
+10	39	39	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=41|end_char=43|SpaceAfter=No
+11	;	;	PUNCT	:	_	10	_	_	start_char=43|end_char=44|SpaceAfter=No
+12	pleasant	pleasant	ADJ	JJ	Degree=Pos	11	_	_	start_char=44|end_char=52
+13	weather&	weather&	NOUN	NN	Number=Sing	12	_	_	start_char=53|end_char=61|SpaceAfter=No
+14	#	#	SYM	NN	Number=Sing	13	_	_	start_char=61|end_char=62|SpaceAfter=No
+15	39	39	NUM	CD	NumForm=Digit|NumType=Card	14	_	_	start_char=62|end_char=64|SpaceAfter=No
+16	;	;	PUNCT	:	_	15	_	_	start_char=64|end_char=65
+17	to	to	ADP	IN	_	16	_	_	start_char=66|end_char=68
+18	hot	hot	ADJ	JJ	Degree=Pos	17	_	_	start_char=69|end_char=72
+19	cities	city	NOUN	NNS	Number=Plur	18	_	_	start_char=73|end_char=79|SpaceAfter=No
+20	?	?	PUNCT	.	_	19	_	_	start_char=79|end_char=80
+
+# text = What should be the way to protect yourself?
+# sent_id = 1
+1	What	what	PRON	WP	PronType=Int	0	_	_	start_char=81|end_char=85
+2	should	should	AUX	MD	VerbForm=Fin	1	_	_	start_char=86|end_char=92
+3	be	be	AUX	VB	VerbForm=Inf	2	_	_	start_char=93|end_char=95
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=96|end_char=99
+5	way	way	NOUN	NN	Number=Sing	4	_	_	start_char=100|end_char=103
+6	to	to	PART	TO	_	5	_	_	start_char=104|end_char=106
+7	protect	protect	VERB	VB	VerbForm=Inf	6	_	_	start_char=107|end_char=114
+8	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	7	_	_	start_char=115|end_char=123|SpaceAfter=No
+9	?	?	PUNCT	.	_	8	_	_	start_char=123|end_char=124
+
+# text = In the month of April 2024, for the first time in at least the last 41 years, there was no rain in Bengaluru.
+# sent_id = 2
+1	In	in	ADP	IN	_	0	_	_	start_char=125|end_char=127
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=128|end_char=131
+3	month	month	NOUN	NN	Number=Sing	2	_	_	start_char=132|end_char=137
+4	of	of	ADP	IN	_	3	_	_	start_char=138|end_char=140
+5	April	April	PROPN	NNP	Number=Sing	4	_	_	start_char=141|end_char=146
+6	2024	2024	NUM	CD	NumForm=Digit|NumType=Card	5	_	_	start_char=147|end_char=151|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=151|end_char=152
+8	for	for	ADP	IN	_	7	_	_	start_char=153|end_char=156
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=157|end_char=160
+10	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	9	_	_	start_char=161|end_char=166
+11	time	time	NOUN	NN	Number=Sing	10	_	_	start_char=167|end_char=171
+12	in	in	ADP	IN	_	11	_	_	start_char=172|end_char=174
+13	at	at	ADP	IN	_	12	_	_	start_char=175|end_char=177
+14	least	least	ADJ	JJS	Degree=Sup	13	_	_	start_char=178|end_char=183
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=184|end_char=187
+16	last	last	ADJ	JJ	Degree=Pos	15	_	_	start_char=188|end_char=192
+17	41	41	NUM	CD	NumForm=Digit|NumType=Card	16	_	_	start_char=193|end_char=195
+18	years	year	NOUN	NNS	Number=Plur	17	_	_	start_char=196|end_char=201|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=201|end_char=202
+20	there	there	PRON	EX	_	19	_	_	start_char=203|end_char=208
+21	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	_	_	start_char=209|end_char=212
+22	no	no	DET	DT	_	21	_	_	start_char=213|end_char=215
+23	rain	rain	NOUN	NN	Number=Sing	22	_	_	start_char=216|end_char=220
+24	in	in	ADP	IN	_	23	_	_	start_char=221|end_char=223
+25	Bengaluru	Bengaluru	PROPN	NNP	Number=Sing	24	_	_	start_char=224|end_char=233|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=233|end_char=234
+
+# text = In fact, on April 25, the temperature of the city was 38.5 degrees Celsius.
+# sent_id = 3
+1	In	in	ADP	IN	_	0	_	_	start_char=235|end_char=237
+2	fact	fact	NOUN	NN	Number=Sing	1	_	_	start_char=238|end_char=242|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=242|end_char=243
+4	on	on	ADP	IN	_	3	_	_	start_char=244|end_char=246
+5	April	April	PROPN	NNP	Number=Sing	4	_	_	start_char=247|end_char=252
+6	25	25	NUM	CD	NumForm=Digit|NumType=Card	5	_	_	start_char=253|end_char=255|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=255|end_char=256
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=257|end_char=260
+9	temperature	temperature	NOUN	NN	Number=Sing	8	_	_	start_char=261|end_char=272
+10	of	of	ADP	IN	_	9	_	_	start_char=273|end_char=275
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=276|end_char=279
+12	city	city	NOUN	NN	Number=Sing	11	_	_	start_char=280|end_char=284
+13	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=285|end_char=288
+14	38.5	38.5	NUM	CD	NumForm=Digit|NumType=Frac	13	_	_	start_char=289|end_char=293
+15	degrees	degree	NOUN	NNS	Number=Plur	14	_	_	start_char=294|end_char=301
+16	Celsius	Celsius	PROPN	NNP	Number=Sing	15	_	_	start_char=302|end_char=309|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=309|end_char=310
+
+# text = This was the second hottest day in 50 years.
+# sent_id = 4
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=311|end_char=315
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=316|end_char=319
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=320|end_char=323
+4	second	second	ADJ	JJ	Degree=Pos|NumType=Ord	3	_	_	start_char=324|end_char=330
+5	hottest	hot	ADJ	JJS	Degree=Sup	4	_	_	start_char=331|end_char=338
+6	day	day	NOUN	NN	Number=Sing	5	_	_	start_char=339|end_char=342
+7	in	in	ADP	IN	_	6	_	_	start_char=343|end_char=345
+8	50	50	NUM	CD	NumForm=Digit|NumType=Card	7	_	_	start_char=346|end_char=348
+9	years	year	NOUN	NNS	Number=Plur	8	_	_	start_char=349|end_char=354|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=354|end_char=355
+
+# text = In the last few years, cities like Bengaluru and Pune are getting hotter.
+# sent_id = 5
+1	In	in	ADP	IN	_	0	_	_	start_char=356|end_char=358
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=359|end_char=362
+3	last	last	ADJ	JJ	Degree=Pos	2	_	_	start_char=363|end_char=367
+4	few	few	ADJ	JJ	Degree=Pos	3	_	_	start_char=368|end_char=371
+5	years	year	NOUN	NNS	Number=Plur	4	_	_	start_char=372|end_char=377|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=377|end_char=378
+7	cities	city	NOUN	NNS	Number=Plur	6	_	_	start_char=379|end_char=385
+8	like	like	ADP	IN	_	7	_	_	start_char=386|end_char=390
+9	Bengaluru	Bengaluru	PROPN	NNP	Number=Sing	8	_	_	start_char=391|end_char=400
+10	and	and	CCONJ	CC	_	9	_	_	start_char=401|end_char=404
+11	Pune	Pune	PROPN	NNP	Number=Sing	10	_	_	start_char=405|end_char=409
+12	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=410|end_char=413
+13	getting	get	VERB	VBG	Tense=Pres|VerbForm=Part	12	_	_	start_char=414|end_char=421
+14	hotter	hot	ADJ	JJR	Degree=Cmp	13	_	_	start_char=422|end_char=428|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=428|end_char=429
+
+# text = These cities were claimed to have &#39;pleasant&#39; weather throughout the year.
+# sent_id = 6
+1	These	this	DET	DT	Number=Plur|PronType=Dem	0	_	_	start_char=430|end_char=435
+2	cities	city	NOUN	NNS	Number=Plur	1	_	_	start_char=436|end_char=442
+3	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=443|end_char=447
+4	claimed	claim	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=448|end_char=455
+5	to	to	PART	TO	_	4	_	_	start_char=456|end_char=458
+6	have	have	VERB	VB	VerbForm=Inf	5	_	_	start_char=459|end_char=463
+7	&	&	CCONJ	CC	_	6	_	_	start_char=464|end_char=465|SpaceAfter=No
+8	#	#	SYM	NN	Number=Sing	7	_	_	start_char=465|end_char=466|SpaceAfter=No
+9	39	39	NUM	CD	NumForm=Digit|NumType=Card	8	_	_	start_char=466|end_char=468|SpaceAfter=No
+10	;	;	PUNCT	:	_	9	_	_	start_char=468|end_char=469|SpaceAfter=No
+11	pleasant&	pleasant&	NOUN	NN	Number=Sing	10	_	_	start_char=469|end_char=478|SpaceAfter=No
+12	#	#	SYM	NN	Number=Sing	11	_	_	start_char=478|end_char=479|SpaceAfter=No
+13	39	39	NUM	CD	NumForm=Digit|NumType=Card	12	_	_	start_char=479|end_char=481|SpaceAfter=No
+14	;	;	PUNCT	:	_	13	_	_	start_char=481|end_char=482
+15	weather	weather	NOUN	NN	Number=Sing	14	_	_	start_char=483|end_char=490
+16	throughout	throughout	ADP	IN	_	15	_	_	start_char=491|end_char=501
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=502|end_char=505
+18	year	year	NOUN	NN	Number=Sing	17	_	_	start_char=506|end_char=510|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=510|end_char=511
+
+# text = According to a notice issued by the Indian Meteorological Department on May 2, the temperature in Pune will be between 40-42 degrees Celsius in the coming days.
+# sent_id = 7
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=512|end_char=521
+2	to	to	ADP	IN	_	1	_	_	start_char=522|end_char=524
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=525|end_char=526
+4	notice	notice	NOUN	NN	Number=Sing	3	_	_	start_char=527|end_char=533
+5	issued	issue	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=534|end_char=540
+6	by	by	ADP	IN	_	5	_	_	start_char=541|end_char=543
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=544|end_char=547
+8	Indian	Indian	ADJ	NNP	Degree=Pos	7	_	_	start_char=548|end_char=554
+9	Meteorological	Meteorological	ADJ	NNP	Degree=Pos	8	_	_	start_char=555|end_char=569
+10	Department	Department	PROPN	NNP	Number=Sing	9	_	_	start_char=570|end_char=580
+11	on	on	ADP	IN	_	10	_	_	start_char=581|end_char=583
+12	May	May	PROPN	NNP	Number=Sing	11	_	_	start_char=584|end_char=587
+13	2	2	NUM	CD	NumForm=Digit|NumType=Card	12	_	_	start_char=588|end_char=589|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=589|end_char=590
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=591|end_char=594
+16	temperature	temperature	NOUN	NN	Number=Sing	15	_	_	start_char=595|end_char=606
+17	in	in	ADP	IN	_	16	_	_	start_char=607|end_char=609
+18	Pune	Pune	PROPN	NNP	Number=Sing	17	_	_	start_char=610|end_char=614
+19	will	will	AUX	MD	VerbForm=Fin	18	_	_	start_char=615|end_char=619
+20	be	be	AUX	VB	VerbForm=Inf	19	_	_	start_char=620|end_char=622
+21	between	between	ADV	RB	_	20	_	_	start_char=623|end_char=630
+22	40	40	NUM	CD	NumForm=Digit|NumType=Card	21	_	_	start_char=631|end_char=633|SpaceAfter=No
+23	-	-	SYM	SYM	_	22	_	_	start_char=633|end_char=634|SpaceAfter=No
+24	42	42	NUM	CD	NumForm=Digit|NumType=Card	23	_	_	start_char=634|end_char=636
+25	degrees	degree	NOUN	NNS	Number=Plur	24	_	_	start_char=637|end_char=644
+26	Celsius	Celsius	PROPN	NNP	Number=Sing	25	_	_	start_char=645|end_char=652
+27	in	in	ADP	IN	_	26	_	_	start_char=653|end_char=655
+28	the	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=656|end_char=659
+29	coming	come	VERB	VBG	VerbForm=Ger	28	_	_	start_char=660|end_char=666
+30	days	day	NOUN	NNS	Number=Plur	29	_	_	start_char=667|end_char=671|SpaceAfter=No
+31	.	.	PUNCT	.	_	30	_	_	start_char=671|end_char=672
+
+# text = People of both the cities have recently discussed on the social media platform X (formerly Twitter) about how they have to buy or rent air conditioners or coolers due to the rising temperature.
+# sent_id = 8
+1	People	person	NOUN	NNS	Number=Plur	0	_	_	start_char=673|end_char=679
+2	of	of	ADP	IN	_	1	_	_	start_char=680|end_char=682
+3	both	both	DET	PDT	_	2	_	_	start_char=683|end_char=687
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=688|end_char=691
+5	cities	city	NOUN	NNS	Number=Plur	4	_	_	start_char=692|end_char=698
+6	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=699|end_char=703
+7	recently	recently	ADV	RB	_	6	_	_	start_char=704|end_char=712
+8	discussed	discuss	VERB	VBN	Tense=Past|VerbForm=Part	7	_	_	start_char=713|end_char=722
+9	on	on	ADP	IN	_	8	_	_	start_char=723|end_char=725
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=726|end_char=729
+11	social	social	ADJ	JJ	Degree=Pos	10	_	_	start_char=730|end_char=736
+12	media	media	NOUN	NN	Number=Sing	11	_	_	start_char=737|end_char=742
+13	platform	platform	NOUN	NN	Number=Sing	12	_	_	start_char=743|end_char=751
+14	X	x	NOUN	NN	Number=Sing	13	_	_	start_char=752|end_char=753
+15	(	(	PUNCT	-LRB-	_	14	_	_	start_char=754|end_char=755|SpaceAfter=No
+16	formerly	formerly	ADV	RB	_	15	_	_	start_char=755|end_char=763
+17	Twitter	Twitter	PROPN	NNP	Number=Sing	16	_	_	start_char=764|end_char=771|SpaceAfter=No
+18	)	)	PUNCT	-RRB-	_	17	_	_	start_char=771|end_char=772
+19	about	about	ADP	IN	_	18	_	_	start_char=773|end_char=778
+20	how	how	ADV	WRB	PronType=Int	19	_	_	start_char=779|end_char=782
+21	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	_	_	start_char=783|end_char=787
+22	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	_	_	start_char=788|end_char=792
+23	to	to	PART	TO	_	22	_	_	start_char=793|end_char=795
+24	buy	buy	VERB	VB	VerbForm=Inf	23	_	_	start_char=796|end_char=799
+25	or	or	CCONJ	CC	_	24	_	_	start_char=800|end_char=802
+26	rent	rent	VERB	VB	VerbForm=Inf	25	_	_	start_char=803|end_char=807
+27	air	air	NOUN	NN	Number=Sing	26	_	_	start_char=808|end_char=811
+28	conditioners	conditioner	NOUN	NNS	Number=Plur	27	_	_	start_char=812|end_char=824
+29	or	or	CCONJ	CC	_	28	_	_	start_char=825|end_char=827
+30	coolers	cooler	NOUN	NNS	Number=Plur	29	_	_	start_char=828|end_char=835
+31	due	due	ADP	IN	_	30	_	_	start_char=836|end_char=839
+32	to	to	ADP	IN	_	31	_	_	start_char=840|end_char=842
+33	the	the	DET	DT	Definite=Def|PronType=Art	32	_	_	start_char=843|end_char=846
+34	rising	rise	VERB	VBG	VerbForm=Ger	33	_	_	start_char=847|end_char=853
+35	temperature	temperature	NOUN	NN	Number=Sing	34	_	_	start_char=854|end_char=865|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=865|end_char=866
+
+# text = Such discussions have rarely been at such a peak in both the metropolises before.
+# sent_id = 9
+1	Such	such	ADJ	JJ	Degree=Pos	0	_	_	start_char=867|end_char=871
+2	discussions	discussion	NOUN	NNS	Number=Plur	1	_	_	start_char=872|end_char=883
+3	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=884|end_char=888
+4	rarely	rarely	ADV	RB	_	3	_	_	start_char=889|end_char=895
+5	been	be	AUX	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=896|end_char=900
+6	at	at	ADP	IN	_	5	_	_	start_char=901|end_char=903
+7	such	such	DET	PDT	_	6	_	_	start_char=904|end_char=908
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=909|end_char=910
+9	peak	peak	NOUN	NN	Number=Sing	8	_	_	start_char=911|end_char=915
+10	in	in	ADP	IN	_	9	_	_	start_char=916|end_char=918
+11	both	both	CCONJ	CC	_	10	_	_	start_char=919|end_char=923
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=924|end_char=927
+13	metropolises	metropolise	NOUN	NNS	Number=Plur	12	_	_	start_char=928|end_char=940
+14	before	before	ADV	RB	_	13	_	_	start_char=941|end_char=947|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=947|end_char=948
+
+# text = &#39;The Urban Heat Island Effect&#39;: The state of &#39;pleasant weather&#39; cities Ranjit Gadgil, environment expert and programme director at &#39;Parisar&#39;, told The Quint, &quot;The broad reason for this is of course climate change and global warming but there are many local reasons too.
+# sent_id = 10
+1	&	&	CCONJ	CC	_	0	_	_	start_char=949|end_char=950|SpaceAfter=No
+2	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	1	_	_	start_char=950|end_char=953|SpaceAfter=No
+3	;	;	PUNCT	:	_	2	_	_	start_char=953|end_char=954|SpaceAfter=No
+4	The	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=954|end_char=957
+5	Urban	Urban	ADJ	NNP	Degree=Pos	4	_	_	start_char=958|end_char=963
+6	Heat	Heat	PROPN	NNP	Number=Sing	5	_	_	start_char=964|end_char=968
+7	Island	Island	PROPN	NNP	Number=Sing	6	_	_	start_char=969|end_char=975
+8	Effect&#39	Effect&#39	PROPN	NNP	Number=Sing	7	_	_	start_char=976|end_char=986|SpaceAfter=No
+9	;	;	PUNCT	:	_	8	_	_	start_char=986|end_char=987|SpaceAfter=No
+10	:	:	PUNCT	:	_	9	_	_	start_char=987|end_char=988
+11	The	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=989|end_char=992
+12	state	state	NOUN	NN	Number=Sing	11	_	_	start_char=993|end_char=998
+13	of	of	ADP	IN	_	12	_	_	start_char=999|end_char=1001
+14	&	&	CCONJ	CC	_	13	_	_	start_char=1002|end_char=1003|SpaceAfter=No
+15	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	14	_	_	start_char=1003|end_char=1006|SpaceAfter=No
+16	;	;	PUNCT	:	_	15	_	_	start_char=1006|end_char=1007|SpaceAfter=No
+17	pleasant	pleasant	ADJ	JJ	Degree=Pos	16	_	_	start_char=1007|end_char=1015
+18	weather&	weather&	NOUN	NN	Number=Sing	17	_	_	start_char=1016|end_char=1024|SpaceAfter=No
+19	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	18	_	_	start_char=1024|end_char=1027|SpaceAfter=No
+20	;	;	PUNCT	:	_	19	_	_	start_char=1027|end_char=1028
+21	cities	city	NOUN	NNS	Number=Plur	20	_	_	start_char=1029|end_char=1035
+22	Ranjit	Ranjit	PROPN	NNP	Number=Sing	21	_	_	start_char=1036|end_char=1042
+23	Gadgil	Gadgil	PROPN	NNP	Number=Sing	22	_	_	start_char=1043|end_char=1049|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=1049|end_char=1050
+25	environment	environment	NOUN	NN	Number=Sing	24	_	_	start_char=1051|end_char=1062
+26	expert	expert	NOUN	NN	Number=Sing	25	_	_	start_char=1063|end_char=1069
+27	and	and	CCONJ	CC	_	26	_	_	start_char=1070|end_char=1073
+28	programme	programme	NOUN	NN	Number=Sing	27	_	_	start_char=1074|end_char=1083
+29	director	director	NOUN	NN	Number=Sing	28	_	_	start_char=1084|end_char=1092
+30	at	at	ADP	IN	_	29	_	_	start_char=1093|end_char=1095
+31	&	&	CCONJ	CC	_	30	_	_	start_char=1096|end_char=1097|SpaceAfter=No
+32	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	31	_	_	start_char=1097|end_char=1100|SpaceAfter=No
+33	;	;	PUNCT	:	_	32	_	_	start_char=1100|end_char=1101|SpaceAfter=No
+34	Parisar&	Parisar&	PROPN	NNP	Number=Sing	33	_	_	start_char=1101|end_char=1109|SpaceAfter=No
+35	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	34	_	_	start_char=1109|end_char=1112|SpaceAfter=No
+36	;	;	PUNCT	:	_	35	_	_	start_char=1112|end_char=1113|SpaceAfter=No
+37	,	,	PUNCT	,	_	36	_	_	start_char=1113|end_char=1114
+38	told	tell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	37	_	_	start_char=1115|end_char=1119
+39	The	the	DET	DT	Definite=Def|PronType=Art	38	_	_	start_char=1120|end_char=1123
+40	Quint	Quint	PROPN	NNP	Number=Sing	39	_	_	start_char=1124|end_char=1129|SpaceAfter=No
+41	,	,	PUNCT	,	_	40	_	_	start_char=1129|end_char=1130
+42	&quot	&quot	NOUN	NN	Number=Sing	41	_	_	start_char=1131|end_char=1136|SpaceAfter=No
+43	;	;	PUNCT	:	_	42	_	_	start_char=1136|end_char=1137|SpaceAfter=No
+44	The	the	DET	DT	Definite=Def|PronType=Art	43	_	_	start_char=1137|end_char=1140
+45	broad	broad	ADJ	JJ	Degree=Pos	44	_	_	start_char=1141|end_char=1146
+46	reason	reason	NOUN	NN	Number=Sing	45	_	_	start_char=1147|end_char=1153
+47	for	for	ADP	IN	_	46	_	_	start_char=1154|end_char=1157
+48	this	this	PRON	DT	Number=Sing|PronType=Dem	47	_	_	start_char=1158|end_char=1162
+49	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	48	_	_	start_char=1163|end_char=1165
+50	of	of	ADP	IN	ExtPos=ADV	49	_	_	start_char=1166|end_char=1168
+51	course	course	NOUN	NN	Number=Sing	50	_	_	start_char=1169|end_char=1175
+52	climate	climate	NOUN	NN	Number=Sing	51	_	_	start_char=1176|end_char=1183
+53	change	change	NOUN	NN	Number=Sing	52	_	_	start_char=1184|end_char=1190
+54	and	and	CCONJ	CC	_	53	_	_	start_char=1191|end_char=1194
+55	global	global	ADJ	JJ	Degree=Pos	54	_	_	start_char=1195|end_char=1201
+56	warming	warming	NOUN	NN	Number=Sing	55	_	_	start_char=1202|end_char=1209
+57	but	but	CCONJ	CC	_	56	_	_	start_char=1210|end_char=1213
+58	there	there	PRON	EX	_	57	_	_	start_char=1214|end_char=1219
+59	are	be	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	58	_	_	start_char=1220|end_char=1223
+60	many	many	ADJ	JJ	Degree=Pos	59	_	_	start_char=1224|end_char=1228
+61	local	local	ADJ	JJ	Degree=Pos	60	_	_	start_char=1229|end_char=1234
+62	reasons	reason	NOUN	NNS	Number=Plur	61	_	_	start_char=1235|end_char=1242
+63	too	too	ADV	RB	_	62	_	_	start_char=1243|end_char=1246|SpaceAfter=No
+64	.	.	PUNCT	.	_	63	_	_	start_char=1246|end_char=1247
+
+# text = That is, we should also look at the way we are developing cities.
+# sent_id = 11
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1248|end_char=1252
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1253|end_char=1255|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=1255|end_char=1256
+4	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	_	_	start_char=1257|end_char=1259
+5	should	should	AUX	MD	VerbForm=Fin	4	_	_	start_char=1260|end_char=1266
+6	also	also	ADV	RB	_	5	_	_	start_char=1267|end_char=1271
+7	look	look	VERB	VB	VerbForm=Inf	6	_	_	start_char=1272|end_char=1276
+8	at	at	ADP	IN	_	7	_	_	start_char=1277|end_char=1279
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1280|end_char=1283
+10	way	way	NOUN	NN	Number=Sing	9	_	_	start_char=1284|end_char=1287
+11	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	10	_	_	start_char=1288|end_char=1290
+12	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	11	_	_	start_char=1291|end_char=1294
+13	developing	develop	VERB	VBG	Tense=Pres|VerbForm=Part	12	_	_	start_char=1295|end_char=1305
+14	cities	city	NOUN	NNS	Number=Plur	13	_	_	start_char=1306|end_char=1312|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=1312|end_char=1313|SpaceAfter=No
+
+# text = &quot; Shripad Dharmadhikari, a Pune-based environment expert working with the Manthan Study Centre, agrees with Ranjit Gadgil.
+# sent_id = 12
+1	&quot	&quot	NOUN	NN	Number=Sing	0	_	_	start_char=1313|end_char=1318|SpaceAfter=No
+2	;	;	PUNCT	:	_	1	_	_	start_char=1318|end_char=1319
+3	Shripad	Shripad	PROPN	NNP	Number=Sing	2	_	_	start_char=1320|end_char=1327
+4	Dharmadhikari	Dharmadhikari	PROPN	NNP	Number=Sing	3	_	_	start_char=1328|end_char=1341|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=1341|end_char=1342
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=1343|end_char=1344
+7	Pune	Pune	PROPN	NNP	Number=Sing	6	_	_	start_char=1345|end_char=1349|SpaceAfter=No
+8	-	-	PUNCT	HYPH	_	7	_	_	start_char=1349|end_char=1350|SpaceAfter=No
+9	based	base	VERB	VBN	Tense=Past|VerbForm=Part	8	_	_	start_char=1350|end_char=1355
+10	environment	environment	NOUN	NN	Number=Sing	9	_	_	start_char=1356|end_char=1367
+11	expert	expert	NOUN	NN	Number=Sing	10	_	_	start_char=1368|end_char=1374
+12	working	work	VERB	VBG	VerbForm=Ger	11	_	_	start_char=1375|end_char=1382
+13	with	with	ADP	IN	_	12	_	_	start_char=1383|end_char=1387
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=1388|end_char=1391
+15	Manthan	Manthan	PROPN	NNP	Number=Sing	14	_	_	start_char=1392|end_char=1399
+16	Study	Study	PROPN	NNP	Number=Sing	15	_	_	start_char=1400|end_char=1405
+17	Centre	Centre	PROPN	NNP	Number=Sing	16	_	_	start_char=1406|end_char=1412|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=1412|end_char=1413
+19	agrees	agree	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=1414|end_char=1420
+20	with	with	ADP	IN	_	19	_	_	start_char=1421|end_char=1425
+21	Ranjit	Ranjit	PROPN	NNP	Number=Sing	20	_	_	start_char=1426|end_char=1432
+22	Gadgil	Gadgil	PROPN	NNP	Number=Sing	21	_	_	start_char=1433|end_char=1439|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=1439|end_char=1440
+
+# text = Dharmadhikari says, &quot;The heat has been increasing here during summers for the last few years but this is the first time we are bearing the brunt of the heat.
+# sent_id = 13
+1	Dharmadhikari	Dharmadhikari	PROPN	NNP	Number=Sing	0	_	_	start_char=1441|end_char=1454
+2	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1455|end_char=1459|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=1459|end_char=1460
+4	&quot	&quot	INTJ	UH	_	3	_	_	start_char=1461|end_char=1466|SpaceAfter=No
+5	;	;	PUNCT	:	_	4	_	_	start_char=1466|end_char=1467|SpaceAfter=No
+6	The	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1467|end_char=1470
+7	heat	heat	NOUN	NN	Number=Sing	6	_	_	start_char=1471|end_char=1475
+8	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=1476|end_char=1479
+9	been	be	AUX	VBN	Tense=Past|VerbForm=Part	8	_	_	start_char=1480|end_char=1484
+10	increasing	increase	VERB	VBG	Tense=Pres|VerbForm=Part	9	_	_	start_char=1485|end_char=1495
+11	here	here	ADV	RB	PronType=Dem	10	_	_	start_char=1496|end_char=1500
+12	during	during	ADP	IN	_	11	_	_	start_char=1501|end_char=1507
+13	summers	summer	NOUN	NNS	Number=Plur	12	_	_	start_char=1508|end_char=1515
+14	for	for	ADP	IN	_	13	_	_	start_char=1516|end_char=1519
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=1520|end_char=1523
+16	last	last	ADJ	JJ	Degree=Pos	15	_	_	start_char=1524|end_char=1528
+17	few	few	ADJ	JJ	Degree=Pos	16	_	_	start_char=1529|end_char=1532
+18	years	year	NOUN	NNS	Number=Plur	17	_	_	start_char=1533|end_char=1538
+19	but	but	CCONJ	CC	_	18	_	_	start_char=1539|end_char=1542
+20	this	this	PRON	DT	Number=Sing|PronType=Dem	19	_	_	start_char=1543|end_char=1547
+21	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	_	_	start_char=1548|end_char=1550
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=1551|end_char=1554
+23	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	22	_	_	start_char=1555|end_char=1560
+24	time	time	NOUN	NN	Number=Sing	23	_	_	start_char=1561|end_char=1565
+25	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	24	_	_	start_char=1566|end_char=1568
+26	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	25	_	_	start_char=1569|end_char=1572
+27	bearing	bear	VERB	VBG	Tense=Pres|VerbForm=Part	26	_	_	start_char=1573|end_char=1580
+28	the	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=1581|end_char=1584
+29	brunt	brunt	NOUN	NN	Number=Sing	28	_	_	start_char=1585|end_char=1590
+30	of	of	ADP	IN	_	29	_	_	start_char=1591|end_char=1593
+31	the	the	DET	DT	Definite=Def|PronType=Art	30	_	_	start_char=1594|end_char=1597
+32	heat	heat	NOUN	NN	Number=Sing	31	_	_	start_char=1598|end_char=1602|SpaceAfter=No
+33	.	.	PUNCT	.	_	32	_	_	start_char=1602|end_char=1603
+
+# text = The weather here has started getting hot much earlier than usual.
+# sent_id = 14
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1604|end_char=1607
+2	weather	weather	NOUN	NN	Number=Sing	1	_	_	start_char=1608|end_char=1615
+3	here	here	ADV	RB	PronType=Dem	2	_	_	start_char=1616|end_char=1620
+4	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1621|end_char=1624
+5	started	start	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=1625|end_char=1632
+6	getting	get	VERB	VBG	VerbForm=Ger	5	_	_	start_char=1633|end_char=1640
+7	hot	hot	ADJ	JJ	Degree=Pos	6	_	_	start_char=1641|end_char=1644
+8	much	much	ADV	RB	_	7	_	_	start_char=1645|end_char=1649
+9	earlier	early	ADV	RBR	Degree=Cmp	8	_	_	start_char=1650|end_char=1657
+10	than	than	ADP	IN	_	9	_	_	start_char=1658|end_char=1662
+11	usual	usual	ADJ	JJ	Degree=Pos	10	_	_	start_char=1663|end_char=1668|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=1668|end_char=1669|SpaceAfter=No
+
+# text = &quot;
+# sent_id = 15
+1	&quot	&quot	NOUN	NN	Number=Sing	0	_	_	start_char=1669|end_char=1674|SpaceAfter=No
+2	;	;	PUNCT	:	_	1	_	_	start_char=1674|end_char=1675
+
+# text = Both the experts have pointed out some points regarding the reason for the changing weather, they say that if it is not stopped, it can increase manifold.
+# sent_id = 16
+1	Both	both	DET	PDT	_	0	_	_	start_char=1676|end_char=1680
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=1681|end_char=1684
+3	experts	expert	NOUN	NNS	Number=Plur	2	_	_	start_char=1685|end_char=1692
+4	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1693|end_char=1697
+5	pointed	point	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=1698|end_char=1705
+6	out	out	ADP	RP	_	5	_	_	start_char=1706|end_char=1709
+7	some	some	DET	DT	_	6	_	_	start_char=1710|end_char=1714
+8	points	point	NOUN	NNS	Number=Plur	7	_	_	start_char=1715|end_char=1721
+9	regarding	regard	VERB	VBG	VerbForm=Ger	8	_	_	start_char=1722|end_char=1731
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=1732|end_char=1735
+11	reason	reason	NOUN	NN	Number=Sing	10	_	_	start_char=1736|end_char=1742
+12	for	for	ADP	IN	_	11	_	_	start_char=1743|end_char=1746
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1747|end_char=1750
+14	changing	change	VERB	VBG	VerbForm=Ger	13	_	_	start_char=1751|end_char=1759
+15	weather	weather	NOUN	NN	Number=Sing	14	_	_	start_char=1760|end_char=1767|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=1767|end_char=1768
+17	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	_	_	start_char=1769|end_char=1773
+18	say	say	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=1774|end_char=1777
+19	that	that	SCONJ	IN	_	18	_	_	start_char=1778|end_char=1782
+20	if	if	SCONJ	IN	_	19	_	_	start_char=1783|end_char=1785
+21	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	20	_	_	start_char=1786|end_char=1788
+22	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	_	_	start_char=1789|end_char=1791
+23	not	not	PART	RB	_	22	_	_	start_char=1792|end_char=1795
+24	stopped	stop	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	23	_	_	start_char=1796|end_char=1803|SpaceAfter=No
+25	,	,	PUNCT	,	_	24	_	_	start_char=1803|end_char=1804
+26	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	25	_	_	start_char=1805|end_char=1807
+27	can	can	AUX	MD	VerbForm=Fin	26	_	_	start_char=1808|end_char=1811
+28	increase	increase	VERB	VB	VerbForm=Inf	27	_	_	start_char=1812|end_char=1820
+29	manifold	manifold	NOUN	NN	Number=Sing	28	_	_	start_char=1821|end_char=1829|SpaceAfter=No
+30	.	.	PUNCT	.	_	29	_	_	start_char=1829|end_char=1830
+
+# text = Increase in construction and skyscrapers Lack of water and greenery in cities Increase in the number of vehicles on the roads, hence the growth of roads A city where water does not seep below the surface level (and hence does not help in cooling the city)
+# sent_id = 17
+1	Increase	increase	VERB	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=1831|end_char=1839
+2	in	in	ADP	IN	_	1	_	_	start_char=1840|end_char=1842
+3	construction	construction	NOUN	NN	Number=Sing	2	_	_	start_char=1843|end_char=1855
+4	and	and	CCONJ	CC	_	3	_	_	start_char=1856|end_char=1859
+5	skyscrapers	skyscraper	NOUN	NNS	Number=Plur	4	_	_	start_char=1860|end_char=1871
+6	Lack	lack	NOUN	NN	Number=Sing	5	_	_	start_char=1872|end_char=1876
+7	of	of	ADP	IN	_	6	_	_	start_char=1877|end_char=1879
+8	water	water	NOUN	NN	Number=Sing	7	_	_	start_char=1880|end_char=1885
+9	and	and	CCONJ	CC	_	8	_	_	start_char=1886|end_char=1889
+10	greenery	greenery	NOUN	NN	Number=Sing	9	_	_	start_char=1890|end_char=1898
+11	in	in	ADP	IN	_	10	_	_	start_char=1899|end_char=1901
+12	cities	city	NOUN	NNS	Number=Plur	11	_	_	start_char=1902|end_char=1908
+13	Increase	increase	VERB	VB	VerbForm=Fin	12	_	_	start_char=1909|end_char=1917
+14	in	in	ADP	IN	_	13	_	_	start_char=1918|end_char=1920
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=1921|end_char=1924
+16	number	number	NOUN	NN	Number=Sing	15	_	_	start_char=1925|end_char=1931
+17	of	of	ADP	IN	_	16	_	_	start_char=1932|end_char=1934
+18	vehicles	vehicle	NOUN	NNS	Number=Plur	17	_	_	start_char=1935|end_char=1943
+19	on	on	ADP	IN	_	18	_	_	start_char=1944|end_char=1946
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=1947|end_char=1950
+21	roads	road	NOUN	NNS	Number=Plur	20	_	_	start_char=1951|end_char=1956|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=1956|end_char=1957
+23	hence	hence	ADV	RB	_	22	_	_	start_char=1958|end_char=1963
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=1964|end_char=1967
+25	growth	growth	NOUN	NN	Number=Sing	24	_	_	start_char=1968|end_char=1974
+26	of	of	ADP	IN	_	25	_	_	start_char=1975|end_char=1977
+27	roads	road	NOUN	NNS	Number=Plur	26	_	_	start_char=1978|end_char=1983
+28	A	a	DET	DT	Definite=Ind|PronType=Art	27	_	_	start_char=1984|end_char=1985
+29	city	city	NOUN	NN	Number=Sing	28	_	_	start_char=1986|end_char=1990
+30	where	where	ADV	WRB	PronType=Rel	29	_	_	start_char=1991|end_char=1996
+31	water	water	NOUN	NN	Number=Sing	30	_	_	start_char=1997|end_char=2002
+32	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	_	_	start_char=2003|end_char=2007
+33	not	not	PART	RB	_	32	_	_	start_char=2008|end_char=2011
+34	seep	seep	VERB	VB	VerbForm=Inf	33	_	_	start_char=2012|end_char=2016
+35	below	below	ADP	IN	_	34	_	_	start_char=2017|end_char=2022
+36	the	the	DET	DT	Definite=Def|PronType=Art	35	_	_	start_char=2023|end_char=2026
+37	surface	surface	NOUN	NN	Number=Sing	36	_	_	start_char=2027|end_char=2034
+38	level	level	NOUN	NN	Number=Sing	37	_	_	start_char=2035|end_char=2040
+39	(	(	PUNCT	-LRB-	_	38	_	_	start_char=2041|end_char=2042|SpaceAfter=No
+40	and	and	CCONJ	CC	_	39	_	_	start_char=2042|end_char=2045
+41	hence	hence	ADV	RB	_	40	_	_	start_char=2046|end_char=2051
+42	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	41	_	_	start_char=2052|end_char=2056
+43	not	not	PART	RB	_	42	_	_	start_char=2057|end_char=2060
+44	help	help	VERB	VB	VerbForm=Inf	43	_	_	start_char=2061|end_char=2065
+45	in	in	SCONJ	IN	_	44	_	_	start_char=2066|end_char=2068
+46	cooling	cool	VERB	VBG	VerbForm=Ger	45	_	_	start_char=2069|end_char=2076
+47	the	the	DET	DT	Definite=Def|PronType=Art	46	_	_	start_char=2077|end_char=2080
+48	city	city	NOUN	NN	Number=Sing	47	_	_	start_char=2081|end_char=2085|SpaceAfter=No
+49	)	)	PUNCT	-RRB-	_	48	_	_	start_char=2085|end_char=2086
+
+# text = Increase in energy consumption and production within cities Sprawl and growth of cities
+# sent_id = 18
+1	Increase	increase	VERB	VB	Mood=Imp|VerbForm=Inf	0	_	_	start_char=2087|end_char=2095
+2	in	in	ADP	IN	_	1	_	_	start_char=2096|end_char=2098
+3	energy	energy	NOUN	NN	Number=Sing	2	_	_	start_char=2099|end_char=2105
+4	consumption	consumption	NOUN	NN	Number=Sing	3	_	_	start_char=2106|end_char=2117
+5	and	and	CCONJ	CC	_	4	_	_	start_char=2118|end_char=2121
+6	production	production	NOUN	NN	Number=Sing	5	_	_	start_char=2122|end_char=2132
+7	within	within	ADP	IN	_	6	_	_	start_char=2133|end_char=2139
+8	cities	city	NOUN	NNS	Number=Plur	7	_	_	start_char=2140|end_char=2146
+9	Sprawl	sprawl	NOUN	NN	Number=Sing	8	_	_	start_char=2147|end_char=2153
+10	and	and	CCONJ	CC	_	9	_	_	start_char=2154|end_char=2157
+11	growth	growth	NOUN	NN	Number=Sing	10	_	_	start_char=2158|end_char=2164
+12	of	of	ADP	IN	_	11	_	_	start_char=2165|end_char=2167
+13	cities	city	NOUN	NNS	Number=Plur	12	_	_	start_char=2168|end_char=2174|SpaceAfter=No
+

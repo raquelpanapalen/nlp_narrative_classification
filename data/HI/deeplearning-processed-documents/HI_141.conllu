@@ -1,0 +1,852 @@
+# text = Climate change has increased food insecurity, people are struggling with food shortages…
+# sent_id = 0
+1	Climate	climate	NOUN	NN	Number=Sing	0	_	_	start_char=0|end_char=7
+2	change	change	NOUN	NN	Number=Sing	1	_	_	start_char=8|end_char=14
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=15|end_char=18
+4	increased	increase	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=19|end_char=28
+5	food	food	NOUN	NN	Number=Sing	4	_	_	start_char=29|end_char=33
+6	insecurity	insecurity	NOUN	NN	Number=Sing	5	_	_	start_char=34|end_char=44|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=44|end_char=45
+8	people	person	NOUN	NNS	Number=Plur	7	_	_	start_char=46|end_char=52
+9	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=53|end_char=56
+10	struggling	struggle	VERB	VBG	Tense=Pres|VerbForm=Part	9	_	_	start_char=57|end_char=67
+11	with	with	ADP	IN	_	10	_	_	start_char=68|end_char=72
+12	food	food	NOUN	NN	Number=Sing	11	_	_	start_char=73|end_char=77
+13	shortages	shortage	NOUN	NNS	Number=Plur	12	_	_	start_char=78|end_char=87|SpaceAfter=No
+14	…	…	PUNCT	:	_	13	_	_	start_char=87|end_char=88
+
+# text = Due to climate change, the weather has wreaked havoc in the year 2023.
+# sent_id = 1
+1	Due	due	ADP	IN	_	0	_	_	start_char=89|end_char=92
+2	to	to	ADP	IN	_	1	_	_	start_char=93|end_char=95
+3	climate	climate	NOUN	NN	Number=Sing	2	_	_	start_char=96|end_char=103
+4	change	change	NOUN	NN	Number=Sing	3	_	_	start_char=104|end_char=110|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=110|end_char=111
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=112|end_char=115
+7	weather	weather	NOUN	NN	Number=Sing	6	_	_	start_char=116|end_char=123
+8	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=124|end_char=127
+9	wreaked	wreak	VERB	VBN	Tense=Past|VerbForm=Part	8	_	_	start_char=128|end_char=135
+10	havoc	havoc	NOUN	NN	Number=Sing	9	_	_	start_char=136|end_char=141
+11	in	in	ADP	IN	_	10	_	_	start_char=142|end_char=144
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=145|end_char=148
+13	year	year	NOUN	NN	Number=Sing	12	_	_	start_char=149|end_char=153
+14	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	13	_	_	start_char=154|end_char=158|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=158|end_char=159
+
+# text = Heat waves, floods, droughts, forest fires and increasing sea storms are having a dangerous effect on crops and the lives of common people.
+# sent_id = 2
+1	Heat	heat	NOUN	NN	Number=Sing	0	_	_	start_char=160|end_char=164
+2	waves	wave	NOUN	NNS	Number=Plur	1	_	_	start_char=165|end_char=170|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=170|end_char=171
+4	floods	flood	NOUN	NNS	Number=Plur	3	_	_	start_char=172|end_char=178|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=178|end_char=179
+6	droughts	drought	NOUN	NNS	Number=Plur	5	_	_	start_char=180|end_char=188|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=188|end_char=189
+8	forest	forest	NOUN	NN	Number=Sing	7	_	_	start_char=190|end_char=196
+9	fires	fire	NOUN	NNS	Number=Plur	8	_	_	start_char=197|end_char=202
+10	and	and	CCONJ	CC	_	9	_	_	start_char=203|end_char=206
+11	increasing	increase	VERB	VBG	VerbForm=Ger	10	_	_	start_char=207|end_char=217
+12	sea	sea	NOUN	NN	Number=Sing	11	_	_	start_char=218|end_char=221
+13	storms	storm	NOUN	NNS	Number=Plur	12	_	_	start_char=222|end_char=228
+14	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=229|end_char=232
+15	having	have	VERB	VBG	Tense=Pres|VerbForm=Part	14	_	_	start_char=233|end_char=239
+16	a	a	DET	DT	Definite=Ind|PronType=Art	15	_	_	start_char=240|end_char=241
+17	dangerous	dangerous	ADJ	JJ	Degree=Pos	16	_	_	start_char=242|end_char=251
+18	effect	effect	NOUN	NN	Number=Sing	17	_	_	start_char=252|end_char=258
+19	on	on	ADP	IN	_	18	_	_	start_char=259|end_char=261
+20	crops	crop	NOUN	NNS	Number=Plur	19	_	_	start_char=262|end_char=267
+21	and	and	CCONJ	CC	_	20	_	_	start_char=268|end_char=271
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=272|end_char=275
+23	lives	life	NOUN	NNS	Number=Plur	22	_	_	start_char=276|end_char=281
+24	of	of	ADP	IN	_	23	_	_	start_char=282|end_char=284
+25	common	common	ADJ	JJ	Degree=Pos	24	_	_	start_char=285|end_char=291
+26	people	person	NOUN	NNS	Number=Plur	25	_	_	start_char=292|end_char=298|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=298|end_char=299
+
+# text = The decrease in global yield due to the adverse effect on crops has increased food insecurity.
+# sent_id = 3
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=300|end_char=303
+2	decrease	decrease	NOUN	NN	Number=Sing	1	_	_	start_char=304|end_char=312
+3	in	in	ADP	IN	_	2	_	_	start_char=313|end_char=315
+4	global	global	ADJ	JJ	Degree=Pos	3	_	_	start_char=316|end_char=322
+5	yield	yield	NOUN	NN	Number=Sing	4	_	_	start_char=323|end_char=328
+6	due	due	ADP	IN	_	5	_	_	start_char=329|end_char=332
+7	to	to	ADP	IN	_	6	_	_	start_char=333|end_char=335
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=336|end_char=339
+9	adverse	adverse	ADJ	JJ	Degree=Pos	8	_	_	start_char=340|end_char=347
+10	effect	effect	NOUN	NN	Number=Sing	9	_	_	start_char=348|end_char=354
+11	on	on	ADP	IN	_	10	_	_	start_char=355|end_char=357
+12	crops	crop	NOUN	NNS	Number=Plur	11	_	_	start_char=358|end_char=363
+13	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=364|end_char=367
+14	increased	increase	VERB	VBN	Tense=Past|VerbForm=Part	13	_	_	start_char=368|end_char=377
+15	food	food	NOUN	NN	Number=Sing	14	_	_	start_char=378|end_char=382
+16	insecurity	insecurity	NOUN	NN	Number=Sing	15	_	_	start_char=383|end_char=393|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=393|end_char=394
+
+# text = The United Nations organization World Meteorological Organization (WMO) has released a fresh report ahead of World Meteorological Day on March 23, according to which the problem of climate change is a huge challenge for humanity.
+# sent_id = 4
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=395|end_char=398
+2	United	United	ADJ	NNP	Degree=Pos	1	_	_	start_char=399|end_char=405
+3	Nations	Nation	PROPN	NNPS	Number=Plur	2	_	_	start_char=406|end_char=413
+4	organization	organization	NOUN	NN	Number=Sing	3	_	_	start_char=414|end_char=426
+5	World	World	PROPN	NNP	Number=Sing	4	_	_	start_char=427|end_char=432
+6	Meteorological	Meteorological	ADJ	NNP	Degree=Pos|Number=Sing	5	_	_	start_char=433|end_char=447
+7	Organization	Organization	PROPN	NNP	Number=Sing	6	_	_	start_char=448|end_char=460
+8	(	(	PUNCT	-LRB-	_	7	_	_	start_char=461|end_char=462|SpaceAfter=No
+9	WMO	WMO	PROPN	NNP	Number=Sing	8	_	_	start_char=462|end_char=465|SpaceAfter=No
+10	)	)	PUNCT	-RRB-	_	9	_	_	start_char=465|end_char=466
+11	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=467|end_char=470
+12	released	release	VERB	VBN	Tense=Past|VerbForm=Part	11	_	_	start_char=471|end_char=479
+13	a	a	DET	DT	Definite=Ind|PronType=Art	12	_	_	start_char=480|end_char=481
+14	fresh	fresh	ADJ	JJ	Degree=Pos	13	_	_	start_char=482|end_char=487
+15	report	report	NOUN	NN	Number=Sing	14	_	_	start_char=488|end_char=494
+16	ahead	ahead	ADV	RB	_	15	_	_	start_char=495|end_char=500
+17	of	of	ADP	IN	_	16	_	_	start_char=501|end_char=503
+18	World	World	PROPN	NNP	Number=Sing	17	_	_	start_char=504|end_char=509
+19	Meteorological	Meteorological	ADJ	NNP	Degree=Pos	18	_	_	start_char=510|end_char=524
+20	Day	Day	PROPN	NNP	Number=Sing	19	_	_	start_char=525|end_char=528
+21	on	on	ADP	IN	_	20	_	_	start_char=529|end_char=531
+22	March	March	PROPN	NNP	Number=Sing	21	_	_	start_char=532|end_char=537
+23	23	23	NUM	CD	NumForm=Digit|NumType=Card	22	_	_	start_char=538|end_char=540|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=540|end_char=541
+25	according	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	24	_	_	start_char=542|end_char=551
+26	to	to	ADP	IN	_	25	_	_	start_char=552|end_char=554
+27	which	which	PRON	WDT	PronType=Rel	26	_	_	start_char=555|end_char=560
+28	the	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=561|end_char=564
+29	problem	problem	NOUN	NN	Number=Sing	28	_	_	start_char=565|end_char=572
+30	of	of	ADP	IN	_	29	_	_	start_char=573|end_char=575
+31	climate	climate	NOUN	NN	Number=Sing	30	_	_	start_char=576|end_char=583
+32	change	change	NOUN	NN	Number=Sing	31	_	_	start_char=584|end_char=590
+33	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	_	_	start_char=591|end_char=593
+34	a	a	DET	DT	Definite=Ind|PronType=Art	33	_	_	start_char=594|end_char=595
+35	huge	huge	ADJ	JJ	Degree=Pos	34	_	_	start_char=596|end_char=600
+36	challenge	challenge	NOUN	NN	Number=Sing	35	_	_	start_char=601|end_char=610
+37	for	for	ADP	IN	_	36	_	_	start_char=611|end_char=614
+38	humanity	humanity	NOUN	NN	Number=Sing	37	_	_	start_char=615|end_char=623|SpaceAfter=No
+39	.	.	PUNCT	.	_	38	_	_	start_char=623|end_char=624
+
+# text = Due to this, food insecurity is increasing.
+# sent_id = 5
+1	Due	due	ADP	IN	_	0	_	_	start_char=625|end_char=628
+2	to	to	ADP	IN	_	1	_	_	start_char=629|end_char=631
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	2	_	_	start_char=632|end_char=636|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=636|end_char=637
+5	food	food	NOUN	NN	Number=Sing	4	_	_	start_char=638|end_char=642
+6	insecurity	insecurity	NOUN	NN	Number=Sing	5	_	_	start_char=643|end_char=653
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=654|end_char=656
+8	increasing	increase	VERB	VBG	Tense=Pres|VerbForm=Part	7	_	_	start_char=657|end_char=667|SpaceAfter=No
+9	.	.	PUNCT	.	_	8	_	_	start_char=667|end_char=668
+
+# text = Due to this, the number of people struggling with food shortage in the world has increased from 149 million to 330 million (33 crores).
+# sent_id = 6
+1	Due	due	ADP	IN	_	0	_	_	start_char=669|end_char=672
+2	to	to	ADP	IN	_	1	_	_	start_char=673|end_char=675
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	2	_	_	start_char=676|end_char=680|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=680|end_char=681
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=682|end_char=685
+6	number	number	NOUN	NN	Number=Sing	5	_	_	start_char=686|end_char=692
+7	of	of	ADP	IN	_	6	_	_	start_char=693|end_char=695
+8	people	person	NOUN	NNS	Number=Plur	7	_	_	start_char=696|end_char=702
+9	struggling	struggle	VERB	VBG	VerbForm=Ger	8	_	_	start_char=703|end_char=713
+10	with	with	ADP	IN	_	9	_	_	start_char=714|end_char=718
+11	food	food	NOUN	NN	Number=Sing	10	_	_	start_char=719|end_char=723
+12	shortage	shortage	NOUN	NN	Number=Sing	11	_	_	start_char=724|end_char=732
+13	in	in	ADP	IN	_	12	_	_	start_char=733|end_char=735
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=736|end_char=739
+15	world	world	NOUN	NN	Number=Sing	14	_	_	start_char=740|end_char=745
+16	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=746|end_char=749
+17	increased	increase	VERB	VBN	Tense=Past|VerbForm=Part	16	_	_	start_char=750|end_char=759
+18	from	from	ADP	IN	_	17	_	_	start_char=760|end_char=764
+19	149	149	NUM	CD	NumForm=Digit|NumType=Card	18	_	_	start_char=765|end_char=768
+20	million	million	NUM	CD	NumForm=Word|NumType=Card	19	_	_	start_char=769|end_char=776
+21	to	to	ADP	IN	_	20	_	_	start_char=777|end_char=779
+22	330	330	NUM	CD	NumForm=Digit|NumType=Card	21	_	_	start_char=780|end_char=783
+23	million	million	NUM	CD	NumForm=Word|NumType=Card	22	_	_	start_char=784|end_char=791
+24	(	(	PUNCT	-LRB-	_	23	_	_	start_char=792|end_char=793|SpaceAfter=No
+25	33	33	NUM	CD	NumForm=Digit|NumType=Card	24	_	_	start_char=793|end_char=795
+26	crores	crore	NOUN	NNS	Number=Plur	25	_	_	start_char=796|end_char=802|SpaceAfter=No
+27	)	)	PUNCT	-RRB-	_	26	_	_	start_char=802|end_char=803|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=803|end_char=804
+
+# text = The year 2023 has been the hottest year so far.
+# sent_id = 7
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=805|end_char=808
+2	year	year	NOUN	NN	Number=Sing	1	_	_	start_char=809|end_char=813
+3	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	2	_	_	start_char=814|end_char=818
+4	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=819|end_char=822
+5	been	be	AUX	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=823|end_char=827
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=828|end_char=831
+7	hottest	hot	ADJ	JJS	Degree=Sup	6	_	_	start_char=832|end_char=839
+8	year	year	NOUN	NN	Number=Sing	7	_	_	start_char=840|end_char=844
+9	so	so	ADV	RB	_	8	_	_	start_char=845|end_char=847
+10	far	far	ADV	RB	Degree=Pos	9	_	_	start_char=848|end_char=851|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=851|end_char=852
+
+# text = The latest The State of Global Climate Report of the World Meteorological Organization (WMO), a United Nations body, which came before World Weather Day on 23 March, says that due to climate change, the weather has wreaked havoc in the year 2023.
+# sent_id = 8
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=853|end_char=856
+2	latest	late	ADJ	JJS	Degree=Sup	1	_	_	start_char=857|end_char=863
+3	The	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=864|end_char=867
+4	State	State	PROPN	NNP	Number=Sing	3	_	_	start_char=868|end_char=873
+5	of	of	ADP	IN	_	4	_	_	start_char=874|end_char=876
+6	Global	Global	ADJ	NNP	Degree=Pos	5	_	_	start_char=877|end_char=883
+7	Climate	Climate	PROPN	NNP	Number=Sing	6	_	_	start_char=884|end_char=891
+8	Report	report	PROPN	NNP	Number=Sing	7	_	_	start_char=892|end_char=898
+9	of	of	ADP	IN	_	8	_	_	start_char=899|end_char=901
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=902|end_char=905
+11	World	World	PROPN	NNP	Number=Sing	10	_	_	start_char=906|end_char=911
+12	Meteorological	Meteorological	ADJ	NNP	Degree=Pos|Number=Sing	11	_	_	start_char=912|end_char=926
+13	Organization	Organization	PROPN	NNP	Number=Sing	12	_	_	start_char=927|end_char=939
+14	(	(	PUNCT	-LRB-	_	13	_	_	start_char=940|end_char=941|SpaceAfter=No
+15	WMO	WMO	PROPN	NNP	Number=Sing	14	_	_	start_char=941|end_char=944|SpaceAfter=No
+16	)	)	PUNCT	-RRB-	_	15	_	_	start_char=944|end_char=945|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=945|end_char=946
+18	a	a	DET	DT	Definite=Ind|PronType=Art	17	_	_	start_char=947|end_char=948
+19	United	United	ADJ	NNP	Degree=Pos	18	_	_	start_char=949|end_char=955
+20	Nations	Nation	PROPN	NNPS	Number=Plur	19	_	_	start_char=956|end_char=963
+21	body	body	NOUN	NN	Number=Sing	20	_	_	start_char=964|end_char=968|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=968|end_char=969
+23	which	which	PRON	WDT	PronType=Rel	22	_	_	start_char=970|end_char=975
+24	came	come	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	23	_	_	start_char=976|end_char=980
+25	before	before	ADP	IN	_	24	_	_	start_char=981|end_char=987
+26	World	World	PROPN	NNP	Number=Sing	25	_	_	start_char=988|end_char=993
+27	Weather	Weather	PROPN	NNP	Number=Sing	26	_	_	start_char=994|end_char=1001
+28	Day	Day	PROPN	NNP	Number=Sing	27	_	_	start_char=1002|end_char=1005
+29	on	on	ADP	IN	_	28	_	_	start_char=1006|end_char=1008
+30	23	23	NUM	CD	NumForm=Digit|NumType=Card	29	_	_	start_char=1009|end_char=1011
+31	March	March	PROPN	NNP	Number=Sing	30	_	_	start_char=1012|end_char=1017|SpaceAfter=No
+32	,	,	PUNCT	,	_	31	_	_	start_char=1017|end_char=1018
+33	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	_	_	start_char=1019|end_char=1023
+34	that	that	SCONJ	IN	_	33	_	_	start_char=1024|end_char=1028
+35	due	due	ADP	IN	_	34	_	_	start_char=1029|end_char=1032
+36	to	to	ADP	IN	_	35	_	_	start_char=1033|end_char=1035
+37	climate	climate	NOUN	NN	Number=Sing	36	_	_	start_char=1036|end_char=1043
+38	change	change	NOUN	NN	Number=Sing	37	_	_	start_char=1044|end_char=1050|SpaceAfter=No
+39	,	,	PUNCT	,	_	38	_	_	start_char=1050|end_char=1051
+40	the	the	DET	DT	Definite=Def|PronType=Art	39	_	_	start_char=1052|end_char=1055
+41	weather	weather	NOUN	NN	Number=Sing	40	_	_	start_char=1056|end_char=1063
+42	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	41	_	_	start_char=1064|end_char=1067
+43	wreaked	wreak	VERB	VBN	Tense=Past|VerbForm=Part	42	_	_	start_char=1068|end_char=1075
+44	havoc	havoc	NOUN	NN	Number=Sing	43	_	_	start_char=1076|end_char=1081
+45	in	in	ADP	IN	_	44	_	_	start_char=1082|end_char=1084
+46	the	the	DET	DT	Definite=Def|PronType=Art	45	_	_	start_char=1085|end_char=1088
+47	year	year	NOUN	NN	Number=Sing	46	_	_	start_char=1089|end_char=1093
+48	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	47	_	_	start_char=1094|end_char=1098|SpaceAfter=No
+49	.	.	PUNCT	.	_	48	_	_	start_char=1098|end_char=1099
+
+# text = The report says that in the year 2023, new records have been made for greenhouse gas emissions, earth&#39;s temperature, increasing heat on the sea surface, rising sea level, along with melting of ice and glaciers in the Antarctic region.
+# sent_id = 9
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1100|end_char=1103
+2	report	report	NOUN	NN	Number=Sing	1	_	_	start_char=1104|end_char=1110
+3	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1111|end_char=1115
+4	that	that	SCONJ	IN	_	3	_	_	start_char=1116|end_char=1120
+5	in	in	ADP	IN	_	4	_	_	start_char=1121|end_char=1123
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1124|end_char=1127
+7	year	year	NOUN	NN	Number=Sing	6	_	_	start_char=1128|end_char=1132
+8	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	7	_	_	start_char=1133|end_char=1137|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1137|end_char=1138
+10	new	new	ADJ	JJ	Degree=Pos	9	_	_	start_char=1139|end_char=1142
+11	records	record	NOUN	NNS	Number=Plur	10	_	_	start_char=1143|end_char=1150
+12	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=1151|end_char=1155
+13	been	be	AUX	VBN	Tense=Past|VerbForm=Part	12	_	_	start_char=1156|end_char=1160
+14	made	make	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	13	_	_	start_char=1161|end_char=1165
+15	for	for	ADP	IN	_	14	_	_	start_char=1166|end_char=1169
+16	greenhouse	greenhouse	NOUN	NN	Number=Sing	15	_	_	start_char=1170|end_char=1180
+17	gas	gas	NOUN	NN	Number=Sing	16	_	_	start_char=1181|end_char=1184
+18	emissions	emission	NOUN	NNS	Number=Plur	17	_	_	start_char=1185|end_char=1194|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=1194|end_char=1195
+20	earth&#39	earth&#39	NOUN	NN	Number=Sing	19	_	_	start_char=1196|end_char=1205|SpaceAfter=No
+21	;	;	PUNCT	:	_	20	_	_	start_char=1205|end_char=1206|SpaceAfter=No
+22	s	's	PART	POS	Typo=Yes	21	_	_	start_char=1206|end_char=1207
+23	temperature	temperature	NOUN	NN	Number=Sing	22	_	_	start_char=1208|end_char=1219|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=1219|end_char=1220
+25	increasing	increase	VERB	VBG	VerbForm=Ger	24	_	_	start_char=1221|end_char=1231
+26	heat	heat	NOUN	NN	Number=Sing	25	_	_	start_char=1232|end_char=1236
+27	on	on	ADP	IN	_	26	_	_	start_char=1237|end_char=1239
+28	the	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=1240|end_char=1243
+29	sea	sea	NOUN	NN	Number=Sing	28	_	_	start_char=1244|end_char=1247
+30	surface	surface	NOUN	NN	Number=Sing	29	_	_	start_char=1248|end_char=1255|SpaceAfter=No
+31	,	,	PUNCT	,	_	30	_	_	start_char=1255|end_char=1256
+32	rising	rise	VERB	VBG	VerbForm=Ger	31	_	_	start_char=1257|end_char=1263
+33	sea	sea	NOUN	NN	Number=Sing	32	_	_	start_char=1264|end_char=1267
+34	level	level	NOUN	NN	Number=Sing	33	_	_	start_char=1268|end_char=1273|SpaceAfter=No
+35	,	,	PUNCT	,	_	34	_	_	start_char=1273|end_char=1274
+36	along	along	ADP	IN	_	35	_	_	start_char=1275|end_char=1280
+37	with	with	ADP	IN	_	36	_	_	start_char=1281|end_char=1285
+38	melting	melting	NOUN	NN	Number=Sing	37	_	_	start_char=1286|end_char=1293
+39	of	of	ADP	IN	_	38	_	_	start_char=1294|end_char=1296
+40	ice	ice	NOUN	NN	Number=Sing	39	_	_	start_char=1297|end_char=1300
+41	and	and	CCONJ	CC	_	40	_	_	start_char=1301|end_char=1304
+42	glaciers	glacier	NOUN	NNS	Number=Plur	41	_	_	start_char=1305|end_char=1313
+43	in	in	ADP	IN	_	42	_	_	start_char=1314|end_char=1316
+44	the	the	DET	DT	Definite=Def|PronType=Art	43	_	_	start_char=1317|end_char=1320
+45	Antarctic	Antarctic	ADJ	JJ	Degree=Pos	44	_	_	start_char=1321|end_char=1330
+46	region	region	NOUN	NN	Number=Sing	45	_	_	start_char=1331|end_char=1337|SpaceAfter=No
+47	.	.	PUNCT	.	_	46	_	_	start_char=1337|end_char=1338
+
+# text = This also includes increasing salinity on the earth.
+# sent_id = 10
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1339|end_char=1343
+2	also	also	ADV	RB	_	1	_	_	start_char=1344|end_char=1348
+3	includes	include	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1349|end_char=1357
+4	increasing	increase	VERB	VBG	VerbForm=Ger	3	_	_	start_char=1358|end_char=1368
+5	salinity	salinity	NOUN	NN	Number=Sing	4	_	_	start_char=1369|end_char=1377
+6	on	on	ADP	IN	_	5	_	_	start_char=1378|end_char=1380
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1381|end_char=1384
+8	earth	earth	NOUN	NN	Number=Sing	7	_	_	start_char=1385|end_char=1390|SpaceAfter=No
+9	.	.	PUNCT	.	_	8	_	_	start_char=1390|end_char=1391
+
+# text = Heat waves, floods, droughts, forest fires and intensifying sea storms are having a dangerous effect on crops and the lives of common people.
+# sent_id = 11
+1	Heat	heat	NOUN	NN	Number=Sing	0	_	_	start_char=1392|end_char=1396
+2	waves	wave	NOUN	NNS	Number=Plur	1	_	_	start_char=1397|end_char=1402|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=1402|end_char=1403
+4	floods	flood	NOUN	NNS	Number=Plur	3	_	_	start_char=1404|end_char=1410|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=1410|end_char=1411
+6	droughts	drought	NOUN	NNS	Number=Plur	5	_	_	start_char=1412|end_char=1420|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=1420|end_char=1421
+8	forest	forest	NOUN	NN	Number=Sing	7	_	_	start_char=1422|end_char=1428
+9	fires	fire	NOUN	NNS	Number=Plur	8	_	_	start_char=1429|end_char=1434
+10	and	and	CCONJ	CC	_	9	_	_	start_char=1435|end_char=1438
+11	intensifying	intensify	VERB	VBG	VerbForm=Ger	10	_	_	start_char=1439|end_char=1451
+12	sea	sea	NOUN	NN	Number=Sing	11	_	_	start_char=1452|end_char=1455
+13	storms	storm	NOUN	NNS	Number=Plur	12	_	_	start_char=1456|end_char=1462
+14	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=1463|end_char=1466
+15	having	have	VERB	VBG	Tense=Pres|VerbForm=Part	14	_	_	start_char=1467|end_char=1473
+16	a	a	DET	DT	Definite=Ind|PronType=Art	15	_	_	start_char=1474|end_char=1475
+17	dangerous	dangerous	ADJ	JJ	Degree=Pos	16	_	_	start_char=1476|end_char=1485
+18	effect	effect	NOUN	NN	Number=Sing	17	_	_	start_char=1486|end_char=1492
+19	on	on	ADP	IN	_	18	_	_	start_char=1493|end_char=1495
+20	crops	crop	NOUN	NNS	Number=Plur	19	_	_	start_char=1496|end_char=1501
+21	and	and	CCONJ	CC	_	20	_	_	start_char=1502|end_char=1505
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=1506|end_char=1509
+23	lives	life	NOUN	NNS	Number=Plur	22	_	_	start_char=1510|end_char=1515
+24	of	of	ADP	IN	_	23	_	_	start_char=1516|end_char=1518
+25	common	common	ADJ	JJ	Degree=Pos	24	_	_	start_char=1519|end_char=1525
+26	people	person	NOUN	NNS	Number=Plur	25	_	_	start_char=1526|end_char=1532|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=1532|end_char=1533
+
+# text = This has also caused economic losses of billions of dollars.
+# sent_id = 12
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1534|end_char=1538
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1539|end_char=1542
+3	also	also	ADV	RB	_	2	_	_	start_char=1543|end_char=1547
+4	caused	cause	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=1548|end_char=1554
+5	economic	economic	ADJ	JJ	Degree=Pos	4	_	_	start_char=1555|end_char=1563
+6	losses	loss	NOUN	NNS	Number=Plur	5	_	_	start_char=1564|end_char=1570
+7	of	of	ADP	IN	_	6	_	_	start_char=1571|end_char=1573
+8	billions	billion	NOUN	NNS	Number=Plur	7	_	_	start_char=1574|end_char=1582
+9	of	of	ADP	IN	_	8	_	_	start_char=1583|end_char=1585
+10	dollars	dollar	NOUN	NNS	Number=Plur	9	_	_	start_char=1586|end_char=1593|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=1593|end_char=1594
+
+# text = The report says that the year 2023 has been the hottest year so far.
+# sent_id = 13
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1595|end_char=1598
+2	report	report	NOUN	NN	Number=Sing	1	_	_	start_char=1599|end_char=1605
+3	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1606|end_char=1610
+4	that	that	SCONJ	IN	_	3	_	_	start_char=1611|end_char=1615
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1616|end_char=1619
+6	year	year	NOUN	NN	Number=Sing	5	_	_	start_char=1620|end_char=1624
+7	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	6	_	_	start_char=1625|end_char=1629
+8	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=1630|end_char=1633
+9	been	be	AUX	VBN	Tense=Past|VerbForm=Part	8	_	_	start_char=1634|end_char=1638
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=1639|end_char=1642
+11	hottest	hot	ADJ	JJS	Degree=Sup	10	_	_	start_char=1643|end_char=1650
+12	year	year	NOUN	NN	Number=Sing	11	_	_	start_char=1651|end_char=1655
+13	so	so	ADV	RB	_	12	_	_	start_char=1656|end_char=1658
+14	far	far	ADV	RB	Degree=Pos	13	_	_	start_char=1659|end_char=1662|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=1662|end_char=1663
+
+# text = This has been the hottest ten-year period.
+# sent_id = 14
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1664|end_char=1668
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1669|end_char=1672
+3	been	be	AUX	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=1673|end_char=1677
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1678|end_char=1681
+5	hottest	hot	ADJ	JJS	Degree=Sup	4	_	_	start_char=1682|end_char=1689
+6	ten	ten	NUM	CD	NumForm=Word|NumType=Card	5	_	_	start_char=1690|end_char=1693|SpaceAfter=No
+7	-	-	PUNCT	HYPH	_	6	_	_	start_char=1693|end_char=1694|SpaceAfter=No
+8	year	year	NOUN	NN	Number=Sing	7	_	_	start_char=1694|end_char=1698
+9	period	period	NOUN	NN	Number=Sing	8	_	_	start_char=1699|end_char=1705|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=1705|end_char=1706
+
+# text = United Nations Secretary-General Antonio Guterres has said that the changing weather is giving warnings on all parameters related to climate change.
+# sent_id = 15
+1	United	United	ADJ	NNP	Degree=Pos	0	_	_	start_char=1707|end_char=1713
+2	Nations	Nation	PROPN	NNPS	Number=Plur	1	_	_	start_char=1714|end_char=1721
+3	Secretary	Secretary	PROPN	NNP	Number=Sing	2	_	_	start_char=1722|end_char=1731|SpaceAfter=No
+4	-	-	PUNCT	HYPH	_	3	_	_	start_char=1731|end_char=1732|SpaceAfter=No
+5	General	General	PROPN	NNP	Number=Sing	4	_	_	start_char=1732|end_char=1739
+6	Antonio	Antonio	PROPN	NNP	Number=Sing	5	_	_	start_char=1740|end_char=1747
+7	Guterres	Guterres	PROPN	NNP	Number=Sing	6	_	_	start_char=1748|end_char=1756
+8	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=1757|end_char=1760
+9	said	say	VERB	VBN	Tense=Past|VerbForm=Part	8	_	_	start_char=1761|end_char=1765
+10	that	that	SCONJ	IN	_	9	_	_	start_char=1766|end_char=1770
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=1771|end_char=1774
+12	changing	change	VERB	VBG	VerbForm=Ger	11	_	_	start_char=1775|end_char=1783
+13	weather	weather	NOUN	NN	Number=Sing	12	_	_	start_char=1784|end_char=1791
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=1792|end_char=1794
+15	giving	give	VERB	VBG	Tense=Pres|VerbForm=Part	14	_	_	start_char=1795|end_char=1801
+16	warnings	warning	NOUN	NNS	Number=Plur	15	_	_	start_char=1802|end_char=1810
+17	on	on	ADP	IN	_	16	_	_	start_char=1811|end_char=1813
+18	all	all	DET	DT	_	17	_	_	start_char=1814|end_char=1817
+19	parameters	parameter	NOUN	NNS	Number=Plur	18	_	_	start_char=1818|end_char=1828
+20	related	related	ADJ	JJ	Degree=Pos	19	_	_	start_char=1829|end_char=1836
+21	to	to	ADP	IN	_	20	_	_	start_char=1837|end_char=1839
+22	climate	climate	NOUN	NN	Number=Sing	21	_	_	start_char=1840|end_char=1847
+23	change	change	NOUN	NN	Number=Sing	22	_	_	start_char=1848|end_char=1854|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=1854|end_char=1855
+
+# text = These are not only increasing, but are also indicating to go beyond all estimates rapidly.
+# sent_id = 16
+1	These	this	PRON	DT	Number=Plur|PronType=Dem	0	_	_	start_char=1856|end_char=1861
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1862|end_char=1865
+3	not	not	PART	RB	_	2	_	_	start_char=1866|end_char=1869
+4	only	only	ADV	RB	_	3	_	_	start_char=1870|end_char=1874
+5	increasing	increase	VERB	VBG	Tense=Pres|VerbForm=Part	4	_	_	start_char=1875|end_char=1885|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=1885|end_char=1886
+7	but	but	CCONJ	CC	_	6	_	_	start_char=1887|end_char=1890
+8	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=1891|end_char=1894
+9	also	also	ADV	RB	_	8	_	_	start_char=1895|end_char=1899
+10	indicating	indicate	VERB	VBG	Tense=Pres|VerbForm=Part	9	_	_	start_char=1900|end_char=1910
+11	to	to	PART	TO	_	10	_	_	start_char=1911|end_char=1913
+12	go	go	VERB	VB	VerbForm=Inf	11	_	_	start_char=1914|end_char=1916
+13	beyond	beyond	ADP	IN	_	12	_	_	start_char=1917|end_char=1923
+14	all	all	DET	DT	_	13	_	_	start_char=1924|end_char=1927
+15	estimates	estimate	NOUN	NNS	Number=Plur	14	_	_	start_char=1928|end_char=1937
+16	rapidly	rapidly	ADV	RB	_	15	_	_	start_char=1938|end_char=1945|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=1945|end_char=1946
+
+# text = WMO Secretary-General Celeste Saulo says that we have never come so close to the 1.5 degree Celsius limit set in the Paris Agreement regarding climate change and global warming.
+# sent_id = 17
+1	WMO	WMO	PROPN	NNP	Number=Sing	0	_	_	start_char=1947|end_char=1950
+2	Secretary	Secretary	PROPN	NNP	Number=Sing	1	_	_	start_char=1951|end_char=1960|SpaceAfter=No
+3	-	-	PUNCT	HYPH	_	2	_	_	start_char=1960|end_char=1961|SpaceAfter=No
+4	General	General	PROPN	NNP	Number=Sing	3	_	_	start_char=1961|end_char=1968
+5	Celeste	Celeste	PROPN	NNP	Number=Sing	4	_	_	start_char=1969|end_char=1976
+6	Saulo	Saulo	PROPN	NNP	Number=Sing	5	_	_	start_char=1977|end_char=1982
+7	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=1983|end_char=1987
+8	that	that	SCONJ	IN	_	7	_	_	start_char=1988|end_char=1992
+9	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	_	_	start_char=1993|end_char=1995
+10	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	_	_	start_char=1996|end_char=2000
+11	never	never	ADV	RB	_	10	_	_	start_char=2001|end_char=2006
+12	come	come	VERB	VBN	Tense=Past|VerbForm=Part	11	_	_	start_char=2007|end_char=2011
+13	so	so	ADV	RB	_	12	_	_	start_char=2012|end_char=2014
+14	close	close	ADV	RB	Degree=Pos	13	_	_	start_char=2015|end_char=2020
+15	to	to	ADP	IN	_	14	_	_	start_char=2021|end_char=2023
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=2024|end_char=2027
+17	1.5	1.5	NUM	CD	NumForm=Digit|NumType=Card	16	_	_	start_char=2028|end_char=2031
+18	degree	degree	NOUN	NN	Number=Sing	17	_	_	start_char=2032|end_char=2038
+19	Celsius	Celsius	PROPN	NNP	Number=Sing	18	_	_	start_char=2039|end_char=2046
+20	limit	limit	NOUN	NN	Number=Sing	19	_	_	start_char=2047|end_char=2052
+21	set	set	VERB	VBN	Tense=Past|VerbForm=Part	20	_	_	start_char=2053|end_char=2056
+22	in	in	ADP	IN	_	21	_	_	start_char=2057|end_char=2059
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=2060|end_char=2063
+24	Paris	Paris	PROPN	NNP	Number=Sing	23	_	_	start_char=2064|end_char=2069
+25	Agreement	agreement	NOUN	NN	Number=Sing	24	_	_	start_char=2070|end_char=2079
+26	regarding	regard	VERB	VBG	VerbForm=Ger	25	_	_	start_char=2080|end_char=2089
+27	climate	climate	NOUN	NN	Number=Sing	26	_	_	start_char=2090|end_char=2097
+28	change	change	NOUN	NN	Number=Sing	27	_	_	start_char=2098|end_char=2104
+29	and	and	CCONJ	CC	_	28	_	_	start_char=2105|end_char=2108
+30	global	global	ADJ	JJ	Degree=Pos	29	_	_	start_char=2109|end_char=2115
+31	warming	warming	NOUN	NN	Number=Sing	30	_	_	start_char=2116|end_char=2123|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=2123|end_char=2124
+
+# text = WMO is issuing a red alert for the world.
+# sent_id = 18
+1	WMO	WMO	PROPN	NNP	Number=Sing	0	_	_	start_char=2125|end_char=2128
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2129|end_char=2131
+3	issuing	issue	VERB	VBG	Tense=Pres|VerbForm=Part	2	_	_	start_char=2132|end_char=2139
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=2140|end_char=2141
+5	red	red	ADJ	JJ	Degree=Pos	4	_	_	start_char=2142|end_char=2145
+6	alert	alert	NOUN	NN	Number=Sing	5	_	_	start_char=2146|end_char=2151
+7	for	for	ADP	IN	_	6	_	_	start_char=2152|end_char=2155
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=2156|end_char=2159
+9	world	world	NOUN	NN	Number=Sing	8	_	_	start_char=2160|end_char=2165|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=2165|end_char=2166
+
+# text = Climate change is much more than an increase in temperature.
+# sent_id = 19
+1	Climate	climate	NOUN	NN	Number=Sing	0	_	_	start_char=2167|end_char=2174
+2	change	change	NOUN	NN	Number=Sing	1	_	_	start_char=2175|end_char=2181
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2182|end_char=2184
+4	much	much	ADV	RB	_	3	_	_	start_char=2185|end_char=2189
+5	more	more	ADJ	JJR	Degree=Cmp	4	_	_	start_char=2190|end_char=2194
+6	than	than	ADP	IN	_	5	_	_	start_char=2195|end_char=2199
+7	an	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=2200|end_char=2202
+8	increase	increase	NOUN	NN	Number=Sing	7	_	_	start_char=2203|end_char=2211
+9	in	in	ADP	IN	_	8	_	_	start_char=2212|end_char=2214
+10	temperature	temperature	NOUN	NN	Number=Sing	9	_	_	start_char=2215|end_char=2226|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=2226|end_char=2227
+
+# text = In the year 2023, we have raised the temperature of the sea, the threat to glaciers and the reduction in ice in Antarctica, which are particularly serious concerns.
+# sent_id = 20
+1	In	in	ADP	IN	_	0	_	_	start_char=2228|end_char=2230
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=2231|end_char=2234
+3	year	year	NOUN	NN	Number=Sing	2	_	_	start_char=2235|end_char=2239
+4	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	3	_	_	start_char=2240|end_char=2244|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=2244|end_char=2245
+6	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	_	_	start_char=2246|end_char=2248
+7	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	_	_	start_char=2249|end_char=2253
+8	raised	raise	VERB	VBN	Tense=Past|VerbForm=Part	7	_	_	start_char=2254|end_char=2260
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=2261|end_char=2264
+10	temperature	temperature	NOUN	NN	Number=Sing	9	_	_	start_char=2265|end_char=2276
+11	of	of	ADP	IN	_	10	_	_	start_char=2277|end_char=2279
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=2280|end_char=2283
+13	sea	sea	NOUN	NN	Number=Sing	12	_	_	start_char=2284|end_char=2287|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=2287|end_char=2288
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=2289|end_char=2292
+16	threat	threat	NOUN	NN	Number=Sing	15	_	_	start_char=2293|end_char=2299
+17	to	to	ADP	IN	_	16	_	_	start_char=2300|end_char=2302
+18	glaciers	glacier	NOUN	NNS	Number=Plur	17	_	_	start_char=2303|end_char=2311
+19	and	and	CCONJ	CC	_	18	_	_	start_char=2312|end_char=2315
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=2316|end_char=2319
+21	reduction	reduction	NOUN	NN	Number=Sing	20	_	_	start_char=2320|end_char=2329
+22	in	in	ADP	IN	_	21	_	_	start_char=2330|end_char=2332
+23	ice	ice	NOUN	NN	Number=Sing	22	_	_	start_char=2333|end_char=2336
+24	in	in	ADP	IN	_	23	_	_	start_char=2337|end_char=2339
+25	Antarctica	Antarctica	PROPN	NNP	Number=Sing	24	_	_	start_char=2340|end_char=2350|SpaceAfter=No
+26	,	,	PUNCT	,	_	25	_	_	start_char=2350|end_char=2351
+27	which	which	PRON	WDT	PronType=Rel	26	_	_	start_char=2352|end_char=2357
+28	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	27	_	_	start_char=2358|end_char=2361
+29	particularly	particularly	ADV	RB	_	28	_	_	start_char=2362|end_char=2374
+30	serious	serious	ADJ	JJ	Degree=Pos	29	_	_	start_char=2375|end_char=2382
+31	concerns	concern	NOUN	NNS	Number=Plur	30	_	_	start_char=2383|end_char=2391|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=2391|end_char=2392
+
+# text = In the year 2023, on an average, one-third of the oceans faced marine heatwaves every day, affecting very important ecosystems and food systems.
+# sent_id = 21
+1	In	in	ADP	IN	_	0	_	_	start_char=2393|end_char=2395
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=2396|end_char=2399
+3	year	year	NOUN	NN	Number=Sing	2	_	_	start_char=2400|end_char=2404
+4	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	3	_	_	start_char=2405|end_char=2409|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=2409|end_char=2410
+6	on	on	ADP	IN	_	5	_	_	start_char=2411|end_char=2413
+7	an	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=2414|end_char=2416
+8	average	average	NOUN	NN	Number=Sing	7	_	_	start_char=2417|end_char=2424|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=2424|end_char=2425
+10	one	one	NUM	CD	NumForm=Word|NumType=Card	9	_	_	start_char=2426|end_char=2429|SpaceAfter=No
+11	-	-	PUNCT	HYPH	_	10	_	_	start_char=2429|end_char=2430|SpaceAfter=No
+12	third	third	NOUN	NN	NumForm=Word|NumType=Frac|Number=Sing	11	_	_	start_char=2430|end_char=2435
+13	of	of	ADP	IN	_	12	_	_	start_char=2436|end_char=2438
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=2439|end_char=2442
+15	oceans	ocean	NOUN	NNS	Number=Plur	14	_	_	start_char=2443|end_char=2449
+16	faced	face	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	15	_	_	start_char=2450|end_char=2455
+17	marine	marine	ADJ	JJ	Degree=Pos	16	_	_	start_char=2456|end_char=2462
+18	heatwaves	heatwave	NOUN	NNS	Number=Plur	17	_	_	start_char=2463|end_char=2472
+19	every	every	DET	DT	PronType=Tot	18	_	_	start_char=2473|end_char=2478
+20	day	day	NOUN	NN	Number=Sing	19	_	_	start_char=2479|end_char=2482|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=2482|end_char=2483
+22	affecting	affect	VERB	VBG	VerbForm=Ger	21	_	_	start_char=2484|end_char=2493
+23	very	very	ADV	RB	_	22	_	_	start_char=2494|end_char=2498
+24	important	important	ADJ	JJ	Degree=Pos	23	_	_	start_char=2499|end_char=2508
+25	ecosystems	ecosystem	NOUN	NNS	Number=Plur	24	_	_	start_char=2509|end_char=2519
+26	and	and	CCONJ	CC	_	25	_	_	start_char=2520|end_char=2523
+27	food	food	NOUN	NN	Number=Sing	26	_	_	start_char=2524|end_char=2528
+28	systems	system	NOUN	NNS	Number=Plur	27	_	_	start_char=2529|end_char=2536|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=2536|end_char=2537
+
+# text = By the last few months of the year 2023, about 90 percent of the oceans faced heatwave conditions at some point or the other.
+# sent_id = 22
+1	By	by	ADP	IN	_	0	_	_	start_char=2538|end_char=2540
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=2541|end_char=2544
+3	last	last	ADJ	JJ	Degree=Pos	2	_	_	start_char=2545|end_char=2549
+4	few	few	ADJ	JJ	Degree=Pos	3	_	_	start_char=2550|end_char=2553
+5	months	month	NOUN	NNS	Number=Plur	4	_	_	start_char=2554|end_char=2560
+6	of	of	ADP	IN	_	5	_	_	start_char=2561|end_char=2563
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=2564|end_char=2567
+8	year	year	NOUN	NN	Number=Sing	7	_	_	start_char=2568|end_char=2572
+9	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	8	_	_	start_char=2573|end_char=2577|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=2577|end_char=2578
+11	about	about	ADV	RB	_	10	_	_	start_char=2579|end_char=2584
+12	90	90	NUM	CD	NumForm=Digit|NumType=Card	11	_	_	start_char=2585|end_char=2587
+13	percent	percent	NOUN	NN	Number=Sing	12	_	_	start_char=2588|end_char=2595
+14	of	of	ADP	IN	_	13	_	_	start_char=2596|end_char=2598
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=2599|end_char=2602
+16	oceans	ocean	NOUN	NNS	Number=Plur	15	_	_	start_char=2603|end_char=2609
+17	faced	face	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	16	_	_	start_char=2610|end_char=2615
+18	heatwave	heatwave	NOUN	NN	Number=Sing	17	_	_	start_char=2616|end_char=2624
+19	conditions	condition	NOUN	NNS	Number=Plur	18	_	_	start_char=2625|end_char=2635
+20	at	at	ADP	IN	_	19	_	_	start_char=2636|end_char=2638
+21	some	some	DET	DT	_	20	_	_	start_char=2639|end_char=2643
+22	point	point	NOUN	NN	Number=Sing	21	_	_	start_char=2644|end_char=2649
+23	or	or	CCONJ	CC	_	22	_	_	start_char=2650|end_char=2652
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=2653|end_char=2656
+25	other	other	ADJ	JJ	Degree=Pos	24	_	_	start_char=2657|end_char=2662|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=2662|end_char=2663
+
+# text = From the year 1950 to last year, the ice of the glaciers melted the most.
+# sent_id = 23
+1	From	from	ADP	IN	_	0	_	_	start_char=2664|end_char=2668
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=2669|end_char=2672
+3	year	year	NOUN	NN	Number=Sing	2	_	_	start_char=2673|end_char=2677
+4	1950	1950	NUM	CD	NumForm=Digit|NumType=Card	3	_	_	start_char=2678|end_char=2682
+5	to	to	ADP	IN	_	4	_	_	start_char=2683|end_char=2685
+6	last	last	ADJ	JJ	Degree=Pos	5	_	_	start_char=2686|end_char=2690
+7	year	year	NOUN	NN	Number=Sing	6	_	_	start_char=2691|end_char=2695|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=2695|end_char=2696
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=2697|end_char=2700
+10	ice	ice	NOUN	NN	Number=Sing	9	_	_	start_char=2701|end_char=2704
+11	of	of	ADP	IN	_	10	_	_	start_char=2705|end_char=2707
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=2708|end_char=2711
+13	glaciers	glacier	NOUN	NNS	Number=Plur	12	_	_	start_char=2712|end_char=2720
+14	melted	melt	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	13	_	_	start_char=2721|end_char=2727
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=2728|end_char=2731
+16	most	most	ADJ	JJS	Degree=Sup	15	_	_	start_char=2732|end_char=2736|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=2736|end_char=2737
+
+# text = Initial data shows that its maximum effect was seen in western North America and Europe.
+# sent_id = 24
+1	Initial	Initial	ADJ	JJ	Degree=Pos	0	_	_	start_char=2738|end_char=2745
+2	data	datum	NOUN	NNS	Number=Plur	1	_	_	start_char=2746|end_char=2750
+3	shows	show	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2751|end_char=2756
+4	that	that	SCONJ	IN	_	3	_	_	start_char=2757|end_char=2761
+5	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	_	_	start_char=2762|end_char=2765
+6	maximum	maximum	ADJ	JJ	Degree=Pos	5	_	_	start_char=2766|end_char=2773
+7	effect	effect	NOUN	NN	Number=Sing	6	_	_	start_char=2774|end_char=2780
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=2781|end_char=2784
+9	seen	see	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	_	_	start_char=2785|end_char=2789
+10	in	in	ADP	IN	_	9	_	_	start_char=2790|end_char=2792
+11	western	western	ADJ	JJ	Degree=Pos	10	_	_	start_char=2793|end_char=2800
+12	North	North	PROPN	NNP	Number=Sing	11	_	_	start_char=2801|end_char=2806
+13	America	America	PROPN	NNP	Number=Sing	12	_	_	start_char=2807|end_char=2814
+14	and	and	CCONJ	CC	_	13	_	_	start_char=2815|end_char=2818
+15	Europe	Europe	PROPN	NNP	Number=Sing	14	_	_	start_char=2819|end_char=2825|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=2825|end_char=2826
+
+# text = The rate of melting of ice in the Antarctic sea is also worrying.
+# sent_id = 25
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2827|end_char=2830
+2	rate	rate	NOUN	NN	Number=Sing	1	_	_	start_char=2831|end_char=2835
+3	of	of	ADP	IN	_	2	_	_	start_char=2836|end_char=2838
+4	melting	melting	NOUN	NN	Number=Sing	3	_	_	start_char=2839|end_char=2846
+5	of	of	ADP	IN	_	4	_	_	start_char=2847|end_char=2849
+6	ice	ice	NOUN	NN	Number=Sing	5	_	_	start_char=2850|end_char=2853
+7	in	in	ADP	IN	_	6	_	_	start_char=2854|end_char=2856
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=2857|end_char=2860
+9	Antarctic	Antarctic	ADJ	JJ	Degree=Pos	8	_	_	start_char=2861|end_char=2870
+10	sea	sea	NOUN	NN	Number=Sing	9	_	_	start_char=2871|end_char=2874
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=2875|end_char=2877
+12	also	also	ADV	RB	_	11	_	_	start_char=2878|end_char=2882
+13	worrying	worry	VERB	VBG	Tense=Pres|VerbForm=Part	12	_	_	start_char=2883|end_char=2891|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=2891|end_char=2892
+
+# text = At the end of winter, it was one million square kilometers less than last year.
+# sent_id = 26
+1	At	at	ADP	IN	_	0	_	_	start_char=2893|end_char=2895
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=2896|end_char=2899
+3	end	end	NOUN	NN	Number=Sing	2	_	_	start_char=2900|end_char=2903
+4	of	of	ADP	IN	_	3	_	_	start_char=2904|end_char=2906
+5	winter	winter	NOUN	NN	Number=Sing	4	_	_	start_char=2907|end_char=2913|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=2913|end_char=2914
+7	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	_	_	start_char=2915|end_char=2917
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=2918|end_char=2921
+9	one	one	NUM	CD	NumForm=Word|NumType=Card	8	_	_	start_char=2922|end_char=2925
+10	million	million	NUM	CD	NumForm=Word|NumType=Card	9	_	_	start_char=2926|end_char=2933
+11	square	square	ADJ	JJ	Degree=Pos	10	_	_	start_char=2934|end_char=2940
+12	kilometers	kilometer	NOUN	NNS	Number=Plur	11	_	_	start_char=2941|end_char=2951
+13	less	less	ADJ	JJR	Degree=Cmp	12	_	_	start_char=2952|end_char=2956
+14	than	than	ADP	IN	_	13	_	_	start_char=2957|end_char=2961
+15	last	last	ADJ	JJ	Degree=Pos	14	_	_	start_char=2962|end_char=2966
+16	year	year	NOUN	NN	Number=Sing	15	_	_	start_char=2967|end_char=2971|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=2971|end_char=2972
+
+# text = This is equal to the area of France and Germany combined.
+# sent_id = 27
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=2973|end_char=2977
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2978|end_char=2980
+3	equal	equal	ADJ	JJ	Degree=Pos	2	_	_	start_char=2981|end_char=2986
+4	to	to	ADP	IN	_	3	_	_	start_char=2987|end_char=2989
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=2990|end_char=2993
+6	area	area	NOUN	NN	Number=Sing	5	_	_	start_char=2994|end_char=2998
+7	of	of	ADP	IN	_	6	_	_	start_char=2999|end_char=3001
+8	France	France	PROPN	NNP	Number=Sing	7	_	_	start_char=3002|end_char=3008
+9	and	and	CCONJ	CC	_	8	_	_	start_char=3009|end_char=3012
+10	Germany	Germany	PROPN	NNP	Number=Sing	9	_	_	start_char=3013|end_char=3020
+11	combined	combine	VERB	VBN	Tense=Past|VerbForm=Part	10	_	_	start_char=3021|end_char=3029|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=3029|end_char=3030
+
+# text = Saulo said that the problem of climate change is a huge challenge for humanity.
+# sent_id = 28
+1	Saulo	Saulo	PROPN	NNP	Number=Sing	0	_	_	start_char=3031|end_char=3036
+2	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=3037|end_char=3041
+3	that	that	SCONJ	IN	_	2	_	_	start_char=3042|end_char=3046
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=3047|end_char=3050
+5	problem	problem	NOUN	NN	Number=Sing	4	_	_	start_char=3051|end_char=3058
+6	of	of	ADP	IN	_	5	_	_	start_char=3059|end_char=3061
+7	climate	climate	NOUN	NN	Number=Sing	6	_	_	start_char=3062|end_char=3069
+8	change	change	NOUN	NN	Number=Sing	7	_	_	start_char=3070|end_char=3076
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=3077|end_char=3079
+10	a	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=3080|end_char=3081
+11	huge	huge	ADJ	JJ	Degree=Pos	10	_	_	start_char=3082|end_char=3086
+12	challenge	challenge	NOUN	NN	Number=Sing	11	_	_	start_char=3087|end_char=3096
+13	for	for	ADP	IN	_	12	_	_	start_char=3097|end_char=3100
+14	humanity	humanity	NOUN	NN	Number=Sing	13	_	_	start_char=3101|end_char=3109|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=3109|end_char=3110
+
+# text = Increasing food insecurity, displacement of people are indicating loss of biodiversity.
+# sent_id = 29
+1	Increasing	increase	VERB	VBG	VerbForm=Ger	0	_	_	start_char=3111|end_char=3121
+2	food	food	NOUN	NN	Number=Sing	1	_	_	start_char=3122|end_char=3126
+3	insecurity	insecurity	NOUN	NN	Number=Sing	2	_	_	start_char=3127|end_char=3137|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=3137|end_char=3138
+5	displacement	displacement	NOUN	NN	Number=Sing	4	_	_	start_char=3139|end_char=3151
+6	of	of	ADP	IN	_	5	_	_	start_char=3152|end_char=3154
+7	people	person	NOUN	NNS	Number=Plur	6	_	_	start_char=3155|end_char=3161
+8	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=3162|end_char=3165
+9	indicating	indicate	VERB	VBG	Tense=Pres|VerbForm=Part	8	_	_	start_char=3166|end_char=3176
+10	loss	loss	NOUN	NN	Number=Sing	9	_	_	start_char=3177|end_char=3181
+11	of	of	ADP	IN	_	10	_	_	start_char=3182|end_char=3184
+12	biodiversity	biodiversity	NOUN	NN	Number=Sing	11	_	_	start_char=3185|end_char=3197|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=3197|end_char=3198
+
+# text = The number of people suffering from food shortage in the world has increased from 149 million to 330 million.
+# sent_id = 30
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=3199|end_char=3202
+2	number	number	NOUN	NN	Number=Sing	1	_	_	start_char=3203|end_char=3209
+3	of	of	ADP	IN	_	2	_	_	start_char=3210|end_char=3212
+4	people	person	NOUN	NNS	Number=Plur	3	_	_	start_char=3213|end_char=3219
+5	suffering	suffer	VERB	VBG	VerbForm=Ger	4	_	_	start_char=3220|end_char=3229
+6	from	from	ADP	IN	_	5	_	_	start_char=3230|end_char=3234
+7	food	food	NOUN	NN	Number=Sing	6	_	_	start_char=3235|end_char=3239
+8	shortage	shortage	NOUN	NN	Number=Sing	7	_	_	start_char=3240|end_char=3248
+9	in	in	ADP	IN	_	8	_	_	start_char=3249|end_char=3251
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=3252|end_char=3255
+11	world	world	NOUN	NN	Number=Sing	10	_	_	start_char=3256|end_char=3261
+12	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=3262|end_char=3265
+13	increased	increase	VERB	VBN	Tense=Past|VerbForm=Part	12	_	_	start_char=3266|end_char=3275
+14	from	from	ADP	IN	_	13	_	_	start_char=3276|end_char=3280
+15	149	149	NUM	CD	NumForm=Digit|NumType=Card	14	_	_	start_char=3281|end_char=3284
+16	million	million	NUM	CD	NumForm=Word|NumType=Card	15	_	_	start_char=3285|end_char=3292
+17	to	to	ADP	IN	_	16	_	_	start_char=3293|end_char=3295
+18	330	330	NUM	CD	NumForm=Digit|NumType=Card	17	_	_	start_char=3296|end_char=3299
+19	million	million	NUM	CD	NumForm=Word|NumType=Card	18	_	_	start_char=3300|end_char=3307|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=3307|end_char=3308
+
+# text = This is more than double the increase between before Covid and 2023.
+# sent_id = 31
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=3309|end_char=3313
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=3314|end_char=3316
+3	more	more	ADJ	JJR	Degree=Cmp	2	_	_	start_char=3317|end_char=3321
+4	than	than	ADP	IN	_	3	_	_	start_char=3322|end_char=3326
+5	double	double	ADJ	JJ	Degree=Pos	4	_	_	start_char=3327|end_char=3333
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=3334|end_char=3337
+7	increase	increase	NOUN	NN	Number=Sing	6	_	_	start_char=3338|end_char=3346
+8	between	between	ADP	IN	_	7	_	_	start_char=3347|end_char=3354
+9	before	before	ADP	IN	_	8	_	_	start_char=3355|end_char=3361
+10	Covid	Covid	PROPN	NNP	Number=Sing	9	_	_	start_char=3362|end_char=3367
+11	and	and	CCONJ	CC	_	10	_	_	start_char=3368|end_char=3371
+12	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	11	_	_	start_char=3372|end_char=3376|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=3376|end_char=3377
+
+# text = This data is of 78 countries monitored by the World Food Programme.
+# sent_id = 32
+1	This	this	DET	DT	Number=Sing|PronType=Dem	0	_	_	start_char=3378|end_char=3382
+2	data	datum	NOUN	NNS	Number=Plur	1	_	_	start_char=3383|end_char=3387
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=3388|end_char=3390
+4	of	of	ADP	IN	_	3	_	_	start_char=3391|end_char=3393
+5	78	78	NUM	CD	NumForm=Digit|NumType=Card	4	_	_	start_char=3394|end_char=3396
+6	countries	country	NOUN	NNS	Number=Plur	5	_	_	start_char=3397|end_char=3406
+7	monitored	monitor	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=3407|end_char=3416
+8	by	by	ADP	IN	_	7	_	_	start_char=3417|end_char=3419
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=3420|end_char=3423
+10	World	World	PROPN	NNP	Number=Sing	9	_	_	start_char=3424|end_char=3429
+11	Food	Food	PROPN	NNP	Number=Sing	10	_	_	start_char=3430|end_char=3434
+12	Programme	Programme	PROPN	NNP	Number=Sing	11	_	_	start_char=3435|end_char=3444|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=3444|end_char=3445
+
+# text = According to the report, changes in weather and climate may not be its root causes, but they are definitely factors increasing food insecurity.
+# sent_id = 33
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=3446|end_char=3455
+2	to	to	ADP	IN	_	1	_	_	start_char=3456|end_char=3458
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=3459|end_char=3462
+4	report	report	NOUN	NN	Number=Sing	3	_	_	start_char=3463|end_char=3469|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=3469|end_char=3470
+6	changes	change	NOUN	NNS	Number=Plur	5	_	_	start_char=3471|end_char=3478
+7	in	in	ADP	IN	_	6	_	_	start_char=3479|end_char=3481
+8	weather	weather	NOUN	NN	Number=Sing	7	_	_	start_char=3482|end_char=3489
+9	and	and	CCONJ	CC	_	8	_	_	start_char=3490|end_char=3493
+10	climate	climate	NOUN	NN	Number=Sing	9	_	_	start_char=3494|end_char=3501
+11	may	may	AUX	MD	VerbForm=Fin	10	_	_	start_char=3502|end_char=3505
+12	not	not	PART	RB	_	11	_	_	start_char=3506|end_char=3509
+13	be	be	AUX	VB	VerbForm=Inf	12	_	_	start_char=3510|end_char=3512
+14	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	_	_	start_char=3513|end_char=3516
+15	root	root	NOUN	NN	Number=Sing	14	_	_	start_char=3517|end_char=3521
+16	causes	cause	NOUN	NNS	Number=Plur	15	_	_	start_char=3522|end_char=3528|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=3528|end_char=3529
+18	but	but	CCONJ	CC	_	17	_	_	start_char=3530|end_char=3533
+19	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	_	_	start_char=3534|end_char=3538
+20	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	_	_	start_char=3539|end_char=3542
+21	definitely	definitely	ADV	RB	_	20	_	_	start_char=3543|end_char=3553
+22	factors	factor	NOUN	NNS	Number=Plur	21	_	_	start_char=3554|end_char=3561
+23	increasing	increase	VERB	VBG	VerbForm=Ger	22	_	_	start_char=3562|end_char=3572
+24	food	food	NOUN	NN	Number=Sing	23	_	_	start_char=3573|end_char=3577
+25	insecurity	insecurity	NOUN	NN	Number=Sing	24	_	_	start_char=3578|end_char=3588|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=3588|end_char=3589
+
+# text = Displacement also increased in the year 2023 due to extreme weather, which indicates how the impact on sensitive populations is being underestimated in the damage caused by climate.
+# sent_id = 34
+1	Displacement	displacement	NOUN	NN	Number=Sing	0	_	_	start_char=3590|end_char=3602
+2	also	also	ADV	RB	_	1	_	_	start_char=3603|end_char=3607
+3	increased	increase	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=3608|end_char=3617
+4	in	in	ADP	IN	_	3	_	_	start_char=3618|end_char=3620
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=3621|end_char=3624
+6	year	year	NOUN	NN	Number=Sing	5	_	_	start_char=3625|end_char=3629
+7	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	6	_	_	start_char=3630|end_char=3634
+8	due	due	ADP	IN	_	7	_	_	start_char=3635|end_char=3638
+9	to	to	ADP	IN	_	8	_	_	start_char=3639|end_char=3641
+10	extreme	extreme	ADJ	JJ	Degree=Pos	9	_	_	start_char=3642|end_char=3649
+11	weather	weather	NOUN	NN	Number=Sing	10	_	_	start_char=3650|end_char=3657|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=3657|end_char=3658
+13	which	which	PRON	WDT	PronType=Rel	12	_	_	start_char=3659|end_char=3664
+14	indicates	indicate	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=3665|end_char=3674
+15	how	how	ADV	WRB	PronType=Int	14	_	_	start_char=3675|end_char=3678
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=3679|end_char=3682
+17	impact	impact	NOUN	NN	Number=Sing	16	_	_	start_char=3683|end_char=3689
+18	on	on	ADP	IN	_	17	_	_	start_char=3690|end_char=3692
+19	sensitive	sensitive	ADJ	JJ	Degree=Pos	18	_	_	start_char=3693|end_char=3702
+20	populations	population	NOUN	NNS	Number=Plur	19	_	_	start_char=3703|end_char=3714
+21	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	_	_	start_char=3715|end_char=3717
+22	being	be	AUX	VBG	VerbForm=Ger	21	_	_	start_char=3718|end_char=3723
+23	underestimated	underestimate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	22	_	_	start_char=3724|end_char=3738
+24	in	in	ADP	IN	_	23	_	_	start_char=3739|end_char=3741
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=3742|end_char=3745
+26	damage	damage	NOUN	NN	Number=Sing	25	_	_	start_char=3746|end_char=3752
+27	caused	cause	VERB	VBN	Tense=Past|VerbForm=Part	26	_	_	start_char=3753|end_char=3759
+28	by	by	ADP	IN	_	27	_	_	start_char=3760|end_char=3762
+29	climate	climate	NOUN	NN	Number=Sing	28	_	_	start_char=3763|end_char=3770|SpaceAfter=No
+30	.	.	PUNCT	.	_	29	_	_	start_char=3770|end_char=3771
+
+# text = However, there is still a ray of hope.
+# sent_id = 35
+1	However	however	ADV	RB	_	0	_	_	start_char=3772|end_char=3779|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=3779|end_char=3780
+3	there	there	PRON	EX	_	2	_	_	start_char=3781|end_char=3786
+4	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=3787|end_char=3789
+5	still	still	ADV	RB	_	4	_	_	start_char=3790|end_char=3795
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=3796|end_char=3797
+7	ray	ray	NOUN	NN	Number=Sing	6	_	_	start_char=3798|end_char=3801
+8	of	of	ADP	IN	_	7	_	_	start_char=3802|end_char=3804
+9	hope	hope	NOUN	NN	Number=Sing	8	_	_	start_char=3805|end_char=3809|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=3809|end_char=3810
+
+# text = Copyright©2024 Living Media India Limited.
+# sent_id = 36
+1	Copyright	copyright	NOUN	NN	Number=Sing	0	_	_	start_char=3811|end_char=3820|SpaceAfter=No
+2	©2024	©2024	NUM	CD	NumForm=Digit|NumType=Card	1	_	_	start_char=3820|end_char=3825
+3	Living	live	NOUN	NN	Number=Sing	2	_	_	start_char=3826|end_char=3832
+4	Media	Media	PROPN	NNP	Number=Sing	3	_	_	start_char=3833|end_char=3838
+5	India	India	PROPN	NNP	Number=Sing	4	_	_	start_char=3839|end_char=3844
+6	Limited	Limited	PROPN	NNP	Number=Sing	5	_	_	start_char=3845|end_char=3852|SpaceAfter=No
+7	.	.	PUNCT	.	_	6	_	_	start_char=3852|end_char=3853
+
+# text = For reprint rights: Syndications Today
+# sent_id = 37
+1	For	for	ADP	IN	_	0	_	_	start_char=3854|end_char=3857
+2	reprint	reprint	NOUN	NN	Number=Sing	1	_	_	start_char=3858|end_char=3865
+3	rights	right	NOUN	NNS	Number=Plur	2	_	_	start_char=3866|end_char=3872|SpaceAfter=No
+4	:	:	PUNCT	:	_	3	_	_	start_char=3872|end_char=3873
+5	Syndications	syndication	NOUN	NNS	Number=Plur	4	_	_	start_char=3874|end_char=3886
+6	Today	today	NOUN	NN	Number=Sing	5	_	_	start_char=3887|end_char=3892|SpaceAfter=No
+

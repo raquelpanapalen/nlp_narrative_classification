@@ -1,0 +1,283 @@
+# text = Financial Times started crying again over oil purchase
+# sent_id = 0
+1	Financial	Financial	ADJ	NNP	Degree=Pos	0	_	_	start_char=0|end_char=9
+2	Times	Times	PROPN	NNP	Number=Sing	1	_	_	start_char=10|end_char=15
+3	started	start	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=16|end_char=23
+4	crying	cry	VERB	VBG	VerbForm=Ger	3	_	_	start_char=24|end_char=30
+5	again	again	ADV	RB	_	4	_	_	start_char=31|end_char=36
+6	over	over	ADP	IN	_	5	_	_	start_char=37|end_char=41
+7	oil	oil	NOUN	NN	Number=Sing	6	_	_	start_char=42|end_char=45
+8	purchase	purchase	NOUN	NN	Number=Sing	7	_	_	start_char=46|end_char=54
+
+# text = The Indian government has been continuously making it clear since 2022 that the purchase of oil from Russia is only a part of its total purchases.
+# sent_id = 1
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=55|end_char=58
+2	Indian	Indian	ADJ	JJ	Degree=Pos	1	_	_	start_char=59|end_char=65
+3	government	government	NOUN	NN	Number=Sing	2	_	_	start_char=66|end_char=76
+4	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=77|end_char=80
+5	been	be	AUX	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=81|end_char=85
+6	continuously	continuously	ADV	RB	_	5	_	_	start_char=86|end_char=98
+7	making	make	VERB	VBG	Tense=Pres|VerbForm=Part	6	_	_	start_char=99|end_char=105
+8	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	_	_	start_char=106|end_char=108
+9	clear	clear	ADJ	JJ	Degree=Pos	8	_	_	start_char=109|end_char=114
+10	since	since	ADP	IN	_	9	_	_	start_char=115|end_char=120
+11	2022	2022	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=121|end_char=125
+12	that	that	SCONJ	IN	_	11	_	_	start_char=126|end_char=130
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=131|end_char=134
+14	purchase	purchase	NOUN	NN	Number=Sing	13	_	_	start_char=135|end_char=143
+15	of	of	ADP	IN	_	14	_	_	start_char=144|end_char=146
+16	oil	oil	NOUN	NN	Number=Sing	15	_	_	start_char=147|end_char=150
+17	from	from	ADP	IN	_	16	_	_	start_char=151|end_char=155
+18	Russia	Russia	PROPN	NNP	Number=Sing	17	_	_	start_char=156|end_char=162
+19	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=163|end_char=165
+20	only	only	ADV	RB	_	19	_	_	start_char=166|end_char=170
+21	a	a	DET	DT	Definite=Ind|PronType=Art	20	_	_	start_char=171|end_char=172
+22	part	part	NOUN	NN	Number=Sing	21	_	_	start_char=173|end_char=177
+23	of	of	ADP	IN	_	22	_	_	start_char=178|end_char=180
+24	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	23	_	_	start_char=181|end_char=184
+25	total	total	ADJ	JJ	Degree=Pos	24	_	_	start_char=185|end_char=190
+26	purchases	purchase	NOUN	NNS	Number=Plur	25	_	_	start_char=191|end_char=200|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=200|end_char=201
+
+# text = Foreign Minister S Jaishankar had once exposed the double standards of Western countries regarding this.
+# sent_id = 2
+1	Foreign	foreign	ADJ	JJ	Degree=Pos	0	_	_	start_char=202|end_char=209
+2	Minister	Minister	PROPN	NNP	Number=Sing	1	_	_	start_char=210|end_char=218
+3	S	S	PROPN	NNP	Number=Sing	2	_	_	start_char=219|end_char=220
+4	Jaishankar	Jaishankar	PROPN	NNP	Number=Sing	3	_	_	start_char=221|end_char=231
+5	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=232|end_char=235
+6	once	once	ADV	RB	NumType=Mult	5	_	_	start_char=236|end_char=240
+7	exposed	expose	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=241|end_char=248
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=249|end_char=252
+9	double	double	ADJ	JJ	Degree=Pos	8	_	_	start_char=253|end_char=259
+10	standards	standard	NOUN	NNS	Number=Plur	9	_	_	start_char=260|end_char=269
+11	of	of	ADP	IN	_	10	_	_	start_char=270|end_char=272
+12	Western	western	ADJ	JJ	Degree=Pos	11	_	_	start_char=273|end_char=280
+13	countries	country	NOUN	NNS	Number=Plur	12	_	_	start_char=281|end_char=290
+14	regarding	regard	VERB	VBG	VerbForm=Ger	13	_	_	start_char=291|end_char=300
+15	this	this	PRON	DT	Number=Sing|PronType=Dem	14	_	_	start_char=301|end_char=305|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=305|end_char=306
+
+# text = He had said in a public conversation, &quot;We buy some crude oil and gas, which is necessary for our energy security.
+# sent_id = 3
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=307|end_char=309
+2	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=310|end_char=313
+3	said	say	VERB	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=314|end_char=318
+4	in	in	ADP	IN	_	3	_	_	start_char=319|end_char=321
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=322|end_char=323
+6	public	public	ADJ	JJ	Degree=Pos	5	_	_	start_char=324|end_char=330
+7	conversation	conversation	NOUN	NN	Number=Sing	6	_	_	start_char=331|end_char=343|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=343|end_char=344
+9	&quot	&quot	INTJ	UH	_	8	_	_	start_char=345|end_char=350|SpaceAfter=No
+10	;	;	PUNCT	:	_	9	_	_	start_char=350|end_char=351|SpaceAfter=No
+11	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	10	_	_	start_char=351|end_char=353
+12	buy	buy	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	11	_	_	start_char=354|end_char=357
+13	some	some	DET	DT	_	12	_	_	start_char=358|end_char=362
+14	crude	crude	ADJ	JJ	Degree=Pos	13	_	_	start_char=363|end_char=368
+15	oil	oil	NOUN	NN	Number=Sing	14	_	_	start_char=369|end_char=372
+16	and	and	CCONJ	CC	_	15	_	_	start_char=373|end_char=376
+17	gas	gas	NOUN	NN	Number=Sing	16	_	_	start_char=377|end_char=380|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=380|end_char=381
+19	which	which	PRON	WDT	PronType=Rel	18	_	_	start_char=382|end_char=387
+20	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	_	_	start_char=388|end_char=390
+21	necessary	necessary	ADJ	JJ	Degree=Pos	20	_	_	start_char=391|end_char=400
+22	for	for	ADP	IN	_	21	_	_	start_char=401|end_char=404
+23	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	22	_	_	start_char=405|end_char=408
+24	energy	energy	NOUN	NN	Number=Sing	23	_	_	start_char=409|end_char=415
+25	security	security	NOUN	NN	Number=Sing	24	_	_	start_char=416|end_char=424|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=424|end_char=425
+
+# text = But looking at the figures, it seems to me that Europe buys more in a day than we buy in a month.
+# sent_id = 4
+1	But	but	CCONJ	CC	_	0	_	_	start_char=426|end_char=429
+2	looking	look	VERB	VBG	VerbForm=Ger	1	_	_	start_char=430|end_char=437
+3	at	at	ADP	IN	_	2	_	_	start_char=438|end_char=440
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=441|end_char=444
+5	figures	figure	NOUN	NNS	Number=Plur	4	_	_	start_char=445|end_char=452|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=452|end_char=453
+7	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	_	_	start_char=454|end_char=456
+8	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=457|end_char=462
+9	to	to	ADP	IN	_	8	_	_	start_char=463|end_char=465
+10	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	9	_	_	start_char=466|end_char=468
+11	that	that	SCONJ	IN	_	10	_	_	start_char=469|end_char=473
+12	Europe	Europe	PROPN	NNP	Number=Sing	11	_	_	start_char=474|end_char=480
+13	buys	busy	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=481|end_char=485
+14	more	more	ADJ	JJR	Degree=Cmp	13	_	_	start_char=486|end_char=490
+15	in	in	ADP	IN	_	14	_	_	start_char=491|end_char=493
+16	a	a	DET	DT	Definite=Ind|PronType=Art	15	_	_	start_char=494|end_char=495
+17	day	day	NOUN	NN	Number=Sing	16	_	_	start_char=496|end_char=499
+18	than	than	SCONJ	IN	_	17	_	_	start_char=500|end_char=504
+19	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	18	_	_	start_char=505|end_char=507
+20	buy	buy	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	19	_	_	start_char=508|end_char=511
+21	in	in	ADP	IN	_	20	_	_	start_char=512|end_char=514
+22	a	a	DET	DT	Definite=Ind|PronType=Art	21	_	_	start_char=515|end_char=516
+23	month	month	NOUN	NN	Number=Sing	22	_	_	start_char=517|end_char=522|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=522|end_char=523|SpaceAfter=No
+
+# text = &quot; Ignoring this, the propaganda of Financial Times came to the fore.
+# sent_id = 5
+1	&quot	&quot	NOUN	NN	Number=Sing	0	_	_	start_char=523|end_char=528|SpaceAfter=No
+2	;	;	PUNCT	:	_	1	_	_	start_char=528|end_char=529
+3	Ignoring	ignore	VERB	VBG	VerbForm=Ger	2	_	_	start_char=530|end_char=538
+4	this	this	PRON	DT	Number=Sing|PronType=Dem	3	_	_	start_char=539|end_char=543|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=543|end_char=544
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=545|end_char=548
+7	propaganda	propaganda	NOUN	NN	Number=Sing	6	_	_	start_char=549|end_char=559
+8	of	of	ADP	IN	_	7	_	_	start_char=560|end_char=562
+9	Financial	Financial	ADJ	NNP	Degree=Pos	8	_	_	start_char=563|end_char=572
+10	Times	Times	PROPN	NNP	Number=Sing	9	_	_	start_char=573|end_char=578
+11	came	come	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=579|end_char=583
+12	to	to	ADP	IN	_	11	_	_	start_char=584|end_char=586
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=587|end_char=590
+14	fore	fore	NOUN	NN	Number=Sing	13	_	_	start_char=591|end_char=595|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=595|end_char=596
+
+# text = Financial Times claimed that India has indirectly helped Russia to keep the war going by purchasing.
+# sent_id = 6
+1	Financial	Financial	ADJ	NNP	Degree=Pos	0	_	_	start_char=597|end_char=606
+2	Times	Times	PROPN	NNP	Number=Sing	1	_	_	start_char=607|end_char=612
+3	claimed	claim	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=613|end_char=620
+4	that	that	SCONJ	IN	_	3	_	_	start_char=621|end_char=625
+5	India	India	PROPN	NNP	Number=Sing	4	_	_	start_char=626|end_char=631
+6	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=632|end_char=635
+7	indirectly	indirectly	ADV	RB	_	6	_	_	start_char=636|end_char=646
+8	helped	help	VERB	VBN	Tense=Past|VerbForm=Part	7	_	_	start_char=647|end_char=653
+9	Russia	Russia	PROPN	NNP	Number=Sing	8	_	_	start_char=654|end_char=660
+10	to	to	PART	TO	_	9	_	_	start_char=661|end_char=663
+11	keep	keep	VERB	VB	VerbForm=Inf	10	_	_	start_char=664|end_char=668
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=669|end_char=672
+13	war	war	NOUN	NN	Number=Sing	12	_	_	start_char=673|end_char=676
+14	going	go	VERB	VBG	VerbForm=Ger	13	_	_	start_char=677|end_char=682
+15	by	by	SCONJ	IN	_	14	_	_	start_char=683|end_char=685
+16	purchasing	purchase	VERB	VBG	VerbForm=Ger	15	_	_	start_char=686|end_char=696|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=696|end_char=697
+
+# text = It said that India&#39;s purchase of oil from Russia came as a boon after the sanctions of Western countries on Russia.
+# sent_id = 7
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=698|end_char=700
+2	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=701|end_char=705
+3	that	that	SCONJ	IN	_	2	_	_	start_char=706|end_char=710
+4	India&	India&	PROPN	NNP	Number=Sing	3	_	_	start_char=711|end_char=717|SpaceAfter=No
+5	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	4	_	_	start_char=717|end_char=720|SpaceAfter=No
+6	;	;	PUNCT	:	_	5	_	_	start_char=720|end_char=721|SpaceAfter=No
+7	s	's	PART	POS	Typo=Yes	6	_	_	start_char=721|end_char=722
+8	purchase	purchase	NOUN	NN	Number=Sing	7	_	_	start_char=723|end_char=731
+9	of	of	ADP	IN	_	8	_	_	start_char=732|end_char=734
+10	oil	oil	NOUN	NN	Number=Sing	9	_	_	start_char=735|end_char=738
+11	from	from	ADP	IN	_	10	_	_	start_char=739|end_char=743
+12	Russia	Russia	PROPN	NNP	Number=Sing	11	_	_	start_char=744|end_char=750
+13	came	come	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=751|end_char=755
+14	as	as	ADP	IN	_	13	_	_	start_char=756|end_char=758
+15	a	a	DET	DT	Definite=Ind|PronType=Art	14	_	_	start_char=759|end_char=760
+16	boon	boon	NOUN	NN	Number=Sing	15	_	_	start_char=761|end_char=765
+17	after	after	ADP	IN	_	16	_	_	start_char=766|end_char=771
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=772|end_char=775
+19	sanctions	sanction	NOUN	NNS	Number=Plur	18	_	_	start_char=776|end_char=785
+20	of	of	ADP	IN	_	19	_	_	start_char=786|end_char=788
+21	Western	western	ADJ	JJ	Degree=Pos	20	_	_	start_char=789|end_char=796
+22	countries	country	NOUN	NNS	Number=Plur	21	_	_	start_char=797|end_char=806
+23	on	on	ADP	IN	_	22	_	_	start_char=807|end_char=809
+24	Russia	Russia	PROPN	NNP	Number=Sing	23	_	_	start_char=810|end_char=816|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=816|end_char=817
+
+# text = Financial Times wrote, &quot;India has been a major buyer of Russian crude oil and the total trade of the two countries reached the level of $ 66 billion in 2023-24, which is a five-fold increase compared to the year before Ukraine-Russia.
+# sent_id = 8
+1	Financial	Financial	ADJ	NNP	Degree=Pos	0	_	_	start_char=818|end_char=827
+2	Times	Times	PROPN	NNP	Number=Sing	1	_	_	start_char=828|end_char=833
+3	wrote	write	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=834|end_char=839|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=839|end_char=840
+5	&quot	&quot	INTJ	UH	_	4	_	_	start_char=841|end_char=846|SpaceAfter=No
+6	;	;	PUNCT	:	_	5	_	_	start_char=846|end_char=847|SpaceAfter=No
+7	India	India	PROPN	NNP	Number=Sing	6	_	_	start_char=847|end_char=852
+8	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=853|end_char=856
+9	been	be	AUX	VBN	Tense=Past|VerbForm=Part	8	_	_	start_char=857|end_char=861
+10	a	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=862|end_char=863
+11	major	major	ADJ	JJ	Degree=Pos	10	_	_	start_char=864|end_char=869
+12	buyer	buyer	NOUN	NN	Number=Sing	11	_	_	start_char=870|end_char=875
+13	of	of	ADP	IN	_	12	_	_	start_char=876|end_char=878
+14	Russian	Russian	ADJ	JJ	Degree=Pos	13	_	_	start_char=879|end_char=886
+15	crude	crude	NOUN	NN	Number=Sing	14	_	_	start_char=887|end_char=892
+16	oil	oil	NOUN	NN	Number=Sing	15	_	_	start_char=893|end_char=896
+17	and	and	CCONJ	CC	_	16	_	_	start_char=897|end_char=900
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=901|end_char=904
+19	total	total	ADJ	JJ	Degree=Pos	18	_	_	start_char=905|end_char=910
+20	trade	trade	NOUN	NN	Number=Sing	19	_	_	start_char=911|end_char=916
+21	of	of	ADP	IN	_	20	_	_	start_char=917|end_char=919
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=920|end_char=923
+23	two	two	NUM	CD	NumForm=Word|NumType=Card	22	_	_	start_char=924|end_char=927
+24	countries	country	NOUN	NNS	Number=Plur	23	_	_	start_char=928|end_char=937
+25	reached	reach	VERB	VBD	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	24	_	_	start_char=938|end_char=945
+26	the	the	DET	DT	Definite=Def|PronType=Art	25	_	_	start_char=946|end_char=949
+27	level	level	NOUN	NN	Number=Sing	26	_	_	start_char=950|end_char=955
+28	of	of	ADP	IN	_	27	_	_	start_char=956|end_char=958
+29	$	$	SYM	$	_	28	_	_	start_char=959|end_char=960
+30	66	66	NUM	CD	NumForm=Digit|NumType=Card	29	_	_	start_char=961|end_char=963
+31	billion	billion	NUM	CD	NumForm=Word|NumType=Card	30	_	_	start_char=964|end_char=971
+32	in	in	ADP	IN	_	31	_	_	start_char=972|end_char=974
+33	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	32	_	_	start_char=975|end_char=979|SpaceAfter=No
+34	-	-	SYM	SYM	_	33	_	_	start_char=979|end_char=980|SpaceAfter=No
+35	24	24	NUM	CD	NumForm=Digit|NumType=Card	34	_	_	start_char=980|end_char=982|SpaceAfter=No
+36	,	,	PUNCT	,	_	35	_	_	start_char=982|end_char=983
+37	which	which	PRON	WDT	PronType=Rel	36	_	_	start_char=984|end_char=989
+38	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	37	_	_	start_char=990|end_char=992
+39	a	a	DET	DT	Definite=Ind|PronType=Art	38	_	_	start_char=993|end_char=994
+40	five	five	NUM	CD	NumForm=Word|NumType=Card	39	_	_	start_char=995|end_char=999|SpaceAfter=No
+41	-	-	PUNCT	HYPH	_	40	_	_	start_char=999|end_char=1000|SpaceAfter=No
+42	fold	fold	NOUN	NN	Number=Sing	41	_	_	start_char=1000|end_char=1004
+43	increase	increase	NOUN	NN	Number=Sing	42	_	_	start_char=1005|end_char=1013
+44	compared	compare	VERB	VBN	Tense=Past|VerbForm=Part	43	_	_	start_char=1014|end_char=1022
+45	to	to	ADP	IN	_	44	_	_	start_char=1023|end_char=1025
+46	the	the	DET	DT	Definite=Def|PronType=Art	45	_	_	start_char=1026|end_char=1029
+47	year	year	NOUN	NN	Number=Sing	46	_	_	start_char=1030|end_char=1034
+48	before	before	ADP	IN	_	47	_	_	start_char=1035|end_char=1041
+49	Ukraine	Ukraine	PROPN	NNP	Number=Sing	48	_	_	start_char=1042|end_char=1049|SpaceAfter=No
+50	-	-	PUNCT	HYPH	_	49	_	_	start_char=1049|end_char=1050|SpaceAfter=No
+51	Russia	Russia	PROPN	NNP	Number=Sing	50	_	_	start_char=1050|end_char=1056|SpaceAfter=No
+52	.	.	PUNCT	.	_	51	_	_	start_char=1056|end_char=1057
+
+# text = Some of this trade has been done in rupees, leaving Russia with reserves.
+# sent_id = 9
+1	Some	some	DET	DT	_	0	_	_	start_char=1058|end_char=1062
+2	of	of	ADP	IN	_	1	_	_	start_char=1063|end_char=1065
+3	this	this	DET	DT	Number=Sing|PronType=Dem	2	_	_	start_char=1066|end_char=1070
+4	trade	trade	NOUN	NN	Number=Sing	3	_	_	start_char=1071|end_char=1076
+5	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1077|end_char=1080
+6	been	be	AUX	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=1081|end_char=1085
+7	done	do	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	_	_	start_char=1086|end_char=1090
+8	in	in	ADP	IN	_	7	_	_	start_char=1091|end_char=1093
+9	rupees	rupee	NOUN	NNS	Number=Plur	8	_	_	start_char=1094|end_char=1100|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=1100|end_char=1101
+11	leaving	leave	VERB	VBG	VerbForm=Ger	10	_	_	start_char=1102|end_char=1109
+12	Russia	Russia	PROPN	NNP	Number=Sing	11	_	_	start_char=1110|end_char=1116
+13	with	with	ADP	IN	_	12	_	_	start_char=1117|end_char=1121
+14	reserves	reserve	NOUN	NNS	Number=Plur	13	_	_	start_char=1122|end_char=1130|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=1130|end_char=1131
+
+# text = According to business people and Western officials, Russian companies have used these rupee reserves to trade gold and buy goods to avoid sanctions.
+# sent_id = 10
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=1132|end_char=1141
+2	to	to	ADP	IN	_	1	_	_	start_char=1142|end_char=1144
+3	business	business	NOUN	NN	Number=Sing	2	_	_	start_char=1145|end_char=1153
+4	people	person	NOUN	NNS	Number=Plur	3	_	_	start_char=1154|end_char=1160
+5	and	and	CCONJ	CC	_	4	_	_	start_char=1161|end_char=1164
+6	Western	western	ADJ	JJ	Degree=Pos	5	_	_	start_char=1165|end_char=1172
+7	officials	official	NOUN	NNS	Number=Plur	6	_	_	start_char=1173|end_char=1182|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=1182|end_char=1183
+9	Russian	Russian	ADJ	JJ	Degree=Pos	8	_	_	start_char=1184|end_char=1191
+10	companies	company	NOUN	NNS	Number=Plur	9	_	_	start_char=1192|end_char=1201
+11	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=1202|end_char=1206
+12	used	use	VERB	VBN	Tense=Past|VerbForm=Part	11	_	_	start_char=1207|end_char=1211
+13	these	this	DET	DT	Number=Plur|PronType=Dem	12	_	_	start_char=1212|end_char=1217
+14	rupee	rupee	NOUN	NN	Number=Sing	13	_	_	start_char=1218|end_char=1223
+15	reserves	reserve	NOUN	NNS	Number=Plur	14	_	_	start_char=1224|end_char=1232
+16	to	to	PART	TO	_	15	_	_	start_char=1233|end_char=1235
+17	trade	trade	VERB	VB	VerbForm=Inf	16	_	_	start_char=1236|end_char=1241
+18	gold	gold	NOUN	NN	Number=Sing	17	_	_	start_char=1242|end_char=1246
+19	and	and	CCONJ	CC	_	18	_	_	start_char=1247|end_char=1250
+20	buy	buy	VERB	VB	VerbForm=Inf	19	_	_	start_char=1251|end_char=1254
+21	goods	goods	NOUN	NNS	Number=Plur	20	_	_	start_char=1255|end_char=1260
+22	to	to	PART	TO	_	21	_	_	start_char=1261|end_char=1263
+23	avoid	avoid	VERB	VB	VerbForm=Inf	22	_	_	start_char=1264|end_char=1269
+24	sanctions	sanction	NOUN	NNS	Number=Plur	23	_	_	start_char=1270|end_char=1279|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=1279|end_char=1280|SpaceAfter=No
+

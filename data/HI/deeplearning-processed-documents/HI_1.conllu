@@ -1,0 +1,535 @@
+# text = Prime Minister Narendra Modi and Russian President Vladimir Putin are scheduled to hold a summit in Moscow today.
+# sent_id = 0
+1	Prime	Prime	ADJ	NNP	Degree=Pos	0	_	_	start_char=0|end_char=5
+2	Minister	Minister	PROPN	NNP	Number=Sing	1	_	_	start_char=6|end_char=14
+3	Narendra	Narendra	PROPN	NNP	Number=Sing	2	_	_	start_char=15|end_char=23
+4	Modi	Modi	PROPN	NNP	Number=Sing	3	_	_	start_char=24|end_char=28
+5	and	and	CCONJ	CC	_	4	_	_	start_char=29|end_char=32
+6	Russian	Russian	ADJ	JJ	Degree=Pos	5	_	_	start_char=33|end_char=40
+7	President	President	PROPN	NNP	Number=Sing	6	_	_	start_char=41|end_char=50
+8	Vladimir	Vladimir	PROPN	NNP	Number=Sing	7	_	_	start_char=51|end_char=59
+9	Putin	Putin	PROPN	NNP	Number=Sing	8	_	_	start_char=60|end_char=65
+10	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=66|end_char=69
+11	scheduled	schedule	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10	_	_	start_char=70|end_char=79
+12	to	to	PART	TO	_	11	_	_	start_char=80|end_char=82
+13	hold	hold	VERB	VB	VerbForm=Inf	12	_	_	start_char=83|end_char=87
+14	a	a	DET	DT	Definite=Ind|PronType=Art	13	_	_	start_char=88|end_char=89
+15	summit	summit	NOUN	NN	Number=Sing	14	_	_	start_char=90|end_char=96
+16	in	in	ADP	IN	_	15	_	_	start_char=97|end_char=99
+17	Moscow	Moscow	PROPN	NNP	Number=Sing	16	_	_	start_char=100|end_char=106
+18	today	today	NOUN	NN	Number=Sing	17	_	_	start_char=107|end_char=112|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=112|end_char=113
+
+# text = Measures to further promote India-Russia cooperation in areas such as energy, trade, manufacturing and fertilizers may be the focus of the summit talks.
+# sent_id = 1
+1	Measures	measure	NOUN	NNS	Number=Plur	0	_	_	start_char=114|end_char=122
+2	to	to	PART	TO	_	1	_	_	start_char=123|end_char=125
+3	further	further	ADV	RB	_	2	_	_	start_char=126|end_char=133
+4	promote	promote	VERB	VB	VerbForm=Inf	3	_	_	start_char=134|end_char=141
+5	India	India	PROPN	NNP	Number=Sing	4	_	_	start_char=142|end_char=147|SpaceAfter=No
+6	-	-	PUNCT	HYPH	_	5	_	_	start_char=147|end_char=148|SpaceAfter=No
+7	Russia	Russia	PROPN	NNP	Number=Sing	6	_	_	start_char=148|end_char=154
+8	cooperation	cooperation	NOUN	NN	Number=Sing	7	_	_	start_char=155|end_char=166
+9	in	in	ADP	IN	_	8	_	_	start_char=167|end_char=169
+10	areas	area	NOUN	NNS	Number=Plur	9	_	_	start_char=170|end_char=175
+11	such	such	ADJ	JJ	Degree=Pos	10	_	_	start_char=176|end_char=180
+12	as	as	ADP	IN	_	11	_	_	start_char=181|end_char=183
+13	energy	energy	NOUN	NN	Number=Sing	12	_	_	start_char=184|end_char=190|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=190|end_char=191
+15	trade	trade	NOUN	NN	Number=Sing	14	_	_	start_char=192|end_char=197|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=197|end_char=198
+17	manufacturing	manufacturing	NOUN	NN	Number=Sing	16	_	_	start_char=199|end_char=212
+18	and	and	CCONJ	CC	_	17	_	_	start_char=213|end_char=216
+19	fertilizers	fertilizer	NOUN	NNS	Number=Plur	18	_	_	start_char=217|end_char=228
+20	may	may	AUX	MD	VerbForm=Fin	19	_	_	start_char=229|end_char=232
+21	be	be	AUX	VB	VerbForm=Inf	20	_	_	start_char=233|end_char=235
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=236|end_char=239
+23	focus	focus	NOUN	NN	Number=Sing	22	_	_	start_char=240|end_char=245
+24	of	of	ADP	IN	_	23	_	_	start_char=246|end_char=248
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=249|end_char=252
+26	summit	summit	NOUN	NN	Number=Sing	25	_	_	start_char=253|end_char=259
+27	talks	talk	NOUN	NNS	Number=Plur	26	_	_	start_char=260|end_char=265|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=265|end_char=266
+
+# text = Apart from talks between the two leaders, talks will also be held with delegations.
+# sent_id = 2
+1	Apart	apart	ADV	RB	_	0	_	_	start_char=267|end_char=272
+2	from	from	ADP	IN	_	1	_	_	start_char=273|end_char=277
+3	talks	talk	NOUN	NNS	Number=Plur	2	_	_	start_char=278|end_char=283
+4	between	between	ADP	IN	_	3	_	_	start_char=284|end_char=291
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=292|end_char=295
+6	two	two	NUM	CD	NumForm=Word|NumType=Card	5	_	_	start_char=296|end_char=299
+7	leaders	leader	NOUN	NNS	Number=Plur	6	_	_	start_char=300|end_char=307|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=307|end_char=308
+9	talks	talk	NOUN	NNS	Number=Plur	8	_	_	start_char=309|end_char=314
+10	will	will	AUX	MD	VerbForm=Fin	9	_	_	start_char=315|end_char=319
+11	also	also	ADV	RB	_	10	_	_	start_char=320|end_char=324
+12	be	be	AUX	VB	VerbForm=Inf	11	_	_	start_char=325|end_char=327
+13	held	hold	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	12	_	_	start_char=328|end_char=332
+14	with	with	ADP	IN	_	13	_	_	start_char=333|end_char=337
+15	delegations	delegation	NOUN	NNS	Number=Plur	14	_	_	start_char=338|end_char=349|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=349|end_char=350
+
+# text = Prime Minister Modi arrived on a two-day visit to Russia on Monday for the 22nd India-Russia annual summit with President Putin.
+# sent_id = 3
+1	Prime	Prime	ADJ	NNP	Degree=Pos	0	_	_	start_char=351|end_char=356
+2	Minister	Minister	PROPN	NNP	Number=Sing	1	_	_	start_char=357|end_char=365
+3	Modi	Modi	PROPN	NNP	Number=Sing	2	_	_	start_char=366|end_char=370
+4	arrived	arrive	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=371|end_char=378
+5	on	on	ADP	IN	_	4	_	_	start_char=379|end_char=381
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=382|end_char=383
+7	two	two	NUM	CD	NumForm=Word|NumType=Card	6	_	_	start_char=384|end_char=387|SpaceAfter=No
+8	-	-	PUNCT	HYPH	_	7	_	_	start_char=387|end_char=388|SpaceAfter=No
+9	day	day	NOUN	NN	Number=Sing	8	_	_	start_char=388|end_char=391
+10	visit	visit	NOUN	NN	Number=Sing	9	_	_	start_char=392|end_char=397
+11	to	to	ADP	IN	_	10	_	_	start_char=398|end_char=400
+12	Russia	Russia	PROPN	NNP	Number=Sing	11	_	_	start_char=401|end_char=407
+13	on	on	ADP	IN	_	12	_	_	start_char=408|end_char=410
+14	Monday	Monday	PROPN	NNP	Number=Sing	13	_	_	start_char=411|end_char=417
+15	for	for	ADP	IN	_	14	_	_	start_char=418|end_char=421
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=422|end_char=425
+17	22nd	22nd	ADJ	JJ	Degree=Pos|NumType=Ord	16	_	_	start_char=426|end_char=430
+18	India	India	PROPN	NNP	Number=Sing	17	_	_	start_char=431|end_char=436|SpaceAfter=No
+19	-	-	PUNCT	HYPH	_	18	_	_	start_char=436|end_char=437|SpaceAfter=No
+20	Russia	Russia	PROPN	NNP	Number=Sing	19	_	_	start_char=437|end_char=443
+21	annual	annual	ADJ	JJ	Degree=Pos	20	_	_	start_char=444|end_char=450
+22	summit	summit	NOUN	NN	Number=Sing	21	_	_	start_char=451|end_char=457
+23	with	with	ADP	IN	_	22	_	_	start_char=458|end_char=462
+24	President	President	PROPN	NNP	Number=Sing	23	_	_	start_char=463|end_char=472
+25	Putin	Putin	PROPN	NNP	Number=Sing	24	_	_	start_char=473|end_char=478|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=478|end_char=479
+
+# text = Before the talks today, PM Modi also addressed the Indian community in Moscow.
+# sent_id = 4
+1	Before	before	ADP	IN	_	0	_	_	start_char=480|end_char=486
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=487|end_char=490
+3	talks	talk	NOUN	NNS	Number=Plur	2	_	_	start_char=491|end_char=496
+4	today	today	NOUN	NN	Number=Sing	3	_	_	start_char=497|end_char=502|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=502|end_char=503
+6	PM	p.m.	PROPN	NNP	Number=Sing	5	_	_	start_char=504|end_char=506
+7	Modi	Modi	PROPN	NNP	Number=Sing	6	_	_	start_char=507|end_char=511
+8	also	also	ADV	RB	_	7	_	_	start_char=512|end_char=516
+9	addressed	address	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=517|end_char=526
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=527|end_char=530
+11	Indian	Indian	ADJ	JJ	Degree=Pos	10	_	_	start_char=531|end_char=537
+12	community	community	NOUN	NN	Number=Sing	11	_	_	start_char=538|end_char=547
+13	in	in	ADP	IN	_	12	_	_	start_char=548|end_char=550
+14	Moscow	Moscow	PROPN	NNP	Number=Sing	13	_	_	start_char=551|end_char=557|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=557|end_char=558
+
+# text = These issues may be the focus of the PM Modi-Putin summit talks - Ukraine war may also be mentioned in the talks.
+# sent_id = 5
+1	These	this	DET	DT	Number=Plur|PronType=Dem	0	_	_	start_char=559|end_char=564
+2	issues	issue	NOUN	NNS	Number=Plur	1	_	_	start_char=565|end_char=571
+3	may	may	AUX	MD	VerbForm=Fin	2	_	_	start_char=572|end_char=575
+4	be	be	AUX	VB	VerbForm=Inf	3	_	_	start_char=576|end_char=578
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=579|end_char=582
+6	focus	focus	NOUN	NN	Number=Sing	5	_	_	start_char=583|end_char=588
+7	of	of	ADP	IN	_	6	_	_	start_char=589|end_char=591
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=592|end_char=595
+9	PM	p.m.	NOUN	NN	Number=Sing	8	_	_	start_char=596|end_char=598
+10	Modi-Putin	Modi-Putin	PROPN	NNP	Number=Sing	9	_	_	start_char=599|end_char=609
+11	summit	summit	NOUN	NN	Number=Sing	10	_	_	start_char=610|end_char=616
+12	talks	talk	NOUN	NNS	Number=Plur	11	_	_	start_char=617|end_char=622
+13	-	-	PUNCT	HYPH	_	12	_	_	start_char=623|end_char=624
+14	Ukraine	Ukraine	PROPN	NNP	Number=Sing	13	_	_	start_char=625|end_char=632
+15	war	war	NOUN	NN	Number=Sing	14	_	_	start_char=633|end_char=636
+16	may	may	AUX	MD	VerbForm=Fin	15	_	_	start_char=637|end_char=640
+17	also	also	ADV	RB	_	16	_	_	start_char=641|end_char=645
+18	be	be	AUX	VB	VerbForm=Inf	17	_	_	start_char=646|end_char=648
+19	mentioned	mention	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	18	_	_	start_char=649|end_char=658
+20	in	in	ADP	IN	_	19	_	_	start_char=659|end_char=661
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=662|end_char=665
+22	talks	talk	NOUN	NNS	Number=Plur	21	_	_	start_char=666|end_char=671|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=671|end_char=672
+
+# text = India may reaffirm its stance that dialogue and diplomacy are the only means to resolve the conflict.
+# sent_id = 6
+1	India	India	PROPN	NNP	Number=Sing	0	_	_	start_char=673|end_char=678
+2	may	may	AUX	MD	VerbForm=Fin	1	_	_	start_char=679|end_char=682
+3	reaffirm	reaffirm	VERB	VB	VerbForm=Inf	2	_	_	start_char=683|end_char=691
+4	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	_	_	start_char=692|end_char=695
+5	stance	stance	NOUN	NN	Number=Sing	4	_	_	start_char=696|end_char=702
+6	that	that	SCONJ	IN	_	5	_	_	start_char=703|end_char=707
+7	dialogue	dialogue	NOUN	NN	Number=Sing	6	_	_	start_char=708|end_char=716
+8	and	and	CCONJ	CC	_	7	_	_	start_char=717|end_char=720
+9	diplomacy	diplomacy	NOUN	NN	Number=Sing	8	_	_	start_char=721|end_char=730
+10	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=731|end_char=734
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=735|end_char=738
+12	only	only	ADJ	JJ	Degree=Pos	11	_	_	start_char=739|end_char=743
+13	means	means	NOUN	NNS	Number=Plur	12	_	_	start_char=744|end_char=749
+14	to	to	PART	TO	_	13	_	_	start_char=750|end_char=752
+15	resolve	resolve	VERB	VB	VerbForm=Inf	14	_	_	start_char=753|end_char=760
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=761|end_char=764
+17	conflict	conflict	NOUN	NN	Number=Sing	16	_	_	start_char=765|end_char=773|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=773|end_char=774
+
+# text = No solution can be found on the battlefield.
+# sent_id = 7
+1	No	no	DET	DT	_	0	_	_	start_char=775|end_char=777
+2	solution	solution	NOUN	NN	Number=Sing	1	_	_	start_char=778|end_char=786
+3	can	can	AUX	MD	VerbForm=Fin	2	_	_	start_char=787|end_char=790
+4	be	be	AUX	VB	VerbForm=Inf	3	_	_	start_char=791|end_char=793
+5	found	find	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	_	_	start_char=794|end_char=799
+6	on	on	ADP	IN	_	5	_	_	start_char=800|end_char=802
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=803|end_char=806
+8	battlefield	battlefield	NOUN	NN	Number=Sing	7	_	_	start_char=807|end_char=818|SpaceAfter=No
+9	.	.	PUNCT	.	_	8	_	_	start_char=818|end_char=819
+
+# text = According to s, during the talks, there will be an emphasis on advancing the economic agenda, especially in areas such as energy, trade, manufacturing and fertilizers.
+# sent_id = 8
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=820|end_char=829
+2	to	to	ADP	IN	_	1	_	_	start_char=830|end_char=832
+3	s	's	PART	POS	Typo=Yes	2	_	_	start_char=833|end_char=834|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=834|end_char=835
+5	during	during	ADP	IN	_	4	_	_	start_char=836|end_char=842
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=843|end_char=846
+7	talks	talk	NOUN	NNS	Number=Plur	6	_	_	start_char=847|end_char=852|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=852|end_char=853
+9	there	there	PRON	EX	_	8	_	_	start_char=854|end_char=859
+10	will	will	AUX	MD	VerbForm=Fin	9	_	_	start_char=860|end_char=864
+11	be	be	VERB	VB	VerbForm=Inf	10	_	_	start_char=865|end_char=867
+12	an	a	DET	DT	Definite=Ind|PronType=Art	11	_	_	start_char=868|end_char=870
+13	emphasis	emphasis	NOUN	NN	Number=Sing	12	_	_	start_char=871|end_char=879
+14	on	on	SCONJ	IN	_	13	_	_	start_char=880|end_char=882
+15	advancing	advance	VERB	VBG	VerbForm=Ger	14	_	_	start_char=883|end_char=892
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=893|end_char=896
+17	economic	economic	ADJ	JJ	Degree=Pos	16	_	_	start_char=897|end_char=905
+18	agenda	agenda	NOUN	NN	Number=Sing	17	_	_	start_char=906|end_char=912|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=912|end_char=913
+20	especially	especially	ADV	RB	_	19	_	_	start_char=914|end_char=924
+21	in	in	ADP	IN	_	20	_	_	start_char=925|end_char=927
+22	areas	area	NOUN	NNS	Number=Plur	21	_	_	start_char=928|end_char=933
+23	such	such	ADJ	JJ	Degree=Pos	22	_	_	start_char=934|end_char=938
+24	as	as	ADP	IN	_	23	_	_	start_char=939|end_char=941
+25	energy	energy	NOUN	NN	Number=Sing	24	_	_	start_char=942|end_char=948|SpaceAfter=No
+26	,	,	PUNCT	,	_	25	_	_	start_char=948|end_char=949
+27	trade	trade	NOUN	NN	Number=Sing	26	_	_	start_char=950|end_char=955|SpaceAfter=No
+28	,	,	PUNCT	,	_	27	_	_	start_char=955|end_char=956
+29	manufacturing	manufacturing	NOUN	NN	Number=Sing	28	_	_	start_char=957|end_char=970
+30	and	and	CCONJ	CC	_	29	_	_	start_char=971|end_char=974
+31	fertilizers	fertilizer	NOUN	NNS	Number=Plur	30	_	_	start_char=975|end_char=986|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=986|end_char=987
+
+# text = Investment relations are also growing between the two countries, which include the areas of banking, railways and steel.
+# sent_id = 9
+1	Investment	investment	NOUN	NN	Number=Sing	0	_	_	start_char=988|end_char=998
+2	relations	relation	NOUN	NNS	Number=Plur	1	_	_	start_char=999|end_char=1008
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1009|end_char=1012
+4	also	also	ADV	RB	_	3	_	_	start_char=1013|end_char=1017
+5	growing	grow	VERB	VBG	Tense=Pres|VerbForm=Part	4	_	_	start_char=1018|end_char=1025
+6	between	between	ADP	IN	_	5	_	_	start_char=1026|end_char=1033
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1034|end_char=1037
+8	two	two	NUM	CD	NumForm=Word|NumType=Card	7	_	_	start_char=1038|end_char=1041
+9	countries	country	NOUN	NNS	Number=Plur	8	_	_	start_char=1042|end_char=1051|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=1051|end_char=1052
+11	which	which	PRON	WDT	PronType=Rel	10	_	_	start_char=1053|end_char=1058
+12	include	include	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=1059|end_char=1066
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1067|end_char=1070
+14	areas	area	NOUN	NNS	Number=Plur	13	_	_	start_char=1071|end_char=1076
+15	of	of	ADP	IN	_	14	_	_	start_char=1077|end_char=1079
+16	banking	banking	NOUN	NN	Number=Sing	15	_	_	start_char=1080|end_char=1087|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=1087|end_char=1088
+18	railways	railway	NOUN	NNS	Number=Plur	17	_	_	start_char=1089|end_char=1097
+19	and	and	CCONJ	CC	_	18	_	_	start_char=1098|end_char=1101
+20	steel	steel	NOUN	NN	Number=Sing	19	_	_	start_char=1102|end_char=1107|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=1107|end_char=1108
+
+# text = Which can be strengthened further.
+# sent_id = 10
+1	Which	which	PRON	WDT	PronType=Int	0	_	_	start_char=1109|end_char=1114
+2	can	can	AUX	MD	VerbForm=Fin	1	_	_	start_char=1115|end_char=1118
+3	be	be	AUX	VB	VerbForm=Inf	2	_	_	start_char=1119|end_char=1121
+4	strengthened	strengthen	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=1122|end_char=1134
+5	further	further	ADV	RBR	Degree=Cmp	4	_	_	start_char=1135|end_char=1142|SpaceAfter=No
+6	.	.	PUNCT	.	_	5	_	_	start_char=1142|end_char=1143
+
+# text = Last year, more than 80 MMT of crude oil was imported from Russia.
+# sent_id = 11
+1	Last	last	ADJ	JJ	Degree=Pos	0	_	_	start_char=1144|end_char=1148
+2	year	year	NOUN	NN	Number=Sing	1	_	_	start_char=1149|end_char=1153|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=1153|end_char=1154
+4	more	more	ADJ	JJR	Degree=Cmp	3	_	_	start_char=1155|end_char=1159
+5	than	than	ADP	IN	_	4	_	_	start_char=1160|end_char=1164
+6	80	80	NUM	CD	NumForm=Digit|NumType=Card	5	_	_	start_char=1165|end_char=1167
+7	MMT	mmt	NOUN	NN	Number=Sing	6	_	_	start_char=1168|end_char=1171
+8	of	of	ADP	IN	_	7	_	_	start_char=1172|end_char=1174
+9	crude	crude	NOUN	NN	Number=Sing	8	_	_	start_char=1175|end_char=1180
+10	oil	oil	NOUN	NN	Number=Sing	9	_	_	start_char=1181|end_char=1184
+11	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=1185|end_char=1188
+12	imported	import	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	11	_	_	start_char=1189|end_char=1197
+13	from	from	ADP	IN	_	12	_	_	start_char=1198|end_char=1202
+14	Russia	Russia	PROPN	NNP	Number=Sing	13	_	_	start_char=1203|end_char=1209|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=1209|end_char=1210
+
+# text = Similarly, Russia is an important supplier of imported fertilizers.
+# sent_id = 12
+1	Similarly	similarly	ADV	RB	_	0	_	_	start_char=1211|end_char=1220|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=1220|end_char=1221
+3	Russia	Russia	PROPN	NNP	Number=Sing	2	_	_	start_char=1222|end_char=1228
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1229|end_char=1231
+5	an	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=1232|end_char=1234
+6	important	important	ADJ	JJ	Degree=Pos	5	_	_	start_char=1235|end_char=1244
+7	supplier	supplier	NOUN	NN	Number=Sing	6	_	_	start_char=1245|end_char=1253
+8	of	of	ADP	IN	_	7	_	_	start_char=1254|end_char=1256
+9	imported	import	VERB	VBN	Tense=Past|VerbForm=Part	8	_	_	start_char=1257|end_char=1265
+10	fertilizers	fertilizer	NOUN	NNS	Number=Plur	9	_	_	start_char=1266|end_char=1277|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=1277|end_char=1278
+
+# text = More than 48 lakh tonnes of fertilizers were imported from Russia last year.
+# sent_id = 13
+1	More	more	ADJ	JJR	Degree=Cmp	0	_	_	start_char=1279|end_char=1283
+2	than	than	ADP	IN	_	1	_	_	start_char=1284|end_char=1288
+3	48	48	NUM	CD	NumForm=Digit|NumType=Card	2	_	_	start_char=1289|end_char=1291
+4	lakh	lakh	NUM	CD	NumForm=Word|NumType=Card	3	_	_	start_char=1292|end_char=1296
+5	tonnes	tonne	NOUN	NNS	Number=Plur	4	_	_	start_char=1297|end_char=1303
+6	of	of	ADP	IN	_	5	_	_	start_char=1304|end_char=1306
+7	fertilizers	fertilizer	NOUN	NNS	Number=Plur	6	_	_	start_char=1307|end_char=1318
+8	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=1319|end_char=1323
+9	imported	import	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	_	_	start_char=1324|end_char=1332
+10	from	from	ADP	IN	_	9	_	_	start_char=1333|end_char=1337
+11	Russia	Russia	PROPN	NNP	Number=Sing	10	_	_	start_char=1338|end_char=1344
+12	last	last	ADJ	JJ	Degree=Pos	11	_	_	start_char=1345|end_char=1349
+13	year	year	NOUN	NN	Number=Sing	12	_	_	start_char=1350|end_char=1354|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=1354|end_char=1355
+
+# text = The supply of fertilizers is important for farmers.
+# sent_id = 14
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1356|end_char=1359
+2	supply	supply	NOUN	NN	Number=Sing	1	_	_	start_char=1360|end_char=1366
+3	of	of	ADP	IN	_	2	_	_	start_char=1367|end_char=1369
+4	fertilizers	fertilizer	NOUN	NNS	Number=Plur	3	_	_	start_char=1370|end_char=1381
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1382|end_char=1384
+6	important	important	ADJ	JJ	Degree=Pos	5	_	_	start_char=1385|end_char=1394
+7	for	for	ADP	IN	_	6	_	_	start_char=1395|end_char=1398
+8	farmers	farmer	NOUN	NNS	Number=Plur	7	_	_	start_char=1399|end_char=1406|SpaceAfter=No
+9	.	.	PUNCT	.	_	8	_	_	start_char=1406|end_char=1407
+
+# text = Russia has been an important partner to meet our energy requirements.
+# sent_id = 15
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=1408|end_char=1414
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1415|end_char=1418
+3	been	be	AUX	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=1419|end_char=1423
+4	an	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=1424|end_char=1426
+5	important	important	ADJ	JJ	Degree=Pos	4	_	_	start_char=1427|end_char=1436
+6	partner	partner	NOUN	NN	Number=Sing	5	_	_	start_char=1437|end_char=1444
+7	to	to	PART	TO	_	6	_	_	start_char=1445|end_char=1447
+8	meet	meet	VERB	VB	VerbForm=Inf	7	_	_	start_char=1448|end_char=1452
+9	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	8	_	_	start_char=1453|end_char=1456
+10	energy	energy	NOUN	NN	Number=Sing	9	_	_	start_char=1457|end_char=1463
+11	requirements	requirement	NOUN	NNS	Number=Plur	10	_	_	start_char=1464|end_char=1476|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=1476|end_char=1477
+
+# text = In the field of nuclear energy, units 1 and 2 of the Kudankulam Nuclear Power Plant have already been commissioned.
+# sent_id = 16
+1	In	in	ADP	IN	_	0	_	_	start_char=1478|end_char=1480
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=1481|end_char=1484
+3	field	field	NOUN	NN	Number=Sing	2	_	_	start_char=1485|end_char=1490
+4	of	of	ADP	IN	_	3	_	_	start_char=1491|end_char=1493
+5	nuclear	nuclear	ADJ	JJ	Degree=Pos	4	_	_	start_char=1494|end_char=1501
+6	energy	energy	NOUN	NN	Number=Sing	5	_	_	start_char=1502|end_char=1508|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=1508|end_char=1509
+8	units	unit	NOUN	NNS	Number=Plur	7	_	_	start_char=1510|end_char=1515
+9	1	1	NUM	CD	NumForm=Digit|NumType=Card	8	_	_	start_char=1516|end_char=1517
+10	and	and	CCONJ	CC	_	9	_	_	start_char=1518|end_char=1521
+11	2	2	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=1522|end_char=1523
+12	of	of	ADP	IN	_	11	_	_	start_char=1524|end_char=1526
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1527|end_char=1530
+14	Kudankulam	Kudankulam	PROPN	NNP	Number=Sing	13	_	_	start_char=1531|end_char=1541
+15	Nuclear	Nuclear	ADJ	NNP	Degree=Pos	14	_	_	start_char=1542|end_char=1549
+16	Power	Power	PROPN	NNP	Number=Sing	15	_	_	start_char=1550|end_char=1555
+17	Plant	Plant	PROPN	NNP	Number=Sing	16	_	_	start_char=1556|end_char=1561
+18	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=1562|end_char=1566
+19	already	already	ADV	RB	_	18	_	_	start_char=1567|end_char=1574
+20	been	be	AUX	VBN	Tense=Past|VerbForm=Part	19	_	_	start_char=1575|end_char=1579
+21	commissioned	commission	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	20	_	_	start_char=1580|end_char=1592|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=1592|end_char=1593
+
+# text = Work on units 3 and 6 is in progress.
+# sent_id = 17
+1	Work	work	VERB	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=1594|end_char=1598
+2	on	on	ADP	IN	_	1	_	_	start_char=1599|end_char=1601
+3	units	unit	NOUN	NNS	Number=Plur	2	_	_	start_char=1602|end_char=1607
+4	3	3	NUM	CD	NumForm=Digit|NumType=Card	3	_	_	start_char=1608|end_char=1609
+5	and	and	CCONJ	CC	_	4	_	_	start_char=1610|end_char=1613
+6	6	6	NUM	CD	NumForm=Digit|NumType=Card	5	_	_	start_char=1614|end_char=1615
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=1616|end_char=1618
+8	in	in	ADP	IN	_	7	_	_	start_char=1619|end_char=1621
+9	progress	progress	NOUN	NN	Number=Sing	8	_	_	start_char=1622|end_char=1630|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=1630|end_char=1631
+
+# text = In such a situation, there is a need to ensure fuel supply for two new upcoming nuclear power plants.
+# sent_id = 18
+1	In	in	ADP	IN	_	0	_	_	start_char=1632|end_char=1634
+2	such	such	DET	PDT	_	1	_	_	start_char=1635|end_char=1639
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=1640|end_char=1641
+4	situation	situation	NOUN	NN	Number=Sing	3	_	_	start_char=1642|end_char=1651|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=1651|end_char=1652
+6	there	there	PRON	EX	_	5	_	_	start_char=1653|end_char=1658
+7	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=1659|end_char=1661
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=1662|end_char=1663
+9	need	need	NOUN	NN	Number=Sing	8	_	_	start_char=1664|end_char=1668
+10	to	to	PART	TO	_	9	_	_	start_char=1669|end_char=1671
+11	ensure	ensure	VERB	VB	VerbForm=Inf	10	_	_	start_char=1672|end_char=1678
+12	fuel	fuel	NOUN	NN	Number=Sing	11	_	_	start_char=1679|end_char=1683
+13	supply	supply	NOUN	NN	Number=Sing	12	_	_	start_char=1684|end_char=1690
+14	for	for	ADP	IN	_	13	_	_	start_char=1691|end_char=1694
+15	two	two	NUM	CD	NumForm=Word|NumType=Card	14	_	_	start_char=1695|end_char=1698
+16	new	new	ADJ	JJ	Degree=Pos	15	_	_	start_char=1699|end_char=1702
+17	upcoming	upcoming	ADJ	JJ	Degree=Pos	16	_	_	start_char=1703|end_char=1711
+18	nuclear	nuclear	ADJ	JJ	Degree=Pos	17	_	_	start_char=1712|end_char=1719
+19	power	power	NOUN	NN	Number=Sing	18	_	_	start_char=1720|end_char=1725
+20	plants	plant	NOUN	NNS	Number=Plur	19	_	_	start_char=1726|end_char=1732|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=1732|end_char=1733
+
+# text = This can also be the center of talks on the agenda.
+# sent_id = 19
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1734|end_char=1738
+2	can	can	AUX	MD	VerbForm=Fin	1	_	_	start_char=1739|end_char=1742
+3	also	also	ADV	RB	_	2	_	_	start_char=1743|end_char=1747
+4	be	be	AUX	VB	VerbForm=Inf	3	_	_	start_char=1748|end_char=1750
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1751|end_char=1754
+6	center	center	NOUN	NN	Number=Sing	5	_	_	start_char=1755|end_char=1761
+7	of	of	ADP	IN	_	6	_	_	start_char=1762|end_char=1764
+8	talks	talk	NOUN	NNS	Number=Plur	7	_	_	start_char=1765|end_char=1770
+9	on	on	ADP	IN	_	8	_	_	start_char=1771|end_char=1773
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=1774|end_char=1777
+11	agenda	agenda	NOUN	NN	Number=Sing	10	_	_	start_char=1778|end_char=1784|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=1784|end_char=1785
+
+# text = These talks are held every year
+# sent_id = 20
+1	These	this	DET	DT	Number=Plur|PronType=Dem	0	_	_	start_char=1786|end_char=1791
+2	talks	talk	NOUN	NNS	Number=Plur	1	_	_	start_char=1792|end_char=1797
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1798|end_char=1801
+4	held	hold	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=1802|end_char=1806
+5	every	every	DET	DT	PronType=Tot	4	_	_	start_char=1807|end_char=1812
+6	year	year	NOUN	NN	Number=Sing	5	_	_	start_char=1813|end_char=1817
+
+# text = The annual summit between the Prime Minister of India and the President of Russia is the highest institutional dialogue process in the strategic partnership between the two countries.
+# sent_id = 21
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1818|end_char=1821
+2	annual	annual	ADJ	JJ	Degree=Pos	1	_	_	start_char=1822|end_char=1828
+3	summit	summit	NOUN	NN	Number=Sing	2	_	_	start_char=1829|end_char=1835
+4	between	between	ADP	IN	_	3	_	_	start_char=1836|end_char=1843
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1844|end_char=1847
+6	Prime	Prime	ADJ	NNP	Degree=Pos	5	_	_	start_char=1848|end_char=1853
+7	Minister	Minister	PROPN	NNP	Number=Sing	6	_	_	start_char=1854|end_char=1862
+8	of	of	ADP	IN	_	7	_	_	start_char=1863|end_char=1865
+9	India	India	PROPN	NNP	Number=Sing	8	_	_	start_char=1866|end_char=1871
+10	and	and	CCONJ	CC	_	9	_	_	start_char=1872|end_char=1875
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=1876|end_char=1879
+12	President	President	PROPN	NNP	Number=Sing	11	_	_	start_char=1880|end_char=1889
+13	of	of	ADP	IN	_	12	_	_	start_char=1890|end_char=1892
+14	Russia	Russia	PROPN	NNP	Number=Sing	13	_	_	start_char=1893|end_char=1899
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=1900|end_char=1902
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=1903|end_char=1906
+17	highest	high	ADJ	JJS	Degree=Sup	16	_	_	start_char=1907|end_char=1914
+18	institutional	institutional	ADJ	JJ	Degree=Pos	17	_	_	start_char=1915|end_char=1928
+19	dialogue	dialogue	NOUN	NN	Number=Sing	18	_	_	start_char=1929|end_char=1937
+20	process	process	NOUN	NN	Number=Sing	19	_	_	start_char=1938|end_char=1945
+21	in	in	ADP	IN	_	20	_	_	start_char=1946|end_char=1948
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=1949|end_char=1952
+23	strategic	strategic	ADJ	JJ	Degree=Pos	22	_	_	start_char=1953|end_char=1962
+24	partnership	partnership	NOUN	NN	Number=Sing	23	_	_	start_char=1963|end_char=1974
+25	between	between	ADP	IN	_	24	_	_	start_char=1975|end_char=1982
+26	the	the	DET	DT	Definite=Def|PronType=Art	25	_	_	start_char=1983|end_char=1986
+27	two	two	NUM	CD	NumForm=Word|NumType=Card	26	_	_	start_char=1987|end_char=1990
+28	countries	country	NOUN	NNS	Number=Plur	27	_	_	start_char=1991|end_char=2000|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=2000|end_char=2001
+
+# text = The annual summit is held once each in India and Russia.
+# sent_id = 22
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2002|end_char=2005
+2	annual	annual	ADJ	JJ	Degree=Pos	1	_	_	start_char=2006|end_char=2012
+3	summit	summit	NOUN	NN	Number=Sing	2	_	_	start_char=2013|end_char=2019
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=2020|end_char=2022
+5	held	hold	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	_	_	start_char=2023|end_char=2027
+6	once	once	ADV	RB	NumType=Mult	5	_	_	start_char=2028|end_char=2032
+7	each	each	DET	DT	_	6	_	_	start_char=2033|end_char=2037
+8	in	in	ADP	IN	_	7	_	_	start_char=2038|end_char=2040
+9	India	India	PROPN	NNP	Number=Sing	8	_	_	start_char=2041|end_char=2046
+10	and	and	CCONJ	CC	_	9	_	_	start_char=2047|end_char=2050
+11	Russia	Russia	PROPN	NNP	Number=Sing	10	_	_	start_char=2051|end_char=2057|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=2057|end_char=2058
+
+# text = The last summit was held in New Delhi on 6 December 2021.
+# sent_id = 23
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2059|end_char=2062
+2	last	last	ADJ	JJ	Degree=Pos	1	_	_	start_char=2063|end_char=2067
+3	summit	summit	NOUN	NN	Number=Sing	2	_	_	start_char=2068|end_char=2074
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=2075|end_char=2078
+5	held	hold	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	_	_	start_char=2079|end_char=2083
+6	in	in	ADP	IN	_	5	_	_	start_char=2084|end_char=2086
+7	New	New	ADJ	NNP	Degree=Pos	6	_	_	start_char=2087|end_char=2090
+8	Delhi	Delhi	PROPN	NNP	Number=Sing	7	_	_	start_char=2091|end_char=2096
+9	on	on	ADP	IN	_	8	_	_	start_char=2097|end_char=2099
+10	6	6	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=2100|end_char=2101
+11	December	December	PROPN	NNP	Number=Sing	10	_	_	start_char=2102|end_char=2110
+12	2021	2021	NUM	CD	NumForm=Digit|NumType=Card	11	_	_	start_char=2111|end_char=2115|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=2115|end_char=2116
+
+# text = President Putin came to India to participate in it.
+# sent_id = 24
+1	President	President	PROPN	NNP	Number=Sing	0	_	_	start_char=2117|end_char=2126
+2	Putin	Putin	PROPN	NNP	Number=Sing	1	_	_	start_char=2127|end_char=2132
+3	came	come	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=2133|end_char=2137
+4	to	to	ADP	IN	_	3	_	_	start_char=2138|end_char=2140
+5	India	India	PROPN	NNP	Number=Sing	4	_	_	start_char=2141|end_char=2146
+6	to	to	PART	TO	_	5	_	_	start_char=2147|end_char=2149
+7	participate	participate	VERB	VB	VerbForm=Inf	6	_	_	start_char=2150|end_char=2161
+8	in	in	ADP	IN	_	7	_	_	start_char=2162|end_char=2164
+9	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	_	_	start_char=2165|end_char=2167|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=2167|end_char=2168
+
+# text = (With language input) Video: PM Modi Russia Visit | &#39;Today&#39;s India achieves every goal it sets&#39;: PM&#39;s full speech in Russia Track the latest news on NDTV.in and get news updates from across the country and around the world
+# sent_id = 25
+1	(	(	PUNCT	-LRB-	_	0	_	_	start_char=2169|end_char=2170|SpaceAfter=No
+2	With	with	ADP	IN	_	1	_	_	start_char=2170|end_char=2174
+3	language	language	NOUN	NN	Number=Sing	2	_	_	start_char=2175|end_char=2183
+4	input	input	NOUN	NN	Number=Sing	3	_	_	start_char=2184|end_char=2189|SpaceAfter=No
+5	)	)	PUNCT	-RRB-	_	4	_	_	start_char=2189|end_char=2190
+6	Video	video	NOUN	NN	Number=Sing	5	_	_	start_char=2191|end_char=2196|SpaceAfter=No
+7	:	:	PUNCT	:	_	6	_	_	start_char=2196|end_char=2197
+8	PM	p.m.	NOUN	NN	Number=Sing	7	_	_	start_char=2198|end_char=2200
+9	Modi	Modi	PROPN	NNP	Number=Sing	8	_	_	start_char=2201|end_char=2205
+10	Russia	Russia	PROPN	NNP	Number=Sing	9	_	_	start_char=2206|end_char=2212
+11	Visit	visit	NOUN	NN	Number=Sing	10	_	_	start_char=2213|end_char=2218
+12	|	|	PUNCT	NFP	_	11	_	_	start_char=2219|end_char=2220
+13	&#39;Today&#39	&#39;today&#39	NOUN	NN	Number=Sing	12	_	_	start_char=2221|end_char=2235|SpaceAfter=No
+14	;	;	PUNCT	:	_	13	_	_	start_char=2235|end_char=2236|SpaceAfter=No
+15	s	's	PART	POS	Typo=Yes	14	_	_	start_char=2236|end_char=2237
+16	India	India	PROPN	NNP	Number=Sing	15	_	_	start_char=2238|end_char=2243
+17	achieves	achieve	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=2244|end_char=2252
+18	every	every	DET	DT	_	17	_	_	start_char=2253|end_char=2258
+19	goal	goal	NOUN	NN	Number=Sing	18	_	_	start_char=2259|end_char=2263
+20	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	19	_	_	start_char=2264|end_char=2266
+21	sets&#39	sets&#39	NOUN	NN	Number=Sing	20	_	_	start_char=2267|end_char=2275|SpaceAfter=No
+22	;	;	PUNCT	:	_	21	_	_	start_char=2275|end_char=2276|SpaceAfter=No
+23	:	:	PUNCT	:	_	22	_	_	start_char=2276|end_char=2277
+24	PM&#39	PM&#39	PROPN	NNP	Number=Sing	23	_	_	start_char=2278|end_char=2284|SpaceAfter=No
+25	;	;	PUNCT	:	_	24	_	_	start_char=2284|end_char=2285|SpaceAfter=No
+26	s	's	PART	POS	Typo=Yes	25	_	_	start_char=2285|end_char=2286
+27	full	full	ADJ	JJ	Degree=Pos	26	_	_	start_char=2287|end_char=2291
+28	speech	speech	NOUN	NN	Number=Sing	27	_	_	start_char=2292|end_char=2298
+29	in	in	ADP	IN	_	28	_	_	start_char=2299|end_char=2301
+30	Russia	Russia	PROPN	NNP	Number=Sing	29	_	_	start_char=2302|end_char=2308
+31	Track	track	NOUN	NN	Number=Sing	30	_	_	start_char=2309|end_char=2314
+32	the	the	DET	DT	Definite=Def|PronType=Art	31	_	_	start_char=2315|end_char=2318
+33	latest	late	ADJ	JJS	Degree=Sup	32	_	_	start_char=2319|end_char=2325
+34	news	news	NOUN	NN	Number=Sing	33	_	_	start_char=2326|end_char=2330
+35	on	on	ADP	IN	_	34	_	_	start_char=2331|end_char=2333
+36	NDTV.in	NDTV.in	PROPN	NNP	Number=Sing	35	_	_	start_char=2334|end_char=2341
+37	and	and	CCONJ	CC	_	36	_	_	start_char=2342|end_char=2345
+38	get	get	VERB	VB	VerbForm=Inf	37	_	_	start_char=2346|end_char=2349
+39	news	news	NOUN	NN	Number=Sing	38	_	_	start_char=2350|end_char=2354
+40	updates	update	NOUN	NNS	Number=Plur	39	_	_	start_char=2355|end_char=2362
+41	from	from	ADP	IN	_	40	_	_	start_char=2363|end_char=2367
+42	across	across	ADP	IN	_	41	_	_	start_char=2368|end_char=2374
+43	the	the	DET	DT	Definite=Def|PronType=Art	42	_	_	start_char=2375|end_char=2378
+44	country	country	NOUN	NN	Number=Sing	43	_	_	start_char=2379|end_char=2386
+45	and	and	CCONJ	CC	_	44	_	_	start_char=2387|end_char=2390
+46	around	around	ADP	IN	_	45	_	_	start_char=2391|end_char=2397
+47	the	the	DET	DT	Definite=Def|PronType=Art	46	_	_	start_char=2398|end_char=2401
+48	world	world	NOUN	NN	Number=Sing	47	_	_	start_char=2402|end_char=2407|SpaceAfter=No
+

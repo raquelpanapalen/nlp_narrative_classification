@@ -1,0 +1,447 @@
+# text = Russia, which has been fighting a war with Ukraine for nearly two years, has suffered a major setback in Mali.
+# sent_id = 0
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=6|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=6|end_char=7
+3	which	which	PRON	WDT	PronType=Rel	2	_	_	start_char=8|end_char=13
+4	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=14|end_char=17
+5	been	be	AUX	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=18|end_char=22
+6	fighting	fight	VERB	VBG	Tense=Pres|VerbForm=Part	5	_	_	start_char=23|end_char=31
+7	a	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=32|end_char=33
+8	war	war	NOUN	NN	Number=Sing	7	_	_	start_char=34|end_char=37
+9	with	with	ADP	IN	_	8	_	_	start_char=38|end_char=42
+10	Ukraine	Ukraine	PROPN	NNP	Number=Sing	9	_	_	start_char=43|end_char=50
+11	for	for	ADP	IN	_	10	_	_	start_char=51|end_char=54
+12	nearly	nearly	ADV	RB	_	11	_	_	start_char=55|end_char=61
+13	two	two	NUM	CD	NumForm=Word|NumType=Card	12	_	_	start_char=62|end_char=65
+14	years	year	NOUN	NNS	Number=Plur	13	_	_	start_char=66|end_char=71|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=71|end_char=72
+16	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=73|end_char=76
+17	suffered	suffer	VERB	VBN	Tense=Past|VerbForm=Part	16	_	_	start_char=77|end_char=85
+18	a	a	DET	DT	Definite=Ind|PronType=Art	17	_	_	start_char=86|end_char=87
+19	major	major	ADJ	JJ	Degree=Pos	18	_	_	start_char=88|end_char=93
+20	setback	setback	NOUN	NN	Number=Sing	19	_	_	start_char=94|end_char=101
+21	in	in	ADP	IN	_	20	_	_	start_char=102|end_char=104
+22	Mali	Mali	PROPN	NNP	Number=Sing	21	_	_	start_char=105|end_char=109|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=109|end_char=110
+
+# text = Mali&#39;s rebels have brutally killed 84 fighters of Russia&#39;s private army group.
+# sent_id = 1
+1	Mali&	Mali&	PROPN	NNP	Number=Sing	0	_	_	start_char=111|end_char=116|SpaceAfter=No
+2	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	1	_	_	start_char=116|end_char=119|SpaceAfter=No
+3	;	;	PUNCT	:	_	2	_	_	start_char=119|end_char=120|SpaceAfter=No
+4	s	's	PART	POS	Typo=Yes	3	_	_	start_char=120|end_char=121
+5	rebels	rebel	NOUN	NNS	Number=Plur	4	_	_	start_char=122|end_char=128
+6	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=129|end_char=133
+7	brutally	brutally	ADV	RB	_	6	_	_	start_char=134|end_char=142
+8	killed	kill	VERB	VBN	Tense=Past|VerbForm=Part	7	_	_	start_char=143|end_char=149
+9	84	84	NUM	CD	NumForm=Digit|NumType=Card	8	_	_	start_char=150|end_char=152
+10	fighters	fighter	NOUN	NNS	Number=Plur	9	_	_	start_char=153|end_char=161
+11	of	of	ADP	IN	_	10	_	_	start_char=162|end_char=164
+12	Russia&	Russia&	PROPN	NNP	Number=Sing	11	_	_	start_char=165|end_char=172|SpaceAfter=No
+13	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	12	_	_	start_char=172|end_char=175|SpaceAfter=No
+14	;	;	PUNCT	:	_	13	_	_	start_char=175|end_char=176|SpaceAfter=No
+15	s	's	PART	POS	Typo=Yes	14	_	_	start_char=176|end_char=177
+16	private	private	ADJ	JJ	Degree=Pos	15	_	_	start_char=178|end_char=185
+17	army	army	NOUN	NN	Number=Sing	16	_	_	start_char=186|end_char=190
+18	group	group	NOUN	NN	Number=Sing	17	_	_	start_char=191|end_char=196|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=196|end_char=197
+
+# text = Along with Wagner fighters, 47 soldiers of the Mali army have also been killed.
+# sent_id = 2
+1	Along	along	ADP	IN	_	0	_	_	start_char=198|end_char=203
+2	with	with	ADP	IN	_	1	_	_	start_char=204|end_char=208
+3	Wagner	Wagner	PROPN	NNP	Number=Sing	2	_	_	start_char=209|end_char=215
+4	fighters	fighter	NOUN	NNS	Number=Plur	3	_	_	start_char=216|end_char=224|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=224|end_char=225
+6	47	47	NUM	CD	NumForm=Digit|NumType=Card	5	_	_	start_char=226|end_char=228
+7	soldiers	soldier	NOUN	NNS	Number=Plur	6	_	_	start_char=229|end_char=237
+8	of	of	ADP	IN	_	7	_	_	start_char=238|end_char=240
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=241|end_char=244
+10	Mali	Mali	PROPN	NNP	Number=Sing	9	_	_	start_char=245|end_char=249
+11	army	army	NOUN	NN	Number=Sing	10	_	_	start_char=250|end_char=254
+12	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=255|end_char=259
+13	also	also	ADV	RB	_	12	_	_	start_char=260|end_char=264
+14	been	be	AUX	VBN	Tense=Past|VerbForm=Part	13	_	_	start_char=265|end_char=269
+15	killed	kill	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	_	_	start_char=270|end_char=276|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=276|end_char=277
+
+# text = This clash between Wagner fighters and Mali&#39;s rebels took place on the Algerian border between July 25 and July 27.
+# sent_id = 3
+1	This	this	DET	DT	Number=Sing|PronType=Dem	0	_	_	start_char=278|end_char=282
+2	clash	clash	NOUN	NN	Number=Sing	1	_	_	start_char=283|end_char=288
+3	between	between	ADP	IN	_	2	_	_	start_char=289|end_char=296
+4	Wagner	Wagner	PROPN	NNP	Number=Sing	3	_	_	start_char=297|end_char=303
+5	fighters	fighter	NOUN	NNS	Number=Plur	4	_	_	start_char=304|end_char=312
+6	and	and	CCONJ	CC	_	5	_	_	start_char=313|end_char=316
+7	Mali&	Mali&	PROPN	NNP	Number=Sing	6	_	_	start_char=317|end_char=322|SpaceAfter=No
+8	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	7	_	_	start_char=322|end_char=325|SpaceAfter=No
+9	;	;	PUNCT	:	_	8	_	_	start_char=325|end_char=326|SpaceAfter=No
+10	s	's	PART	POS	Typo=Yes	9	_	_	start_char=326|end_char=327
+11	rebels	rebel	NOUN	NNS	Number=Plur	10	_	_	start_char=328|end_char=334
+12	took	take	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=335|end_char=339
+13	place	place	NOUN	NN	Number=Sing	12	_	_	start_char=340|end_char=345
+14	on	on	ADP	IN	_	13	_	_	start_char=346|end_char=348
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=349|end_char=352
+16	Algerian	Algerian	ADJ	JJ	Degree=Pos	15	_	_	start_char=353|end_char=361
+17	border	border	NOUN	NN	Number=Sing	16	_	_	start_char=362|end_char=368
+18	between	between	ADP	IN	_	17	_	_	start_char=369|end_char=376
+19	July	July	PROPN	NNP	Number=Sing	18	_	_	start_char=377|end_char=381
+20	25	25	NUM	CD	NumForm=Digit|NumType=Card	19	_	_	start_char=382|end_char=384
+21	and	and	CCONJ	CC	_	20	_	_	start_char=385|end_char=388
+22	July	July	PROPN	NNP	Number=Sing	21	_	_	start_char=389|end_char=393
+23	27	27	NUM	CD	NumForm=Digit|NumType=Card	22	_	_	start_char=394|end_char=396|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=396|end_char=397
+
+# text = According to the AFP report, separatists led by Mali&#39;s barbaric ethnic group Tuareg said that they had an encounter with Wagner fighters and Malian soldiers in a military camp.
+# sent_id = 4
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=398|end_char=407
+2	to	to	ADP	IN	_	1	_	_	start_char=408|end_char=410
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=411|end_char=414
+4	AFP	AFP	PROPN	NNP	Number=Sing	3	_	_	start_char=415|end_char=418
+5	report	report	NOUN	NN	Number=Sing	4	_	_	start_char=419|end_char=425|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=425|end_char=426
+7	separatists	separatist	NOUN	NNS	Number=Plur	6	_	_	start_char=427|end_char=438
+8	led	lead	VERB	VBN	Tense=Past|VerbForm=Part	7	_	_	start_char=439|end_char=442
+9	by	by	ADP	IN	_	8	_	_	start_char=443|end_char=445
+10	Mali&	Mali&	PROPN	NNP	Number=Sing	9	_	_	start_char=446|end_char=451|SpaceAfter=No
+11	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=451|end_char=454|SpaceAfter=No
+12	;	;	PUNCT	:	_	11	_	_	start_char=454|end_char=455|SpaceAfter=No
+13	s	's	PART	POS	Typo=Yes	12	_	_	start_char=455|end_char=456
+14	barbaric	barbaric	ADJ	JJ	Degree=Pos	13	_	_	start_char=457|end_char=465
+15	ethnic	ethnic	ADJ	JJ	Degree=Pos	14	_	_	start_char=466|end_char=472
+16	group	group	NOUN	NN	Number=Sing	15	_	_	start_char=473|end_char=478
+17	Tuareg	Tuareg	PROPN	NNP	Number=Sing	16	_	_	start_char=479|end_char=485
+18	said	say	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	17	_	_	start_char=486|end_char=490
+19	that	that	SCONJ	IN	_	18	_	_	start_char=491|end_char=495
+20	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	19	_	_	start_char=496|end_char=500
+21	had	have	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	20	_	_	start_char=501|end_char=504
+22	an	a	DET	DT	Definite=Ind|PronType=Art	21	_	_	start_char=505|end_char=507
+23	encounter	encounter	NOUN	NN	Number=Sing	22	_	_	start_char=508|end_char=517
+24	with	with	ADP	IN	_	23	_	_	start_char=518|end_char=522
+25	Wagner	Wagner	PROPN	NNP	Number=Sing	24	_	_	start_char=523|end_char=529
+26	fighters	fighter	NOUN	NNS	Number=Plur	25	_	_	start_char=530|end_char=538
+27	and	and	CCONJ	CC	_	26	_	_	start_char=539|end_char=542
+28	Malian	Malian	ADJ	JJ	Degree=Pos	27	_	_	start_char=543|end_char=549
+29	soldiers	soldier	NOUN	NNS	Number=Plur	28	_	_	start_char=550|end_char=558
+30	in	in	ADP	IN	_	29	_	_	start_char=559|end_char=561
+31	a	a	DET	DT	Definite=Ind|PronType=Art	30	_	_	start_char=562|end_char=563
+32	military	military	ADJ	JJ	Degree=Pos	31	_	_	start_char=564|end_char=572
+33	camp	camp	NOUN	NN	Number=Sing	32	_	_	start_char=573|end_char=577|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=577|end_char=578
+
+# text = Mali&#39;s separatist alliance Azawad (CSP-DPA) said that along with inflicting heavy damage to Wagner fighters, 30 fighters were airlifted to the city of Kidal.
+# sent_id = 5
+1	Mali&	Mali&	PROPN	NNP	Number=Sing	0	_	_	start_char=579|end_char=584|SpaceAfter=No
+2	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	1	_	_	start_char=584|end_char=587|SpaceAfter=No
+3	;	;	PUNCT	:	_	2	_	_	start_char=587|end_char=588|SpaceAfter=No
+4	s	's	PART	POS	Typo=Yes	3	_	_	start_char=588|end_char=589
+5	separatist	separatist	NOUN	NN	Number=Sing	4	_	_	start_char=590|end_char=600
+6	alliance	alliance	NOUN	NN	Number=Sing	5	_	_	start_char=601|end_char=609
+7	Azawad	Azawad	PROPN	NNP	Number=Sing	6	_	_	start_char=610|end_char=616
+8	(	(	PUNCT	-LRB-	_	7	_	_	start_char=617|end_char=618|SpaceAfter=No
+9	CSP	CSP	PROPN	NNP	Number=Sing	8	_	_	start_char=618|end_char=621|SpaceAfter=No
+10	-	-	PUNCT	HYPH	_	9	_	_	start_char=621|end_char=622|SpaceAfter=No
+11	DPA	DPA	PROPN	NNP	Number=Sing	10	_	_	start_char=622|end_char=625|SpaceAfter=No
+12	)	)	PUNCT	-RRB-	_	11	_	_	start_char=625|end_char=626
+13	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=627|end_char=631
+14	that	that	SCONJ	IN	_	13	_	_	start_char=632|end_char=636
+15	along	along	ADP	IN	_	14	_	_	start_char=637|end_char=642
+16	with	with	SCONJ	IN	_	15	_	_	start_char=643|end_char=647
+17	inflicting	inflict	VERB	VBG	VerbForm=Ger	16	_	_	start_char=648|end_char=658
+18	heavy	heavy	ADJ	JJ	Degree=Pos	17	_	_	start_char=659|end_char=664
+19	damage	damage	NOUN	NN	Number=Sing	18	_	_	start_char=665|end_char=671
+20	to	to	ADP	IN	_	19	_	_	start_char=672|end_char=674
+21	Wagner	Wagner	PROPN	NNP	Number=Sing	20	_	_	start_char=675|end_char=681
+22	fighters	fighter	NOUN	NNS	Number=Plur	21	_	_	start_char=682|end_char=690|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=690|end_char=691
+24	30	30	NUM	CD	NumForm=Digit|NumType=Card	23	_	_	start_char=692|end_char=694
+25	fighters	fighter	NOUN	NNS	Number=Plur	24	_	_	start_char=695|end_char=703
+26	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	25	_	_	start_char=704|end_char=708
+27	airlifted	airlift	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	26	_	_	start_char=709|end_char=718
+28	to	to	ADP	IN	_	27	_	_	start_char=719|end_char=721
+29	the	the	DET	DT	Definite=Def|PronType=Art	28	_	_	start_char=722|end_char=725
+30	city	city	NOUN	NN	Number=Sing	29	_	_	start_char=726|end_char=730
+31	of	of	ADP	IN	_	30	_	_	start_char=731|end_char=733
+32	Kidal	Kidal	PROPN	NNP	Number=Sing	31	_	_	start_char=734|end_char=739|SpaceAfter=No
+33	.	.	PUNCT	.	_	32	_	_	start_char=739|end_char=740
+
+# text = Some of them were dead and some were seriously injured.
+# sent_id = 6
+1	Some	some	DET	DT	_	0	_	_	start_char=741|end_char=745
+2	of	of	ADP	IN	_	1	_	_	start_char=746|end_char=748
+3	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	_	_	start_char=749|end_char=753
+4	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=754|end_char=758
+5	dead	dead	ADJ	JJ	Degree=Pos	4	_	_	start_char=759|end_char=763
+6	and	and	CCONJ	CC	_	5	_	_	start_char=764|end_char=767
+7	some	some	DET	DT	_	6	_	_	start_char=768|end_char=772
+8	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=773|end_char=777
+9	seriously	seriously	ADV	RB	_	8	_	_	start_char=778|end_char=787
+10	injured	injure	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	9	_	_	start_char=788|end_char=795|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=795|end_char=796
+
+# text = Burnt bodies found in armored vehicles
+# sent_id = 7
+1	Burnt	burnt	ADJ	JJ	Degree=Pos	0	_	_	start_char=797|end_char=802
+2	bodies	body	NOUN	NNS	Number=Plur	1	_	_	start_char=803|end_char=809
+3	found	find	VERB	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=810|end_char=815
+4	in	in	ADP	IN	_	3	_	_	start_char=816|end_char=818
+5	armored	armored	ADJ	JJ	Degree=Pos	4	_	_	start_char=819|end_char=826
+6	vehicles	vehicle	NOUN	NNS	Number=Plur	5	_	_	start_char=827|end_char=835
+
+# text = The rebels said that they have also found some burnt bodies from inside armored vehicles and trucks.
+# sent_id = 8
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=836|end_char=839
+2	rebels	rebel	NOUN	NNS	Number=Plur	1	_	_	start_char=840|end_char=846
+3	said	say	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=847|end_char=851
+4	that	that	SCONJ	IN	_	3	_	_	start_char=852|end_char=856
+5	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	_	_	start_char=857|end_char=861
+6	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=862|end_char=866
+7	also	also	ADV	RB	_	6	_	_	start_char=867|end_char=871
+8	found	find	VERB	VBN	Tense=Past|VerbForm=Part	7	_	_	start_char=872|end_char=877
+9	some	some	DET	DT	_	8	_	_	start_char=878|end_char=882
+10	burnt	burn	VERB	VBN	Tense=Past|VerbForm=Part	9	_	_	start_char=883|end_char=888
+11	bodies	body	NOUN	NNS	Number=Plur	10	_	_	start_char=889|end_char=895
+12	from	from	ADP	IN	_	11	_	_	start_char=896|end_char=900
+13	inside	inside	ADP	IN	_	12	_	_	start_char=901|end_char=907
+14	armored	armored	ADJ	JJ	Degree=Pos	13	_	_	start_char=908|end_char=915
+15	vehicles	vehicle	NOUN	NNS	Number=Plur	14	_	_	start_char=916|end_char=924
+16	and	and	CCONJ	CC	_	15	_	_	start_char=925|end_char=928
+17	trucks	truck	NOUN	NNS	Number=Plur	16	_	_	start_char=929|end_char=935|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=935|end_char=936
+
+# text = Mali&#39;s rebels claim that they have 7 fighters of the Wagner Group and the Mali government as hostages.
+# sent_id = 9
+1	Mali&	Mali&	PROPN	NNP	Number=Sing	0	_	_	start_char=937|end_char=942|SpaceAfter=No
+2	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	1	_	_	start_char=942|end_char=945|SpaceAfter=No
+3	;	;	PUNCT	:	_	2	_	_	start_char=945|end_char=946|SpaceAfter=No
+4	s	's	PART	POS	Typo=Yes	3	_	_	start_char=946|end_char=947
+5	rebels	rebel	NOUN	NNS	Number=Plur	4	_	_	start_char=948|end_char=954
+6	claim	claim	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=955|end_char=960
+7	that	that	SCONJ	IN	_	6	_	_	start_char=961|end_char=965
+8	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	_	_	start_char=966|end_char=970
+9	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=971|end_char=975
+10	7	7	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=976|end_char=977
+11	fighters	fighter	NOUN	NNS	Number=Plur	10	_	_	start_char=978|end_char=986
+12	of	of	ADP	IN	_	11	_	_	start_char=987|end_char=989
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=990|end_char=993
+14	Wagner	Wagner	PROPN	NNP	Number=Sing	13	_	_	start_char=994|end_char=1000
+15	Group	Group	PROPN	NNP	Number=Sing	14	_	_	start_char=1001|end_char=1006
+16	and	and	CCONJ	CC	_	15	_	_	start_char=1007|end_char=1010
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=1011|end_char=1014
+18	Mali	Mali	PROPN	NNP	Number=Sing	17	_	_	start_char=1015|end_char=1019
+19	government	government	NOUN	NN	Number=Sing	18	_	_	start_char=1020|end_char=1030
+20	as	as	ADP	IN	_	19	_	_	start_char=1031|end_char=1033
+21	hostages	hostage	NOUN	NNS	Number=Plur	20	_	_	start_char=1034|end_char=1042|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=1042|end_char=1043
+
+# text = They have also admitted that 9 of their rebels have been killed.
+# sent_id = 10
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=1044|end_char=1048
+2	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1049|end_char=1053
+3	also	also	ADV	RB	_	2	_	_	start_char=1054|end_char=1058
+4	admitted	admit	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=1059|end_char=1067
+5	that	that	SCONJ	IN	_	4	_	_	start_char=1068|end_char=1072
+6	9	9	NUM	CD	NumForm=Digit|NumType=Card	5	_	_	start_char=1073|end_char=1074
+7	of	of	ADP	IN	_	6	_	_	start_char=1075|end_char=1077
+8	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	7	_	_	start_char=1078|end_char=1083
+9	rebels	rebel	NOUN	NNS	Number=Plur	8	_	_	start_char=1084|end_char=1090
+10	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=1091|end_char=1095
+11	been	be	AUX	VBN	Tense=Past|VerbForm=Part	10	_	_	start_char=1096|end_char=1100
+12	killed	kill	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	11	_	_	start_char=1101|end_char=1107|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=1107|end_char=1108
+
+# text = This organization took responsibility for the attack Jamaat Nusrat al-Islam wal Muslimeen (JNIM), an organization associated with Al-Qaeda, has taken responsibility for the attack on the Wagner Group.
+# sent_id = 11
+1	This	this	DET	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1109|end_char=1113
+2	organization	organization	NOUN	NN	Number=Sing	1	_	_	start_char=1114|end_char=1126
+3	took	take	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1127|end_char=1131
+4	responsibility	responsibility	NOUN	NN	Number=Sing	3	_	_	start_char=1132|end_char=1146
+5	for	for	ADP	IN	_	4	_	_	start_char=1147|end_char=1150
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1151|end_char=1154
+7	attack	attack	NOUN	NN	Number=Sing	6	_	_	start_char=1155|end_char=1161
+8	Jamaat	Jamaat	PROPN	NNP	Number=Sing	7	_	_	start_char=1162|end_char=1168
+9	Nusrat	Nusrat	PROPN	NNP	Number=Sing	8	_	_	start_char=1169|end_char=1175
+10	al	al	PROPN	NNP	Number=Sing	9	_	_	start_char=1176|end_char=1178|SpaceAfter=No
+11	-	-	PUNCT	HYPH	_	10	_	_	start_char=1178|end_char=1179|SpaceAfter=No
+12	Islam	Islam	PROPN	NNP	Number=Sing	11	_	_	start_char=1179|end_char=1184
+13	wal	wal	PROPN	NNP	Number=Sing	12	_	_	start_char=1185|end_char=1188
+14	Muslimeen	Muslimeen	PROPN	NNP	Number=Sing	13	_	_	start_char=1189|end_char=1198
+15	(	(	PUNCT	-LRB-	_	14	_	_	start_char=1199|end_char=1200|SpaceAfter=No
+16	JNIM	JNIM	PROPN	NNP	Number=Sing	15	_	_	start_char=1200|end_char=1204|SpaceAfter=No
+17	)	)	PUNCT	-RRB-	_	16	_	_	start_char=1204|end_char=1205|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=1205|end_char=1206
+19	an	a	DET	DT	Definite=Ind|PronType=Art	18	_	_	start_char=1207|end_char=1209
+20	organization	organization	NOUN	NN	Number=Sing	19	_	_	start_char=1210|end_char=1222
+21	associated	associate	VERB	VBN	Tense=Past|VerbForm=Part	20	_	_	start_char=1223|end_char=1233
+22	with	with	ADP	IN	_	21	_	_	start_char=1234|end_char=1238
+23	Al	Al	PROPN	NNP	Number=Sing	22	_	_	start_char=1239|end_char=1241|SpaceAfter=No
+24	-	-	PUNCT	HYPH	_	23	_	_	start_char=1241|end_char=1242|SpaceAfter=No
+25	Qaeda	Qaeda	PROPN	NNP	Number=Sing	24	_	_	start_char=1242|end_char=1247|SpaceAfter=No
+26	,	,	PUNCT	,	_	25	_	_	start_char=1247|end_char=1248
+27	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	_	_	start_char=1249|end_char=1252
+28	taken	take	VERB	VBN	Tense=Past|VerbForm=Part	27	_	_	start_char=1253|end_char=1258
+29	responsibility	responsibility	NOUN	NN	Number=Sing	28	_	_	start_char=1259|end_char=1273
+30	for	for	ADP	IN	_	29	_	_	start_char=1274|end_char=1277
+31	the	the	DET	DT	Definite=Def|PronType=Art	30	_	_	start_char=1278|end_char=1281
+32	attack	attack	NOUN	NN	Number=Sing	31	_	_	start_char=1282|end_char=1288
+33	on	on	ADP	IN	_	32	_	_	start_char=1289|end_char=1291
+34	the	the	DET	DT	Definite=Def|PronType=Art	33	_	_	start_char=1292|end_char=1295
+35	Wagner	Wagner	PROPN	NNP	Number=Sing	34	_	_	start_char=1296|end_char=1302
+36	Group	Group	PROPN	NNP	Number=Sing	35	_	_	start_char=1303|end_char=1308|SpaceAfter=No
+37	.	.	PUNCT	.	_	36	_	_	start_char=1308|end_char=1309
+
+# text = They claim that this attack is the biggest blow to the Wagner Group in Africa so far.
+# sent_id = 12
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=1310|end_char=1314
+2	claim	claim	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1315|end_char=1320
+3	that	that	SCONJ	IN	_	2	_	_	start_char=1321|end_char=1325
+4	this	this	DET	DT	Number=Sing|PronType=Dem	3	_	_	start_char=1326|end_char=1330
+5	attack	attack	NOUN	NN	Number=Sing	4	_	_	start_char=1331|end_char=1337
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1338|end_char=1340
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1341|end_char=1344
+8	biggest	big	ADJ	JJS	Degree=Sup	7	_	_	start_char=1345|end_char=1352
+9	blow	blow	NOUN	NN	Number=Sing	8	_	_	start_char=1353|end_char=1357
+10	to	to	ADP	IN	_	9	_	_	start_char=1358|end_char=1360
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=1361|end_char=1364
+12	Wagner	Wagner	PROPN	NNP	Number=Sing	11	_	_	start_char=1365|end_char=1371
+13	Group	Group	PROPN	NNP	Number=Sing	12	_	_	start_char=1372|end_char=1377
+14	in	in	ADP	IN	_	13	_	_	start_char=1378|end_char=1380
+15	Africa	Africa	PROPN	NNP	Number=Sing	14	_	_	start_char=1381|end_char=1387
+16	so	so	ADV	RB	_	15	_	_	start_char=1388|end_char=1390
+17	far	far	ADV	RB	Degree=Pos	16	_	_	start_char=1391|end_char=1394|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=1394|end_char=1395
+
+# text = Wagner Army is active in Africa Let us tell you that the Wagner Group has also led many extensive and deadly military operations of the Russian government in Ukraine.
+# sent_id = 13
+1	Wagner	Wagner	PROPN	NNP	Number=Sing	0	_	_	start_char=1396|end_char=1402
+2	Army	Army	PROPN	NNP	Number=Sing	1	_	_	start_char=1403|end_char=1407
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1408|end_char=1410
+4	active	active	ADJ	JJ	Degree=Pos	3	_	_	start_char=1411|end_char=1417
+5	in	in	ADP	IN	_	4	_	_	start_char=1418|end_char=1420
+6	Africa	Africa	PROPN	NNP	Number=Sing	5	_	_	start_char=1421|end_char=1427
+7	Let	let	VERB	VB	Mood=Imp|VerbForm=Fin	6	_	_	start_char=1428|end_char=1431
+8	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	7	_	_	start_char=1432|end_char=1434
+9	tell	tell	VERB	VB	VerbForm=Inf	8	_	_	start_char=1435|end_char=1439
+10	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	9	_	_	start_char=1440|end_char=1443
+11	that	that	SCONJ	IN	_	10	_	_	start_char=1444|end_char=1448
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=1449|end_char=1452
+13	Wagner	Wagner	PROPN	NNP	Number=Sing	12	_	_	start_char=1453|end_char=1459
+14	Group	Group	PROPN	NNP	Number=Sing	13	_	_	start_char=1460|end_char=1465
+15	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=1466|end_char=1469
+16	also	also	ADV	RB	_	15	_	_	start_char=1470|end_char=1474
+17	led	lead	VERB	VBN	Tense=Past|VerbForm=Part	16	_	_	start_char=1475|end_char=1478
+18	many	many	ADJ	JJ	Degree=Pos	17	_	_	start_char=1479|end_char=1483
+19	extensive	extensive	ADJ	JJ	Degree=Pos	18	_	_	start_char=1484|end_char=1493
+20	and	and	CCONJ	CC	_	19	_	_	start_char=1494|end_char=1497
+21	deadly	deadly	ADJ	JJ	Degree=Pos	20	_	_	start_char=1498|end_char=1504
+22	military	military	ADJ	JJ	Degree=Pos	21	_	_	start_char=1505|end_char=1513
+23	operations	operation	NOUN	NNS	Number=Plur	22	_	_	start_char=1514|end_char=1524
+24	of	of	ADP	IN	_	23	_	_	start_char=1525|end_char=1527
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=1528|end_char=1531
+26	Russian	Russian	ADJ	JJ	Degree=Pos	25	_	_	start_char=1532|end_char=1539
+27	government	government	NOUN	NN	Number=Sing	26	_	_	start_char=1540|end_char=1550
+28	in	in	ADP	IN	_	27	_	_	start_char=1551|end_char=1553
+29	Ukraine	Ukraine	PROPN	NNP	Number=Sing	28	_	_	start_char=1554|end_char=1561|SpaceAfter=No
+30	.	.	PUNCT	.	_	29	_	_	start_char=1561|end_char=1562
+
+# text = However, later the then Wagner Chief rebelled against Russian President Vladimir Putin, which could not succeed.
+# sent_id = 14
+1	However	however	ADV	RB	_	0	_	_	start_char=1563|end_char=1570|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=1570|end_char=1571
+3	later	late	ADV	RBR	Degree=Cmp	2	_	_	start_char=1572|end_char=1577
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1578|end_char=1581
+5	then	then	ADV	RB	PronType=Dem	4	_	_	start_char=1582|end_char=1586
+6	Wagner	Wagner	PROPN	NNP	Number=Sing	5	_	_	start_char=1587|end_char=1593
+7	Chief	Chief	PROPN	NNP	Number=Sing	6	_	_	start_char=1594|end_char=1599
+8	rebelled	rebel	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=1600|end_char=1608
+9	against	against	ADP	IN	_	8	_	_	start_char=1609|end_char=1616
+10	Russian	Russian	ADJ	JJ	Degree=Pos	9	_	_	start_char=1617|end_char=1624
+11	President	President	PROPN	NNP	Number=Sing	10	_	_	start_char=1625|end_char=1634
+12	Vladimir	Vladimir	PROPN	NNP	Number=Sing	11	_	_	start_char=1635|end_char=1643
+13	Putin	Putin	PROPN	NNP	Number=Sing	12	_	_	start_char=1644|end_char=1649|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=1649|end_char=1650
+15	which	which	PRON	WDT	PronType=Rel	14	_	_	start_char=1651|end_char=1656
+16	could	could	AUX	MD	VerbForm=Fin	15	_	_	start_char=1657|end_char=1662
+17	not	not	PART	RB	_	16	_	_	start_char=1663|end_char=1666
+18	succeed	succeed	VERB	VB	VerbForm=Inf	17	_	_	start_char=1667|end_char=1674|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=1674|end_char=1675
+
+# text = At present, this private army of Russia is active in Africa.
+# sent_id = 15
+1	At	at	ADP	IN	_	0	_	_	start_char=1676|end_char=1678
+2	present	present	NOUN	NN	Number=Sing	1	_	_	start_char=1679|end_char=1686|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=1686|end_char=1687
+4	this	this	DET	DT	Number=Sing|PronType=Dem	3	_	_	start_char=1688|end_char=1692
+5	private	private	ADJ	JJ	Degree=Pos	4	_	_	start_char=1693|end_char=1700
+6	army	army	NOUN	NN	Number=Sing	5	_	_	start_char=1701|end_char=1705
+7	of	of	ADP	IN	_	6	_	_	start_char=1706|end_char=1708
+8	Russia	Russia	PROPN	NNP	Number=Sing	7	_	_	start_char=1709|end_char=1715
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=1716|end_char=1718
+10	active	active	ADJ	JJ	Degree=Pos	9	_	_	start_char=1719|end_char=1725
+11	in	in	ADP	IN	_	10	_	_	start_char=1726|end_char=1728
+12	Africa	Africa	PROPN	NNP	Number=Sing	11	_	_	start_char=1729|end_char=1735|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=1735|end_char=1736
+
+# text = The rebels have claimed to have seized 5 armored vehicles, five pickup trucks and many weapons after carrying out the attack.
+# sent_id = 16
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1737|end_char=1740
+2	rebels	rebel	NOUN	NNS	Number=Plur	1	_	_	start_char=1741|end_char=1747
+3	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1748|end_char=1752
+4	claimed	claim	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=1753|end_char=1760
+5	to	to	PART	TO	_	4	_	_	start_char=1761|end_char=1763
+6	have	have	AUX	VB	VerbForm=Inf	5	_	_	start_char=1764|end_char=1768
+7	seized	seize	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=1769|end_char=1775
+8	5	5	NUM	CD	NumForm=Digit|NumType=Card	7	_	_	start_char=1776|end_char=1777
+9	armored	armored	ADJ	JJ	Degree=Pos	8	_	_	start_char=1778|end_char=1785
+10	vehicles	vehicle	NOUN	NNS	Number=Plur	9	_	_	start_char=1786|end_char=1794|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=1794|end_char=1795
+12	five	five	NUM	CD	NumForm=Word|NumType=Card	11	_	_	start_char=1796|end_char=1800
+13	pickup	pickup	NOUN	NN	Number=Sing	12	_	_	start_char=1801|end_char=1807
+14	trucks	truck	NOUN	NNS	Number=Plur	13	_	_	start_char=1808|end_char=1814
+15	and	and	CCONJ	CC	_	14	_	_	start_char=1815|end_char=1818
+16	many	many	ADJ	JJ	Degree=Pos	15	_	_	start_char=1819|end_char=1823
+17	weapons	weapon	NOUN	NNS	Number=Plur	16	_	_	start_char=1824|end_char=1831
+18	after	after	SCONJ	IN	_	17	_	_	start_char=1832|end_char=1837
+19	carrying	carry	VERB	VBG	VerbForm=Ger	18	_	_	start_char=1838|end_char=1846
+20	out	out	ADP	RP	_	19	_	_	start_char=1847|end_char=1850
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=1851|end_char=1854
+22	attack	attack	NOUN	NN	Number=Sing	21	_	_	start_char=1855|end_char=1861|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=1861|end_char=1862
+
+# text = The Wagner Group says that the rebels benefited from the sand storm.
+# sent_id = 17
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1863|end_char=1866
+2	Wagner	Wagner	PROPN	NNP	Number=Sing	1	_	_	start_char=1867|end_char=1873
+3	Group	Group	PROPN	NNP	Number=Sing	2	_	_	start_char=1874|end_char=1879
+4	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1880|end_char=1884
+5	that	that	SCONJ	IN	_	4	_	_	start_char=1885|end_char=1889
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1890|end_char=1893
+7	rebels	rebel	NOUN	NNS	Number=Plur	6	_	_	start_char=1894|end_char=1900
+8	benefited	benefit	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=1901|end_char=1910
+9	from	from	ADP	IN	_	8	_	_	start_char=1911|end_char=1915
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=1916|end_char=1919
+11	sand	sand	NOUN	NN	Number=Sing	10	_	_	start_char=1920|end_char=1924
+12	storm	storm	NOUN	NN	Number=Sing	11	_	_	start_char=1925|end_char=1930|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=1930|end_char=1931
+
+# text = Due to this storm, the Wagner fighters and the Mali army could not get air support.
+# sent_id = 18
+1	Due	due	ADP	IN	_	0	_	_	start_char=1932|end_char=1935
+2	to	to	ADP	IN	_	1	_	_	start_char=1936|end_char=1938
+3	this	this	DET	DT	Number=Sing|PronType=Dem	2	_	_	start_char=1939|end_char=1943
+4	storm	storm	NOUN	NN	Number=Sing	3	_	_	start_char=1944|end_char=1949|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=1949|end_char=1950
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1951|end_char=1954
+7	Wagner	Wagner	PROPN	NNP	Number=Sing	6	_	_	start_char=1955|end_char=1961
+8	fighters	fighter	NOUN	NNS	Number=Plur	7	_	_	start_char=1962|end_char=1970
+9	and	and	CCONJ	CC	_	8	_	_	start_char=1971|end_char=1974
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=1975|end_char=1978
+11	Mali	Mali	PROPN	NNP	Number=Sing	10	_	_	start_char=1979|end_char=1983
+12	army	army	NOUN	NN	Number=Sing	11	_	_	start_char=1984|end_char=1988
+13	could	could	AUX	MD	VerbForm=Fin	12	_	_	start_char=1989|end_char=1994
+14	not	not	PART	RB	_	13	_	_	start_char=1995|end_char=1998
+15	get	get	VERB	VB	VerbForm=Inf	14	_	_	start_char=1999|end_char=2002
+16	air	air	NOUN	NN	Number=Sing	15	_	_	start_char=2003|end_char=2006
+17	support	support	NOUN	NN	Number=Sing	16	_	_	start_char=2007|end_char=2014|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=2014|end_char=2015|SpaceAfter=No
+

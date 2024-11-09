@@ -1,0 +1,912 @@
+# text = PM Modi recently went to Russia on a two-day visit.
+# sent_id = 0
+1	PM	p.m.	NOUN	NN	Number=Sing	0	_	_	start_char=0|end_char=2
+2	Modi	Modi	PROPN	NNP	Number=Sing	1	_	_	start_char=3|end_char=7
+3	recently	recently	ADV	RB	_	2	_	_	start_char=8|end_char=16
+4	went	go	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=17|end_char=21
+5	to	to	ADP	IN	_	4	_	_	start_char=22|end_char=24
+6	Russia	Russia	PROPN	NNP	Number=Sing	5	_	_	start_char=25|end_char=31
+7	on	on	ADP	IN	_	6	_	_	start_char=32|end_char=34
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=35|end_char=36
+9	two	two	NUM	CD	NumForm=Word|NumType=Card	8	_	_	start_char=37|end_char=40|SpaceAfter=No
+10	-	-	PUNCT	HYPH	_	9	_	_	start_char=40|end_char=41|SpaceAfter=No
+11	day	day	NOUN	NN	Number=Sing	10	_	_	start_char=41|end_char=44
+12	visit	visit	NOUN	NN	Number=Sing	11	_	_	start_char=45|end_char=50|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=50|end_char=51
+
+# text = During this, many decisions were taken in a meeting with President Vladimir Putin.
+# sent_id = 1
+1	During	during	ADP	IN	_	0	_	_	start_char=52|end_char=58
+2	this	this	PRON	DT	Number=Sing|PronType=Dem	1	_	_	start_char=59|end_char=63|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=63|end_char=64
+4	many	many	ADJ	JJ	Degree=Pos	3	_	_	start_char=65|end_char=69
+5	decisions	decision	NOUN	NNS	Number=Plur	4	_	_	start_char=70|end_char=79
+6	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=80|end_char=84
+7	taken	take	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	_	_	start_char=85|end_char=90
+8	in	in	ADP	IN	_	7	_	_	start_char=91|end_char=93
+9	a	a	DET	DT	Definite=Ind|PronType=Art	8	_	_	start_char=94|end_char=95
+10	meeting	meeting	NOUN	NN	Number=Sing	9	_	_	start_char=96|end_char=103
+11	with	with	ADP	IN	_	10	_	_	start_char=104|end_char=108
+12	President	President	PROPN	NNP	Number=Sing	11	_	_	start_char=109|end_char=118
+13	Vladimir	Vladimir	PROPN	NNP	Number=Sing	12	_	_	start_char=119|end_char=127
+14	Putin	Putin	PROPN	NNP	Number=Sing	13	_	_	start_char=128|end_char=133|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=133|end_char=134
+
+# text = The most important decision was the safe return of Indians trapped in the war in Ukraine and compensation to the families of the killed soldiers.
+# sent_id = 2
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=135|end_char=138
+2	most	most	ADV	RBS	Degree=Sup	1	_	_	start_char=139|end_char=143
+3	important	important	ADJ	JJ	Degree=Pos	2	_	_	start_char=144|end_char=153
+4	decision	decision	NOUN	NN	Number=Sing	3	_	_	start_char=154|end_char=162
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=163|end_char=166
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=167|end_char=170
+7	safe	safe	ADJ	JJ	Degree=Pos	6	_	_	start_char=171|end_char=175
+8	return	return	NOUN	NN	Number=Sing	7	_	_	start_char=176|end_char=182
+9	of	of	ADP	IN	_	8	_	_	start_char=183|end_char=185
+10	Indians	Indian	PROPN	NNPS	Number=Plur	9	_	_	start_char=186|end_char=193
+11	trapped	trap	VERB	VBN	Tense=Past|VerbForm=Part	10	_	_	start_char=194|end_char=201
+12	in	in	ADP	IN	_	11	_	_	start_char=202|end_char=204
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=205|end_char=208
+14	war	war	NOUN	NN	Number=Sing	13	_	_	start_char=209|end_char=212
+15	in	in	ADP	IN	_	14	_	_	start_char=213|end_char=215
+16	Ukraine	Ukraine	PROPN	NNP	Number=Sing	15	_	_	start_char=216|end_char=223
+17	and	and	CCONJ	CC	_	16	_	_	start_char=224|end_char=227
+18	compensation	compensation	NOUN	NN	Number=Sing	17	_	_	start_char=228|end_char=240
+19	to	to	ADP	IN	_	18	_	_	start_char=241|end_char=243
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=244|end_char=247
+21	families	family	NOUN	NNS	Number=Plur	20	_	_	start_char=248|end_char=256
+22	of	of	ADP	IN	_	21	_	_	start_char=257|end_char=259
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=260|end_char=263
+24	killed	kill	VERB	VBN	Tense=Past|VerbForm=Part	23	_	_	start_char=264|end_char=270
+25	soldiers	soldier	NOUN	NNS	Number=Plur	24	_	_	start_char=271|end_char=279|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=279|end_char=280
+
+# text = Indian youths had gone there by mistake in the war that has been going on for more than two years.
+# sent_id = 3
+1	Indian	Indian	ADJ	JJ	Degree=Pos	0	_	_	start_char=281|end_char=287
+2	youths	youth	NOUN	NNS	Number=Plur	1	_	_	start_char=288|end_char=294
+3	had	have	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=295|end_char=298
+4	gone	go	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=299|end_char=303
+5	there	there	ADV	RB	PronType=Dem	4	_	_	start_char=304|end_char=309
+6	by	by	ADP	IN	_	5	_	_	start_char=310|end_char=312
+7	mistake	mistake	NOUN	NN	Number=Sing	6	_	_	start_char=313|end_char=320
+8	in	in	ADP	IN	_	7	_	_	start_char=321|end_char=323
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=324|end_char=327
+10	war	war	NOUN	NN	Number=Sing	9	_	_	start_char=328|end_char=331
+11	that	that	PRON	WDT	PronType=Rel	10	_	_	start_char=332|end_char=336
+12	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=337|end_char=340
+13	been	be	AUX	VBN	Tense=Past|VerbForm=Part	12	_	_	start_char=341|end_char=345
+14	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	13	_	_	start_char=346|end_char=351
+15	on	on	ADP	RP	_	14	_	_	start_char=352|end_char=354
+16	for	for	ADP	IN	_	15	_	_	start_char=355|end_char=358
+17	more	more	ADJ	JJR	Degree=Cmp|ExtPos=ADV	16	_	_	start_char=359|end_char=363
+18	than	than	ADP	IN	_	17	_	_	start_char=364|end_char=368
+19	two	two	NUM	CD	NumForm=Word|NumType=Card	18	_	_	start_char=369|end_char=372
+20	years	year	NOUN	NNS	Number=Plur	19	_	_	start_char=373|end_char=378|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=378|end_char=379
+
+# text = Many such people are still there.
+# sent_id = 4
+1	Many	many	ADJ	JJ	Degree=Pos	0	_	_	start_char=380|end_char=384
+2	such	such	ADJ	JJ	Degree=Pos	1	_	_	start_char=385|end_char=389
+3	people	person	NOUN	NNS	Number=Plur	2	_	_	start_char=390|end_char=396
+4	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=397|end_char=400
+5	still	still	ADV	RB	_	4	_	_	start_char=401|end_char=406
+6	there	there	ADV	RB	PronType=Dem	5	_	_	start_char=407|end_char=412|SpaceAfter=No
+7	.	.	PUNCT	.	_	6	_	_	start_char=412|end_char=413
+
+# text = Why did Russia need foreign soldiers?
+# sent_id = 5
+1	Why	why	ADV	WRB	PronType=Int	0	_	_	start_char=414|end_char=417
+2	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=418|end_char=421
+3	Russia	Russia	PROPN	NNP	Number=Sing	2	_	_	start_char=422|end_char=428
+4	need	need	VERB	VB	VerbForm=Inf	3	_	_	start_char=429|end_char=433
+5	foreign	foreign	ADJ	JJ	Degree=Pos	4	_	_	start_char=434|end_char=441
+6	soldiers	soldier	NOUN	NNS	Number=Plur	5	_	_	start_char=442|end_char=450|SpaceAfter=No
+7	?	?	PUNCT	.	_	6	_	_	start_char=450|end_char=451
+
+# text = Last year, the email account of a military officer posted in the Western Military District was hacked.
+# sent_id = 6
+1	Last	last	ADJ	JJ	Degree=Pos	0	_	_	start_char=452|end_char=456
+2	year	year	NOUN	NN	Number=Sing	1	_	_	start_char=457|end_char=461|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=461|end_char=462
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=463|end_char=466
+5	email	email	NOUN	NN	Number=Sing	4	_	_	start_char=467|end_char=472
+6	account	account	NOUN	NN	Number=Sing	5	_	_	start_char=473|end_char=480
+7	of	of	ADP	IN	_	6	_	_	start_char=481|end_char=483
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=484|end_char=485
+9	military	military	ADJ	JJ	Degree=Pos	8	_	_	start_char=486|end_char=494
+10	officer	officer	NOUN	NN	Number=Sing	9	_	_	start_char=495|end_char=502
+11	posted	post	VERB	VBN	Tense=Past|VerbForm=Part	10	_	_	start_char=503|end_char=509
+12	in	in	ADP	IN	_	11	_	_	start_char=510|end_char=512
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=513|end_char=516
+14	Western	western	ADJ	NNP	Degree=Pos	13	_	_	start_char=517|end_char=524
+15	Military	military	ADJ	NNP	Degree=Pos	14	_	_	start_char=525|end_char=533
+16	District	District	PROPN	NNP	Number=Sing	15	_	_	start_char=534|end_char=542
+17	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	_	_	start_char=543|end_char=546
+18	hacked	hack	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	17	_	_	start_char=547|end_char=553|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=553|end_char=554
+
+# text = It mentioned the recruitment of foreign youths in the Russian army and sending them to fight in Ukraine with a short training.
+# sent_id = 7
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=555|end_char=557
+2	mentioned	mention	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=558|end_char=567
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=568|end_char=571
+4	recruitment	recruitment	NOUN	NN	Number=Sing	3	_	_	start_char=572|end_char=583
+5	of	of	ADP	IN	_	4	_	_	start_char=584|end_char=586
+6	foreign	foreign	ADJ	JJ	Degree=Pos	5	_	_	start_char=587|end_char=594
+7	youths	youth	NOUN	NNS	Number=Plur	6	_	_	start_char=595|end_char=601
+8	in	in	ADP	IN	_	7	_	_	start_char=602|end_char=604
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=605|end_char=608
+10	Russian	Russian	ADJ	JJ	Degree=Pos	9	_	_	start_char=609|end_char=616
+11	army	army	NOUN	NN	Number=Sing	10	_	_	start_char=617|end_char=621
+12	and	and	CCONJ	CC	_	11	_	_	start_char=622|end_char=625
+13	sending	send	VERB	VBG	VerbForm=Ger	12	_	_	start_char=626|end_char=633
+14	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	13	_	_	start_char=634|end_char=638
+15	to	to	PART	TO	_	14	_	_	start_char=639|end_char=641
+16	fight	fight	VERB	VB	VerbForm=Inf	15	_	_	start_char=642|end_char=647
+17	in	in	ADP	IN	_	16	_	_	start_char=648|end_char=650
+18	Ukraine	Ukraine	PROPN	NNP	Number=Sing	17	_	_	start_char=651|end_char=658
+19	with	with	ADP	IN	_	18	_	_	start_char=659|end_char=663
+20	a	a	DET	DT	Definite=Ind|PronType=Art	19	_	_	start_char=664|end_char=665
+21	short	short	ADJ	JJ	Degree=Pos	20	_	_	start_char=666|end_char=671
+22	training	training	NOUN	NN	Number=Sing	21	_	_	start_char=672|end_char=680|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=680|end_char=681
+
+# text = Many other countries that were formerly a part of the Soviet Union, and consider themselves closer to Russia than Ukraine, also started coming to join the fight.
+# sent_id = 8
+1	Many	many	ADJ	JJ	Degree=Pos	0	_	_	start_char=682|end_char=686
+2	other	other	ADJ	JJ	Degree=Pos	1	_	_	start_char=687|end_char=692
+3	countries	country	NOUN	NNS	Number=Plur	2	_	_	start_char=693|end_char=702
+4	that	that	PRON	WDT	PronType=Rel	3	_	_	start_char=703|end_char=707
+5	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=708|end_char=712
+6	formerly	formerly	ADV	RB	_	5	_	_	start_char=713|end_char=721
+7	a	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=722|end_char=723
+8	part	part	NOUN	NN	Number=Sing	7	_	_	start_char=724|end_char=728
+9	of	of	ADP	IN	_	8	_	_	start_char=729|end_char=731
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=732|end_char=735
+11	Soviet	Soviet	PROPN	NNP	Number=Sing	10	_	_	start_char=736|end_char=742
+12	Union	Union	PROPN	NNP	Number=Sing	11	_	_	start_char=743|end_char=748|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=748|end_char=749
+14	and	and	CCONJ	CC	_	13	_	_	start_char=750|end_char=753
+15	consider	consider	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=754|end_char=762
+16	themselves	themselves	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	15	_	_	start_char=763|end_char=773
+17	closer	close	ADJ	JJR	Degree=Cmp	16	_	_	start_char=774|end_char=780
+18	to	to	ADP	IN	_	17	_	_	start_char=781|end_char=783
+19	Russia	Russia	PROPN	NNP	Number=Sing	18	_	_	start_char=784|end_char=790
+20	than	than	ADP	IN	_	19	_	_	start_char=791|end_char=795
+21	Ukraine	Ukraine	PROPN	NNP	Number=Sing	20	_	_	start_char=796|end_char=803|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=803|end_char=804
+23	also	also	ADV	RB	_	22	_	_	start_char=805|end_char=809
+24	started	start	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	23	_	_	start_char=810|end_char=817
+25	coming	come	VERB	VBG	VerbForm=Ger	24	_	_	start_char=818|end_char=824
+26	to	to	PART	TO	_	25	_	_	start_char=825|end_char=827
+27	join	join	VERB	VB	VerbForm=Inf	26	_	_	start_char=828|end_char=832
+28	the	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=833|end_char=836
+29	fight	fight	NOUN	NN	Number=Sing	28	_	_	start_char=837|end_char=842|SpaceAfter=No
+30	.	.	PUNCT	.	_	29	_	_	start_char=842|end_char=843
+
+# text = These include Armenia, Belarus, Kazakhstan, Kyrgyzstan and Latvia.
+# sent_id = 9
+1	These	this	PRON	DT	Number=Plur|PronType=Dem	0	_	_	start_char=844|end_char=849
+2	include	include	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=850|end_char=857
+3	Armenia	Armenia	PROPN	NNP	Number=Sing	2	_	_	start_char=858|end_char=865|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=865|end_char=866
+5	Belarus	Belarus	PROPN	NNP	Number=Sing	4	_	_	start_char=867|end_char=874|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=874|end_char=875
+7	Kazakhstan	Kazakhstan	PROPN	NNP	Number=Sing	6	_	_	start_char=876|end_char=886|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=886|end_char=887
+9	Kyrgyzstan	Kyrgyzstan	PROPN	NNP	Number=Sing	8	_	_	start_char=888|end_char=898
+10	and	and	CCONJ	CC	_	9	_	_	start_char=899|end_char=902
+11	Latvia	Latvia	PROPN	NNP	Number=Sing	10	_	_	start_char=903|end_char=909|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=909|end_char=910
+
+# text = But all of them had come knowingly to fight, while the case of Indian youths was different.
+# sent_id = 10
+1	But	but	CCONJ	CC	_	0	_	_	start_char=911|end_char=914
+2	all	all	DET	DT	_	1	_	_	start_char=915|end_char=918
+3	of	of	ADP	IN	_	2	_	_	start_char=919|end_char=921
+4	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	_	_	start_char=922|end_char=926
+5	had	have	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=927|end_char=930
+6	come	come	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=931|end_char=935
+7	knowingly	knowingly	ADV	RB	_	6	_	_	start_char=936|end_char=945
+8	to	to	PART	TO	_	7	_	_	start_char=946|end_char=948
+9	fight	fight	VERB	VB	VerbForm=Inf	8	_	_	start_char=949|end_char=954|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=954|end_char=955
+11	while	while	SCONJ	IN	_	10	_	_	start_char=956|end_char=961
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=962|end_char=965
+13	case	case	NOUN	NN	Number=Sing	12	_	_	start_char=966|end_char=970
+14	of	of	ADP	IN	_	13	_	_	start_char=971|end_char=973
+15	Indian	Indian	ADJ	JJ	Degree=Pos	14	_	_	start_char=974|end_char=980
+16	youths	youth	NOUN	NNS	Number=Plur	15	_	_	start_char=981|end_char=987
+17	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	_	_	start_char=988|end_char=991
+18	different	different	ADJ	JJ	Degree=Pos	17	_	_	start_char=992|end_char=1001|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=1001|end_char=1002
+
+# text = They were called not to fight in the war, but to help the army in small tasks.
+# sent_id = 11
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=1003|end_char=1007
+2	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1008|end_char=1012
+3	called	call	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	_	_	start_char=1013|end_char=1019
+4	not	not	PART	RB	_	3	_	_	start_char=1020|end_char=1023
+5	to	to	PART	TO	_	4	_	_	start_char=1024|end_char=1026
+6	fight	fight	VERB	VB	VerbForm=Inf	5	_	_	start_char=1027|end_char=1032
+7	in	in	ADP	IN	_	6	_	_	start_char=1033|end_char=1035
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=1036|end_char=1039
+9	war	war	NOUN	NN	Number=Sing	8	_	_	start_char=1040|end_char=1043|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=1043|end_char=1044
+11	but	but	CCONJ	CC	_	10	_	_	start_char=1045|end_char=1048
+12	to	to	PART	TO	_	11	_	_	start_char=1049|end_char=1051
+13	help	help	VERB	VB	VerbForm=Inf	12	_	_	start_char=1052|end_char=1056
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=1057|end_char=1060
+15	army	army	NOUN	NN	Number=Sing	14	_	_	start_char=1061|end_char=1065
+16	in	in	ADP	IN	_	15	_	_	start_char=1066|end_char=1068
+17	small	small	ADJ	JJ	Degree=Pos	16	_	_	start_char=1069|end_char=1074
+18	tasks	task	NOUN	NNS	Number=Plur	17	_	_	start_char=1075|end_char=1080|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=1080|end_char=1081
+
+# text = That&#39;s why Russia kept recruiting foreign fighters.
+# sent_id = 12
+1	That&#39	that&#39	INTJ	UH	_	0	_	_	start_char=1082|end_char=1090|SpaceAfter=No
+2	;	;	PUNCT	:	_	1	_	_	start_char=1090|end_char=1091|SpaceAfter=No
+3	s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1091|end_char=1092
+4	why	why	ADV	WRB	PronType=Rel	3	_	_	start_char=1093|end_char=1096
+5	Russia	Russia	PROPN	NNP	Number=Sing	4	_	_	start_char=1097|end_char=1103
+6	kept	keep	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=1104|end_char=1108
+7	recruiting	recruiting	VERB	VBG	VerbForm=Ger	6	_	_	start_char=1109|end_char=1119
+8	foreign	foreign	ADJ	JJ	Degree=Pos	7	_	_	start_char=1120|end_char=1127
+9	fighters	fighter	NOUN	NNS	Number=Plur	8	_	_	start_char=1128|end_char=1136|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=1136|end_char=1137
+
+# text = Russia has been accused of hiring mercenaries during wars.
+# sent_id = 13
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=1138|end_char=1144
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1145|end_char=1148
+3	been	be	AUX	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=1149|end_char=1153
+4	accused	accuse	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=1154|end_char=1161
+5	of	of	SCONJ	IN	_	4	_	_	start_char=1162|end_char=1164
+6	hiring	hire	VERB	VBG	VerbForm=Ger	5	_	_	start_char=1165|end_char=1171
+7	mercenaries	mercenary	NOUN	NNS	Number=Plur	6	_	_	start_char=1172|end_char=1183
+8	during	during	ADP	IN	_	7	_	_	start_char=1184|end_char=1190
+9	wars	war	NOUN	NNS	Number=Plur	8	_	_	start_char=1191|end_char=1195|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=1195|end_char=1196
+
+# text = This has its own benefits.
+# sent_id = 14
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1197|end_char=1201
+2	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1202|end_char=1205
+3	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	_	_	start_char=1206|end_char=1209
+4	own	own	ADJ	JJ	Degree=Pos	3	_	_	start_char=1210|end_char=1213
+5	benefits	benefit	NOUN	NNS	Number=Plur	4	_	_	start_char=1214|end_char=1222|SpaceAfter=No
+6	.	.	PUNCT	.	_	5	_	_	start_char=1222|end_char=1223
+
+# text = For example, the host country&#39;s own people remain safe.
+# sent_id = 15
+1	For	for	ADP	IN	_	0	_	_	start_char=1224|end_char=1227
+2	example	example	NOUN	NN	Number=Sing	1	_	_	start_char=1228|end_char=1235|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=1235|end_char=1236
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1237|end_char=1240
+5	host	host	NOUN	NN	Number=Sing	4	_	_	start_char=1241|end_char=1245
+6	country&	country&	NOUN	NN	Number=Sing	5	_	_	start_char=1246|end_char=1254|SpaceAfter=No
+7	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	6	_	_	start_char=1254|end_char=1257|SpaceAfter=No
+8	;	;	PUNCT	:	_	7	_	_	start_char=1257|end_char=1258|SpaceAfter=No
+9	s	's	PART	POS	Typo=Yes	8	_	_	start_char=1258|end_char=1259
+10	own	own	ADJ	JJ	Degree=Pos	9	_	_	start_char=1260|end_char=1263
+11	people	person	NOUN	NNS	Number=Plur	10	_	_	start_char=1264|end_char=1270
+12	remain	remain	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=1271|end_char=1277
+13	safe	safe	ADJ	JJ	Degree=Pos	12	_	_	start_char=1278|end_char=1282|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=1282|end_char=1283
+
+# text = By sending foreign fighters in dangerous situations, our own people are kept safe.
+# sent_id = 16
+1	By	by	SCONJ	IN	_	0	_	_	start_char=1284|end_char=1286
+2	sending	send	VERB	VBG	VerbForm=Ger	1	_	_	start_char=1287|end_char=1294
+3	foreign	foreign	ADJ	JJ	Degree=Pos	2	_	_	start_char=1295|end_char=1302
+4	fighters	fighter	NOUN	NNS	Number=Plur	3	_	_	start_char=1303|end_char=1311
+5	in	in	ADP	IN	_	4	_	_	start_char=1312|end_char=1314
+6	dangerous	dangerous	ADJ	JJ	Degree=Pos	5	_	_	start_char=1315|end_char=1324
+7	situations	situation	NOUN	NNS	Number=Plur	6	_	_	start_char=1325|end_char=1335|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=1335|end_char=1336
+9	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	8	_	_	start_char=1337|end_char=1340
+10	own	own	ADJ	JJ	Degree=Pos	9	_	_	start_char=1341|end_char=1344
+11	people	person	NOUN	NNS	Number=Plur	10	_	_	start_char=1345|end_char=1351
+12	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=1352|end_char=1355
+13	kept	keep	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	12	_	_	start_char=1356|end_char=1360
+14	safe	safe	ADJ	JJ	Degree=Pos	13	_	_	start_char=1361|end_char=1365|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=1365|end_char=1366
+
+# text = Since foreign fighters are not directly from the army, countries can shirk responsibility for them whenever they want.
+# sent_id = 17
+1	Since	since	SCONJ	IN	_	0	_	_	start_char=1367|end_char=1372
+2	foreign	foreign	ADJ	JJ	Degree=Pos	1	_	_	start_char=1373|end_char=1380
+3	fighters	fighter	NOUN	NNS	Number=Plur	2	_	_	start_char=1381|end_char=1389
+4	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1390|end_char=1393
+5	not	not	PART	RB	_	4	_	_	start_char=1394|end_char=1397
+6	directly	directly	ADV	RB	_	5	_	_	start_char=1398|end_char=1406
+7	from	from	ADP	IN	_	6	_	_	start_char=1407|end_char=1411
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=1412|end_char=1415
+9	army	army	NOUN	NN	Number=Sing	8	_	_	start_char=1416|end_char=1420|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=1420|end_char=1421
+11	countries	country	NOUN	NNS	Number=Plur	10	_	_	start_char=1422|end_char=1431
+12	can	can	AUX	MD	VerbForm=Fin	11	_	_	start_char=1432|end_char=1435
+13	shirk	shirk	VERB	VB	VerbForm=Inf	12	_	_	start_char=1436|end_char=1441
+14	responsibility	responsibility	NOUN	NN	Number=Sing	13	_	_	start_char=1442|end_char=1456
+15	for	for	ADP	IN	_	14	_	_	start_char=1457|end_char=1460
+16	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	15	_	_	start_char=1461|end_char=1465
+17	whenever	whenever	ADV	WRB	PronType=Int	16	_	_	start_char=1466|end_char=1474
+18	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	_	_	start_char=1475|end_char=1479
+19	want	want	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=1480|end_char=1484|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=1484|end_char=1485
+
+# text = Apart from this, the risk of foreign soldiers having intelligence information is minimal.
+# sent_id = 18
+1	Apart	apart	ADV	RB	_	0	_	_	start_char=1486|end_char=1491
+2	from	from	ADP	IN	_	1	_	_	start_char=1492|end_char=1496
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	2	_	_	start_char=1497|end_char=1501|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1501|end_char=1502
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1503|end_char=1506
+6	risk	risk	NOUN	NN	Number=Sing	5	_	_	start_char=1507|end_char=1511
+7	of	of	ADP	IN	_	6	_	_	start_char=1512|end_char=1514
+8	foreign	foreign	ADJ	JJ	Degree=Pos	7	_	_	start_char=1515|end_char=1522
+9	soldiers	soldier	NOUN	NNS	Number=Plur	8	_	_	start_char=1523|end_char=1531
+10	having	have	VERB	VBG	VerbForm=Ger	9	_	_	start_char=1532|end_char=1538
+11	intelligence	intelligence	NOUN	NN	Number=Sing	10	_	_	start_char=1539|end_char=1551
+12	information	information	NOUN	NN	Number=Sing	11	_	_	start_char=1552|end_char=1563
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=1564|end_char=1566
+14	minimal	minimal	ADJ	JJ	Degree=Pos	13	_	_	start_char=1567|end_char=1574|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=1574|end_char=1575
+
+# text = This is the reason why Russia kept recruiting foreign fighters.
+# sent_id = 19
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1576|end_char=1580
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1581|end_char=1583
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1584|end_char=1587
+4	reason	reason	NOUN	NN	Number=Sing	3	_	_	start_char=1588|end_char=1594
+5	why	why	ADV	WRB	PronType=Rel	4	_	_	start_char=1595|end_char=1598
+6	Russia	Russia	PROPN	NNP	Number=Sing	5	_	_	start_char=1599|end_char=1605
+7	kept	keep	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=1606|end_char=1610
+8	recruiting	recruiting	VERB	VBG	VerbForm=Ger	7	_	_	start_char=1611|end_char=1621
+9	foreign	foreign	ADJ	JJ	Degree=Pos	8	_	_	start_char=1622|end_char=1629
+10	fighters	fighter	NOUN	NNS	Number=Plur	9	_	_	start_char=1630|end_char=1638|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=1638|end_char=1639
+
+# text = It also has a private army, Wagner Group, whose aggression has always been questioned.
+# sent_id = 20
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1640|end_char=1642
+2	also	also	ADV	RB	_	1	_	_	start_char=1643|end_char=1647
+3	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1648|end_char=1651
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=1652|end_char=1653
+5	private	private	ADJ	JJ	Degree=Pos	4	_	_	start_char=1654|end_char=1661
+6	army	army	NOUN	NN	Number=Sing	5	_	_	start_char=1662|end_char=1666|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=1666|end_char=1667
+8	Wagner	Wagner	PROPN	NNP	Number=Sing	7	_	_	start_char=1668|end_char=1674
+9	Group	Group	PROPN	NNP	Number=Sing	8	_	_	start_char=1675|end_char=1680|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=1680|end_char=1681
+11	whose	whose	PRON	WP$	Poss=Yes|PronType=Rel	10	_	_	start_char=1682|end_char=1687
+12	aggression	aggression	NOUN	NN	Number=Sing	11	_	_	start_char=1688|end_char=1698
+13	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=1699|end_char=1702
+14	always	always	ADV	RB	_	13	_	_	start_char=1703|end_char=1709
+15	been	be	AUX	VBN	Tense=Past|VerbForm=Part	14	_	_	start_char=1710|end_char=1714
+16	questioned	question	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	15	_	_	start_char=1715|end_char=1725|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=1725|end_char=1726
+
+# text = The Polish Institute of International Affairs published a study during the Russia-Ukraine war in 2014, which claimed that Russia also recruits citizens of other countries whose economic condition is weak, by paying them huge amounts.
+# sent_id = 21
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1727|end_char=1730
+2	Polish	Polish	ADJ	NNP	Degree=Pos	1	_	_	start_char=1731|end_char=1737
+3	Institute	Institute	PROPN	NNP	Number=Sing	2	_	_	start_char=1738|end_char=1747
+4	of	of	ADP	IN	_	3	_	_	start_char=1748|end_char=1750
+5	International	International	ADJ	NNP	Degree=Pos	4	_	_	start_char=1751|end_char=1764
+6	Affairs	affair	PROPN	NNPS	Number=Plur	5	_	_	start_char=1765|end_char=1772
+7	published	publish	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=1773|end_char=1782
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=1783|end_char=1784
+9	study	study	NOUN	NN	Number=Sing	8	_	_	start_char=1785|end_char=1790
+10	during	during	ADP	IN	_	9	_	_	start_char=1791|end_char=1797
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=1798|end_char=1801
+12	Russia	Russia	PROPN	NNP	Number=Sing	11	_	_	start_char=1802|end_char=1808|SpaceAfter=No
+13	-	-	PUNCT	HYPH	_	12	_	_	start_char=1808|end_char=1809|SpaceAfter=No
+14	Ukraine	Ukraine	PROPN	NNP	Number=Sing	13	_	_	start_char=1809|end_char=1816
+15	war	war	NOUN	NN	Number=Sing	14	_	_	start_char=1817|end_char=1820
+16	in	in	ADP	IN	_	15	_	_	start_char=1821|end_char=1823
+17	2014	2014	NUM	CD	NumForm=Digit|NumType=Card	16	_	_	start_char=1824|end_char=1828|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=1828|end_char=1829
+19	which	which	PRON	WDT	PronType=Rel	18	_	_	start_char=1830|end_char=1835
+20	claimed	claim	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	_	_	start_char=1836|end_char=1843
+21	that	that	SCONJ	IN	_	20	_	_	start_char=1844|end_char=1848
+22	Russia	Russia	PROPN	NNP	Number=Sing	21	_	_	start_char=1849|end_char=1855
+23	also	also	ADV	RB	_	22	_	_	start_char=1856|end_char=1860
+24	recruits	recruit	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	_	_	start_char=1861|end_char=1869
+25	citizens	citizen	NOUN	NNS	Number=Plur	24	_	_	start_char=1870|end_char=1878
+26	of	of	ADP	IN	_	25	_	_	start_char=1879|end_char=1881
+27	other	other	ADJ	JJ	Degree=Pos	26	_	_	start_char=1882|end_char=1887
+28	countries	country	NOUN	NNS	Number=Plur	27	_	_	start_char=1888|end_char=1897
+29	whose	whose	PRON	WP$	Poss=Yes|PronType=Rel	28	_	_	start_char=1898|end_char=1903
+30	economic	economic	ADJ	JJ	Degree=Pos	29	_	_	start_char=1904|end_char=1912
+31	condition	condition	NOUN	NN	Number=Sing	30	_	_	start_char=1913|end_char=1922
+32	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	_	_	start_char=1923|end_char=1925
+33	weak	weak	ADJ	JJ	Degree=Pos	32	_	_	start_char=1926|end_char=1930|SpaceAfter=No
+34	,	,	PUNCT	,	_	33	_	_	start_char=1930|end_char=1931
+35	by	by	SCONJ	IN	_	34	_	_	start_char=1932|end_char=1934
+36	paying	pay	VERB	VBG	VerbForm=Ger	35	_	_	start_char=1935|end_char=1941
+37	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	36	_	_	start_char=1942|end_char=1946
+38	huge	huge	ADJ	JJ	Degree=Pos	37	_	_	start_char=1947|end_char=1951
+39	amounts	amount	NOUN	NNS	Number=Plur	38	_	_	start_char=1952|end_char=1959|SpaceAfter=No
+40	.	.	PUNCT	.	_	39	_	_	start_char=1959|end_char=1960
+
+# text = This included Bosnian and Serbian youth, and fighters from war-affected countries like Syria and Libya.
+# sent_id = 22
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1961|end_char=1965
+2	included	include	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1966|end_char=1974
+3	Bosnian	bosnian	ADJ	JJ	Degree=Pos	2	_	_	start_char=1975|end_char=1982
+4	and	and	CCONJ	CC	_	3	_	_	start_char=1983|end_char=1986
+5	Serbian	serbian	ADJ	JJ	Degree=Pos	4	_	_	start_char=1987|end_char=1994
+6	youth	youth	NOUN	NN	Number=Sing	5	_	_	start_char=1995|end_char=2000|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=2000|end_char=2001
+8	and	and	CCONJ	CC	_	7	_	_	start_char=2002|end_char=2005
+9	fighters	fighter	NOUN	NNS	Number=Plur	8	_	_	start_char=2006|end_char=2014
+10	from	from	ADP	IN	_	9	_	_	start_char=2015|end_char=2019
+11	war	war	NOUN	NN	Number=Sing	10	_	_	start_char=2020|end_char=2023|SpaceAfter=No
+12	-	-	PUNCT	HYPH	_	11	_	_	start_char=2023|end_char=2024|SpaceAfter=No
+13	affected	affect	VERB	VBN	Tense=Past|VerbForm=Part	12	_	_	start_char=2024|end_char=2032
+14	countries	country	NOUN	NNS	Number=Plur	13	_	_	start_char=2033|end_char=2042
+15	like	like	ADP	IN	_	14	_	_	start_char=2043|end_char=2047
+16	Syria	Syria	PROPN	NNP	Number=Sing	15	_	_	start_char=2048|end_char=2053
+17	and	and	CCONJ	CC	_	16	_	_	start_char=2054|end_char=2057
+18	Libya	Libya	PROPN	NNP	Number=Sing	17	_	_	start_char=2058|end_char=2063|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=2063|end_char=2064
+
+# text = How Indians got trapped to work in the Russian army
+# sent_id = 23
+1	How	how	ADV	WRB	PronType=Int	0	_	_	start_char=2065|end_char=2068
+2	Indians	Indian	PROPN	NNPS	Number=Plur	1	_	_	start_char=2069|end_char=2076
+3	got	get	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=2077|end_char=2080
+4	trapped	trap	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=2081|end_char=2088
+5	to	to	PART	TO	_	4	_	_	start_char=2089|end_char=2091
+6	work	work	VERB	VB	VerbForm=Inf	5	_	_	start_char=2092|end_char=2096
+7	in	in	ADP	IN	_	6	_	_	start_char=2097|end_char=2099
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=2100|end_char=2103
+9	Russian	Russian	ADJ	JJ	Degree=Pos	8	_	_	start_char=2104|end_char=2111
+10	army	army	NOUN	NN	Number=Sing	9	_	_	start_char=2112|end_char=2116
+
+# text = An NDTV report quoted the CBI as saying that the human trafficking network is spread from New Delhi to Tamil Nadu.
+# sent_id = 24
+1	An	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=2117|end_char=2119
+2	NDTV	NDTV	PROPN	NNP	Number=Sing	1	_	_	start_char=2120|end_char=2124
+3	report	report	NOUN	NN	Number=Sing	2	_	_	start_char=2125|end_char=2131
+4	quoted	quote	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=2132|end_char=2138
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=2139|end_char=2142
+6	CBI	CBI	PROPN	NNP	Number=Sing	5	_	_	start_char=2143|end_char=2146
+7	as	as	SCONJ	IN	_	6	_	_	start_char=2147|end_char=2149
+8	saying	say	VERB	VBG	VerbForm=Ger	7	_	_	start_char=2150|end_char=2156
+9	that	that	SCONJ	IN	_	8	_	_	start_char=2157|end_char=2161
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=2162|end_char=2165
+11	human	human	ADJ	JJ	Degree=Pos	10	_	_	start_char=2166|end_char=2171
+12	trafficking	trafficking	NOUN	NN	Number=Sing	11	_	_	start_char=2172|end_char=2183
+13	network	network	NOUN	NN	Number=Sing	12	_	_	start_char=2184|end_char=2191
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=2192|end_char=2194
+15	spread	spread	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	_	_	start_char=2195|end_char=2201
+16	from	from	ADP	IN	_	15	_	_	start_char=2202|end_char=2206
+17	New	New	ADJ	NNP	Degree=Pos	16	_	_	start_char=2207|end_char=2210
+18	Delhi	Delhi	PROPN	NNP	Number=Sing	17	_	_	start_char=2211|end_char=2216
+19	to	to	ADP	IN	_	18	_	_	start_char=2217|end_char=2219
+20	Tamil	Tamil	ADJ	NNP	Degree=Pos	19	_	_	start_char=2220|end_char=2225
+21	Nadu	Nadu	PROPN	NNP	Number=Sing	20	_	_	start_char=2226|end_char=2230|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=2230|end_char=2231
+
+# text = They contact young men from poor economic conditions through social media platforms and local agents and lure them with a great job in Russia.
+# sent_id = 25
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=2232|end_char=2236
+2	contact	contact	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2237|end_char=2244
+3	young	young	ADJ	JJ	Degree=Pos	2	_	_	start_char=2245|end_char=2250
+4	men	man	NOUN	NNS	Number=Plur	3	_	_	start_char=2251|end_char=2254
+5	from	from	ADP	IN	_	4	_	_	start_char=2255|end_char=2259
+6	poor	poor	ADJ	JJ	Degree=Pos	5	_	_	start_char=2260|end_char=2264
+7	economic	economic	ADJ	JJ	Degree=Pos	6	_	_	start_char=2265|end_char=2273
+8	conditions	condition	NOUN	NNS	Number=Plur	7	_	_	start_char=2274|end_char=2284
+9	through	through	ADP	IN	_	8	_	_	start_char=2285|end_char=2292
+10	social	social	ADJ	JJ	Degree=Pos	9	_	_	start_char=2293|end_char=2299
+11	media	media	NOUN	NN	Number=Sing	10	_	_	start_char=2300|end_char=2305
+12	platforms	platform	NOUN	NNS	Number=Plur	11	_	_	start_char=2306|end_char=2315
+13	and	and	CCONJ	CC	_	12	_	_	start_char=2316|end_char=2319
+14	local	local	ADJ	JJ	Degree=Pos	13	_	_	start_char=2320|end_char=2325
+15	agents	agent	NOUN	NNS	Number=Plur	14	_	_	start_char=2326|end_char=2332
+16	and	and	CCONJ	CC	_	15	_	_	start_char=2333|end_char=2336
+17	lure	lure	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=2337|end_char=2341
+18	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	17	_	_	start_char=2342|end_char=2346
+19	with	with	ADP	IN	_	18	_	_	start_char=2347|end_char=2351
+20	a	a	DET	DT	Definite=Ind|PronType=Art	19	_	_	start_char=2352|end_char=2353
+21	great	great	ADJ	JJ	Degree=Pos	20	_	_	start_char=2354|end_char=2359
+22	job	job	NOUN	NN	Number=Sing	21	_	_	start_char=2360|end_char=2363
+23	in	in	ADP	IN	_	22	_	_	start_char=2364|end_char=2366
+24	Russia	Russia	PROPN	NNP	Number=Sing	23	_	_	start_char=2367|end_char=2373|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=2373|end_char=2374
+
+# text = As soon as these young men reach Russia, their passports are snatched and after giving them some basic training, they are sent directly to the war.
+# sent_id = 26
+1	As	as	ADV	RB	_	0	_	_	start_char=2375|end_char=2377
+2	soon	soon	ADV	RB	Degree=Pos	1	_	_	start_char=2378|end_char=2382
+3	as	as	SCONJ	IN	_	2	_	_	start_char=2383|end_char=2385
+4	these	this	DET	DT	Number=Plur|PronType=Dem	3	_	_	start_char=2386|end_char=2391
+5	young	young	ADJ	JJ	Degree=Pos	4	_	_	start_char=2392|end_char=2397
+6	men	man	NOUN	NNS	Number=Plur	5	_	_	start_char=2398|end_char=2401
+7	reach	reach	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=2402|end_char=2407
+8	Russia	Russia	PROPN	NNP	Number=Sing	7	_	_	start_char=2408|end_char=2414|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=2414|end_char=2415
+10	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	_	_	start_char=2416|end_char=2421
+11	passports	passport	NOUN	NNS	Number=Plur	10	_	_	start_char=2422|end_char=2431
+12	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=2432|end_char=2435
+13	snatched	snatch	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	12	_	_	start_char=2436|end_char=2444
+14	and	and	CCONJ	CC	_	13	_	_	start_char=2445|end_char=2448
+15	after	after	SCONJ	IN	_	14	_	_	start_char=2449|end_char=2454
+16	giving	give	VERB	VBG	VerbForm=Ger	15	_	_	start_char=2455|end_char=2461
+17	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	16	_	_	start_char=2462|end_char=2466
+18	some	some	DET	DT	_	17	_	_	start_char=2467|end_char=2471
+19	basic	basic	ADJ	JJ	Degree=Pos	18	_	_	start_char=2472|end_char=2477
+20	training	training	NOUN	NN	Number=Sing	19	_	_	start_char=2478|end_char=2486|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=2486|end_char=2487
+22	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	21	_	_	start_char=2488|end_char=2492
+23	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	_	_	start_char=2493|end_char=2496
+24	sent	send	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	23	_	_	start_char=2497|end_char=2501
+25	directly	directly	ADV	RB	_	24	_	_	start_char=2502|end_char=2510
+26	to	to	ADP	IN	_	25	_	_	start_char=2511|end_char=2513
+27	the	the	DET	DT	Definite=Def|PronType=Art	26	_	_	start_char=2514|end_char=2517
+28	war	war	NOUN	NN	Number=Sing	27	_	_	start_char=2518|end_char=2521|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=2521|end_char=2522
+
+# text = The police also detained many people from the racket.
+# sent_id = 27
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2523|end_char=2526
+2	police	police	NOUN	NNS	Number=Plur	1	_	_	start_char=2527|end_char=2533
+3	also	also	ADV	RB	_	2	_	_	start_char=2534|end_char=2538
+4	detained	detain	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=2539|end_char=2547
+5	many	many	ADJ	JJ	Degree=Pos	4	_	_	start_char=2548|end_char=2552
+6	people	person	NOUN	NNS	Number=Plur	5	_	_	start_char=2553|end_char=2559
+7	from	from	ADP	IN	_	6	_	_	start_char=2560|end_char=2564
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=2565|end_char=2568
+9	racket	racket	NOUN	NN	Number=Sing	8	_	_	start_char=2569|end_char=2575|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=2575|end_char=2576
+
+# text = How many were cheated Government data says that 30 to 40 Indian citizens are currently in the Russian army.
+# sent_id = 28
+1	How	how	ADV	WRB	PronType=Int	0	_	_	start_char=2577|end_char=2580
+2	many	many	ADJ	JJ	Degree=Pos	1	_	_	start_char=2581|end_char=2585
+3	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=2586|end_char=2590
+4	cheated	cheat	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=2591|end_char=2598
+5	Government	government	NOUN	NN	Number=Sing	4	_	_	start_char=2599|end_char=2609
+6	data	datum	NOUN	NNS	Number=Plur	5	_	_	start_char=2610|end_char=2614
+7	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=2615|end_char=2619
+8	that	that	SCONJ	IN	_	7	_	_	start_char=2620|end_char=2624
+9	30	30	NUM	CD	NumForm=Digit|NumType=Card	8	_	_	start_char=2625|end_char=2627
+10	to	to	ADP	IN	_	9	_	_	start_char=2628|end_char=2630
+11	40	40	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=2631|end_char=2633
+12	Indian	Indian	ADJ	JJ	Degree=Pos	11	_	_	start_char=2634|end_char=2640
+13	citizens	citizen	NOUN	NNS	Number=Plur	12	_	_	start_char=2641|end_char=2649
+14	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=2650|end_char=2653
+15	currently	currently	ADV	RB	_	14	_	_	start_char=2654|end_char=2663
+16	in	in	ADP	IN	_	15	_	_	start_char=2664|end_char=2666
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=2667|end_char=2670
+18	Russian	Russian	ADJ	JJ	Degree=Pos	17	_	_	start_char=2671|end_char=2678
+19	army	army	NOUN	NN	Number=Sing	18	_	_	start_char=2679|end_char=2683|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=2683|end_char=2684
+
+# text = About 4 of these people have been killed.
+# sent_id = 29
+1	About	about	ADV	RB	_	0	_	_	start_char=2685|end_char=2690
+2	4	4	NUM	CD	NumForm=Digit|NumType=Card	1	_	_	start_char=2691|end_char=2692
+3	of	of	ADP	IN	_	2	_	_	start_char=2693|end_char=2695
+4	these	this	DET	DT	Number=Plur|PronType=Dem	3	_	_	start_char=2696|end_char=2701
+5	people	person	NOUN	NNS	Number=Plur	4	_	_	start_char=2702|end_char=2708
+6	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=2709|end_char=2713
+7	been	be	AUX	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=2714|end_char=2718
+8	killed	kill	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	_	_	start_char=2719|end_char=2725|SpaceAfter=No
+9	.	.	PUNCT	.	_	8	_	_	start_char=2725|end_char=2726
+
+# text = However, this number can be higher.
+# sent_id = 30
+1	However	however	ADV	RB	_	0	_	_	start_char=2727|end_char=2734|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=2734|end_char=2735
+3	this	this	DET	DT	Number=Sing|PronType=Dem	2	_	_	start_char=2736|end_char=2740
+4	number	number	NOUN	NN	Number=Sing	3	_	_	start_char=2741|end_char=2747
+5	can	can	AUX	MD	VerbForm=Fin	4	_	_	start_char=2748|end_char=2751
+6	be	be	AUX	VB	VerbForm=Inf	5	_	_	start_char=2752|end_char=2754
+7	higher	high	ADJ	JJR	Degree=Cmp	6	_	_	start_char=2755|end_char=2761|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	_	_	start_char=2761|end_char=2762
+
+# text = Since the youth joined the army secretly, it is difficult to give exact figures.
+# sent_id = 31
+1	Since	since	SCONJ	IN	_	0	_	_	start_char=2763|end_char=2768
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=2769|end_char=2772
+3	youth	youth	NOUN	NN	Number=Sing	2	_	_	start_char=2773|end_char=2778
+4	joined	join	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=2779|end_char=2785
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=2786|end_char=2789
+6	army	army	NOUN	NN	Number=Sing	5	_	_	start_char=2790|end_char=2794
+7	secretly	secretly	ADV	RB	_	6	_	_	start_char=2795|end_char=2803|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=2803|end_char=2804
+9	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	_	_	start_char=2805|end_char=2807
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=2808|end_char=2810
+11	difficult	difficult	ADJ	JJ	Degree=Pos	10	_	_	start_char=2811|end_char=2820
+12	to	to	PART	TO	_	11	_	_	start_char=2821|end_char=2823
+13	give	give	VERB	VB	VerbForm=Inf	12	_	_	start_char=2824|end_char=2828
+14	exact	exact	ADJ	JJ	Degree=Pos	13	_	_	start_char=2829|end_char=2834
+15	figures	figure	NOUN	NNS	Number=Plur	14	_	_	start_char=2835|end_char=2842|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=2842|end_char=2843
+
+# text = How India solved the problem The Ministry of External Affairs had raised this issue earlier as well.
+# sent_id = 32
+1	How	how	ADV	WRB	PronType=Int	0	_	_	start_char=2844|end_char=2847
+2	India	India	PROPN	NNP	Number=Sing	1	_	_	start_char=2848|end_char=2853
+3	solved	solve	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=2854|end_char=2860
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=2861|end_char=2864
+5	problem	problem	NOUN	NN	Number=Sing	4	_	_	start_char=2865|end_char=2872
+6	The	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=2873|end_char=2876
+7	Ministry	Ministry	PROPN	NNP	Number=Sing	6	_	_	start_char=2877|end_char=2885
+8	of	of	ADP	IN	_	7	_	_	start_char=2886|end_char=2888
+9	External	External	ADJ	NNP	Degree=Pos	8	_	_	start_char=2889|end_char=2897
+10	Affairs	affair	PROPN	NNPS	Number=Plur	9	_	_	start_char=2898|end_char=2905
+11	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=2906|end_char=2909
+12	raised	raise	VERB	VBN	Tense=Past|VerbForm=Part	11	_	_	start_char=2910|end_char=2916
+13	this	this	DET	DT	Number=Sing|PronType=Dem	12	_	_	start_char=2917|end_char=2921
+14	issue	issue	NOUN	NN	Number=Sing	13	_	_	start_char=2922|end_char=2927
+15	earlier	early	ADV	RBR	Degree=Cmp	14	_	_	start_char=2928|end_char=2935
+16	as	as	ADV	RB	_	15	_	_	start_char=2936|end_char=2938
+17	well	well	ADV	RB	Degree=Pos	16	_	_	start_char=2939|end_char=2943|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=2943|end_char=2944
+
+# text = But now PM Modi talked about it during his visit to Russia.
+# sent_id = 33
+1	But	but	CCONJ	CC	_	0	_	_	start_char=2945|end_char=2948
+2	now	now	ADV	RB	_	1	_	_	start_char=2949|end_char=2952
+3	PM	p.m.	PROPN	NNP	Number=Sing	2	_	_	start_char=2953|end_char=2955
+4	Modi	Modi	PROPN	NNP	Number=Sing	3	_	_	start_char=2956|end_char=2960
+5	talked	talk	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=2961|end_char=2967
+6	about	about	ADP	IN	_	5	_	_	start_char=2968|end_char=2973
+7	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	_	_	start_char=2974|end_char=2976
+8	during	during	ADP	IN	_	7	_	_	start_char=2977|end_char=2983
+9	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	_	_	start_char=2984|end_char=2987
+10	visit	visit	NOUN	NN	Number=Sing	9	_	_	start_char=2988|end_char=2993
+11	to	to	ADP	IN	_	10	_	_	start_char=2994|end_char=2996
+12	Russia	Russia	PROPN	NNP	Number=Sing	11	_	_	start_char=2997|end_char=3003|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=3003|end_char=3004
+
+# text = Russia now seems to be taking direct action on this.
+# sent_id = 34
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=3005|end_char=3011
+2	now	now	ADV	RB	_	1	_	_	start_char=3012|end_char=3015
+3	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=3016|end_char=3021
+4	to	to	PART	TO	_	3	_	_	start_char=3022|end_char=3024
+5	be	be	AUX	VB	VerbForm=Inf	4	_	_	start_char=3025|end_char=3027
+6	taking	take	VERB	VBG	Tense=Pres|VerbForm=Part	5	_	_	start_char=3028|end_char=3034
+7	direct	direct	ADJ	JJ	Degree=Pos	6	_	_	start_char=3035|end_char=3041
+8	action	action	NOUN	NN	Number=Sing	7	_	_	start_char=3042|end_char=3048
+9	on	on	ADP	IN	_	8	_	_	start_char=3049|end_char=3051
+10	this	this	PRON	DT	Number=Sing|PronType=Dem	9	_	_	start_char=3052|end_char=3056|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=3056|end_char=3057
+
+# text = It is promising the return of Indians involved as support staff as soon as possible.
+# sent_id = 35
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=3058|end_char=3060
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=3061|end_char=3063
+3	promising	promise	VERB	VBG	Tense=Pres|VerbForm=Part	2	_	_	start_char=3064|end_char=3073
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=3074|end_char=3077
+5	return	return	NOUN	NN	Number=Sing	4	_	_	start_char=3078|end_char=3084
+6	of	of	ADP	IN	_	5	_	_	start_char=3085|end_char=3087
+7	Indians	Indian	PROPN	NNPS	Number=Plur	6	_	_	start_char=3088|end_char=3095
+8	involved	involve	VERB	VBN	Tense=Past|VerbForm=Part	7	_	_	start_char=3096|end_char=3104
+9	as	as	ADP	IN	_	8	_	_	start_char=3105|end_char=3107
+10	support	support	NOUN	NN	Number=Sing	9	_	_	start_char=3108|end_char=3115
+11	staff	staff	NOUN	NN	Number=Sing	10	_	_	start_char=3116|end_char=3121
+12	as	as	ADV	RB	_	11	_	_	start_char=3122|end_char=3124
+13	soon	soon	ADV	RB	Degree=Pos	12	_	_	start_char=3125|end_char=3129
+14	as	as	SCONJ	IN	_	13	_	_	start_char=3130|end_char=3132
+15	possible	possible	ADJ	JJ	Degree=Pos	14	_	_	start_char=3133|end_char=3141|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=3141|end_char=3142
+
+# text = Along with this, it will also give compensation and Russian citizenship (if desired) to the families of those killed in the war.
+# sent_id = 36
+1	Along	along	ADP	IN	_	0	_	_	start_char=3143|end_char=3148
+2	with	with	ADP	IN	_	1	_	_	start_char=3149|end_char=3153
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	2	_	_	start_char=3154|end_char=3158|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=3158|end_char=3159
+5	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	_	_	start_char=3160|end_char=3162
+6	will	will	AUX	MD	VerbForm=Fin	5	_	_	start_char=3163|end_char=3167
+7	also	also	ADV	RB	_	6	_	_	start_char=3168|end_char=3172
+8	give	give	VERB	VB	VerbForm=Inf	7	_	_	start_char=3173|end_char=3177
+9	compensation	compensation	NOUN	NN	Number=Sing	8	_	_	start_char=3178|end_char=3190
+10	and	and	CCONJ	CC	_	9	_	_	start_char=3191|end_char=3194
+11	Russian	Russian	ADJ	JJ	Degree=Pos	10	_	_	start_char=3195|end_char=3202
+12	citizenship	citizenship	NOUN	NN	Number=Sing	11	_	_	start_char=3203|end_char=3214
+13	(	(	PUNCT	-LRB-	_	12	_	_	start_char=3215|end_char=3216|SpaceAfter=No
+14	if	if	SCONJ	IN	_	13	_	_	start_char=3216|end_char=3218
+15	desired	desire	VERB	VBN	Tense=Past|VerbForm=Part	14	_	_	start_char=3219|end_char=3226|SpaceAfter=No
+16	)	)	PUNCT	-RRB-	_	15	_	_	start_char=3226|end_char=3227
+17	to	to	ADP	IN	_	16	_	_	start_char=3228|end_char=3230
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=3231|end_char=3234
+19	families	family	NOUN	NNS	Number=Plur	18	_	_	start_char=3235|end_char=3243
+20	of	of	ADP	IN	_	19	_	_	start_char=3244|end_char=3246
+21	those	that	PRON	DT	Number=Plur|PronType=Dem	20	_	_	start_char=3247|end_char=3252
+22	killed	kill	VERB	VBN	Tense=Past|VerbForm=Part	21	_	_	start_char=3253|end_char=3259
+23	in	in	ADP	IN	_	22	_	_	start_char=3260|end_char=3262
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=3263|end_char=3266
+25	war	war	NOUN	NN	Number=Sing	24	_	_	start_char=3267|end_char=3270|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=3270|end_char=3271
+
+# text = Did youths from any other country other than India also reach there?
+# sent_id = 37
+1	Did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	_	_	start_char=3272|end_char=3275
+2	youths	youth	NOUN	NNS	Number=Plur	1	_	_	start_char=3276|end_char=3282
+3	from	from	ADP	IN	_	2	_	_	start_char=3283|end_char=3287
+4	any	any	DET	DT	_	3	_	_	start_char=3288|end_char=3291
+5	other	other	ADJ	JJ	Degree=Pos	4	_	_	start_char=3292|end_char=3297
+6	country	country	NOUN	NN	Number=Sing	5	_	_	start_char=3298|end_char=3305
+7	other	other	ADJ	JJ	Degree=Pos	6	_	_	start_char=3306|end_char=3311
+8	than	than	ADP	IN	_	7	_	_	start_char=3312|end_char=3316
+9	India	India	PROPN	NNP	Number=Sing	8	_	_	start_char=3317|end_char=3322
+10	also	also	ADV	RB	_	9	_	_	start_char=3323|end_char=3327
+11	reach	reach	VERB	VB	VerbForm=Inf	10	_	_	start_char=3328|end_char=3333
+12	there	there	ADV	RB	PronType=Dem	11	_	_	start_char=3334|end_char=3339|SpaceAfter=No
+13	?	?	PUNCT	.	_	12	_	_	start_char=3339|end_char=3340
+
+# text = Nepal has already said that many of its youths have joined the army illegally.
+# sent_id = 38
+1	Nepal	Nepal	PROPN	NNP	Number=Sing	0	_	_	start_char=3341|end_char=3346
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=3347|end_char=3350
+3	already	already	ADV	RB	_	2	_	_	start_char=3351|end_char=3358
+4	said	say	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=3359|end_char=3363
+5	that	that	SCONJ	IN	_	4	_	_	start_char=3364|end_char=3368
+6	many	many	ADJ	JJ	Degree=Pos	5	_	_	start_char=3369|end_char=3373
+7	of	of	ADP	IN	_	6	_	_	start_char=3374|end_char=3376
+8	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	_	_	start_char=3377|end_char=3380
+9	youths	youth	NOUN	NNS	Number=Plur	8	_	_	start_char=3381|end_char=3387
+10	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=3388|end_char=3392
+11	joined	join	VERB	VBN	Tense=Past|VerbForm=Part	10	_	_	start_char=3393|end_char=3399
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=3400|end_char=3403
+13	army	army	NOUN	NN	Number=Sing	12	_	_	start_char=3404|end_char=3408
+14	illegally	illegally	ADV	RB	_	13	_	_	start_char=3409|end_char=3418|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=3418|end_char=3419
+
+# text = This number can be more than 200.
+# sent_id = 39
+1	This	this	DET	DT	Number=Sing|PronType=Dem	0	_	_	start_char=3420|end_char=3424
+2	number	number	NOUN	NN	Number=Sing	1	_	_	start_char=3425|end_char=3431
+3	can	can	AUX	MD	VerbForm=Fin	2	_	_	start_char=3432|end_char=3435
+4	be	be	AUX	VB	VerbForm=Inf	3	_	_	start_char=3436|end_char=3438
+5	more	more	ADJ	JJR	Degree=Cmp	4	_	_	start_char=3439|end_char=3443
+6	than	than	ADP	IN	_	5	_	_	start_char=3444|end_char=3448
+7	200	200	NUM	CD	NumForm=Digit|NumType=Card	6	_	_	start_char=3449|end_char=3452|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	_	_	start_char=3452|end_char=3453
+
+# text = In January this year, the Nepal government stopped giving permits to its people for Russia and Ukraine.
+# sent_id = 40
+1	In	in	ADP	IN	_	0	_	_	start_char=3454|end_char=3456
+2	January	January	PROPN	NNP	Number=Sing	1	_	_	start_char=3457|end_char=3464
+3	this	this	DET	DT	Number=Sing|PronType=Dem	2	_	_	start_char=3465|end_char=3469
+4	year	year	NOUN	NN	Number=Sing	3	_	_	start_char=3470|end_char=3474|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=3474|end_char=3475
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=3476|end_char=3479
+7	Nepal	Nepal	PROPN	NNP	Number=Sing	6	_	_	start_char=3480|end_char=3485
+8	government	government	NOUN	NN	Number=Sing	7	_	_	start_char=3486|end_char=3496
+9	stopped	stop	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=3497|end_char=3504
+10	giving	give	VERB	VBG	VerbForm=Ger	9	_	_	start_char=3505|end_char=3511
+11	permits	permit	NOUN	NNS	Number=Plur	10	_	_	start_char=3512|end_char=3519
+12	to	to	ADP	IN	_	11	_	_	start_char=3520|end_char=3522
+13	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	_	_	start_char=3523|end_char=3526
+14	people	person	NOUN	NNS	Number=Plur	13	_	_	start_char=3527|end_char=3533
+15	for	for	ADP	IN	_	14	_	_	start_char=3534|end_char=3537
+16	Russia	Russia	PROPN	NNP	Number=Sing	15	_	_	start_char=3538|end_char=3544
+17	and	and	CCONJ	CC	_	16	_	_	start_char=3545|end_char=3548
+18	Ukraine	Ukraine	PROPN	NNP	Number=Sing	17	_	_	start_char=3549|end_char=3556|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=3556|end_char=3557
+
+# text = Sri Lanka had also made similar allegations.
+# sent_id = 41
+1	Sri	Sri	PROPN	NNP	Number=Sing	0	_	_	start_char=3558|end_char=3561
+2	Lanka	Lanka	PROPN	NNP	Number=Sing	1	_	_	start_char=3562|end_char=3567
+3	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=3568|end_char=3571
+4	also	also	ADV	RB	_	3	_	_	start_char=3572|end_char=3576
+5	made	make	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=3577|end_char=3581
+6	similar	similar	ADJ	JJ	Degree=Pos	5	_	_	start_char=3582|end_char=3589
+7	allegations	allegation	NOUN	NNS	Number=Plur	6	_	_	start_char=3590|end_char=3601|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	_	_	start_char=3601|end_char=3602
+
+# text = It said that not only Russia, Ukraine also made false promises to its people and deceived them into the war.
+# sent_id = 42
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=3603|end_char=3605
+2	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=3606|end_char=3610
+3	that	that	SCONJ	IN	_	2	_	_	start_char=3611|end_char=3615
+4	not	not	PART	RB	_	3	_	_	start_char=3616|end_char=3619
+5	only	only	ADV	RB	_	4	_	_	start_char=3620|end_char=3624
+6	Russia	Russia	PROPN	NNP	Number=Sing	5	_	_	start_char=3625|end_char=3631|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=3631|end_char=3632
+8	Ukraine	Ukraine	PROPN	NNP	Number=Sing	7	_	_	start_char=3633|end_char=3640
+9	also	also	ADV	RB	_	8	_	_	start_char=3641|end_char=3645
+10	made	make	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=3646|end_char=3650
+11	false	false	ADJ	JJ	Degree=Pos	10	_	_	start_char=3651|end_char=3656
+12	promises	promise	NOUN	NNS	Number=Plur	11	_	_	start_char=3657|end_char=3665
+13	to	to	ADP	IN	_	12	_	_	start_char=3666|end_char=3668
+14	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	_	_	start_char=3669|end_char=3672
+15	people	person	NOUN	NNS	Number=Plur	14	_	_	start_char=3673|end_char=3679
+16	and	and	CCONJ	CC	_	15	_	_	start_char=3680|end_char=3683
+17	deceived	deceive	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	_	_	start_char=3684|end_char=3692
+18	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	17	_	_	start_char=3693|end_char=3697
+19	into	into	ADP	IN	_	18	_	_	start_char=3698|end_char=3702
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=3703|end_char=3706
+21	war	war	NOUN	NN	Number=Sing	20	_	_	start_char=3707|end_char=3710|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=3710|end_char=3711
+
+# text = Allegedly, 37 such Sri Lankan youths were badly injured, while many have died.
+# sent_id = 43
+1	Allegedly	allegedly	ADV	RB	_	0	_	_	start_char=3712|end_char=3721|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=3721|end_char=3722
+3	37	37	NUM	CD	NumForm=Digit|NumType=Card	2	_	_	start_char=3723|end_char=3725
+4	such	such	ADJ	JJ	Degree=Pos	3	_	_	start_char=3726|end_char=3730
+5	Sri	sri	ADJ	JJ	Degree=Pos	4	_	_	start_char=3731|end_char=3734
+6	Lankan	lankan	ADJ	JJ	Degree=Pos	5	_	_	start_char=3735|end_char=3741
+7	youths	youth	NOUN	NNS	Number=Plur	6	_	_	start_char=3742|end_char=3748
+8	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=3749|end_char=3753
+9	badly	badly	ADV	RB	Degree=Pos	8	_	_	start_char=3754|end_char=3759
+10	injured	injure	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	9	_	_	start_char=3760|end_char=3767|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=3767|end_char=3768
+12	while	while	SCONJ	IN	_	11	_	_	start_char=3769|end_char=3774
+13	many	many	ADJ	JJ	Degree=Pos	12	_	_	start_char=3775|end_char=3779
+14	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=3780|end_char=3784
+15	died	die	VERB	VBN	Tense=Past|VerbForm=Part	14	_	_	start_char=3785|end_char=3789|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=3789|end_char=3790
+
+# text = The death toll is not clear here.
+# sent_id = 44
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=3791|end_char=3794
+2	death	death	NOUN	NN	Number=Sing	1	_	_	start_char=3795|end_char=3800
+3	toll	toll	NOUN	NN	Number=Sing	2	_	_	start_char=3801|end_char=3805
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=3806|end_char=3808
+5	not	not	PART	RB	_	4	_	_	start_char=3809|end_char=3812
+6	clear	clear	ADJ	JJ	Degree=Pos	5	_	_	start_char=3813|end_char=3818
+7	here	here	ADV	RB	PronType=Dem	6	_	_	start_char=3819|end_char=3823|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	_	_	start_char=3823|end_char=3824
+
+# text = Let us tell you here that Nepal has an agreement that its fighters can join the army of India and Britain.
+# sent_id = 45
+1	Let	let	VERB	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=3825|end_char=3828
+2	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	1	_	_	start_char=3829|end_char=3831
+3	tell	tell	VERB	VB	VerbForm=Inf	2	_	_	start_char=3832|end_char=3836
+4	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3	_	_	start_char=3837|end_char=3840
+5	here	here	ADV	RB	PronType=Dem	4	_	_	start_char=3841|end_char=3845
+6	that	that	SCONJ	IN	_	5	_	_	start_char=3846|end_char=3850
+7	Nepal	Nepal	PROPN	NNP	Number=Sing	6	_	_	start_char=3851|end_char=3856
+8	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=3857|end_char=3860
+9	an	a	DET	DT	Definite=Ind|PronType=Art	8	_	_	start_char=3861|end_char=3863
+10	agreement	agreement	NOUN	NN	Number=Sing	9	_	_	start_char=3864|end_char=3873
+11	that	that	SCONJ	IN	_	10	_	_	start_char=3874|end_char=3878
+12	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	_	_	start_char=3879|end_char=3882
+13	fighters	fighter	NOUN	NNS	Number=Plur	12	_	_	start_char=3883|end_char=3891
+14	can	can	AUX	MD	VerbForm=Fin	13	_	_	start_char=3892|end_char=3895
+15	join	join	VERB	VB	VerbForm=Inf	14	_	_	start_char=3896|end_char=3900
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=3901|end_char=3904
+17	army	army	NOUN	NN	Number=Sing	16	_	_	start_char=3905|end_char=3909
+18	of	of	ADP	IN	_	17	_	_	start_char=3910|end_char=3912
+19	India	India	PROPN	NNP	Number=Sing	18	_	_	start_char=3913|end_char=3918
+20	and	and	CCONJ	CC	_	19	_	_	start_char=3919|end_char=3922
+21	Britain	Britain	PROPN	NNP	Number=Sing	20	_	_	start_char=3923|end_char=3930|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=3930|end_char=3931
+
+# text = On the other hand, Sri Lanka does not allow its people to serve in the foreign army.
+# sent_id = 46
+1	On	on	ADP	IN	_	0	_	_	start_char=3932|end_char=3934
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=3935|end_char=3938
+3	other	other	ADJ	JJ	Degree=Pos	2	_	_	start_char=3939|end_char=3944
+4	hand	hand	NOUN	NN	Number=Sing	3	_	_	start_char=3945|end_char=3949|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=3949|end_char=3950
+6	Sri	Sri	PROPN	NNP	Number=Sing	5	_	_	start_char=3951|end_char=3954
+7	Lanka	Lanka	PROPN	NNP	Number=Sing	6	_	_	start_char=3955|end_char=3960
+8	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=3961|end_char=3965
+9	not	not	PART	RB	_	8	_	_	start_char=3966|end_char=3969
+10	allow	allow	VERB	VB	VerbForm=Inf	9	_	_	start_char=3970|end_char=3975
+11	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	_	_	start_char=3976|end_char=3979
+12	people	person	NOUN	NNS	Number=Plur	11	_	_	start_char=3980|end_char=3986
+13	to	to	PART	TO	_	12	_	_	start_char=3987|end_char=3989
+14	serve	serve	VERB	VB	VerbForm=Inf	13	_	_	start_char=3990|end_char=3995
+15	in	in	ADP	IN	_	14	_	_	start_char=3996|end_char=3998
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=3999|end_char=4002
+17	foreign	foreign	ADJ	JJ	Degree=Pos	16	_	_	start_char=4003|end_char=4010
+18	army	army	NOUN	NN	Number=Sing	17	_	_	start_char=4011|end_char=4015|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=4015|end_char=4016|SpaceAfter=No
+

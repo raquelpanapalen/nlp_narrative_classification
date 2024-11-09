@@ -1,0 +1,544 @@
+# text = Prime Minister Narendra Modi is on a two-day visit to Russia.
+# sent_id = 0
+1	Prime	Prime	ADJ	NNP	Degree=Pos	0	_	_	start_char=0|end_char=5
+2	Minister	Minister	PROPN	NNP	Number=Sing	1	_	_	start_char=6|end_char=14
+3	Narendra	Narendra	PROPN	NNP	Number=Sing	2	_	_	start_char=15|end_char=23
+4	Modi	Modi	PROPN	NNP	Number=Sing	3	_	_	start_char=24|end_char=28
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=29|end_char=31
+6	on	on	ADP	IN	_	5	_	_	start_char=32|end_char=34
+7	a	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=35|end_char=36
+8	two	two	NUM	CD	NumForm=Word|NumType=Card	7	_	_	start_char=37|end_char=40|SpaceAfter=No
+9	-	-	PUNCT	HYPH	_	8	_	_	start_char=40|end_char=41|SpaceAfter=No
+10	day	day	NOUN	NN	Number=Sing	9	_	_	start_char=41|end_char=44
+11	visit	visit	NOUN	NN	Number=Sing	10	_	_	start_char=45|end_char=50
+12	to	to	ADP	IN	_	11	_	_	start_char=51|end_char=53
+13	Russia	Russia	PROPN	NNP	Number=Sing	12	_	_	start_char=54|end_char=60|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=60|end_char=61
+
+# text = During this, PM Modi appealed to President Vladimir Putin to end Ukraine.
+# sent_id = 1
+1	During	during	ADP	IN	_	0	_	_	start_char=62|end_char=68
+2	this	this	PRON	DT	Number=Sing|PronType=Dem	1	_	_	start_char=69|end_char=73|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=73|end_char=74
+4	PM	p.m.	PROPN	NNP	Number=Sing	3	_	_	start_char=75|end_char=77
+5	Modi	Modi	PROPN	NNP	Number=Sing	4	_	_	start_char=78|end_char=82
+6	appealed	appeal	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=83|end_char=91
+7	to	to	ADP	IN	_	6	_	_	start_char=92|end_char=94
+8	President	President	PROPN	NNP	Number=Sing	7	_	_	start_char=95|end_char=104
+9	Vladimir	Vladimir	PROPN	NNP	Number=Sing	8	_	_	start_char=105|end_char=113
+10	Putin	Putin	PROPN	NNP	Number=Sing	9	_	_	start_char=114|end_char=119
+11	to	to	PART	TO	_	10	_	_	start_char=120|end_char=122
+12	end	end	VERB	VB	VerbForm=Inf	11	_	_	start_char=123|end_char=126
+13	Ukraine	Ukraine	PROPN	NNP	Number=Sing	12	_	_	start_char=127|end_char=134|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=134|end_char=135
+
+# text = He said that no solution is going to come out of the battlefield.
+# sent_id = 2
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=136|end_char=138
+2	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=139|end_char=143
+3	that	that	SCONJ	IN	_	2	_	_	start_char=144|end_char=148
+4	no	no	DET	DT	_	3	_	_	start_char=149|end_char=151
+5	solution	solution	NOUN	NN	Number=Sing	4	_	_	start_char=152|end_char=160
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=161|end_char=163
+7	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	6	_	_	start_char=164|end_char=169
+8	to	to	PART	TO	_	7	_	_	start_char=170|end_char=172
+9	come	come	VERB	VB	VerbForm=Inf	8	_	_	start_char=173|end_char=177
+10	out	out	ADP	IN	_	9	_	_	start_char=178|end_char=181
+11	of	of	ADP	IN	_	10	_	_	start_char=182|end_char=184
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=185|end_char=188
+13	battlefield	battlefield	NOUN	NN	Number=Sing	12	_	_	start_char=189|end_char=200|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=200|end_char=201
+
+# text = Russia and Ukraine have been at war for the last two years.
+# sent_id = 3
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=202|end_char=208
+2	and	and	CCONJ	CC	_	1	_	_	start_char=209|end_char=212
+3	Ukraine	Ukraine	PROPN	NNP	Number=Sing	2	_	_	start_char=213|end_char=220
+4	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=221|end_char=225
+5	been	be	AUX	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=226|end_char=230
+6	at	at	ADP	IN	_	5	_	_	start_char=231|end_char=233
+7	war	war	NOUN	NN	Number=Sing	6	_	_	start_char=234|end_char=237
+8	for	for	ADP	IN	_	7	_	_	start_char=238|end_char=241
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=242|end_char=245
+10	last	last	ADJ	JJ	Degree=Pos	9	_	_	start_char=246|end_char=250
+11	two	two	NUM	CD	NumForm=Word|NumType=Card	10	_	_	start_char=251|end_char=254
+12	years	year	NOUN	NNS	Number=Plur	11	_	_	start_char=255|end_char=260|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=260|end_char=261
+
+# text = This is PM Modi&#39;s first visit to Russia after Russia&#39;s attack on Ukraine.
+# sent_id = 4
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=262|end_char=266
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=267|end_char=269
+3	PM	p.m.	NOUN	NN	Number=Sing	2	_	_	start_char=270|end_char=272
+4	Modi&	Modi&	PROPN	NNP	Number=Sing	3	_	_	start_char=273|end_char=278|SpaceAfter=No
+5	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	4	_	_	start_char=278|end_char=281|SpaceAfter=No
+6	;	;	PUNCT	:	_	5	_	_	start_char=281|end_char=282|SpaceAfter=No
+7	s	's	PART	POS	Typo=Yes	6	_	_	start_char=282|end_char=283
+8	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	7	_	_	start_char=284|end_char=289
+9	visit	visit	NOUN	NN	Number=Sing	8	_	_	start_char=290|end_char=295
+10	to	to	ADP	IN	_	9	_	_	start_char=296|end_char=298
+11	Russia	Russia	PROPN	NNP	Number=Sing	10	_	_	start_char=299|end_char=305
+12	after	after	ADP	IN	_	11	_	_	start_char=306|end_char=311
+13	Russia&	Russia&	PROPN	NNP	Number=Sing	12	_	_	start_char=312|end_char=319|SpaceAfter=No
+14	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	13	_	_	start_char=319|end_char=322|SpaceAfter=No
+15	;	;	PUNCT	:	_	14	_	_	start_char=322|end_char=323|SpaceAfter=No
+16	s	's	PART	POS	Typo=Yes	15	_	_	start_char=323|end_char=324
+17	attack	attack	NOUN	NN	Number=Sing	16	_	_	start_char=325|end_char=331
+18	on	on	ADP	IN	_	17	_	_	start_char=332|end_char=334
+19	Ukraine	Ukraine	PROPN	NNP	Number=Sing	18	_	_	start_char=335|end_char=342|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=342|end_char=343
+
+# text = On the first day of the visit, President Putin invited PM Modi to his official residence &#39;Novo-Ogaryovo&#39; for dinner.
+# sent_id = 5
+1	On	on	ADP	IN	_	0	_	_	start_char=344|end_char=346
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=347|end_char=350
+3	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	2	_	_	start_char=351|end_char=356
+4	day	day	NOUN	NN	Number=Sing	3	_	_	start_char=357|end_char=360
+5	of	of	ADP	IN	_	4	_	_	start_char=361|end_char=363
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=364|end_char=367
+7	visit	visit	NOUN	NN	Number=Sing	6	_	_	start_char=368|end_char=373|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=373|end_char=374
+9	President	President	PROPN	NNP	Number=Sing	8	_	_	start_char=375|end_char=384
+10	Putin	Putin	PROPN	NNP	Number=Sing	9	_	_	start_char=385|end_char=390
+11	invited	invite	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=391|end_char=398
+12	PM	p.m.	NOUN	NN	Number=Sing	11	_	_	start_char=399|end_char=401
+13	Modi	Modi	PROPN	NNP	Number=Sing	12	_	_	start_char=402|end_char=406
+14	to	to	ADP	IN	_	13	_	_	start_char=407|end_char=409
+15	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	_	_	start_char=410|end_char=413
+16	official	official	ADJ	JJ	Degree=Pos	15	_	_	start_char=414|end_char=422
+17	residence	residence	NOUN	NN	Number=Sing	16	_	_	start_char=423|end_char=432
+18	&	&	CCONJ	CC	_	17	_	_	start_char=433|end_char=434|SpaceAfter=No
+19	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	18	_	_	start_char=434|end_char=437|SpaceAfter=No
+20	;	;	PUNCT	:	_	19	_	_	start_char=437|end_char=438|SpaceAfter=No
+21	Novo	Novo	PROPN	NNP	Number=Sing	20	_	_	start_char=438|end_char=442|SpaceAfter=No
+22	-	-	PUNCT	HYPH	_	21	_	_	start_char=442|end_char=443|SpaceAfter=No
+23	Ogaryovo&	Ogaryovo&	PROPN	NNP	Number=Sing	22	_	_	start_char=443|end_char=452|SpaceAfter=No
+24	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	23	_	_	start_char=452|end_char=455|SpaceAfter=No
+25	;	;	PUNCT	:	_	24	_	_	start_char=455|end_char=456
+26	for	for	ADP	IN	_	25	_	_	start_char=457|end_char=460
+27	dinner	dinner	NOUN	NN	Number=Sing	26	_	_	start_char=461|end_char=467|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=467|end_char=468
+
+# text = During this, Putin praised PM Modi for the work done for India&#39;s progress.
+# sent_id = 6
+1	During	during	ADP	IN	_	0	_	_	start_char=469|end_char=475
+2	this	this	PRON	DT	Number=Sing|PronType=Dem	1	_	_	start_char=476|end_char=480|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=480|end_char=481
+4	Putin	Putin	PROPN	NNP	Number=Sing	3	_	_	start_char=482|end_char=487
+5	praised	praise	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=488|end_char=495
+6	PM	p.m.	PROPN	NNP	Number=Sing	5	_	_	start_char=496|end_char=498
+7	Modi	Modi	PROPN	NNP	Number=Sing	6	_	_	start_char=499|end_char=503
+8	for	for	ADP	IN	_	7	_	_	start_char=504|end_char=507
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=508|end_char=511
+10	work	work	NOUN	NN	Number=Sing	9	_	_	start_char=512|end_char=516
+11	done	do	VERB	VBN	Tense=Past|VerbForm=Part	10	_	_	start_char=517|end_char=521
+12	for	for	ADP	IN	_	11	_	_	start_char=522|end_char=525
+13	India&	India&	PROPN	NNP	Number=Sing	12	_	_	start_char=526|end_char=532|SpaceAfter=No
+14	#	#	SYM	NN	Number=Sing	13	_	_	start_char=532|end_char=533|SpaceAfter=No
+15	39	39	NUM	CD	NumForm=Digit|NumType=Card	14	_	_	start_char=533|end_char=535|SpaceAfter=No
+16	;	;	PUNCT	:	_	15	_	_	start_char=535|end_char=536|SpaceAfter=No
+17	s	's	PART	POS	Typo=Yes	16	_	_	start_char=536|end_char=537
+18	progress	progress	NOUN	NN	Number=Sing	17	_	_	start_char=538|end_char=546|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=546|end_char=547
+
+# text = What did PM Modi say to President Putin In an informal meeting with President Vladimir Putin in Moscow, PM Modi told him that no solution can be found on the battlefield.
+# sent_id = 7
+1	What	what	PRON	WP	PronType=Int	0	_	_	start_char=548|end_char=552
+2	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=553|end_char=556
+3	PM	p.m.	PROPN	NNP	Number=Sing	2	_	_	start_char=557|end_char=559
+4	Modi	Modi	PROPN	NNP	Number=Sing	3	_	_	start_char=560|end_char=564
+5	say	say	VERB	VB	VerbForm=Inf	4	_	_	start_char=565|end_char=568
+6	to	to	ADP	IN	_	5	_	_	start_char=569|end_char=571
+7	President	President	PROPN	NNP	Number=Sing	6	_	_	start_char=572|end_char=581
+8	Putin	Putin	PROPN	NNP	Number=Sing	7	_	_	start_char=582|end_char=587
+9	In	in	ADP	IN	_	8	_	_	start_char=588|end_char=590
+10	an	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=591|end_char=593
+11	informal	informal	ADJ	JJ	Degree=Pos	10	_	_	start_char=594|end_char=602
+12	meeting	meeting	NOUN	NN	Number=Sing	11	_	_	start_char=603|end_char=610
+13	with	with	ADP	IN	_	12	_	_	start_char=611|end_char=615
+14	President	President	PROPN	NNP	Number=Sing	13	_	_	start_char=616|end_char=625
+15	Vladimir	Vladimir	PROPN	NNP	Number=Sing	14	_	_	start_char=626|end_char=634
+16	Putin	Putin	PROPN	NNP	Number=Sing	15	_	_	start_char=635|end_char=640
+17	in	in	ADP	IN	_	16	_	_	start_char=641|end_char=643
+18	Moscow	Moscow	PROPN	NNP	Number=Sing	17	_	_	start_char=644|end_char=650|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=650|end_char=651
+20	PM	p.m.	PROPN	NNP	Number=Sing	19	_	_	start_char=652|end_char=654
+21	Modi	Modi	PROPN	NNP	Number=Sing	20	_	_	start_char=655|end_char=659
+22	told	tell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	_	_	start_char=660|end_char=664
+23	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	_	_	start_char=665|end_char=668
+24	that	that	SCONJ	IN	_	23	_	_	start_char=669|end_char=673
+25	no	no	DET	DT	_	24	_	_	start_char=674|end_char=676
+26	solution	solution	NOUN	NN	Number=Sing	25	_	_	start_char=677|end_char=685
+27	can	can	AUX	MD	VerbForm=Fin	26	_	_	start_char=686|end_char=689
+28	be	be	AUX	VB	VerbForm=Inf	27	_	_	start_char=690|end_char=692
+29	found	find	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	28	_	_	start_char=693|end_char=698
+30	on	on	ADP	IN	_	29	_	_	start_char=699|end_char=701
+31	the	the	DET	DT	Definite=Def|PronType=Art	30	_	_	start_char=702|end_char=705
+32	battlefield	battlefield	NOUN	NN	Number=Sing	31	_	_	start_char=706|end_char=717|SpaceAfter=No
+33	.	.	PUNCT	.	_	32	_	_	start_char=717|end_char=718
+
+# text = PM Modi told Putin during dinner, &quot;India has always appealed to respect the United Nations Charter, including territorial integrity and sovereignty.
+# sent_id = 8
+1	PM	p.m.	NOUN	NN	Number=Sing	0	_	_	start_char=719|end_char=721
+2	Modi	Modi	PROPN	NNP	Number=Sing	1	_	_	start_char=722|end_char=726
+3	told	tell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=727|end_char=731
+4	Putin	Putin	PROPN	NNP	Number=Sing	3	_	_	start_char=732|end_char=737
+5	during	during	ADP	IN	_	4	_	_	start_char=738|end_char=744
+6	dinner	dinner	NOUN	NN	Number=Sing	5	_	_	start_char=745|end_char=751|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=751|end_char=752
+8	&quot	&quot	NOUN	NN	Number=Sing	7	_	_	start_char=753|end_char=758|SpaceAfter=No
+9	;	;	PUNCT	:	_	8	_	_	start_char=758|end_char=759|SpaceAfter=No
+10	India	India	PROPN	NNP	Number=Sing	9	_	_	start_char=759|end_char=764
+11	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=765|end_char=768
+12	always	always	ADV	RB	_	11	_	_	start_char=769|end_char=775
+13	appealed	appeal	VERB	VBN	Tense=Past|VerbForm=Part	12	_	_	start_char=776|end_char=784
+14	to	to	PART	TO	_	13	_	_	start_char=785|end_char=787
+15	respect	respect	VERB	VB	VerbForm=Inf	14	_	_	start_char=788|end_char=795
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=796|end_char=799
+17	United	United	ADJ	NNP	Degree=Pos	16	_	_	start_char=800|end_char=806
+18	Nations	Nation	PROPN	NNPS	Number=Plur	17	_	_	start_char=807|end_char=814
+19	Charter	Charter	PROPN	NNP	Number=Sing	18	_	_	start_char=815|end_char=822|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=822|end_char=823
+21	including	include	VERB	VBG	VerbForm=Ger	20	_	_	start_char=824|end_char=833
+22	territorial	territorial	ADJ	JJ	Degree=Pos	21	_	_	start_char=834|end_char=845
+23	integrity	integrity	NOUN	NN	Number=Sing	22	_	_	start_char=846|end_char=855
+24	and	and	CCONJ	CC	_	23	_	_	start_char=856|end_char=859
+25	sovereignty	sovereignty	NOUN	NN	Number=Sing	24	_	_	start_char=860|end_char=871|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=871|end_char=872
+
+# text = There is no solution on the battlefield.
+# sent_id = 9
+1	There	there	PRON	EX	_	0	_	_	start_char=873|end_char=878
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=879|end_char=881
+3	no	no	DET	DT	_	2	_	_	start_char=882|end_char=884
+4	solution	solution	NOUN	NN	Number=Sing	3	_	_	start_char=885|end_char=893
+5	on	on	ADP	IN	_	4	_	_	start_char=894|end_char=896
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=897|end_char=900
+7	battlefield	battlefield	NOUN	NN	Number=Sing	6	_	_	start_char=901|end_char=912|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	_	_	start_char=912|end_char=913
+
+# text = Dialogue and diplomacy are the way forward.
+# sent_id = 10
+1	Dialogue	dialogue	NOUN	NN	Number=Sing	0	_	_	start_char=914|end_char=922
+2	and	and	CCONJ	CC	_	1	_	_	start_char=923|end_char=926
+3	diplomacy	diplomacy	NOUN	NN	Number=Sing	2	_	_	start_char=927|end_char=936
+4	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=937|end_char=940
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=941|end_char=944
+6	way	way	NOUN	NN	Number=Sing	5	_	_	start_char=945|end_char=948
+7	forward	forward	ADV	RB	_	6	_	_	start_char=949|end_char=956|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	_	_	start_char=956|end_char=957|SpaceAfter=No
+
+# text = &quot; During this, PM Modi also raised the issue of Indians fraudulently recruited in the Russian army.
+# sent_id = 11
+1	&quot	&quot	NOUN	NN	Number=Sing	0	_	_	start_char=957|end_char=962|SpaceAfter=No
+2	;	;	PUNCT	:	_	1	_	_	start_char=962|end_char=963
+3	During	during	ADP	IN	_	2	_	_	start_char=964|end_char=970
+4	this	this	PRON	DT	Number=Sing|PronType=Dem	3	_	_	start_char=971|end_char=975|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=975|end_char=976
+6	PM	p.m.	NOUN	NN	Number=Sing	5	_	_	start_char=977|end_char=979
+7	Modi	Modi	PROPN	NNP	Number=Sing	6	_	_	start_char=980|end_char=984
+8	also	also	ADV	RB	_	7	_	_	start_char=985|end_char=989
+9	raised	raise	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=990|end_char=996
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=997|end_char=1000
+11	issue	issue	NOUN	NN	Number=Sing	10	_	_	start_char=1001|end_char=1006
+12	of	of	ADP	IN	_	11	_	_	start_char=1007|end_char=1009
+13	Indians	Indian	PROPN	NNPS	Number=Plur	12	_	_	start_char=1010|end_char=1017
+14	fraudulently	fraudulently	ADV	RB	_	13	_	_	start_char=1018|end_char=1030
+15	recruited	recruit	VERB	VBN	Tense=Past|VerbForm=Part	14	_	_	start_char=1031|end_char=1040
+16	in	in	ADP	IN	_	15	_	_	start_char=1041|end_char=1043
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=1044|end_char=1047
+18	Russian	Russian	ADJ	JJ	Degree=Pos	17	_	_	start_char=1048|end_char=1055
+19	army	army	NOUN	NN	Number=Sing	18	_	_	start_char=1056|end_char=1060|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=1060|end_char=1061
+
+# text = According to s, Russia has assured to release such people.
+# sent_id = 12
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=1062|end_char=1071
+2	to	to	ADP	IN	_	1	_	_	start_char=1072|end_char=1074
+3	s	's	PART	POS	Typo=Yes	2	_	_	start_char=1075|end_char=1076|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1076|end_char=1077
+5	Russia	Russia	PROPN	NNP	Number=Sing	4	_	_	start_char=1078|end_char=1084
+6	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1085|end_char=1088
+7	assured	assure	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=1089|end_char=1096
+8	to	to	PART	TO	_	7	_	_	start_char=1097|end_char=1099
+9	release	release	VERB	VB	VerbForm=Inf	8	_	_	start_char=1100|end_char=1107
+10	such	such	ADJ	JJ	Degree=Pos	9	_	_	start_char=1108|end_char=1112
+11	people	person	NOUN	NNS	Number=Plur	10	_	_	start_char=1113|end_char=1119|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=1119|end_char=1120
+
+# text = It is believed that more than 20 Indians are fighting on behalf of Russia in the ongoing war against Ukraine.
+# sent_id = 13
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1121|end_char=1123
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1124|end_char=1126
+3	believed	believe	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	_	_	start_char=1127|end_char=1135
+4	that	that	SCONJ	IN	_	3	_	_	start_char=1136|end_char=1140
+5	more	more	ADJ	JJR	Degree=Cmp	4	_	_	start_char=1141|end_char=1145
+6	than	than	ADP	IN	_	5	_	_	start_char=1146|end_char=1150
+7	20	20	NUM	CD	NumForm=Digit|NumType=Card	6	_	_	start_char=1151|end_char=1153
+8	Indians	Indian	PROPN	NNPS	Number=Plur	7	_	_	start_char=1154|end_char=1161
+9	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=1162|end_char=1165
+10	fighting	fight	VERB	VBG	Tense=Pres|VerbForm=Part	9	_	_	start_char=1166|end_char=1174
+11	on	on	ADP	IN	_	10	_	_	start_char=1175|end_char=1177
+12	behalf	behalf	NOUN	NN	Number=Sing	11	_	_	start_char=1178|end_char=1184
+13	of	of	ADP	IN	_	12	_	_	start_char=1185|end_char=1187
+14	Russia	Russia	PROPN	NNP	Number=Sing	13	_	_	start_char=1188|end_char=1194
+15	in	in	ADP	IN	_	14	_	_	start_char=1195|end_char=1197
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=1198|end_char=1201
+17	ongoing	ongoing	ADJ	JJ	Degree=Pos	16	_	_	start_char=1202|end_char=1209
+18	war	war	NOUN	NN	Number=Sing	17	_	_	start_char=1210|end_char=1213
+19	against	against	ADP	IN	_	18	_	_	start_char=1214|end_char=1221
+20	Ukraine	Ukraine	PROPN	NNP	Number=Sing	19	_	_	start_char=1222|end_char=1229|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=1229|end_char=1230
+
+# text = These people were sent to Russia by Indian travel agents on the pretext of getting them high-paying jobs.
+# sent_id = 14
+1	These	this	DET	DT	Number=Plur|PronType=Dem	0	_	_	start_char=1231|end_char=1236
+2	people	person	NOUN	NNS	Number=Plur	1	_	_	start_char=1237|end_char=1243
+3	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1244|end_char=1248
+4	sent	send	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=1249|end_char=1253
+5	to	to	ADP	IN	_	4	_	_	start_char=1254|end_char=1256
+6	Russia	Russia	PROPN	NNP	Number=Sing	5	_	_	start_char=1257|end_char=1263
+7	by	by	ADP	IN	_	6	_	_	start_char=1264|end_char=1266
+8	Indian	Indian	ADJ	JJ	Degree=Pos	7	_	_	start_char=1267|end_char=1273
+9	travel	travel	NOUN	NN	Number=Sing	8	_	_	start_char=1274|end_char=1280
+10	agents	agent	NOUN	NNS	Number=Plur	9	_	_	start_char=1281|end_char=1287
+11	on	on	ADP	IN	_	10	_	_	start_char=1288|end_char=1290
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=1291|end_char=1294
+13	pretext	pretext	NOUN	NN	Number=Sing	12	_	_	start_char=1295|end_char=1302
+14	of	of	SCONJ	IN	_	13	_	_	start_char=1303|end_char=1305
+15	getting	get	VERB	VBG	VerbForm=Ger	14	_	_	start_char=1306|end_char=1313
+16	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	15	_	_	start_char=1314|end_char=1318
+17	high	high	ADV	RB	Degree=Pos	16	_	_	start_char=1319|end_char=1323|SpaceAfter=No
+18	-	-	PUNCT	HYPH	_	17	_	_	start_char=1323|end_char=1324|SpaceAfter=No
+19	paying	pay	VERB	VBG	VerbForm=Ger	18	_	_	start_char=1324|end_char=1330
+20	jobs	job	NOUN	NNS	Number=Plur	19	_	_	start_char=1331|end_char=1335|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=1335|end_char=1336
+
+# text = There they were sent to the battlefield.
+# sent_id = 15
+1	There	there	ADV	RB	PronType=Dem	0	_	_	start_char=1337|end_char=1342
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	1	_	_	start_char=1343|end_char=1347
+3	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1348|end_char=1352
+4	sent	send	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=1353|end_char=1357
+5	to	to	ADP	IN	_	4	_	_	start_char=1358|end_char=1360
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1361|end_char=1364
+7	battlefield	battlefield	NOUN	NN	Number=Sing	6	_	_	start_char=1365|end_char=1376|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	_	_	start_char=1376|end_char=1377
+
+# text = Putin praised PM Modi
+# sent_id = 16
+1	Putin	Putin	PROPN	NNP	Number=Sing	0	_	_	start_char=1378|end_char=1383
+2	praised	praise	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1384|end_char=1391
+3	PM	p.m.	PROPN	NNP	Number=Sing	2	_	_	start_char=1392|end_char=1394
+4	Modi	Modi	PROPN	NNP	Number=Sing	3	_	_	start_char=1395|end_char=1399
+
+# text = This is Prime Minister Modi&#39;s first visit to Russia after assuming power for the third time.
+# sent_id = 17
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1400|end_char=1404
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1405|end_char=1407
+3	Prime	Prime	ADJ	NNP	Degree=Pos	2	_	_	start_char=1408|end_char=1413
+4	Minister	Minister	PROPN	NNP	Number=Sing	3	_	_	start_char=1414|end_char=1422
+5	Modi&	Modi&	PROPN	NNP	Number=Sing	4	_	_	start_char=1423|end_char=1428|SpaceAfter=No
+6	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	5	_	_	start_char=1428|end_char=1431|SpaceAfter=No
+7	;	;	PUNCT	:	_	6	_	_	start_char=1431|end_char=1432|SpaceAfter=No
+8	s	's	PART	POS	Typo=Yes	7	_	_	start_char=1432|end_char=1433
+9	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	8	_	_	start_char=1434|end_char=1439
+10	visit	visit	NOUN	NN	Number=Sing	9	_	_	start_char=1440|end_char=1445
+11	to	to	ADP	IN	_	10	_	_	start_char=1446|end_char=1448
+12	Russia	Russia	PROPN	NNP	Number=Sing	11	_	_	start_char=1449|end_char=1455
+13	after	after	SCONJ	IN	_	12	_	_	start_char=1456|end_char=1461
+14	assuming	assume	VERB	VBG	VerbForm=Ger	13	_	_	start_char=1462|end_char=1470
+15	power	power	NOUN	NN	Number=Sing	14	_	_	start_char=1471|end_char=1476
+16	for	for	ADP	IN	_	15	_	_	start_char=1477|end_char=1480
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=1481|end_char=1484
+18	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	17	_	_	start_char=1485|end_char=1490
+19	time	time	NOUN	NN	Number=Sing	18	_	_	start_char=1491|end_char=1495|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=1495|end_char=1496
+
+# text = India has never openly condemned Russia since the attack on Ukraine.
+# sent_id = 18
+1	India	India	PROPN	NNP	Number=Sing	0	_	_	start_char=1497|end_char=1502
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1503|end_char=1506
+3	never	never	ADV	RB	_	2	_	_	start_char=1507|end_char=1512
+4	openly	openly	ADV	RB	_	3	_	_	start_char=1513|end_char=1519
+5	condemned	condemn	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=1520|end_char=1529
+6	Russia	Russia	PROPN	NNP	Number=Sing	5	_	_	start_char=1530|end_char=1536
+7	since	since	ADP	IN	_	6	_	_	start_char=1537|end_char=1542
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=1543|end_char=1546
+9	attack	attack	NOUN	NN	Number=Sing	8	_	_	start_char=1547|end_char=1553
+10	on	on	ADP	IN	_	9	_	_	start_char=1554|end_char=1556
+11	Ukraine	Ukraine	PROPN	NNP	Number=Sing	10	_	_	start_char=1557|end_char=1564|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=1564|end_char=1565
+
+# text = It has also stayed away from the United Nations resolutions condemning Russia.
+# sent_id = 19
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1566|end_char=1568
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1569|end_char=1572
+3	also	also	ADV	RB	_	2	_	_	start_char=1573|end_char=1577
+4	stayed	stay	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=1578|end_char=1584
+5	away	away	ADV	RB	_	4	_	_	start_char=1585|end_char=1589
+6	from	from	ADP	IN	_	5	_	_	start_char=1590|end_char=1594
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1595|end_char=1598
+8	United	United	ADJ	NNP	Degree=Pos	7	_	_	start_char=1599|end_char=1605
+9	Nations	Nation	PROPN	NNPS	Number=Plur	8	_	_	start_char=1606|end_char=1613
+10	resolutions	resolution	NOUN	NNS	Number=Plur	9	_	_	start_char=1614|end_char=1625
+11	condemning	condemn	VERB	VBG	VerbForm=Ger	10	_	_	start_char=1626|end_char=1636
+12	Russia	Russia	PROPN	NNP	Number=Sing	11	_	_	start_char=1637|end_char=1643|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=1643|end_char=1644
+
+# text = At the same time, Russia was not directly named in the joint statement issued after the G-20 Heads of State Conference held in India last year.
+# sent_id = 20
+1	At	at	ADP	IN	_	0	_	_	start_char=1645|end_char=1647
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=1648|end_char=1651
+3	same	same	ADJ	JJ	Degree=Pos	2	_	_	start_char=1652|end_char=1656
+4	time	time	NOUN	NN	Number=Sing	3	_	_	start_char=1657|end_char=1661|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=1661|end_char=1662
+6	Russia	Russia	PROPN	NNP	Number=Sing	5	_	_	start_char=1663|end_char=1669
+7	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=1670|end_char=1673
+8	not	not	PART	RB	_	7	_	_	start_char=1674|end_char=1677
+9	directly	directly	ADV	RB	_	8	_	_	start_char=1678|end_char=1686
+10	named	name	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	9	_	_	start_char=1687|end_char=1692
+11	in	in	ADP	IN	_	10	_	_	start_char=1693|end_char=1695
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=1696|end_char=1699
+13	joint	joint	ADJ	JJ	Degree=Pos	12	_	_	start_char=1700|end_char=1705
+14	statement	statement	NOUN	NN	Number=Sing	13	_	_	start_char=1706|end_char=1715
+15	issued	issue	VERB	VBN	Tense=Past|VerbForm=Part	14	_	_	start_char=1716|end_char=1722
+16	after	after	ADP	IN	_	15	_	_	start_char=1723|end_char=1728
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=1729|end_char=1732
+18	G	G	PROPN	NNP	Number=Sing	17	_	_	start_char=1733|end_char=1734|SpaceAfter=No
+19	-	-	PUNCT	HYPH	_	18	_	_	start_char=1734|end_char=1735|SpaceAfter=No
+20	20	20	NUM	CD	NumForm=Digit|NumType=Card	19	_	_	start_char=1735|end_char=1737
+21	Heads	Head	PROPN	NNPS	Number=Plur	20	_	_	start_char=1738|end_char=1743
+22	of	of	ADP	IN	_	21	_	_	start_char=1744|end_char=1746
+23	State	State	PROPN	NNP	Number=Sing	22	_	_	start_char=1747|end_char=1752
+24	Conference	Conference	PROPN	NNP	Number=Sing	23	_	_	start_char=1753|end_char=1763
+25	held	hold	VERB	VBN	Tense=Past|VerbForm=Part	24	_	_	start_char=1764|end_char=1768
+26	in	in	ADP	IN	_	25	_	_	start_char=1769|end_char=1771
+27	India	India	PROPN	NNP	Number=Sing	26	_	_	start_char=1772|end_char=1777
+28	last	last	ADJ	JJ	Degree=Pos	27	_	_	start_char=1778|end_char=1782
+29	year	year	NOUN	NN	Number=Sing	28	_	_	start_char=1783|end_char=1787|SpaceAfter=No
+30	.	.	PUNCT	.	_	29	_	_	start_char=1787|end_char=1788
+
+# text = But the war was criticized.
+# sent_id = 21
+1	But	but	CCONJ	CC	_	0	_	_	start_char=1789|end_char=1792
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=1793|end_char=1796
+3	war	war	NOUN	NN	Number=Sing	2	_	_	start_char=1797|end_char=1800
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=1801|end_char=1804
+5	criticized	criticize	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	_	_	start_char=1805|end_char=1815|SpaceAfter=No
+6	.	.	PUNCT	.	_	5	_	_	start_char=1815|end_char=1816
+
+# text = Russia also agreed to this statement.
+# sent_id = 22
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=1817|end_char=1823
+2	also	also	ADV	RB	_	1	_	_	start_char=1824|end_char=1828
+3	agreed	agree	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1829|end_char=1835
+4	to	to	ADP	IN	_	3	_	_	start_char=1836|end_char=1838
+5	this	this	DET	DT	Number=Sing|PronType=Dem	4	_	_	start_char=1839|end_char=1843
+6	statement	statement	NOUN	NN	Number=Sing	5	_	_	start_char=1844|end_char=1853|SpaceAfter=No
+7	.	.	PUNCT	.	_	6	_	_	start_char=1853|end_char=1854
+
+# text = This meeting is the 16th meeting between PM Modi and President Putin in the last decade.
+# sent_id = 23
+1	This	this	DET	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1855|end_char=1859
+2	meeting	meeting	NOUN	NN	Number=Sing	1	_	_	start_char=1860|end_char=1867
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1868|end_char=1870
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1871|end_char=1874
+5	16th	16th	ADJ	JJ	Degree=Pos|NumType=Ord	4	_	_	start_char=1875|end_char=1879
+6	meeting	meeting	NOUN	NN	Number=Sing	5	_	_	start_char=1880|end_char=1887
+7	between	between	ADP	IN	_	6	_	_	start_char=1888|end_char=1895
+8	PM	p.m.	PROPN	NNP	Number=Sing	7	_	_	start_char=1896|end_char=1898
+9	Modi	Modi	PROPN	NNP	Number=Sing	8	_	_	start_char=1899|end_char=1903
+10	and	and	CCONJ	CC	_	9	_	_	start_char=1904|end_char=1907
+11	President	President	PROPN	NNP	Number=Sing	10	_	_	start_char=1908|end_char=1917
+12	Putin	Putin	PROPN	NNP	Number=Sing	11	_	_	start_char=1918|end_char=1923
+13	in	in	ADP	IN	_	12	_	_	start_char=1924|end_char=1926
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=1927|end_char=1930
+15	last	last	ADJ	JJ	Degree=Pos	14	_	_	start_char=1931|end_char=1935
+16	decade	decade	NOUN	NN	Number=Sing	15	_	_	start_char=1936|end_char=1942|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=1942|end_char=1943
+
+# text = The last meeting of the two leaders was held in Samarkand, Uzbekistan at the Shanghai Cooperation Organization (SCO) summit held in 2022.
+# sent_id = 24
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1944|end_char=1947
+2	last	last	ADJ	JJ	Degree=Pos	1	_	_	start_char=1948|end_char=1952
+3	meeting	meeting	NOUN	NN	Number=Sing	2	_	_	start_char=1953|end_char=1960
+4	of	of	ADP	IN	_	3	_	_	start_char=1961|end_char=1963
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1964|end_char=1967
+6	two	two	NUM	CD	NumForm=Word|NumType=Card	5	_	_	start_char=1968|end_char=1971
+7	leaders	leader	NOUN	NNS	Number=Plur	6	_	_	start_char=1972|end_char=1979
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=1980|end_char=1983
+9	held	hold	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	_	_	start_char=1984|end_char=1988
+10	in	in	ADP	IN	_	9	_	_	start_char=1989|end_char=1991
+11	Samarkand	Samarkand	PROPN	NNP	Number=Sing	10	_	_	start_char=1992|end_char=2001|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=2001|end_char=2002
+13	Uzbekistan	Uzbekistan	PROPN	NNP	Number=Sing	12	_	_	start_char=2003|end_char=2013
+14	at	at	ADP	IN	_	13	_	_	start_char=2014|end_char=2016
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=2017|end_char=2020
+16	Shanghai	Shanghai	PROPN	NNP	Number=Sing	15	_	_	start_char=2021|end_char=2029
+17	Cooperation	Cooperation	PROPN	NNP	Number=Sing	16	_	_	start_char=2030|end_char=2041
+18	Organization	Organization	PROPN	NNP	Number=Sing	17	_	_	start_char=2042|end_char=2054
+19	(	(	PUNCT	-LRB-	_	18	_	_	start_char=2055|end_char=2056|SpaceAfter=No
+20	SCO	SCO	PROPN	NNP	Number=Sing	19	_	_	start_char=2056|end_char=2059|SpaceAfter=No
+21	)	)	PUNCT	-RRB-	_	20	_	_	start_char=2059|end_char=2060
+22	summit	summit	NOUN	NN	Number=Sing	21	_	_	start_char=2061|end_char=2067
+23	held	hold	VERB	VBN	Tense=Past|VerbForm=Part	22	_	_	start_char=2068|end_char=2072
+24	in	in	ADP	IN	_	23	_	_	start_char=2073|end_char=2075
+25	2022	2022	NUM	CD	NumForm=Digit|NumType=Card	24	_	_	start_char=2076|end_char=2080|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=2080|end_char=2081
+
+# text = Also read: PM Modi Russia Visit Live: When PM Modi spoke &#39;straight talk&#39; on Ukraine war during dinner with Putin Track the latest news on NDTV.
+# sent_id = 25
+1	Also	also	ADV	RB	_	0	_	_	start_char=2082|end_char=2086
+2	read	read	VERB	VB	Mood=Imp|VerbForm=Fin	1	_	_	start_char=2087|end_char=2091|SpaceAfter=No
+3	:	:	PUNCT	:	_	2	_	_	start_char=2091|end_char=2092
+4	PM	p.m.	NOUN	NN	Number=Sing	3	_	_	start_char=2093|end_char=2095
+5	Modi	Modi	PROPN	NNP	Number=Sing	4	_	_	start_char=2096|end_char=2100
+6	Russia	Russia	PROPN	NNP	Number=Sing	5	_	_	start_char=2101|end_char=2107
+7	Visit	visit	PROPN	NNP	Number=Sing	6	_	_	start_char=2108|end_char=2113
+8	Live	Live	PROPN	NNP	Number=Sing	7	_	_	start_char=2114|end_char=2118|SpaceAfter=No
+9	:	:	PUNCT	:	_	8	_	_	start_char=2118|end_char=2119
+10	When	when	ADV	WRB	PronType=Int	9	_	_	start_char=2120|end_char=2124
+11	PM	p.m.	NOUN	NN	Number=Sing	10	_	_	start_char=2125|end_char=2127
+12	Modi	Modi	PROPN	NNP	Number=Sing	11	_	_	start_char=2128|end_char=2132
+13	spoke	speak	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=2133|end_char=2138
+14	&	&	CCONJ	CC	_	13	_	_	start_char=2139|end_char=2140|SpaceAfter=No
+15	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	14	_	_	start_char=2140|end_char=2143|SpaceAfter=No
+16	;	;	PUNCT	:	_	15	_	_	start_char=2143|end_char=2144|SpaceAfter=No
+17	straight	straight	ADJ	JJ	Degree=Pos	16	_	_	start_char=2144|end_char=2152
+18	talk&	talk&	NOUN	NN	Number=Sing	17	_	_	start_char=2153|end_char=2158|SpaceAfter=No
+19	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	18	_	_	start_char=2158|end_char=2161|SpaceAfter=No
+20	;	;	PUNCT	:	_	19	_	_	start_char=2161|end_char=2162
+21	on	on	ADP	IN	_	20	_	_	start_char=2163|end_char=2165
+22	Ukraine	Ukraine	PROPN	NNP	Number=Sing	21	_	_	start_char=2166|end_char=2173
+23	war	war	NOUN	NN	Number=Sing	22	_	_	start_char=2174|end_char=2177
+24	during	during	ADP	IN	_	23	_	_	start_char=2178|end_char=2184
+25	dinner	dinner	NOUN	NN	Number=Sing	24	_	_	start_char=2185|end_char=2191
+26	with	with	ADP	IN	_	25	_	_	start_char=2192|end_char=2196
+27	Putin	Putin	PROPN	NNP	Number=Sing	26	_	_	start_char=2197|end_char=2202
+28	Track	Track	PROPN	NNP	Number=Sing	27	_	_	start_char=2203|end_char=2208
+29	the	the	DET	DT	Definite=Def|PronType=Art	28	_	_	start_char=2209|end_char=2212
+30	latest	late	ADJ	JJS	Degree=Sup	29	_	_	start_char=2213|end_char=2219
+31	news	news	NOUN	NN	Number=Sing	30	_	_	start_char=2220|end_char=2224
+32	on	on	ADP	IN	_	31	_	_	start_char=2225|end_char=2227
+33	NDTV	NDTV	PROPN	NNP	Number=Sing	32	_	_	start_char=2228|end_char=2232|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=2232|end_char=2233|SpaceAfter=No
+
+# text = in and get news updates from every corner of the country and around the world
+# sent_id = 26
+1	in	in	ADV	RB	_	0	_	_	start_char=2233|end_char=2235
+2	and	and	CCONJ	CC	_	1	_	_	start_char=2236|end_char=2239
+3	get	get	VERB	VB	Mood=Imp|VerbForm=Fin	2	_	_	start_char=2240|end_char=2243
+4	news	news	NOUN	NN	Number=Sing	3	_	_	start_char=2244|end_char=2248
+5	updates	update	NOUN	NNS	Number=Plur	4	_	_	start_char=2249|end_char=2256
+6	from	from	ADP	IN	_	5	_	_	start_char=2257|end_char=2261
+7	every	every	DET	DT	_	6	_	_	start_char=2262|end_char=2267
+8	corner	corner	NOUN	NN	Number=Sing	7	_	_	start_char=2268|end_char=2274
+9	of	of	ADP	IN	_	8	_	_	start_char=2275|end_char=2277
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=2278|end_char=2281
+11	country	country	NOUN	NN	Number=Sing	10	_	_	start_char=2282|end_char=2289
+12	and	and	CCONJ	CC	_	11	_	_	start_char=2290|end_char=2293
+13	around	around	ADP	IN	_	12	_	_	start_char=2294|end_char=2300
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=2301|end_char=2304
+15	world	world	NOUN	NN	Number=Sing	14	_	_	start_char=2305|end_char=2310|SpaceAfter=No
+

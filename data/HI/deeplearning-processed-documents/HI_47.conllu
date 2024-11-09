@@ -1,0 +1,500 @@
+# text = Prime Minister Narendra Modi has left for Poland and Ukraine tour.
+# sent_id = 0
+1	Prime	Prime	ADJ	NNP	Degree=Pos	0	_	_	start_char=0|end_char=5
+2	Minister	Minister	PROPN	NNP	Number=Sing	1	_	_	start_char=6|end_char=14
+3	Narendra	Narendra	PROPN	NNP	Number=Sing	2	_	_	start_char=15|end_char=23
+4	Modi	Modi	PROPN	NNP	Number=Sing	3	_	_	start_char=24|end_char=28
+5	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=29|end_char=32
+6	left	leave	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=33|end_char=37
+7	for	for	ADP	IN	_	6	_	_	start_char=38|end_char=41
+8	Poland	Poland	PROPN	NNP	Number=Sing	7	_	_	start_char=42|end_char=48
+9	and	and	CCONJ	CC	_	8	_	_	start_char=49|end_char=52
+10	Ukraine	Ukraine	PROPN	NNP	Number=Sing	9	_	_	start_char=53|end_char=60
+11	tour	tour	NOUN	NN	Number=Sing	10	_	_	start_char=61|end_char=65|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=65|end_char=66
+
+# text = Before his visit, PM Modi posted on X.
+# sent_id = 1
+1	Before	before	ADP	IN	_	0	_	_	start_char=67|end_char=73
+2	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	_	_	start_char=74|end_char=77
+3	visit	visit	NOUN	NN	Number=Sing	2	_	_	start_char=78|end_char=83|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=83|end_char=84
+5	PM	p.m.	NOUN	NN	Number=Sing	4	_	_	start_char=85|end_char=87
+6	Modi	Modi	PROPN	NNP	Number=Sing	5	_	_	start_char=88|end_char=92
+7	posted	post	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=93|end_char=99
+8	on	on	ADP	IN	_	7	_	_	start_char=100|end_char=102
+9	X	x	NOUN	NN	Number=Sing	8	_	_	start_char=103|end_char=104|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=104|end_char=105
+
+# text = He wrote, &#39;My visit to Poland is taking place at a time when we are completing 70 years of our diplomatic relations.
+# sent_id = 2
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=106|end_char=108
+2	wrote	write	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=109|end_char=114|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=114|end_char=115
+4	&#39	&#39	INTJ	UH	_	3	_	_	start_char=116|end_char=120|SpaceAfter=No
+5	;	;	PUNCT	:	_	4	_	_	start_char=120|end_char=121|SpaceAfter=No
+6	My	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	_	_	start_char=121|end_char=123
+7	visit	visit	NOUN	NN	Number=Sing	6	_	_	start_char=124|end_char=129
+8	to	to	ADP	IN	_	7	_	_	start_char=130|end_char=132
+9	Poland	Poland	PROPN	NNP	Number=Sing	8	_	_	start_char=133|end_char=139
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=140|end_char=142
+11	taking	take	VERB	VBG	Tense=Pres|VerbForm=Part	10	_	_	start_char=143|end_char=149
+12	place	place	NOUN	NN	Number=Sing	11	_	_	start_char=150|end_char=155
+13	at	at	ADP	IN	_	12	_	_	start_char=156|end_char=158
+14	a	a	DET	DT	Definite=Ind|PronType=Art	13	_	_	start_char=159|end_char=160
+15	time	time	NOUN	NN	Number=Sing	14	_	_	start_char=161|end_char=165
+16	when	when	ADV	WRB	PronType=Int	15	_	_	start_char=166|end_char=170
+17	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	16	_	_	start_char=171|end_char=173
+18	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	17	_	_	start_char=174|end_char=177
+19	completing	complete	VERB	VBG	Tense=Pres|VerbForm=Part	18	_	_	start_char=178|end_char=188
+20	70	70	NUM	CD	NumForm=Digit|NumType=Card	19	_	_	start_char=189|end_char=191
+21	years	year	NOUN	NNS	Number=Plur	20	_	_	start_char=192|end_char=197
+22	of	of	ADP	IN	_	21	_	_	start_char=198|end_char=200
+23	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	22	_	_	start_char=201|end_char=204
+24	diplomatic	diplomatic	ADJ	JJ	Degree=Pos	23	_	_	start_char=205|end_char=215
+25	relations	relation	NOUN	NNS	Number=Plur	24	_	_	start_char=216|end_char=225|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=225|end_char=226
+
+# text = Poland is a major economic partner in Central Europe.
+# sent_id = 3
+1	Poland	Poland	PROPN	NNP	Number=Sing	0	_	_	start_char=227|end_char=233
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=234|end_char=236
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=237|end_char=238
+4	major	major	ADJ	JJ	Degree=Pos	3	_	_	start_char=239|end_char=244
+5	economic	economic	ADJ	JJ	Degree=Pos	4	_	_	start_char=245|end_char=253
+6	partner	partner	NOUN	NN	Number=Sing	5	_	_	start_char=254|end_char=261
+7	in	in	ADP	IN	_	6	_	_	start_char=262|end_char=264
+8	Central	Central	ADJ	NNP	Degree=Pos	7	_	_	start_char=265|end_char=272
+9	Europe	Europe	PROPN	NNP	Number=Sing	8	_	_	start_char=273|end_char=279|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=279|end_char=280
+
+# text = Our mutual commitment to democracy further strengthens our relations.
+# sent_id = 4
+1	Our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	0	_	_	start_char=281|end_char=284
+2	mutual	mutual	ADJ	JJ	Degree=Pos	1	_	_	start_char=285|end_char=291
+3	commitment	commitment	NOUN	NN	Number=Sing	2	_	_	start_char=292|end_char=302
+4	to	to	ADP	IN	_	3	_	_	start_char=303|end_char=305
+5	democracy	democracy	NOUN	NN	Number=Sing	4	_	_	start_char=306|end_char=315
+6	further	further	ADV	RB	_	5	_	_	start_char=316|end_char=323
+7	strengthens	strengthen	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=324|end_char=335
+8	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	7	_	_	start_char=336|end_char=339
+9	relations	relation	NOUN	NNS	Number=Plur	8	_	_	start_char=340|end_char=349|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=349|end_char=350
+
+# text = I look forward to meeting my friends Prime Minister Donald Tusk and President Andrzej Duda to take this partnership forward.
+# sent_id = 5
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	start_char=351|end_char=352
+2	look	look	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	_	_	start_char=353|end_char=357
+3	forward	forward	ADV	RB	_	2	_	_	start_char=358|end_char=365
+4	to	to	SCONJ	IN	_	3	_	_	start_char=366|end_char=368
+5	meeting	meet	VERB	VBG	VerbForm=Ger	4	_	_	start_char=369|end_char=376
+6	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	_	_	start_char=377|end_char=379
+7	friends	friend	NOUN	NNS	Number=Plur	6	_	_	start_char=380|end_char=387
+8	Prime	Prime	ADJ	NNP	Degree=Pos	7	_	_	start_char=388|end_char=393
+9	Minister	Minister	PROPN	NNP	Number=Sing	8	_	_	start_char=394|end_char=402
+10	Donald	Donald	PROPN	NNP	Number=Sing	9	_	_	start_char=403|end_char=409
+11	Tusk	Tusk	PROPN	NNP	Number=Sing	10	_	_	start_char=410|end_char=414
+12	and	and	CCONJ	CC	_	11	_	_	start_char=415|end_char=418
+13	President	President	PROPN	NNP	Number=Sing	12	_	_	start_char=419|end_char=428
+14	Andrzej	Andrzej	PROPN	NNP	Number=Sing	13	_	_	start_char=429|end_char=436
+15	Duda	Duda	PROPN	NNP	Number=Sing	14	_	_	start_char=437|end_char=441
+16	to	to	PART	TO	_	15	_	_	start_char=442|end_char=444
+17	take	take	VERB	VB	VerbForm=Inf	16	_	_	start_char=445|end_char=449
+18	this	this	DET	DT	Number=Sing|PronType=Dem	17	_	_	start_char=450|end_char=454
+19	partnership	partnership	NOUN	NN	Number=Sing	18	_	_	start_char=455|end_char=466
+20	forward	forward	ADV	RB	_	19	_	_	start_char=467|end_char=474|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=474|end_char=475
+
+# text = I will also interact with the people of the Indian community living in Poland.
+# sent_id = 6
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	start_char=476|end_char=477
+2	will	will	AUX	MD	VerbForm=Fin	1	_	_	start_char=478|end_char=482
+3	also	also	ADV	RB	_	2	_	_	start_char=483|end_char=487
+4	interact	interact	VERB	VB	VerbForm=Inf	3	_	_	start_char=488|end_char=496
+5	with	with	ADP	IN	_	4	_	_	start_char=497|end_char=501
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=502|end_char=505
+7	people	person	NOUN	NNS	Number=Plur	6	_	_	start_char=506|end_char=512
+8	of	of	ADP	IN	_	7	_	_	start_char=513|end_char=515
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=516|end_char=519
+10	Indian	Indian	ADJ	JJ	Degree=Pos	9	_	_	start_char=520|end_char=526
+11	community	community	NOUN	NN	Number=Sing	10	_	_	start_char=527|end_char=536
+12	living	live	VERB	VBG	VerbForm=Ger	11	_	_	start_char=537|end_char=543
+13	in	in	ADP	IN	_	12	_	_	start_char=544|end_char=546
+14	Poland	Poland	PROPN	NNP	Number=Sing	13	_	_	start_char=547|end_char=553|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=553|end_char=554|SpaceAfter=No
+
+# text = &#39;
+# sent_id = 7
+1	&#39	&#39	NUM	CD	NumForm=Digit|NumType=Card	0	_	_	start_char=554|end_char=558|SpaceAfter=No
+2	;	;	PUNCT	:	_	1	_	_	start_char=558|end_char=559
+
+# text = What did PM Modi say on the Ukraine tour PM Modi wrote, &#39;From Poland I will go to Ukraine.
+# sent_id = 8
+1	What	what	PRON	WP	PronType=Int	0	_	_	start_char=560|end_char=564
+2	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=565|end_char=568
+3	PM	p.m.	NOUN	NN	Number=Sing	2	_	_	start_char=569|end_char=571
+4	Modi	Modi	PROPN	NNP	Number=Sing	3	_	_	start_char=572|end_char=576
+5	say	say	VERB	VB	VerbForm=Inf	4	_	_	start_char=577|end_char=580
+6	on	on	ADP	IN	_	5	_	_	start_char=581|end_char=583
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=584|end_char=587
+8	Ukraine	Ukraine	PROPN	NNP	Number=Sing	7	_	_	start_char=588|end_char=595
+9	tour	tour	NOUN	NN	Number=Sing	8	_	_	start_char=596|end_char=600
+10	PM	p.m.	NOUN	NN	Number=Sing	9	_	_	start_char=601|end_char=603
+11	Modi	Modi	PROPN	NNP	Number=Sing	10	_	_	start_char=604|end_char=608
+12	wrote	write	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=609|end_char=614|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=614|end_char=615
+14	&#39	&#39	INTJ	UH	_	13	_	_	start_char=616|end_char=620|SpaceAfter=No
+15	;	;	PUNCT	:	_	14	_	_	start_char=620|end_char=621|SpaceAfter=No
+16	From	from	ADP	IN	_	15	_	_	start_char=621|end_char=625
+17	Poland	Poland	PROPN	NNP	Number=Sing	16	_	_	start_char=626|end_char=632
+18	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	_	_	start_char=633|end_char=634
+19	will	will	AUX	MD	VerbForm=Fin	18	_	_	start_char=635|end_char=639
+20	go	go	VERB	VB	VerbForm=Inf	19	_	_	start_char=640|end_char=642
+21	to	to	ADP	IN	_	20	_	_	start_char=643|end_char=645
+22	Ukraine	Ukraine	PROPN	NNP	Number=Sing	21	_	_	start_char=646|end_char=653|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=653|end_char=654
+
+# text = I will visit Ukraine at the invitation of President Vladimir Zelensky.
+# sent_id = 9
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	start_char=655|end_char=656
+2	will	will	AUX	MD	VerbForm=Fin	1	_	_	start_char=657|end_char=661
+3	visit	visit	VERB	VB	VerbForm=Inf	2	_	_	start_char=662|end_char=667
+4	Ukraine	Ukraine	PROPN	NNP	Number=Sing	3	_	_	start_char=668|end_char=675
+5	at	at	ADP	IN	_	4	_	_	start_char=676|end_char=678
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=679|end_char=682
+7	invitation	invitation	NOUN	NN	Number=Sing	6	_	_	start_char=683|end_char=693
+8	of	of	ADP	IN	_	7	_	_	start_char=694|end_char=696
+9	President	President	PROPN	NNP	Number=Sing	8	_	_	start_char=697|end_char=706
+10	Vladimir	Vladimir	PROPN	NNP	Number=Sing	9	_	_	start_char=707|end_char=715
+11	Zelensky	Zelensky	PROPN	NNP	Number=Sing	10	_	_	start_char=716|end_char=724|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=724|end_char=725
+
+# text = This is the first visit of an Indian Prime Minister to Ukraine.
+# sent_id = 10
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=726|end_char=730
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=731|end_char=733
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=734|end_char=737
+4	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	3	_	_	start_char=738|end_char=743
+5	visit	visit	NOUN	NN	Number=Sing	4	_	_	start_char=744|end_char=749
+6	of	of	ADP	IN	_	5	_	_	start_char=750|end_char=752
+7	an	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=753|end_char=755
+8	Indian	Indian	ADJ	JJ	Degree=Pos	7	_	_	start_char=756|end_char=762
+9	Prime	Prime	ADJ	NNP	Degree=Pos	8	_	_	start_char=763|end_char=768
+10	Minister	Minister	PROPN	NNP	Number=Sing	9	_	_	start_char=769|end_char=777
+11	to	to	ADP	IN	_	10	_	_	start_char=778|end_char=780
+12	Ukraine	Ukraine	PROPN	NNP	Number=Sing	11	_	_	start_char=781|end_char=788|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=788|end_char=789
+
+# text = I will discuss strengthening bilateral cooperation and a peaceful solution to the ongoing Ukraine conflict.
+# sent_id = 11
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	start_char=790|end_char=791
+2	will	will	AUX	MD	VerbForm=Fin	1	_	_	start_char=792|end_char=796
+3	discuss	discuss	VERB	VB	VerbForm=Inf	2	_	_	start_char=797|end_char=804
+4	strengthening	strengthen	VERB	VBG	VerbForm=Ger	3	_	_	start_char=805|end_char=818
+5	bilateral	bilateral	ADJ	JJ	Degree=Pos	4	_	_	start_char=819|end_char=828
+6	cooperation	cooperation	NOUN	NN	Number=Sing	5	_	_	start_char=829|end_char=840
+7	and	and	CCONJ	CC	_	6	_	_	start_char=841|end_char=844
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=845|end_char=846
+9	peaceful	peaceful	ADJ	JJ	Degree=Pos	8	_	_	start_char=847|end_char=855
+10	solution	solution	NOUN	NN	Number=Sing	9	_	_	start_char=856|end_char=864
+11	to	to	ADP	IN	_	10	_	_	start_char=865|end_char=867
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=868|end_char=871
+13	ongoing	ongoing	ADJ	JJ	Degree=Pos	12	_	_	start_char=872|end_char=879
+14	Ukraine	Ukraine	PROPN	NNP	Number=Sing	13	_	_	start_char=880|end_char=887
+15	conflict	conflict	NOUN	NN	Number=Sing	14	_	_	start_char=888|end_char=896|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=896|end_char=897
+
+# text = As a friend and partner, we hope for the early return of peace and stability in the region.
+# sent_id = 12
+1	As	as	ADP	IN	_	0	_	_	start_char=898|end_char=900
+2	a	a	DET	DT	Definite=Ind|PronType=Art	1	_	_	start_char=901|end_char=902
+3	friend	friend	NOUN	NN	Number=Sing	2	_	_	start_char=903|end_char=909
+4	and	and	CCONJ	CC	_	3	_	_	start_char=910|end_char=913
+5	partner	partner	NOUN	NN	Number=Sing	4	_	_	start_char=914|end_char=921|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=921|end_char=922
+7	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	_	_	start_char=923|end_char=925
+8	hope	hope	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	_	_	start_char=926|end_char=930
+9	for	for	ADP	IN	_	8	_	_	start_char=931|end_char=934
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=935|end_char=938
+11	early	early	ADJ	JJ	Degree=Pos	10	_	_	start_char=939|end_char=944
+12	return	return	NOUN	NN	Number=Sing	11	_	_	start_char=945|end_char=951
+13	of	of	ADP	IN	_	12	_	_	start_char=952|end_char=954
+14	peace	peace	NOUN	NN	Number=Sing	13	_	_	start_char=955|end_char=960
+15	and	and	CCONJ	CC	_	14	_	_	start_char=961|end_char=964
+16	stability	stability	NOUN	NN	Number=Sing	15	_	_	start_char=965|end_char=974
+17	in	in	ADP	IN	_	16	_	_	start_char=975|end_char=977
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=978|end_char=981
+19	region	region	NOUN	NN	Number=Sing	18	_	_	start_char=982|end_char=988|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=988|end_char=989|SpaceAfter=No
+
+# text = &#39;
+# sent_id = 13
+1	&#	&#	SYM	SYM	_	0	_	_	start_char=989|end_char=991|SpaceAfter=No
+2	39	39	NUM	CD	NumForm=Digit|NumType=Card	1	_	_	start_char=991|end_char=993|SpaceAfter=No
+3	;	;	PUNCT	:	_	2	_	_	start_char=993|end_char=994
+
+# text = Also read: PM Modi on first official visit to Ukraine, fourth meeting with Zelensky in 4 years, know why this visit is special PM Modi said that I am confident that this visit will serve as a natural continuation of extensive contacts with both the countries and will help lay the foundation for stronger and more vibrant relations in the years to come.
+# sent_id = 14
+1	Also	also	ADV	RB	_	0	_	_	start_char=995|end_char=999
+2	read	read	VERB	VB	VerbForm=Fin	1	_	_	start_char=1000|end_char=1004|SpaceAfter=No
+3	:	:	PUNCT	:	_	2	_	_	start_char=1004|end_char=1005
+4	PM	p.m.	NOUN	NN	Number=Sing	3	_	_	start_char=1006|end_char=1008
+5	Modi	Modi	PROPN	NNP	Number=Sing	4	_	_	start_char=1009|end_char=1013
+6	on	on	ADP	IN	_	5	_	_	start_char=1014|end_char=1016
+7	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	6	_	_	start_char=1017|end_char=1022
+8	official	official	ADJ	JJ	Degree=Pos	7	_	_	start_char=1023|end_char=1031
+9	visit	visit	NOUN	NN	Number=Sing	8	_	_	start_char=1032|end_char=1037
+10	to	to	ADP	IN	_	9	_	_	start_char=1038|end_char=1040
+11	Ukraine	Ukraine	PROPN	NNP	Number=Sing	10	_	_	start_char=1041|end_char=1048|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=1048|end_char=1049
+13	fourth	fourth	ADJ	JJ	Degree=Pos|NumType=Ord	12	_	_	start_char=1050|end_char=1056
+14	meeting	meeting	NOUN	NN	Number=Sing	13	_	_	start_char=1057|end_char=1064
+15	with	with	ADP	IN	_	14	_	_	start_char=1065|end_char=1069
+16	Zelensky	Zelensky	PROPN	NNP	Number=Sing	15	_	_	start_char=1070|end_char=1078
+17	in	in	ADP	IN	_	16	_	_	start_char=1079|end_char=1081
+18	4	4	NUM	CD	NumForm=Digit|NumType=Card	17	_	_	start_char=1082|end_char=1083
+19	years	year	NOUN	NNS	Number=Plur	18	_	_	start_char=1084|end_char=1089|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=1089|end_char=1090
+21	know	know	VERB	VB	Mood=Imp|VerbForm=Fin	20	_	_	start_char=1091|end_char=1095
+22	why	why	ADV	WRB	PronType=Int	21	_	_	start_char=1096|end_char=1099
+23	this	this	DET	DT	Number=Sing|PronType=Dem	22	_	_	start_char=1100|end_char=1104
+24	visit	visit	NOUN	NN	Number=Sing	23	_	_	start_char=1105|end_char=1110
+25	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	_	_	start_char=1111|end_char=1113
+26	special	special	ADJ	JJ	Degree=Pos	25	_	_	start_char=1114|end_char=1121
+27	PM	p.m.	NOUN	NN	Number=Sing	26	_	_	start_char=1122|end_char=1124
+28	Modi	Modi	PROPN	NNP	Number=Sing	27	_	_	start_char=1125|end_char=1129
+29	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	_	_	start_char=1130|end_char=1134
+30	that	that	SCONJ	IN	_	29	_	_	start_char=1135|end_char=1139
+31	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	30	_	_	start_char=1140|end_char=1141
+32	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	31	_	_	start_char=1142|end_char=1144
+33	confident	confident	ADJ	JJ	Degree=Pos	32	_	_	start_char=1145|end_char=1154
+34	that	that	SCONJ	IN	_	33	_	_	start_char=1155|end_char=1159
+35	this	this	DET	DT	Number=Sing|PronType=Dem	34	_	_	start_char=1160|end_char=1164
+36	visit	visit	NOUN	NN	Number=Sing	35	_	_	start_char=1165|end_char=1170
+37	will	will	AUX	MD	VerbForm=Fin	36	_	_	start_char=1171|end_char=1175
+38	serve	serve	VERB	VB	VerbForm=Inf	37	_	_	start_char=1176|end_char=1181
+39	as	as	ADP	IN	_	38	_	_	start_char=1182|end_char=1184
+40	a	a	DET	DT	Definite=Ind|PronType=Art	39	_	_	start_char=1185|end_char=1186
+41	natural	natural	ADJ	JJ	Degree=Pos	40	_	_	start_char=1187|end_char=1194
+42	continuation	continuation	NOUN	NN	Number=Sing	41	_	_	start_char=1195|end_char=1207
+43	of	of	ADP	IN	_	42	_	_	start_char=1208|end_char=1210
+44	extensive	extensive	ADJ	JJ	Degree=Pos	43	_	_	start_char=1211|end_char=1220
+45	contacts	contact	NOUN	NNS	Number=Plur	44	_	_	start_char=1221|end_char=1229
+46	with	with	ADP	IN	_	45	_	_	start_char=1230|end_char=1234
+47	both	both	CCONJ	CC	_	46	_	_	start_char=1235|end_char=1239
+48	the	the	DET	DT	Definite=Def|PronType=Art	47	_	_	start_char=1240|end_char=1243
+49	countries	country	NOUN	NNS	Number=Plur	48	_	_	start_char=1244|end_char=1253
+50	and	and	CCONJ	CC	_	49	_	_	start_char=1254|end_char=1257
+51	will	will	AUX	MD	VerbForm=Fin	50	_	_	start_char=1258|end_char=1262
+52	help	help	VERB	VB	VerbForm=Inf	51	_	_	start_char=1263|end_char=1267
+53	lay	lay	VERB	VB	VerbForm=Inf	52	_	_	start_char=1268|end_char=1271
+54	the	the	DET	DT	Definite=Def|PronType=Art	53	_	_	start_char=1272|end_char=1275
+55	foundation	foundation	NOUN	NN	Number=Sing	54	_	_	start_char=1276|end_char=1286
+56	for	for	ADP	IN	_	55	_	_	start_char=1287|end_char=1290
+57	stronger	strong	ADJ	JJR	Degree=Cmp	56	_	_	start_char=1291|end_char=1299
+58	and	and	CCONJ	CC	_	57	_	_	start_char=1300|end_char=1303
+59	more	more	ADV	RBR	Degree=Cmp	58	_	_	start_char=1304|end_char=1308
+60	vibrant	vibrant	ADJ	JJ	Degree=Pos	59	_	_	start_char=1309|end_char=1316
+61	relations	relation	NOUN	NNS	Number=Plur	60	_	_	start_char=1317|end_char=1326
+62	in	in	ADP	IN	_	61	_	_	start_char=1327|end_char=1329
+63	the	the	DET	DT	Definite=Def|PronType=Art	62	_	_	start_char=1330|end_char=1333
+64	years	year	NOUN	NNS	Number=Plur	63	_	_	start_char=1334|end_char=1339
+65	to	to	PART	TO	_	64	_	_	start_char=1340|end_char=1342
+66	come	come	VERB	VB	VerbForm=Inf	65	_	_	start_char=1343|end_char=1347|SpaceAfter=No
+67	.	.	PUNCT	.	_	66	_	_	start_char=1347|end_char=1348
+
+# text = Know the schedule of PM Modi&#39;s visit Prime Minister Narendra Modi will first go to Poland where he will stay on 21 and 22 August.
+# sent_id = 15
+1	Know	know	VERB	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=1349|end_char=1353
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=1354|end_char=1357
+3	schedule	schedule	NOUN	NN	Number=Sing	2	_	_	start_char=1358|end_char=1366
+4	of	of	ADP	IN	_	3	_	_	start_char=1367|end_char=1369
+5	PM	p.m.	NOUN	NN	Number=Sing	4	_	_	start_char=1370|end_char=1372
+6	Modi&	Modi&	PROPN	NNP	Number=Sing	5	_	_	start_char=1373|end_char=1378|SpaceAfter=No
+7	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	6	_	_	start_char=1378|end_char=1381|SpaceAfter=No
+8	;	;	PUNCT	:	_	7	_	_	start_char=1381|end_char=1382|SpaceAfter=No
+9	s	's	PART	POS	Typo=Yes	8	_	_	start_char=1382|end_char=1383
+10	visit	visit	VERB	VB	VerbForm=Inf	9	_	_	start_char=1384|end_char=1389
+11	Prime	Prime	ADJ	NNP	Degree=Pos	10	_	_	start_char=1390|end_char=1395
+12	Minister	Minister	PROPN	NNP	Number=Sing	11	_	_	start_char=1396|end_char=1404
+13	Narendra	Narendra	PROPN	NNP	Number=Sing	12	_	_	start_char=1405|end_char=1413
+14	Modi	Modi	PROPN	NNP	Number=Sing	13	_	_	start_char=1414|end_char=1418
+15	will	will	AUX	MD	VerbForm=Fin	14	_	_	start_char=1419|end_char=1423
+16	first	first	ADV	RB	NumType=Ord	15	_	_	start_char=1424|end_char=1429
+17	go	go	VERB	VB	VerbForm=Inf	16	_	_	start_char=1430|end_char=1432
+18	to	to	ADP	IN	_	17	_	_	start_char=1433|end_char=1435
+19	Poland	Poland	PROPN	NNP	Number=Sing	18	_	_	start_char=1436|end_char=1442
+20	where	where	ADV	WRB	PronType=Rel	19	_	_	start_char=1443|end_char=1448
+21	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	_	_	start_char=1449|end_char=1451
+22	will	will	AUX	MD	VerbForm=Fin	21	_	_	start_char=1452|end_char=1456
+23	stay	stay	VERB	VB	VerbForm=Inf	22	_	_	start_char=1457|end_char=1461
+24	on	on	ADP	IN	_	23	_	_	start_char=1462|end_char=1464
+25	21	21	NUM	CD	NumForm=Digit|NumType=Card	24	_	_	start_char=1465|end_char=1467
+26	and	and	CCONJ	CC	_	25	_	_	start_char=1468|end_char=1471
+27	22	22	NUM	CD	NumForm=Digit|NumType=Card	26	_	_	start_char=1472|end_char=1474
+28	August	August	PROPN	NNP	Number=Sing	27	_	_	start_char=1475|end_char=1481|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=1481|end_char=1482
+
+# text = After this, he will visit Ukraine on 23 August.
+# sent_id = 16
+1	After	after	ADP	IN	_	0	_	_	start_char=1483|end_char=1488
+2	this	this	PRON	DT	Number=Sing|PronType=Dem	1	_	_	start_char=1489|end_char=1493|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=1493|end_char=1494
+4	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	_	_	start_char=1495|end_char=1497
+5	will	will	AUX	MD	VerbForm=Fin	4	_	_	start_char=1498|end_char=1502
+6	visit	visit	VERB	VB	VerbForm=Inf	5	_	_	start_char=1503|end_char=1508
+7	Ukraine	Ukraine	PROPN	NNP	Number=Sing	6	_	_	start_char=1509|end_char=1516
+8	on	on	ADP	IN	_	7	_	_	start_char=1517|end_char=1519
+9	23	23	NUM	CD	NumForm=Digit|NumType=Card	8	_	_	start_char=1520|end_char=1522
+10	August	August	PROPN	NNP	Number=Sing	9	_	_	start_char=1523|end_char=1529|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=1529|end_char=1530
+
+# text = This is the first time that an Indian Prime Minister is going on a visit to Ukraine.
+# sent_id = 17
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1531|end_char=1535
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1536|end_char=1538
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1539|end_char=1542
+4	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	3	_	_	start_char=1543|end_char=1548
+5	time	time	NOUN	NN	Number=Sing	4	_	_	start_char=1549|end_char=1553
+6	that	that	SCONJ	IN	_	5	_	_	start_char=1554|end_char=1558
+7	an	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=1559|end_char=1561
+8	Indian	Indian	ADJ	JJ	Degree=Pos	7	_	_	start_char=1562|end_char=1568
+9	Prime	Prime	ADJ	NNP	Degree=Pos	8	_	_	start_char=1569|end_char=1574
+10	Minister	Minister	PROPN	NNP	Number=Sing	9	_	_	start_char=1575|end_char=1583
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=1584|end_char=1586
+12	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	11	_	_	start_char=1587|end_char=1592
+13	on	on	ADP	IN	_	12	_	_	start_char=1593|end_char=1595
+14	a	a	DET	DT	Definite=Ind|PronType=Art	13	_	_	start_char=1596|end_char=1597
+15	visit	visit	NOUN	NN	Number=Sing	14	_	_	start_char=1598|end_char=1603
+16	to	to	ADP	IN	_	15	_	_	start_char=1604|end_char=1606
+17	Ukraine	Ukraine	PROPN	NNP	Number=Sing	16	_	_	start_char=1607|end_char=1614|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=1614|end_char=1615
+
+# text = Diplomatic relations between Kiev and New Delhi were established 30 years ago i.e. in 1994.
+# sent_id = 18
+1	Diplomatic	Diplomatic	ADJ	JJ	Degree=Pos	0	_	_	start_char=1616|end_char=1626
+2	relations	relation	NOUN	NNS	Number=Plur	1	_	_	start_char=1627|end_char=1636
+3	between	between	ADP	IN	_	2	_	_	start_char=1637|end_char=1644
+4	Kiev	Kiev	PROPN	NNP	Number=Sing	3	_	_	start_char=1645|end_char=1649
+5	and	and	CCONJ	CC	_	4	_	_	start_char=1650|end_char=1653
+6	New	New	ADJ	NNP	Degree=Pos	5	_	_	start_char=1654|end_char=1657
+7	Delhi	Delhi	PROPN	NNP	Number=Sing	6	_	_	start_char=1658|end_char=1663
+8	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=1664|end_char=1668
+9	established	establish	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	_	_	start_char=1669|end_char=1680
+10	30	30	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=1681|end_char=1683
+11	years	year	NOUN	NNS	Number=Plur	10	_	_	start_char=1684|end_char=1689
+12	ago	ago	ADV	RB	_	11	_	_	start_char=1690|end_char=1693
+13	i.e.	i.e.	ADV	FW	Abbr=Yes	12	_	_	start_char=1694|end_char=1698
+14	in	in	ADP	IN	_	13	_	_	start_char=1699|end_char=1701
+15	1994	1994	NUM	CD	NumForm=Digit|NumType=Card	14	_	_	start_char=1702|end_char=1706|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=1706|end_char=1707
+
+# text = PM Modi&#39;s visit is taking place at a time when the war between Ukraine and Russia has intensified.
+# sent_id = 19
+1	PM	p.m.	NOUN	NN	Number=Sing	0	_	_	start_char=1708|end_char=1710
+2	Modi&#39	Modi&#39	PROPN	NNP	Number=Sing	1	_	_	start_char=1711|end_char=1719|SpaceAfter=No
+3	;	;	PUNCT	:	_	2	_	_	start_char=1719|end_char=1720|SpaceAfter=No
+4	s	's	PART	POS	Typo=Yes	3	_	_	start_char=1720|end_char=1721
+5	visit	visit	NOUN	NN	Number=Sing	4	_	_	start_char=1722|end_char=1727
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1728|end_char=1730
+7	taking	take	VERB	VBG	Tense=Pres|VerbForm=Part	6	_	_	start_char=1731|end_char=1737
+8	place	place	NOUN	NN	Number=Sing	7	_	_	start_char=1738|end_char=1743
+9	at	at	ADP	IN	_	8	_	_	start_char=1744|end_char=1746
+10	a	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=1747|end_char=1748
+11	time	time	NOUN	NN	Number=Sing	10	_	_	start_char=1749|end_char=1753
+12	when	when	ADV	WRB	PronType=Int	11	_	_	start_char=1754|end_char=1758
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1759|end_char=1762
+14	war	war	NOUN	NN	Number=Sing	13	_	_	start_char=1763|end_char=1766
+15	between	between	ADP	IN	_	14	_	_	start_char=1767|end_char=1774
+16	Ukraine	Ukraine	PROPN	NNP	Number=Sing	15	_	_	start_char=1775|end_char=1782
+17	and	and	CCONJ	CC	_	16	_	_	start_char=1783|end_char=1786
+18	Russia	Russia	PROPN	NNP	Number=Sing	17	_	_	start_char=1787|end_char=1793
+19	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=1794|end_char=1797
+20	intensified	intensify	VERB	VBN	Tense=Past|VerbForm=Part	19	_	_	start_char=1798|end_char=1809|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=1809|end_char=1810
+
+# text = Visit to Poland after 45 years An Indian Prime Minister will visit Poland after 45 years.
+# sent_id = 20
+1	Visit	visit	VERB	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=1811|end_char=1816
+2	to	to	ADP	IN	_	1	_	_	start_char=1817|end_char=1819
+3	Poland	Poland	PROPN	NNP	Number=Sing	2	_	_	start_char=1820|end_char=1826
+4	after	after	ADP	IN	_	3	_	_	start_char=1827|end_char=1832
+5	45	45	NUM	CD	NumForm=Digit|NumType=Card	4	_	_	start_char=1833|end_char=1835
+6	years	year	NOUN	NNS	Number=Plur	5	_	_	start_char=1836|end_char=1841
+7	An	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=1842|end_char=1844
+8	Indian	Indian	ADJ	JJ	Degree=Pos	7	_	_	start_char=1845|end_char=1851
+9	Prime	Prime	ADJ	NNP	Degree=Pos	8	_	_	start_char=1852|end_char=1857
+10	Minister	Minister	PROPN	NNP	Number=Sing	9	_	_	start_char=1858|end_char=1866
+11	will	will	AUX	MD	VerbForm=Fin	10	_	_	start_char=1867|end_char=1871
+12	visit	visit	VERB	VB	VerbForm=Inf	11	_	_	start_char=1872|end_char=1877
+13	Poland	Poland	PROPN	NNP	Number=Sing	12	_	_	start_char=1878|end_char=1884
+14	after	after	ADP	IN	_	13	_	_	start_char=1885|end_char=1890
+15	45	45	NUM	CD	NumForm=Digit|NumType=Card	14	_	_	start_char=1891|end_char=1893
+16	years	year	NOUN	NNS	Number=Plur	15	_	_	start_char=1894|end_char=1899|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=1899|end_char=1900
+
+# text = Before him, Morarji Desai visited Poland in 1979.
+# sent_id = 21
+1	Before	before	ADP	IN	_	0	_	_	start_char=1901|end_char=1907
+2	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	_	_	start_char=1908|end_char=1911|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=1911|end_char=1912
+4	Morarji	Morarji	PROPN	NNP	Number=Sing	3	_	_	start_char=1913|end_char=1920
+5	Desai	Desai	PROPN	NNP	Number=Sing	4	_	_	start_char=1921|end_char=1926
+6	visited	visit	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=1927|end_char=1934
+7	Poland	Poland	PROPN	NNP	Number=Sing	6	_	_	start_char=1935|end_char=1941
+8	in	in	ADP	IN	_	7	_	_	start_char=1942|end_char=1944
+9	1979	1979	NUM	CD	NumForm=Digit|NumType=Card	8	_	_	start_char=1945|end_char=1949|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=1949|end_char=1950
+
+# text = This visit is taking place at a time when India-Poland are celebrating the 70th anniversary of the establishment of diplomatic relations.
+# sent_id = 22
+1	This	this	DET	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1951|end_char=1955
+2	visit	visit	NOUN	NN	Number=Sing	1	_	_	start_char=1956|end_char=1961
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1962|end_char=1964
+4	taking	take	VERB	VBG	Tense=Pres|VerbForm=Part	3	_	_	start_char=1965|end_char=1971
+5	place	place	NOUN	NN	Number=Sing	4	_	_	start_char=1972|end_char=1977
+6	at	at	ADP	IN	_	5	_	_	start_char=1978|end_char=1980
+7	a	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=1981|end_char=1982
+8	time	time	NOUN	NN	Number=Sing	7	_	_	start_char=1983|end_char=1987
+9	when	when	ADV	WRB	PronType=Int	8	_	_	start_char=1988|end_char=1992
+10	India	India	PROPN	NNP	Number=Sing	9	_	_	start_char=1993|end_char=1998|SpaceAfter=No
+11	-	-	PUNCT	HYPH	_	10	_	_	start_char=1998|end_char=1999|SpaceAfter=No
+12	Poland	Poland	PROPN	NNP	Number=Sing	11	_	_	start_char=1999|end_char=2005
+13	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=2006|end_char=2009
+14	celebrating	celebrate	VERB	VBG	Tense=Pres|VerbForm=Part	13	_	_	start_char=2010|end_char=2021
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=2022|end_char=2025
+16	70th	70th	ADJ	JJ	Degree=Pos|NumType=Ord	15	_	_	start_char=2026|end_char=2030
+17	anniversary	anniversary	NOUN	NN	Number=Sing	16	_	_	start_char=2031|end_char=2042
+18	of	of	ADP	IN	_	17	_	_	start_char=2043|end_char=2045
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=2046|end_char=2049
+20	establishment	establishment	NOUN	NN	Number=Sing	19	_	_	start_char=2050|end_char=2063
+21	of	of	ADP	IN	_	20	_	_	start_char=2064|end_char=2066
+22	diplomatic	diplomatic	ADJ	JJ	Degree=Pos	21	_	_	start_char=2067|end_char=2077
+23	relations	relation	NOUN	NNS	Number=Plur	22	_	_	start_char=2078|end_char=2087|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=2087|end_char=2088
+
+# text = Let us tell you that the number of Indian community in Poland is around 25,000, which includes about 5,000 students.
+# sent_id = 23
+1	Let	let	VERB	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=2089|end_char=2092
+2	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	1	_	_	start_char=2093|end_char=2095
+3	tell	tell	VERB	VB	VerbForm=Inf	2	_	_	start_char=2096|end_char=2100
+4	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3	_	_	start_char=2101|end_char=2104
+5	that	that	SCONJ	IN	_	4	_	_	start_char=2105|end_char=2109
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=2110|end_char=2113
+7	number	number	NOUN	NN	Number=Sing	6	_	_	start_char=2114|end_char=2120
+8	of	of	ADP	IN	_	7	_	_	start_char=2121|end_char=2123
+9	Indian	Indian	ADJ	JJ	Degree=Pos	8	_	_	start_char=2124|end_char=2130
+10	community	community	NOUN	NN	Number=Sing	9	_	_	start_char=2131|end_char=2140
+11	in	in	ADP	IN	_	10	_	_	start_char=2141|end_char=2143
+12	Poland	Poland	PROPN	NNP	Number=Sing	11	_	_	start_char=2144|end_char=2150
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=2151|end_char=2153
+14	around	around	ADV	RB	_	13	_	_	start_char=2154|end_char=2160
+15	25,000	25000	NUM	CD	NumForm=Digit|NumType=Card	14	_	_	start_char=2161|end_char=2167|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=2167|end_char=2168
+17	which	which	PRON	WDT	PronType=Rel	16	_	_	start_char=2169|end_char=2174
+18	includes	include	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=2175|end_char=2183
+19	about	about	ADV	RB	_	18	_	_	start_char=2184|end_char=2189
+20	5,000	5000	NUM	CD	NumForm=Digit|NumType=Card	19	_	_	start_char=2190|end_char=2195
+21	students	student	NOUN	NNS	Number=Plur	20	_	_	start_char=2196|end_char=2204|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=2204|end_char=2205|SpaceAfter=No
+

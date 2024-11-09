@@ -1,0 +1,468 @@
+# text = Vadim Krasikov: Vadim Krasikov may be considered a hero by Russia, but he is also called the butcher of Russia.
+# sent_id = 0
+1	Vadim	Vadim	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=5
+2	Krasikov	Krasikov	PROPN	NNP	Number=Sing	1	_	_	start_char=6|end_char=14|SpaceAfter=No
+3	:	:	PUNCT	:	_	2	_	_	start_char=14|end_char=15
+4	Vadim	Vadim	PROPN	NNP	Number=Sing	3	_	_	start_char=16|end_char=21
+5	Krasikov	Krasikov	PROPN	NNP	Number=Sing	4	_	_	start_char=22|end_char=30
+6	may	may	AUX	MD	VerbForm=Fin	5	_	_	start_char=31|end_char=34
+7	be	be	AUX	VB	VerbForm=Inf	6	_	_	start_char=35|end_char=37
+8	considered	consider	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	_	_	start_char=38|end_char=48
+9	a	a	DET	DT	Definite=Ind|PronType=Art	8	_	_	start_char=49|end_char=50
+10	hero	hero	NOUN	NN	Number=Sing	9	_	_	start_char=51|end_char=55
+11	by	by	ADP	IN	_	10	_	_	start_char=56|end_char=58
+12	Russia	Russia	PROPN	NNP	Number=Sing	11	_	_	start_char=59|end_char=65|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=65|end_char=66
+14	but	but	CCONJ	CC	_	13	_	_	start_char=67|end_char=70
+15	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	_	_	start_char=71|end_char=73
+16	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=74|end_char=76
+17	also	also	ADV	RB	_	16	_	_	start_char=77|end_char=81
+18	called	call	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	17	_	_	start_char=82|end_char=88
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=89|end_char=92
+20	butcher	butcher	NOUN	NN	Number=Sing	19	_	_	start_char=93|end_char=100
+21	of	of	ADP	IN	_	20	_	_	start_char=101|end_char=103
+22	Russia	Russia	PROPN	NNP	Number=Sing	21	_	_	start_char=104|end_char=110|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=110|end_char=111
+
+# text = The most prominent Russian prisoner to be released in the prisoner exchange is Vadim Krasikov.
+# sent_id = 1
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=112|end_char=115
+2	most	most	ADV	RBS	Degree=Sup	1	_	_	start_char=116|end_char=120
+3	prominent	prominent	ADJ	JJ	Degree=Pos	2	_	_	start_char=121|end_char=130
+4	Russian	Russian	ADJ	JJ	Degree=Pos	3	_	_	start_char=131|end_char=138
+5	prisoner	prisoner	NOUN	NN	Number=Sing	4	_	_	start_char=139|end_char=147
+6	to	to	PART	TO	_	5	_	_	start_char=148|end_char=150
+7	be	be	AUX	VB	VerbForm=Inf	6	_	_	start_char=151|end_char=153
+8	released	release	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	_	_	start_char=154|end_char=162
+9	in	in	ADP	IN	_	8	_	_	start_char=163|end_char=165
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=166|end_char=169
+11	prisoner	prisoner	NOUN	NN	Number=Sing	10	_	_	start_char=170|end_char=178
+12	exchange	exchange	NOUN	NN	Number=Sing	11	_	_	start_char=179|end_char=187
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=188|end_char=190
+14	Vadim	Vadim	PROPN	NNP	Number=Sing	13	_	_	start_char=191|end_char=196
+15	Krasikov	Krasikov	PROPN	NNP	Number=Sing	14	_	_	start_char=197|end_char=205|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=205|end_char=206
+
+# text = Trending Photos Russian Biggest Killer:
+# sent_id = 2
+1	Trending	trend	VERB	VBG	VerbForm=Ger	0	_	_	start_char=207|end_char=215
+2	Photos	photo	NOUN	NNS	Number=Plur	1	_	_	start_char=216|end_char=222
+3	Russian	Russian	ADJ	NNP	Degree=Pos	2	_	_	start_char=223|end_char=230
+4	Biggest	big	ADJ	JJS	Degree=Sup	3	_	_	start_char=231|end_char=238
+5	Killer	Killer	PROPN	NNP	Number=Sing	4	_	_	start_char=239|end_char=245|SpaceAfter=No
+6	:	:	PUNCT	:	_	5	_	_	start_char=245|end_char=246
+
+# text = So finally what happened was the tug of war between the world&#39;s major superpowers for a long time.
+# sent_id = 3
+1	So	so	ADV	RB	_	0	_	_	start_char=247|end_char=249
+2	finally	finally	ADV	RB	_	1	_	_	start_char=250|end_char=257
+3	what	what	PRON	WP	PronType=Rel	2	_	_	start_char=258|end_char=262
+4	happened	happen	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=263|end_char=271
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=272|end_char=275
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=276|end_char=279
+7	tug	tug	NOUN	NN	Number=Sing	6	_	_	start_char=280|end_char=283
+8	of	of	ADP	IN	_	7	_	_	start_char=284|end_char=286
+9	war	war	NOUN	NN	Number=Sing	8	_	_	start_char=287|end_char=290
+10	between	between	ADP	IN	_	9	_	_	start_char=291|end_char=298
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=299|end_char=302
+12	world&	world&	NOUN	NN	Number=Sing	11	_	_	start_char=303|end_char=309|SpaceAfter=No
+13	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	12	_	_	start_char=309|end_char=312|SpaceAfter=No
+14	;	;	PUNCT	:	_	13	_	_	start_char=312|end_char=313|SpaceAfter=No
+15	s	's	PART	POS	Typo=Yes	14	_	_	start_char=313|end_char=314
+16	major	major	ADJ	JJ	Degree=Pos	15	_	_	start_char=315|end_char=320
+17	superpowers	superpower	NOUN	NNS	Number=Plur	16	_	_	start_char=321|end_char=332
+18	for	for	ADP	IN	_	17	_	_	start_char=333|end_char=336
+19	a	a	DET	DT	Definite=Ind|PronType=Art	18	_	_	start_char=337|end_char=338
+20	long	long	ADJ	JJ	Degree=Pos	19	_	_	start_char=339|end_char=343
+21	time	time	NOUN	NN	Number=Sing	20	_	_	start_char=344|end_char=348|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=348|end_char=349
+
+# text = This was the process of prisoner exchange.
+# sent_id = 4
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=350|end_char=354
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=355|end_char=358
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=359|end_char=362
+4	process	process	NOUN	NN	Number=Sing	3	_	_	start_char=363|end_char=370
+5	of	of	ADP	IN	_	4	_	_	start_char=371|end_char=373
+6	prisoner	prisoner	NOUN	NN	Number=Sing	5	_	_	start_char=374|end_char=382
+7	exchange	exchange	NOUN	NN	Number=Sing	6	_	_	start_char=383|end_char=391|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	_	_	start_char=391|end_char=392
+
+# text = The prisoner exchange agreement, brokered by Turkey, included the US, Norway, Germany, Poland, Russia, Belarus and Slovenia.
+# sent_id = 5
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=393|end_char=396
+2	prisoner	prisoner	NOUN	NN	Number=Sing	1	_	_	start_char=397|end_char=405
+3	exchange	exchange	NOUN	NN	Number=Sing	2	_	_	start_char=406|end_char=414
+4	agreement	agreement	NOUN	NN	Number=Sing	3	_	_	start_char=415|end_char=424|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=424|end_char=425
+6	brokered	broker	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=426|end_char=434
+7	by	by	ADP	IN	_	6	_	_	start_char=435|end_char=437
+8	Turkey	Turkey	PROPN	NNP	Number=Sing	7	_	_	start_char=438|end_char=444|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=444|end_char=445
+10	included	include	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=446|end_char=454
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=455|end_char=458
+12	US	US	PROPN	NNP	Number=Sing	11	_	_	start_char=459|end_char=461|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=461|end_char=462
+14	Norway	Norway	PROPN	NNP	Number=Sing	13	_	_	start_char=463|end_char=469|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=469|end_char=470
+16	Germany	Germany	PROPN	NNP	Number=Sing	15	_	_	start_char=471|end_char=478|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=478|end_char=479
+18	Poland	Poland	PROPN	NNP	Number=Sing	17	_	_	start_char=480|end_char=486|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=486|end_char=487
+20	Russia	Russia	PROPN	NNP	Number=Sing	19	_	_	start_char=488|end_char=494|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=494|end_char=495
+22	Belarus	Belarus	PROPN	NNP	Number=Sing	21	_	_	start_char=496|end_char=503
+23	and	and	CCONJ	CC	_	22	_	_	start_char=504|end_char=507
+24	Slovenia	Slovenia	PROPN	NNP	Number=Sing	23	_	_	start_char=508|end_char=516|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=516|end_char=517
+
+# text = Russian President Putin met Russian citizens imprisoned abroad on Thursday night.
+# sent_id = 6
+1	Russian	Russian	ADJ	JJ	Degree=Pos	0	_	_	start_char=518|end_char=525
+2	President	President	PROPN	NNP	Number=Sing	1	_	_	start_char=526|end_char=535
+3	Putin	Putin	PROPN	NNP	Number=Sing	2	_	_	start_char=536|end_char=541
+4	met	meet	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=542|end_char=545
+5	Russian	Russian	ADJ	JJ	Degree=Pos	4	_	_	start_char=546|end_char=553
+6	citizens	citizen	NOUN	NNS	Number=Plur	5	_	_	start_char=554|end_char=562
+7	imprisoned	imprison	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=563|end_char=573
+8	abroad	abroad	ADV	RB	_	7	_	_	start_char=574|end_char=580
+9	on	on	ADP	IN	_	8	_	_	start_char=581|end_char=583
+10	Thursday	Thursday	PROPN	NNP	Number=Sing	9	_	_	start_char=584|end_char=592
+11	night	night	NOUN	NN	Number=Sing	10	_	_	start_char=593|end_char=598|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=598|end_char=599
+
+# text = Putin wished them and said that they would be nominated for government awards.
+# sent_id = 7
+1	Putin	Putin	PROPN	NNP	Number=Sing	0	_	_	start_char=600|end_char=605
+2	wished	wish	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=606|end_char=612
+3	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	_	_	start_char=613|end_char=617
+4	and	and	CCONJ	CC	_	3	_	_	start_char=618|end_char=621
+5	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=622|end_char=626
+6	that	that	SCONJ	IN	_	5	_	_	start_char=627|end_char=631
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	_	_	start_char=632|end_char=636
+8	would	would	AUX	MD	VerbForm=Fin	7	_	_	start_char=637|end_char=642
+9	be	be	AUX	VB	VerbForm=Inf	8	_	_	start_char=643|end_char=645
+10	nominated	nominate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	9	_	_	start_char=646|end_char=655
+11	for	for	ADP	IN	_	10	_	_	start_char=656|end_char=659
+12	government	government	NOUN	NN	Number=Sing	11	_	_	start_char=660|end_char=670
+13	awards	award	NOUN	NNS	Number=Plur	12	_	_	start_char=671|end_char=677|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=677|end_char=678
+
+# text = But the biggest name in the news among all these is that of Vadim Krasikov, whom the people of Russia are seeing as a hero and now he is making a comeback.
+# sent_id = 8
+1	But	but	CCONJ	CC	_	0	_	_	start_char=679|end_char=682
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=683|end_char=686
+3	biggest	big	ADJ	JJS	Degree=Sup	2	_	_	start_char=687|end_char=694
+4	name	name	NOUN	NN	Number=Sing	3	_	_	start_char=695|end_char=699
+5	in	in	ADP	IN	_	4	_	_	start_char=700|end_char=702
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=703|end_char=706
+7	news	news	NOUN	NN	Number=Sing	6	_	_	start_char=707|end_char=711
+8	among	among	ADP	IN	_	7	_	_	start_char=712|end_char=717
+9	all	all	DET	PDT	_	8	_	_	start_char=718|end_char=721
+10	these	this	PRON	DT	Number=Plur|PronType=Dem	9	_	_	start_char=722|end_char=727
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=728|end_char=730
+12	that	that	PRON	DT	Number=Sing|PronType=Dem	11	_	_	start_char=731|end_char=735
+13	of	of	ADP	IN	_	12	_	_	start_char=736|end_char=738
+14	Vadim	Vadim	PROPN	NNP	Number=Sing	13	_	_	start_char=739|end_char=744
+15	Krasikov	Krasikov	PROPN	NNP	Number=Sing	14	_	_	start_char=745|end_char=753|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=753|end_char=754
+17	whom	whom	PRON	WP	PronType=Rel	16	_	_	start_char=755|end_char=759
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=760|end_char=763
+19	people	person	NOUN	NNS	Number=Plur	18	_	_	start_char=764|end_char=770
+20	of	of	ADP	IN	_	19	_	_	start_char=771|end_char=773
+21	Russia	Russia	PROPN	NNP	Number=Sing	20	_	_	start_char=774|end_char=780
+22	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	_	_	start_char=781|end_char=784
+23	seeing	see	VERB	VBG	Tense=Pres|VerbForm=Part	22	_	_	start_char=785|end_char=791
+24	as	as	ADP	IN	_	23	_	_	start_char=792|end_char=794
+25	a	a	DET	DT	Definite=Ind|PronType=Art	24	_	_	start_char=795|end_char=796
+26	hero	hero	NOUN	NN	Number=Sing	25	_	_	start_char=797|end_char=801
+27	and	and	CCONJ	CC	_	26	_	_	start_char=802|end_char=805
+28	now	now	ADV	RB	_	27	_	_	start_char=806|end_char=809
+29	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	_	_	start_char=810|end_char=812
+30	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	_	_	start_char=813|end_char=815
+31	making	make	VERB	VBG	Tense=Pres|VerbForm=Part	30	_	_	start_char=816|end_char=822
+32	a	a	DET	DT	Definite=Ind|PronType=Art	31	_	_	start_char=823|end_char=824
+33	comeback	comeback	NOUN	NN	Number=Sing	32	_	_	start_char=825|end_char=833|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=833|end_char=834
+
+# text = Vadim Krasikov may be considered a hero by Russia, but he is also called the butcher of Russia.
+# sent_id = 9
+1	Vadim	Vadim	PROPN	NNP	Number=Sing	0	_	_	start_char=835|end_char=840
+2	Krasikov	Krasikov	PROPN	NNP	Number=Sing	1	_	_	start_char=841|end_char=849
+3	may	may	AUX	MD	VerbForm=Fin	2	_	_	start_char=850|end_char=853
+4	be	be	AUX	VB	VerbForm=Inf	3	_	_	start_char=854|end_char=856
+5	considered	consider	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	_	_	start_char=857|end_char=867
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=868|end_char=869
+7	hero	hero	NOUN	NN	Number=Sing	6	_	_	start_char=870|end_char=874
+8	by	by	ADP	IN	_	7	_	_	start_char=875|end_char=877
+9	Russia	Russia	PROPN	NNP	Number=Sing	8	_	_	start_char=878|end_char=884|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=884|end_char=885
+11	but	but	CCONJ	CC	_	10	_	_	start_char=886|end_char=889
+12	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	_	_	start_char=890|end_char=892
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=893|end_char=895
+14	also	also	ADV	RB	_	13	_	_	start_char=896|end_char=900
+15	called	call	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	_	_	start_char=901|end_char=907
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=908|end_char=911
+17	butcher	butcher	NOUN	NN	Number=Sing	16	_	_	start_char=912|end_char=919
+18	of	of	ADP	IN	_	17	_	_	start_char=920|end_char=922
+19	Russia	Russia	PROPN	NNP	Number=Sing	18	_	_	start_char=923|end_char=929|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=929|end_char=930
+
+# text = The most prominent Russian prisoner to be released in the prisoner exchange was Vadim Krasikov, who was sentenced to life imprisonment in Germany for the murder of former Chechen separatist leader Zelimkhan Khangoshvili in Berlin in 2019.
+# sent_id = 10
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=931|end_char=934
+2	most	most	ADV	RBS	Degree=Sup	1	_	_	start_char=935|end_char=939
+3	prominent	prominent	ADJ	JJ	Degree=Pos	2	_	_	start_char=940|end_char=949
+4	Russian	Russian	ADJ	JJ	Degree=Pos	3	_	_	start_char=950|end_char=957
+5	prisoner	prisoner	NOUN	NN	Number=Sing	4	_	_	start_char=958|end_char=966
+6	to	to	PART	TO	_	5	_	_	start_char=967|end_char=969
+7	be	be	AUX	VB	VerbForm=Inf	6	_	_	start_char=970|end_char=972
+8	released	release	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	_	_	start_char=973|end_char=981
+9	in	in	ADP	IN	_	8	_	_	start_char=982|end_char=984
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=985|end_char=988
+11	prisoner	prisoner	NOUN	NN	Number=Sing	10	_	_	start_char=989|end_char=997
+12	exchange	exchange	NOUN	NN	Number=Sing	11	_	_	start_char=998|end_char=1006
+13	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=1007|end_char=1010
+14	Vadim	Vadim	PROPN	NNP	Number=Sing	13	_	_	start_char=1011|end_char=1016
+15	Krasikov	Krasikov	PROPN	NNP	Number=Sing	14	_	_	start_char=1017|end_char=1025|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=1025|end_char=1026
+17	who	who	PRON	WP	PronType=Rel	16	_	_	start_char=1027|end_char=1030
+18	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	_	_	start_char=1031|end_char=1034
+19	sentenced	sentence	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	18	_	_	start_char=1035|end_char=1044
+20	to	to	ADP	IN	_	19	_	_	start_char=1045|end_char=1047
+21	life	life	NOUN	NN	Number=Sing	20	_	_	start_char=1048|end_char=1052
+22	imprisonment	imprisonment	NOUN	NN	Number=Sing	21	_	_	start_char=1053|end_char=1065
+23	in	in	ADP	IN	_	22	_	_	start_char=1066|end_char=1068
+24	Germany	Germany	PROPN	NNP	Number=Sing	23	_	_	start_char=1069|end_char=1076
+25	for	for	ADP	IN	_	24	_	_	start_char=1077|end_char=1080
+26	the	the	DET	DT	Definite=Def|PronType=Art	25	_	_	start_char=1081|end_char=1084
+27	murder	murder	NOUN	NN	Number=Sing	26	_	_	start_char=1085|end_char=1091
+28	of	of	ADP	IN	_	27	_	_	start_char=1092|end_char=1094
+29	former	former	ADJ	JJ	Degree=Pos	28	_	_	start_char=1095|end_char=1101
+30	Chechen	Chechen	ADJ	JJ	Degree=Pos	29	_	_	start_char=1102|end_char=1109
+31	separatist	separatist	NOUN	NN	Number=Sing	30	_	_	start_char=1110|end_char=1120
+32	leader	leader	NOUN	NN	Number=Sing	31	_	_	start_char=1121|end_char=1127
+33	Zelimkhan	Zelimkhan	PROPN	NNP	Number=Sing	32	_	_	start_char=1128|end_char=1137
+34	Khangoshvili	Khangoshvili	PROPN	NNP	Number=Sing	33	_	_	start_char=1138|end_char=1150
+35	in	in	ADP	IN	_	34	_	_	start_char=1151|end_char=1153
+36	Berlin	Berlin	PROPN	NNP	Number=Sing	35	_	_	start_char=1154|end_char=1160
+37	in	in	ADP	IN	_	36	_	_	start_char=1161|end_char=1163
+38	2019	2019	NUM	CD	NumForm=Digit|NumType=Card	37	_	_	start_char=1164|end_char=1168|SpaceAfter=No
+39	.	.	PUNCT	.	_	38	_	_	start_char=1168|end_char=1169
+
+# text = The German government was not ready to release him.
+# sent_id = 11
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1170|end_char=1173
+2	German	German	ADJ	JJ	Degree=Pos	1	_	_	start_char=1174|end_char=1180
+3	government	government	NOUN	NN	Number=Sing	2	_	_	start_char=1181|end_char=1191
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=1192|end_char=1195
+5	not	not	PART	RB	_	4	_	_	start_char=1196|end_char=1199
+6	ready	ready	ADJ	JJ	Degree=Pos	5	_	_	start_char=1200|end_char=1205
+7	to	to	PART	TO	_	6	_	_	start_char=1206|end_char=1208
+8	release	release	VERB	VB	VerbForm=Inf	7	_	_	start_char=1209|end_char=1216
+9	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	_	_	start_char=1217|end_char=1220|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=1220|end_char=1221
+
+# text = In fact, Vadim Krasikov is a Russian citizen associated with the Russian intelligence agency FSB.
+# sent_id = 12
+1	In	in	ADP	IN	_	0	_	_	start_char=1222|end_char=1224
+2	fact	fact	NOUN	NN	Number=Sing	1	_	_	start_char=1225|end_char=1229|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=1229|end_char=1230
+4	Vadim	Vadim	PROPN	NNP	Number=Sing	3	_	_	start_char=1231|end_char=1236
+5	Krasikov	Krasikov	PROPN	NNP	Number=Sing	4	_	_	start_char=1237|end_char=1245
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1246|end_char=1248
+7	a	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=1249|end_char=1250
+8	Russian	Russian	ADJ	JJ	Degree=Pos	7	_	_	start_char=1251|end_char=1258
+9	citizen	citizen	NOUN	NN	Number=Sing	8	_	_	start_char=1259|end_char=1266
+10	associated	associate	VERB	VBN	Tense=Past|VerbForm=Part	9	_	_	start_char=1267|end_char=1277
+11	with	with	ADP	IN	_	10	_	_	start_char=1278|end_char=1282
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=1283|end_char=1286
+13	Russian	Russian	ADJ	JJ	Degree=Pos	12	_	_	start_char=1287|end_char=1294
+14	intelligence	intelligence	NOUN	NN	Number=Sing	13	_	_	start_char=1295|end_char=1307
+15	agency	agency	NOUN	NN	Number=Sing	14	_	_	start_char=1308|end_char=1314
+16	FSB	FSB	PROPN	NNP	Number=Sing	15	_	_	start_char=1315|end_char=1318|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=1318|end_char=1319
+
+# text = A German court convicted Krasikov of murder and sentenced him to life imprisonment.
+# sent_id = 13
+1	A	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=1320|end_char=1321
+2	German	German	ADJ	JJ	Degree=Pos	1	_	_	start_char=1322|end_char=1328
+3	court	court	NOUN	NN	Number=Sing	2	_	_	start_char=1329|end_char=1334
+4	convicted	convict	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=1335|end_char=1344
+5	Krasikov	Krasikov	PROPN	NNP	Number=Sing	4	_	_	start_char=1345|end_char=1353
+6	of	of	ADP	IN	_	5	_	_	start_char=1354|end_char=1356
+7	murder	murder	NOUN	NN	Number=Sing	6	_	_	start_char=1357|end_char=1363
+8	and	and	CCONJ	CC	_	7	_	_	start_char=1364|end_char=1367
+9	sentenced	sentence	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=1368|end_char=1377
+10	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	_	_	start_char=1378|end_char=1381
+11	to	to	ADP	IN	_	10	_	_	start_char=1382|end_char=1384
+12	life	life	NOUN	NN	Number=Sing	11	_	_	start_char=1385|end_char=1389
+13	imprisonment	imprisonment	NOUN	NN	Number=Sing	12	_	_	start_char=1390|end_char=1402|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=1402|end_char=1403
+
+# text = At that time Putin denied Russia&#39;s involvement in this murder.
+# sent_id = 14
+1	At	at	ADP	IN	_	0	_	_	start_char=1404|end_char=1406
+2	that	that	DET	DT	Number=Sing|PronType=Dem	1	_	_	start_char=1407|end_char=1411
+3	time	time	NOUN	NN	Number=Sing	2	_	_	start_char=1412|end_char=1416
+4	Putin	Putin	PROPN	NNP	Number=Sing	3	_	_	start_char=1417|end_char=1422
+5	denied	deny	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=1423|end_char=1429
+6	Russia&	Russia&	PROPN	NNP	Number=Sing	5	_	_	start_char=1430|end_char=1437|SpaceAfter=No
+7	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	6	_	_	start_char=1437|end_char=1440|SpaceAfter=No
+8	;	;	PUNCT	:	_	7	_	_	start_char=1440|end_char=1441|SpaceAfter=No
+9	s	's	PART	POS	Typo=Yes	8	_	_	start_char=1441|end_char=1442
+10	involvement	involvement	NOUN	NN	Number=Sing	9	_	_	start_char=1443|end_char=1454
+11	in	in	ADP	IN	_	10	_	_	start_char=1455|end_char=1457
+12	this	this	DET	DT	Number=Sing|PronType=Dem	11	_	_	start_char=1458|end_char=1462
+13	murder	murder	NOUN	NN	Number=Sing	12	_	_	start_char=1463|end_char=1469|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=1469|end_char=1470
+
+# text = Putin described Krasikov as a Russian &quot;patriot&quot; without naming him in an interview.
+# sent_id = 15
+1	Putin	Putin	PROPN	NNP	Number=Sing	0	_	_	start_char=1471|end_char=1476
+2	described	describe	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1477|end_char=1486
+3	Krasikov	Krasikov	PROPN	NNP	Number=Sing	2	_	_	start_char=1487|end_char=1495
+4	as	as	ADP	IN	_	3	_	_	start_char=1496|end_char=1498
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=1499|end_char=1500
+6	Russian	Russian	ADJ	JJ	Degree=Pos	5	_	_	start_char=1501|end_char=1508
+7	&quot	&quot	NOUN	NN	Number=Sing	6	_	_	start_char=1509|end_char=1514|SpaceAfter=No
+8	;	;	PUNCT	:	_	7	_	_	start_char=1514|end_char=1515|SpaceAfter=No
+9	patriot&quot	patriot&quot	NOUN	NN	Number=Sing	8	_	_	start_char=1515|end_char=1527|SpaceAfter=No
+10	;	;	PUNCT	:	_	9	_	_	start_char=1527|end_char=1528
+11	without	without	SCONJ	IN	_	10	_	_	start_char=1529|end_char=1536
+12	naming	name	VERB	VBG	VerbForm=Ger	11	_	_	start_char=1537|end_char=1543
+13	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	_	_	start_char=1544|end_char=1547
+14	in	in	ADP	IN	_	13	_	_	start_char=1548|end_char=1550
+15	an	a	DET	DT	Definite=Ind|PronType=Art	14	_	_	start_char=1551|end_char=1553
+16	interview	interview	NOUN	NN	Number=Sing	15	_	_	start_char=1554|end_char=1563|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=1563|end_char=1564
+
+# text = In a talk show, Putin also said that Russia is demanding the release of Krasikov in exchange for American journalist Ivan Gershkovich.
+# sent_id = 16
+1	In	in	ADP	IN	_	0	_	_	start_char=1565|end_char=1567
+2	a	a	DET	DT	Definite=Ind|PronType=Art	1	_	_	start_char=1568|end_char=1569
+3	talk	talk	NOUN	NN	Number=Sing	2	_	_	start_char=1570|end_char=1574
+4	show	show	NOUN	NN	Number=Sing	3	_	_	start_char=1575|end_char=1579|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=1579|end_char=1580
+6	Putin	Putin	PROPN	NNP	Number=Sing	5	_	_	start_char=1581|end_char=1586
+7	also	also	ADV	RB	_	6	_	_	start_char=1587|end_char=1591
+8	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=1592|end_char=1596
+9	that	that	SCONJ	IN	_	8	_	_	start_char=1597|end_char=1601
+10	Russia	Russia	PROPN	NNP	Number=Sing	9	_	_	start_char=1602|end_char=1608
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=1609|end_char=1611
+12	demanding	demand	VERB	VBG	Tense=Pres|VerbForm=Part	11	_	_	start_char=1612|end_char=1621
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1622|end_char=1625
+14	release	release	NOUN	NN	Number=Sing	13	_	_	start_char=1626|end_char=1633
+15	of	of	ADP	IN	_	14	_	_	start_char=1634|end_char=1636
+16	Krasikov	Krasikov	PROPN	NNP	Number=Sing	15	_	_	start_char=1637|end_char=1645
+17	in	in	ADP	IN	_	16	_	_	start_char=1646|end_char=1648
+18	exchange	exchange	NOUN	NN	Number=Sing	17	_	_	start_char=1649|end_char=1657
+19	for	for	ADP	IN	_	18	_	_	start_char=1658|end_char=1661
+20	American	American	ADJ	JJ	Degree=Pos	19	_	_	start_char=1662|end_char=1670
+21	journalist	journalist	NOUN	NN	Number=Sing	20	_	_	start_char=1671|end_char=1681
+22	Ivan	Ivan	PROPN	NNP	Number=Sing	21	_	_	start_char=1682|end_char=1686
+23	Gershkovich	Gershkovich	PROPN	NNP	Number=Sing	22	_	_	start_char=1687|end_char=1698|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=1698|end_char=1699
+
+# text = Not only this, Krasikov was also a suspect in the murder that took place in Moscow in 2013.
+# sent_id = 17
+1	Not	not	PART	RB	_	0	_	_	start_char=1700|end_char=1703
+2	only	only	ADV	RB	_	1	_	_	start_char=1704|end_char=1708
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	2	_	_	start_char=1709|end_char=1713|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1713|end_char=1714
+5	Krasikov	Krasikov	PROPN	NNP	Number=Sing	4	_	_	start_char=1715|end_char=1723
+6	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=1724|end_char=1727
+7	also	also	ADV	RB	_	6	_	_	start_char=1728|end_char=1732
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=1733|end_char=1734
+9	suspect	suspect	NOUN	NN	Number=Sing	8	_	_	start_char=1735|end_char=1742
+10	in	in	ADP	IN	_	9	_	_	start_char=1743|end_char=1745
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=1746|end_char=1749
+12	murder	murder	NOUN	NN	Number=Sing	11	_	_	start_char=1750|end_char=1756
+13	that	that	PRON	WDT	PronType=Rel	12	_	_	start_char=1757|end_char=1761
+14	took	take	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	_	_	start_char=1762|end_char=1766
+15	place	place	NOUN	NN	Number=Sing	14	_	_	start_char=1767|end_char=1772
+16	in	in	ADP	IN	_	15	_	_	start_char=1773|end_char=1775
+17	Moscow	Moscow	PROPN	NNP	Number=Sing	16	_	_	start_char=1776|end_char=1782
+18	in	in	ADP	IN	_	17	_	_	start_char=1783|end_char=1785
+19	2013	2013	NUM	CD	NumForm=Digit|NumType=Card	18	_	_	start_char=1786|end_char=1790|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=1790|end_char=1791
+
+# text = It is said that two years later in 2015, the arrest warrant against him was withdrawn.
+# sent_id = 18
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1792|end_char=1794
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1795|end_char=1797
+3	said	say	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	_	_	start_char=1798|end_char=1802
+4	that	that	SCONJ	IN	_	3	_	_	start_char=1803|end_char=1807
+5	two	two	NUM	CD	NumForm=Word|NumType=Card	4	_	_	start_char=1808|end_char=1811
+6	years	year	NOUN	NNS	Number=Plur	5	_	_	start_char=1812|end_char=1817
+7	later	late	ADV	RBR	Degree=Cmp	6	_	_	start_char=1818|end_char=1823
+8	in	in	ADP	IN	_	7	_	_	start_char=1824|end_char=1826
+9	2015	2015	NUM	CD	NumForm=Digit|NumType=Card	8	_	_	start_char=1827|end_char=1831|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=1831|end_char=1832
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=1833|end_char=1836
+12	arrest	arrest	NOUN	NN	Number=Sing	11	_	_	start_char=1837|end_char=1843
+13	warrant	warrant	NOUN	NN	Number=Sing	12	_	_	start_char=1844|end_char=1851
+14	against	against	ADP	IN	_	13	_	_	start_char=1852|end_char=1859
+15	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	_	_	start_char=1860|end_char=1863
+16	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	_	_	start_char=1864|end_char=1867
+17	withdrawn	withdraw	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	16	_	_	start_char=1868|end_char=1877|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=1877|end_char=1878
+
+# text = It was claimed that Krasikov had received full support of his country in the murder that took place in Berlin.
+# sent_id = 19
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1879|end_char=1881
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1882|end_char=1885
+3	claimed	claim	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	_	_	start_char=1886|end_char=1893
+4	that	that	SCONJ	IN	_	3	_	_	start_char=1894|end_char=1898
+5	Krasikov	Krasikov	PROPN	NNP	Number=Sing	4	_	_	start_char=1899|end_char=1907
+6	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=1908|end_char=1911
+7	received	receive	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=1912|end_char=1920
+8	full	full	ADJ	JJ	Degree=Pos	7	_	_	start_char=1921|end_char=1925
+9	support	support	NOUN	NN	Number=Sing	8	_	_	start_char=1926|end_char=1933
+10	of	of	ADP	IN	_	9	_	_	start_char=1934|end_char=1936
+11	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	_	_	start_char=1937|end_char=1940
+12	country	country	NOUN	NN	Number=Sing	11	_	_	start_char=1941|end_char=1948
+13	in	in	ADP	IN	_	12	_	_	start_char=1949|end_char=1951
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=1952|end_char=1955
+15	murder	murder	NOUN	NN	Number=Sing	14	_	_	start_char=1956|end_char=1962
+16	that	that	PRON	WDT	PronType=Rel	15	_	_	start_char=1963|end_char=1967
+17	took	take	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	_	_	start_char=1968|end_char=1972
+18	place	place	NOUN	NN	Number=Sing	17	_	_	start_char=1973|end_char=1978
+19	in	in	ADP	IN	_	18	_	_	start_char=1979|end_char=1981
+20	Berlin	Berlin	PROPN	NNP	Number=Sing	19	_	_	start_char=1982|end_char=1988|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=1988|end_char=1989
+
+# text = Whereas Russia kept denying this.
+# sent_id = 20
+1	Whereas	whereas	SCONJ	IN	_	0	_	_	start_char=1990|end_char=1997
+2	Russia	Russia	PROPN	NNP	Number=Sing	1	_	_	start_char=1998|end_char=2004
+3	kept	keep	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=2005|end_char=2009
+4	denying	deny	VERB	VBG	VerbForm=Ger	3	_	_	start_char=2010|end_char=2017
+5	this	this	PRON	DT	Number=Sing|PronType=Dem	4	_	_	start_char=2018|end_char=2022|SpaceAfter=No
+6	.	.	PUNCT	.	_	5	_	_	start_char=2022|end_char=2023
+
+# text = Russia has repeatedly called the allegations against Krasikov politically motivated.
+# sent_id = 21
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=2024|end_char=2030
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2031|end_char=2034
+3	repeatedly	repeatedly	ADV	RB	_	2	_	_	start_char=2035|end_char=2045
+4	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=2046|end_char=2052
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=2053|end_char=2056
+6	allegations	allegation	NOUN	NNS	Number=Plur	5	_	_	start_char=2057|end_char=2068
+7	against	against	ADP	IN	_	6	_	_	start_char=2069|end_char=2076
+8	Krasikov	Krasikov	PROPN	NNP	Number=Sing	7	_	_	start_char=2077|end_char=2085
+9	politically	politically	ADV	RB	_	8	_	_	start_char=2086|end_char=2097
+10	motivated	motivate	VERB	VBN	Tense=Past|VerbForm=Part	9	_	_	start_char=2098|end_char=2107|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=2107|end_char=2108
+
+# text = Now he has returned to his country.
+# sent_id = 22
+1	Now	now	ADV	RB	_	0	_	_	start_char=2109|end_char=2112
+2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	_	_	start_char=2113|end_char=2115
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2116|end_char=2119
+4	returned	return	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=2120|end_char=2128
+5	to	to	ADP	IN	_	4	_	_	start_char=2129|end_char=2131
+6	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	_	_	start_char=2132|end_char=2135
+7	country	country	NOUN	NN	Number=Sing	6	_	_	start_char=2136|end_char=2143|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	_	_	start_char=2143|end_char=2144|SpaceAfter=No
+

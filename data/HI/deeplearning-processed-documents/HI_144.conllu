@@ -1,0 +1,519 @@
+# text = Humans are not aware, but trees are fighting climate change... know how?
+# sent_id = 0
+1	Humans	human	NOUN	NNS	Number=Plur	0	_	_	start_char=0|end_char=6
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=7|end_char=10
+3	not	not	PART	RB	_	2	_	_	start_char=11|end_char=14
+4	aware	aware	ADJ	JJ	Degree=Pos	3	_	_	start_char=15|end_char=20|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=20|end_char=21
+6	but	but	CCONJ	CC	_	5	_	_	start_char=22|end_char=25
+7	trees	tree	NOUN	NNS	Number=Plur	6	_	_	start_char=26|end_char=31
+8	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=32|end_char=35
+9	fighting	fight	VERB	VBG	Tense=Pres|VerbForm=Part	8	_	_	start_char=36|end_char=44
+10	climate	climate	NOUN	NN	Number=Sing	9	_	_	start_char=45|end_char=52
+11	change	change	NOUN	NN	Number=Sing	10	_	_	start_char=53|end_char=59|SpaceAfter=No
+12	...	...	PUNCT	,	_	11	_	_	start_char=59|end_char=62
+13	know	know	VERB	VB	Mood=Ind|VerbForm=Fin	12	_	_	start_char=63|end_char=67
+14	how	how	ADV	WRB	PronType=Int	13	_	_	start_char=68|end_char=71|SpaceAfter=No
+15	?	?	PUNCT	.	_	14	_	_	start_char=71|end_char=72
+
+# text = Trees are considered to be the best of oxygen, but despite this, trees are cut on a large scale without understanding its importance.
+# sent_id = 1
+1	Trees	tree	NOUN	NNS	Number=Plur	0	_	_	start_char=73|end_char=78
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=79|end_char=82
+3	considered	consider	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	_	_	start_char=83|end_char=93
+4	to	to	PART	TO	_	3	_	_	start_char=94|end_char=96
+5	be	be	AUX	VB	VerbForm=Inf	4	_	_	start_char=97|end_char=99
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=100|end_char=103
+7	best	good	ADJ	JJS	Degree=Sup	6	_	_	start_char=104|end_char=108|SpacesAfter=\s\s
+8	of	of	ADP	IN	_	7	_	_	start_char=110|end_char=112
+9	oxygen	oxygen	NOUN	NN	Number=Sing	8	_	_	start_char=113|end_char=119|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=119|end_char=120
+11	but	but	CCONJ	CC	_	10	_	_	start_char=121|end_char=124
+12	despite	despite	ADP	IN	_	11	_	_	start_char=125|end_char=132
+13	this	this	PRON	DT	Number=Sing|PronType=Dem	12	_	_	start_char=133|end_char=137|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=137|end_char=138
+15	trees	tree	NOUN	NNS	Number=Plur	14	_	_	start_char=139|end_char=144
+16	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=145|end_char=148
+17	cut	cut	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	16	_	_	start_char=149|end_char=152
+18	on	on	ADP	IN	_	17	_	_	start_char=153|end_char=155
+19	a	a	DET	DT	Definite=Ind|PronType=Art	18	_	_	start_char=156|end_char=157
+20	large	large	ADJ	JJ	Degree=Pos	19	_	_	start_char=158|end_char=163
+21	scale	scale	NOUN	NN	Number=Sing	20	_	_	start_char=164|end_char=169
+22	without	without	SCONJ	IN	_	21	_	_	start_char=170|end_char=177
+23	understanding	understand	VERB	VBG	VerbForm=Ger	22	_	_	start_char=178|end_char=191
+24	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	23	_	_	start_char=192|end_char=195
+25	importance	importance	NOUN	NN	Number=Sing	24	_	_	start_char=196|end_char=206|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=206|end_char=207
+
+# text = A new revelation has been made in recent research which says that the bark of trees absorbs the greenhouse gas methane and is secretly helping the environment.
+# sent_id = 2
+1	A	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=208|end_char=209
+2	new	new	ADJ	JJ	Degree=Pos	1	_	_	start_char=210|end_char=213
+3	revelation	revelation	NOUN	NN	Number=Sing	2	_	_	start_char=214|end_char=224
+4	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=225|end_char=228
+5	been	be	AUX	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=229|end_char=233
+6	made	make	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	_	_	start_char=234|end_char=238
+7	in	in	ADP	IN	_	6	_	_	start_char=239|end_char=241
+8	recent	recent	ADJ	JJ	Degree=Pos	7	_	_	start_char=242|end_char=248
+9	research	research	NOUN	NN	Number=Sing	8	_	_	start_char=249|end_char=257
+10	which	which	PRON	WDT	PronType=Rel	9	_	_	start_char=258|end_char=263
+11	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=264|end_char=268
+12	that	that	SCONJ	IN	_	11	_	_	start_char=269|end_char=273
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=274|end_char=277
+14	bark	bark	NOUN	NN	Number=Sing	13	_	_	start_char=278|end_char=282
+15	of	of	ADP	IN	_	14	_	_	start_char=283|end_char=285
+16	trees	tree	NOUN	NNS	Number=Plur	15	_	_	start_char=286|end_char=291
+17	absorbs	absorb	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=292|end_char=299
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=300|end_char=303
+19	greenhouse	greenhouse	NOUN	NN	Number=Sing	18	_	_	start_char=304|end_char=314
+20	gas	gas	NOUN	NN	Number=Sing	19	_	_	start_char=315|end_char=318
+21	methane	methane	NOUN	NN	Number=Sing	20	_	_	start_char=319|end_char=326
+22	and	and	CCONJ	CC	_	21	_	_	start_char=327|end_char=330
+23	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	_	_	start_char=331|end_char=333
+24	secretly	secretly	ADV	RB	_	23	_	_	start_char=334|end_char=342
+25	helping	help	VERB	VBG	Tense=Pres|VerbForm=Part	24	_	_	start_char=343|end_char=350
+26	the	the	DET	DT	Definite=Def|PronType=Art	25	_	_	start_char=351|end_char=354
+27	environment	environment	NOUN	NN	Number=Sing	26	_	_	start_char=355|end_char=366|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=366|end_char=367
+
+# text = Trees and plants are as important for humans as air and water, but humans are still unable to understand the importance of trees.
+# sent_id = 3
+1	Trees	tree	NOUN	NNS	Number=Plur	0	_	_	start_char=368|end_char=373
+2	and	and	CCONJ	CC	_	1	_	_	start_char=374|end_char=377
+3	plants	plant	NOUN	NNS	Number=Plur	2	_	_	start_char=378|end_char=384
+4	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=385|end_char=388
+5	as	as	ADV	RB	_	4	_	_	start_char=389|end_char=391
+6	important	important	ADJ	JJ	Degree=Pos	5	_	_	start_char=392|end_char=401
+7	for	for	ADP	IN	_	6	_	_	start_char=402|end_char=405
+8	humans	human	NOUN	NNS	Number=Plur	7	_	_	start_char=406|end_char=412
+9	as	as	ADP	IN	_	8	_	_	start_char=413|end_char=415
+10	air	air	NOUN	NN	Number=Sing	9	_	_	start_char=416|end_char=419
+11	and	and	CCONJ	CC	_	10	_	_	start_char=420|end_char=423
+12	water	water	NOUN	NN	Number=Sing	11	_	_	start_char=424|end_char=429|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=429|end_char=430
+14	but	but	CCONJ	CC	_	13	_	_	start_char=431|end_char=434
+15	humans	human	NOUN	NNS	Number=Plur	14	_	_	start_char=435|end_char=441
+16	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=442|end_char=445
+17	still	still	ADV	RB	_	16	_	_	start_char=446|end_char=451
+18	unable	unable	ADJ	JJ	Degree=Pos	17	_	_	start_char=452|end_char=458
+19	to	to	PART	TO	_	18	_	_	start_char=459|end_char=461
+20	understand	understand	VERB	VB	VerbForm=Inf	19	_	_	start_char=462|end_char=472
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=473|end_char=476
+22	importance	importance	NOUN	NN	Number=Sing	21	_	_	start_char=477|end_char=487
+23	of	of	ADP	IN	_	22	_	_	start_char=488|end_char=490
+24	trees	tree	NOUN	NNS	Number=Plur	23	_	_	start_char=491|end_char=496|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=496|end_char=497
+
+# text = Large-scale research proves that trees can absorb greenhouse gases in another way, due to which forests can give us many benefits.
+# sent_id = 4
+1	Large	large	ADJ	JJ	Degree=Pos	0	_	_	start_char=498|end_char=503|SpaceAfter=No
+2	-	-	PUNCT	HYPH	_	1	_	_	start_char=503|end_char=504|SpaceAfter=No
+3	scale	scale	NOUN	NN	Number=Sing	2	_	_	start_char=504|end_char=509
+4	research	research	NOUN	NN	Number=Sing	3	_	_	start_char=510|end_char=518
+5	proves	prove	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=519|end_char=525
+6	that	that	SCONJ	IN	_	5	_	_	start_char=526|end_char=530
+7	trees	tree	NOUN	NNS	Number=Plur	6	_	_	start_char=531|end_char=536
+8	can	can	AUX	MD	VerbForm=Fin	7	_	_	start_char=537|end_char=540
+9	absorb	absorb	VERB	VB	VerbForm=Inf	8	_	_	start_char=541|end_char=547
+10	greenhouse	greenhouse	NOUN	NN	Number=Sing	9	_	_	start_char=548|end_char=558
+11	gases	gas	NOUN	NNS	Number=Plur	10	_	_	start_char=559|end_char=564
+12	in	in	ADP	IN	_	11	_	_	start_char=565|end_char=567
+13	another	another	DET	DT	_	12	_	_	start_char=568|end_char=575
+14	way	way	NOUN	NN	Number=Sing	13	_	_	start_char=576|end_char=579|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=579|end_char=580
+16	due	due	ADP	IN	_	15	_	_	start_char=581|end_char=584
+17	to	to	ADP	IN	_	16	_	_	start_char=585|end_char=587
+18	which	which	PRON	WDT	PronType=Rel	17	_	_	start_char=588|end_char=593
+19	forests	forest	NOUN	NNS	Number=Plur	18	_	_	start_char=594|end_char=601
+20	can	can	AUX	MD	VerbForm=Fin	19	_	_	start_char=602|end_char=605
+21	give	give	VERB	VB	VerbForm=Inf	20	_	_	start_char=606|end_char=610
+22	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	21	_	_	start_char=611|end_char=613
+23	many	many	ADJ	JJ	Degree=Pos	22	_	_	start_char=614|end_char=618
+24	benefits	benefit	NOUN	NNS	Number=Plur	23	_	_	start_char=619|end_char=627|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=627|end_char=628
+
+# text = As we know that methane gas has contributed about one-third to global warming since pre-industrial times.
+# sent_id = 5
+1	As	as	SCONJ	IN	_	0	_	_	start_char=629|end_char=631
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	1	_	_	start_char=632|end_char=634
+3	know	know	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=635|end_char=639
+4	that	that	SCONJ	IN	_	3	_	_	start_char=640|end_char=644
+5	methane	methane	NOUN	NN	Number=Sing	4	_	_	start_char=645|end_char=652
+6	gas	gas	NOUN	NN	Number=Sing	5	_	_	start_char=653|end_char=656
+7	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=657|end_char=660
+8	contributed	contribute	VERB	VBN	Tense=Past|VerbForm=Part	7	_	_	start_char=661|end_char=672
+9	about	about	ADV	RB	_	8	_	_	start_char=673|end_char=678
+10	one	one	NUM	CD	NumForm=Word|NumType=Card	9	_	_	start_char=679|end_char=682|SpaceAfter=No
+11	-	-	PUNCT	HYPH	_	10	_	_	start_char=682|end_char=683|SpaceAfter=No
+12	third	third	NOUN	NN	NumType=Frac|Number=Sing	11	_	_	start_char=683|end_char=688
+13	to	to	ADP	IN	_	12	_	_	start_char=689|end_char=691
+14	global	global	ADJ	JJ	Degree=Pos	13	_	_	start_char=692|end_char=698
+15	warming	warming	NOUN	NN	Number=Sing	14	_	_	start_char=699|end_char=706
+16	since	since	ADP	IN	_	15	_	_	start_char=707|end_char=712
+17	pre-industrial	pre-industrial	ADJ	JJ	Degree=Pos	16	_	_	start_char=713|end_char=727
+18	times	time	NOUN	NNS	Number=Plur	17	_	_	start_char=728|end_char=733|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=733|end_char=734
+
+# text = This means that methane is a major factor in global warming.
+# sent_id = 6
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=735|end_char=739
+2	means	mean	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=740|end_char=745
+3	that	that	SCONJ	IN	_	2	_	_	start_char=746|end_char=750
+4	methane	methane	NOUN	NN	Number=Sing	3	_	_	start_char=751|end_char=758
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=759|end_char=761
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=762|end_char=763
+7	major	major	ADJ	JJ	Degree=Pos	6	_	_	start_char=764|end_char=769
+8	factor	factor	NOUN	NN	Number=Sing	7	_	_	start_char=770|end_char=776
+9	in	in	ADP	IN	_	8	_	_	start_char=777|end_char=779
+10	global	global	ADJ	JJ	Degree=Pos	9	_	_	start_char=780|end_char=786
+11	warming	warming	NOUN	NN	Number=Sing	10	_	_	start_char=787|end_char=794|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=794|end_char=795
+
+# text = Methane emissions have increased further in the last 20 years, due to which the problem of global warming is also increasing rapidly.
+# sent_id = 7
+1	Methane	methane	NOUN	NN	Number=Sing	0	_	_	start_char=796|end_char=803
+2	emissions	emission	NOUN	NNS	Number=Plur	1	_	_	start_char=804|end_char=813
+3	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=814|end_char=818
+4	increased	increase	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=819|end_char=828
+5	further	further	ADV	RBR	Degree=Cmp	4	_	_	start_char=829|end_char=836
+6	in	in	ADP	IN	_	5	_	_	start_char=837|end_char=839
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=840|end_char=843
+8	last	last	ADJ	JJ	Degree=Pos	7	_	_	start_char=844|end_char=848
+9	20	20	NUM	CD	NumForm=Digit|NumType=Card	8	_	_	start_char=849|end_char=851
+10	years	year	NOUN	NNS	Number=Plur	9	_	_	start_char=852|end_char=857|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=857|end_char=858
+12	due	due	ADP	IN	_	11	_	_	start_char=859|end_char=862
+13	to	to	ADP	IN	_	12	_	_	start_char=863|end_char=865
+14	which	which	PRON	WDT	PronType=Rel	13	_	_	start_char=866|end_char=871
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=872|end_char=875
+16	problem	problem	NOUN	NN	Number=Sing	15	_	_	start_char=876|end_char=883
+17	of	of	ADP	IN	_	16	_	_	start_char=884|end_char=886
+18	global	global	ADJ	JJ	Degree=Pos	17	_	_	start_char=887|end_char=893
+19	warming	warming	NOUN	NN	Number=Sing	18	_	_	start_char=894|end_char=901
+20	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	_	_	start_char=902|end_char=904
+21	also	also	ADV	RB	_	20	_	_	start_char=905|end_char=909
+22	increasing	increase	VERB	VBG	Tense=Pres|VerbForm=Part	21	_	_	start_char=910|end_char=920
+23	rapidly	rapidly	ADV	RB	_	22	_	_	start_char=921|end_char=928|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=928|end_char=929
+
+# text = Let us tell you that it is 80-85 times more powerful than carbon dioxide (CO2) in terms of global warming potential.
+# sent_id = 8
+1	Let	let	VERB	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=930|end_char=933
+2	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	1	_	_	start_char=934|end_char=936
+3	tell	tell	VERB	VB	VerbForm=Inf	2	_	_	start_char=937|end_char=941
+4	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3	_	_	start_char=942|end_char=945
+5	that	that	SCONJ	IN	_	4	_	_	start_char=946|end_char=950
+6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	_	_	start_char=951|end_char=953
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=954|end_char=956
+8	80	80	NUM	CD	NumForm=Digit|NumType=Card	7	_	_	start_char=957|end_char=959|SpaceAfter=No
+9	-	-	SYM	SYM	_	8	_	_	start_char=959|end_char=960|SpaceAfter=No
+10	85	85	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=960|end_char=962
+11	times	time	NOUN	NNS	Number=Plur	10	_	_	start_char=963|end_char=968
+12	more	more	ADV	RBR	Degree=Cmp	11	_	_	start_char=969|end_char=973
+13	powerful	powerful	ADJ	JJ	Degree=Pos	12	_	_	start_char=974|end_char=982
+14	than	than	ADP	IN	_	13	_	_	start_char=983|end_char=987
+15	carbon	carbon	NOUN	NN	Number=Sing	14	_	_	start_char=988|end_char=994
+16	dioxide	dioxide	NOUN	NN	Number=Sing	15	_	_	start_char=995|end_char=1002
+17	(	(	PUNCT	-LRB-	_	16	_	_	start_char=1003|end_char=1004|SpaceAfter=No
+18	CO2	CO2	NOUN	NN	Number=Sing	17	_	_	start_char=1004|end_char=1007|SpaceAfter=No
+19	)	)	PUNCT	-RRB-	_	18	_	_	start_char=1007|end_char=1008
+20	in	in	ADP	IN	_	19	_	_	start_char=1009|end_char=1011
+21	terms	term	NOUN	NNS	Number=Plur	20	_	_	start_char=1012|end_char=1017
+22	of	of	ADP	IN	_	21	_	_	start_char=1018|end_char=1020
+23	global	global	ADJ	JJ	Degree=Pos	22	_	_	start_char=1021|end_char=1027
+24	warming	warming	NOUN	NN	Number=Sing	23	_	_	start_char=1028|end_char=1035
+25	potential	potential	NOUN	NN	Number=Sing	24	_	_	start_char=1036|end_char=1045|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=1045|end_char=1046
+
+# text = It has become a big problem for the earth&#39;s climate.
+# sent_id = 9
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1047|end_char=1049
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1050|end_char=1053
+3	become	become	VERB	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=1054|end_char=1060
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=1061|end_char=1062
+5	big	big	ADJ	JJ	Degree=Pos	4	_	_	start_char=1063|end_char=1066
+6	problem	problem	NOUN	NN	Number=Sing	5	_	_	start_char=1067|end_char=1074
+7	for	for	ADP	IN	_	6	_	_	start_char=1075|end_char=1078
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=1079|end_char=1082
+9	earth&	earth&	NOUN	NN	Number=Sing	8	_	_	start_char=1083|end_char=1089|SpaceAfter=No
+10	#	#	SYM	NN	Number=Sing	9	_	_	start_char=1089|end_char=1090|SpaceAfter=No
+11	39	39	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=1090|end_char=1092|SpaceAfter=No
+12	;	;	PUNCT	:	_	11	_	_	start_char=1092|end_char=1093|SpaceAfter=No
+13	s	's	PART	POS	Typo=Yes	12	_	_	start_char=1093|end_char=1094
+14	climate	climate	NOUN	NN	Number=Sing	13	_	_	start_char=1095|end_char=1102|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=1102|end_char=1103
+
+# text = Methane works to heat the atmosphere more than CO₂.
+# sent_id = 10
+1	Methane	methane	NOUN	NN	Number=Sing	0	_	_	start_char=1104|end_char=1111
+2	works	work	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1112|end_char=1117
+3	to	to	PART	TO	_	2	_	_	start_char=1118|end_char=1120
+4	heat	heat	VERB	VB	VerbForm=Inf	3	_	_	start_char=1121|end_char=1125
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1126|end_char=1129
+6	atmosphere	atmosphere	NOUN	NN	Number=Sing	5	_	_	start_char=1130|end_char=1140
+7	more	more	ADJ	JJR	Degree=Cmp	6	_	_	start_char=1141|end_char=1145
+8	than	than	ADP	IN	_	7	_	_	start_char=1146|end_char=1150
+9	CO₂	co₂	NOUN	NN	Number=Sing	8	_	_	start_char=1151|end_char=1154|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=1154|end_char=1155
+
+# text = While CO₂ can remain in the atmosphere for a hundred years, the lifespan of methane is about ten years.
+# sent_id = 11
+1	While	while	SCONJ	IN	_	0	_	_	start_char=1156|end_char=1161
+2	CO₂	CO₂	PROPN	NNP	Number=Sing	1	_	_	start_char=1162|end_char=1165
+3	can	can	AUX	MD	VerbForm=Fin	2	_	_	start_char=1166|end_char=1169
+4	remain	remain	VERB	VB	VerbForm=Inf	3	_	_	start_char=1170|end_char=1176
+5	in	in	ADP	IN	_	4	_	_	start_char=1177|end_char=1179
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1180|end_char=1183
+7	atmosphere	atmosphere	NOUN	NN	Number=Sing	6	_	_	start_char=1184|end_char=1194
+8	for	for	ADP	IN	_	7	_	_	start_char=1195|end_char=1198
+9	a	a	DET	DT	Definite=Ind|PronType=Art	8	_	_	start_char=1199|end_char=1200
+10	hundred	hundred	NUM	CD	NumForm=Word|NumType=Card	9	_	_	start_char=1201|end_char=1208
+11	years	year	NOUN	NNS	Number=Plur	10	_	_	start_char=1209|end_char=1214|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=1214|end_char=1215
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1216|end_char=1219
+14	lifespan	lifespan	NOUN	NN	Number=Sing	13	_	_	start_char=1220|end_char=1228
+15	of	of	ADP	IN	_	14	_	_	start_char=1229|end_char=1231
+16	methane	methane	NOUN	NN	Number=Sing	15	_	_	start_char=1232|end_char=1239
+17	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=1240|end_char=1242
+18	about	about	ADV	RB	_	17	_	_	start_char=1243|end_char=1248
+19	ten	ten	NUM	CD	NumForm=Word|NumType=Card	18	_	_	start_char=1249|end_char=1252
+20	years	year	NOUN	NNS	Number=Plur	19	_	_	start_char=1253|end_char=1258|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=1258|end_char=1259
+
+# text = Methane gas staying in the atmosphere for so long means that any process that removes methane from the atmosphere can have a rapid effect.
+# sent_id = 12
+1	Methane	methane	NOUN	NN	Number=Sing	0	_	_	start_char=1260|end_char=1267
+2	gas	gas	NOUN	NN	Number=Sing	1	_	_	start_char=1268|end_char=1271
+3	staying	stay	NOUN	NN	Number=Sing	2	_	_	start_char=1272|end_char=1279
+4	in	in	ADP	IN	_	3	_	_	start_char=1280|end_char=1282
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1283|end_char=1286
+6	atmosphere	atmosphere	NOUN	NN	Number=Sing	5	_	_	start_char=1287|end_char=1297
+7	for	for	ADP	IN	_	6	_	_	start_char=1298|end_char=1301
+8	so	so	ADV	RB	_	7	_	_	start_char=1302|end_char=1304
+9	long	long	ADV	RB	Degree=Pos	8	_	_	start_char=1305|end_char=1309
+10	means	mean	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=1310|end_char=1315
+11	that	that	SCONJ	IN	_	10	_	_	start_char=1316|end_char=1320
+12	any	any	DET	DT	_	11	_	_	start_char=1321|end_char=1324
+13	process	process	NOUN	NN	Number=Sing	12	_	_	start_char=1325|end_char=1332
+14	that	that	PRON	WDT	PronType=Rel	13	_	_	start_char=1333|end_char=1337
+15	removes	remove	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=1338|end_char=1345
+16	methane	methane	NOUN	NN	Number=Sing	15	_	_	start_char=1346|end_char=1353
+17	from	from	ADP	IN	_	16	_	_	start_char=1354|end_char=1358
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=1359|end_char=1362
+19	atmosphere	atmosphere	NOUN	NN	Number=Sing	18	_	_	start_char=1363|end_char=1373
+20	can	can	AUX	MD	VerbForm=Fin	19	_	_	start_char=1374|end_char=1377
+21	have	have	VERB	VB	VerbForm=Inf	20	_	_	start_char=1378|end_char=1382
+22	a	a	DET	DT	Definite=Ind|PronType=Art	21	_	_	start_char=1383|end_char=1384
+23	rapid	rapid	ADJ	JJ	Degree=Pos	22	_	_	start_char=1385|end_char=1390
+24	effect	effect	NOUN	NN	Number=Sing	23	_	_	start_char=1391|end_char=1397|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=1397|end_char=1398
+
+# text = If the process is used properly to remove methane, then it can prove to be a boon for our change.
+# sent_id = 13
+1	If	if	SCONJ	IN	_	0	_	_	start_char=1399|end_char=1401
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=1402|end_char=1405
+3	process	process	NOUN	NN	Number=Sing	2	_	_	start_char=1406|end_char=1413
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1414|end_char=1416
+5	used	use	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	_	_	start_char=1417|end_char=1421
+6	properly	properly	ADV	RB	_	5	_	_	start_char=1422|end_char=1430
+7	to	to	PART	TO	_	6	_	_	start_char=1431|end_char=1433
+8	remove	remove	VERB	VB	VerbForm=Inf	7	_	_	start_char=1434|end_char=1440
+9	methane	methane	NOUN	NN	Number=Sing	8	_	_	start_char=1441|end_char=1448|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=1448|end_char=1449
+11	then	then	ADV	RB	PronType=Dem	10	_	_	start_char=1450|end_char=1454
+12	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	_	_	start_char=1455|end_char=1457
+13	can	can	AUX	MD	VerbForm=Fin	12	_	_	start_char=1458|end_char=1461
+14	prove	prove	VERB	VB	VerbForm=Inf	13	_	_	start_char=1462|end_char=1467
+15	to	to	PART	TO	_	14	_	_	start_char=1468|end_char=1470
+16	be	be	AUX	VB	VerbForm=Inf	15	_	_	start_char=1471|end_char=1473
+17	a	a	DET	DT	Definite=Ind|PronType=Art	16	_	_	start_char=1474|end_char=1475
+18	boon	boon	NOUN	NN	Number=Sing	17	_	_	start_char=1476|end_char=1480
+19	for	for	ADP	IN	_	18	_	_	start_char=1481|end_char=1484
+20	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	19	_	_	start_char=1485|end_char=1488
+21	change	change	NOUN	NN	Number=Sing	20	_	_	start_char=1489|end_char=1495|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=1495|end_char=1496
+
+# text = For this, researchers also tried to understand how methane comes into the atmosphere and how all the processes work to remove it.
+# sent_id = 14
+1	For	for	ADP	IN	_	0	_	_	start_char=1497|end_char=1500
+2	this	this	PRON	DT	Number=Sing|PronType=Dem	1	_	_	start_char=1501|end_char=1505|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=1505|end_char=1506
+4	researchers	researcher	NOUN	NNS	Number=Plur	3	_	_	start_char=1507|end_char=1518
+5	also	also	ADV	RB	_	4	_	_	start_char=1519|end_char=1523
+6	tried	try	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=1524|end_char=1529
+7	to	to	PART	TO	_	6	_	_	start_char=1530|end_char=1532
+8	understand	understand	VERB	VB	VerbForm=Inf	7	_	_	start_char=1533|end_char=1543
+9	how	how	ADV	WRB	PronType=Int	8	_	_	start_char=1544|end_char=1547
+10	methane	methane	NOUN	NN	Number=Sing	9	_	_	start_char=1548|end_char=1555
+11	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=1556|end_char=1561
+12	into	into	ADP	IN	_	11	_	_	start_char=1562|end_char=1566
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1567|end_char=1570
+14	atmosphere	atmosphere	NOUN	NN	Number=Sing	13	_	_	start_char=1571|end_char=1581
+15	and	and	CCONJ	CC	_	14	_	_	start_char=1582|end_char=1585
+16	how	how	ADV	WRB	PronType=Int	15	_	_	start_char=1586|end_char=1589
+17	all	all	DET	PDT	_	16	_	_	start_char=1590|end_char=1593
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=1594|end_char=1597
+19	processes	process	NOUN	NNS	Number=Plur	18	_	_	start_char=1598|end_char=1607
+20	work	work	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	_	_	start_char=1608|end_char=1612
+21	to	to	PART	TO	_	20	_	_	start_char=1613|end_char=1615
+22	remove	remove	VERB	VB	VerbForm=Inf	21	_	_	start_char=1616|end_char=1622
+23	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	22	_	_	start_char=1623|end_char=1625|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=1625|end_char=1626
+
+# text = The research said that the exchange of this gas occurs between the bark of the tree.
+# sent_id = 15
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1627|end_char=1630
+2	research	research	NOUN	NN	Number=Sing	1	_	_	start_char=1631|end_char=1639
+3	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1640|end_char=1644
+4	that	that	SCONJ	IN	_	3	_	_	start_char=1645|end_char=1649
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1650|end_char=1653
+6	exchange	exchange	NOUN	NN	Number=Sing	5	_	_	start_char=1654|end_char=1662
+7	of	of	ADP	IN	_	6	_	_	start_char=1663|end_char=1665
+8	this	this	DET	DT	Number=Sing|PronType=Dem	7	_	_	start_char=1666|end_char=1670
+9	gas	gas	NOUN	NN	Number=Sing	8	_	_	start_char=1671|end_char=1674
+10	occurs	occur	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=1675|end_char=1681
+11	between	between	ADP	IN	_	10	_	_	start_char=1682|end_char=1689
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=1690|end_char=1693
+13	bark	bark	NOUN	NN	Number=Sing	12	_	_	start_char=1694|end_char=1698
+14	of	of	ADP	IN	_	13	_	_	start_char=1699|end_char=1701
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=1702|end_char=1705
+16	tree	tree	NOUN	NN	Number=Sing	15	_	_	start_char=1706|end_char=1710|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=1710|end_char=1711
+
+# text = Wetlands are considered to be the first natural of methane.
+# sent_id = 16
+1	Wetlands	wetland	NOUN	NNS	Number=Plur	0	_	_	start_char=1712|end_char=1720
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1721|end_char=1724
+3	considered	consider	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	_	_	start_char=1725|end_char=1735
+4	to	to	PART	TO	_	3	_	_	start_char=1736|end_char=1738
+5	be	be	AUX	VB	VerbForm=Inf	4	_	_	start_char=1739|end_char=1741
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1742|end_char=1745
+7	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	6	_	_	start_char=1746|end_char=1751
+8	natural	natural	NOUN	NN	Number=Sing	7	_	_	start_char=1752|end_char=1759|SpacesAfter=\s\s
+9	of	of	ADP	IN	_	8	_	_	start_char=1761|end_char=1763
+10	methane	methane	NOUN	NN	Number=Sing	9	_	_	start_char=1764|end_char=1771|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=1771|end_char=1772
+
+# text = In swamps and floodplains, trees can throw methane from the lower part of their trunks.
+# sent_id = 17
+1	In	in	ADP	IN	_	0	_	_	start_char=1773|end_char=1775
+2	swamps	swamp	NOUN	NNS	Number=Plur	1	_	_	start_char=1776|end_char=1782
+3	and	and	CCONJ	CC	_	2	_	_	start_char=1783|end_char=1786
+4	floodplains	floodplain	NOUN	NNS	Number=Plur	3	_	_	start_char=1787|end_char=1798|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=1798|end_char=1799
+6	trees	tree	NOUN	NNS	Number=Plur	5	_	_	start_char=1800|end_char=1805
+7	can	can	AUX	MD	VerbForm=Fin	6	_	_	start_char=1806|end_char=1809
+8	throw	throw	VERB	VB	VerbForm=Inf	7	_	_	start_char=1810|end_char=1815
+9	methane	methane	NOUN	NN	Number=Sing	8	_	_	start_char=1816|end_char=1823
+10	from	from	ADP	IN	_	9	_	_	start_char=1824|end_char=1828
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=1829|end_char=1832
+12	lower	low	ADJ	JJR	Degree=Cmp	11	_	_	start_char=1833|end_char=1838
+13	part	part	NOUN	NN	Number=Sing	12	_	_	start_char=1839|end_char=1843
+14	of	of	ADP	IN	_	13	_	_	start_char=1844|end_char=1846
+15	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	14	_	_	start_char=1847|end_char=1852
+16	trunks	trunk	NOUN	NNS	Number=Plur	15	_	_	start_char=1853|end_char=1859|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=1859|end_char=1860
+
+# text = But methane exchange in trees growing in swamps and floodplains has not been investigated before.
+# sent_id = 18
+1	But	but	CCONJ	CC	_	0	_	_	start_char=1861|end_char=1864
+2	methane	methane	NOUN	NN	Number=Sing	1	_	_	start_char=1865|end_char=1872
+3	exchange	exchange	NOUN	NN	Number=Sing	2	_	_	start_char=1873|end_char=1881
+4	in	in	ADP	IN	_	3	_	_	start_char=1882|end_char=1884
+5	trees	tree	NOUN	NNS	Number=Plur	4	_	_	start_char=1885|end_char=1890
+6	growing	grow	VERB	VBG	VerbForm=Ger	5	_	_	start_char=1891|end_char=1898
+7	in	in	ADP	IN	_	6	_	_	start_char=1899|end_char=1901
+8	swamps	swamp	NOUN	NNS	Number=Plur	7	_	_	start_char=1902|end_char=1908
+9	and	and	CCONJ	CC	_	8	_	_	start_char=1909|end_char=1912
+10	floodplains	floodplain	NOUN	NNS	Number=Plur	9	_	_	start_char=1913|end_char=1924
+11	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=1925|end_char=1928
+12	not	not	PART	RB	_	11	_	_	start_char=1929|end_char=1932
+13	been	be	AUX	VBN	Tense=Past|VerbForm=Part	12	_	_	start_char=1933|end_char=1937
+14	investigated	investigate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	13	_	_	start_char=1938|end_char=1950
+15	before	before	ADV	RB	_	14	_	_	start_char=1951|end_char=1957|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=1957|end_char=1958
+
+# text = The study measured methane exchange on the trunks of hundreds of trees in forests along a climate gradient extending from the Amazon and Panama to Sweden and forests near Oxford in the UK.
+# sent_id = 19
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1959|end_char=1962
+2	study	study	NOUN	NN	Number=Sing	1	_	_	start_char=1963|end_char=1968
+3	measured	measure	VERB	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=1969|end_char=1977
+4	methane	methane	NOUN	NN	Number=Sing	3	_	_	start_char=1978|end_char=1985
+5	exchange	exchange	NOUN	NN	Number=Sing	4	_	_	start_char=1986|end_char=1994
+6	on	on	ADP	IN	_	5	_	_	start_char=1995|end_char=1997
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1998|end_char=2001
+8	trunks	trunk	NOUN	NNS	Number=Plur	7	_	_	start_char=2002|end_char=2008
+9	of	of	ADP	IN	_	8	_	_	start_char=2009|end_char=2011
+10	hundreds	hundred	NOUN	NNS	Number=Plur	9	_	_	start_char=2012|end_char=2020
+11	of	of	ADP	IN	_	10	_	_	start_char=2021|end_char=2023
+12	trees	tree	NOUN	NNS	Number=Plur	11	_	_	start_char=2024|end_char=2029
+13	in	in	ADP	IN	_	12	_	_	start_char=2030|end_char=2032
+14	forests	forest	NOUN	NNS	Number=Plur	13	_	_	start_char=2033|end_char=2040
+15	along	along	ADP	IN	_	14	_	_	start_char=2041|end_char=2046
+16	a	a	DET	DT	Definite=Ind|PronType=Art	15	_	_	start_char=2047|end_char=2048
+17	climate	climate	NOUN	NN	Number=Sing	16	_	_	start_char=2049|end_char=2056
+18	gradient	gradient	NOUN	NN	Number=Sing	17	_	_	start_char=2057|end_char=2065
+19	extending	extend	VERB	VBG	VerbForm=Ger	18	_	_	start_char=2066|end_char=2075
+20	from	from	ADP	IN	_	19	_	_	start_char=2076|end_char=2080
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=2081|end_char=2084
+22	Amazon	Amazon	PROPN	NNP	Number=Sing	21	_	_	start_char=2085|end_char=2091
+23	and	and	CCONJ	CC	_	22	_	_	start_char=2092|end_char=2095
+24	Panama	Panama	PROPN	NNP	Number=Sing	23	_	_	start_char=2096|end_char=2102
+25	to	to	ADP	IN	_	24	_	_	start_char=2103|end_char=2105
+26	Sweden	Sweden	PROPN	NNP	Number=Sing	25	_	_	start_char=2106|end_char=2112
+27	and	and	CCONJ	CC	_	26	_	_	start_char=2113|end_char=2116
+28	forests	forest	NOUN	NNS	Number=Plur	27	_	_	start_char=2117|end_char=2124
+29	near	near	ADP	IN	_	28	_	_	start_char=2125|end_char=2129
+30	Oxford	Oxford	PROPN	NNP	Number=Sing	29	_	_	start_char=2130|end_char=2136
+31	in	in	ADP	IN	_	30	_	_	start_char=2137|end_char=2139
+32	the	the	DET	DT	Definite=Def|PronType=Art	31	_	_	start_char=2140|end_char=2143
+33	UK	UK	PROPN	NNP	Number=Sing	32	_	_	start_char=2144|end_char=2146|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=2146|end_char=2147
+
+# text = The researchers used a plastic box in the forest, wrapped it around the tree trunk and connected the methane analyzer with a laser.
+# sent_id = 20
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2148|end_char=2151
+2	researchers	researcher	NOUN	NNS	Number=Plur	1	_	_	start_char=2152|end_char=2163
+3	used	use	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=2164|end_char=2168
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=2169|end_char=2170
+5	plastic	plastic	ADJ	JJ	Degree=Pos	4	_	_	start_char=2171|end_char=2178
+6	box	box	NOUN	NN	Number=Sing	5	_	_	start_char=2179|end_char=2182
+7	in	in	ADP	IN	_	6	_	_	start_char=2183|end_char=2185
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=2186|end_char=2189
+9	forest	forest	NOUN	NN	Number=Sing	8	_	_	start_char=2190|end_char=2196|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=2196|end_char=2197
+11	wrapped	wrap	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=2198|end_char=2205
+12	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	_	_	start_char=2206|end_char=2208
+13	around	around	ADP	IN	_	12	_	_	start_char=2209|end_char=2215
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=2216|end_char=2219
+15	tree	tree	NOUN	NN	Number=Sing	14	_	_	start_char=2220|end_char=2224
+16	trunk	trunk	NOUN	NN	Number=Sing	15	_	_	start_char=2225|end_char=2230
+17	and	and	CCONJ	CC	_	16	_	_	start_char=2231|end_char=2234
+18	connected	connect	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	_	_	start_char=2235|end_char=2244
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=2245|end_char=2248
+20	methane	methane	NOUN	NN	Number=Sing	19	_	_	start_char=2249|end_char=2256
+21	analyzer	analyzer	NOUN	NN	Number=Sing	20	_	_	start_char=2257|end_char=2265
+22	with	with	ADP	IN	_	21	_	_	start_char=2266|end_char=2270
+23	a	a	DET	DT	Definite=Ind|PronType=Art	22	_	_	start_char=2271|end_char=2272
+24	laser	laser	NOUN	NN	Number=Sing	23	_	_	start_char=2273|end_char=2278|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=2278|end_char=2279
+
+# text = This process found that some trees emitted small amounts from the base of their trunks.
+# sent_id = 21
+1	This	this	DET	DT	Number=Sing|PronType=Dem	0	_	_	start_char=2280|end_char=2284
+2	process	process	NOUN	NN	Number=Sing	1	_	_	start_char=2285|end_char=2292
+3	found	find	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=2293|end_char=2298
+4	that	that	SCONJ	IN	_	3	_	_	start_char=2299|end_char=2303
+5	some	some	DET	DT	_	4	_	_	start_char=2304|end_char=2308
+6	trees	tree	NOUN	NNS	Number=Plur	5	_	_	start_char=2309|end_char=2314
+7	emitted	emit	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=2315|end_char=2322
+8	small	small	ADJ	JJ	Degree=Pos	7	_	_	start_char=2323|end_char=2328
+9	amounts	amount	NOUN	NNS	Number=Plur	8	_	_	start_char=2329|end_char=2336
+10	from	from	ADP	IN	_	9	_	_	start_char=2337|end_char=2341
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=2342|end_char=2345
+12	base	base	NOUN	NN	Number=Sing	11	_	_	start_char=2346|end_char=2350
+13	of	of	ADP	IN	_	12	_	_	start_char=2351|end_char=2353
+14	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	13	_	_	start_char=2354|end_char=2359
+15	trunks	trunk	NOUN	NNS	Number=Plur	14	_	_	start_char=2360|end_char=2366|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=2366|end_char=2367|SpaceAfter=No
+

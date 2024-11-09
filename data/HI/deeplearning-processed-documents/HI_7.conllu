@@ -1,0 +1,1518 @@
+# text = Ukrainian Foreign Minister India Visit:
+# sent_id = 0
+1	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	0	_	_	start_char=0|end_char=9
+2	Foreign	foreign	ADJ	NNP	Degree=Pos	1	_	_	start_char=10|end_char=17
+3	Minister	Minister	PROPN	NNP	Number=Sing	2	_	_	start_char=18|end_char=26
+4	India	India	PROPN	NNP	Number=Sing	3	_	_	start_char=27|end_char=32
+5	Visit	visit	PROPN	NNP	Number=Sing	4	_	_	start_char=33|end_char=38|SpaceAfter=No
+6	:	:	PUNCT	:	_	5	_	_	start_char=38|end_char=39
+
+# text = He came, he saw, he spoke, but it seems impossible that something will be achieved.
+# sent_id = 1
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=40|end_char=42
+2	came	come	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=43|end_char=47|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=47|end_char=48
+4	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	_	_	start_char=49|end_char=51
+5	saw	see	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=52|end_char=55|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=55|end_char=56
+7	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	_	_	start_char=57|end_char=59
+8	spoke	speak	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=60|end_char=65|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=65|end_char=66
+10	but	but	CCONJ	CC	_	9	_	_	start_char=67|end_char=70
+11	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	_	_	start_char=71|end_char=73
+12	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=74|end_char=79
+13	impossible	impossible	ADJ	JJ	Degree=Pos	12	_	_	start_char=80|end_char=90
+14	that	that	SCONJ	IN	_	13	_	_	start_char=91|end_char=95
+15	something	something	PRON	NN	Number=Sing|PronType=Ind	14	_	_	start_char=96|end_char=105
+16	will	will	AUX	MD	VerbForm=Fin	15	_	_	start_char=106|end_char=110
+17	be	be	AUX	VB	VerbForm=Inf	16	_	_	start_char=111|end_char=113
+18	achieved	achieve	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	17	_	_	start_char=114|end_char=122|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=122|end_char=123
+
+# text = The two-day visit of Ukrainian Foreign Minister Dmytro Kuleba to India on March 28-29 was certainly important.
+# sent_id = 2
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=124|end_char=127
+2	two	two	NUM	CD	NumForm=Word|NumType=Card	1	_	_	start_char=128|end_char=131|SpaceAfter=No
+3	-	-	PUNCT	HYPH	_	2	_	_	start_char=131|end_char=132|SpaceAfter=No
+4	day	day	NOUN	NN	Number=Sing	3	_	_	start_char=132|end_char=135
+5	visit	visit	NOUN	NN	Number=Sing	4	_	_	start_char=136|end_char=141
+6	of	of	ADP	IN	_	5	_	_	start_char=142|end_char=144
+7	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	6	_	_	start_char=145|end_char=154
+8	Foreign	foreign	ADJ	NNP	Degree=Pos	7	_	_	start_char=155|end_char=162
+9	Minister	Minister	PROPN	NNP	Number=Sing	8	_	_	start_char=163|end_char=171
+10	Dmytro	Dmytro	PROPN	NNP	Number=Sing	9	_	_	start_char=172|end_char=178
+11	Kuleba	Kuleba	PROPN	NNP	Number=Sing	10	_	_	start_char=179|end_char=185
+12	to	to	ADP	IN	_	11	_	_	start_char=186|end_char=188
+13	India	India	PROPN	NNP	Number=Sing	12	_	_	start_char=189|end_char=194
+14	on	on	ADP	IN	_	13	_	_	start_char=195|end_char=197
+15	March	March	PROPN	NNP	Number=Sing	14	_	_	start_char=198|end_char=203
+16	28	28	NUM	CD	NumForm=Digit|NumType=Card	15	_	_	start_char=204|end_char=206|SpaceAfter=No
+17	-	-	SYM	SYM	_	16	_	_	start_char=206|end_char=207|SpaceAfter=No
+18	29	29	NUM	CD	NumForm=Digit|NumType=Card	17	_	_	start_char=207|end_char=209
+19	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	_	_	start_char=210|end_char=213
+20	certainly	certainly	ADV	RB	_	19	_	_	start_char=214|end_char=223
+21	important	important	ADJ	JJ	Degree=Pos	20	_	_	start_char=224|end_char=233|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=233|end_char=234
+
+# text = Kuleba is the first high-ranking Ukrainian official to visit Delhi since Russia launched a &quot;special military operation&quot; in Ukraine in February 2022.
+# sent_id = 3
+1	Kuleba	Kuleba	PROPN	NNP	Number=Sing	0	_	_	start_char=235|end_char=241
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=242|end_char=244
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=245|end_char=248
+4	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	3	_	_	start_char=249|end_char=254
+5	high	high	ADJ	JJ	Degree=Pos	4	_	_	start_char=255|end_char=259|SpaceAfter=No
+6	-	-	PUNCT	HYPH	_	5	_	_	start_char=259|end_char=260|SpaceAfter=No
+7	ranking	rank	NOUN	NN	Number=Sing	6	_	_	start_char=260|end_char=267
+8	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	7	_	_	start_char=268|end_char=277
+9	official	official	NOUN	NN	Number=Sing	8	_	_	start_char=278|end_char=286
+10	to	to	PART	TO	_	9	_	_	start_char=287|end_char=289
+11	visit	visit	VERB	VB	VerbForm=Inf	10	_	_	start_char=290|end_char=295
+12	Delhi	Delhi	PROPN	NNP	Number=Sing	11	_	_	start_char=296|end_char=301
+13	since	since	SCONJ	IN	_	12	_	_	start_char=302|end_char=307
+14	Russia	Russia	PROPN	NNP	Number=Sing	13	_	_	start_char=308|end_char=314
+15	launched	launch	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=315|end_char=323
+16	a	a	DET	DT	Definite=Ind|PronType=Art	15	_	_	start_char=324|end_char=325
+17	&quot	&quot	NOUN	NN	Number=Sing	16	_	_	start_char=326|end_char=331|SpaceAfter=No
+18	;	;	PUNCT	:	_	17	_	_	start_char=331|end_char=332|SpaceAfter=No
+19	special	special	ADJ	JJ	Degree=Pos	18	_	_	start_char=332|end_char=339
+20	military	military	ADJ	JJ	Degree=Pos	19	_	_	start_char=340|end_char=348
+21	operation&quot	operation&quot	NOUN	NN	Number=Sing	20	_	_	start_char=349|end_char=363|SpaceAfter=No
+22	;	;	PUNCT	:	_	21	_	_	start_char=363|end_char=364
+23	in	in	ADP	IN	_	22	_	_	start_char=365|end_char=367
+24	Ukraine	Ukraine	PROPN	NNP	Number=Sing	23	_	_	start_char=368|end_char=375
+25	in	in	ADP	IN	_	24	_	_	start_char=376|end_char=378
+26	February	February	PROPN	NNP	Number=Sing	25	_	_	start_char=379|end_char=387
+27	2022	2022	NUM	CD	NumForm=Digit|NumType=Card	26	_	_	start_char=388|end_char=392|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=392|end_char=393
+
+# text = The visit, at the invitation of India&#39;s Foreign Minister S Jaishankar, comes at a time when tensions between Russia and the West have escalated after a terrorist attack near Moscow.
+# sent_id = 4
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=394|end_char=397
+2	visit	visit	NOUN	NN	Number=Sing	1	_	_	start_char=398|end_char=403|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=403|end_char=404
+4	at	at	ADP	IN	_	3	_	_	start_char=405|end_char=407
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=408|end_char=411
+6	invitation	invitation	NOUN	NN	Number=Sing	5	_	_	start_char=412|end_char=422
+7	of	of	ADP	IN	_	6	_	_	start_char=423|end_char=425
+8	India&	India&	PROPN	NNP	Number=Sing	7	_	_	start_char=426|end_char=432|SpaceAfter=No
+9	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	8	_	_	start_char=432|end_char=435|SpaceAfter=No
+10	;	;	PUNCT	:	_	9	_	_	start_char=435|end_char=436|SpaceAfter=No
+11	s	's	PART	POS	Typo=Yes	10	_	_	start_char=436|end_char=437
+12	Foreign	foreign	ADJ	NNP	Degree=Pos	11	_	_	start_char=438|end_char=445
+13	Minister	Minister	PROPN	NNP	Number=Sing	12	_	_	start_char=446|end_char=454
+14	S	S	PROPN	NNP	Number=Sing	13	_	_	start_char=455|end_char=456
+15	Jaishankar	Jaishankar	PROPN	NNP	Number=Sing	14	_	_	start_char=457|end_char=467|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=467|end_char=468
+17	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=469|end_char=474
+18	at	at	ADP	IN	_	17	_	_	start_char=475|end_char=477
+19	a	a	DET	DT	Definite=Ind|PronType=Art	18	_	_	start_char=478|end_char=479
+20	time	time	NOUN	NN	Number=Sing	19	_	_	start_char=480|end_char=484
+21	when	when	ADV	WRB	PronType=Int	20	_	_	start_char=485|end_char=489
+22	tensions	tension	NOUN	NNS	Number=Plur	21	_	_	start_char=490|end_char=498
+23	between	between	ADP	IN	_	22	_	_	start_char=499|end_char=506
+24	Russia	Russia	PROPN	NNP	Number=Sing	23	_	_	start_char=507|end_char=513
+25	and	and	CCONJ	CC	_	24	_	_	start_char=514|end_char=517
+26	the	the	DET	DT	Definite=Def|PronType=Art	25	_	_	start_char=518|end_char=521
+27	West	West	PROPN	NNP	Number=Sing	26	_	_	start_char=522|end_char=526
+28	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	27	_	_	start_char=527|end_char=531
+29	escalated	escalate	VERB	VBN	Tense=Past|VerbForm=Part	28	_	_	start_char=532|end_char=541
+30	after	after	ADP	IN	_	29	_	_	start_char=542|end_char=547
+31	a	a	DET	DT	Definite=Ind|PronType=Art	30	_	_	start_char=548|end_char=549
+32	terrorist	terrorist	ADJ	JJ	Degree=Pos	31	_	_	start_char=550|end_char=559
+33	attack	attack	NOUN	NN	Number=Sing	32	_	_	start_char=560|end_char=566
+34	near	near	ADP	IN	_	33	_	_	start_char=567|end_char=571
+35	Moscow	Moscow	PROPN	NNP	Number=Sing	34	_	_	start_char=572|end_char=578|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=578|end_char=579
+
+# text = At least 140 people have been killed and many injured in this attack.
+# sent_id = 5
+1	At	at	ADP	IN	ExtPos=ADV	0	_	_	start_char=580|end_char=582
+2	least	least	ADJ	JJS	Degree=Sup	1	_	_	start_char=583|end_char=588
+3	140	140	NUM	CD	NumForm=Digit|NumType=Card	2	_	_	start_char=589|end_char=592
+4	people	person	NOUN	NNS	Number=Plur	3	_	_	start_char=593|end_char=599
+5	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=600|end_char=604
+6	been	be	AUX	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=605|end_char=609
+7	killed	kill	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	_	_	start_char=610|end_char=616
+8	and	and	CCONJ	CC	_	7	_	_	start_char=617|end_char=620
+9	many	many	ADJ	JJ	Degree=Pos	8	_	_	start_char=621|end_char=625
+10	injured	injure	VERB	VBN	Tense=Past|VerbForm=Part	9	_	_	start_char=626|end_char=633
+11	in	in	ADP	IN	_	10	_	_	start_char=634|end_char=636
+12	this	this	DET	DT	Number=Sing|PronType=Dem	11	_	_	start_char=637|end_char=641
+13	attack	attack	NOUN	NN	Number=Sing	12	_	_	start_char=642|end_char=648|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=648|end_char=649
+
+# text = Foreign Minister Kuleba&#39;s main objective was to seek India&#39;s support for Ukraine&#39;s peace plan and the upcoming peace conference in Switzerland.
+# sent_id = 6
+1	Foreign	foreign	ADJ	NNP	Degree=Pos	0	_	_	start_char=650|end_char=657
+2	Minister	Minister	PROPN	NNP	Number=Sing	1	_	_	start_char=658|end_char=666
+3	Kuleba&#39	Kuleba&#39	PROPN	NNP	Number=Sing	2	_	_	start_char=667|end_char=677|SpaceAfter=No
+4	;	;	PUNCT	:	_	3	_	_	start_char=677|end_char=678|SpaceAfter=No
+5	s	's	PART	POS	Typo=Yes	4	_	_	start_char=678|end_char=679
+6	main	main	ADJ	JJ	Degree=Pos	5	_	_	start_char=680|end_char=684
+7	objective	objective	NOUN	NN	Number=Sing	6	_	_	start_char=685|end_char=694
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=695|end_char=698
+9	to	to	PART	TO	_	8	_	_	start_char=699|end_char=701
+10	seek	seek	VERB	VB	VerbForm=Inf	9	_	_	start_char=702|end_char=706
+11	India&	India&	PROPN	NNP	Number=Sing	10	_	_	start_char=707|end_char=713|SpaceAfter=No
+12	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	11	_	_	start_char=713|end_char=716|SpaceAfter=No
+13	;	;	PUNCT	:	_	12	_	_	start_char=716|end_char=717|SpaceAfter=No
+14	s	's	PART	POS	Typo=Yes	13	_	_	start_char=717|end_char=718
+15	support	support	NOUN	NN	Number=Sing	14	_	_	start_char=719|end_char=726
+16	for	for	ADP	IN	_	15	_	_	start_char=727|end_char=730
+17	Ukraine&	Ukraine&	PROPN	NNP	Number=Sing	16	_	_	start_char=731|end_char=739|SpaceAfter=No
+18	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	17	_	_	start_char=739|end_char=742|SpaceAfter=No
+19	;	;	PUNCT	:	_	18	_	_	start_char=742|end_char=743|SpaceAfter=No
+20	s	's	PART	POS	Typo=Yes	19	_	_	start_char=743|end_char=744
+21	peace	peace	NOUN	NN	Number=Sing	20	_	_	start_char=745|end_char=750
+22	plan	plan	NOUN	NN	Number=Sing	21	_	_	start_char=751|end_char=755
+23	and	and	CCONJ	CC	_	22	_	_	start_char=756|end_char=759
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=760|end_char=763
+25	upcoming	upcoming	ADJ	JJ	Degree=Pos	24	_	_	start_char=764|end_char=772
+26	peace	peace	NOUN	NN	Number=Sing	25	_	_	start_char=773|end_char=778
+27	conference	conference	NOUN	NN	Number=Sing	26	_	_	start_char=779|end_char=789
+28	in	in	ADP	IN	_	27	_	_	start_char=790|end_char=792
+29	Switzerland	Switzerland	PROPN	NNP	Number=Sing	28	_	_	start_char=793|end_char=804|SpaceAfter=No
+30	.	.	PUNCT	.	_	29	_	_	start_char=804|end_char=805
+
+# text = The dates of this peace conference are yet to be announced.
+# sent_id = 7
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=806|end_char=809
+2	dates	date	NOUN	NNS	Number=Plur	1	_	_	start_char=810|end_char=815
+3	of	of	ADP	IN	_	2	_	_	start_char=816|end_char=818
+4	this	this	DET	DT	Number=Sing|PronType=Dem	3	_	_	start_char=819|end_char=823
+5	peace	peace	NOUN	NN	Number=Sing	4	_	_	start_char=824|end_char=829
+6	conference	conference	NOUN	NN	Number=Sing	5	_	_	start_char=830|end_char=840
+7	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=841|end_char=844
+8	yet	yet	ADV	RB	_	7	_	_	start_char=845|end_char=848
+9	to	to	PART	TO	_	8	_	_	start_char=849|end_char=851
+10	be	be	AUX	VB	VerbForm=Inf	9	_	_	start_char=852|end_char=854
+11	announced	announce	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10	_	_	start_char=855|end_char=864|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=864|end_char=865
+
+# text = He has also advocated resumption of Indian investment and trade relations in Ukraine.
+# sent_id = 8
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=866|end_char=868
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=869|end_char=872
+3	also	also	ADV	RB	_	2	_	_	start_char=873|end_char=877
+4	advocated	advocate	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=878|end_char=887
+5	resumption	resumption	NOUN	NN	Number=Sing	4	_	_	start_char=888|end_char=898
+6	of	of	ADP	IN	_	5	_	_	start_char=899|end_char=901
+7	Indian	Indian	ADJ	JJ	Degree=Pos	6	_	_	start_char=902|end_char=908
+8	investment	investment	NOUN	NN	Number=Sing	7	_	_	start_char=909|end_char=919
+9	and	and	CCONJ	CC	_	8	_	_	start_char=920|end_char=923
+10	trade	trade	NOUN	NN	Number=Sing	9	_	_	start_char=924|end_char=929
+11	relations	relation	NOUN	NNS	Number=Plur	10	_	_	start_char=930|end_char=939
+12	in	in	ADP	IN	_	11	_	_	start_char=940|end_char=942
+13	Ukraine	Ukraine	PROPN	NNP	Number=Sing	12	_	_	start_char=943|end_char=950|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=950|end_char=951
+
+# text = &quot;In New Delhi, I had a serious and comprehensive conversation with Dr. S. Jaishankar about Ukrainian-India bilateral relations, the situation in our regions and global security,&quot; he wrote on Twitter.
+# sent_id = 9
+1	&quot	&quot	NOUN	NN	Number=Sing	0	_	_	start_char=952|end_char=957|SpaceAfter=No
+2	;	;	PUNCT	:	_	1	_	_	start_char=957|end_char=958|SpaceAfter=No
+3	In	in	ADP	IN	_	2	_	_	start_char=958|end_char=960
+4	New	New	ADJ	NNP	Degree=Pos	3	_	_	start_char=961|end_char=964
+5	Delhi	Delhi	PROPN	NNP	Number=Sing	4	_	_	start_char=965|end_char=970|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=970|end_char=971
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	_	_	start_char=972|end_char=973
+8	had	have	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	7	_	_	start_char=974|end_char=977
+9	a	a	DET	DT	Definite=Ind|PronType=Art	8	_	_	start_char=978|end_char=979
+10	serious	serious	ADJ	JJ	Degree=Pos	9	_	_	start_char=980|end_char=987
+11	and	and	CCONJ	CC	_	10	_	_	start_char=988|end_char=991
+12	comprehensive	comprehensive	ADJ	JJ	Degree=Pos	11	_	_	start_char=992|end_char=1005
+13	conversation	conversation	NOUN	NN	Number=Sing	12	_	_	start_char=1006|end_char=1018
+14	with	with	ADP	IN	_	13	_	_	start_char=1019|end_char=1023
+15	Dr.	Dr.	PROPN	NNP	Number=Sing	14	_	_	start_char=1024|end_char=1027
+16	S.	S.	PROPN	NNP	Number=Sing	15	_	_	start_char=1028|end_char=1030
+17	Jaishankar	Jaishankar	PROPN	NNP	Number=Sing	16	_	_	start_char=1031|end_char=1041
+18	about	about	ADP	IN	_	17	_	_	start_char=1042|end_char=1047
+19	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	18	_	_	start_char=1048|end_char=1057|SpaceAfter=No
+20	-	-	PUNCT	HYPH	_	19	_	_	start_char=1057|end_char=1058|SpaceAfter=No
+21	India	India	PROPN	NNP	Number=Sing	20	_	_	start_char=1058|end_char=1063
+22	bilateral	bilateral	ADJ	JJ	Degree=Pos	21	_	_	start_char=1064|end_char=1073
+23	relations	relation	NOUN	NNS	Number=Plur	22	_	_	start_char=1074|end_char=1083|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=1083|end_char=1084
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=1085|end_char=1088
+26	situation	situation	NOUN	NN	Number=Sing	25	_	_	start_char=1089|end_char=1098
+27	in	in	ADP	IN	_	26	_	_	start_char=1099|end_char=1101
+28	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	27	_	_	start_char=1102|end_char=1105
+29	regions	region	NOUN	NNS	Number=Plur	28	_	_	start_char=1106|end_char=1113
+30	and	and	CCONJ	CC	_	29	_	_	start_char=1114|end_char=1117
+31	global	global	ADJ	JJ	Degree=Pos	30	_	_	start_char=1118|end_char=1124
+32	security	security	NOUN	NN	Number=Sing	31	_	_	start_char=1125|end_char=1133|SpaceAfter=No
+33	,	,	PUNCT	,	_	32	_	_	start_char=1133|end_char=1134|SpaceAfter=No
+34	&quot	&quot	NOUN	NN	Number=Sing	33	_	_	start_char=1134|end_char=1139|SpaceAfter=No
+35	;	;	PUNCT	:	_	34	_	_	start_char=1139|end_char=1140
+36	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	35	_	_	start_char=1141|end_char=1143
+37	wrote	write	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	36	_	_	start_char=1144|end_char=1149
+38	on	on	ADP	IN	_	37	_	_	start_char=1150|end_char=1152
+39	Twitter	Twitter	PROPN	NNP	Number=Sing	38	_	_	start_char=1153|end_char=1160|SpaceAfter=No
+40	.	.	PUNCT	.	_	39	_	_	start_char=1160|end_char=1161
+
+# text = &quot;We paid special attention to the peace formula and our next steps on the path to its implementation.
+# sent_id = 10
+1	&quot	&quot	INTJ	UH	_	0	_	_	start_char=1162|end_char=1167|SpaceAfter=No
+2	;	;	PUNCT	:	_	1	_	_	start_char=1167|end_char=1168|SpaceAfter=No
+3	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	_	_	start_char=1168|end_char=1170
+4	paid	pay	VERB	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	3	_	_	start_char=1171|end_char=1175
+5	special	special	ADJ	JJ	Degree=Pos	4	_	_	start_char=1176|end_char=1183
+6	attention	attention	NOUN	NN	Number=Sing	5	_	_	start_char=1184|end_char=1193
+7	to	to	ADP	IN	_	6	_	_	start_char=1194|end_char=1196
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=1197|end_char=1200
+9	peace	peace	NOUN	NN	Number=Sing	8	_	_	start_char=1201|end_char=1206
+10	formula	formula	NOUN	NN	Number=Sing	9	_	_	start_char=1207|end_char=1214
+11	and	and	CCONJ	CC	_	10	_	_	start_char=1215|end_char=1218
+12	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	11	_	_	start_char=1219|end_char=1222
+13	next	next	ADJ	JJ	Degree=Pos	12	_	_	start_char=1223|end_char=1227
+14	steps	step	NOUN	NNS	Number=Plur	13	_	_	start_char=1228|end_char=1233
+15	on	on	ADP	IN	_	14	_	_	start_char=1234|end_char=1236
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=1237|end_char=1240
+17	path	path	NOUN	NN	Number=Sing	16	_	_	start_char=1241|end_char=1245
+18	to	to	ADP	IN	_	17	_	_	start_char=1246|end_char=1248
+19	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	18	_	_	start_char=1249|end_char=1252
+20	implementation	implementation	NOUN	NN	Number=Sing	19	_	_	start_char=1253|end_char=1267|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=1267|end_char=1268
+
+# text = We also co-chaired the review meeting of the Ukrainian-Indian Intergovernmental Commission and agreed to restore the level of cooperation between our countries that existed before the large-scale war unleashed by Russia, and to identify new promising projects to take our relations to the next level.
+# sent_id = 11
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	start_char=1269|end_char=1271
+2	also	also	ADV	RB	_	1	_	_	start_char=1272|end_char=1276
+3	co-chaired	co-chair	VERB	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	2	_	_	start_char=1277|end_char=1287
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1288|end_char=1291
+5	review	review	NOUN	NN	Number=Sing	4	_	_	start_char=1292|end_char=1298
+6	meeting	meeting	NOUN	NN	Number=Sing	5	_	_	start_char=1299|end_char=1306
+7	of	of	ADP	IN	_	6	_	_	start_char=1307|end_char=1309
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=1310|end_char=1313
+9	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	8	_	_	start_char=1314|end_char=1323|SpaceAfter=No
+10	-	-	PUNCT	HYPH	_	9	_	_	start_char=1323|end_char=1324|SpaceAfter=No
+11	Indian	Indian	ADJ	NNP	Degree=Pos	10	_	_	start_char=1324|end_char=1330
+12	Intergovernmental	Intergovernmental	ADJ	NNP	Degree=Pos	11	_	_	start_char=1331|end_char=1348
+13	Commission	Commission	PROPN	NNP	Number=Sing	12	_	_	start_char=1349|end_char=1359
+14	and	and	CCONJ	CC	_	13	_	_	start_char=1360|end_char=1363
+15	agreed	agree	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=1364|end_char=1370
+16	to	to	PART	TO	_	15	_	_	start_char=1371|end_char=1373
+17	restore	restore	VERB	VB	VerbForm=Inf	16	_	_	start_char=1374|end_char=1381
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=1382|end_char=1385
+19	level	level	NOUN	NN	Number=Sing	18	_	_	start_char=1386|end_char=1391
+20	of	of	ADP	IN	_	19	_	_	start_char=1392|end_char=1394
+21	cooperation	cooperation	NOUN	NN	Number=Sing	20	_	_	start_char=1395|end_char=1406
+22	between	between	ADP	IN	_	21	_	_	start_char=1407|end_char=1414
+23	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	22	_	_	start_char=1415|end_char=1418
+24	countries	country	NOUN	NNS	Number=Plur	23	_	_	start_char=1419|end_char=1428
+25	that	that	PRON	WDT	PronType=Rel	24	_	_	start_char=1429|end_char=1433
+26	existed	exist	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	25	_	_	start_char=1434|end_char=1441
+27	before	before	ADP	IN	_	26	_	_	start_char=1442|end_char=1448
+28	the	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=1449|end_char=1452
+29	large	large	ADJ	JJ	Degree=Pos	28	_	_	start_char=1453|end_char=1458|SpaceAfter=No
+30	-	-	PUNCT	HYPH	_	29	_	_	start_char=1458|end_char=1459|SpaceAfter=No
+31	scale	scale	NOUN	NN	Number=Sing	30	_	_	start_char=1459|end_char=1464
+32	war	war	NOUN	NN	Number=Sing	31	_	_	start_char=1465|end_char=1468
+33	unleashed	unleash	VERB	VBN	Tense=Past|VerbForm=Part	32	_	_	start_char=1469|end_char=1478
+34	by	by	ADP	IN	_	33	_	_	start_char=1479|end_char=1481
+35	Russia	Russia	PROPN	NNP	Number=Sing	34	_	_	start_char=1482|end_char=1488|SpaceAfter=No
+36	,	,	PUNCT	,	_	35	_	_	start_char=1488|end_char=1489
+37	and	and	CCONJ	CC	_	36	_	_	start_char=1490|end_char=1493
+38	to	to	PART	TO	_	37	_	_	start_char=1494|end_char=1496
+39	identify	identify	VERB	VB	VerbForm=Inf	38	_	_	start_char=1497|end_char=1505
+40	new	new	ADJ	JJ	Degree=Pos	39	_	_	start_char=1506|end_char=1509
+41	promising	promising	ADJ	JJ	Degree=Pos	40	_	_	start_char=1510|end_char=1519
+42	projects	project	NOUN	NNS	Number=Plur	41	_	_	start_char=1520|end_char=1528
+43	to	to	PART	TO	_	42	_	_	start_char=1529|end_char=1531
+44	take	take	VERB	VB	VerbForm=Inf	43	_	_	start_char=1532|end_char=1536
+45	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	44	_	_	start_char=1537|end_char=1540
+46	relations	relation	NOUN	NNS	Number=Plur	45	_	_	start_char=1541|end_char=1550
+47	to	to	ADP	IN	_	46	_	_	start_char=1551|end_char=1553
+48	the	the	DET	DT	Definite=Def|PronType=Art	47	_	_	start_char=1554|end_char=1557
+49	next	next	ADJ	JJ	Degree=Pos	48	_	_	start_char=1558|end_char=1562
+50	level	level	NOUN	NN	Number=Sing	49	_	_	start_char=1563|end_char=1568|SpaceAfter=No
+51	.	.	PUNCT	.	_	50	_	_	start_char=1568|end_char=1569|SpaceAfter=No
+
+# text = &quot; Ukraine&#39;s Foreign Minister Dmytro Kuleba Will Kuleba&#39;s comments affect India-Russia relations?
+# sent_id = 12
+1	&quot	&quot	NOUN	NN	Number=Sing	0	_	_	start_char=1569|end_char=1574|SpaceAfter=No
+2	;	;	PUNCT	:	_	1	_	_	start_char=1574|end_char=1575
+3	Ukraine&	Ukraine&	PROPN	NNP	Number=Sing	2	_	_	start_char=1576|end_char=1584|SpaceAfter=No
+4	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	3	_	_	start_char=1584|end_char=1587|SpaceAfter=No
+5	;	;	PUNCT	:	_	4	_	_	start_char=1587|end_char=1588|SpaceAfter=No
+6	s	's	PART	POS	Typo=Yes	5	_	_	start_char=1588|end_char=1589
+7	Foreign	foreign	ADJ	NNP	Degree=Pos	6	_	_	start_char=1590|end_char=1597
+8	Minister	Minister	PROPN	NNP	Number=Sing	7	_	_	start_char=1598|end_char=1606
+9	Dmytro	Dmytro	PROPN	NNP	Number=Sing	8	_	_	start_char=1607|end_char=1613
+10	Kuleba	Kuleba	PROPN	NNP	Number=Sing	9	_	_	start_char=1614|end_char=1620
+11	Will	Will	PROPN	NNP	Number=Sing	10	_	_	start_char=1621|end_char=1625
+12	Kuleba&#39	Kuleba&#39	PROPN	NNP	Number=Sing	11	_	_	start_char=1626|end_char=1636|SpaceAfter=No
+13	;	;	PUNCT	:	_	12	_	_	start_char=1636|end_char=1637|SpaceAfter=No
+14	s	's	PART	POS	Typo=Yes	13	_	_	start_char=1637|end_char=1638
+15	comments	comment	NOUN	NNS	Number=Plur	14	_	_	start_char=1639|end_char=1647
+16	affect	affect	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=1648|end_char=1654
+17	India	India	PROPN	NNP	Number=Sing	16	_	_	start_char=1655|end_char=1660|SpaceAfter=No
+18	-	-	PUNCT	HYPH	_	17	_	_	start_char=1660|end_char=1661|SpaceAfter=No
+19	Russia	Russia	PROPN	NNP	Number=Sing	18	_	_	start_char=1661|end_char=1667
+20	relations	relation	NOUN	NNS	Number=Plur	19	_	_	start_char=1668|end_char=1677|SpaceAfter=No
+21	?	?	PUNCT	.	_	20	_	_	start_char=1677|end_char=1678
+
+# text = India is trying to balance its Ukraine outreach as well as its proximity to Russia.
+# sent_id = 13
+1	India	India	PROPN	NNP	Number=Sing	0	_	_	start_char=1679|end_char=1684
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1685|end_char=1687
+3	trying	try	VERB	VBG	Tense=Pres|VerbForm=Part	2	_	_	start_char=1688|end_char=1694
+4	to	to	PART	TO	_	3	_	_	start_char=1695|end_char=1697
+5	balance	balance	VERB	VB	VerbForm=Inf	4	_	_	start_char=1698|end_char=1705
+6	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	_	_	start_char=1706|end_char=1709
+7	Ukraine	Ukraine	PROPN	NNP	Number=Sing	6	_	_	start_char=1710|end_char=1717
+8	outreach	outreach	NOUN	NN	Number=Sing	7	_	_	start_char=1718|end_char=1726
+9	as	as	ADV	RB	_	8	_	_	start_char=1727|end_char=1729
+10	well	well	ADV	RB	Degree=Pos	9	_	_	start_char=1730|end_char=1734
+11	as	as	ADP	IN	_	10	_	_	start_char=1735|end_char=1737
+12	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	_	_	start_char=1738|end_char=1741
+13	proximity	proximity	NOUN	NN	Number=Sing	12	_	_	start_char=1742|end_char=1751
+14	to	to	ADP	IN	_	13	_	_	start_char=1752|end_char=1754
+15	Russia	Russia	PROPN	NNP	Number=Sing	14	_	_	start_char=1755|end_char=1761|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=1761|end_char=1762
+
+# text = Now it remains to be seen how successful Kuleba&#39;s visit is.
+# sent_id = 14
+1	Now	now	ADV	RB	_	0	_	_	start_char=1763|end_char=1766
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	_	_	start_char=1767|end_char=1769
+3	remains	remain	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1770|end_char=1777
+4	to	to	PART	TO	_	3	_	_	start_char=1778|end_char=1780
+5	be	be	AUX	VB	VerbForm=Inf	4	_	_	start_char=1781|end_char=1783
+6	seen	see	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	_	_	start_char=1784|end_char=1788
+7	how	how	ADV	WRB	PronType=Int	6	_	_	start_char=1789|end_char=1792
+8	successful	successful	ADJ	JJ	Degree=Pos	7	_	_	start_char=1793|end_char=1803
+9	Kuleba&	Kuleba&	PROPN	NNP	Number=Sing	8	_	_	start_char=1804|end_char=1811|SpaceAfter=No
+10	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=1811|end_char=1814|SpaceAfter=No
+11	;	;	PUNCT	:	_	10	_	_	start_char=1814|end_char=1815|SpaceAfter=No
+12	s	's	PART	POS	Typo=Yes	11	_	_	start_char=1815|end_char=1816
+13	visit	visit	NOUN	NN	Number=Sing	12	_	_	start_char=1817|end_char=1822
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=1823|end_char=1825|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=1825|end_char=1826
+
+# text = Trade and investment are sure to get back on track for both countries.
+# sent_id = 15
+1	Trade	trade	NOUN	NN	Number=Sing	0	_	_	start_char=1827|end_char=1832
+2	and	and	CCONJ	CC	_	1	_	_	start_char=1833|end_char=1836
+3	investment	investment	NOUN	NN	Number=Sing	2	_	_	start_char=1837|end_char=1847
+4	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1848|end_char=1851
+5	sure	sure	ADJ	JJ	Degree=Pos	4	_	_	start_char=1852|end_char=1856
+6	to	to	PART	TO	_	5	_	_	start_char=1857|end_char=1859
+7	get	get	VERB	VB	VerbForm=Inf	6	_	_	start_char=1860|end_char=1863
+8	back	back	ADV	RB	_	7	_	_	start_char=1864|end_char=1868
+9	on	on	ADP	IN	_	8	_	_	start_char=1869|end_char=1871
+10	track	track	NOUN	NN	Number=Sing	9	_	_	start_char=1872|end_char=1877
+11	for	for	ADP	IN	_	10	_	_	start_char=1878|end_char=1881
+12	both	both	DET	DT	_	11	_	_	start_char=1882|end_char=1886
+13	countries	country	NOUN	NNS	Number=Plur	12	_	_	start_char=1887|end_char=1896|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=1896|end_char=1897
+
+# text = S. &quot;Glad to co-chair the review meeting of our Inter-Governmental Commission with Ukraine&#39;s Foreign Minister Dmytro Kuleba, FM of Ukraine,&quot; Jaishankar wrote on his X account.
+# sent_id = 16
+1	S.	S.	PROPN	NNP	Number=Sing	0	_	_	start_char=1898|end_char=1900
+2	&quot	&quot	NOUN	NN	Number=Sing	1	_	_	start_char=1901|end_char=1906|SpaceAfter=No
+3	;	;	PUNCT	:	_	2	_	_	start_char=1906|end_char=1907|SpaceAfter=No
+4	Glad	glad	ADJ	JJ	Degree=Pos	3	_	_	start_char=1907|end_char=1911
+5	to	to	PART	TO	_	4	_	_	start_char=1912|end_char=1914
+6	co-chair	co-chair	VERB	VB	VerbForm=Inf	5	_	_	start_char=1915|end_char=1923
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1924|end_char=1927
+8	review	review	NOUN	NN	Number=Sing	7	_	_	start_char=1928|end_char=1934
+9	meeting	meeting	NOUN	NN	Number=Sing	8	_	_	start_char=1935|end_char=1942
+10	of	of	ADP	IN	_	9	_	_	start_char=1943|end_char=1945
+11	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	10	_	_	start_char=1946|end_char=1949
+12	Inter-	inter-	ADJ	NNP	Degree=Pos	11	_	_	start_char=1950|end_char=1956|SpaceAfter=No
+13	Governmental	Governmental	ADJ	NNP	Degree=Pos	12	_	_	start_char=1956|end_char=1968
+14	Commission	Commission	PROPN	NNP	Number=Sing	13	_	_	start_char=1969|end_char=1979
+15	with	with	ADP	IN	_	14	_	_	start_char=1980|end_char=1984
+16	Ukraine&	Ukraine&	PROPN	NNP	Number=Sing	15	_	_	start_char=1985|end_char=1993|SpaceAfter=No
+17	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	16	_	_	start_char=1993|end_char=1996|SpaceAfter=No
+18	;	;	PUNCT	:	_	17	_	_	start_char=1996|end_char=1997|SpaceAfter=No
+19	s	's	PART	POS	Typo=Yes	18	_	_	start_char=1997|end_char=1998
+20	Foreign	foreign	ADJ	NNP	Degree=Pos	19	_	_	start_char=1999|end_char=2006
+21	Minister	Minister	PROPN	NNP	Number=Sing	20	_	_	start_char=2007|end_char=2015
+22	Dmytro	Dmytro	PROPN	NNP	Number=Sing	21	_	_	start_char=2016|end_char=2022
+23	Kuleba	Kuleba	PROPN	NNP	Number=Sing	22	_	_	start_char=2023|end_char=2029|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=2029|end_char=2030
+25	FM	FM	PROPN	NNP	Number=Sing	24	_	_	start_char=2031|end_char=2033
+26	of	of	ADP	IN	_	25	_	_	start_char=2034|end_char=2036
+27	Ukraine	Ukraine	PROPN	NNP	Number=Sing	26	_	_	start_char=2037|end_char=2044|SpaceAfter=No
+28	,	,	PUNCT	,	_	27	_	_	start_char=2044|end_char=2045|SpaceAfter=No
+29	&quot	&quot	NOUN	NN	Number=Sing	28	_	_	start_char=2045|end_char=2050|SpaceAfter=No
+30	;	;	PUNCT	:	_	29	_	_	start_char=2050|end_char=2051
+31	Jaishankar	Jaishankar	PROPN	NNP	Number=Sing	30	_	_	start_char=2052|end_char=2062
+32	wrote	write	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	31	_	_	start_char=2063|end_char=2068
+33	on	on	ADP	IN	_	32	_	_	start_char=2069|end_char=2071
+34	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	33	_	_	start_char=2072|end_char=2075
+35	X	x	NOUN	NN	Number=Sing	34	_	_	start_char=2076|end_char=2077
+36	account	account	NOUN	NN	Number=Sing	35	_	_	start_char=2078|end_char=2085|SpaceAfter=No
+37	.	.	PUNCT	.	_	36	_	_	start_char=2085|end_char=2086
+
+# text = &quot;The importance of further strengthening cooperation in all areas was noted.
+# sent_id = 17
+1	&quot	&quot	NOUN	NN	Number=Sing	0	_	_	start_char=2087|end_char=2092|SpaceAfter=No
+2	;	;	PUNCT	:	_	1	_	_	start_char=2092|end_char=2093|SpaceAfter=No
+3	The	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=2093|end_char=2096
+4	importance	importance	NOUN	NN	Number=Sing	3	_	_	start_char=2097|end_char=2107
+5	of	of	SCONJ	IN	_	4	_	_	start_char=2108|end_char=2110
+6	further	further	ADV	RB	_	5	_	_	start_char=2111|end_char=2118
+7	strengthening	strengthen	VERB	VBG	VerbForm=Ger	6	_	_	start_char=2119|end_char=2132
+8	cooperation	cooperation	NOUN	NN	Number=Sing	7	_	_	start_char=2133|end_char=2144
+9	in	in	ADP	IN	_	8	_	_	start_char=2145|end_char=2147
+10	all	all	DET	DT	_	9	_	_	start_char=2148|end_char=2151
+11	areas	area	NOUN	NNS	Number=Plur	10	_	_	start_char=2152|end_char=2157
+12	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=2158|end_char=2161
+13	noted	note	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	12	_	_	start_char=2162|end_char=2167|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=2167|end_char=2168
+
+# text = Our immediate goal is to get trade back to earlier levels.
+# sent_id = 18
+1	Our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	0	_	_	start_char=2169|end_char=2172
+2	immediate	immediate	ADJ	JJ	Degree=Pos	1	_	_	start_char=2173|end_char=2182
+3	goal	goal	NOUN	NN	Number=Sing	2	_	_	start_char=2183|end_char=2187
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=2188|end_char=2190
+5	to	to	PART	TO	_	4	_	_	start_char=2191|end_char=2193
+6	get	get	VERB	VB	VerbForm=Inf	5	_	_	start_char=2194|end_char=2197
+7	trade	trade	NOUN	NN	Number=Sing	6	_	_	start_char=2198|end_char=2203
+8	back	back	ADV	RB	_	7	_	_	start_char=2204|end_char=2208
+9	to	to	ADP	IN	_	8	_	_	start_char=2209|end_char=2211
+10	earlier	early	ADJ	JJR	Degree=Cmp	9	_	_	start_char=2212|end_char=2219
+11	levels	level	NOUN	NNS	Number=Plur	10	_	_	start_char=2220|end_char=2226|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=2226|end_char=2227
+
+# text = The views shared today on trade, health, science and technology and agriculture cooperation were useful.
+# sent_id = 19
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2228|end_char=2231
+2	views	view	NOUN	NNS	Number=Plur	1	_	_	start_char=2232|end_char=2237
+3	shared	share	VERB	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=2238|end_char=2244
+4	today	today	NOUN	NN	Number=Sing	3	_	_	start_char=2245|end_char=2250
+5	on	on	ADP	IN	_	4	_	_	start_char=2251|end_char=2253
+6	trade	trade	NOUN	NN	Number=Sing	5	_	_	start_char=2254|end_char=2259|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=2259|end_char=2260
+8	health	health	NOUN	NN	Number=Sing	7	_	_	start_char=2261|end_char=2267|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=2267|end_char=2268
+10	science	science	NOUN	NN	Number=Sing	9	_	_	start_char=2269|end_char=2276
+11	and	and	CCONJ	CC	_	10	_	_	start_char=2277|end_char=2280
+12	technology	technology	NOUN	NN	Number=Sing	11	_	_	start_char=2281|end_char=2291
+13	and	and	CCONJ	CC	_	12	_	_	start_char=2292|end_char=2295
+14	agriculture	agriculture	NOUN	NN	Number=Sing	13	_	_	start_char=2296|end_char=2307
+15	cooperation	cooperation	NOUN	NN	Number=Sing	14	_	_	start_char=2308|end_char=2319
+16	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	15	_	_	start_char=2320|end_char=2324
+17	useful	useful	ADJ	JJ	Degree=Pos	16	_	_	start_char=2325|end_char=2331|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=2331|end_char=2332
+
+# text = We agreed to prepare for the 7th IGC meeting later this year.
+# sent_id = 20
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	start_char=2333|end_char=2335
+2	agreed	agree	VERB	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	1	_	_	start_char=2336|end_char=2342
+3	to	to	PART	TO	_	2	_	_	start_char=2343|end_char=2345
+4	prepare	prepare	VERB	VB	VerbForm=Inf	3	_	_	start_char=2346|end_char=2353
+5	for	for	ADP	IN	_	4	_	_	start_char=2354|end_char=2357
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=2358|end_char=2361
+7	7th	7th	ADJ	JJ	Degree=Pos|NumType=Ord	6	_	_	start_char=2362|end_char=2365
+8	IGC	IGC	PROPN	NNP	Number=Sing	7	_	_	start_char=2366|end_char=2369
+9	meeting	meeting	NOUN	NN	Number=Sing	8	_	_	start_char=2370|end_char=2377
+10	later	late	ADV	RBR	Degree=Cmp	9	_	_	start_char=2378|end_char=2383
+11	this	this	DET	DT	Number=Sing|PronType=Dem	10	_	_	start_char=2384|end_char=2388
+12	year	year	NOUN	NN	Number=Sing	11	_	_	start_char=2389|end_char=2393|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=2393|end_char=2394|SpaceAfter=No
+
+# text = &quot;India&#39;s Foreign Minister S. Jaishankar However, this will not help India distance itself from its old friend Russia.
+# sent_id = 21
+1	&quot	&quot	NOUN	NN	Number=Sing	0	_	_	start_char=2394|end_char=2399|SpaceAfter=No
+2	;	;	PUNCT	:	_	1	_	_	start_char=2399|end_char=2400|SpaceAfter=No
+3	India&#39	India&#39	PROPN	NNP	Number=Sing	2	_	_	start_char=2400|end_char=2409|SpaceAfter=No
+4	;	;	PUNCT	:	_	3	_	_	start_char=2409|end_char=2410|SpaceAfter=No
+5	s	's	PART	POS	Typo=Yes	4	_	_	start_char=2410|end_char=2411
+6	Foreign	foreign	ADJ	NNP	Degree=Pos	5	_	_	start_char=2412|end_char=2419
+7	Minister	Minister	PROPN	NNP	Number=Sing	6	_	_	start_char=2420|end_char=2428
+8	S.	S.	PROPN	NNP	Number=Sing	7	_	_	start_char=2429|end_char=2431
+9	Jaishankar	Jaishankar	PROPN	NNP	Number=Sing	8	_	_	start_char=2432|end_char=2442
+10	However	however	ADV	RB	_	9	_	_	start_char=2443|end_char=2450|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=2450|end_char=2451
+12	this	this	PRON	DT	Number=Sing|PronType=Dem	11	_	_	start_char=2452|end_char=2456
+13	will	will	AUX	MD	VerbForm=Fin	12	_	_	start_char=2457|end_char=2461
+14	not	not	PART	RB	_	13	_	_	start_char=2462|end_char=2465
+15	help	help	VERB	VB	VerbForm=Inf	14	_	_	start_char=2466|end_char=2470
+16	India	India	PROPN	NNP	Number=Sing	15	_	_	start_char=2471|end_char=2476
+17	distance	distance	VERB	VB	VerbForm=Inf	16	_	_	start_char=2477|end_char=2485
+18	itself	itself	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	17	_	_	start_char=2486|end_char=2492
+19	from	from	ADP	IN	_	18	_	_	start_char=2493|end_char=2497
+20	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	_	_	start_char=2498|end_char=2501
+21	old	old	ADJ	JJ	Degree=Pos	20	_	_	start_char=2502|end_char=2505
+22	friend	friend	NOUN	NN	Number=Sing	21	_	_	start_char=2506|end_char=2512
+23	Russia	Russia	PROPN	NNP	Number=Sing	22	_	_	start_char=2513|end_char=2519|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=2519|end_char=2520
+
+# text = In an interview to the Financial Times, the Ukrainian Foreign Minister had said: &quot;Cooperation between India and Russia is largely based on the Soviet legacy.
+# sent_id = 22
+1	In	in	ADP	IN	_	0	_	_	start_char=2521|end_char=2523
+2	an	a	DET	DT	Definite=Ind|PronType=Art	1	_	_	start_char=2524|end_char=2526
+3	interview	interview	NOUN	NN	Number=Sing	2	_	_	start_char=2527|end_char=2536
+4	to	to	ADP	IN	_	3	_	_	start_char=2537|end_char=2539
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=2540|end_char=2543
+6	Financial	Financial	ADJ	NNP	Degree=Pos	5	_	_	start_char=2544|end_char=2553
+7	Times	Times	PROPN	NNP	Number=Sing	6	_	_	start_char=2554|end_char=2559|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=2559|end_char=2560
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=2561|end_char=2564
+10	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	9	_	_	start_char=2565|end_char=2574
+11	Foreign	foreign	ADJ	NNP	Degree=Pos	10	_	_	start_char=2575|end_char=2582
+12	Minister	Minister	PROPN	NNP	Number=Sing	11	_	_	start_char=2583|end_char=2591
+13	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=2592|end_char=2595
+14	said	say	VERB	VBN	Tense=Past|VerbForm=Part	13	_	_	start_char=2596|end_char=2600|SpaceAfter=No
+15	:	:	PUNCT	:	_	14	_	_	start_char=2600|end_char=2601
+16	&quot	&quot	NOUN	NN	Number=Sing	15	_	_	start_char=2602|end_char=2607|SpaceAfter=No
+17	;	;	PUNCT	:	_	16	_	_	start_char=2607|end_char=2608|SpaceAfter=No
+18	Cooperation	Cooperation	NOUN	NN	Number=Sing	17	_	_	start_char=2608|end_char=2619
+19	between	between	ADP	IN	_	18	_	_	start_char=2620|end_char=2627
+20	India	India	PROPN	NNP	Number=Sing	19	_	_	start_char=2628|end_char=2633
+21	and	and	CCONJ	CC	_	20	_	_	start_char=2634|end_char=2637
+22	Russia	Russia	PROPN	NNP	Number=Sing	21	_	_	start_char=2638|end_char=2644
+23	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	_	_	start_char=2645|end_char=2647
+24	largely	largely	ADV	RB	_	23	_	_	start_char=2648|end_char=2655
+25	based	base	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	24	_	_	start_char=2656|end_char=2661
+26	on	on	ADP	IN	_	25	_	_	start_char=2662|end_char=2664
+27	the	the	DET	DT	Definite=Def|PronType=Art	26	_	_	start_char=2665|end_char=2668
+28	Soviet	Soviet	PROPN	NNP	Number=Sing	27	_	_	start_char=2669|end_char=2675
+29	legacy	legacy	NOUN	NN	Number=Sing	28	_	_	start_char=2676|end_char=2682|SpaceAfter=No
+30	.	.	PUNCT	.	_	29	_	_	start_char=2682|end_char=2683
+
+# text = But this is not a legacy that will be kept for centuries; it is a legacy that is fading away.
+# sent_id = 23
+1	But	but	CCONJ	CC	_	0	_	_	start_char=2684|end_char=2687
+2	this	this	PRON	DT	Number=Sing|PronType=Dem	1	_	_	start_char=2688|end_char=2692
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2693|end_char=2695
+4	not	not	PART	RB	_	3	_	_	start_char=2696|end_char=2699
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=2700|end_char=2701
+6	legacy	legacy	NOUN	NN	Number=Sing	5	_	_	start_char=2702|end_char=2708
+7	that	that	PRON	WDT	PronType=Rel	6	_	_	start_char=2709|end_char=2713
+8	will	will	AUX	MD	VerbForm=Fin	7	_	_	start_char=2714|end_char=2718
+9	be	be	AUX	VB	VerbForm=Inf	8	_	_	start_char=2719|end_char=2721
+10	kept	keep	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	9	_	_	start_char=2722|end_char=2726
+11	for	for	ADP	IN	_	10	_	_	start_char=2727|end_char=2730
+12	centuries	century	NOUN	NNS	Number=Plur	11	_	_	start_char=2731|end_char=2740|SpaceAfter=No
+13	;	;	PUNCT	:	_	12	_	_	start_char=2740|end_char=2741
+14	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	_	_	start_char=2742|end_char=2744
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=2745|end_char=2747
+16	a	a	DET	DT	Definite=Ind|PronType=Art	15	_	_	start_char=2748|end_char=2749
+17	legacy	legacy	NOUN	NN	Number=Sing	16	_	_	start_char=2750|end_char=2756
+18	that	that	PRON	WDT	PronType=Rel	17	_	_	start_char=2757|end_char=2761
+19	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=2762|end_char=2764
+20	fading	fade	VERB	VBG	Tense=Pres|VerbForm=Part	19	_	_	start_char=2765|end_char=2771
+21	away	away	ADV	RB	_	20	_	_	start_char=2772|end_char=2776|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=2776|end_char=2777|SpaceAfter=No
+
+# text = &quot;
+# sent_id = 24
+1	&quot	&quot	NOUN	NN	Number=Sing	0	_	_	start_char=2777|end_char=2782|SpaceAfter=No
+2	;	;	PUNCT	:	_	1	_	_	start_char=2782|end_char=2783
+
+# text = It is understandable why Kuleba said so, but this is to look at the India-Russia partnership in a limited sense.
+# sent_id = 25
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=2784|end_char=2786
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2787|end_char=2789
+3	understandable	understandable	ADJ	JJ	Degree=Pos	2	_	_	start_char=2790|end_char=2804
+4	why	why	ADV	WRB	PronType=Rel	3	_	_	start_char=2805|end_char=2808
+5	Kuleba	Kuleba	PROPN	NNP	Number=Sing	4	_	_	start_char=2809|end_char=2815
+6	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=2816|end_char=2820
+7	so	so	ADV	RB	_	6	_	_	start_char=2821|end_char=2823|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=2823|end_char=2824
+9	but	but	CCONJ	CC	_	8	_	_	start_char=2825|end_char=2828
+10	this	this	PRON	DT	Number=Sing|PronType=Dem	9	_	_	start_char=2829|end_char=2833
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=2834|end_char=2836
+12	to	to	PART	TO	_	11	_	_	start_char=2837|end_char=2839
+13	look	look	VERB	VB	VerbForm=Inf	12	_	_	start_char=2840|end_char=2844
+14	at	at	ADP	IN	_	13	_	_	start_char=2845|end_char=2847
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=2848|end_char=2851
+16	India	India	PROPN	NNP	Number=Sing	15	_	_	start_char=2852|end_char=2857|SpaceAfter=No
+17	-	-	PUNCT	HYPH	_	16	_	_	start_char=2857|end_char=2858|SpaceAfter=No
+18	Russia	Russia	PROPN	NNP	Number=Sing	17	_	_	start_char=2858|end_char=2864
+19	partnership	partnership	NOUN	NN	Number=Sing	18	_	_	start_char=2865|end_char=2876
+20	in	in	ADP	IN	_	19	_	_	start_char=2877|end_char=2879
+21	a	a	DET	DT	Definite=Ind|PronType=Art	20	_	_	start_char=2880|end_char=2881
+22	limited	limited	ADJ	JJ	Degree=Pos	21	_	_	start_char=2882|end_char=2889
+23	sense	sense	NOUN	NN	Number=Sing	22	_	_	start_char=2890|end_char=2895|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=2895|end_char=2896
+
+# text = What does Ukraine&#39;s peace plan include?
+# sent_id = 26
+1	What	what	PRON	WP	PronType=Int	0	_	_	start_char=2897|end_char=2901
+2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2902|end_char=2906
+3	Ukraine&	Ukraine&	PROPN	NNP	Number=Sing	2	_	_	start_char=2907|end_char=2915|SpaceAfter=No
+4	#	#	SYM	NN	Number=Sing	3	_	_	start_char=2915|end_char=2916|SpaceAfter=No
+5	39	39	NUM	CD	NumForm=Digit|NumType=Card	4	_	_	start_char=2916|end_char=2918|SpaceAfter=No
+6	;	;	PUNCT	:	_	5	_	_	start_char=2918|end_char=2919|SpaceAfter=No
+7	s	's	PART	POS	Typo=Yes	6	_	_	start_char=2919|end_char=2920
+8	peace	peace	NOUN	NN	Number=Sing	7	_	_	start_char=2921|end_char=2926
+9	plan	plan	NOUN	NN	Number=Sing	8	_	_	start_char=2927|end_char=2931
+10	include	include	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=2932|end_char=2939|SpaceAfter=No
+11	?	?	PUNCT	.	_	10	_	_	start_char=2939|end_char=2940
+
+# text = Russia remains India&#39;s largest defence supplier and perhaps its most trusted friend in the UN Security Council.
+# sent_id = 27
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=2941|end_char=2947
+2	remains	remain	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2948|end_char=2955
+3	India&#39	India&#39	PROPN	NNP	Number=Sing	2	_	_	start_char=2956|end_char=2965|SpaceAfter=No
+4	;	;	PUNCT	:	_	3	_	_	start_char=2965|end_char=2966|SpaceAfter=No
+5	s	's	PART	POS	Typo=Yes	4	_	_	start_char=2966|end_char=2967
+6	largest	large	ADJ	JJS	Degree=Sup	5	_	_	start_char=2968|end_char=2975
+7	defence	defence	NOUN	NN	Number=Sing	6	_	_	start_char=2976|end_char=2983
+8	supplier	supplier	NOUN	NN	Number=Sing	7	_	_	start_char=2984|end_char=2992
+9	and	and	CCONJ	CC	_	8	_	_	start_char=2993|end_char=2996
+10	perhaps	perhaps	ADV	RB	_	9	_	_	start_char=2997|end_char=3004
+11	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	_	_	start_char=3005|end_char=3008
+12	most	most	ADV	RBS	Degree=Sup	11	_	_	start_char=3009|end_char=3013
+13	trusted	trust	ADJ	JJ	Degree=Pos	12	_	_	start_char=3014|end_char=3021
+14	friend	friend	NOUN	NN	Number=Sing	13	_	_	start_char=3022|end_char=3028
+15	in	in	ADP	IN	_	14	_	_	start_char=3029|end_char=3031
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=3032|end_char=3035
+17	UN	UN	PROPN	NNP	Number=Sing	16	_	_	start_char=3036|end_char=3038
+18	Security	Security	PROPN	NNP	Number=Sing	17	_	_	start_char=3039|end_char=3047
+19	Council	Council	PROPN	NNP	Number=Sing	18	_	_	start_char=3048|end_char=3055|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=3055|end_char=3056
+
+# text = Apart from cooperation in myriad areas - from nuclear technology to space; thanks to subsidised Russian crude oil, trade volumes between the two countries have reached unprecedented levels in the past year.
+# sent_id = 28
+1	Apart	apart	ADV	RB	_	0	_	_	start_char=3057|end_char=3062
+2	from	from	ADP	IN	_	1	_	_	start_char=3063|end_char=3067
+3	cooperation	cooperation	NOUN	NN	Number=Sing	2	_	_	start_char=3068|end_char=3079
+4	in	in	ADP	IN	_	3	_	_	start_char=3080|end_char=3082
+5	myriad	myriad	ADJ	JJ	Degree=Pos	4	_	_	start_char=3083|end_char=3089
+6	areas	area	NOUN	NNS	Number=Plur	5	_	_	start_char=3090|end_char=3095
+7	-	-	PUNCT	,	_	6	_	_	start_char=3096|end_char=3097
+8	from	from	ADP	IN	_	7	_	_	start_char=3098|end_char=3102
+9	nuclear	nuclear	ADJ	JJ	Degree=Pos	8	_	_	start_char=3103|end_char=3110
+10	technology	technology	NOUN	NN	Number=Sing	9	_	_	start_char=3111|end_char=3121
+11	to	to	ADP	IN	_	10	_	_	start_char=3122|end_char=3124
+12	space	space	NOUN	NN	Number=Sing	11	_	_	start_char=3125|end_char=3130|SpaceAfter=No
+13	;	;	PUNCT	:	_	12	_	_	start_char=3130|end_char=3131
+14	thanks	thanks	NOUN	NN	Number=Sing	13	_	_	start_char=3132|end_char=3138
+15	to	to	ADP	IN	_	14	_	_	start_char=3139|end_char=3141
+16	subsidised	subsidise	VERB	VBN	Tense=Past|VerbForm=Part	15	_	_	start_char=3142|end_char=3152
+17	Russian	Russian	ADJ	JJ	Degree=Pos	16	_	_	start_char=3153|end_char=3160
+18	crude	crude	NOUN	NN	Number=Sing	17	_	_	start_char=3161|end_char=3166
+19	oil	oil	NOUN	NN	Number=Sing	18	_	_	start_char=3167|end_char=3170|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=3170|end_char=3171
+21	trade	trade	NOUN	NN	Number=Sing	20	_	_	start_char=3172|end_char=3177
+22	volumes	volume	NOUN	NNS	Number=Plur	21	_	_	start_char=3178|end_char=3185
+23	between	between	ADP	IN	_	22	_	_	start_char=3186|end_char=3193
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=3194|end_char=3197
+25	two	two	NUM	CD	NumForm=Word|NumType=Card	24	_	_	start_char=3198|end_char=3201
+26	countries	country	NOUN	NNS	Number=Plur	25	_	_	start_char=3202|end_char=3211
+27	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	_	_	start_char=3212|end_char=3216
+28	reached	reach	VERB	VBN	Tense=Past|VerbForm=Part	27	_	_	start_char=3217|end_char=3224
+29	unprecedented	unprecedented	ADJ	JJ	Degree=Pos	28	_	_	start_char=3225|end_char=3238
+30	levels	level	NOUN	NNS	Number=Plur	29	_	_	start_char=3239|end_char=3245
+31	in	in	ADP	IN	_	30	_	_	start_char=3246|end_char=3248
+32	the	the	DET	DT	Definite=Def|PronType=Art	31	_	_	start_char=3249|end_char=3252
+33	past	past	ADJ	JJ	Degree=Pos	32	_	_	start_char=3253|end_char=3257
+34	year	year	NOUN	NN	Number=Sing	33	_	_	start_char=3258|end_char=3262|SpaceAfter=No
+35	.	.	PUNCT	.	_	34	_	_	start_char=3262|end_char=3263
+
+# text = The minister&#39;s second warning - that China and Russia&#39;s close ties pose a threat to India - is another reason why India wants to maintain close ties with Russia.
+# sent_id = 29
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=3264|end_char=3267
+2	minister&	minister&	NOUN	NN	Number=Sing	1	_	_	start_char=3268|end_char=3277|SpaceAfter=No
+3	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	2	_	_	start_char=3277|end_char=3280|SpaceAfter=No
+4	;	;	PUNCT	:	_	3	_	_	start_char=3280|end_char=3281|SpaceAfter=No
+5	s	's	PART	POS	Typo=Yes	4	_	_	start_char=3281|end_char=3282
+6	second	second	ADJ	JJ	Degree=Pos|NumType=Ord	5	_	_	start_char=3283|end_char=3289
+7	warning	warning	NOUN	NN	Number=Sing	6	_	_	start_char=3290|end_char=3297
+8	-	-	PUNCT	,	_	7	_	_	start_char=3298|end_char=3299
+9	that	that	SCONJ	IN	_	8	_	_	start_char=3300|end_char=3304
+10	China	China	PROPN	NNP	Number=Sing	9	_	_	start_char=3305|end_char=3310
+11	and	and	CCONJ	CC	_	10	_	_	start_char=3311|end_char=3314
+12	Russia&	Russia&	PROPN	NNP	Number=Sing	11	_	_	start_char=3315|end_char=3322|SpaceAfter=No
+13	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	12	_	_	start_char=3322|end_char=3325|SpaceAfter=No
+14	;	;	PUNCT	:	_	13	_	_	start_char=3325|end_char=3326|SpaceAfter=No
+15	s	's	PART	POS	Typo=Yes	14	_	_	start_char=3326|end_char=3327
+16	close	close	ADJ	JJ	Degree=Pos	15	_	_	start_char=3328|end_char=3333
+17	ties	tie	NOUN	NNS	Number=Plur	16	_	_	start_char=3334|end_char=3338
+18	pose	pose	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=3339|end_char=3343
+19	a	a	DET	DT	Definite=Ind|PronType=Art	18	_	_	start_char=3344|end_char=3345
+20	threat	threat	NOUN	NN	Number=Sing	19	_	_	start_char=3346|end_char=3352
+21	to	to	ADP	IN	_	20	_	_	start_char=3353|end_char=3355
+22	India	India	PROPN	NNP	Number=Sing	21	_	_	start_char=3356|end_char=3361
+23	-	-	PUNCT	,	_	22	_	_	start_char=3362|end_char=3363
+24	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	_	_	start_char=3364|end_char=3366
+25	another	another	DET	DT	_	24	_	_	start_char=3367|end_char=3374
+26	reason	reason	NOUN	NN	Number=Sing	25	_	_	start_char=3375|end_char=3381
+27	why	why	ADV	WRB	PronType=Rel	26	_	_	start_char=3382|end_char=3385
+28	India	India	PROPN	NNP	Number=Sing	27	_	_	start_char=3386|end_char=3391
+29	wants	want	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	_	_	start_char=3392|end_char=3397
+30	to	to	PART	TO	_	29	_	_	start_char=3398|end_char=3400
+31	maintain	maintain	VERB	VB	VerbForm=Inf	30	_	_	start_char=3401|end_char=3409
+32	close	close	ADJ	JJ	Degree=Pos	31	_	_	start_char=3410|end_char=3415
+33	ties	tie	NOUN	NNS	Number=Plur	32	_	_	start_char=3416|end_char=3420
+34	with	with	ADP	IN	_	33	_	_	start_char=3421|end_char=3425
+35	Russia	Russia	PROPN	NNP	Number=Sing	34	_	_	start_char=3426|end_char=3432|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=3432|end_char=3433
+
+# text = But apart from that, will the Ukrainian foreign minister&#39;s visit achieve its other objective, mainly support for Ukraine&#39;s &#39;peace formula&#39;?
+# sent_id = 30
+1	But	but	CCONJ	CC	_	0	_	_	start_char=3434|end_char=3437
+2	apart	apart	ADV	RB	_	1	_	_	start_char=3438|end_char=3443
+3	from	from	ADP	IN	_	2	_	_	start_char=3444|end_char=3448
+4	that	that	PRON	DT	Number=Sing|PronType=Dem	3	_	_	start_char=3449|end_char=3453|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=3453|end_char=3454
+6	will	will	AUX	MD	VerbForm=Fin	5	_	_	start_char=3455|end_char=3459
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=3460|end_char=3463
+8	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	7	_	_	start_char=3464|end_char=3473
+9	foreign	foreign	ADJ	JJ	Degree=Pos	8	_	_	start_char=3474|end_char=3481
+10	minister&	minister&	NOUN	NN	Number=Sing	9	_	_	start_char=3482|end_char=3491|SpaceAfter=No
+11	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=3491|end_char=3494|SpaceAfter=No
+12	;	;	PUNCT	:	_	11	_	_	start_char=3494|end_char=3495|SpaceAfter=No
+13	s	's	PART	POS	Typo=Yes	12	_	_	start_char=3495|end_char=3496
+14	visit	visit	VERB	VB	VerbForm=Inf	13	_	_	start_char=3497|end_char=3502
+15	achieve	achieve	VERB	VB	VerbForm=Inf	14	_	_	start_char=3503|end_char=3510
+16	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	_	_	start_char=3511|end_char=3514
+17	other	other	ADJ	JJ	Degree=Pos	16	_	_	start_char=3515|end_char=3520
+18	objective	objective	NOUN	NN	Number=Sing	17	_	_	start_char=3521|end_char=3530|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=3530|end_char=3531
+20	mainly	mainly	ADV	RB	_	19	_	_	start_char=3532|end_char=3538
+21	support	support	NOUN	NN	Number=Sing	20	_	_	start_char=3539|end_char=3546
+22	for	for	ADP	IN	_	21	_	_	start_char=3547|end_char=3550
+23	Ukraine&	Ukraine&	PROPN	NNP	Number=Sing	22	_	_	start_char=3551|end_char=3559|SpaceAfter=No
+24	#	#	SYM	NN	Number=Sing	23	_	_	start_char=3559|end_char=3560|SpaceAfter=No
+25	39	39	NUM	CD	NumForm=Digit|NumType=Card	24	_	_	start_char=3560|end_char=3562|SpaceAfter=No
+26	;	;	PUNCT	:	_	25	_	_	start_char=3562|end_char=3563|SpaceAfter=No
+27	s	s	ADJ	AFX	Degree=Pos	26	_	_	start_char=3563|end_char=3564
+28	&	&	CCONJ	CC	_	27	_	_	start_char=3565|end_char=3566|SpaceAfter=No
+29	#	#	SYM	NN	Number=Sing	28	_	_	start_char=3566|end_char=3567|SpaceAfter=No
+30	39	39	NUM	CD	NumForm=Digit|NumType=Card	29	_	_	start_char=3567|end_char=3569|SpaceAfter=No
+31	;	;	PUNCT	:	_	30	_	_	start_char=3569|end_char=3570|SpaceAfter=No
+32	peace	peace	NOUN	NN	Number=Sing	31	_	_	start_char=3570|end_char=3575
+33	formula&	formula&	NOUN	NN	Number=Sing	32	_	_	start_char=3576|end_char=3584|SpaceAfter=No
+34	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	33	_	_	start_char=3584|end_char=3587|SpaceAfter=No
+35	;	;	PUNCT	:	_	34	_	_	start_char=3587|end_char=3588|SpaceAfter=No
+36	?	?	PUNCT	.	_	35	_	_	start_char=3588|end_char=3589
+
+# text = First, let&#39;s see what the peace formula is.
+# sent_id = 31
+1	First	first	ADV	RB	NumType=Ord	0	_	_	start_char=3590|end_char=3595|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=3595|end_char=3596
+3	let&	let&	PROPN	NNP	Number=Sing	2	_	_	start_char=3597|end_char=3601|SpaceAfter=No
+4	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	3	_	_	start_char=3601|end_char=3604|SpaceAfter=No
+5	;	;	PUNCT	:	_	4	_	_	start_char=3604|end_char=3605|SpaceAfter=No
+6	s	's	PART	POS	Typo=Yes	5	_	_	start_char=3605|end_char=3606
+7	see	see	VERB	VB	Mood=Imp|VerbForm=Fin	6	_	_	start_char=3607|end_char=3610
+8	what	what	PRON	WP	PronType=Rel	7	_	_	start_char=3611|end_char=3615
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=3616|end_char=3619
+10	peace	peace	NOUN	NN	Number=Sing	9	_	_	start_char=3620|end_char=3625
+11	formula	formula	NOUN	NN	Number=Sing	10	_	_	start_char=3626|end_char=3633
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=3634|end_char=3636|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=3636|end_char=3637
+
+# text = In October 2022, Ukrainian President Volodymyr Zelensky announced a &quot;peace formula&quot; for G7 leaders.
+# sent_id = 32
+1	In	in	ADP	IN	_	0	_	_	start_char=3638|end_char=3640
+2	October	October	PROPN	NNP	Number=Sing	1	_	_	start_char=3641|end_char=3648
+3	2022	2022	NUM	CD	NumForm=Digit|NumType=Card	2	_	_	start_char=3649|end_char=3653|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=3653|end_char=3654
+5	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	4	_	_	start_char=3655|end_char=3664
+6	President	President	PROPN	NNP	Number=Sing	5	_	_	start_char=3665|end_char=3674
+7	Volodymyr	Volodymyr	PROPN	NNP	Number=Sing	6	_	_	start_char=3675|end_char=3684
+8	Zelensky	Zelensky	PROPN	NNP	Number=Sing	7	_	_	start_char=3685|end_char=3693
+9	announced	announce	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=3694|end_char=3703
+10	a	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=3704|end_char=3705
+11	&quot	&quot	NOUN	NN	Number=Sing	10	_	_	start_char=3706|end_char=3711|SpaceAfter=No
+12	;	;	PUNCT	:	_	11	_	_	start_char=3711|end_char=3712|SpaceAfter=No
+13	peace	peace	NOUN	NN	Number=Sing	12	_	_	start_char=3712|end_char=3717
+14	formula&quot	formula&quot	NOUN	NN	Number=Sing	13	_	_	start_char=3718|end_char=3730|SpaceAfter=No
+15	;	;	PUNCT	:	_	14	_	_	start_char=3730|end_char=3731
+16	for	for	ADP	IN	_	15	_	_	start_char=3732|end_char=3735
+17	G7	G7	PROPN	NNP	Number=Sing	16	_	_	start_char=3736|end_char=3738
+18	leaders	leader	NOUN	NNS	Number=Plur	17	_	_	start_char=3739|end_char=3746|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=3746|end_char=3747
+
+# text = These are: Radiation and nuclear security (including Russia&#39;s withdrawal from the Zaporizhia nuclear power plant)
+# sent_id = 33
+1	These	this	PRON	DT	Number=Plur|PronType=Dem	0	_	_	start_char=3748|end_char=3753
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=3754|end_char=3757|SpaceAfter=No
+3	:	:	PUNCT	:	_	2	_	_	start_char=3757|end_char=3758
+4	Radiation	radiation	NOUN	NN	Number=Sing	3	_	_	start_char=3759|end_char=3768
+5	and	and	CCONJ	CC	_	4	_	_	start_char=3769|end_char=3772
+6	nuclear	nuclear	ADJ	JJ	Degree=Pos	5	_	_	start_char=3773|end_char=3780
+7	security	security	NOUN	NN	Number=Sing	6	_	_	start_char=3781|end_char=3789
+8	(	(	PUNCT	-LRB-	_	7	_	_	start_char=3790|end_char=3791|SpaceAfter=No
+9	including	include	VERB	VBG	VerbForm=Ger	8	_	_	start_char=3791|end_char=3800
+10	Russia&	Russia&	PROPN	NNP	Number=Sing	9	_	_	start_char=3801|end_char=3808|SpaceAfter=No
+11	#	#	SYM	NN	Number=Sing	10	_	_	start_char=3808|end_char=3809|SpaceAfter=No
+12	39	39	NUM	CD	NumForm=Digit|NumType=Card	11	_	_	start_char=3809|end_char=3811|SpaceAfter=No
+13	;	;	PUNCT	:	_	12	_	_	start_char=3811|end_char=3812|SpaceAfter=No
+14	s	's	PART	POS	Typo=Yes	13	_	_	start_char=3812|end_char=3813
+15	withdrawal	withdrawal	NOUN	NN	Number=Sing	14	_	_	start_char=3814|end_char=3824
+16	from	from	ADP	IN	_	15	_	_	start_char=3825|end_char=3829
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=3830|end_char=3833
+18	Zaporizhia	Zaporizhia	PROPN	NNP	Number=Sing	17	_	_	start_char=3834|end_char=3844
+19	nuclear	nuclear	ADJ	JJ	Degree=Pos	18	_	_	start_char=3845|end_char=3852
+20	power	power	NOUN	NN	Number=Sing	19	_	_	start_char=3853|end_char=3858
+21	plant	plant	NOUN	NN	Number=Sing	20	_	_	start_char=3859|end_char=3864|SpaceAfter=No
+22	)	)	PUNCT	-RRB-	_	21	_	_	start_char=3864|end_char=3865
+
+# text = Food security Energy security, release of prisoners and exiles Restoration of Ukraine’s territorial integrity and 1991 borders Cessation of hostilities and withdrawal of Russian troops from Ukrainian territory Trial and justice for war crimes Protection of the environment Prevention of escalation of conflict Confirmation of the end of hostilities Food security and release of prisoners and exiles seemed to be well agreed upon, but the biggest hurdle in this proposal is the restoration of Ukraine’s territorial integrity.
+# sent_id = 34
+1	Food	food	NOUN	NN	Number=Sing	0	_	_	start_char=3866|end_char=3870
+2	security	security	NOUN	NN	Number=Sing	1	_	_	start_char=3871|end_char=3879
+3	Energy	energy	NOUN	NN	Number=Sing	2	_	_	start_char=3880|end_char=3886
+4	security	security	NOUN	NN	Number=Sing	3	_	_	start_char=3887|end_char=3895|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=3895|end_char=3896
+6	release	release	NOUN	NN	Number=Sing	5	_	_	start_char=3897|end_char=3904
+7	of	of	ADP	IN	_	6	_	_	start_char=3905|end_char=3907
+8	prisoners	prisoner	NOUN	NNS	Number=Plur	7	_	_	start_char=3908|end_char=3917
+9	and	and	CCONJ	CC	_	8	_	_	start_char=3918|end_char=3921
+10	exiles	exile	NOUN	NNS	Number=Plur	9	_	_	start_char=3922|end_char=3928
+11	Restoration	restoration	PROPN	NNP	Number=Sing	10	_	_	start_char=3929|end_char=3940
+12	of	of	ADP	IN	_	11	_	_	start_char=3941|end_char=3943
+13-14	Ukraine’s	_	_	_	_	_	_	_	start_char=3944|end_char=3953
+13	Ukraine	Ukraine	PROPN	NNP	Number=Sing	12	_	_	start_char=3944|end_char=3951
+14	’s	's	PART	POS	_	13	_	_	start_char=3951|end_char=3953
+15	territorial	territorial	ADJ	JJ	Degree=Pos	14	_	_	start_char=3954|end_char=3965
+16	integrity	integrity	NOUN	NN	Number=Sing	15	_	_	start_char=3966|end_char=3975
+17	and	and	CCONJ	CC	_	16	_	_	start_char=3976|end_char=3979
+18	1991	1991	NUM	CD	NumForm=Digit|NumType=Card	17	_	_	start_char=3980|end_char=3984
+19	borders	border	NOUN	NNS	Number=Plur	18	_	_	start_char=3985|end_char=3992
+20	Cessation	cessation	NOUN	NN	Number=Sing	19	_	_	start_char=3993|end_char=4002
+21	of	of	ADP	IN	_	20	_	_	start_char=4003|end_char=4005
+22	hostilities	hostility	NOUN	NNS	Number=Plur	21	_	_	start_char=4006|end_char=4017
+23	and	and	CCONJ	CC	_	22	_	_	start_char=4018|end_char=4021
+24	withdrawal	withdrawal	NOUN	NN	Number=Sing	23	_	_	start_char=4022|end_char=4032
+25	of	of	ADP	IN	_	24	_	_	start_char=4033|end_char=4035
+26	Russian	Russian	ADJ	JJ	Degree=Pos	25	_	_	start_char=4036|end_char=4043
+27	troops	troops	NOUN	NNS	Number=Plur	26	_	_	start_char=4044|end_char=4050
+28	from	from	ADP	IN	_	27	_	_	start_char=4051|end_char=4055
+29	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	28	_	_	start_char=4056|end_char=4065
+30	territory	territory	NOUN	NN	Number=Sing	29	_	_	start_char=4066|end_char=4075
+31	Trial	Trial	PROPN	NNP	Number=Sing	30	_	_	start_char=4076|end_char=4081
+32	and	and	CCONJ	CC	_	31	_	_	start_char=4082|end_char=4085
+33	justice	justice	NOUN	NN	Number=Sing	32	_	_	start_char=4086|end_char=4093
+34	for	for	ADP	IN	_	33	_	_	start_char=4094|end_char=4097
+35	war	war	NOUN	NN	Number=Sing	34	_	_	start_char=4098|end_char=4101
+36	crimes	crime	NOUN	NNS	Number=Plur	35	_	_	start_char=4102|end_char=4108
+37	Protection	protection	NOUN	NN	Number=Sing	36	_	_	start_char=4109|end_char=4119
+38	of	of	ADP	IN	_	37	_	_	start_char=4120|end_char=4122
+39	the	the	DET	DT	Definite=Def|PronType=Art	38	_	_	start_char=4123|end_char=4126
+40	environment	environment	NOUN	NN	Number=Sing	39	_	_	start_char=4127|end_char=4138
+41	Prevention	prevention	NOUN	NN	Number=Sing	40	_	_	start_char=4139|end_char=4149
+42	of	of	ADP	IN	_	41	_	_	start_char=4150|end_char=4152
+43	escalation	escalation	NOUN	NN	Number=Sing	42	_	_	start_char=4153|end_char=4163
+44	of	of	ADP	IN	_	43	_	_	start_char=4164|end_char=4166
+45	conflict	conflict	NOUN	NN	Number=Sing	44	_	_	start_char=4167|end_char=4175
+46	Confirmation	confirmation	NOUN	NN	Number=Sing	45	_	_	start_char=4176|end_char=4188
+47	of	of	ADP	IN	_	46	_	_	start_char=4189|end_char=4191
+48	the	the	DET	DT	Definite=Def|PronType=Art	47	_	_	start_char=4192|end_char=4195
+49	end	end	NOUN	NN	Number=Sing	48	_	_	start_char=4196|end_char=4199
+50	of	of	ADP	IN	_	49	_	_	start_char=4200|end_char=4202
+51	hostilities	hostility	NOUN	NNS	Number=Plur	50	_	_	start_char=4203|end_char=4214
+52	Food	food	NOUN	NN	Number=Sing	51	_	_	start_char=4215|end_char=4219
+53	security	security	NOUN	NN	Number=Sing	52	_	_	start_char=4220|end_char=4228
+54	and	and	CCONJ	CC	_	53	_	_	start_char=4229|end_char=4232
+55	release	release	NOUN	NN	Number=Sing	54	_	_	start_char=4233|end_char=4240
+56	of	of	ADP	IN	_	55	_	_	start_char=4241|end_char=4243
+57	prisoners	prisoner	NOUN	NNS	Number=Plur	56	_	_	start_char=4244|end_char=4253
+58	and	and	CCONJ	CC	_	57	_	_	start_char=4254|end_char=4257
+59	exiles	exile	NOUN	NNS	Number=Plur	58	_	_	start_char=4258|end_char=4264
+60	seemed	seem	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	59	_	_	start_char=4265|end_char=4271
+61	to	to	PART	TO	_	60	_	_	start_char=4272|end_char=4274
+62	be	be	AUX	VB	VerbForm=Inf	61	_	_	start_char=4275|end_char=4277
+63	well	well	ADV	RB	Degree=Pos	62	_	_	start_char=4278|end_char=4282
+64	agreed	agree	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	63	_	_	start_char=4283|end_char=4289
+65	upon	upon	ADP	IN	_	64	_	_	start_char=4290|end_char=4294|SpaceAfter=No
+66	,	,	PUNCT	,	_	65	_	_	start_char=4294|end_char=4295
+67	but	but	CCONJ	CC	_	66	_	_	start_char=4296|end_char=4299
+68	the	the	DET	DT	Definite=Def|PronType=Art	67	_	_	start_char=4300|end_char=4303
+69	biggest	big	ADJ	JJS	Degree=Sup	68	_	_	start_char=4304|end_char=4311
+70	hurdle	hurdle	NOUN	NN	Number=Sing	69	_	_	start_char=4312|end_char=4318
+71	in	in	ADP	IN	_	70	_	_	start_char=4319|end_char=4321
+72	this	this	DET	DT	Number=Sing|PronType=Dem	71	_	_	start_char=4322|end_char=4326
+73	proposal	proposal	NOUN	NN	Number=Sing	72	_	_	start_char=4327|end_char=4335
+74	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	73	_	_	start_char=4336|end_char=4338
+75	the	the	DET	DT	Definite=Def|PronType=Art	74	_	_	start_char=4339|end_char=4342
+76	restoration	restoration	NOUN	NN	Number=Sing	75	_	_	start_char=4343|end_char=4354
+77	of	of	ADP	IN	_	76	_	_	start_char=4355|end_char=4357
+78-79	Ukraine’s	_	_	_	_	_	_	_	start_char=4358|end_char=4367
+78	Ukraine	Ukraine	PROPN	NNP	Number=Sing	77	_	_	start_char=4358|end_char=4365
+79	’s	's	PART	POS	_	78	_	_	start_char=4365|end_char=4367
+80	territorial	territorial	ADJ	JJ	Degree=Pos	79	_	_	start_char=4368|end_char=4379
+81	integrity	integrity	NOUN	NN	Number=Sing	80	_	_	start_char=4380|end_char=4389|SpaceAfter=No
+82	.	.	PUNCT	.	_	81	_	_	start_char=4389|end_char=4390
+
+# text = While it is possible to hope for the return of land occupied by Russian forces after February 2022, it is difficult to imagine Russia handing Crimea back to Ukraine.
+# sent_id = 35
+1	While	while	SCONJ	IN	_	0	_	_	start_char=4391|end_char=4396
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	_	_	start_char=4397|end_char=4399
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=4400|end_char=4402
+4	possible	possible	ADJ	JJ	Degree=Pos	3	_	_	start_char=4403|end_char=4411
+5	to	to	PART	TO	_	4	_	_	start_char=4412|end_char=4414
+6	hope	hope	VERB	VB	VerbForm=Inf	5	_	_	start_char=4415|end_char=4419
+7	for	for	ADP	IN	_	6	_	_	start_char=4420|end_char=4423
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=4424|end_char=4427
+9	return	return	NOUN	NN	Number=Sing	8	_	_	start_char=4428|end_char=4434
+10	of	of	ADP	IN	_	9	_	_	start_char=4435|end_char=4437
+11	land	land	NOUN	NN	Number=Sing	10	_	_	start_char=4438|end_char=4442
+12	occupied	occupy	VERB	VBN	Tense=Past|VerbForm=Part	11	_	_	start_char=4443|end_char=4451
+13	by	by	ADP	IN	_	12	_	_	start_char=4452|end_char=4454
+14	Russian	Russian	ADJ	JJ	Degree=Pos	13	_	_	start_char=4455|end_char=4462
+15	forces	force	NOUN	NNS	Number=Plur	14	_	_	start_char=4463|end_char=4469
+16	after	after	ADP	IN	_	15	_	_	start_char=4470|end_char=4475
+17	February	February	PROPN	NNP	Number=Sing	16	_	_	start_char=4476|end_char=4484
+18	2022	2022	NUM	CD	NumForm=Digit|NumType=Card	17	_	_	start_char=4485|end_char=4489|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=4489|end_char=4490
+20	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	19	_	_	start_char=4491|end_char=4493
+21	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	_	_	start_char=4494|end_char=4496
+22	difficult	difficult	ADJ	JJ	Degree=Pos	21	_	_	start_char=4497|end_char=4506
+23	to	to	PART	TO	_	22	_	_	start_char=4507|end_char=4509
+24	imagine	imagine	VERB	VB	VerbForm=Inf	23	_	_	start_char=4510|end_char=4517
+25	Russia	Russia	PROPN	NNP	Number=Sing	24	_	_	start_char=4518|end_char=4524
+26	handing	hand	VERB	VBG	VerbForm=Ger	25	_	_	start_char=4525|end_char=4532
+27	Crimea	Crimea	PROPN	NNP	Number=Sing	26	_	_	start_char=4533|end_char=4539
+28	back	back	ADV	RB	_	27	_	_	start_char=4540|end_char=4544
+29	to	to	ADP	IN	_	28	_	_	start_char=4545|end_char=4547
+30	Ukraine	Ukraine	PROPN	NNP	Number=Sing	29	_	_	start_char=4548|end_char=4555|SpaceAfter=No
+31	.	.	PUNCT	.	_	30	_	_	start_char=4555|end_char=4556
+
+# text = Crimea seems to have integrated with Russia seamlessly over the past decade.
+# sent_id = 36
+1	Crimea	Crimea	PROPN	NNP	Number=Sing	0	_	_	start_char=4557|end_char=4563
+2	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=4564|end_char=4569
+3	to	to	PART	TO	_	2	_	_	start_char=4570|end_char=4572
+4	have	have	AUX	VB	VerbForm=Inf	3	_	_	start_char=4573|end_char=4577
+5	integrated	integrate	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=4578|end_char=4588
+6	with	with	ADP	IN	_	5	_	_	start_char=4589|end_char=4593
+7	Russia	Russia	PROPN	NNP	Number=Sing	6	_	_	start_char=4594|end_char=4600
+8	seamlessly	seamlessly	ADV	RB	_	7	_	_	start_char=4601|end_char=4611
+9	over	over	ADP	IN	_	8	_	_	start_char=4612|end_char=4616
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=4617|end_char=4620
+11	past	past	ADJ	JJ	Degree=Pos	10	_	_	start_char=4621|end_char=4625
+12	decade	decade	NOUN	NN	Number=Sing	11	_	_	start_char=4626|end_char=4632|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=4632|end_char=4633
+
+# text = Russia annexed it to its territory in 2014.
+# sent_id = 37
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=4634|end_char=4640
+2	annexed	annex	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=4641|end_char=4648
+3	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	_	_	start_char=4649|end_char=4651
+4	to	to	ADP	IN	_	3	_	_	start_char=4652|end_char=4654
+5	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	_	_	start_char=4655|end_char=4658
+6	territory	territory	NOUN	NN	Number=Sing	5	_	_	start_char=4659|end_char=4668
+7	in	in	ADP	IN	_	6	_	_	start_char=4669|end_char=4671
+8	2014	2014	NUM	CD	NumForm=Digit|NumType=Card	7	_	_	start_char=4672|end_char=4676|SpaceAfter=No
+9	.	.	PUNCT	.	_	8	_	_	start_char=4676|end_char=4677
+
+# text = Moreover, given Russia’s military edge in the conflict and the rapid weakening of Ukraine, which is completely dependent on foreign arms, it is difficult to imagine the return of the Donbass region to Ukraine.
+# sent_id = 38
+1	Moreover	moreover	ADV	RB	_	0	_	_	start_char=4678|end_char=4686|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=4686|end_char=4687
+3	given	give	VERB	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=4688|end_char=4693
+4-5	Russia’s	_	_	_	_	_	_	_	start_char=4694|end_char=4702
+4	Russia	Russia	PROPN	NNP	Number=Sing	3	_	_	start_char=4694|end_char=4700
+5	’s	's	PART	POS	_	4	_	_	start_char=4700|end_char=4702
+6	military	military	ADJ	JJ	Degree=Pos	5	_	_	start_char=4703|end_char=4711
+7	edge	edge	NOUN	NN	Number=Sing	6	_	_	start_char=4712|end_char=4716
+8	in	in	ADP	IN	_	7	_	_	start_char=4717|end_char=4719
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=4720|end_char=4723
+10	conflict	conflict	NOUN	NN	Number=Sing	9	_	_	start_char=4724|end_char=4732
+11	and	and	CCONJ	CC	_	10	_	_	start_char=4733|end_char=4736
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=4737|end_char=4740
+13	rapid	rapid	ADJ	JJ	Degree=Pos	12	_	_	start_char=4741|end_char=4746
+14	weakening	weaken	NOUN	NN	Number=Sing	13	_	_	start_char=4747|end_char=4756
+15	of	of	ADP	IN	_	14	_	_	start_char=4757|end_char=4759
+16	Ukraine	Ukraine	PROPN	NNP	Number=Sing	15	_	_	start_char=4760|end_char=4767|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=4767|end_char=4768
+18	which	which	PRON	WDT	PronType=Rel	17	_	_	start_char=4769|end_char=4774
+19	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=4775|end_char=4777
+20	completely	completely	ADV	RB	_	19	_	_	start_char=4778|end_char=4788
+21	dependent	dependent	ADJ	JJ	Degree=Pos	20	_	_	start_char=4789|end_char=4798
+22	on	on	ADP	IN	_	21	_	_	start_char=4799|end_char=4801
+23	foreign	foreign	ADJ	JJ	Degree=Pos	22	_	_	start_char=4802|end_char=4809
+24	arms	arm	NOUN	NNS	Number=Plur	23	_	_	start_char=4810|end_char=4814|SpaceAfter=No
+25	,	,	PUNCT	,	_	24	_	_	start_char=4814|end_char=4815
+26	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	25	_	_	start_char=4816|end_char=4818
+27	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	_	_	start_char=4819|end_char=4821
+28	difficult	difficult	ADJ	JJ	Degree=Pos	27	_	_	start_char=4822|end_char=4831
+29	to	to	PART	TO	_	28	_	_	start_char=4832|end_char=4834
+30	imagine	imagine	VERB	VB	VerbForm=Inf	29	_	_	start_char=4835|end_char=4842
+31	the	the	DET	DT	Definite=Def|PronType=Art	30	_	_	start_char=4843|end_char=4846
+32	return	return	NOUN	NN	Number=Sing	31	_	_	start_char=4847|end_char=4853
+33	of	of	ADP	IN	_	32	_	_	start_char=4854|end_char=4856
+34	the	the	DET	DT	Definite=Def|PronType=Art	33	_	_	start_char=4857|end_char=4860
+35	Donbass	Donbass	PROPN	NNP	Number=Sing	34	_	_	start_char=4861|end_char=4868
+36	region	region	NOUN	NN	Number=Sing	35	_	_	start_char=4869|end_char=4875
+37	to	to	ADP	IN	_	36	_	_	start_char=4876|end_char=4878
+38	Ukraine	Ukraine	PROPN	NNP	Number=Sing	37	_	_	start_char=4879|end_char=4886|SpaceAfter=No
+39	.	.	PUNCT	.	_	38	_	_	start_char=4886|end_char=4887
+
+# text = Provisions such as cessation of hostilities and non-escalation of the conflict would require equal Russian participation in the talks, although Russia has not yet been invited to the upcoming peace conference.
+# sent_id = 39
+1	Provisions	provision	NOUN	NNS	Number=Plur	0	_	_	start_char=4888|end_char=4898
+2	such	such	ADJ	JJ	Degree=Pos	1	_	_	start_char=4899|end_char=4903
+3	as	as	ADP	IN	_	2	_	_	start_char=4904|end_char=4906
+4	cessation	cessation	NOUN	NN	Number=Sing	3	_	_	start_char=4907|end_char=4916
+5	of	of	ADP	IN	_	4	_	_	start_char=4917|end_char=4919
+6	hostilities	hostility	NOUN	NNS	Number=Plur	5	_	_	start_char=4920|end_char=4931
+7	and	and	CCONJ	CC	_	6	_	_	start_char=4932|end_char=4935
+8	non-escalation	non-escalation	NOUN	NN	Number=Sing	7	_	_	start_char=4936|end_char=4950
+9	of	of	ADP	IN	_	8	_	_	start_char=4951|end_char=4953
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=4954|end_char=4957
+11	conflict	conflict	NOUN	NN	Number=Sing	10	_	_	start_char=4958|end_char=4966
+12	would	would	AUX	MD	VerbForm=Fin	11	_	_	start_char=4967|end_char=4972
+13	require	require	VERB	VB	VerbForm=Inf	12	_	_	start_char=4973|end_char=4980
+14	equal	equal	ADJ	JJ	Degree=Pos	13	_	_	start_char=4981|end_char=4986
+15	Russian	Russian	ADJ	JJ	Degree=Pos	14	_	_	start_char=4987|end_char=4994
+16	participation	participation	NOUN	NN	Number=Sing	15	_	_	start_char=4995|end_char=5008
+17	in	in	ADP	IN	_	16	_	_	start_char=5009|end_char=5011
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=5012|end_char=5015
+19	talks	talk	NOUN	NNS	Number=Plur	18	_	_	start_char=5016|end_char=5021|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=5021|end_char=5022
+21	although	although	SCONJ	IN	_	20	_	_	start_char=5023|end_char=5031
+22	Russia	Russia	PROPN	NNP	Number=Sing	21	_	_	start_char=5032|end_char=5038
+23	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	_	_	start_char=5039|end_char=5042
+24	not	not	PART	RB	_	23	_	_	start_char=5043|end_char=5046
+25	yet	yet	ADV	RB	_	24	_	_	start_char=5047|end_char=5050
+26	been	be	AUX	VBN	Tense=Past|VerbForm=Part	25	_	_	start_char=5051|end_char=5055
+27	invited	invite	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	26	_	_	start_char=5056|end_char=5063
+28	to	to	ADP	IN	_	27	_	_	start_char=5064|end_char=5066
+29	the	the	DET	DT	Definite=Def|PronType=Art	28	_	_	start_char=5067|end_char=5070
+30	upcoming	upcoming	ADJ	JJ	Degree=Pos	29	_	_	start_char=5071|end_char=5079
+31	peace	peace	NOUN	NN	Number=Sing	30	_	_	start_char=5080|end_char=5085
+32	conference	conference	NOUN	NN	Number=Sing	31	_	_	start_char=5086|end_char=5096|SpaceAfter=No
+33	.	.	PUNCT	.	_	32	_	_	start_char=5096|end_char=5097
+
+# text = How is a Ukrainian decree complicating matters?
+# sent_id = 40
+1	How	how	ADV	WRB	PronType=Int	0	_	_	start_char=5098|end_char=5101
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=5102|end_char=5104
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=5105|end_char=5106
+4	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	3	_	_	start_char=5107|end_char=5116
+5	decree	decree	NOUN	NN	Number=Sing	4	_	_	start_char=5117|end_char=5123
+6	complicating	complicate	VERB	VBG	VerbForm=Ger	5	_	_	start_char=5124|end_char=5136
+7	matters	matter	NOUN	NNS	Number=Plur	6	_	_	start_char=5137|end_char=5144|SpaceAfter=No
+8	?	?	PUNCT	.	_	7	_	_	start_char=5144|end_char=5145
+
+# text = In an interview with Russian media outlet Izvestia on March 28 – the day Kuleba landed in Delhi – Russian Foreign Minister Sergei Lavrov called the peace formula “diplomatically insane”.
+# sent_id = 41
+1	In	in	ADP	IN	_	0	_	_	start_char=5146|end_char=5148
+2	an	a	DET	DT	Definite=Ind|PronType=Art	1	_	_	start_char=5149|end_char=5151
+3	interview	interview	NOUN	NN	Number=Sing	2	_	_	start_char=5152|end_char=5161
+4	with	with	ADP	IN	_	3	_	_	start_char=5162|end_char=5166
+5	Russian	Russian	ADJ	JJ	Degree=Pos	4	_	_	start_char=5167|end_char=5174
+6	media	media	NOUN	NN	Number=Sing	5	_	_	start_char=5175|end_char=5180
+7	outlet	outlet	NOUN	NN	Number=Sing	6	_	_	start_char=5181|end_char=5187
+8	Izvestia	Izvestia	PROPN	NNP	Number=Sing	7	_	_	start_char=5188|end_char=5196
+9	on	on	ADP	IN	_	8	_	_	start_char=5197|end_char=5199
+10	March	March	PROPN	NNP	Number=Sing	9	_	_	start_char=5200|end_char=5205
+11	28	28	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=5206|end_char=5208
+12	–	-	PUNCT	:	_	11	_	_	start_char=5209|end_char=5210
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=5211|end_char=5214
+14	day	day	NOUN	NN	Number=Sing	13	_	_	start_char=5215|end_char=5218
+15	Kuleba	Kuleba	PROPN	NNP	Number=Sing	14	_	_	start_char=5219|end_char=5225
+16	landed	land	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	_	_	start_char=5226|end_char=5232
+17	in	in	ADP	IN	_	16	_	_	start_char=5233|end_char=5235
+18	Delhi	Delhi	PROPN	NNP	Number=Sing	17	_	_	start_char=5236|end_char=5241
+19	–	-	PUNCT	:	_	18	_	_	start_char=5242|end_char=5243
+20	Russian	Russian	ADJ	JJ	Degree=Pos	19	_	_	start_char=5244|end_char=5251
+21	Foreign	foreign	ADJ	NNP	Degree=Pos	20	_	_	start_char=5252|end_char=5259
+22	Minister	Minister	PROPN	NNP	Number=Sing	21	_	_	start_char=5260|end_char=5268
+23	Sergei	Sergei	PROPN	NNP	Number=Sing	22	_	_	start_char=5269|end_char=5275
+24	Lavrov	Lavrov	PROPN	NNP	Number=Sing	23	_	_	start_char=5276|end_char=5282
+25	called	call	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	_	_	start_char=5283|end_char=5289
+26	the	the	DET	DT	Definite=Def|PronType=Art	25	_	_	start_char=5290|end_char=5293
+27	peace	peace	NOUN	NN	Number=Sing	26	_	_	start_char=5294|end_char=5299
+28	formula	formula	NOUN	NN	Number=Sing	27	_	_	start_char=5300|end_char=5307
+29	“	''	PUNCT	``	_	28	_	_	start_char=5308|end_char=5309|SpaceAfter=No
+30	diplomatically	diplomatically	ADV	RB	_	29	_	_	start_char=5309|end_char=5323
+31	insane	insane	ADJ	JJ	Degree=Pos	30	_	_	start_char=5324|end_char=5330|SpaceAfter=No
+32	”	''	PUNCT	''	_	31	_	_	start_char=5330|end_char=5331|SpaceAfter=No
+33	.	.	PUNCT	.	_	32	_	_	start_char=5331|end_char=5332
+
+# text = What complicates such peace plans is a Ukrainian decree itself issued in October 2022 – which bans any dialogue with Russia under the leadership of Vladimir Putin.
+# sent_id = 42
+1	What	what	PRON	WP	PronType=Rel	0	_	_	start_char=5333|end_char=5337
+2	complicates	complicate	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=5338|end_char=5349
+3	such	such	ADJ	JJ	Degree=Pos	2	_	_	start_char=5350|end_char=5354
+4	peace	peace	NOUN	NN	Number=Sing	3	_	_	start_char=5355|end_char=5360
+5	plans	plan	NOUN	NNS	Number=Plur	4	_	_	start_char=5361|end_char=5366
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=5367|end_char=5369
+7	a	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=5370|end_char=5371
+8	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	7	_	_	start_char=5372|end_char=5381
+9	decree	decree	NOUN	NN	Number=Sing	8	_	_	start_char=5382|end_char=5388
+10	itself	itself	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Emp|Reflex=Yes	9	_	_	start_char=5389|end_char=5395
+11	issued	issue	VERB	VBN	Tense=Past|VerbForm=Part	10	_	_	start_char=5396|end_char=5402
+12	in	in	ADP	IN	_	11	_	_	start_char=5403|end_char=5405
+13	October	October	PROPN	NNP	Number=Sing	12	_	_	start_char=5406|end_char=5413
+14	2022	2022	NUM	CD	NumForm=Digit|NumType=Card	13	_	_	start_char=5414|end_char=5418
+15	–	-	PUNCT	:	_	14	_	_	start_char=5419|end_char=5420
+16	which	which	PRON	WDT	PronType=Rel	15	_	_	start_char=5421|end_char=5426
+17	bans	ban	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=5427|end_char=5431
+18	any	any	DET	DT	_	17	_	_	start_char=5432|end_char=5435
+19	dialogue	dialogue	NOUN	NN	Number=Sing	18	_	_	start_char=5436|end_char=5444
+20	with	with	ADP	IN	_	19	_	_	start_char=5445|end_char=5449
+21	Russia	Russia	PROPN	NNP	Number=Sing	20	_	_	start_char=5450|end_char=5456
+22	under	under	ADP	IN	_	21	_	_	start_char=5457|end_char=5462
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=5463|end_char=5466
+24	leadership	leadership	NOUN	NN	Number=Sing	23	_	_	start_char=5467|end_char=5477
+25	of	of	ADP	IN	_	24	_	_	start_char=5478|end_char=5480
+26	Vladimir	Vladimir	PROPN	NNP	Number=Sing	25	_	_	start_char=5481|end_char=5489
+27	Putin	Putin	PROPN	NNP	Number=Sing	26	_	_	start_char=5490|end_char=5495|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=5495|end_char=5496
+
+# text = Given Putin’s landslide victory in the recent Russian presidential elections and his re-election, this decree has become a roadblock to the start of ‘peace talks’ between the two countries.
+# sent_id = 43
+1	Given	give	VERB	VBN	Tense=Past|VerbForm=Part	0	_	_	start_char=5497|end_char=5502
+2-3	Putin’s	_	_	_	_	_	_	_	start_char=5503|end_char=5510
+2	Putin	Putin	PROPN	NNP	Number=Sing	1	_	_	start_char=5503|end_char=5508
+3	’s	's	PART	POS	_	2	_	_	start_char=5508|end_char=5510
+4	landslide	landslide	NOUN	NN	Number=Sing	3	_	_	start_char=5511|end_char=5520
+5	victory	victory	NOUN	NN	Number=Sing	4	_	_	start_char=5521|end_char=5528
+6	in	in	ADP	IN	_	5	_	_	start_char=5529|end_char=5531
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=5532|end_char=5535
+8	recent	recent	ADJ	JJ	Degree=Pos	7	_	_	start_char=5536|end_char=5542
+9	Russian	Russian	ADJ	JJ	Degree=Pos	8	_	_	start_char=5543|end_char=5550
+10	presidential	presidential	ADJ	JJ	Degree=Pos	9	_	_	start_char=5551|end_char=5563
+11	elections	election	NOUN	NNS	Number=Plur	10	_	_	start_char=5564|end_char=5573
+12	and	and	CCONJ	CC	_	11	_	_	start_char=5574|end_char=5577
+13	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	_	_	start_char=5578|end_char=5581
+14	re-election	re-election	NOUN	NN	Number=Sing	13	_	_	start_char=5582|end_char=5593|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=5593|end_char=5594
+16	this	this	DET	DT	Number=Sing|PronType=Dem	15	_	_	start_char=5595|end_char=5599
+17	decree	decree	NOUN	NN	Number=Sing	16	_	_	start_char=5600|end_char=5606
+18	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=5607|end_char=5610
+19	become	become	VERB	VBN	Tense=Past|VerbForm=Part	18	_	_	start_char=5611|end_char=5617
+20	a	a	DET	DT	Definite=Ind|PronType=Art	19	_	_	start_char=5618|end_char=5619
+21	roadblock	roadblock	NOUN	NN	Number=Sing	20	_	_	start_char=5620|end_char=5629
+22	to	to	ADP	IN	_	21	_	_	start_char=5630|end_char=5632
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=5633|end_char=5636
+24	start	start	NOUN	NN	Number=Sing	23	_	_	start_char=5637|end_char=5642
+25	of	of	ADP	IN	_	24	_	_	start_char=5643|end_char=5645
+26	‘	'	PUNCT	``	_	25	_	_	start_char=5646|end_char=5647|SpaceAfter=No
+27	peace	peace	NOUN	NN	Number=Sing	26	_	_	start_char=5647|end_char=5652
+28	talks’	talks’	NOUN	NN	Number=Sing	27	_	_	start_char=5653|end_char=5659
+29	between	between	ADP	IN	_	28	_	_	start_char=5660|end_char=5667
+30	the	the	DET	DT	Definite=Def|PronType=Art	29	_	_	start_char=5668|end_char=5671
+31	two	two	NUM	CD	NumForm=Word|NumType=Card	30	_	_	start_char=5672|end_char=5675
+32	countries	country	NOUN	NNS	Number=Plur	31	_	_	start_char=5676|end_char=5685|SpaceAfter=No
+33	.	.	PUNCT	.	_	32	_	_	start_char=5685|end_char=5686
+
+# text = In the same interview, Lavrov said, &quot;I will say a few words on Zelensky&#39;s executive order on banning dialogue with Vladimir Putin&#39;s government.
+# sent_id = 44
+1	In	in	ADP	IN	_	0	_	_	start_char=5687|end_char=5689
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=5690|end_char=5693
+3	same	same	ADJ	JJ	Degree=Pos	2	_	_	start_char=5694|end_char=5698
+4	interview	interview	NOUN	NN	Number=Sing	3	_	_	start_char=5699|end_char=5708|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=5708|end_char=5709
+6	Lavrov	Lavrov	PROPN	NNP	Number=Sing	5	_	_	start_char=5710|end_char=5716
+7	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=5717|end_char=5721|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=5721|end_char=5722
+9	&quot	&quot	INTJ	UH	_	8	_	_	start_char=5723|end_char=5728|SpaceAfter=No
+10	;	;	PUNCT	:	_	9	_	_	start_char=5728|end_char=5729|SpaceAfter=No
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	_	_	start_char=5729|end_char=5730
+12	will	will	AUX	MD	VerbForm=Fin	11	_	_	start_char=5731|end_char=5735
+13	say	say	VERB	VB	VerbForm=Inf	12	_	_	start_char=5736|end_char=5739
+14	a	a	DET	DT	Definite=Ind|PronType=Art	13	_	_	start_char=5740|end_char=5741
+15	few	few	ADJ	JJ	Degree=Pos	14	_	_	start_char=5742|end_char=5745
+16	words	word	NOUN	NNS	Number=Plur	15	_	_	start_char=5746|end_char=5751
+17	on	on	ADP	IN	_	16	_	_	start_char=5752|end_char=5754
+18	Zelensky&	Zelensky&	PROPN	NNP	Number=Sing	17	_	_	start_char=5755|end_char=5764|SpaceAfter=No
+19	#	#	SYM	NN	Number=Sing	18	_	_	start_char=5764|end_char=5765|SpaceAfter=No
+20	39	39	NUM	CD	NumForm=Digit|NumType=Card	19	_	_	start_char=5765|end_char=5767|SpaceAfter=No
+21	;	;	PUNCT	:	_	20	_	_	start_char=5767|end_char=5768|SpaceAfter=No
+22	s	's	PART	POS	Typo=Yes	21	_	_	start_char=5768|end_char=5769
+23	executive	executive	ADJ	JJ	Degree=Pos	22	_	_	start_char=5770|end_char=5779
+24	order	order	NOUN	NN	Number=Sing	23	_	_	start_char=5780|end_char=5785
+25	on	on	SCONJ	IN	_	24	_	_	start_char=5786|end_char=5788
+26	banning	ban	VERB	VBG	VerbForm=Ger	25	_	_	start_char=5789|end_char=5796
+27	dialogue	dialogue	NOUN	NN	Number=Sing	26	_	_	start_char=5797|end_char=5805
+28	with	with	ADP	IN	_	27	_	_	start_char=5806|end_char=5810
+29	Vladimir	Vladimir	PROPN	NNP	Number=Sing	28	_	_	start_char=5811|end_char=5819
+30	Putin&	Putin&	PROPN	NNP	Number=Sing	29	_	_	start_char=5820|end_char=5826|SpaceAfter=No
+31	#	#	SYM	NN	Number=Sing	30	_	_	start_char=5826|end_char=5827|SpaceAfter=No
+32	39	39	NUM	CD	NumForm=Digit|NumType=Card	31	_	_	start_char=5827|end_char=5829|SpaceAfter=No
+33	;	;	PUNCT	:	_	32	_	_	start_char=5829|end_char=5830|SpaceAfter=No
+34	s	's	PART	POS	Typo=Yes	33	_	_	start_char=5830|end_char=5831
+35	government	government	NOUN	NN	Number=Sing	34	_	_	start_char=5832|end_char=5842|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=5842|end_char=5843
+
+# text = Our president has repeatedly spoken about our readiness to start serious negotiations.
+# sent_id = 45
+1	Our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	0	_	_	start_char=5844|end_char=5847
+2	president	president	NOUN	NN	Number=Sing	1	_	_	start_char=5848|end_char=5857
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=5858|end_char=5861
+4	repeatedly	repeatedly	ADV	RB	_	3	_	_	start_char=5862|end_char=5872
+5	spoken	speak	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=5873|end_char=5879
+6	about	about	ADP	IN	_	5	_	_	start_char=5880|end_char=5885
+7	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	6	_	_	start_char=5886|end_char=5889
+8	readiness	readiness	NOUN	NN	Number=Sing	7	_	_	start_char=5890|end_char=5899
+9	to	to	PART	TO	_	8	_	_	start_char=5900|end_char=5902
+10	start	start	VERB	VB	VerbForm=Inf	9	_	_	start_char=5903|end_char=5908
+11	serious	serious	ADJ	JJ	Degree=Pos	10	_	_	start_char=5909|end_char=5916
+12	negotiations	negotiation	NOUN	NNS	Number=Plur	11	_	_	start_char=5917|end_char=5929|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=5929|end_char=5930
+
+# text = But to be assured that these negotiations will be serious, he told Kiev&#39;s Western patrons that Zelensky must first revoke this executive order.
+# sent_id = 46
+1	But	but	CCONJ	CC	_	0	_	_	start_char=5931|end_char=5934
+2	to	to	PART	TO	_	1	_	_	start_char=5935|end_char=5937
+3	be	be	AUX	VB	VerbForm=Inf	2	_	_	start_char=5938|end_char=5940
+4	assured	assure	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=5941|end_char=5948
+5	that	that	SCONJ	IN	_	4	_	_	start_char=5949|end_char=5953
+6	these	this	DET	DT	Number=Plur|PronType=Dem	5	_	_	start_char=5954|end_char=5959
+7	negotiations	negotiation	NOUN	NNS	Number=Plur	6	_	_	start_char=5960|end_char=5972
+8	will	will	AUX	MD	VerbForm=Fin	7	_	_	start_char=5973|end_char=5977
+9	be	be	AUX	VB	VerbForm=Inf	8	_	_	start_char=5978|end_char=5980
+10	serious	serious	ADJ	JJ	Degree=Pos	9	_	_	start_char=5981|end_char=5988|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=5988|end_char=5989
+12	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	_	_	start_char=5990|end_char=5992
+13	told	tell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=5993|end_char=5997
+14	Kiev&	Kiev&	PROPN	NNP	Number=Sing	13	_	_	start_char=5998|end_char=6003|SpaceAfter=No
+15	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	14	_	_	start_char=6003|end_char=6006|SpaceAfter=No
+16	;	;	PUNCT	:	_	15	_	_	start_char=6006|end_char=6007|SpaceAfter=No
+17	s	's	PART	POS	Typo=Yes	16	_	_	start_char=6007|end_char=6008
+18	Western	western	ADJ	JJ	Degree=Pos	17	_	_	start_char=6009|end_char=6016
+19	patrons	patron	NOUN	NNS	Number=Plur	18	_	_	start_char=6017|end_char=6024
+20	that	that	PRON	WDT	PronType=Rel	19	_	_	start_char=6025|end_char=6029
+21	Zelensky	Zelensky	PROPN	NNP	Number=Sing	20	_	_	start_char=6030|end_char=6038
+22	must	must	AUX	MD	VerbForm=Fin	21	_	_	start_char=6039|end_char=6043
+23	first	first	ADV	RB	NumType=Ord	22	_	_	start_char=6044|end_char=6049
+24	revoke	revoke	VERB	VB	VerbForm=Inf	23	_	_	start_char=6050|end_char=6056
+25	this	this	DET	DT	Number=Sing|PronType=Dem	24	_	_	start_char=6057|end_char=6061
+26	executive	executive	ADJ	JJ	Degree=Pos	25	_	_	start_char=6062|end_char=6071
+27	order	order	NOUN	NN	Number=Sing	26	_	_	start_char=6072|end_char=6077|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=6077|end_char=6078|SpaceAfter=No
+
+# text = &quot; India will take into account these nuances and Russian sensibilities and may try to persuade Ukraine along these lines.
+# sent_id = 47
+1	&quot	&quot	NOUN	NN	Number=Sing	0	_	_	start_char=6078|end_char=6083|SpaceAfter=No
+2	;	;	PUNCT	:	_	1	_	_	start_char=6083|end_char=6084
+3	India	India	PROPN	NNP	Number=Sing	2	_	_	start_char=6085|end_char=6090
+4	will	will	AUX	MD	VerbForm=Fin	3	_	_	start_char=6091|end_char=6095
+5	take	take	VERB	VB	VerbForm=Inf	4	_	_	start_char=6096|end_char=6100
+6	into	into	ADP	IN	_	5	_	_	start_char=6101|end_char=6105
+7	account	account	VERB	VB	VerbForm=Inf	6	_	_	start_char=6106|end_char=6113
+8	these	this	DET	DT	Number=Plur|PronType=Dem	7	_	_	start_char=6114|end_char=6119
+9	nuances	nuance	NOUN	NNS	Number=Plur	8	_	_	start_char=6120|end_char=6127
+10	and	and	CCONJ	CC	_	9	_	_	start_char=6128|end_char=6131
+11	Russian	Russian	ADJ	JJ	Degree=Pos	10	_	_	start_char=6132|end_char=6139
+12	sensibilities	sensibility	NOUN	NNS	Number=Plur	11	_	_	start_char=6140|end_char=6153
+13	and	and	CCONJ	CC	_	12	_	_	start_char=6154|end_char=6157
+14	may	may	AUX	MD	VerbForm=Fin	13	_	_	start_char=6158|end_char=6161
+15	try	try	VERB	VB	VerbForm=Inf	14	_	_	start_char=6162|end_char=6165
+16	to	to	PART	TO	_	15	_	_	start_char=6166|end_char=6168
+17	persuade	persuade	VERB	VB	VerbForm=Inf	16	_	_	start_char=6169|end_char=6177
+18	Ukraine	Ukraine	PROPN	NNP	Number=Sing	17	_	_	start_char=6178|end_char=6185
+19	along	along	ADP	IN	_	18	_	_	start_char=6186|end_char=6191
+20	these	this	DET	DT	Number=Plur|PronType=Dem	19	_	_	start_char=6192|end_char=6197
+21	lines	line	NOUN	NNS	Number=Plur	20	_	_	start_char=6198|end_char=6203|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=6203|end_char=6204
+
+# text = What should be India&#39;s plan of action?
+# sent_id = 48
+1	What	what	PRON	WP	PronType=Int	0	_	_	start_char=6205|end_char=6209
+2	should	should	AUX	MD	VerbForm=Fin	1	_	_	start_char=6210|end_char=6216
+3	be	be	AUX	VB	VerbForm=Inf	2	_	_	start_char=6217|end_char=6219
+4	India&	India&	PROPN	NNP	Number=Sing	3	_	_	start_char=6220|end_char=6226|SpaceAfter=No
+5	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	4	_	_	start_char=6226|end_char=6229|SpaceAfter=No
+6	;	;	PUNCT	:	_	5	_	_	start_char=6229|end_char=6230|SpaceAfter=No
+7	s	's	PART	POS	Typo=Yes	6	_	_	start_char=6230|end_char=6231
+8	plan	plan	NOUN	NN	Number=Sing	7	_	_	start_char=6232|end_char=6236
+9	of	of	ADP	IN	_	8	_	_	start_char=6237|end_char=6239
+10	action	action	NOUN	NN	Number=Sing	9	_	_	start_char=6240|end_char=6246|SpaceAfter=No
+11	?	?	PUNCT	.	_	10	_	_	start_char=6246|end_char=6247
+
+# text = India should participate in the peace conference in Switzerland, if it takes place.
+# sent_id = 49
+1	India	India	PROPN	NNP	Number=Sing	0	_	_	start_char=6248|end_char=6253
+2	should	should	AUX	MD	VerbForm=Fin	1	_	_	start_char=6254|end_char=6260
+3	participate	participate	VERB	VB	VerbForm=Inf	2	_	_	start_char=6261|end_char=6272
+4	in	in	ADP	IN	_	3	_	_	start_char=6273|end_char=6275
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=6276|end_char=6279
+6	peace	peace	NOUN	NN	Number=Sing	5	_	_	start_char=6280|end_char=6285
+7	conference	conference	NOUN	NN	Number=Sing	6	_	_	start_char=6286|end_char=6296
+8	in	in	ADP	IN	_	7	_	_	start_char=6297|end_char=6299
+9	Switzerland	Switzerland	PROPN	NNP	Number=Sing	8	_	_	start_char=6300|end_char=6311|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=6311|end_char=6312
+11	if	if	SCONJ	IN	_	10	_	_	start_char=6313|end_char=6315
+12	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	_	_	start_char=6316|end_char=6318
+13	takes	take	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=6319|end_char=6324
+14	place	place	NOUN	NN	Number=Sing	13	_	_	start_char=6325|end_char=6330|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=6330|end_char=6331
+
+# text = India has always declared its neutrality in this conflict, and has time and again called for dialogue and discussion as the only way forward.
+# sent_id = 50
+1	India	India	PROPN	NNP	Number=Sing	0	_	_	start_char=6332|end_char=6337
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=6338|end_char=6341
+3	always	always	ADV	RB	_	2	_	_	start_char=6342|end_char=6348
+4	declared	declare	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=6349|end_char=6357
+5	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	_	_	start_char=6358|end_char=6361
+6	neutrality	neutrality	NOUN	NN	Number=Sing	5	_	_	start_char=6362|end_char=6372
+7	in	in	ADP	IN	_	6	_	_	start_char=6373|end_char=6375
+8	this	this	DET	DT	Number=Sing|PronType=Dem	7	_	_	start_char=6376|end_char=6380
+9	conflict	conflict	NOUN	NN	Number=Sing	8	_	_	start_char=6381|end_char=6389|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=6389|end_char=6390
+11	and	and	CCONJ	CC	_	10	_	_	start_char=6391|end_char=6394
+12	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=6395|end_char=6398
+13	time	time	NOUN	NN	Number=Sing	12	_	_	start_char=6399|end_char=6403
+14	and	and	CCONJ	CC	_	13	_	_	start_char=6404|end_char=6407
+15	again	again	ADV	RB	_	14	_	_	start_char=6408|end_char=6413
+16	called	call	VERB	VBN	Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	15	_	_	start_char=6414|end_char=6420
+17	for	for	ADP	IN	_	16	_	_	start_char=6421|end_char=6424
+18	dialogue	dialogue	NOUN	NN	Number=Sing	17	_	_	start_char=6425|end_char=6433
+19	and	and	CCONJ	CC	_	18	_	_	start_char=6434|end_char=6437
+20	discussion	discussion	NOUN	NN	Number=Sing	19	_	_	start_char=6438|end_char=6448
+21	as	as	ADP	IN	_	20	_	_	start_char=6449|end_char=6451
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=6452|end_char=6455
+23	only	only	ADJ	JJ	Degree=Pos	22	_	_	start_char=6456|end_char=6460
+24	way	way	NOUN	NN	Number=Sing	23	_	_	start_char=6461|end_char=6464
+25	forward	forward	ADV	RB	_	24	_	_	start_char=6465|end_char=6472|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=6472|end_char=6473
+
+# text = India has previously coordinated the &quot;grain deal&quot; brokered by Turkey and, on several occasions, has also played the role of an &quot;envoy&quot; between the two sides, as S Jaishankar said recently at an event in Malaysia.
+# sent_id = 51
+1	India	India	PROPN	NNP	Number=Sing	0	_	_	start_char=6474|end_char=6479
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=6480|end_char=6483
+3	previously	previously	ADV	RB	_	2	_	_	start_char=6484|end_char=6494
+4	coordinated	coordinate	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=6495|end_char=6506
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=6507|end_char=6510
+6	&quot	&quot	NOUN	NN	Number=Sing	5	_	_	start_char=6511|end_char=6516|SpaceAfter=No
+7	;	;	PUNCT	:	_	6	_	_	start_char=6516|end_char=6517|SpaceAfter=No
+8	grain	grain	NOUN	NN	Number=Sing	7	_	_	start_char=6517|end_char=6522
+9	deal&quot	deal&quot	NOUN	NN	Number=Sing	8	_	_	start_char=6523|end_char=6532|SpaceAfter=No
+10	;	;	PUNCT	:	_	9	_	_	start_char=6532|end_char=6533
+11	brokered	broker	VERB	VBN	Tense=Past|VerbForm=Part	10	_	_	start_char=6534|end_char=6542
+12	by	by	ADP	IN	_	11	_	_	start_char=6543|end_char=6545
+13	Turkey	Turkey	PROPN	NNP	Number=Sing	12	_	_	start_char=6546|end_char=6552
+14	and	and	CCONJ	CC	_	13	_	_	start_char=6553|end_char=6556|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=6556|end_char=6557
+16	on	on	ADP	IN	_	15	_	_	start_char=6558|end_char=6560
+17	several	several	ADJ	JJ	Degree=Pos	16	_	_	start_char=6561|end_char=6568
+18	occasions	occasion	NOUN	NNS	Number=Plur	17	_	_	start_char=6569|end_char=6578|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=6578|end_char=6579
+20	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	_	_	start_char=6580|end_char=6583
+21	also	also	ADV	RB	_	20	_	_	start_char=6584|end_char=6588
+22	played	play	VERB	VBN	Tense=Past|VerbForm=Part	21	_	_	start_char=6589|end_char=6595
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=6596|end_char=6599
+24	role	role	NOUN	NN	Number=Sing	23	_	_	start_char=6600|end_char=6604
+25	of	of	ADP	IN	_	24	_	_	start_char=6605|end_char=6607
+26	an	a	DET	DT	Definite=Ind|PronType=Art	25	_	_	start_char=6608|end_char=6610
+27	&quot	&quot	NOUN	NN	Number=Sing	26	_	_	start_char=6611|end_char=6616|SpaceAfter=No
+28	;	;	PUNCT	:	_	27	_	_	start_char=6616|end_char=6617|SpaceAfter=No
+29	envoy&quot	envoy&quot	NOUN	NN	Number=Sing	28	_	_	start_char=6617|end_char=6627|SpaceAfter=No
+30	;	;	PUNCT	:	_	29	_	_	start_char=6627|end_char=6628
+31	between	between	ADP	IN	_	30	_	_	start_char=6629|end_char=6636
+32	the	the	DET	DT	Definite=Def|PronType=Art	31	_	_	start_char=6637|end_char=6640
+33	two	two	NUM	CD	NumForm=Word|NumType=Card	32	_	_	start_char=6641|end_char=6644
+34	sides	side	NOUN	NNS	Number=Plur	33	_	_	start_char=6645|end_char=6650|SpaceAfter=No
+35	,	,	PUNCT	,	_	34	_	_	start_char=6650|end_char=6651
+36	as	as	SCONJ	IN	_	35	_	_	start_char=6652|end_char=6654
+37	S	S	PROPN	NNP	Number=Sing	36	_	_	start_char=6655|end_char=6656
+38	Jaishankar	Jaishankar	PROPN	NNP	Number=Sing	37	_	_	start_char=6657|end_char=6667
+39	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	38	_	_	start_char=6668|end_char=6672
+40	recently	recently	ADV	RB	_	39	_	_	start_char=6673|end_char=6681
+41	at	at	ADP	IN	_	40	_	_	start_char=6682|end_char=6684
+42	an	a	DET	DT	Definite=Ind|PronType=Art	41	_	_	start_char=6685|end_char=6687
+43	event	event	NOUN	NN	Number=Sing	42	_	_	start_char=6688|end_char=6693
+44	in	in	ADP	IN	_	43	_	_	start_char=6694|end_char=6696
+45	Malaysia	Malaysia	PROPN	NNP	Number=Sing	44	_	_	start_char=6697|end_char=6705|SpaceAfter=No
+46	.	.	PUNCT	.	_	45	_	_	start_char=6705|end_char=6706
+
+# text = It has even played a role in preventing any potential nuclear attack on Ukrainian targets by Russia.
+# sent_id = 52
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=6707|end_char=6709
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=6710|end_char=6713
+3	even	even	ADV	RB	_	2	_	_	start_char=6714|end_char=6718
+4	played	play	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=6719|end_char=6725
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=6726|end_char=6727
+6	role	role	NOUN	NN	Number=Sing	5	_	_	start_char=6728|end_char=6732
+7	in	in	SCONJ	IN	_	6	_	_	start_char=6733|end_char=6735
+8	preventing	prevent	VERB	VBG	VerbForm=Ger	7	_	_	start_char=6736|end_char=6746
+9	any	any	DET	DT	_	8	_	_	start_char=6747|end_char=6750
+10	potential	potential	ADJ	JJ	Degree=Pos	9	_	_	start_char=6751|end_char=6760
+11	nuclear	nuclear	ADJ	JJ	Degree=Pos	10	_	_	start_char=6761|end_char=6768
+12	attack	attack	NOUN	NN	Number=Sing	11	_	_	start_char=6769|end_char=6775
+13	on	on	ADP	IN	_	12	_	_	start_char=6776|end_char=6778
+14	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	13	_	_	start_char=6779|end_char=6788
+15	targets	target	NOUN	NNS	Number=Plur	14	_	_	start_char=6789|end_char=6796
+16	by	by	ADP	IN	_	15	_	_	start_char=6797|end_char=6799
+17	Russia	Russia	PROPN	NNP	Number=Sing	16	_	_	start_char=6800|end_char=6806|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=6806|end_char=6807
+
+# text = India has participated in all international negotiations on Ukraine - from Copenhagen to Jeddah, Malta and the recent one in Davos.
+# sent_id = 53
+1	India	India	PROPN	NNP	Number=Sing	0	_	_	start_char=6808|end_char=6813
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=6814|end_char=6817
+3	participated	participate	VERB	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=6818|end_char=6830
+4	in	in	ADP	IN	_	3	_	_	start_char=6831|end_char=6833
+5	all	all	DET	DT	_	4	_	_	start_char=6834|end_char=6837
+6	international	international	ADJ	JJ	Degree=Pos	5	_	_	start_char=6838|end_char=6851
+7	negotiations	negotiation	NOUN	NNS	Number=Plur	6	_	_	start_char=6852|end_char=6864
+8	on	on	ADP	IN	_	7	_	_	start_char=6865|end_char=6867
+9	Ukraine	Ukraine	PROPN	NNP	Number=Sing	8	_	_	start_char=6868|end_char=6875
+10	-	-	PUNCT	,	_	9	_	_	start_char=6876|end_char=6877
+11	from	from	ADP	IN	_	10	_	_	start_char=6878|end_char=6882
+12	Copenhagen	Copenhagen	PROPN	NNP	Number=Sing	11	_	_	start_char=6883|end_char=6893
+13	to	to	ADP	IN	_	12	_	_	start_char=6894|end_char=6896
+14	Jeddah	Jeddah	PROPN	NNP	Number=Sing	13	_	_	start_char=6897|end_char=6903|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=6903|end_char=6904
+16	Malta	Malta	PROPN	NNP	Number=Sing	15	_	_	start_char=6905|end_char=6910
+17	and	and	CCONJ	CC	_	16	_	_	start_char=6911|end_char=6914
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=6915|end_char=6918
+19	recent	recent	ADJ	JJ	Degree=Pos	18	_	_	start_char=6919|end_char=6925
+20	one	one	NOUN	NN	Number=Sing	19	_	_	start_char=6926|end_char=6929
+21	in	in	ADP	IN	_	20	_	_	start_char=6930|end_char=6932
+22	Davos	Davos	PROPN	NNP	Number=Sing	21	_	_	start_char=6933|end_char=6938|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=6938|end_char=6939
+
+# text = This conference will give India a chance to stand with both Ukraine and the West.
+# sent_id = 54
+1	This	this	DET	DT	Number=Sing|PronType=Dem	0	_	_	start_char=6940|end_char=6944
+2	conference	conference	NOUN	NN	Number=Sing	1	_	_	start_char=6945|end_char=6955
+3	will	will	AUX	MD	VerbForm=Fin	2	_	_	start_char=6956|end_char=6960
+4	give	give	VERB	VB	VerbForm=Inf	3	_	_	start_char=6961|end_char=6965
+5	India	India	PROPN	NNP	Number=Sing	4	_	_	start_char=6966|end_char=6971
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=6972|end_char=6973
+7	chance	chance	NOUN	NN	Number=Sing	6	_	_	start_char=6974|end_char=6980
+8	to	to	PART	TO	_	7	_	_	start_char=6981|end_char=6983
+9	stand	stand	VERB	VB	VerbForm=Inf	8	_	_	start_char=6984|end_char=6989
+10	with	with	ADP	IN	_	9	_	_	start_char=6990|end_char=6994
+11	both	both	CCONJ	CC	_	10	_	_	start_char=6995|end_char=6999
+12	Ukraine	Ukraine	PROPN	NNP	Number=Sing	11	_	_	start_char=7000|end_char=7007
+13	and	and	CCONJ	CC	_	12	_	_	start_char=7008|end_char=7011
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=7012|end_char=7015
+15	West	West	PROPN	NNP	Number=Sing	14	_	_	start_char=7016|end_char=7020|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=7020|end_char=7021
+
+# text = It will also establish India as a more neutral supporter of conflict resolution when the opportunity arises.
+# sent_id = 55
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=7022|end_char=7024
+2	will	will	AUX	MD	VerbForm=Fin	1	_	_	start_char=7025|end_char=7029
+3	also	also	ADV	RB	_	2	_	_	start_char=7030|end_char=7034
+4	establish	establish	VERB	VB	VerbForm=Inf	3	_	_	start_char=7035|end_char=7044
+5	India	India	PROPN	NNP	Number=Sing	4	_	_	start_char=7045|end_char=7050
+6	as	as	ADP	IN	_	5	_	_	start_char=7051|end_char=7053
+7	a	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=7054|end_char=7055
+8	more	more	ADV	RBR	Degree=Cmp	7	_	_	start_char=7056|end_char=7060
+9	neutral	neutral	ADJ	JJ	Degree=Pos	8	_	_	start_char=7061|end_char=7068
+10	supporter	supporter	NOUN	NN	Number=Sing	9	_	_	start_char=7069|end_char=7078
+11	of	of	ADP	IN	_	10	_	_	start_char=7079|end_char=7081
+12	conflict	conflict	NOUN	NN	Number=Sing	11	_	_	start_char=7082|end_char=7090
+13	resolution	resolution	NOUN	NN	Number=Sing	12	_	_	start_char=7091|end_char=7101
+14	when	when	ADV	WRB	PronType=Int	13	_	_	start_char=7102|end_char=7106
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=7107|end_char=7110
+16	opportunity	opportunity	NOUN	NN	Number=Sing	15	_	_	start_char=7111|end_char=7122
+17	arises	arise	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=7123|end_char=7129|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=7129|end_char=7130
+
+# text = (Hello friends!
+# sent_id = 56
+1	(	(	PUNCT	-LRB-	_	0	_	_	start_char=7131|end_char=7132|SpaceAfter=No
+2	Hello	hello	INTJ	UH	_	1	_	_	start_char=7132|end_char=7137
+3	friends	friend	NOUN	NNS	Number=Plur	2	_	_	start_char=7138|end_char=7145|SpaceAfter=No
+4	!	!	PUNCT	.	_	3	_	_	start_char=7145|end_char=7146
+
+# text = Stay connected to our Telegram channel here)
+# sent_id = 57
+1	Stay	stay	VERB	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=7147|end_char=7151
+2	connected	connect	VERB	VBN	Tense=Past|VerbForm=Part	1	_	_	start_char=7152|end_char=7161
+3	to	to	ADP	IN	_	2	_	_	start_char=7162|end_char=7164
+4	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	3	_	_	start_char=7165|end_char=7168
+5	Telegram	telegram	NOUN	NN	Number=Sing	4	_	_	start_char=7169|end_char=7177
+6	channel	channel	NOUN	NN	Number=Sing	5	_	_	start_char=7178|end_char=7185
+7	here	here	ADV	RB	PronType=Dem	6	_	_	start_char=7186|end_char=7190|SpaceAfter=No
+8	)	)	PUNCT	-RRB-	_	7	_	_	start_char=7190|end_char=7191|SpaceAfter=No
+

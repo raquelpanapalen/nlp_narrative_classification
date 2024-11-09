@@ -1,0 +1,463 @@
+# text = Various videos of US President Joe Biden keep coming out, in which he looks lost.
+# sent_id = 0
+1	Various	various	ADJ	JJ	Degree=Pos	0	_	_	start_char=0|end_char=7
+2	videos	video	NOUN	NNS	Number=Plur	1	_	_	start_char=8|end_char=14
+3	of	of	ADP	IN	_	2	_	_	start_char=15|end_char=17
+4	US	US	PROPN	NNP	Number=Sing	3	_	_	start_char=18|end_char=20
+5	President	President	PROPN	NNP	Number=Sing	4	_	_	start_char=21|end_char=30
+6	Joe	Joe	PROPN	NNP	Number=Sing	5	_	_	start_char=31|end_char=34
+7	Biden	Biden	PROPN	NNP	Number=Sing	6	_	_	start_char=35|end_char=40
+8	keep	keep	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=41|end_char=45
+9	coming	come	VERB	VBG	VerbForm=Ger	8	_	_	start_char=46|end_char=52
+10	out	out	ADV	RB	_	9	_	_	start_char=53|end_char=56|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=56|end_char=57
+12	in	in	ADP	IN	_	11	_	_	start_char=58|end_char=60
+13	which	which	PRON	WDT	PronType=Rel	12	_	_	start_char=61|end_char=66
+14	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	_	_	start_char=67|end_char=69
+15	looks	look	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=70|end_char=75
+16	lost	lose	VERB	VBN	Tense=Past|VerbForm=Part	15	_	_	start_char=76|end_char=80|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=80|end_char=81
+
+# text = Sometimes he ignores the rest of the people and turns in the opposite direction, and sometimes he suddenly starts walking in some other direction.
+# sent_id = 1
+1	Sometimes	sometimes	ADV	RB	_	0	_	_	start_char=82|end_char=91
+2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	_	_	start_char=92|end_char=94
+3	ignores	ignore	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=95|end_char=102
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=103|end_char=106
+5	rest	rest	NOUN	NN	Number=Sing	4	_	_	start_char=107|end_char=111
+6	of	of	ADP	IN	_	5	_	_	start_char=112|end_char=114
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=115|end_char=118
+8	people	person	NOUN	NNS	Number=Plur	7	_	_	start_char=119|end_char=125
+9	and	and	CCONJ	CC	_	8	_	_	start_char=126|end_char=129
+10	turns	turn	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=130|end_char=135
+11	in	in	ADP	IN	_	10	_	_	start_char=136|end_char=138
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=139|end_char=142
+13	opposite	opposite	ADJ	JJ	Degree=Pos	12	_	_	start_char=143|end_char=151
+14	direction	direction	NOUN	NN	Number=Sing	13	_	_	start_char=152|end_char=161|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=161|end_char=162
+16	and	and	CCONJ	CC	_	15	_	_	start_char=163|end_char=166
+17	sometimes	sometimes	ADV	RB	_	16	_	_	start_char=167|end_char=176
+18	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	_	_	start_char=177|end_char=179
+19	suddenly	suddenly	ADV	RB	_	18	_	_	start_char=180|end_char=188
+20	starts	start	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	_	_	start_char=189|end_char=195
+21	walking	walk	VERB	VBG	VerbForm=Ger	20	_	_	start_char=196|end_char=203
+22	in	in	ADP	IN	_	21	_	_	start_char=204|end_char=206
+23	some	some	DET	DT	_	22	_	_	start_char=207|end_char=211
+24	other	other	ADJ	JJ	Degree=Pos	23	_	_	start_char=212|end_char=217
+25	direction	direction	NOUN	NN	Number=Sing	24	_	_	start_char=218|end_char=227|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=227|end_char=228
+
+# text = Presidential elections are to be held in the US in November this year and the Republican candidate will be Donald Trump, who has also been the President before, in such a situation, Joe Biden&#39;s health has become a cause of trouble for the Democrats.
+# sent_id = 2
+1	Presidential	presidential	ADJ	JJ	Degree=Pos	0	_	_	start_char=229|end_char=241
+2	elections	election	NOUN	NNS	Number=Plur	1	_	_	start_char=242|end_char=251
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=252|end_char=255
+4	to	to	PART	TO	_	3	_	_	start_char=256|end_char=258
+5	be	be	AUX	VB	VerbForm=Inf	4	_	_	start_char=259|end_char=261
+6	held	hold	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	_	_	start_char=262|end_char=266
+7	in	in	ADP	IN	_	6	_	_	start_char=267|end_char=269
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=270|end_char=273
+9	US	US	PROPN	NNP	Number=Sing	8	_	_	start_char=274|end_char=276
+10	in	in	ADP	IN	_	9	_	_	start_char=277|end_char=279
+11	November	November	PROPN	NNP	Number=Sing	10	_	_	start_char=280|end_char=288
+12	this	this	DET	DT	Number=Sing|PronType=Dem	11	_	_	start_char=289|end_char=293
+13	year	year	NOUN	NN	Number=Sing	12	_	_	start_char=294|end_char=298
+14	and	and	CCONJ	CC	_	13	_	_	start_char=299|end_char=302
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=303|end_char=306
+16	Republican	Republican	ADJ	JJ	Degree=Pos	15	_	_	start_char=307|end_char=317
+17	candidate	candidate	NOUN	NN	Number=Sing	16	_	_	start_char=318|end_char=327
+18	will	will	AUX	MD	VerbForm=Fin	17	_	_	start_char=328|end_char=332
+19	be	be	AUX	VB	VerbForm=Inf	18	_	_	start_char=333|end_char=335
+20	Donald	Donald	PROPN	NNP	Number=Sing	19	_	_	start_char=336|end_char=342
+21	Trump	Trump	PROPN	NNP	Number=Sing	20	_	_	start_char=343|end_char=348|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=348|end_char=349
+23	who	who	PRON	WP	PronType=Rel	22	_	_	start_char=350|end_char=353
+24	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	_	_	start_char=354|end_char=357
+25	also	also	ADV	RB	_	24	_	_	start_char=358|end_char=362
+26	been	be	AUX	VBN	Tense=Past|VerbForm=Part	25	_	_	start_char=363|end_char=367
+27	the	the	DET	DT	Definite=Def|PronType=Art	26	_	_	start_char=368|end_char=371
+28	President	President	PROPN	NNP	Number=Sing	27	_	_	start_char=372|end_char=381
+29	before	before	ADV	RB	_	28	_	_	start_char=382|end_char=388|SpaceAfter=No
+30	,	,	PUNCT	,	_	29	_	_	start_char=388|end_char=389
+31	in	in	ADP	IN	_	30	_	_	start_char=390|end_char=392
+32	such	such	DET	PDT	_	31	_	_	start_char=393|end_char=397
+33	a	a	DET	DT	Definite=Ind|PronType=Art	32	_	_	start_char=398|end_char=399
+34	situation	situation	NOUN	NN	Number=Sing	33	_	_	start_char=400|end_char=409|SpaceAfter=No
+35	,	,	PUNCT	,	_	34	_	_	start_char=409|end_char=410
+36	Joe	Joe	PROPN	NNP	Number=Sing	35	_	_	start_char=411|end_char=414
+37	Biden&	Biden&	PROPN	NNP	Number=Sing	36	_	_	start_char=415|end_char=421|SpaceAfter=No
+38	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	37	_	_	start_char=421|end_char=424|SpaceAfter=No
+39	;	;	PUNCT	:	_	38	_	_	start_char=424|end_char=425|SpaceAfter=No
+40	s	's	PART	POS	Typo=Yes	39	_	_	start_char=425|end_char=426
+41	health	health	NOUN	NN	Number=Sing	40	_	_	start_char=427|end_char=433
+42	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	41	_	_	start_char=434|end_char=437
+43	become	become	VERB	VBN	Tense=Past|VerbForm=Part	42	_	_	start_char=438|end_char=444
+44	a	a	DET	DT	Definite=Ind|PronType=Art	43	_	_	start_char=445|end_char=446
+45	cause	cause	NOUN	NN	Number=Sing	44	_	_	start_char=447|end_char=452
+46	of	of	ADP	IN	_	45	_	_	start_char=453|end_char=455
+47	trouble	trouble	NOUN	NN	Number=Sing	46	_	_	start_char=456|end_char=463
+48	for	for	ADP	IN	_	47	_	_	start_char=464|end_char=467
+49	the	the	DET	DT	Definite=Def|PronType=Art	48	_	_	start_char=468|end_char=471
+50	Democrats	Democrat	PROPN	NNPS	Number=Plur	49	_	_	start_char=472|end_char=481|SpaceAfter=No
+51	.	.	PUNCT	.	_	50	_	_	start_char=481|end_char=482
+
+# text = Now something has happened that US President Joe Biden failed to recognize the country&#39;s Vice-President Kamala Harris and Ukraine&#39;s President Volodymyr Zelensky.
+# sent_id = 3
+1	Now	now	ADV	RB	_	0	_	_	start_char=483|end_char=486
+2	something	something	PRON	NN	Number=Sing|PronType=Ind	1	_	_	start_char=487|end_char=496
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=497|end_char=500
+4	happened	happen	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=501|end_char=509
+5	that	that	SCONJ	IN	_	4	_	_	start_char=510|end_char=514
+6	US	US	PROPN	NNP	Number=Sing	5	_	_	start_char=515|end_char=517
+7	President	President	PROPN	NNP	Number=Sing	6	_	_	start_char=518|end_char=527
+8	Joe	Joe	PROPN	NNP	Number=Sing	7	_	_	start_char=528|end_char=531
+9	Biden	Biden	PROPN	NNP	Number=Sing	8	_	_	start_char=532|end_char=537
+10	failed	fail	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=538|end_char=544
+11	to	to	PART	TO	_	10	_	_	start_char=545|end_char=547
+12	recognize	recognize	VERB	VB	VerbForm=Inf	11	_	_	start_char=548|end_char=557
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=558|end_char=561
+14	country&	country&	NOUN	NN	Number=Sing	13	_	_	start_char=562|end_char=570|SpaceAfter=No
+15	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	14	_	_	start_char=570|end_char=573|SpaceAfter=No
+16	;	;	PUNCT	:	_	15	_	_	start_char=573|end_char=574|SpaceAfter=No
+17	s	's	PART	POS	Typo=Yes	16	_	_	start_char=574|end_char=575
+18	Vice	Vice	PROPN	NNP	Number=Sing	17	_	_	start_char=576|end_char=580|SpaceAfter=No
+19	-	-	PUNCT	HYPH	_	18	_	_	start_char=580|end_char=581|SpaceAfter=No
+20	President	President	PROPN	NNP	Number=Sing	19	_	_	start_char=581|end_char=590
+21	Kamala	Kamala	PROPN	NNP	Number=Sing	20	_	_	start_char=591|end_char=597
+22	Harris	Harris	PROPN	NNP	Number=Sing	21	_	_	start_char=598|end_char=604
+23	and	and	CCONJ	CC	_	22	_	_	start_char=605|end_char=608
+24	Ukraine&	Ukraine&	PROPN	NNP	Number=Sing	23	_	_	start_char=609|end_char=617|SpaceAfter=No
+25	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	24	_	_	start_char=617|end_char=620|SpaceAfter=No
+26	;	;	PUNCT	:	_	25	_	_	start_char=620|end_char=621|SpaceAfter=No
+27	s	's	PART	POS	Typo=Yes	26	_	_	start_char=621|end_char=622
+28	President	President	PROPN	NNP	Number=Sing	27	_	_	start_char=623|end_char=632
+29	Volodymyr	Volodymyr	PROPN	NNP	Number=Sing	28	_	_	start_char=633|end_char=642
+30	Zelensky	Zelensky	PROPN	NNP	Number=Sing	29	_	_	start_char=643|end_char=651|SpaceAfter=No
+31	.	.	PUNCT	.	_	30	_	_	start_char=651|end_char=652
+
+# text = That too when Kamala Harris had contested the election along with him, and the US is helping Ukraine with millions of dollars in the midst of the war with Russia.
+# sent_id = 4
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=653|end_char=657
+2	too	too	ADV	RB	_	1	_	_	start_char=658|end_char=661
+3	when	when	ADV	WRB	PronType=Int	2	_	_	start_char=662|end_char=666
+4	Kamala	Kamala	PROPN	NNP	Number=Sing	3	_	_	start_char=667|end_char=673
+5	Harris	Harris	PROPN	NNP	Number=Sing	4	_	_	start_char=674|end_char=680
+6	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=681|end_char=684
+7	contested	contest	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=685|end_char=694
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=695|end_char=698
+9	election	election	NOUN	NN	Number=Sing	8	_	_	start_char=699|end_char=707
+10	along	along	ADP	IN	_	9	_	_	start_char=708|end_char=713
+11	with	with	ADP	IN	_	10	_	_	start_char=714|end_char=718
+12	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	_	_	start_char=719|end_char=722|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=722|end_char=723
+14	and	and	CCONJ	CC	_	13	_	_	start_char=724|end_char=727
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=728|end_char=731
+16	US	US	PROPN	NNP	Number=Sing	15	_	_	start_char=732|end_char=734
+17	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=735|end_char=737
+18	helping	help	VERB	VBG	Tense=Pres|VerbForm=Part	17	_	_	start_char=738|end_char=745
+19	Ukraine	Ukraine	PROPN	NNP	Number=Sing	18	_	_	start_char=746|end_char=753
+20	with	with	ADP	IN	_	19	_	_	start_char=754|end_char=758
+21	millions	million	NOUN	NNS	Number=Plur	20	_	_	start_char=759|end_char=767
+22	of	of	ADP	IN	_	21	_	_	start_char=768|end_char=770
+23	dollars	dollar	NOUN	NNS	Number=Plur	22	_	_	start_char=771|end_char=778
+24	in	in	ADP	IN	_	23	_	_	start_char=779|end_char=781
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=782|end_char=785
+26	midst	midst	NOUN	NN	Number=Sing	25	_	_	start_char=786|end_char=791
+27	of	of	ADP	IN	_	26	_	_	start_char=792|end_char=794
+28	the	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=795|end_char=798
+29	war	war	NOUN	NN	Number=Sing	28	_	_	start_char=799|end_char=802
+30	with	with	ADP	IN	_	29	_	_	start_char=803|end_char=807
+31	Russia	Russia	PROPN	NNP	Number=Sing	30	_	_	start_char=808|end_char=814|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=814|end_char=815
+
+# text = In fact, the new drama happened in the news conference held during the NATO leaders&#39; summit.
+# sent_id = 5
+1	In	in	ADP	IN	_	0	_	_	start_char=816|end_char=818
+2	fact	fact	NOUN	NN	Number=Sing	1	_	_	start_char=819|end_char=823|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=823|end_char=824
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=825|end_char=828
+5	new	new	ADJ	JJ	Degree=Pos	4	_	_	start_char=829|end_char=832
+6	drama	drama	NOUN	NN	Number=Sing	5	_	_	start_char=833|end_char=838
+7	happened	happen	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=839|end_char=847
+8	in	in	ADP	IN	_	7	_	_	start_char=848|end_char=850
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=851|end_char=854
+10	news	news	NOUN	NN	Number=Sing	9	_	_	start_char=855|end_char=859
+11	conference	conference	NOUN	NN	Number=Sing	10	_	_	start_char=860|end_char=870
+12	held	hold	VERB	VBN	Tense=Past|VerbForm=Part	11	_	_	start_char=871|end_char=875
+13	during	during	ADP	IN	_	12	_	_	start_char=876|end_char=882
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=883|end_char=886
+15	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	14	_	_	start_char=887|end_char=891
+16	leaders	leader	NOUN	NNS	Number=Plur	15	_	_	start_char=892|end_char=899|SpaceAfter=No
+17	&	&	CCONJ	CC	_	16	_	_	start_char=899|end_char=900|SpaceAfter=No
+18	#	#	SYM	NN	Number=Sing	17	_	_	start_char=900|end_char=901|SpaceAfter=No
+19	39	39	NUM	CD	NumForm=Digit|NumType=Card	18	_	_	start_char=901|end_char=903|SpaceAfter=No
+20	;	;	PUNCT	:	_	19	_	_	start_char=903|end_char=904
+21	summit	summit	NOUN	NN	Number=Sing	20	_	_	start_char=905|end_char=911|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=911|end_char=912
+
+# text = In response to the very first question, Joe Biden called Kamala Harris &#39;Vice-President Trump&#39;.
+# sent_id = 6
+1	In	in	ADP	IN	_	0	_	_	start_char=913|end_char=915
+2	response	response	NOUN	NN	Number=Sing	1	_	_	start_char=916|end_char=924
+3	to	to	ADP	IN	_	2	_	_	start_char=925|end_char=927
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=928|end_char=931
+5	very	very	ADV	RB	_	4	_	_	start_char=932|end_char=936
+6	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	5	_	_	start_char=937|end_char=942
+7	question	question	NOUN	NN	Number=Sing	6	_	_	start_char=943|end_char=951|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=951|end_char=952
+9	Joe	Joe	PROPN	NNP	Number=Sing	8	_	_	start_char=953|end_char=956
+10	Biden	Biden	PROPN	NNP	Number=Sing	9	_	_	start_char=957|end_char=962
+11	called	call	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=963|end_char=969
+12	Kamala	Kamala	PROPN	NNP	Number=Sing	11	_	_	start_char=970|end_char=976
+13	Harris	Harris	PROPN	NNP	Number=Sing	12	_	_	start_char=977|end_char=983
+14	&	&	CCONJ	CC	_	13	_	_	start_char=984|end_char=985|SpaceAfter=No
+15	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	14	_	_	start_char=985|end_char=988|SpaceAfter=No
+16	;	;	PUNCT	:	_	15	_	_	start_char=988|end_char=989|SpaceAfter=No
+17	Vice	Vice	PROPN	NNP	Number=Sing	16	_	_	start_char=989|end_char=993|SpaceAfter=No
+18	-	-	PUNCT	HYPH	_	17	_	_	start_char=993|end_char=994|SpaceAfter=No
+19	President	President	PROPN	NNP	Number=Sing	18	_	_	start_char=994|end_char=1003
+20	Trump&#39	Trump&#39	PROPN	NNP	Number=Sing	19	_	_	start_char=1004|end_char=1013|SpaceAfter=No
+21	;	;	PUNCT	:	_	20	_	_	start_char=1013|end_char=1014|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=1014|end_char=1015
+
+# text = Actually, a Reuters journalist had asked Joe Biden that if he withdraws from this election, does Kamala Harris have the ability to defeat Donald Trump?
+# sent_id = 7
+1	Actually	actually	ADV	RB	_	0	_	_	start_char=1016|end_char=1024|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=1024|end_char=1025
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=1026|end_char=1027
+4	Reuters	Reuters	PROPN	NNP	Number=Sing	3	_	_	start_char=1028|end_char=1035
+5	journalist	journalist	NOUN	NN	Number=Sing	4	_	_	start_char=1036|end_char=1046
+6	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=1047|end_char=1050
+7	asked	ask	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=1051|end_char=1056
+8	Joe	Joe	PROPN	NNP	Number=Sing	7	_	_	start_char=1057|end_char=1060
+9	Biden	Biden	PROPN	NNP	Number=Sing	8	_	_	start_char=1061|end_char=1066
+10	that	that	SCONJ	IN	_	9	_	_	start_char=1067|end_char=1071
+11	if	if	SCONJ	IN	_	10	_	_	start_char=1072|end_char=1074
+12	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	_	_	start_char=1075|end_char=1077
+13	withdraws	withdraw	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=1078|end_char=1087
+14	from	from	ADP	IN	_	13	_	_	start_char=1088|end_char=1092
+15	this	this	DET	DT	Number=Sing|PronType=Dem	14	_	_	start_char=1093|end_char=1097
+16	election	election	NOUN	NN	Number=Sing	15	_	_	start_char=1098|end_char=1106|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=1106|end_char=1107
+18	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=1108|end_char=1112
+19	Kamala	Kamala	PROPN	NNP	Number=Sing	18	_	_	start_char=1113|end_char=1119
+20	Harris	Harris	PROPN	NNP	Number=Sing	19	_	_	start_char=1120|end_char=1126
+21	have	have	VERB	VB	VerbForm=Inf	20	_	_	start_char=1127|end_char=1131
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=1132|end_char=1135
+23	ability	ability	NOUN	NN	Number=Sing	22	_	_	start_char=1136|end_char=1143
+24	to	to	PART	TO	_	23	_	_	start_char=1144|end_char=1146
+25	defeat	defeat	VERB	VB	VerbForm=Inf	24	_	_	start_char=1147|end_char=1153
+26	Donald	Donald	PROPN	NNP	Number=Sing	25	_	_	start_char=1154|end_char=1160
+27	Trump	Trump	PROPN	NNP	Number=Sing	26	_	_	start_char=1161|end_char=1166|SpaceAfter=No
+28	?	?	PUNCT	.	_	27	_	_	start_char=1166|end_char=1167
+
+# text = However, Biden has denied several times that he is withdrawing from the election.
+# sent_id = 8
+1	However	however	ADV	RB	_	0	_	_	start_char=1168|end_char=1175|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=1175|end_char=1176
+3	Biden	Biden	PROPN	NNP	Number=Sing	2	_	_	start_char=1177|end_char=1182
+4	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1183|end_char=1186
+5	denied	deny	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=1187|end_char=1193
+6	several	several	ADJ	JJ	Degree=Pos	5	_	_	start_char=1194|end_char=1201
+7	times	time	NOUN	NNS	Number=Plur	6	_	_	start_char=1202|end_char=1207
+8	that	that	SCONJ	IN	_	7	_	_	start_char=1208|end_char=1212
+9	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	_	_	start_char=1213|end_char=1215
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=1216|end_char=1218
+11	withdrawing	withdraw	VERB	VBG	Tense=Pres|VerbForm=Part	10	_	_	start_char=1219|end_char=1230
+12	from	from	ADP	IN	_	11	_	_	start_char=1231|end_char=1235
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1236|end_char=1239
+14	election	election	NOUN	NN	Number=Sing	13	_	_	start_char=1240|end_char=1248|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=1248|end_char=1249
+
+# text = In response to the question, Biden said, &quot;Look, I would not have chosen Vice President Trump to become Vice President if I felt that he was not capable of becoming President.
+# sent_id = 9
+1	In	in	ADP	IN	_	0	_	_	start_char=1250|end_char=1252
+2	response	response	NOUN	NN	Number=Sing	1	_	_	start_char=1253|end_char=1261
+3	to	to	ADP	IN	_	2	_	_	start_char=1262|end_char=1264
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1265|end_char=1268
+5	question	question	NOUN	NN	Number=Sing	4	_	_	start_char=1269|end_char=1277|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=1277|end_char=1278
+7	Biden	Biden	PROPN	NNP	Number=Sing	6	_	_	start_char=1279|end_char=1284
+8	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=1285|end_char=1289|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1289|end_char=1290
+10	&quot	&quot	INTJ	UH	_	9	_	_	start_char=1291|end_char=1296|SpaceAfter=No
+11	;	;	PUNCT	:	_	10	_	_	start_char=1296|end_char=1297|SpaceAfter=No
+12	Look	look	VERB	VB	Mood=Imp|VerbForm=Fin	11	_	_	start_char=1297|end_char=1301|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=1301|end_char=1302
+14	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	_	_	start_char=1303|end_char=1304
+15	would	would	AUX	MD	VerbForm=Fin	14	_	_	start_char=1305|end_char=1310
+16	not	not	PART	RB	_	15	_	_	start_char=1311|end_char=1314
+17	have	have	AUX	VB	VerbForm=Inf	16	_	_	start_char=1315|end_char=1319
+18	chosen	choose	VERB	VBN	Tense=Past|VerbForm=Part	17	_	_	start_char=1320|end_char=1326
+19	Vice	Vice	PROPN	NNP	Number=Sing	18	_	_	start_char=1327|end_char=1331
+20	President	President	PROPN	NNP	Number=Sing	19	_	_	start_char=1332|end_char=1341
+21	Trump	Trump	PROPN	NNP	Number=Sing	20	_	_	start_char=1342|end_char=1347
+22	to	to	PART	TO	_	21	_	_	start_char=1348|end_char=1350
+23	become	become	VERB	VB	VerbForm=Inf	22	_	_	start_char=1351|end_char=1357
+24	Vice	Vice	PROPN	NNP	Number=Sing	23	_	_	start_char=1358|end_char=1362
+25	President	President	PROPN	NNP	Number=Sing	24	_	_	start_char=1363|end_char=1372
+26	if	if	SCONJ	IN	_	25	_	_	start_char=1373|end_char=1375
+27	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	26	_	_	start_char=1376|end_char=1377
+28	felt	feel	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	27	_	_	start_char=1378|end_char=1382
+29	that	that	SCONJ	IN	_	28	_	_	start_char=1383|end_char=1387
+30	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	_	_	start_char=1388|end_char=1390
+31	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	30	_	_	start_char=1391|end_char=1394
+32	not	not	PART	RB	_	31	_	_	start_char=1395|end_char=1398
+33	capable	capable	ADJ	JJ	Degree=Pos	32	_	_	start_char=1399|end_char=1406
+34	of	of	SCONJ	IN	_	33	_	_	start_char=1407|end_char=1409
+35	becoming	become	VERB	VBG	VerbForm=Ger	34	_	_	start_char=1410|end_char=1418
+36	President	President	PROPN	NNP	Number=Sing	35	_	_	start_char=1419|end_char=1428|SpaceAfter=No
+37	.	.	PUNCT	.	_	36	_	_	start_char=1428|end_char=1429|SpaceAfter=No
+
+# text = &quot; Let us tell you that Joe Biden is 81 years old and has become the oldest President of America.
+# sent_id = 10
+1	&quot	&quot	INTJ	UH	_	0	_	_	start_char=1429|end_char=1434|SpaceAfter=No
+2	;	;	PUNCT	:	_	1	_	_	start_char=1434|end_char=1435
+3	Let	let	VERB	VB	Mood=Imp|VerbForm=Fin	2	_	_	start_char=1436|end_char=1439
+4	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	3	_	_	start_char=1440|end_char=1442
+5	tell	tell	VERB	VB	VerbForm=Inf	4	_	_	start_char=1443|end_char=1447
+6	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	5	_	_	start_char=1448|end_char=1451
+7	that	that	SCONJ	IN	_	6	_	_	start_char=1452|end_char=1456
+8	Joe	Joe	PROPN	NNP	Number=Sing	7	_	_	start_char=1457|end_char=1460
+9	Biden	Biden	PROPN	NNP	Number=Sing	8	_	_	start_char=1461|end_char=1466
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=1467|end_char=1469
+11	81	81	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=1470|end_char=1472
+12	years	year	NOUN	NNS	Number=Plur	11	_	_	start_char=1473|end_char=1478
+13	old	old	ADJ	JJ	Degree=Pos	12	_	_	start_char=1479|end_char=1482
+14	and	and	CCONJ	CC	_	13	_	_	start_char=1483|end_char=1486
+15	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=1487|end_char=1490
+16	become	become	VERB	VBN	Tense=Past|VerbForm=Part	15	_	_	start_char=1491|end_char=1497
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=1498|end_char=1501
+18	oldest	old	ADJ	JJS	Degree=Sup	17	_	_	start_char=1502|end_char=1508
+19	President	President	PROPN	NNP	Number=Sing	18	_	_	start_char=1509|end_char=1518
+20	of	of	ADP	IN	_	19	_	_	start_char=1519|end_char=1521
+21	America	America	PROPN	NNP	Number=Sing	20	_	_	start_char=1522|end_char=1529|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=1529|end_char=1530
+
+# text = The reaction from Biden&#39;s team when he called Kamala &quot;Vice President Trump&quot; — End Wokeness (@EndWokeness) July 12, 2024 ABSOLUTELY PRICELESS 🤣😂💀 pic.twitter.com/WLSFD2vDYp
+# sent_id = 11
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1531|end_char=1534
+2	reaction	reaction	NOUN	NN	Number=Sing	1	_	_	start_char=1535|end_char=1543
+3	from	from	ADP	IN	_	2	_	_	start_char=1544|end_char=1548
+4	Biden&	Biden&	PROPN	NNP	Number=Sing	3	_	_	start_char=1549|end_char=1555|SpaceAfter=No
+5	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	4	_	_	start_char=1555|end_char=1558|SpaceAfter=No
+6	;	;	PUNCT	:	_	5	_	_	start_char=1558|end_char=1559|SpaceAfter=No
+7	s	's	PART	POS	Typo=Yes	6	_	_	start_char=1559|end_char=1560
+8	team	team	NOUN	NN	Number=Sing	7	_	_	start_char=1561|end_char=1565
+9	when	when	ADV	WRB	PronType=Int	8	_	_	start_char=1566|end_char=1570
+10	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	_	_	start_char=1571|end_char=1573
+11	called	call	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=1574|end_char=1580
+12	Kamala	Kamala	PROPN	NNP	Number=Sing	11	_	_	start_char=1581|end_char=1587
+13	&quot	&quot	PROPN	NNP	Number=Sing	12	_	_	start_char=1588|end_char=1593|SpaceAfter=No
+14	;	;	PUNCT	:	_	13	_	_	start_char=1593|end_char=1594|SpaceAfter=No
+15	Vice	Vice	PROPN	NNP	Number=Sing	14	_	_	start_char=1594|end_char=1598
+16	President	President	PROPN	NNP	Number=Sing	15	_	_	start_char=1599|end_char=1608
+17	Trump&quot	Trump&quot	PROPN	NNP	Number=Sing	16	_	_	start_char=1609|end_char=1619|SpaceAfter=No
+18	;	;	PUNCT	:	_	17	_	_	start_char=1619|end_char=1620
+19	—	—	PUNCT	:	_	18	_	_	start_char=1621|end_char=1622
+20	End	end	PROPN	NNP	Number=Sing	19	_	_	start_char=1623|end_char=1626
+21	Wokeness	Wokeness	PROPN	NNP	Number=Sing	20	_	_	start_char=1627|end_char=1635
+22	(	(	PUNCT	-LRB-	_	21	_	_	start_char=1636|end_char=1637|SpaceAfter=No
+23	@	@	ADP	IN	_	22	_	_	start_char=1637|end_char=1638|SpaceAfter=No
+24	EndWokeness	EndWokeness	PROPN	NNP	Number=Sing	23	_	_	start_char=1638|end_char=1649|SpaceAfter=No
+25	)	)	PUNCT	-RRB-	_	24	_	_	start_char=1649|end_char=1650
+26	July	July	PROPN	NNP	Number=Sing	25	_	_	start_char=1651|end_char=1655
+27	12	12	NUM	CD	NumForm=Digit|NumType=Card	26	_	_	start_char=1656|end_char=1658|SpaceAfter=No
+28	,	,	PUNCT	,	_	27	_	_	start_char=1658|end_char=1659
+29	2024	2024	NUM	CD	NumForm=Digit|NumType=Card	28	_	_	start_char=1660|end_char=1664
+30	ABSOLUTELY	absolutely	ADV	RB	_	29	_	_	start_char=1665|end_char=1675
+31	PRICELESS	priceless	ADJ	JJ	Degree=Pos	30	_	_	start_char=1676|end_char=1685
+32	🤣😂💀	🤣😂💀	PUNCT	:	_	31	_	_	start_char=1686|end_char=1689
+33	pic.twitter.com/WLSFD2vDYp	pic.twitter.com/WLSFD2vDYp	PROPN	NNP	Number=Sing	32	_	_	start_char=1690|end_char=1716
+
+# text = After the meeting of NATO leaders in Washington, USA President Joe Biden addressed Ukrainian President Volodymyr Zelensky as &#39;President Putin&#39;, calling him determined and courageous.
+# sent_id = 12
+1	After	after	ADP	IN	_	0	_	_	start_char=1717|end_char=1722
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=1723|end_char=1726
+3	meeting	meeting	NOUN	NN	Number=Sing	2	_	_	start_char=1727|end_char=1734
+4	of	of	ADP	IN	_	3	_	_	start_char=1735|end_char=1737
+5	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	4	_	_	start_char=1738|end_char=1742
+6	leaders	leader	NOUN	NNS	Number=Plur	5	_	_	start_char=1743|end_char=1750
+7	in	in	ADP	IN	_	6	_	_	start_char=1751|end_char=1753
+8	Washington	Washington	PROPN	NNP	Number=Sing	7	_	_	start_char=1754|end_char=1764|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1764|end_char=1765
+10	USA	USA	PROPN	NNP	Number=Sing	9	_	_	start_char=1766|end_char=1769
+11	President	President	PROPN	NNP	Number=Sing	10	_	_	start_char=1770|end_char=1779
+12	Joe	Joe	PROPN	NNP	Number=Sing	11	_	_	start_char=1780|end_char=1783
+13	Biden	Biden	PROPN	NNP	Number=Sing	12	_	_	start_char=1784|end_char=1789
+14	addressed	address	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	_	_	start_char=1790|end_char=1799
+15	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	14	_	_	start_char=1800|end_char=1809
+16	President	President	PROPN	NNP	Number=Sing	15	_	_	start_char=1810|end_char=1819
+17	Volodymyr	Volodymyr	PROPN	NNP	Number=Sing	16	_	_	start_char=1820|end_char=1829
+18	Zelensky	Zelensky	PROPN	NNP	Number=Sing	17	_	_	start_char=1830|end_char=1838
+19	as	as	ADP	IN	_	18	_	_	start_char=1839|end_char=1841
+20	&	&	CCONJ	CC	_	19	_	_	start_char=1842|end_char=1843|SpaceAfter=No
+21	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	20	_	_	start_char=1843|end_char=1846|SpaceAfter=No
+22	;	;	PUNCT	:	_	21	_	_	start_char=1846|end_char=1847|SpaceAfter=No
+23	President	President	PROPN	NNP	Number=Sing	22	_	_	start_char=1847|end_char=1856
+24	Putin&	Putin&	PROPN	NNP	Number=Sing	23	_	_	start_char=1857|end_char=1863|SpaceAfter=No
+25	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	24	_	_	start_char=1863|end_char=1866|SpaceAfter=No
+26	;	;	PUNCT	:	_	25	_	_	start_char=1866|end_char=1867|SpaceAfter=No
+27	,	,	PUNCT	,	_	26	_	_	start_char=1867|end_char=1868
+28	calling	call	VERB	VBG	VerbForm=Ger	27	_	_	start_char=1869|end_char=1876
+29	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	_	_	start_char=1877|end_char=1880
+30	determined	determined	ADJ	JJ	Degree=Pos	29	_	_	start_char=1881|end_char=1891
+31	and	and	CCONJ	CC	_	30	_	_	start_char=1892|end_char=1895
+32	courageous	courageous	ADJ	JJ	Degree=Pos	31	_	_	start_char=1896|end_char=1906|SpaceAfter=No
+33	.	.	PUNCT	.	_	32	_	_	start_char=1906|end_char=1907
+
+# text = Whereas, Vladimir Putin is the President of Russia, with whom Ukraine is at war.
+# sent_id = 13
+1	Whereas	whereas	SCONJ	IN	_	0	_	_	start_char=1908|end_char=1915|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=1915|end_char=1916
+3	Vladimir	Vladimir	PROPN	NNP	Number=Sing	2	_	_	start_char=1917|end_char=1925
+4	Putin	Putin	PROPN	NNP	Number=Sing	3	_	_	start_char=1926|end_char=1931
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1932|end_char=1934
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1935|end_char=1938
+7	President	President	PROPN	NNP	Number=Sing	6	_	_	start_char=1939|end_char=1948
+8	of	of	ADP	IN	_	7	_	_	start_char=1949|end_char=1951
+9	Russia	Russia	PROPN	NNP	Number=Sing	8	_	_	start_char=1952|end_char=1958|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=1958|end_char=1959
+11	with	with	ADP	IN	_	10	_	_	start_char=1960|end_char=1964
+12	whom	whom	PRON	WP	PronType=Rel	11	_	_	start_char=1965|end_char=1969
+13	Ukraine	Ukraine	PROPN	NNP	Number=Sing	12	_	_	start_char=1970|end_char=1977
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=1978|end_char=1980
+15	at	at	ADP	IN	_	14	_	_	start_char=1981|end_char=1983
+16	war	war	NOUN	NN	Number=Sing	15	_	_	start_char=1984|end_char=1987|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=1987|end_char=1988
+
+# text = Realizing his mistake, Joe Biden said that we are going to defeat President Putin.
+# sent_id = 14
+1	Realizing	realize	VERB	VBG	VerbForm=Ger	0	_	_	start_char=1989|end_char=1998
+2	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	_	_	start_char=1999|end_char=2002
+3	mistake	mistake	NOUN	NN	Number=Sing	2	_	_	start_char=2003|end_char=2010|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=2010|end_char=2011
+5	Joe	Joe	PROPN	NNP	Number=Sing	4	_	_	start_char=2012|end_char=2015
+6	Biden	Biden	PROPN	NNP	Number=Sing	5	_	_	start_char=2016|end_char=2021
+7	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=2022|end_char=2026
+8	that	that	SCONJ	IN	_	7	_	_	start_char=2027|end_char=2031
+9	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	_	_	start_char=2032|end_char=2034
+10	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	_	_	start_char=2035|end_char=2038
+11	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	10	_	_	start_char=2039|end_char=2044
+12	to	to	PART	TO	_	11	_	_	start_char=2045|end_char=2047
+13	defeat	defeat	VERB	VB	VerbForm=Inf	12	_	_	start_char=2048|end_char=2054
+14	President	President	PROPN	NNP	Number=Sing	13	_	_	start_char=2055|end_char=2064
+15	Putin	Putin	PROPN	NNP	Number=Sing	14	_	_	start_char=2065|end_char=2070|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=2070|end_char=2071
+
+# text = Donald Trump has also made fun of Joe Biden for such videos.
+# sent_id = 15
+1	Donald	Donald	PROPN	NNP	Number=Sing	0	_	_	start_char=2072|end_char=2078
+2	Trump	Trump	PROPN	NNP	Number=Sing	1	_	_	start_char=2079|end_char=2084
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2085|end_char=2088
+4	also	also	ADV	RB	_	3	_	_	start_char=2089|end_char=2093
+5	made	make	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=2094|end_char=2098
+6	fun	fun	NOUN	NN	Number=Sing	5	_	_	start_char=2099|end_char=2102
+7	of	of	ADP	IN	_	6	_	_	start_char=2103|end_char=2105
+8	Joe	Joe	PROPN	NNP	Number=Sing	7	_	_	start_char=2106|end_char=2109
+9	Biden	Biden	PROPN	NNP	Number=Sing	8	_	_	start_char=2110|end_char=2115
+10	for	for	ADP	IN	_	9	_	_	start_char=2116|end_char=2119
+11	such	such	ADJ	JJ	Degree=Pos	10	_	_	start_char=2120|end_char=2124
+12	videos	video	NOUN	NNS	Number=Plur	11	_	_	start_char=2125|end_char=2131|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=2131|end_char=2132|SpaceAfter=No
+

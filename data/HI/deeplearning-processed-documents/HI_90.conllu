@@ -1,0 +1,427 @@
+# text = Russia Ukraine War: Putin&#39;s serious warning, of attack on Western countries ...
+# sent_id = 0
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=6
+2	Ukraine	Ukraine	PROPN	NNP	Number=Sing	1	_	_	start_char=7|end_char=14
+3	War	War	PROPN	NNP	Number=Sing	2	_	_	start_char=15|end_char=18|SpaceAfter=No
+4	:	:	PUNCT	:	_	3	_	_	start_char=18|end_char=19
+5	Putin&	Putin&	PROPN	NNP	Number=Sing	4	_	_	start_char=20|end_char=26|SpaceAfter=No
+6	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	5	_	_	start_char=26|end_char=29|SpaceAfter=No
+7	;	;	PUNCT	:	_	6	_	_	start_char=29|end_char=30|SpaceAfter=No
+8	s	's	PART	POS	Typo=Yes	7	_	_	start_char=30|end_char=31
+9	serious	serious	ADJ	JJ	Degree=Pos	8	_	_	start_char=32|end_char=39
+10	warning	warning	NOUN	NN	Number=Sing	9	_	_	start_char=40|end_char=47|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=47|end_char=48
+12	of	of	ADP	IN	_	11	_	_	start_char=49|end_char=51
+13	attack	attack	NOUN	NN	Number=Sing	12	_	_	start_char=52|end_char=58
+14	on	on	ADP	IN	_	13	_	_	start_char=59|end_char=61
+15	Western	western	ADJ	JJ	Degree=Pos	14	_	_	start_char=62|end_char=69
+16	countries	country	NOUN	NNS	Number=Plur	15	_	_	start_char=70|end_char=79
+17	...	...	PUNCT	.	_	16	_	_	start_char=80|end_char=83
+
+# text = It has been almost three years since the Russia-Ukraine war, but neither Ukraine has taken any step towards peace nor is Russia ready to stop.
+# sent_id = 1
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=84|end_char=86
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=87|end_char=90
+3	been	be	AUX	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=91|end_char=95
+4	almost	almost	ADV	RB	_	3	_	_	start_char=96|end_char=102
+5	three	three	NUM	CD	NumForm=Word|NumType=Card	4	_	_	start_char=103|end_char=108
+6	years	year	NOUN	NNS	Number=Plur	5	_	_	start_char=109|end_char=114
+7	since	since	ADP	IN	_	6	_	_	start_char=115|end_char=120
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=121|end_char=124
+9	Russia	Russia	PROPN	NNP	Number=Sing	8	_	_	start_char=125|end_char=131|SpaceAfter=No
+10	-	-	PUNCT	HYPH	_	9	_	_	start_char=131|end_char=132|SpaceAfter=No
+11	Ukraine	Ukraine	PROPN	NNP	Number=Sing	10	_	_	start_char=132|end_char=139
+12	war	war	NOUN	NN	Number=Sing	11	_	_	start_char=140|end_char=143|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=143|end_char=144
+14	but	but	CCONJ	CC	_	13	_	_	start_char=145|end_char=148
+15	neither	neither	DET	DT	_	14	_	_	start_char=149|end_char=156
+16	Ukraine	Ukraine	PROPN	NNP	Number=Sing	15	_	_	start_char=157|end_char=164
+17	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=165|end_char=168
+18	taken	take	VERB	VBN	Tense=Past|VerbForm=Part	17	_	_	start_char=169|end_char=174
+19	any	any	DET	DT	_	18	_	_	start_char=175|end_char=178
+20	step	step	NOUN	NN	Number=Sing	19	_	_	start_char=179|end_char=183
+21	towards	towards	ADP	IN	_	20	_	_	start_char=184|end_char=191
+22	peace	peace	NOUN	NN	Number=Sing	21	_	_	start_char=192|end_char=197
+23	nor	nor	CCONJ	CC	_	22	_	_	start_char=198|end_char=201
+24	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	_	_	start_char=202|end_char=204
+25	Russia	Russia	PROPN	NNP	Number=Sing	24	_	_	start_char=205|end_char=211
+26	ready	ready	ADJ	JJ	Degree=Pos	25	_	_	start_char=212|end_char=217
+27	to	to	PART	TO	_	26	_	_	start_char=218|end_char=220
+28	stop	stop	VERB	VB	VerbForm=Inf	27	_	_	start_char=221|end_char=225|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=225|end_char=226
+
+# text = Western countries are continuously supplying weapons to Ukraine to fight the war against Russia.
+# sent_id = 2
+1	Western	western	ADJ	JJ	Degree=Pos	0	_	_	start_char=227|end_char=234
+2	countries	country	NOUN	NNS	Number=Plur	1	_	_	start_char=235|end_char=244
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=245|end_char=248
+4	continuously	continuously	ADV	RB	_	3	_	_	start_char=249|end_char=261
+5	supplying	supply	VERB	VBG	Tense=Pres|VerbForm=Part	4	_	_	start_char=262|end_char=271
+6	weapons	weapon	NOUN	NNS	Number=Plur	5	_	_	start_char=272|end_char=279
+7	to	to	ADP	IN	_	6	_	_	start_char=280|end_char=282
+8	Ukraine	Ukraine	PROPN	NNP	Number=Sing	7	_	_	start_char=283|end_char=290
+9	to	to	PART	TO	_	8	_	_	start_char=291|end_char=293
+10	fight	fight	VERB	VB	VerbForm=Inf	9	_	_	start_char=294|end_char=299
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=300|end_char=303
+12	war	war	NOUN	NN	Number=Sing	11	_	_	start_char=304|end_char=307
+13	against	against	ADP	IN	_	12	_	_	start_char=308|end_char=315
+14	Russia	Russia	PROPN	NNP	Number=Sing	13	_	_	start_char=316|end_char=322|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=322|end_char=323
+
+# text = On this, Russian President Vladimir Putin has once again criticized the Western countries.
+# sent_id = 3
+1	On	on	ADP	IN	_	0	_	_	start_char=324|end_char=326
+2	this	this	PRON	DT	Number=Sing|PronType=Dem	1	_	_	start_char=327|end_char=331|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=331|end_char=332
+4	Russian	Russian	ADJ	JJ	Degree=Pos	3	_	_	start_char=333|end_char=340
+5	President	President	PROPN	NNP	Number=Sing	4	_	_	start_char=341|end_char=350
+6	Vladimir	Vladimir	PROPN	NNP	Number=Sing	5	_	_	start_char=351|end_char=359
+7	Putin	Putin	PROPN	NNP	Number=Sing	6	_	_	start_char=360|end_char=365
+8	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=366|end_char=369
+9	once	once	ADV	RB	NumType=Mult	8	_	_	start_char=370|end_char=374
+10	again	again	ADV	RB	_	9	_	_	start_char=375|end_char=380
+11	criticized	criticize	VERB	VBN	Tense=Past|VerbForm=Part	10	_	_	start_char=381|end_char=391
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=392|end_char=395
+13	Western	western	ADJ	JJ	Degree=Pos	12	_	_	start_char=396|end_char=403
+14	countries	country	NOUN	NNS	Number=Plur	13	_	_	start_char=404|end_char=413|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=413|end_char=414
+
+# text = He also warned that he can also give similar destructive weapons to other countries to attack Western countries.
+# sent_id = 4
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=415|end_char=417
+2	also	also	ADV	RB	_	1	_	_	start_char=418|end_char=422
+3	warned	warn	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=423|end_char=429
+4	that	that	SCONJ	IN	_	3	_	_	start_char=430|end_char=434
+5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	_	_	start_char=435|end_char=437
+6	can	can	AUX	MD	VerbForm=Fin	5	_	_	start_char=438|end_char=441
+7	also	also	ADV	RB	_	6	_	_	start_char=442|end_char=446
+8	give	give	VERB	VB	VerbForm=Inf	7	_	_	start_char=447|end_char=451
+9	similar	similar	ADJ	JJ	Degree=Pos	8	_	_	start_char=452|end_char=459
+10	destructive	destructive	ADJ	JJ	Degree=Pos	9	_	_	start_char=460|end_char=471
+11	weapons	weapon	NOUN	NNS	Number=Plur	10	_	_	start_char=472|end_char=479
+12	to	to	ADP	IN	_	11	_	_	start_char=480|end_char=482
+13	other	other	ADJ	JJ	Degree=Pos	12	_	_	start_char=483|end_char=488
+14	countries	country	NOUN	NNS	Number=Plur	13	_	_	start_char=489|end_char=498
+15	to	to	PART	TO	_	14	_	_	start_char=499|end_char=501
+16	attack	attack	VERB	VB	VerbForm=Inf	15	_	_	start_char=502|end_char=508
+17	Western	western	ADJ	JJ	Degree=Pos	16	_	_	start_char=509|end_char=516
+18	countries	country	NOUN	NNS	Number=Plur	17	_	_	start_char=517|end_char=526|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=526|end_char=527
+
+# text = President Putin was speaking at a press conference in St. Petersburg.
+# sent_id = 5
+1	President	President	PROPN	NNP	Number=Sing	0	_	_	start_char=528|end_char=537
+2	Putin	Putin	PROPN	NNP	Number=Sing	1	_	_	start_char=538|end_char=543
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=544|end_char=547
+4	speaking	speak	VERB	VBG	Tense=Pres|VerbForm=Part	3	_	_	start_char=548|end_char=556
+5	at	at	ADP	IN	_	4	_	_	start_char=557|end_char=559
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=560|end_char=561
+7	press	press	NOUN	NN	Number=Sing	6	_	_	start_char=562|end_char=567
+8	conference	conference	NOUN	NN	Number=Sing	7	_	_	start_char=568|end_char=578
+9	in	in	ADP	IN	_	8	_	_	start_char=579|end_char=581
+10	St.	St.	PROPN	NNP	Number=Sing	9	_	_	start_char=582|end_char=585
+11	Petersburg	Petersburg	PROPN	NNP	Number=Sing	10	_	_	start_char=586|end_char=596|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=596|end_char=597
+
+# text = During the same time, he gave this warning about Western countries.
+# sent_id = 6
+1	During	during	ADP	IN	_	0	_	_	start_char=598|end_char=604
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=605|end_char=608
+3	same	same	ADJ	JJ	Degree=Pos	2	_	_	start_char=609|end_char=613
+4	time	time	NOUN	NN	Number=Sing	3	_	_	start_char=614|end_char=618|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=618|end_char=619
+6	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	_	_	start_char=620|end_char=622
+7	gave	give	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=623|end_char=627
+8	this	this	DET	DT	Number=Sing|PronType=Dem	7	_	_	start_char=628|end_char=632
+9	warning	warning	NOUN	NN	Number=Sing	8	_	_	start_char=633|end_char=640
+10	about	about	ADP	IN	_	9	_	_	start_char=641|end_char=646
+11	Western	western	ADJ	JJ	Degree=Pos	10	_	_	start_char=647|end_char=654
+12	countries	country	NOUN	NNS	Number=Plur	11	_	_	start_char=655|end_char=664|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=664|end_char=665
+
+# text = He said that if someone thinks that he can give such weapons in the war zone to create problems for us, then why can&#39;t we?
+# sent_id = 7
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=666|end_char=668
+2	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=669|end_char=673
+3	that	that	SCONJ	IN	_	2	_	_	start_char=674|end_char=678
+4	if	if	SCONJ	IN	_	3	_	_	start_char=679|end_char=681
+5	someone	someone	PRON	NN	Number=Sing|PronType=Ind	4	_	_	start_char=682|end_char=689
+6	thinks	think	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=690|end_char=696
+7	that	that	SCONJ	IN	_	6	_	_	start_char=697|end_char=701
+8	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	_	_	start_char=702|end_char=704
+9	can	can	AUX	MD	VerbForm=Fin	8	_	_	start_char=705|end_char=708
+10	give	give	VERB	VB	VerbForm=Inf	9	_	_	start_char=709|end_char=713
+11	such	such	ADJ	JJ	Degree=Pos	10	_	_	start_char=714|end_char=718
+12	weapons	weapon	NOUN	NNS	Number=Plur	11	_	_	start_char=719|end_char=726
+13	in	in	ADP	IN	_	12	_	_	start_char=727|end_char=729
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=730|end_char=733
+15	war	war	NOUN	NN	Number=Sing	14	_	_	start_char=734|end_char=737
+16	zone	zone	NOUN	NN	Number=Sing	15	_	_	start_char=738|end_char=742
+17	to	to	PART	TO	_	16	_	_	start_char=743|end_char=745
+18	create	create	VERB	VB	VerbForm=Inf	17	_	_	start_char=746|end_char=752
+19	problems	problem	NOUN	NNS	Number=Plur	18	_	_	start_char=753|end_char=761
+20	for	for	ADP	IN	_	19	_	_	start_char=762|end_char=765
+21	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	20	_	_	start_char=766|end_char=768|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=768|end_char=769
+23	then	then	ADV	RB	PronType=Dem	22	_	_	start_char=770|end_char=774
+24	why	why	ADV	WRB	PronType=Int	23	_	_	start_char=775|end_char=778
+25	can&#39	can&#39	PROPN	NNP	Number=Sing	24	_	_	start_char=779|end_char=786|SpaceAfter=No
+26	;	;	PUNCT	:	_	25	_	_	start_char=786|end_char=787|SpaceAfter=No
+27	t	t	INTJ	UH	_	26	_	_	start_char=787|end_char=788
+28	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	27	_	_	start_char=789|end_char=791|SpaceAfter=No
+29	?	?	PUNCT	.	_	28	_	_	start_char=791|end_char=792
+
+# text = Putin said this after an American senator admitted that American weapons were used in the recent attack by Ukraine on Russian land.
+# sent_id = 8
+1	Putin	Putin	PROPN	NNP	Number=Sing	0	_	_	start_char=793|end_char=798
+2	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=799|end_char=803
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	2	_	_	start_char=804|end_char=808
+4	after	after	SCONJ	IN	_	3	_	_	start_char=809|end_char=814
+5	an	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=815|end_char=817
+6	American	American	ADJ	JJ	Degree=Pos	5	_	_	start_char=818|end_char=826
+7	senator	senator	NOUN	NN	Number=Sing	6	_	_	start_char=827|end_char=834
+8	admitted	admit	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=835|end_char=843
+9	that	that	SCONJ	IN	_	8	_	_	start_char=844|end_char=848
+10	American	American	ADJ	JJ	Degree=Pos	9	_	_	start_char=849|end_char=857
+11	weapons	weapon	NOUN	NNS	Number=Plur	10	_	_	start_char=858|end_char=865
+12	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=866|end_char=870
+13	used	use	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	12	_	_	start_char=871|end_char=875
+14	in	in	ADP	IN	_	13	_	_	start_char=876|end_char=878
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=879|end_char=882
+16	recent	recent	ADJ	JJ	Degree=Pos	15	_	_	start_char=883|end_char=889
+17	attack	attack	NOUN	NN	Number=Sing	16	_	_	start_char=890|end_char=896
+18	by	by	ADP	IN	_	17	_	_	start_char=897|end_char=899
+19	Ukraine	Ukraine	PROPN	NNP	Number=Sing	18	_	_	start_char=900|end_char=907
+20	on	on	ADP	IN	_	19	_	_	start_char=908|end_char=910
+21	Russian	Russian	ADJ	JJ	Degree=Pos	20	_	_	start_char=911|end_char=918
+22	land	land	NOUN	NN	Number=Sing	21	_	_	start_char=919|end_char=923|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=923|end_char=924
+
+# text = Also read: US: A straw in the beard or something else?
+# sent_id = 9
+1	Also	also	ADV	RB	_	0	_	_	start_char=925|end_char=929
+2	read	read	VERB	VB	Mood=Imp|VerbForm=Fin	1	_	_	start_char=930|end_char=934|SpaceAfter=No
+3	:	:	PUNCT	:	_	2	_	_	start_char=934|end_char=935
+4	US	US	PROPN	NNP	Number=Sing	3	_	_	start_char=936|end_char=938|SpaceAfter=No
+5	:	:	PUNCT	:	_	4	_	_	start_char=938|end_char=939
+6	A	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=940|end_char=941
+7	straw	straw	NOUN	NN	Number=Sing	6	_	_	start_char=942|end_char=947
+8	in	in	ADP	IN	_	7	_	_	start_char=948|end_char=950
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=951|end_char=954
+10	beard	beard	NOUN	NN	Number=Sing	9	_	_	start_char=955|end_char=960
+11	or	or	CCONJ	CC	_	10	_	_	start_char=961|end_char=963
+12	something	something	PRON	NN	Number=Sing|PronType=Ind	11	_	_	start_char=964|end_char=973
+13	else	else	ADJ	JJ	Degree=Pos	12	_	_	start_char=974|end_char=978|SpaceAfter=No
+14	?	?	PUNCT	.	_	13	_	_	start_char=978|end_char=979
+
+# text = Why did America mention the interference of foreign powers in the elections?
+# sent_id = 10
+1	Why	why	ADV	WRB	PronType=Int	0	_	_	start_char=980|end_char=983
+2	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=984|end_char=987
+3	America	America	PROPN	NNP	Number=Sing	2	_	_	start_char=988|end_char=995
+4	mention	mention	VERB	VB	VerbForm=Inf	3	_	_	start_char=996|end_char=1003
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1004|end_char=1007
+6	interference	interference	NOUN	NN	Number=Sing	5	_	_	start_char=1008|end_char=1020
+7	of	of	ADP	IN	_	6	_	_	start_char=1021|end_char=1023
+8	foreign	foreign	ADJ	JJ	Degree=Pos	7	_	_	start_char=1024|end_char=1031
+9	powers	power	NOUN	NNS	Number=Plur	8	_	_	start_char=1032|end_char=1038
+10	in	in	ADP	IN	_	9	_	_	start_char=1039|end_char=1041
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=1042|end_char=1045
+12	elections	election	NOUN	NNS	Number=Plur	11	_	_	start_char=1046|end_char=1055|SpaceAfter=No
+13	?	?	PUNCT	.	_	12	_	_	start_char=1055|end_char=1056
+
+# text = What is the whole matter
+# sent_id = 11
+1	What	what	PRON	WP	PronType=Int	0	_	_	start_char=1057|end_char=1061
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1062|end_char=1064
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1065|end_char=1068
+4	whole	whole	ADJ	JJ	Degree=Pos	3	_	_	start_char=1069|end_char=1074
+5	matter	matter	NOUN	NN	Number=Sing	4	_	_	start_char=1075|end_char=1081
+
+# text = It is worth noting that recently Mike Rounds, a member of the US Senate Armed Services Committee and Republican Senator from South Dakota, confirmed attacks with American weapons inside Russia.
+# sent_id = 12
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1082|end_char=1084
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1085|end_char=1087
+3	worth	worth	ADJ	JJ	Degree=Pos	2	_	_	start_char=1088|end_char=1093
+4	noting	note	VERB	VBG	VerbForm=Ger	3	_	_	start_char=1094|end_char=1100
+5	that	that	SCONJ	IN	_	4	_	_	start_char=1101|end_char=1105
+6	recently	recently	ADV	RB	_	5	_	_	start_char=1106|end_char=1114
+7	Mike	Mike	PROPN	NNP	Number=Sing	6	_	_	start_char=1115|end_char=1119
+8	Rounds	Round	PROPN	NNP	Number=Sing	7	_	_	start_char=1120|end_char=1126|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1126|end_char=1127
+10	a	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=1128|end_char=1129
+11	member	member	NOUN	NN	Number=Sing	10	_	_	start_char=1130|end_char=1136
+12	of	of	ADP	IN	_	11	_	_	start_char=1137|end_char=1139
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1140|end_char=1143
+14	US	US	PROPN	NNP	Number=Sing	13	_	_	start_char=1144|end_char=1146
+15	Senate	Senate	PROPN	NNP	Number=Sing	14	_	_	start_char=1147|end_char=1153
+16	Armed	armed	ADJ	NNP	Degree=Pos	15	_	_	start_char=1154|end_char=1159
+17	Services	Service	PROPN	NNPS	Number=Plur	16	_	_	start_char=1160|end_char=1168
+18	Committee	Committee	PROPN	NNP	Number=Sing	17	_	_	start_char=1169|end_char=1178
+19	and	and	CCONJ	CC	_	18	_	_	start_char=1179|end_char=1182
+20	Republican	Republican	ADJ	JJ	Degree=Pos	19	_	_	start_char=1183|end_char=1193
+21	Senator	Senator	PROPN	NNP	Number=Sing	20	_	_	start_char=1194|end_char=1201
+22	from	from	ADP	IN	_	21	_	_	start_char=1202|end_char=1206
+23	South	South	PROPN	NNP	Number=Sing	22	_	_	start_char=1207|end_char=1212
+24	Dakota	Dakota	PROPN	NNP	Number=Sing	23	_	_	start_char=1213|end_char=1219|SpaceAfter=No
+25	,	,	PUNCT	,	_	24	_	_	start_char=1219|end_char=1220
+26	confirmed	confirm	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	_	_	start_char=1221|end_char=1230
+27	attacks	attack	NOUN	NNS	Number=Plur	26	_	_	start_char=1231|end_char=1238
+28	with	with	ADP	IN	_	27	_	_	start_char=1239|end_char=1243
+29	American	American	ADJ	JJ	Degree=Pos	28	_	_	start_char=1244|end_char=1252
+30	weapons	weapon	NOUN	NNS	Number=Plur	29	_	_	start_char=1253|end_char=1260
+31	inside	inside	ADP	IN	_	30	_	_	start_char=1261|end_char=1267
+32	Russia	Russia	PROPN	NNP	Number=Sing	31	_	_	start_char=1268|end_char=1274|SpaceAfter=No
+33	.	.	PUNCT	.	_	32	_	_	start_char=1274|end_char=1275
+
+# text = According to the senator, for this, President Joe Biden approved weapons to strike inside Russia to protect the Ukrainian city of Kharkiv.
+# sent_id = 13
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=1276|end_char=1285
+2	to	to	ADP	IN	_	1	_	_	start_char=1286|end_char=1288
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1289|end_char=1292
+4	senator	senator	NOUN	NN	Number=Sing	3	_	_	start_char=1293|end_char=1300|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=1300|end_char=1301
+6	for	for	ADP	IN	_	5	_	_	start_char=1302|end_char=1305
+7	this	this	PRON	DT	Number=Sing|PronType=Dem	6	_	_	start_char=1306|end_char=1310|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=1310|end_char=1311
+9	President	President	PROPN	NNP	Number=Sing	8	_	_	start_char=1312|end_char=1321
+10	Joe	Joe	PROPN	NNP	Number=Sing	9	_	_	start_char=1322|end_char=1325
+11	Biden	Biden	PROPN	NNP	Number=Sing	10	_	_	start_char=1326|end_char=1331
+12	approved	approve	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=1332|end_char=1340
+13	weapons	weapon	NOUN	NNS	Number=Plur	12	_	_	start_char=1341|end_char=1348
+14	to	to	PART	TO	_	13	_	_	start_char=1349|end_char=1351
+15	strike	strike	VERB	VB	VerbForm=Inf	14	_	_	start_char=1352|end_char=1358
+16	inside	inside	ADP	IN	_	15	_	_	start_char=1359|end_char=1365
+17	Russia	Russia	PROPN	NNP	Number=Sing	16	_	_	start_char=1366|end_char=1372
+18	to	to	PART	TO	_	17	_	_	start_char=1373|end_char=1375
+19	protect	protect	VERB	VB	VerbForm=Inf	18	_	_	start_char=1376|end_char=1383
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=1384|end_char=1387
+21	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	20	_	_	start_char=1388|end_char=1397
+22	city	city	NOUN	NN	Number=Sing	21	_	_	start_char=1398|end_char=1402
+23	of	of	ADP	IN	_	22	_	_	start_char=1403|end_char=1405
+24	Kharkiv	Kharkiv	PROPN	NNP	Number=Sing	23	_	_	start_char=1406|end_char=1413|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=1413|end_char=1414
+
+# text = These weapons were used to attack the Russian army.
+# sent_id = 14
+1	These	this	DET	DT	Number=Plur|PronType=Dem	0	_	_	start_char=1415|end_char=1420
+2	weapons	weapon	NOUN	NNS	Number=Plur	1	_	_	start_char=1421|end_char=1428
+3	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1429|end_char=1433
+4	used	use	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=1434|end_char=1438
+5	to	to	PART	TO	_	4	_	_	start_char=1439|end_char=1441
+6	attack	attack	VERB	VB	VerbForm=Inf	5	_	_	start_char=1442|end_char=1448
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1449|end_char=1452
+8	Russian	Russian	ADJ	JJ	Degree=Pos	7	_	_	start_char=1453|end_char=1460
+9	army	army	NOUN	NN	Number=Sing	8	_	_	start_char=1461|end_char=1465|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=1465|end_char=1466
+
+# text = The report quoted US officials as saying that the US will not make any changes in its policies regarding Russia.
+# sent_id = 15
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1467|end_char=1470
+2	report	report	NOUN	NN	Number=Sing	1	_	_	start_char=1471|end_char=1477
+3	quoted	quote	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1478|end_char=1484
+4	US	US	PROPN	NNP	Number=Sing	3	_	_	start_char=1485|end_char=1487
+5	officials	official	NOUN	NNS	Number=Plur	4	_	_	start_char=1488|end_char=1497
+6	as	as	SCONJ	IN	_	5	_	_	start_char=1498|end_char=1500
+7	saying	say	VERB	VBG	VerbForm=Ger	6	_	_	start_char=1501|end_char=1507
+8	that	that	SCONJ	IN	_	7	_	_	start_char=1508|end_char=1512
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1513|end_char=1516
+10	US	US	PROPN	NNP	Number=Sing	9	_	_	start_char=1517|end_char=1519
+11	will	will	AUX	MD	VerbForm=Fin	10	_	_	start_char=1520|end_char=1524
+12	not	not	PART	RB	_	11	_	_	start_char=1525|end_char=1528
+13	make	make	VERB	VB	VerbForm=Inf	12	_	_	start_char=1529|end_char=1533
+14	any	any	DET	DT	_	13	_	_	start_char=1534|end_char=1537
+15	changes	change	NOUN	NNS	Number=Plur	14	_	_	start_char=1538|end_char=1545
+16	in	in	ADP	IN	_	15	_	_	start_char=1546|end_char=1548
+17	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	_	_	start_char=1549|end_char=1552
+18	policies	policy	NOUN	NNS	Number=Plur	17	_	_	start_char=1553|end_char=1561
+19	regarding	regard	VERB	VBG	VerbForm=Ger	18	_	_	start_char=1562|end_char=1571
+20	Russia	Russia	PROPN	NNP	Number=Sing	19	_	_	start_char=1572|end_char=1578|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=1578|end_char=1579
+
+# text = Germany also recently allowed the supply of long-range missiles capable of hitting Russian soil to Ukraine, which President Putin termed as a dangerous step and warned of deteriorating Russia-Germany relations.
+# sent_id = 16
+1	Germany	Germany	PROPN	NNP	Number=Sing	0	_	_	start_char=1580|end_char=1587
+2	also	also	ADV	RB	_	1	_	_	start_char=1588|end_char=1592
+3	recently	recently	ADV	RB	_	2	_	_	start_char=1593|end_char=1601
+4	allowed	allow	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=1602|end_char=1609
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1610|end_char=1613
+6	supply	supply	NOUN	NN	Number=Sing	5	_	_	start_char=1614|end_char=1620
+7	of	of	ADP	IN	_	6	_	_	start_char=1621|end_char=1623
+8	long	long	ADJ	JJ	Degree=Pos	7	_	_	start_char=1624|end_char=1628|SpaceAfter=No
+9	-	-	PUNCT	HYPH	_	8	_	_	start_char=1628|end_char=1629|SpaceAfter=No
+10	range	range	NOUN	NN	Number=Sing	9	_	_	start_char=1629|end_char=1634
+11	missiles	missile	NOUN	NNS	Number=Plur	10	_	_	start_char=1635|end_char=1643
+12	capable	capable	ADJ	JJ	Degree=Pos	11	_	_	start_char=1644|end_char=1651
+13	of	of	SCONJ	IN	_	12	_	_	start_char=1652|end_char=1654
+14	hitting	hit	VERB	VBG	VerbForm=Ger	13	_	_	start_char=1655|end_char=1662
+15	Russian	Russian	ADJ	JJ	Degree=Pos	14	_	_	start_char=1663|end_char=1670
+16	soil	soil	NOUN	NN	Number=Sing	15	_	_	start_char=1671|end_char=1675
+17	to	to	ADP	IN	_	16	_	_	start_char=1676|end_char=1678
+18	Ukraine	Ukraine	PROPN	NNP	Number=Sing	17	_	_	start_char=1679|end_char=1686|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=1686|end_char=1687
+20	which	which	PRON	WDT	PronType=Rel	19	_	_	start_char=1688|end_char=1693
+21	President	President	PROPN	NNP	Number=Sing	20	_	_	start_char=1694|end_char=1703
+22	Putin	Putin	PROPN	NNP	Number=Sing	21	_	_	start_char=1704|end_char=1709
+23	termed	term	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	_	_	start_char=1710|end_char=1716
+24	as	as	ADP	IN	_	23	_	_	start_char=1717|end_char=1719
+25	a	a	DET	DT	Definite=Ind|PronType=Art	24	_	_	start_char=1720|end_char=1721
+26	dangerous	dangerous	ADJ	JJ	Degree=Pos	25	_	_	start_char=1722|end_char=1731
+27	step	step	NOUN	NN	Number=Sing	26	_	_	start_char=1732|end_char=1736
+28	and	and	CCONJ	CC	_	27	_	_	start_char=1737|end_char=1740
+29	warned	warn	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	_	_	start_char=1741|end_char=1747
+30	of	of	SCONJ	IN	_	29	_	_	start_char=1748|end_char=1750
+31	deteriorating	deteriorate	VERB	VBG	VerbForm=Ger	30	_	_	start_char=1751|end_char=1764
+32	Russia	Russia	PROPN	NNP	Number=Sing	31	_	_	start_char=1765|end_char=1771|SpaceAfter=No
+33	-	-	PUNCT	HYPH	_	32	_	_	start_char=1771|end_char=1772|SpaceAfter=No
+34	Germany	Germany	PROPN	NNP	Number=Sing	33	_	_	start_char=1772|end_char=1779
+35	relations	relation	NOUN	NNS	Number=Plur	34	_	_	start_char=1780|end_char=1789|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=1789|end_char=1790
+
+# text = According to a June 3 report by the Institute for the Study of War, the Ukrainian military attacked Russian S-300/400 air defenses in Belgorod on June 1 or 2, possibly with high-speed artillery or high-speed Mars rockets.
+# sent_id = 17
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=1791|end_char=1800
+2	to	to	ADP	IN	_	1	_	_	start_char=1801|end_char=1803
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=1804|end_char=1805
+4	June	June	PROPN	NNP	Number=Sing	3	_	_	start_char=1806|end_char=1810
+5	3	3	NUM	CD	NumForm=Digit|NumType=Card	4	_	_	start_char=1811|end_char=1812
+6	report	report	NOUN	NN	Number=Sing	5	_	_	start_char=1813|end_char=1819
+7	by	by	ADP	IN	_	6	_	_	start_char=1820|end_char=1822
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=1823|end_char=1826
+9	Institute	Institute	PROPN	NNP	Number=Sing	8	_	_	start_char=1827|end_char=1836
+10	for	for	ADP	IN	_	9	_	_	start_char=1837|end_char=1840
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=1841|end_char=1844
+12	Study	Study	PROPN	NNP	Number=Sing	11	_	_	start_char=1845|end_char=1850
+13	of	of	ADP	IN	_	12	_	_	start_char=1851|end_char=1853
+14	War	War	PROPN	NNP	Number=Sing	13	_	_	start_char=1854|end_char=1857|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=1857|end_char=1858
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=1859|end_char=1862
+17	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	16	_	_	start_char=1863|end_char=1872
+18	military	military	NOUN	NN	Number=Sing	17	_	_	start_char=1873|end_char=1881
+19	attacked	attack	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	_	_	start_char=1882|end_char=1890
+20	Russian	Russian	ADJ	JJ	Degree=Pos	19	_	_	start_char=1891|end_char=1898
+21	S-300/400	S-300/400	NOUN	NN	Number=Sing	20	_	_	start_char=1899|end_char=1908
+22	air	air	NOUN	NN	Number=Sing	21	_	_	start_char=1909|end_char=1912
+23	defenses	defens	NOUN	NNS	Number=Plur	22	_	_	start_char=1913|end_char=1921
+24	in	in	ADP	IN	_	23	_	_	start_char=1922|end_char=1924
+25	Belgorod	Belgorod	PROPN	NNP	Number=Sing	24	_	_	start_char=1925|end_char=1933
+26	on	on	ADP	IN	_	25	_	_	start_char=1934|end_char=1936
+27	June	June	PROPN	NNP	Number=Sing	26	_	_	start_char=1937|end_char=1941
+28	1	1	NUM	CD	NumForm=Digit|NumType=Card	27	_	_	start_char=1942|end_char=1943
+29	or	or	CCONJ	CC	_	28	_	_	start_char=1944|end_char=1946
+30	2	2	NUM	CD	NumForm=Digit|NumType=Card	29	_	_	start_char=1947|end_char=1948|SpaceAfter=No
+31	,	,	PUNCT	,	_	30	_	_	start_char=1948|end_char=1949
+32	possibly	possibly	ADV	RB	_	31	_	_	start_char=1950|end_char=1958
+33	with	with	ADP	IN	_	32	_	_	start_char=1959|end_char=1963
+34	high	high	ADJ	JJ	Degree=Pos	33	_	_	start_char=1964|end_char=1968|SpaceAfter=No
+35	-	-	PUNCT	HYPH	_	34	_	_	start_char=1968|end_char=1969|SpaceAfter=No
+36	speed	speed	NOUN	NN	Number=Sing	35	_	_	start_char=1969|end_char=1974
+37	artillery	artillery	NOUN	NN	Number=Sing	36	_	_	start_char=1975|end_char=1984
+38	or	or	CCONJ	CC	_	37	_	_	start_char=1985|end_char=1987
+39	high	high	ADJ	JJ	Degree=Pos	38	_	_	start_char=1988|end_char=1992|SpaceAfter=No
+40	-	-	PUNCT	HYPH	_	39	_	_	start_char=1992|end_char=1993|SpaceAfter=No
+41	speed	speed	NOUN	NN	Number=Sing	40	_	_	start_char=1993|end_char=1998
+42	Mars	Mars	PROPN	NNP	Number=Sing	41	_	_	start_char=1999|end_char=2003
+43	rockets	rocket	NOUN	NNS	Number=Plur	42	_	_	start_char=2004|end_char=2011|SpaceAfter=No
+44	.	.	PUNCT	.	_	43	_	_	start_char=2011|end_char=2012|SpaceAfter=No
+
