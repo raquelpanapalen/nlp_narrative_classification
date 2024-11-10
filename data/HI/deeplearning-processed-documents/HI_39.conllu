@@ -657,28 +657,29 @@
 26	stability	stability	NOUN	NN	Number=Sing	25	_	_	start_char=3079|end_char=3088|SpaceAfter=No
 27	.	.	PUNCT	.	_	26	_	_	start_char=3088|end_char=3089
 
-# text = Read more:- Zelensky upset with the meeting of Prime Minister Modi and President Putin.
+# text = :-
 # sent_id = 27
-1	Read	read	VERB	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=3090|end_char=3094
-2	more	more	ADJ	JJR	Degree=Cmp	1	_	_	start_char=3095|end_char=3099|SpaceAfter=No
-3	:-	:-	PUNCT	,	_	2	_	_	start_char=3099|end_char=3101
-4	Zelensky	Zelensky	PROPN	NNP	Number=Sing	3	_	_	start_char=3102|end_char=3110
-5	upset	upset	ADJ	JJ	Degree=Pos	4	_	_	start_char=3111|end_char=3116
-6	with	with	ADP	IN	_	5	_	_	start_char=3117|end_char=3121
-7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=3122|end_char=3125
-8	meeting	meeting	NOUN	NN	Number=Sing	7	_	_	start_char=3126|end_char=3133
-9	of	of	ADP	IN	_	8	_	_	start_char=3134|end_char=3136
-10	Prime	Prime	ADJ	NNP	Degree=Pos	9	_	_	start_char=3137|end_char=3142
-11	Minister	Minister	PROPN	NNP	Number=Sing	10	_	_	start_char=3143|end_char=3151
-12	Modi	Modi	PROPN	NNP	Number=Sing	11	_	_	start_char=3152|end_char=3156
-13	and	and	CCONJ	CC	_	12	_	_	start_char=3157|end_char=3160
-14	President	President	PROPN	NNP	Number=Sing	13	_	_	start_char=3161|end_char=3170
-15	Putin	Putin	PROPN	NNP	Number=Sing	14	_	_	start_char=3171|end_char=3176|SpaceAfter=No
-16	.	.	PUNCT	.	_	15	_	_	start_char=3176|end_char=3177
+1	:-	:-	SYM	NFP	_	0	_	_	start_char=3090|end_char=3092
+
+# text = Zelensky upset with the meeting of Prime Minister Modi and President Putin.
+# sent_id = 28
+1	Zelensky	Zelensky	PROPN	NNP	Number=Sing	0	_	_	start_char=3093|end_char=3101
+2	upset	upset	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=3102|end_char=3107
+3	with	with	ADP	IN	_	2	_	_	start_char=3108|end_char=3112
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=3113|end_char=3116
+5	meeting	meeting	NOUN	NN	Number=Sing	4	_	_	start_char=3117|end_char=3124
+6	of	of	ADP	IN	_	5	_	_	start_char=3125|end_char=3127
+7	Prime	Prime	ADJ	NNP	Degree=Pos	6	_	_	start_char=3128|end_char=3133
+8	Minister	Minister	PROPN	NNP	Number=Sing	7	_	_	start_char=3134|end_char=3142
+9	Modi	Modi	PROPN	NNP	Number=Sing	8	_	_	start_char=3143|end_char=3147
+10	and	and	CCONJ	CC	_	9	_	_	start_char=3148|end_char=3151
+11	President	President	PROPN	NNP	Number=Sing	10	_	_	start_char=3152|end_char=3161
+12	Putin	Putin	PROPN	NNP	Number=Sing	11	_	_	start_char=3162|end_char=3167|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=3167|end_char=3168
 
 # text = Leave a Reply
-# sent_id = 28
-1	Leave	leave	VERB	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=3178|end_char=3183
-2	a	a	DET	DT	Definite=Ind|PronType=Art	1	_	_	start_char=3184|end_char=3185
-3	Reply	reply	NOUN	NN	Number=Sing	2	_	_	start_char=3186|end_char=3191|SpaceAfter=No
+# sent_id = 29
+1	Leave	leave	VERB	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=3169|end_char=3174
+2	a	a	DET	DT	Definite=Ind|PronType=Art	1	_	_	start_char=3175|end_char=3176
+3	Reply	reply	NOUN	NN	Number=Sing	2	_	_	start_char=3177|end_char=3182|SpaceAfter=No
 

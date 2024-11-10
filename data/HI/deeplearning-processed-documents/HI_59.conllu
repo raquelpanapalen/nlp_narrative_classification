@@ -678,7 +678,7 @@
 19	minister	minister	NOUN	NN	Number=Sing	18	_	_	start_char=3120|end_char=3128|SpaceAfter=No
 20	?	?	PUNCT	.	_	19	_	_	start_char=3128|end_char=3129
 
-# text = &#39;Shyam Bohra, Bawdiyakalan, Bhopal Click to like Facebook page - Click to follow on Twitter page -
+# text = &#39;Shyam Bohra, Bawdiyakalan, Bhopal Click to like page - Click to follow on page -
 # sent_id = 19
 1	&#39	&#39	NUM	CD	NumForm=Digit|NumType=Card	0	_	_	start_char=3130|end_char=3134|SpaceAfter=No
 2	;	;	PUNCT	:	_	1	_	_	start_char=3134|end_char=3135|SpaceAfter=No
@@ -690,15 +690,13 @@
 8	Bhopal	Bhopal	PROPN	NNP	Number=Sing	7	_	_	start_char=3162|end_char=3168
 9	Click	click	PROPN	NNP	Number=Sing	8	_	_	start_char=3169|end_char=3174
 10	to	to	ADP	IN	_	9	_	_	start_char=3175|end_char=3177
-11	like	like	ADJ	JJ	Degree=Pos	10	_	_	start_char=3178|end_char=3182
-12	Facebook	Facebook	PROPN	NNP	Number=Sing	11	_	_	start_char=3183|end_char=3191
-13	page	page	NOUN	NN	Number=Sing	12	_	_	start_char=3192|end_char=3196
-14	-	-	PUNCT	,	_	13	_	_	start_char=3197|end_char=3198
-15	Click	click	VERB	VB	Mood=Imp|VerbForm=Fin	14	_	_	start_char=3199|end_char=3204
-16	to	to	PART	TO	_	15	_	_	start_char=3205|end_char=3207
-17	follow	follow	VERB	VB	VerbForm=Inf	16	_	_	start_char=3208|end_char=3214
-18	on	on	ADP	IN	_	17	_	_	start_char=3215|end_char=3217
-19	Twitter	Twitter	PROPN	NNP	Number=Sing	18	_	_	start_char=3218|end_char=3225
-20	page	page	NOUN	NN	Number=Sing	19	_	_	start_char=3226|end_char=3230
-21	-	-	PUNCT	,	_	20	_	_	start_char=3231|end_char=3232|SpaceAfter=No
+11	like	like	ADJ	JJ	Degree=Pos	10	_	_	start_char=3178|end_char=3182|SpacesAfter=\s\s
+12	page	page	NOUN	NN	Number=Sing	11	_	_	start_char=3184|end_char=3188
+13	-	-	PUNCT	HYPH	_	12	_	_	start_char=3189|end_char=3190
+14	Click	click	VERB	VB	VerbForm=Inf	13	_	_	start_char=3191|end_char=3196
+15	to	to	PART	TO	_	14	_	_	start_char=3197|end_char=3199
+16	follow	follow	VERB	VB	VerbForm=Inf	15	_	_	start_char=3200|end_char=3206
+17	on	on	ADP	IN	_	16	_	_	start_char=3207|end_char=3209|SpacesAfter=\s\s
+18	page	page	NOUN	NN	Number=Sing	17	_	_	start_char=3211|end_char=3215
+19	-	-	PUNCT	,	_	18	_	_	start_char=3216|end_char=3217|SpaceAfter=No
 

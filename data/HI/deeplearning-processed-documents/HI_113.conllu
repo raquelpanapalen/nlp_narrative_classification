@@ -279,691 +279,688 @@
 13	Ukraine	Ukraine	PROPN	NNP	Number=Sing	12	_	_	start_char=1243|end_char=1250|SpaceAfter=No
 14	.	.	PUNCT	.	_	13	_	_	start_char=1250|end_char=1251
 
-# text = In 1954, the supreme leader of the Soviet Union, Nikita Khrushchev, had gifted Crimea to Ukraine.
+# text = In 1954, the supreme Soviet Union, Nikita Khrushchev, had gifted Crimea to Ukraine.
 # sent_id = 13
 1	In	in	ADP	IN	_	0	_	_	start_char=1252|end_char=1254
 2	1954	1954	NUM	CD	NumForm=Digit|NumType=Card	1	_	_	start_char=1255|end_char=1259|SpaceAfter=No
 3	,	,	PUNCT	,	_	2	_	_	start_char=1259|end_char=1260
 4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1261|end_char=1264
-5	supreme	supreme	ADJ	JJ	Degree=Pos	4	_	_	start_char=1265|end_char=1272
-6	leader	leader	NOUN	NN	Number=Sing	5	_	_	start_char=1273|end_char=1279
-7	of	of	ADP	IN	_	6	_	_	start_char=1280|end_char=1282
-8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=1283|end_char=1286
-9	Soviet	Soviet	PROPN	NNP	Number=Sing	8	_	_	start_char=1287|end_char=1293
-10	Union	Union	PROPN	NNP	Number=Sing	9	_	_	start_char=1294|end_char=1299|SpaceAfter=No
-11	,	,	PUNCT	,	_	10	_	_	start_char=1299|end_char=1300
-12	Nikita	Nikita	PROPN	NNP	Number=Sing	11	_	_	start_char=1301|end_char=1307
-13	Khrushchev	Khrushchev	PROPN	NNP	Number=Sing	12	_	_	start_char=1308|end_char=1318|SpaceAfter=No
-14	,	,	PUNCT	,	_	13	_	_	start_char=1318|end_char=1319
-15	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=1320|end_char=1323
-16	gifted	gift	VERB	VBN	Tense=Past|VerbForm=Part	15	_	_	start_char=1324|end_char=1330
-17	Crimea	Crimea	PROPN	NNP	Number=Sing	16	_	_	start_char=1331|end_char=1337
-18	to	to	ADP	IN	_	17	_	_	start_char=1338|end_char=1340
-19	Ukraine	Ukraine	PROPN	NNP	Number=Sing	18	_	_	start_char=1341|end_char=1348|SpaceAfter=No
-20	.	.	PUNCT	.	_	19	_	_	start_char=1348|end_char=1349
+5	supreme	supreme	ADJ	JJ	Degree=Pos	4	_	_	start_char=1265|end_char=1272|SpacesAfter=\s\s
+6	Soviet	Soviet	PROPN	NNP	Number=Sing	5	_	_	start_char=1274|end_char=1280
+7	Union	Union	PROPN	NNP	Number=Sing	6	_	_	start_char=1281|end_char=1286|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=1286|end_char=1287
+9	Nikita	Nikita	PROPN	NNP	Number=Sing	8	_	_	start_char=1288|end_char=1294
+10	Khrushchev	Khrushchev	PROPN	NNP	Number=Sing	9	_	_	start_char=1295|end_char=1305|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=1305|end_char=1306
+12	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=1307|end_char=1310
+13	gifted	gift	VERB	VBN	Tense=Past|VerbForm=Part	12	_	_	start_char=1311|end_char=1317
+14	Crimea	Crimea	PROPN	NNP	Number=Sing	13	_	_	start_char=1318|end_char=1324
+15	to	to	ADP	IN	_	14	_	_	start_char=1325|end_char=1327
+16	Ukraine	Ukraine	PROPN	NNP	Number=Sing	15	_	_	start_char=1328|end_char=1335|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=1335|end_char=1336
 
 # text = Also read-- Ukraine Russia dispute: Encirclement on Ukraine&#39;s borders, Russia&#39;s movement seen in satellite, army and artillery advancing.
 # sent_id = 14
-1	Also	also	ADV	RB	_	0	_	_	start_char=1350|end_char=1354
-2	read	read	VERB	VB	VerbForm=Fin	1	_	_	start_char=1355|end_char=1359|SpaceAfter=No
-3	--	--	PUNCT	:	_	2	_	_	start_char=1359|end_char=1361
-4	Ukraine	Ukraine	PROPN	NNP	Number=Sing	3	_	_	start_char=1362|end_char=1369
-5	Russia	Russia	PROPN	NNP	Number=Sing	4	_	_	start_char=1370|end_char=1376
-6	dispute	dispute	NOUN	NN	Number=Sing	5	_	_	start_char=1377|end_char=1384|SpaceAfter=No
-7	:	:	PUNCT	:	_	6	_	_	start_char=1384|end_char=1385
-8	Encirclement	encirclement	NOUN	NN	Number=Sing	7	_	_	start_char=1386|end_char=1398
-9	on	on	ADP	IN	_	8	_	_	start_char=1399|end_char=1401
-10	Ukraine&	Ukraine&	PROPN	NNP	Number=Sing	9	_	_	start_char=1402|end_char=1410|SpaceAfter=No
-11	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=1410|end_char=1413|SpaceAfter=No
-12	;	;	PUNCT	:	_	11	_	_	start_char=1413|end_char=1414|SpaceAfter=No
-13	s	's	PART	POS	Typo=Yes	12	_	_	start_char=1414|end_char=1415
-14	borders	border	NOUN	NNS	Number=Plur	13	_	_	start_char=1416|end_char=1423|SpaceAfter=No
-15	,	,	PUNCT	,	_	14	_	_	start_char=1423|end_char=1424
-16	Russia&	Russia&	PROPN	NNP	Number=Sing	15	_	_	start_char=1425|end_char=1432|SpaceAfter=No
-17	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	16	_	_	start_char=1432|end_char=1435|SpaceAfter=No
-18	;	;	PUNCT	:	_	17	_	_	start_char=1435|end_char=1436|SpaceAfter=No
-19	s	's	PART	POS	Typo=Yes	18	_	_	start_char=1436|end_char=1437
-20	movement	movement	NOUN	NN	Number=Sing	19	_	_	start_char=1438|end_char=1446
-21	seen	see	VERB	VBN	Tense=Past|VerbForm=Part	20	_	_	start_char=1447|end_char=1451
-22	in	in	ADP	IN	_	21	_	_	start_char=1452|end_char=1454
-23	satellite	satellite	NOUN	NN	Number=Sing	22	_	_	start_char=1455|end_char=1464|SpaceAfter=No
-24	,	,	PUNCT	,	_	23	_	_	start_char=1464|end_char=1465
-25	army	army	NOUN	NN	Number=Sing	24	_	_	start_char=1466|end_char=1470
-26	and	and	CCONJ	CC	_	25	_	_	start_char=1471|end_char=1474
-27	artillery	artillery	NOUN	NN	Number=Sing	26	_	_	start_char=1475|end_char=1484
-28	advancing	advance	VERB	VBG	VerbForm=Ger	27	_	_	start_char=1485|end_char=1494|SpaceAfter=No
-29	.	.	PUNCT	.	_	28	_	_	start_char=1494|end_char=1495
+1	Also	also	ADV	RB	_	0	_	_	start_char=1337|end_char=1341
+2	read	read	VERB	VB	VerbForm=Fin	1	_	_	start_char=1342|end_char=1346|SpaceAfter=No
+3	--	--	PUNCT	:	_	2	_	_	start_char=1346|end_char=1348
+4	Ukraine	Ukraine	PROPN	NNP	Number=Sing	3	_	_	start_char=1349|end_char=1356
+5	Russia	Russia	PROPN	NNP	Number=Sing	4	_	_	start_char=1357|end_char=1363
+6	dispute	dispute	NOUN	NN	Number=Sing	5	_	_	start_char=1364|end_char=1371|SpaceAfter=No
+7	:	:	PUNCT	:	_	6	_	_	start_char=1371|end_char=1372
+8	Encirclement	encirclement	NOUN	NN	Number=Sing	7	_	_	start_char=1373|end_char=1385
+9	on	on	ADP	IN	_	8	_	_	start_char=1386|end_char=1388
+10	Ukraine&	Ukraine&	PROPN	NNP	Number=Sing	9	_	_	start_char=1389|end_char=1397|SpaceAfter=No
+11	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=1397|end_char=1400|SpaceAfter=No
+12	;	;	PUNCT	:	_	11	_	_	start_char=1400|end_char=1401|SpaceAfter=No
+13	s	's	PART	POS	Typo=Yes	12	_	_	start_char=1401|end_char=1402
+14	borders	border	NOUN	NNS	Number=Plur	13	_	_	start_char=1403|end_char=1410|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=1410|end_char=1411
+16	Russia&	Russia&	PROPN	NNP	Number=Sing	15	_	_	start_char=1412|end_char=1419|SpaceAfter=No
+17	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	16	_	_	start_char=1419|end_char=1422|SpaceAfter=No
+18	;	;	PUNCT	:	_	17	_	_	start_char=1422|end_char=1423|SpaceAfter=No
+19	s	's	PART	POS	Typo=Yes	18	_	_	start_char=1423|end_char=1424
+20	movement	movement	NOUN	NN	Number=Sing	19	_	_	start_char=1425|end_char=1433
+21	seen	see	VERB	VBN	Tense=Past|VerbForm=Part	20	_	_	start_char=1434|end_char=1438
+22	in	in	ADP	IN	_	21	_	_	start_char=1439|end_char=1441
+23	satellite	satellite	NOUN	NN	Number=Sing	22	_	_	start_char=1442|end_char=1451|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=1451|end_char=1452
+25	army	army	NOUN	NN	Number=Sing	24	_	_	start_char=1453|end_char=1457
+26	and	and	CCONJ	CC	_	25	_	_	start_char=1458|end_char=1461
+27	artillery	artillery	NOUN	NN	Number=Sing	26	_	_	start_char=1462|end_char=1471
+28	advancing	advance	VERB	VBG	VerbForm=Ger	27	_	_	start_char=1472|end_char=1481|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=1481|end_char=1482
 
 # text = Protests in Ukraine due to pro-Russian President.
 # sent_id = 15
-1	Protests	protest	NOUN	NNS	Number=Plur	0	_	_	start_char=1496|end_char=1504
-2	in	in	ADP	IN	_	1	_	_	start_char=1505|end_char=1507
-3	Ukraine	Ukraine	PROPN	NNP	Number=Sing	2	_	_	start_char=1508|end_char=1515
-4	due	due	ADP	IN	_	3	_	_	start_char=1516|end_char=1519
-5	to	to	ADP	IN	_	4	_	_	start_char=1520|end_char=1522
-6	pro-Russian	pro-Russian	ADJ	JJ	Degree=Pos	5	_	_	start_char=1523|end_char=1534
-7	President	President	PROPN	NNP	Number=Sing	6	_	_	start_char=1535|end_char=1544|SpaceAfter=No
-8	.	.	PUNCT	.	_	7	_	_	start_char=1544|end_char=1545
+1	Protests	protest	NOUN	NNS	Number=Plur	0	_	_	start_char=1483|end_char=1491
+2	in	in	ADP	IN	_	1	_	_	start_char=1492|end_char=1494
+3	Ukraine	Ukraine	PROPN	NNP	Number=Sing	2	_	_	start_char=1495|end_char=1502
+4	due	due	ADP	IN	_	3	_	_	start_char=1503|end_char=1506
+5	to	to	ADP	IN	_	4	_	_	start_char=1507|end_char=1509
+6	pro-Russian	pro-Russian	ADJ	JJ	Degree=Pos	5	_	_	start_char=1510|end_char=1521
+7	President	President	PROPN	NNP	Number=Sing	6	_	_	start_char=1522|end_char=1531|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	_	_	start_char=1531|end_char=1532
 
 # text = In the 2004 presidential election, Viktor Yanukovych won in Ukraine.
 # sent_id = 16
-1	In	in	ADP	IN	_	0	_	_	start_char=1546|end_char=1548
-2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=1549|end_char=1552
-3	2004	2004	NUM	CD	NumForm=Digit|NumType=Card	2	_	_	start_char=1553|end_char=1557
-4	presidential	presidential	ADJ	JJ	Degree=Pos	3	_	_	start_char=1558|end_char=1570
-5	election	election	NOUN	NN	Number=Sing	4	_	_	start_char=1571|end_char=1579|SpaceAfter=No
-6	,	,	PUNCT	,	_	5	_	_	start_char=1579|end_char=1580
-7	Viktor	Viktor	PROPN	NNP	Number=Sing	6	_	_	start_char=1581|end_char=1587
-8	Yanukovych	Yanukovych	PROPN	NNP	Number=Sing	7	_	_	start_char=1588|end_char=1598
-9	won	win	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=1599|end_char=1602
-10	in	in	ADP	IN	_	9	_	_	start_char=1603|end_char=1605
-11	Ukraine	Ukraine	PROPN	NNP	Number=Sing	10	_	_	start_char=1606|end_char=1613|SpaceAfter=No
-12	.	.	PUNCT	.	_	11	_	_	start_char=1613|end_char=1614
+1	In	in	ADP	IN	_	0	_	_	start_char=1533|end_char=1535
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=1536|end_char=1539
+3	2004	2004	NUM	CD	NumForm=Digit|NumType=Card	2	_	_	start_char=1540|end_char=1544
+4	presidential	presidential	ADJ	JJ	Degree=Pos	3	_	_	start_char=1545|end_char=1557
+5	election	election	NOUN	NN	Number=Sing	4	_	_	start_char=1558|end_char=1566|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=1566|end_char=1567
+7	Viktor	Viktor	PROPN	NNP	Number=Sing	6	_	_	start_char=1568|end_char=1574
+8	Yanukovych	Yanukovych	PROPN	NNP	Number=Sing	7	_	_	start_char=1575|end_char=1585
+9	won	win	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=1586|end_char=1589
+10	in	in	ADP	IN	_	9	_	_	start_char=1590|end_char=1592
+11	Ukraine	Ukraine	PROPN	NNP	Number=Sing	10	_	_	start_char=1593|end_char=1600|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=1600|end_char=1601
 
 # text = Yanukovich is considered a supporter of Russia.
 # sent_id = 17
-1	Yanukovich	Yanukovich	PROPN	NNP	Number=Sing	0	_	_	start_char=1615|end_char=1625
-2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1626|end_char=1628
-3	considered	consider	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	_	_	start_char=1629|end_char=1639
-4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=1640|end_char=1641
-5	supporter	supporter	NOUN	NN	Number=Sing	4	_	_	start_char=1642|end_char=1651
-6	of	of	ADP	IN	_	5	_	_	start_char=1652|end_char=1654
-7	Russia	Russia	PROPN	NNP	Number=Sing	6	_	_	start_char=1655|end_char=1661|SpaceAfter=No
-8	.	.	PUNCT	.	_	7	_	_	start_char=1661|end_char=1662
+1	Yanukovich	Yanukovich	PROPN	NNP	Number=Sing	0	_	_	start_char=1602|end_char=1612
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1613|end_char=1615
+3	considered	consider	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	_	_	start_char=1616|end_char=1626
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=1627|end_char=1628
+5	supporter	supporter	NOUN	NN	Number=Sing	4	_	_	start_char=1629|end_char=1638
+6	of	of	ADP	IN	_	5	_	_	start_char=1639|end_char=1641
+7	Russia	Russia	PROPN	NNP	Number=Sing	6	_	_	start_char=1642|end_char=1648|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	_	_	start_char=1648|end_char=1649
 
 # text = After his victory, there was a rebellion in Ukraine.
 # sent_id = 18
-1	After	after	ADP	IN	_	0	_	_	start_char=1663|end_char=1668
-2	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	_	_	start_char=1669|end_char=1672
-3	victory	victory	NOUN	NN	Number=Sing	2	_	_	start_char=1673|end_char=1680|SpaceAfter=No
-4	,	,	PUNCT	,	_	3	_	_	start_char=1680|end_char=1681
-5	there	there	PRON	EX	_	4	_	_	start_char=1682|end_char=1687
-6	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=1688|end_char=1691
-7	a	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=1692|end_char=1693
-8	rebellion	rebellion	NOUN	NN	Number=Sing	7	_	_	start_char=1694|end_char=1703
-9	in	in	ADP	IN	_	8	_	_	start_char=1704|end_char=1706
-10	Ukraine	Ukraine	PROPN	NNP	Number=Sing	9	_	_	start_char=1707|end_char=1714|SpaceAfter=No
-11	.	.	PUNCT	.	_	10	_	_	start_char=1714|end_char=1715
+1	After	after	ADP	IN	_	0	_	_	start_char=1650|end_char=1655
+2	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	_	_	start_char=1656|end_char=1659
+3	victory	victory	NOUN	NN	Number=Sing	2	_	_	start_char=1660|end_char=1667|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1667|end_char=1668
+5	there	there	PRON	EX	_	4	_	_	start_char=1669|end_char=1674
+6	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=1675|end_char=1678
+7	a	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=1679|end_char=1680
+8	rebellion	rebellion	NOUN	NN	Number=Sing	7	_	_	start_char=1681|end_char=1690
+9	in	in	ADP	IN	_	8	_	_	start_char=1691|end_char=1693
+10	Ukraine	Ukraine	PROPN	NNP	Number=Sing	9	_	_	start_char=1694|end_char=1701|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=1701|end_char=1702
 
 # text = It was named Orange Revolution.
 # sent_id = 19
-1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1716|end_char=1718
-2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1719|end_char=1722
-3	named	name	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	_	_	start_char=1723|end_char=1728
-4	Orange	Orange	ADJ	NNP	Degree=Pos	3	_	_	start_char=1729|end_char=1735
-5	Revolution	Revolution	PROPN	NNP	Number=Sing	4	_	_	start_char=1736|end_char=1746|SpaceAfter=No
-6	.	.	PUNCT	.	_	5	_	_	start_char=1746|end_char=1747
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1703|end_char=1705
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1706|end_char=1709
+3	named	name	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	_	_	start_char=1710|end_char=1715
+4	Orange	Orange	ADJ	NNP	Degree=Pos	3	_	_	start_char=1716|end_char=1722
+5	Revolution	Revolution	PROPN	NNP	Number=Sing	4	_	_	start_char=1723|end_char=1733|SpaceAfter=No
+6	.	.	PUNCT	.	_	5	_	_	start_char=1733|end_char=1734
 
 # text = The protesters were demanding a recount.
 # sent_id = 20
-1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1748|end_char=1751
-2	protesters	protester	NOUN	NNS	Number=Plur	1	_	_	start_char=1752|end_char=1762
-3	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1763|end_char=1767
-4	demanding	demand	VERB	VBG	Tense=Pres|VerbForm=Part	3	_	_	start_char=1768|end_char=1777
-5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=1778|end_char=1779
-6	recount	recount	NOUN	NN	Number=Sing	5	_	_	start_char=1780|end_char=1787|SpaceAfter=No
-7	.	.	PUNCT	.	_	6	_	_	start_char=1787|end_char=1788
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1735|end_char=1738
+2	protesters	protester	NOUN	NNS	Number=Plur	1	_	_	start_char=1739|end_char=1749
+3	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1750|end_char=1754
+4	demanding	demand	VERB	VBG	Tense=Pres|VerbForm=Part	3	_	_	start_char=1755|end_char=1764
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=1765|end_char=1766
+6	recount	recount	NOUN	NN	Number=Sing	5	_	_	start_char=1767|end_char=1774|SpaceAfter=No
+7	.	.	PUNCT	.	_	6	_	_	start_char=1774|end_char=1775
 
 # text = Russia claimed that Western countries were behind these protests.
 # sent_id = 21
-1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=1789|end_char=1795
-2	claimed	claim	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1796|end_char=1803
-3	that	that	SCONJ	IN	_	2	_	_	start_char=1804|end_char=1808
-4	Western	western	ADJ	JJ	Degree=Pos	3	_	_	start_char=1809|end_char=1816
-5	countries	country	NOUN	NNS	Number=Plur	4	_	_	start_char=1817|end_char=1826
-6	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=1827|end_char=1831
-7	behind	behind	ADP	IN	_	6	_	_	start_char=1832|end_char=1838
-8	these	this	DET	DT	Number=Plur|PronType=Dem	7	_	_	start_char=1839|end_char=1844
-9	protests	protest	NOUN	NNS	Number=Plur	8	_	_	start_char=1845|end_char=1853|SpaceAfter=No
-10	.	.	PUNCT	.	_	9	_	_	start_char=1853|end_char=1854
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=1776|end_char=1782
+2	claimed	claim	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1783|end_char=1790
+3	that	that	SCONJ	IN	_	2	_	_	start_char=1791|end_char=1795
+4	Western	western	ADJ	JJ	Degree=Pos	3	_	_	start_char=1796|end_char=1803
+5	countries	country	NOUN	NNS	Number=Plur	4	_	_	start_char=1804|end_char=1813
+6	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=1814|end_char=1818
+7	behind	behind	ADP	IN	_	6	_	_	start_char=1819|end_char=1825
+8	these	this	DET	DT	Number=Plur|PronType=Dem	7	_	_	start_char=1826|end_char=1831
+9	protests	protest	NOUN	NNS	Number=Plur	8	_	_	start_char=1832|end_char=1840|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=1840|end_char=1841
 
 # text = In 2008, opposition leader Viktor Yushchenko presented a plan for Ukraine to join NATO.
 # sent_id = 22
-1	In	in	ADP	IN	_	0	_	_	start_char=1855|end_char=1857
-2	2008	2008	NUM	CD	NumForm=Digit|NumType=Card	1	_	_	start_char=1858|end_char=1862|SpaceAfter=No
-3	,	,	PUNCT	,	_	2	_	_	start_char=1862|end_char=1863
-4	opposition	opposition	NOUN	NN	Number=Sing	3	_	_	start_char=1864|end_char=1874
-5	leader	leader	NOUN	NN	Number=Sing	4	_	_	start_char=1875|end_char=1881
-6	Viktor	Viktor	PROPN	NNP	Number=Sing	5	_	_	start_char=1882|end_char=1888
-7	Yushchenko	Yushchenko	PROPN	NNP	Number=Sing	6	_	_	start_char=1889|end_char=1899
-8	presented	present	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=1900|end_char=1909
-9	a	a	DET	DT	Definite=Ind|PronType=Art	8	_	_	start_char=1910|end_char=1911
-10	plan	plan	NOUN	NN	Number=Sing	9	_	_	start_char=1912|end_char=1916
-11	for	for	ADP	IN	_	10	_	_	start_char=1917|end_char=1920
-12	Ukraine	Ukraine	PROPN	NNP	Number=Sing	11	_	_	start_char=1921|end_char=1928
-13	to	to	PART	TO	_	12	_	_	start_char=1929|end_char=1931
-14	join	join	VERB	VB	VerbForm=Inf	13	_	_	start_char=1932|end_char=1936
-15	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	14	_	_	start_char=1937|end_char=1941|SpaceAfter=No
-16	.	.	PUNCT	.	_	15	_	_	start_char=1941|end_char=1942
+1	In	in	ADP	IN	_	0	_	_	start_char=1842|end_char=1844
+2	2008	2008	NUM	CD	NumForm=Digit|NumType=Card	1	_	_	start_char=1845|end_char=1849|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=1849|end_char=1850
+4	opposition	opposition	NOUN	NN	Number=Sing	3	_	_	start_char=1851|end_char=1861
+5	leader	leader	NOUN	NN	Number=Sing	4	_	_	start_char=1862|end_char=1868
+6	Viktor	Viktor	PROPN	NNP	Number=Sing	5	_	_	start_char=1869|end_char=1875
+7	Yushchenko	Yushchenko	PROPN	NNP	Number=Sing	6	_	_	start_char=1876|end_char=1886
+8	presented	present	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=1887|end_char=1896
+9	a	a	DET	DT	Definite=Ind|PronType=Art	8	_	_	start_char=1897|end_char=1898
+10	plan	plan	NOUN	NN	Number=Sing	9	_	_	start_char=1899|end_char=1903
+11	for	for	ADP	IN	_	10	_	_	start_char=1904|end_char=1907
+12	Ukraine	Ukraine	PROPN	NNP	Number=Sing	11	_	_	start_char=1908|end_char=1915
+13	to	to	PART	TO	_	12	_	_	start_char=1916|end_char=1918
+14	join	join	VERB	VB	VerbForm=Inf	13	_	_	start_char=1919|end_char=1923
+15	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	14	_	_	start_char=1924|end_char=1928|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=1928|end_char=1929
 
 # text = The US supported it.
 # sent_id = 23
-1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1943|end_char=1946
-2	US	US	PROPN	NNP	Number=Sing	1	_	_	start_char=1947|end_char=1949
-3	supported	support	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1950|end_char=1959
-4	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	_	_	start_char=1960|end_char=1962|SpaceAfter=No
-5	.	.	PUNCT	.	_	4	_	_	start_char=1962|end_char=1963
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1930|end_char=1933
+2	US	US	PROPN	NNP	Number=Sing	1	_	_	start_char=1934|end_char=1936
+3	supported	support	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1937|end_char=1946
+4	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	_	_	start_char=1947|end_char=1949|SpaceAfter=No
+5	.	.	PUNCT	.	_	4	_	_	start_char=1949|end_char=1950
 
 # text = But Russian President Vladimir Putin opposed it.
 # sent_id = 24
-1	But	but	CCONJ	CC	_	0	_	_	start_char=1964|end_char=1967
-2	Russian	Russian	ADJ	JJ	Degree=Pos	1	_	_	start_char=1968|end_char=1975
-3	President	President	PROPN	NNP	Number=Sing	2	_	_	start_char=1976|end_char=1985
-4	Vladimir	Vladimir	PROPN	NNP	Number=Sing	3	_	_	start_char=1986|end_char=1994
-5	Putin	Putin	PROPN	NNP	Number=Sing	4	_	_	start_char=1995|end_char=2000
-6	opposed	oppose	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=2001|end_char=2008
-7	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	_	_	start_char=2009|end_char=2011|SpaceAfter=No
-8	.	.	PUNCT	.	_	7	_	_	start_char=2011|end_char=2012
+1	But	but	CCONJ	CC	_	0	_	_	start_char=1951|end_char=1954
+2	Russian	Russian	ADJ	JJ	Degree=Pos	1	_	_	start_char=1955|end_char=1962
+3	President	President	PROPN	NNP	Number=Sing	2	_	_	start_char=1963|end_char=1972
+4	Vladimir	Vladimir	PROPN	NNP	Number=Sing	3	_	_	start_char=1973|end_char=1981
+5	Putin	Putin	PROPN	NNP	Number=Sing	4	_	_	start_char=1982|end_char=1987
+6	opposed	oppose	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=1988|end_char=1995
+7	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	_	_	start_char=1996|end_char=1998|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	_	_	start_char=1998|end_char=1999
 
 # text = NATO announced the inclusion of Georgia and Ukraine.
 # sent_id = 25
-1	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	0	_	_	start_char=2013|end_char=2017
-2	announced	announce	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=2018|end_char=2027
-3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=2028|end_char=2031
-4	inclusion	inclusion	NOUN	NN	Number=Sing	3	_	_	start_char=2032|end_char=2041
-5	of	of	ADP	IN	_	4	_	_	start_char=2042|end_char=2044
-6	Georgia	Georgia	PROPN	NNP	Number=Sing	5	_	_	start_char=2045|end_char=2052
-7	and	and	CCONJ	CC	_	6	_	_	start_char=2053|end_char=2056
-8	Ukraine	Ukraine	PROPN	NNP	Number=Sing	7	_	_	start_char=2057|end_char=2064|SpaceAfter=No
-9	.	.	PUNCT	.	_	8	_	_	start_char=2064|end_char=2065
+1	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	0	_	_	start_char=2000|end_char=2004
+2	announced	announce	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=2005|end_char=2014
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=2015|end_char=2018
+4	inclusion	inclusion	NOUN	NN	Number=Sing	3	_	_	start_char=2019|end_char=2028
+5	of	of	ADP	IN	_	4	_	_	start_char=2029|end_char=2031
+6	Georgia	Georgia	PROPN	NNP	Number=Sing	5	_	_	start_char=2032|end_char=2039
+7	and	and	CCONJ	CC	_	6	_	_	start_char=2040|end_char=2043
+8	Ukraine	Ukraine	PROPN	NNP	Number=Sing	7	_	_	start_char=2044|end_char=2051|SpaceAfter=No
+9	.	.	PUNCT	.	_	8	_	_	start_char=2051|end_char=2052
 
 # text = But Russia attacked Georgia and captured two of its areas in just 4 days.
 # sent_id = 26
-1	But	but	CCONJ	CC	_	0	_	_	start_char=2066|end_char=2069
-2	Russia	Russia	PROPN	NNP	Number=Sing	1	_	_	start_char=2070|end_char=2076
-3	attacked	attack	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=2077|end_char=2085
-4	Georgia	Georgia	PROPN	NNP	Number=Sing	3	_	_	start_char=2086|end_char=2093
-5	and	and	CCONJ	CC	_	4	_	_	start_char=2094|end_char=2097
-6	captured	capture	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=2098|end_char=2106
-7	two	two	NUM	CD	NumForm=Word|NumType=Card	6	_	_	start_char=2107|end_char=2110
-8	of	of	ADP	IN	_	7	_	_	start_char=2111|end_char=2113
-9	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	_	_	start_char=2114|end_char=2117
-10	areas	area	NOUN	NNS	Number=Plur	9	_	_	start_char=2118|end_char=2123
-11	in	in	ADP	IN	_	10	_	_	start_char=2124|end_char=2126
-12	just	just	ADV	RB	_	11	_	_	start_char=2127|end_char=2131
-13	4	4	NUM	CD	NumForm=Digit|NumType=Card	12	_	_	start_char=2132|end_char=2133
-14	days	day	NOUN	NNS	Number=Plur	13	_	_	start_char=2134|end_char=2138|SpaceAfter=No
-15	.	.	PUNCT	.	_	14	_	_	start_char=2138|end_char=2139
+1	But	but	CCONJ	CC	_	0	_	_	start_char=2053|end_char=2056
+2	Russia	Russia	PROPN	NNP	Number=Sing	1	_	_	start_char=2057|end_char=2063
+3	attacked	attack	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=2064|end_char=2072
+4	Georgia	Georgia	PROPN	NNP	Number=Sing	3	_	_	start_char=2073|end_char=2080
+5	and	and	CCONJ	CC	_	4	_	_	start_char=2081|end_char=2084
+6	captured	capture	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=2085|end_char=2093
+7	two	two	NUM	CD	NumForm=Word|NumType=Card	6	_	_	start_char=2094|end_char=2097
+8	of	of	ADP	IN	_	7	_	_	start_char=2098|end_char=2100
+9	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	_	_	start_char=2101|end_char=2104
+10	areas	area	NOUN	NNS	Number=Plur	9	_	_	start_char=2105|end_char=2110
+11	in	in	ADP	IN	_	10	_	_	start_char=2111|end_char=2113
+12	just	just	ADV	RB	_	11	_	_	start_char=2114|end_char=2118
+13	4	4	NUM	CD	NumForm=Digit|NumType=Card	12	_	_	start_char=2119|end_char=2120
+14	days	day	NOUN	NNS	Number=Plur	13	_	_	start_char=2121|end_char=2125|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=2125|end_char=2126
 
 # text = Also read-- Russia-Ukraine crisis: Russia showed its power by conducting nuclear drills, Russian Navy also entered the Black Sea...
 # sent_id = 27
-1	Also	also	ADV	RB	_	0	_	_	start_char=2140|end_char=2144
-2	read	read	VERB	VBN	Tense=Past|VerbForm=Part	1	_	_	start_char=2145|end_char=2149|SpaceAfter=No
-3	--	--	PUNCT	:	_	2	_	_	start_char=2149|end_char=2151
-4	Russia	Russia	PROPN	NNP	Number=Sing	3	_	_	start_char=2152|end_char=2158|SpaceAfter=No
-5	-	-	PUNCT	HYPH	_	4	_	_	start_char=2158|end_char=2159|SpaceAfter=No
-6	Ukraine	Ukraine	PROPN	NNP	Number=Sing	5	_	_	start_char=2159|end_char=2166
-7	crisis	crisis	NOUN	NN	Number=Sing	6	_	_	start_char=2167|end_char=2173|SpaceAfter=No
-8	:	:	PUNCT	:	_	7	_	_	start_char=2173|end_char=2174
-9	Russia	Russia	PROPN	NNP	Number=Sing	8	_	_	start_char=2175|end_char=2181
-10	showed	show	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=2182|end_char=2188
-11	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	_	_	start_char=2189|end_char=2192
-12	power	power	NOUN	NN	Number=Sing	11	_	_	start_char=2193|end_char=2198
-13	by	by	SCONJ	IN	_	12	_	_	start_char=2199|end_char=2201
-14	conducting	conduct	VERB	VBG	VerbForm=Ger	13	_	_	start_char=2202|end_char=2212
-15	nuclear	nuclear	ADJ	JJ	Degree=Pos	14	_	_	start_char=2213|end_char=2220
-16	drills	drill	NOUN	NNS	Number=Plur	15	_	_	start_char=2221|end_char=2227|SpaceAfter=No
-17	,	,	PUNCT	,	_	16	_	_	start_char=2227|end_char=2228
-18	Russian	Russian	ADJ	JJ	Degree=Pos	17	_	_	start_char=2229|end_char=2236
-19	Navy	Navy	PROPN	NNP	Number=Sing	18	_	_	start_char=2237|end_char=2241
-20	also	also	ADV	RB	_	19	_	_	start_char=2242|end_char=2246
-21	entered	enter	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	_	_	start_char=2247|end_char=2254
-22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=2255|end_char=2258
-23	Black	Black	ADJ	NNP	Degree=Pos	22	_	_	start_char=2259|end_char=2264
-24	Sea	Sea	PROPN	NNP	Number=Sing	23	_	_	start_char=2265|end_char=2268|SpaceAfter=No
-25	...	...	PUNCT	.	_	24	_	_	start_char=2268|end_char=2271
+1	Also	also	ADV	RB	_	0	_	_	start_char=2127|end_char=2131
+2	read	read	VERB	VBN	Tense=Past|VerbForm=Part	1	_	_	start_char=2132|end_char=2136|SpaceAfter=No
+3	--	--	PUNCT	:	_	2	_	_	start_char=2136|end_char=2138
+4	Russia	Russia	PROPN	NNP	Number=Sing	3	_	_	start_char=2139|end_char=2145|SpaceAfter=No
+5	-	-	PUNCT	HYPH	_	4	_	_	start_char=2145|end_char=2146|SpaceAfter=No
+6	Ukraine	Ukraine	PROPN	NNP	Number=Sing	5	_	_	start_char=2146|end_char=2153
+7	crisis	crisis	NOUN	NN	Number=Sing	6	_	_	start_char=2154|end_char=2160|SpaceAfter=No
+8	:	:	PUNCT	:	_	7	_	_	start_char=2160|end_char=2161
+9	Russia	Russia	PROPN	NNP	Number=Sing	8	_	_	start_char=2162|end_char=2168
+10	showed	show	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=2169|end_char=2175
+11	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	_	_	start_char=2176|end_char=2179
+12	power	power	NOUN	NN	Number=Sing	11	_	_	start_char=2180|end_char=2185
+13	by	by	SCONJ	IN	_	12	_	_	start_char=2186|end_char=2188
+14	conducting	conduct	VERB	VBG	VerbForm=Ger	13	_	_	start_char=2189|end_char=2199
+15	nuclear	nuclear	ADJ	JJ	Degree=Pos	14	_	_	start_char=2200|end_char=2207
+16	drills	drill	NOUN	NNS	Number=Plur	15	_	_	start_char=2208|end_char=2214|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=2214|end_char=2215
+18	Russian	Russian	ADJ	JJ	Degree=Pos	17	_	_	start_char=2216|end_char=2223
+19	Navy	Navy	PROPN	NNP	Number=Sing	18	_	_	start_char=2224|end_char=2228
+20	also	also	ADV	RB	_	19	_	_	start_char=2229|end_char=2233
+21	entered	enter	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	_	_	start_char=2234|end_char=2241
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=2242|end_char=2245
+23	Black	Black	ADJ	NNP	Degree=Pos	22	_	_	start_char=2246|end_char=2251
+24	Sea	Sea	PROPN	NNP	Number=Sing	23	_	_	start_char=2252|end_char=2255|SpaceAfter=No
+25	...	...	PUNCT	.	_	24	_	_	start_char=2255|end_char=2258
 
 # text = Ukraine crisis deepened.
 # sent_id = 28
-1	Ukraine	Ukraine	PROPN	NNP	Number=Sing	0	_	_	start_char=2272|end_char=2279
-2	crisis	crisis	NOUN	NN	Number=Sing	1	_	_	start_char=2280|end_char=2286
-3	deepened	deepen	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=2287|end_char=2295|SpaceAfter=No
-4	.	.	PUNCT	.	_	3	_	_	start_char=2295|end_char=2296
+1	Ukraine	Ukraine	PROPN	NNP	Number=Sing	0	_	_	start_char=2259|end_char=2266
+2	crisis	crisis	NOUN	NN	Number=Sing	1	_	_	start_char=2267|end_char=2273
+3	deepened	deepen	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=2274|end_char=2282|SpaceAfter=No
+4	.	.	PUNCT	.	_	3	_	_	start_char=2282|end_char=2283
 
 # text = Situation worsened after Yanukovich became president again.
 # sent_id = 29
-1	Situation	situation	NOUN	NN	Number=Sing	0	_	_	start_char=2297|end_char=2306
-2	worsened	worsen	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=2307|end_char=2315
-3	after	after	SCONJ	IN	_	2	_	_	start_char=2316|end_char=2321
-4	Yanukovich	Yanukovich	PROPN	NNP	Number=Sing	3	_	_	start_char=2322|end_char=2332
-5	became	become	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=2333|end_char=2339
-6	president	president	NOUN	NN	Number=Sing	5	_	_	start_char=2340|end_char=2349
-7	again	again	ADV	RB	_	6	_	_	start_char=2350|end_char=2355|SpaceAfter=No
-8	.	.	PUNCT	.	_	7	_	_	start_char=2355|end_char=2356
+1	Situation	situation	NOUN	NN	Number=Sing	0	_	_	start_char=2284|end_char=2293
+2	worsened	worsen	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=2294|end_char=2302
+3	after	after	SCONJ	IN	_	2	_	_	start_char=2303|end_char=2308
+4	Yanukovich	Yanukovich	PROPN	NNP	Number=Sing	3	_	_	start_char=2309|end_char=2319
+5	became	become	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=2320|end_char=2326
+6	president	president	NOUN	NN	Number=Sing	5	_	_	start_char=2327|end_char=2336
+7	again	again	ADV	RB	_	6	_	_	start_char=2337|end_char=2342|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	_	_	start_char=2342|end_char=2343
 
 # text = Viktor Yanukovich won the 2010 presidential election once again.
 # sent_id = 30
-1	Viktor	Viktor	PROPN	NNP	Number=Sing	0	_	_	start_char=2357|end_char=2363
-2	Yanukovich	Yanukovich	PROPN	NNP	Number=Sing	1	_	_	start_char=2364|end_char=2374
-3	won	win	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=2375|end_char=2378
-4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=2379|end_char=2382
-5	2010	2010	NUM	CD	NumForm=Digit|NumType=Card	4	_	_	start_char=2383|end_char=2387
-6	presidential	presidential	ADJ	JJ	Degree=Pos	5	_	_	start_char=2388|end_char=2400
-7	election	election	NOUN	NN	Number=Sing	6	_	_	start_char=2401|end_char=2409
-8	once	once	ADV	RB	NumType=Mult	7	_	_	start_char=2410|end_char=2414
-9	again	again	ADV	RB	_	8	_	_	start_char=2415|end_char=2420|SpaceAfter=No
-10	.	.	PUNCT	.	_	9	_	_	start_char=2420|end_char=2421
+1	Viktor	Viktor	PROPN	NNP	Number=Sing	0	_	_	start_char=2344|end_char=2350
+2	Yanukovich	Yanukovich	PROPN	NNP	Number=Sing	1	_	_	start_char=2351|end_char=2361
+3	won	win	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=2362|end_char=2365
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=2366|end_char=2369
+5	2010	2010	NUM	CD	NumForm=Digit|NumType=Card	4	_	_	start_char=2370|end_char=2374
+6	presidential	presidential	ADJ	JJ	Degree=Pos	5	_	_	start_char=2375|end_char=2387
+7	election	election	NOUN	NN	Number=Sing	6	_	_	start_char=2388|end_char=2396
+8	once	once	ADV	RB	NumType=Mult	7	_	_	start_char=2397|end_char=2401
+9	again	again	ADV	RB	_	8	_	_	start_char=2402|end_char=2407|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=2407|end_char=2408
 
 # text = He rejected the proposal for Ukraine to join NATO.
 # sent_id = 31
-1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=2422|end_char=2424
-2	rejected	reject	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=2425|end_char=2433
-3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=2434|end_char=2437
-4	proposal	proposal	NOUN	NN	Number=Sing	3	_	_	start_char=2438|end_char=2446
-5	for	for	ADP	IN	_	4	_	_	start_char=2447|end_char=2450
-6	Ukraine	Ukraine	PROPN	NNP	Number=Sing	5	_	_	start_char=2451|end_char=2458
-7	to	to	PART	TO	_	6	_	_	start_char=2459|end_char=2461
-8	join	join	VERB	VB	VerbForm=Inf	7	_	_	start_char=2462|end_char=2466
-9	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	8	_	_	start_char=2467|end_char=2471|SpaceAfter=No
-10	.	.	PUNCT	.	_	9	_	_	start_char=2471|end_char=2472
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=2409|end_char=2411
+2	rejected	reject	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=2412|end_char=2420
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=2421|end_char=2424
+4	proposal	proposal	NOUN	NN	Number=Sing	3	_	_	start_char=2425|end_char=2433
+5	for	for	ADP	IN	_	4	_	_	start_char=2434|end_char=2437
+6	Ukraine	Ukraine	PROPN	NNP	Number=Sing	5	_	_	start_char=2438|end_char=2445
+7	to	to	PART	TO	_	6	_	_	start_char=2446|end_char=2448
+8	join	join	VERB	VB	VerbForm=Inf	7	_	_	start_char=2449|end_char=2453
+9	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	8	_	_	start_char=2454|end_char=2458|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=2458|end_char=2459
 
 # text = In November 2013, Yanukovich backed out from signing an agreement with the European Union.
 # sent_id = 32
-1	In	in	ADP	IN	_	0	_	_	start_char=2473|end_char=2475
-2	November	November	PROPN	NNP	Number=Sing	1	_	_	start_char=2476|end_char=2484
-3	2013	2013	NUM	CD	NumForm=Digit|NumType=Card	2	_	_	start_char=2485|end_char=2489|SpaceAfter=No
-4	,	,	PUNCT	,	_	3	_	_	start_char=2489|end_char=2490
-5	Yanukovich	Yanukovich	PROPN	NNP	Number=Sing	4	_	_	start_char=2491|end_char=2501
-6	backed	back	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=2502|end_char=2508
-7	out	out	ADP	RP	_	6	_	_	start_char=2509|end_char=2512
-8	from	from	SCONJ	IN	_	7	_	_	start_char=2513|end_char=2517
-9	signing	sign	VERB	VBG	VerbForm=Ger	8	_	_	start_char=2518|end_char=2525
-10	an	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=2526|end_char=2528
-11	agreement	agreement	NOUN	NN	Number=Sing	10	_	_	start_char=2529|end_char=2538
-12	with	with	ADP	IN	_	11	_	_	start_char=2539|end_char=2543
-13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=2544|end_char=2547
-14	European	European	ADJ	NNP	Degree=Pos	13	_	_	start_char=2548|end_char=2556
-15	Union	Union	PROPN	NNP	Number=Sing	14	_	_	start_char=2557|end_char=2562|SpaceAfter=No
-16	.	.	PUNCT	.	_	15	_	_	start_char=2562|end_char=2563
+1	In	in	ADP	IN	_	0	_	_	start_char=2460|end_char=2462
+2	November	November	PROPN	NNP	Number=Sing	1	_	_	start_char=2463|end_char=2471
+3	2013	2013	NUM	CD	NumForm=Digit|NumType=Card	2	_	_	start_char=2472|end_char=2476|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=2476|end_char=2477
+5	Yanukovich	Yanukovich	PROPN	NNP	Number=Sing	4	_	_	start_char=2478|end_char=2488
+6	backed	back	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=2489|end_char=2495
+7	out	out	ADP	RP	_	6	_	_	start_char=2496|end_char=2499
+8	from	from	SCONJ	IN	_	7	_	_	start_char=2500|end_char=2504
+9	signing	sign	VERB	VBG	VerbForm=Ger	8	_	_	start_char=2505|end_char=2512
+10	an	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=2513|end_char=2515
+11	agreement	agreement	NOUN	NN	Number=Sing	10	_	_	start_char=2516|end_char=2525
+12	with	with	ADP	IN	_	11	_	_	start_char=2526|end_char=2530
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=2531|end_char=2534
+14	European	European	ADJ	NNP	Degree=Pos	13	_	_	start_char=2535|end_char=2543
+15	Union	Union	PROPN	NNP	Number=Sing	14	_	_	start_char=2544|end_char=2549|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=2549|end_char=2550
 
 # text = Ukraine was going to get an economic package of $15 billion from this agreement.
 # sent_id = 33
-1	Ukraine	Ukraine	PROPN	NNP	Number=Sing	0	_	_	start_char=2564|end_char=2571
-2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=2572|end_char=2575
-3	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	2	_	_	start_char=2576|end_char=2581
-4	to	to	PART	TO	_	3	_	_	start_char=2582|end_char=2584
-5	get	get	VERB	VB	VerbForm=Inf	4	_	_	start_char=2585|end_char=2588
-6	an	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=2589|end_char=2591
-7	economic	economic	ADJ	JJ	Degree=Pos	6	_	_	start_char=2592|end_char=2600
-8	package	package	NOUN	NN	Number=Sing	7	_	_	start_char=2601|end_char=2608
-9	of	of	ADP	IN	_	8	_	_	start_char=2609|end_char=2611
-10	$	$	SYM	$	_	9	_	_	start_char=2612|end_char=2613|SpaceAfter=No
-11	15	15	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=2613|end_char=2615
-12	billion	billion	NUM	CD	NumForm=Word|NumType=Card	11	_	_	start_char=2616|end_char=2623
-13	from	from	ADP	IN	_	12	_	_	start_char=2624|end_char=2628
-14	this	this	DET	DT	Number=Sing|PronType=Dem	13	_	_	start_char=2629|end_char=2633
-15	agreement	agreement	NOUN	NN	Number=Sing	14	_	_	start_char=2634|end_char=2643|SpaceAfter=No
-16	.	.	PUNCT	.	_	15	_	_	start_char=2643|end_char=2644
+1	Ukraine	Ukraine	PROPN	NNP	Number=Sing	0	_	_	start_char=2551|end_char=2558
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=2559|end_char=2562
+3	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	2	_	_	start_char=2563|end_char=2568
+4	to	to	PART	TO	_	3	_	_	start_char=2569|end_char=2571
+5	get	get	VERB	VB	VerbForm=Inf	4	_	_	start_char=2572|end_char=2575
+6	an	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=2576|end_char=2578
+7	economic	economic	ADJ	JJ	Degree=Pos	6	_	_	start_char=2579|end_char=2587
+8	package	package	NOUN	NN	Number=Sing	7	_	_	start_char=2588|end_char=2595
+9	of	of	ADP	IN	_	8	_	_	start_char=2596|end_char=2598
+10	$	$	SYM	$	_	9	_	_	start_char=2599|end_char=2600|SpaceAfter=No
+11	15	15	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=2600|end_char=2602
+12	billion	billion	NUM	CD	NumForm=Word|NumType=Card	11	_	_	start_char=2603|end_char=2610
+13	from	from	ADP	IN	_	12	_	_	start_char=2611|end_char=2615
+14	this	this	DET	DT	Number=Sing|PronType=Dem	13	_	_	start_char=2616|end_char=2620
+15	agreement	agreement	NOUN	NN	Number=Sing	14	_	_	start_char=2621|end_char=2630|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=2630|end_char=2631
 
 # text = People took to the streets in protest against Yanukovich&#39;s decision.
 # sent_id = 34
-1	People	person	NOUN	NNS	Number=Plur	0	_	_	start_char=2645|end_char=2651
-2	took	take	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=2652|end_char=2656
-3	to	to	ADP	IN	_	2	_	_	start_char=2657|end_char=2659
-4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=2660|end_char=2663
-5	streets	street	NOUN	NNS	Number=Plur	4	_	_	start_char=2664|end_char=2671
-6	in	in	ADP	IN	_	5	_	_	start_char=2672|end_char=2674
-7	protest	protest	NOUN	NN	Number=Sing	6	_	_	start_char=2675|end_char=2682
-8	against	against	ADP	IN	_	7	_	_	start_char=2683|end_char=2690
-9	Yanukovich&	Yanukovich&	PROPN	NNP	Number=Sing	8	_	_	start_char=2691|end_char=2702|SpaceAfter=No
-10	#	#	SYM	NN	Number=Sing	9	_	_	start_char=2702|end_char=2703|SpaceAfter=No
-11	39	39	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=2703|end_char=2705|SpaceAfter=No
-12	;	;	PUNCT	:	_	11	_	_	start_char=2705|end_char=2706|SpaceAfter=No
-13	s	's	PART	POS	Typo=Yes	12	_	_	start_char=2706|end_char=2707
-14	decision	decision	NOUN	NN	Number=Sing	13	_	_	start_char=2708|end_char=2716|SpaceAfter=No
-15	.	.	PUNCT	.	_	14	_	_	start_char=2716|end_char=2717
+1	People	person	NOUN	NNS	Number=Plur	0	_	_	start_char=2632|end_char=2638
+2	took	take	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=2639|end_char=2643
+3	to	to	ADP	IN	_	2	_	_	start_char=2644|end_char=2646
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=2647|end_char=2650
+5	streets	street	NOUN	NNS	Number=Plur	4	_	_	start_char=2651|end_char=2658
+6	in	in	ADP	IN	_	5	_	_	start_char=2659|end_char=2661
+7	protest	protest	NOUN	NN	Number=Sing	6	_	_	start_char=2662|end_char=2669
+8	against	against	ADP	IN	_	7	_	_	start_char=2670|end_char=2677
+9	Yanukovich&	Yanukovich&	PROPN	NNP	Number=Sing	8	_	_	start_char=2678|end_char=2689|SpaceAfter=No
+10	#	#	SYM	NN	Number=Sing	9	_	_	start_char=2689|end_char=2690|SpaceAfter=No
+11	39	39	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=2690|end_char=2692|SpaceAfter=No
+12	;	;	PUNCT	:	_	11	_	_	start_char=2692|end_char=2693|SpaceAfter=No
+13	s	's	PART	POS	Typo=Yes	12	_	_	start_char=2693|end_char=2694
+14	decision	decision	NOUN	NN	Number=Sing	13	_	_	start_char=2695|end_char=2703|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=2703|end_char=2704
 
 # text = In February 2014, dozens of protesters were killed in the capital Kiev.
 # sent_id = 35
-1	In	in	ADP	IN	_	0	_	_	start_char=2718|end_char=2720
-2	February	February	PROPN	NNP	Number=Sing	1	_	_	start_char=2721|end_char=2729
-3	2014	2014	NUM	CD	NumForm=Digit|NumType=Card	2	_	_	start_char=2730|end_char=2734|SpaceAfter=No
-4	,	,	PUNCT	,	_	3	_	_	start_char=2734|end_char=2735
-5	dozens	dozen	NOUN	NNS	Number=Plur	4	_	_	start_char=2736|end_char=2742
-6	of	of	ADP	IN	_	5	_	_	start_char=2743|end_char=2745
-7	protesters	protester	NOUN	NNS	Number=Plur	6	_	_	start_char=2746|end_char=2756
-8	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=2757|end_char=2761
-9	killed	kill	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	_	_	start_char=2762|end_char=2768
-10	in	in	ADP	IN	_	9	_	_	start_char=2769|end_char=2771
-11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=2772|end_char=2775
-12	capital	capital	NOUN	NN	Number=Sing	11	_	_	start_char=2776|end_char=2783
-13	Kiev	Kiev	PROPN	NNP	Number=Sing	12	_	_	start_char=2784|end_char=2788|SpaceAfter=No
-14	.	.	PUNCT	.	_	13	_	_	start_char=2788|end_char=2789
+1	In	in	ADP	IN	_	0	_	_	start_char=2705|end_char=2707
+2	February	February	PROPN	NNP	Number=Sing	1	_	_	start_char=2708|end_char=2716
+3	2014	2014	NUM	CD	NumForm=Digit|NumType=Card	2	_	_	start_char=2717|end_char=2721|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=2721|end_char=2722
+5	dozens	dozen	NOUN	NNS	Number=Plur	4	_	_	start_char=2723|end_char=2729
+6	of	of	ADP	IN	_	5	_	_	start_char=2730|end_char=2732
+7	protesters	protester	NOUN	NNS	Number=Plur	6	_	_	start_char=2733|end_char=2743
+8	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=2744|end_char=2748
+9	killed	kill	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	_	_	start_char=2749|end_char=2755
+10	in	in	ADP	IN	_	9	_	_	start_char=2756|end_char=2758
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=2759|end_char=2762
+12	capital	capital	NOUN	NN	Number=Sing	11	_	_	start_char=2763|end_char=2770
+13	Kiev	Kiev	PROPN	NNP	Number=Sing	12	_	_	start_char=2771|end_char=2775|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=2775|end_char=2776
 
 # text = The protests grew so much that Yanukovich had to flee the country on 22 February 2014.
 # sent_id = 36
-1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2790|end_char=2793
-2	protests	protest	NOUN	NNS	Number=Plur	1	_	_	start_char=2794|end_char=2802
-3	grew	grow	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=2803|end_char=2807
-4	so	so	ADV	RB	_	3	_	_	start_char=2808|end_char=2810
-5	much	much	ADV	RB	_	4	_	_	start_char=2811|end_char=2815
-6	that	that	SCONJ	IN	_	5	_	_	start_char=2816|end_char=2820
-7	Yanukovich	Yanukovich	PROPN	NNP	Number=Sing	6	_	_	start_char=2821|end_char=2831
-8	had	have	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=2832|end_char=2835
-9	to	to	PART	TO	_	8	_	_	start_char=2836|end_char=2838
-10	flee	flee	VERB	VB	VerbForm=Inf	9	_	_	start_char=2839|end_char=2843
-11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=2844|end_char=2847
-12	country	country	NOUN	NN	Number=Sing	11	_	_	start_char=2848|end_char=2855
-13	on	on	ADP	IN	_	12	_	_	start_char=2856|end_char=2858
-14	22	22	NUM	CD	NumForm=Digit|NumType=Card	13	_	_	start_char=2859|end_char=2861
-15	February	February	PROPN	NNP	Number=Sing	14	_	_	start_char=2862|end_char=2870
-16	2014	2014	NUM	CD	NumForm=Digit|NumType=Card	15	_	_	start_char=2871|end_char=2875|SpaceAfter=No
-17	.	.	PUNCT	.	_	16	_	_	start_char=2875|end_char=2876
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2777|end_char=2780
+2	protests	protest	NOUN	NNS	Number=Plur	1	_	_	start_char=2781|end_char=2789
+3	grew	grow	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=2790|end_char=2794
+4	so	so	ADV	RB	_	3	_	_	start_char=2795|end_char=2797
+5	much	much	ADV	RB	_	4	_	_	start_char=2798|end_char=2802
+6	that	that	SCONJ	IN	_	5	_	_	start_char=2803|end_char=2807
+7	Yanukovich	Yanukovich	PROPN	NNP	Number=Sing	6	_	_	start_char=2808|end_char=2818
+8	had	have	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=2819|end_char=2822
+9	to	to	PART	TO	_	8	_	_	start_char=2823|end_char=2825
+10	flee	flee	VERB	VB	VerbForm=Inf	9	_	_	start_char=2826|end_char=2830
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=2831|end_char=2834
+12	country	country	NOUN	NN	Number=Sing	11	_	_	start_char=2835|end_char=2842
+13	on	on	ADP	IN	_	12	_	_	start_char=2843|end_char=2845
+14	22	22	NUM	CD	NumForm=Digit|NumType=Card	13	_	_	start_char=2846|end_char=2848
+15	February	February	PROPN	NNP	Number=Sing	14	_	_	start_char=2849|end_char=2857
+16	2014	2014	NUM	CD	NumForm=Digit|NumType=Card	15	_	_	start_char=2858|end_char=2862|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=2862|end_char=2863
 
 # text = After the pro-European Union came to power in Ukraine, Crimea was attacked.
 # sent_id = 37
-1	After	after	SCONJ	IN	_	0	_	_	start_char=2877|end_char=2882
-2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=2883|end_char=2886
-3	pro-European	pro-European	ADJ	NNP	Degree=Pos	2	_	_	start_char=2887|end_char=2899
-4	Union	Union	PROPN	NNP	Number=Sing	3	_	_	start_char=2900|end_char=2905
-5	came	come	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=2906|end_char=2910
-6	to	to	ADP	IN	_	5	_	_	start_char=2911|end_char=2913
-7	power	power	NOUN	NN	Number=Sing	6	_	_	start_char=2914|end_char=2919
-8	in	in	ADP	IN	_	7	_	_	start_char=2920|end_char=2922
-9	Ukraine	Ukraine	PROPN	NNP	Number=Sing	8	_	_	start_char=2923|end_char=2930|SpaceAfter=No
-10	,	,	PUNCT	,	_	9	_	_	start_char=2930|end_char=2931
-11	Crimea	Crimea	PROPN	NNP	Number=Sing	10	_	_	start_char=2932|end_char=2938
-12	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=2939|end_char=2942
-13	attacked	attack	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	12	_	_	start_char=2943|end_char=2951|SpaceAfter=No
-14	.	.	PUNCT	.	_	13	_	_	start_char=2951|end_char=2952
+1	After	after	SCONJ	IN	_	0	_	_	start_char=2864|end_char=2869
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=2870|end_char=2873
+3	pro-European	pro-European	ADJ	NNP	Degree=Pos	2	_	_	start_char=2874|end_char=2886
+4	Union	Union	PROPN	NNP	Number=Sing	3	_	_	start_char=2887|end_char=2892
+5	came	come	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=2893|end_char=2897
+6	to	to	ADP	IN	_	5	_	_	start_char=2898|end_char=2900
+7	power	power	NOUN	NN	Number=Sing	6	_	_	start_char=2901|end_char=2906
+8	in	in	ADP	IN	_	7	_	_	start_char=2907|end_char=2909
+9	Ukraine	Ukraine	PROPN	NNP	Number=Sing	8	_	_	start_char=2910|end_char=2917|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=2917|end_char=2918
+11	Crimea	Crimea	PROPN	NNP	Number=Sing	10	_	_	start_char=2919|end_char=2925
+12	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=2926|end_char=2929
+13	attacked	attack	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	12	_	_	start_char=2930|end_char=2938|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=2938|end_char=2939
 
 # text = Rebels wearing army uniforms captured the Crimean parliament.
 # sent_id = 38
-1	Rebels	rebel	NOUN	NNS	Number=Plur	0	_	_	start_char=2953|end_char=2959
-2	wearing	wear	VERB	VBG	VerbForm=Ger	1	_	_	start_char=2960|end_char=2967
-3	army	army	NOUN	NN	Number=Sing	2	_	_	start_char=2968|end_char=2972
-4	uniforms	uniform	NOUN	NNS	Number=Plur	3	_	_	start_char=2973|end_char=2981
-5	captured	capture	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=2982|end_char=2990
-6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=2991|end_char=2994
-7	Crimean	Crimean	ADJ	JJ	Degree=Pos	6	_	_	start_char=2995|end_char=3002
-8	parliament	parliament	NOUN	NN	Number=Sing	7	_	_	start_char=3003|end_char=3013|SpaceAfter=No
-9	.	.	PUNCT	.	_	8	_	_	start_char=3013|end_char=3014
+1	Rebels	rebel	NOUN	NNS	Number=Plur	0	_	_	start_char=2940|end_char=2946
+2	wearing	wear	VERB	VBG	VerbForm=Ger	1	_	_	start_char=2947|end_char=2954
+3	army	army	NOUN	NN	Number=Sing	2	_	_	start_char=2955|end_char=2959
+4	uniforms	uniform	NOUN	NNS	Number=Plur	3	_	_	start_char=2960|end_char=2968
+5	captured	capture	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=2969|end_char=2977
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=2978|end_char=2981
+7	Crimean	Crimean	ADJ	JJ	Degree=Pos	6	_	_	start_char=2982|end_char=2989
+8	parliament	parliament	NOUN	NN	Number=Sing	7	_	_	start_char=2990|end_char=3000|SpaceAfter=No
+9	.	.	PUNCT	.	_	8	_	_	start_char=3000|end_char=3001
 
 # text = Russian President Putin refused to accept that these were Russian soldiers.
 # sent_id = 39
-1	Russian	Russian	ADJ	JJ	Degree=Pos	0	_	_	start_char=3015|end_char=3022
-2	President	President	PROPN	NNP	Number=Sing	1	_	_	start_char=3023|end_char=3032
-3	Putin	Putin	PROPN	NNP	Number=Sing	2	_	_	start_char=3033|end_char=3038
-4	refused	refuse	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=3039|end_char=3046
-5	to	to	PART	TO	_	4	_	_	start_char=3047|end_char=3049
-6	accept	accept	VERB	VB	VerbForm=Inf	5	_	_	start_char=3050|end_char=3056
-7	that	that	SCONJ	IN	_	6	_	_	start_char=3057|end_char=3061
-8	these	this	PRON	DT	Number=Plur|PronType=Dem	7	_	_	start_char=3062|end_char=3067
-9	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=3068|end_char=3072
-10	Russian	Russian	ADJ	JJ	Degree=Pos	9	_	_	start_char=3073|end_char=3080
-11	soldiers	soldier	NOUN	NNS	Number=Plur	10	_	_	start_char=3081|end_char=3089|SpaceAfter=No
-12	.	.	PUNCT	.	_	11	_	_	start_char=3089|end_char=3090
+1	Russian	Russian	ADJ	JJ	Degree=Pos	0	_	_	start_char=3002|end_char=3009
+2	President	President	PROPN	NNP	Number=Sing	1	_	_	start_char=3010|end_char=3019
+3	Putin	Putin	PROPN	NNP	Number=Sing	2	_	_	start_char=3020|end_char=3025
+4	refused	refuse	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=3026|end_char=3033
+5	to	to	PART	TO	_	4	_	_	start_char=3034|end_char=3036
+6	accept	accept	VERB	VB	VerbForm=Inf	5	_	_	start_char=3037|end_char=3043
+7	that	that	SCONJ	IN	_	6	_	_	start_char=3044|end_char=3048
+8	these	this	PRON	DT	Number=Plur|PronType=Dem	7	_	_	start_char=3049|end_char=3054
+9	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=3055|end_char=3059
+10	Russian	Russian	ADJ	JJ	Degree=Pos	9	_	_	start_char=3060|end_char=3067
+11	soldiers	soldier	NOUN	NNS	Number=Plur	10	_	_	start_char=3068|end_char=3076|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=3076|end_char=3077
 
 # text = A referendum was held in Crimea in March 2014.
 # sent_id = 40
-1	A	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=3091|end_char=3092
-2	referendum	referendum	NOUN	NN	Number=Sing	1	_	_	start_char=3093|end_char=3103
-3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=3104|end_char=3107
-4	held	hold	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=3108|end_char=3112
-5	in	in	ADP	IN	_	4	_	_	start_char=3113|end_char=3115
-6	Crimea	Crimea	PROPN	NNP	Number=Sing	5	_	_	start_char=3116|end_char=3122
-7	in	in	ADP	IN	_	6	_	_	start_char=3123|end_char=3125
-8	March	March	PROPN	NNP	Number=Sing	7	_	_	start_char=3126|end_char=3131
-9	2014	2014	NUM	CD	NumForm=Digit|NumType=Card	8	_	_	start_char=3132|end_char=3136|SpaceAfter=No
-10	.	.	PUNCT	.	_	9	_	_	start_char=3136|end_char=3137
+1	A	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=3078|end_char=3079
+2	referendum	referendum	NOUN	NN	Number=Sing	1	_	_	start_char=3080|end_char=3090
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=3091|end_char=3094
+4	held	hold	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=3095|end_char=3099
+5	in	in	ADP	IN	_	4	_	_	start_char=3100|end_char=3102
+6	Crimea	Crimea	PROPN	NNP	Number=Sing	5	_	_	start_char=3103|end_char=3109
+7	in	in	ADP	IN	_	6	_	_	start_char=3110|end_char=3112
+8	March	March	PROPN	NNP	Number=Sing	7	_	_	start_char=3113|end_char=3118
+9	2014	2014	NUM	CD	NumForm=Digit|NumType=Card	8	_	_	start_char=3119|end_char=3123|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=3123|end_char=3124
 
 # text = In this, 97 percent of the people voted in favor of joining Russia.
 # sent_id = 41
-1	In	in	ADP	IN	_	0	_	_	start_char=3138|end_char=3140
-2	this	this	PRON	DT	Number=Sing|PronType=Dem	1	_	_	start_char=3141|end_char=3145|SpaceAfter=No
-3	,	,	PUNCT	,	_	2	_	_	start_char=3145|end_char=3146
-4	97	97	NUM	CD	NumForm=Digit|NumType=Card	3	_	_	start_char=3147|end_char=3149
-5	percent	percent	NOUN	NN	Number=Sing	4	_	_	start_char=3150|end_char=3157
-6	of	of	ADP	IN	_	5	_	_	start_char=3158|end_char=3160
-7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=3161|end_char=3164
-8	people	person	NOUN	NNS	Number=Plur	7	_	_	start_char=3165|end_char=3171
-9	voted	vote	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=3172|end_char=3177
-10	in	in	ADP	IN	_	9	_	_	start_char=3178|end_char=3180
-11	favor	favor	NOUN	NN	Number=Sing	10	_	_	start_char=3181|end_char=3186
-12	of	of	SCONJ	IN	_	11	_	_	start_char=3187|end_char=3189
-13	joining	join	VERB	VBG	VerbForm=Ger	12	_	_	start_char=3190|end_char=3197
-14	Russia	Russia	PROPN	NNP	Number=Sing	13	_	_	start_char=3198|end_char=3204|SpaceAfter=No
-15	.	.	PUNCT	.	_	14	_	_	start_char=3204|end_char=3205
+1	In	in	ADP	IN	_	0	_	_	start_char=3125|end_char=3127
+2	this	this	PRON	DT	Number=Sing|PronType=Dem	1	_	_	start_char=3128|end_char=3132|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=3132|end_char=3133
+4	97	97	NUM	CD	NumForm=Digit|NumType=Card	3	_	_	start_char=3134|end_char=3136
+5	percent	percent	NOUN	NN	Number=Sing	4	_	_	start_char=3137|end_char=3144
+6	of	of	ADP	IN	_	5	_	_	start_char=3145|end_char=3147
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=3148|end_char=3151
+8	people	person	NOUN	NNS	Number=Plur	7	_	_	start_char=3152|end_char=3158
+9	voted	vote	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=3159|end_char=3164
+10	in	in	ADP	IN	_	9	_	_	start_char=3165|end_char=3167
+11	favor	favor	NOUN	NN	Number=Sing	10	_	_	start_char=3168|end_char=3173
+12	of	of	SCONJ	IN	_	11	_	_	start_char=3174|end_char=3176
+13	joining	join	VERB	VBG	VerbForm=Ger	12	_	_	start_char=3177|end_char=3184
+14	Russia	Russia	PROPN	NNP	Number=Sing	13	_	_	start_char=3185|end_char=3191|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=3191|end_char=3192
 
 # text = Overnight, more than 25 thousand Ukrainian soldiers and their families were evacuated from there.
 # sent_id = 42
-1	Overnight	overnight	ADV	RB	_	0	_	_	start_char=3206|end_char=3215|SpaceAfter=No
-2	,	,	PUNCT	,	_	1	_	_	start_char=3215|end_char=3216
-3	more	more	ADJ	JJR	Degree=Cmp	2	_	_	start_char=3217|end_char=3221
-4	than	than	ADP	IN	_	3	_	_	start_char=3222|end_char=3226
-5	25	25	NUM	CD	NumForm=Digit|NumType=Card	4	_	_	start_char=3227|end_char=3229
-6	thousand	thousand	NUM	CD	NumForm=Word|NumType=Card	5	_	_	start_char=3230|end_char=3238
-7	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	6	_	_	start_char=3239|end_char=3248
-8	soldiers	soldier	NOUN	NNS	Number=Plur	7	_	_	start_char=3249|end_char=3257
-9	and	and	CCONJ	CC	_	8	_	_	start_char=3258|end_char=3261
-10	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	_	_	start_char=3262|end_char=3267
-11	families	family	NOUN	NNS	Number=Plur	10	_	_	start_char=3268|end_char=3276
-12	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=3277|end_char=3281
-13	evacuated	evacuate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	12	_	_	start_char=3282|end_char=3291
-14	from	from	ADP	IN	_	13	_	_	start_char=3292|end_char=3296
-15	there	there	ADV	RB	PronType=Dem	14	_	_	start_char=3297|end_char=3302|SpaceAfter=No
-16	.	.	PUNCT	.	_	15	_	_	start_char=3302|end_char=3303
+1	Overnight	overnight	ADV	RB	_	0	_	_	start_char=3193|end_char=3202|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=3202|end_char=3203
+3	more	more	ADJ	JJR	Degree=Cmp	2	_	_	start_char=3204|end_char=3208
+4	than	than	ADP	IN	_	3	_	_	start_char=3209|end_char=3213
+5	25	25	NUM	CD	NumForm=Digit|NumType=Card	4	_	_	start_char=3214|end_char=3216
+6	thousand	thousand	NUM	CD	NumForm=Word|NumType=Card	5	_	_	start_char=3217|end_char=3225
+7	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	6	_	_	start_char=3226|end_char=3235
+8	soldiers	soldier	NOUN	NNS	Number=Plur	7	_	_	start_char=3236|end_char=3244
+9	and	and	CCONJ	CC	_	8	_	_	start_char=3245|end_char=3248
+10	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	_	_	start_char=3249|end_char=3254
+11	families	family	NOUN	NNS	Number=Plur	10	_	_	start_char=3255|end_char=3263
+12	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=3264|end_char=3268
+13	evacuated	evacuate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	12	_	_	start_char=3269|end_char=3278
+14	from	from	ADP	IN	_	13	_	_	start_char=3279|end_char=3283
+15	there	there	ADV	RB	PronType=Dem	14	_	_	start_char=3284|end_char=3289|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=3289|end_char=3290
 
 # text = On 18 March 2014, Crimea officially became a part of Russia.
 # sent_id = 43
-1	On	on	ADP	IN	_	0	_	_	start_char=3304|end_char=3306
-2	18	18	NUM	CD	NumForm=Digit|NumType=Card	1	_	_	start_char=3307|end_char=3309
-3	March	March	PROPN	NNP	Number=Sing	2	_	_	start_char=3310|end_char=3315
-4	2014	2014	NUM	CD	NumForm=Digit|NumType=Card	3	_	_	start_char=3316|end_char=3320|SpaceAfter=No
-5	,	,	PUNCT	,	_	4	_	_	start_char=3320|end_char=3321
-6	Crimea	Crimea	PROPN	NNP	Number=Sing	5	_	_	start_char=3322|end_char=3328
-7	officially	officially	ADV	RB	_	6	_	_	start_char=3329|end_char=3339
-8	became	become	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=3340|end_char=3346
-9	a	a	DET	DT	Definite=Ind|PronType=Art	8	_	_	start_char=3347|end_char=3348
-10	part	part	NOUN	NN	Number=Sing	9	_	_	start_char=3349|end_char=3353
-11	of	of	ADP	IN	_	10	_	_	start_char=3354|end_char=3356
-12	Russia	Russia	PROPN	NNP	Number=Sing	11	_	_	start_char=3357|end_char=3363|SpaceAfter=No
-13	.	.	PUNCT	.	_	12	_	_	start_char=3363|end_char=3364
+1	On	on	ADP	IN	_	0	_	_	start_char=3291|end_char=3293
+2	18	18	NUM	CD	NumForm=Digit|NumType=Card	1	_	_	start_char=3294|end_char=3296
+3	March	March	PROPN	NNP	Number=Sing	2	_	_	start_char=3297|end_char=3302
+4	2014	2014	NUM	CD	NumForm=Digit|NumType=Card	3	_	_	start_char=3303|end_char=3307|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=3307|end_char=3308
+6	Crimea	Crimea	PROPN	NNP	Number=Sing	5	_	_	start_char=3309|end_char=3315
+7	officially	officially	ADV	RB	_	6	_	_	start_char=3316|end_char=3326
+8	became	become	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=3327|end_char=3333
+9	a	a	DET	DT	Definite=Ind|PronType=Art	8	_	_	start_char=3334|end_char=3335
+10	part	part	NOUN	NN	Number=Sing	9	_	_	start_char=3336|end_char=3340
+11	of	of	ADP	IN	_	10	_	_	start_char=3341|end_char=3343
+12	Russia	Russia	PROPN	NNP	Number=Sing	11	_	_	start_char=3344|end_char=3350|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=3350|end_char=3351
 
 # text = The conflict continued even after the occupation of Crimea.
 # sent_id = 44
-1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=3365|end_char=3368
-2	conflict	conflict	NOUN	NN	Number=Sing	1	_	_	start_char=3369|end_char=3377
-3	continued	continue	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=3378|end_char=3387
-4	even	even	ADV	RB	_	3	_	_	start_char=3388|end_char=3392
-5	after	after	ADP	IN	_	4	_	_	start_char=3393|end_char=3398
-6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=3399|end_char=3402
-7	occupation	occupation	NOUN	NN	Number=Sing	6	_	_	start_char=3403|end_char=3413
-8	of	of	ADP	IN	_	7	_	_	start_char=3414|end_char=3416
-9	Crimea	Crimea	PROPN	NNP	Number=Sing	8	_	_	start_char=3417|end_char=3423|SpaceAfter=No
-10	.	.	PUNCT	.	_	9	_	_	start_char=3423|end_char=3424
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=3352|end_char=3355
+2	conflict	conflict	NOUN	NN	Number=Sing	1	_	_	start_char=3356|end_char=3364
+3	continued	continue	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=3365|end_char=3374
+4	even	even	ADV	RB	_	3	_	_	start_char=3375|end_char=3379
+5	after	after	ADP	IN	_	4	_	_	start_char=3380|end_char=3385
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=3386|end_char=3389
+7	occupation	occupation	NOUN	NN	Number=Sing	6	_	_	start_char=3390|end_char=3400
+8	of	of	ADP	IN	_	7	_	_	start_char=3401|end_char=3403
+9	Crimea	Crimea	PROPN	NNP	Number=Sing	8	_	_	start_char=3404|end_char=3410|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=3410|end_char=3411
 
 # text = Separatists declared two regions of Ukraine&#39;s Donbas, Donetsk and Luhansk, as separate countries.
 # sent_id = 45
-1	Separatists	Separatist	PROPN	NNPS	Number=Plur	0	_	_	start_char=3425|end_char=3436
-2	declared	declare	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=3437|end_char=3445
-3	two	two	NUM	CD	NumForm=Word|NumType=Card	2	_	_	start_char=3446|end_char=3449
-4	regions	region	NOUN	NNS	Number=Plur	3	_	_	start_char=3450|end_char=3457
-5	of	of	ADP	IN	_	4	_	_	start_char=3458|end_char=3460
-6	Ukraine&	Ukraine&	PROPN	NNP	Number=Sing	5	_	_	start_char=3461|end_char=3469|SpaceAfter=No
-7	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	6	_	_	start_char=3469|end_char=3472|SpaceAfter=No
-8	;	;	PUNCT	:	_	7	_	_	start_char=3472|end_char=3473|SpaceAfter=No
-9	s	's	PART	POS	Typo=Yes	8	_	_	start_char=3473|end_char=3474
-10	Donbas	Donbas	PROPN	NNP	Number=Sing	9	_	_	start_char=3475|end_char=3481|SpaceAfter=No
-11	,	,	PUNCT	,	_	10	_	_	start_char=3481|end_char=3482
-12	Donetsk	Donetsk	PROPN	NNP	Number=Sing	11	_	_	start_char=3483|end_char=3490
-13	and	and	CCONJ	CC	_	12	_	_	start_char=3491|end_char=3494
-14	Luhansk	Luhansk	PROPN	NNP	Number=Sing	13	_	_	start_char=3495|end_char=3502|SpaceAfter=No
-15	,	,	PUNCT	,	_	14	_	_	start_char=3502|end_char=3503
-16	as	as	ADP	IN	_	15	_	_	start_char=3504|end_char=3506
-17	separate	separate	ADJ	JJ	Degree=Pos	16	_	_	start_char=3507|end_char=3515
-18	countries	country	NOUN	NNS	Number=Plur	17	_	_	start_char=3516|end_char=3525|SpaceAfter=No
-19	.	.	PUNCT	.	_	18	_	_	start_char=3525|end_char=3526
+1	Separatists	Separatist	PROPN	NNPS	Number=Plur	0	_	_	start_char=3412|end_char=3423
+2	declared	declare	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=3424|end_char=3432
+3	two	two	NUM	CD	NumForm=Word|NumType=Card	2	_	_	start_char=3433|end_char=3436
+4	regions	region	NOUN	NNS	Number=Plur	3	_	_	start_char=3437|end_char=3444
+5	of	of	ADP	IN	_	4	_	_	start_char=3445|end_char=3447
+6	Ukraine&	Ukraine&	PROPN	NNP	Number=Sing	5	_	_	start_char=3448|end_char=3456|SpaceAfter=No
+7	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	6	_	_	start_char=3456|end_char=3459|SpaceAfter=No
+8	;	;	PUNCT	:	_	7	_	_	start_char=3459|end_char=3460|SpaceAfter=No
+9	s	's	PART	POS	Typo=Yes	8	_	_	start_char=3460|end_char=3461
+10	Donbas	Donbas	PROPN	NNP	Number=Sing	9	_	_	start_char=3462|end_char=3468|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=3468|end_char=3469
+12	Donetsk	Donetsk	PROPN	NNP	Number=Sing	11	_	_	start_char=3470|end_char=3477
+13	and	and	CCONJ	CC	_	12	_	_	start_char=3478|end_char=3481
+14	Luhansk	Luhansk	PROPN	NNP	Number=Sing	13	_	_	start_char=3482|end_char=3489|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=3489|end_char=3490
+16	as	as	ADP	IN	_	15	_	_	start_char=3491|end_char=3493
+17	separate	separate	ADJ	JJ	Degree=Pos	16	_	_	start_char=3494|end_char=3502
+18	countries	country	NOUN	NNS	Number=Plur	17	_	_	start_char=3503|end_char=3512|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=3512|end_char=3513
 
 # text = Donetsk and Luhansk are still two separate countries.
 # sent_id = 46
-1	Donetsk	Donetsk	PROPN	NNP	Number=Sing	0	_	_	start_char=3527|end_char=3534
-2	and	and	CCONJ	CC	_	1	_	_	start_char=3535|end_char=3538
-3	Luhansk	Luhansk	PROPN	NNP	Number=Sing	2	_	_	start_char=3539|end_char=3546
-4	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=3547|end_char=3550
-5	still	still	ADV	RB	_	4	_	_	start_char=3551|end_char=3556
-6	two	two	NUM	CD	NumForm=Word|NumType=Card	5	_	_	start_char=3557|end_char=3560
-7	separate	separate	ADJ	JJ	Degree=Pos	6	_	_	start_char=3561|end_char=3569
-8	countries	country	NOUN	NNS	Number=Plur	7	_	_	start_char=3570|end_char=3579|SpaceAfter=No
-9	.	.	PUNCT	.	_	8	_	_	start_char=3579|end_char=3580
+1	Donetsk	Donetsk	PROPN	NNP	Number=Sing	0	_	_	start_char=3514|end_char=3521
+2	and	and	CCONJ	CC	_	1	_	_	start_char=3522|end_char=3525
+3	Luhansk	Luhansk	PROPN	NNP	Number=Sing	2	_	_	start_char=3526|end_char=3533
+4	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=3534|end_char=3537
+5	still	still	ADV	RB	_	4	_	_	start_char=3538|end_char=3543
+6	two	two	NUM	CD	NumForm=Word|NumType=Card	5	_	_	start_char=3544|end_char=3547
+7	separate	separate	ADJ	JJ	Degree=Pos	6	_	_	start_char=3548|end_char=3556
+8	countries	country	NOUN	NNS	Number=Plur	7	_	_	start_char=3557|end_char=3566|SpaceAfter=No
+9	.	.	PUNCT	.	_	8	_	_	start_char=3566|end_char=3567
 
 # text = Then Zelensky came to power Volodymyr Zelensky was elected President of Ukraine in the 2019 elections.
 # sent_id = 47
-1	Then	then	ADV	RB	PronType=Dem	0	_	_	start_char=3581|end_char=3585
-2	Zelensky	Zelensky	PROPN	NNP	Number=Sing	1	_	_	start_char=3586|end_char=3594
-3	came	come	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=3595|end_char=3599
-4	to	to	ADP	IN	_	3	_	_	start_char=3600|end_char=3602
-5	power	power	NOUN	NN	Number=Sing	4	_	_	start_char=3603|end_char=3608
-6	Volodymyr	Volodymyr	PROPN	NNP	Number=Sing	5	_	_	start_char=3609|end_char=3618
-7	Zelensky	Zelensky	PROPN	NNP	Number=Sing	6	_	_	start_char=3619|end_char=3627
-8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=3628|end_char=3631
-9	elected	elect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	_	_	start_char=3632|end_char=3639
-10	President	President	PROPN	NNP	Number=Sing	9	_	_	start_char=3640|end_char=3649
-11	of	of	ADP	IN	_	10	_	_	start_char=3650|end_char=3652
-12	Ukraine	Ukraine	PROPN	NNP	Number=Sing	11	_	_	start_char=3653|end_char=3660
-13	in	in	ADP	IN	_	12	_	_	start_char=3661|end_char=3663
-14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=3664|end_char=3667
-15	2019	2019	NUM	CD	NumForm=Digit|NumType=Card	14	_	_	start_char=3668|end_char=3672
-16	elections	election	NOUN	NNS	Number=Plur	15	_	_	start_char=3673|end_char=3682|SpaceAfter=No
-17	.	.	PUNCT	.	_	16	_	_	start_char=3682|end_char=3683
+1	Then	then	ADV	RB	PronType=Dem	0	_	_	start_char=3568|end_char=3572
+2	Zelensky	Zelensky	PROPN	NNP	Number=Sing	1	_	_	start_char=3573|end_char=3581
+3	came	come	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=3582|end_char=3586
+4	to	to	ADP	IN	_	3	_	_	start_char=3587|end_char=3589
+5	power	power	NOUN	NN	Number=Sing	4	_	_	start_char=3590|end_char=3595
+6	Volodymyr	Volodymyr	PROPN	NNP	Number=Sing	5	_	_	start_char=3596|end_char=3605
+7	Zelensky	Zelensky	PROPN	NNP	Number=Sing	6	_	_	start_char=3606|end_char=3614
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=3615|end_char=3618
+9	elected	elect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	_	_	start_char=3619|end_char=3626
+10	President	President	PROPN	NNP	Number=Sing	9	_	_	start_char=3627|end_char=3636
+11	of	of	ADP	IN	_	10	_	_	start_char=3637|end_char=3639
+12	Ukraine	Ukraine	PROPN	NNP	Number=Sing	11	_	_	start_char=3640|end_char=3647
+13	in	in	ADP	IN	_	12	_	_	start_char=3648|end_char=3650
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=3651|end_char=3654
+15	2019	2019	NUM	CD	NumForm=Digit|NumType=Card	14	_	_	start_char=3655|end_char=3659
+16	elections	election	NOUN	NNS	Number=Plur	15	_	_	start_char=3660|end_char=3669|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=3669|end_char=3670
 
 # text = He promised to restore the old status of Donbass.
 # sent_id = 48
-1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=3684|end_char=3686
-2	promised	promise	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=3687|end_char=3695
-3	to	to	PART	TO	_	2	_	_	start_char=3696|end_char=3698
-4	restore	restore	VERB	VB	VerbForm=Inf	3	_	_	start_char=3699|end_char=3706
-5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=3707|end_char=3710
-6	old	old	ADJ	JJ	Degree=Pos	5	_	_	start_char=3711|end_char=3714
-7	status	status	NOUN	NN	Number=Sing	6	_	_	start_char=3715|end_char=3721
-8	of	of	ADP	IN	_	7	_	_	start_char=3722|end_char=3724
-9	Donbass	Donbass	PROPN	NNP	Number=Sing	8	_	_	start_char=3725|end_char=3732|SpaceAfter=No
-10	.	.	PUNCT	.	_	9	_	_	start_char=3732|end_char=3733
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=3671|end_char=3673
+2	promised	promise	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=3674|end_char=3682
+3	to	to	PART	TO	_	2	_	_	start_char=3683|end_char=3685
+4	restore	restore	VERB	VB	VerbForm=Inf	3	_	_	start_char=3686|end_char=3693
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=3694|end_char=3697
+6	old	old	ADJ	JJ	Degree=Pos	5	_	_	start_char=3698|end_char=3701
+7	status	status	NOUN	NN	Number=Sing	6	_	_	start_char=3702|end_char=3708
+8	of	of	ADP	IN	_	7	_	_	start_char=3709|end_char=3711
+9	Donbass	Donbass	PROPN	NNP	Number=Sing	8	_	_	start_char=3712|end_char=3719|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=3719|end_char=3720
 
 # text = As soon as Zelensky came to power, he intensified his efforts to join NATO.
 # sent_id = 49
-1	As	as	ADV	RB	_	0	_	_	start_char=3734|end_char=3736
-2	soon	soon	ADV	RB	Degree=Pos	1	_	_	start_char=3737|end_char=3741
-3	as	as	SCONJ	IN	_	2	_	_	start_char=3742|end_char=3744
-4	Zelensky	Zelensky	PROPN	NNP	Number=Sing	3	_	_	start_char=3745|end_char=3753
-5	came	come	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=3754|end_char=3758
-6	to	to	ADP	IN	_	5	_	_	start_char=3759|end_char=3761
-7	power	power	NOUN	NN	Number=Sing	6	_	_	start_char=3762|end_char=3767|SpaceAfter=No
-8	,	,	PUNCT	,	_	7	_	_	start_char=3767|end_char=3768
-9	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	_	_	start_char=3769|end_char=3771
-10	intensified	intensify	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=3772|end_char=3783
-11	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	_	_	start_char=3784|end_char=3787
-12	efforts	effort	NOUN	NNS	Number=Plur	11	_	_	start_char=3788|end_char=3795
-13	to	to	PART	TO	_	12	_	_	start_char=3796|end_char=3798
-14	join	join	VERB	VB	VerbForm=Inf	13	_	_	start_char=3799|end_char=3803
-15	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	14	_	_	start_char=3804|end_char=3808|SpaceAfter=No
-16	.	.	PUNCT	.	_	15	_	_	start_char=3808|end_char=3809
+1	As	as	ADV	RB	_	0	_	_	start_char=3721|end_char=3723
+2	soon	soon	ADV	RB	Degree=Pos	1	_	_	start_char=3724|end_char=3728
+3	as	as	SCONJ	IN	_	2	_	_	start_char=3729|end_char=3731
+4	Zelensky	Zelensky	PROPN	NNP	Number=Sing	3	_	_	start_char=3732|end_char=3740
+5	came	come	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=3741|end_char=3745
+6	to	to	ADP	IN	_	5	_	_	start_char=3746|end_char=3748
+7	power	power	NOUN	NN	Number=Sing	6	_	_	start_char=3749|end_char=3754|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=3754|end_char=3755
+9	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	_	_	start_char=3756|end_char=3758
+10	intensified	intensify	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=3759|end_char=3770
+11	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	_	_	start_char=3771|end_char=3774
+12	efforts	effort	NOUN	NNS	Number=Plur	11	_	_	start_char=3775|end_char=3782
+13	to	to	PART	TO	_	12	_	_	start_char=3783|end_char=3785
+14	join	join	VERB	VB	VerbForm=Inf	13	_	_	start_char=3786|end_char=3790
+15	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	14	_	_	start_char=3791|end_char=3795|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=3795|end_char=3796
 
 # text = In November 2021, satellite images revealed that Russia has started deploying troops near the Ukrainian border.
 # sent_id = 50
-1	In	in	ADP	IN	_	0	_	_	start_char=3810|end_char=3812
-2	November	November	PROPN	NNP	Number=Sing	1	_	_	start_char=3813|end_char=3821
-3	2021	2021	NUM	CD	NumForm=Digit|NumType=Card	2	_	_	start_char=3822|end_char=3826|SpaceAfter=No
-4	,	,	PUNCT	,	_	3	_	_	start_char=3826|end_char=3827
-5	satellite	satellite	NOUN	NN	Number=Sing	4	_	_	start_char=3828|end_char=3837
-6	images	image	NOUN	NNS	Number=Plur	5	_	_	start_char=3838|end_char=3844
-7	revealed	reveal	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=3845|end_char=3853
-8	that	that	SCONJ	IN	_	7	_	_	start_char=3854|end_char=3858
-9	Russia	Russia	PROPN	NNP	Number=Sing	8	_	_	start_char=3859|end_char=3865
-10	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=3866|end_char=3869
-11	started	start	VERB	VBN	Tense=Past|VerbForm=Part	10	_	_	start_char=3870|end_char=3877
-12	deploying	deploy	VERB	VBG	VerbForm=Ger	11	_	_	start_char=3878|end_char=3887
-13	troops	troops	NOUN	NNS	Number=Plur	12	_	_	start_char=3888|end_char=3894
-14	near	near	ADP	IN	_	13	_	_	start_char=3895|end_char=3899
-15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=3900|end_char=3903
-16	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	15	_	_	start_char=3904|end_char=3913
-17	border	border	NOUN	NN	Number=Sing	16	_	_	start_char=3914|end_char=3920|SpaceAfter=No
-18	.	.	PUNCT	.	_	17	_	_	start_char=3920|end_char=3921
+1	In	in	ADP	IN	_	0	_	_	start_char=3797|end_char=3799
+2	November	November	PROPN	NNP	Number=Sing	1	_	_	start_char=3800|end_char=3808
+3	2021	2021	NUM	CD	NumForm=Digit|NumType=Card	2	_	_	start_char=3809|end_char=3813|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=3813|end_char=3814
+5	satellite	satellite	NOUN	NN	Number=Sing	4	_	_	start_char=3815|end_char=3824
+6	images	image	NOUN	NNS	Number=Plur	5	_	_	start_char=3825|end_char=3831
+7	revealed	reveal	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=3832|end_char=3840
+8	that	that	SCONJ	IN	_	7	_	_	start_char=3841|end_char=3845
+9	Russia	Russia	PROPN	NNP	Number=Sing	8	_	_	start_char=3846|end_char=3852
+10	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=3853|end_char=3856
+11	started	start	VERB	VBN	Tense=Past|VerbForm=Part	10	_	_	start_char=3857|end_char=3864
+12	deploying	deploy	VERB	VBG	VerbForm=Ger	11	_	_	start_char=3865|end_char=3874
+13	troops	troops	NOUN	NNS	Number=Plur	12	_	_	start_char=3875|end_char=3881
+14	near	near	ADP	IN	_	13	_	_	start_char=3882|end_char=3886
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=3887|end_char=3890
+16	Ukrainian	Ukrainian	ADJ	JJ	Degree=Pos	15	_	_	start_char=3891|end_char=3900
+17	border	border	NOUN	NN	Number=Sing	16	_	_	start_char=3901|end_char=3907|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=3907|end_char=3908
 
 # text = Russia does not want Ukraine to join NATO, because Russia feels that if this happens, NATO soldiers and bases will come and stand near its border.
 # sent_id = 51
-1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=3922|end_char=3928
-2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=3929|end_char=3933
-3	not	not	PART	RB	_	2	_	_	start_char=3934|end_char=3937
-4	want	want	VERB	VB	VerbForm=Inf	3	_	_	start_char=3938|end_char=3942
-5	Ukraine	Ukraine	PROPN	NNP	Number=Sing	4	_	_	start_char=3943|end_char=3950
-6	to	to	PART	TO	_	5	_	_	start_char=3951|end_char=3953
-7	join	join	VERB	VB	VerbForm=Inf	6	_	_	start_char=3954|end_char=3958
-8	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	7	_	_	start_char=3959|end_char=3963|SpaceAfter=No
-9	,	,	PUNCT	,	_	8	_	_	start_char=3963|end_char=3964
-10	because	because	SCONJ	IN	_	9	_	_	start_char=3965|end_char=3972
-11	Russia	Russia	PROPN	NNP	Number=Sing	10	_	_	start_char=3973|end_char=3979
-12	feels	feel	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=3980|end_char=3985
-13	that	that	SCONJ	IN	_	12	_	_	start_char=3986|end_char=3990
-14	if	if	SCONJ	IN	_	13	_	_	start_char=3991|end_char=3993
-15	this	this	PRON	DT	Number=Sing|PronType=Dem	14	_	_	start_char=3994|end_char=3998
-16	happens	happen	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=3999|end_char=4006|SpaceAfter=No
-17	,	,	PUNCT	,	_	16	_	_	start_char=4006|end_char=4007
-18	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	17	_	_	start_char=4008|end_char=4012
-19	soldiers	soldier	NOUN	NNS	Number=Plur	18	_	_	start_char=4013|end_char=4021
-20	and	and	CCONJ	CC	_	19	_	_	start_char=4022|end_char=4025
-21	bases	basis	NOUN	NNS	Number=Plur	20	_	_	start_char=4026|end_char=4031
-22	will	will	AUX	MD	VerbForm=Fin	21	_	_	start_char=4032|end_char=4036
-23	come	come	VERB	VB	VerbForm=Inf	22	_	_	start_char=4037|end_char=4041
-24	and	and	CCONJ	CC	_	23	_	_	start_char=4042|end_char=4045
-25	stand	stand	VERB	VB	VerbForm=Inf	24	_	_	start_char=4046|end_char=4051
-26	near	near	ADP	IN	_	25	_	_	start_char=4052|end_char=4056
-27	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	26	_	_	start_char=4057|end_char=4060
-28	border	border	NOUN	NN	Number=Sing	27	_	_	start_char=4061|end_char=4067|SpaceAfter=No
-29	.	.	PUNCT	.	_	28	_	_	start_char=4067|end_char=4068
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=3909|end_char=3915
+2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=3916|end_char=3920
+3	not	not	PART	RB	_	2	_	_	start_char=3921|end_char=3924
+4	want	want	VERB	VB	VerbForm=Inf	3	_	_	start_char=3925|end_char=3929
+5	Ukraine	Ukraine	PROPN	NNP	Number=Sing	4	_	_	start_char=3930|end_char=3937
+6	to	to	PART	TO	_	5	_	_	start_char=3938|end_char=3940
+7	join	join	VERB	VB	VerbForm=Inf	6	_	_	start_char=3941|end_char=3945
+8	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	7	_	_	start_char=3946|end_char=3950|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=3950|end_char=3951
+10	because	because	SCONJ	IN	_	9	_	_	start_char=3952|end_char=3959
+11	Russia	Russia	PROPN	NNP	Number=Sing	10	_	_	start_char=3960|end_char=3966
+12	feels	feel	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=3967|end_char=3972
+13	that	that	SCONJ	IN	_	12	_	_	start_char=3973|end_char=3977
+14	if	if	SCONJ	IN	_	13	_	_	start_char=3978|end_char=3980
+15	this	this	PRON	DT	Number=Sing|PronType=Dem	14	_	_	start_char=3981|end_char=3985
+16	happens	happen	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=3986|end_char=3993|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=3993|end_char=3994
+18	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	17	_	_	start_char=3995|end_char=3999
+19	soldiers	soldier	NOUN	NNS	Number=Plur	18	_	_	start_char=4000|end_char=4008
+20	and	and	CCONJ	CC	_	19	_	_	start_char=4009|end_char=4012
+21	bases	basis	NOUN	NNS	Number=Plur	20	_	_	start_char=4013|end_char=4018
+22	will	will	AUX	MD	VerbForm=Fin	21	_	_	start_char=4019|end_char=4023
+23	come	come	VERB	VB	VerbForm=Inf	22	_	_	start_char=4024|end_char=4028
+24	and	and	CCONJ	CC	_	23	_	_	start_char=4029|end_char=4032
+25	stand	stand	VERB	VB	VerbForm=Inf	24	_	_	start_char=4033|end_char=4038
+26	near	near	ADP	IN	_	25	_	_	start_char=4039|end_char=4043
+27	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	26	_	_	start_char=4044|end_char=4047
+28	border	border	NOUN	NN	Number=Sing	27	_	_	start_char=4048|end_char=4054|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=4054|end_char=4055
 
 # text = Right now the tension between Russia and Ukraine has increased a lot.
 # sent_id = 52
-1	Right	right	ADV	RB	_	0	_	_	start_char=4069|end_char=4074
-2	now	now	ADV	RB	_	1	_	_	start_char=4075|end_char=4078
-3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=4079|end_char=4082
-4	tension	tension	NOUN	NN	Number=Sing	3	_	_	start_char=4083|end_char=4090
-5	between	between	ADP	IN	_	4	_	_	start_char=4091|end_char=4098
-6	Russia	Russia	PROPN	NNP	Number=Sing	5	_	_	start_char=4099|end_char=4105
-7	and	and	CCONJ	CC	_	6	_	_	start_char=4106|end_char=4109
-8	Ukraine	Ukraine	PROPN	NNP	Number=Sing	7	_	_	start_char=4110|end_char=4117
-9	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=4118|end_char=4121
-10	increased	increase	VERB	VBN	Tense=Past|VerbForm=Part	9	_	_	start_char=4122|end_char=4131
-11	a	a	DET	DT	Definite=Ind|PronType=Art	10	_	_	start_char=4132|end_char=4133
-12	lot	lot	NOUN	NN	Number=Sing	11	_	_	start_char=4134|end_char=4137|SpaceAfter=No
-13	.	.	PUNCT	.	_	12	_	_	start_char=4137|end_char=4138
+1	Right	right	ADV	RB	_	0	_	_	start_char=4056|end_char=4061
+2	now	now	ADV	RB	_	1	_	_	start_char=4062|end_char=4065
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=4066|end_char=4069
+4	tension	tension	NOUN	NN	Number=Sing	3	_	_	start_char=4070|end_char=4077
+5	between	between	ADP	IN	_	4	_	_	start_char=4078|end_char=4085
+6	Russia	Russia	PROPN	NNP	Number=Sing	5	_	_	start_char=4086|end_char=4092
+7	and	and	CCONJ	CC	_	6	_	_	start_char=4093|end_char=4096
+8	Ukraine	Ukraine	PROPN	NNP	Number=Sing	7	_	_	start_char=4097|end_char=4104
+9	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=4105|end_char=4108
+10	increased	increase	VERB	VBN	Tense=Past|VerbForm=Part	9	_	_	start_char=4109|end_char=4118
+11	a	a	DET	DT	Definite=Ind|PronType=Art	10	_	_	start_char=4119|end_char=4120
+12	lot	lot	NOUN	NN	Number=Sing	11	_	_	start_char=4121|end_char=4124|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=4124|end_char=4125
 
 # text = Western countries including America have expressed concern that Russia can attack Ukraine at any time.
 # sent_id = 53
-1	Western	western	ADJ	JJ	Degree=Pos	0	_	_	start_char=4139|end_char=4146
-2	countries	country	NOUN	NNS	Number=Plur	1	_	_	start_char=4147|end_char=4156
-3	including	include	VERB	VBG	VerbForm=Ger	2	_	_	start_char=4157|end_char=4166
-4	America	America	PROPN	NNP	Number=Sing	3	_	_	start_char=4167|end_char=4174
-5	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=4175|end_char=4179
-6	expressed	express	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=4180|end_char=4189
-7	concern	concern	NOUN	NN	Number=Sing	6	_	_	start_char=4190|end_char=4197
-8	that	that	SCONJ	IN	_	7	_	_	start_char=4198|end_char=4202
-9	Russia	Russia	PROPN	NNP	Number=Sing	8	_	_	start_char=4203|end_char=4209
-10	can	can	AUX	MD	VerbForm=Fin	9	_	_	start_char=4210|end_char=4213
-11	attack	attack	VERB	VB	VerbForm=Inf	10	_	_	start_char=4214|end_char=4220
-12	Ukraine	Ukraine	PROPN	NNP	Number=Sing	11	_	_	start_char=4221|end_char=4228
-13	at	at	ADP	IN	_	12	_	_	start_char=4229|end_char=4231
-14	any	any	DET	DT	_	13	_	_	start_char=4232|end_char=4235
-15	time	time	NOUN	NN	Number=Sing	14	_	_	start_char=4236|end_char=4240|SpaceAfter=No
-16	.	.	PUNCT	.	_	15	_	_	start_char=4240|end_char=4241
+1	Western	western	ADJ	JJ	Degree=Pos	0	_	_	start_char=4126|end_char=4133
+2	countries	country	NOUN	NNS	Number=Plur	1	_	_	start_char=4134|end_char=4143
+3	including	include	VERB	VBG	VerbForm=Ger	2	_	_	start_char=4144|end_char=4153
+4	America	America	PROPN	NNP	Number=Sing	3	_	_	start_char=4154|end_char=4161
+5	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=4162|end_char=4166
+6	expressed	express	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=4167|end_char=4176
+7	concern	concern	NOUN	NN	Number=Sing	6	_	_	start_char=4177|end_char=4184
+8	that	that	SCONJ	IN	_	7	_	_	start_char=4185|end_char=4189
+9	Russia	Russia	PROPN	NNP	Number=Sing	8	_	_	start_char=4190|end_char=4196
+10	can	can	AUX	MD	VerbForm=Fin	9	_	_	start_char=4197|end_char=4200
+11	attack	attack	VERB	VB	VerbForm=Inf	10	_	_	start_char=4201|end_char=4207
+12	Ukraine	Ukraine	PROPN	NNP	Number=Sing	11	_	_	start_char=4208|end_char=4215
+13	at	at	ADP	IN	_	12	_	_	start_char=4216|end_char=4218
+14	any	any	DET	DT	_	13	_	_	start_char=4219|end_char=4222
+15	time	time	NOUN	NN	Number=Sing	14	_	_	start_char=4223|end_char=4227|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=4227|end_char=4228
 
 # text = According to reports, Russia has deployed more than 1.5 lakh soldiers and weapons near Ukraine.
 # sent_id = 54
-1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=4242|end_char=4251
-2	to	to	ADP	IN	_	1	_	_	start_char=4252|end_char=4254
-3	reports	report	NOUN	NNS	Number=Plur	2	_	_	start_char=4255|end_char=4262|SpaceAfter=No
-4	,	,	PUNCT	,	_	3	_	_	start_char=4262|end_char=4263
-5	Russia	Russia	PROPN	NNP	Number=Sing	4	_	_	start_char=4264|end_char=4270
-6	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=4271|end_char=4274
-7	deployed	deploy	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=4275|end_char=4283
-8	more	more	ADJ	JJR	Degree=Cmp	7	_	_	start_char=4284|end_char=4288
-9	than	than	ADP	IN	_	8	_	_	start_char=4289|end_char=4293
-10	1.5	1.5	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=4294|end_char=4297
-11	lakh	lakh	NOUN	NN	Number=Sing	10	_	_	start_char=4298|end_char=4302
-12	soldiers	soldier	NOUN	NNS	Number=Plur	11	_	_	start_char=4303|end_char=4311
-13	and	and	CCONJ	CC	_	12	_	_	start_char=4312|end_char=4315
-14	weapons	weapon	NOUN	NNS	Number=Plur	13	_	_	start_char=4316|end_char=4323
-15	near	near	ADP	IN	_	14	_	_	start_char=4324|end_char=4328
-16	Ukraine	Ukraine	PROPN	NNP	Number=Sing	15	_	_	start_char=4329|end_char=4336|SpaceAfter=No
-17	.	.	PUNCT	.	_	16	_	_	start_char=4336|end_char=4337|SpaceAfter=No
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=4229|end_char=4238
+2	to	to	ADP	IN	_	1	_	_	start_char=4239|end_char=4241
+3	reports	report	NOUN	NNS	Number=Plur	2	_	_	start_char=4242|end_char=4249|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=4249|end_char=4250
+5	Russia	Russia	PROPN	NNP	Number=Sing	4	_	_	start_char=4251|end_char=4257
+6	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=4258|end_char=4261
+7	deployed	deploy	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=4262|end_char=4270
+8	more	more	ADJ	JJR	Degree=Cmp	7	_	_	start_char=4271|end_char=4275
+9	than	than	ADP	IN	_	8	_	_	start_char=4276|end_char=4280
+10	1.5	1.5	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=4281|end_char=4284
+11	lakh	lakh	NOUN	NN	Number=Sing	10	_	_	start_char=4285|end_char=4289
+12	soldiers	soldier	NOUN	NNS	Number=Plur	11	_	_	start_char=4290|end_char=4298
+13	and	and	CCONJ	CC	_	12	_	_	start_char=4299|end_char=4302
+14	weapons	weapon	NOUN	NNS	Number=Plur	13	_	_	start_char=4303|end_char=4310
+15	near	near	ADP	IN	_	14	_	_	start_char=4311|end_char=4315
+16	Ukraine	Ukraine	PROPN	NNP	Number=Sing	15	_	_	start_char=4316|end_char=4323|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=4323|end_char=4324|SpaceAfter=No
 

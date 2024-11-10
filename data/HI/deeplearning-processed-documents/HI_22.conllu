@@ -559,7 +559,7 @@
 18	accidents	accident	NOUN	NNS	Number=Plur	17	_	_	start_char=2614|end_char=2623|SpaceAfter=No
 19	.	.	PUNCT	.	_	18	_	_	start_char=2623|end_char=2624
 
-# text = Russia, Ukraine and NATO should make a more practical assessment of the progress of this war and be ready for dialogue instead of continuing this endless war that harms all parties.
+# text = Russia, Ukraine and NATO should make a more practical assessment of the progress of this war and be ready for dialogue instead of continuing this that harms all parties.
 # sent_id = 23
 1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=2625|end_char=2631|SpaceAfter=No
 2	,	,	PUNCT	,	_	1	_	_	start_char=2631|end_char=2632
@@ -586,12 +586,10 @@
 23	instead	instead	ADV	RB	_	22	_	_	start_char=2744|end_char=2751
 24	of	of	SCONJ	IN	_	23	_	_	start_char=2752|end_char=2754
 25	continuing	continue	VERB	VBG	VerbForm=Ger	24	_	_	start_char=2755|end_char=2765
-26	this	this	DET	DT	Number=Sing|PronType=Dem	25	_	_	start_char=2766|end_char=2770
-27	endless	endless	ADJ	JJ	Degree=Pos	26	_	_	start_char=2771|end_char=2778
-28	war	war	NOUN	NN	Number=Sing	27	_	_	start_char=2779|end_char=2782
-29	that	that	PRON	WDT	PronType=Rel	28	_	_	start_char=2783|end_char=2787
-30	harms	harm	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	_	_	start_char=2788|end_char=2793
-31	all	all	DET	DT	_	30	_	_	start_char=2794|end_char=2797
-32	parties	party	NOUN	NNS	Number=Plur	31	_	_	start_char=2798|end_char=2805|SpaceAfter=No
-33	.	.	PUNCT	.	_	32	_	_	start_char=2805|end_char=2806|SpaceAfter=No
+26	this	this	PRON	DT	Number=Sing|PronType=Dem	25	_	_	start_char=2766|end_char=2770|SpacesAfter=\s\s
+27	that	that	PRON	WDT	PronType=Rel	26	_	_	start_char=2772|end_char=2776
+28	harms	harm	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	_	_	start_char=2777|end_char=2782
+29	all	all	DET	DT	_	28	_	_	start_char=2783|end_char=2786
+30	parties	party	NOUN	NNS	Number=Plur	29	_	_	start_char=2787|end_char=2794|SpaceAfter=No
+31	.	.	PUNCT	.	_	30	_	_	start_char=2794|end_char=2795|SpaceAfter=No
 

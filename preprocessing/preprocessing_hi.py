@@ -33,8 +33,15 @@ class TextPreprocessor:
 
         self.boilerplate_patterns = {
             "source_notice": r"translated from [a-zA-Z]+|source",
-            "unnecessary_clauses": r"for more details|to learn more|click here|visit our site",
+            "social_media": r"twitter|instagram|facebook|telegram",
+            "political_jargon": r"military support|foreign policy|diplomatic efforts|geopolitical interests",
+            "calls_to_action": r"stop all arms and money deliveries|endless war|peace talks|#Peace|#StopNATO",
+            "read_more": r"read more|continue reading|published on|source: \[.*\]",
             "urls": r"https?:\/\/[^\s]+",
+            "unnecessary_clauses": r"for more details|to learn more|click here|visit our site",
+            "non_content": r"conclusion|summary|introduction|methods|results|references",
+            "political_party": r"leader of [^\s]+|supporters of [^\s]+",
+            "header_footer": r"read more|published on|source: \[.*\]",
         }
 
         self.compiled_patterns = {name: re.compile(pattern, re.IGNORECASE) for name, pattern in self.boilerplate_patterns.items()}

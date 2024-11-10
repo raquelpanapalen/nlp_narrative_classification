@@ -697,118 +697,115 @@
 16	-	-	PUNCT	HYPH	_	15	_	_	start_char=3170|end_char=3171|SpaceAfter=No
 17	Beijing	Beijing	PROPN	NNP	Number=Sing	16	_	_	start_char=3171|end_char=3178
 18	alliance	alliance	NOUN	NN	Number=Sing	17	_	_	start_char=3179|end_char=3187|SpaceAfter=No
-19	.	.	PUNCT	.	_	18	_	_	start_char=3187|end_char=3188
+19	.	.	PUNCT	.	_	18	_	_	start_char=3187|end_char=3188|SpacesAfter=\s\s
 
-# text = Conclusion Prime Minister Modi&#39;s visit to Moscow and meeting with Putin is a strong message to the West.
+# text = Prime Minister Modi&#39;s visit to Moscow and meeting with Putin is a strong message to the West.
 # sent_id = 27
-1	Conclusion	conclusion	NOUN	NN	Number=Sing	0	_	_	start_char=3189|end_char=3199
-2	Prime	Prime	ADJ	NNP	Degree=Pos	1	_	_	start_char=3200|end_char=3205
-3	Minister	Minister	PROPN	NNP	Number=Sing	2	_	_	start_char=3206|end_char=3214
-4	Modi&#39	Modi&#39	PROPN	NNP	Number=Sing	3	_	_	start_char=3215|end_char=3223|SpaceAfter=No
-5	;	;	PUNCT	:	_	4	_	_	start_char=3223|end_char=3224|SpaceAfter=No
-6	s	's	PART	POS	Typo=Yes	5	_	_	start_char=3224|end_char=3225
-7	visit	visit	NOUN	NN	Number=Sing	6	_	_	start_char=3226|end_char=3231
-8	to	to	ADP	IN	_	7	_	_	start_char=3232|end_char=3234
-9	Moscow	Moscow	PROPN	NNP	Number=Sing	8	_	_	start_char=3235|end_char=3241
-10	and	and	CCONJ	CC	_	9	_	_	start_char=3242|end_char=3245
-11	meeting	meeting	NOUN	NN	Number=Sing	10	_	_	start_char=3246|end_char=3253
-12	with	with	ADP	IN	_	11	_	_	start_char=3254|end_char=3258
-13	Putin	Putin	PROPN	NNP	Number=Sing	12	_	_	start_char=3259|end_char=3264
-14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=3265|end_char=3267
-15	a	a	DET	DT	Definite=Ind|PronType=Art	14	_	_	start_char=3268|end_char=3269
-16	strong	strong	ADJ	JJ	Degree=Pos	15	_	_	start_char=3270|end_char=3276
-17	message	message	NOUN	NN	Number=Sing	16	_	_	start_char=3277|end_char=3284
-18	to	to	ADP	IN	_	17	_	_	start_char=3285|end_char=3287
-19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=3288|end_char=3291
-20	West	West	PROPN	NNP	Number=Sing	19	_	_	start_char=3292|end_char=3296|SpaceAfter=No
-21	.	.	PUNCT	.	_	20	_	_	start_char=3296|end_char=3297
+1	Prime	Prime	ADJ	NNP	Degree=Pos	0	_	_	start_char=3190|end_char=3195
+2	Minister	Minister	PROPN	NNP	Number=Sing	1	_	_	start_char=3196|end_char=3204
+3	Modi&#39	Modi&#39	PROPN	NNP	Number=Sing	2	_	_	start_char=3205|end_char=3213|SpaceAfter=No
+4	;	;	PUNCT	:	_	3	_	_	start_char=3213|end_char=3214|SpaceAfter=No
+5	s	's	PART	POS	Typo=Yes	4	_	_	start_char=3214|end_char=3215
+6	visit	visit	NOUN	NN	Number=Sing	5	_	_	start_char=3216|end_char=3221
+7	to	to	ADP	IN	_	6	_	_	start_char=3222|end_char=3224
+8	Moscow	Moscow	PROPN	NNP	Number=Sing	7	_	_	start_char=3225|end_char=3231
+9	and	and	CCONJ	CC	_	8	_	_	start_char=3232|end_char=3235
+10	meeting	meeting	NOUN	NN	Number=Sing	9	_	_	start_char=3236|end_char=3243
+11	with	with	ADP	IN	_	10	_	_	start_char=3244|end_char=3248
+12	Putin	Putin	PROPN	NNP	Number=Sing	11	_	_	start_char=3249|end_char=3254
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=3255|end_char=3257
+14	a	a	DET	DT	Definite=Ind|PronType=Art	13	_	_	start_char=3258|end_char=3259
+15	strong	strong	ADJ	JJ	Degree=Pos	14	_	_	start_char=3260|end_char=3266
+16	message	message	NOUN	NN	Number=Sing	15	_	_	start_char=3267|end_char=3274
+17	to	to	ADP	IN	_	16	_	_	start_char=3275|end_char=3277
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=3278|end_char=3281
+19	West	West	PROPN	NNP	Number=Sing	18	_	_	start_char=3282|end_char=3286|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=3286|end_char=3287
 
 # text = It reflects India&#39;s commitment to strategic autonomy and upholding its national interests.
 # sent_id = 28
-1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=3298|end_char=3300
-2	reflects	reflect	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=3301|end_char=3309
-3	India&	India&	PROPN	NNP	Number=Sing	2	_	_	start_char=3310|end_char=3316|SpaceAfter=No
-4	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	3	_	_	start_char=3316|end_char=3319|SpaceAfter=No
-5	;	;	PUNCT	:	_	4	_	_	start_char=3319|end_char=3320|SpaceAfter=No
-6	s	's	PART	POS	Typo=Yes	5	_	_	start_char=3320|end_char=3321
-7	commitment	commitment	NOUN	NN	Number=Sing	6	_	_	start_char=3322|end_char=3332
-8	to	to	ADP	IN	_	7	_	_	start_char=3333|end_char=3335
-9	strategic	strategic	ADJ	JJ	Degree=Pos	8	_	_	start_char=3336|end_char=3345
-10	autonomy	autonomy	NOUN	NN	Number=Sing	9	_	_	start_char=3346|end_char=3354
-11	and	and	CCONJ	CC	_	10	_	_	start_char=3355|end_char=3358
-12	upholding	uphold	VERB	VBG	VerbForm=Ger	11	_	_	start_char=3359|end_char=3368
-13	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	_	_	start_char=3369|end_char=3372
-14	national	national	ADJ	JJ	Degree=Pos	13	_	_	start_char=3373|end_char=3381
-15	interests	interest	NOUN	NNS	Number=Plur	14	_	_	start_char=3382|end_char=3391|SpaceAfter=No
-16	.	.	PUNCT	.	_	15	_	_	start_char=3391|end_char=3392
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=3288|end_char=3290
+2	reflects	reflect	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=3291|end_char=3299
+3	India&	India&	PROPN	NNP	Number=Sing	2	_	_	start_char=3300|end_char=3306|SpaceAfter=No
+4	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	3	_	_	start_char=3306|end_char=3309|SpaceAfter=No
+5	;	;	PUNCT	:	_	4	_	_	start_char=3309|end_char=3310|SpaceAfter=No
+6	s	's	PART	POS	Typo=Yes	5	_	_	start_char=3310|end_char=3311
+7	commitment	commitment	NOUN	NN	Number=Sing	6	_	_	start_char=3312|end_char=3322
+8	to	to	ADP	IN	_	7	_	_	start_char=3323|end_char=3325
+9	strategic	strategic	ADJ	JJ	Degree=Pos	8	_	_	start_char=3326|end_char=3335
+10	autonomy	autonomy	NOUN	NN	Number=Sing	9	_	_	start_char=3336|end_char=3344
+11	and	and	CCONJ	CC	_	10	_	_	start_char=3345|end_char=3348
+12	upholding	uphold	VERB	VBG	VerbForm=Ger	11	_	_	start_char=3349|end_char=3358
+13	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	_	_	start_char=3359|end_char=3362
+14	national	national	ADJ	JJ	Degree=Pos	13	_	_	start_char=3363|end_char=3371
+15	interests	interest	NOUN	NNS	Number=Plur	14	_	_	start_char=3372|end_char=3381|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=3381|end_char=3382
 
 # text = The visit also highlights India&#39;s efforts to maintain a balance in relations with the US and Russia, which will play an important role in global politics in the times to come.
 # sent_id = 29
-1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=3393|end_char=3396
-2	visit	visit	NOUN	NN	Number=Sing	1	_	_	start_char=3397|end_char=3402
-3	also	also	ADV	RB	_	2	_	_	start_char=3403|end_char=3407
-4	highlights	highlight	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=3408|end_char=3418
-5	India&	India&	PROPN	NNP	Number=Sing	4	_	_	start_char=3419|end_char=3425|SpaceAfter=No
-6	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	5	_	_	start_char=3425|end_char=3428|SpaceAfter=No
-7	;	;	PUNCT	:	_	6	_	_	start_char=3428|end_char=3429|SpaceAfter=No
-8	s	's	PART	POS	Typo=Yes	7	_	_	start_char=3429|end_char=3430
-9	efforts	effort	NOUN	NNS	Number=Plur	8	_	_	start_char=3431|end_char=3438
-10	to	to	PART	TO	_	9	_	_	start_char=3439|end_char=3441
-11	maintain	maintain	VERB	VB	VerbForm=Inf	10	_	_	start_char=3442|end_char=3450
-12	a	a	DET	DT	Definite=Ind|PronType=Art	11	_	_	start_char=3451|end_char=3452
-13	balance	balance	NOUN	NN	Number=Sing	12	_	_	start_char=3453|end_char=3460
-14	in	in	ADP	IN	_	13	_	_	start_char=3461|end_char=3463
-15	relations	relation	NOUN	NNS	Number=Plur	14	_	_	start_char=3464|end_char=3473
-16	with	with	ADP	IN	_	15	_	_	start_char=3474|end_char=3478
-17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=3479|end_char=3482
-18	US	US	PROPN	NNP	Number=Sing	17	_	_	start_char=3483|end_char=3485
-19	and	and	CCONJ	CC	_	18	_	_	start_char=3486|end_char=3489
-20	Russia	Russia	PROPN	NNP	Number=Sing	19	_	_	start_char=3490|end_char=3496|SpaceAfter=No
-21	,	,	PUNCT	,	_	20	_	_	start_char=3496|end_char=3497
-22	which	which	PRON	WDT	PronType=Rel	21	_	_	start_char=3498|end_char=3503
-23	will	will	AUX	MD	VerbForm=Fin	22	_	_	start_char=3504|end_char=3508
-24	play	play	VERB	VB	VerbForm=Inf	23	_	_	start_char=3509|end_char=3513
-25	an	a	DET	DT	Definite=Ind|PronType=Art	24	_	_	start_char=3514|end_char=3516
-26	important	important	ADJ	JJ	Degree=Pos	25	_	_	start_char=3517|end_char=3526
-27	role	role	NOUN	NN	Number=Sing	26	_	_	start_char=3527|end_char=3531
-28	in	in	ADP	IN	_	27	_	_	start_char=3532|end_char=3534
-29	global	global	ADJ	JJ	Degree=Pos	28	_	_	start_char=3535|end_char=3541
-30	politics	politics	NOUN	NNS	Number=Plur	29	_	_	start_char=3542|end_char=3550
-31	in	in	ADP	IN	_	30	_	_	start_char=3551|end_char=3553
-32	the	the	DET	DT	Definite=Def|PronType=Art	31	_	_	start_char=3554|end_char=3557
-33	times	time	NOUN	NNS	Number=Plur	32	_	_	start_char=3558|end_char=3563
-34	to	to	PART	TO	_	33	_	_	start_char=3564|end_char=3566
-35	come	come	VERB	VB	VerbForm=Inf	34	_	_	start_char=3567|end_char=3571|SpaceAfter=No
-36	.	.	PUNCT	.	_	35	_	_	start_char=3571|end_char=3572
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=3383|end_char=3386
+2	visit	visit	NOUN	NN	Number=Sing	1	_	_	start_char=3387|end_char=3392
+3	also	also	ADV	RB	_	2	_	_	start_char=3393|end_char=3397
+4	highlights	highlight	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=3398|end_char=3408
+5	India&	India&	PROPN	NNP	Number=Sing	4	_	_	start_char=3409|end_char=3415|SpaceAfter=No
+6	#39	#39	NUM	CD	NumForm=Digit|NumType=Card	5	_	_	start_char=3415|end_char=3418|SpaceAfter=No
+7	;	;	PUNCT	:	_	6	_	_	start_char=3418|end_char=3419|SpaceAfter=No
+8	s	's	PART	POS	Typo=Yes	7	_	_	start_char=3419|end_char=3420
+9	efforts	effort	NOUN	NNS	Number=Plur	8	_	_	start_char=3421|end_char=3428
+10	to	to	PART	TO	_	9	_	_	start_char=3429|end_char=3431
+11	maintain	maintain	VERB	VB	VerbForm=Inf	10	_	_	start_char=3432|end_char=3440
+12	a	a	DET	DT	Definite=Ind|PronType=Art	11	_	_	start_char=3441|end_char=3442
+13	balance	balance	NOUN	NN	Number=Sing	12	_	_	start_char=3443|end_char=3450
+14	in	in	ADP	IN	_	13	_	_	start_char=3451|end_char=3453
+15	relations	relation	NOUN	NNS	Number=Plur	14	_	_	start_char=3454|end_char=3463
+16	with	with	ADP	IN	_	15	_	_	start_char=3464|end_char=3468
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=3469|end_char=3472
+18	US	US	PROPN	NNP	Number=Sing	17	_	_	start_char=3473|end_char=3475
+19	and	and	CCONJ	CC	_	18	_	_	start_char=3476|end_char=3479
+20	Russia	Russia	PROPN	NNP	Number=Sing	19	_	_	start_char=3480|end_char=3486|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=3486|end_char=3487
+22	which	which	PRON	WDT	PronType=Rel	21	_	_	start_char=3488|end_char=3493
+23	will	will	AUX	MD	VerbForm=Fin	22	_	_	start_char=3494|end_char=3498
+24	play	play	VERB	VB	VerbForm=Inf	23	_	_	start_char=3499|end_char=3503
+25	an	a	DET	DT	Definite=Ind|PronType=Art	24	_	_	start_char=3504|end_char=3506
+26	important	important	ADJ	JJ	Degree=Pos	25	_	_	start_char=3507|end_char=3516
+27	role	role	NOUN	NN	Number=Sing	26	_	_	start_char=3517|end_char=3521
+28	in	in	ADP	IN	_	27	_	_	start_char=3522|end_char=3524
+29	global	global	ADJ	JJ	Degree=Pos	28	_	_	start_char=3525|end_char=3531
+30	politics	politics	NOUN	NNS	Number=Plur	29	_	_	start_char=3532|end_char=3540
+31	in	in	ADP	IN	_	30	_	_	start_char=3541|end_char=3543
+32	the	the	DET	DT	Definite=Def|PronType=Art	31	_	_	start_char=3544|end_char=3547
+33	times	time	NOUN	NNS	Number=Plur	32	_	_	start_char=3548|end_char=3553
+34	to	to	PART	TO	_	33	_	_	start_char=3554|end_char=3556
+35	come	come	VERB	VB	VerbForm=Inf	34	_	_	start_char=3557|end_char=3561|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=3561|end_char=3562
 
-# text = Read more:-
+# text = :-
 # sent_id = 30
-1	Read	read	VERB	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=3573|end_char=3577
-2	more	more	ADJ	JJR	Degree=Cmp	1	_	_	start_char=3578|end_char=3582|SpaceAfter=No
-3	:-	:-	SYM	NFP	_	2	_	_	start_char=3582|end_char=3584
+1	:-	:-	SYM	NFP	_	0	_	_	start_char=3563|end_char=3565
 
 # text = What is the benefit to India from the victory of the Labor Party in Britain?
 # sent_id = 31
-1	What	what	PRON	WP	PronType=Int	0	_	_	start_char=3585|end_char=3589
-2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=3590|end_char=3592
-3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=3593|end_char=3596
-4	benefit	benefit	NOUN	NN	Number=Sing	3	_	_	start_char=3597|end_char=3604
-5	to	to	ADP	IN	_	4	_	_	start_char=3605|end_char=3607
-6	India	India	PROPN	NNP	Number=Sing	5	_	_	start_char=3608|end_char=3613
-7	from	from	ADP	IN	_	6	_	_	start_char=3614|end_char=3618
-8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=3619|end_char=3622
-9	victory	victory	NOUN	NN	Number=Sing	8	_	_	start_char=3623|end_char=3630
-10	of	of	ADP	IN	_	9	_	_	start_char=3631|end_char=3633
-11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=3634|end_char=3637
-12	Labor	Labor	PROPN	NNP	Number=Sing	11	_	_	start_char=3638|end_char=3643
-13	Party	Party	PROPN	NNP	Number=Sing	12	_	_	start_char=3644|end_char=3649
-14	in	in	ADP	IN	_	13	_	_	start_char=3650|end_char=3652
-15	Britain	Britain	PROPN	NNP	Number=Sing	14	_	_	start_char=3653|end_char=3660|SpaceAfter=No
-16	?	?	PUNCT	.	_	15	_	_	start_char=3660|end_char=3661
+1	What	what	PRON	WP	PronType=Int	0	_	_	start_char=3566|end_char=3570
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=3571|end_char=3573
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=3574|end_char=3577
+4	benefit	benefit	NOUN	NN	Number=Sing	3	_	_	start_char=3578|end_char=3585
+5	to	to	ADP	IN	_	4	_	_	start_char=3586|end_char=3588
+6	India	India	PROPN	NNP	Number=Sing	5	_	_	start_char=3589|end_char=3594
+7	from	from	ADP	IN	_	6	_	_	start_char=3595|end_char=3599
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=3600|end_char=3603
+9	victory	victory	NOUN	NN	Number=Sing	8	_	_	start_char=3604|end_char=3611
+10	of	of	ADP	IN	_	9	_	_	start_char=3612|end_char=3614
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=3615|end_char=3618
+12	Labor	Labor	PROPN	NNP	Number=Sing	11	_	_	start_char=3619|end_char=3624
+13	Party	Party	PROPN	NNP	Number=Sing	12	_	_	start_char=3625|end_char=3630
+14	in	in	ADP	IN	_	13	_	_	start_char=3631|end_char=3633
+15	Britain	Britain	PROPN	NNP	Number=Sing	14	_	_	start_char=3634|end_char=3641|SpaceAfter=No
+16	?	?	PUNCT	.	_	15	_	_	start_char=3641|end_char=3642
 
 # text = Leave a Reply
 # sent_id = 32
-1	Leave	leave	VERB	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=3662|end_char=3667
-2	a	a	DET	DT	Definite=Ind|PronType=Art	1	_	_	start_char=3668|end_char=3669
-3	Reply	reply	NOUN	NN	Number=Sing	2	_	_	start_char=3670|end_char=3675|SpaceAfter=No
+1	Leave	leave	VERB	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=3643|end_char=3648
+2	a	a	DET	DT	Definite=Ind|PronType=Art	1	_	_	start_char=3649|end_char=3650
+3	Reply	reply	NOUN	NN	Number=Sing	2	_	_	start_char=3651|end_char=3656|SpaceAfter=No
 

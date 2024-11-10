@@ -286,34 +286,33 @@
 31	emergence	emergence	NOUN	NN	Number=Sing	30	_	_	start_char=1366|end_char=1375|SpaceAfter=No
 32	.	.	PUNCT	.	_	31	_	_	start_char=1375|end_char=1376
 
-# text = This mismatch results in the monal seeking food s that are either depleted or not abundant, affecting their ability to breed and raise their young successfully.
+# text = This mismatch in the monal seeking food s that are either depleted or not abundant, affecting their ability to breed and raise their young successfully.
 # sent_id = 13
 1	This	this	DET	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1377|end_char=1381
-2	mismatch	mismatch	NOUN	NN	Number=Sing	1	_	_	start_char=1382|end_char=1390
-3	results	result	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1391|end_char=1398
-4	in	in	ADP	IN	_	3	_	_	start_char=1399|end_char=1401
-5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1402|end_char=1405
-6	monal	monal	NOUN	NN	Number=Sing	5	_	_	start_char=1406|end_char=1411
-7	seeking	seek	VERB	VBG	VerbForm=Ger	6	_	_	start_char=1412|end_char=1419
-8	food	food	NOUN	NN	Number=Sing	7	_	_	start_char=1420|end_char=1424
-9	s	's	PART	POS	Typo=Yes	8	_	_	start_char=1425|end_char=1426
-10	that	that	PRON	WDT	PronType=Rel	9	_	_	start_char=1427|end_char=1431
-11	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=1432|end_char=1435
-12	either	either	CCONJ	CC	_	11	_	_	start_char=1436|end_char=1442
-13	depleted	deplete	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	12	_	_	start_char=1443|end_char=1451
-14	or	or	CCONJ	CC	_	13	_	_	start_char=1452|end_char=1454
-15	not	not	PART	RB	_	14	_	_	start_char=1455|end_char=1458
-16	abundant	abundant	ADJ	JJ	Degree=Pos	15	_	_	start_char=1459|end_char=1467|SpaceAfter=No
-17	,	,	PUNCT	,	_	16	_	_	start_char=1467|end_char=1468
-18	affecting	affect	VERB	VBG	VerbForm=Ger	17	_	_	start_char=1469|end_char=1478
-19	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	18	_	_	start_char=1479|end_char=1484
-20	ability	ability	NOUN	NN	Number=Sing	19	_	_	start_char=1485|end_char=1492
-21	to	to	PART	TO	_	20	_	_	start_char=1493|end_char=1495
-22	breed	breed	VERB	VB	VerbForm=Inf	21	_	_	start_char=1496|end_char=1501
-23	and	and	CCONJ	CC	_	22	_	_	start_char=1502|end_char=1505
-24	raise	raise	VERB	VB	VerbForm=Inf	23	_	_	start_char=1506|end_char=1511
-25	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	24	_	_	start_char=1512|end_char=1517
-26	young	young	NOUN	NN	Number=Sing	25	_	_	start_char=1518|end_char=1523
-27	successfully	successfully	ADV	RB	_	26	_	_	start_char=1524|end_char=1536|SpaceAfter=No
-28	.	.	PUNCT	.	_	27	_	_	start_char=1536|end_char=1537|SpaceAfter=No
+2	mismatch	mismatch	NOUN	NN	Number=Sing	1	_	_	start_char=1382|end_char=1390|SpacesAfter=\s\s
+3	in	in	ADP	IN	_	2	_	_	start_char=1392|end_char=1394
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1395|end_char=1398
+5	monal	monal	NOUN	NN	Number=Sing	4	_	_	start_char=1399|end_char=1404
+6	seeking	seek	VERB	VBG	VerbForm=Ger	5	_	_	start_char=1405|end_char=1412
+7	food	food	NOUN	NN	Number=Sing	6	_	_	start_char=1413|end_char=1417
+8	s	's	PART	POS	Typo=Yes	7	_	_	start_char=1418|end_char=1419
+9	that	that	PRON	WDT	PronType=Rel	8	_	_	start_char=1420|end_char=1424
+10	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=1425|end_char=1428
+11	either	either	CCONJ	CC	_	10	_	_	start_char=1429|end_char=1435
+12	depleted	deplete	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	11	_	_	start_char=1436|end_char=1444
+13	or	or	CCONJ	CC	_	12	_	_	start_char=1445|end_char=1447
+14	not	not	PART	RB	_	13	_	_	start_char=1448|end_char=1451
+15	abundant	abundant	ADJ	JJ	Degree=Pos	14	_	_	start_char=1452|end_char=1460|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=1460|end_char=1461
+17	affecting	affect	VERB	VBG	VerbForm=Ger	16	_	_	start_char=1462|end_char=1471
+18	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	17	_	_	start_char=1472|end_char=1477
+19	ability	ability	NOUN	NN	Number=Sing	18	_	_	start_char=1478|end_char=1485
+20	to	to	PART	TO	_	19	_	_	start_char=1486|end_char=1488
+21	breed	breed	VERB	VB	VerbForm=Inf	20	_	_	start_char=1489|end_char=1494
+22	and	and	CCONJ	CC	_	21	_	_	start_char=1495|end_char=1498
+23	raise	raise	VERB	VB	VerbForm=Inf	22	_	_	start_char=1499|end_char=1504
+24	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	23	_	_	start_char=1505|end_char=1510
+25	young	young	NOUN	NN	Number=Sing	24	_	_	start_char=1511|end_char=1516
+26	successfully	successfully	ADV	RB	_	25	_	_	start_char=1517|end_char=1529|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=1529|end_char=1530|SpaceAfter=No
 

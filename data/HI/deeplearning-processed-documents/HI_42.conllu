@@ -1284,14 +1284,13 @@
 3	friends	friend	NOUN	NNS	Number=Plur	2	_	_	start_char=5305|end_char=5312|SpaceAfter=No
 4	!	!	PUNCT	.	_	3	_	_	start_char=5312|end_char=5313
 
-# text = Stay connected to our Telegram channel here)
+# text = Stay connected to our channel here)
 # sent_id = 54
 1	Stay	stay	VERB	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=5314|end_char=5318
 2	connected	connect	VERB	VBN	Tense=Past|VerbForm=Part	1	_	_	start_char=5319|end_char=5328
 3	to	to	ADP	IN	_	2	_	_	start_char=5329|end_char=5331
-4	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	3	_	_	start_char=5332|end_char=5335
-5	Telegram	telegram	NOUN	NN	Number=Sing	4	_	_	start_char=5336|end_char=5344
-6	channel	channel	NOUN	NN	Number=Sing	5	_	_	start_char=5345|end_char=5352
-7	here	here	ADV	RB	PronType=Dem	6	_	_	start_char=5353|end_char=5357|SpaceAfter=No
-8	)	)	PUNCT	-RRB-	_	7	_	_	start_char=5357|end_char=5358|SpaceAfter=No
+4	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	3	_	_	start_char=5332|end_char=5335|SpacesAfter=\s\s
+5	channel	channel	NOUN	NN	Number=Sing	4	_	_	start_char=5337|end_char=5344
+6	here	here	ADV	RB	PronType=Dem	5	_	_	start_char=5345|end_char=5349|SpaceAfter=No
+7	)	)	PUNCT	-RRB-	_	6	_	_	start_char=5349|end_char=5350|SpaceAfter=No
 
