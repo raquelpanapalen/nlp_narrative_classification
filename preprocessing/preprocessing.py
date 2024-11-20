@@ -77,6 +77,7 @@ class TextPreprocessor:
             "twitter_pics": r"pic.twitter.com/[a-zA-Z0-9]+",
             "make_donation": r"make a donation|donation buttons",
             "fact_check": r"fact check",
+            "emojis": r"[\u20ff-\U0001ffff]",
         }
 
         # Compile patterns for efficiency
@@ -175,7 +176,12 @@ class TextPreprocessor:
             text = self.remove_line_if_matches(text, pattern)
 
         # Handle patterns that should replace with nothing
-        remove_space_patterns = ["twitter_pics", "twitter_x_timestamps", "fact_check"]
+        remove_space_patterns = [
+            "twitter_pics",
+            "twitter_x_timestamps",
+            "fact_check",
+            "emojis",
+        ]
         for pattern_name in remove_space_patterns:
             pattern = self.compiled_patterns[pattern_name]
             text = pattern.sub("", text)

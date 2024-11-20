@@ -1,0 +1,762 @@
+# text = Wat?
+# sent_id = 0
+1	Wat	Wat	NOUN	NN	Number=Sing	0	_	_	start_char=0|end_char=3|SpaceAfter=No
+2	?	?	PUNCT	.	_	1	_	_	start_char=3|end_char=4
+
+# text = L.A. Mayor Garcetti Flies to Argentina to Fight Climate Change
+# sent_id = 1
+1	L.A.	L.A.	PROPN	NNP	Number=Sing	0	_	_	start_char=5|end_char=9
+2	Mayor	Mayor	PROPN	NNP	Number=Sing	1	_	_	start_char=10|end_char=15
+3	Garcetti	Garcetti	PROPN	NNP	Number=Sing	2	_	_	start_char=16|end_char=24
+4	Flies	Flie	PROPN	NNP	Number=Sing	3	_	_	start_char=25|end_char=30
+5	to	to	ADP	IN	_	4	_	_	start_char=31|end_char=33
+6	Argentina	Argentina	PROPN	NNP	Number=Sing	5	_	_	start_char=34|end_char=43
+7	to	to	ADP	IN	_	6	_	_	start_char=44|end_char=46
+8	Fight	fight	PROPN	NNP	Number=Sing	7	_	_	start_char=47|end_char=52
+9	Climate	Climate	PROPN	NNP	Number=Sing	8	_	_	start_char=53|end_char=60
+10	Change	Change	PROPN	NNP	Number=Sing	9	_	_	start_char=61|end_char=67|SpacesAfter=\s\n\n\s
+
+# text = Los Angeles Mayor Eric Garcetti joined a “global coalition of mayors” at a summit on climate change this wee in Buenos Aires, Argentina, burning fossil fuels on an international flight rather than attending remotely and attending to pressing issues at home.
+# sent_id = 2
+1	Los	Los	PROPN	NNP	Number=Sing	0	_	_	start_char=71|end_char=74
+2	Angeles	Angeles	PROPN	NNP	Number=Sing	1	_	_	start_char=75|end_char=82
+3	Mayor	Mayor	PROPN	NNP	Number=Sing	2	_	_	start_char=83|end_char=88
+4	Eric	Eric	PROPN	NNP	Number=Sing	3	_	_	start_char=89|end_char=93
+5	Garcetti	Garcetti	PROPN	NNP	Number=Sing	4	_	_	start_char=94|end_char=102
+6	joined	join	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=103|end_char=109
+7	a	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=110|end_char=111
+8	“	''	PUNCT	``	_	7	_	_	start_char=112|end_char=113|SpaceAfter=No
+9	global	global	ADJ	JJ	Degree=Pos	8	_	_	start_char=113|end_char=119
+10	coalition	coalition	NOUN	NN	Number=Sing	9	_	_	start_char=120|end_char=129
+11	of	of	ADP	IN	_	10	_	_	start_char=130|end_char=132
+12	mayors	mayor	NOUN	NNS	Number=Plur	11	_	_	start_char=133|end_char=139|SpaceAfter=No
+13	”	''	PUNCT	''	_	12	_	_	start_char=139|end_char=140
+14	at	at	ADP	IN	_	13	_	_	start_char=141|end_char=143
+15	a	a	DET	DT	Definite=Ind|PronType=Art	14	_	_	start_char=144|end_char=145
+16	summit	summit	NOUN	NN	Number=Sing	15	_	_	start_char=146|end_char=152
+17	on	on	ADP	IN	_	16	_	_	start_char=153|end_char=155
+18	climate	climate	NOUN	NN	Number=Sing	17	_	_	start_char=156|end_char=163
+19	change	change	NOUN	NN	Number=Sing	18	_	_	start_char=164|end_char=170
+20	this	this	DET	DT	Number=Sing|PronType=Dem	19	_	_	start_char=171|end_char=175
+21	wee	wee	NOUN	NN	Number=Sing	20	_	_	start_char=176|end_char=179
+22	in	in	ADP	IN	_	21	_	_	start_char=180|end_char=182
+23	Buenos	Buenos	PROPN	NNP	Number=Sing	22	_	_	start_char=183|end_char=189
+24	Aires	Aires	PROPN	NNP	Number=Sing	23	_	_	start_char=190|end_char=195|SpaceAfter=No
+25	,	,	PUNCT	,	_	24	_	_	start_char=195|end_char=196
+26	Argentina	Argentina	PROPN	NNP	Number=Sing	25	_	_	start_char=197|end_char=206|SpaceAfter=No
+27	,	,	PUNCT	,	_	26	_	_	start_char=206|end_char=207
+28	burning	burn	VERB	VBG	VerbForm=Ger	27	_	_	start_char=208|end_char=215
+29	fossil	fossil	NOUN	NN	Number=Sing	28	_	_	start_char=216|end_char=222
+30	fuels	fuel	NOUN	NNS	Number=Plur	29	_	_	start_char=223|end_char=228
+31	on	on	ADP	IN	_	30	_	_	start_char=229|end_char=231
+32	an	a	DET	DT	Definite=Ind|PronType=Art	31	_	_	start_char=232|end_char=234
+33	international	international	ADJ	JJ	Degree=Pos	32	_	_	start_char=235|end_char=248
+34	flight	flight	NOUN	NN	Number=Sing	33	_	_	start_char=249|end_char=255
+35	rather	rather	ADV	RB	_	34	_	_	start_char=256|end_char=262
+36	than	than	SCONJ	IN	_	35	_	_	start_char=263|end_char=267
+37	attending	attend	VERB	VBG	VerbForm=Ger	36	_	_	start_char=268|end_char=277
+38	remotely	remotely	ADV	RB	_	37	_	_	start_char=278|end_char=286
+39	and	and	CCONJ	CC	_	38	_	_	start_char=287|end_char=290
+40	attending	attend	VERB	VBG	VerbForm=Ger	39	_	_	start_char=291|end_char=300
+41	to	to	ADP	IN	_	40	_	_	start_char=301|end_char=303
+42	pressing	press	VERB	VBG	VerbForm=Ger	41	_	_	start_char=304|end_char=312
+43	issues	issue	NOUN	NNS	Number=Plur	42	_	_	start_char=313|end_char=319
+44	at	at	ADP	IN	_	43	_	_	start_char=320|end_char=322
+45	home	home	NOUN	NN	Number=Sing	44	_	_	start_char=323|end_char=327|SpaceAfter=No
+46	.	.	PUNCT	.	_	45	_	_	start_char=327|end_char=328|SpacesAfter=\n\n
+
+# text = In a press release, Garcetti’s office said:
+# sent_id = 3
+1	In	in	ADP	IN	_	0	_	_	start_char=330|end_char=332
+2	a	a	DET	DT	Definite=Ind|PronType=Art	1	_	_	start_char=333|end_char=334
+3	press	press	NOUN	NN	Number=Sing	2	_	_	start_char=335|end_char=340
+4	release	release	NOUN	NN	Number=Sing	3	_	_	start_char=341|end_char=348|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=348|end_char=349
+6-7	Garcetti’s	_	_	_	_	_	_	_	start_char=350|end_char=360
+6	Garcetti	Garcetti	PROPN	NNP	Number=Sing	5	_	_	start_char=350|end_char=358
+7	’s	's	PART	POS	_	6	_	_	start_char=358|end_char=360
+8	office	office	NOUN	NN	Number=Sing	7	_	_	start_char=361|end_char=367
+9	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=368|end_char=372|SpaceAfter=No
+10	:	:	PUNCT	:	_	9	_	_	start_char=372|end_char=373|SpacesAfter=\n\n
+
+# text = Mayor Eric Garcetti this wee attended the C40 World Mayors Summit – joining mayors, climate experts, youth activists, and business leaders from around the world to advance global action to combat the climate crisis.
+# sent_id = 4
+1	Mayor	Mayor	PROPN	NNP	Number=Sing	0	_	_	start_char=375|end_char=380
+2	Eric	Eric	PROPN	NNP	Number=Sing	1	_	_	start_char=381|end_char=385
+3	Garcetti	Garcetti	PROPN	NNP	Number=Sing	2	_	_	start_char=386|end_char=394
+4	this	this	DET	DT	Number=Sing|PronType=Dem	3	_	_	start_char=395|end_char=399
+5	wee	wee	NOUN	NN	Number=Sing	4	_	_	start_char=400|end_char=403
+6	attended	attend	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=404|end_char=412
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=413|end_char=416
+8	C40	C40	PROPN	NNP	Number=Sing	7	_	_	start_char=417|end_char=420
+9	World	World	PROPN	NNP	Number=Sing	8	_	_	start_char=421|end_char=426
+10	Mayors	Mayor	PROPN	NNPS	Number=Plur	9	_	_	start_char=427|end_char=433
+11	Summit	Summit	PROPN	NNP	Number=Sing	10	_	_	start_char=434|end_char=440
+12	–	-	PUNCT	:	_	11	_	_	start_char=441|end_char=442
+13	joining	join	VERB	VBG	VerbForm=Ger	12	_	_	start_char=443|end_char=450
+14	mayors	mayor	NOUN	NNS	Number=Plur	13	_	_	start_char=451|end_char=457|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=457|end_char=458
+16	climate	climate	NOUN	NN	Number=Sing	15	_	_	start_char=459|end_char=466
+17	experts	expert	NOUN	NNS	Number=Plur	16	_	_	start_char=467|end_char=474|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=474|end_char=475
+19	youth	youth	NOUN	NN	Number=Sing	18	_	_	start_char=476|end_char=481
+20	activists	activist	NOUN	NNS	Number=Plur	19	_	_	start_char=482|end_char=491|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=491|end_char=492
+22	and	and	CCONJ	CC	_	21	_	_	start_char=493|end_char=496
+23	business	business	NOUN	NN	Number=Sing	22	_	_	start_char=497|end_char=505
+24	leaders	leader	NOUN	NNS	Number=Plur	23	_	_	start_char=506|end_char=513
+25	from	from	ADP	IN	_	24	_	_	start_char=514|end_char=518
+26	around	around	ADP	IN	_	25	_	_	start_char=519|end_char=525
+27	the	the	DET	DT	Definite=Def|PronType=Art	26	_	_	start_char=526|end_char=529
+28	world	world	NOUN	NN	Number=Sing	27	_	_	start_char=530|end_char=535
+29	to	to	PART	TO	_	28	_	_	start_char=536|end_char=538
+30	advance	advance	VERB	VB	VerbForm=Inf	29	_	_	start_char=539|end_char=546
+31	global	global	ADJ	JJ	Degree=Pos	30	_	_	start_char=547|end_char=553
+32	action	action	NOUN	NN	Number=Sing	31	_	_	start_char=554|end_char=560
+33	to	to	PART	TO	_	32	_	_	start_char=561|end_char=563
+34	combat	combat	VERB	VB	VerbForm=Inf	33	_	_	start_char=564|end_char=570
+35	the	the	DET	DT	Definite=Def|PronType=Art	34	_	_	start_char=571|end_char=574
+36	climate	climate	NOUN	NN	Number=Sing	35	_	_	start_char=575|end_char=582
+37	crisis	crisis	NOUN	NN	Number=Sing	36	_	_	start_char=583|end_char=589|SpaceAfter=No
+38	.	.	PUNCT	.	_	37	_	_	start_char=589|end_char=590|SpacesAfter=\n\n
+
+# text = The C40 Cities Climate Leadership Group is an international networ of nearly 100 of the world’s largest cities committed to concrete action to combat climate change.
+# sent_id = 5
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=592|end_char=595
+2	C40	C40	PROPN	NNP	Number=Sing	1	_	_	start_char=596|end_char=599
+3	Cities	city	PROPN	NNPS	Number=Plur	2	_	_	start_char=600|end_char=606
+4	Climate	Climate	PROPN	NNP	Number=Sing	3	_	_	start_char=607|end_char=614
+5	Leadership	Leadership	PROPN	NNP	Number=Sing	4	_	_	start_char=615|end_char=625
+6	Group	Group	PROPN	NNP	Number=Sing	5	_	_	start_char=626|end_char=631
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=632|end_char=634
+8	an	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=635|end_char=637
+9	international	international	ADJ	JJ	Degree=Pos	8	_	_	start_char=638|end_char=651
+10	networ	networ	NOUN	NN	Number=Sing	9	_	_	start_char=652|end_char=658
+11	of	of	ADP	IN	_	10	_	_	start_char=659|end_char=661
+12	nearly	nearly	ADV	RB	_	11	_	_	start_char=662|end_char=668
+13	100	100	NUM	CD	NumForm=Digit|NumType=Card	12	_	_	start_char=669|end_char=672
+14	of	of	ADP	IN	_	13	_	_	start_char=673|end_char=675
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=676|end_char=679
+16-17	world’s	_	_	_	_	_	_	_	start_char=680|end_char=687
+16	world	world	NOUN	NN	Number=Sing	15	_	_	start_char=680|end_char=685
+17	’s	's	PART	POS	_	16	_	_	start_char=685|end_char=687
+18	largest	large	ADJ	JJS	Degree=Sup	17	_	_	start_char=688|end_char=695
+19	cities	city	NOUN	NNS	Number=Plur	18	_	_	start_char=696|end_char=702
+20	committed	commit	VERB	VBN	Tense=Past|VerbForm=Part	19	_	_	start_char=703|end_char=712
+21	to	to	ADP	IN	_	20	_	_	start_char=713|end_char=715
+22	concrete	concrete	ADJ	JJ	Degree=Pos	21	_	_	start_char=716|end_char=724
+23	action	action	NOUN	NN	Number=Sing	22	_	_	start_char=725|end_char=731
+24	to	to	PART	TO	_	23	_	_	start_char=732|end_char=734
+25	combat	combat	VERB	VB	VerbForm=Inf	24	_	_	start_char=735|end_char=741
+26	climate	climate	NOUN	NN	Number=Sing	25	_	_	start_char=742|end_char=749
+27	change	change	NOUN	NN	Number=Sing	26	_	_	start_char=750|end_char=756|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=756|end_char=757
+
+# text = Mayor Garcetti served as Chair of C40 from 2019 to 2021, and was succeeded by London Mayor Sadiq han.
+# sent_id = 6
+1	Mayor	Mayor	PROPN	NNP	Number=Sing	0	_	_	start_char=758|end_char=763
+2	Garcetti	Garcetti	PROPN	NNP	Number=Sing	1	_	_	start_char=764|end_char=772
+3	served	serve	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=773|end_char=779
+4	as	as	ADP	IN	_	3	_	_	start_char=780|end_char=782
+5	Chair	Chair	PROPN	NNP	Number=Sing	4	_	_	start_char=783|end_char=788
+6	of	of	ADP	IN	_	5	_	_	start_char=789|end_char=791
+7	C40	C40	PROPN	NNP	Number=Sing	6	_	_	start_char=792|end_char=795
+8	from	from	ADP	IN	_	7	_	_	start_char=796|end_char=800
+9	2019	2019	NUM	CD	NumForm=Digit|NumType=Card	8	_	_	start_char=801|end_char=805
+10	to	to	ADP	IN	_	9	_	_	start_char=806|end_char=808
+11	2021	2021	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=809|end_char=813|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=813|end_char=814
+13	and	and	CCONJ	CC	_	12	_	_	start_char=815|end_char=818
+14	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	_	_	start_char=819|end_char=822
+15	succeeded	succeed	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	_	_	start_char=823|end_char=832
+16	by	by	ADP	IN	_	15	_	_	start_char=833|end_char=835
+17	London	London	PROPN	NNP	Number=Sing	16	_	_	start_char=836|end_char=842
+18	Mayor	Mayor	PROPN	NNP	Number=Sing	17	_	_	start_char=843|end_char=848
+19	Sadiq	Sadiq	PROPN	NNP	Number=Sing	18	_	_	start_char=849|end_char=854
+20	han	han	PROPN	NNP	Number=Sing	19	_	_	start_char=855|end_char=858|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=858|end_char=859|SpacesAfter=\n\n
+
+# text = “When it comes to fighting the climate crisis, our commitments as cities, states, and countries are only as strong as the size and ambition of our global coalition,” said Mayor Eric Garcetti.
+# sent_id = 7
+1	“	''	PUNCT	``	_	0	_	_	start_char=861|end_char=862|SpaceAfter=No
+2	When	when	ADV	WRB	PronType=Int	1	_	_	start_char=862|end_char=866
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	_	_	start_char=867|end_char=869
+4	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=870|end_char=875
+5	to	to	SCONJ	IN	_	4	_	_	start_char=876|end_char=878
+6	fighting	fight	VERB	VBG	VerbForm=Ger	5	_	_	start_char=879|end_char=887
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=888|end_char=891
+8	climate	climate	NOUN	NN	Number=Sing	7	_	_	start_char=892|end_char=899
+9	crisis	crisis	NOUN	NN	Number=Sing	8	_	_	start_char=900|end_char=906|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=906|end_char=907
+11	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	10	_	_	start_char=908|end_char=911
+12	commitments	commitment	NOUN	NNS	Number=Plur	11	_	_	start_char=912|end_char=923
+13	as	as	ADP	IN	_	12	_	_	start_char=924|end_char=926
+14	cities	city	NOUN	NNS	Number=Plur	13	_	_	start_char=927|end_char=933|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=933|end_char=934
+16	states	state	NOUN	NNS	Number=Plur	15	_	_	start_char=935|end_char=941|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=941|end_char=942
+18	and	and	CCONJ	CC	_	17	_	_	start_char=943|end_char=946
+19	countries	country	NOUN	NNS	Number=Plur	18	_	_	start_char=947|end_char=956
+20	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	_	_	start_char=957|end_char=960
+21	only	only	ADV	RB	_	20	_	_	start_char=961|end_char=965
+22	as	as	ADV	RB	_	21	_	_	start_char=966|end_char=968
+23	strong	strong	ADJ	JJ	Degree=Pos	22	_	_	start_char=969|end_char=975
+24	as	as	ADP	IN	_	23	_	_	start_char=976|end_char=978
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=979|end_char=982
+26	size	size	NOUN	NN	Number=Sing	25	_	_	start_char=983|end_char=987
+27	and	and	CCONJ	CC	_	26	_	_	start_char=988|end_char=991
+28	ambition	ambition	NOUN	NN	Number=Sing	27	_	_	start_char=992|end_char=1000
+29	of	of	ADP	IN	_	28	_	_	start_char=1001|end_char=1003
+30	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	29	_	_	start_char=1004|end_char=1007
+31	global	global	ADJ	JJ	Degree=Pos	30	_	_	start_char=1008|end_char=1014
+32	coalition	coalition	NOUN	NN	Number=Sing	31	_	_	start_char=1015|end_char=1024|SpaceAfter=No
+33	,	,	PUNCT	,	_	32	_	_	start_char=1024|end_char=1025|SpaceAfter=No
+34	”	''	PUNCT	''	_	33	_	_	start_char=1025|end_char=1026
+35	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	34	_	_	start_char=1027|end_char=1031
+36	Mayor	Mayor	PROPN	NNP	Number=Sing	35	_	_	start_char=1032|end_char=1037
+37	Eric	Eric	PROPN	NNP	Number=Sing	36	_	_	start_char=1038|end_char=1042
+38	Garcetti	Garcetti	PROPN	NNP	Number=Sing	37	_	_	start_char=1043|end_char=1051|SpaceAfter=No
+39	.	.	PUNCT	.	_	38	_	_	start_char=1051|end_char=1052
+
+# text = “The C40 World Mayors Summit is more than just another chance to recognize the magnitude of this mae-or-brea decade for climate action – it’s a chance to elevate the solutions cities are deploying at a neighborhood level that have a real impact on people’s daily lives.
+# sent_id = 8
+1	“	''	PUNCT	``	_	0	_	_	start_char=1053|end_char=1054|SpaceAfter=No
+2	The	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=1054|end_char=1057
+3	C40	C40	PROPN	NNP	Number=Sing	2	_	_	start_char=1058|end_char=1061
+4	World	World	PROPN	NNP	Number=Sing	3	_	_	start_char=1062|end_char=1067
+5	Mayors	Mayor	PROPN	NNPS	Number=Plur	4	_	_	start_char=1068|end_char=1074
+6	Summit	Summit	PROPN	NNP	Number=Sing	5	_	_	start_char=1075|end_char=1081
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=1082|end_char=1084
+8	more	more	ADJ	JJR	Degree=Cmp	7	_	_	start_char=1085|end_char=1089
+9	than	than	ADP	IN	_	8	_	_	start_char=1090|end_char=1094
+10	just	just	ADV	RB	_	9	_	_	start_char=1095|end_char=1099
+11	another	another	DET	DT	_	10	_	_	start_char=1100|end_char=1107
+12	chance	chance	NOUN	NN	Number=Sing	11	_	_	start_char=1108|end_char=1114
+13	to	to	PART	TO	_	12	_	_	start_char=1115|end_char=1117
+14	recognize	recognize	VERB	VB	VerbForm=Inf	13	_	_	start_char=1118|end_char=1127
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=1128|end_char=1131
+16	magnitude	magnitude	NOUN	NN	Number=Sing	15	_	_	start_char=1132|end_char=1141
+17	of	of	ADP	IN	_	16	_	_	start_char=1142|end_char=1144
+18	this	this	DET	DT	Number=Sing|PronType=Dem	17	_	_	start_char=1145|end_char=1149
+19	mae	mae	NOUN	NN	Number=Sing	18	_	_	start_char=1150|end_char=1153|SpaceAfter=No
+20	-	-	PUNCT	HYPH	_	19	_	_	start_char=1153|end_char=1154|SpaceAfter=No
+21	or	or	CCONJ	CC	_	20	_	_	start_char=1154|end_char=1156|SpaceAfter=No
+22	-	-	PUNCT	HYPH	_	21	_	_	start_char=1156|end_char=1157|SpaceAfter=No
+23	brea	brea	NOUN	NN	Number=Sing	22	_	_	start_char=1157|end_char=1161
+24	decade	decade	NOUN	NN	Number=Sing	23	_	_	start_char=1162|end_char=1168
+25	for	for	ADP	IN	_	24	_	_	start_char=1169|end_char=1172
+26	climate	climate	NOUN	NN	Number=Sing	25	_	_	start_char=1173|end_char=1180
+27	action	action	NOUN	NN	Number=Sing	26	_	_	start_char=1181|end_char=1187
+28	–	-	PUNCT	:	_	27	_	_	start_char=1188|end_char=1189
+29-30	it’s	_	_	_	_	_	_	_	start_char=1190|end_char=1194
+29	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	28	_	_	start_char=1190|end_char=1192
+30	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	_	_	start_char=1192|end_char=1194
+31	a	a	DET	DT	Definite=Ind|PronType=Art	30	_	_	start_char=1195|end_char=1196
+32	chance	chance	NOUN	NN	Number=Sing	31	_	_	start_char=1197|end_char=1203
+33	to	to	PART	TO	_	32	_	_	start_char=1204|end_char=1206
+34	elevate	elevate	VERB	VB	VerbForm=Inf	33	_	_	start_char=1207|end_char=1214
+35	the	the	DET	DT	Definite=Def|PronType=Art	34	_	_	start_char=1215|end_char=1218
+36	solutions	solution	NOUN	NNS	Number=Plur	35	_	_	start_char=1219|end_char=1228
+37	cities	city	NOUN	NNS	Number=Plur	36	_	_	start_char=1229|end_char=1235
+38	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	37	_	_	start_char=1236|end_char=1239
+39	deploying	deploy	VERB	VBG	Tense=Pres|VerbForm=Part	38	_	_	start_char=1240|end_char=1249
+40	at	at	ADP	IN	_	39	_	_	start_char=1250|end_char=1252
+41	a	a	DET	DT	Definite=Ind|PronType=Art	40	_	_	start_char=1253|end_char=1254
+42	neighborhood	neighborhood	NOUN	NN	Number=Sing	41	_	_	start_char=1255|end_char=1267
+43	level	level	NOUN	NN	Number=Sing	42	_	_	start_char=1268|end_char=1273
+44	that	that	PRON	WDT	PronType=Rel	43	_	_	start_char=1274|end_char=1278
+45	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	44	_	_	start_char=1279|end_char=1283
+46	a	a	DET	DT	Definite=Ind|PronType=Art	45	_	_	start_char=1284|end_char=1285
+47	real	real	ADJ	JJ	Degree=Pos	46	_	_	start_char=1286|end_char=1290
+48	impact	impact	NOUN	NN	Number=Sing	47	_	_	start_char=1291|end_char=1297
+49	on	on	ADP	IN	_	48	_	_	start_char=1298|end_char=1300
+50-51	people’s	_	_	_	_	_	_	_	start_char=1301|end_char=1309
+50	people	person	NOUN	NNS	Number=Plur	49	_	_	start_char=1301|end_char=1307
+51	’s	's	PART	POS	_	50	_	_	start_char=1307|end_char=1309
+52	daily	daily	ADJ	JJ	Degree=Pos	51	_	_	start_char=1310|end_char=1315
+53	lives	life	NOUN	NNS	Number=Plur	52	_	_	start_char=1316|end_char=1321|SpaceAfter=No
+54	.	.	PUNCT	.	_	53	_	_	start_char=1321|end_char=1322
+
+# text = It’s also an opportunity to help national governments better understand the steps we can tae together to chart a path toward a more livable and prosperous future.”
+# sent_id = 9
+1-2	It’s	_	_	_	_	_	_	_	start_char=1323|end_char=1327
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1323|end_char=1325
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1325|end_char=1327
+3	also	also	ADV	RB	_	2	_	_	start_char=1328|end_char=1332
+4	an	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=1333|end_char=1335
+5	opportunity	opportunity	NOUN	NN	Number=Sing	4	_	_	start_char=1336|end_char=1347
+6	to	to	PART	TO	_	5	_	_	start_char=1348|end_char=1350
+7	help	help	VERB	VB	VerbForm=Inf	6	_	_	start_char=1351|end_char=1355
+8	national	national	ADJ	JJ	Degree=Pos	7	_	_	start_char=1356|end_char=1364
+9	governments	government	NOUN	NNS	Number=Plur	8	_	_	start_char=1365|end_char=1376
+10	better	well	ADV	RBR	Degree=Cmp	9	_	_	start_char=1377|end_char=1383
+11	understand	understand	VERB	VB	VerbForm=Inf	10	_	_	start_char=1384|end_char=1394
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=1395|end_char=1398
+13	steps	step	NOUN	NNS	Number=Plur	12	_	_	start_char=1399|end_char=1404
+14	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	13	_	_	start_char=1405|end_char=1407
+15	can	can	AUX	MD	VerbForm=Fin	14	_	_	start_char=1408|end_char=1411
+16	tae	tae	VERB	VB	VerbForm=Inf	15	_	_	start_char=1412|end_char=1415
+17	together	together	ADV	RB	_	16	_	_	start_char=1416|end_char=1424
+18	to	to	PART	TO	_	17	_	_	start_char=1425|end_char=1427
+19	chart	chart	VERB	VB	VerbForm=Inf	18	_	_	start_char=1428|end_char=1433
+20	a	a	DET	DT	Definite=Ind|PronType=Art	19	_	_	start_char=1434|end_char=1435
+21	path	path	NOUN	NN	Number=Sing	20	_	_	start_char=1436|end_char=1440
+22	toward	toward	ADP	IN	_	21	_	_	start_char=1441|end_char=1447
+23	a	a	DET	DT	Definite=Ind|PronType=Art	22	_	_	start_char=1448|end_char=1449
+24	more	more	ADV	RBR	Degree=Cmp	23	_	_	start_char=1450|end_char=1454
+25	livable	livable	ADJ	JJ	Degree=Pos	24	_	_	start_char=1455|end_char=1462
+26	and	and	CCONJ	CC	_	25	_	_	start_char=1463|end_char=1466
+27	prosperous	prosperous	ADJ	JJ	Degree=Pos	26	_	_	start_char=1467|end_char=1477
+28	future	future	NOUN	NN	Number=Sing	27	_	_	start_char=1478|end_char=1484|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=1484|end_char=1485|SpaceAfter=No
+30	”	''	PUNCT	''	_	29	_	_	start_char=1485|end_char=1486|SpacesAfter=\n\n
+
+# text = Garcetti joined a U.S. Department of Transportation presentation on “high-quality urban transportation infrastructure,” though L.A.’s infrastructure is not widely considered “high-quality.”
+# sent_id = 10
+1	Garcetti	Garcetti	PROPN	NNP	Number=Sing	0	_	_	start_char=1488|end_char=1496
+2	joined	join	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1497|end_char=1503
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=1504|end_char=1505
+4	U.S.	U.S.	PROPN	NNP	Number=Sing	3	_	_	start_char=1506|end_char=1510
+5	Department	Department	PROPN	NNP	Number=Sing	4	_	_	start_char=1511|end_char=1521
+6	of	of	ADP	IN	_	5	_	_	start_char=1522|end_char=1524
+7	Transportation	Transportation	PROPN	NNP	Number=Sing	6	_	_	start_char=1525|end_char=1539
+8	presentation	presentation	NOUN	NN	Number=Sing	7	_	_	start_char=1540|end_char=1552
+9	on	on	ADP	IN	_	8	_	_	start_char=1553|end_char=1555
+10	“	''	PUNCT	``	_	9	_	_	start_char=1556|end_char=1557|SpaceAfter=No
+11	high	high	ADJ	JJ	Degree=Pos	10	_	_	start_char=1557|end_char=1561|SpaceAfter=No
+12	-	-	PUNCT	HYPH	_	11	_	_	start_char=1561|end_char=1562|SpaceAfter=No
+13	quality	quality	NOUN	NN	Number=Sing	12	_	_	start_char=1562|end_char=1569
+14	urban	urban	ADJ	JJ	Degree=Pos	13	_	_	start_char=1570|end_char=1575
+15	transportation	transportation	NOUN	NN	Number=Sing	14	_	_	start_char=1576|end_char=1590
+16	infrastructure	infrastructure	NOUN	NN	Number=Sing	15	_	_	start_char=1591|end_char=1605|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=1605|end_char=1606|SpaceAfter=No
+18	”	''	PUNCT	''	_	17	_	_	start_char=1606|end_char=1607
+19	though	though	SCONJ	IN	_	18	_	_	start_char=1608|end_char=1614
+20-21	L.A.’s	_	_	_	_	_	_	_	start_char=1615|end_char=1621
+20	L.A.	L.A.	PROPN	NNP	Number=Sing	19	_	_	start_char=1615|end_char=1619
+21	’s	's	PART	POS	_	20	_	_	start_char=1619|end_char=1621
+22	infrastructure	infrastructure	NOUN	NN	Number=Sing	21	_	_	start_char=1622|end_char=1636
+23	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	_	_	start_char=1637|end_char=1639
+24	not	not	PART	RB	_	23	_	_	start_char=1640|end_char=1643
+25	widely	widely	ADV	RB	Degree=Pos	24	_	_	start_char=1644|end_char=1650
+26	considered	consider	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	25	_	_	start_char=1651|end_char=1661
+27	“	''	PUNCT	``	_	26	_	_	start_char=1662|end_char=1663|SpaceAfter=No
+28	high	high	ADJ	JJ	Degree=Pos	27	_	_	start_char=1663|end_char=1667|SpaceAfter=No
+29	-	-	PUNCT	HYPH	_	28	_	_	start_char=1667|end_char=1668|SpaceAfter=No
+30	quality	quality	NOUN	NN	Number=Sing	29	_	_	start_char=1668|end_char=1675|SpaceAfter=No
+31	.	.	PUNCT	.	_	30	_	_	start_char=1675|end_char=1676|SpaceAfter=No
+32	”	''	PUNCT	''	_	31	_	_	start_char=1676|end_char=1677
+
+# text = A proposed high-speed rail between L.A. and San Francisco has been largely canceled, and current passenger rail service from L.A. to San Diego has been suspended because of a potential landslide hazard.
+# sent_id = 11
+1	A	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=1678|end_char=1679
+2	proposed	propose	VERB	VBN	Tense=Past|VerbForm=Part	1	_	_	start_char=1680|end_char=1688
+3	high	high	ADJ	JJ	Degree=Pos	2	_	_	start_char=1689|end_char=1693|SpaceAfter=No
+4	-	-	PUNCT	HYPH	_	3	_	_	start_char=1693|end_char=1694|SpaceAfter=No
+5	speed	speed	NOUN	NN	Number=Sing	4	_	_	start_char=1694|end_char=1699
+6	rail	rail	NOUN	NN	Number=Sing	5	_	_	start_char=1700|end_char=1704
+7	between	between	ADP	IN	_	6	_	_	start_char=1705|end_char=1712
+8	L.A.	L.A.	PROPN	NNP	Number=Sing	7	_	_	start_char=1713|end_char=1717
+9	and	and	CCONJ	CC	_	8	_	_	start_char=1718|end_char=1721
+10	San	San	PROPN	NNP	Number=Sing	9	_	_	start_char=1722|end_char=1725
+11	Francisco	Francisco	PROPN	NNP	Number=Sing	10	_	_	start_char=1726|end_char=1735
+12	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=1736|end_char=1739
+13	been	be	AUX	VBN	Tense=Past|VerbForm=Part	12	_	_	start_char=1740|end_char=1744
+14	largely	largely	ADV	RB	_	13	_	_	start_char=1745|end_char=1752
+15	canceled	cancel	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	_	_	start_char=1753|end_char=1761|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=1761|end_char=1762
+17	and	and	CCONJ	CC	_	16	_	_	start_char=1763|end_char=1766
+18	current	current	ADJ	JJ	Degree=Pos	17	_	_	start_char=1767|end_char=1774
+19	passenger	passenger	NOUN	NN	Number=Sing	18	_	_	start_char=1775|end_char=1784
+20	rail	rail	NOUN	NN	Number=Sing	19	_	_	start_char=1785|end_char=1789
+21	service	service	NOUN	NN	Number=Sing	20	_	_	start_char=1790|end_char=1797
+22	from	from	ADP	IN	_	21	_	_	start_char=1798|end_char=1802
+23	L.A.	L.A.	PROPN	NNP	Number=Sing	22	_	_	start_char=1803|end_char=1807
+24	to	to	ADP	IN	_	23	_	_	start_char=1808|end_char=1810
+25	San	San	PROPN	NNP	Number=Sing	24	_	_	start_char=1811|end_char=1814
+26	Diego	Diego	PROPN	NNP	Number=Sing	25	_	_	start_char=1815|end_char=1820
+27	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	_	_	start_char=1821|end_char=1824
+28	been	be	AUX	VBN	Tense=Past|VerbForm=Part	27	_	_	start_char=1825|end_char=1829
+29	suspended	suspend	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	28	_	_	start_char=1830|end_char=1839
+30	because	because	ADP	IN	_	29	_	_	start_char=1840|end_char=1847
+31	of	of	ADP	IN	_	30	_	_	start_char=1848|end_char=1850
+32	a	a	DET	DT	Definite=Ind|PronType=Art	31	_	_	start_char=1851|end_char=1852
+33	potential	potential	ADJ	JJ	Degree=Pos	32	_	_	start_char=1853|end_char=1862
+34	landslide	landslide	NOUN	NN	Number=Sing	33	_	_	start_char=1863|end_char=1872
+35	hazard	hazard	NOUN	NN	Number=Sing	34	_	_	start_char=1873|end_char=1879|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=1879|end_char=1880|SpacesAfter=\n\n
+
+# text = In his opening address to the climate summit, according to the mayor’s office, he “laid out how Los Angeles is transitioning to clean energy sources and delivering on our climate justice commitments.”
+# sent_id = 12
+1	In	in	ADP	IN	_	0	_	_	start_char=1882|end_char=1884
+2	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	_	_	start_char=1885|end_char=1888
+3	opening	open	VERB	VBG	VerbForm=Ger	2	_	_	start_char=1889|end_char=1896
+4	address	address	NOUN	NN	Number=Sing	3	_	_	start_char=1897|end_char=1904
+5	to	to	ADP	IN	_	4	_	_	start_char=1905|end_char=1907
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1908|end_char=1911
+7	climate	climate	NOUN	NN	Number=Sing	6	_	_	start_char=1912|end_char=1919
+8	summit	summit	NOUN	NN	Number=Sing	7	_	_	start_char=1920|end_char=1926|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1926|end_char=1927
+10	according	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	9	_	_	start_char=1928|end_char=1937
+11	to	to	ADP	IN	_	10	_	_	start_char=1938|end_char=1940
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=1941|end_char=1944
+13-14	mayor’s	_	_	_	_	_	_	_	start_char=1945|end_char=1952
+13	mayor	mayor	NOUN	NN	Number=Sing	12	_	_	start_char=1945|end_char=1950
+14	’s	's	PART	POS	_	13	_	_	start_char=1950|end_char=1952
+15	office	office	NOUN	NN	Number=Sing	14	_	_	start_char=1953|end_char=1959|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=1959|end_char=1960
+17	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	_	_	start_char=1961|end_char=1963
+18	“	''	PUNCT	``	_	17	_	_	start_char=1964|end_char=1965|SpaceAfter=No
+19	laid	lay	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	_	_	start_char=1965|end_char=1969
+20	out	out	ADP	RP	_	19	_	_	start_char=1970|end_char=1973
+21	how	how	ADV	WRB	PronType=Int	20	_	_	start_char=1974|end_char=1977
+22	Los	Los	PROPN	NNP	Number=Sing	21	_	_	start_char=1978|end_char=1981
+23	Angeles	Angeles	PROPN	NNP	Number=Sing	22	_	_	start_char=1982|end_char=1989
+24	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	_	_	start_char=1990|end_char=1992
+25	transitioning	transition	VERB	VBG	Tense=Pres|VerbForm=Part	24	_	_	start_char=1993|end_char=2006
+26	to	to	ADP	IN	_	25	_	_	start_char=2007|end_char=2009
+27	clean	clean	ADJ	JJ	Degree=Pos	26	_	_	start_char=2010|end_char=2015
+28	energy	energy	NOUN	NN	Number=Sing	27	_	_	start_char=2016|end_char=2022
+29	sources	source	NOUN	NNS	Number=Plur	28	_	_	start_char=2023|end_char=2030
+30	and	and	CCONJ	CC	_	29	_	_	start_char=2031|end_char=2034
+31	delivering	deliver	VERB	VBG	VerbForm=Ger	30	_	_	start_char=2035|end_char=2045
+32	on	on	ADP	IN	_	31	_	_	start_char=2046|end_char=2048
+33	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	32	_	_	start_char=2049|end_char=2052
+34	climate	climate	NOUN	NN	Number=Sing	33	_	_	start_char=2053|end_char=2060
+35	justice	justice	NOUN	NN	Number=Sing	34	_	_	start_char=2061|end_char=2068
+36	commitments	commitment	NOUN	NNS	Number=Plur	35	_	_	start_char=2069|end_char=2080|SpaceAfter=No
+37	.	.	PUNCT	.	_	36	_	_	start_char=2080|end_char=2081|SpaceAfter=No
+38	”	''	PUNCT	''	_	37	_	_	start_char=2081|end_char=2082
+
+# text = Garcetti’s “Green New Deal” calls for shuttering natural gas plants; it has been opposed by public wors unions, and lost the only serious electoral challenge it faced in a 2019 city council race.
+# sent_id = 13
+1-2	Garcetti’s	_	_	_	_	_	_	_	start_char=2083|end_char=2093
+1	Garcetti	Garcetti	PROPN	NNP	Number=Sing	0	_	_	start_char=2083|end_char=2091
+2	’s	's	PART	POS	_	1	_	_	start_char=2091|end_char=2093
+3	“	''	PUNCT	``	_	2	_	_	start_char=2094|end_char=2095|SpaceAfter=No
+4	Green	Green	ADJ	NNP	Degree=Pos	3	_	_	start_char=2095|end_char=2100
+5	New	New	ADJ	NNP	Degree=Pos	4	_	_	start_char=2101|end_char=2104
+6	Deal	deal	PROPN	NNP	Number=Sing	5	_	_	start_char=2105|end_char=2109|SpaceAfter=No
+7	”	''	PUNCT	''	_	6	_	_	start_char=2109|end_char=2110
+8	calls	call	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=2111|end_char=2116
+9	for	for	SCONJ	IN	_	8	_	_	start_char=2117|end_char=2120
+10	shuttering	shutter	VERB	VBG	VerbForm=Ger	9	_	_	start_char=2121|end_char=2131
+11	natural	natural	ADJ	JJ	Degree=Pos	10	_	_	start_char=2132|end_char=2139
+12	gas	gas	NOUN	NN	Number=Sing	11	_	_	start_char=2140|end_char=2143
+13	plants	plant	NOUN	NNS	Number=Plur	12	_	_	start_char=2144|end_char=2150|SpaceAfter=No
+14	;	;	PUNCT	:	_	13	_	_	start_char=2150|end_char=2151
+15	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	_	_	start_char=2152|end_char=2154
+16	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=2155|end_char=2158
+17	been	be	AUX	VBN	Tense=Past|VerbForm=Part	16	_	_	start_char=2159|end_char=2163
+18	opposed	oppose	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	17	_	_	start_char=2164|end_char=2171
+19	by	by	ADP	IN	_	18	_	_	start_char=2172|end_char=2174
+20	public	public	ADJ	JJ	Degree=Pos	19	_	_	start_char=2175|end_char=2181
+21	wors	wor	NOUN	NN	Number=Sing	20	_	_	start_char=2182|end_char=2186
+22	unions	union	NOUN	NNS	Number=Plur	21	_	_	start_char=2187|end_char=2193|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=2193|end_char=2194
+24	and	and	CCONJ	CC	_	23	_	_	start_char=2195|end_char=2198
+25	lost	lose	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	_	_	start_char=2199|end_char=2203
+26	the	the	DET	DT	Definite=Def|PronType=Art	25	_	_	start_char=2204|end_char=2207
+27	only	only	ADJ	JJ	Degree=Pos	26	_	_	start_char=2208|end_char=2212
+28	serious	serious	ADJ	JJ	Degree=Pos	27	_	_	start_char=2213|end_char=2220
+29	electoral	electoral	ADJ	JJ	Degree=Pos	28	_	_	start_char=2221|end_char=2230
+30	challenge	challenge	NOUN	NN	Number=Sing	29	_	_	start_char=2231|end_char=2240
+31	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	30	_	_	start_char=2241|end_char=2243
+32	faced	face	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	31	_	_	start_char=2244|end_char=2249
+33	in	in	ADP	IN	_	32	_	_	start_char=2250|end_char=2252
+34	a	a	DET	DT	Definite=Ind|PronType=Art	33	_	_	start_char=2253|end_char=2254
+35	2019	2019	NUM	CD	NumForm=Digit|NumType=Card	34	_	_	start_char=2255|end_char=2259
+36	city	city	NOUN	NN	Number=Sing	35	_	_	start_char=2260|end_char=2264
+37	council	council	NOUN	NN	Number=Sing	36	_	_	start_char=2265|end_char=2272
+38	race	race	NOUN	NN	Number=Sing	37	_	_	start_char=2273|end_char=2277|SpaceAfter=No
+39	.	.	PUNCT	.	_	38	_	_	start_char=2277|end_char=2278|SpacesAfter=\n\n
+
+# text = White Garcetti was away, Los Angeles continued to struggle with the high crime and homelessness that have come to define his legacy, as well as a crisis in the City Council triggered by racist comments from City Council members within Garcetti’s party.
+# sent_id = 14
+1	White	White	ADJ	NNP	Degree=Pos	0	_	_	start_char=2280|end_char=2285
+2	Garcetti	Garcetti	PROPN	NNP	Number=Sing	1	_	_	start_char=2286|end_char=2294
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=2295|end_char=2298
+4	away	away	ADV	RB	_	3	_	_	start_char=2299|end_char=2303|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=2303|end_char=2304
+6	Los	Los	PROPN	NNP	Number=Sing	5	_	_	start_char=2305|end_char=2308
+7	Angeles	Angeles	PROPN	NNP	Number=Sing	6	_	_	start_char=2309|end_char=2316
+8	continued	continue	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=2317|end_char=2326
+9	to	to	PART	TO	_	8	_	_	start_char=2327|end_char=2329
+10	struggle	struggle	VERB	VB	VerbForm=Inf	9	_	_	start_char=2330|end_char=2338
+11	with	with	ADP	IN	_	10	_	_	start_char=2339|end_char=2343
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=2344|end_char=2347
+13	high	high	ADJ	JJ	Degree=Pos	12	_	_	start_char=2348|end_char=2352
+14	crime	crime	NOUN	NN	Number=Sing	13	_	_	start_char=2353|end_char=2358
+15	and	and	CCONJ	CC	_	14	_	_	start_char=2359|end_char=2362
+16	homelessness	homelessness	NOUN	NN	Number=Sing	15	_	_	start_char=2363|end_char=2375
+17	that	that	PRON	WDT	PronType=Rel	16	_	_	start_char=2376|end_char=2380
+18	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=2381|end_char=2385
+19	come	come	VERB	VBN	Tense=Past|VerbForm=Part	18	_	_	start_char=2386|end_char=2390
+20	to	to	PART	TO	_	19	_	_	start_char=2391|end_char=2393
+21	define	define	VERB	VB	VerbForm=Inf	20	_	_	start_char=2394|end_char=2400
+22	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	21	_	_	start_char=2401|end_char=2404
+23	legacy	legacy	NOUN	NN	Number=Sing	22	_	_	start_char=2405|end_char=2411|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=2411|end_char=2412
+25	as	as	ADV	RB	_	24	_	_	start_char=2413|end_char=2415
+26	well	well	ADV	RB	Degree=Pos	25	_	_	start_char=2416|end_char=2420
+27	as	as	ADP	IN	_	26	_	_	start_char=2421|end_char=2423
+28	a	a	DET	DT	Definite=Ind|PronType=Art	27	_	_	start_char=2424|end_char=2425
+29	crisis	crisis	NOUN	NN	Number=Sing	28	_	_	start_char=2426|end_char=2432
+30	in	in	ADP	IN	_	29	_	_	start_char=2433|end_char=2435
+31	the	the	DET	DT	Definite=Def|PronType=Art	30	_	_	start_char=2436|end_char=2439
+32	City	City	PROPN	NNP	Number=Sing	31	_	_	start_char=2440|end_char=2444
+33	Council	Council	PROPN	NNP	Number=Sing	32	_	_	start_char=2445|end_char=2452
+34	triggered	trigger	VERB	VBN	Tense=Past|VerbForm=Part	33	_	_	start_char=2453|end_char=2462
+35	by	by	ADP	IN	_	34	_	_	start_char=2463|end_char=2465
+36	racist	racist	ADJ	JJ	Degree=Pos	35	_	_	start_char=2466|end_char=2472
+37	comments	comment	NOUN	NNS	Number=Plur	36	_	_	start_char=2473|end_char=2481
+38	from	from	ADP	IN	_	37	_	_	start_char=2482|end_char=2486
+39	City	City	PROPN	NNP	Number=Sing	38	_	_	start_char=2487|end_char=2491
+40	Council	Council	PROPN	NNP	Number=Sing	39	_	_	start_char=2492|end_char=2499
+41	members	member	NOUN	NNS	Number=Plur	40	_	_	start_char=2500|end_char=2507
+42	within	within	ADP	IN	_	41	_	_	start_char=2508|end_char=2514
+43-44	Garcetti’s	_	_	_	_	_	_	_	start_char=2515|end_char=2525
+43	Garcetti	Garcetti	PROPN	NNP	Number=Sing	42	_	_	start_char=2515|end_char=2523
+44	’s	's	PART	POS	_	43	_	_	start_char=2523|end_char=2525
+45	party	party	NOUN	NN	Number=Sing	44	_	_	start_char=2526|end_char=2531|SpaceAfter=No
+46	.	.	PUNCT	.	_	45	_	_	start_char=2531|end_char=2532|SpacesAfter=\n\n
+
+# text = According to the ICAO Carbon Emissions Calculator, Garcetti’s trip would have burned 1275.6 g of carbon if he flew economy class, and twice as much if he flew business or “premium” class (assuming a stop in Atlanta).
+# sent_id = 15
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=2534|end_char=2543
+2	to	to	ADP	IN	_	1	_	_	start_char=2544|end_char=2546
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=2547|end_char=2550
+4	ICAO	ICAO	PROPN	NNP	Number=Sing	3	_	_	start_char=2551|end_char=2555
+5	Carbon	Carbon	PROPN	NNP	Number=Sing	4	_	_	start_char=2556|end_char=2562
+6	Emissions	Emission	PROPN	NNPS	Number=Plur	5	_	_	start_char=2563|end_char=2572
+7	Calculator	calculator	PROPN	NNP	Number=Sing	6	_	_	start_char=2573|end_char=2583|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=2583|end_char=2584
+9-10	Garcetti’s	_	_	_	_	_	_	_	start_char=2585|end_char=2595
+9	Garcetti	Garcetti	PROPN	NNP	Number=Sing	8	_	_	start_char=2585|end_char=2593
+10	’s	's	PART	POS	_	9	_	_	start_char=2593|end_char=2595
+11	trip	trip	NOUN	NN	Number=Sing	10	_	_	start_char=2596|end_char=2600
+12	would	would	AUX	MD	VerbForm=Fin	11	_	_	start_char=2601|end_char=2606
+13	have	have	AUX	VB	VerbForm=Inf	12	_	_	start_char=2607|end_char=2611
+14	burned	burn	VERB	VBN	Tense=Past|VerbForm=Part	13	_	_	start_char=2612|end_char=2618
+15	1275.6	1275.6	NUM	CD	NumForm=Digit|NumType=Card	14	_	_	start_char=2619|end_char=2625
+16	g	gram	NOUN	NNS	Number=Plur	15	_	_	start_char=2626|end_char=2627
+17	of	of	ADP	IN	_	16	_	_	start_char=2628|end_char=2630
+18	carbon	carbon	NOUN	NN	Number=Sing	17	_	_	start_char=2631|end_char=2637
+19	if	if	SCONJ	IN	_	18	_	_	start_char=2638|end_char=2640
+20	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	_	_	start_char=2641|end_char=2643
+21	flew	fly	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	_	_	start_char=2644|end_char=2648
+22	economy	economy	NOUN	NN	Number=Sing	21	_	_	start_char=2649|end_char=2656
+23	class	class	NOUN	NN	Number=Sing	22	_	_	start_char=2657|end_char=2662|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=2662|end_char=2663
+25	and	and	CCONJ	CC	_	24	_	_	start_char=2664|end_char=2667
+26	twice	twice	ADV	RB	NumType=Mult	25	_	_	start_char=2668|end_char=2673
+27	as	as	ADV	RB	_	26	_	_	start_char=2674|end_char=2676
+28	much	much	ADV	RB	Degree=Pos	27	_	_	start_char=2677|end_char=2681
+29	if	if	SCONJ	IN	_	28	_	_	start_char=2682|end_char=2684
+30	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	_	_	start_char=2685|end_char=2687
+31	flew	fly	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	30	_	_	start_char=2688|end_char=2692
+32	business	business	NOUN	NN	Number=Sing	31	_	_	start_char=2693|end_char=2701
+33	or	or	CCONJ	CC	_	32	_	_	start_char=2702|end_char=2704
+34	“	''	PUNCT	``	_	33	_	_	start_char=2705|end_char=2706|SpaceAfter=No
+35	premium	premium	NOUN	NN	Number=Sing	34	_	_	start_char=2706|end_char=2713|SpaceAfter=No
+36	”	''	PUNCT	''	_	35	_	_	start_char=2713|end_char=2714
+37	class	class	NOUN	NN	Number=Sing	36	_	_	start_char=2715|end_char=2720
+38	(	(	PUNCT	-LRB-	_	37	_	_	start_char=2721|end_char=2722|SpaceAfter=No
+39	assuming	assume	VERB	VBG	VerbForm=Ger	38	_	_	start_char=2722|end_char=2730
+40	a	a	DET	DT	Definite=Ind|PronType=Art	39	_	_	start_char=2731|end_char=2732
+41	stop	stop	NOUN	NN	Number=Sing	40	_	_	start_char=2733|end_char=2737
+42	in	in	ADP	IN	_	41	_	_	start_char=2738|end_char=2740
+43	Atlanta	Atlanta	PROPN	NNP	Number=Sing	42	_	_	start_char=2741|end_char=2748|SpaceAfter=No
+44	)	)	PUNCT	-RRB-	_	43	_	_	start_char=2748|end_char=2749|SpaceAfter=No
+45	.	.	PUNCT	.	_	44	_	_	start_char=2749|end_char=2750
+
+# text = That is one-fourth (economy) or one-half (premium) the global average per capita use of carbon per year.
+# sent_id = 16
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=2751|end_char=2755
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2756|end_char=2758
+3	one	one	NUM	CD	NumForm=Word|NumType=Card	2	_	_	start_char=2759|end_char=2762|SpaceAfter=No
+4	-	-	PUNCT	HYPH	_	3	_	_	start_char=2762|end_char=2763|SpaceAfter=No
+5	fourth	fourth	ADJ	JJ	Degree=Pos|NumType=Ord	4	_	_	start_char=2763|end_char=2769
+6	(	(	PUNCT	-LRB-	_	5	_	_	start_char=2770|end_char=2771|SpaceAfter=No
+7	economy	economy	NOUN	NN	Number=Sing	6	_	_	start_char=2771|end_char=2778|SpaceAfter=No
+8	)	)	PUNCT	-RRB-	_	7	_	_	start_char=2778|end_char=2779
+9	or	or	CCONJ	CC	_	8	_	_	start_char=2780|end_char=2782
+10	one	one	NUM	CD	NumForm=Word|NumType=Card	9	_	_	start_char=2783|end_char=2786|SpaceAfter=No
+11	-	-	PUNCT	HYPH	_	10	_	_	start_char=2786|end_char=2787|SpaceAfter=No
+12	half	half	NOUN	NN	NumForm=Word|NumType=Frac|Number=Sing	11	_	_	start_char=2787|end_char=2791
+13	(	(	PUNCT	-LRB-	_	12	_	_	start_char=2792|end_char=2793|SpaceAfter=No
+14	premium	premium	NOUN	NN	Number=Sing	13	_	_	start_char=2793|end_char=2800|SpaceAfter=No
+15	)	)	PUNCT	-RRB-	_	14	_	_	start_char=2800|end_char=2801
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=2802|end_char=2805
+17	global	global	ADJ	JJ	Degree=Pos	16	_	_	start_char=2806|end_char=2812
+18	average	average	NOUN	NN	Number=Sing	17	_	_	start_char=2813|end_char=2820
+19	per	per	ADP	IN	_	18	_	_	start_char=2821|end_char=2824
+20	capita	capita	NOUN	NN	Number=Sing	19	_	_	start_char=2825|end_char=2831
+21	use	use	NOUN	NN	Number=Sing	20	_	_	start_char=2832|end_char=2835
+22	of	of	ADP	IN	_	21	_	_	start_char=2836|end_char=2838
+23	carbon	carbon	NOUN	NN	Number=Sing	22	_	_	start_char=2839|end_char=2845
+24	per	per	ADP	IN	_	23	_	_	start_char=2846|end_char=2849
+25	year	year	NOUN	NN	Number=Sing	24	_	_	start_char=2850|end_char=2854|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=2854|end_char=2855
+
+# text = It is not clear why the conference could not be held remotely.
+# sent_id = 17
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=2856|end_char=2858
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2859|end_char=2861
+3	not	not	PART	RB	_	2	_	_	start_char=2862|end_char=2865
+4	clear	clear	ADJ	JJ	Degree=Pos	3	_	_	start_char=2866|end_char=2871
+5	why	why	ADV	WRB	PronType=Int	4	_	_	start_char=2872|end_char=2875
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=2876|end_char=2879
+7	conference	conference	NOUN	NN	Number=Sing	6	_	_	start_char=2880|end_char=2890
+8	could	could	AUX	MD	VerbForm=Fin	7	_	_	start_char=2891|end_char=2896
+9	not	not	PART	RB	_	8	_	_	start_char=2897|end_char=2900
+10	be	be	AUX	VB	VerbForm=Inf	9	_	_	start_char=2901|end_char=2903
+11	held	hold	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10	_	_	start_char=2904|end_char=2908
+12	remotely	remotely	ADV	RB	_	11	_	_	start_char=2909|end_char=2917|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=2917|end_char=2918|SpacesAfter=\n\n
+
+# text = Joel B. Polla is Senior Editor-at-Large at Breitbart News and the host of Breitbart News Sunday on Sirius XM Patriot on Sunday evenings from 7 p.m. to 10 p.m. ET (4 p.m. to 7 p.m. PT).
+# sent_id = 18
+1	Joel	Joel	PROPN	NNP	Number=Sing	0	_	_	start_char=2920|end_char=2924
+2	B.	B.	PROPN	NNP	Number=Sing	1	_	_	start_char=2925|end_char=2927
+3	Polla	Polla	PROPN	NNP	Number=Sing	2	_	_	start_char=2928|end_char=2933
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=2934|end_char=2936
+5	Senior	senior	ADJ	NNP	Degree=Pos	4	_	_	start_char=2937|end_char=2943
+6	Editor	Editor	PROPN	NNP	Number=Sing	5	_	_	start_char=2944|end_char=2950|SpaceAfter=No
+7	-	-	PUNCT	HYPH	_	6	_	_	start_char=2950|end_char=2951|SpaceAfter=No
+8	at	at	ADP	IN	_	7	_	_	start_char=2951|end_char=2953|SpaceAfter=No
+9	-	-	PUNCT	HYPH	_	8	_	_	start_char=2953|end_char=2954|SpaceAfter=No
+10	Large	large	PROPN	NNP	Number=Sing	9	_	_	start_char=2954|end_char=2959
+11	at	at	ADP	IN	_	10	_	_	start_char=2960|end_char=2962
+12	Breitbart	Breitbart	PROPN	NNP	Number=Sing	11	_	_	start_char=2963|end_char=2972
+13	News	News	PROPN	NNP	Number=Sing	12	_	_	start_char=2973|end_char=2977
+14	and	and	CCONJ	CC	_	13	_	_	start_char=2978|end_char=2981
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=2982|end_char=2985
+16	host	host	NOUN	NN	Number=Sing	15	_	_	start_char=2986|end_char=2990
+17	of	of	ADP	IN	_	16	_	_	start_char=2991|end_char=2993
+18	Breitbart	Breitbart	PROPN	NNP	Number=Sing	17	_	_	start_char=2994|end_char=3003
+19	News	News	PROPN	NNP	Number=Sing	18	_	_	start_char=3004|end_char=3008
+20	Sunday	Sunday	PROPN	NNP	Number=Sing	19	_	_	start_char=3009|end_char=3015
+21	on	on	ADP	IN	_	20	_	_	start_char=3016|end_char=3018
+22	Sirius	Sirius	PROPN	NNP	Number=Sing	21	_	_	start_char=3019|end_char=3025
+23	XM	XM	PROPN	NNP	Number=Sing	22	_	_	start_char=3026|end_char=3028
+24	Patriot	Patriot	PROPN	NNP	Number=Sing	23	_	_	start_char=3029|end_char=3036
+25	on	on	ADP	IN	_	24	_	_	start_char=3037|end_char=3039
+26	Sunday	Sunday	PROPN	NNP	Number=Sing	25	_	_	start_char=3040|end_char=3046
+27	evenings	evening	NOUN	NNS	Number=Plur	26	_	_	start_char=3047|end_char=3055
+28	from	from	ADP	IN	_	27	_	_	start_char=3056|end_char=3060
+29	7	7	NUM	CD	NumForm=Digit|NumType=Card	28	_	_	start_char=3061|end_char=3062
+30	p.m.	p.m.	NOUN	NN	Number=Sing	29	_	_	start_char=3063|end_char=3067
+31	to	to	ADP	IN	_	30	_	_	start_char=3068|end_char=3070
+32	10	10	NUM	CD	NumForm=Digit|NumType=Card	31	_	_	start_char=3071|end_char=3073
+33	p.m.	p.m.	NOUN	NN	Number=Sing	32	_	_	start_char=3074|end_char=3078
+34	ET	ET	PROPN	NNP	Number=Sing	33	_	_	start_char=3079|end_char=3081
+35	(	(	PUNCT	-LRB-	_	34	_	_	start_char=3082|end_char=3083|SpaceAfter=No
+36	4	4	NUM	CD	NumForm=Digit|NumType=Card	35	_	_	start_char=3083|end_char=3084
+37	p.m.	p.m.	NOUN	NN	Number=Sing	36	_	_	start_char=3085|end_char=3089
+38	to	to	ADP	IN	_	37	_	_	start_char=3090|end_char=3092
+39	7	7	NUM	CD	NumForm=Digit|NumType=Card	38	_	_	start_char=3093|end_char=3094
+40	p.m.	p.m.	NOUN	NN	Number=Sing	39	_	_	start_char=3095|end_char=3099
+41	PT	pt	NOUN	NN	Number=Sing	40	_	_	start_char=3100|end_char=3102|SpaceAfter=No
+42	)	)	PUNCT	-RRB-	_	41	_	_	start_char=3102|end_char=3103|SpaceAfter=No
+43	.	.	PUNCT	.	_	42	_	_	start_char=3103|end_char=3104
+
+# text = He is the author of the recent e-boo, Neither Free nor Fair: The 2020 U.S. Presidential Election.
+# sent_id = 19
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=3105|end_char=3107
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=3108|end_char=3110
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=3111|end_char=3114
+4	author	author	NOUN	NN	Number=Sing	3	_	_	start_char=3115|end_char=3121
+5	of	of	ADP	IN	_	4	_	_	start_char=3122|end_char=3124
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=3125|end_char=3128
+7	recent	recent	ADJ	JJ	Degree=Pos	6	_	_	start_char=3129|end_char=3135
+8	e-boo	e-boo	NOUN	NN	Number=Sing	7	_	_	start_char=3136|end_char=3141|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=3141|end_char=3142
+10	Neither	neither	DET	DT	PronType=Art	9	_	_	start_char=3143|end_char=3150
+11	Free	free	ADJ	NNP	Degree=Pos	10	_	_	start_char=3151|end_char=3155
+12	nor	nor	CCONJ	CC	_	11	_	_	start_char=3156|end_char=3159
+13	Fair	Fair	PROPN	NNP	Number=Sing	12	_	_	start_char=3160|end_char=3164|SpaceAfter=No
+14	:	:	PUNCT	:	_	13	_	_	start_char=3164|end_char=3165
+15	The	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=3166|end_char=3169
+16	2020	2020	NUM	CD	NumForm=Digit|NumType=Card	15	_	_	start_char=3170|end_char=3174
+17	U.S.	U.S.	PROPN	NNP	Number=Sing	16	_	_	start_char=3175|end_char=3179
+18	Presidential	presidential	ADJ	NNP	Degree=Pos	17	_	_	start_char=3180|end_char=3192
+19	Election	Election	PROPN	NNP	Number=Sing	18	_	_	start_char=3193|end_char=3201|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=3201|end_char=3202
+
+# text = His recent boo, RED NOVEMBER, tells the story of the 2020 Democratic presidential primary from a conservative perspective.
+# sent_id = 20
+1	His	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	_	_	start_char=3203|end_char=3206
+2	recent	recent	ADJ	JJ	Degree=Pos	1	_	_	start_char=3207|end_char=3213
+3	boo	boo	NOUN	NN	Number=Sing	2	_	_	start_char=3214|end_char=3217|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=3217|end_char=3218
+5	RED	RED	ADJ	NNP	Degree=Pos	4	_	_	start_char=3219|end_char=3222
+6	NOVEMBER	NOVEMBER	PROPN	NNP	Number=Sing	5	_	_	start_char=3223|end_char=3231|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=3231|end_char=3232
+8	tells	tell	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=3233|end_char=3238
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=3239|end_char=3242
+10	story	story	NOUN	NN	Number=Sing	9	_	_	start_char=3243|end_char=3248
+11	of	of	ADP	IN	_	10	_	_	start_char=3249|end_char=3251
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=3252|end_char=3255
+13	2020	2020	NUM	CD	NumForm=Digit|NumType=Card	12	_	_	start_char=3256|end_char=3260
+14	Democratic	Democratic	ADJ	JJ	Degree=Pos	13	_	_	start_char=3261|end_char=3271
+15	presidential	presidential	ADJ	JJ	Degree=Pos	14	_	_	start_char=3272|end_char=3284
+16	primary	primary	NOUN	NN	Number=Sing	15	_	_	start_char=3285|end_char=3292
+17	from	from	ADP	IN	_	16	_	_	start_char=3293|end_char=3297
+18	a	a	DET	DT	Definite=Ind|PronType=Art	17	_	_	start_char=3298|end_char=3299
+19	conservative	conservative	ADJ	JJ	Degree=Pos	18	_	_	start_char=3300|end_char=3312
+20	perspective	perspective	NOUN	NN	Number=Sing	19	_	_	start_char=3313|end_char=3324|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=3324|end_char=3325
+
+# text = He is a winner of the 2018 Robert Nova Journalism Alumni Fellowship.
+# sent_id = 21
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=3326|end_char=3328
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=3329|end_char=3331
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=3332|end_char=3333
+4	winner	winner	NOUN	NN	Number=Sing	3	_	_	start_char=3334|end_char=3340
+5	of	of	ADP	IN	_	4	_	_	start_char=3341|end_char=3343
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=3344|end_char=3347
+7	2018	2018	NUM	CD	NumForm=Digit|NumType=Card	6	_	_	start_char=3348|end_char=3352
+8	Robert	Robert	PROPN	NNP	Number=Sing	7	_	_	start_char=3353|end_char=3359
+9	Nova	Novo	PROPN	NNP	Number=Sing	8	_	_	start_char=3360|end_char=3364
+10	Journalism	Journalism	PROPN	NNP	Number=Sing	9	_	_	start_char=3365|end_char=3375
+11	Alumni	Alumni	PROPN	NNP	Number=Sing	10	_	_	start_char=3376|end_char=3382
+12	Fellowship	Fellowship	PROPN	NNP	Number=Sing	11	_	_	start_char=3383|end_char=3393|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=3393|end_char=3394
+
+# text = Follow him on Twitter at @joelpolla.
+# sent_id = 22
+1	Follow	follow	VERB	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=3395|end_char=3401
+2	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	_	_	start_char=3402|end_char=3405
+3	on	on	ADP	IN	_	2	_	_	start_char=3406|end_char=3408
+4	Twitter	Twitter	PROPN	NNP	Number=Sing	3	_	_	start_char=3409|end_char=3416
+5	at	at	ADP	IN	_	4	_	_	start_char=3417|end_char=3419
+6	@joelpolla	@joelpolla	PROPN	NNP	Number=Sing	5	_	_	start_char=3420|end_char=3430|SpaceAfter=No
+7	.	.	PUNCT	.	_	6	_	_	start_char=3430|end_char=3431|SpacesAfter=\n\n
+
+# text = Photo: file
+# sent_id = 23
+1	Photo	photo	NOUN	NN	Number=Sing	0	_	_	start_char=3433|end_char=3438|SpaceAfter=No
+2	:	:	PUNCT	:	_	1	_	_	start_char=3438|end_char=3439
+3	file	file	NOUN	NN	Number=Sing	2	_	_	start_char=3440|end_char=3444|SpacesAfter=\n\n
+
+# text = COMMENTS
+# sent_id = 24
+1	COMMENTS	commenter	NOUN	NNS	Number=Plur	0	_	_	start_char=3446|end_char=3454|SpacesAfter=\n\n
+
+# text = Please let us now if you're having issues with commenting.
+# sent_id = 25
+1	Please	please	INTJ	UH	_	0	_	_	start_char=3456|end_char=3462
+2	let	let	VERB	VB	Mood=Imp|VerbForm=Fin	1	_	_	start_char=3463|end_char=3466
+3	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	2	_	_	start_char=3467|end_char=3469
+4	now	now	ADV	RB	_	3	_	_	start_char=3470|end_char=3473
+5	if	if	SCONJ	IN	_	4	_	_	start_char=3474|end_char=3476
+6-7	you're	_	_	_	_	_	_	_	start_char=3477|end_char=3483
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	_	_	start_char=3477|end_char=3480
+7	're	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	_	_	start_char=3480|end_char=3483
+8	having	have	VERB	VBG	Tense=Pres|VerbForm=Part	7	_	_	start_char=3484|end_char=3490
+9	issues	issue	NOUN	NNS	Number=Plur	8	_	_	start_char=3491|end_char=3497
+10	with	with	ADP	IN	_	9	_	_	start_char=3498|end_char=3502
+11	commenting	commenting	NOUN	NN	Number=Sing	10	_	_	start_char=3503|end_char=3513|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=3513|end_char=3514|SpaceAfter=No
+

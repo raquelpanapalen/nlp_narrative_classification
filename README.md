@@ -79,3 +79,17 @@ To run the scripts:
 - **`--lower-text`**: Converts all text to lowercase to ensure uniform formatting, beneficial for case-insensitive analysis.
   
 The traditional-processed-documents folder contains text files preprocessed for traditional models with stopwords,punctuation removed, etc. , while the deeplearning-processed-documents folder contains the original text files retained for deep learning model input
+
+
+## Baseline Results
+
+Our baseline results for English - Subtask 2 from the SemEval 2025 leaderboard are as follows:
+
+| Rank | Model                   | F1 Macro Coarse | F1 Std. Dev. Coarse | F1 Macro Fine | F1 Std. Dev. Fine |
+|------|-------------------------|-----------------|---------------------|---------------|-------------------|
+| 1    | LSTM                    | 0.19400         | 0.21300             | 0.26800       | 0.44300           |
+| 2    | LSTM EN+BG (translated) | 0.20900         | 0.23100             | 0.19400       | 0.36100           |
+| 3    | SVM                     | 0.22400         | 0.25000             | 0.19900       | 0.32000           |
+| 4    | Basic Transformer       | 0.22300         | 0.21100             | 0.16000       | 0.20700           |
+
+These results provide a benchmark for evaluating the performance of narrative classification models on the given dataset.

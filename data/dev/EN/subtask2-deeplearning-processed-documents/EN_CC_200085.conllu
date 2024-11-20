@@ -1,0 +1,360 @@
+# text = The Great California Wind Energy Ripoff…
+# sent_id = 0
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=0|end_char=3
+2	Great	great	ADJ	NNP	Degree=Pos	1	_	_	start_char=4|end_char=9
+3	California	California	PROPN	NNP	Number=Sing	2	_	_	start_char=10|end_char=20
+4	Wind	Wind	PROPN	NNP	Number=Sing	3	_	_	start_char=21|end_char=25
+5	Energy	Energy	PROPN	NNP	Number=Sing	4	_	_	start_char=26|end_char=32
+6	Ripoff	Ripoff	PROPN	NNP	Number=Sing	5	_	_	start_char=33|end_char=39|SpaceAfter=No
+7	…	…	PUNCT	:	_	6	_	_	start_char=39|end_char=40|SpacesAfter=\s\n\n\s
+
+# text = WASHINGTON — The Department of the Interior today announced results from the Bureau of Ocean Energy Management’s wind energy auction for five leases offshore California.
+# sent_id = 1
+1	WASHINGTON	WASHINGTON	PROPN	NNP	Number=Sing	0	_	_	start_char=44|end_char=54
+2	—	—	PUNCT	:	_	1	_	_	start_char=55|end_char=56
+3	The	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=57|end_char=60
+4	Department	Department	PROPN	NNP	Number=Sing	3	_	_	start_char=61|end_char=71
+5	of	of	ADP	IN	_	4	_	_	start_char=72|end_char=74
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=75|end_char=78
+7	Interior	Interior	PROPN	NNP	Number=Sing	6	_	_	start_char=79|end_char=87
+8	today	today	NOUN	NN	Number=Sing	7	_	_	start_char=88|end_char=93
+9	announced	announce	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=94|end_char=103
+10	results	result	NOUN	NNS	Number=Plur	9	_	_	start_char=104|end_char=111
+11	from	from	ADP	IN	_	10	_	_	start_char=112|end_char=116
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=117|end_char=120
+13	Bureau	Bureau	PROPN	NNP	Number=Sing	12	_	_	start_char=121|end_char=127
+14	of	of	ADP	IN	_	13	_	_	start_char=128|end_char=130
+15	Ocean	Ocean	PROPN	NNP	Number=Sing	14	_	_	start_char=131|end_char=136
+16	Energy	Energy	PROPN	NNP	Number=Sing	15	_	_	start_char=137|end_char=143
+17-18	Management’s	_	_	_	_	_	_	_	start_char=144|end_char=156
+17	Management	Management	PROPN	NNP	Number=Sing	16	_	_	start_char=144|end_char=154
+18	’s	's	PART	POS	_	17	_	_	start_char=154|end_char=156
+19	wind	wind	NOUN	NN	Number=Sing	18	_	_	start_char=157|end_char=161
+20	energy	energy	NOUN	NN	Number=Sing	19	_	_	start_char=162|end_char=168
+21	auction	auction	NOUN	NN	Number=Sing	20	_	_	start_char=169|end_char=176
+22	for	for	ADP	IN	_	21	_	_	start_char=177|end_char=180
+23	five	five	NUM	CD	NumForm=Word|NumType=Card	22	_	_	start_char=181|end_char=185
+24	leases	leasis	NOUN	NNS	Number=Plur	23	_	_	start_char=186|end_char=192
+25	offshore	offshore	ADP	IN	_	24	_	_	start_char=193|end_char=201
+26	California	California	PROPN	NNP	Number=Sing	25	_	_	start_char=202|end_char=212|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=212|end_char=213
+
+# text = The lease sale represents the third major offshore wind lease sale this year and the first ever for the Pacific region.
+# sent_id = 2
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=214|end_char=217
+2	lease	lease	NOUN	NN	Number=Sing	1	_	_	start_char=218|end_char=223
+3	sale	sale	NOUN	NN	Number=Sing	2	_	_	start_char=224|end_char=228
+4	represents	represent	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=229|end_char=239
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=240|end_char=243
+6	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	5	_	_	start_char=244|end_char=249
+7	major	major	ADJ	JJ	Degree=Pos	6	_	_	start_char=250|end_char=255
+8	offshore	offshore	ADJ	JJ	Degree=Pos	7	_	_	start_char=256|end_char=264
+9	wind	wind	NOUN	NN	Number=Sing	8	_	_	start_char=265|end_char=269
+10	lease	lease	NOUN	NN	Number=Sing	9	_	_	start_char=270|end_char=275
+11	sale	sale	NOUN	NN	Number=Sing	10	_	_	start_char=276|end_char=280
+12	this	this	DET	DT	Number=Sing|PronType=Dem	11	_	_	start_char=281|end_char=285
+13	year	year	NOUN	NN	Number=Sing	12	_	_	start_char=286|end_char=290
+14	and	and	CCONJ	CC	_	13	_	_	start_char=291|end_char=294
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=295|end_char=298
+16	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	15	_	_	start_char=299|end_char=304
+17	ever	ever	ADV	RB	_	16	_	_	start_char=305|end_char=309
+18	for	for	ADP	IN	_	17	_	_	start_char=310|end_char=313
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=314|end_char=317
+20	Pacific	Pacific	PROPN	NNP	Number=Sing	19	_	_	start_char=318|end_char=325
+21	region	region	NOUN	NN	Number=Sing	20	_	_	start_char=326|end_char=332|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=332|end_char=333
+
+# text = Today’s sale drew competitive high bids from 5 companies totaling $757.1 million, well exceeding the first lease sales that were held in the Atlantic.
+# sent_id = 3
+1-2	Today’s	_	_	_	_	_	_	_	start_char=334|end_char=341
+1	Today	today	NOUN	NN	Number=Sing	0	_	_	start_char=334|end_char=339
+2	’s	's	PART	POS	_	1	_	_	start_char=339|end_char=341
+3	sale	sale	NOUN	NN	Number=Sing	2	_	_	start_char=342|end_char=346
+4	drew	draw	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=347|end_char=351
+5	competitive	competitive	ADJ	JJ	Degree=Pos	4	_	_	start_char=352|end_char=363
+6	high	high	ADJ	JJ	Degree=Pos	5	_	_	start_char=364|end_char=368
+7	bids	bid	NOUN	NNS	Number=Plur	6	_	_	start_char=369|end_char=373
+8	from	from	ADP	IN	_	7	_	_	start_char=374|end_char=378
+9	5	5	NUM	CD	NumForm=Digit|NumType=Card	8	_	_	start_char=379|end_char=380
+10	companies	company	NOUN	NNS	Number=Plur	9	_	_	start_char=381|end_char=390
+11	totaling	total	VERB	VBG	VerbForm=Ger	10	_	_	start_char=391|end_char=399
+12	$	$	SYM	$	_	11	_	_	start_char=400|end_char=401|SpaceAfter=No
+13	757.1	757.1	NUM	CD	NumForm=Digit|NumType=Card	12	_	_	start_char=401|end_char=406
+14	million	million	NUM	CD	NumForm=Word|NumType=Card	13	_	_	start_char=407|end_char=414|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=414|end_char=415
+16	well	well	ADV	RB	Degree=Pos	15	_	_	start_char=416|end_char=420
+17	exceeding	exceed	VERB	VBG	VerbForm=Ger	16	_	_	start_char=421|end_char=430
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=431|end_char=434
+19	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	18	_	_	start_char=435|end_char=440
+20	lease	lease	NOUN	NN	Number=Sing	19	_	_	start_char=441|end_char=446
+21	sales	sale	NOUN	NNS	Number=Plur	20	_	_	start_char=447|end_char=452
+22	that	that	PRON	WDT	PronType=Rel	21	_	_	start_char=453|end_char=457
+23	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	22	_	_	start_char=458|end_char=462
+24	held	hold	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	23	_	_	start_char=463|end_char=467
+25	in	in	ADP	IN	_	24	_	_	start_char=468|end_char=470
+26	the	the	DET	DT	Definite=Def|PronType=Art	25	_	_	start_char=471|end_char=474
+27	Atlantic	Atlantic	PROPN	NNP	Number=Sing	26	_	_	start_char=475|end_char=483|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=483|end_char=484|SpacesAfter=\n\n
+
+# text = “The Biden-Harris administration believes that to address the climate crisis head on, we must unleash a new era of clean, reliable energy that serves every household in America.
+# sent_id = 4
+1	“	''	PUNCT	``	_	0	_	_	start_char=486|end_char=487|SpaceAfter=No
+2	The	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=487|end_char=490
+3	Biden	Biden	PROPN	NNP	Number=Sing	2	_	_	start_char=491|end_char=496|SpaceAfter=No
+4	-	-	PUNCT	HYPH	_	3	_	_	start_char=496|end_char=497|SpaceAfter=No
+5	Harris	Harris	PROPN	NNP	Number=Sing	4	_	_	start_char=497|end_char=503
+6	administration	administration	NOUN	NN	Number=Sing	5	_	_	start_char=504|end_char=518
+7	believes	believe	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=519|end_char=527
+8	that	that	SCONJ	IN	_	7	_	_	start_char=528|end_char=532
+9	to	to	PART	TO	_	8	_	_	start_char=533|end_char=535
+10	address	address	VERB	VB	VerbForm=Inf	9	_	_	start_char=536|end_char=543
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=544|end_char=547
+12	climate	climate	NOUN	NN	Number=Sing	11	_	_	start_char=548|end_char=555
+13	crisis	crisis	NOUN	NN	Number=Sing	12	_	_	start_char=556|end_char=562
+14	head	head	NOUN	NN	Number=Sing	13	_	_	start_char=563|end_char=567
+15	on	on	ADV	RB	_	14	_	_	start_char=568|end_char=570|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=570|end_char=571
+17	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	16	_	_	start_char=572|end_char=574
+18	must	must	AUX	MD	VerbForm=Fin	17	_	_	start_char=575|end_char=579
+19	unleash	unleash	VERB	VB	VerbForm=Inf	18	_	_	start_char=580|end_char=587
+20	a	a	DET	DT	Definite=Ind|PronType=Art	19	_	_	start_char=588|end_char=589
+21	new	new	ADJ	JJ	Degree=Pos	20	_	_	start_char=590|end_char=593
+22	era	era	NOUN	NN	Number=Sing	21	_	_	start_char=594|end_char=597
+23	of	of	ADP	IN	_	22	_	_	start_char=598|end_char=600
+24	clean	clean	ADJ	JJ	Degree=Pos	23	_	_	start_char=601|end_char=606|SpaceAfter=No
+25	,	,	PUNCT	,	_	24	_	_	start_char=606|end_char=607
+26	reliable	reliable	ADJ	JJ	Degree=Pos	25	_	_	start_char=608|end_char=616
+27	energy	energy	NOUN	NN	Number=Sing	26	_	_	start_char=617|end_char=623
+28	that	that	PRON	WDT	PronType=Rel	27	_	_	start_char=624|end_char=628
+29	serves	serve	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	_	_	start_char=629|end_char=635
+30	every	every	DET	DT	PronType=Tot	29	_	_	start_char=636|end_char=641
+31	household	household	NOUN	NN	Number=Sing	30	_	_	start_char=642|end_char=651
+32	in	in	ADP	IN	_	31	_	_	start_char=652|end_char=654
+33	America	America	PROPN	NNP	Number=Sing	32	_	_	start_char=655|end_char=662|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=662|end_char=663
+
+# text = Today’s lease sale is further proof that industry momentum – including for floating offshore wind development – is undeniable,” said Secretary Deb Haaland.
+# sent_id = 5
+1-2	Today’s	_	_	_	_	_	_	_	start_char=664|end_char=671
+1	Today	today	NOUN	NN	Number=Sing	0	_	_	start_char=664|end_char=669
+2	’s	's	PART	POS	_	1	_	_	start_char=669|end_char=671
+3	lease	lease	NOUN	NN	Number=Sing	2	_	_	start_char=672|end_char=677
+4	sale	sale	NOUN	NN	Number=Sing	3	_	_	start_char=678|end_char=682
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=683|end_char=685
+6	further	further	ADV	RB	_	5	_	_	start_char=686|end_char=693
+7	proof	proof	NOUN	NN	Number=Sing	6	_	_	start_char=694|end_char=699
+8	that	that	SCONJ	IN	_	7	_	_	start_char=700|end_char=704
+9	industry	industry	NOUN	NN	Number=Sing	8	_	_	start_char=705|end_char=713
+10	momentum	momentum	NOUN	NN	Number=Sing	9	_	_	start_char=714|end_char=722
+11	–	-	PUNCT	:	_	10	_	_	start_char=723|end_char=724
+12	including	include	VERB	VBG	VerbForm=Ger	11	_	_	start_char=725|end_char=734
+13	for	for	SCONJ	IN	_	12	_	_	start_char=735|end_char=738
+14	floating	float	VERB	VBG	VerbForm=Ger	13	_	_	start_char=739|end_char=747
+15	offshore	offshore	ADJ	JJ	Degree=Pos	14	_	_	start_char=748|end_char=756
+16	wind	wind	NOUN	NN	Number=Sing	15	_	_	start_char=757|end_char=761
+17	development	development	NOUN	NN	Number=Sing	16	_	_	start_char=762|end_char=773
+18	–	-	PUNCT	:	_	17	_	_	start_char=774|end_char=775
+19	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=776|end_char=778
+20	undeniable	undeniable	ADJ	JJ	Degree=Pos	19	_	_	start_char=779|end_char=789|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=789|end_char=790|SpaceAfter=No
+22	”	''	PUNCT	''	_	21	_	_	start_char=790|end_char=791
+23	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	_	_	start_char=792|end_char=796
+24	Secretary	Secretary	PROPN	NNP	Number=Sing	23	_	_	start_char=797|end_char=806
+25	Deb	Deb	PROPN	NNP	Number=Sing	24	_	_	start_char=807|end_char=810
+26	Haaland	Haaland	PROPN	NNP	Number=Sing	25	_	_	start_char=811|end_char=818|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=818|end_char=819
+
+# text = “A sustainable, clean energy future is within our grasp and the Interior Department is doing everything we can to ensure that American communities nationwide benefit.”
+# sent_id = 6
+1	“	''	PUNCT	``	_	0	_	_	start_char=820|end_char=821|SpaceAfter=No
+2	A	a	DET	DT	Definite=Ind|PronType=Art	1	_	_	start_char=821|end_char=822
+3	sustainable	sustainable	ADJ	JJ	Degree=Pos	2	_	_	start_char=823|end_char=834|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=834|end_char=835
+5	clean	clean	ADJ	JJ	Degree=Pos	4	_	_	start_char=836|end_char=841
+6	energy	energy	NOUN	NN	Number=Sing	5	_	_	start_char=842|end_char=848
+7	future	future	NOUN	NN	Number=Sing	6	_	_	start_char=849|end_char=855
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=856|end_char=858
+9	within	within	ADP	IN	_	8	_	_	start_char=859|end_char=865
+10	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	9	_	_	start_char=866|end_char=869
+11	grasp	grasp	NOUN	NN	Number=Sing	10	_	_	start_char=870|end_char=875
+12	and	and	CCONJ	CC	_	11	_	_	start_char=876|end_char=879
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=880|end_char=883
+14	Interior	Interior	ADJ	NNP	Degree=Pos	13	_	_	start_char=884|end_char=892
+15	Department	Department	PROPN	NNP	Number=Sing	14	_	_	start_char=893|end_char=903
+16	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=904|end_char=906
+17	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	16	_	_	start_char=907|end_char=912
+18	everything	everything	PRON	NN	Number=Sing|PronType=Tot	17	_	_	start_char=913|end_char=923
+19	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	18	_	_	start_char=924|end_char=926
+20	can	can	AUX	MD	VerbForm=Fin	19	_	_	start_char=927|end_char=930
+21	to	to	PART	TO	_	20	_	_	start_char=931|end_char=933
+22	ensure	ensure	VERB	VB	VerbForm=Inf	21	_	_	start_char=934|end_char=940
+23	that	that	SCONJ	IN	_	22	_	_	start_char=941|end_char=945
+24	American	American	ADJ	JJ	Degree=Pos	23	_	_	start_char=946|end_char=954
+25	communities	community	NOUN	NNS	Number=Plur	24	_	_	start_char=955|end_char=966
+26	nationwide	nationwide	ADV	RB	_	25	_	_	start_char=967|end_char=977
+27	benefit	benefit	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	_	_	start_char=978|end_char=985|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=985|end_char=986|SpaceAfter=No
+29	”	''	PUNCT	''	_	28	_	_	start_char=986|end_char=987|SpacesAfter=\n\n
+
+# text = The interest and success of today’s sale represents a significant milestone toward achieving President Biden’s goal of deploying 30 gigawatts of offshore wind energy capacity by 2030 and 15 gigawatts of floating offshore wind capacity by 2035.
+# sent_id = 7
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=989|end_char=992
+2	interest	interest	NOUN	NN	Number=Sing	1	_	_	start_char=993|end_char=1001
+3	and	and	CCONJ	CC	_	2	_	_	start_char=1002|end_char=1005
+4	success	success	NOUN	NN	Number=Sing	3	_	_	start_char=1006|end_char=1013
+5	of	of	ADP	IN	_	4	_	_	start_char=1014|end_char=1016
+6-7	today’s	_	_	_	_	_	_	_	start_char=1017|end_char=1024
+6	today	today	NOUN	NN	Number=Sing	5	_	_	start_char=1017|end_char=1022
+7	’s	's	PART	POS	_	6	_	_	start_char=1022|end_char=1024
+8	sale	sale	NOUN	NN	Number=Sing	7	_	_	start_char=1025|end_char=1029
+9	represents	represent	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=1030|end_char=1040
+10	a	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=1041|end_char=1042
+11	significant	significant	ADJ	JJ	Degree=Pos	10	_	_	start_char=1043|end_char=1054
+12	milestone	milestone	NOUN	NN	Number=Sing	11	_	_	start_char=1055|end_char=1064
+13	toward	toward	SCONJ	IN	_	12	_	_	start_char=1065|end_char=1071
+14	achieving	achieve	VERB	VBG	VerbForm=Ger	13	_	_	start_char=1072|end_char=1081
+15	President	President	PROPN	NNP	Number=Sing	14	_	_	start_char=1082|end_char=1091
+16-17	Biden’s	_	_	_	_	_	_	_	start_char=1092|end_char=1099
+16	Biden	Biden	PROPN	NNP	Number=Sing	15	_	_	start_char=1092|end_char=1097
+17	’s	's	PART	POS	_	16	_	_	start_char=1097|end_char=1099
+18	goal	goal	NOUN	NN	Number=Sing	17	_	_	start_char=1100|end_char=1104
+19	of	of	SCONJ	IN	_	18	_	_	start_char=1105|end_char=1107
+20	deploying	deploy	VERB	VBG	VerbForm=Ger	19	_	_	start_char=1108|end_char=1117
+21	30	30	NUM	CD	NumForm=Digit|NumType=Card	20	_	_	start_char=1118|end_char=1120
+22	gigawatts	gigawatt	NOUN	NNS	Number=Plur	21	_	_	start_char=1121|end_char=1130
+23	of	of	ADP	IN	_	22	_	_	start_char=1131|end_char=1133
+24	offshore	offshore	ADJ	JJ	Degree=Pos	23	_	_	start_char=1134|end_char=1142
+25	wind	wind	NOUN	NN	Number=Sing	24	_	_	start_char=1143|end_char=1147
+26	energy	energy	NOUN	NN	Number=Sing	25	_	_	start_char=1148|end_char=1154
+27	capacity	capacity	NOUN	NN	Number=Sing	26	_	_	start_char=1155|end_char=1163
+28	by	by	ADP	IN	_	27	_	_	start_char=1164|end_char=1166
+29	2030	2030	NUM	CD	NumForm=Digit|NumType=Card	28	_	_	start_char=1167|end_char=1171
+30	and	and	CCONJ	CC	_	29	_	_	start_char=1172|end_char=1175
+31	15	15	NUM	CD	NumForm=Digit|NumType=Card	30	_	_	start_char=1176|end_char=1178
+32	gigawatts	gigawatt	NOUN	NNS	Number=Plur	31	_	_	start_char=1179|end_char=1188
+33	of	of	ADP	IN	_	32	_	_	start_char=1189|end_char=1191
+34	floating	float	VERB	VBG	VerbForm=Ger	33	_	_	start_char=1192|end_char=1200
+35	offshore	offshore	ADJ	JJ	Degree=Pos	34	_	_	start_char=1201|end_char=1209
+36	wind	wind	NOUN	NN	Number=Sing	35	_	_	start_char=1210|end_char=1214
+37	capacity	capacity	NOUN	NN	Number=Sing	36	_	_	start_char=1215|end_char=1223
+38	by	by	ADP	IN	_	37	_	_	start_char=1224|end_char=1226
+39	2035	2035	NUM	CD	NumForm=Digit|NumType=Card	38	_	_	start_char=1227|end_char=1231|SpaceAfter=No
+40	.	.	PUNCT	.	_	39	_	_	start_char=1231|end_char=1232|SpacesAfter=\n\n
+
+# text = “The innovative bidding credits in the California auction will result in tangible investments for the floating offshore wind worforce and supply chain in the United States, and benefits to Tribes, communities, and ocean users potentially affected by future offshore wind activities.
+# sent_id = 8
+1	“	''	PUNCT	``	_	0	_	_	start_char=1234|end_char=1235|SpaceAfter=No
+2	The	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=1235|end_char=1238
+3	innovative	innovative	ADJ	JJ	Degree=Pos	2	_	_	start_char=1239|end_char=1249
+4	bidding	bid	NOUN	NN	Number=Sing	3	_	_	start_char=1250|end_char=1257
+5	credits	credit	NOUN	NNS	Number=Plur	4	_	_	start_char=1258|end_char=1265
+6	in	in	ADP	IN	_	5	_	_	start_char=1266|end_char=1268
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1269|end_char=1272
+8	California	California	PROPN	NNP	Number=Sing	7	_	_	start_char=1273|end_char=1283
+9	auction	auction	NOUN	NN	Number=Sing	8	_	_	start_char=1284|end_char=1291
+10	will	will	AUX	MD	VerbForm=Fin	9	_	_	start_char=1292|end_char=1296
+11	result	result	VERB	VB	VerbForm=Inf	10	_	_	start_char=1297|end_char=1303
+12	in	in	ADP	IN	_	11	_	_	start_char=1304|end_char=1306
+13	tangible	tangible	ADJ	JJ	Degree=Pos	12	_	_	start_char=1307|end_char=1315
+14	investments	investment	NOUN	NNS	Number=Plur	13	_	_	start_char=1316|end_char=1327
+15	for	for	ADP	IN	_	14	_	_	start_char=1328|end_char=1331
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=1332|end_char=1335
+17	floating	float	VERB	VBG	VerbForm=Ger	16	_	_	start_char=1336|end_char=1344
+18	offshore	offshore	ADJ	JJ	Degree=Pos	17	_	_	start_char=1345|end_char=1353
+19	wind	wind	NOUN	NN	Number=Sing	18	_	_	start_char=1354|end_char=1358
+20	worforce	worforce	NOUN	NN	Number=Sing	19	_	_	start_char=1359|end_char=1367
+21	and	and	CCONJ	CC	_	20	_	_	start_char=1368|end_char=1371
+22	supply	supply	NOUN	NN	Number=Sing	21	_	_	start_char=1372|end_char=1378
+23	chain	chain	NOUN	NN	Number=Sing	22	_	_	start_char=1379|end_char=1384
+24	in	in	ADP	IN	_	23	_	_	start_char=1385|end_char=1387
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=1388|end_char=1391
+26	United	United	ADJ	NNP	Degree=Pos	25	_	_	start_char=1392|end_char=1398
+27	States	State	PROPN	NNPS	Number=Plur	26	_	_	start_char=1399|end_char=1405|SpaceAfter=No
+28	,	,	PUNCT	,	_	27	_	_	start_char=1405|end_char=1406
+29	and	and	CCONJ	CC	_	28	_	_	start_char=1407|end_char=1410
+30	benefits	benefit	NOUN	NNS	Number=Plur	29	_	_	start_char=1411|end_char=1419
+31	to	to	ADP	IN	_	30	_	_	start_char=1420|end_char=1422
+32	Tribes	tribes	NOUN	NNS	Number=Plur	31	_	_	start_char=1423|end_char=1429|SpaceAfter=No
+33	,	,	PUNCT	,	_	32	_	_	start_char=1429|end_char=1430
+34	communities	community	NOUN	NNS	Number=Plur	33	_	_	start_char=1431|end_char=1442|SpaceAfter=No
+35	,	,	PUNCT	,	_	34	_	_	start_char=1442|end_char=1443
+36	and	and	CCONJ	CC	_	35	_	_	start_char=1444|end_char=1447
+37	ocean	ocean	NOUN	NN	Number=Sing	36	_	_	start_char=1448|end_char=1453
+38	users	user	NOUN	NNS	Number=Plur	37	_	_	start_char=1454|end_char=1459
+39	potentially	potentially	ADV	RB	_	38	_	_	start_char=1460|end_char=1471
+40	affected	affect	VERB	VBN	Tense=Past|VerbForm=Part	39	_	_	start_char=1472|end_char=1480
+41	by	by	ADP	IN	_	40	_	_	start_char=1481|end_char=1483
+42	future	future	ADJ	JJ	Degree=Pos	41	_	_	start_char=1484|end_char=1490
+43	offshore	offshore	ADJ	JJ	Degree=Pos	42	_	_	start_char=1491|end_char=1499
+44	wind	wind	NOUN	NN	Number=Sing	43	_	_	start_char=1500|end_char=1504
+45	activities	activity	NOUN	NNS	Number=Plur	44	_	_	start_char=1505|end_char=1515|SpaceAfter=No
+46	.	.	PUNCT	.	_	45	_	_	start_char=1515|end_char=1516
+
+# text = This auction commits substantial investment to support economic growth from floating offshore wind energy development – including the jobs that come with it,” said BOEM Director Amanda Lefton.
+# sent_id = 9
+1	This	this	DET	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1517|end_char=1521
+2	auction	auction	NOUN	NN	Number=Sing	1	_	_	start_char=1522|end_char=1529
+3	commits	commit	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1530|end_char=1537
+4	substantial	substantial	ADJ	JJ	Degree=Pos	3	_	_	start_char=1538|end_char=1549
+5	investment	investment	NOUN	NN	Number=Sing	4	_	_	start_char=1550|end_char=1560
+6	to	to	PART	TO	_	5	_	_	start_char=1561|end_char=1563
+7	support	support	VERB	VB	VerbForm=Inf	6	_	_	start_char=1564|end_char=1571
+8	economic	economic	ADJ	JJ	Degree=Pos	7	_	_	start_char=1572|end_char=1580
+9	growth	growth	NOUN	NN	Number=Sing	8	_	_	start_char=1581|end_char=1587
+10	from	from	SCONJ	IN	_	9	_	_	start_char=1588|end_char=1592
+11	floating	float	VERB	VBG	VerbForm=Ger	10	_	_	start_char=1593|end_char=1601
+12	offshore	offshore	ADJ	JJ	Degree=Pos	11	_	_	start_char=1602|end_char=1610
+13	wind	wind	NOUN	NN	Number=Sing	12	_	_	start_char=1611|end_char=1615
+14	energy	energy	NOUN	NN	Number=Sing	13	_	_	start_char=1616|end_char=1622
+15	development	development	NOUN	NN	Number=Sing	14	_	_	start_char=1623|end_char=1634
+16	–	-	PUNCT	:	_	15	_	_	start_char=1635|end_char=1636
+17	including	include	VERB	VBG	VerbForm=Ger	16	_	_	start_char=1637|end_char=1646
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=1647|end_char=1650
+19	jobs	job	NOUN	NNS	Number=Plur	18	_	_	start_char=1651|end_char=1655
+20	that	that	PRON	WDT	PronType=Rel	19	_	_	start_char=1656|end_char=1660
+21	come	come	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	_	_	start_char=1661|end_char=1665
+22	with	with	ADP	IN	_	21	_	_	start_char=1666|end_char=1670
+23	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	22	_	_	start_char=1671|end_char=1673|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=1673|end_char=1674|SpaceAfter=No
+25	”	''	PUNCT	''	_	24	_	_	start_char=1674|end_char=1675
+26	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	_	_	start_char=1676|end_char=1680
+27	BOEM	BOEM	PROPN	NNP	Number=Sing	26	_	_	start_char=1681|end_char=1685
+28	Director	Director	PROPN	NNP	Number=Sing	27	_	_	start_char=1686|end_char=1694
+29	Amanda	Amanda	PROPN	NNP	Number=Sing	28	_	_	start_char=1695|end_char=1701
+30	Lefton	Lefton	PROPN	NNP	Number=Sing	29	_	_	start_char=1702|end_char=1708|SpaceAfter=No
+31	.	.	PUNCT	.	_	30	_	_	start_char=1708|end_char=1709
+
+# text = “These credits and additional lease stipulations demonstrate BOEM’s commitment to responsibly grow the offshore wind industry to achieve our offshore wind goals.”
+# sent_id = 10
+1	“	''	PUNCT	``	_	0	_	_	start_char=1710|end_char=1711|SpaceAfter=No
+2	These	this	DET	DT	Number=Plur|PronType=Dem	1	_	_	start_char=1711|end_char=1716
+3	credits	credit	NOUN	NNS	Number=Plur	2	_	_	start_char=1717|end_char=1724
+4	and	and	CCONJ	CC	_	3	_	_	start_char=1725|end_char=1728
+5	additional	additional	ADJ	JJ	Degree=Pos	4	_	_	start_char=1729|end_char=1739
+6	lease	lease	NOUN	NN	Number=Sing	5	_	_	start_char=1740|end_char=1745
+7	stipulations	stipulation	NOUN	NNS	Number=Plur	6	_	_	start_char=1746|end_char=1758
+8	demonstrate	demonstrate	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=1759|end_char=1770
+9-10	BOEM’s	_	_	_	_	_	_	_	start_char=1771|end_char=1777
+9	BOEM	BOEM	PROPN	NNP	Number=Sing	8	_	_	start_char=1771|end_char=1775
+10	’s	's	PART	POS	_	9	_	_	start_char=1775|end_char=1777
+11	commitment	commitment	NOUN	NN	Number=Sing	10	_	_	start_char=1778|end_char=1788
+12	to	to	PART	TO	_	11	_	_	start_char=1789|end_char=1791
+13	responsibly	responsibly	ADV	RB	_	12	_	_	start_char=1792|end_char=1803
+14	grow	grow	VERB	VB	VerbForm=Inf	13	_	_	start_char=1804|end_char=1808
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=1809|end_char=1812
+16	offshore	offshore	ADJ	JJ	Degree=Pos	15	_	_	start_char=1813|end_char=1821
+17	wind	wind	NOUN	NN	Number=Sing	16	_	_	start_char=1822|end_char=1826
+18	industry	industry	NOUN	NN	Number=Sing	17	_	_	start_char=1827|end_char=1835
+19	to	to	PART	TO	_	18	_	_	start_char=1836|end_char=1838
+20	achieve	achieve	VERB	VB	VerbForm=Inf	19	_	_	start_char=1839|end_char=1846
+21	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	20	_	_	start_char=1847|end_char=1850
+22	offshore	offshore	ADJ	JJ	Degree=Pos	21	_	_	start_char=1851|end_char=1859
+23	wind	wind	NOUN	NN	Number=Sing	22	_	_	start_char=1860|end_char=1864
+24	goals	goal	NOUN	NNS	Number=Plur	23	_	_	start_char=1865|end_char=1870|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=1870|end_char=1871|SpaceAfter=No
+26	”	''	PUNCT	''	_	25	_	_	start_char=1871|end_char=1872|SpacesAfter=\n\n
+
+# text = www.doi.gov/pressreleases/biden-harris-administration-announces-winners-california-offshore-wind-energy-auction
+# sent_id = 11
+1	www.doi.gov/pressreleases/biden-harris-administration-announces-winners-california-offshore-wind-energy-auction	www.doi.gov/pressreleases/biden-harris-administration-announces-winners-california-offshore-wind-energy-auction	X	ADD	_	0	_	_	start_char=1874|end_char=1985|SpaceAfter=No
+

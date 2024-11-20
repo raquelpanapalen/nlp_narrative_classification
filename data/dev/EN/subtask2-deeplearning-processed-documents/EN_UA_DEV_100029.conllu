@@ -1,0 +1,372 @@
+# text = General Milley: Russian military stocs rapidly depleting, soldiers demoralized
+# sent_id = 0
+1	General	General	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=7
+2	Milley	Milley	PROPN	NNP	Number=Sing	1	_	_	start_char=8|end_char=14|SpaceAfter=No
+3	:	:	PUNCT	:	_	2	_	_	start_char=14|end_char=15
+4	Russian	Russian	ADJ	JJ	Degree=Pos	3	_	_	start_char=16|end_char=23
+5	military	military	ADJ	JJ	Degree=Pos	4	_	_	start_char=24|end_char=32
+6	stocs	stocs	NOUN	NNS	Number=Plur	5	_	_	start_char=33|end_char=38
+7	rapidly	rapidly	ADV	RB	_	6	_	_	start_char=39|end_char=46
+8	depleting	deplete	VERB	VBG	VerbForm=Ger	7	_	_	start_char=47|end_char=56|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=56|end_char=57
+10	soldiers	soldier	NOUN	NNS	Number=Plur	9	_	_	start_char=58|end_char=66
+11	demoralized	demoralize	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=67|end_char=78|SpacesAfter=\s\n\n
+
+# text = “Russia remains isolated.
+# sent_id = 1
+1	“	''	PUNCT	``	_	0	_	_	start_char=81|end_char=82|SpaceAfter=No
+2	Russia	Russia	PROPN	NNP	Number=Sing	1	_	_	start_char=82|end_char=88
+3	remains	remain	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=89|end_char=96
+4	isolated	isolated	ADJ	JJ	Degree=Pos	3	_	_	start_char=97|end_char=105|SpaceAfter=No
+5	.	.	PUNCT	.	_	4	_	_	start_char=105|end_char=106
+
+# text = Their military stocs are rapidly depleting, the soldiers are demoralized, untrained, unmotivated, conscripts, and convicts, and their leadership is failing them, having already failed in their strategic objectives,” Milley said during a press conference at Pentagon following the Uraine Defense Contact Group meeting, an Urinform correspondent reports.
+# sent_id = 2
+1	Their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	0	_	_	start_char=107|end_char=112
+2	military	military	ADJ	JJ	Degree=Pos	1	_	_	start_char=113|end_char=121
+3	stocs	stocs	NOUN	NNS	Number=Plur	2	_	_	start_char=122|end_char=127
+4	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=128|end_char=131
+5	rapidly	rapidly	ADV	RB	_	4	_	_	start_char=132|end_char=139
+6	depleting	deplete	VERB	VBG	Tense=Pres|VerbForm=Part	5	_	_	start_char=140|end_char=149|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=149|end_char=150
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=151|end_char=154
+9	soldiers	soldier	NOUN	NNS	Number=Plur	8	_	_	start_char=155|end_char=163
+10	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=164|end_char=167
+11	demoralized	demoralize	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10	_	_	start_char=168|end_char=179|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=179|end_char=180
+13	untrained	untrained	ADJ	JJ	Degree=Pos	12	_	_	start_char=181|end_char=190|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=190|end_char=191
+15	unmotivated	unmotivated	ADJ	JJ	Degree=Pos	14	_	_	start_char=192|end_char=203|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=203|end_char=204
+17	conscripts	conscript	NOUN	NNS	Number=Plur	16	_	_	start_char=205|end_char=215|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=215|end_char=216
+19	and	and	CCONJ	CC	_	18	_	_	start_char=217|end_char=220
+20	convicts	convict	NOUN	NNS	Number=Plur	19	_	_	start_char=221|end_char=229|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=229|end_char=230
+22	and	and	CCONJ	CC	_	21	_	_	start_char=231|end_char=234
+23	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	22	_	_	start_char=235|end_char=240
+24	leadership	leadership	NOUN	NN	Number=Sing	23	_	_	start_char=241|end_char=251
+25	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	_	_	start_char=252|end_char=254
+26	failing	fail	VERB	VBG	Tense=Pres|VerbForm=Part	25	_	_	start_char=255|end_char=262
+27	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	26	_	_	start_char=263|end_char=267|SpaceAfter=No
+28	,	,	PUNCT	,	_	27	_	_	start_char=267|end_char=268
+29	having	have	AUX	VBG	VerbForm=Ger	28	_	_	start_char=269|end_char=275
+30	already	already	ADV	RB	_	29	_	_	start_char=276|end_char=283
+31	failed	fail	VERB	VBN	Tense=Past|VerbForm=Part	30	_	_	start_char=284|end_char=290
+32	in	in	ADP	IN	_	31	_	_	start_char=291|end_char=293
+33	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	32	_	_	start_char=294|end_char=299
+34	strategic	strategic	ADJ	JJ	Degree=Pos	33	_	_	start_char=300|end_char=309
+35	objectives	objective	NOUN	NNS	Number=Plur	34	_	_	start_char=310|end_char=320|SpaceAfter=No
+36	,	,	PUNCT	,	_	35	_	_	start_char=320|end_char=321|SpaceAfter=No
+37	”	''	PUNCT	''	_	36	_	_	start_char=321|end_char=322
+38	Milley	Milley	PROPN	NNP	Number=Sing	37	_	_	start_char=323|end_char=329
+39	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	38	_	_	start_char=330|end_char=334
+40	during	during	ADP	IN	_	39	_	_	start_char=335|end_char=341
+41	a	a	DET	DT	Definite=Ind|PronType=Art	40	_	_	start_char=342|end_char=343
+42	press	press	NOUN	NN	Number=Sing	41	_	_	start_char=344|end_char=349
+43	conference	conference	NOUN	NN	Number=Sing	42	_	_	start_char=350|end_char=360
+44	at	at	ADP	IN	_	43	_	_	start_char=361|end_char=363
+45	Pentagon	Pentagon	PROPN	NNP	Number=Sing	44	_	_	start_char=364|end_char=372
+46	following	follow	VERB	VBG	VerbForm=Ger	45	_	_	start_char=373|end_char=382
+47	the	the	DET	DT	Definite=Def|PronType=Art	46	_	_	start_char=383|end_char=386
+48	Uraine	Uraine	PROPN	NNP	Number=Sing	47	_	_	start_char=387|end_char=393
+49	Defense	Defense	PROPN	NNP	Number=Sing	48	_	_	start_char=394|end_char=401
+50	Contact	contact	PROPN	NNP	Number=Sing	49	_	_	start_char=402|end_char=409
+51	Group	Group	PROPN	NNP	Number=Sing	50	_	_	start_char=410|end_char=415
+52	meeting	meeting	NOUN	NN	Number=Sing	51	_	_	start_char=416|end_char=423|SpaceAfter=No
+53	,	,	PUNCT	,	_	52	_	_	start_char=423|end_char=424
+54	an	a	DET	DT	Definite=Ind|PronType=Art	53	_	_	start_char=425|end_char=427
+55	Urinform	Urinform	PROPN	NNP	Number=Sing	54	_	_	start_char=428|end_char=436
+56	correspondent	correspondent	NOUN	NN	Number=Sing	55	_	_	start_char=437|end_char=450
+57	reports	report	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	56	_	_	start_char=451|end_char=458|SpaceAfter=No
+58	.	.	PUNCT	.	_	57	_	_	start_char=458|end_char=459|SpacesAfter=\n\n
+
+# text = Russia is increasingly relying on other countries such as Iran and North orea, he noted.
+# sent_id = 3
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=461|end_char=467
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=468|end_char=470
+3	increasingly	increasingly	ADV	RB	_	2	_	_	start_char=471|end_char=483
+4	relying	rely	VERB	VBG	Tense=Pres|VerbForm=Part	3	_	_	start_char=484|end_char=491
+5	on	on	ADP	IN	_	4	_	_	start_char=492|end_char=494
+6	other	other	ADJ	JJ	Degree=Pos	5	_	_	start_char=495|end_char=500
+7	countries	country	NOUN	NNS	Number=Plur	6	_	_	start_char=501|end_char=510
+8	such	such	ADJ	JJ	Degree=Pos|ExtPos=ADP	7	_	_	start_char=511|end_char=515
+9	as	as	ADP	IN	_	8	_	_	start_char=516|end_char=518
+10	Iran	Iran	PROPN	NNP	Number=Sing	9	_	_	start_char=519|end_char=523
+11	and	and	CCONJ	CC	_	10	_	_	start_char=524|end_char=527
+12	North	North	PROPN	NNP	Number=Sing	11	_	_	start_char=528|end_char=533
+13	orea	orea	NOUN	NN	Number=Sing	12	_	_	start_char=534|end_char=538|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=538|end_char=539
+15	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	_	_	start_char=540|end_char=542
+16	noted	note	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	_	_	start_char=543|end_char=548|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=548|end_char=549|SpacesAfter=\n\n
+
+# text = At the same time, Russian soldiers are thrown into the chaos of war wave after wave.
+# sent_id = 4
+1	At	at	ADP	IN	_	0	_	_	start_char=551|end_char=553
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=554|end_char=557
+3	same	same	ADJ	JJ	Degree=Pos	2	_	_	start_char=558|end_char=562
+4	time	time	NOUN	NN	Number=Sing	3	_	_	start_char=563|end_char=567|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=567|end_char=568
+6	Russian	Russian	ADJ	JJ	Degree=Pos	5	_	_	start_char=569|end_char=576
+7	soldiers	soldier	NOUN	NNS	Number=Plur	6	_	_	start_char=577|end_char=585
+8	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=586|end_char=589
+9	thrown	throw	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	_	_	start_char=590|end_char=596
+10	into	into	ADP	IN	_	9	_	_	start_char=597|end_char=601
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=602|end_char=605
+12	chaos	chaos	NOUN	NN	Number=Sing	11	_	_	start_char=606|end_char=611
+13	of	of	ADP	IN	_	12	_	_	start_char=612|end_char=614
+14	war	war	NOUN	NN	Number=Sing	13	_	_	start_char=615|end_char=618
+15	wave	wave	NOUN	NN	Number=Sing	14	_	_	start_char=619|end_char=623
+16	after	after	ADP	IN	_	15	_	_	start_char=624|end_char=629
+17	wave	wave	NOUN	NN	Number=Sing	16	_	_	start_char=630|end_char=634|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=634|end_char=635
+
+# text = “The severely undertrained, poorly led, poorly equipped Russian forces are conducting mindless frontal attacs and sacrificing hundreds per day…
+# sent_id = 5
+1	“	''	PUNCT	``	_	0	_	_	start_char=636|end_char=637|SpaceAfter=No
+2	The	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=637|end_char=640
+3	severely	severely	ADV	RB	_	2	_	_	start_char=641|end_char=649
+4	undertrained	undertrained	ADJ	JJ	Degree=Pos	3	_	_	start_char=650|end_char=662|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=662|end_char=663
+6	poorly	poorly	ADV	RB	_	5	_	_	start_char=664|end_char=670
+7	led	lead	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=671|end_char=674|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=674|end_char=675
+9	poorly	poorly	ADV	RB	_	8	_	_	start_char=676|end_char=682
+10	equipped	equip	VERB	VBN	Tense=Past|VerbForm=Part	9	_	_	start_char=683|end_char=691
+11	Russian	Russian	ADJ	JJ	Degree=Pos	10	_	_	start_char=692|end_char=699
+12	forces	force	NOUN	NNS	Number=Plur	11	_	_	start_char=700|end_char=706
+13	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=707|end_char=710
+14	conducting	conduct	VERB	VBG	Tense=Pres|VerbForm=Part	13	_	_	start_char=711|end_char=721
+15	mindless	mindless	ADJ	JJ	Degree=Pos	14	_	_	start_char=722|end_char=730
+16	frontal	frontal	ADJ	JJ	Degree=Pos	15	_	_	start_char=731|end_char=738
+17	attacs	attac	NOUN	NN	Number=Sing	16	_	_	start_char=739|end_char=745
+18	and	and	CCONJ	CC	_	17	_	_	start_char=746|end_char=749
+19	sacrificing	sacrifice	VERB	VBG	VerbForm=Ger	18	_	_	start_char=750|end_char=761
+20	hundreds	hundred	NOUN	NNS	Number=Plur	19	_	_	start_char=762|end_char=770
+21	per	per	ADP	IN	_	20	_	_	start_char=771|end_char=774
+22	day	day	NOUN	NN	Number=Sing	21	_	_	start_char=775|end_char=778|SpaceAfter=No
+23	…	…	PUNCT	:	_	22	_	_	start_char=778|end_char=779
+
+# text = It’s obvious to the world and it should be obvious to Putin that these objectives are no longer achievable by continuing this war,” Milley believes.
+# sent_id = 6
+1-2	It’s	_	_	_	_	_	_	_	start_char=780|end_char=784
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=780|end_char=782
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=782|end_char=784
+3	obvious	obvious	ADJ	JJ	Degree=Pos	2	_	_	start_char=785|end_char=792
+4	to	to	ADP	IN	_	3	_	_	start_char=793|end_char=795
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=796|end_char=799
+6	world	world	NOUN	NN	Number=Sing	5	_	_	start_char=800|end_char=805
+7	and	and	CCONJ	CC	_	6	_	_	start_char=806|end_char=809
+8	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	_	_	start_char=810|end_char=812
+9	should	should	AUX	MD	VerbForm=Fin	8	_	_	start_char=813|end_char=819
+10	be	be	AUX	VB	VerbForm=Inf	9	_	_	start_char=820|end_char=822
+11	obvious	obvious	ADJ	JJ	Degree=Pos	10	_	_	start_char=823|end_char=830
+12	to	to	ADP	IN	_	11	_	_	start_char=831|end_char=833
+13	Putin	Putin	PROPN	NNP	Number=Sing	12	_	_	start_char=834|end_char=839
+14	that	that	SCONJ	IN	_	13	_	_	start_char=840|end_char=844
+15	these	this	DET	DT	Number=Plur|PronType=Dem	14	_	_	start_char=845|end_char=850
+16	objectives	objective	NOUN	NNS	Number=Plur	15	_	_	start_char=851|end_char=861
+17	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=862|end_char=865
+18	no	no	ADV	RB	_	17	_	_	start_char=866|end_char=868
+19	longer	long	ADV	RBR	Degree=Cmp	18	_	_	start_char=869|end_char=875
+20	achievable	achievable	ADJ	JJ	Degree=Pos	19	_	_	start_char=876|end_char=886
+21	by	by	SCONJ	IN	_	20	_	_	start_char=887|end_char=889
+22	continuing	continue	VERB	VBG	VerbForm=Ger	21	_	_	start_char=890|end_char=900
+23	this	this	DET	DT	Number=Sing|PronType=Dem	22	_	_	start_char=901|end_char=905
+24	war	war	NOUN	NN	Number=Sing	23	_	_	start_char=906|end_char=909|SpaceAfter=No
+25	,	,	PUNCT	,	_	24	_	_	start_char=909|end_char=910|SpaceAfter=No
+26	”	''	PUNCT	''	_	25	_	_	start_char=910|end_char=911
+27	Milley	Milley	PROPN	NNP	Number=Sing	26	_	_	start_char=912|end_char=918
+28	believes	believe	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	_	_	start_char=919|end_char=927|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=927|end_char=928|SpacesAfter=\n\n
+
+# text = Commenting on the situation near Bahmut, he stressed that Uraine holds bac the Russian troops due to robust defenses.
+# sent_id = 7
+1	Commenting	comment	VERB	VBG	VerbForm=Ger	0	_	_	start_char=930|end_char=940
+2	on	on	ADP	IN	_	1	_	_	start_char=941|end_char=943
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=944|end_char=947
+4	situation	situation	NOUN	NN	Number=Sing	3	_	_	start_char=948|end_char=957
+5	near	near	ADP	IN	_	4	_	_	start_char=958|end_char=962
+6	Bahmut	Bahmut	PROPN	NNP	Number=Sing	5	_	_	start_char=963|end_char=969|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=969|end_char=970
+8	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	_	_	start_char=971|end_char=973
+9	stressed	stress	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=974|end_char=982
+10	that	that	SCONJ	IN	_	9	_	_	start_char=983|end_char=987
+11	Uraine	Uraine	PROPN	NNP	Number=Sing	10	_	_	start_char=988|end_char=994
+12	holds	hold	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=995|end_char=1000
+13	bac	bac	NOUN	NN	Number=Sing	12	_	_	start_char=1001|end_char=1004
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=1005|end_char=1008
+15	Russian	Russian	ADJ	JJ	Degree=Pos	14	_	_	start_char=1009|end_char=1016
+16	troops	troops	NOUN	NNS	Number=Plur	15	_	_	start_char=1017|end_char=1023
+17	due	due	ADP	IN	_	16	_	_	start_char=1024|end_char=1027
+18	to	to	ADP	IN	_	17	_	_	start_char=1028|end_char=1030
+19	robust	robust	ADJ	JJ	Degree=Pos	18	_	_	start_char=1031|end_char=1037
+20	defenses	defens	NOUN	NNS	Number=Plur	19	_	_	start_char=1038|end_char=1046|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=1046|end_char=1047|SpacesAfter=\n\n
+
+# text = According to him, the Urainian troops are “capable and trained.”
+# sent_id = 8
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=1049|end_char=1058
+2	to	to	ADP	IN	_	1	_	_	start_char=1059|end_char=1061
+3	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	_	_	start_char=1062|end_char=1065|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1065|end_char=1066
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1067|end_char=1070
+6	Urainian	Urainian	ADJ	JJ	Degree=Pos	5	_	_	start_char=1071|end_char=1079
+7	troops	troops	NOUN	NNS	Number=Plur	6	_	_	start_char=1080|end_char=1086
+8	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=1087|end_char=1090
+9	“	''	PUNCT	``	_	8	_	_	start_char=1091|end_char=1092|SpaceAfter=No
+10	capable	capable	ADJ	JJ	Degree=Pos	9	_	_	start_char=1092|end_char=1099
+11	and	and	CCONJ	CC	_	10	_	_	start_char=1100|end_char=1103
+12	trained	train	VERB	VBN	Tense=Past|VerbForm=Part	11	_	_	start_char=1104|end_char=1111|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=1111|end_char=1112|SpaceAfter=No
+14	”	''	PUNCT	''	_	13	_	_	start_char=1112|end_char=1113|SpacesAfter=\n\n
+
+# text = Milley added that Urainian precision munitions continued to target the logistics and communication systems of Russians who lac effective small unit leaders and proper equipment.
+# sent_id = 9
+1	Milley	Milley	PROPN	NNP	Number=Sing	0	_	_	start_char=1115|end_char=1121
+2	added	add	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1122|end_char=1127
+3	that	that	SCONJ	IN	_	2	_	_	start_char=1128|end_char=1132
+4	Urainian	Urainian	ADJ	JJ	Degree=Pos	3	_	_	start_char=1133|end_char=1141
+5	precision	precision	NOUN	NN	Number=Sing	4	_	_	start_char=1142|end_char=1151
+6	munitions	munition	NOUN	NNS	Number=Plur	5	_	_	start_char=1152|end_char=1161
+7	continued	continue	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=1162|end_char=1171
+8	to	to	PART	TO	_	7	_	_	start_char=1172|end_char=1174
+9	target	target	VERB	VB	VerbForm=Inf	8	_	_	start_char=1175|end_char=1181
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=1182|end_char=1185
+11	logistics	logistic	NOUN	NNS	Number=Plur	10	_	_	start_char=1186|end_char=1195
+12	and	and	CCONJ	CC	_	11	_	_	start_char=1196|end_char=1199
+13	communication	communication	NOUN	NN	Number=Sing	12	_	_	start_char=1200|end_char=1213
+14	systems	system	NOUN	NNS	Number=Plur	13	_	_	start_char=1214|end_char=1221
+15	of	of	ADP	IN	_	14	_	_	start_char=1222|end_char=1224
+16	Russians	Russian	PROPN	NNPS	Number=Plur	15	_	_	start_char=1225|end_char=1233
+17	who	who	PRON	WP	PronType=Rel	16	_	_	start_char=1234|end_char=1237
+18	lac	lac	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=1238|end_char=1241
+19	effective	effective	ADJ	JJ	Degree=Pos	18	_	_	start_char=1242|end_char=1251
+20	small	small	ADJ	JJ	Degree=Pos	19	_	_	start_char=1252|end_char=1257
+21	unit	unit	NOUN	NN	Number=Sing	20	_	_	start_char=1258|end_char=1262
+22	leaders	leader	NOUN	NNS	Number=Plur	21	_	_	start_char=1263|end_char=1270
+23	and	and	CCONJ	CC	_	22	_	_	start_char=1271|end_char=1274
+24	proper	proper	ADJ	JJ	Degree=Pos	23	_	_	start_char=1275|end_char=1281
+25	equipment	equipment	NOUN	NN	Number=Sing	24	_	_	start_char=1282|end_char=1291|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=1291|end_char=1292|SpacesAfter=\n\n
+
+# text = The Chairman of the U.S. Joint Chiefs of Staff noted that nine countries pledged to send over 150 Leopard tans to Uraine.
+# sent_id = 10
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1294|end_char=1297
+2	Chairman	Chairman	PROPN	NNP	Number=Sing	1	_	_	start_char=1298|end_char=1306
+3	of	of	ADP	IN	_	2	_	_	start_char=1307|end_char=1309
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1310|end_char=1313
+5	U.S.	U.S.	PROPN	NNP	Number=Sing	4	_	_	start_char=1314|end_char=1318
+6	Joint	Joint	ADJ	NNP	Degree=Pos	5	_	_	start_char=1319|end_char=1324
+7	Chiefs	Chief	PROPN	NNPS	Number=Plur	6	_	_	start_char=1325|end_char=1331
+8	of	of	ADP	IN	_	7	_	_	start_char=1332|end_char=1334
+9	Staff	Staff	PROPN	NNP	Number=Sing	8	_	_	start_char=1335|end_char=1340
+10	noted	note	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=1341|end_char=1346
+11	that	that	SCONJ	IN	_	10	_	_	start_char=1347|end_char=1351
+12	nine	nine	NUM	CD	NumForm=Word|NumType=Card	11	_	_	start_char=1352|end_char=1356
+13	countries	country	NOUN	NNS	Number=Plur	12	_	_	start_char=1357|end_char=1366
+14	pledged	pledge	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	13	_	_	start_char=1367|end_char=1374
+15	to	to	PART	TO	_	14	_	_	start_char=1375|end_char=1377
+16	send	send	VERB	VB	VerbForm=Inf	15	_	_	start_char=1378|end_char=1382
+17	over	over	ADV	RB	_	16	_	_	start_char=1383|end_char=1387
+18	150	150	NUM	CD	NumForm=Digit|NumType=Card	17	_	_	start_char=1388|end_char=1391
+19	Leopard	Leopard	PROPN	NNP	Number=Sing	18	_	_	start_char=1392|end_char=1399
+20	tans	tan	NOUN	NNS	Number=Plur	19	_	_	start_char=1400|end_char=1404
+21	to	to	ADP	IN	_	20	_	_	start_char=1405|end_char=1407
+22	Uraine	Uraine	PROPN	NNP	Number=Sing	21	_	_	start_char=1408|end_char=1414|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=1414|end_char=1415
+
+# text = The Group that met today discussed air defense, regular artillery, rocet artillery, armor, and ammunition contributions.
+# sent_id = 11
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1416|end_char=1419
+2	Group	Group	PROPN	NNP	Number=Sing	1	_	_	start_char=1420|end_char=1425
+3	that	that	PRON	WDT	PronType=Rel	2	_	_	start_char=1426|end_char=1430
+4	met	meet	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=1431|end_char=1434
+5	today	today	NOUN	NN	Number=Sing	4	_	_	start_char=1435|end_char=1440
+6	discussed	discuss	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=1441|end_char=1450
+7	air	air	NOUN	NN	Number=Sing	6	_	_	start_char=1451|end_char=1454
+8	defense	defense	NOUN	NN	Number=Sing	7	_	_	start_char=1455|end_char=1462|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1462|end_char=1463
+10	regular	regular	ADJ	JJ	Degree=Pos	9	_	_	start_char=1464|end_char=1471
+11	artillery	artillery	NOUN	NN	Number=Sing	10	_	_	start_char=1472|end_char=1481|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=1481|end_char=1482
+13	rocet	rocet	NOUN	NN	Number=Sing	12	_	_	start_char=1483|end_char=1488
+14	artillery	artillery	NOUN	NN	Number=Sing	13	_	_	start_char=1489|end_char=1498|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=1498|end_char=1499
+16	armor	armor	NOUN	NN	Number=Sing	15	_	_	start_char=1500|end_char=1505|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=1505|end_char=1506
+18	and	and	CCONJ	CC	_	17	_	_	start_char=1507|end_char=1510
+19	ammunition	ammunition	NOUN	NN	Number=Sing	18	_	_	start_char=1511|end_char=1521
+20	contributions	contribution	NOUN	NNS	Number=Plur	19	_	_	start_char=1522|end_char=1535|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=1535|end_char=1536|SpacesAfter=\n\n
+
+# text = “That will be critical to Uraine's ability to continue the fight,” Milley said, noting that long range fires would challenge Russia's ability to command and control, protect, and sustain their forces.
+# sent_id = 12
+1	“	''	PUNCT	``	_	0	_	_	start_char=1538|end_char=1539|SpaceAfter=No
+2	That	that	PRON	DT	Number=Sing|PronType=Dem	1	_	_	start_char=1539|end_char=1543
+3	will	will	AUX	MD	VerbForm=Fin	2	_	_	start_char=1544|end_char=1548
+4	be	be	AUX	VB	VerbForm=Inf	3	_	_	start_char=1549|end_char=1551
+5	critical	critical	ADJ	JJ	Degree=Pos	4	_	_	start_char=1552|end_char=1560
+6	to	to	ADP	IN	_	5	_	_	start_char=1561|end_char=1563
+7-8	Uraine's	_	_	_	_	_	_	_	start_char=1564|end_char=1572
+7	Uraine	Uraine	PROPN	NNP	Number=Sing	6	_	_	start_char=1564|end_char=1570
+8	's	's	PART	POS	_	7	_	_	start_char=1570|end_char=1572
+9	ability	ability	NOUN	NN	Number=Sing	8	_	_	start_char=1573|end_char=1580
+10	to	to	PART	TO	_	9	_	_	start_char=1581|end_char=1583
+11	continue	continue	VERB	VB	VerbForm=Inf	10	_	_	start_char=1584|end_char=1592
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=1593|end_char=1596
+13	fight	fight	NOUN	NN	Number=Sing	12	_	_	start_char=1597|end_char=1602|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=1602|end_char=1603|SpaceAfter=No
+15	”	''	PUNCT	''	_	14	_	_	start_char=1603|end_char=1604
+16	Milley	Milley	PROPN	NNP	Number=Sing	15	_	_	start_char=1605|end_char=1611
+17	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	_	_	start_char=1612|end_char=1616|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=1616|end_char=1617
+19	noting	note	VERB	VBG	VerbForm=Ger	18	_	_	start_char=1618|end_char=1624
+20	that	that	SCONJ	IN	_	19	_	_	start_char=1625|end_char=1629
+21	long	long	ADJ	JJ	Degree=Pos	20	_	_	start_char=1630|end_char=1634
+22	range	range	NOUN	NN	Number=Sing	21	_	_	start_char=1635|end_char=1640
+23	fires	fire	NOUN	NNS	Number=Plur	22	_	_	start_char=1641|end_char=1646
+24	would	would	AUX	MD	VerbForm=Fin	23	_	_	start_char=1647|end_char=1652
+25	challenge	challenge	VERB	VB	VerbForm=Inf	24	_	_	start_char=1653|end_char=1662
+26-27	Russia's	_	_	_	_	_	_	_	start_char=1663|end_char=1671
+26	Russia	Russia	PROPN	NNP	Number=Sing	25	_	_	start_char=1663|end_char=1669
+27	's	's	PART	POS	_	26	_	_	start_char=1669|end_char=1671
+28	ability	ability	NOUN	NN	Number=Sing	27	_	_	start_char=1672|end_char=1679
+29	to	to	PART	TO	_	28	_	_	start_char=1680|end_char=1682
+30	command	command	VERB	VB	VerbForm=Inf	29	_	_	start_char=1683|end_char=1690
+31	and	and	CCONJ	CC	_	30	_	_	start_char=1691|end_char=1694
+32	control	control	VERB	VB	VerbForm=Inf	31	_	_	start_char=1695|end_char=1702|SpaceAfter=No
+33	,	,	PUNCT	,	_	32	_	_	start_char=1702|end_char=1703
+34	protect	protect	VERB	VB	VerbForm=Inf	33	_	_	start_char=1704|end_char=1711|SpaceAfter=No
+35	,	,	PUNCT	,	_	34	_	_	start_char=1711|end_char=1712
+36	and	and	CCONJ	CC	_	35	_	_	start_char=1713|end_char=1716
+37	sustain	sustain	VERB	VB	VerbForm=Inf	36	_	_	start_char=1717|end_char=1724
+38	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	37	_	_	start_char=1725|end_char=1730
+39	forces	force	NOUN	NNS	Number=Plur	38	_	_	start_char=1731|end_char=1737|SpaceAfter=No
+40	.	.	PUNCT	.	_	39	_	_	start_char=1737|end_char=1738|SpacesAfter=\n\n
+
+# text = As reported, the 10th meeting of the Uraine Defense Contact Group in Ramstein format was held online on Wednesday.
+# sent_id = 13
+1	As	as	SCONJ	IN	_	0	_	_	start_char=1740|end_char=1742
+2	reported	report	VERB	VBN	Tense=Past|VerbForm=Part	1	_	_	start_char=1743|end_char=1751|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=1751|end_char=1752
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1753|end_char=1756
+5	10th	10th	ADJ	JJ	Degree=Pos|NumType=Ord	4	_	_	start_char=1757|end_char=1761
+6	meeting	meeting	NOUN	NN	Number=Sing	5	_	_	start_char=1762|end_char=1769
+7	of	of	ADP	IN	_	6	_	_	start_char=1770|end_char=1772
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=1773|end_char=1776
+9	Uraine	Uraine	PROPN	NNP	Number=Sing	8	_	_	start_char=1777|end_char=1783
+10	Defense	Defense	PROPN	NNP	Number=Sing	9	_	_	start_char=1784|end_char=1791
+11	Contact	contact	PROPN	NNP	Number=Sing	10	_	_	start_char=1792|end_char=1799
+12	Group	Group	PROPN	NNP	Number=Sing	11	_	_	start_char=1800|end_char=1805
+13	in	in	ADP	IN	_	12	_	_	start_char=1806|end_char=1808
+14	Ramstein	Ramstein	PROPN	NNP	Number=Sing	13	_	_	start_char=1809|end_char=1817
+15	format	format	NOUN	NN	Number=Sing	14	_	_	start_char=1818|end_char=1824
+16	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	_	_	start_char=1825|end_char=1828
+17	held	hold	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	16	_	_	start_char=1829|end_char=1833
+18	online	online	ADV	RB	_	17	_	_	start_char=1834|end_char=1840
+19	on	on	ADP	IN	_	18	_	_	start_char=1841|end_char=1843
+20	Wednesday	Wednesday	PROPN	NNP	Number=Sing	19	_	_	start_char=1844|end_char=1853|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=1853|end_char=1854|SpaceAfter=No
+
