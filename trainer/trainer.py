@@ -14,13 +14,13 @@ class Trainer:
         self,
         model,
         cfg,
-        mode,
+        topic,
         num_classes,
         device,
     ):
         self.model = model
         self.cfg = cfg
-        self.mode = mode
+        self.topic = topic
         self.optimizer = optim.Adam(model.parameters(), lr=cfg.lr)
         self.criterion = nn.BCEWithLogitsLoss()
         self.num_classes = num_classes
@@ -31,7 +31,7 @@ class Trainer:
             wandb.init(
                 project="narrative-classification",
                 config=cfg,
-                name=f"{self.cfg.model}_{mode}_lr={str(self.cfg.lr)}",
+                name=f"{self.cfg.model}_{topic}_lr={str(self.cfg.lr)}",
             )
 
         self.scheduler = None
@@ -51,7 +51,7 @@ class Trainer:
 
     def train(self, train_loader, val_loader):
         # Train the model
-        self.model_filename = f"trained_models/{self.cfg.model}_{self.mode}_lr={str(self.cfg.lr).replace('.', '_')}_best.pt"
+        self.model_filename = f"trained_models/{self.cfg.model}_{self.topic}_lr={str(self.cfg.lr).replace('.', '_')}_best.pt"
 
         # Create the directory if it doesn't exist
         Path("trained_models").mkdir(parents=True, exist_ok=True)
@@ -95,6 +95,7 @@ class Trainer:
                 inputs, doc_names = batch[0].to(self.device), batch[1]
                 outputs = self.model(inputs)
                 outputs = torch.sigmoid(outputs).cpu().numpy()
+                print(outputs)
                 outputs = outputs > threshold
 
                 for output, doc_name in zip(outputs, doc_names):
@@ -117,17 +118,15 @@ class Trainer:
         self.accuracy.reset()
         for batch in tqdm(loader, total=len(loader)):
             # Forward pass
-            inputs, labels, sublabels = (
+            inputs, labels = (
                 batch[0].to(self.device),
                 batch[1].to(self.device),
-                batch[2].to(self.device),
             )
-            target = sublabels if self.mode == "sublabels" else labels
             output = self.model(inputs)
 
             # Compute accuracy and loss
-            self.accuracy.update(output, target)
-            loss = self.criterion(output, target)
+            self.accuracy.update(output, labels)
+            loss = self.criterion(output, labels)
 
             # Backpropagation
             if split == "train":

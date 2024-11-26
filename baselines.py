@@ -5,9 +5,11 @@ from torch.utils.data import DataLoader
 
 from models.svm import SVMModel
 from models.lstm import LSTM
+from models.hierarchical_lstm import HierarchicalLSTMClassifier
 from models.transformer import TransformerClassifier
 from datasets.dataset import NarrativeDataset
 from datasets.deepl_dataset import DeepLNarrativeDataset
+from datasets.deepl_dataset_hierarchical import HierarchicalNarrativeDataset
 from trainer.trainer import Trainer
 
 
@@ -49,6 +51,9 @@ def get_model(
     seq_len=None,
     output_dim=None,
     num_layers=None,
+    level1_classes=None,
+    level2_classes=None,
+    level3_classes=None,
 ):
     if model == "lstm":
         return LSTM(
@@ -57,6 +62,16 @@ def get_model(
             hidden_dim=512,
             output_dim=output_dim,
             num_layers=num_layers,
+        )
+    elif model == "hierarchical_lstm":
+        return HierarchicalLSTMClassifier(
+            vocab_size=vocab_size,
+            embedding_dim=embed_dim,
+            hidden_dim=512,
+            num_layers=num_layers,
+            level1_classes=level1_classes,
+            level2_classes=level2_classes,
+            level3_classes=level3_classes,
         )
     elif model == "transformer":
         return TransformerClassifier(
@@ -74,16 +89,18 @@ def get_model(
         raise ValueError(f"Model {model} not found")
 
 
-def save_predictions(predictions, output_path):
+def save_predictions(predictions_dict, output_path):
     """
     predictions is a dict following the format:
     {
-        "labels": {
-            "doc_name": [True, False, ..., False],
+        "doc_name_1": {
+            "labels": [True, False, ..., False],
+            "sublabels": [True, False, ..., False],
             ...
         },
-        "sublabels": {
-            "doc_name": [True, False, ..., False],
+        "doc_name_2": {
+            "labels": [True, False, ..., False],
+            "sublabels": [False, False, ..., True],
             ...
         }
     }
@@ -94,26 +111,31 @@ def save_predictions(predictions, output_path):
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
     with open(output_path, "w", encoding="utf-8") as f:
-        for doc_name, labels in predictions["labels"].items():
-            labels = ";".join([str(label) for label in labels])
-            sublabels = ";".join(
-                [str(label) for label in predictions["sublabels"][doc_name]]
-            )
+        for doc_name, prediction in predictions_dict.items():
+            if len(prediction["labels"]) == 1 and prediction["labels"][0] == "Other":
+                f.write(f"{doc_name}\tOther\tOther\n")
+                continue
+
+            labels = ";".join(prediction["labels"])
+            if len(prediction["sublabels"]) == 0:
+                sublabels = "Other"
+            sublabels = ";".join(prediction["sublabels"])
             f.write(f"{doc_name}\t{labels}\t{sublabels}\n")
 
 
 def baseline(args):
 
     traditional_models = ["svm"]
-    deep_learning_models = ["lstm", "transformer"]
+    deep_learning_models = ["lstm", "transformer", "hierarchical_lstm"]
 
-    def construct_dataloader(split):
+    def construct_dataloader(split, topic):
         # Load dataset
         data_paths = {
             "main": args.data_path,
             "additional": args.additional_data,
         }
-        dataset = DeepLNarrativeDataset(data_paths, split)
+        # dataset = HierarchicalNarrativeDataset(data_paths, split)
+        dataset = DeepLNarrativeDataset(data_paths, topic, split)
 
         return DataLoader(
             dataset,
@@ -122,35 +144,37 @@ def baseline(args):
             shuffle=True,
         )
 
-    # Create dataset
-    if args.model in traditional_models:
-        # Load dataset
-        dataset = NarrativeDataset(args.data_path)
-        train_data, val_data, test_data = dataset.get_dataset_splits()
-
-    elif args.model in deep_learning_models:
-        loaders = {}
-        for split in ["train", "val", "dev"]:
-            loaders[split] = construct_dataloader(split)
-            print(f"Loaded {split} dataset with {len(loaders[split].dataset)} samples")
-
     device = "cuda" if torch.cuda.is_available() else "cpu"
 
     # Train model
-    prediction_mode = ["labels", "sublabels"]
+    prediction_topic = ["CC", "UA"]
     predictions = {}
-    for mode in prediction_mode:
-        print(f"Training model for {mode}")
+    for topic in prediction_topic:
+
+        # Create dataset
+        if args.model in traditional_models:
+            dataset = NarrativeDataset(args.data_path, topic)
+            index2label = dataset.index2label
+            train_data, test_data = dataset.get_dataset_splits()
+
+        elif args.model in deep_learning_models:
+            loaders = {}
+            for split in ["train", "val", "dev"]:
+                loaders[split] = construct_dataloader(split, topic)
+                print(
+                    f"Loaded {split} dataset with {len(loaders[split].dataset)} samples"
+                )
+
+            index2label = loaders["train"].dataset.index2label
+
+        print(f"Training model for {topic}")
 
         if args.model in traditional_models:
 
             model = get_model(args.model)
 
             # Train the model
-            train_labels = train_data[1] if mode == "labels" else train_data[2]
-            val_labels = val_data[1] if mode == "labels" else val_data[2]
-
-            model.grid_search_cv(train_data[0], train_labels)
+            model.grid_search_cv(train_data[0], train_data[1])
 
             """
             if args.kfold is not None:
@@ -173,29 +197,11 @@ def baseline(args):
             # Predict on test set
             probs = model.predict_proba(test_data[0])
             probs = probs > 0.1
-
-            # Convert predictions to labels
-            predictions[mode] = {}
-            for doc_name, prediction in dict(zip(test_data[1], probs)).items():
-                if mode == "labels":
-                    predictions[mode][doc_name] = [
-                        dataset.index2label[i]
-                        for i, label in enumerate(prediction)
-                        if label
-                    ]
-                elif mode == "sublabels":
-                    predictions[mode][doc_name] = [
-                        dataset.index2sublabel[i]
-                        for i, label in enumerate(prediction)
-                        if label
-                    ]
+            model_predictions = dict(zip(test_data[1], probs))
 
         elif args.model in deep_learning_models:
-            num_classes = (
-                len(loaders["train"].dataset.sublabels)
-                if mode == "sublabels"
-                else len(loaders["train"].dataset.labels)
-            )
+            # Get number of classes
+            num_classes = loaders["train"].dataset.get_num_classes()
 
             # initialize lstm model
             model = get_model(
@@ -209,26 +215,34 @@ def baseline(args):
 
             # Train the model
             trainer = Trainer(
-                model=model, cfg=args, mode=mode, num_classes=num_classes, device=device
+                model=model,
+                cfg=args,
+                topic=topic,
+                num_classes=num_classes,
+                device=device,
             )
             trainer.train(loaders["train"], loaders["val"])
             model_predictions = trainer.predict(loaders["dev"])
 
-            # Convert predictions to labels
-            predictions[mode] = {}
-            for doc_name, prediction in model_predictions.items():
-                if mode == "labels":
-                    predictions[mode][doc_name] = [
-                        loaders["train"].dataset.index2label[i]
-                        for i, label in enumerate(prediction)
-                        if label
-                    ]
-                elif mode == "sublabels":
-                    predictions[mode][doc_name] = [
-                        loaders["train"].dataset.index2sublabel[i]
-                        for i, label in enumerate(prediction)
-                        if label
-                    ]
+        # Convert predictions to labels
+        for doc_name, prediction in model_predictions.items():
+            if topic == "CC":
+                num_labels = 11
+            elif topic == "UA":
+                num_labels = 12
+
+            predictions[doc_name] = {
+                "labels": [
+                    index2label[i]
+                    for i, label in enumerate(prediction[:num_labels])
+                    if label
+                ],
+                "sublabels": [
+                    index2label[i + num_labels]
+                    for i, label in enumerate(prediction[num_labels:])
+                    if label
+                ],
+            }
 
     # Save predictions
     save_predictions(predictions, args.output_path)

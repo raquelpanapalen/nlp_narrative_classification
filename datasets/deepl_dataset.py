@@ -1,5 +1,5 @@
 import os
-import torch
+import json
 import conllu
 import argparse
 import numpy as np
@@ -42,12 +42,15 @@ class Vocabulary:
 
 
 class DeepLNarrativeDataset(Dataset):
-    def __init__(self, data_paths, split, max_length=954):
+    def __init__(self, data_paths, topic, split, max_length=954):
         """
         data_paths is a dictionary with keys:
         - main: path to the main dataset (train, val) with subtask-2-annotations.txt
         - additional (optional): path to the additional translated train datasets
         """
+
+        assert topic in ["CC", "UA"]
+        self.topic = topic
 
         main_data_path = Path(data_paths["main"])
         self.split = split
@@ -61,16 +64,20 @@ class DeepLNarrativeDataset(Dataset):
             / main_data_path.name
             / "subtask2-deeplearning-processed-documents"
         )
-        self.dev_files = list(dev_set_path.glob("*.conllu"))
+        self.dev_files = list(dev_set_path.glob(f"*{topic}*.conllu"))
 
-        self.labels = set()
-        self.sublabels = set()
+        # Define labels from JSON file
+        narratives_path = main_data_path.parent / "labels" / "subtask2_narratives.json"
+        with open(narratives_path, "r") as f:
+            self.label2index = json.load(f)[self.topic]
+
+        self.index2label = {i: label for label, i in self.label2index.items()}
 
         main_annotations = self.read_annotations(main_annotation_path, main_files_path)
 
         # Divide the dataset into train and validation sets (main dataset)
         self.train_annotations, self.val_annotations = train_test_split(
-            main_annotations, test_size=0.2, random_state=42
+            main_annotations, test_size=0.1, random_state=42
         )
 
         # Get the additional datasets if available
@@ -84,15 +91,6 @@ class DeepLNarrativeDataset(Dataset):
                     annotation_path, files_path
                 )
                 self.train_annotations.extend(additional_annotations)
-
-        # Define dicts for labels and sublabels mapping
-        self.labels = {label: i for i, label in enumerate(self.labels)}
-        self.sublabels = {label: i for i, label in enumerate(self.sublabels)}
-
-        self.index2label = {i: label for label, i in self.labels.items()}
-        self.index2sublabel = {i: label for label, i in self.sublabels.items()}
-
-        print(self.train_annotations + self.val_annotations)
 
         # Create a vocabulary
         all_vocab_annotations = (
@@ -112,14 +110,33 @@ class DeepLNarrativeDataset(Dataset):
                 if len(parts) == 3:
                     doc_name, labels, sublabels = parts
 
-                    self.labels.update(labels.split(";"))
-                    self.sublabels.update(sublabels.split(";"))
+                    if self.topic not in doc_name:
+                        continue
+
+                    labels = set(labels.split(";"))
+                    sublabels = set(sublabels.split(";"))
+
+                    # One-hot encoding for labels + sublabels
+                    sample_labels = np.zeros(len(self.label2index))
+                    sample_labels[
+                        [
+                            self.label2index[label]
+                            for label in labels
+                            if label in self.label2index
+                        ]
+                    ] = 1
+                    sample_labels[
+                        [
+                            self.label2index[label]
+                            for label in sublabels
+                            if label in self.label2index
+                        ]
+                    ] = 1
 
                     annotations.append(
                         {
                             "doc_name": files_path / doc_name.replace("txt", "conllu"),
-                            "labels": set(labels.split(";")),
-                            "sublabels": set(sublabels.split(";")),
+                            "labels": sample_labels,
                         }
                     )
 
@@ -152,16 +169,6 @@ class DeepLNarrativeDataset(Dataset):
             if self.split == "train"
             else self.val_annotations[idx]
         )
-        sample_labels = [self.labels[label] for label in annotation["labels"]]
-        sample_sublabels = [self.sublabels[label] for label in annotation["sublabels"]]
-
-        # create one hot encoding for general labels
-        label = np.zeros(len(self.labels))
-        label[sample_labels] = 1
-
-        # create one hot encoding for fine-grained labels
-        sublabel = np.zeros(len(self.sublabels))
-        sublabel[sample_sublabels] = 1
 
         # Tokenise the data
         with open(annotation["doc_name"], "r", encoding="utf-8") as f:
@@ -172,7 +179,7 @@ class DeepLNarrativeDataset(Dataset):
 
         tokenised_data = np.array([self.train_vocab[word] for word in padded_data])
 
-        return tokenised_data, label, sublabel
+        return tokenised_data, annotation["labels"]
 
     def __getitem__(self, idx):
 
@@ -203,15 +210,16 @@ class DeepLNarrativeDataset(Dataset):
             )
         )
 
+    def get_num_classes(self):
+        return len(self.label2index)
+
     def get_index2label(self, index):
         return self.index2label[index]
-
-    def get_index2sublabel(self, index):
-        return self.index2sublabel[index]
 
 
 # Example usage
 if __name__ == "__main__":
     args = get_args()
-    dataset = DeepLNarrativeDataset(args.data_path, split="train")
+    data_paths = {"main": args.data_path, "additional": []}
+    dataset = DeepLNarrativeDataset(data_paths, topic="CC", split="train")
     dataset[0]

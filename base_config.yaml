@@ -1,6 +1,4 @@
-model: 'lstm'
+model: 'svm'
 epochs: 50
-batch_size: 8
+batch_size: 4
 lr: 1e-4
-additional-data: 
-  - 'data/BG'
