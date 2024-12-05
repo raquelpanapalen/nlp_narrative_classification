@@ -5,11 +5,11 @@ from torch.utils.data import DataLoader
 
 from models.svm import SVMModel
 from models.lstm import LSTM
-from models.hierarchical_lstm import HierarchicalLSTMClassifier
+#from models.hierarchical_lstm import HierarchicalLSTMClassifier
 from models.transformer import TransformerClassifier
 from datasets.dataset import NarrativeDataset
 from datasets.deepl_dataset import DeepLNarrativeDataset
-from datasets.deepl_dataset_hierarchical import HierarchicalNarrativeDataset
+#from datasets.deepl_dataset_hierarchical import HierarchicalNarrativeDataset
 from trainer.trainer import Trainer
 
 
