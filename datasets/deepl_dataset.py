@@ -7,11 +7,14 @@ from pathlib import Path
 from torch.utils.data import Dataset, DataLoader
 from sklearn.model_selection import train_test_split
 from collections import Counter
+from sklearn.metrics import classification_report, accuracy_score
 
 
 def get_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("-d", "--data_path", type=str, required=True)
+    # Validation split with a default value of 0.1
+    parser.add_argument("-s", "--val_split", type=float, default=0.1)
     return parser.parse_args()
 
 
@@ -42,19 +45,17 @@ class Vocabulary:
 
 
 class DeepLNarrativeDataset(Dataset):
-    def __init__(self, data_paths, topic, split, max_length=954):
+    def __init__(self, data_paths, topic, split, val_split=0.1, max_length=954):
         """
         data_paths is a dictionary with keys:
         - main: path to the main dataset (train, val) with subtask-2-annotations.txt
         - additional (optional): path to the additional translated train datasets
         """
-
         assert topic in ["CC", "UA"]
         self.topic = topic
-
-        main_data_path = Path(data_paths["main"])
         self.split = split
 
+        main_data_path = Path(data_paths["main"])
         main_files_path = main_data_path / "deeplearning-processed-documents"
         main_annotation_path = main_data_path / "subtask-2-annotations.txt"
 
@@ -65,6 +66,7 @@ class DeepLNarrativeDataset(Dataset):
             / "subtask2-deeplearning-processed-documents"
         )
         self.dev_files = list(dev_set_path.glob(f"*{topic}*.conllu"))
+        
 
         # Define labels from JSON file
         narratives_path = main_data_path.parent / "labels" / "subtask2_narratives.json"
@@ -72,7 +74,6 @@ class DeepLNarrativeDataset(Dataset):
             self.label2index = json.load(f)[self.topic]
 
         self.index2label = {i: label for label, i in self.label2index.items()}
-
         main_annotations = self.read_annotations(main_annotation_path, main_files_path)
 
         # Divide the dataset into train and validation sets (main dataset)
@@ -91,13 +92,14 @@ class DeepLNarrativeDataset(Dataset):
                     annotation_path, files_path
                 )
                 self.train_annotations.extend(additional_annotations)
-
+        
         # Create a vocabulary
         all_vocab_annotations = (
             self.train_annotations + self.val_annotations
         )  # not dev files, but otherwise yes (even though validation maybe should not be used for this)
+
         tokenised_samples = self.get_tokenised_samples(
-            annotations=all_vocab_annotations
+            annotations=self.train_annotations + self.val_annotations
         )
         self.create_vocab(tokenised_samples, unk_cutoff=2)
         self.max_length = max_length
@@ -151,7 +153,7 @@ class DeepLNarrativeDataset(Dataset):
         for annotation in annotations:
             with open(annotation["doc_name"], "r", encoding="utf-8") as f:
                 data = conllu.parse(f.read())
-
+    
             samples.extend(token["form"] for sentence in data for token in sentence)
         return samples
 
@@ -160,7 +162,7 @@ class DeepLNarrativeDataset(Dataset):
         if len(sequence) < self.max_length:
             padded_sequence = ["<s>"] * (self.max_length - len(sequence)) + sequence
         else:
-            padded_sequence = sequence[: self.max_length]
+            padded_sequence = sequence[:self.max_length]
         return padded_sequence
 
     def get_train_val_item(self, idx):
@@ -173,19 +175,18 @@ class DeepLNarrativeDataset(Dataset):
         # Tokenise the data
         with open(annotation["doc_name"], "r", encoding="utf-8") as f:
             data = conllu.parse(f.read())
-
-        conllu_data = [token["form"] for sentence in data for token in sentence]
+        
+        conllu_data = [token["form"] for sentence in data for token in sentence]        
         padded_data = self.pad_sequence(conllu_data)
-
         tokenised_data = np.array([self.train_vocab[word] for word in padded_data])
-
+        
         return tokenised_data, annotation["labels"]
 
     def __getitem__(self, idx):
 
         if self.split in ["train", "val"]:
             return self.get_train_val_item(idx)
-
+        
         elif self.split == "dev":
             conllu_file = self.dev_files[idx]
 
@@ -200,26 +201,30 @@ class DeepLNarrativeDataset(Dataset):
             return tokenised_data, f"{conllu_file.stem}.txt"
 
     def __len__(self):
-        return (
-            len(self.train_annotations)
-            if self.split == "train"
-            else (
-                len(self.val_annotations)
-                if self.split == "val"
-                else len(self.dev_files)
-            )
-        )
+        if self.split == "train":
+            return len(self.train_annotations)
+        elif self.split == "val":
+            return len(self.val_annotations)
+        elif self.split == "dev":
+            return len(self.dev_files)
+        else:
+            raise ValueError(f"Invalid split type: {self.split}")
 
     def get_num_classes(self):
         return len(self.label2index)
 
     def get_index2label(self, index):
         return self.index2label[index]
+    
+def evaluate_baseline(y_true, y_pred, index2label):
+    print("\nClassification Report:")
+    print(classification_report(y_true, y_pred, target_names=index2label.values()))
+    print("\nAccuracy:", accuracy_score(y_true, y_pred))
 
 
 # Example usage
 if __name__ == "__main__":
     args = get_args()
     data_paths = {"main": args.data_path, "additional": []}
-    dataset = DeepLNarrativeDataset(data_paths, topic="CC", split="train")
+    dataset = DeepLNarrativeDataset(data_paths, topic="CC", split="train", val_split=args.val_split)
     dataset[0]

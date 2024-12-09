@@ -5,12 +5,14 @@ from torch.utils.data import DataLoader
 
 from models.svm import SVMModel
 from models.lstm import LSTM
-from models.hierarchical_lstm import HierarchicalLSTMClassifier
+#from models.hierarchical_lstm import HierarchicalLSTMClassifier
 from models.transformer import TransformerClassifier
 from datasets.dataset import NarrativeDataset
 from datasets.deepl_dataset import DeepLNarrativeDataset
-from datasets.deepl_dataset_hierarchical import HierarchicalNarrativeDataset
+#from datasets.deepl_dataset_hierarchical import HierarchicalNarrativeDataset
 from trainer.trainer import Trainer
+from sklearn.metrics import classification_report, accuracy_score
+from sklearn.preprocessing import MultiLabelBinarizer
 
 
 def get_args():
@@ -40,6 +42,10 @@ def get_args():
     parser.add_argument("--additional-data", nargs="+", default=[])
     parser.add_argument(
         "-o", "--output-path", type=str, default="predictions/predictions.txt"
+    )
+    parser.add_argument("-s", "--val_split", type=float, default=0.1)
+    parser.add_argument(
+        "--classification-report-path", type=str, default="predictions/classification_report.txt"
     )
     return parser.parse_args()
 
@@ -123,6 +129,24 @@ def save_predictions(predictions_dict, output_path):
             f.write(f"{doc_name}\t{labels}\t{sublabels}\n")
 
 
+def save_classification_report(y_true, y_pred, index2label, report_path):
+    # Convert to binary matrix
+    mlb = MultiLabelBinarizer(classes=list(index2label.keys()))
+    y_true_bin = mlb.fit_transform(y_true)
+    y_pred_bin = mlb.transform(y_pred)
+
+    # Generate the report
+    report = classification_report(
+        y_true_bin, y_pred_bin, target_names=index2label.values()
+    )
+    accuracy = accuracy_score(y_true_bin, y_pred_bin)
+
+    # Save the report
+    with open(report_path, "w", encoding="utf-8") as f:
+        f.write("Classification Report:\n")
+        f.write(report)
+        f.write("\nAccuracy: {}\n".format(accuracy))
+
 def baseline(args):
 
     traditional_models = ["svm"]
@@ -135,7 +159,7 @@ def baseline(args):
             "additional": args.additional_data,
         }
         # dataset = HierarchicalNarrativeDataset(data_paths, split)
-        dataset = DeepLNarrativeDataset(data_paths, topic, split)
+        dataset = DeepLNarrativeDataset(data_paths, topic, split,val_split=args.val_split)
 
         return DataLoader(
             dataset,
@@ -149,13 +173,16 @@ def baseline(args):
     # Train model
     prediction_topic = ["CC", "UA"]
     predictions = {}
+    y_true = []  # For storing true labels for classification report
+    y_pred = []  # For storing predicted labels
+
     for topic in prediction_topic:
 
         # Create dataset
         if args.model in traditional_models:
             dataset = NarrativeDataset(args.data_path, topic)
             index2label = dataset.index2label
-            train_data, test_data = dataset.get_dataset_splits()
+            train_data, val_data, test_data = dataset.get_dataset_splits(val_size=args.val_split)
 
         elif args.model in deep_learning_models:
             loaders = {}
@@ -213,7 +240,6 @@ def baseline(args):
                 num_layers=1,
             )
 
-            # Train the model
             trainer = Trainer(
                 model=model,
                 cfg=args,
@@ -244,8 +270,15 @@ def baseline(args):
                 ],
             }
 
+            # Collect true labels and predicted labels for classification report
+            y_true.append(prediction[:num_labels])
+            y_pred.append([1 if label in prediction[:num_labels] else 0 for label in range(num_labels)])
+
     # Save predictions
     save_predictions(predictions, args.output_path)
+
+    # Save classification report to file
+    save_classification_report(y_true, y_pred, index2label, args.classification_report_path)
 
 
 if __name__ == "__main__":

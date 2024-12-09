@@ -115,16 +115,20 @@ class NarrativeDataset:
 
     def get_dataset_splits(self, val_size=0.1):
         samples, labels = self.get_traditional_samples()
-        """(train_samples, val_samples, train_labels, val_labels) = train_test_split(
+        
+        # split the data into train and validation sets using the fixed val_size
+        train_samples, val_samples, train_labels, val_labels = train_test_split(
             samples, labels, test_size=val_size
-        )"""
+        )
 
         test_samples, doc_names = self.get_dev_samples()
 
         return (
-            (samples, labels),
+            (train_samples, train_labels),
+            (val_samples, val_labels),
             (test_samples, doc_names),
         )
+
 
     def get_index2label(self, index):
         return self.index2label[index]

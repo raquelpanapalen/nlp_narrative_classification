@@ -4,7 +4,7 @@ from pathlib import Path
 import torch
 import torch.nn as nn
 import torch.optim as optim
-from torchmetrics.classification import MultilabelAccuracy
+from torchmetrics.classification import MultilabelAccuracy, MultilabelPrecision, MultilabelRecall, MultilabelF1Score
 
 from .scheduler import ChainedScheduler
 
@@ -24,8 +24,13 @@ class Trainer:
         self.optimizer = optim.Adam(model.parameters(), lr=cfg.lr)
         self.criterion = nn.BCEWithLogitsLoss()
         self.num_classes = num_classes
-        self.accuracy = MultilabelAccuracy(num_labels=num_classes).to(device)
         self.device = device
+
+        # Metrics
+        self.accuracy = MultilabelAccuracy(num_labels=num_classes).to(device)
+        self.precision = MultilabelPrecision(num_labels=num_classes).to(device)
+        self.recall = MultilabelRecall(num_labels=num_classes).to(device)
+        self.f1_score = MultilabelF1Score(num_labels=num_classes).to(device)
 
         if cfg.wandb:
             wandb.init(
@@ -103,11 +108,14 @@ class Trainer:
 
         return predictions
 
-    def metrics_to_wandb(self, split, loss, accuracy, loader_len, epoch=None):
+    def metrics_to_wandb(self, split, loss, accuracy, precision, recall, f1, loader_len, epoch=None):
         wandb.log(
             {
                 f"{split}/loss": loss / loader_len,
                 f"{split}/accuracy": accuracy,
+                f"{split}/precision": precision,
+                f"{split}/recall": recall,
+                f"{split}/f1_score": f1,
             },
             step=epoch,
         )
@@ -116,6 +124,10 @@ class Trainer:
         # Reset metrics
         total_loss = 0
         self.accuracy.reset()
+        self.precision.reset()
+        self.recall.reset()
+        self.f1_score.reset()
+
         for batch in tqdm(loader, total=len(loader)):
             # Forward pass
             inputs, labels = (
@@ -124,8 +136,11 @@ class Trainer:
             )
             output = self.model(inputs)
 
-            # Compute accuracy and loss
+            # Compute metrics
             self.accuracy.update(output, labels)
+            self.precision.update(output, labels)
+            self.recall.update(output, labels)
+            self.f1_score.update(output, labels)
             loss = self.criterion(output, labels)
 
             # Backpropagation
@@ -136,11 +151,17 @@ class Trainer:
 
             total_loss += loss.item()
 
+        # Calculate metrics
+        accuracy = self.accuracy.compute()
+        precision = self.precision.compute()
+        recall = self.recall.compute()
+        f1 = self.f1_score.compute()
+
         if self.cfg.wandb:
             self.metrics_to_wandb(
-                split, total_loss, self.accuracy.compute(), len(loader), epoch
+                split, total_loss, accuracy, precision, recall, f1, len(loader), epoch
             )
         print(
-            f"[{split.upper()} {epoch}]: Loss: {total_loss / len(loader)}, Accuracy: {self.accuracy.compute()}"
+            f"[{split.upper()} {epoch}]: Loss: {total_loss / len(loader)}, Accuracy: {accuracy}, Precision: {precision}, Recall: {recall}, F1-score: {f1}"
         )
         return total_loss
