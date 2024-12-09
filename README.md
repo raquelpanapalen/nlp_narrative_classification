@@ -58,7 +58,7 @@ To translate  data, follow these steps:
 
 ## Data Preprocessing
 
-Scripts `preprocessing.py`, `preprocessing_bg.py`, etc.  prepares data for further analysis or modeling by applying transformations such as text normalization, tokenization, and filtering irrelevant information.
+Scripts `preprocessing.py`, `preprocessing_bg.py`, etc. from [preprocessing](preprocessing) prepares data for further analysis or modeling by applying transformations such as text normalization, tokenization, and filtering irrelevant information.
 
 For preprocessing the Hindi-translated texts, the script `preprocessing_hindi.py` is used to clean and process the content before further analysis. This, again, includes tasks like removing unwanted stopwords (including custom stopwords for HI translated text), punctuation, and performing tokenization using Stanza's NLP pipeline.
 
@@ -78,7 +78,7 @@ To run the scripts:
 - **`--remove-punctuation`**: Removes punctuation, which is often unnecessary for text processing.
 - **`--lower-text`**: Converts all text to lowercase to ensure uniform formatting, beneficial for case-insensitive analysis.
   
-The traditional-processed-documents folder contains text files preprocessed for traditional models with stopwords,punctuation removed, etc. , while the deeplearning-processed-documents folder contains the original text files retained for deep learning model input
+The traditional-processed-documents folder contains text files preprocessed for traditional models with stopwords,vpunctuation removed, etc. , while the deeplearning-processed-documents folder contains the original text files retained for deep learning model input
 
 
 ## Baseline Results
@@ -94,3 +94,11 @@ Our baseline results for English - Subtask 2 from the SemEval 2025 leaderboard a
 | 5    | Basic Transformer       | 0.22300         | 0.21100             | 0.16000       | 0.20700           |
 
 These results provide a benchmark for evaluating the performance of narrative classification models on the given dataset.
+
+### Estimation of results:
+
+The **LSTM** model performed the best, with the highest F1 macro coarse (0.194) and fine (0.268) scores, though its fine-grained performance showed variability. 
+
+The additional data from the EN+HI (translated) and EN+BG (translated) models did not significantly improve performance due to the unbalanced nature of the dataset across languages (comparison in [data_comparison.ipynb](notebooks/data_comparison.ipynb)). The dataset includes varying amounts of data for each language, which can lead to biased model training. As a result, the models struggle with fine-grained classification tasks, particularly for less-represented languages. This imbalance hinders the generalization of the model, affecting its ability to perform consistently across different language domains.
+
+The **SVM** and **Basic Transformer** models ranked lower, with the Transformer showing the weakest fine-grained performance.
