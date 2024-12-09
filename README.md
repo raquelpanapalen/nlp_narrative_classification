@@ -89,7 +89,8 @@ Our baseline results for English - Subtask 2 from the SemEval 2025 leaderboard a
 |------|-------------------------|-----------------|---------------------|---------------|-------------------|
 | 1    | LSTM                    | 0.19400         | 0.21300             | 0.26800       | 0.44300           |
 | 2    | LSTM EN+BG (translated) | 0.20900         | 0.23100             | 0.19400       | 0.36100           |
-| 3    | SVM                     | 0.22400         | 0.25000             | 0.19900       | 0.32000           |
-| 4    | Basic Transformer       | 0.22300         | 0.21100             | 0.16000       | 0.20700           |
+| 3    | LSTM EN+HI (translated) | 0.22600	       | 0.27600	         | 0.06700	     | 0.18100           |
+| 4    | SVM                     | 0.22400         | 0.25000             | 0.19900       | 0.32000           |
+| 5    | Basic Transformer       | 0.22300         | 0.21100             | 0.16000       | 0.20700           |
 
 These results provide a benchmark for evaluating the performance of narrative classification models on the given dataset.
