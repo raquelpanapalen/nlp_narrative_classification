@@ -1,4 +1,5 @@
-model: 'svm'
+model: 'transformer'
 epochs: 50
 batch_size: 4
-lr: 1e-4
+lr: 1e-5
+val_split: 0.3
