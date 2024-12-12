@@ -1,5 +1,6 @@
 import os
 import json
+import torch
 import conllu
 import argparse
 import numpy as np
@@ -8,6 +9,7 @@ from torch.utils.data import Dataset, DataLoader
 from sklearn.model_selection import train_test_split
 from collections import Counter
 from sklearn.metrics import classification_report, accuracy_score
+from sklearn.preprocessing import MultiLabelBinarizer
 
 
 def get_args():
@@ -66,7 +68,6 @@ class DeepLNarrativeDataset(Dataset):
             / "subtask2-deeplearning-processed-documents"
         )
         self.dev_files = list(dev_set_path.glob(f"*{topic}*.conllu"))
-        
 
         # Define labels from JSON file
         narratives_path = main_data_path.parent / "labels" / "subtask2_narratives.json"
@@ -78,8 +79,14 @@ class DeepLNarrativeDataset(Dataset):
 
         # Divide the dataset into train and validation sets (main dataset)
         self.train_annotations, self.val_annotations = train_test_split(
-            main_annotations, test_size=0.1, random_state=42
+            main_annotations, test_size=val_split, random_state=42
         )
+
+        labels = np.array(
+            [annotation["labels"] for annotation in self.train_annotations]
+        )
+
+        self.class_weights = self.compute_multilabel_weights(labels, method="balanced")
 
         # Get the additional datasets if available
         if "additional" in data_paths:
@@ -92,7 +99,7 @@ class DeepLNarrativeDataset(Dataset):
                     annotation_path, files_path
                 )
                 self.train_annotations.extend(additional_annotations)
-        
+
         # Create a vocabulary
         all_vocab_annotations = (
             self.train_annotations + self.val_annotations
@@ -153,7 +160,7 @@ class DeepLNarrativeDataset(Dataset):
         for annotation in annotations:
             with open(annotation["doc_name"], "r", encoding="utf-8") as f:
                 data = conllu.parse(f.read())
-    
+
             samples.extend(token["form"] for sentence in data for token in sentence)
         return samples
 
@@ -162,7 +169,7 @@ class DeepLNarrativeDataset(Dataset):
         if len(sequence) < self.max_length:
             padded_sequence = ["<s>"] * (self.max_length - len(sequence)) + sequence
         else:
-            padded_sequence = sequence[:self.max_length]
+            padded_sequence = sequence[: self.max_length]
         return padded_sequence
 
     def get_train_val_item(self, idx):
@@ -175,18 +182,22 @@ class DeepLNarrativeDataset(Dataset):
         # Tokenise the data
         with open(annotation["doc_name"], "r", encoding="utf-8") as f:
             data = conllu.parse(f.read())
-        
-        conllu_data = [token["form"] for sentence in data for token in sentence]        
+
+        conllu_data = [token["form"] for sentence in data for token in sentence]
         padded_data = self.pad_sequence(conllu_data)
         tokenised_data = np.array([self.train_vocab[word] for word in padded_data])
-        
-        return tokenised_data, annotation["labels"]
+
+        return (
+            tokenised_data,
+            annotation["labels"],
+            f"{annotation['doc_name'].stem}.txt",
+        )
 
     def __getitem__(self, idx):
 
         if self.split in ["train", "val"]:
             return self.get_train_val_item(idx)
-        
+
         elif self.split == "dev":
             conllu_file = self.dev_files[idx]
 
@@ -215,7 +226,81 @@ class DeepLNarrativeDataset(Dataset):
 
     def get_index2label(self, index):
         return self.index2label[index]
-    
+
+    def compute_multilabel_weights(
+        self, labels, method="balanced", beta=0.99, smoothing=0.5
+    ):
+        """
+        Compute class weights for multi-label classification.
+
+        Parameters:
+        labels: List[List[int]] or List[List[str]]
+            List of label lists, where each inner list contains the labels for one sample
+        method: str
+            'balanced': inverse of class frequency
+            'effective_samples': based on effective number of samples (with beta parameter)
+        beta: float
+            Parameter for effective samples method (default: 0.99)
+
+        Returns:
+        torch.Tensor: Class weights tensor
+        """
+
+        # Convert labels to binary matrix if not already
+        if not isinstance(labels[0], np.ndarray):
+            mlb = MultiLabelBinarizer()
+            labels = mlb.fit_transform(labels)
+
+        # Get number of samples per class
+        n_samples = len(labels)
+        class_counts = np.sum(labels, axis=0)
+        n_classes = len(class_counts)
+
+        if method == "balanced":
+            # Compute inverse of class frequency
+            raw_weights = n_samples / (n_classes * (class_counts + 1))
+
+        elif method == "effective_samples":
+            # Effective number of samples based on paper:
+            # "Class-Balanced Loss Based on Effective Number of Samples"
+            # https://arxiv.org/abs/1901.05555
+            raw_weights = (1 - beta) / (1 - beta ** (class_counts + 1))
+
+        else:
+            raise ValueError(f"Unknown weighting method: {method}")
+
+        # Apply smoothing between uniform weights and computed weights
+        uniform_weights = np.ones_like(raw_weights)
+        weights = (1 - smoothing) * uniform_weights + smoothing * raw_weights
+
+        # Normalize weights so their sum equals 1
+        weights = weights / np.sum(weights)
+
+        return torch.FloatTensor(weights)
+
+    def get_sample_weights(self, labels, class_weights):
+        """
+        Compute sample weights based on their labels and class weights.
+
+        Parameters:
+        labels: np.ndarray
+            Binary label matrix (n_samples, n_classes)
+        class_weights: torch.Tensor
+            Class weights tensor (n_classes,)
+
+        Returns:
+        torch.Tensor: Sample weights tensor
+        """
+        # Convert class_weights to numpy if needed
+        if isinstance(class_weights, torch.Tensor):
+            class_weights = class_weights.numpy()
+
+        # Compute sample weights as mean of class weights for positive labels
+        sample_weights = np.sum(labels * class_weights, axis=1) / np.sum(labels, axis=1)
+
+        return torch.FloatTensor(sample_weights)
+
+
 def evaluate_baseline(y_true, y_pred, index2label):
     print("\nClassification Report:")
     print(classification_report(y_true, y_pred, target_names=index2label.values()))
@@ -226,5 +311,7 @@ def evaluate_baseline(y_true, y_pred, index2label):
 if __name__ == "__main__":
     args = get_args()
     data_paths = {"main": args.data_path, "additional": []}
-    dataset = DeepLNarrativeDataset(data_paths, topic="CC", split="train", val_split=args.val_split)
+    dataset = DeepLNarrativeDataset(
+        data_paths, topic="CC", split="train", val_split=args.val_split
+    )
     dataset[0]

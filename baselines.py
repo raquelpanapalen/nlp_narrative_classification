@@ -1,17 +1,25 @@
 import configargparse
 from pathlib import Path
 import torch
+import json
 from torch.utils.data import DataLoader
 
 from models.svm import SVMModel
 from models.lstm import LSTM
-#from models.hierarchical_lstm import HierarchicalLSTMClassifier
+
+# from models.hierarchical_lstm import HierarchicalLSTMClassifier
 from models.transformer import TransformerClassifier
 from datasets.dataset import NarrativeDataset
 from datasets.deepl_dataset import DeepLNarrativeDataset
-#from datasets.deepl_dataset_hierarchical import HierarchicalNarrativeDataset
+
+# from datasets.deepl_dataset_hierarchical import HierarchicalNarrativeDataset
 from trainer.trainer import Trainer
-from sklearn.metrics import classification_report, accuracy_score
+from sklearn.metrics import (
+    classification_report,
+    accuracy_score,
+    f1_score,
+    multilabel_confusion_matrix,
+)
 from sklearn.preprocessing import MultiLabelBinarizer
 
 
@@ -45,8 +53,12 @@ def get_args():
     )
     parser.add_argument("-s", "--val_split", type=float, default=0.1)
     parser.add_argument(
-        "--classification-report-path", type=str, default="predictions/classification_report.txt"
+        "-r",
+        "--classification-report-path",
+        type=str,
+        default="predictions/classification_report.txt",
     )
+    parser.add_argument("--compute-dev", type=str2bool, default=False)
     return parser.parse_args()
 
 
@@ -70,7 +82,8 @@ def get_model(
             num_layers=num_layers,
         )
     elif model == "hierarchical_lstm":
-        return HierarchicalLSTMClassifier(
+        pass
+        """return HierarchicalLSTMClassifier(
             vocab_size=vocab_size,
             embedding_dim=embed_dim,
             hidden_dim=512,
@@ -78,7 +91,7 @@ def get_model(
             level1_classes=level1_classes,
             level2_classes=level2_classes,
             level3_classes=level3_classes,
-        )
+        )"""
     elif model == "transformer":
         return TransformerClassifier(
             vocab_size=vocab_size,
@@ -130,22 +143,48 @@ def save_predictions(predictions_dict, output_path):
 
 
 def save_classification_report(y_true, y_pred, index2label, report_path):
-    # Convert to binary matrix
+    """# Convert to binary matrix
     mlb = MultiLabelBinarizer(classes=list(index2label.keys()))
     y_true_bin = mlb.fit_transform(y_true)
-    y_pred_bin = mlb.transform(y_pred)
+    y_pred_bin = mlb.transform(y_pred)"""
 
     # Generate the report
-    report = classification_report(
-        y_true_bin, y_pred_bin, target_names=index2label.values()
-    )
-    accuracy = accuracy_score(y_true_bin, y_pred_bin)
+    report = classification_report(y_true, y_pred, target_names=index2label.values())
+    accuracy = accuracy_score(y_true, y_pred)
+    f1 = f1_score(y_true, y_pred, average="weighted")
+
+    # Compute Multi-Label Confusion Matrix
+    confusion_matrices = multilabel_confusion_matrix(y_true, y_pred)
+
+    # Pretty Print Function
+    def format_confusion_matrix(cm):
+        """
+        Format a confusion matrix as a pretty string.
+        cm: Confusion matrix (2x2 for one label)
+        Returns a formatted string.
+        """
+        tn, fp, fn, tp = cm.ravel()
+        return (
+            f"\nConfusion Matrix:\n"
+            f"True Negative (TN): {tn}\n"
+            f"False Positive (FP): {fp}\n"
+            f"False Negative (FN): {fn}\n"
+            f"True Positive (TP): {tp}\n"
+        )
+
+    # Create Pretty String for All Labels
+    output = ""
+    for i, cm in enumerate(confusion_matrices):
+        output += f"{index2label[i]}: {format_confusion_matrix(cm)}\n"
 
     # Save the report
     with open(report_path, "w", encoding="utf-8") as f:
         f.write("Classification Report:\n")
         f.write(report)
         f.write("\nAccuracy: {}\n".format(accuracy))
+        f.write("F1 Score: {}\n".format(f1))
+        f.write(output)
+
 
 def baseline(args):
 
@@ -159,7 +198,9 @@ def baseline(args):
             "additional": args.additional_data,
         }
         # dataset = HierarchicalNarrativeDataset(data_paths, split)
-        dataset = DeepLNarrativeDataset(data_paths, topic, split,val_split=args.val_split)
+        dataset = DeepLNarrativeDataset(
+            data_paths, topic, split, val_split=args.val_split
+        )
 
         return DataLoader(
             dataset,
@@ -173,16 +214,19 @@ def baseline(args):
     # Train model
     prediction_topic = ["CC", "UA"]
     predictions = {}
-    y_true = []  # For storing true labels for classification report
-    y_pred = []  # For storing predicted labels
 
     for topic in prediction_topic:
+
+        y_true = []  # For storing true labels for classification report
+        y_pred = []  # For storing predicted labels for classification report
 
         # Create dataset
         if args.model in traditional_models:
             dataset = NarrativeDataset(args.data_path, topic)
             index2label = dataset.index2label
-            train_data, val_data, test_data = dataset.get_dataset_splits(val_size=args.val_split)
+            train_data, val_data, test_data = dataset.get_dataset_splits(
+                val_size=args.val_split
+            )
 
         elif args.model in deep_learning_models:
             loaders = {}
@@ -193,6 +237,7 @@ def baseline(args):
                 )
 
             index2label = loaders["train"].dataset.index2label
+            class_weights = loaders["train"].dataset.class_weights
 
         print(f"Training model for {topic}")
 
@@ -221,10 +266,26 @@ def baseline(args):
             
             """
 
-            # Predict on test set
-            probs = model.predict_proba(test_data[0])
-            probs = probs > 0.1
-            model_predictions = dict(zip(test_data[1], probs))
+            probs = model.predict_proba(val_data[0])
+            probs = probs > 0.2
+            model_evaluator = {}
+            for i, doc_name in enumerate(val_data[2]):
+                y_true.append(val_data[1][i])
+                y_pred.append([1 if x else 0 for x in probs[i]])
+                model_evaluator[doc_name] = {
+                    "output": [index2label[i] for i, x in enumerate(probs[i]) if x],
+                    "labels": [
+                        index2label[i]
+                        for i, x in enumerate(val_data[1][i].tolist())
+                        if x
+                    ],
+                }
+
+            if args.compute_dev:
+                # Predict on test set
+                probs = model.predict_proba(test_data[0])
+                probs = probs > 0.1
+                model_predictions = dict(zip(test_data[1], probs))
 
         elif args.model in deep_learning_models:
             # Get number of classes
@@ -246,39 +307,65 @@ def baseline(args):
                 topic=topic,
                 num_classes=num_classes,
                 device=device,
+                class_weights=None,
             )
             trainer.train(loaders["train"], loaders["val"])
-            model_predictions = trainer.predict(loaders["dev"])
+            if args.compute_dev:
+                model_predictions = trainer.predict(
+                    loaders["dev"]
+                )  # To upload predictions for competition use loaders["dev"]
+            results = trainer.evaluate(loaders["val"])
+            model_evaluator = {}
+            for doc_name, prediction in results.items():
+                y_true.append(prediction["labels"])
+                y_pred.append([1 if x else 0 for x in prediction["output"]])
+                model_evaluator[doc_name] = {
+                    "output": [
+                        index2label[i] for i, x in enumerate(prediction["output"]) if x
+                    ],
+                    "labels": [
+                        index2label[i] for i, x in enumerate(prediction["labels"]) if x
+                    ],
+                }
 
         # Convert predictions to labels
-        for doc_name, prediction in model_predictions.items():
-            if topic == "CC":
-                num_labels = 11
-            elif topic == "UA":
-                num_labels = 12
+        if args.compute_dev:
+            for doc_name, prediction in model_predictions.items():
+                if topic == "CC":
+                    num_labels = 11
+                elif topic == "UA":
+                    num_labels = 12
 
-            predictions[doc_name] = {
-                "labels": [
-                    index2label[i]
-                    for i, label in enumerate(prediction[:num_labels])
-                    if label
-                ],
-                "sublabels": [
-                    index2label[i + num_labels]
-                    for i, label in enumerate(prediction[num_labels:])
-                    if label
-                ],
-            }
+                predictions[doc_name] = {
+                    "labels": [
+                        index2label[i]
+                        for i, label in enumerate(prediction[:num_labels])
+                        if label
+                    ],
+                    "sublabels": [
+                        index2label[i + num_labels]
+                        for i, label in enumerate(prediction[num_labels:])
+                        if label
+                    ],
+                }
 
-            # Collect true labels and predicted labels for classification report
-            y_true.append(prediction[:num_labels])
-            y_pred.append([1 if label in prediction[:num_labels] else 0 for label in range(num_labels)])
+        # Save classification report to file
+        save_classification_report(
+            y_true,
+            y_pred,
+            index2label,
+            args.classification_report_path.replace(".txt", f"_{topic}.txt"),
+        )
+
+        # Save validation metrics to file
+        with open(
+            args.classification_report_path.replace(".txt", f"_{topic}.json"), "w"
+        ) as f:
+            json.dump(model_evaluator, f, sort_keys=True, indent=4)
 
     # Save predictions
-    save_predictions(predictions, args.output_path)
-
-    # Save classification report to file
-    save_classification_report(y_true, y_pred, index2label, args.classification_report_path)
+    if args.compute_dev:
+        save_predictions(predictions, args.output_path)
 
 
 if __name__ == "__main__":

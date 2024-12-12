@@ -4,7 +4,12 @@ from pathlib import Path
 import torch
 import torch.nn as nn
 import torch.optim as optim
-from torchmetrics.classification import MultilabelAccuracy, MultilabelPrecision, MultilabelRecall, MultilabelF1Score
+from torchmetrics.classification import (
+    MultilabelAccuracy,
+    MultilabelPrecision,
+    MultilabelRecall,
+    MultilabelF1Score,
+)
 
 from .scheduler import ChainedScheduler
 
@@ -17,20 +22,33 @@ class Trainer:
         topic,
         num_classes,
         device,
+        class_weights=None,
     ):
         self.model = model
         self.cfg = cfg
         self.topic = topic
         self.optimizer = optim.Adam(model.parameters(), lr=cfg.lr)
-        self.criterion = nn.BCEWithLogitsLoss()
+        class_weights = None if class_weights is None else class_weights.to(device)
+        self.criterion = nn.BCEWithLogitsLoss(pos_weight=class_weights)
         self.num_classes = num_classes
         self.device = device
+        self.threshold = 0.22
 
         # Metrics
-        self.accuracy = MultilabelAccuracy(num_labels=num_classes).to(device)
-        self.precision = MultilabelPrecision(num_labels=num_classes).to(device)
-        self.recall = MultilabelRecall(num_labels=num_classes).to(device)
-        self.f1_score = MultilabelF1Score(num_labels=num_classes).to(device)
+        self.metrics = {
+            "accuracy": MultilabelAccuracy(
+                num_labels=num_classes, threshold=self.threshold, average="weighted"
+            ).to(device),
+            "precision": MultilabelPrecision(
+                num_labels=num_classes, threshold=self.threshold, average="weighted"
+            ).to(device),
+            "recall": MultilabelRecall(
+                num_labels=num_classes, threshold=self.threshold, average="weighted"
+            ).to(device),
+            "f1_score": MultilabelF1Score(
+                num_labels=num_classes, threshold=self.threshold, average="weighted"
+            ).to(device),
+        }
 
         if cfg.wandb:
             wandb.init(
@@ -89,7 +107,40 @@ class Trainer:
             self.model.state_dict(), self.model_filename.replace("best", "lastepoch")
         )
 
-    def predict(self, test_loader, threshold=0.1):
+    def evaluate(self, val_loader):
+        self.model.load_state_dict(torch.load(self.model_filename))
+        self.model.eval()
+
+        predictions = {}
+        with torch.no_grad():
+            for batch in val_loader:
+                inputs, labels, doc_names = (
+                    batch[0].to(self.device),
+                    batch[1].to(self.device),
+                    batch[2],
+                )
+                outputs = self.model(inputs)
+                outputs = torch.sigmoid(outputs)
+
+                print(outputs, labels)
+
+                outputs = outputs > self.threshold
+
+                for output, label, doc_name in zip(outputs, labels, doc_names):
+                    predictions[doc_name] = {
+                        "output": [
+                            1 if x else 0 for x in output.cpu().numpy().tolist()
+                        ],
+                        "labels": label.cpu().numpy().tolist(),
+                        "metrics": {
+                            name: metric(output.unsqueeze(0), label.unsqueeze(0)).item()
+                            for name, metric in self.metrics.items()
+                        },
+                    }
+
+        return predictions
+
+    def predict(self, test_loader):
         self.model.load_state_dict(torch.load(self.model_filename))
         self.model.eval()
 
@@ -100,33 +151,23 @@ class Trainer:
                 inputs, doc_names = batch[0].to(self.device), batch[1]
                 outputs = self.model(inputs)
                 outputs = torch.sigmoid(outputs).cpu().numpy()
-                print(outputs)
-                outputs = outputs > threshold
+                outputs = outputs > self.threshold
 
                 for output, doc_name in zip(outputs, doc_names):
                     predictions[doc_name] = output
 
         return predictions
 
-    def metrics_to_wandb(self, split, loss, accuracy, precision, recall, f1, loader_len, epoch=None):
-        wandb.log(
-            {
-                f"{split}/loss": loss / loader_len,
-                f"{split}/accuracy": accuracy,
-                f"{split}/precision": precision,
-                f"{split}/recall": recall,
-                f"{split}/f1_score": f1,
-            },
-            step=epoch,
-        )
+    def metrics_to_wandb(self, split, loss, results, loader_len, epoch=None):
+        out = {f"{split}/{metric}": results[metric] for metric in results}
+        out[f"{split}/loss"] = loss / loader_len
+        wandb.log(out, step=epoch)
 
     def train_validate_epoch(self, loader, epoch, split):
         # Reset metrics
         total_loss = 0
-        self.accuracy.reset()
-        self.precision.reset()
-        self.recall.reset()
-        self.f1_score.reset()
+        for metric in self.metrics.values():
+            metric.reset()
 
         for batch in tqdm(loader, total=len(loader)):
             # Forward pass
@@ -137,10 +178,8 @@ class Trainer:
             output = self.model(inputs)
 
             # Compute metrics
-            self.accuracy.update(output, labels)
-            self.precision.update(output, labels)
-            self.recall.update(output, labels)
-            self.f1_score.update(output, labels)
+            for metric in self.metrics.values():
+                metric.update(output, labels)
             loss = self.criterion(output, labels)
 
             # Backpropagation
@@ -152,16 +191,13 @@ class Trainer:
             total_loss += loss.item()
 
         # Calculate metrics
-        accuracy = self.accuracy.compute()
-        precision = self.precision.compute()
-        recall = self.recall.compute()
-        f1 = self.f1_score.compute()
+        results = {metric: self.metrics[metric].compute() for metric in self.metrics}
 
         if self.cfg.wandb:
-            self.metrics_to_wandb(
-                split, total_loss, accuracy, precision, recall, f1, len(loader), epoch
-            )
+            self.metrics_to_wandb(split, total_loss, results, len(loader), epoch)
+
+        out = [f"{metric.title()}: {results[metric]}" for metric in self.metrics]
         print(
-            f"[{split.upper()} {epoch}]: Loss: {total_loss / len(loader)}, Accuracy: {accuracy}, Precision: {precision}, Recall: {recall}, F1-score: {f1}"
+            f"[{split.upper()} {epoch}]: Loss: {total_loss / len(loader)}, {', '.join(out)}"
         )
         return total_loss

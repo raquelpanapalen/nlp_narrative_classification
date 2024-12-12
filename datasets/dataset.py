@@ -96,7 +96,11 @@ class NarrativeDataset:
             samples.append(" ".join(conllu_data))
             labels.append(annotation["labels"])
 
-        return samples, np.array(labels)
+        return (
+            samples,
+            np.array(labels),
+            [f"{annotation['doc_name']}.txt" for annotation in self.annotations],
+        )
 
     def get_dev_samples(self):
         samples = []
@@ -114,21 +118,20 @@ class NarrativeDataset:
         return samples, [f"{conllu_file.stem}.txt" for conllu_file in self.dev_files]
 
     def get_dataset_splits(self, val_size=0.1):
-        samples, labels = self.get_traditional_samples()
-        
+        samples, labels, doc_names = self.get_traditional_samples()
+
         # split the data into train and validation sets using the fixed val_size
-        train_samples, val_samples, train_labels, val_labels = train_test_split(
-            samples, labels, test_size=val_size
+        train_samples, val_samples, train_labels, val_labels, train_docs, val_docs = (
+            train_test_split(samples, labels, doc_names, test_size=val_size)
         )
 
         test_samples, doc_names = self.get_dev_samples()
 
         return (
-            (train_samples, train_labels),
-            (val_samples, val_labels),
+            (train_samples, train_labels, train_docs),
+            (val_samples, val_labels, val_docs),
             (test_samples, doc_names),
         )
-
 
     def get_index2label(self, index):
         return self.index2label[index]
