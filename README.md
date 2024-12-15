@@ -99,6 +99,8 @@ These results provide a benchmark for evaluating the performance of narrative cl
 
 The **LSTM** model performed the best, with the highest F1 macro coarse (0.194) and fine (0.268) scores, though its fine-grained performance showed variability. 
 
-The additional data from the EN+HI (translated) and EN+BG (translated) models did not significantly improve performance due to the unbalanced nature of the dataset across languages (comparison in [data_comparison.ipynb](notebooks/data_comparison.ipynb)). The dataset includes varying amounts of data for each language, which can lead to biased model training. As a result, the models struggle with fine-grained classification tasks, particularly for less-represented languages. This imbalance hinders the generalization of the model, affecting its ability to perform consistently across different language domains.
+The additional data from the EN+HI (translated) and EN+BG (translated) models did not significantly improve performance due to the unbalanced nature of the data across languages (comparison in [data_comparison.ipynb](notebooks/data_comparison.ipynb)).This imbalance hinders the generalization of the model, affecting its ability to perform consistently.
 
 The **SVM** and **Basic Transformer** models ranked lower, with the Transformer showing the weakest fine-grained performance.
+
+Quantitative and qualitative analysis can be found [here](https://github.com/raquelpanapalen/nlp_narrative_classification/tree/master/model%20performance%20analysis).
