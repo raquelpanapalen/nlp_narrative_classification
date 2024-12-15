@@ -10,6 +10,7 @@ from sklearn.model_selection import train_test_split
 from collections import Counter
 from sklearn.metrics import classification_report, accuracy_score
 from sklearn.preprocessing import MultiLabelBinarizer
+from transformers import BertTokenizer
 
 
 def get_args():
@@ -299,6 +300,79 @@ class DeepLNarrativeDataset(Dataset):
         sample_weights = np.sum(labels * class_weights, axis=1) / np.sum(labels, axis=1)
 
         return torch.FloatTensor(sample_weights)
+    
+    def get_raw_texts(self):
+        texts = []
+        for annotation in self.train_annotations + self.val_annotations:
+            with open(annotation["doc_name"], "r", encoding="utf-8") as f:
+                data = conllu.parse(f.read())
+                text = " ".join([token["form"] for sentence in data for token in sentence])
+                texts.append(text)
+        return texts
+    
+class BERTDeepLNarrativeDataset(DeepLNarrativeDataset):
+    def __init__(self, data_paths, topic, split, val_split=0.1, max_length=512):
+        super().__init__(data_paths, topic, split, val_split, max_length)
+        
+        self.tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
+        self.max_length = max_length
+    
+    def get_train_val_item(self, idx):
+        tokenized_data, labels, doc_name = super().get_train_val_item(idx)
+        
+        text = " ".join([self.train_vocab.index2word[token] for token in tokenized_data])
+        
+        encoding = self.tokenizer(
+            text,
+            add_special_tokens=True,  
+            max_length=self.max_length,
+            truncation=True,
+            padding='max_length',  
+            return_tensors='pt',   
+            return_attention_mask=True
+        )
+        
+        input_ids = encoding['input_ids'].squeeze(0)  
+        attention_mask = encoding['attention_mask'].squeeze(0)  
+        
+        return {
+            'input_ids': input_ids,
+            'attention_mask': attention_mask,
+            'labels': torch.tensor(labels, dtype=torch.float32)
+        }
+
+    def __getitem__(self, idx):
+        if self.split in ["train", "val"]:
+            return self.get_train_val_item(idx)
+        
+        elif self.split == "dev":
+            conllu_file = self.dev_files[idx]
+            with open(conllu_file, "r", encoding="utf-8") as f:
+                data = conllu.parse(f.read())
+            conllu_data = [token["form"] for sentence in data for token in sentence]
+            padded_data = self.pad_sequence(conllu_data)
+            text = " ".join([self.train_vocab.index2word[token] for token in padded_data])
+            
+            encoding = self.tokenizer(
+                text,
+                add_special_tokens=True,
+                max_length=self.max_length,
+                truncation=True,
+                padding='max_length',
+                return_tensors='pt',
+                return_attention_mask=True
+            )
+            
+            input_ids = encoding['input_ids'].squeeze(0)
+            attention_mask = encoding['attention_mask'].squeeze(0)
+            
+            return {
+                'input_ids': input_ids,
+                'attention_mask': attention_mask,
+                'doc_name': f"{conllu_file.stem}.txt"
+            }
+        def _tokenize(self, text):
+            return self.tokenizer(text, padding='max_length', truncation=True, max_length=512, return_tensors='pt')
 
 
 def evaluate_baseline(y_true, y_pred, index2label):
