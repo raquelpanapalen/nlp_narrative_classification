@@ -1,0 +1,840 @@
+# text = Climate Expert: ‘Three Stries’ Against Climate Alarmism
+# sent_id = 0
+1	Climate	climate	NOUN	NN	Number=Sing	0	_	_	start_char=0|end_char=7
+2	Expert	Expert	PROPN	NNP	Number=Sing	1	_	_	start_char=8|end_char=14|SpaceAfter=No
+3	:	:	PUNCT	:	_	2	_	_	start_char=14|end_char=15
+4	‘	'	PUNCT	``	_	3	_	_	start_char=16|end_char=17|SpaceAfter=No
+5	Three	three	NUM	NNP	NumForm=Word|NumType=Card	4	_	_	start_char=17|end_char=22
+6-7	Stries’	_	_	_	_	_	_	_	start_char=23|end_char=30
+6	Stries	Stries	PROPN	NNPS	Number=Plur	5	_	_	start_char=23|end_char=29
+7	’	'	PUNCT	''	_	6	_	_	start_char=29|end_char=30
+8	Against	against	ADP	IN	_	7	_	_	start_char=31|end_char=38
+9	Climate	Climate	PROPN	NNP	Number=Sing	8	_	_	start_char=39|end_char=46
+10	Alarmism	Alarmism	PROPN	NNP	Number=Sing	9	_	_	start_char=47|end_char=55|SpacesAfter=\s\n\n\s
+
+# text = Facts and data show “three stries and climate alarmism should be out,” climate truth-teller Steve Milloy told PJ Media.
+# sent_id = 1
+1	Facts	fact	NOUN	NNS	Number=Plur	0	_	_	start_char=59|end_char=64
+2	and	and	CCONJ	CC	_	1	_	_	start_char=65|end_char=68
+3	data	datum	NOUN	NNS	Number=Plur	2	_	_	start_char=69|end_char=73
+4	show	show	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=74|end_char=78
+5	“	''	PUNCT	``	_	4	_	_	start_char=79|end_char=80|SpaceAfter=No
+6	three	three	NUM	CD	NumForm=Word|NumType=Card	5	_	_	start_char=80|end_char=85
+7	stries	stry	NOUN	NNS	Number=Plur	6	_	_	start_char=86|end_char=92
+8	and	and	CCONJ	CC	_	7	_	_	start_char=93|end_char=96
+9	climate	climate	NOUN	NN	Number=Sing	8	_	_	start_char=97|end_char=104
+10	alarmism	alarmism	NOUN	NN	Number=Sing	9	_	_	start_char=105|end_char=113
+11	should	should	AUX	MD	VerbForm=Fin	10	_	_	start_char=114|end_char=120
+12	be	be	AUX	VB	VerbForm=Inf	11	_	_	start_char=121|end_char=123
+13	out	out	ADV	RB	_	12	_	_	start_char=124|end_char=127|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=127|end_char=128|SpaceAfter=No
+15	”	''	PUNCT	''	_	14	_	_	start_char=128|end_char=129
+16	climate	climate	NOUN	NN	Number=Sing	15	_	_	start_char=130|end_char=137
+17	truth	truth	NOUN	NN	Number=Sing	16	_	_	start_char=138|end_char=143|SpaceAfter=No
+18	-	-	PUNCT	HYPH	_	17	_	_	start_char=143|end_char=144|SpaceAfter=No
+19	teller	teller	NOUN	NN	Number=Sing	18	_	_	start_char=144|end_char=150
+20	Steve	Steve	PROPN	NNP	Number=Sing	19	_	_	start_char=151|end_char=156
+21	Milloy	Milloy	PROPN	NNP	Number=Sing	20	_	_	start_char=157|end_char=163
+22	told	tell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	_	_	start_char=164|end_char=168
+23	PJ	PJ	PROPN	NNP	Number=Sing	22	_	_	start_char=169|end_char=171
+24	Media	Media	PROPN	NNP	Number=Sing	23	_	_	start_char=172|end_char=177|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=177|end_char=178
+
+# text = “But it’s still at bat and swinging,” propped up by the “fae news media.”
+# sent_id = 2
+1	“	''	PUNCT	``	_	0	_	_	start_char=179|end_char=180|SpaceAfter=No
+2	But	but	CCONJ	CC	_	1	_	_	start_char=180|end_char=183
+3-4	it’s	_	_	_	_	_	_	_	start_char=184|end_char=188
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	_	_	start_char=184|end_char=186
+4	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=186|end_char=188
+5	still	still	ADV	RB	_	4	_	_	start_char=189|end_char=194
+6	at	at	ADP	IN	_	5	_	_	start_char=195|end_char=197
+7	bat	bat	NOUN	NN	Number=Sing	6	_	_	start_char=198|end_char=201
+8	and	and	CCONJ	CC	_	7	_	_	start_char=202|end_char=205
+9	swinging	swing	NOUN	NN	Number=Sing	8	_	_	start_char=206|end_char=214|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=214|end_char=215|SpaceAfter=No
+11	”	''	PUNCT	''	_	10	_	_	start_char=215|end_char=216
+12	propped	prop	VERB	VBN	Tense=Past|VerbForm=Part	11	_	_	start_char=217|end_char=224
+13	up	up	ADP	RP	_	12	_	_	start_char=225|end_char=227
+14	by	by	ADP	IN	_	13	_	_	start_char=228|end_char=230
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=231|end_char=234
+16	“	''	PUNCT	``	_	15	_	_	start_char=235|end_char=236|SpaceAfter=No
+17	fae	fae	NOUN	NN	Number=Sing	16	_	_	start_char=236|end_char=239
+18	news	news	NOUN	NN	Number=Sing	17	_	_	start_char=240|end_char=244
+19	media	media	NOUN	NN	Number=Sing	18	_	_	start_char=245|end_char=250|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=250|end_char=251|SpaceAfter=No
+21	”	''	PUNCT	''	_	20	_	_	start_char=251|end_char=252|SpacesAfter=\n\n
+
+# text = Jun Science’s Milloy explained the three biggest truths undermining the mainstream narrative in exclusive comments to PJ Media.
+# sent_id = 3
+1	Jun	Jun	PROPN	NNP	Number=Sing	0	_	_	start_char=254|end_char=257
+2-3	Science’s	_	_	_	_	_	_	_	start_char=258|end_char=267
+2	Science	Science	PROPN	NNP	Number=Sing	1	_	_	start_char=258|end_char=265
+3	’s	's	PART	POS	_	2	_	_	start_char=265|end_char=267
+4	Milloy	Milloy	PROPN	NNP	Number=Sing	3	_	_	start_char=268|end_char=274
+5	explained	explain	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=275|end_char=284
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=285|end_char=288
+7	three	three	NUM	CD	NumForm=Word|NumType=Card	6	_	_	start_char=289|end_char=294
+8	biggest	big	ADJ	JJS	Degree=Sup	7	_	_	start_char=295|end_char=302
+9	truths	truth	NOUN	NNS	Number=Plur	8	_	_	start_char=303|end_char=309
+10	undermining	undermine	VERB	VBG	VerbForm=Ger	9	_	_	start_char=310|end_char=321
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=322|end_char=325
+12	mainstream	mainstream	ADJ	JJ	Degree=Pos	11	_	_	start_char=326|end_char=336
+13	narrative	narrative	NOUN	NN	Number=Sing	12	_	_	start_char=337|end_char=346
+14	in	in	ADP	IN	_	13	_	_	start_char=347|end_char=349
+15	exclusive	exclusive	ADJ	JJ	Degree=Pos	14	_	_	start_char=350|end_char=359
+16	comments	comment	NOUN	NNS	Number=Plur	15	_	_	start_char=360|end_char=368
+17	to	to	ADP	IN	_	16	_	_	start_char=369|end_char=371
+18	PJ	PJ	PROPN	NNP	Number=Sing	17	_	_	start_char=372|end_char=374
+19	Media	Media	PROPN	NNP	Number=Sing	18	_	_	start_char=375|end_char=380|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=380|end_char=381
+
+# text = [emphasis, lins added]
+# sent_id = 4
+1	[	[	PUNCT	-LRB-	_	0	_	_	start_char=382|end_char=383|SpaceAfter=No
+2	emphasis	emphasis	NOUN	NN	Number=Sing	1	_	_	start_char=383|end_char=391|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=391|end_char=392
+4	lins	lin	NOUN	NNS	Number=Plur	3	_	_	start_char=393|end_char=397
+5	added	add	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=398|end_char=403|SpaceAfter=No
+6	]	]	PUNCT	-RRB-	_	5	_	_	start_char=403|end_char=404|SpacesAfter=\n\n
+
+# text = “We are 35 years into climate alarmism, and we’ve had no global warming since 2015 despite 450 billion tons of emissions; no type of natural disaster correlates with emissions or warming; and no apocalyptic climate prediction has ever come true,” Milloy stated.
+# sent_id = 5
+1	“	''	PUNCT	``	_	0	_	_	start_char=406|end_char=407|SpaceAfter=No
+2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	1	_	_	start_char=407|end_char=409
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=410|end_char=413
+4	35	35	NUM	CD	NumForm=Digit|NumType=Card	3	_	_	start_char=414|end_char=416
+5	years	year	NOUN	NNS	Number=Plur	4	_	_	start_char=417|end_char=422
+6	into	into	ADP	IN	_	5	_	_	start_char=423|end_char=427
+7	climate	climate	NOUN	NN	Number=Sing	6	_	_	start_char=428|end_char=435
+8	alarmism	alarmism	NOUN	NN	Number=Sing	7	_	_	start_char=436|end_char=444|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=444|end_char=445
+10	and	and	CCONJ	CC	_	9	_	_	start_char=446|end_char=449
+11-12	we’ve	_	_	_	_	_	_	_	start_char=450|end_char=455
+11	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	10	_	_	start_char=450|end_char=452
+12	’ve	have	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	11	_	_	start_char=452|end_char=455
+13	had	have	VERB	VBN	Tense=Past|VerbForm=Part	12	_	_	start_char=456|end_char=459
+14	no	no	DET	DT	_	13	_	_	start_char=460|end_char=462
+15	global	global	ADJ	JJ	Degree=Pos	14	_	_	start_char=463|end_char=469
+16	warming	warming	NOUN	NN	Number=Sing	15	_	_	start_char=470|end_char=477
+17	since	since	ADP	IN	_	16	_	_	start_char=478|end_char=483
+18	2015	2015	NUM	CD	NumForm=Digit|NumType=Card	17	_	_	start_char=484|end_char=488
+19	despite	despite	ADP	IN	_	18	_	_	start_char=489|end_char=496
+20	450	450	NUM	CD	NumForm=Digit|NumType=Card	19	_	_	start_char=497|end_char=500
+21	billion	billion	NUM	CD	NumForm=Word|NumType=Card	20	_	_	start_char=501|end_char=508
+22	tons	ton	NOUN	NNS	Number=Plur	21	_	_	start_char=509|end_char=513
+23	of	of	ADP	IN	_	22	_	_	start_char=514|end_char=516
+24	emissions	emission	NOUN	NNS	Number=Plur	23	_	_	start_char=517|end_char=526|SpaceAfter=No
+25	;	;	PUNCT	:	_	24	_	_	start_char=526|end_char=527
+26	no	no	DET	DT	_	25	_	_	start_char=528|end_char=530
+27	type	type	NOUN	NN	Number=Sing	26	_	_	start_char=531|end_char=535
+28	of	of	ADP	IN	_	27	_	_	start_char=536|end_char=538
+29	natural	natural	ADJ	JJ	Degree=Pos	28	_	_	start_char=539|end_char=546
+30	disaster	disaster	NOUN	NN	Number=Sing	29	_	_	start_char=547|end_char=555
+31	correlates	correlate	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	_	_	start_char=556|end_char=566
+32	with	with	ADP	IN	_	31	_	_	start_char=567|end_char=571
+33	emissions	emission	NOUN	NNS	Number=Plur	32	_	_	start_char=572|end_char=581
+34	or	or	CCONJ	CC	_	33	_	_	start_char=582|end_char=584
+35	warming	warming	NOUN	NN	Number=Sing	34	_	_	start_char=585|end_char=592|SpaceAfter=No
+36	;	;	PUNCT	:	_	35	_	_	start_char=592|end_char=593
+37	and	and	CCONJ	CC	_	36	_	_	start_char=594|end_char=597
+38	no	no	DET	DT	_	37	_	_	start_char=598|end_char=600
+39	apocalyptic	apocalyptic	ADJ	JJ	Degree=Pos	38	_	_	start_char=601|end_char=612
+40	climate	climate	NOUN	NN	Number=Sing	39	_	_	start_char=613|end_char=620
+41	prediction	prediction	NOUN	NN	Number=Sing	40	_	_	start_char=621|end_char=631
+42	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	41	_	_	start_char=632|end_char=635
+43	ever	ever	ADV	RB	_	42	_	_	start_char=636|end_char=640
+44	come	come	VERB	VBN	Tense=Past|VerbForm=Part	43	_	_	start_char=641|end_char=645
+45	true	true	ADJ	JJ	Degree=Pos	44	_	_	start_char=646|end_char=650|SpaceAfter=No
+46	,	,	PUNCT	,	_	45	_	_	start_char=650|end_char=651|SpaceAfter=No
+47	”	''	PUNCT	''	_	46	_	_	start_char=651|end_char=652
+48	Milloy	Milloy	PROPN	NNP	Number=Sing	47	_	_	start_char=653|end_char=659
+49	stated	state	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	48	_	_	start_char=660|end_char=666|SpaceAfter=No
+50	.	.	PUNCT	.	_	49	_	_	start_char=666|end_char=667|SpacesAfter=\n\n
+
+# text = It’s time to admit the fraud.
+# sent_id = 6
+1-2	It’s	_	_	_	_	_	_	_	start_char=669|end_char=673
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=669|end_char=671
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=671|end_char=673
+3	time	time	NOUN	NN	Number=Sing	2	_	_	start_char=674|end_char=678
+4	to	to	PART	TO	_	3	_	_	start_char=679|end_char=681
+5	admit	admit	VERB	VB	VerbForm=Inf	4	_	_	start_char=682|end_char=687
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=688|end_char=691
+7	fraud	fraud	NOUN	NN	Number=Sing	6	_	_	start_char=692|end_char=697|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	_	_	start_char=697|end_char=698|SpacesAfter=\n\n
+
+# text = “That’s three stries and climate alarmism should be out.
+# sent_id = 7
+1	“	''	PUNCT	``	_	0	_	_	start_char=700|end_char=701|SpaceAfter=No
+2-3	That’s	_	_	_	_	_	_	_	start_char=701|end_char=707
+2	That	that	PRON	DT	Number=Sing|PronType=Dem	1	_	_	start_char=701|end_char=705
+3	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=705|end_char=707
+4	three	three	NUM	CD	NumForm=Word|NumType=Card	3	_	_	start_char=708|end_char=713
+5	stries	stry	NOUN	NNS	Number=Plur	4	_	_	start_char=714|end_char=720
+6	and	and	CCONJ	CC	_	5	_	_	start_char=721|end_char=724
+7	climate	climate	NOUN	NN	Number=Sing	6	_	_	start_char=725|end_char=732
+8	alarmism	alarmism	NOUN	NN	Number=Sing	7	_	_	start_char=733|end_char=741
+9	should	should	AUX	MD	VerbForm=Fin	8	_	_	start_char=742|end_char=748
+10	be	be	AUX	VB	VerbForm=Inf	9	_	_	start_char=749|end_char=751
+11	out	out	ADV	RB	_	10	_	_	start_char=752|end_char=755|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=755|end_char=756
+
+# text = But it’s still at bat and swinging because the fae news media shares its leftist agenda and will not call it out,” Milloy added.
+# sent_id = 8
+1	But	but	CCONJ	CC	_	0	_	_	start_char=757|end_char=760
+2-3	it’s	_	_	_	_	_	_	_	start_char=761|end_char=765
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	_	_	start_char=761|end_char=763
+3	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=763|end_char=765
+4	still	still	ADV	RB	_	3	_	_	start_char=766|end_char=771
+5	at	at	ADP	IN	_	4	_	_	start_char=772|end_char=774
+6	bat	bat	NOUN	NN	Number=Sing	5	_	_	start_char=775|end_char=778
+7	and	and	CCONJ	CC	_	6	_	_	start_char=779|end_char=782
+8	swinging	swing	VERB	VBG	VerbForm=Ger	7	_	_	start_char=783|end_char=791
+9	because	because	SCONJ	IN	_	8	_	_	start_char=792|end_char=799
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=800|end_char=803
+11	fae	fae	NOUN	NN	Number=Sing	10	_	_	start_char=804|end_char=807
+12	news	news	NOUN	NN	Number=Sing	11	_	_	start_char=808|end_char=812
+13	media	media	NOUN	NN	Number=Sing	12	_	_	start_char=813|end_char=818
+14	shares	share	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=819|end_char=825
+15	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	_	_	start_char=826|end_char=829
+16	leftist	leftist	ADJ	JJ	Degree=Pos	15	_	_	start_char=830|end_char=837
+17	agenda	agenda	NOUN	NN	Number=Sing	16	_	_	start_char=838|end_char=844
+18	and	and	CCONJ	CC	_	17	_	_	start_char=845|end_char=848
+19	will	will	AUX	MD	VerbForm=Fin	18	_	_	start_char=849|end_char=853
+20	not	not	PART	RB	_	19	_	_	start_char=854|end_char=857
+21	call	call	VERB	VB	VerbForm=Inf	20	_	_	start_char=858|end_char=862
+22	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	_	_	start_char=863|end_char=865
+23	out	out	ADP	RP	_	22	_	_	start_char=866|end_char=869|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=869|end_char=870|SpaceAfter=No
+25	”	''	PUNCT	''	_	24	_	_	start_char=870|end_char=871
+26	Milloy	Milloy	PROPN	NNP	Number=Sing	25	_	_	start_char=872|end_char=878
+27	added	add	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	26	_	_	start_char=879|end_char=884|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=884|end_char=885|SpacesAfter=\n\n
+
+# text = After all, governments can use climate change as a convenient excuse for increasing their power and control.
+# sent_id = 9
+1	After	after	ADP	IN	_	0	_	_	start_char=887|end_char=892
+2	all	all	DET	DT	_	1	_	_	start_char=893|end_char=896|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=896|end_char=897
+4	governments	government	NOUN	NNS	Number=Plur	3	_	_	start_char=898|end_char=909
+5	can	can	AUX	MD	VerbForm=Fin	4	_	_	start_char=910|end_char=913
+6	use	use	VERB	VB	VerbForm=Inf	5	_	_	start_char=914|end_char=917
+7	climate	climate	NOUN	NN	Number=Sing	6	_	_	start_char=918|end_char=925
+8	change	change	NOUN	NN	Number=Sing	7	_	_	start_char=926|end_char=932
+9	as	as	ADP	IN	_	8	_	_	start_char=933|end_char=935
+10	a	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=936|end_char=937
+11	convenient	convenient	ADJ	JJ	Degree=Pos	10	_	_	start_char=938|end_char=948
+12	excuse	excuse	NOUN	NN	Number=Sing	11	_	_	start_char=949|end_char=955
+13	for	for	SCONJ	IN	_	12	_	_	start_char=956|end_char=959
+14	increasing	increase	VERB	VBG	VerbForm=Ger	13	_	_	start_char=960|end_char=970
+15	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	14	_	_	start_char=971|end_char=976
+16	power	power	NOUN	NN	Number=Sing	15	_	_	start_char=977|end_char=982
+17	and	and	CCONJ	CC	_	16	_	_	start_char=983|end_char=986
+18	control	control	NOUN	NN	Number=Sing	17	_	_	start_char=987|end_char=994|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=994|end_char=995|SpacesAfter=\n\n
+
+# text = Milloy’s comments followed the publication of a new report.
+# sent_id = 10
+1-2	Milloy’s	_	_	_	_	_	_	_	start_char=997|end_char=1005
+1	Milloy	Milloy	PROPN	NNP	Number=Sing	0	_	_	start_char=997|end_char=1003
+2	’s	's	PART	POS	_	1	_	_	start_char=1003|end_char=1005
+3	comments	comment	NOUN	NNS	Number=Plur	2	_	_	start_char=1006|end_char=1014
+4	followed	follow	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=1015|end_char=1023
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1024|end_char=1027
+6	publication	publication	NOUN	NN	Number=Sing	5	_	_	start_char=1028|end_char=1039
+7	of	of	ADP	IN	_	6	_	_	start_char=1040|end_char=1042
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=1043|end_char=1044
+9	new	new	ADJ	JJ	Degree=Pos	8	_	_	start_char=1045|end_char=1048
+10	report	report	NOUN	NN	Number=Sing	9	_	_	start_char=1049|end_char=1055|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=1055|end_char=1056|SpacesAfter=\n\n
+
+# text = The Competitive Enterprise Institute (CEI), The Heartland Institute, the Energy & Environmental (E&E) Legal Institute, the Committee for a Constructive Tomorrow, the International Climate Science Coalition, and Truth in Energy and Climate issued their “Climate : September 2023 Edition.”
+# sent_id = 11
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1058|end_char=1061
+2	Competitive	competitive	ADJ	NNP	Degree=Pos	1	_	_	start_char=1062|end_char=1073
+3	Enterprise	Enterprise	PROPN	NNP	Number=Sing	2	_	_	start_char=1074|end_char=1084
+4	Institute	Institute	PROPN	NNP	Number=Sing	3	_	_	start_char=1085|end_char=1094
+5	(	(	PUNCT	-LRB-	_	4	_	_	start_char=1095|end_char=1096|SpaceAfter=No
+6	CEI	CEI	PROPN	NNP	Number=Sing	5	_	_	start_char=1096|end_char=1099|SpaceAfter=No
+7	)	)	PUNCT	-RRB-	_	6	_	_	start_char=1099|end_char=1100|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=1100|end_char=1101
+9	The	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1102|end_char=1105
+10	Heartland	Heartland	PROPN	NNP	Number=Sing	9	_	_	start_char=1106|end_char=1115
+11	Institute	Institute	PROPN	NNP	Number=Sing	10	_	_	start_char=1116|end_char=1125|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=1125|end_char=1126
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1127|end_char=1130
+14	Energy	Energy	PROPN	NNP	Number=Sing	13	_	_	start_char=1131|end_char=1137
+15	&	&	CCONJ	CC	_	14	_	_	start_char=1138|end_char=1139
+16	Environmental	Environmental	ADJ	NNP	Degree=Pos	15	_	_	start_char=1140|end_char=1153
+17	(	(	PUNCT	-LRB-	_	16	_	_	start_char=1154|end_char=1155|SpaceAfter=No
+18	E&E	E&E	PROPN	NNP	Number=Sing	17	_	_	start_char=1155|end_char=1158|SpaceAfter=No
+19	)	)	PUNCT	-RRB-	_	18	_	_	start_char=1158|end_char=1159
+20	Legal	legal	ADJ	NNP	Degree=Pos	19	_	_	start_char=1160|end_char=1165
+21	Institute	Institute	PROPN	NNP	Number=Sing	20	_	_	start_char=1166|end_char=1175|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=1175|end_char=1176
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=1177|end_char=1180
+24	Committee	Committee	PROPN	NNP	Number=Sing	23	_	_	start_char=1181|end_char=1190
+25	for	for	ADP	IN	_	24	_	_	start_char=1191|end_char=1194
+26	a	a	DET	DT	Definite=Ind|PronType=Art	25	_	_	start_char=1195|end_char=1196
+27	Constructive	constructive	ADJ	NNP	Degree=Pos	26	_	_	start_char=1197|end_char=1209
+28	Tomorrow	tomorrow	PROPN	NNP	Number=Sing	27	_	_	start_char=1210|end_char=1218|SpaceAfter=No
+29	,	,	PUNCT	,	_	28	_	_	start_char=1218|end_char=1219
+30	the	the	DET	DT	Definite=Def|PronType=Art	29	_	_	start_char=1220|end_char=1223
+31	International	International	ADJ	NNP	Degree=Pos	30	_	_	start_char=1224|end_char=1237
+32	Climate	Climate	PROPN	NNP	Number=Sing	31	_	_	start_char=1238|end_char=1245
+33	Science	Science	PROPN	NNP	Number=Sing	32	_	_	start_char=1246|end_char=1253
+34	Coalition	Coalition	PROPN	NNP	Number=Sing	33	_	_	start_char=1254|end_char=1263|SpaceAfter=No
+35	,	,	PUNCT	,	_	34	_	_	start_char=1263|end_char=1264
+36	and	and	CCONJ	CC	_	35	_	_	start_char=1265|end_char=1268
+37	Truth	Truth	PROPN	NNP	Number=Sing	36	_	_	start_char=1269|end_char=1274
+38	in	in	ADP	IN	_	37	_	_	start_char=1275|end_char=1277
+39	Energy	Energy	PROPN	NNP	Number=Sing	38	_	_	start_char=1278|end_char=1284
+40	and	and	CCONJ	CC	_	39	_	_	start_char=1285|end_char=1288
+41	Climate	Climate	PROPN	NNP	Number=Sing	40	_	_	start_char=1289|end_char=1296
+42	issued	issue	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	41	_	_	start_char=1297|end_char=1303
+43	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	42	_	_	start_char=1304|end_char=1309
+44	“	''	PUNCT	``	_	43	_	_	start_char=1310|end_char=1311|SpaceAfter=No
+45	Climate	climate	NOUN	NN	Number=Sing	44	_	_	start_char=1311|end_char=1318
+46	:	:	PUNCT	:	_	45	_	_	start_char=1319|end_char=1320
+47	September	September	PROPN	NNP	Number=Sing	46	_	_	start_char=1321|end_char=1330
+48	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	47	_	_	start_char=1331|end_char=1335
+49	Edition	edition	NOUN	NN	Number=Sing	48	_	_	start_char=1336|end_char=1343|SpaceAfter=No
+50	.	.	PUNCT	.	_	49	_	_	start_char=1343|end_char=1344|SpaceAfter=No
+51	”	''	PUNCT	''	_	50	_	_	start_char=1344|end_char=1345
+
+# text = Milloy posted the report at ClimateRealism.com.
+# sent_id = 12
+1	Milloy	Milloy	PROPN	NNP	Number=Sing	0	_	_	start_char=1346|end_char=1352
+2	posted	post	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1353|end_char=1359
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1360|end_char=1363
+4	report	report	NOUN	NN	Number=Sing	3	_	_	start_char=1364|end_char=1370
+5	at	at	ADP	IN	_	4	_	_	start_char=1371|end_char=1373
+6	ClimateRealism.com	ClimateRealism.com	PROPN	NNP	Number=Sing	5	_	_	start_char=1374|end_char=1392|SpaceAfter=No
+7	.	.	PUNCT	.	_	6	_	_	start_char=1392|end_char=1393|SpacesAfter=\n\n
+
+# text = The first myth the groups attaced was the media apocalypse prophesying on “global warming.”
+# sent_id = 13
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1395|end_char=1398
+2	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	1	_	_	start_char=1399|end_char=1404
+3	myth	myth	NOUN	NN	Number=Sing	2	_	_	start_char=1405|end_char=1409
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1410|end_char=1413
+5	groups	group	NOUN	NNS	Number=Plur	4	_	_	start_char=1414|end_char=1420
+6	attaced	attace	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=1421|end_char=1428
+7	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=1429|end_char=1432
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=1433|end_char=1436
+9	media	media	NOUN	NN	Number=Sing	8	_	_	start_char=1437|end_char=1442
+10	apocalypse	apocalypse	NOUN	NN	Number=Sing	9	_	_	start_char=1443|end_char=1453
+11	prophesying	prophesy	VERB	VBG	VerbForm=Ger	10	_	_	start_char=1454|end_char=1465
+12	on	on	ADP	IN	_	11	_	_	start_char=1466|end_char=1468
+13	“	''	PUNCT	``	_	12	_	_	start_char=1469|end_char=1470|SpaceAfter=No
+14	global	global	ADJ	JJ	Degree=Pos	13	_	_	start_char=1470|end_char=1476
+15	warming	warming	NOUN	NN	Number=Sing	14	_	_	start_char=1477|end_char=1484|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=1484|end_char=1485|SpaceAfter=No
+17	”	''	PUNCT	''	_	16	_	_	start_char=1485|end_char=1486
+
+# text = They looed at data to determine if September did have record heat.
+# sent_id = 14
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=1487|end_char=1491
+2	looed	loo	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1492|end_char=1497
+3	at	at	ADP	IN	_	2	_	_	start_char=1498|end_char=1500
+4	data	datum	NOUN	NNS	Number=Plur	3	_	_	start_char=1501|end_char=1505
+5	to	to	PART	TO	_	4	_	_	start_char=1506|end_char=1508
+6	determine	determine	VERB	VB	VerbForm=Inf	5	_	_	start_char=1509|end_char=1518
+7	if	if	SCONJ	IN	_	6	_	_	start_char=1519|end_char=1521
+8	September	September	PROPN	NNP	Number=Sing	7	_	_	start_char=1522|end_char=1531
+9	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=1532|end_char=1535
+10	have	have	VERB	VB	VerbForm=Inf	9	_	_	start_char=1536|end_char=1540
+11	record	record	NOUN	NN	Number=Sing	10	_	_	start_char=1541|end_char=1547
+12	heat	heat	NOUN	NN	Number=Sing	11	_	_	start_char=1548|end_char=1552|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=1552|end_char=1553|SpacesAfter=\n\n
+
+# text = Based on NASA satellite data, September 2023 had the highest temperature anomaly (i.e., difference from average) on record.
+# sent_id = 15
+1	Based	base	VERB	VBN	Tense=Past|VerbForm=Part	0	_	_	start_char=1555|end_char=1560
+2	on	on	ADP	IN	_	1	_	_	start_char=1561|end_char=1563
+3	NASA	NASA	PROPN	NNP	Number=Sing	2	_	_	start_char=1564|end_char=1568
+4	satellite	satellite	NOUN	NN	Number=Sing	3	_	_	start_char=1569|end_char=1578
+5	data	datum	NOUN	NNS	Number=Plur	4	_	_	start_char=1579|end_char=1583|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=1583|end_char=1584
+7	September	September	PROPN	NNP	Number=Sing	6	_	_	start_char=1585|end_char=1594
+8	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	7	_	_	start_char=1595|end_char=1599
+9	had	have	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=1600|end_char=1603
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=1604|end_char=1607
+11	highest	high	ADJ	JJS	Degree=Sup	10	_	_	start_char=1608|end_char=1615
+12	temperature	temperature	NOUN	NN	Number=Sing	11	_	_	start_char=1616|end_char=1627
+13	anomaly	anomaly	NOUN	NN	Number=Sing	12	_	_	start_char=1628|end_char=1635
+14	(	(	PUNCT	-LRB-	_	13	_	_	start_char=1636|end_char=1637|SpaceAfter=No
+15	i.e.	i.e.	ADV	FW	Abbr=Yes	14	_	_	start_char=1637|end_char=1641|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=1641|end_char=1642
+17	difference	difference	NOUN	NN	Number=Sing	16	_	_	start_char=1643|end_char=1653
+18	from	from	ADP	IN	_	17	_	_	start_char=1654|end_char=1658
+19	average	average	NOUN	NN	Number=Sing	18	_	_	start_char=1659|end_char=1666|SpaceAfter=No
+20	)	)	PUNCT	-RRB-	_	19	_	_	start_char=1666|end_char=1667
+21	on	on	ADP	IN	_	20	_	_	start_char=1668|end_char=1670
+22	record	record	NOUN	NN	Number=Sing	21	_	_	start_char=1671|end_char=1677|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=1677|end_char=1678
+
+# text = It was 0.9C warmer than the 1991-2020 average.
+# sent_id = 16
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1679|end_char=1681
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1682|end_char=1685
+3	0.9C	0.9c	NUM	CD	NumForm=Digit|NumType=Card	2	_	_	start_char=1686|end_char=1690
+4	warmer	warm	ADJ	JJR	Degree=Cmp	3	_	_	start_char=1691|end_char=1697
+5	than	than	ADP	IN	_	4	_	_	start_char=1698|end_char=1702
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1703|end_char=1706
+7	1991	1991	NUM	CD	NumForm=Digit|NumType=Card	6	_	_	start_char=1707|end_char=1711|SpaceAfter=No
+8	-	-	SYM	SYM	_	7	_	_	start_char=1711|end_char=1712|SpaceAfter=No
+9	2020	2020	NUM	CD	NumForm=Digit|NumType=Card	8	_	_	start_char=1712|end_char=1716
+10	average	average	NOUN	NN	Number=Sing	9	_	_	start_char=1717|end_char=1724|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=1724|end_char=1725|SpacesAfter=\n\n
+
+# text = In contrast, the Temperature.global compilation of actual temperature measurements from surface stations has September only slightly warmer than the average monthly temperature of the past 8 years and 9 months, and far from the warmest month since January 2015.
+# sent_id = 17
+1	In	in	ADP	IN	_	0	_	_	start_char=1727|end_char=1729
+2	contrast	contrast	NOUN	NN	Number=Sing	1	_	_	start_char=1730|end_char=1738|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=1738|end_char=1739
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1740|end_char=1743
+5	Temperature	Temperature	PROPN	NNP	Number=Sing	4	_	_	start_char=1744|end_char=1755|SpaceAfter=No
+6	.global	Rglobal	PROPN	NNP	Number=Sing	5	_	_	start_char=1755|end_char=1762
+7	compilation	compilation	NOUN	NN	Number=Sing	6	_	_	start_char=1763|end_char=1774
+8	of	of	ADP	IN	_	7	_	_	start_char=1775|end_char=1777
+9	actual	actual	ADJ	JJ	Degree=Pos	8	_	_	start_char=1778|end_char=1784
+10	temperature	temperature	NOUN	NN	Number=Sing	9	_	_	start_char=1785|end_char=1796
+11	measurements	measurement	NOUN	NNS	Number=Plur	10	_	_	start_char=1797|end_char=1809
+12	from	from	ADP	IN	_	11	_	_	start_char=1810|end_char=1814
+13	surface	surface	NOUN	NN	Number=Sing	12	_	_	start_char=1815|end_char=1822
+14	stations	station	NOUN	NNS	Number=Plur	13	_	_	start_char=1823|end_char=1831
+15	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=1832|end_char=1835
+16	September	September	PROPN	NNP	Number=Sing	15	_	_	start_char=1836|end_char=1845
+17	only	only	ADV	RB	_	16	_	_	start_char=1846|end_char=1850
+18	slightly	slightly	ADV	RB	_	17	_	_	start_char=1851|end_char=1859
+19	warmer	warm	ADJ	JJR	Degree=Cmp	18	_	_	start_char=1860|end_char=1866
+20	than	than	ADP	IN	_	19	_	_	start_char=1867|end_char=1871
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=1872|end_char=1875
+22	average	average	ADJ	JJ	Degree=Pos	21	_	_	start_char=1876|end_char=1883
+23	monthly	monthly	ADJ	JJ	Degree=Pos	22	_	_	start_char=1884|end_char=1891
+24	temperature	temperature	NOUN	NN	Number=Sing	23	_	_	start_char=1892|end_char=1903
+25	of	of	ADP	IN	_	24	_	_	start_char=1904|end_char=1906
+26	the	the	DET	DT	Definite=Def|PronType=Art	25	_	_	start_char=1907|end_char=1910
+27	past	past	ADJ	JJ	Degree=Pos	26	_	_	start_char=1911|end_char=1915
+28	8	8	NUM	CD	NumForm=Digit|NumType=Card	27	_	_	start_char=1916|end_char=1917
+29	years	year	NOUN	NNS	Number=Plur	28	_	_	start_char=1918|end_char=1923
+30	and	and	CCONJ	CC	_	29	_	_	start_char=1924|end_char=1927
+31	9	9	NUM	CD	NumForm=Digit|NumType=Card	30	_	_	start_char=1928|end_char=1929
+32	months	month	NOUN	NNS	Number=Plur	31	_	_	start_char=1930|end_char=1936|SpaceAfter=No
+33	,	,	PUNCT	,	_	32	_	_	start_char=1936|end_char=1937
+34	and	and	CCONJ	CC	_	33	_	_	start_char=1938|end_char=1941
+35	far	far	ADV	RB	Degree=Pos	34	_	_	start_char=1942|end_char=1945
+36	from	from	ADP	IN	_	35	_	_	start_char=1946|end_char=1950
+37	the	the	DET	DT	Definite=Def|PronType=Art	36	_	_	start_char=1951|end_char=1954
+38	warmest	warm	ADJ	JJS	Degree=Sup	37	_	_	start_char=1955|end_char=1962
+39	month	month	NOUN	NN	Number=Sing	38	_	_	start_char=1963|end_char=1968
+40	since	since	ADP	IN	_	39	_	_	start_char=1969|end_char=1974
+41	January	January	PROPN	NNP	Number=Sing	40	_	_	start_char=1975|end_char=1982
+42	2015	2015	NUM	CD	NumForm=Digit|NumType=Card	41	_	_	start_char=1983|end_char=1987|SpaceAfter=No
+43	.	.	PUNCT	.	_	42	_	_	start_char=1987|end_char=1988|SpacesAfter=\n\n
+
+# text = Which data is more accurate and reliable?
+# sent_id = 18
+1	Which	which	DET	WDT	PronType=Int	0	_	_	start_char=1990|end_char=1995
+2	data	datum	NOUN	NNS	Number=Plur	1	_	_	start_char=1996|end_char=2000
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2001|end_char=2003
+4	more	more	ADV	RBR	Degree=Cmp	3	_	_	start_char=2004|end_char=2008
+5	accurate	accurate	ADJ	JJ	Degree=Pos	4	_	_	start_char=2009|end_char=2017
+6	and	and	CCONJ	CC	_	5	_	_	start_char=2018|end_char=2021
+7	reliable	reliable	ADJ	JJ	Degree=Pos	6	_	_	start_char=2022|end_char=2030|SpaceAfter=No
+8	?	?	PUNCT	.	_	7	_	_	start_char=2030|end_char=2031
+
+# text = “NASA admits the surface stations are.
+# sent_id = 19
+1	“	''	PUNCT	``	_	0	_	_	start_char=2032|end_char=2033|SpaceAfter=No
+2	NASA	NASA	PROPN	NNP	Number=Sing	1	_	_	start_char=2033|end_char=2037
+3	admits	admit	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2038|end_char=2044
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=2045|end_char=2048
+5	surface	surface	NOUN	NN	Number=Sing	4	_	_	start_char=2049|end_char=2056
+6	stations	station	NOUN	NNS	Number=Plur	5	_	_	start_char=2057|end_char=2065
+7	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=2066|end_char=2069|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	_	_	start_char=2069|end_char=2070
+
+# text = There has still been no global warming since January 2015,” the report insisted.
+# sent_id = 20
+1	There	there	PRON	EX	_	0	_	_	start_char=2071|end_char=2076
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2077|end_char=2080
+3	still	still	ADV	RB	_	2	_	_	start_char=2081|end_char=2086
+4	been	be	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=2087|end_char=2091
+5	no	no	DET	DT	_	4	_	_	start_char=2092|end_char=2094
+6	global	global	ADJ	JJ	Degree=Pos	5	_	_	start_char=2095|end_char=2101
+7	warming	warming	NOUN	NN	Number=Sing	6	_	_	start_char=2102|end_char=2109
+8	since	since	ADP	IN	_	7	_	_	start_char=2110|end_char=2115
+9	January	January	PROPN	NNP	Number=Sing	8	_	_	start_char=2116|end_char=2123
+10	2015	2015	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=2124|end_char=2128|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=2128|end_char=2129|SpaceAfter=No
+12	”	''	PUNCT	''	_	11	_	_	start_char=2129|end_char=2130
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=2131|end_char=2134
+14	report	report	NOUN	NN	Number=Sing	13	_	_	start_char=2135|end_char=2141
+15	insisted	insist	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=2142|end_char=2150|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=2150|end_char=2151
+
+# text = [That’s “because they directly measure the temperature where people reside”]
+# sent_id = 21
+1	[	[	PUNCT	-LRB-	_	0	_	_	start_char=2152|end_char=2153|SpaceAfter=No
+2-3	That’s	_	_	_	_	_	_	_	start_char=2153|end_char=2159
+2	That	that	PRON	DT	Number=Sing|PronType=Dem	1	_	_	start_char=2153|end_char=2157
+3	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2157|end_char=2159
+4	“	''	PUNCT	``	_	3	_	_	start_char=2160|end_char=2161|SpaceAfter=No
+5	because	because	SCONJ	IN	_	4	_	_	start_char=2161|end_char=2168
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	_	_	start_char=2169|end_char=2173
+7	directly	directly	ADV	RB	_	6	_	_	start_char=2174|end_char=2182
+8	measure	measure	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=2183|end_char=2190
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=2191|end_char=2194
+10	temperature	temperature	NOUN	NN	Number=Sing	9	_	_	start_char=2195|end_char=2206
+11	where	where	ADV	WRB	PronType=Rel	10	_	_	start_char=2207|end_char=2212
+12	people	person	NOUN	NNS	Number=Plur	11	_	_	start_char=2213|end_char=2219
+13	reside	reside	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=2220|end_char=2226|SpaceAfter=No
+14	”	''	PUNCT	''	_	13	_	_	start_char=2226|end_char=2227|SpaceAfter=No
+15	]	]	PUNCT	-RRB-	_	14	_	_	start_char=2227|end_char=2228|SpacesAfter=\n\n
+
+# text = It also stated that “average global temperature” is “not an actual physical metric,” but merely a “flawed notion” used to fuel climate alarmism.
+# sent_id = 22
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=2230|end_char=2232
+2	also	also	ADV	RB	_	1	_	_	start_char=2233|end_char=2237
+3	stated	state	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=2238|end_char=2244
+4	that	that	SCONJ	IN	_	3	_	_	start_char=2245|end_char=2249
+5	“	''	PUNCT	``	_	4	_	_	start_char=2250|end_char=2251|SpaceAfter=No
+6	average	average	ADJ	JJ	Degree=Pos	5	_	_	start_char=2251|end_char=2258
+7	global	global	ADJ	JJ	Degree=Pos	6	_	_	start_char=2259|end_char=2265
+8	temperature	temperature	NOUN	NN	Number=Sing	7	_	_	start_char=2266|end_char=2277|SpaceAfter=No
+9	”	''	PUNCT	''	_	8	_	_	start_char=2277|end_char=2278
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=2279|end_char=2281
+11	“	''	PUNCT	``	_	10	_	_	start_char=2282|end_char=2283|SpaceAfter=No
+12	not	not	PART	RB	_	11	_	_	start_char=2283|end_char=2286
+13	an	a	DET	DT	Definite=Ind|PronType=Art	12	_	_	start_char=2287|end_char=2289
+14	actual	actual	ADJ	JJ	Degree=Pos	13	_	_	start_char=2290|end_char=2296
+15	physical	physical	ADJ	JJ	Degree=Pos	14	_	_	start_char=2297|end_char=2305
+16	metric	metric	NOUN	NN	Number=Sing	15	_	_	start_char=2306|end_char=2312|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=2312|end_char=2313|SpaceAfter=No
+18	”	''	PUNCT	''	_	17	_	_	start_char=2313|end_char=2314
+19	but	but	CCONJ	CC	_	18	_	_	start_char=2315|end_char=2318
+20	merely	merely	ADV	RB	_	19	_	_	start_char=2319|end_char=2325
+21	a	a	DET	DT	Definite=Ind|PronType=Art	20	_	_	start_char=2326|end_char=2327
+22	“	''	PUNCT	``	_	21	_	_	start_char=2328|end_char=2329|SpaceAfter=No
+23	flawed	flawed	ADJ	JJ	Degree=Pos	22	_	_	start_char=2329|end_char=2335
+24	notion	notion	NOUN	NN	Number=Sing	23	_	_	start_char=2336|end_char=2342|SpaceAfter=No
+25	”	''	PUNCT	''	_	24	_	_	start_char=2342|end_char=2343
+26	used	use	VERB	VBN	Tense=Past|VerbForm=Part	25	_	_	start_char=2344|end_char=2348
+27	to	to	PART	TO	_	26	_	_	start_char=2349|end_char=2351
+28	fuel	fuel	VERB	VB	VerbForm=Inf	27	_	_	start_char=2352|end_char=2356
+29	climate	climate	NOUN	NN	Number=Sing	28	_	_	start_char=2357|end_char=2364
+30	alarmism	alarmism	NOUN	NN	Number=Sing	29	_	_	start_char=2365|end_char=2373|SpaceAfter=No
+31	.	.	PUNCT	.	_	30	_	_	start_char=2373|end_char=2374|SpacesAfter=\n\n
+
+# text = The report analyzed and fact-checed multiple media claims about the past month’s weather.
+# sent_id = 23
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2376|end_char=2379
+2	report	report	NOUN	NN	Number=Sing	1	_	_	start_char=2380|end_char=2386
+3	analyzed	analyze	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=2387|end_char=2395
+4	and	and	CCONJ	CC	_	3	_	_	start_char=2396|end_char=2399
+5	fact	fact	NOUN	NN	Number=Sing	4	_	_	start_char=2400|end_char=2404|SpaceAfter=No
+6	-	-	PUNCT	HYPH	_	5	_	_	start_char=2404|end_char=2405|SpaceAfter=No
+7	checed	chece	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=2405|end_char=2411
+8	multiple	multiple	ADJ	JJ	Degree=Pos	7	_	_	start_char=2412|end_char=2420
+9	media	media	NOUN	NN	Number=Sing	8	_	_	start_char=2421|end_char=2426
+10	claims	claim	NOUN	NNS	Number=Plur	9	_	_	start_char=2427|end_char=2433
+11	about	about	ADP	IN	_	10	_	_	start_char=2434|end_char=2439
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=2440|end_char=2443
+13	past	past	ADJ	JJ	Degree=Pos	12	_	_	start_char=2444|end_char=2448
+14-15	month’s	_	_	_	_	_	_	_	start_char=2449|end_char=2456
+14	month	month	NOUN	NN	Number=Sing	13	_	_	start_char=2449|end_char=2454
+15	’s	's	PART	POS	_	14	_	_	start_char=2454|end_char=2456
+16	weather	weather	NOUN	NN	Number=Sing	15	_	_	start_char=2457|end_char=2464|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=2464|end_char=2465
+
+# text = Did the huge downpour in New Yor City brea records and was it due to climate change?
+# sent_id = 24
+1	Did	do	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	_	_	start_char=2466|end_char=2469
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=2470|end_char=2473
+3	huge	huge	ADJ	JJ	Degree=Pos	2	_	_	start_char=2474|end_char=2478
+4	downpour	downpour	NOUN	NN	Number=Sing	3	_	_	start_char=2479|end_char=2487
+5	in	in	ADP	IN	_	4	_	_	start_char=2488|end_char=2490
+6	New	New	ADJ	NNP	Degree=Pos	5	_	_	start_char=2491|end_char=2494
+7	Yor	Yor	PROPN	NNP	Number=Sing	6	_	_	start_char=2495|end_char=2498
+8	City	City	PROPN	NNP	Number=Sing	7	_	_	start_char=2499|end_char=2503
+9	brea	brea	NOUN	NN	Number=Sing	8	_	_	start_char=2504|end_char=2508
+10	records	record	NOUN	NNS	Number=Plur	9	_	_	start_char=2509|end_char=2516
+11	and	and	CCONJ	CC	_	10	_	_	start_char=2517|end_char=2520
+12	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=2521|end_char=2524
+13	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	_	_	start_char=2525|end_char=2527
+14	due	due	ADP	IN	_	13	_	_	start_char=2528|end_char=2531
+15	to	to	ADP	IN	_	14	_	_	start_char=2532|end_char=2534
+16	climate	climate	NOUN	NN	Number=Sing	15	_	_	start_char=2535|end_char=2542
+17	change	change	NOUN	NN	Number=Sing	16	_	_	start_char=2543|end_char=2549|SpaceAfter=No
+18	?	?	PUNCT	.	_	17	_	_	start_char=2549|end_char=2550|SpacesAfter=\n\n
+
+# text = No, the groups said, citing the New Yor Times’s records to disprove the claims.
+# sent_id = 25
+1	No	no	INTJ	UH	Polarity=Neg	0	_	_	start_char=2552|end_char=2554|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=2554|end_char=2555
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=2556|end_char=2559
+4	groups	group	NOUN	NNS	Number=Plur	3	_	_	start_char=2560|end_char=2566
+5	said	say	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=2567|end_char=2571|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=2571|end_char=2572
+7	citing	cite	VERB	VBG	VerbForm=Ger	6	_	_	start_char=2573|end_char=2579
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=2580|end_char=2583
+9	New	New	ADJ	NNP	Degree=Pos	8	_	_	start_char=2584|end_char=2587
+10	Yor	Yor	PROPN	NNP	Number=Sing	9	_	_	start_char=2588|end_char=2591
+11-12	Times’s	_	_	_	_	_	_	_	start_char=2592|end_char=2599
+11	Times	Times	PROPN	NNP	Number=Sing	10	_	_	start_char=2592|end_char=2597
+12	’s	's	PART	POS	_	11	_	_	start_char=2597|end_char=2599
+13	records	record	NOUN	NNS	Number=Plur	12	_	_	start_char=2600|end_char=2607
+14	to	to	PART	TO	_	13	_	_	start_char=2608|end_char=2610
+15	disprove	disprove	VERB	VB	VerbForm=Inf	14	_	_	start_char=2611|end_char=2619
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=2620|end_char=2623
+17	claims	claim	NOUN	NNS	Number=Plur	16	_	_	start_char=2624|end_char=2630|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=2630|end_char=2631|SpacesAfter=\n\n
+
+# text = As The New Yor Times asserted, is rainfall across the country becoming “more fearsome” due to global warming?
+# sent_id = 26
+1	As	as	SCONJ	IN	_	0	_	_	start_char=2633|end_char=2635
+2	The	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=2636|end_char=2639
+3	New	New	ADJ	NNP	Degree=Pos	2	_	_	start_char=2640|end_char=2643
+4	Yor	Yor	PROPN	NNP	Number=Sing	3	_	_	start_char=2644|end_char=2647
+5	Times	Times	PROPN	NNP	Number=Sing	4	_	_	start_char=2648|end_char=2653
+6	asserted	assert	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=2654|end_char=2662|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=2662|end_char=2663
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=2664|end_char=2666
+9	rainfall	rainfall	NOUN	NN	Number=Sing	8	_	_	start_char=2667|end_char=2675
+10	across	across	ADP	IN	_	9	_	_	start_char=2676|end_char=2682
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=2683|end_char=2686
+12	country	country	NOUN	NN	Number=Sing	11	_	_	start_char=2687|end_char=2694
+13	becoming	become	VERB	VBG	VerbForm=Ger	12	_	_	start_char=2695|end_char=2703
+14	“	''	PUNCT	``	_	13	_	_	start_char=2704|end_char=2705|SpaceAfter=No
+15	more	more	ADV	RBR	Degree=Cmp	14	_	_	start_char=2705|end_char=2709
+16	fearsome	fearsome	ADJ	JJ	Degree=Pos	15	_	_	start_char=2710|end_char=2718|SpaceAfter=No
+17	”	''	PUNCT	''	_	16	_	_	start_char=2718|end_char=2719
+18	due	due	ADP	IN	_	17	_	_	start_char=2720|end_char=2723
+19	to	to	ADP	IN	_	18	_	_	start_char=2724|end_char=2726
+20	global	global	ADJ	JJ	Degree=Pos	19	_	_	start_char=2727|end_char=2733
+21	warming	warming	NOUN	NN	Number=Sing	20	_	_	start_char=2734|end_char=2741|SpaceAfter=No
+22	?	?	PUNCT	.	_	21	_	_	start_char=2741|end_char=2742
+
+# text = The problem with that claim is that warmer air doesn’t cause “more intense rainfall,” the groups explained.
+# sent_id = 27
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2743|end_char=2746
+2	problem	problem	NOUN	NN	Number=Sing	1	_	_	start_char=2747|end_char=2754
+3	with	with	ADP	IN	_	2	_	_	start_char=2755|end_char=2759
+4	that	that	DET	DT	Number=Sing|PronType=Dem	3	_	_	start_char=2760|end_char=2764
+5	claim	claim	NOUN	NN	Number=Sing	4	_	_	start_char=2765|end_char=2770
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=2771|end_char=2773
+7	that	that	SCONJ	IN	_	6	_	_	start_char=2774|end_char=2778
+8	warmer	warm	ADJ	JJR	Degree=Cmp	7	_	_	start_char=2779|end_char=2785
+9	air	air	NOUN	NN	Number=Sing	8	_	_	start_char=2786|end_char=2789
+10-11	doesn’t	_	_	_	_	_	_	_	start_char=2790|end_char=2797
+10	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=2790|end_char=2794
+11	n’t	not	PART	RB	_	10	_	_	start_char=2794|end_char=2797
+12	cause	cause	VERB	VB	VerbForm=Inf	11	_	_	start_char=2798|end_char=2803
+13	“	''	PUNCT	``	_	12	_	_	start_char=2804|end_char=2805|SpaceAfter=No
+14	more	more	ADV	RBR	Degree=Cmp	13	_	_	start_char=2805|end_char=2809
+15	intense	intense	ADJ	JJ	Degree=Pos	14	_	_	start_char=2810|end_char=2817
+16	rainfall	rainfall	NOUN	NN	Number=Sing	15	_	_	start_char=2818|end_char=2826|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=2826|end_char=2827|SpaceAfter=No
+18	”	''	PUNCT	''	_	17	_	_	start_char=2827|end_char=2828
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=2829|end_char=2832
+20	groups	group	NOUN	NNS	Number=Plur	19	_	_	start_char=2833|end_char=2839
+21	explained	explain	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	20	_	_	start_char=2840|end_char=2849|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=2849|end_char=2850|SpacesAfter=\n\n
+
+# text = Are Alpine glaciers melting at a concerning rate?
+# sent_id = 28
+1	Are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	start_char=2852|end_char=2855
+2	Alpine	Alpine	PROPN	NNP	Number=Sing	1	_	_	start_char=2856|end_char=2862
+3	glaciers	glacier	NOUN	NNS	Number=Plur	2	_	_	start_char=2863|end_char=2871
+4	melting	melt	VERB	VBG	Tense=Pres|VerbForm=Ger	3	_	_	start_char=2872|end_char=2879
+5	at	at	ADP	IN	_	4	_	_	start_char=2880|end_char=2882
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=2883|end_char=2884
+7	concerning	concern	VERB	VBG	VerbForm=Ger	6	_	_	start_char=2885|end_char=2895
+8	rate	rate	NOUN	NN	Number=Sing	7	_	_	start_char=2896|end_char=2900|SpaceAfter=No
+9	?	?	PUNCT	.	_	8	_	_	start_char=2900|end_char=2901
+
+# text = Perhaps, but it’s not because of man-made “emissions;” the report noted that the Alps were free of ice thousands of years ago, and the current receding has been ongoing for years, before modern industrial society.
+# sent_id = 29
+1	Perhaps	perhaps	ADV	RB	_	0	_	_	start_char=2902|end_char=2909|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=2909|end_char=2910
+3	but	but	CCONJ	CC	_	2	_	_	start_char=2911|end_char=2914
+4-5	it’s	_	_	_	_	_	_	_	start_char=2915|end_char=2919
+4	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	_	_	start_char=2915|end_char=2917
+5	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=2917|end_char=2919
+6	not	not	PART	RB	_	5	_	_	start_char=2920|end_char=2923
+7	because	because	ADP	IN	_	6	_	_	start_char=2924|end_char=2931
+8	of	of	ADP	IN	_	7	_	_	start_char=2932|end_char=2934
+9	man-made	man-made	ADJ	JJ	Degree=Pos	8	_	_	start_char=2935|end_char=2943
+10	“	''	PUNCT	``	_	9	_	_	start_char=2944|end_char=2945|SpaceAfter=No
+11	emissions	emission	NOUN	NNS	Number=Plur	10	_	_	start_char=2945|end_char=2954|SpaceAfter=No
+12	;	;	PUNCT	:	_	11	_	_	start_char=2954|end_char=2955|SpaceAfter=No
+13	”	''	PUNCT	''	_	12	_	_	start_char=2955|end_char=2956
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=2957|end_char=2960
+15	report	report	NOUN	NN	Number=Sing	14	_	_	start_char=2961|end_char=2967
+16	noted	note	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	_	_	start_char=2968|end_char=2973
+17	that	that	SCONJ	IN	_	16	_	_	start_char=2974|end_char=2978
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=2979|end_char=2982
+19	Alps	Alps	PROPN	NNPS	Number=Plur	18	_	_	start_char=2983|end_char=2987
+20	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	19	_	_	start_char=2988|end_char=2992
+21	free	free	ADJ	JJ	Degree=Pos	20	_	_	start_char=2993|end_char=2997
+22	of	of	ADP	IN	_	21	_	_	start_char=2998|end_char=3000
+23	ice	ice	NOUN	NN	Number=Sing	22	_	_	start_char=3001|end_char=3004
+24	thousands	thousand	NOUN	NNS	Number=Plur	23	_	_	start_char=3005|end_char=3014
+25	of	of	ADP	IN	_	24	_	_	start_char=3015|end_char=3017
+26	years	year	NOUN	NNS	Number=Plur	25	_	_	start_char=3018|end_char=3023
+27	ago	ago	ADV	RB	_	26	_	_	start_char=3024|end_char=3027|SpaceAfter=No
+28	,	,	PUNCT	,	_	27	_	_	start_char=3027|end_char=3028
+29	and	and	CCONJ	CC	_	28	_	_	start_char=3029|end_char=3032
+30	the	the	DET	DT	Definite=Def|PronType=Art	29	_	_	start_char=3033|end_char=3036
+31	current	current	ADJ	JJ	Degree=Pos	30	_	_	start_char=3037|end_char=3044
+32	receding	receding	NOUN	NN	Number=Sing	31	_	_	start_char=3045|end_char=3053
+33	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	_	_	start_char=3054|end_char=3057
+34	been	be	AUX	VBN	Tense=Past|VerbForm=Part	33	_	_	start_char=3058|end_char=3062
+35	ongoing	ongoing	ADJ	JJ	Degree=Pos	34	_	_	start_char=3063|end_char=3070
+36	for	for	ADP	IN	_	35	_	_	start_char=3071|end_char=3074
+37	years	year	NOUN	NNS	Number=Plur	36	_	_	start_char=3075|end_char=3080|SpaceAfter=No
+38	,	,	PUNCT	,	_	37	_	_	start_char=3080|end_char=3081
+39	before	before	ADP	IN	_	38	_	_	start_char=3082|end_char=3088
+40	modern	modern	ADJ	JJ	Degree=Pos	39	_	_	start_char=3089|end_char=3095
+41	industrial	industrial	ADJ	JJ	Degree=Pos	40	_	_	start_char=3096|end_char=3106
+42	society	society	NOUN	NN	Number=Sing	41	_	_	start_char=3107|end_char=3114|SpaceAfter=No
+43	.	.	PUNCT	.	_	42	_	_	start_char=3114|end_char=3115|SpacesAfter=\n\n
+
+# text = The report further fact-checed claims around hurricanes, Antarctic ice, emissions and the “hottest summer” propaganda, Norwegian glaciers, and allegedly human-driven global warming.
+# sent_id = 30
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=3117|end_char=3120
+2	report	report	NOUN	NN	Number=Sing	1	_	_	start_char=3121|end_char=3127
+3	further	further	ADJ	JJ	Degree=Pos	2	_	_	start_char=3128|end_char=3135
+4	fact	fact	NOUN	NN	Number=Sing	3	_	_	start_char=3136|end_char=3140|SpaceAfter=No
+5	-	-	PUNCT	HYPH	_	4	_	_	start_char=3140|end_char=3141|SpaceAfter=No
+6	checed	chece	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=3141|end_char=3147
+7	claims	claim	NOUN	NNS	Number=Plur	6	_	_	start_char=3148|end_char=3154
+8	around	around	ADP	IN	_	7	_	_	start_char=3155|end_char=3161
+9	hurricanes	hurricane	NOUN	NNS	Number=Plur	8	_	_	start_char=3162|end_char=3172|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=3172|end_char=3173
+11	Antarctic	Antarctic	ADJ	JJ	Degree=Pos	10	_	_	start_char=3174|end_char=3183
+12	ice	ice	NOUN	NN	Number=Sing	11	_	_	start_char=3184|end_char=3187|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=3187|end_char=3188
+14	emissions	emission	NOUN	NNS	Number=Plur	13	_	_	start_char=3189|end_char=3198
+15	and	and	CCONJ	CC	_	14	_	_	start_char=3199|end_char=3202
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=3203|end_char=3206
+17	“	''	PUNCT	``	_	16	_	_	start_char=3207|end_char=3208|SpaceAfter=No
+18	hottest	hot	ADJ	JJS	Degree=Sup	17	_	_	start_char=3208|end_char=3215
+19	summer	summer	NOUN	NN	Number=Sing	18	_	_	start_char=3216|end_char=3222|SpaceAfter=No
+20	”	''	PUNCT	''	_	19	_	_	start_char=3222|end_char=3223
+21	propaganda	propaganda	NOUN	NN	Number=Sing	20	_	_	start_char=3224|end_char=3234|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=3234|end_char=3235
+23	Norwegian	Norwegian	ADJ	JJ	Degree=Pos	22	_	_	start_char=3236|end_char=3245
+24	glaciers	glacier	NOUN	NNS	Number=Plur	23	_	_	start_char=3246|end_char=3254|SpaceAfter=No
+25	,	,	PUNCT	,	_	24	_	_	start_char=3254|end_char=3255
+26	and	and	CCONJ	CC	_	25	_	_	start_char=3256|end_char=3259
+27	allegedly	allegedly	ADV	RB	_	26	_	_	start_char=3260|end_char=3269
+28	human	human	ADJ	JJ	Degree=Pos	27	_	_	start_char=3270|end_char=3275|SpaceAfter=No
+29	-	-	PUNCT	HYPH	_	28	_	_	start_char=3275|end_char=3276|SpaceAfter=No
+30	driven	drive	VERB	VBN	Tense=Past|VerbForm=Part	29	_	_	start_char=3276|end_char=3282
+31	global	global	ADJ	JJ	Degree=Pos	30	_	_	start_char=3283|end_char=3289
+32	warming	warming	NOUN	NN	Number=Sing	31	_	_	start_char=3290|end_char=3297|SpaceAfter=No
+33	.	.	PUNCT	.	_	32	_	_	start_char=3297|end_char=3298|SpacesAfter=\n\n
+
+# text = It ends by providing context to an analysis supposedly proving man-driven global warming.
+# sent_id = 31
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=3300|end_char=3302
+2	ends	end	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=3303|end_char=3307
+3	by	by	SCONJ	IN	_	2	_	_	start_char=3308|end_char=3310
+4	providing	provide	VERB	VBG	VerbForm=Ger	3	_	_	start_char=3311|end_char=3320
+5	context	context	NOUN	NN	Number=Sing	4	_	_	start_char=3321|end_char=3328
+6	to	to	ADP	IN	_	5	_	_	start_char=3329|end_char=3331
+7	an	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=3332|end_char=3334
+8	analysis	analysis	NOUN	NN	Number=Sing	7	_	_	start_char=3335|end_char=3343
+9	supposedly	supposedly	ADV	RB	_	8	_	_	start_char=3344|end_char=3354
+10	proving	prove	VERB	VBG	VerbForm=Ger	9	_	_	start_char=3355|end_char=3362
+11	man-driven	man-driven	ADJ	JJ	Degree=Pos	10	_	_	start_char=3363|end_char=3373
+12	global	global	ADJ	JJ	Degree=Pos	11	_	_	start_char=3374|end_char=3380
+13	warming	warming	NOUN	NN	Number=Sing	12	_	_	start_char=3381|end_char=3388|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=3388|end_char=3389
+
+# text = If you add in the warming caused by “the series of El Niños,” it’s highly questionable that fossil fuels have warmed Earth “to any discernible extent.”
+# sent_id = 32
+1	If	if	SCONJ	IN	_	0	_	_	start_char=3390|end_char=3392
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	1	_	_	start_char=3393|end_char=3396
+3	add	add	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	_	_	start_char=3397|end_char=3400
+4	in	in	ADP	IN	_	3	_	_	start_char=3401|end_char=3403
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=3404|end_char=3407
+6	warming	warming	NOUN	NN	Number=Sing	5	_	_	start_char=3408|end_char=3415
+7	caused	cause	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=3416|end_char=3422
+8	by	by	ADP	IN	_	7	_	_	start_char=3423|end_char=3425
+9	“	''	PUNCT	``	_	8	_	_	start_char=3426|end_char=3427|SpaceAfter=No
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=3427|end_char=3430
+11	series	series	NOUN	NN	Number=Sing	10	_	_	start_char=3431|end_char=3437
+12	of	of	ADP	IN	_	11	_	_	start_char=3438|end_char=3440
+13	El	El	PROPN	NNP	Number=Sing	12	_	_	start_char=3441|end_char=3443
+14	Niños	Niños	PROPN	NNP	Number=Sing	13	_	_	start_char=3444|end_char=3449|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=3449|end_char=3450|SpaceAfter=No
+16	”	''	PUNCT	''	_	15	_	_	start_char=3450|end_char=3451
+17-18	it’s	_	_	_	_	_	_	_	start_char=3452|end_char=3456
+17	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	_	_	start_char=3452|end_char=3454
+18	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=3454|end_char=3456
+19	highly	highly	ADV	RB	_	18	_	_	start_char=3457|end_char=3463
+20	questionable	questionable	ADJ	JJ	Degree=Pos	19	_	_	start_char=3464|end_char=3476
+21	that	that	SCONJ	IN	_	20	_	_	start_char=3477|end_char=3481
+22	fossil	fossil	NOUN	NN	Number=Sing	21	_	_	start_char=3482|end_char=3488
+23	fuels	fuel	NOUN	NNS	Number=Plur	22	_	_	start_char=3489|end_char=3494
+24	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	_	_	start_char=3495|end_char=3499
+25	warmed	warm	VERB	VBN	Tense=Past|VerbForm=Part	24	_	_	start_char=3500|end_char=3506
+26	Earth	Earth	PROPN	NNP	Number=Sing	25	_	_	start_char=3507|end_char=3512
+27	“	''	PUNCT	''	_	26	_	_	start_char=3513|end_char=3514|SpaceAfter=No
+28	to	to	ADP	IN	_	27	_	_	start_char=3514|end_char=3516
+29	any	any	DET	DT	_	28	_	_	start_char=3517|end_char=3520
+30	discernible	discernible	ADJ	JJ	Degree=Pos	29	_	_	start_char=3521|end_char=3532
+31	extent	extent	NOUN	NN	Number=Sing	30	_	_	start_char=3533|end_char=3539|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=3539|end_char=3540|SpaceAfter=No
+33	”	''	PUNCT	''	_	32	_	_	start_char=3540|end_char=3541|SpacesAfter=\n\n
+
+# text = In fact, National Oceanic and Atmospheric Administration (NOAA) data showed earlier this year that there hadn’t been global warming for eight years.
+# sent_id = 33
+1	In	in	ADP	IN	_	0	_	_	start_char=3543|end_char=3545
+2	fact	fact	NOUN	NN	Number=Sing	1	_	_	start_char=3546|end_char=3550|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=3550|end_char=3551
+4	National	National	ADJ	NNP	Degree=Pos	3	_	_	start_char=3552|end_char=3560
+5	Oceanic	Oceanic	ADJ	NNP	Degree=Pos	4	_	_	start_char=3561|end_char=3568
+6	and	and	CCONJ	CC	_	5	_	_	start_char=3569|end_char=3572
+7	Atmospheric	atmospheric	ADJ	NNP	Degree=Pos	6	_	_	start_char=3573|end_char=3584
+8	Administration	Administration	PROPN	NNP	Number=Sing	7	_	_	start_char=3585|end_char=3599
+9	(	(	PUNCT	-LRB-	_	8	_	_	start_char=3600|end_char=3601|SpaceAfter=No
+10	NOAA	NOAA	PROPN	NNP	Number=Sing	9	_	_	start_char=3601|end_char=3605|SpaceAfter=No
+11	)	)	PUNCT	-RRB-	_	10	_	_	start_char=3605|end_char=3606
+12	data	datum	NOUN	NNS	Number=Plur	11	_	_	start_char=3607|end_char=3611
+13	showed	show	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=3612|end_char=3618
+14	earlier	early	ADV	RBR	Degree=Cmp	13	_	_	start_char=3619|end_char=3626
+15	this	this	DET	DT	Number=Sing|PronType=Dem	14	_	_	start_char=3627|end_char=3631
+16	year	year	NOUN	NN	Number=Sing	15	_	_	start_char=3632|end_char=3636
+17	that	that	SCONJ	IN	_	16	_	_	start_char=3637|end_char=3641
+18	there	there	PRON	EX	_	17	_	_	start_char=3642|end_char=3647
+19-20	hadn’t	_	_	_	_	_	_	_	start_char=3648|end_char=3654
+19	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	_	_	start_char=3648|end_char=3651
+20	n’t	not	PART	RB	_	19	_	_	start_char=3651|end_char=3654
+21	been	be	VERB	VBN	Tense=Past|VerbForm=Part	20	_	_	start_char=3655|end_char=3659
+22	global	global	ADJ	JJ	Degree=Pos	21	_	_	start_char=3660|end_char=3666
+23	warming	warming	NOUN	NN	Number=Sing	22	_	_	start_char=3667|end_char=3674
+24	for	for	ADP	IN	_	23	_	_	start_char=3675|end_char=3678
+25	eight	eight	NUM	CD	NumForm=Word|NumType=Card	24	_	_	start_char=3679|end_char=3684
+26	years	year	NOUN	NNS	Number=Plur	25	_	_	start_char=3685|end_char=3690|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=3690|end_char=3691|SpacesAfter=\n\n
+
+# text = The “climate crisis” is an unscientific political croc.
+# sent_id = 34
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=3693|end_char=3696
+2	“	''	PUNCT	``	_	1	_	_	start_char=3697|end_char=3698|SpaceAfter=No
+3	climate	climate	NOUN	NN	Number=Sing	2	_	_	start_char=3698|end_char=3705
+4	crisis	crisis	NOUN	NN	Number=Sing	3	_	_	start_char=3706|end_char=3712|SpaceAfter=No
+5	”	''	PUNCT	''	_	4	_	_	start_char=3712|end_char=3713
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=3714|end_char=3716
+7	an	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=3717|end_char=3719
+8	unscientific	unscientific	ADJ	JJ	Degree=Pos	7	_	_	start_char=3720|end_char=3732
+9	political	political	ADJ	JJ	Degree=Pos	8	_	_	start_char=3733|end_char=3742
+10	croc	croc	NOUN	NN	Number=Sing	9	_	_	start_char=3743|end_char=3747|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=3747|end_char=3748|SpaceAfter=No
+

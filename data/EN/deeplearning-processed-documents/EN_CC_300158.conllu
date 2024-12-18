@@ -1,0 +1,767 @@
+# text = Climate Expert Debuns The Climate BS In The Wall Street Journal
+# sent_id = 0
+1	Climate	climate	NOUN	NN	Number=Sing	0	_	_	start_char=0|end_char=7
+2	Expert	Expert	PROPN	NNP	Number=Sing	1	_	_	start_char=8|end_char=14
+3	Debuns	Debuns	PROPN	NNP	Number=Sing	2	_	_	start_char=15|end_char=21
+4	The	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=22|end_char=25
+5	Climate	Climate	PROPN	NNP	Number=Sing	4	_	_	start_char=26|end_char=33
+6	BS	bs	NOUN	NN	Number=Sing	5	_	_	start_char=34|end_char=36
+7	In	in	ADP	IN	_	6	_	_	start_char=37|end_char=39
+8	The	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=40|end_char=43
+9	Wall	Wall	PROPN	NNP	Number=Sing	8	_	_	start_char=44|end_char=48
+10	Street	Street	PROPN	NNP	Number=Sing	9	_	_	start_char=49|end_char=55
+11	Journal	Journal	PROPN	NNP	Number=Sing	10	_	_	start_char=56|end_char=63|SpacesAfter=\s\n\n\s
+
+# text = My publisher contacted me this wee, drawing attention to a Wall Street Journal article claiming climate change is producing shortages of “the finer things in life,” lie wine, coffee, cocoa, and olive oil.
+# sent_id = 1
+1	My	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	_	_	start_char=67|end_char=69
+2	publisher	publisher	NOUN	NN	Number=Sing	1	_	_	start_char=70|end_char=79
+3	contacted	contact	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=80|end_char=89
+4	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	_	_	start_char=90|end_char=92
+5	this	this	DET	DT	Number=Sing|PronType=Dem	4	_	_	start_char=93|end_char=97
+6	wee	wee	NOUN	NN	Number=Sing	5	_	_	start_char=98|end_char=101|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=101|end_char=102
+8	drawing	draw	VERB	VBG	VerbForm=Ger	7	_	_	start_char=103|end_char=110
+9	attention	attention	NOUN	NN	Number=Sing	8	_	_	start_char=111|end_char=120
+10	to	to	ADP	IN	_	9	_	_	start_char=121|end_char=123
+11	a	a	DET	DT	Definite=Ind|PronType=Art	10	_	_	start_char=124|end_char=125
+12	Wall	Wall	PROPN	NNP	Number=Sing	11	_	_	start_char=126|end_char=130
+13	Street	Street	PROPN	NNP	Number=Sing	12	_	_	start_char=131|end_char=137
+14	Journal	Journal	PROPN	NNP	Number=Sing	13	_	_	start_char=138|end_char=145
+15	article	article	NOUN	NN	Number=Sing	14	_	_	start_char=146|end_char=153
+16	claiming	claim	VERB	VBG	VerbForm=Ger	15	_	_	start_char=154|end_char=162
+17	climate	climate	NOUN	NN	Number=Sing	16	_	_	start_char=163|end_char=170
+18	change	change	NOUN	NN	Number=Sing	17	_	_	start_char=171|end_char=177
+19	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=178|end_char=180
+20	producing	produce	VERB	VBG	Tense=Pres|VerbForm=Part	19	_	_	start_char=181|end_char=190
+21	shortages	shortage	NOUN	NNS	Number=Plur	20	_	_	start_char=191|end_char=200
+22	of	of	ADP	IN	_	21	_	_	start_char=201|end_char=203
+23	“	''	PUNCT	``	_	22	_	_	start_char=204|end_char=205|SpaceAfter=No
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=205|end_char=208
+25	finer	finer	ADJ	JJ	Degree=Pos	24	_	_	start_char=209|end_char=214
+26	things	thing	NOUN	NNS	Number=Plur	25	_	_	start_char=215|end_char=221
+27	in	in	ADP	IN	_	26	_	_	start_char=222|end_char=224
+28	life	life	NOUN	NN	Number=Sing	27	_	_	start_char=225|end_char=229|SpaceAfter=No
+29	,	,	PUNCT	,	_	28	_	_	start_char=229|end_char=230|SpaceAfter=No
+30	”	''	PUNCT	''	_	29	_	_	start_char=230|end_char=231
+31	lie	lie	VERB	VBP	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	30	_	_	start_char=232|end_char=235
+32	wine	wine	NOUN	NN	Number=Sing	31	_	_	start_char=236|end_char=240|SpaceAfter=No
+33	,	,	PUNCT	,	_	32	_	_	start_char=240|end_char=241
+34	coffee	coffee	NOUN	NN	Number=Sing	33	_	_	start_char=242|end_char=248|SpaceAfter=No
+35	,	,	PUNCT	,	_	34	_	_	start_char=248|end_char=249
+36	cocoa	cocoa	NOUN	NN	Number=Sing	35	_	_	start_char=250|end_char=255|SpaceAfter=No
+37	,	,	PUNCT	,	_	36	_	_	start_char=255|end_char=256
+38	and	and	CCONJ	CC	_	37	_	_	start_char=257|end_char=260
+39	olive	olive	NOUN	NN	Number=Sing	38	_	_	start_char=261|end_char=266
+40	oil	oil	NOUN	NN	Number=Sing	39	_	_	start_char=267|end_char=270|SpaceAfter=No
+41	.	.	PUNCT	.	_	40	_	_	start_char=270|end_char=271
+
+# text = [emphasis, lins added]
+# sent_id = 2
+1	[	[	PUNCT	-LRB-	_	0	_	_	start_char=272|end_char=273|SpaceAfter=No
+2	emphasis	emphasis	NOUN	NN	Number=Sing	1	_	_	start_char=273|end_char=281|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=281|end_char=282
+4	lins	lin	NOUN	NNS	Number=Plur	3	_	_	start_char=283|end_char=287
+5	added	add	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=288|end_char=293|SpaceAfter=No
+6	]	]	PUNCT	-RRB-	_	5	_	_	start_char=293|end_char=294|SpacesAfter=\n\n
+
+# text = The implication was clear: your carbon footprint is causing the price of these commodities to sharply rise.
+# sent_id = 3
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=296|end_char=299
+2	implication	implication	NOUN	NN	Number=Sing	1	_	_	start_char=300|end_char=311
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=312|end_char=315
+4	clear	clear	ADJ	JJ	Degree=Pos	3	_	_	start_char=316|end_char=321|SpaceAfter=No
+5	:	:	PUNCT	:	_	4	_	_	start_char=321|end_char=322
+6	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	5	_	_	start_char=323|end_char=327
+7	carbon	carbon	NOUN	NN	Number=Sing	6	_	_	start_char=328|end_char=334
+8	footprint	footprint	NOUN	NN	Number=Sing	7	_	_	start_char=335|end_char=344
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=345|end_char=347
+10	causing	cause	VERB	VBG	Tense=Pres|VerbForm=Part	9	_	_	start_char=348|end_char=355
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=356|end_char=359
+12	price	price	NOUN	NN	Number=Sing	11	_	_	start_char=360|end_char=365
+13	of	of	ADP	IN	_	12	_	_	start_char=366|end_char=368
+14	these	this	DET	DT	Number=Plur|PronType=Dem	13	_	_	start_char=369|end_char=374
+15	commodities	commodity	NOUN	NNS	Number=Plur	14	_	_	start_char=375|end_char=386
+16	to	to	PART	TO	_	15	_	_	start_char=387|end_char=389
+17	sharply	sharply	ADV	RB	_	16	_	_	start_char=390|end_char=397
+18	rise	rise	VERB	VB	VerbForm=Inf	17	_	_	start_char=398|end_char=402|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=402|end_char=403|SpacesAfter=\n\n
+
+# text = “Total bull-bleep,” I replied.
+# sent_id = 4
+1	“	''	PUNCT	``	_	0	_	_	start_char=405|end_char=406|SpaceAfter=No
+2	Total	total	ADJ	JJ	Degree=Pos	1	_	_	start_char=406|end_char=411
+3	bull	bull	NOUN	NN	Number=Sing	2	_	_	start_char=412|end_char=416|SpaceAfter=No
+4	-	-	PUNCT	HYPH	_	3	_	_	start_char=416|end_char=417|SpaceAfter=No
+5	bleep	bleep	NOUN	NN	Number=Sing	4	_	_	start_char=417|end_char=422|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=422|end_char=423|SpaceAfter=No
+7	”	''	PUNCT	''	_	6	_	_	start_char=423|end_char=424
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	_	_	start_char=425|end_char=426
+9	replied	reply	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	8	_	_	start_char=427|end_char=434|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=434|end_char=435|SpacesAfter=\n\n
+
+# text = Specifically, the story speas of the recent drought in West Africa, which has resulted in a cocoa shortage; dry spells in Vietnam, which have reduced coffee harvests; and parched Italian olive groves and grape vineyards, which were recently destroyed by wildfires.
+# sent_id = 5
+1	Specifically	specifically	ADV	RB	_	0	_	_	start_char=437|end_char=449|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=449|end_char=450
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=451|end_char=454
+4	story	story	NOUN	NN	Number=Sing	3	_	_	start_char=455|end_char=460
+5	speas	spea	NOUN	NNS	Number=Plur	4	_	_	start_char=461|end_char=466
+6	of	of	ADP	IN	_	5	_	_	start_char=467|end_char=469
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=470|end_char=473
+8	recent	recent	ADJ	JJ	Degree=Pos	7	_	_	start_char=474|end_char=480
+9	drought	drought	NOUN	NN	Number=Sing	8	_	_	start_char=481|end_char=488
+10	in	in	ADP	IN	_	9	_	_	start_char=489|end_char=491
+11	West	West	PROPN	NNP	Number=Sing	10	_	_	start_char=492|end_char=496
+12	Africa	Africa	PROPN	NNP	Number=Sing	11	_	_	start_char=497|end_char=503|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=503|end_char=504
+14	which	which	PRON	WDT	PronType=Rel	13	_	_	start_char=505|end_char=510
+15	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=511|end_char=514
+16	resulted	result	VERB	VBN	Tense=Past|VerbForm=Part	15	_	_	start_char=515|end_char=523
+17	in	in	ADP	IN	_	16	_	_	start_char=524|end_char=526
+18	a	a	DET	DT	Definite=Ind|PronType=Art	17	_	_	start_char=527|end_char=528
+19	cocoa	cocoa	NOUN	NN	Number=Sing	18	_	_	start_char=529|end_char=534
+20	shortage	shortage	NOUN	NN	Number=Sing	19	_	_	start_char=535|end_char=543|SpaceAfter=No
+21	;	;	PUNCT	:	_	20	_	_	start_char=543|end_char=544
+22	dry	dry	ADJ	JJ	Degree=Pos	21	_	_	start_char=545|end_char=548
+23	spells	spell	NOUN	NNS	Number=Plur	22	_	_	start_char=549|end_char=555
+24	in	in	ADP	IN	_	23	_	_	start_char=556|end_char=558
+25	Vietnam	Vietnam	PROPN	NNP	Number=Sing	24	_	_	start_char=559|end_char=566|SpaceAfter=No
+26	,	,	PUNCT	,	_	25	_	_	start_char=566|end_char=567
+27	which	which	PRON	WDT	PronType=Rel	26	_	_	start_char=568|end_char=573
+28	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	27	_	_	start_char=574|end_char=578
+29	reduced	reduce	VERB	VBN	Tense=Past|VerbForm=Part	28	_	_	start_char=579|end_char=586
+30	coffee	coffee	NOUN	NN	Number=Sing	29	_	_	start_char=587|end_char=593
+31	harvests	harvest	NOUN	NNS	Number=Plur	30	_	_	start_char=594|end_char=602|SpaceAfter=No
+32	;	;	PUNCT	:	_	31	_	_	start_char=602|end_char=603
+33	and	and	CCONJ	CC	_	32	_	_	start_char=604|end_char=607
+34	parched	parched	VERB	VBN	Tense=Past|VerbForm=Part	33	_	_	start_char=608|end_char=615
+35	Italian	Italian	ADJ	JJ	Degree=Pos	34	_	_	start_char=616|end_char=623
+36	olive	olive	NOUN	NN	Number=Sing	35	_	_	start_char=624|end_char=629
+37	groves	grove	NOUN	NNS	Number=Plur	36	_	_	start_char=630|end_char=636
+38	and	and	CCONJ	CC	_	37	_	_	start_char=637|end_char=640
+39	grape	grape	NOUN	NN	Number=Sing	38	_	_	start_char=641|end_char=646
+40	vineyards	vineyard	NOUN	NNS	Number=Plur	39	_	_	start_char=647|end_char=656|SpaceAfter=No
+41	,	,	PUNCT	,	_	40	_	_	start_char=656|end_char=657
+42	which	which	PRON	WDT	PronType=Rel	41	_	_	start_char=658|end_char=663
+43	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	42	_	_	start_char=664|end_char=668
+44	recently	recently	ADV	RB	_	43	_	_	start_char=669|end_char=677
+45	destroyed	destroy	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	44	_	_	start_char=678|end_char=687
+46	by	by	ADP	IN	_	45	_	_	start_char=688|end_char=690
+47	wildfires	wildfire	NOUN	NNS	Number=Plur	46	_	_	start_char=691|end_char=700|SpaceAfter=No
+48	.	.	PUNCT	.	_	47	_	_	start_char=700|end_char=701|SpacesAfter=\n\n
+
+# text = None of these meteorological events has anything to do with the use of fossil fuels and the subsequent release of carbon dioxide into the atmosphere.
+# sent_id = 6
+1	None	none	NOUN	NN	Number=Sing	0	_	_	start_char=703|end_char=707
+2	of	of	ADP	IN	_	1	_	_	start_char=708|end_char=710
+3	these	this	DET	DT	Number=Plur|PronType=Dem	2	_	_	start_char=711|end_char=716
+4	meteorological	meteorological	ADJ	JJ	Degree=Pos	3	_	_	start_char=717|end_char=731
+5	events	event	NOUN	NNS	Number=Plur	4	_	_	start_char=732|end_char=738
+6	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=739|end_char=742
+7	anything	anything	PRON	NN	Number=Sing|PronType=Ind	6	_	_	start_char=743|end_char=751
+8	to	to	PART	TO	_	7	_	_	start_char=752|end_char=754
+9	do	do	VERB	VB	VerbForm=Inf	8	_	_	start_char=755|end_char=757
+10	with	with	ADP	IN	_	9	_	_	start_char=758|end_char=762
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=763|end_char=766
+12	use	use	NOUN	NN	Number=Sing	11	_	_	start_char=767|end_char=770
+13	of	of	ADP	IN	_	12	_	_	start_char=771|end_char=773
+14	fossil	fossil	NOUN	NN	Number=Sing	13	_	_	start_char=774|end_char=780
+15	fuels	fuel	NOUN	NNS	Number=Plur	14	_	_	start_char=781|end_char=786
+16	and	and	CCONJ	CC	_	15	_	_	start_char=787|end_char=790
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=791|end_char=794
+18	subsequent	subsequent	ADJ	JJ	Degree=Pos	17	_	_	start_char=795|end_char=805
+19	release	release	NOUN	NN	Number=Sing	18	_	_	start_char=806|end_char=813
+20	of	of	ADP	IN	_	19	_	_	start_char=814|end_char=816
+21	carbon	carbon	NOUN	NN	Number=Sing	20	_	_	start_char=817|end_char=823
+22	dioxide	dioxide	NOUN	NN	Number=Sing	21	_	_	start_char=824|end_char=831
+23	into	into	ADP	IN	_	22	_	_	start_char=832|end_char=836
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=837|end_char=840
+25	atmosphere	atmosphere	NOUN	NN	Number=Sing	24	_	_	start_char=841|end_char=851|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=851|end_char=852|SpacesAfter=\n\n
+
+# text = The truth is that these regions of the world are historically well-nown for witnessing wild swings in otherwise natural weather patterns.
+# sent_id = 7
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=854|end_char=857
+2	truth	truth	NOUN	NN	Number=Sing	1	_	_	start_char=858|end_char=863
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=864|end_char=866
+4	that	that	SCONJ	IN	_	3	_	_	start_char=867|end_char=871
+5	these	this	DET	DT	Number=Plur|PronType=Dem	4	_	_	start_char=872|end_char=877
+6	regions	region	NOUN	NNS	Number=Plur	5	_	_	start_char=878|end_char=885
+7	of	of	ADP	IN	_	6	_	_	start_char=886|end_char=888
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=889|end_char=892
+9	world	world	NOUN	NN	Number=Sing	8	_	_	start_char=893|end_char=898
+10	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=899|end_char=902
+11	historically	historically	ADV	RB	_	10	_	_	start_char=903|end_char=915
+12	well	well	ADV	RB	Degree=Pos	11	_	_	start_char=916|end_char=920|SpaceAfter=No
+13	-	-	PUNCT	HYPH	_	12	_	_	start_char=920|end_char=921|SpaceAfter=No
+14	nown	nown	ADJ	JJ	Degree=Pos	13	_	_	start_char=921|end_char=925
+15	for	for	SCONJ	IN	_	14	_	_	start_char=926|end_char=929
+16	witnessing	witness	VERB	VBG	VerbForm=Ger	15	_	_	start_char=930|end_char=940
+17	wild	wild	ADJ	JJ	Degree=Pos	16	_	_	start_char=941|end_char=945
+18	swings	swing	NOUN	NNS	Number=Plur	17	_	_	start_char=946|end_char=952
+19	in	in	ADP	IN	_	18	_	_	start_char=953|end_char=955
+20	otherwise	otherwise	ADV	RB	_	19	_	_	start_char=956|end_char=965
+21	natural	natural	ADJ	JJ	Degree=Pos	20	_	_	start_char=966|end_char=973
+22	weather	weather	NOUN	NN	Number=Sing	21	_	_	start_char=974|end_char=981
+23	patterns	pattern	NOUN	NNS	Number=Plur	22	_	_	start_char=982|end_char=990|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=990|end_char=991|SpacesAfter=\n\n
+
+# text = As I explain repeatedly in my new boo Climate Cult: Exposing and Defeating Their War on Life, Liberty, and Property, such misinformation feeds into an elaborate propaganda campaign designed to frighten the developed world into demanding a carbon-neutral energy grid that would be about as reliable North orea’s.
+# sent_id = 8
+1	As	as	SCONJ	IN	_	0	_	_	start_char=993|end_char=995
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	_	_	start_char=996|end_char=997
+3	explain	explain	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=998|end_char=1005
+4	repeatedly	repeatedly	ADV	RB	_	3	_	_	start_char=1006|end_char=1016
+5	in	in	ADP	IN	_	4	_	_	start_char=1017|end_char=1019
+6	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	_	_	start_char=1020|end_char=1022
+7	new	new	ADJ	JJ	Degree=Pos	6	_	_	start_char=1023|end_char=1026
+8	boo	boo	NOUN	NN	Number=Sing	7	_	_	start_char=1027|end_char=1030
+9	Climate	Climate	PROPN	NNP	Number=Sing	8	_	_	start_char=1031|end_char=1038
+10	Cult	Cult	PROPN	NNP	Number=Sing	9	_	_	start_char=1039|end_char=1043|SpaceAfter=No
+11	:	:	PUNCT	:	_	10	_	_	start_char=1043|end_char=1044
+12	Exposing	expose	VERB	VBG	VerbForm=Ger	11	_	_	start_char=1045|end_char=1053
+13	and	and	CCONJ	CC	_	12	_	_	start_char=1054|end_char=1057
+14	Defeating	defeat	VERB	VBG	VerbForm=Ger	13	_	_	start_char=1058|end_char=1067
+15	Their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	14	_	_	start_char=1068|end_char=1073
+16	War	War	PROPN	NNP	Number=Sing	15	_	_	start_char=1074|end_char=1077
+17	on	on	ADP	IN	_	16	_	_	start_char=1078|end_char=1080
+18	Life	Life	PROPN	NNP	Number=Sing	17	_	_	start_char=1081|end_char=1085|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=1085|end_char=1086
+20	Liberty	Liberty	PROPN	NNP	Number=Sing	19	_	_	start_char=1087|end_char=1094|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=1094|end_char=1095
+22	and	and	CCONJ	CC	_	21	_	_	start_char=1096|end_char=1099
+23	Property	Property	PROPN	NNP	Number=Sing	22	_	_	start_char=1100|end_char=1108|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=1108|end_char=1109
+25	such	such	ADJ	JJ	Degree=Pos	24	_	_	start_char=1110|end_char=1114
+26	misinformation	misinformation	NOUN	NN	Number=Sing	25	_	_	start_char=1115|end_char=1129
+27	feeds	feed	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	_	_	start_char=1130|end_char=1135
+28	into	into	ADP	IN	_	27	_	_	start_char=1136|end_char=1140
+29	an	a	DET	DT	Definite=Ind|PronType=Art	28	_	_	start_char=1141|end_char=1143
+30	elaborate	elaborate	ADJ	JJ	Degree=Pos	29	_	_	start_char=1144|end_char=1153
+31	propaganda	propaganda	NOUN	NN	Number=Sing	30	_	_	start_char=1154|end_char=1164
+32	campaign	campaign	NOUN	NN	Number=Sing	31	_	_	start_char=1165|end_char=1173
+33	designed	design	VERB	VBN	Tense=Past|VerbForm=Part	32	_	_	start_char=1174|end_char=1182
+34	to	to	PART	TO	_	33	_	_	start_char=1183|end_char=1185
+35	frighten	frighten	VERB	VB	VerbForm=Inf	34	_	_	start_char=1186|end_char=1194
+36	the	the	DET	DT	Definite=Def|PronType=Art	35	_	_	start_char=1195|end_char=1198
+37	developed	developed	ADJ	JJ	Degree=Pos	36	_	_	start_char=1199|end_char=1208
+38	world	world	NOUN	NN	Number=Sing	37	_	_	start_char=1209|end_char=1214
+39	into	into	SCONJ	IN	_	38	_	_	start_char=1215|end_char=1219
+40	demanding	demand	VERB	VBG	VerbForm=Ger	39	_	_	start_char=1220|end_char=1229
+41	a	a	DET	DT	Definite=Ind|PronType=Art	40	_	_	start_char=1230|end_char=1231
+42	carbon	carbon	NOUN	NN	Number=Sing	41	_	_	start_char=1232|end_char=1238|SpaceAfter=No
+43	-	-	PUNCT	HYPH	_	42	_	_	start_char=1238|end_char=1239|SpaceAfter=No
+44	neutral	neutral	ADJ	JJ	Degree=Pos	43	_	_	start_char=1239|end_char=1246
+45	energy	energy	NOUN	NN	Number=Sing	44	_	_	start_char=1247|end_char=1253
+46	grid	grid	NOUN	NN	Number=Sing	45	_	_	start_char=1254|end_char=1258
+47	that	that	PRON	WDT	PronType=Rel	46	_	_	start_char=1259|end_char=1263
+48	would	would	AUX	MD	VerbForm=Fin	47	_	_	start_char=1264|end_char=1269
+49	be	be	AUX	VB	VerbForm=Inf	48	_	_	start_char=1270|end_char=1272
+50	about	about	ADV	RB	_	49	_	_	start_char=1273|end_char=1278
+51	as	as	ADP	IN	_	50	_	_	start_char=1279|end_char=1281
+52	reliable	reliable	ADJ	JJ	Degree=Pos	51	_	_	start_char=1282|end_char=1290
+53	North	North	PROPN	NNP	Number=Sing	52	_	_	start_char=1291|end_char=1296
+54-55	orea’s	_	_	_	_	_	_	_	start_char=1297|end_char=1303|SpaceAfter=No
+54	orea	orea	NOUN	NN	Number=Sing	53	_	_	start_char=1297|end_char=1301
+55	’s	's	PART	POS	_	54	_	_	start_char=1301|end_char=1303
+56	.	.	PUNCT	.	_	55	_	_	start_char=1303|end_char=1304|SpacesAfter=\n\n
+
+# text = Let’s begin with West Africa, where the climate periodically exhibits large spatial and temporal variabilities that allow for recurrent droughts, some lasting hundreds of years.
+# sent_id = 9
+1-2	Let’s	_	_	_	_	_	_	_	start_char=1306|end_char=1311
+1	Let	let	VERB	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=1306|end_char=1309
+2	’s	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	1	_	_	start_char=1309|end_char=1311
+3	begin	begin	VERB	VB	VerbForm=Inf	2	_	_	start_char=1312|end_char=1317
+4	with	with	ADP	IN	_	3	_	_	start_char=1318|end_char=1322
+5	West	West	PROPN	NNP	Number=Sing	4	_	_	start_char=1323|end_char=1327
+6	Africa	Africa	PROPN	NNP	Number=Sing	5	_	_	start_char=1328|end_char=1334|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=1334|end_char=1335
+8	where	where	ADV	WRB	PronType=Rel	7	_	_	start_char=1336|end_char=1341
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1342|end_char=1345
+10	climate	climate	NOUN	NN	Number=Sing	9	_	_	start_char=1346|end_char=1353
+11	periodically	periodically	ADV	RB	_	10	_	_	start_char=1354|end_char=1366
+12	exhibits	exhibit	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=1367|end_char=1375
+13	large	large	ADJ	JJ	Degree=Pos	12	_	_	start_char=1376|end_char=1381
+14	spatial	spatial	ADJ	JJ	Degree=Pos	13	_	_	start_char=1382|end_char=1389
+15	and	and	CCONJ	CC	_	14	_	_	start_char=1390|end_char=1393
+16	temporal	temporal	ADJ	JJ	Degree=Pos	15	_	_	start_char=1394|end_char=1402
+17	variabilities	variability	NOUN	NNS	Number=Plur	16	_	_	start_char=1403|end_char=1416
+18	that	that	PRON	WDT	PronType=Rel	17	_	_	start_char=1417|end_char=1421
+19	allow	allow	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=1422|end_char=1427
+20	for	for	ADP	IN	_	19	_	_	start_char=1428|end_char=1431
+21	recurrent	recurrent	ADJ	JJ	Degree=Pos	20	_	_	start_char=1432|end_char=1441
+22	droughts	drought	NOUN	NNS	Number=Plur	21	_	_	start_char=1442|end_char=1450|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=1450|end_char=1451
+24	some	some	DET	DT	_	23	_	_	start_char=1452|end_char=1456
+25	lasting	last	VERB	VBG	VerbForm=Ger	24	_	_	start_char=1457|end_char=1464
+26	hundreds	hundred	NOUN	NNS	Number=Plur	25	_	_	start_char=1465|end_char=1473
+27	of	of	ADP	IN	_	26	_	_	start_char=1474|end_char=1476
+28	years	year	NOUN	NNS	Number=Plur	27	_	_	start_char=1477|end_char=1482|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=1482|end_char=1483|SpacesAfter=\n\n
+
+# text = In fact, the past couple of years of dry weather pales in comparison to the West African droughts in the 1970s and ’80s.
+# sent_id = 10
+1	In	in	ADP	IN	_	0	_	_	start_char=1485|end_char=1487
+2	fact	fact	NOUN	NN	Number=Sing	1	_	_	start_char=1488|end_char=1492|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=1492|end_char=1493
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1494|end_char=1497
+5	past	past	ADJ	JJ	Degree=Pos	4	_	_	start_char=1498|end_char=1502
+6	couple	couple	NOUN	NN	Number=Sing	5	_	_	start_char=1503|end_char=1509
+7	of	of	ADP	IN	_	6	_	_	start_char=1510|end_char=1512
+8	years	year	NOUN	NNS	Number=Plur	7	_	_	start_char=1513|end_char=1518
+9	of	of	ADP	IN	_	8	_	_	start_char=1519|end_char=1521
+10	dry	dry	ADJ	JJ	Degree=Pos	9	_	_	start_char=1522|end_char=1525
+11	weather	weather	NOUN	NN	Number=Sing	10	_	_	start_char=1526|end_char=1533
+12	pales	pale	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=1534|end_char=1539
+13	in	in	ADP	IN	_	12	_	_	start_char=1540|end_char=1542
+14	comparison	comparison	NOUN	NN	Number=Sing	13	_	_	start_char=1543|end_char=1553
+15	to	to	ADP	IN	_	14	_	_	start_char=1554|end_char=1556
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=1557|end_char=1560
+17	West	West	ADJ	JJ	Degree=Pos	16	_	_	start_char=1561|end_char=1565
+18	African	African	ADJ	JJ	Degree=Pos	17	_	_	start_char=1566|end_char=1573
+19	droughts	drought	NOUN	NNS	Number=Plur	18	_	_	start_char=1574|end_char=1582
+20	in	in	ADP	IN	_	19	_	_	start_char=1583|end_char=1585
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=1586|end_char=1589
+22	1970s	1970s	NOUN	NNS	Number=Plur	21	_	_	start_char=1590|end_char=1595
+23	and	and	CCONJ	CC	_	22	_	_	start_char=1596|end_char=1599
+24	’80s	’80s	NOUN	NNS	Number=Plur	23	_	_	start_char=1600|end_char=1604|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=1604|end_char=1605|SpacesAfter=\n\n
+
+# text = As for cocoa production, a reality missing from the discussion is that global consumers are demanding more cocoa than ever, so a blip in production impacts retail price and availability lie never before.
+# sent_id = 11
+1	As	as	ADP	IN	_	0	_	_	start_char=1607|end_char=1609
+2	for	for	ADP	IN	_	1	_	_	start_char=1610|end_char=1613
+3	cocoa	cocoa	NOUN	NN	Number=Sing	2	_	_	start_char=1614|end_char=1619
+4	production	production	NOUN	NN	Number=Sing	3	_	_	start_char=1620|end_char=1630|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=1630|end_char=1631
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=1632|end_char=1633
+7	reality	reality	NOUN	NN	Number=Sing	6	_	_	start_char=1634|end_char=1641
+8	missing	missing	ADJ	JJ	Degree=Pos	7	_	_	start_char=1642|end_char=1649
+9	from	from	ADP	IN	_	8	_	_	start_char=1650|end_char=1654
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=1655|end_char=1658
+11	discussion	discussion	NOUN	NN	Number=Sing	10	_	_	start_char=1659|end_char=1669
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=1670|end_char=1672
+13	that	that	SCONJ	IN	_	12	_	_	start_char=1673|end_char=1677
+14	global	global	ADJ	JJ	Degree=Pos	13	_	_	start_char=1678|end_char=1684
+15	consumers	consumer	NOUN	NNS	Number=Plur	14	_	_	start_char=1685|end_char=1694
+16	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=1695|end_char=1698
+17	demanding	demand	VERB	VBG	Tense=Pres|VerbForm=Part	16	_	_	start_char=1699|end_char=1708
+18	more	more	ADJ	JJR	Degree=Cmp	17	_	_	start_char=1709|end_char=1713
+19	cocoa	cocoa	NOUN	NN	Number=Sing	18	_	_	start_char=1714|end_char=1719
+20	than	than	ADP	IN	_	19	_	_	start_char=1720|end_char=1724
+21	ever	ever	ADV	RB	_	20	_	_	start_char=1725|end_char=1729|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=1729|end_char=1730
+23	so	so	ADV	RB	_	22	_	_	start_char=1731|end_char=1733
+24	a	a	DET	DT	Definite=Ind|PronType=Art	23	_	_	start_char=1734|end_char=1735
+25	blip	blip	NOUN	NN	Number=Sing	24	_	_	start_char=1736|end_char=1740
+26	in	in	ADP	IN	_	25	_	_	start_char=1741|end_char=1743
+27	production	production	NOUN	NN	Number=Sing	26	_	_	start_char=1744|end_char=1754
+28	impacts	impact	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	_	_	start_char=1755|end_char=1762
+29	retail	retail	NOUN	NN	Number=Sing	28	_	_	start_char=1763|end_char=1769
+30	price	price	NOUN	NN	Number=Sing	29	_	_	start_char=1770|end_char=1775
+31	and	and	CCONJ	CC	_	30	_	_	start_char=1776|end_char=1779
+32	availability	availability	NOUN	NN	Number=Sing	31	_	_	start_char=1780|end_char=1792
+33	lie	lie	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	32	_	_	start_char=1793|end_char=1796
+34	never	never	ADV	RB	_	33	_	_	start_char=1797|end_char=1802
+35	before	before	ADV	RB	_	34	_	_	start_char=1803|end_char=1809|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=1809|end_char=1810|SpacesAfter=\n\n
+
+# text = The recent drought in Vietnam is quite serious, but I’m happy to report it’s not being caused by your SUV.
+# sent_id = 12
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1812|end_char=1815
+2	recent	recent	ADJ	JJ	Degree=Pos	1	_	_	start_char=1816|end_char=1822
+3	drought	drought	NOUN	NN	Number=Sing	2	_	_	start_char=1823|end_char=1830
+4	in	in	ADP	IN	_	3	_	_	start_char=1831|end_char=1833
+5	Vietnam	Vietnam	PROPN	NNP	Number=Sing	4	_	_	start_char=1834|end_char=1841
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1842|end_char=1844
+7	quite	quite	ADV	RB	_	6	_	_	start_char=1845|end_char=1850
+8	serious	serious	ADJ	JJ	Degree=Pos	7	_	_	start_char=1851|end_char=1858|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1858|end_char=1859
+10	but	but	CCONJ	CC	_	9	_	_	start_char=1860|end_char=1863
+11-12	I’m	_	_	_	_	_	_	_	start_char=1864|end_char=1867
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	_	_	start_char=1864|end_char=1865
+12	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	_	_	start_char=1865|end_char=1867
+13	happy	happy	ADJ	JJ	Degree=Pos	12	_	_	start_char=1868|end_char=1873
+14	to	to	PART	TO	_	13	_	_	start_char=1874|end_char=1876
+15	report	report	VERB	VB	VerbForm=Inf	14	_	_	start_char=1877|end_char=1883
+16-17	it’s	_	_	_	_	_	_	_	start_char=1884|end_char=1888
+16	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	_	_	start_char=1884|end_char=1886
+17	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=1886|end_char=1888
+18	not	not	PART	RB	_	17	_	_	start_char=1889|end_char=1892
+19	being	be	AUX	VBG	VerbForm=Ger	18	_	_	start_char=1893|end_char=1898
+20	caused	cause	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	19	_	_	start_char=1899|end_char=1905
+21	by	by	ADP	IN	_	20	_	_	start_char=1906|end_char=1908
+22	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	21	_	_	start_char=1909|end_char=1913
+23	SUV	suv	NOUN	NN	Number=Sing	22	_	_	start_char=1914|end_char=1917|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=1917|end_char=1918|SpacesAfter=\n\n
+
+# text = While the lac of rain in parts of Southeast Asia is the worst since the 1930s (a decade which remains the hottest on record throughout much of the world), the drought is associated with an El Nino weather pattern.
+# sent_id = 13
+1	While	while	SCONJ	IN	_	0	_	_	start_char=1920|end_char=1925
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=1926|end_char=1929
+3	lac	lac	NOUN	NN	Number=Sing	2	_	_	start_char=1930|end_char=1933
+4	of	of	ADP	IN	_	3	_	_	start_char=1934|end_char=1936
+5	rain	rain	NOUN	NN	Number=Sing	4	_	_	start_char=1937|end_char=1941
+6	in	in	ADP	IN	_	5	_	_	start_char=1942|end_char=1944
+7	parts	part	NOUN	NNS	Number=Plur	6	_	_	start_char=1945|end_char=1950
+8	of	of	ADP	IN	_	7	_	_	start_char=1951|end_char=1953
+9	Southeast	Southeast	PROPN	NNP	Number=Sing	8	_	_	start_char=1954|end_char=1963
+10	Asia	Asia	PROPN	NNP	Number=Sing	9	_	_	start_char=1964|end_char=1968
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=1969|end_char=1971
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=1972|end_char=1975
+13	worst	bad	ADJ	JJS	Degree=Sup	12	_	_	start_char=1976|end_char=1981
+14	since	since	ADP	IN	_	13	_	_	start_char=1982|end_char=1987
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=1988|end_char=1991
+16	1930s	1930s	NOUN	NNS	Number=Plur	15	_	_	start_char=1992|end_char=1997
+17	(	(	PUNCT	-LRB-	_	16	_	_	start_char=1998|end_char=1999|SpaceAfter=No
+18	a	a	DET	DT	Definite=Ind|PronType=Art	17	_	_	start_char=1999|end_char=2000
+19	decade	decade	NOUN	NN	Number=Sing	18	_	_	start_char=2001|end_char=2007
+20	which	which	PRON	WDT	PronType=Rel	19	_	_	start_char=2008|end_char=2013
+21	remains	remain	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	_	_	start_char=2014|end_char=2021
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=2022|end_char=2025
+23	hottest	hot	ADJ	JJS	Degree=Sup	22	_	_	start_char=2026|end_char=2033
+24	on	on	ADP	IN	_	23	_	_	start_char=2034|end_char=2036
+25	record	record	NOUN	NN	Number=Sing	24	_	_	start_char=2037|end_char=2043
+26	throughout	throughout	ADP	IN	_	25	_	_	start_char=2044|end_char=2054
+27	much	much	ADJ	JJ	Degree=Pos	26	_	_	start_char=2055|end_char=2059
+28	of	of	ADP	IN	_	27	_	_	start_char=2060|end_char=2062
+29	the	the	DET	DT	Definite=Def|PronType=Art	28	_	_	start_char=2063|end_char=2066
+30	world	world	NOUN	NN	Number=Sing	29	_	_	start_char=2067|end_char=2072|SpaceAfter=No
+31	)	)	PUNCT	-RRB-	_	30	_	_	start_char=2072|end_char=2073|SpaceAfter=No
+32	,	,	PUNCT	,	_	31	_	_	start_char=2073|end_char=2074
+33	the	the	DET	DT	Definite=Def|PronType=Art	32	_	_	start_char=2075|end_char=2078
+34	drought	drought	NOUN	NN	Number=Sing	33	_	_	start_char=2079|end_char=2086
+35	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	34	_	_	start_char=2087|end_char=2089
+36	associated	associate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	35	_	_	start_char=2090|end_char=2100
+37	with	with	ADP	IN	_	36	_	_	start_char=2101|end_char=2105
+38	an	a	DET	DT	Definite=Ind|PronType=Art	37	_	_	start_char=2106|end_char=2108
+39	El	El	PROPN	NNP	Number=Sing	38	_	_	start_char=2109|end_char=2111
+40	Nino	Nino	PROPN	NNP	Number=Sing	39	_	_	start_char=2112|end_char=2116
+41	weather	weather	NOUN	NN	Number=Sing	40	_	_	start_char=2117|end_char=2124
+42	pattern	pattern	NOUN	NN	Number=Sing	41	_	_	start_char=2125|end_char=2132|SpaceAfter=No
+43	.	.	PUNCT	.	_	42	_	_	start_char=2132|end_char=2133|SpacesAfter=\n\n
+
+# text = El Nino and its sister La Nina are ancient occurrences that possess the dynamics to both enhance or diminish precipitation, depending on a variety of quite ordinary atmospheric circumstances.
+# sent_id = 14
+1	El	El	PROPN	NNP	Number=Sing	0	_	_	start_char=2135|end_char=2137
+2	Nino	Nino	PROPN	NNP	Number=Sing	1	_	_	start_char=2138|end_char=2142
+3	and	and	CCONJ	CC	_	2	_	_	start_char=2143|end_char=2146
+4	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	_	_	start_char=2147|end_char=2150
+5	sister	sister	NOUN	NN	Number=Sing	4	_	_	start_char=2151|end_char=2157
+6	La	La	PROPN	NNP	Number=Sing	5	_	_	start_char=2158|end_char=2160
+7	Nina	Nina	PROPN	NNP	Number=Sing	6	_	_	start_char=2161|end_char=2165
+8	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=2166|end_char=2169
+9	ancient	ancient	ADJ	JJ	Degree=Pos	8	_	_	start_char=2170|end_char=2177
+10	occurrences	occurrence	NOUN	NNS	Number=Plur	9	_	_	start_char=2178|end_char=2189
+11	that	that	PRON	WDT	PronType=Rel	10	_	_	start_char=2190|end_char=2194
+12	possess	possess	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=2195|end_char=2202
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=2203|end_char=2206
+14	dynamics	dynamic	NOUN	NNS	Number=Plur	13	_	_	start_char=2207|end_char=2215
+15	to	to	PART	TO	_	14	_	_	start_char=2216|end_char=2218
+16	both	both	CCONJ	CC	_	15	_	_	start_char=2219|end_char=2223
+17	enhance	enhance	VERB	VB	VerbForm=Inf	16	_	_	start_char=2224|end_char=2231
+18	or	or	CCONJ	CC	_	17	_	_	start_char=2232|end_char=2234
+19	diminish	diminish	VERB	VB	VerbForm=Inf	18	_	_	start_char=2235|end_char=2243
+20	precipitation	precipitation	NOUN	NN	Number=Sing	19	_	_	start_char=2244|end_char=2257|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=2257|end_char=2258
+22	depending	depend	VERB	VBG	VerbForm=Ger	21	_	_	start_char=2259|end_char=2268
+23	on	on	ADP	IN	_	22	_	_	start_char=2269|end_char=2271
+24	a	a	DET	DT	Definite=Ind|PronType=Art	23	_	_	start_char=2272|end_char=2273
+25	variety	variety	NOUN	NN	Number=Sing	24	_	_	start_char=2274|end_char=2281
+26	of	of	ADP	IN	_	25	_	_	start_char=2282|end_char=2284
+27	quite	quite	ADV	RB	_	26	_	_	start_char=2285|end_char=2290
+28	ordinary	ordinary	ADJ	JJ	Degree=Pos	27	_	_	start_char=2291|end_char=2299
+29	atmospheric	atmospheric	ADJ	JJ	Degree=Pos	28	_	_	start_char=2300|end_char=2311
+30	circumstances	circumstance	NOUN	NNS	Number=Plur	29	_	_	start_char=2312|end_char=2325|SpaceAfter=No
+31	.	.	PUNCT	.	_	30	_	_	start_char=2325|end_char=2326|SpacesAfter=\n\n
+
+# text = Wildfires feeding on extremely dry vegetation have certainly taen a recent toll on olive groves in Italy and drought has impacted wine production there as well.
+# sent_id = 15
+1	Wildfires	wildfire	NOUN	NNS	Number=Plur	0	_	_	start_char=2328|end_char=2337
+2	feeding	feed	VERB	VBG	VerbForm=Ger	1	_	_	start_char=2338|end_char=2345
+3	on	on	ADP	IN	_	2	_	_	start_char=2346|end_char=2348
+4	extremely	extremely	ADV	RB	_	3	_	_	start_char=2349|end_char=2358
+5	dry	dry	ADJ	JJ	Degree=Pos	4	_	_	start_char=2359|end_char=2362
+6	vegetation	vegetation	NOUN	NN	Number=Sing	5	_	_	start_char=2363|end_char=2373
+7	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=2374|end_char=2378
+8	certainly	certainly	ADV	RB	_	7	_	_	start_char=2379|end_char=2388
+9	taen	taen	NOUN	NN	Number=Sing	8	_	_	start_char=2389|end_char=2393
+10	a	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=2394|end_char=2395
+11	recent	recent	ADJ	JJ	Degree=Pos	10	_	_	start_char=2396|end_char=2402
+12	toll	toll	NOUN	NN	Number=Sing	11	_	_	start_char=2403|end_char=2407
+13	on	on	ADP	IN	_	12	_	_	start_char=2408|end_char=2410
+14	olive	olive	NOUN	NN	Number=Sing	13	_	_	start_char=2411|end_char=2416
+15	groves	grove	NOUN	NNS	Number=Plur	14	_	_	start_char=2417|end_char=2423
+16	in	in	ADP	IN	_	15	_	_	start_char=2424|end_char=2426
+17	Italy	Italy	PROPN	NNP	Number=Sing	16	_	_	start_char=2427|end_char=2432
+18	and	and	CCONJ	CC	_	17	_	_	start_char=2433|end_char=2436
+19	drought	drought	NOUN	NN	Number=Sing	18	_	_	start_char=2437|end_char=2444
+20	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	_	_	start_char=2445|end_char=2448
+21	impacted	impact	VERB	VBN	Tense=Past|VerbForm=Part	20	_	_	start_char=2449|end_char=2457
+22	wine	wine	NOUN	NN	Number=Sing	21	_	_	start_char=2458|end_char=2462
+23	production	production	NOUN	NN	Number=Sing	22	_	_	start_char=2463|end_char=2473
+24	there	there	ADV	RB	PronType=Dem	23	_	_	start_char=2474|end_char=2479
+25	as	as	ADV	RB	_	24	_	_	start_char=2480|end_char=2482
+26	well	well	ADV	RB	Degree=Pos	25	_	_	start_char=2483|end_char=2487|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=2487|end_char=2488|SpacesAfter=\n\n
+
+# text = The journal Nature recently published a study claiming, “Climate change is affecting grape yield, composition, and wine quality.
+# sent_id = 16
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2490|end_char=2493
+2	journal	journal	NOUN	NN	Number=Sing	1	_	_	start_char=2494|end_char=2501
+3	Nature	Nature	PROPN	NNP	Number=Sing	2	_	_	start_char=2502|end_char=2508
+4	recently	recently	ADV	RB	_	3	_	_	start_char=2509|end_char=2517
+5	published	publish	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=2518|end_char=2527
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=2528|end_char=2529
+7	study	study	NOUN	NN	Number=Sing	6	_	_	start_char=2530|end_char=2535
+8	claiming	claim	VERB	VBG	VerbForm=Ger	7	_	_	start_char=2536|end_char=2544|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=2544|end_char=2545
+10	“	''	PUNCT	``	_	9	_	_	start_char=2546|end_char=2547|SpaceAfter=No
+11	Climate	climate	NOUN	NN	Number=Sing	10	_	_	start_char=2547|end_char=2554
+12	change	change	NOUN	NN	Number=Sing	11	_	_	start_char=2555|end_char=2561
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=2562|end_char=2564
+14	affecting	affect	VERB	VBG	Tense=Pres|VerbForm=Part	13	_	_	start_char=2565|end_char=2574
+15	grape	grape	NOUN	NN	Number=Sing	14	_	_	start_char=2575|end_char=2580
+16	yield	yield	NOUN	NN	Number=Sing	15	_	_	start_char=2581|end_char=2586|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=2586|end_char=2587
+18	composition	composition	NOUN	NN	Number=Sing	17	_	_	start_char=2588|end_char=2599|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=2599|end_char=2600
+20	and	and	CCONJ	CC	_	19	_	_	start_char=2601|end_char=2604
+21	wine	wine	NOUN	NN	Number=Sing	20	_	_	start_char=2605|end_char=2609
+22	quality	quality	NOUN	NN	Number=Sing	21	_	_	start_char=2610|end_char=2617|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=2617|end_char=2618
+
+# text = As a result, the geography of wine production is changing.”
+# sent_id = 17
+1	As	as	ADP	IN	_	0	_	_	start_char=2619|end_char=2621
+2	a	a	DET	DT	Definite=Ind|PronType=Art	1	_	_	start_char=2622|end_char=2623
+3	result	result	NOUN	NN	Number=Sing	2	_	_	start_char=2624|end_char=2630|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=2630|end_char=2631
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=2632|end_char=2635
+6	geography	geography	NOUN	NN	Number=Sing	5	_	_	start_char=2636|end_char=2645
+7	of	of	ADP	IN	_	6	_	_	start_char=2646|end_char=2648
+8	wine	wine	NOUN	NN	Number=Sing	7	_	_	start_char=2649|end_char=2653
+9	production	production	NOUN	NN	Number=Sing	8	_	_	start_char=2654|end_char=2664
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=2665|end_char=2667
+11	changing	change	VERB	VBG	Tense=Pres|VerbForm=Part	10	_	_	start_char=2668|end_char=2676|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=2676|end_char=2677|SpaceAfter=No
+13	”	''	PUNCT	''	_	12	_	_	start_char=2677|end_char=2678
+
+# text = However, the publication’s editorial bias seems to have caused them to ignore the historical record.
+# sent_id = 18
+1	However	however	ADV	RB	_	0	_	_	start_char=2679|end_char=2686|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=2686|end_char=2687
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=2688|end_char=2691
+4-5	publication’s	_	_	_	_	_	_	_	start_char=2692|end_char=2705
+4	publication	publication	NOUN	NN	Number=Sing	3	_	_	start_char=2692|end_char=2703
+5	’s	's	PART	POS	_	4	_	_	start_char=2703|end_char=2705
+6	editorial	editorial	ADJ	JJ	Degree=Pos	5	_	_	start_char=2706|end_char=2715
+7	bias	bias	NOUN	NN	Number=Sing	6	_	_	start_char=2716|end_char=2720
+8	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=2721|end_char=2726
+9	to	to	PART	TO	_	8	_	_	start_char=2727|end_char=2729
+10	have	have	AUX	VB	VerbForm=Inf	9	_	_	start_char=2730|end_char=2734
+11	caused	cause	VERB	VBN	Tense=Past|VerbForm=Part	10	_	_	start_char=2735|end_char=2741
+12	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	11	_	_	start_char=2742|end_char=2746
+13	to	to	PART	TO	_	12	_	_	start_char=2747|end_char=2749
+14	ignore	ignore	VERB	VB	VerbForm=Inf	13	_	_	start_char=2750|end_char=2756
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=2757|end_char=2760
+16	historical	historical	ADJ	JJ	Degree=Pos	15	_	_	start_char=2761|end_char=2771
+17	record	record	NOUN	NN	Number=Sing	16	_	_	start_char=2772|end_char=2778|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=2778|end_char=2779|SpacesAfter=\n\n
+
+# text = The worst drought in modern Italy occurred in the 1920s.
+# sent_id = 19
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2781|end_char=2784
+2	worst	bad	ADJ	JJS	Degree=Sup	1	_	_	start_char=2785|end_char=2790
+3	drought	drought	NOUN	NN	Number=Sing	2	_	_	start_char=2791|end_char=2798
+4	in	in	ADP	IN	_	3	_	_	start_char=2799|end_char=2801
+5	modern	modern	ADJ	JJ	Degree=Pos	4	_	_	start_char=2802|end_char=2808
+6	Italy	Italy	PROPN	NNP	Number=Sing	5	_	_	start_char=2809|end_char=2814
+7	occurred	occur	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=2815|end_char=2823
+8	in	in	ADP	IN	_	7	_	_	start_char=2824|end_char=2826
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=2827|end_char=2830
+10	1920s	1920s	NOUN	NNS	Number=Plur	9	_	_	start_char=2831|end_char=2836|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=2836|end_char=2837
+
+# text = However, going bac further, that region’s most catastrophic precipitation deficiency began in the 1530s and lasted the better part of a decade.
+# sent_id = 20
+1	However	however	ADV	RB	_	0	_	_	start_char=2838|end_char=2845|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=2845|end_char=2846
+3	going	go	VERB	VBG	VerbForm=Ger	2	_	_	start_char=2847|end_char=2852
+4	bac	bac	ADV	RB	_	3	_	_	start_char=2853|end_char=2856
+5	further	further	ADV	RBR	Degree=Cmp	4	_	_	start_char=2857|end_char=2864|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=2864|end_char=2865
+7	that	that	DET	DT	Number=Sing|PronType=Dem	6	_	_	start_char=2866|end_char=2870
+8-9	region’s	_	_	_	_	_	_	_	start_char=2871|end_char=2879
+8	region	region	NOUN	NN	Number=Sing	7	_	_	start_char=2871|end_char=2877
+9	’s	's	PART	POS	_	8	_	_	start_char=2877|end_char=2879
+10	most	most	ADV	RBS	Degree=Sup	9	_	_	start_char=2880|end_char=2884
+11	catastrophic	catastrophic	ADJ	JJ	Degree=Pos	10	_	_	start_char=2885|end_char=2897
+12	precipitation	precipitation	NOUN	NN	Number=Sing	11	_	_	start_char=2898|end_char=2911
+13	deficiency	deficiency	NOUN	NN	Number=Sing	12	_	_	start_char=2912|end_char=2922
+14	began	begin	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	_	_	start_char=2923|end_char=2928
+15	in	in	ADP	IN	_	14	_	_	start_char=2929|end_char=2931
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=2932|end_char=2935
+17	1530s	1530s	NOUN	NNS	Number=Plur	16	_	_	start_char=2936|end_char=2941
+18	and	and	CCONJ	CC	_	17	_	_	start_char=2942|end_char=2945
+19	lasted	last	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	_	_	start_char=2946|end_char=2952
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=2953|end_char=2956
+21	better	good	ADJ	JJR	Degree=Cmp	20	_	_	start_char=2957|end_char=2963
+22	part	part	NOUN	NN	Number=Sing	21	_	_	start_char=2964|end_char=2968
+23	of	of	ADP	IN	_	22	_	_	start_char=2969|end_char=2971
+24	a	a	DET	DT	Definite=Ind|PronType=Art	23	_	_	start_char=2972|end_char=2973
+25	decade	decade	NOUN	NN	Number=Sing	24	_	_	start_char=2974|end_char=2980|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=2980|end_char=2981|SpacesAfter=\n\n
+
+# text = It was so extreme that Protestant reformer Martin Luther wondered if it was a sign of the end times.
+# sent_id = 21
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=2983|end_char=2985
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=2986|end_char=2989
+3	so	so	ADV	RB	_	2	_	_	start_char=2990|end_char=2992
+4	extreme	extreme	ADJ	JJ	Degree=Pos	3	_	_	start_char=2993|end_char=3000
+5	that	that	SCONJ	IN	_	4	_	_	start_char=3001|end_char=3005
+6	Protestant	Protestant	ADJ	JJ	Degree=Pos	5	_	_	start_char=3006|end_char=3016
+7	reformer	reformer	NOUN	NN	Number=Sing	6	_	_	start_char=3017|end_char=3025
+8	Martin	Martin	PROPN	NNP	Number=Sing	7	_	_	start_char=3026|end_char=3032
+9	Luther	Luther	PROPN	NNP	Number=Sing	8	_	_	start_char=3033|end_char=3039
+10	wondered	wonder	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=3040|end_char=3048
+11	if	if	SCONJ	IN	_	10	_	_	start_char=3049|end_char=3051
+12	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	_	_	start_char=3052|end_char=3054
+13	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=3055|end_char=3058
+14	a	a	DET	DT	Definite=Ind|PronType=Art	13	_	_	start_char=3059|end_char=3060
+15	sign	sign	NOUN	NN	Number=Sing	14	_	_	start_char=3061|end_char=3065
+16	of	of	ADP	IN	_	15	_	_	start_char=3066|end_char=3068
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=3069|end_char=3072
+18	end	end	NOUN	NN	Number=Sing	17	_	_	start_char=3073|end_char=3076
+19	times	time	NOUN	NNS	Number=Plur	18	_	_	start_char=3077|end_char=3082|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=3082|end_char=3083
+
+# text = Clergy in Germany, Italy, and England urged the people to beg God for forgiveness and pray for the deliverance of rain.
+# sent_id = 22
+1	Clergy	clergy	NOUN	NN	Number=Sing	0	_	_	start_char=3084|end_char=3090
+2	in	in	ADP	IN	_	1	_	_	start_char=3091|end_char=3093
+3	Germany	Germany	PROPN	NNP	Number=Sing	2	_	_	start_char=3094|end_char=3101|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=3101|end_char=3102
+5	Italy	Italy	PROPN	NNP	Number=Sing	4	_	_	start_char=3103|end_char=3108|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=3108|end_char=3109
+7	and	and	CCONJ	CC	_	6	_	_	start_char=3110|end_char=3113
+8	England	England	PROPN	NNP	Number=Sing	7	_	_	start_char=3114|end_char=3121
+9	urged	urge	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=3122|end_char=3127
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=3128|end_char=3131
+11	people	person	NOUN	NNS	Number=Plur	10	_	_	start_char=3132|end_char=3138
+12	to	to	PART	TO	_	11	_	_	start_char=3139|end_char=3141
+13	beg	beg	VERB	VB	VerbForm=Inf	12	_	_	start_char=3142|end_char=3145
+14	God	God	PROPN	NNP	Number=Sing	13	_	_	start_char=3146|end_char=3149
+15	for	for	ADP	IN	_	14	_	_	start_char=3150|end_char=3153
+16	forgiveness	forgiveness	NOUN	NN	Number=Sing	15	_	_	start_char=3154|end_char=3165
+17	and	and	CCONJ	CC	_	16	_	_	start_char=3166|end_char=3169
+18	pray	pray	VERB	VB	VerbForm=Inf	17	_	_	start_char=3170|end_char=3174
+19	for	for	ADP	IN	_	18	_	_	start_char=3175|end_char=3178
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=3179|end_char=3182
+21	deliverance	deliverance	NOUN	NN	Number=Sing	20	_	_	start_char=3183|end_char=3194
+22	of	of	ADP	IN	_	21	_	_	start_char=3195|end_char=3197
+23	rain	rain	NOUN	NN	Number=Sing	22	_	_	start_char=3198|end_char=3202|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=3202|end_char=3203|SpacesAfter=\n\n
+
+# text = As I explain in my boo, those pushing the climate agenda employ ad hominem arguments that appeal to raw emotions rather than intellect.
+# sent_id = 23
+1	As	as	SCONJ	IN	_	0	_	_	start_char=3205|end_char=3207
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	_	_	start_char=3208|end_char=3209
+3	explain	explain	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=3210|end_char=3217
+4	in	in	ADP	IN	_	3	_	_	start_char=3218|end_char=3220
+5	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	_	_	start_char=3221|end_char=3223
+6	boo	boo	NOUN	NN	Number=Sing	5	_	_	start_char=3224|end_char=3227|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=3227|end_char=3228
+8	those	that	PRON	DT	Number=Plur|PronType=Dem	7	_	_	start_char=3229|end_char=3234
+9	pushing	push	VERB	VBG	VerbForm=Ger	8	_	_	start_char=3235|end_char=3242
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=3243|end_char=3246
+11	climate	climate	NOUN	NN	Number=Sing	10	_	_	start_char=3247|end_char=3254
+12	agenda	agenda	NOUN	NN	Number=Sing	11	_	_	start_char=3255|end_char=3261
+13	employ	employ	VERB	VB	VerbForm=Inf	12	_	_	start_char=3262|end_char=3268
+14	ad	ad	NOUN	NN	Number=Sing	13	_	_	start_char=3269|end_char=3271
+15	hominem	hominem	NOUN	NN	Number=Sing	14	_	_	start_char=3272|end_char=3279
+16	arguments	argument	NOUN	NNS	Number=Plur	15	_	_	start_char=3280|end_char=3289
+17	that	that	PRON	WDT	PronType=Rel	16	_	_	start_char=3290|end_char=3294
+18	appeal	appeal	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=3295|end_char=3301
+19	to	to	ADP	IN	_	18	_	_	start_char=3302|end_char=3304
+20	raw	raw	ADJ	JJ	Degree=Pos	19	_	_	start_char=3305|end_char=3308
+21	emotions	emotion	NOUN	NNS	Number=Plur	20	_	_	start_char=3309|end_char=3317
+22	rather	rather	ADV	RB	_	21	_	_	start_char=3318|end_char=3324
+23	than	than	ADP	IN	_	22	_	_	start_char=3325|end_char=3329
+24	intellect	intellect	NOUN	NN	Number=Sing	23	_	_	start_char=3330|end_char=3339|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=3339|end_char=3340|SpacesAfter=\n\n
+
+# text = And, as I also detail, those on the left aren’t fond of examining history.
+# sent_id = 24
+1	And	and	CCONJ	CC	_	0	_	_	start_char=3342|end_char=3345|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=3345|end_char=3346
+3	as	as	SCONJ	IN	_	2	_	_	start_char=3347|end_char=3349
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	_	_	start_char=3350|end_char=3351
+5	also	also	ADV	RB	_	4	_	_	start_char=3352|end_char=3356
+6	detail	detail	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	_	_	start_char=3357|end_char=3363|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=3363|end_char=3364
+8	those	that	PRON	DT	Number=Plur|PronType=Dem	7	_	_	start_char=3365|end_char=3370
+9	on	on	ADP	IN	_	8	_	_	start_char=3371|end_char=3373
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=3374|end_char=3377
+11	left	left	NOUN	NN	Number=Sing	10	_	_	start_char=3378|end_char=3382
+12-13	aren’t	_	_	_	_	_	_	_	start_char=3383|end_char=3389
+12	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=3383|end_char=3386
+13	n’t	not	PART	RB	_	12	_	_	start_char=3386|end_char=3389
+14	fond	fond	ADJ	JJ	Degree=Pos	13	_	_	start_char=3390|end_char=3394
+15	of	of	SCONJ	IN	_	14	_	_	start_char=3395|end_char=3397
+16	examining	examine	VERB	VBG	VerbForm=Ger	15	_	_	start_char=3398|end_char=3407
+17	history	history	NOUN	NN	Number=Sing	16	_	_	start_char=3408|end_char=3415|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=3415|end_char=3416
+
+# text = For them, arl Marx stated it best in his 1844 boo, The Holy Family: “History does nothing; it possesses no immense wealth; it wages no battles.”
+# sent_id = 25
+1	For	for	ADP	IN	_	0	_	_	start_char=3417|end_char=3420
+2	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	1	_	_	start_char=3421|end_char=3425|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=3425|end_char=3426
+4	arl	arl	PROPN	NNP	Number=Sing	3	_	_	start_char=3427|end_char=3430
+5	Marx	Marx	PROPN	NNP	Number=Sing	4	_	_	start_char=3431|end_char=3435
+6	stated	state	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=3436|end_char=3442
+7	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	_	_	start_char=3443|end_char=3445
+8	best	good	ADJ	JJS	Degree=Sup	7	_	_	start_char=3446|end_char=3450
+9	in	in	ADP	IN	_	8	_	_	start_char=3451|end_char=3453
+10	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	_	_	start_char=3454|end_char=3457
+11	1844	1844	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=3458|end_char=3462
+12	boo	boo	NOUN	NN	Number=Sing	11	_	_	start_char=3463|end_char=3466|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=3466|end_char=3467
+14	The	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=3468|end_char=3471
+15	Holy	Holy	ADJ	NNP	Degree=Pos	14	_	_	start_char=3472|end_char=3476
+16	Family	Family	PROPN	NNP	Number=Sing	15	_	_	start_char=3477|end_char=3483|SpaceAfter=No
+17	:	:	PUNCT	:	_	16	_	_	start_char=3483|end_char=3484
+18	“	''	PUNCT	``	_	17	_	_	start_char=3485|end_char=3486|SpaceAfter=No
+19	History	history	NOUN	NN	Number=Sing	18	_	_	start_char=3486|end_char=3493
+20	does	do	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	_	_	start_char=3494|end_char=3498
+21	nothing	nothing	PRON	NN	Number=Sing|PronType=Neg	20	_	_	start_char=3499|end_char=3506|SpaceAfter=No
+22	;	;	PUNCT	:	_	21	_	_	start_char=3506|end_char=3507
+23	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	22	_	_	start_char=3508|end_char=3510
+24	possesses	possess	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	_	_	start_char=3511|end_char=3520
+25	no	no	DET	DT	_	24	_	_	start_char=3521|end_char=3523
+26	immense	immense	ADJ	JJ	Degree=Pos	25	_	_	start_char=3524|end_char=3531
+27	wealth	wealth	NOUN	NN	Number=Sing	26	_	_	start_char=3532|end_char=3538|SpaceAfter=No
+28	;	;	PUNCT	:	_	27	_	_	start_char=3538|end_char=3539
+29	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	28	_	_	start_char=3540|end_char=3542
+30	wages	wage	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	_	_	start_char=3543|end_char=3548
+31	no	no	DET	DT	_	30	_	_	start_char=3549|end_char=3551
+32	battles	battle	NOUN	NNS	Number=Plur	31	_	_	start_char=3552|end_char=3559|SpaceAfter=No
+33	.	.	PUNCT	.	_	32	_	_	start_char=3559|end_char=3560|SpaceAfter=No
+34	”	''	PUNCT	''	_	33	_	_	start_char=3560|end_char=3561|SpacesAfter=\n\n
+
+# text = Brian Sussman is a meteorologist, author, and podcaster.
+# sent_id = 26
+1	Brian	Brian	PROPN	NNP	Number=Sing	0	_	_	start_char=3563|end_char=3568
+2	Sussman	Sussman	PROPN	NNP	Number=Sing	1	_	_	start_char=3569|end_char=3576
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=3577|end_char=3579
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=3580|end_char=3581
+5	meteorologist	meteorologist	NOUN	NN	Number=Sing	4	_	_	start_char=3582|end_char=3595|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=3595|end_char=3596
+7	author	author	NOUN	NN	Number=Sing	6	_	_	start_char=3597|end_char=3603|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=3603|end_char=3604
+9	and	and	CCONJ	CC	_	8	_	_	start_char=3605|end_char=3608
+10	podcaster	podcaster	NOUN	NN	Number=Sing	9	_	_	start_char=3609|end_char=3618|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=3618|end_char=3619|SpaceAfter=No
+

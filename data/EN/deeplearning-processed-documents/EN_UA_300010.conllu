@@ -1,0 +1,369 @@
+# text = Marjorie Taylor Greene Subpoenas Hunter Biden’s Child Sex Victims To Testify in Congress
+# sent_id = 0
+1	Marjorie	Marjorie	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=8
+2	Taylor	Taylor	PROPN	NNP	Number=Sing	1	_	_	start_char=9|end_char=15
+3	Greene	Greene	PROPN	NNP	Number=Sing	2	_	_	start_char=16|end_char=22
+4	Subpoenas	Subpoenas	PROPN	NNP	Number=Sing	3	_	_	start_char=23|end_char=32
+5	Hunter	Hunter	PROPN	NNP	Number=Sing	4	_	_	start_char=33|end_char=39
+6-7	Biden’s	_	_	_	_	_	_	_	start_char=40|end_char=47
+6	Biden	Biden	PROPN	NNP	Number=Sing	5	_	_	start_char=40|end_char=45
+7	’s	's	PART	POS	_	6	_	_	start_char=45|end_char=47
+8	Child	child	NOUN	NN	Number=Sing	7	_	_	start_char=48|end_char=53
+9	Sex	sex	NOUN	NN	Number=Sing	8	_	_	start_char=54|end_char=57
+10	Victims	victim	NOUN	NNS	Number=Plur	9	_	_	start_char=58|end_char=65
+11	To	to	PART	TO	_	10	_	_	start_char=66|end_char=68
+12	Testify	testify	VERB	VB	VerbForm=Inf	11	_	_	start_char=69|end_char=76
+13	in	in	ADP	IN	_	12	_	_	start_char=77|end_char=79
+14	Congress	Congress	PROPN	NNP	Number=Sing	13	_	_	start_char=80|end_char=88|SpacesAfter=\s\n\n\s
+
+# text = Rep. Marjorie Taylor Greene (R-GA) sent shocwaves through D.C. this wee after she vowed to issue subpoenas to Hunter Biden’s child sex victims, so that they can testify in front of Congress.
+# sent_id = 1
+1	Rep.	Rep.	PROPN	NNP	Number=Sing	0	_	_	start_char=92|end_char=96
+2	Marjorie	Marjorie	PROPN	NNP	Number=Sing	1	_	_	start_char=97|end_char=105
+3	Taylor	Taylor	PROPN	NNP	Number=Sing	2	_	_	start_char=106|end_char=112
+4	Greene	Greene	PROPN	NNP	Number=Sing	3	_	_	start_char=113|end_char=119
+5	(	(	PUNCT	-LRB-	_	4	_	_	start_char=120|end_char=121|SpaceAfter=No
+6	R	R	PROPN	NNP	Number=Sing	5	_	_	start_char=121|end_char=122|SpaceAfter=No
+7	-	-	PUNCT	HYPH	_	6	_	_	start_char=122|end_char=123|SpaceAfter=No
+8	GA	ga	PROPN	NNP	Number=Sing	7	_	_	start_char=123|end_char=125|SpaceAfter=No
+9	)	)	PUNCT	-RRB-	_	8	_	_	start_char=125|end_char=126
+10	sent	send	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=127|end_char=131
+11	shocwaves	shocwave	NOUN	NNS	Number=Plur	10	_	_	start_char=132|end_char=141
+12	through	through	ADP	IN	_	11	_	_	start_char=142|end_char=149
+13	D.C.	D.C.	PROPN	NNP	Abbr=Yes|Number=Sing	12	_	_	start_char=150|end_char=154
+14	this	this	DET	DT	Number=Sing|PronType=Dem	13	_	_	start_char=155|end_char=159
+15	wee	wee	NOUN	NN	Number=Sing	14	_	_	start_char=160|end_char=163
+16	after	after	SCONJ	IN	_	15	_	_	start_char=164|end_char=169
+17	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	_	_	start_char=170|end_char=173
+18	vowed	vow	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	_	_	start_char=174|end_char=179
+19	to	to	PART	TO	_	18	_	_	start_char=180|end_char=182
+20	issue	issue	VERB	VB	VerbForm=Inf	19	_	_	start_char=183|end_char=188
+21	subpoenas	subpoena	NOUN	NNS	Number=Plur	20	_	_	start_char=189|end_char=198
+22	to	to	ADP	IN	_	21	_	_	start_char=199|end_char=201
+23	Hunter	Hunter	PROPN	NNP	Number=Sing	22	_	_	start_char=202|end_char=208
+24-25	Biden’s	_	_	_	_	_	_	_	start_char=209|end_char=216
+24	Biden	Biden	PROPN	NNP	Number=Sing	23	_	_	start_char=209|end_char=214
+25	’s	's	PART	POS	_	24	_	_	start_char=214|end_char=216
+26	child	child	NOUN	NN	Number=Sing	25	_	_	start_char=217|end_char=222
+27	sex	sex	NOUN	NN	Number=Sing	26	_	_	start_char=223|end_char=226
+28	victims	victim	NOUN	NNS	Number=Plur	27	_	_	start_char=227|end_char=234|SpaceAfter=No
+29	,	,	PUNCT	,	_	28	_	_	start_char=234|end_char=235
+30	so	so	SCONJ	IN	_	29	_	_	start_char=236|end_char=238
+31	that	that	SCONJ	IN	_	30	_	_	start_char=239|end_char=243
+32	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	31	_	_	start_char=244|end_char=248
+33	can	can	AUX	MD	VerbForm=Fin	32	_	_	start_char=249|end_char=252
+34	testify	testify	VERB	VB	VerbForm=Inf	33	_	_	start_char=253|end_char=260
+35	in	in	ADP	IN	_	34	_	_	start_char=261|end_char=263
+36	front	front	NOUN	NN	Number=Sing	35	_	_	start_char=264|end_char=269
+37	of	of	ADP	IN	_	36	_	_	start_char=270|end_char=272
+38	Congress	Congress	PROPN	NNP	Number=Sing	37	_	_	start_char=273|end_char=281|SpaceAfter=No
+39	.	.	PUNCT	.	_	38	_	_	start_char=281|end_char=282|SpacesAfter=\n\n
+
+# text = According to comments from Rep. Greene, there are now discussions underway to bring in some of the Hunter’s victims to testify in front of the House Oversight Committee:
+# sent_id = 2
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=284|end_char=293
+2	to	to	ADP	IN	_	1	_	_	start_char=294|end_char=296
+3	comments	comment	NOUN	NNS	Number=Plur	2	_	_	start_char=297|end_char=305
+4	from	from	ADP	IN	_	3	_	_	start_char=306|end_char=310
+5	Rep.	Rep.	PROPN	NNP	Number=Sing	4	_	_	start_char=311|end_char=315
+6	Greene	Greene	PROPN	NNP	Number=Sing	5	_	_	start_char=316|end_char=322|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=322|end_char=323
+8	there	there	PRON	EX	_	7	_	_	start_char=324|end_char=329
+9	are	be	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=330|end_char=333
+10	now	now	ADV	RB	_	9	_	_	start_char=334|end_char=337
+11	discussions	discussion	NOUN	NNS	Number=Plur	10	_	_	start_char=338|end_char=349
+12	underway	underway	ADJ	JJ	Degree=Pos	11	_	_	start_char=350|end_char=358
+13	to	to	PART	TO	_	12	_	_	start_char=359|end_char=361
+14	bring	bring	VERB	VB	VerbForm=Inf	13	_	_	start_char=362|end_char=367
+15	in	in	ADP	RP	_	14	_	_	start_char=368|end_char=370
+16	some	some	DET	DT	_	15	_	_	start_char=371|end_char=375
+17	of	of	ADP	IN	_	16	_	_	start_char=376|end_char=378
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=379|end_char=382
+19-20	Hunter’s	_	_	_	_	_	_	_	start_char=383|end_char=391
+19	Hunter	Hunter	PROPN	NNP	Number=Sing	18	_	_	start_char=383|end_char=389
+20	’s	's	PART	POS	_	19	_	_	start_char=389|end_char=391
+21	victims	victim	NOUN	NNS	Number=Plur	20	_	_	start_char=392|end_char=399
+22	to	to	PART	TO	_	21	_	_	start_char=400|end_char=402
+23	testify	testify	VERB	VB	VerbForm=Inf	22	_	_	start_char=403|end_char=410
+24	in	in	ADP	IN	_	23	_	_	start_char=411|end_char=413
+25	front	front	NOUN	NN	Number=Sing	24	_	_	start_char=414|end_char=419
+26	of	of	ADP	IN	_	25	_	_	start_char=420|end_char=422
+27	the	the	DET	DT	Definite=Def|PronType=Art	26	_	_	start_char=423|end_char=426
+28	House	House	PROPN	NNP	Number=Sing	27	_	_	start_char=427|end_char=432
+29	Oversight	Oversight	PROPN	NNP	Number=Sing	28	_	_	start_char=433|end_char=442
+30	Committee	Committee	PROPN	NNP	Number=Sing	29	_	_	start_char=443|end_char=452|SpaceAfter=No
+31	:	:	PUNCT	:	_	30	_	_	start_char=452|end_char=453|SpacesAfter=\n\n
+
+# text = “We’re going to trac down these women and tal to them and if there is a credible reason that we need to bring them in front of the Oversight Committee then absolutely we will do that.
+# sent_id = 3
+1	“	''	PUNCT	``	_	0	_	_	start_char=455|end_char=456|SpaceAfter=No
+2-3	We’re	_	_	_	_	_	_	_	start_char=456|end_char=461
+2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	1	_	_	start_char=456|end_char=458
+3	’re	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=458|end_char=461
+4	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	3	_	_	start_char=462|end_char=467
+5	to	to	PART	TO	_	4	_	_	start_char=468|end_char=470
+6	trac	trac	VERB	VB	VerbForm=Inf	5	_	_	start_char=471|end_char=475
+7	down	down	ADP	RP	_	6	_	_	start_char=476|end_char=480
+8	these	this	DET	DT	Number=Plur|PronType=Dem	7	_	_	start_char=481|end_char=486
+9	women	woman	NOUN	NNS	Number=Plur	8	_	_	start_char=487|end_char=492
+10	and	and	CCONJ	CC	_	9	_	_	start_char=493|end_char=496
+11	tal	tal	NOUN	NN	Number=Sing	10	_	_	start_char=497|end_char=500
+12	to	to	ADP	IN	_	11	_	_	start_char=501|end_char=503
+13	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	12	_	_	start_char=504|end_char=508
+14	and	and	CCONJ	CC	_	13	_	_	start_char=509|end_char=512
+15	if	if	SCONJ	IN	_	14	_	_	start_char=513|end_char=515
+16	there	there	PRON	EX	_	15	_	_	start_char=516|end_char=521
+17	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=522|end_char=524
+18	a	a	DET	DT	Definite=Ind|PronType=Art	17	_	_	start_char=525|end_char=526
+19	credible	credible	ADJ	JJ	Degree=Pos	18	_	_	start_char=527|end_char=535
+20	reason	reason	NOUN	NN	Number=Sing	19	_	_	start_char=536|end_char=542
+21	that	that	SCONJ	IN	_	20	_	_	start_char=543|end_char=547
+22	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	21	_	_	start_char=548|end_char=550
+23	need	need	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	22	_	_	start_char=551|end_char=555
+24	to	to	PART	TO	_	23	_	_	start_char=556|end_char=558
+25	bring	bring	VERB	VB	VerbForm=Inf	24	_	_	start_char=559|end_char=564
+26	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	25	_	_	start_char=565|end_char=569
+27	in	in	ADP	IN	_	26	_	_	start_char=570|end_char=572
+28	front	front	NOUN	NN	Number=Sing	27	_	_	start_char=573|end_char=578
+29	of	of	ADP	IN	_	28	_	_	start_char=579|end_char=581
+30	the	the	DET	DT	Definite=Def|PronType=Art	29	_	_	start_char=582|end_char=585
+31	Oversight	Oversight	PROPN	NNP	Number=Sing	30	_	_	start_char=586|end_char=595
+32	Committee	Committee	PROPN	NNP	Number=Sing	31	_	_	start_char=596|end_char=605
+33	then	then	ADV	RB	PronType=Dem	32	_	_	start_char=606|end_char=610
+34	absolutely	absolutely	ADV	RB	_	33	_	_	start_char=611|end_char=621
+35	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	34	_	_	start_char=622|end_char=624
+36	will	will	AUX	MD	VerbForm=Fin	35	_	_	start_char=625|end_char=629
+37	do	do	VERB	VB	VerbForm=Inf	36	_	_	start_char=630|end_char=632
+38	that	that	PRON	DT	Number=Sing|PronType=Dem	37	_	_	start_char=633|end_char=637|SpaceAfter=No
+39	.	.	PUNCT	.	_	38	_	_	start_char=637|end_char=638
+
+# text = Especially when it involves our national security,” Rep. Marjorie Taylor Greene (R-Ga.) told the NY Post.
+# sent_id = 4
+1	Especially	especially	ADV	RB	_	0	_	_	start_char=639|end_char=649
+2	when	when	ADV	WRB	PronType=Int	1	_	_	start_char=650|end_char=654
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	_	_	start_char=655|end_char=657
+4	involves	involve	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=658|end_char=666
+5	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	4	_	_	start_char=667|end_char=670
+6	national	national	ADJ	JJ	Degree=Pos	5	_	_	start_char=671|end_char=679
+7	security	security	NOUN	NN	Number=Sing	6	_	_	start_char=680|end_char=688|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=688|end_char=689|SpaceAfter=No
+9	”	''	PUNCT	''	_	8	_	_	start_char=689|end_char=690
+10	Rep.	Rep.	PROPN	NNP	Number=Sing	9	_	_	start_char=691|end_char=695
+11	Marjorie	Marjorie	PROPN	NNP	Number=Sing	10	_	_	start_char=696|end_char=704
+12	Taylor	Taylor	PROPN	NNP	Number=Sing	11	_	_	start_char=705|end_char=711
+13	Greene	Greene	PROPN	NNP	Number=Sing	12	_	_	start_char=712|end_char=718
+14	(	(	PUNCT	-LRB-	_	13	_	_	start_char=719|end_char=720|SpaceAfter=No
+15	R	R	PROPN	NNP	Number=Sing	14	_	_	start_char=720|end_char=721|SpaceAfter=No
+16	-	-	PUNCT	HYPH	_	15	_	_	start_char=721|end_char=722|SpaceAfter=No
+17	Ga.	Ga.	PROPN	NNP	Number=Sing	16	_	_	start_char=722|end_char=725|SpaceAfter=No
+18	)	)	PUNCT	-RRB-	_	17	_	_	start_char=725|end_char=726
+19	told	tell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	_	_	start_char=727|end_char=731
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=732|end_char=735
+21	NY	NY	PROPN	NNP	Number=Sing	20	_	_	start_char=736|end_char=738
+22	Post	Post	PROPN	NNP	Number=Sing	21	_	_	start_char=739|end_char=743|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=743|end_char=744|SpacesAfter=\n\n
+
+# text = “I’ve been taling about it with [committee] Chairman [James] Comer and we’re already woring in that direction.”
+# sent_id = 5
+1	“	''	PUNCT	``	_	0	_	_	start_char=746|end_char=747|SpaceAfter=No
+2-3	I’ve	_	_	_	_	_	_	_	start_char=747|end_char=751
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	_	_	start_char=747|end_char=748
+3	’ve	have	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=748|end_char=751
+4	been	be	AUX	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=752|end_char=756
+5	taling	tale	VERB	VBG	Tense=Pres|VerbForm=Part	4	_	_	start_char=757|end_char=763
+6	about	about	ADP	IN	_	5	_	_	start_char=764|end_char=769
+7	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	_	_	start_char=770|end_char=772
+8	with	with	ADP	IN	_	7	_	_	start_char=773|end_char=777
+9	[	[	PUNCT	-LRB-	_	8	_	_	start_char=778|end_char=779|SpaceAfter=No
+10	committee	committee	NOUN	NN	Number=Sing	9	_	_	start_char=779|end_char=788|SpaceAfter=No
+11	]	]	PUNCT	-RRB-	_	10	_	_	start_char=788|end_char=789
+12	Chairman	Chairman	PROPN	NNP	Number=Sing	11	_	_	start_char=790|end_char=798
+13	[	[	PUNCT	-LRB-	_	12	_	_	start_char=799|end_char=800|SpaceAfter=No
+14	James	James	PROPN	NNP	Number=Sing	13	_	_	start_char=800|end_char=805|SpaceAfter=No
+15	]	]	PUNCT	-RRB-	_	14	_	_	start_char=805|end_char=806
+16	Comer	Comer	PROPN	NNP	Number=Sing	15	_	_	start_char=807|end_char=812
+17	and	and	CCONJ	CC	_	16	_	_	start_char=813|end_char=816
+18-19	we’re	_	_	_	_	_	_	_	start_char=817|end_char=822
+18	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	17	_	_	start_char=817|end_char=819
+19	’re	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	18	_	_	start_char=819|end_char=822
+20	already	already	ADV	RB	_	19	_	_	start_char=823|end_char=830
+21	woring	wore	VERB	VBG	Tense=Pres|VerbForm=Part	20	_	_	start_char=831|end_char=837
+22	in	in	ADP	IN	_	21	_	_	start_char=838|end_char=840
+23	that	that	DET	DT	Number=Sing|PronType=Dem	22	_	_	start_char=841|end_char=845
+24	direction	direction	NOUN	NN	Number=Sing	23	_	_	start_char=846|end_char=855|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=855|end_char=856|SpaceAfter=No
+26	”	''	PUNCT	''	_	25	_	_	start_char=856|end_char=857|SpacesAfter=\n\n
+
+# text = “There was an entire stac of papers and it was each transaction, each person, each LLC, Hunter Biden’s law firm, Hunter Biden himself, and multiple Biden family members — then it was all these prostitutes.
+# sent_id = 6
+1	“	''	PUNCT	``	_	0	_	_	start_char=859|end_char=860|SpaceAfter=No
+2	There	there	PRON	EX	_	1	_	_	start_char=860|end_char=865
+3	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=866|end_char=869
+4	an	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=870|end_char=872
+5	entire	entire	ADJ	JJ	Degree=Pos	4	_	_	start_char=873|end_char=879
+6	stac	stac	NOUN	NN	Number=Sing	5	_	_	start_char=880|end_char=884
+7	of	of	ADP	IN	_	6	_	_	start_char=885|end_char=887
+8	papers	paper	NOUN	NNS	Number=Plur	7	_	_	start_char=888|end_char=894
+9	and	and	CCONJ	CC	_	8	_	_	start_char=895|end_char=898
+10	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	_	_	start_char=899|end_char=901
+11	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=902|end_char=905
+12	each	each	DET	DT	_	11	_	_	start_char=906|end_char=910
+13	transaction	transaction	NOUN	NN	Number=Sing	12	_	_	start_char=911|end_char=922|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=922|end_char=923
+15	each	each	DET	DT	_	14	_	_	start_char=924|end_char=928
+16	person	person	NOUN	NN	Number=Sing	15	_	_	start_char=929|end_char=935|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=935|end_char=936
+18	each	each	DET	DT	_	17	_	_	start_char=937|end_char=941
+19	LLC	LLC	PROPN	NNP	Number=Sing	18	_	_	start_char=942|end_char=945|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=945|end_char=946
+21	Hunter	Hunter	PROPN	NNP	Number=Sing	20	_	_	start_char=947|end_char=953
+22-23	Biden’s	_	_	_	_	_	_	_	start_char=954|end_char=961
+22	Biden	Biden	PROPN	NNP	Number=Sing	21	_	_	start_char=954|end_char=959
+23	’s	's	PART	POS	_	22	_	_	start_char=959|end_char=961
+24	law	law	NOUN	NN	Number=Sing	23	_	_	start_char=962|end_char=965
+25	firm	firm	NOUN	NN	Number=Sing	24	_	_	start_char=966|end_char=970|SpaceAfter=No
+26	,	,	PUNCT	,	_	25	_	_	start_char=970|end_char=971
+27	Hunter	Hunter	PROPN	NNP	Number=Sing	26	_	_	start_char=972|end_char=978
+28	Biden	Biden	PROPN	NNP	Number=Sing	27	_	_	start_char=979|end_char=984
+29	himself	himself	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	28	_	_	start_char=985|end_char=992|SpaceAfter=No
+30	,	,	PUNCT	,	_	29	_	_	start_char=992|end_char=993
+31	and	and	CCONJ	CC	_	30	_	_	start_char=994|end_char=997
+32	multiple	multiple	ADJ	JJ	Degree=Pos	31	_	_	start_char=998|end_char=1006
+33	Biden	Biden	PROPN	NNP	Number=Sing	32	_	_	start_char=1007|end_char=1012
+34	family	family	NOUN	NN	Number=Sing	33	_	_	start_char=1013|end_char=1019
+35	members	member	NOUN	NNS	Number=Plur	34	_	_	start_char=1020|end_char=1027
+36	—	—	PUNCT	:	_	35	_	_	start_char=1028|end_char=1029
+37	then	then	ADV	RB	PronType=Dem	36	_	_	start_char=1030|end_char=1034
+38	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	37	_	_	start_char=1035|end_char=1037
+39	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	38	_	_	start_char=1038|end_char=1041
+40	all	all	DET	PDT	_	39	_	_	start_char=1042|end_char=1045
+41	these	this	DET	DT	Number=Plur|PronType=Dem	40	_	_	start_char=1046|end_char=1051
+42	prostitutes	prostitute	NOUN	NNS	Number=Plur	41	_	_	start_char=1052|end_char=1063|SpaceAfter=No
+43	.	.	PUNCT	.	_	42	_	_	start_char=1063|end_char=1064
+
+# text = And you can go through and it gives all the prostitutes’ names, addresses, birthdates, telephone numbers, their passports,” Greene added.
+# sent_id = 7
+1	And	and	CCONJ	CC	_	0	_	_	start_char=1065|end_char=1068
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	1	_	_	start_char=1069|end_char=1072
+3	can	can	AUX	MD	VerbForm=Fin	2	_	_	start_char=1073|end_char=1076
+4	go	go	VERB	VB	VerbForm=Inf	3	_	_	start_char=1077|end_char=1079
+5	through	through	ADV	RB	_	4	_	_	start_char=1080|end_char=1087
+6	and	and	CCONJ	CC	_	5	_	_	start_char=1088|end_char=1091
+7	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	_	_	start_char=1092|end_char=1094
+8	gives	give	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=1095|end_char=1100
+9	all	all	DET	PDT	_	8	_	_	start_char=1101|end_char=1104
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=1105|end_char=1108
+11-12	prostitutes’	_	_	_	_	_	_	_	start_char=1109|end_char=1121
+11	prostitutes	prostitute	NOUN	NNS	Number=Plur	10	_	_	start_char=1109|end_char=1120
+12	’	's	PART	POS	_	11	_	_	start_char=1120|end_char=1121
+13	names	name	NOUN	NNS	Number=Plur	12	_	_	start_char=1122|end_char=1127|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=1127|end_char=1128
+15	addresses	address	NOUN	NNS	Number=Plur	14	_	_	start_char=1129|end_char=1138|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=1138|end_char=1139
+17	birthdates	birthdate	NOUN	NNS	Number=Plur	16	_	_	start_char=1140|end_char=1150|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=1150|end_char=1151
+19	telephone	telephone	NOUN	NN	Number=Sing	18	_	_	start_char=1152|end_char=1161
+20	numbers	number	NOUN	NNS	Number=Plur	19	_	_	start_char=1162|end_char=1169|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=1169|end_char=1170
+22	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	21	_	_	start_char=1171|end_char=1176
+23	passports	passport	NOUN	NNS	Number=Plur	22	_	_	start_char=1177|end_char=1186|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=1186|end_char=1187|SpaceAfter=No
+25	”	''	PUNCT	''	_	24	_	_	start_char=1187|end_char=1188
+26	Greene	Greene	PROPN	NNP	Number=Sing	25	_	_	start_char=1189|end_char=1195
+27	added	add	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	26	_	_	start_char=1196|end_char=1201|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=1201|end_char=1202|SpacesAfter=\n\n
+
+# text = “We need to tal to them, especially the ones from Russia and Uraine.
+# sent_id = 8
+1	“	''	PUNCT	``	_	0	_	_	start_char=1204|end_char=1205|SpaceAfter=No
+2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	1	_	_	start_char=1205|end_char=1207
+3	need	need	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1208|end_char=1212
+4	to	to	PART	TO	_	3	_	_	start_char=1213|end_char=1215
+5	tal	tal	VERB	VB	VerbForm=Inf	4	_	_	start_char=1216|end_char=1219
+6	to	to	ADP	IN	_	5	_	_	start_char=1220|end_char=1222
+7	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	6	_	_	start_char=1223|end_char=1227|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=1227|end_char=1228
+9	especially	especially	ADV	RB	_	8	_	_	start_char=1229|end_char=1239
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=1240|end_char=1243
+11	ones	one	NOUN	NNS	Number=Plur	10	_	_	start_char=1244|end_char=1248
+12	from	from	ADP	IN	_	11	_	_	start_char=1249|end_char=1253
+13	Russia	Russia	PROPN	NNP	Number=Sing	12	_	_	start_char=1254|end_char=1260
+14	and	and	CCONJ	CC	_	13	_	_	start_char=1261|end_char=1264
+15	Uraine	Uraine	PROPN	NNP	Number=Sing	14	_	_	start_char=1265|end_char=1271|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=1271|end_char=1272
+
+# text = …
+# sent_id = 9
+1	…	…	PUNCT	NFP	_	0	_	_	start_char=1273|end_char=1274
+
+# text = We need to find out where they were with Hunter Biden.
+# sent_id = 10
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	start_char=1275|end_char=1277
+2	need	need	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1278|end_char=1282
+3	to	to	PART	TO	_	2	_	_	start_char=1283|end_char=1285
+4	find	find	VERB	VB	VerbForm=Inf	3	_	_	start_char=1286|end_char=1290
+5	out	out	ADP	RP	_	4	_	_	start_char=1291|end_char=1294
+6	where	where	ADV	WRB	PronType=Rel	5	_	_	start_char=1295|end_char=1300
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	_	_	start_char=1301|end_char=1305
+8	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=1306|end_char=1310
+9	with	with	ADP	IN	_	8	_	_	start_char=1311|end_char=1315
+10	Hunter	Hunter	PROPN	NNP	Number=Sing	9	_	_	start_char=1316|end_char=1322
+11	Biden	Biden	PROPN	NNP	Number=Sing	10	_	_	start_char=1323|end_char=1328|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=1328|end_char=1329
+
+# text = Did they go in the White House when [Joe Biden] was Vice President?
+# sent_id = 11
+1	Did	do	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	_	_	start_char=1330|end_char=1333
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	1	_	_	start_char=1334|end_char=1338
+3	go	go	VERB	VB	VerbForm=Inf	2	_	_	start_char=1339|end_char=1341
+4	in	in	ADP	IN	_	3	_	_	start_char=1342|end_char=1344
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1345|end_char=1348
+6	White	White	ADJ	NNP	Degree=Pos	5	_	_	start_char=1349|end_char=1354
+7	House	House	PROPN	NNP	Number=Sing	6	_	_	start_char=1355|end_char=1360
+8	when	when	ADV	WRB	PronType=Int	7	_	_	start_char=1361|end_char=1365
+9	[	[	PUNCT	-LRB-	_	8	_	_	start_char=1366|end_char=1367|SpaceAfter=No
+10	Joe	Joe	PROPN	NNP	Number=Sing	9	_	_	start_char=1367|end_char=1370
+11	Biden	Biden	PROPN	NNP	Number=Sing	10	_	_	start_char=1371|end_char=1376|SpaceAfter=No
+12	]	]	PUNCT	-RRB-	_	11	_	_	start_char=1376|end_char=1377
+13	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=1378|end_char=1381
+14	Vice	Vice	PROPN	NNP	Number=Sing	13	_	_	start_char=1382|end_char=1386
+15	President	President	PROPN	NNP	Number=Sing	14	_	_	start_char=1387|end_char=1396|SpaceAfter=No
+16	?	?	PUNCT	.	_	15	_	_	start_char=1396|end_char=1397
+
+# text = We just need to now these things.
+# sent_id = 12
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	start_char=1398|end_char=1400
+2	just	just	ADV	RB	_	1	_	_	start_char=1401|end_char=1405
+3	need	need	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1406|end_char=1410
+4	to	to	PART	TO	_	3	_	_	start_char=1411|end_char=1413
+5	now	now	ADV	RB	_	4	_	_	start_char=1414|end_char=1417
+6	these	this	DET	DT	Number=Plur|PronType=Dem	5	_	_	start_char=1418|end_char=1423
+7	things	thing	NOUN	NNS	Number=Plur	6	_	_	start_char=1424|end_char=1430|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	_	_	start_char=1430|end_char=1431
+
+# text = Where they’ve been, what they now, what they’ve seen, what they’ve heard.”
+# sent_id = 13
+1	Where	where	ADV	WRB	PronType=Int	0	_	_	start_char=1432|end_char=1437
+2-3	they’ve	_	_	_	_	_	_	_	start_char=1438|end_char=1445
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	1	_	_	start_char=1438|end_char=1442
+3	’ve	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1442|end_char=1445
+4	been	be	AUX	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=1446|end_char=1450|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=1450|end_char=1451
+6	what	what	PRON	WP	PronType=Rel	5	_	_	start_char=1452|end_char=1456
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	_	_	start_char=1457|end_char=1461
+8	now	now	ADV	RB	_	7	_	_	start_char=1462|end_char=1465|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1465|end_char=1466
+10	what	what	PRON	WP	PronType=Rel	9	_	_	start_char=1467|end_char=1471
+11-12	they’ve	_	_	_	_	_	_	_	start_char=1472|end_char=1479
+11	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	_	_	start_char=1472|end_char=1476
+12	’ve	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=1476|end_char=1479
+13	seen	see	VERB	VBN	Tense=Past|VerbForm=Part	12	_	_	start_char=1480|end_char=1484|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=1484|end_char=1485
+15	what	what	PRON	WP	PronType=Rel	14	_	_	start_char=1486|end_char=1490
+16-17	they’ve	_	_	_	_	_	_	_	start_char=1491|end_char=1498
+16	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	_	_	start_char=1491|end_char=1495
+17	’ve	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=1495|end_char=1498
+18	heard	hear	VERB	VBN	Tense=Past|VerbForm=Part	17	_	_	start_char=1499|end_char=1504|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=1504|end_char=1505|SpaceAfter=No
+20	”	''	PUNCT	''	_	19	_	_	start_char=1505|end_char=1506|SpaceAfter=No
+

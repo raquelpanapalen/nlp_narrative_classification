@@ -1,0 +1,759 @@
+# text = Oil Going UP ?
+# sent_id = 0
+1	Oil	oil	NOUN	NN	Number=Sing	0	_	_	start_char=0|end_char=3
+2	Going	go	VERB	VBG	VerbForm=Ger	1	_	_	start_char=4|end_char=9
+3	UP	UP	PROPN	NNP	Number=Sing	2	_	_	start_char=10|end_char=12
+4	?	?	PUNCT	.	_	3	_	_	start_char=13|end_char=14
+
+# text = Or Fizzle out ?
+# sent_id = 1
+1	Or	or	CCONJ	CC	_	0	_	_	start_char=15|end_char=17
+2	Fizzle	fizzle	VERB	VB	Mood=Imp|VerbForm=Fin	1	_	_	start_char=18|end_char=24
+3	out	out	ADP	RP	_	2	_	_	start_char=25|end_char=28
+4	?	?	PUNCT	.	_	3	_	_	start_char=29|end_char=30
+
+# text = Get ready for global oil supply shoc – IEA , Russian OIL, crude oil
+# sent_id = 2
+1	Get	get	VERB	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=31|end_char=34
+2	ready	ready	ADJ	JJ	Degree=Pos	1	_	_	start_char=35|end_char=40
+3	for	for	ADP	IN	_	2	_	_	start_char=41|end_char=44
+4	global	global	ADJ	JJ	Degree=Pos	3	_	_	start_char=45|end_char=51
+5	oil	oil	NOUN	NN	Number=Sing	4	_	_	start_char=52|end_char=55
+6	supply	supply	NOUN	NN	Number=Sing	5	_	_	start_char=56|end_char=62
+7	shoc	shoc	NOUN	NN	Number=Sing	6	_	_	start_char=63|end_char=67
+8	–	-	PUNCT	:	_	7	_	_	start_char=68|end_char=69
+9	IEA	IEA	PROPN	NNP	Number=Sing	8	_	_	start_char=70|end_char=73
+10	,	,	PUNCT	,	_	9	_	_	start_char=74|end_char=75
+11	Russian	Russian	ADJ	JJ	Degree=Pos	10	_	_	start_char=76|end_char=83
+12	OIL	oil	NOUN	NN	Number=Sing	11	_	_	start_char=84|end_char=87|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=87|end_char=88
+14	crude	crude	NOUN	NN	Number=Sing	13	_	_	start_char=89|end_char=94
+15	oil	oil	NOUN	NN	Number=Sing	14	_	_	start_char=95|end_char=98|SpacesAfter=\s\n\n
+
+# text = Oil Going UP ?
+# sent_id = 3
+1	Oil	oil	NOUN	NN	Number=Sing	0	_	_	start_char=101|end_char=104
+2	Going	go	VERB	VBG	VerbForm=Ger	1	_	_	start_char=105|end_char=110
+3	UP	UP	PROPN	NNP	Number=Sing	2	_	_	start_char=111|end_char=113
+4	?	?	PUNCT	.	_	3	_	_	start_char=114|end_char=115
+
+# text = Or Fizzle out ?
+# sent_id = 4
+1	Or	or	CCONJ	CC	_	0	_	_	start_char=116|end_char=118
+2	Fizzle	fizzle	VERB	VB	Mood=Imp|VerbForm=Fin	1	_	_	start_char=119|end_char=125
+3	out	out	ADP	RP	_	2	_	_	start_char=126|end_char=129
+4	?	?	PUNCT	.	_	3	_	_	start_char=130|end_char=131
+
+# text = Get ready for global oil supply shoc – IEA , Russian OIL, crude oil
+# sent_id = 5
+1	Get	get	VERB	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=132|end_char=135
+2	ready	ready	ADJ	JJ	Degree=Pos	1	_	_	start_char=136|end_char=141
+3	for	for	ADP	IN	_	2	_	_	start_char=142|end_char=145
+4	global	global	ADJ	JJ	Degree=Pos	3	_	_	start_char=146|end_char=152
+5	oil	oil	NOUN	NN	Number=Sing	4	_	_	start_char=153|end_char=156
+6	supply	supply	NOUN	NN	Number=Sing	5	_	_	start_char=157|end_char=163
+7	shoc	shoc	NOUN	NN	Number=Sing	6	_	_	start_char=164|end_char=168
+8	–	-	PUNCT	:	_	7	_	_	start_char=169|end_char=170
+9	IEA	IEA	PROPN	NNP	Number=Sing	8	_	_	start_char=171|end_char=174
+10	,	,	PUNCT	,	_	9	_	_	start_char=175|end_char=176
+11	Russian	Russian	ADJ	JJ	Degree=Pos	10	_	_	start_char=177|end_char=184
+12	OIL	oil	NOUN	NN	Number=Sing	11	_	_	start_char=185|end_char=188|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=188|end_char=189
+14	crude	crude	NOUN	NN	Number=Sing	13	_	_	start_char=190|end_char=195
+15	oil	oil	NOUN	NN	Number=Sing	14	_	_	start_char=196|end_char=199|SpacesAfter=\n\n
+
+# text = My opinion : Oil wars Might get out of hand !
+# sent_id = 6
+1	My	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	_	_	start_char=201|end_char=203
+2	opinion	opinion	NOUN	NN	Number=Sing	1	_	_	start_char=204|end_char=211
+3	:	:	PUNCT	:	_	2	_	_	start_char=212|end_char=213
+4	Oil	oil	NOUN	NN	Number=Sing	3	_	_	start_char=214|end_char=217
+5	wars	war	NOUN	NNS	Number=Plur	4	_	_	start_char=218|end_char=222
+6	Might	might	AUX	MD	VerbForm=Fin	5	_	_	start_char=223|end_char=228
+7	get	get	VERB	VB	VerbForm=Inf	6	_	_	start_char=229|end_char=232
+8	out	out	ADP	IN	_	7	_	_	start_char=233|end_char=236
+9	of	of	ADP	IN	_	8	_	_	start_char=237|end_char=239
+10	hand	hand	NOUN	NN	Number=Sing	9	_	_	start_char=240|end_char=244
+11	!	!	PUNCT	.	_	10	_	_	start_char=245|end_char=246
+
+# text = or is it a distraction ?
+# sent_id = 7
+1	or	or	CCONJ	CC	_	0	_	_	start_char=247|end_char=249
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=250|end_char=252
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	_	_	start_char=253|end_char=255
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=256|end_char=257
+5	distraction	distraction	NOUN	NN	Number=Sing	4	_	_	start_char=258|end_char=269
+6	?	?	PUNCT	.	_	5	_	_	start_char=270|end_char=271|SpacesAfter=\n\n
+
+# text = Get ready for global oil supply shoc – IEA
+# sent_id = 8
+1	Get	get	VERB	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=273|end_char=276
+2	ready	ready	ADJ	JJ	Degree=Pos	1	_	_	start_char=277|end_char=282
+3	for	for	ADP	IN	_	2	_	_	start_char=283|end_char=286
+4	global	global	ADJ	JJ	Degree=Pos	3	_	_	start_char=287|end_char=293
+5	oil	oil	NOUN	NN	Number=Sing	4	_	_	start_char=294|end_char=297
+6	supply	supply	NOUN	NN	Number=Sing	5	_	_	start_char=298|end_char=304
+7	shoc	shoc	NOUN	NN	Number=Sing	6	_	_	start_char=305|end_char=309
+8	–	-	PUNCT	:	_	7	_	_	start_char=310|end_char=311
+9	IEA	IEA	PROPN	NNP	Number=Sing	8	_	_	start_char=312|end_char=315|SpacesAfter=\n\n
+
+# text = Russia could shut 30% of its crude oil output from April if it doesn’t find buyers
+# sent_id = 9
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=317|end_char=323
+2	could	could	AUX	MD	VerbForm=Fin	1	_	_	start_char=324|end_char=329
+3	shut	shut	VERB	VB	VerbForm=Inf	2	_	_	start_char=330|end_char=334
+4	30	30	NUM	CD	NumForm=Digit|NumType=Card	3	_	_	start_char=335|end_char=337|SpaceAfter=No
+5	%	%	SYM	NN	Number=Sing	4	_	_	start_char=337|end_char=338
+6	of	of	ADP	IN	_	5	_	_	start_char=339|end_char=341
+7	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	_	_	start_char=342|end_char=345
+8	crude	crude	NOUN	NN	Number=Sing	7	_	_	start_char=346|end_char=351
+9	oil	oil	NOUN	NN	Number=Sing	8	_	_	start_char=352|end_char=355
+10	output	output	NOUN	NN	Number=Sing	9	_	_	start_char=356|end_char=362
+11	from	from	ADP	IN	_	10	_	_	start_char=363|end_char=367
+12	April	April	PROPN	NNP	Number=Sing	11	_	_	start_char=368|end_char=373
+13	if	if	SCONJ	IN	_	12	_	_	start_char=374|end_char=376
+14	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	_	_	start_char=377|end_char=379
+15-16	doesn’t	_	_	_	_	_	_	_	start_char=380|end_char=387
+15	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=380|end_char=384
+16	n’t	not	PART	RB	_	15	_	_	start_char=384|end_char=387
+17	find	find	VERB	VB	VerbForm=Inf	16	_	_	start_char=388|end_char=392
+18	buyers	buyer	NOUN	NNS	Number=Plur	17	_	_	start_char=393|end_char=399|SpacesAfter=\n\n
+
+# text = Russia could be forced to cut crude production by nearly a third starting next month, as traders are reportedly reluctant to buy oil from the country amid Western sanctions, the International Energy Agency warned on Wednesday.
+# sent_id = 10
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=401|end_char=407
+2	could	could	AUX	MD	VerbForm=Fin	1	_	_	start_char=408|end_char=413
+3	be	be	AUX	VB	VerbForm=Inf	2	_	_	start_char=414|end_char=416
+4	forced	force	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=417|end_char=423
+5	to	to	PART	TO	_	4	_	_	start_char=424|end_char=426
+6	cut	cut	VERB	VB	VerbForm=Inf	5	_	_	start_char=427|end_char=430
+7	crude	crude	NOUN	NN	Number=Sing	6	_	_	start_char=431|end_char=436
+8	production	production	NOUN	NN	Number=Sing	7	_	_	start_char=437|end_char=447
+9	by	by	ADP	IN	_	8	_	_	start_char=448|end_char=450
+10	nearly	nearly	ADV	RB	_	9	_	_	start_char=451|end_char=457
+11	a	a	DET	DT	Definite=Ind|PronType=Art	10	_	_	start_char=458|end_char=459
+12	third	third	NOUN	NN	NumForm=Word|NumType=Frac|Number=Sing	11	_	_	start_char=460|end_char=465
+13	starting	start	VERB	VBG	VerbForm=Ger	12	_	_	start_char=466|end_char=474
+14	next	next	ADJ	JJ	Degree=Pos	13	_	_	start_char=475|end_char=479
+15	month	month	NOUN	NN	Number=Sing	14	_	_	start_char=480|end_char=485|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=485|end_char=486
+17	as	as	SCONJ	IN	_	16	_	_	start_char=487|end_char=489
+18	traders	trader	NOUN	NNS	Number=Plur	17	_	_	start_char=490|end_char=497
+19	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=498|end_char=501
+20	reportedly	reportedly	ADV	RB	_	19	_	_	start_char=502|end_char=512
+21	reluctant	reluctant	ADJ	JJ	Degree=Pos	20	_	_	start_char=513|end_char=522
+22	to	to	PART	TO	_	21	_	_	start_char=523|end_char=525
+23	buy	buy	VERB	VB	VerbForm=Inf	22	_	_	start_char=526|end_char=529
+24	oil	oil	NOUN	NN	Number=Sing	23	_	_	start_char=530|end_char=533
+25	from	from	ADP	IN	_	24	_	_	start_char=534|end_char=538
+26	the	the	DET	DT	Definite=Def|PronType=Art	25	_	_	start_char=539|end_char=542
+27	country	country	NOUN	NN	Number=Sing	26	_	_	start_char=543|end_char=550
+28	amid	amid	ADP	IN	_	27	_	_	start_char=551|end_char=555
+29	Western	western	ADJ	JJ	Degree=Pos	28	_	_	start_char=556|end_char=563
+30	sanctions	sanction	NOUN	NNS	Number=Plur	29	_	_	start_char=564|end_char=573|SpaceAfter=No
+31	,	,	PUNCT	,	_	30	_	_	start_char=573|end_char=574
+32	the	the	DET	DT	Definite=Def|PronType=Art	31	_	_	start_char=575|end_char=578
+33	International	International	ADJ	NNP	Degree=Pos	32	_	_	start_char=579|end_char=592
+34	Energy	Energy	PROPN	NNP	Number=Sing	33	_	_	start_char=593|end_char=599
+35	Agency	Agency	PROPN	NNP	Number=Sing	34	_	_	start_char=600|end_char=606
+36	warned	warn	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	35	_	_	start_char=607|end_char=613
+37	on	on	ADP	IN	_	36	_	_	start_char=614|end_char=616
+38	Wednesday	Wednesday	PROPN	NNP	Number=Sing	37	_	_	start_char=617|end_char=626|SpaceAfter=No
+39	.	.	PUNCT	.	_	38	_	_	start_char=626|end_char=627|SpacesAfter=\n\n
+
+# text = “The prospect of large-scale disruptions to Russian oil production is threatening to create a global oil supply shoc.
+# sent_id = 11
+1	“	''	PUNCT	``	_	0	_	_	start_char=629|end_char=630|SpaceAfter=No
+2	The	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=630|end_char=633
+3	prospect	prospect	NOUN	NN	Number=Sing	2	_	_	start_char=634|end_char=642
+4	of	of	ADP	IN	_	3	_	_	start_char=643|end_char=645
+5	large	large	ADJ	JJ	Degree=Pos	4	_	_	start_char=646|end_char=651|SpaceAfter=No
+6	-	-	PUNCT	HYPH	_	5	_	_	start_char=651|end_char=652|SpaceAfter=No
+7	scale	scale	NOUN	NN	Number=Sing	6	_	_	start_char=652|end_char=657
+8	disruptions	disruption	NOUN	NNS	Number=Plur	7	_	_	start_char=658|end_char=669
+9	to	to	ADP	IN	_	8	_	_	start_char=670|end_char=672
+10	Russian	Russian	ADJ	JJ	Degree=Pos	9	_	_	start_char=673|end_char=680
+11	oil	oil	NOUN	NN	Number=Sing	10	_	_	start_char=681|end_char=684
+12	production	production	NOUN	NN	Number=Sing	11	_	_	start_char=685|end_char=695
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=696|end_char=698
+14	threatening	threaten	VERB	VBG	Tense=Pres|VerbForm=Part	13	_	_	start_char=699|end_char=710
+15	to	to	PART	TO	_	14	_	_	start_char=711|end_char=713
+16	create	create	VERB	VB	VerbForm=Inf	15	_	_	start_char=714|end_char=720
+17	a	a	DET	DT	Definite=Ind|PronType=Art	16	_	_	start_char=721|end_char=722
+18	global	global	ADJ	JJ	Degree=Pos	17	_	_	start_char=723|end_char=729
+19	oil	oil	NOUN	NN	Number=Sing	18	_	_	start_char=730|end_char=733
+20	supply	supply	NOUN	NN	Number=Sing	19	_	_	start_char=734|end_char=740
+21	shoc	shoc	NOUN	NN	Number=Sing	20	_	_	start_char=741|end_char=745|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=745|end_char=746
+
+# text = We estimate that from April, 3 mb/d [million barrels per day] of Russian oil output could be shut in as sanctions tae hold and buyers shun exports,” the agency writes in its latest Oil Maret Report.
+# sent_id = 12
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	start_char=747|end_char=749
+2	estimate	estimate	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	_	_	start_char=750|end_char=758
+3	that	that	SCONJ	IN	_	2	_	_	start_char=759|end_char=763
+4	from	from	ADP	IN	_	3	_	_	start_char=764|end_char=768
+5	April	April	PROPN	NNP	Number=Sing	4	_	_	start_char=769|end_char=774|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=774|end_char=775
+7	3	3	NUM	CD	NumForm=Digit|NumType=Card	6	_	_	start_char=776|end_char=777
+8	mb/d	mb/d	NOUN	NN	Number=Sing	7	_	_	start_char=778|end_char=782
+9	[	[	PUNCT	-LRB-	_	8	_	_	start_char=783|end_char=784|SpaceAfter=No
+10	million	million	NUM	CD	NumForm=Word|NumType=Card	9	_	_	start_char=784|end_char=791
+11	barrels	barrel	NOUN	NNS	Number=Plur	10	_	_	start_char=792|end_char=799
+12	per	per	ADP	IN	_	11	_	_	start_char=800|end_char=803
+13	day	day	NOUN	NN	Number=Sing	12	_	_	start_char=804|end_char=807|SpaceAfter=No
+14	]	]	PUNCT	-RRB-	_	13	_	_	start_char=807|end_char=808
+15	of	of	ADP	IN	_	14	_	_	start_char=809|end_char=811
+16	Russian	Russian	ADJ	JJ	Degree=Pos	15	_	_	start_char=812|end_char=819
+17	oil	oil	NOUN	NN	Number=Sing	16	_	_	start_char=820|end_char=823
+18	output	output	NOUN	NN	Number=Sing	17	_	_	start_char=824|end_char=830
+19	could	could	AUX	MD	VerbForm=Fin	18	_	_	start_char=831|end_char=836
+20	be	be	AUX	VB	VerbForm=Inf	19	_	_	start_char=837|end_char=839
+21	shut	shut	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	20	_	_	start_char=840|end_char=844
+22	in	in	ADP	RP	_	21	_	_	start_char=845|end_char=847
+23	as	as	SCONJ	IN	_	22	_	_	start_char=848|end_char=850
+24	sanctions	sanction	NOUN	NNS	Number=Plur	23	_	_	start_char=851|end_char=860
+25	tae	tae	AUX	VBP	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	24	_	_	start_char=861|end_char=864
+26	hold	hold	NOUN	NN	Number=Sing	25	_	_	start_char=865|end_char=869
+27	and	and	CCONJ	CC	_	26	_	_	start_char=870|end_char=873
+28	buyers	buyer	NOUN	NNS	Number=Plur	27	_	_	start_char=874|end_char=880
+29	shun	shun	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	28	_	_	start_char=881|end_char=885
+30	exports	export	NOUN	NNS	Number=Plur	29	_	_	start_char=886|end_char=893|SpaceAfter=No
+31	,	,	PUNCT	,	_	30	_	_	start_char=893|end_char=894|SpaceAfter=No
+32	”	''	PUNCT	''	_	31	_	_	start_char=894|end_char=895
+33	the	the	DET	DT	Definite=Def|PronType=Art	32	_	_	start_char=896|end_char=899
+34	agency	agency	NOUN	NN	Number=Sing	33	_	_	start_char=900|end_char=906
+35	writes	write	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	34	_	_	start_char=907|end_char=913
+36	in	in	ADP	IN	_	35	_	_	start_char=914|end_char=916
+37	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	36	_	_	start_char=917|end_char=920
+38	latest	late	ADJ	JJS	Degree=Sup	37	_	_	start_char=921|end_char=927
+39	Oil	Oil	PROPN	NNP	Number=Sing	38	_	_	start_char=928|end_char=931
+40	Maret	Maret	PROPN	NNP	Number=Sing	39	_	_	start_char=932|end_char=937
+41	Report	report	NOUN	NN	Number=Sing	40	_	_	start_char=938|end_char=944|SpaceAfter=No
+42	.	.	PUNCT	.	_	41	_	_	start_char=944|end_char=945|SpacesAfter=\n\n
+
+# text = Only Saudi Arabia and the UAE hold substantial spare capacity that could immediately help to offset a Russian shortfall, the Agency says, adding that other OPEC nations are complying with the agreement to increase supply by “modest” monthly amounts.
+# sent_id = 13
+1	Only	only	ADV	RB	_	0	_	_	start_char=947|end_char=951
+2	Saudi	Saudi	ADJ	NNP	Degree=Pos	1	_	_	start_char=952|end_char=957
+3	Arabia	Arabia	PROPN	NNP	Number=Sing	2	_	_	start_char=958|end_char=964
+4	and	and	CCONJ	CC	_	3	_	_	start_char=965|end_char=968
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=969|end_char=972
+6	UAE	UAE	PROPN	NNP	Number=Sing	5	_	_	start_char=973|end_char=976
+7	hold	hold	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=977|end_char=981
+8	substantial	substantial	ADJ	JJ	Degree=Pos	7	_	_	start_char=982|end_char=993
+9	spare	spare	NOUN	NN	Number=Sing	8	_	_	start_char=994|end_char=999
+10	capacity	capacity	NOUN	NN	Number=Sing	9	_	_	start_char=1000|end_char=1008
+11	that	that	PRON	WDT	PronType=Rel	10	_	_	start_char=1009|end_char=1013
+12	could	could	AUX	MD	VerbForm=Fin	11	_	_	start_char=1014|end_char=1019
+13	immediately	immediately	ADV	RB	_	12	_	_	start_char=1020|end_char=1031
+14	help	help	VERB	VB	VerbForm=Inf	13	_	_	start_char=1032|end_char=1036
+15	to	to	PART	TO	_	14	_	_	start_char=1037|end_char=1039
+16	offset	offset	VERB	VB	VerbForm=Inf	15	_	_	start_char=1040|end_char=1046
+17	a	a	DET	DT	Definite=Ind|PronType=Art	16	_	_	start_char=1047|end_char=1048
+18	Russian	Russian	ADJ	JJ	Degree=Pos	17	_	_	start_char=1049|end_char=1056
+19	shortfall	shortfall	NOUN	NN	Number=Sing	18	_	_	start_char=1057|end_char=1066|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=1066|end_char=1067
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=1068|end_char=1071
+22	Agency	Agency	PROPN	NNP	Number=Sing	21	_	_	start_char=1072|end_char=1078
+23	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	_	_	start_char=1079|end_char=1083|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=1083|end_char=1084
+25	adding	add	VERB	VBG	VerbForm=Ger	24	_	_	start_char=1085|end_char=1091
+26	that	that	SCONJ	IN	_	25	_	_	start_char=1092|end_char=1096
+27	other	other	ADJ	JJ	Degree=Pos	26	_	_	start_char=1097|end_char=1102
+28	OPEC	OPEC	PROPN	NNP	Number=Sing	27	_	_	start_char=1103|end_char=1107
+29	nations	nation	NOUN	NNS	Number=Plur	28	_	_	start_char=1108|end_char=1115
+30	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	29	_	_	start_char=1116|end_char=1119
+31	complying	comply	VERB	VBG	Tense=Pres|VerbForm=Part	30	_	_	start_char=1120|end_char=1129
+32	with	with	ADP	IN	_	31	_	_	start_char=1130|end_char=1134
+33	the	the	DET	DT	Definite=Def|PronType=Art	32	_	_	start_char=1135|end_char=1138
+34	agreement	agreement	NOUN	NN	Number=Sing	33	_	_	start_char=1139|end_char=1148
+35	to	to	PART	TO	_	34	_	_	start_char=1149|end_char=1151
+36	increase	increase	VERB	VB	VerbForm=Inf	35	_	_	start_char=1152|end_char=1160
+37	supply	supply	NOUN	NN	Number=Sing	36	_	_	start_char=1161|end_char=1167
+38	by	by	ADP	IN	_	37	_	_	start_char=1168|end_char=1170
+39	“	''	PUNCT	``	_	38	_	_	start_char=1171|end_char=1172|SpaceAfter=No
+40	modest	modest	ADJ	JJ	Degree=Pos	39	_	_	start_char=1172|end_char=1178|SpaceAfter=No
+41	”	''	PUNCT	''	_	40	_	_	start_char=1178|end_char=1179
+42	monthly	monthly	ADJ	JJ	Degree=Pos	41	_	_	start_char=1180|end_char=1187
+43	amounts	amount	NOUN	NNS	Number=Plur	42	_	_	start_char=1188|end_char=1195|SpaceAfter=No
+44	.	.	PUNCT	.	_	43	_	_	start_char=1195|end_char=1196|SpacesAfter=\n\n
+
+# text = According to the IEA, surging commodity prices and international sanctions against Russia following its military operation in Uraine are expected to “appreciably depress global economic growth.”
+# sent_id = 14
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=1198|end_char=1207
+2	to	to	ADP	IN	_	1	_	_	start_char=1208|end_char=1210
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1211|end_char=1214
+4	IEA	IEA	PROPN	NNP	Number=Sing	3	_	_	start_char=1215|end_char=1218|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=1218|end_char=1219
+6	surging	surge	VERB	VBG	VerbForm=Ger	5	_	_	start_char=1220|end_char=1227
+7	commodity	commodity	NOUN	NN	Number=Sing	6	_	_	start_char=1228|end_char=1237
+8	prices	price	NOUN	NNS	Number=Plur	7	_	_	start_char=1238|end_char=1244
+9	and	and	CCONJ	CC	_	8	_	_	start_char=1245|end_char=1248
+10	international	international	ADJ	JJ	Degree=Pos	9	_	_	start_char=1249|end_char=1262
+11	sanctions	sanction	NOUN	NNS	Number=Plur	10	_	_	start_char=1263|end_char=1272
+12	against	against	ADP	IN	_	11	_	_	start_char=1273|end_char=1280
+13	Russia	Russia	PROPN	NNP	Number=Sing	12	_	_	start_char=1281|end_char=1287
+14	following	follow	VERB	VBG	VerbForm=Ger	13	_	_	start_char=1288|end_char=1297
+15	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	_	_	start_char=1298|end_char=1301
+16	military	military	ADJ	JJ	Degree=Pos	15	_	_	start_char=1302|end_char=1310
+17	operation	operation	NOUN	NN	Number=Sing	16	_	_	start_char=1311|end_char=1320
+18	in	in	ADP	IN	_	17	_	_	start_char=1321|end_char=1323
+19	Uraine	Uraine	PROPN	NNP	Number=Sing	18	_	_	start_char=1324|end_char=1330
+20	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	_	_	start_char=1331|end_char=1334
+21	expected	expect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	20	_	_	start_char=1335|end_char=1343
+22	to	to	PART	TO	_	21	_	_	start_char=1344|end_char=1346
+23	“	''	PUNCT	``	_	22	_	_	start_char=1347|end_char=1348|SpaceAfter=No
+24	appreciably	appreciably	ADV	RB	_	23	_	_	start_char=1348|end_char=1359
+25	depress	depress	VERB	VB	VerbForm=Inf	24	_	_	start_char=1360|end_char=1367
+26	global	global	ADJ	JJ	Degree=Pos	25	_	_	start_char=1368|end_char=1374
+27	economic	economic	ADJ	JJ	Degree=Pos	26	_	_	start_char=1375|end_char=1383
+28	growth	growth	NOUN	NN	Number=Sing	27	_	_	start_char=1384|end_char=1390|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=1390|end_char=1391|SpaceAfter=No
+30	”	''	PUNCT	''	_	29	_	_	start_char=1391|end_char=1392|SpacesAfter=\n\n
+
+# text = The US, the U, Canada, and Australia banned imports of Russian oil earlier this month, affecting some 13% of Russia’s exports.
+# sent_id = 15
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1394|end_char=1397
+2	US	US	PROPN	NNP	Number=Sing	1	_	_	start_char=1398|end_char=1400|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=1400|end_char=1401
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1402|end_char=1405
+5	U	U	PROPN	NNP	Number=Sing	4	_	_	start_char=1406|end_char=1407|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=1407|end_char=1408
+7	Canada	Canada	PROPN	NNP	Number=Sing	6	_	_	start_char=1409|end_char=1415|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=1415|end_char=1416
+9	and	and	CCONJ	CC	_	8	_	_	start_char=1417|end_char=1420
+10	Australia	Australia	PROPN	NNP	Number=Sing	9	_	_	start_char=1421|end_char=1430
+11	banned	ban	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=1431|end_char=1437
+12	imports	import	NOUN	NNS	Number=Plur	11	_	_	start_char=1438|end_char=1445
+13	of	of	ADP	IN	_	12	_	_	start_char=1446|end_char=1448
+14	Russian	Russian	ADJ	JJ	Degree=Pos	13	_	_	start_char=1449|end_char=1456
+15	oil	oil	NOUN	NN	Number=Sing	14	_	_	start_char=1457|end_char=1460
+16	earlier	early	ADV	RBR	Degree=Cmp	15	_	_	start_char=1461|end_char=1468
+17	this	this	DET	DT	Number=Sing|PronType=Dem	16	_	_	start_char=1469|end_char=1473
+18	month	month	NOUN	NN	Number=Sing	17	_	_	start_char=1474|end_char=1479|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=1479|end_char=1480
+20	affecting	affect	VERB	VBG	VerbForm=Ger	19	_	_	start_char=1481|end_char=1490
+21	some	some	DET	DT	_	20	_	_	start_char=1491|end_char=1495
+22	13	13	NUM	CD	NumForm=Digit|NumType=Card	21	_	_	start_char=1496|end_char=1498|SpaceAfter=No
+23	%	%	SYM	NN	Number=Sing	22	_	_	start_char=1498|end_char=1499
+24	of	of	ADP	IN	_	23	_	_	start_char=1500|end_char=1502
+25-26	Russia’s	_	_	_	_	_	_	_	start_char=1503|end_char=1511
+25	Russia	Russia	PROPN	NNP	Number=Sing	24	_	_	start_char=1503|end_char=1509
+26	’s	's	PART	POS	_	25	_	_	start_char=1509|end_char=1511
+27	exports	export	NOUN	NNS	Number=Plur	26	_	_	start_char=1512|end_char=1519|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=1519|end_char=1520
+
+# text = International oil companies quit joint ventures with Russian crude oil producers, overseas bans stopped dealing with Moscow, and the European Union announced a ban on investment in Russia's energy sector.
+# sent_id = 16
+1	International	International	ADJ	JJ	Degree=Pos	0	_	_	start_char=1521|end_char=1534
+2	oil	oil	NOUN	NN	Number=Sing	1	_	_	start_char=1535|end_char=1538
+3	companies	company	NOUN	NNS	Number=Plur	2	_	_	start_char=1539|end_char=1548
+4	quit	quit	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1549|end_char=1553
+5	joint	joint	ADJ	JJ	Degree=Pos	4	_	_	start_char=1554|end_char=1559
+6	ventures	venture	NOUN	NNS	Number=Plur	5	_	_	start_char=1560|end_char=1568
+7	with	with	ADP	IN	_	6	_	_	start_char=1569|end_char=1573
+8	Russian	Russian	ADJ	JJ	Degree=Pos	7	_	_	start_char=1574|end_char=1581
+9	crude	crude	NOUN	NN	Number=Sing	8	_	_	start_char=1582|end_char=1587
+10	oil	oil	NOUN	NN	Number=Sing	9	_	_	start_char=1588|end_char=1591
+11	producers	producer	NOUN	NNS	Number=Plur	10	_	_	start_char=1592|end_char=1601|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=1601|end_char=1602
+13	overseas	overseas	ADJ	JJ	Degree=Pos	12	_	_	start_char=1603|end_char=1611
+14	bans	ban	NOUN	NNS	Number=Plur	13	_	_	start_char=1612|end_char=1616
+15	stopped	stop	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=1617|end_char=1624
+16	dealing	deal	VERB	VBG	VerbForm=Ger	15	_	_	start_char=1625|end_char=1632
+17	with	with	ADP	IN	_	16	_	_	start_char=1633|end_char=1637
+18	Moscow	Moscow	PROPN	NNP	Number=Sing	17	_	_	start_char=1638|end_char=1644|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=1644|end_char=1645
+20	and	and	CCONJ	CC	_	19	_	_	start_char=1646|end_char=1649
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=1650|end_char=1653
+22	European	European	ADJ	NNP	Degree=Pos	21	_	_	start_char=1654|end_char=1662
+23	Union	Union	PROPN	NNP	Number=Sing	22	_	_	start_char=1663|end_char=1668
+24	announced	announce	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	23	_	_	start_char=1669|end_char=1678
+25	a	a	DET	DT	Definite=Ind|PronType=Art	24	_	_	start_char=1679|end_char=1680
+26	ban	ban	NOUN	NN	Number=Sing	25	_	_	start_char=1681|end_char=1684
+27	on	on	ADP	IN	_	26	_	_	start_char=1685|end_char=1687
+28	investment	investment	NOUN	NN	Number=Sing	27	_	_	start_char=1688|end_char=1698
+29	in	in	ADP	IN	_	28	_	_	start_char=1699|end_char=1701
+30-31	Russia's	_	_	_	_	_	_	_	start_char=1702|end_char=1710
+30	Russia	Russia	PROPN	NNP	Number=Sing	29	_	_	start_char=1702|end_char=1708
+31	's	's	PART	POS	_	30	_	_	start_char=1708|end_char=1710
+32	energy	energy	NOUN	NN	Number=Sing	31	_	_	start_char=1711|end_char=1717
+33	sector	sector	NOUN	NN	Number=Sing	32	_	_	start_char=1718|end_char=1724|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=1724|end_char=1725|SpacesAfter=\n\n
+
+# text = Brent crude futures jumped nearly 6% on Thursday to nearly $104 per barrel.
+# sent_id = 17
+1	Brent	Brent	PROPN	NNP	Number=Sing	0	_	_	start_char=1727|end_char=1732
+2	crude	crude	NOUN	NN	Number=Sing	1	_	_	start_char=1733|end_char=1738
+3	futures	future	NOUN	NNS	Number=Plur	2	_	_	start_char=1739|end_char=1746
+4	jumped	jump	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=1747|end_char=1753
+5	nearly	nearly	ADV	RB	_	4	_	_	start_char=1754|end_char=1760
+6	6	6	NUM	CD	NumForm=Digit|NumType=Card	5	_	_	start_char=1761|end_char=1762|SpaceAfter=No
+7	%	%	SYM	NN	Number=Sing	6	_	_	start_char=1762|end_char=1763
+8	on	on	ADP	IN	_	7	_	_	start_char=1764|end_char=1766
+9	Thursday	Thursday	PROPN	NNP	Number=Sing	8	_	_	start_char=1767|end_char=1775
+10	to	to	ADP	IN	_	9	_	_	start_char=1776|end_char=1778
+11	nearly	nearly	ADV	RB	_	10	_	_	start_char=1779|end_char=1785
+12	$	$	SYM	$	_	11	_	_	start_char=1786|end_char=1787|SpaceAfter=No
+13	104	104	NUM	CD	NumForm=Digit|NumType=Card	12	_	_	start_char=1787|end_char=1790
+14	per	per	ADP	IN	_	13	_	_	start_char=1791|end_char=1794
+15	barrel	barrel	NOUN	NN	Number=Sing	14	_	_	start_char=1795|end_char=1801|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=1801|end_char=1802
+
+# text = US West Texas Intermediate crude is gaining over 5% and trading above $100 a barrel.
+# sent_id = 18
+1	US	US	PROPN	NNP	Number=Sing	0	_	_	start_char=1803|end_char=1805
+2	West	West	PROPN	NNP	Number=Sing	1	_	_	start_char=1806|end_char=1810
+3	Texas	Texas	PROPN	NNP	Number=Sing	2	_	_	start_char=1811|end_char=1816
+4	Intermediate	Intermediate	ADJ	JJ	Degree=Pos	3	_	_	start_char=1817|end_char=1829
+5	crude	crude	NOUN	NN	Number=Sing	4	_	_	start_char=1830|end_char=1835
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1836|end_char=1838
+7	gaining	gain	VERB	VBG	Tense=Pres|VerbForm=Part	6	_	_	start_char=1839|end_char=1846
+8	over	over	ADV	RB	_	7	_	_	start_char=1847|end_char=1851
+9	5	5	NUM	CD	NumForm=Digit|NumType=Card	8	_	_	start_char=1852|end_char=1853|SpaceAfter=No
+10	%	%	SYM	NN	Number=Sing	9	_	_	start_char=1853|end_char=1854
+11	and	and	CCONJ	CC	_	10	_	_	start_char=1855|end_char=1858
+12	trading	trading	NOUN	NN	Number=Sing	11	_	_	start_char=1859|end_char=1866
+13	above	above	ADP	IN	_	12	_	_	start_char=1867|end_char=1872
+14	$	$	SYM	$	_	13	_	_	start_char=1873|end_char=1874|SpaceAfter=No
+15	100	100	NUM	CD	NumForm=Digit|NumType=Card	14	_	_	start_char=1874|end_char=1877
+16	a	a	DET	DT	Definite=Ind|PronType=Art	15	_	_	start_char=1878|end_char=1879
+17	barrel	barrel	NOUN	NN	Number=Sing	16	_	_	start_char=1880|end_char=1886|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=1886|end_char=1887|SpacesAfter=\n\n
+
+# text = Get ready for global oil supply shoc – IEA
+# sent_id = 19
+1	Get	get	VERB	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=1889|end_char=1892
+2	ready	ready	ADJ	JJ	Degree=Pos	1	_	_	start_char=1893|end_char=1898
+3	for	for	ADP	IN	_	2	_	_	start_char=1899|end_char=1902
+4	global	global	ADJ	JJ	Degree=Pos	3	_	_	start_char=1903|end_char=1909
+5	oil	oil	NOUN	NN	Number=Sing	4	_	_	start_char=1910|end_char=1913
+6	supply	supply	NOUN	NN	Number=Sing	5	_	_	start_char=1914|end_char=1920
+7	shoc	shoc	NOUN	NN	Number=Sing	6	_	_	start_char=1921|end_char=1925
+8	–	-	PUNCT	:	_	7	_	_	start_char=1926|end_char=1927
+9	IEA	IEA	PROPN	NNP	Number=Sing	8	_	_	start_char=1928|end_char=1931|SpacesAfter=\n\n
+
+# text = Russia could shut 30% of its crude oil output from April if it doesn’t find buyers
+# sent_id = 20
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=1933|end_char=1939
+2	could	could	AUX	MD	VerbForm=Fin	1	_	_	start_char=1940|end_char=1945
+3	shut	shut	VERB	VB	VerbForm=Inf	2	_	_	start_char=1946|end_char=1950
+4	30	30	NUM	CD	NumForm=Digit|NumType=Card	3	_	_	start_char=1951|end_char=1953|SpaceAfter=No
+5	%	%	SYM	NN	Number=Sing	4	_	_	start_char=1953|end_char=1954
+6	of	of	ADP	IN	_	5	_	_	start_char=1955|end_char=1957
+7	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	_	_	start_char=1958|end_char=1961
+8	crude	crude	NOUN	NN	Number=Sing	7	_	_	start_char=1962|end_char=1967
+9	oil	oil	NOUN	NN	Number=Sing	8	_	_	start_char=1968|end_char=1971
+10	output	output	NOUN	NN	Number=Sing	9	_	_	start_char=1972|end_char=1978
+11	from	from	ADP	IN	_	10	_	_	start_char=1979|end_char=1983
+12	April	April	PROPN	NNP	Number=Sing	11	_	_	start_char=1984|end_char=1989
+13	if	if	SCONJ	IN	_	12	_	_	start_char=1990|end_char=1992
+14	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	_	_	start_char=1993|end_char=1995
+15-16	doesn’t	_	_	_	_	_	_	_	start_char=1996|end_char=2003
+15	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=1996|end_char=2000
+16	n’t	not	PART	RB	_	15	_	_	start_char=2000|end_char=2003
+17	find	find	VERB	VB	VerbForm=Inf	16	_	_	start_char=2004|end_char=2008
+18	buyers	buyer	NOUN	NNS	Number=Plur	17	_	_	start_char=2009|end_char=2015|SpacesAfter=\n\n
+
+# text = Russia could be forced to cut crude production by nearly a third starting next month, as traders are reportedly reluctant to buy oil from the country amid Western sanctions, the International Energy Agency warned on Wednesday.
+# sent_id = 21
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=2017|end_char=2023
+2	could	could	AUX	MD	VerbForm=Fin	1	_	_	start_char=2024|end_char=2029
+3	be	be	AUX	VB	VerbForm=Inf	2	_	_	start_char=2030|end_char=2032
+4	forced	force	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=2033|end_char=2039
+5	to	to	PART	TO	_	4	_	_	start_char=2040|end_char=2042
+6	cut	cut	VERB	VB	VerbForm=Inf	5	_	_	start_char=2043|end_char=2046
+7	crude	crude	NOUN	NN	Number=Sing	6	_	_	start_char=2047|end_char=2052
+8	production	production	NOUN	NN	Number=Sing	7	_	_	start_char=2053|end_char=2063
+9	by	by	ADP	IN	_	8	_	_	start_char=2064|end_char=2066
+10	nearly	nearly	ADV	RB	_	9	_	_	start_char=2067|end_char=2073
+11	a	a	DET	DT	Definite=Ind|PronType=Art	10	_	_	start_char=2074|end_char=2075
+12	third	third	NOUN	NN	NumForm=Word|NumType=Frac|Number=Sing	11	_	_	start_char=2076|end_char=2081
+13	starting	start	VERB	VBG	VerbForm=Ger	12	_	_	start_char=2082|end_char=2090
+14	next	next	ADJ	JJ	Degree=Pos	13	_	_	start_char=2091|end_char=2095
+15	month	month	NOUN	NN	Number=Sing	14	_	_	start_char=2096|end_char=2101|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=2101|end_char=2102
+17	as	as	SCONJ	IN	_	16	_	_	start_char=2103|end_char=2105
+18	traders	trader	NOUN	NNS	Number=Plur	17	_	_	start_char=2106|end_char=2113
+19	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=2114|end_char=2117
+20	reportedly	reportedly	ADV	RB	_	19	_	_	start_char=2118|end_char=2128
+21	reluctant	reluctant	ADJ	JJ	Degree=Pos	20	_	_	start_char=2129|end_char=2138
+22	to	to	PART	TO	_	21	_	_	start_char=2139|end_char=2141
+23	buy	buy	VERB	VB	VerbForm=Inf	22	_	_	start_char=2142|end_char=2145
+24	oil	oil	NOUN	NN	Number=Sing	23	_	_	start_char=2146|end_char=2149
+25	from	from	ADP	IN	_	24	_	_	start_char=2150|end_char=2154
+26	the	the	DET	DT	Definite=Def|PronType=Art	25	_	_	start_char=2155|end_char=2158
+27	country	country	NOUN	NN	Number=Sing	26	_	_	start_char=2159|end_char=2166
+28	amid	amid	ADP	IN	_	27	_	_	start_char=2167|end_char=2171
+29	Western	western	ADJ	JJ	Degree=Pos	28	_	_	start_char=2172|end_char=2179
+30	sanctions	sanction	NOUN	NNS	Number=Plur	29	_	_	start_char=2180|end_char=2189|SpaceAfter=No
+31	,	,	PUNCT	,	_	30	_	_	start_char=2189|end_char=2190
+32	the	the	DET	DT	Definite=Def|PronType=Art	31	_	_	start_char=2191|end_char=2194
+33	International	International	ADJ	NNP	Degree=Pos	32	_	_	start_char=2195|end_char=2208
+34	Energy	Energy	PROPN	NNP	Number=Sing	33	_	_	start_char=2209|end_char=2215
+35	Agency	Agency	PROPN	NNP	Number=Sing	34	_	_	start_char=2216|end_char=2222
+36	warned	warn	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	35	_	_	start_char=2223|end_char=2229
+37	on	on	ADP	IN	_	36	_	_	start_char=2230|end_char=2232
+38	Wednesday	Wednesday	PROPN	NNP	Number=Sing	37	_	_	start_char=2233|end_char=2242|SpaceAfter=No
+39	.	.	PUNCT	.	_	38	_	_	start_char=2242|end_char=2243|SpacesAfter=\n\n
+
+# text = “The prospect of large-scale disruptions to Russian oil production is threatening to create a global oil supply shoc.
+# sent_id = 22
+1	“	''	PUNCT	``	_	0	_	_	start_char=2245|end_char=2246|SpaceAfter=No
+2	The	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=2246|end_char=2249
+3	prospect	prospect	NOUN	NN	Number=Sing	2	_	_	start_char=2250|end_char=2258
+4	of	of	ADP	IN	_	3	_	_	start_char=2259|end_char=2261
+5	large	large	ADJ	JJ	Degree=Pos	4	_	_	start_char=2262|end_char=2267|SpaceAfter=No
+6	-	-	PUNCT	HYPH	_	5	_	_	start_char=2267|end_char=2268|SpaceAfter=No
+7	scale	scale	NOUN	NN	Number=Sing	6	_	_	start_char=2268|end_char=2273
+8	disruptions	disruption	NOUN	NNS	Number=Plur	7	_	_	start_char=2274|end_char=2285
+9	to	to	ADP	IN	_	8	_	_	start_char=2286|end_char=2288
+10	Russian	Russian	ADJ	JJ	Degree=Pos	9	_	_	start_char=2289|end_char=2296
+11	oil	oil	NOUN	NN	Number=Sing	10	_	_	start_char=2297|end_char=2300
+12	production	production	NOUN	NN	Number=Sing	11	_	_	start_char=2301|end_char=2311
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=2312|end_char=2314
+14	threatening	threaten	VERB	VBG	Tense=Pres|VerbForm=Part	13	_	_	start_char=2315|end_char=2326
+15	to	to	PART	TO	_	14	_	_	start_char=2327|end_char=2329
+16	create	create	VERB	VB	VerbForm=Inf	15	_	_	start_char=2330|end_char=2336
+17	a	a	DET	DT	Definite=Ind|PronType=Art	16	_	_	start_char=2337|end_char=2338
+18	global	global	ADJ	JJ	Degree=Pos	17	_	_	start_char=2339|end_char=2345
+19	oil	oil	NOUN	NN	Number=Sing	18	_	_	start_char=2346|end_char=2349
+20	supply	supply	NOUN	NN	Number=Sing	19	_	_	start_char=2350|end_char=2356
+21	shoc	shoc	NOUN	NN	Number=Sing	20	_	_	start_char=2357|end_char=2361|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=2361|end_char=2362
+
+# text = We estimate that from April, 3 mb/d [million barrels per day] of Russian oil output could be shut in as sanctions tae hold and buyers shun exports,” the agency writes in its latest Oil Maret Report.
+# sent_id = 23
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	start_char=2363|end_char=2365
+2	estimate	estimate	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2366|end_char=2374
+3	that	that	SCONJ	IN	_	2	_	_	start_char=2375|end_char=2379
+4	from	from	ADP	IN	_	3	_	_	start_char=2380|end_char=2384
+5	April	April	PROPN	NNP	Number=Sing	4	_	_	start_char=2385|end_char=2390|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=2390|end_char=2391
+7	3	3	NUM	CD	NumForm=Digit|NumType=Card	6	_	_	start_char=2392|end_char=2393
+8	mb/d	mb/d	NOUN	NN	Number=Sing	7	_	_	start_char=2394|end_char=2398
+9	[	[	PUNCT	-LRB-	_	8	_	_	start_char=2399|end_char=2400|SpaceAfter=No
+10	million	million	NUM	CD	NumForm=Word|NumType=Card	9	_	_	start_char=2400|end_char=2407
+11	barrels	barrel	NOUN	NNS	Number=Plur	10	_	_	start_char=2408|end_char=2415
+12	per	per	ADP	IN	_	11	_	_	start_char=2416|end_char=2419
+13	day	day	NOUN	NN	Number=Sing	12	_	_	start_char=2420|end_char=2423|SpaceAfter=No
+14	]	]	PUNCT	-RRB-	_	13	_	_	start_char=2423|end_char=2424
+15	of	of	ADP	IN	_	14	_	_	start_char=2425|end_char=2427
+16	Russian	Russian	ADJ	JJ	Degree=Pos	15	_	_	start_char=2428|end_char=2435
+17	oil	oil	NOUN	NN	Number=Sing	16	_	_	start_char=2436|end_char=2439
+18	output	output	NOUN	NN	Number=Sing	17	_	_	start_char=2440|end_char=2446
+19	could	could	AUX	MD	VerbForm=Fin	18	_	_	start_char=2447|end_char=2452
+20	be	be	AUX	VB	VerbForm=Inf	19	_	_	start_char=2453|end_char=2455
+21	shut	shut	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	20	_	_	start_char=2456|end_char=2460
+22	in	in	ADP	RP	_	21	_	_	start_char=2461|end_char=2463
+23	as	as	SCONJ	IN	_	22	_	_	start_char=2464|end_char=2466
+24	sanctions	sanction	NOUN	NNS	Number=Plur	23	_	_	start_char=2467|end_char=2476
+25	tae	tae	AUX	VBP	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	24	_	_	start_char=2477|end_char=2480
+26	hold	hold	NOUN	NN	Number=Sing	25	_	_	start_char=2481|end_char=2485
+27	and	and	CCONJ	CC	_	26	_	_	start_char=2486|end_char=2489
+28	buyers	buyer	NOUN	NNS	Number=Plur	27	_	_	start_char=2490|end_char=2496
+29	shun	shun	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	28	_	_	start_char=2497|end_char=2501
+30	exports	export	NOUN	NNS	Number=Plur	29	_	_	start_char=2502|end_char=2509|SpaceAfter=No
+31	,	,	PUNCT	,	_	30	_	_	start_char=2509|end_char=2510|SpaceAfter=No
+32	”	''	PUNCT	''	_	31	_	_	start_char=2510|end_char=2511
+33	the	the	DET	DT	Definite=Def|PronType=Art	32	_	_	start_char=2512|end_char=2515
+34	agency	agency	NOUN	NN	Number=Sing	33	_	_	start_char=2516|end_char=2522
+35	writes	write	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	34	_	_	start_char=2523|end_char=2529
+36	in	in	ADP	IN	_	35	_	_	start_char=2530|end_char=2532
+37	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	36	_	_	start_char=2533|end_char=2536
+38	latest	late	ADJ	JJS	Degree=Sup	37	_	_	start_char=2537|end_char=2543
+39	Oil	Oil	PROPN	NNP	Number=Sing	38	_	_	start_char=2544|end_char=2547
+40	Maret	Maret	PROPN	NNP	Number=Sing	39	_	_	start_char=2548|end_char=2553
+41	Report	report	NOUN	NN	Number=Sing	40	_	_	start_char=2554|end_char=2560|SpaceAfter=No
+42	.	.	PUNCT	.	_	41	_	_	start_char=2560|end_char=2561|SpacesAfter=\n\n
+
+# text = Only Saudi Arabia and the UAE hold substantial spare capacity that could immediately help to offset a Russian shortfall, the Agency says, adding that other OPEC nations are complying with the agreement to increase supply by “modest” monthly amounts.
+# sent_id = 24
+1	Only	only	ADV	RB	_	0	_	_	start_char=2563|end_char=2567
+2	Saudi	Saudi	ADJ	NNP	Degree=Pos	1	_	_	start_char=2568|end_char=2573
+3	Arabia	Arabia	PROPN	NNP	Number=Sing	2	_	_	start_char=2574|end_char=2580
+4	and	and	CCONJ	CC	_	3	_	_	start_char=2581|end_char=2584
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=2585|end_char=2588
+6	UAE	UAE	PROPN	NNP	Number=Sing	5	_	_	start_char=2589|end_char=2592
+7	hold	hold	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=2593|end_char=2597
+8	substantial	substantial	ADJ	JJ	Degree=Pos	7	_	_	start_char=2598|end_char=2609
+9	spare	spare	NOUN	NN	Number=Sing	8	_	_	start_char=2610|end_char=2615
+10	capacity	capacity	NOUN	NN	Number=Sing	9	_	_	start_char=2616|end_char=2624
+11	that	that	PRON	WDT	PronType=Rel	10	_	_	start_char=2625|end_char=2629
+12	could	could	AUX	MD	VerbForm=Fin	11	_	_	start_char=2630|end_char=2635
+13	immediately	immediately	ADV	RB	_	12	_	_	start_char=2636|end_char=2647
+14	help	help	VERB	VB	VerbForm=Inf	13	_	_	start_char=2648|end_char=2652
+15	to	to	PART	TO	_	14	_	_	start_char=2653|end_char=2655
+16	offset	offset	VERB	VB	VerbForm=Inf	15	_	_	start_char=2656|end_char=2662
+17	a	a	DET	DT	Definite=Ind|PronType=Art	16	_	_	start_char=2663|end_char=2664
+18	Russian	Russian	ADJ	JJ	Degree=Pos	17	_	_	start_char=2665|end_char=2672
+19	shortfall	shortfall	NOUN	NN	Number=Sing	18	_	_	start_char=2673|end_char=2682|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=2682|end_char=2683
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=2684|end_char=2687
+22	Agency	Agency	PROPN	NNP	Number=Sing	21	_	_	start_char=2688|end_char=2694
+23	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	_	_	start_char=2695|end_char=2699|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=2699|end_char=2700
+25	adding	add	VERB	VBG	VerbForm=Ger	24	_	_	start_char=2701|end_char=2707
+26	that	that	SCONJ	IN	_	25	_	_	start_char=2708|end_char=2712
+27	other	other	ADJ	JJ	Degree=Pos	26	_	_	start_char=2713|end_char=2718
+28	OPEC	OPEC	PROPN	NNP	Number=Sing	27	_	_	start_char=2719|end_char=2723
+29	nations	nation	NOUN	NNS	Number=Plur	28	_	_	start_char=2724|end_char=2731
+30	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	29	_	_	start_char=2732|end_char=2735
+31	complying	comply	VERB	VBG	Tense=Pres|VerbForm=Part	30	_	_	start_char=2736|end_char=2745
+32	with	with	ADP	IN	_	31	_	_	start_char=2746|end_char=2750
+33	the	the	DET	DT	Definite=Def|PronType=Art	32	_	_	start_char=2751|end_char=2754
+34	agreement	agreement	NOUN	NN	Number=Sing	33	_	_	start_char=2755|end_char=2764
+35	to	to	PART	TO	_	34	_	_	start_char=2765|end_char=2767
+36	increase	increase	VERB	VB	VerbForm=Inf	35	_	_	start_char=2768|end_char=2776
+37	supply	supply	NOUN	NN	Number=Sing	36	_	_	start_char=2777|end_char=2783
+38	by	by	ADP	IN	_	37	_	_	start_char=2784|end_char=2786
+39	“	''	PUNCT	``	_	38	_	_	start_char=2787|end_char=2788|SpaceAfter=No
+40	modest	modest	ADJ	JJ	Degree=Pos	39	_	_	start_char=2788|end_char=2794|SpaceAfter=No
+41	”	''	PUNCT	''	_	40	_	_	start_char=2794|end_char=2795
+42	monthly	monthly	ADJ	JJ	Degree=Pos	41	_	_	start_char=2796|end_char=2803
+43	amounts	amount	NOUN	NNS	Number=Plur	42	_	_	start_char=2804|end_char=2811|SpaceAfter=No
+44	.	.	PUNCT	.	_	43	_	_	start_char=2811|end_char=2812|SpacesAfter=\n\n
+
+# text = According to the IEA, surging commodity prices and international sanctions against Russia following its military operation in Uraine are expected to “appreciably depress global economic growth.”
+# sent_id = 25
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=2814|end_char=2823
+2	to	to	ADP	IN	_	1	_	_	start_char=2824|end_char=2826
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=2827|end_char=2830
+4	IEA	IEA	PROPN	NNP	Number=Sing	3	_	_	start_char=2831|end_char=2834|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=2834|end_char=2835
+6	surging	surge	VERB	VBG	VerbForm=Ger	5	_	_	start_char=2836|end_char=2843
+7	commodity	commodity	NOUN	NN	Number=Sing	6	_	_	start_char=2844|end_char=2853
+8	prices	price	NOUN	NNS	Number=Plur	7	_	_	start_char=2854|end_char=2860
+9	and	and	CCONJ	CC	_	8	_	_	start_char=2861|end_char=2864
+10	international	international	ADJ	JJ	Degree=Pos	9	_	_	start_char=2865|end_char=2878
+11	sanctions	sanction	NOUN	NNS	Number=Plur	10	_	_	start_char=2879|end_char=2888
+12	against	against	ADP	IN	_	11	_	_	start_char=2889|end_char=2896
+13	Russia	Russia	PROPN	NNP	Number=Sing	12	_	_	start_char=2897|end_char=2903
+14	following	follow	VERB	VBG	VerbForm=Ger	13	_	_	start_char=2904|end_char=2913
+15	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	_	_	start_char=2914|end_char=2917
+16	military	military	ADJ	JJ	Degree=Pos	15	_	_	start_char=2918|end_char=2926
+17	operation	operation	NOUN	NN	Number=Sing	16	_	_	start_char=2927|end_char=2936
+18	in	in	ADP	IN	_	17	_	_	start_char=2937|end_char=2939
+19	Uraine	Uraine	PROPN	NNP	Number=Sing	18	_	_	start_char=2940|end_char=2946
+20	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	_	_	start_char=2947|end_char=2950
+21	expected	expect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	20	_	_	start_char=2951|end_char=2959
+22	to	to	PART	TO	_	21	_	_	start_char=2960|end_char=2962
+23	“	''	PUNCT	``	_	22	_	_	start_char=2963|end_char=2964|SpaceAfter=No
+24	appreciably	appreciably	ADV	RB	_	23	_	_	start_char=2964|end_char=2975
+25	depress	depress	VERB	VB	VerbForm=Inf	24	_	_	start_char=2976|end_char=2983
+26	global	global	ADJ	JJ	Degree=Pos	25	_	_	start_char=2984|end_char=2990
+27	economic	economic	ADJ	JJ	Degree=Pos	26	_	_	start_char=2991|end_char=2999
+28	growth	growth	NOUN	NN	Number=Sing	27	_	_	start_char=3000|end_char=3006|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=3006|end_char=3007|SpaceAfter=No
+30	”	''	PUNCT	''	_	29	_	_	start_char=3007|end_char=3008|SpacesAfter=\n\n
+
+# text = The US, the U, Canada, and Australia banned imports of Russian oil earlier this month, affecting some 13% of Russia’s exports.
+# sent_id = 26
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=3010|end_char=3013
+2	US	US	PROPN	NNP	Number=Sing	1	_	_	start_char=3014|end_char=3016|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=3016|end_char=3017
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=3018|end_char=3021
+5	U	U	PROPN	NNP	Number=Sing	4	_	_	start_char=3022|end_char=3023|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=3023|end_char=3024
+7	Canada	Canada	PROPN	NNP	Number=Sing	6	_	_	start_char=3025|end_char=3031|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=3031|end_char=3032
+9	and	and	CCONJ	CC	_	8	_	_	start_char=3033|end_char=3036
+10	Australia	Australia	PROPN	NNP	Number=Sing	9	_	_	start_char=3037|end_char=3046
+11	banned	ban	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=3047|end_char=3053
+12	imports	import	NOUN	NNS	Number=Plur	11	_	_	start_char=3054|end_char=3061
+13	of	of	ADP	IN	_	12	_	_	start_char=3062|end_char=3064
+14	Russian	Russian	ADJ	JJ	Degree=Pos	13	_	_	start_char=3065|end_char=3072
+15	oil	oil	NOUN	NN	Number=Sing	14	_	_	start_char=3073|end_char=3076
+16	earlier	early	ADV	RBR	Degree=Cmp	15	_	_	start_char=3077|end_char=3084
+17	this	this	DET	DT	Number=Sing|PronType=Dem	16	_	_	start_char=3085|end_char=3089
+18	month	month	NOUN	NN	Number=Sing	17	_	_	start_char=3090|end_char=3095|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=3095|end_char=3096
+20	affecting	affect	VERB	VBG	VerbForm=Ger	19	_	_	start_char=3097|end_char=3106
+21	some	some	DET	DT	_	20	_	_	start_char=3107|end_char=3111
+22	13	13	NUM	CD	NumForm=Digit|NumType=Card	21	_	_	start_char=3112|end_char=3114|SpaceAfter=No
+23	%	%	SYM	NN	Number=Sing	22	_	_	start_char=3114|end_char=3115
+24	of	of	ADP	IN	_	23	_	_	start_char=3116|end_char=3118
+25-26	Russia’s	_	_	_	_	_	_	_	start_char=3119|end_char=3127
+25	Russia	Russia	PROPN	NNP	Number=Sing	24	_	_	start_char=3119|end_char=3125
+26	’s	's	PART	POS	_	25	_	_	start_char=3125|end_char=3127
+27	exports	export	NOUN	NNS	Number=Plur	26	_	_	start_char=3128|end_char=3135|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=3135|end_char=3136
+
+# text = International oil companies quit joint ventures with Russian crude oil producers, overseas bans stopped dealing with Moscow, and the European Union announced a ban on investment in Russia's energy sector.
+# sent_id = 27
+1	International	International	ADJ	JJ	Degree=Pos	0	_	_	start_char=3137|end_char=3150
+2	oil	oil	NOUN	NN	Number=Sing	1	_	_	start_char=3151|end_char=3154
+3	companies	company	NOUN	NNS	Number=Plur	2	_	_	start_char=3155|end_char=3164
+4	quit	quit	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=3165|end_char=3169
+5	joint	joint	ADJ	JJ	Degree=Pos	4	_	_	start_char=3170|end_char=3175
+6	ventures	venture	NOUN	NNS	Number=Plur	5	_	_	start_char=3176|end_char=3184
+7	with	with	ADP	IN	_	6	_	_	start_char=3185|end_char=3189
+8	Russian	Russian	ADJ	JJ	Degree=Pos	7	_	_	start_char=3190|end_char=3197
+9	crude	crude	NOUN	NN	Number=Sing	8	_	_	start_char=3198|end_char=3203
+10	oil	oil	NOUN	NN	Number=Sing	9	_	_	start_char=3204|end_char=3207
+11	producers	producer	NOUN	NNS	Number=Plur	10	_	_	start_char=3208|end_char=3217|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=3217|end_char=3218
+13	overseas	overseas	ADJ	JJ	Degree=Pos	12	_	_	start_char=3219|end_char=3227
+14	bans	ban	NOUN	NNS	Number=Plur	13	_	_	start_char=3228|end_char=3232
+15	stopped	stop	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=3233|end_char=3240
+16	dealing	deal	VERB	VBG	VerbForm=Ger	15	_	_	start_char=3241|end_char=3248
+17	with	with	ADP	IN	_	16	_	_	start_char=3249|end_char=3253
+18	Moscow	Moscow	PROPN	NNP	Number=Sing	17	_	_	start_char=3254|end_char=3260|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=3260|end_char=3261
+20	and	and	CCONJ	CC	_	19	_	_	start_char=3262|end_char=3265
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=3266|end_char=3269
+22	European	European	ADJ	NNP	Degree=Pos	21	_	_	start_char=3270|end_char=3278
+23	Union	Union	PROPN	NNP	Number=Sing	22	_	_	start_char=3279|end_char=3284
+24	announced	announce	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	23	_	_	start_char=3285|end_char=3294
+25	a	a	DET	DT	Definite=Ind|PronType=Art	24	_	_	start_char=3295|end_char=3296
+26	ban	ban	NOUN	NN	Number=Sing	25	_	_	start_char=3297|end_char=3300
+27	on	on	ADP	IN	_	26	_	_	start_char=3301|end_char=3303
+28	investment	investment	NOUN	NN	Number=Sing	27	_	_	start_char=3304|end_char=3314
+29	in	in	ADP	IN	_	28	_	_	start_char=3315|end_char=3317
+30-31	Russia's	_	_	_	_	_	_	_	start_char=3318|end_char=3326
+30	Russia	Russia	PROPN	NNP	Number=Sing	29	_	_	start_char=3318|end_char=3324
+31	's	's	PART	POS	_	30	_	_	start_char=3324|end_char=3326
+32	energy	energy	NOUN	NN	Number=Sing	31	_	_	start_char=3327|end_char=3333
+33	sector	sector	NOUN	NN	Number=Sing	32	_	_	start_char=3334|end_char=3340|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=3340|end_char=3341|SpacesAfter=\n\n
+
+# text = Brent crude futures jumped nearly 6% on Thursday to nearly $104 per barrel.
+# sent_id = 28
+1	Brent	Brent	PROPN	NNP	Number=Sing	0	_	_	start_char=3343|end_char=3348
+2	crude	crude	NOUN	NN	Number=Sing	1	_	_	start_char=3349|end_char=3354
+3	futures	future	NOUN	NNS	Number=Plur	2	_	_	start_char=3355|end_char=3362
+4	jumped	jump	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=3363|end_char=3369
+5	nearly	nearly	ADV	RB	_	4	_	_	start_char=3370|end_char=3376
+6	6	6	NUM	CD	NumForm=Digit|NumType=Card	5	_	_	start_char=3377|end_char=3378|SpaceAfter=No
+7	%	%	SYM	NN	Number=Sing	6	_	_	start_char=3378|end_char=3379
+8	on	on	ADP	IN	_	7	_	_	start_char=3380|end_char=3382
+9	Thursday	Thursday	PROPN	NNP	Number=Sing	8	_	_	start_char=3383|end_char=3391
+10	to	to	ADP	IN	_	9	_	_	start_char=3392|end_char=3394
+11	nearly	nearly	ADV	RB	_	10	_	_	start_char=3395|end_char=3401
+12	$	$	SYM	$	_	11	_	_	start_char=3402|end_char=3403|SpaceAfter=No
+13	104	104	NUM	CD	NumForm=Digit|NumType=Card	12	_	_	start_char=3403|end_char=3406
+14	per	per	ADP	IN	_	13	_	_	start_char=3407|end_char=3410
+15	barrel	barrel	NOUN	NN	Number=Sing	14	_	_	start_char=3411|end_char=3417|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=3417|end_char=3418
+
+# text = US West Texas Intermediate crude is gaining over 5% and trading above $100 a barrel.
+# sent_id = 29
+1	US	US	PROPN	NNP	Number=Sing	0	_	_	start_char=3419|end_char=3421
+2	West	West	PROPN	NNP	Number=Sing	1	_	_	start_char=3422|end_char=3426
+3	Texas	Texas	PROPN	NNP	Number=Sing	2	_	_	start_char=3427|end_char=3432
+4	Intermediate	Intermediate	ADJ	JJ	Degree=Pos	3	_	_	start_char=3433|end_char=3445
+5	crude	crude	NOUN	NN	Number=Sing	4	_	_	start_char=3446|end_char=3451
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=3452|end_char=3454
+7	gaining	gain	VERB	VBG	Tense=Pres|VerbForm=Part	6	_	_	start_char=3455|end_char=3462
+8	over	over	ADV	RB	_	7	_	_	start_char=3463|end_char=3467
+9	5	5	NUM	CD	NumForm=Digit|NumType=Card	8	_	_	start_char=3468|end_char=3469|SpaceAfter=No
+10	%	%	SYM	NN	Number=Sing	9	_	_	start_char=3469|end_char=3470
+11	and	and	CCONJ	CC	_	10	_	_	start_char=3471|end_char=3474
+12	trading	trading	NOUN	NN	Number=Sing	11	_	_	start_char=3475|end_char=3482
+13	above	above	ADP	IN	_	12	_	_	start_char=3483|end_char=3488
+14	$	$	SYM	$	_	13	_	_	start_char=3489|end_char=3490|SpaceAfter=No
+15	100	100	NUM	CD	NumForm=Digit|NumType=Card	14	_	_	start_char=3490|end_char=3493
+16	a	a	DET	DT	Definite=Ind|PronType=Art	15	_	_	start_char=3494|end_char=3495
+17	barrel	barrel	NOUN	NN	Number=Sing	16	_	_	start_char=3496|end_char=3502|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=3502|end_char=3503|SpaceAfter=No
+

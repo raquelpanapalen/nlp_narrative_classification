@@ -1,0 +1,499 @@
+# text = ‘People close to me have died’ – Usy won’t use Uraine’s war with Russia as motivation for Anthony Joshua rematch
+# sent_id = 0
+1	‘	'	PUNCT	``	_	0	_	_	start_char=0|end_char=1|SpaceAfter=No
+2	People	person	NOUN	NNS	Number=Plur	1	_	_	start_char=1|end_char=7
+3	close	close	ADV	RB	Degree=Pos	2	_	_	start_char=8|end_char=13
+4	to	to	ADP	IN	_	3	_	_	start_char=14|end_char=16
+5	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	_	_	start_char=17|end_char=19
+6	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=20|end_char=24
+7	died	die	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=25|end_char=29|SpaceAfter=No
+8	’	'	PUNCT	''	_	7	_	_	start_char=29|end_char=30
+9	–	-	PUNCT	:	_	8	_	_	start_char=31|end_char=32
+10	Usy	Usy	PROPN	NNP	Number=Sing	9	_	_	start_char=33|end_char=36
+11-12	won’t	_	_	_	_	_	_	_	start_char=37|end_char=42
+11	wo	will	AUX	MD	VerbForm=Fin	10	_	_	start_char=37|end_char=39
+12	n’t	not	PART	RB	_	11	_	_	start_char=39|end_char=42
+13	use	use	VERB	VB	VerbForm=Inf	12	_	_	start_char=43|end_char=46
+14-15	Uraine’s	_	_	_	_	_	_	_	start_char=47|end_char=55
+14	Uraine	Uraine	PROPN	NNP	Number=Sing	13	_	_	start_char=47|end_char=53
+15	’s	's	PART	POS	_	14	_	_	start_char=53|end_char=55
+16	war	war	NOUN	NN	Number=Sing	15	_	_	start_char=56|end_char=59
+17	with	with	ADP	IN	_	16	_	_	start_char=60|end_char=64
+18	Russia	Russia	PROPN	NNP	Number=Sing	17	_	_	start_char=65|end_char=71
+19	as	as	ADP	IN	_	18	_	_	start_char=72|end_char=74
+20	motivation	motivation	NOUN	NN	Number=Sing	19	_	_	start_char=75|end_char=85
+21	for	for	ADP	IN	_	20	_	_	start_char=86|end_char=89
+22	Anthony	Anthony	PROPN	NNP	Number=Sing	21	_	_	start_char=90|end_char=97
+23	Joshua	Joshua	PROPN	NNP	Number=Sing	22	_	_	start_char=98|end_char=104
+24	rematch	rematch	NOUN	NN	Number=Sing	23	_	_	start_char=105|end_char=112|SpacesAfter=\s\n\n\s
+
+# text = OLESANDR USY has denied Uraine’s heartbreaing invasion can be used as positive motivation against Anthony Joshua.
+# sent_id = 1
+1	OLESANDR	OLESANDR	PROPN	NNP	Number=Sing	0	_	_	start_char=116|end_char=124
+2	USY	USY	PROPN	NNP	Number=Sing	1	_	_	start_char=125|end_char=128
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=129|end_char=132
+4	denied	deny	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=133|end_char=139
+5-6	Uraine’s	_	_	_	_	_	_	_	start_char=140|end_char=148
+5	Uraine	Uraine	PROPN	NNP	Number=Sing	4	_	_	start_char=140|end_char=146
+6	’s	's	PART	POS	_	5	_	_	start_char=146|end_char=148
+7	heartbreaing	heartbreaing	NOUN	NN	Number=Sing	6	_	_	start_char=149|end_char=161
+8	invasion	invasion	NOUN	NN	Number=Sing	7	_	_	start_char=162|end_char=170
+9	can	can	AUX	MD	VerbForm=Fin	8	_	_	start_char=171|end_char=174
+10	be	be	AUX	VB	VerbForm=Inf	9	_	_	start_char=175|end_char=177
+11	used	use	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10	_	_	start_char=178|end_char=182
+12	as	as	ADP	IN	_	11	_	_	start_char=183|end_char=185
+13	positive	positive	ADJ	JJ	Degree=Pos	12	_	_	start_char=186|end_char=194
+14	motivation	motivation	NOUN	NN	Number=Sing	13	_	_	start_char=195|end_char=205
+15	against	against	ADP	IN	_	14	_	_	start_char=206|end_char=213
+16	Anthony	Anthony	PROPN	NNP	Number=Sing	15	_	_	start_char=214|end_char=221
+17	Joshua	Joshua	PROPN	NNP	Number=Sing	16	_	_	start_char=222|end_char=228|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=228|end_char=229|SpacesAfter=\n\n
+
+# text = The 35-year-old barely got to celebrate his September win over the Brit icon, at Tottenham’s stadium for the WBA, IBF and WBO heavyweight world titles, before his home was invaded by Russia.
+# sent_id = 2
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=231|end_char=234
+2	35	35	NUM	CD	NumForm=Digit|NumType=Card	1	_	_	start_char=235|end_char=237|SpaceAfter=No
+3	-	-	PUNCT	HYPH	_	2	_	_	start_char=237|end_char=238|SpaceAfter=No
+4	year	year	NOUN	NN	Number=Sing	3	_	_	start_char=238|end_char=242|SpaceAfter=No
+5	-	-	PUNCT	HYPH	_	4	_	_	start_char=242|end_char=243|SpaceAfter=No
+6	old	old	ADJ	JJ	Degree=Pos	5	_	_	start_char=243|end_char=246
+7	barely	barely	ADV	RB	_	6	_	_	start_char=247|end_char=253
+8	got	get	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=254|end_char=257
+9	to	to	PART	TO	_	8	_	_	start_char=258|end_char=260
+10	celebrate	celebrate	VERB	VB	VerbForm=Inf	9	_	_	start_char=261|end_char=270
+11	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	_	_	start_char=271|end_char=274
+12	September	September	PROPN	NNP	Number=Sing	11	_	_	start_char=275|end_char=284
+13	win	win	NOUN	NN	Number=Sing	12	_	_	start_char=285|end_char=288
+14	over	over	ADP	IN	_	13	_	_	start_char=289|end_char=293
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=294|end_char=297
+16	Brit	Brit	PROPN	NNP	Number=Sing	15	_	_	start_char=298|end_char=302
+17	icon	icon	NOUN	NN	Number=Sing	16	_	_	start_char=303|end_char=307|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=307|end_char=308
+19	at	at	ADP	IN	_	18	_	_	start_char=309|end_char=311
+20-21	Tottenham’s	_	_	_	_	_	_	_	start_char=312|end_char=323
+20	Tottenham	Tottenham	PROPN	NNP	Number=Sing	19	_	_	start_char=312|end_char=321
+21	’s	's	PART	POS	_	20	_	_	start_char=321|end_char=323
+22	stadium	stadium	NOUN	NN	Number=Sing	21	_	_	start_char=324|end_char=331
+23	for	for	ADP	IN	_	22	_	_	start_char=332|end_char=335
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=336|end_char=339
+25	WBA	WBA	PROPN	NNP	Number=Sing	24	_	_	start_char=340|end_char=343|SpaceAfter=No
+26	,	,	PUNCT	,	_	25	_	_	start_char=343|end_char=344
+27	IBF	IBF	PROPN	NNP	Number=Sing	26	_	_	start_char=345|end_char=348
+28	and	and	CCONJ	CC	_	27	_	_	start_char=349|end_char=352
+29	WBO	WBO	PROPN	NNP	Number=Sing	28	_	_	start_char=353|end_char=356
+30	heavyweight	heavyweight	NOUN	NN	Number=Sing	29	_	_	start_char=357|end_char=368
+31	world	world	NOUN	NN	Number=Sing	30	_	_	start_char=369|end_char=374
+32	titles	title	NOUN	NNS	Number=Plur	31	_	_	start_char=375|end_char=381|SpaceAfter=No
+33	,	,	PUNCT	,	_	32	_	_	start_char=381|end_char=382
+34	before	before	SCONJ	IN	_	33	_	_	start_char=383|end_char=389
+35	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	34	_	_	start_char=390|end_char=393
+36	home	home	NOUN	NN	Number=Sing	35	_	_	start_char=394|end_char=398
+37	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	36	_	_	start_char=399|end_char=402
+38	invaded	invade	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	37	_	_	start_char=403|end_char=410
+39	by	by	ADP	IN	_	38	_	_	start_char=411|end_char=413
+40	Russia	Russia	PROPN	NNP	Number=Sing	39	_	_	start_char=414|end_char=420|SpaceAfter=No
+41	.	.	PUNCT	.	_	40	_	_	start_char=420|end_char=421|SpacesAfter=\n\n
+
+# text = The devout husband and father cut short a February trip to England - where he visited Stamford Bridge to watch Chelsea - to race bac to yiv and tae up arms.
+# sent_id = 3
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=423|end_char=426
+2	devout	devout	ADJ	JJ	Degree=Pos	1	_	_	start_char=427|end_char=433
+3	husband	husband	NOUN	NN	Number=Sing	2	_	_	start_char=434|end_char=441
+4	and	and	CCONJ	CC	_	3	_	_	start_char=442|end_char=445
+5	father	father	NOUN	NN	Number=Sing	4	_	_	start_char=446|end_char=452
+6	cut	cut	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=453|end_char=456
+7	short	short	ADJ	JJ	Degree=Pos	6	_	_	start_char=457|end_char=462
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=463|end_char=464
+9	February	February	PROPN	NNP	Number=Sing	8	_	_	start_char=465|end_char=473
+10	trip	trip	NOUN	NN	Number=Sing	9	_	_	start_char=474|end_char=478
+11	to	to	ADP	IN	_	10	_	_	start_char=479|end_char=481
+12	England	England	PROPN	NNP	Number=Sing	11	_	_	start_char=482|end_char=489
+13	-	-	PUNCT	,	_	12	_	_	start_char=490|end_char=491
+14	where	where	ADV	WRB	PronType=Rel	13	_	_	start_char=492|end_char=497
+15	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	_	_	start_char=498|end_char=500
+16	visited	visit	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	_	_	start_char=501|end_char=508
+17	Stamford	Stamford	PROPN	NNP	Number=Sing	16	_	_	start_char=509|end_char=517
+18	Bridge	Bridge	PROPN	NNP	Number=Sing	17	_	_	start_char=518|end_char=524
+19	to	to	PART	TO	_	18	_	_	start_char=525|end_char=527
+20	watch	watch	VERB	VB	VerbForm=Inf	19	_	_	start_char=528|end_char=533
+21	Chelsea	Chelsea	PROPN	NNP	Number=Sing	20	_	_	start_char=534|end_char=541
+22	-	-	PUNCT	HYPH	_	21	_	_	start_char=542|end_char=543
+23	to	to	PART	TO	_	22	_	_	start_char=544|end_char=546
+24	race	race	VERB	VB	VerbForm=Inf	23	_	_	start_char=547|end_char=551
+25	bac	bac	NOUN	NN	Number=Sing	24	_	_	start_char=552|end_char=555
+26	to	to	PART	TO	_	25	_	_	start_char=556|end_char=558
+27	yiv	yiv	VERB	VB	VerbForm=Inf	26	_	_	start_char=559|end_char=562
+28	and	and	CCONJ	CC	_	27	_	_	start_char=563|end_char=566
+29	tae	tae	VERB	VB	VerbForm=Inf	28	_	_	start_char=567|end_char=570
+30	up	up	ADP	RP	_	29	_	_	start_char=571|end_char=573
+31	arms	arm	NOUN	NNS	Number=Plur	30	_	_	start_char=574|end_char=578|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=578|end_char=579|SpacesAfter=\n\n
+
+# text = The London 2012 Olympic gold medal winner and former undisputed cruiserweight ing was pictured with a machine gun over his shoulder as he held the line against Vladimir Putin’s invaders.
+# sent_id = 4
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=581|end_char=584
+2	London	London	PROPN	NNP	Number=Sing	1	_	_	start_char=585|end_char=591
+3	2012	2012	NUM	CD	NumForm=Digit|NumType=Card	2	_	_	start_char=592|end_char=596
+4	Olympic	Olympic	ADJ	JJ	Degree=Pos	3	_	_	start_char=597|end_char=604
+5	gold	gold	NOUN	NN	Number=Sing	4	_	_	start_char=605|end_char=609
+6	medal	medal	NOUN	NN	Number=Sing	5	_	_	start_char=610|end_char=615
+7	winner	winner	NOUN	NN	Number=Sing	6	_	_	start_char=616|end_char=622
+8	and	and	CCONJ	CC	_	7	_	_	start_char=623|end_char=626
+9	former	former	ADJ	JJ	Degree=Pos	8	_	_	start_char=627|end_char=633
+10	undisputed	undisputed	ADJ	JJ	Degree=Pos	9	_	_	start_char=634|end_char=644
+11	cruiserweight	cruiserweight	NOUN	NN	Number=Sing	10	_	_	start_char=645|end_char=658
+12	ing	ing	NOUN	NN	Number=Sing	11	_	_	start_char=659|end_char=662
+13	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=663|end_char=666
+14	pictured	picture	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	13	_	_	start_char=667|end_char=675
+15	with	with	ADP	IN	_	14	_	_	start_char=676|end_char=680
+16	a	a	DET	DT	Definite=Ind|PronType=Art	15	_	_	start_char=681|end_char=682
+17	machine	machine	NOUN	NN	Number=Sing	16	_	_	start_char=683|end_char=690
+18	gun	gun	NOUN	NN	Number=Sing	17	_	_	start_char=691|end_char=694
+19	over	over	ADP	IN	_	18	_	_	start_char=695|end_char=699
+20	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	_	_	start_char=700|end_char=703
+21	shoulder	shoulder	NOUN	NN	Number=Sing	20	_	_	start_char=704|end_char=712
+22	as	as	SCONJ	IN	_	21	_	_	start_char=713|end_char=715
+23	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	_	_	start_char=716|end_char=718
+24	held	hold	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	23	_	_	start_char=719|end_char=723
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=724|end_char=727
+26	line	line	NOUN	NN	Number=Sing	25	_	_	start_char=728|end_char=732
+27	against	against	ADP	IN	_	26	_	_	start_char=733|end_char=740
+28	Vladimir	Vladimir	PROPN	NNP	Number=Sing	27	_	_	start_char=741|end_char=749
+29-30	Putin’s	_	_	_	_	_	_	_	start_char=750|end_char=757
+29	Putin	Putin	PROPN	NNP	Number=Sing	28	_	_	start_char=750|end_char=755
+30	’s	's	PART	POS	_	29	_	_	start_char=755|end_char=757
+31	invaders	invader	NOUN	NNS	Number=Plur	30	_	_	start_char=758|end_char=766|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=766|end_char=767|SpacesAfter=\n\n
+
+# text = And - as recently as March - Usy and his team were still unsure if they could tae part in the August 20 Saudi Arabia rematch, with the country still in such turmoil.
+# sent_id = 5
+1	And	and	CCONJ	CC	_	0	_	_	start_char=769|end_char=772
+2	-	-	PUNCT	,	_	1	_	_	start_char=773|end_char=774
+3	as	as	ADV	RB	_	2	_	_	start_char=775|end_char=777
+4	recently	recently	ADV	RB	Degree=Pos	3	_	_	start_char=778|end_char=786
+5	as	as	ADP	IN	_	4	_	_	start_char=787|end_char=789
+6	March	March	PROPN	NNP	Number=Sing	5	_	_	start_char=790|end_char=795
+7	-	-	PUNCT	,	_	6	_	_	start_char=796|end_char=797
+8	Usy	Usy	PROPN	NNP	Number=Sing	7	_	_	start_char=798|end_char=801
+9	and	and	CCONJ	CC	_	8	_	_	start_char=802|end_char=805
+10	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	_	_	start_char=806|end_char=809
+11	team	team	NOUN	NN	Number=Sing	10	_	_	start_char=810|end_char=814
+12	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=815|end_char=819
+13	still	still	ADV	RB	_	12	_	_	start_char=820|end_char=825
+14	unsure	unsure	ADJ	JJ	Degree=Pos	13	_	_	start_char=826|end_char=832
+15	if	if	SCONJ	IN	_	14	_	_	start_char=833|end_char=835
+16	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	_	_	start_char=836|end_char=840
+17	could	could	AUX	MD	VerbForm=Fin	16	_	_	start_char=841|end_char=846
+18	tae	tae	VERB	VB	VerbForm=Inf	17	_	_	start_char=847|end_char=850
+19	part	part	NOUN	NN	Number=Sing	18	_	_	start_char=851|end_char=855
+20	in	in	ADP	IN	_	19	_	_	start_char=856|end_char=858
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=859|end_char=862
+22	August	August	PROPN	NNP	Number=Sing	21	_	_	start_char=863|end_char=869
+23	20	20	NUM	CD	NumForm=Digit|NumType=Card	22	_	_	start_char=870|end_char=872
+24	Saudi	Saudi	ADJ	NNP	Degree=Pos	23	_	_	start_char=873|end_char=878
+25	Arabia	Arabia	PROPN	NNP	Number=Sing	24	_	_	start_char=879|end_char=885
+26	rematch	rematch	NOUN	NN	Number=Sing	25	_	_	start_char=886|end_char=893|SpaceAfter=No
+27	,	,	PUNCT	,	_	26	_	_	start_char=893|end_char=894
+28	with	with	SCONJ	IN	_	27	_	_	start_char=895|end_char=899
+29	the	the	DET	DT	Definite=Def|PronType=Art	28	_	_	start_char=900|end_char=903
+30	country	country	NOUN	NN	Number=Sing	29	_	_	start_char=904|end_char=911
+31	still	still	ADV	RB	_	30	_	_	start_char=912|end_char=917
+32	in	in	ADP	IN	_	31	_	_	start_char=918|end_char=920
+33	such	such	ADJ	JJ	Degree=Pos	32	_	_	start_char=921|end_char=925
+34	turmoil	turmoil	NOUN	NN	Number=Sing	33	_	_	start_char=926|end_char=933|SpaceAfter=No
+35	.	.	PUNCT	.	_	34	_	_	start_char=933|end_char=934|SpacesAfter=\n\n
+
+# text = The defending champ received special dispensation and encouragement to escape the war and represent his proud nation on the grandest stage and help shine a light on their continued plight.
+# sent_id = 6
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=936|end_char=939
+2	defending	defend	VERB	VBG	VerbForm=Ger	1	_	_	start_char=940|end_char=949
+3	champ	champ	NOUN	NN	Number=Sing	2	_	_	start_char=950|end_char=955
+4	received	receive	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=956|end_char=964
+5	special	special	ADJ	JJ	Degree=Pos	4	_	_	start_char=965|end_char=972
+6	dispensation	dispensation	NOUN	NN	Number=Sing	5	_	_	start_char=973|end_char=985
+7	and	and	CCONJ	CC	_	6	_	_	start_char=986|end_char=989
+8	encouragement	encouragement	NOUN	NN	Number=Sing	7	_	_	start_char=990|end_char=1003
+9	to	to	PART	TO	_	8	_	_	start_char=1004|end_char=1006
+10	escape	escape	VERB	VB	VerbForm=Inf	9	_	_	start_char=1007|end_char=1013
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=1014|end_char=1017
+12	war	war	NOUN	NN	Number=Sing	11	_	_	start_char=1018|end_char=1021
+13	and	and	CCONJ	CC	_	12	_	_	start_char=1022|end_char=1025
+14	represent	represent	VERB	VB	VerbForm=Inf	13	_	_	start_char=1026|end_char=1035
+15	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	_	_	start_char=1036|end_char=1039
+16	proud	proud	ADJ	JJ	Degree=Pos	15	_	_	start_char=1040|end_char=1045
+17	nation	nation	NOUN	NN	Number=Sing	16	_	_	start_char=1046|end_char=1052
+18	on	on	ADP	IN	_	17	_	_	start_char=1053|end_char=1055
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=1056|end_char=1059
+20	grandest	grand	ADJ	JJS	Degree=Sup	19	_	_	start_char=1060|end_char=1068
+21	stage	stage	NOUN	NN	Number=Sing	20	_	_	start_char=1069|end_char=1074
+22	and	and	CCONJ	CC	_	21	_	_	start_char=1075|end_char=1078
+23	help	help	VERB	VB	VerbForm=Inf	22	_	_	start_char=1079|end_char=1083
+24	shine	shine	VERB	VB	VerbForm=Inf	23	_	_	start_char=1084|end_char=1089
+25	a	a	DET	DT	Definite=Ind|PronType=Art	24	_	_	start_char=1090|end_char=1091
+26	light	light	NOUN	NN	Number=Sing	25	_	_	start_char=1092|end_char=1097
+27	on	on	ADP	IN	_	26	_	_	start_char=1098|end_char=1100
+28	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	27	_	_	start_char=1101|end_char=1106
+29	continued	continue	VERB	VBN	Tense=Past|VerbForm=Part	28	_	_	start_char=1107|end_char=1116
+30	plight	plight	NOUN	NN	Number=Sing	29	_	_	start_char=1117|end_char=1123|SpaceAfter=No
+31	.	.	PUNCT	.	_	30	_	_	start_char=1123|end_char=1124|SpacesAfter=\n\n
+
+# text = But - after Tuesday’s Jeddah press conference, where Usy stared Joshua down in their tense face-off - he refused to use the humanitarian crisis to his advantage.
+# sent_id = 7
+1	But	but	CCONJ	CC	_	0	_	_	start_char=1126|end_char=1129
+2	-	-	PUNCT	,	_	1	_	_	start_char=1130|end_char=1131
+3	after	after	ADP	IN	_	2	_	_	start_char=1132|end_char=1137
+4-5	Tuesday’s	_	_	_	_	_	_	_	start_char=1138|end_char=1147
+4	Tuesday	Tuesday	PROPN	NNP	Number=Sing	3	_	_	start_char=1138|end_char=1145
+5	’s	's	PART	POS	_	4	_	_	start_char=1145|end_char=1147
+6	Jeddah	Jeddah	PROPN	NNP	Number=Sing	5	_	_	start_char=1148|end_char=1154
+7	press	press	NOUN	NN	Number=Sing	6	_	_	start_char=1155|end_char=1160
+8	conference	conference	NOUN	NN	Number=Sing	7	_	_	start_char=1161|end_char=1171|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1171|end_char=1172
+10	where	where	ADV	WRB	PronType=Rel	9	_	_	start_char=1173|end_char=1178
+11	Usy	Usy	PROPN	NNP	Number=Sing	10	_	_	start_char=1179|end_char=1182
+12	stared	stare	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=1183|end_char=1189
+13	Joshua	Joshua	PROPN	NNP	Number=Sing	12	_	_	start_char=1190|end_char=1196
+14	down	down	ADV	RB	_	13	_	_	start_char=1197|end_char=1201
+15	in	in	ADP	IN	_	14	_	_	start_char=1202|end_char=1204
+16	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	15	_	_	start_char=1205|end_char=1210
+17	tense	tense	ADJ	JJ	Degree=Pos	16	_	_	start_char=1211|end_char=1216
+18	face	face	NOUN	NN	Number=Sing	17	_	_	start_char=1217|end_char=1221|SpaceAfter=No
+19	-	-	PUNCT	HYPH	_	18	_	_	start_char=1221|end_char=1222|SpaceAfter=No
+20	off	off	ADV	RB	_	19	_	_	start_char=1222|end_char=1225
+21	-	-	PUNCT	,	_	20	_	_	start_char=1226|end_char=1227
+22	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	_	_	start_char=1228|end_char=1230
+23	refused	refuse	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	_	_	start_char=1231|end_char=1238
+24	to	to	PART	TO	_	23	_	_	start_char=1239|end_char=1241
+25	use	use	VERB	VB	VerbForm=Inf	24	_	_	start_char=1242|end_char=1245
+26	the	the	DET	DT	Definite=Def|PronType=Art	25	_	_	start_char=1246|end_char=1249
+27	humanitarian	humanitarian	ADJ	JJ	Degree=Pos	26	_	_	start_char=1250|end_char=1262
+28	crisis	crisis	NOUN	NN	Number=Sing	27	_	_	start_char=1263|end_char=1269
+29	to	to	ADP	IN	_	28	_	_	start_char=1270|end_char=1272
+30	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	29	_	_	start_char=1273|end_char=1276
+31	advantage	advantage	NOUN	NN	Number=Sing	30	_	_	start_char=1277|end_char=1286|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=1286|end_char=1287|SpacesAfter=\n\n
+
+# text = Usy said: "My friends, people close to me, have died in the war.
+# sent_id = 8
+1	Usy	Usy	PROPN	NNP	Number=Sing	0	_	_	start_char=1289|end_char=1292
+2	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1293|end_char=1297|SpaceAfter=No
+3	:	:	PUNCT	:	_	2	_	_	start_char=1297|end_char=1298
+4	"	"	PUNCT	``	_	3	_	_	start_char=1299|end_char=1300|SpaceAfter=No
+5	My	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	_	_	start_char=1300|end_char=1302
+6	friends	friend	NOUN	NNS	Number=Plur	5	_	_	start_char=1303|end_char=1310|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=1310|end_char=1311
+8	people	person	NOUN	NNS	Number=Plur	7	_	_	start_char=1312|end_char=1318
+9	close	close	ADV	RB	Degree=Pos	8	_	_	start_char=1319|end_char=1324
+10	to	to	ADP	IN	_	9	_	_	start_char=1325|end_char=1327
+11	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	10	_	_	start_char=1328|end_char=1330|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=1330|end_char=1331
+13	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=1332|end_char=1336
+14	died	die	VERB	VBN	Tense=Past|VerbForm=Part	13	_	_	start_char=1337|end_char=1341
+15	in	in	ADP	IN	_	14	_	_	start_char=1342|end_char=1344
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=1345|end_char=1348
+17	war	war	NOUN	NN	Number=Sing	16	_	_	start_char=1349|end_char=1352|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=1352|end_char=1353|SpacesAfter=\n\n
+
+# text = “When so many people are suffering I don't have any idea how it can influence anything positively.
+# sent_id = 9
+1	“	''	PUNCT	``	_	0	_	_	start_char=1355|end_char=1356|SpaceAfter=No
+2	When	when	ADV	WRB	PronType=Int	1	_	_	start_char=1356|end_char=1360
+3	so	so	ADV	RB	_	2	_	_	start_char=1361|end_char=1363
+4	many	many	ADJ	JJ	Degree=Pos	3	_	_	start_char=1364|end_char=1368
+5	people	person	NOUN	NNS	Number=Plur	4	_	_	start_char=1369|end_char=1375
+6	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1376|end_char=1379
+7	suffering	suffer	VERB	VBG	Tense=Pres|VerbForm=Part	6	_	_	start_char=1380|end_char=1389
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	_	_	start_char=1390|end_char=1391
+9-10	don't	_	_	_	_	_	_	_	start_char=1392|end_char=1397
+9	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	_	_	start_char=1392|end_char=1394
+10	n't	not	PART	RB	_	9	_	_	start_char=1394|end_char=1397
+11	have	have	VERB	VB	VerbForm=Inf	10	_	_	start_char=1398|end_char=1402
+12	any	any	DET	DT	_	11	_	_	start_char=1403|end_char=1406
+13	idea	idea	NOUN	NN	Number=Sing	12	_	_	start_char=1407|end_char=1411
+14	how	how	ADV	WRB	PronType=Int	13	_	_	start_char=1412|end_char=1415
+15	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	_	_	start_char=1416|end_char=1418
+16	can	can	AUX	MD	VerbForm=Fin	15	_	_	start_char=1419|end_char=1422
+17	influence	influence	VERB	VB	VerbForm=Inf	16	_	_	start_char=1423|end_char=1432
+18	anything	anything	PRON	NN	Number=Sing|PronType=Ind	17	_	_	start_char=1433|end_char=1441
+19	positively	positively	ADV	RB	_	18	_	_	start_char=1442|end_char=1452|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=1452|end_char=1453|SpacesAfter=\n\n
+
+# text = "I was there for one month, I saw with my own eyes what happened there, rocets flying and fighter jets flying.
+# sent_id = 10
+1	"	"	PUNCT	``	_	0	_	_	start_char=1455|end_char=1456|SpaceAfter=No
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	_	_	start_char=1456|end_char=1457
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1458|end_char=1461
+4	there	there	ADV	RB	PronType=Dem	3	_	_	start_char=1462|end_char=1467
+5	for	for	ADP	IN	_	4	_	_	start_char=1468|end_char=1471
+6	one	one	NUM	CD	NumForm=Word|NumType=Card	5	_	_	start_char=1472|end_char=1475
+7	month	month	NOUN	NN	Number=Sing	6	_	_	start_char=1476|end_char=1481|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=1481|end_char=1482
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	_	_	start_char=1483|end_char=1484
+10	saw	see	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	9	_	_	start_char=1485|end_char=1488
+11	with	with	ADP	IN	_	10	_	_	start_char=1489|end_char=1493
+12	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	11	_	_	start_char=1494|end_char=1496
+13	own	own	ADJ	JJ	Degree=Pos	12	_	_	start_char=1497|end_char=1500
+14	eyes	eye	NOUN	NNS	Number=Plur	13	_	_	start_char=1501|end_char=1505
+15	what	what	PRON	WP	PronType=Rel	14	_	_	start_char=1506|end_char=1510
+16	happened	happen	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	_	_	start_char=1511|end_char=1519
+17	there	there	ADV	RB	PronType=Dem	16	_	_	start_char=1520|end_char=1525|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=1525|end_char=1526
+19	rocets	rocet	NOUN	NNS	Number=Plur	18	_	_	start_char=1527|end_char=1533
+20	flying	fly	VERB	VBG	VerbForm=Ger	19	_	_	start_char=1534|end_char=1540
+21	and	and	CCONJ	CC	_	20	_	_	start_char=1541|end_char=1544
+22	fighter	fighter	NOUN	NN	Number=Sing	21	_	_	start_char=1545|end_char=1552
+23	jets	jet	NOUN	NNS	Number=Plur	22	_	_	start_char=1553|end_char=1557
+24	flying	fly	VERB	VBG	VerbForm=Ger	23	_	_	start_char=1558|end_char=1564|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=1564|end_char=1565
+
+# text = It's horrible."
+# sent_id = 11
+1-2	It's	_	_	_	_	_	_	_	start_char=1566|end_char=1570
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1566|end_char=1568
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1568|end_char=1570
+3	horrible	horrible	ADJ	JJ	Degree=Pos	2	_	_	start_char=1571|end_char=1579|SpaceAfter=No
+4	.	.	PUNCT	.	_	3	_	_	start_char=1579|end_char=1580|SpaceAfter=No
+5	"	"	PUNCT	''	_	4	_	_	start_char=1580|end_char=1581|SpacesAfter=\n\n
+
+# text = Usy was much more guarded on the stage where he and Joshua bumped fists for the first time in almost a year.
+# sent_id = 12
+1	Usy	Usy	PROPN	NNP	Number=Sing	0	_	_	start_char=1583|end_char=1586
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1587|end_char=1590
+3	much	much	ADV	RB	_	2	_	_	start_char=1591|end_char=1595
+4	more	more	ADV	RBR	Degree=Cmp	3	_	_	start_char=1596|end_char=1600
+5	guarded	guard	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	_	_	start_char=1601|end_char=1608
+6	on	on	ADP	IN	_	5	_	_	start_char=1609|end_char=1611
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1612|end_char=1615
+8	stage	stage	NOUN	NN	Number=Sing	7	_	_	start_char=1616|end_char=1621
+9	where	where	ADV	WRB	PronType=Rel	8	_	_	start_char=1622|end_char=1627
+10	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	_	_	start_char=1628|end_char=1630
+11	and	and	CCONJ	CC	_	10	_	_	start_char=1631|end_char=1634
+12	Joshua	Joshua	PROPN	NNP	Number=Sing	11	_	_	start_char=1635|end_char=1641
+13	bumped	bump	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=1642|end_char=1648
+14	fists	fist	NOUN	NNS	Number=Plur	13	_	_	start_char=1649|end_char=1654
+15	for	for	ADP	IN	_	14	_	_	start_char=1655|end_char=1658
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=1659|end_char=1662
+17	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	16	_	_	start_char=1663|end_char=1668
+18	time	time	NOUN	NN	Number=Sing	17	_	_	start_char=1669|end_char=1673
+19	in	in	ADP	IN	_	18	_	_	start_char=1674|end_char=1676
+20	almost	almost	ADV	RB	_	19	_	_	start_char=1677|end_char=1683
+21	a	a	DET	DT	Definite=Ind|PronType=Art	20	_	_	start_char=1684|end_char=1685
+22	year	year	NOUN	NN	Number=Sing	21	_	_	start_char=1686|end_char=1690|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=1690|end_char=1691|SpacesAfter=\n\n
+
+# text = Hiding his ice-cold glare from everyone bar AJ under his bucet hat, the southpaw sensation did almost nothing to help sell the fight and everything to frighten his old foe.
+# sent_id = 13
+1	Hiding	hide	VERB	VBG	VerbForm=Ger	0	_	_	start_char=1693|end_char=1699
+2	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	_	_	start_char=1700|end_char=1703
+3	ice-	ice-	ADJ	JJ	Degree=Pos	2	_	_	start_char=1704|end_char=1708|SpaceAfter=No
+4	cold	cold	ADJ	JJ	Degree=Pos	3	_	_	start_char=1708|end_char=1712
+5	glare	glare	NOUN	NN	Number=Sing	4	_	_	start_char=1713|end_char=1718
+6	from	from	ADP	IN	_	5	_	_	start_char=1719|end_char=1723
+7	everyone	everyone	PRON	NN	Number=Sing|PronType=Tot	6	_	_	start_char=1724|end_char=1732
+8	bar	bar	NOUN	NN	Number=Sing	7	_	_	start_char=1733|end_char=1736
+9	AJ	AJ	PROPN	NNP	Number=Sing	8	_	_	start_char=1737|end_char=1739
+10	under	under	ADP	IN	_	9	_	_	start_char=1740|end_char=1745
+11	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	_	_	start_char=1746|end_char=1749
+12	bucet	bucet	NOUN	NN	Number=Sing	11	_	_	start_char=1750|end_char=1755
+13	hat	hat	NOUN	NN	Number=Sing	12	_	_	start_char=1756|end_char=1759|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=1759|end_char=1760
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=1761|end_char=1764
+16	southpaw	southpaw	NOUN	NN	Number=Sing	15	_	_	start_char=1765|end_char=1773
+17	sensation	sensation	NOUN	NN	Number=Sing	16	_	_	start_char=1774|end_char=1783
+18	did	do	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	_	_	start_char=1784|end_char=1787
+19	almost	almost	ADV	RB	_	18	_	_	start_char=1788|end_char=1794
+20	nothing	nothing	PRON	NN	Number=Sing|PronType=Neg	19	_	_	start_char=1795|end_char=1802
+21	to	to	PART	TO	_	20	_	_	start_char=1803|end_char=1805
+22	help	help	VERB	VB	VerbForm=Inf	21	_	_	start_char=1806|end_char=1810
+23	sell	sell	VERB	VB	VerbForm=Inf	22	_	_	start_char=1811|end_char=1815
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=1816|end_char=1819
+25	fight	fight	NOUN	NN	Number=Sing	24	_	_	start_char=1820|end_char=1825
+26	and	and	CCONJ	CC	_	25	_	_	start_char=1826|end_char=1829
+27	everything	everything	PRON	NN	Number=Sing|PronType=Tot	26	_	_	start_char=1830|end_char=1840
+28	to	to	PART	TO	_	27	_	_	start_char=1841|end_char=1843
+29	frighten	frighten	VERB	VB	VerbForm=Inf	28	_	_	start_char=1844|end_char=1852
+30	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	29	_	_	start_char=1853|end_char=1856
+31	old	old	ADJ	JJ	Degree=Pos	30	_	_	start_char=1857|end_char=1860
+32	foe	foe	NOUN	NN	Number=Sing	31	_	_	start_char=1861|end_char=1864|SpaceAfter=No
+33	.	.	PUNCT	.	_	32	_	_	start_char=1864|end_char=1865|SpacesAfter=\n\n
+
+# text = He said: “I never mae loud or bright speeches, I just wor hard in my gym and training camp.
+# sent_id = 14
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1867|end_char=1869
+2	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1870|end_char=1874|SpaceAfter=No
+3	:	:	PUNCT	:	_	2	_	_	start_char=1874|end_char=1875
+4	“	''	PUNCT	``	_	3	_	_	start_char=1876|end_char=1877|SpaceAfter=No
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	_	_	start_char=1877|end_char=1878
+6	never	never	ADV	RB	_	5	_	_	start_char=1879|end_char=1884
+7	mae	marr	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	_	_	start_char=1885|end_char=1888
+8	loud	loud	ADJ	JJ	Degree=Pos	7	_	_	start_char=1889|end_char=1893
+9	or	or	CCONJ	CC	_	8	_	_	start_char=1894|end_char=1896
+10	bright	bright	ADJ	JJ	Degree=Pos	9	_	_	start_char=1897|end_char=1903
+11	speeches	speech	NOUN	NNS	Number=Plur	10	_	_	start_char=1904|end_char=1912|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=1912|end_char=1913
+13	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	_	_	start_char=1914|end_char=1915
+14	just	just	ADV	RB	_	13	_	_	start_char=1916|end_char=1920
+15	wor	wor	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	_	_	start_char=1921|end_char=1924
+16	hard	hard	ADV	RB	Degree=Pos	15	_	_	start_char=1925|end_char=1929
+17	in	in	ADP	IN	_	16	_	_	start_char=1930|end_char=1932
+18	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	17	_	_	start_char=1933|end_char=1935
+19	gym	gym	NOUN	NN	Number=Sing	18	_	_	start_char=1936|end_char=1939
+20	and	and	CCONJ	CC	_	19	_	_	start_char=1940|end_char=1943
+21	training	training	NOUN	NN	Number=Sing	20	_	_	start_char=1944|end_char=1952
+22	camp	camp	NOUN	NN	Number=Sing	21	_	_	start_char=1953|end_char=1957|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=1957|end_char=1958|SpacesAfter=\n\n
+
+# text = "That’s what I am going to do until the fight.
+# sent_id = 15
+1	"	"	PUNCT	``	_	0	_	_	start_char=1960|end_char=1961|SpaceAfter=No
+2-3	That’s	_	_	_	_	_	_	_	start_char=1961|end_char=1967
+2	That	that	PRON	DT	Number=Sing|PronType=Dem	1	_	_	start_char=1961|end_char=1965
+3	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1965|end_char=1967
+4	what	what	PRON	WP	PronType=Rel	3	_	_	start_char=1968|end_char=1972
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	_	_	start_char=1973|end_char=1974
+6	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1975|end_char=1977
+7	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	6	_	_	start_char=1978|end_char=1983
+8	to	to	PART	TO	_	7	_	_	start_char=1984|end_char=1986
+9	do	do	VERB	VB	VerbForm=Inf	8	_	_	start_char=1987|end_char=1989
+10	until	until	ADP	IN	_	9	_	_	start_char=1990|end_char=1995
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=1996|end_char=1999
+12	fight	fight	NOUN	NN	Number=Sing	11	_	_	start_char=2000|end_char=2005|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=2005|end_char=2006|SpacesAfter=\n\n
+
+# text = “And then I will enter the ring and mae you happy with my boxing.”
+# sent_id = 16
+1	“	''	PUNCT	``	_	0	_	_	start_char=2008|end_char=2009|SpaceAfter=No
+2	And	and	CCONJ	CC	_	1	_	_	start_char=2009|end_char=2012
+3	then	then	ADV	RB	PronType=Dem	2	_	_	start_char=2013|end_char=2017
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	_	_	start_char=2018|end_char=2019
+5	will	will	AUX	MD	VerbForm=Fin	4	_	_	start_char=2020|end_char=2024
+6	enter	enter	VERB	VB	VerbForm=Inf	5	_	_	start_char=2025|end_char=2030
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=2031|end_char=2034
+8	ring	ring	NOUN	NN	Number=Sing	7	_	_	start_char=2035|end_char=2039
+9	and	and	CCONJ	CC	_	8	_	_	start_char=2040|end_char=2043
+10	mae	marr	VERB	VB	VerbForm=Inf	9	_	_	start_char=2044|end_char=2047
+11	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	10	_	_	start_char=2048|end_char=2051
+12	happy	happy	ADJ	JJ	Degree=Pos	11	_	_	start_char=2052|end_char=2057
+13	with	with	ADP	IN	_	12	_	_	start_char=2058|end_char=2062
+14	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	13	_	_	start_char=2063|end_char=2065
+15	boxing	boxing	NOUN	NN	Number=Sing	14	_	_	start_char=2066|end_char=2072|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=2072|end_char=2073|SpaceAfter=No
+17	”	''	PUNCT	''	_	16	_	_	start_char=2073|end_char=2074|SpacesAfter=\n\n\s
+
+# text = AJ vs Usy 2 date, live stream and TV channel for blocbuster rematch
+# sent_id = 17
+1	AJ	AJ	PROPN	NNP	Number=Sing	0	_	_	start_char=2077|end_char=2079
+2	vs	versus	ADP	IN	_	1	_	_	start_char=2080|end_char=2082
+3	Usy	Usy	PROPN	NNP	Number=Sing	2	_	_	start_char=2083|end_char=2086
+4	2	2	NUM	CD	NumForm=Digit|NumType=Card	3	_	_	start_char=2087|end_char=2088
+5	date	date	NOUN	NN	Number=Sing	4	_	_	start_char=2089|end_char=2093|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=2093|end_char=2094
+7	live	live	ADJ	JJ	Degree=Pos	6	_	_	start_char=2095|end_char=2099
+8	stream	stream	NOUN	NN	Number=Sing	7	_	_	start_char=2100|end_char=2106
+9	and	and	CCONJ	CC	_	8	_	_	start_char=2107|end_char=2110
+10	TV	TV	NOUN	NN	Number=Sing	9	_	_	start_char=2111|end_char=2113
+11	channel	channel	NOUN	NN	Number=Sing	10	_	_	start_char=2114|end_char=2121
+12	for	for	ADP	IN	_	11	_	_	start_char=2122|end_char=2125
+13	blocbuster	blocbuster	NOUN	NN	Number=Sing	12	_	_	start_char=2126|end_char=2136
+14	rematch	rematch	NOUN	NN	Number=Sing	13	_	_	start_char=2137|end_char=2144|SpaceAfter=No
+

@@ -1,0 +1,545 @@
+# text = Treason trial of L.A. woman held in Russia for donating $50 to Uraine charity opens
+# sent_id = 0
+1	Treason	treason	NOUN	NN	Number=Sing	0	_	_	start_char=0|end_char=7
+2	trial	trial	NOUN	NN	Number=Sing	1	_	_	start_char=8|end_char=13
+3	of	of	ADP	IN	_	2	_	_	start_char=14|end_char=16
+4	L.A.	L.A.	PROPN	NNP	Number=Sing	3	_	_	start_char=17|end_char=21
+5	woman	woman	NOUN	NN	Number=Sing	4	_	_	start_char=22|end_char=27
+6	held	hold	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=28|end_char=32
+7	in	in	ADP	IN	_	6	_	_	start_char=33|end_char=35
+8	Russia	Russia	PROPN	NNP	Number=Sing	7	_	_	start_char=36|end_char=42
+9	for	for	SCONJ	IN	_	8	_	_	start_char=43|end_char=46
+10	donating	donate	VERB	VBG	VerbForm=Ger	9	_	_	start_char=47|end_char=55
+11	$	$	SYM	$	_	10	_	_	start_char=56|end_char=57|SpaceAfter=No
+12	50	50	NUM	CD	NumForm=Digit|NumType=Card	11	_	_	start_char=57|end_char=59
+13	to	to	ADP	IN	_	12	_	_	start_char=60|end_char=62
+14	Uraine	Uraine	PROPN	NNP	Number=Sing	13	_	_	start_char=63|end_char=69
+15	charity	charity	NOUN	NN	Number=Sing	14	_	_	start_char=70|end_char=77
+16	opens	open	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=78|end_char=83|SpacesAfter=\s\n\n\s
+
+# text = Treason trial opens for L.A. woman held in Russia for donating $50 to Uraine charity
+# sent_id = 1
+1	Treason	treason	NOUN	NN	Number=Sing	0	_	_	start_char=87|end_char=94
+2	trial	trial	NOUN	NN	Number=Sing	1	_	_	start_char=95|end_char=100
+3	opens	open	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=101|end_char=106
+4	for	for	ADP	IN	_	3	_	_	start_char=107|end_char=110
+5	L.A.	L.A.	PROPN	NNP	Number=Sing	4	_	_	start_char=111|end_char=115
+6	woman	woman	NOUN	NN	Number=Sing	5	_	_	start_char=116|end_char=121
+7	held	hold	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=122|end_char=126
+8	in	in	ADP	IN	_	7	_	_	start_char=127|end_char=129
+9	Russia	Russia	PROPN	NNP	Number=Sing	8	_	_	start_char=130|end_char=136
+10	for	for	SCONJ	IN	_	9	_	_	start_char=137|end_char=140
+11	donating	donate	VERB	VBG	VerbForm=Ger	10	_	_	start_char=141|end_char=149
+12	$	$	SYM	$	_	11	_	_	start_char=150|end_char=151|SpaceAfter=No
+13	50	50	NUM	CD	NumForm=Digit|NumType=Card	12	_	_	start_char=151|end_char=153
+14	to	to	ADP	IN	_	13	_	_	start_char=154|end_char=156
+15	Uraine	Uraine	PROPN	NNP	Number=Sing	14	_	_	start_char=157|end_char=163
+16	charity	charity	NOUN	NN	Number=Sing	15	_	_	start_char=164|end_char=171|SpacesAfter=\n\n
+
+# text = MOSCOW —
+# sent_id = 2
+1	MOSCOW	MOSCOW	PROPN	NNP	Number=Sing	0	_	_	start_char=173|end_char=179
+2	—	—	PUNCT	:	_	1	_	_	start_char=180|end_char=181
+
+# text = The trial of a Russian American dual citizen whom Russia accuses of treason opened Thursday as tensions rise between Washington and Moscow, including over the arrests of two American journalists.
+# sent_id = 3
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=182|end_char=185
+2	trial	trial	NOUN	NN	Number=Sing	1	_	_	start_char=186|end_char=191
+3	of	of	ADP	IN	_	2	_	_	start_char=192|end_char=194
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=195|end_char=196
+5	Russian	Russian	ADJ	JJ	Degree=Pos	4	_	_	start_char=197|end_char=204
+6	American	American	ADJ	JJ	Degree=Pos	5	_	_	start_char=205|end_char=213
+7	dual	dual	ADJ	JJ	Degree=Pos	6	_	_	start_char=214|end_char=218
+8	citizen	citizen	NOUN	NN	Number=Sing	7	_	_	start_char=219|end_char=226
+9	whom	whom	PRON	WP	PronType=Rel	8	_	_	start_char=227|end_char=231
+10	Russia	Russia	PROPN	NNP	Number=Sing	9	_	_	start_char=232|end_char=238
+11	accuses	accuse	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=239|end_char=246
+12	of	of	ADP	IN	_	11	_	_	start_char=247|end_char=249
+13	treason	treason	NOUN	NN	Number=Sing	12	_	_	start_char=250|end_char=257
+14	opened	open	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	_	_	start_char=258|end_char=264
+15	Thursday	Thursday	PROPN	NNP	Number=Sing	14	_	_	start_char=265|end_char=273
+16	as	as	SCONJ	IN	_	15	_	_	start_char=274|end_char=276
+17	tensions	tension	NOUN	NNS	Number=Plur	16	_	_	start_char=277|end_char=285
+18	rise	rise	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=286|end_char=290
+19	between	between	ADP	IN	_	18	_	_	start_char=291|end_char=298
+20	Washington	Washington	PROPN	NNP	Number=Sing	19	_	_	start_char=299|end_char=309
+21	and	and	CCONJ	CC	_	20	_	_	start_char=310|end_char=313
+22	Moscow	Moscow	PROPN	NNP	Number=Sing	21	_	_	start_char=314|end_char=320|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=320|end_char=321
+24	including	include	VERB	VBG	VerbForm=Ger	23	_	_	start_char=322|end_char=331
+25	over	over	ADP	IN	_	24	_	_	start_char=332|end_char=336
+26	the	the	DET	DT	Definite=Def|PronType=Art	25	_	_	start_char=337|end_char=340
+27	arrests	arrest	NOUN	NNS	Number=Plur	26	_	_	start_char=341|end_char=348
+28	of	of	ADP	IN	_	27	_	_	start_char=349|end_char=351
+29	two	two	NUM	CD	NumForm=Word|NumType=Card	28	_	_	start_char=352|end_char=355
+30	American	American	ADJ	JJ	Degree=Pos	29	_	_	start_char=356|end_char=364
+31	journalists	journalist	NOUN	NNS	Number=Plur	30	_	_	start_char=365|end_char=376|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=376|end_char=377|SpacesAfter=\n\n
+
+# text = The trial is being held behind closed doors in Yeaterinburg, in the same court that next wee is to begin hearing the case of Evan Gershovich, a Wall Street Journal reporter who was arrested in March 2023 and charged with espionage.
+# sent_id = 4
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=379|end_char=382
+2	trial	trial	NOUN	NN	Number=Sing	1	_	_	start_char=383|end_char=388
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=389|end_char=391
+4	being	be	AUX	VBG	VerbForm=Ger	3	_	_	start_char=392|end_char=397
+5	held	hold	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	_	_	start_char=398|end_char=402
+6	behind	behind	ADP	IN	_	5	_	_	start_char=403|end_char=409
+7	closed	close	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=410|end_char=416
+8	doors	door	NOUN	NNS	Number=Plur	7	_	_	start_char=417|end_char=422
+9	in	in	ADP	IN	_	8	_	_	start_char=423|end_char=425
+10	Yeaterinburg	Yeaterinburg	PROPN	NNP	Number=Sing	9	_	_	start_char=426|end_char=438|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=438|end_char=439
+12	in	in	ADP	IN	_	11	_	_	start_char=440|end_char=442
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=443|end_char=446
+14	same	same	ADJ	JJ	Degree=Pos	13	_	_	start_char=447|end_char=451
+15	court	court	NOUN	NN	Number=Sing	14	_	_	start_char=452|end_char=457
+16	that	that	PRON	WDT	PronType=Rel	15	_	_	start_char=458|end_char=462
+17	next	next	ADJ	JJ	Degree=Pos	16	_	_	start_char=463|end_char=467
+18	wee	wee	NOUN	NN	Number=Sing	17	_	_	start_char=468|end_char=471
+19	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=472|end_char=474
+20	to	to	PART	TO	_	19	_	_	start_char=475|end_char=477
+21	begin	begin	VERB	VB	VerbForm=Inf	20	_	_	start_char=478|end_char=483
+22	hearing	hear	VERB	VBG	VerbForm=Ger	21	_	_	start_char=484|end_char=491
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=492|end_char=495
+24	case	case	NOUN	NN	Number=Sing	23	_	_	start_char=496|end_char=500
+25	of	of	ADP	IN	_	24	_	_	start_char=501|end_char=503
+26	Evan	Evan	PROPN	NNP	Number=Sing	25	_	_	start_char=504|end_char=508
+27	Gershovich	Gershovich	PROPN	NNP	Number=Sing	26	_	_	start_char=509|end_char=519|SpaceAfter=No
+28	,	,	PUNCT	,	_	27	_	_	start_char=519|end_char=520
+29	a	a	DET	DT	Definite=Ind|PronType=Art	28	_	_	start_char=521|end_char=522
+30	Wall	Wall	PROPN	NNP	Number=Sing	29	_	_	start_char=523|end_char=527
+31	Street	Street	PROPN	NNP	Number=Sing	30	_	_	start_char=528|end_char=534
+32	Journal	Journal	PROPN	NNP	Number=Sing	31	_	_	start_char=535|end_char=542
+33	reporter	reporter	NOUN	NN	Number=Sing	32	_	_	start_char=543|end_char=551
+34	who	who	PRON	WP	PronType=Rel	33	_	_	start_char=552|end_char=555
+35	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	34	_	_	start_char=556|end_char=559
+36	arrested	arrest	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	35	_	_	start_char=560|end_char=568
+37	in	in	ADP	IN	_	36	_	_	start_char=569|end_char=571
+38	March	March	PROPN	NNP	Number=Sing	37	_	_	start_char=572|end_char=577
+39	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	38	_	_	start_char=578|end_char=582
+40	and	and	CCONJ	CC	_	39	_	_	start_char=583|end_char=586
+41	charged	charge	VERB	VBN	Tense=Past|VerbForm=Part	40	_	_	start_char=587|end_char=594
+42	with	with	ADP	IN	_	41	_	_	start_char=595|end_char=599
+43	espionage	espionage	NOUN	NN	Number=Sing	42	_	_	start_char=600|end_char=609|SpaceAfter=No
+44	.	.	PUNCT	.	_	43	_	_	start_char=609|end_char=610|SpacesAfter=\n\n
+
+# text = The defendant was identified by Russian authorities as Los Angeles resident senia arelina, although U.S. media reports frequently use the surname havana, the name of her ex-husband.
+# sent_id = 5
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=612|end_char=615
+2	defendant	defendant	NOUN	NN	Number=Sing	1	_	_	start_char=616|end_char=625
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=626|end_char=629
+4	identified	identify	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=630|end_char=640
+5	by	by	ADP	IN	_	4	_	_	start_char=641|end_char=643
+6	Russian	Russian	ADJ	JJ	Degree=Pos	5	_	_	start_char=644|end_char=651
+7	authorities	authority	NOUN	NNS	Number=Plur	6	_	_	start_char=652|end_char=663
+8	as	as	ADP	IN	_	7	_	_	start_char=664|end_char=666
+9	Los	Los	PROPN	NNP	Number=Sing	8	_	_	start_char=667|end_char=670
+10	Angeles	Angeles	PROPN	NNP	Number=Sing	9	_	_	start_char=671|end_char=678
+11	resident	resident	NOUN	NN	Number=Sing	10	_	_	start_char=679|end_char=687
+12	senia	senia	PROPN	NNP	Number=Sing	11	_	_	start_char=688|end_char=693
+13	arelina	arelina	X	FW	Foreign=Yes	12	_	_	start_char=694|end_char=701|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=701|end_char=702
+15	although	although	SCONJ	IN	_	14	_	_	start_char=703|end_char=711
+16	U.S.	U.S.	PROPN	NNP	Number=Sing	15	_	_	start_char=712|end_char=716
+17	media	media	NOUN	NN	Number=Sing	16	_	_	start_char=717|end_char=722
+18	reports	report	NOUN	NNS	Number=Plur	17	_	_	start_char=723|end_char=730
+19	frequently	frequently	ADV	RB	_	18	_	_	start_char=731|end_char=741
+20	use	use	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	_	_	start_char=742|end_char=745
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=746|end_char=749
+22	surname	surname	NOUN	NN	Number=Sing	21	_	_	start_char=750|end_char=757
+23	havana	havana	PROPN	NNP	Number=Sing	22	_	_	start_char=758|end_char=764|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=764|end_char=765
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=766|end_char=769
+26	name	name	NOUN	NN	Number=Sing	25	_	_	start_char=770|end_char=774
+27	of	of	ADP	IN	_	26	_	_	start_char=775|end_char=777
+28	her	her	PRON	PRP$	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	27	_	_	start_char=778|end_char=781
+29	ex-husband	ex-husband	NOUN	NN	Number=Sing	28	_	_	start_char=782|end_char=792|SpaceAfter=No
+30	.	.	PUNCT	.	_	29	_	_	start_char=792|end_char=793|SpacesAfter=\n\n
+
+# text = A Russian American woman from Los Angeles is held in Russia on treason charges, apparently over a donation to a charity for Uraine.
+# sent_id = 6
+1	A	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=795|end_char=796
+2	Russian	Russian	ADJ	JJ	Degree=Pos	1	_	_	start_char=797|end_char=804
+3	American	American	ADJ	JJ	Degree=Pos	2	_	_	start_char=805|end_char=813
+4	woman	woman	NOUN	NN	Number=Sing	3	_	_	start_char=814|end_char=819
+5	from	from	ADP	IN	_	4	_	_	start_char=820|end_char=824
+6	Los	Los	PROPN	NNP	Number=Sing	5	_	_	start_char=825|end_char=828
+7	Angeles	Angeles	PROPN	NNP	Number=Sing	6	_	_	start_char=829|end_char=836
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=837|end_char=839
+9	held	hold	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	_	_	start_char=840|end_char=844
+10	in	in	ADP	IN	_	9	_	_	start_char=845|end_char=847
+11	Russia	Russia	PROPN	NNP	Number=Sing	10	_	_	start_char=848|end_char=854
+12	on	on	ADP	IN	_	11	_	_	start_char=855|end_char=857
+13	treason	treason	NOUN	NN	Number=Sing	12	_	_	start_char=858|end_char=865
+14	charges	charge	NOUN	NNS	Number=Plur	13	_	_	start_char=866|end_char=873|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=873|end_char=874
+16	apparently	apparently	ADV	RB	_	15	_	_	start_char=875|end_char=885
+17	over	over	ADP	IN	_	16	_	_	start_char=886|end_char=890
+18	a	a	DET	DT	Definite=Ind|PronType=Art	17	_	_	start_char=891|end_char=892
+19	donation	donation	NOUN	NN	Number=Sing	18	_	_	start_char=893|end_char=901
+20	to	to	ADP	IN	_	19	_	_	start_char=902|end_char=904
+21	a	a	DET	DT	Definite=Ind|PronType=Art	20	_	_	start_char=905|end_char=906
+22	charity	charity	NOUN	NN	Number=Sing	21	_	_	start_char=907|end_char=914
+23	for	for	ADP	IN	_	22	_	_	start_char=915|end_char=918
+24	Uraine	Uraine	PROPN	NNP	Number=Sing	23	_	_	start_char=919|end_char=925|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=925|end_char=926|SpacesAfter=\n\n
+
+# text = arelina was born in Yeaterinburg and was arrested in February while visiting her family.
+# sent_id = 7
+1	arelina	arelina	PROPN	NNP	Number=Sing	0	_	_	start_char=928|end_char=935
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=936|end_char=939
+3	born	bear	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	_	_	start_char=940|end_char=944
+4	in	in	ADP	IN	_	3	_	_	start_char=945|end_char=947
+5	Yeaterinburg	Yeaterinburg	PROPN	NNP	Number=Sing	4	_	_	start_char=948|end_char=960
+6	and	and	CCONJ	CC	_	5	_	_	start_char=961|end_char=964
+7	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=965|end_char=968
+8	arrested	arrest	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	_	_	start_char=969|end_char=977
+9	in	in	ADP	IN	_	8	_	_	start_char=978|end_char=980
+10	February	February	PROPN	NNP	Number=Sing	9	_	_	start_char=981|end_char=989
+11	while	while	SCONJ	IN	_	10	_	_	start_char=990|end_char=995
+12	visiting	visit	VERB	VBG	VerbForm=Ger	11	_	_	start_char=996|end_char=1004
+13	her	her	PRON	PRP$	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	_	_	start_char=1005|end_char=1008
+14	family	family	NOUN	NN	Number=Sing	13	_	_	start_char=1009|end_char=1015|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=1015|end_char=1016|SpacesAfter=\n\n
+
+# text = Russia’s main domestic security agency, the Federal Security Service, charges that arelina raised money for a Urainian organization that was providing weapons, ammunition and other supplies to the Urainian military.
+# sent_id = 8
+1-2	Russia’s	_	_	_	_	_	_	_	start_char=1018|end_char=1026
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=1018|end_char=1024
+2	’s	's	PART	POS	_	1	_	_	start_char=1024|end_char=1026
+3	main	main	ADJ	JJ	Degree=Pos	2	_	_	start_char=1027|end_char=1031
+4	domestic	domestic	ADJ	JJ	Degree=Pos	3	_	_	start_char=1032|end_char=1040
+5	security	security	NOUN	NN	Number=Sing	4	_	_	start_char=1041|end_char=1049
+6	agency	agency	NOUN	NN	Number=Sing	5	_	_	start_char=1050|end_char=1056|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=1056|end_char=1057
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=1058|end_char=1061
+9	Federal	Federal	ADJ	NNP	Degree=Pos	8	_	_	start_char=1062|end_char=1069
+10	Security	Security	PROPN	NNP	Number=Sing	9	_	_	start_char=1070|end_char=1078
+11	Service	Service	PROPN	NNP	Number=Sing	10	_	_	start_char=1079|end_char=1086|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=1086|end_char=1087
+13	charges	charge	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=1088|end_char=1095
+14	that	that	SCONJ	IN	_	13	_	_	start_char=1096|end_char=1100
+15	arelina	arelina	NOUN	NN	Number=Sing	14	_	_	start_char=1101|end_char=1108
+16	raised	raise	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	_	_	start_char=1109|end_char=1115
+17	money	money	NOUN	NN	Number=Sing	16	_	_	start_char=1116|end_char=1121
+18	for	for	ADP	IN	_	17	_	_	start_char=1122|end_char=1125
+19	a	a	DET	DT	Definite=Ind|PronType=Art	18	_	_	start_char=1126|end_char=1127
+20	Urainian	Urainian	ADJ	JJ	Degree=Pos	19	_	_	start_char=1128|end_char=1136
+21	organization	organization	NOUN	NN	Number=Sing	20	_	_	start_char=1137|end_char=1149
+22	that	that	PRON	WDT	PronType=Rel	21	_	_	start_char=1150|end_char=1154
+23	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	_	_	start_char=1155|end_char=1158
+24	providing	provide	VERB	VBG	Tense=Pres|VerbForm=Part	23	_	_	start_char=1159|end_char=1168
+25	weapons	weapon	NOUN	NNS	Number=Plur	24	_	_	start_char=1169|end_char=1176|SpaceAfter=No
+26	,	,	PUNCT	,	_	25	_	_	start_char=1176|end_char=1177
+27	ammunition	ammunition	NOUN	NN	Number=Sing	26	_	_	start_char=1178|end_char=1188
+28	and	and	CCONJ	CC	_	27	_	_	start_char=1189|end_char=1192
+29	other	other	ADJ	JJ	Degree=Pos	28	_	_	start_char=1193|end_char=1198
+30	supplies	supplies	NOUN	NNS	Number=Plur	29	_	_	start_char=1199|end_char=1207
+31	to	to	ADP	IN	_	30	_	_	start_char=1208|end_char=1210
+32	the	the	DET	DT	Definite=Def|PronType=Art	31	_	_	start_char=1211|end_char=1214
+33	Urainian	Urainian	ADJ	JJ	Degree=Pos	32	_	_	start_char=1215|end_char=1223
+34	military	military	NOUN	NN	Number=Sing	33	_	_	start_char=1224|end_char=1232|SpaceAfter=No
+35	.	.	PUNCT	.	_	34	_	_	start_char=1232|end_char=1233
+
+# text = Her boyfriend has said she made a single donation of about $50 to a Urainian organization, according to media reports.
+# sent_id = 9
+1	Her	her	PRON	PRP$	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	_	_	start_char=1234|end_char=1237
+2	boyfriend	boyfriend	NOUN	NN	Number=Sing	1	_	_	start_char=1238|end_char=1247
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1248|end_char=1251
+4	said	say	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=1252|end_char=1256
+5	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	_	_	start_char=1257|end_char=1260
+6	made	make	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=1261|end_char=1265
+7	a	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=1266|end_char=1267
+8	single	single	ADJ	JJ	Degree=Pos	7	_	_	start_char=1268|end_char=1274
+9	donation	donation	NOUN	NN	Number=Sing	8	_	_	start_char=1275|end_char=1283
+10	of	of	ADP	IN	_	9	_	_	start_char=1284|end_char=1286
+11	about	about	ADV	RB	_	10	_	_	start_char=1287|end_char=1292
+12	$	$	SYM	$	_	11	_	_	start_char=1293|end_char=1294|SpaceAfter=No
+13	50	50	NUM	CD	NumForm=Digit|NumType=Card	12	_	_	start_char=1294|end_char=1296
+14	to	to	ADP	IN	_	13	_	_	start_char=1297|end_char=1299
+15	a	a	DET	DT	Definite=Ind|PronType=Art	14	_	_	start_char=1300|end_char=1301
+16	Urainian	Urainian	ADJ	JJ	Degree=Pos	15	_	_	start_char=1302|end_char=1310
+17	organization	organization	NOUN	NN	Number=Sing	16	_	_	start_char=1311|end_char=1323|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=1323|end_char=1324
+19	according	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	18	_	_	start_char=1325|end_char=1334
+20	to	to	ADP	IN	_	19	_	_	start_char=1335|end_char=1337
+21	media	media	NOUN	NN	Number=Sing	20	_	_	start_char=1338|end_char=1343
+22	reports	report	NOUN	NNS	Number=Plur	21	_	_	start_char=1344|end_char=1351|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=1351|end_char=1352|SpacesAfter=\n\n
+
+# text = arelina faces a sentence of up to 20 years in prison if convicted.
+# sent_id = 10
+1	arelina	arelina	PROPN	NNP	Number=Sing	0	_	_	start_char=1354|end_char=1361
+2	faces	face	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1362|end_char=1367
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=1368|end_char=1369
+4	sentence	sentence	NOUN	NN	Number=Sing	3	_	_	start_char=1370|end_char=1378
+5	of	of	ADP	IN	_	4	_	_	start_char=1379|end_char=1381
+6	up	up	ADP	IN	_	5	_	_	start_char=1382|end_char=1384
+7	to	to	ADP	IN	_	6	_	_	start_char=1385|end_char=1387
+8	20	20	NUM	CD	NumForm=Digit|NumType=Card	7	_	_	start_char=1388|end_char=1390
+9	years	year	NOUN	NNS	Number=Plur	8	_	_	start_char=1391|end_char=1396
+10	in	in	ADP	IN	_	9	_	_	start_char=1397|end_char=1399
+11	prison	prison	NOUN	NN	Number=Sing	10	_	_	start_char=1400|end_char=1406
+12	if	if	SCONJ	IN	_	11	_	_	start_char=1407|end_char=1409
+13	convicted	convict	VERB	VBN	Tense=Past|VerbForm=Part	12	_	_	start_char=1410|end_char=1419|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=1419|end_char=1420
+
+# text = Almost all Russian criminal cases that mae it to court end in convictions.
+# sent_id = 11
+1	Almost	almost	ADV	RB	_	0	_	_	start_char=1421|end_char=1427
+2	all	all	DET	DT	_	1	_	_	start_char=1428|end_char=1431
+3	Russian	Russian	ADJ	JJ	Degree=Pos	2	_	_	start_char=1432|end_char=1439
+4	criminal	criminal	ADJ	JJ	Degree=Pos	3	_	_	start_char=1440|end_char=1448
+5	cases	case	NOUN	NNS	Number=Plur	4	_	_	start_char=1449|end_char=1454
+6	that	that	PRON	WDT	PronType=Rel	5	_	_	start_char=1455|end_char=1459
+7	mae	marr	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=1460|end_char=1463
+8	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	_	_	start_char=1464|end_char=1466
+9	to	to	ADP	IN	_	8	_	_	start_char=1467|end_char=1469
+10	court	court	NOUN	NN	Number=Sing	9	_	_	start_char=1470|end_char=1475
+11	end	end	NOUN	NN	Number=Sing	10	_	_	start_char=1476|end_char=1479
+12	in	in	ADP	IN	_	11	_	_	start_char=1480|end_char=1482
+13	convictions	conviction	NOUN	NNS	Number=Plur	12	_	_	start_char=1483|end_char=1494|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=1494|end_char=1495
+
+# text = The trial was adjourned in the afternoon and the next session was set for Aug. 7, Russian news agencies said.
+# sent_id = 12
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1496|end_char=1499
+2	trial	trial	NOUN	NN	Number=Sing	1	_	_	start_char=1500|end_char=1505
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1506|end_char=1509
+4	adjourned	adjourn	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=1510|end_char=1519
+5	in	in	ADP	IN	_	4	_	_	start_char=1520|end_char=1522
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1523|end_char=1526
+7	afternoon	afternoon	NOUN	NN	Number=Sing	6	_	_	start_char=1527|end_char=1536
+8	and	and	CCONJ	CC	_	7	_	_	start_char=1537|end_char=1540
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1541|end_char=1544
+10	next	next	ADJ	JJ	Degree=Pos	9	_	_	start_char=1545|end_char=1549
+11	session	session	NOUN	NN	Number=Sing	10	_	_	start_char=1550|end_char=1557
+12	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=1558|end_char=1561
+13	set	set	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	12	_	_	start_char=1562|end_char=1565
+14	for	for	ADP	IN	_	13	_	_	start_char=1566|end_char=1569
+15	Aug.	August	PROPN	NNP	Abbr=Yes|Number=Sing	14	_	_	start_char=1570|end_char=1574
+16	7	7	NUM	CD	NumForm=Digit|NumType=Card	15	_	_	start_char=1575|end_char=1576|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=1576|end_char=1577
+18	Russian	Russian	ADJ	JJ	Degree=Pos	17	_	_	start_char=1578|end_char=1585
+19	news	news	NOUN	NN	Number=Sing	18	_	_	start_char=1586|end_char=1590
+20	agencies	agency	NOUN	NNS	Number=Plur	19	_	_	start_char=1591|end_char=1599
+21	said	say	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	20	_	_	start_char=1600|end_char=1604|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=1604|end_char=1605|SpacesAfter=\n\n
+
+# text = Gershovich, the highest-profile American behind bars in Russia, is accused of gathering secret information from a tan factory in Nizhny Tagil, about 90 miles north of Yeaterinburg.
+# sent_id = 13
+1	Gershovich	Gershovich	PROPN	NNP	Number=Sing	0	_	_	start_char=1607|end_char=1617|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=1617|end_char=1618
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1619|end_char=1622
+4	highest	high	ADJ	JJS	Degree=Sup	3	_	_	start_char=1623|end_char=1630|SpaceAfter=No
+5	-	-	PUNCT	HYPH	_	4	_	_	start_char=1630|end_char=1631|SpaceAfter=No
+6	profile	profile	NOUN	NN	Number=Sing	5	_	_	start_char=1631|end_char=1638
+7	American	American	PROPN	NNP	Number=Sing	6	_	_	start_char=1639|end_char=1647
+8	behind	behind	ADP	IN	_	7	_	_	start_char=1648|end_char=1654
+9	bars	bar	NOUN	NNS	Number=Plur	8	_	_	start_char=1655|end_char=1659
+10	in	in	ADP	IN	_	9	_	_	start_char=1660|end_char=1662
+11	Russia	Russia	PROPN	NNP	Number=Sing	10	_	_	start_char=1663|end_char=1669|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=1669|end_char=1670
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=1671|end_char=1673
+14	accused	accuse	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	13	_	_	start_char=1674|end_char=1681
+15	of	of	SCONJ	IN	_	14	_	_	start_char=1682|end_char=1684
+16	gathering	gather	VERB	VBG	VerbForm=Ger	15	_	_	start_char=1685|end_char=1694
+17	secret	secret	ADJ	JJ	Degree=Pos	16	_	_	start_char=1695|end_char=1701
+18	information	information	NOUN	NN	Number=Sing	17	_	_	start_char=1702|end_char=1713
+19	from	from	ADP	IN	_	18	_	_	start_char=1714|end_char=1718
+20	a	a	DET	DT	Definite=Ind|PronType=Art	19	_	_	start_char=1719|end_char=1720
+21	tan	tan	NOUN	NN	Number=Sing	20	_	_	start_char=1721|end_char=1724
+22	factory	factory	NOUN	NN	Number=Sing	21	_	_	start_char=1725|end_char=1732
+23	in	in	ADP	IN	_	22	_	_	start_char=1733|end_char=1735
+24	Nizhny	Nizhny	PROPN	NNP	Number=Sing	23	_	_	start_char=1736|end_char=1742
+25	Tagil	Tagil	PROPN	NNP	Number=Sing	24	_	_	start_char=1743|end_char=1748|SpaceAfter=No
+26	,	,	PUNCT	,	_	25	_	_	start_char=1748|end_char=1749
+27	about	about	ADV	RB	_	26	_	_	start_char=1750|end_char=1755
+28	90	90	NUM	CD	NumForm=Digit|NumType=Card	27	_	_	start_char=1756|end_char=1758
+29	miles	mile	NOUN	NNS	Number=Plur	28	_	_	start_char=1759|end_char=1764
+30	north	north	ADV	RB	_	29	_	_	start_char=1765|end_char=1770
+31	of	of	ADP	IN	_	30	_	_	start_char=1771|end_char=1773
+32	Yeaterinburg	Yeaterinburg	PROPN	NNP	Number=Sing	31	_	_	start_char=1774|end_char=1786|SpaceAfter=No
+33	.	.	PUNCT	.	_	32	_	_	start_char=1786|end_char=1787|SpacesAfter=\n\n
+
+# text = His employers deny the allegation, and the U.S. State Department has declared him to be wrongfully detained.
+# sent_id = 14
+1	His	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	_	_	start_char=1789|end_char=1792
+2	employers	employer	NOUN	NNS	Number=Plur	1	_	_	start_char=1793|end_char=1802
+3	deny	deny	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1803|end_char=1807
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1808|end_char=1811
+5	allegation	allegation	NOUN	NN	Number=Sing	4	_	_	start_char=1812|end_char=1822|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=1822|end_char=1823
+7	and	and	CCONJ	CC	_	6	_	_	start_char=1824|end_char=1827
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=1828|end_char=1831
+9	U.S.	U.S.	PROPN	NNP	Number=Sing	8	_	_	start_char=1832|end_char=1836
+10	State	State	PROPN	NNP	Number=Sing	9	_	_	start_char=1837|end_char=1842
+11	Department	Department	PROPN	NNP	Number=Sing	10	_	_	start_char=1843|end_char=1853
+12	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=1854|end_char=1857
+13	declared	declare	VERB	VBN	Tense=Past|VerbForm=Part	12	_	_	start_char=1858|end_char=1866
+14	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	_	_	start_char=1867|end_char=1870
+15	to	to	PART	TO	_	14	_	_	start_char=1871|end_char=1873
+16	be	be	AUX	VB	VerbForm=Inf	15	_	_	start_char=1874|end_char=1876
+17	wrongfully	wrongfully	ADV	RB	_	16	_	_	start_char=1877|end_char=1887
+18	detained	detain	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	17	_	_	start_char=1888|end_char=1896|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=1896|end_char=1897|SpacesAfter=\n\n
+
+# text = senia arelina, a U.S.-Russia dual citizen who was detained in Russia over an apparent donation to a Urainian aid group, appeared via video in court on Thursday.
+# sent_id = 15
+1	senia	senia	PROPN	NNP	Number=Sing	0	_	_	start_char=1899|end_char=1904
+2	arelina	arelina	PROPN	NNP	Number=Sing	1	_	_	start_char=1905|end_char=1912|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=1912|end_char=1913
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=1914|end_char=1915
+5	U.S.	U.S.	PROPN	NNP	Number=Sing	4	_	_	start_char=1916|end_char=1920|SpaceAfter=No
+6	-	-	PUNCT	HYPH	_	5	_	_	start_char=1920|end_char=1921|SpaceAfter=No
+7	Russia	Russia	PROPN	NNP	Number=Sing	6	_	_	start_char=1921|end_char=1927
+8	dual	dual	ADJ	JJ	Degree=Pos	7	_	_	start_char=1928|end_char=1932
+9	citizen	citizen	NOUN	NN	Number=Sing	8	_	_	start_char=1933|end_char=1940
+10	who	who	PRON	WP	PronType=Rel	9	_	_	start_char=1941|end_char=1944
+11	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=1945|end_char=1948
+12	detained	detain	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	11	_	_	start_char=1949|end_char=1957
+13	in	in	ADP	IN	_	12	_	_	start_char=1958|end_char=1960
+14	Russia	Russia	PROPN	NNP	Number=Sing	13	_	_	start_char=1961|end_char=1967
+15	over	over	ADP	IN	_	14	_	_	start_char=1968|end_char=1972
+16	an	a	DET	DT	Definite=Ind|PronType=Art	15	_	_	start_char=1973|end_char=1975
+17	apparent	apparent	ADJ	JJ	Degree=Pos	16	_	_	start_char=1976|end_char=1984
+18	donation	donation	NOUN	NN	Number=Sing	17	_	_	start_char=1985|end_char=1993
+19	to	to	ADP	IN	_	18	_	_	start_char=1994|end_char=1996
+20	a	a	DET	DT	Definite=Ind|PronType=Art	19	_	_	start_char=1997|end_char=1998
+21	Urainian	Urainian	ADJ	JJ	Degree=Pos	20	_	_	start_char=1999|end_char=2007
+22	aid	aid	NOUN	NN	Number=Sing	21	_	_	start_char=2008|end_char=2011
+23	group	group	NOUN	NN	Number=Sing	22	_	_	start_char=2012|end_char=2017|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=2017|end_char=2018
+25	appeared	appear	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	_	_	start_char=2019|end_char=2027
+26	via	via	ADP	IN	_	25	_	_	start_char=2028|end_char=2031
+27	video	video	NOUN	NN	Number=Sing	26	_	_	start_char=2032|end_char=2037
+28	in	in	ADP	IN	_	27	_	_	start_char=2038|end_char=2040
+29	court	court	NOUN	NN	Number=Sing	28	_	_	start_char=2041|end_char=2046
+30	on	on	ADP	IN	_	29	_	_	start_char=2047|end_char=2049
+31	Thursday	Thursday	PROPN	NNP	Number=Sing	30	_	_	start_char=2050|end_char=2058|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=2058|end_char=2059
+
+# text = A judge denied her appeal.
+# sent_id = 16
+1	A	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=2060|end_char=2061
+2	judge	judge	NOUN	NN	Number=Sing	1	_	_	start_char=2062|end_char=2067
+3	denied	deny	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=2068|end_char=2074
+4	her	her	PRON	PRP$	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	_	_	start_char=2075|end_char=2078
+5	appeal	appeal	NOUN	NN	Number=Sing	4	_	_	start_char=2079|end_char=2085|SpaceAfter=No
+6	.	.	PUNCT	.	_	5	_	_	start_char=2085|end_char=2086|SpacesAfter=\n\n
+
+# text = Gershovich’s trial, also closed, is to begin Wednesday.
+# sent_id = 17
+1-2	Gershovich’s	_	_	_	_	_	_	_	start_char=2088|end_char=2100
+1	Gershovich	Gershovich	PROPN	NNP	Number=Sing	0	_	_	start_char=2088|end_char=2098
+2	’s	's	PART	POS	_	1	_	_	start_char=2098|end_char=2100
+3	trial	trial	NOUN	NN	Number=Sing	2	_	_	start_char=2101|end_char=2106|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=2106|end_char=2107
+5	also	also	ADV	RB	_	4	_	_	start_char=2108|end_char=2112
+6	closed	close	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=2113|end_char=2119|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=2119|end_char=2120
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=2121|end_char=2123
+9	to	to	PART	TO	_	8	_	_	start_char=2124|end_char=2126
+10	begin	begin	VERB	VB	VerbForm=Inf	9	_	_	start_char=2127|end_char=2132
+11	Wednesday	Wednesday	PROPN	NNP	Number=Sing	10	_	_	start_char=2133|end_char=2142|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=2142|end_char=2143|SpacesAfter=\n\n
+
+# text = A journalist for U.S.-funded Radio Liberty/Radio Free Europe with U.S. and Russian dual citizenship has been held since October on charges of gathering military information and failing to register as a foreign agent.
+# sent_id = 18
+1	A	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=2145|end_char=2146
+2	journalist	journalist	NOUN	NN	Number=Sing	1	_	_	start_char=2147|end_char=2157
+3	for	for	ADP	IN	_	2	_	_	start_char=2158|end_char=2161
+4	U.S.	U.S.	PROPN	NNP	Number=Sing	3	_	_	start_char=2162|end_char=2166|SpaceAfter=No
+5	-	-	PUNCT	HYPH	_	4	_	_	start_char=2166|end_char=2167|SpaceAfter=No
+6	funded	fund	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=2167|end_char=2173
+7	Radio	Radio	PROPN	NNP	Number=Sing	6	_	_	start_char=2174|end_char=2179
+8	Liberty	Liberty	PROPN	NNP	Number=Sing	7	_	_	start_char=2180|end_char=2187|SpaceAfter=No
+9	/	/	SYM	,	_	8	_	_	start_char=2187|end_char=2188|SpaceAfter=No
+10	Radio	Radio	PROPN	NNP	Number=Sing	9	_	_	start_char=2188|end_char=2193
+11	Free	free	ADJ	NNP	Degree=Pos	10	_	_	start_char=2194|end_char=2198
+12	Europe	Europe	PROPN	NNP	Number=Sing	11	_	_	start_char=2199|end_char=2205
+13	with	with	ADP	IN	_	12	_	_	start_char=2206|end_char=2210
+14	U.S.	U.S.	PROPN	NNP	Number=Sing	13	_	_	start_char=2211|end_char=2215
+15	and	and	CCONJ	CC	_	14	_	_	start_char=2216|end_char=2219
+16	Russian	Russian	ADJ	JJ	Degree=Pos	15	_	_	start_char=2220|end_char=2227
+17	dual	dual	ADJ	JJ	Degree=Pos	16	_	_	start_char=2228|end_char=2232
+18	citizenship	citizenship	NOUN	NN	Number=Sing	17	_	_	start_char=2233|end_char=2244
+19	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=2245|end_char=2248
+20	been	be	AUX	VBN	Tense=Past|VerbForm=Part	19	_	_	start_char=2249|end_char=2253
+21	held	hold	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	20	_	_	start_char=2254|end_char=2258
+22	since	since	ADP	IN	_	21	_	_	start_char=2259|end_char=2264
+23	October	October	PROPN	NNP	Number=Sing	22	_	_	start_char=2265|end_char=2272
+24	on	on	ADP	IN	_	23	_	_	start_char=2273|end_char=2275
+25	charges	charge	NOUN	NNS	Number=Plur	24	_	_	start_char=2276|end_char=2283
+26	of	of	SCONJ	IN	_	25	_	_	start_char=2284|end_char=2286
+27	gathering	gather	VERB	VBG	VerbForm=Ger	26	_	_	start_char=2287|end_char=2296
+28	military	military	ADJ	JJ	Degree=Pos	27	_	_	start_char=2297|end_char=2305
+29	information	information	NOUN	NN	Number=Sing	28	_	_	start_char=2306|end_char=2317
+30	and	and	CCONJ	CC	_	29	_	_	start_char=2318|end_char=2321
+31	failing	fail	VERB	VBG	VerbForm=Ger	30	_	_	start_char=2322|end_char=2329
+32	to	to	PART	TO	_	31	_	_	start_char=2330|end_char=2332
+33	register	register	VERB	VB	VerbForm=Inf	32	_	_	start_char=2333|end_char=2341
+34	as	as	ADP	IN	_	33	_	_	start_char=2342|end_char=2344
+35	a	a	DET	DT	Definite=Ind|PronType=Art	34	_	_	start_char=2345|end_char=2346
+36	foreign	foreign	ADJ	JJ	Degree=Pos	35	_	_	start_char=2347|end_char=2354
+37	agent	agent	NOUN	NN	Number=Sing	36	_	_	start_char=2355|end_char=2360|SpaceAfter=No
+38	.	.	PUNCT	.	_	37	_	_	start_char=2360|end_char=2361|SpacesAfter=\n\n
+
+# text = Since sending troops into Uraine in February 2022, Russia has sharply craced down on dissent and has passed laws that criminalize criticism of the operation in Uraine and remars considered to discredit the Russian military.
+# sent_id = 19
+1	Since	since	SCONJ	IN	_	0	_	_	start_char=2363|end_char=2368
+2	sending	send	VERB	VBG	VerbForm=Ger	1	_	_	start_char=2369|end_char=2376
+3	troops	troops	NOUN	NNS	Number=Plur	2	_	_	start_char=2377|end_char=2383
+4	into	into	ADP	IN	_	3	_	_	start_char=2384|end_char=2388
+5	Uraine	Uraine	PROPN	NNP	Number=Sing	4	_	_	start_char=2389|end_char=2395
+6	in	in	ADP	IN	_	5	_	_	start_char=2396|end_char=2398
+7	February	February	PROPN	NNP	Number=Sing	6	_	_	start_char=2399|end_char=2407
+8	2022	2022	NUM	CD	NumForm=Digit|NumType=Card	7	_	_	start_char=2408|end_char=2412|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=2412|end_char=2413
+10	Russia	Russia	PROPN	NNP	Number=Sing	9	_	_	start_char=2414|end_char=2420
+11	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=2421|end_char=2424
+12	sharply	sharply	ADV	RB	_	11	_	_	start_char=2425|end_char=2432
+13	craced	crace	VERB	VBN	Tense=Past|VerbForm=Part	12	_	_	start_char=2433|end_char=2439
+14	down	down	ADP	RP	_	13	_	_	start_char=2440|end_char=2444
+15	on	on	ADP	IN	_	14	_	_	start_char=2445|end_char=2447
+16	dissent	dissent	NOUN	NN	Number=Sing	15	_	_	start_char=2448|end_char=2455
+17	and	and	CCONJ	CC	_	16	_	_	start_char=2456|end_char=2459
+18	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=2460|end_char=2463
+19	passed	pass	VERB	VBN	Tense=Past|VerbForm=Part	18	_	_	start_char=2464|end_char=2470
+20	laws	law	NOUN	NNS	Number=Plur	19	_	_	start_char=2471|end_char=2475
+21	that	that	PRON	WDT	PronType=Rel	20	_	_	start_char=2476|end_char=2480
+22	criminalize	criminalize	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	_	_	start_char=2481|end_char=2492
+23	criticism	criticism	NOUN	NN	Number=Sing	22	_	_	start_char=2493|end_char=2502
+24	of	of	ADP	IN	_	23	_	_	start_char=2503|end_char=2505
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=2506|end_char=2509
+26	operation	operation	NOUN	NN	Number=Sing	25	_	_	start_char=2510|end_char=2519
+27	in	in	ADP	IN	_	26	_	_	start_char=2520|end_char=2522
+28	Uraine	Uraine	PROPN	NNP	Number=Sing	27	_	_	start_char=2523|end_char=2529
+29	and	and	CCONJ	CC	_	28	_	_	start_char=2530|end_char=2533
+30	remars	remar	NOUN	NNS	Number=Plur	29	_	_	start_char=2534|end_char=2540
+31	considered	consider	VERB	VBN	Tense=Past|VerbForm=Part	30	_	_	start_char=2541|end_char=2551
+32	to	to	PART	TO	_	31	_	_	start_char=2552|end_char=2554
+33	discredit	discredit	VERB	VB	VerbForm=Inf	32	_	_	start_char=2555|end_char=2564
+34	the	the	DET	DT	Definite=Def|PronType=Art	33	_	_	start_char=2565|end_char=2568
+35	Russian	Russian	ADJ	JJ	Degree=Pos	34	_	_	start_char=2569|end_char=2576
+36	military	military	NOUN	NN	Number=Sing	35	_	_	start_char=2577|end_char=2585|SpaceAfter=No
+37	.	.	PUNCT	.	_	36	_	_	start_char=2585|end_char=2586
+
+# text = Concern has risen since then that Russia could be targeting U.S. nationals for arrest.
+# sent_id = 20
+1	Concern	concern	NOUN	NN	Number=Sing	0	_	_	start_char=2587|end_char=2594
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2595|end_char=2598
+3	risen	rise	VERB	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=2599|end_char=2604
+4	since	since	ADP	IN	_	3	_	_	start_char=2605|end_char=2610
+5	then	then	ADV	RB	PronType=Dem	4	_	_	start_char=2611|end_char=2615
+6	that	that	SCONJ	IN	_	5	_	_	start_char=2616|end_char=2620
+7	Russia	Russia	PROPN	NNP	Number=Sing	6	_	_	start_char=2621|end_char=2627
+8	could	could	AUX	MD	VerbForm=Fin	7	_	_	start_char=2628|end_char=2633
+9	be	be	AUX	VB	VerbForm=Inf	8	_	_	start_char=2634|end_char=2636
+10	targeting	target	VERB	VBG	Tense=Pres|VerbForm=Part	9	_	_	start_char=2637|end_char=2646
+11	U.S.	U.S.	PROPN	NNP	Number=Sing	10	_	_	start_char=2647|end_char=2651
+12	nationals	national	NOUN	NNS	Number=Plur	11	_	_	start_char=2652|end_char=2661
+13	for	for	ADP	IN	_	12	_	_	start_char=2662|end_char=2665
+14	arrest	arrest	NOUN	NN	Number=Sing	13	_	_	start_char=2666|end_char=2672|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=2672|end_char=2673|SpaceAfter=No
+

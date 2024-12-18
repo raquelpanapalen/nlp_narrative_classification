@@ -1,0 +1,473 @@
+# text = Russia Says Britain Bloced Uraine Peace Deal
+# sent_id = 0
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=6
+2	Says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=7|end_char=11
+3	Britain	Britain	PROPN	NNP	Number=Sing	2	_	_	start_char=12|end_char=19
+4	Bloced	Bloced	ADJ	NNP	Degree=Pos	3	_	_	start_char=20|end_char=26
+5	Uraine	Uraine	PROPN	NNP	Number=Sing	4	_	_	start_char=27|end_char=33
+6	Peace	Peace	PROPN	NNP	Number=Sing	5	_	_	start_char=34|end_char=39
+7	Deal	deal	PROPN	NNP	Number=Sing	6	_	_	start_char=40|end_char=44|SpacesAfter=\s\n\n\s
+
+# text = Uraine abandoned a draft peace treaty with Russia in 2022 due to British pressure, remlin spoesman Dmitry Pesov has claimed.
+# sent_id = 1
+1	Uraine	Uraine	PROPN	NNP	Number=Sing	0	_	_	start_char=48|end_char=54
+2	abandoned	abandon	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=55|end_char=64
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=65|end_char=66
+4	draft	draft	NOUN	NN	Number=Sing	3	_	_	start_char=67|end_char=72
+5	peace	peace	NOUN	NN	Number=Sing	4	_	_	start_char=73|end_char=78
+6	treaty	treaty	NOUN	NN	Number=Sing	5	_	_	start_char=79|end_char=85
+7	with	with	ADP	IN	_	6	_	_	start_char=86|end_char=90
+8	Russia	Russia	PROPN	NNP	Number=Sing	7	_	_	start_char=91|end_char=97
+9	in	in	ADP	IN	_	8	_	_	start_char=98|end_char=100
+10	2022	2022	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=101|end_char=105
+11	due	due	ADP	IN	_	10	_	_	start_char=106|end_char=109
+12	to	to	ADP	IN	_	11	_	_	start_char=110|end_char=112
+13	British	British	ADJ	JJ	Degree=Pos	12	_	_	start_char=113|end_char=120
+14	pressure	pressure	NOUN	NN	Number=Sing	13	_	_	start_char=121|end_char=129|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=129|end_char=130
+16	remlin	remlin	NOUN	NN	Number=Sing	15	_	_	start_char=131|end_char=137
+17	spoesman	spoesman	NOUN	NN	Number=Sing	16	_	_	start_char=138|end_char=146
+18	Dmitry	Dmitry	PROPN	NNP	Number=Sing	17	_	_	start_char=147|end_char=153
+19	Pesov	Pesov	PROPN	NNP	Number=Sing	18	_	_	start_char=154|end_char=159
+20	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	_	_	start_char=160|end_char=163
+21	claimed	claim	VERB	VBN	Tense=Past|VerbForm=Part	20	_	_	start_char=164|end_char=171|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=171|end_char=172|SpacesAfter=\n\n
+
+# text = The deal, which could have ended the Uraine conflict wees after it first began, was approved by negotiators in Istanbul, but Uraine later pulled out of the tals.
+# sent_id = 2
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=174|end_char=177
+2	deal	deal	NOUN	NN	Number=Sing	1	_	_	start_char=178|end_char=182|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=182|end_char=183
+4	which	which	PRON	WDT	PronType=Rel	3	_	_	start_char=184|end_char=189
+5	could	could	AUX	MD	VerbForm=Fin	4	_	_	start_char=190|end_char=195
+6	have	have	AUX	VB	VerbForm=Inf	5	_	_	start_char=196|end_char=200
+7	ended	end	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=201|end_char=206
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=207|end_char=210
+9	Uraine	Uraine	ADJ	JJ	Degree=Pos	8	_	_	start_char=211|end_char=217
+10	conflict	conflict	NOUN	NN	Number=Sing	9	_	_	start_char=218|end_char=226
+11	wees	wee	NOUN	NNS	Number=Plur	10	_	_	start_char=227|end_char=231
+12	after	after	SCONJ	IN	_	11	_	_	start_char=232|end_char=237
+13	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	_	_	start_char=238|end_char=240
+14	first	first	ADV	RB	NumType=Ord	13	_	_	start_char=241|end_char=246
+15	began	begin	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=247|end_char=252|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=252|end_char=253
+17	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	_	_	start_char=254|end_char=257
+18	approved	approve	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	17	_	_	start_char=258|end_char=266
+19	by	by	ADP	IN	_	18	_	_	start_char=267|end_char=269
+20	negotiators	negotiator	NOUN	NNS	Number=Plur	19	_	_	start_char=270|end_char=281
+21	in	in	ADP	IN	_	20	_	_	start_char=282|end_char=284
+22	Istanbul	Istanbul	PROPN	NNP	Number=Sing	21	_	_	start_char=285|end_char=293|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=293|end_char=294
+24	but	but	CCONJ	CC	_	23	_	_	start_char=295|end_char=298
+25	Uraine	Uraine	PROPN	NNP	Number=Sing	24	_	_	start_char=299|end_char=305
+26	later	late	ADV	RBR	Degree=Cmp	25	_	_	start_char=306|end_char=311
+27	pulled	pull	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	26	_	_	start_char=312|end_char=318
+28	out	out	ADP	IN	_	27	_	_	start_char=319|end_char=322
+29	of	of	ADP	IN	_	28	_	_	start_char=323|end_char=325
+30	the	the	DET	DT	Definite=Def|PronType=Art	29	_	_	start_char=326|end_char=329
+31	tals	tal	NOUN	NNS	Number=Plur	30	_	_	start_char=330|end_char=334|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=334|end_char=335|SpacesAfter=\n\n
+
+# text = RT reports: The German newspaper Welt reported on Friday that Moscow had issued additional demands after a deal had already been outlined, such as maing Russian the second official language in Uraine, implying that this had ended any hopes of an agreement.
+# sent_id = 3
+1	RT	RT	PROPN	NNP	Number=Sing	0	_	_	start_char=337|end_char=339
+2	reports	report	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=340|end_char=347|SpaceAfter=No
+3	:	:	PUNCT	:	_	2	_	_	start_char=347|end_char=348
+4	The	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=349|end_char=352
+5	German	German	ADJ	JJ	Degree=Pos	4	_	_	start_char=353|end_char=359
+6	newspaper	newspaper	NOUN	NN	Number=Sing	5	_	_	start_char=360|end_char=369
+7	Welt	Welt	PROPN	NNP	Number=Sing	6	_	_	start_char=370|end_char=374
+8	reported	report	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=375|end_char=383
+9	on	on	ADP	IN	_	8	_	_	start_char=384|end_char=386
+10	Friday	Friday	PROPN	NNP	Number=Sing	9	_	_	start_char=387|end_char=393
+11	that	that	SCONJ	IN	_	10	_	_	start_char=394|end_char=398
+12	Moscow	Moscow	PROPN	NNP	Number=Sing	11	_	_	start_char=399|end_char=405
+13	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=406|end_char=409
+14	issued	issue	VERB	VBN	Tense=Past|VerbForm=Part	13	_	_	start_char=410|end_char=416
+15	additional	additional	ADJ	JJ	Degree=Pos	14	_	_	start_char=417|end_char=427
+16	demands	demand	NOUN	NNS	Number=Plur	15	_	_	start_char=428|end_char=435
+17	after	after	SCONJ	IN	_	16	_	_	start_char=436|end_char=441
+18	a	a	DET	DT	Definite=Ind|PronType=Art	17	_	_	start_char=442|end_char=443
+19	deal	deal	NOUN	NN	Number=Sing	18	_	_	start_char=444|end_char=448
+20	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	_	_	start_char=449|end_char=452
+21	already	already	ADV	RB	_	20	_	_	start_char=453|end_char=460
+22	been	be	AUX	VBN	Tense=Past|VerbForm=Part	21	_	_	start_char=461|end_char=465
+23	outlined	outline	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	22	_	_	start_char=466|end_char=474|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=474|end_char=475
+25	such	such	ADJ	JJ	Degree=Pos	24	_	_	start_char=476|end_char=480
+26	as	as	ADP	IN	_	25	_	_	start_char=481|end_char=483
+27	maing	ma	VERB	VBG	VerbForm=Ger	26	_	_	start_char=484|end_char=489
+28	Russian	Russian	ADJ	JJ	Degree=Pos	27	_	_	start_char=490|end_char=497
+29	the	the	DET	DT	Definite=Def|PronType=Art	28	_	_	start_char=498|end_char=501
+30	second	second	ADJ	JJ	Degree=Pos|NumType=Ord	29	_	_	start_char=502|end_char=508
+31	official	official	ADJ	JJ	Degree=Pos	30	_	_	start_char=509|end_char=517
+32	language	language	NOUN	NN	Number=Sing	31	_	_	start_char=518|end_char=526
+33	in	in	ADP	IN	_	32	_	_	start_char=527|end_char=529
+34	Uraine	Uraine	PROPN	NNP	Number=Sing	33	_	_	start_char=530|end_char=536|SpaceAfter=No
+35	,	,	PUNCT	,	_	34	_	_	start_char=536|end_char=537
+36	implying	imply	VERB	VBG	VerbForm=Ger	35	_	_	start_char=538|end_char=546
+37	that	that	SCONJ	IN	_	36	_	_	start_char=547|end_char=551
+38	this	this	PRON	DT	Number=Sing|PronType=Dem	37	_	_	start_char=552|end_char=556
+39	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	38	_	_	start_char=557|end_char=560
+40	ended	end	VERB	VBN	Tense=Past|VerbForm=Part	39	_	_	start_char=561|end_char=566
+41	any	any	DET	DT	_	40	_	_	start_char=567|end_char=570
+42	hopes	hope	NOUN	NNS	Number=Plur	41	_	_	start_char=571|end_char=576
+43	of	of	ADP	IN	_	42	_	_	start_char=577|end_char=579
+44	an	a	DET	DT	Definite=Ind|PronType=Art	43	_	_	start_char=580|end_char=582
+45	agreement	agreement	NOUN	NN	Number=Sing	44	_	_	start_char=583|end_char=592|SpaceAfter=No
+46	.	.	PUNCT	.	_	45	_	_	start_char=592|end_char=593|SpacesAfter=\n\n
+
+# text = Pesov denied those claims on Saturday, citing remars made by Urainian MP David Arahamia, who led iev’s delegation at the tals.
+# sent_id = 4
+1	Pesov	Pesov	PROPN	NNP	Number=Sing	0	_	_	start_char=595|end_char=600
+2	denied	deny	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=601|end_char=607
+3	those	that	DET	DT	Number=Plur|PronType=Dem	2	_	_	start_char=608|end_char=613
+4	claims	claim	NOUN	NNS	Number=Plur	3	_	_	start_char=614|end_char=620
+5	on	on	ADP	IN	_	4	_	_	start_char=621|end_char=623
+6	Saturday	Saturday	PROPN	NNP	Number=Sing	5	_	_	start_char=624|end_char=632|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=632|end_char=633
+8	citing	cite	VERB	VBG	VerbForm=Ger	7	_	_	start_char=634|end_char=640
+9	remars	remar	NOUN	NNS	Number=Plur	8	_	_	start_char=641|end_char=647
+10	made	make	VERB	VBN	Tense=Past|VerbForm=Part	9	_	_	start_char=648|end_char=652
+11	by	by	ADP	IN	_	10	_	_	start_char=653|end_char=655
+12	Urainian	Urainian	ADJ	JJ	Degree=Pos	11	_	_	start_char=656|end_char=664
+13	MP	MP	PROPN	NNP	Number=Sing	12	_	_	start_char=665|end_char=667
+14	David	David	PROPN	NNP	Number=Sing	13	_	_	start_char=668|end_char=673
+15	Arahamia	Arahamia	PROPN	NNP	Number=Sing	14	_	_	start_char=674|end_char=682|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=682|end_char=683
+17	who	who	PRON	WP	PronType=Rel	16	_	_	start_char=684|end_char=687
+18	led	lead	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	_	_	start_char=688|end_char=691
+19-20	iev’s	_	_	_	_	_	_	_	start_char=692|end_char=697
+19	iev	iev	PROPN	NNP	Number=Sing	18	_	_	start_char=692|end_char=695
+20	’s	's	PART	POS	_	19	_	_	start_char=695|end_char=697
+21	delegation	delegation	NOUN	NN	Number=Sing	20	_	_	start_char=698|end_char=708
+22	at	at	ADP	IN	_	21	_	_	start_char=709|end_char=711
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=712|end_char=715
+24	tals	tal	NOUN	NNS	Number=Plur	23	_	_	start_char=716|end_char=720|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=720|end_char=721|SpacesAfter=\n\n
+
+# text = In an interview to domestic media last November, Arahamia said then-British Prime Minister Boris Johnson had intervened in the peace process and had urged the Urainians to “just fight” Russia.
+# sent_id = 5
+1	In	in	ADP	IN	_	0	_	_	start_char=723|end_char=725
+2	an	a	DET	DT	Definite=Ind|PronType=Art	1	_	_	start_char=726|end_char=728
+3	interview	interview	NOUN	NN	Number=Sing	2	_	_	start_char=729|end_char=738
+4	to	to	ADP	IN	_	3	_	_	start_char=739|end_char=741
+5	domestic	domestic	ADJ	JJ	Degree=Pos	4	_	_	start_char=742|end_char=750
+6	media	media	NOUN	NN	Number=Sing	5	_	_	start_char=751|end_char=756
+7	last	last	ADJ	JJ	Degree=Pos	6	_	_	start_char=757|end_char=761
+8	November	November	PROPN	NNP	Number=Sing	7	_	_	start_char=762|end_char=770|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=770|end_char=771
+10	Arahamia	Arahamia	PROPN	NNP	Number=Sing	9	_	_	start_char=772|end_char=780
+11	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=781|end_char=785
+12	then	then	ADV	RB	PronType=Dem	11	_	_	start_char=786|end_char=790|SpaceAfter=No
+13	-	-	PUNCT	HYPH	_	12	_	_	start_char=790|end_char=791|SpaceAfter=No
+14	British	British	ADJ	JJ	Degree=Pos	13	_	_	start_char=791|end_char=798
+15	Prime	Prime	ADJ	NNP	Degree=Pos	14	_	_	start_char=799|end_char=804
+16	Minister	Minister	PROPN	NNP	Number=Sing	15	_	_	start_char=805|end_char=813
+17	Boris	Boris	PROPN	NNP	Number=Sing	16	_	_	start_char=814|end_char=819
+18	Johnson	Johnson	PROPN	NNP	Number=Sing	17	_	_	start_char=820|end_char=827
+19	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	_	_	start_char=828|end_char=831
+20	intervened	intervene	VERB	VBN	Tense=Past|VerbForm=Part	19	_	_	start_char=832|end_char=842
+21	in	in	ADP	IN	_	20	_	_	start_char=843|end_char=845
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=846|end_char=849
+23	peace	peace	NOUN	NN	Number=Sing	22	_	_	start_char=850|end_char=855
+24	process	process	NOUN	NN	Number=Sing	23	_	_	start_char=856|end_char=863
+25	and	and	CCONJ	CC	_	24	_	_	start_char=864|end_char=867
+26	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	_	_	start_char=868|end_char=871
+27	urged	urge	VERB	VBN	Tense=Past|VerbForm=Part	26	_	_	start_char=872|end_char=877
+28	the	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=878|end_char=881
+29	Urainians	Urainian	PROPN	NNPS	Number=Plur	28	_	_	start_char=882|end_char=891
+30	to	to	PART	TO	_	29	_	_	start_char=892|end_char=894
+31	“	''	PUNCT	``	_	30	_	_	start_char=895|end_char=896|SpaceAfter=No
+32	just	just	ADV	RB	_	31	_	_	start_char=896|end_char=900
+33	fight	fight	VERB	VB	VerbForm=Inf	32	_	_	start_char=901|end_char=906|SpaceAfter=No
+34	”	''	PUNCT	''	_	33	_	_	start_char=906|end_char=907
+35	Russia	Russia	PROPN	NNP	Number=Sing	34	_	_	start_char=908|end_char=914|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=914|end_char=915|SpacesAfter=\n\n
+
+# text = iev effectively discarded the deal under “direct pressure by London,” Pesov stressed.
+# sent_id = 6
+1	iev	iev	PROPN	NNP	Number=Sing	0	_	_	start_char=917|end_char=920
+2	effectively	effectively	ADV	RB	_	1	_	_	start_char=921|end_char=932
+3	discarded	discard	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=933|end_char=942
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=943|end_char=946
+5	deal	deal	NOUN	NN	Number=Sing	4	_	_	start_char=947|end_char=951
+6	under	under	ADP	IN	_	5	_	_	start_char=952|end_char=957
+7	“	''	PUNCT	``	_	6	_	_	start_char=958|end_char=959|SpaceAfter=No
+8	direct	direct	ADJ	JJ	Degree=Pos	7	_	_	start_char=959|end_char=965
+9	pressure	pressure	NOUN	NN	Number=Sing	8	_	_	start_char=966|end_char=974
+10	by	by	ADP	IN	_	9	_	_	start_char=975|end_char=977
+11	London	London	PROPN	NNP	Number=Sing	10	_	_	start_char=978|end_char=984|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=984|end_char=985|SpaceAfter=No
+13	”	''	PUNCT	''	_	12	_	_	start_char=985|end_char=986
+14	Pesov	Pesov	PROPN	NNP	Number=Sing	13	_	_	start_char=987|end_char=992
+15	stressed	stress	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=993|end_char=1001|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=1001|end_char=1002
+
+# text = “The rest is speculation.
+# sent_id = 7
+1	“	''	PUNCT	``	_	0	_	_	start_char=1003|end_char=1004|SpaceAfter=No
+2	The	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=1004|end_char=1007
+3	rest	rest	NOUN	NN	Number=Sing	2	_	_	start_char=1008|end_char=1012
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1013|end_char=1015
+5	speculation	speculation	NOUN	NN	Number=Sing	4	_	_	start_char=1016|end_char=1027|SpaceAfter=No
+6	.	.	PUNCT	.	_	5	_	_	start_char=1027|end_char=1028
+
+# text = I suggest we learn from the source.”
+# sent_id = 8
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	start_char=1029|end_char=1030
+2	suggest	suggest	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1031|end_char=1038
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	_	_	start_char=1039|end_char=1041
+4	learn	learn	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1042|end_char=1047
+5	from	from	ADP	IN	_	4	_	_	start_char=1048|end_char=1052
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1053|end_char=1056
+7	source	source	NOUN	NN	Number=Sing	6	_	_	start_char=1057|end_char=1063|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	_	_	start_char=1063|end_char=1064|SpaceAfter=No
+9	”	''	PUNCT	''	_	8	_	_	start_char=1064|end_char=1065|SpacesAfter=\n\n
+
+# text = Ased whether the draft treaty could serve as a basis for further peace tals, Pesov said iev’s public position was to reject tals with Russia.
+# sent_id = 9
+1	Ased	ase	VERB	VBN	VerbForm=Inf	0	_	_	start_char=1067|end_char=1071
+2	whether	whether	SCONJ	IN	_	1	_	_	start_char=1072|end_char=1079
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1080|end_char=1083
+4	draft	draft	NOUN	NN	Number=Sing	3	_	_	start_char=1084|end_char=1089
+5	treaty	treaty	NOUN	NN	Number=Sing	4	_	_	start_char=1090|end_char=1096
+6	could	could	AUX	MD	VerbForm=Fin	5	_	_	start_char=1097|end_char=1102
+7	serve	serve	VERB	VB	VerbForm=Inf	6	_	_	start_char=1103|end_char=1108
+8	as	as	ADP	IN	_	7	_	_	start_char=1109|end_char=1111
+9	a	a	DET	DT	Definite=Ind|PronType=Art	8	_	_	start_char=1112|end_char=1113
+10	basis	basis	NOUN	NN	Number=Sing	9	_	_	start_char=1114|end_char=1119
+11	for	for	ADP	IN	_	10	_	_	start_char=1120|end_char=1123
+12	further	further	ADJ	JJ	Degree=Pos	11	_	_	start_char=1124|end_char=1131
+13	peace	peace	NOUN	NN	Number=Sing	12	_	_	start_char=1132|end_char=1137
+14	tals	tal	NOUN	NNS	Number=Plur	13	_	_	start_char=1138|end_char=1142|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=1142|end_char=1143
+16	Pesov	Pesov	PROPN	NNP	Number=Sing	15	_	_	start_char=1144|end_char=1149
+17	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	_	_	start_char=1150|end_char=1154
+18-19	iev’s	_	_	_	_	_	_	_	start_char=1155|end_char=1160
+18	iev	iev	PROPN	NNP	Number=Sing	17	_	_	start_char=1155|end_char=1158
+19	’s	's	PART	POS	_	18	_	_	start_char=1158|end_char=1160
+20	public	public	ADJ	JJ	Degree=Pos	19	_	_	start_char=1161|end_char=1167
+21	position	position	NOUN	NN	Number=Sing	20	_	_	start_char=1168|end_char=1176
+22	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	_	_	start_char=1177|end_char=1180
+23	to	to	PART	TO	_	22	_	_	start_char=1181|end_char=1183
+24	reject	reject	VERB	VB	VerbForm=Inf	23	_	_	start_char=1184|end_char=1190
+25	tals	tal	NOUN	NNS	Number=Plur	24	_	_	start_char=1191|end_char=1195
+26	with	with	ADP	IN	_	25	_	_	start_char=1196|end_char=1200
+27	Russia	Russia	PROPN	NNP	Number=Sing	26	_	_	start_char=1201|end_char=1207|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=1207|end_char=1208
+
+# text = The idea of reviving the failed agreement was floated by Belarusian President Alexander Luasheno when he met Russian counterpart Vladimir Putin earlier this month.
+# sent_id = 10
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1209|end_char=1212
+2	idea	idea	NOUN	NN	Number=Sing	1	_	_	start_char=1213|end_char=1217
+3	of	of	SCONJ	IN	_	2	_	_	start_char=1218|end_char=1220
+4	reviving	revive	VERB	VBG	VerbForm=Ger	3	_	_	start_char=1221|end_char=1229
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1230|end_char=1233
+6	failed	fail	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=1234|end_char=1240
+7	agreement	agreement	NOUN	NN	Number=Sing	6	_	_	start_char=1241|end_char=1250
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=1251|end_char=1254
+9	floated	float	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	_	_	start_char=1255|end_char=1262
+10	by	by	ADP	IN	_	9	_	_	start_char=1263|end_char=1265
+11	Belarusian	Belarusian	ADJ	JJ	Degree=Pos	10	_	_	start_char=1266|end_char=1276
+12	President	President	PROPN	NNP	Number=Sing	11	_	_	start_char=1277|end_char=1286
+13	Alexander	Alexander	PROPN	NNP	Number=Sing	12	_	_	start_char=1287|end_char=1296
+14	Luasheno	Luasheno	PROPN	NNP	Number=Sing	13	_	_	start_char=1297|end_char=1305
+15	when	when	ADV	WRB	PronType=Int	14	_	_	start_char=1306|end_char=1310
+16	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	_	_	start_char=1311|end_char=1313
+17	met	meet	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	_	_	start_char=1314|end_char=1317
+18	Russian	Russian	ADJ	JJ	Degree=Pos	17	_	_	start_char=1318|end_char=1325
+19	counterpart	counterpart	NOUN	NN	Number=Sing	18	_	_	start_char=1326|end_char=1337
+20	Vladimir	Vladimir	PROPN	NNP	Number=Sing	19	_	_	start_char=1338|end_char=1346
+21	Putin	Putin	PROPN	NNP	Number=Sing	20	_	_	start_char=1347|end_char=1352
+22	earlier	early	ADV	RBR	Degree=Cmp	21	_	_	start_char=1353|end_char=1360
+23	this	this	DET	DT	Number=Sing|PronType=Dem	22	_	_	start_char=1361|end_char=1365
+24	month	month	NOUN	NN	Number=Sing	23	_	_	start_char=1366|end_char=1371|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=1371|end_char=1372|SpacesAfter=\n\n
+
+# text = Johnson has denied derailing the peace tals, but has also bragged on multiple occasions about his policy of nudging iev into continuing hostilities with Russia, which the British politician claims to be a fight for global democracy.
+# sent_id = 11
+1	Johnson	Johnson	PROPN	NNP	Number=Sing	0	_	_	start_char=1374|end_char=1381
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1382|end_char=1385
+3	denied	deny	VERB	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=1386|end_char=1392
+4	derailing	derailing	VERB	VBG	VerbForm=Ger	3	_	_	start_char=1393|end_char=1402
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1403|end_char=1406
+6	peace	peace	NOUN	NN	Number=Sing	5	_	_	start_char=1407|end_char=1412
+7	tals	tal	NOUN	NNS	Number=Plur	6	_	_	start_char=1413|end_char=1417|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=1417|end_char=1418
+9	but	but	CCONJ	CC	_	8	_	_	start_char=1419|end_char=1422
+10	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=1423|end_char=1426
+11	also	also	ADV	RB	_	10	_	_	start_char=1427|end_char=1431
+12	bragged	brag	VERB	VBN	Tense=Past|VerbForm=Part	11	_	_	start_char=1432|end_char=1439
+13	on	on	ADP	IN	_	12	_	_	start_char=1440|end_char=1442
+14	multiple	multiple	ADJ	JJ	Degree=Pos	13	_	_	start_char=1443|end_char=1451
+15	occasions	occasion	NOUN	NNS	Number=Plur	14	_	_	start_char=1452|end_char=1461
+16	about	about	ADP	IN	_	15	_	_	start_char=1462|end_char=1467
+17	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	_	_	start_char=1468|end_char=1471
+18	policy	policy	NOUN	NN	Number=Sing	17	_	_	start_char=1472|end_char=1478
+19	of	of	SCONJ	IN	_	18	_	_	start_char=1479|end_char=1481
+20	nudging	nudge	VERB	VBG	VerbForm=Ger	19	_	_	start_char=1482|end_char=1489
+21	iev	iev	NOUN	NN	Number=Sing	20	_	_	start_char=1490|end_char=1493
+22	into	into	ADP	IN	_	21	_	_	start_char=1494|end_char=1498
+23	continuing	continue	VERB	VBG	VerbForm=Ger	22	_	_	start_char=1499|end_char=1509
+24	hostilities	hostility	NOUN	NNS	Number=Plur	23	_	_	start_char=1510|end_char=1521
+25	with	with	ADP	IN	_	24	_	_	start_char=1522|end_char=1526
+26	Russia	Russia	PROPN	NNP	Number=Sing	25	_	_	start_char=1527|end_char=1533|SpaceAfter=No
+27	,	,	PUNCT	,	_	26	_	_	start_char=1533|end_char=1534
+28	which	which	PRON	WDT	PronType=Rel	27	_	_	start_char=1535|end_char=1540
+29	the	the	DET	DT	Definite=Def|PronType=Art	28	_	_	start_char=1541|end_char=1544
+30	British	British	ADJ	JJ	Degree=Pos	29	_	_	start_char=1545|end_char=1552
+31	politician	politician	NOUN	NN	Number=Sing	30	_	_	start_char=1553|end_char=1563
+32	claims	claim	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	_	_	start_char=1564|end_char=1570
+33	to	to	PART	TO	_	32	_	_	start_char=1571|end_char=1573
+34	be	be	AUX	VB	VerbForm=Inf	33	_	_	start_char=1574|end_char=1576
+35	a	a	DET	DT	Definite=Ind|PronType=Art	34	_	_	start_char=1577|end_char=1578
+36	fight	fight	NOUN	NN	Number=Sing	35	_	_	start_char=1579|end_char=1584
+37	for	for	ADP	IN	_	36	_	_	start_char=1585|end_char=1588
+38	global	global	ADJ	JJ	Degree=Pos	37	_	_	start_char=1589|end_char=1595
+39	democracy	democracy	NOUN	NN	Number=Sing	38	_	_	start_char=1596|end_char=1605|SpaceAfter=No
+40	.	.	PUNCT	.	_	39	_	_	start_char=1605|end_char=1606|SpacesAfter=\n\n
+
+# text = “There could be no more effective way of investing in Western security than investing in Uraine, because those guys without a single pair of American boots on the ground are fighting for the West,” Johnson told students at Georgetown University during a visit to the US this month.
+# sent_id = 12
+1	“	''	PUNCT	``	_	0	_	_	start_char=1608|end_char=1609|SpaceAfter=No
+2	There	there	PRON	EX	_	1	_	_	start_char=1609|end_char=1614
+3	could	could	AUX	MD	VerbForm=Fin	2	_	_	start_char=1615|end_char=1620
+4	be	be	AUX	VB	VerbForm=Inf	3	_	_	start_char=1621|end_char=1623
+5	no	no	DET	DT	_	4	_	_	start_char=1624|end_char=1626
+6	more	more	ADV	RBR	Degree=Cmp	5	_	_	start_char=1627|end_char=1631
+7	effective	effective	ADJ	JJ	Degree=Pos	6	_	_	start_char=1632|end_char=1641
+8	way	way	NOUN	NN	Number=Sing	7	_	_	start_char=1642|end_char=1645
+9	of	of	SCONJ	IN	_	8	_	_	start_char=1646|end_char=1648
+10	investing	invest	VERB	VBG	VerbForm=Ger	9	_	_	start_char=1649|end_char=1658
+11	in	in	ADP	IN	_	10	_	_	start_char=1659|end_char=1661
+12	Western	western	ADJ	JJ	Degree=Pos	11	_	_	start_char=1662|end_char=1669
+13	security	security	NOUN	NN	Number=Sing	12	_	_	start_char=1670|end_char=1678
+14	than	than	SCONJ	IN	_	13	_	_	start_char=1679|end_char=1683
+15	investing	invest	VERB	VBG	VerbForm=Ger	14	_	_	start_char=1684|end_char=1693
+16	in	in	ADP	IN	_	15	_	_	start_char=1694|end_char=1696
+17	Uraine	Uraine	PROPN	NNP	Number=Sing	16	_	_	start_char=1697|end_char=1703|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=1703|end_char=1704
+19	because	because	SCONJ	IN	_	18	_	_	start_char=1705|end_char=1712
+20	those	that	DET	DT	Number=Plur|PronType=Dem	19	_	_	start_char=1713|end_char=1718
+21	guys	guy	NOUN	NNS	Number=Plur	20	_	_	start_char=1719|end_char=1723
+22	without	without	ADP	IN	_	21	_	_	start_char=1724|end_char=1731
+23	a	a	DET	DT	Definite=Ind|PronType=Art	22	_	_	start_char=1732|end_char=1733
+24	single	single	ADJ	JJ	Degree=Pos	23	_	_	start_char=1734|end_char=1740
+25	pair	pair	NOUN	NN	Number=Sing	24	_	_	start_char=1741|end_char=1745
+26	of	of	ADP	IN	_	25	_	_	start_char=1746|end_char=1748
+27	American	American	ADJ	JJ	Degree=Pos	26	_	_	start_char=1749|end_char=1757
+28	boots	boot	NOUN	NNS	Number=Plur	27	_	_	start_char=1758|end_char=1763
+29	on	on	ADP	IN	_	28	_	_	start_char=1764|end_char=1766
+30	the	the	DET	DT	Definite=Def|PronType=Art	29	_	_	start_char=1767|end_char=1770
+31	ground	ground	NOUN	NN	Number=Sing	30	_	_	start_char=1771|end_char=1777
+32	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	31	_	_	start_char=1778|end_char=1781
+33	fighting	fight	VERB	VBG	Tense=Pres|VerbForm=Part	32	_	_	start_char=1782|end_char=1790
+34	for	for	ADP	IN	_	33	_	_	start_char=1791|end_char=1794
+35	the	the	DET	DT	Definite=Def|PronType=Art	34	_	_	start_char=1795|end_char=1798
+36	West	West	PROPN	NNP	Number=Sing	35	_	_	start_char=1799|end_char=1803|SpaceAfter=No
+37	,	,	PUNCT	,	_	36	_	_	start_char=1803|end_char=1804|SpaceAfter=No
+38	”	''	PUNCT	''	_	37	_	_	start_char=1804|end_char=1805
+39	Johnson	Johnson	PROPN	NNP	Number=Sing	38	_	_	start_char=1806|end_char=1813
+40	told	tell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	39	_	_	start_char=1814|end_char=1818
+41	students	student	NOUN	NNS	Number=Plur	40	_	_	start_char=1819|end_char=1827
+42	at	at	ADP	IN	_	41	_	_	start_char=1828|end_char=1830
+43	Georgetown	Georgetown	PROPN	NNP	Number=Sing	42	_	_	start_char=1831|end_char=1841
+44	University	University	PROPN	NNP	Number=Sing	43	_	_	start_char=1842|end_char=1852
+45	during	during	ADP	IN	_	44	_	_	start_char=1853|end_char=1859
+46	a	a	DET	DT	Definite=Ind|PronType=Art	45	_	_	start_char=1860|end_char=1861
+47	visit	visit	NOUN	NN	Number=Sing	46	_	_	start_char=1862|end_char=1867
+48	to	to	ADP	IN	_	47	_	_	start_char=1868|end_char=1870
+49	the	the	DET	DT	Definite=Def|PronType=Art	48	_	_	start_char=1871|end_char=1874
+50	US	US	PROPN	NNP	Number=Sing	49	_	_	start_char=1875|end_char=1877
+51	this	this	DET	DT	Number=Sing|PronType=Dem	50	_	_	start_char=1878|end_char=1882
+52	month	month	NOUN	NN	Number=Sing	51	_	_	start_char=1883|end_char=1888|SpaceAfter=No
+53	.	.	PUNCT	.	_	52	_	_	start_char=1888|end_char=1889
+
+# text = The Urainians “are effectively fighting our own fight, fighting for our own interests,” he added.
+# sent_id = 13
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1890|end_char=1893
+2	Urainians	Urainian	PROPN	NNPS	Number=Plur	1	_	_	start_char=1894|end_char=1903
+3	“	''	PUNCT	``	_	2	_	_	start_char=1904|end_char=1905|SpaceAfter=No
+4	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1905|end_char=1908
+5	effectively	effectively	ADV	RB	_	4	_	_	start_char=1909|end_char=1920
+6	fighting	fight	VERB	VBG	Tense=Pres|VerbForm=Part	5	_	_	start_char=1921|end_char=1929
+7	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	6	_	_	start_char=1930|end_char=1933
+8	own	own	ADJ	JJ	Degree=Pos	7	_	_	start_char=1934|end_char=1937
+9	fight	fight	NOUN	NN	Number=Sing	8	_	_	start_char=1938|end_char=1943|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=1943|end_char=1944
+11	fighting	fight	VERB	VBG	VerbForm=Ger	10	_	_	start_char=1945|end_char=1953
+12	for	for	ADP	IN	_	11	_	_	start_char=1954|end_char=1957
+13	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	12	_	_	start_char=1958|end_char=1961
+14	own	own	ADJ	JJ	Degree=Pos	13	_	_	start_char=1962|end_char=1965
+15	interests	interest	NOUN	NNS	Number=Plur	14	_	_	start_char=1966|end_char=1975|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=1975|end_char=1976|SpaceAfter=No
+17	”	''	PUNCT	''	_	16	_	_	start_char=1976|end_char=1977
+18	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	_	_	start_char=1978|end_char=1980
+19	added	add	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	_	_	start_char=1981|end_char=1986|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=1986|end_char=1987|SpacesAfter=\n\n
+
+# text = Russian officials have described the Uraine conflict as a Western proxy war against Moscow, which the US and its allies allegedly intend to wage “to the last Urainian.”
+# sent_id = 14
+1	Russian	Russian	ADJ	JJ	Degree=Pos	0	_	_	start_char=1989|end_char=1996
+2	officials	official	NOUN	NNS	Number=Plur	1	_	_	start_char=1997|end_char=2006
+3	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2007|end_char=2011
+4	described	describe	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=2012|end_char=2021
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=2022|end_char=2025
+6	Uraine	Uraine	PROPN	NNP	Number=Sing	5	_	_	start_char=2026|end_char=2032
+7	conflict	conflict	NOUN	NN	Number=Sing	6	_	_	start_char=2033|end_char=2041
+8	as	as	ADP	IN	_	7	_	_	start_char=2042|end_char=2044
+9	a	a	DET	DT	Definite=Ind|PronType=Art	8	_	_	start_char=2045|end_char=2046
+10	Western	western	ADJ	JJ	Degree=Pos	9	_	_	start_char=2047|end_char=2054
+11	proxy	proxy	NOUN	NN	Number=Sing	10	_	_	start_char=2055|end_char=2060
+12	war	war	NOUN	NN	Number=Sing	11	_	_	start_char=2061|end_char=2064
+13	against	against	ADP	IN	_	12	_	_	start_char=2065|end_char=2072
+14	Moscow	Moscow	PROPN	NNP	Number=Sing	13	_	_	start_char=2073|end_char=2079|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=2079|end_char=2080
+16	which	which	PRON	WDT	PronType=Rel	15	_	_	start_char=2081|end_char=2086
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=2087|end_char=2090
+18	US	US	PROPN	NNP	Number=Sing	17	_	_	start_char=2091|end_char=2093
+19	and	and	CCONJ	CC	_	18	_	_	start_char=2094|end_char=2097
+20	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	_	_	start_char=2098|end_char=2101
+21	allies	ally	NOUN	NNS	Number=Plur	20	_	_	start_char=2102|end_char=2108
+22	allegedly	allegedly	ADV	RB	_	21	_	_	start_char=2109|end_char=2118
+23	intend	intend	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	_	_	start_char=2119|end_char=2125
+24	to	to	PART	TO	_	23	_	_	start_char=2126|end_char=2128
+25	wage	wage	VERB	VB	VerbForm=Inf	24	_	_	start_char=2129|end_char=2133
+26	“	''	PUNCT	``	_	25	_	_	start_char=2134|end_char=2135|SpaceAfter=No
+27	to	to	ADP	IN	_	26	_	_	start_char=2135|end_char=2137
+28	the	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=2138|end_char=2141
+29	last	last	ADJ	JJ	Degree=Pos	28	_	_	start_char=2142|end_char=2146
+30	Urainian	Urainian	PROPN	NNP	Number=Sing	29	_	_	start_char=2147|end_char=2155|SpaceAfter=No
+31	.	.	PUNCT	.	_	30	_	_	start_char=2155|end_char=2156|SpaceAfter=No
+32	”	''	PUNCT	''	_	31	_	_	start_char=2156|end_char=2157
+
+# text = Their goal, according to Moscow, is to contain Russia and stall its development, rather than protect the interests of the Urainian people.
+# sent_id = 15
+1	Their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	0	_	_	start_char=2158|end_char=2163
+2	goal	goal	NOUN	NN	Number=Sing	1	_	_	start_char=2164|end_char=2168|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=2168|end_char=2169
+4	according	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	3	_	_	start_char=2170|end_char=2179
+5	to	to	ADP	IN	_	4	_	_	start_char=2180|end_char=2182
+6	Moscow	Moscow	PROPN	NNP	Number=Sing	5	_	_	start_char=2183|end_char=2189|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=2189|end_char=2190
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=2191|end_char=2193
+9	to	to	PART	TO	_	8	_	_	start_char=2194|end_char=2196
+10	contain	contain	VERB	VB	VerbForm=Inf	9	_	_	start_char=2197|end_char=2204
+11	Russia	Russia	PROPN	NNP	Number=Sing	10	_	_	start_char=2205|end_char=2211
+12	and	and	CCONJ	CC	_	11	_	_	start_char=2212|end_char=2215
+13	stall	stall	VERB	VB	VerbForm=Inf	12	_	_	start_char=2216|end_char=2221
+14	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	_	_	start_char=2222|end_char=2225
+15	development	development	NOUN	NN	Number=Sing	14	_	_	start_char=2226|end_char=2237|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=2237|end_char=2238
+17	rather	rather	ADV	RB	_	16	_	_	start_char=2239|end_char=2245
+18	than	than	ADP	IN	_	17	_	_	start_char=2246|end_char=2250
+19	protect	protect	VERB	VB	VerbForm=Inf	18	_	_	start_char=2251|end_char=2258
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=2259|end_char=2262
+21	interests	interest	NOUN	NNS	Number=Plur	20	_	_	start_char=2263|end_char=2272
+22	of	of	ADP	IN	_	21	_	_	start_char=2273|end_char=2275
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=2276|end_char=2279
+24	Urainian	Urainian	ADJ	JJ	Degree=Pos	23	_	_	start_char=2280|end_char=2288
+25	people	person	NOUN	NNS	Number=Plur	24	_	_	start_char=2289|end_char=2295|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=2295|end_char=2296|SpaceAfter=No
+

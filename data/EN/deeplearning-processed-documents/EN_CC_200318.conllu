@@ -1,0 +1,780 @@
+# text = Green propaganda is masing real statistics
+# sent_id = 0
+1	Green	Green	ADJ	JJ	Degree=Pos	0	_	_	start_char=0|end_char=5
+2	propaganda	propaganda	NOUN	NN	Number=Sing	1	_	_	start_char=6|end_char=16
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=17|end_char=19
+4	masing	mase	VERB	VBG	Tense=Pres|VerbForm=Part	3	_	_	start_char=20|end_char=26
+5	real	real	ADJ	JJ	Degree=Pos	4	_	_	start_char=27|end_char=31
+6	statistics	statistic	NOUN	NNS	Number=Plur	5	_	_	start_char=32|end_char=42|SpacesAfter=\s\n\n\s
+
+# text = The Royal College of Physicians has abandoned science, and become a green ideological campaigning organisation.
+# sent_id = 1
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=46|end_char=49
+2	Royal	Royal	ADJ	NNP	Degree=Pos	1	_	_	start_char=50|end_char=55
+3	College	College	PROPN	NNP	Number=Sing	2	_	_	start_char=56|end_char=63
+4	of	of	ADP	IN	_	3	_	_	start_char=64|end_char=66
+5	Physicians	physician	PROPN	NNPS	Number=Plur	4	_	_	start_char=67|end_char=77
+6	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=78|end_char=81
+7	abandoned	abandon	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=82|end_char=91
+8	science	science	NOUN	NN	Number=Sing	7	_	_	start_char=92|end_char=99|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=99|end_char=100
+10	and	and	CCONJ	CC	_	9	_	_	start_char=101|end_char=104
+11	become	become	VERB	VBN	Tense=Past|VerbForm=Part	10	_	_	start_char=105|end_char=111
+12	a	a	DET	DT	Definite=Ind|PronType=Art	11	_	_	start_char=112|end_char=113
+13	green	green	ADJ	JJ	Degree=Pos	12	_	_	start_char=114|end_char=119
+14	ideological	ideological	ADJ	JJ	Degree=Pos	13	_	_	start_char=120|end_char=131
+15	campaigning	campaigning	NOUN	NN	Number=Sing	14	_	_	start_char=132|end_char=143
+16	organisation	organisation	NOUN	NN	Number=Sing	15	_	_	start_char=144|end_char=156|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=156|end_char=157|SpacesAfter=\n\n
+
+# text = The RCP’s “green physician toolit” is precisely the same patronising nonsense as the WHO’s toolit of the same name, discussed in my Daily Sceptic article a few months ago.
+# sent_id = 2
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=159|end_char=162
+2-3	RCP’s	_	_	_	_	_	_	_	start_char=163|end_char=168
+2	RCP	RCP	PROPN	NNP	Number=Sing	1	_	_	start_char=163|end_char=166
+3	’s	's	PART	POS	_	2	_	_	start_char=166|end_char=168
+4	“	''	PUNCT	``	_	3	_	_	start_char=169|end_char=170|SpaceAfter=No
+5	green	green	ADJ	JJ	Degree=Pos	4	_	_	start_char=170|end_char=175
+6	physician	physician	NOUN	NN	Number=Sing	5	_	_	start_char=176|end_char=185
+7	toolit	toolit	NOUN	NN	Number=Sing	6	_	_	start_char=186|end_char=192|SpaceAfter=No
+8	”	''	PUNCT	''	_	7	_	_	start_char=192|end_char=193
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=194|end_char=196
+10	precisely	precisely	ADV	RB	_	9	_	_	start_char=197|end_char=206
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=207|end_char=210
+12	same	same	ADJ	JJ	Degree=Pos	11	_	_	start_char=211|end_char=215
+13	patronising	patronising	ADJ	JJ	Degree=Pos	12	_	_	start_char=216|end_char=227
+14	nonsense	nonsense	NOUN	NN	Number=Sing	13	_	_	start_char=228|end_char=236
+15	as	as	ADP	IN	_	14	_	_	start_char=237|end_char=239
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=240|end_char=243
+17-18	WHO’s	_	_	_	_	_	_	_	start_char=244|end_char=249
+17	WHO	who	PROPN	NNP	Number=Sing	16	_	_	start_char=244|end_char=247
+18	’s	's	PART	POS	_	17	_	_	start_char=247|end_char=249
+19	toolit	toolit	NOUN	NN	Number=Sing	18	_	_	start_char=250|end_char=256
+20	of	of	ADP	IN	_	19	_	_	start_char=257|end_char=259
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=260|end_char=263
+22	same	same	ADJ	JJ	Degree=Pos	21	_	_	start_char=264|end_char=268
+23	name	name	NOUN	NN	Number=Sing	22	_	_	start_char=269|end_char=273|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=273|end_char=274
+25	discussed	discuss	VERB	VBN	Tense=Past|VerbForm=Part	24	_	_	start_char=275|end_char=284
+26	in	in	ADP	IN	_	25	_	_	start_char=285|end_char=287
+27	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	26	_	_	start_char=288|end_char=290
+28	Daily	daily	ADJ	JJ	Degree=Pos	27	_	_	start_char=291|end_char=296
+29	Sceptic	Sceptic	PROPN	NNP	Number=Sing	28	_	_	start_char=297|end_char=304
+30	article	article	NOUN	NN	Number=Sing	29	_	_	start_char=305|end_char=312
+31	a	a	DET	DT	Definite=Ind|PronType=Art	30	_	_	start_char=313|end_char=314
+32	few	few	ADJ	JJ	Degree=Pos	31	_	_	start_char=315|end_char=318
+33	months	month	NOUN	NNS	Number=Plur	32	_	_	start_char=319|end_char=325
+34	ago	ago	ADV	RB	_	33	_	_	start_char=326|end_char=329|SpaceAfter=No
+35	.	.	PUNCT	.	_	34	_	_	start_char=329|end_char=330|SpacesAfter=\n\n
+
+# text = The two main ideas behind the toolit are
+# sent_id = 3
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=332|end_char=335
+2	two	two	NUM	CD	NumForm=Word|NumType=Card	1	_	_	start_char=336|end_char=339
+3	main	main	ADJ	JJ	Degree=Pos	2	_	_	start_char=340|end_char=344
+4	ideas	idea	NOUN	NNS	Number=Plur	3	_	_	start_char=345|end_char=350
+5	behind	behind	ADP	IN	_	4	_	_	start_char=351|end_char=357
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=358|end_char=361
+7	toolit	toolit	NOUN	NN	Number=Sing	6	_	_	start_char=362|end_char=368
+8	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=369|end_char=372|SpacesAfter=\n\n
+
+# text = a) that doctors routinely mae “unnecessary” decisions that have environmental impact, and that
+# sent_id = 4
+1	a	a	NUM	LS	_	0	_	_	start_char=374|end_char=375|SpaceAfter=No
+2	)	)	PUNCT	-RRB-	_	1	_	_	start_char=375|end_char=376
+3	that	that	SCONJ	IN	_	2	_	_	start_char=377|end_char=381
+4	doctors	doctor	NOUN	NNS	Number=Plur	3	_	_	start_char=382|end_char=389
+5	routinely	routinely	ADV	RB	_	4	_	_	start_char=390|end_char=399
+6	mae	marr	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=400|end_char=403
+7	“	''	PUNCT	``	_	6	_	_	start_char=404|end_char=405|SpaceAfter=No
+8	unnecessary	unnecessary	ADJ	JJ	Degree=Pos	7	_	_	start_char=405|end_char=416|SpaceAfter=No
+9	”	''	PUNCT	''	_	8	_	_	start_char=416|end_char=417
+10	decisions	decision	NOUN	NNS	Number=Plur	9	_	_	start_char=418|end_char=427
+11	that	that	PRON	WDT	PronType=Rel	10	_	_	start_char=428|end_char=432
+12	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=433|end_char=437
+13	environmental	environmental	ADJ	JJ	Degree=Pos	12	_	_	start_char=438|end_char=451
+14	impact	impact	NOUN	NN	Number=Sing	13	_	_	start_char=452|end_char=458|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=458|end_char=459
+16	and	and	CCONJ	CC	_	15	_	_	start_char=460|end_char=463
+17	that	that	PRON	DT	Number=Sing|PronType=Dem	16	_	_	start_char=464|end_char=468|SpacesAfter=\n\n
+
+# text = b) they should use their authority to advance an ideological agenda.
+# sent_id = 5
+1	b	billion	NUM	LS	_	0	_	_	start_char=470|end_char=471|SpaceAfter=No
+2	)	)	PUNCT	-RRB-	_	1	_	_	start_char=471|end_char=472
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	_	_	start_char=473|end_char=477
+4	should	should	AUX	MD	VerbForm=Fin	3	_	_	start_char=478|end_char=484
+5	use	use	VERB	VB	VerbForm=Inf	4	_	_	start_char=485|end_char=488
+6	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	5	_	_	start_char=489|end_char=494
+7	authority	authority	NOUN	NN	Number=Sing	6	_	_	start_char=495|end_char=504
+8	to	to	PART	TO	_	7	_	_	start_char=505|end_char=507
+9	advance	advance	VERB	VB	VerbForm=Inf	8	_	_	start_char=508|end_char=515
+10	an	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=516|end_char=518
+11	ideological	ideological	ADJ	JJ	Degree=Pos	10	_	_	start_char=519|end_char=530
+12	agenda	agenda	NOUN	NN	Number=Sing	11	_	_	start_char=531|end_char=537|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=537|end_char=538|SpacesAfter=\n\n
+
+# text = For example “reduce blood testing where clinically appropriate”.
+# sent_id = 6
+1	For	for	ADP	IN	_	0	_	_	start_char=540|end_char=543
+2	example	example	NOUN	NN	Number=Sing	1	_	_	start_char=544|end_char=551
+3	“	''	PUNCT	``	_	2	_	_	start_char=552|end_char=553|SpaceAfter=No
+4	reduce	reduce	VERB	VB	Mood=Imp|VerbForm=Fin	3	_	_	start_char=553|end_char=559
+5	blood	blood	NOUN	NN	Number=Sing	4	_	_	start_char=560|end_char=565
+6	testing	testing	NOUN	NN	Number=Sing	5	_	_	start_char=566|end_char=573
+7	where	where	ADV	WRB	PronType=Int	6	_	_	start_char=574|end_char=579
+8	clinically	clinically	ADV	RB	_	7	_	_	start_char=580|end_char=590
+9	appropriate	appropriate	ADJ	JJ	Degree=Pos	8	_	_	start_char=591|end_char=602|SpaceAfter=No
+10	”	''	PUNCT	''	_	9	_	_	start_char=602|end_char=603|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=603|end_char=604
+
+# text = This assumes that doctors test people’s blood frivolously, something equivalent to an “unnecessary journey”.
+# sent_id = 7
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=605|end_char=609
+2	assumes	assume	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=610|end_char=617
+3	that	that	SCONJ	IN	_	2	_	_	start_char=618|end_char=622
+4	doctors	doctor	NOUN	NNS	Number=Plur	3	_	_	start_char=623|end_char=630
+5	test	test	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=631|end_char=635
+6-7	people’s	_	_	_	_	_	_	_	start_char=636|end_char=644
+6	people	person	NOUN	NNS	Number=Plur	5	_	_	start_char=636|end_char=642
+7	’s	's	PART	POS	_	6	_	_	start_char=642|end_char=644
+8	blood	blood	NOUN	NN	Number=Sing	7	_	_	start_char=645|end_char=650
+9	frivolously	frivolously	ADV	RB	_	8	_	_	start_char=651|end_char=662|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=662|end_char=663
+11	something	something	PRON	NN	Number=Sing|PronType=Ind	10	_	_	start_char=664|end_char=673
+12	equivalent	equivalent	ADJ	JJ	Degree=Pos	11	_	_	start_char=674|end_char=684
+13	to	to	ADP	IN	_	12	_	_	start_char=685|end_char=687
+14	an	a	DET	DT	Definite=Ind|PronType=Art	13	_	_	start_char=688|end_char=690
+15	“	''	PUNCT	``	_	14	_	_	start_char=691|end_char=692|SpaceAfter=No
+16	unnecessary	unnecessary	ADJ	JJ	Degree=Pos	15	_	_	start_char=692|end_char=703
+17	journey	journey	NOUN	NN	Number=Sing	16	_	_	start_char=704|end_char=711|SpaceAfter=No
+18	”	''	PUNCT	''	_	17	_	_	start_char=711|end_char=712|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=712|end_char=713
+
+# text = Very, very odd.
+# sent_id = 8
+1	Very	very	ADV	RB	_	0	_	_	start_char=714|end_char=718|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=718|end_char=719
+3	very	very	ADV	RB	_	2	_	_	start_char=720|end_char=724
+4	odd	odd	ADJ	JJ	Degree=Pos	3	_	_	start_char=725|end_char=728|SpaceAfter=No
+5	.	.	PUNCT	.	_	4	_	_	start_char=728|end_char=729|SpacesAfter=\n\n
+
+# text = But the most egregious claim, of course, is that “Climate change is one of the biggest threats to human health”.
+# sent_id = 9
+1	But	but	CCONJ	CC	_	0	_	_	start_char=731|end_char=734
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=735|end_char=738
+3	most	most	ADV	RBS	Degree=Sup	2	_	_	start_char=739|end_char=743
+4	egregious	egregious	ADJ	JJ	Degree=Pos	3	_	_	start_char=744|end_char=753
+5	claim	claim	NOUN	NN	Number=Sing	4	_	_	start_char=754|end_char=759|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=759|end_char=760
+7	of	of	ADV	IN	_	6	_	_	start_char=761|end_char=763
+8	course	course	NOUN	NN	Number=Sing	7	_	_	start_char=764|end_char=770|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=770|end_char=771
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=772|end_char=774
+11	that	that	SCONJ	IN	_	10	_	_	start_char=775|end_char=779
+12	“	''	PUNCT	``	_	11	_	_	start_char=780|end_char=781|SpaceAfter=No
+13	Climate	climate	NOUN	NN	Number=Sing	12	_	_	start_char=781|end_char=788
+14	change	change	NOUN	NN	Number=Sing	13	_	_	start_char=789|end_char=795
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=796|end_char=798
+16	one	one	NUM	CD	NumForm=Word|NumType=Card	15	_	_	start_char=799|end_char=802
+17	of	of	ADP	IN	_	16	_	_	start_char=803|end_char=805
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=806|end_char=809
+19	biggest	big	ADJ	JJS	Degree=Sup	18	_	_	start_char=810|end_char=817
+20	threats	threat	NOUN	NNS	Number=Plur	19	_	_	start_char=818|end_char=825
+21	to	to	ADP	IN	_	20	_	_	start_char=826|end_char=828
+22	human	human	ADJ	JJ	Degree=Pos	21	_	_	start_char=829|end_char=834
+23	health	health	NOUN	NN	Number=Sing	22	_	_	start_char=835|end_char=841|SpaceAfter=No
+24	”	''	PUNCT	''	_	23	_	_	start_char=841|end_char=842|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=842|end_char=843|SpacesAfter=\n\n
+
+# text = That is so far from truthful, and so utterly embedded in green ideology, that the word “lie” is not sufficient.
+# sent_id = 10
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=845|end_char=849
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=850|end_char=852
+3	so	so	ADV	RB	_	2	_	_	start_char=853|end_char=855
+4	far	far	ADV	RB	Degree=Pos	3	_	_	start_char=856|end_char=859
+5	from	from	ADP	IN	_	4	_	_	start_char=860|end_char=864
+6	truthful	truthful	ADJ	JJ	Degree=Pos	5	_	_	start_char=865|end_char=873|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=873|end_char=874
+8	and	and	CCONJ	CC	_	7	_	_	start_char=875|end_char=878
+9	so	so	ADV	RB	_	8	_	_	start_char=879|end_char=881
+10	utterly	utterly	ADV	RB	_	9	_	_	start_char=882|end_char=889
+11	embedded	embed	VERB	VBN	Tense=Past|VerbForm=Part	10	_	_	start_char=890|end_char=898
+12	in	in	ADP	IN	_	11	_	_	start_char=899|end_char=901
+13	green	green	ADJ	JJ	Degree=Pos	12	_	_	start_char=902|end_char=907
+14	ideology	ideology	NOUN	NN	Number=Sing	13	_	_	start_char=908|end_char=916|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=916|end_char=917
+16	that	that	SCONJ	IN	_	15	_	_	start_char=918|end_char=922
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=923|end_char=926
+18	word	word	NOUN	NN	Number=Sing	17	_	_	start_char=927|end_char=931
+19	“	''	PUNCT	``	_	18	_	_	start_char=932|end_char=933|SpaceAfter=No
+20	lie	lie	NOUN	NN	Number=Sing	19	_	_	start_char=933|end_char=936|SpaceAfter=No
+21	”	''	PUNCT	''	_	20	_	_	start_char=936|end_char=937
+22	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	_	_	start_char=938|end_char=940
+23	not	not	PART	RB	_	22	_	_	start_char=941|end_char=944
+24	sufficient	sufficient	ADJ	JJ	Degree=Pos	23	_	_	start_char=945|end_char=955|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=955|end_char=956|SpacesAfter=\n\n
+
+# text = There is less than zero evidence that climate is a “threat to human health”, let alone the “biggest threat”.
+# sent_id = 11
+1	There	there	PRON	EX	_	0	_	_	start_char=958|end_char=963
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=964|end_char=966
+3	less	less	ADJ	JJR	Degree=Cmp	2	_	_	start_char=967|end_char=971
+4	than	than	ADP	IN	_	3	_	_	start_char=972|end_char=976
+5	zero	zero	NUM	CD	NumForm=Word|NumType=Card	4	_	_	start_char=977|end_char=981
+6	evidence	evidence	NOUN	NN	Number=Sing	5	_	_	start_char=982|end_char=990
+7	that	that	SCONJ	IN	_	6	_	_	start_char=991|end_char=995
+8	climate	climate	NOUN	NN	Number=Sing	7	_	_	start_char=996|end_char=1003
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=1004|end_char=1006
+10	a	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=1007|end_char=1008
+11	“	''	PUNCT	``	_	10	_	_	start_char=1009|end_char=1010|SpaceAfter=No
+12	threat	threat	NOUN	NN	Number=Sing	11	_	_	start_char=1010|end_char=1016
+13	to	to	ADP	IN	_	12	_	_	start_char=1017|end_char=1019
+14	human	human	ADJ	JJ	Degree=Pos	13	_	_	start_char=1020|end_char=1025
+15	health	health	NOUN	NN	Number=Sing	14	_	_	start_char=1026|end_char=1032|SpaceAfter=No
+16	”	''	PUNCT	''	_	15	_	_	start_char=1032|end_char=1033|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=1033|end_char=1034
+18	let	let	VERB	VB	Mood=Imp|VerbForm=Fin	17	_	_	start_char=1035|end_char=1038
+19	alone	alone	ADV	RB	_	18	_	_	start_char=1039|end_char=1044
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=1045|end_char=1048
+21	“	''	PUNCT	``	_	20	_	_	start_char=1049|end_char=1050|SpaceAfter=No
+22	biggest	big	ADJ	JJS	Degree=Sup	21	_	_	start_char=1050|end_char=1057
+23	threat	threat	NOUN	NN	Number=Sing	22	_	_	start_char=1058|end_char=1064|SpaceAfter=No
+24	”	''	PUNCT	''	_	23	_	_	start_char=1064|end_char=1065|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=1065|end_char=1066
+
+# text = The evidence debuning the lin between climate change and health is so strong that doctors have to go out of their way to conceal the stats.
+# sent_id = 12
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1067|end_char=1070
+2	evidence	evidence	NOUN	NN	Number=Sing	1	_	_	start_char=1071|end_char=1079
+3	debuning	debune	VERB	VBG	VerbForm=Ger	2	_	_	start_char=1080|end_char=1088
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1089|end_char=1092
+5	lin	lin	NOUN	NN	Number=Sing	4	_	_	start_char=1093|end_char=1096
+6	between	between	ADP	IN	_	5	_	_	start_char=1097|end_char=1104
+7	climate	climate	NOUN	NN	Number=Sing	6	_	_	start_char=1105|end_char=1112
+8	change	change	NOUN	NN	Number=Sing	7	_	_	start_char=1113|end_char=1119
+9	and	and	CCONJ	CC	_	8	_	_	start_char=1120|end_char=1123
+10	health	health	NOUN	NN	Number=Sing	9	_	_	start_char=1124|end_char=1130
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=1131|end_char=1133
+12	so	so	ADV	RB	_	11	_	_	start_char=1134|end_char=1136
+13	strong	strong	ADJ	JJ	Degree=Pos	12	_	_	start_char=1137|end_char=1143
+14	that	that	SCONJ	IN	_	13	_	_	start_char=1144|end_char=1148
+15	doctors	doctor	NOUN	NNS	Number=Plur	14	_	_	start_char=1149|end_char=1156
+16	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=1157|end_char=1161
+17	to	to	PART	TO	_	16	_	_	start_char=1162|end_char=1164
+18	go	go	VERB	VB	VerbForm=Inf	17	_	_	start_char=1165|end_char=1167
+19	out	out	ADP	IN	_	18	_	_	start_char=1168|end_char=1171
+20	of	of	ADP	IN	_	19	_	_	start_char=1172|end_char=1174
+21	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	20	_	_	start_char=1175|end_char=1180
+22	way	way	NOUN	NN	Number=Sing	21	_	_	start_char=1181|end_char=1184
+23	to	to	PART	TO	_	22	_	_	start_char=1185|end_char=1187
+24	conceal	conceal	VERB	VB	VerbForm=Inf	23	_	_	start_char=1188|end_char=1195
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=1196|end_char=1199
+26	stats	stat	NOUN	NNS	Number=Plur	25	_	_	start_char=1200|end_char=1205|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=1205|end_char=1206|SpacesAfter=\n\n
+
+# text = You can see the raw data here for yourself.
+# sent_id = 13
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	0	_	_	start_char=1208|end_char=1211
+2	can	can	AUX	MD	VerbForm=Fin	1	_	_	start_char=1212|end_char=1215
+3	see	see	VERB	VB	VerbForm=Inf	2	_	_	start_char=1216|end_char=1219
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1220|end_char=1223
+5	raw	raw	ADJ	JJ	Degree=Pos	4	_	_	start_char=1224|end_char=1227
+6	data	datum	NOUN	NNS	Number=Plur	5	_	_	start_char=1228|end_char=1232
+7	here	here	ADV	RB	PronType=Dem	6	_	_	start_char=1233|end_char=1237
+8	for	for	ADP	IN	_	7	_	_	start_char=1238|end_char=1241
+9	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	8	_	_	start_char=1242|end_char=1250|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=1250|end_char=1251
+
+# text = Climate-related mortality has fallen in recent decades.
+# sent_id = 14
+1	Climate	climate	NOUN	NN	Number=Sing	0	_	_	start_char=1252|end_char=1259|SpaceAfter=No
+2	-	-	PUNCT	HYPH	_	1	_	_	start_char=1259|end_char=1260|SpaceAfter=No
+3	related	related	ADJ	JJ	Degree=Pos	2	_	_	start_char=1260|end_char=1267
+4	mortality	mortality	NOUN	NN	Number=Sing	3	_	_	start_char=1268|end_char=1277
+5	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1278|end_char=1281
+6	fallen	fall	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=1282|end_char=1288
+7	in	in	ADP	IN	_	6	_	_	start_char=1289|end_char=1291
+8	recent	recent	ADJ	JJ	Degree=Pos	7	_	_	start_char=1292|end_char=1298
+9	decades	decade	NOUN	NNS	Number=Plur	8	_	_	start_char=1299|end_char=1306|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=1306|end_char=1307
+
+# text = Diseases of poverty, which are claimed to be climate-lined, including malaria, are also in steep decline.
+# sent_id = 15
+1	Diseases	disease	NOUN	NNS	Number=Plur	0	_	_	start_char=1308|end_char=1316
+2	of	of	ADP	IN	_	1	_	_	start_char=1317|end_char=1319
+3	poverty	poverty	NOUN	NN	Number=Sing	2	_	_	start_char=1320|end_char=1327|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1327|end_char=1328
+5	which	which	PRON	WDT	PronType=Rel	4	_	_	start_char=1329|end_char=1334
+6	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1335|end_char=1338
+7	claimed	claim	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	_	_	start_char=1339|end_char=1346
+8	to	to	PART	TO	_	7	_	_	start_char=1347|end_char=1349
+9	be	be	AUX	VB	VerbForm=Inf	8	_	_	start_char=1350|end_char=1352
+10	climate	climate	NOUN	NN	Number=Sing	9	_	_	start_char=1353|end_char=1360|SpaceAfter=No
+11	-	-	PUNCT	HYPH	_	10	_	_	start_char=1360|end_char=1361|SpaceAfter=No
+12	lined	line	VERB	VBN	Tense=Past|VerbForm=Part	11	_	_	start_char=1361|end_char=1366|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=1366|end_char=1367
+14	including	include	VERB	VBG	VerbForm=Ger	13	_	_	start_char=1368|end_char=1377
+15	malaria	malaria	NOUN	NN	Number=Sing	14	_	_	start_char=1378|end_char=1385|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=1385|end_char=1386
+17	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=1387|end_char=1390
+18	also	also	ADV	RB	_	17	_	_	start_char=1391|end_char=1395
+19	in	in	ADP	IN	_	18	_	_	start_char=1396|end_char=1398
+20	steep	steep	ADJ	JJ	Degree=Pos	19	_	_	start_char=1399|end_char=1404
+21	decline	decline	NOUN	NN	Number=Sing	20	_	_	start_char=1405|end_char=1412|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=1412|end_char=1413|SpacesAfter=\n\n
+
+# text = I give an overview of how climate-activist doctors at the Lancet are influenced by ideology here, and go into more detail to explain how they lie in this presentation below.
+# sent_id = 16
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	start_char=1415|end_char=1416
+2	give	give	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1417|end_char=1421
+3	an	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=1422|end_char=1424
+4	overview	overview	NOUN	NN	Number=Sing	3	_	_	start_char=1425|end_char=1433
+5	of	of	ADP	IN	_	4	_	_	start_char=1434|end_char=1436
+6	how	how	ADV	WRB	PronType=Int	5	_	_	start_char=1437|end_char=1440
+7	climate	climate	NOUN	NN	Number=Sing	6	_	_	start_char=1441|end_char=1448|SpaceAfter=No
+8	-	-	PUNCT	HYPH	_	7	_	_	start_char=1448|end_char=1449|SpaceAfter=No
+9	activist	activist	NOUN	NN	Number=Sing	8	_	_	start_char=1449|end_char=1457
+10	doctors	doctor	NOUN	NNS	Number=Plur	9	_	_	start_char=1458|end_char=1465
+11	at	at	ADP	IN	_	10	_	_	start_char=1466|end_char=1468
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=1469|end_char=1472
+13	Lancet	Lancet	PROPN	NNP	Number=Sing	12	_	_	start_char=1473|end_char=1479
+14	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=1480|end_char=1483
+15	influenced	influence	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	_	_	start_char=1484|end_char=1494
+16	by	by	ADP	IN	_	15	_	_	start_char=1495|end_char=1497
+17	ideology	ideology	NOUN	NN	Number=Sing	16	_	_	start_char=1498|end_char=1506
+18	here	here	ADV	RB	PronType=Dem	17	_	_	start_char=1507|end_char=1511|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=1511|end_char=1512
+20	and	and	CCONJ	CC	_	19	_	_	start_char=1513|end_char=1516
+21	go	go	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	_	_	start_char=1517|end_char=1519
+22	into	into	ADP	IN	_	21	_	_	start_char=1520|end_char=1524
+23	more	more	ADJ	JJR	Degree=Cmp	22	_	_	start_char=1525|end_char=1529
+24	detail	detail	NOUN	NN	Number=Sing	23	_	_	start_char=1530|end_char=1536
+25	to	to	PART	TO	_	24	_	_	start_char=1537|end_char=1539
+26	explain	explain	VERB	VB	VerbForm=Inf	25	_	_	start_char=1540|end_char=1547
+27	how	how	ADV	WRB	PronType=Rel	26	_	_	start_char=1548|end_char=1551
+28	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	27	_	_	start_char=1552|end_char=1556
+29	lie	lie	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	28	_	_	start_char=1557|end_char=1560
+30	in	in	ADP	IN	_	29	_	_	start_char=1561|end_char=1563
+31	this	this	DET	DT	Number=Sing|PronType=Dem	30	_	_	start_char=1564|end_char=1568
+32	presentation	presentation	NOUN	NN	Number=Sing	31	_	_	start_char=1569|end_char=1581
+33	below	below	ADV	RB	_	32	_	_	start_char=1582|end_char=1587|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=1587|end_char=1588
+
+# text = At around 36 mins, I show that the Lancet’s green propaganda pages hide the mortality statistics behind “frequency of event” statistics, to give the opposite impression.
+# sent_id = 17
+1	At	at	ADP	IN	_	0	_	_	start_char=1589|end_char=1591
+2	around	around	ADV	RB	_	1	_	_	start_char=1592|end_char=1598
+3	36	36	NUM	CD	NumForm=Digit|NumType=Card	2	_	_	start_char=1599|end_char=1601
+4	mins	minute	NOUN	NNS	Number=Plur	3	_	_	start_char=1602|end_char=1606|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=1606|end_char=1607
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	_	_	start_char=1608|end_char=1609
+7	show	show	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	_	_	start_char=1610|end_char=1614
+8	that	that	SCONJ	IN	_	7	_	_	start_char=1615|end_char=1619
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1620|end_char=1623
+10-11	Lancet’s	_	_	_	_	_	_	_	start_char=1624|end_char=1632
+10	Lancet	Lancet	PROPN	NNP	Number=Sing	9	_	_	start_char=1624|end_char=1630
+11	’s	's	PART	POS	_	10	_	_	start_char=1630|end_char=1632
+12	green	green	ADJ	JJ	Degree=Pos	11	_	_	start_char=1633|end_char=1638
+13	propaganda	propaganda	NOUN	NN	Number=Sing	12	_	_	start_char=1639|end_char=1649
+14	pages	page	NOUN	NNS	Number=Plur	13	_	_	start_char=1650|end_char=1655
+15	hide	hide	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=1656|end_char=1660
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=1661|end_char=1664
+17	mortality	mortality	NOUN	NN	Number=Sing	16	_	_	start_char=1665|end_char=1674
+18	statistics	statistic	NOUN	NNS	Number=Plur	17	_	_	start_char=1675|end_char=1685
+19	behind	behind	ADP	IN	_	18	_	_	start_char=1686|end_char=1692
+20	“	''	PUNCT	``	_	19	_	_	start_char=1693|end_char=1694|SpaceAfter=No
+21	frequency	frequency	NOUN	NN	Number=Sing	20	_	_	start_char=1694|end_char=1703
+22	of	of	ADP	IN	_	21	_	_	start_char=1704|end_char=1706
+23	event	event	NOUN	NN	Number=Sing	22	_	_	start_char=1707|end_char=1712|SpaceAfter=No
+24	”	''	PUNCT	''	_	23	_	_	start_char=1712|end_char=1713
+25	statistics	statistic	NOUN	NNS	Number=Plur	24	_	_	start_char=1714|end_char=1724|SpaceAfter=No
+26	,	,	PUNCT	,	_	25	_	_	start_char=1724|end_char=1725
+27	to	to	PART	TO	_	26	_	_	start_char=1726|end_char=1728
+28	give	give	VERB	VB	VerbForm=Inf	27	_	_	start_char=1729|end_char=1733
+29	the	the	DET	DT	Definite=Def|PronType=Art	28	_	_	start_char=1734|end_char=1737
+30	opposite	opposite	ADJ	JJ	Degree=Pos	29	_	_	start_char=1738|end_char=1746
+31	impression	impression	NOUN	NN	Number=Sing	30	_	_	start_char=1747|end_char=1757|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=1757|end_char=1758|SpacesAfter=\n\n
+
+# text = The Lancet claims that “life-threatening extreme weather events are becoming increasingly frequent”.
+# sent_id = 18
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1760|end_char=1763
+2	Lancet	Lancet	PROPN	NNP	Number=Sing	1	_	_	start_char=1764|end_char=1770
+3	claims	claim	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1771|end_char=1777
+4	that	that	SCONJ	IN	_	3	_	_	start_char=1778|end_char=1782
+5	“	''	PUNCT	``	_	4	_	_	start_char=1783|end_char=1784|SpaceAfter=No
+6	life	life	NOUN	NN	Number=Sing	5	_	_	start_char=1784|end_char=1788|SpaceAfter=No
+7	-	-	PUNCT	HYPH	_	6	_	_	start_char=1788|end_char=1789|SpaceAfter=No
+8	threatening	threaten	VERB	VBG	VerbForm=Ger	7	_	_	start_char=1789|end_char=1800
+9	extreme	extreme	ADJ	JJ	Degree=Pos	8	_	_	start_char=1801|end_char=1808
+10	weather	weather	NOUN	NN	Number=Sing	9	_	_	start_char=1809|end_char=1816
+11	events	event	NOUN	NNS	Number=Plur	10	_	_	start_char=1817|end_char=1823
+12	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=1824|end_char=1827
+13	becoming	become	VERB	VBG	Tense=Pres|VerbForm=Part	12	_	_	start_char=1828|end_char=1836
+14	increasingly	increasingly	ADV	RB	_	13	_	_	start_char=1837|end_char=1849
+15	frequent	frequent	ADJ	JJ	Degree=Pos	14	_	_	start_char=1850|end_char=1858|SpaceAfter=No
+16	”	''	PUNCT	''	_	15	_	_	start_char=1858|end_char=1859|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=1859|end_char=1860
+
+# text = When you interrogate the data, however, it reveals that far fewer people are being illed by extreme weather.
+# sent_id = 19
+1	When	when	ADV	WRB	PronType=Int	0	_	_	start_char=1861|end_char=1865
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	1	_	_	start_char=1866|end_char=1869
+3	interrogate	interrogate	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1870|end_char=1881
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1882|end_char=1885
+5	data	datum	NOUN	NNS	Number=Plur	4	_	_	start_char=1886|end_char=1890|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=1890|end_char=1891
+7	however	however	ADV	RB	_	6	_	_	start_char=1892|end_char=1899|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=1899|end_char=1900
+9	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	_	_	start_char=1901|end_char=1903
+10	reveals	reveal	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=1904|end_char=1911
+11	that	that	SCONJ	IN	_	10	_	_	start_char=1912|end_char=1916
+12	far	far	ADV	RB	Degree=Pos	11	_	_	start_char=1917|end_char=1920
+13	fewer	few	ADJ	JJR	Degree=Cmp	12	_	_	start_char=1921|end_char=1926
+14	people	person	NOUN	NNS	Number=Plur	13	_	_	start_char=1927|end_char=1933
+15	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=1934|end_char=1937
+16	being	be	AUX	VBG	VerbForm=Ger	15	_	_	start_char=1938|end_char=1943
+17	illed	ill	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	16	_	_	start_char=1944|end_char=1949
+18	by	by	ADP	IN	_	17	_	_	start_char=1950|end_char=1952
+19	extreme	extreme	ADJ	JJ	Degree=Pos	18	_	_	start_char=1953|end_char=1960
+20	weather	weather	NOUN	NN	Number=Sing	19	_	_	start_char=1961|end_char=1968|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=1968|end_char=1969|SpacesAfter=\n\n
+
+# text = So it’s not just a lie, it’s a fraud.
+# sent_id = 20
+1	So	so	ADV	RB	_	0	_	_	start_char=1971|end_char=1973
+2-3	it’s	_	_	_	_	_	_	_	start_char=1974|end_char=1978
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	_	_	start_char=1974|end_char=1976
+3	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1976|end_char=1978
+4	not	not	PART	RB	_	3	_	_	start_char=1979|end_char=1982
+5	just	just	ADV	RB	_	4	_	_	start_char=1983|end_char=1987
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=1988|end_char=1989
+7	lie	lie	NOUN	NN	Number=Sing	6	_	_	start_char=1990|end_char=1993|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=1993|end_char=1994
+9-10	it’s	_	_	_	_	_	_	_	start_char=1995|end_char=1999
+9	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	_	_	start_char=1995|end_char=1997
+10	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=1997|end_char=1999
+11	a	a	DET	DT	Definite=Ind|PronType=Art	10	_	_	start_char=2000|end_char=2001
+12	fraud	fraud	NOUN	NN	Number=Sing	11	_	_	start_char=2002|end_char=2007|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=2007|end_char=2008
+
+# text = And it’s a fraud told for political effect, to transform society and the economy, which ultimately will have a devastating effect on human health.
+# sent_id = 21
+1	And	and	CCONJ	CC	_	0	_	_	start_char=2009|end_char=2012
+2-3	it’s	_	_	_	_	_	_	_	start_char=2013|end_char=2017
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	_	_	start_char=2013|end_char=2015
+3	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2015|end_char=2017
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=2018|end_char=2019
+5	fraud	fraud	NOUN	NN	Number=Sing	4	_	_	start_char=2020|end_char=2025
+6	told	tell	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=2026|end_char=2030
+7	for	for	ADP	IN	_	6	_	_	start_char=2031|end_char=2034
+8	political	political	ADJ	JJ	Degree=Pos	7	_	_	start_char=2035|end_char=2044
+9	effect	effect	NOUN	NN	Number=Sing	8	_	_	start_char=2045|end_char=2051|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=2051|end_char=2052
+11	to	to	PART	TO	_	10	_	_	start_char=2053|end_char=2055
+12	transform	transform	VERB	VB	VerbForm=Inf	11	_	_	start_char=2056|end_char=2065
+13	society	society	NOUN	NN	Number=Sing	12	_	_	start_char=2066|end_char=2073
+14	and	and	CCONJ	CC	_	13	_	_	start_char=2074|end_char=2077
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=2078|end_char=2081
+16	economy	economy	NOUN	NN	Number=Sing	15	_	_	start_char=2082|end_char=2089|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=2089|end_char=2090
+18	which	which	PRON	WDT	PronType=Rel	17	_	_	start_char=2091|end_char=2096
+19	ultimately	ultimately	ADV	RB	_	18	_	_	start_char=2097|end_char=2107
+20	will	will	AUX	MD	VerbForm=Fin	19	_	_	start_char=2108|end_char=2112
+21	have	have	VERB	VB	VerbForm=Inf	20	_	_	start_char=2113|end_char=2117
+22	a	a	DET	DT	Definite=Ind|PronType=Art	21	_	_	start_char=2118|end_char=2119
+23	devastating	devastating	ADJ	JJ	Degree=Pos	22	_	_	start_char=2120|end_char=2131
+24	effect	effect	NOUN	NN	Number=Sing	23	_	_	start_char=2132|end_char=2138
+25	on	on	ADP	IN	_	24	_	_	start_char=2139|end_char=2141
+26	human	human	ADJ	JJ	Degree=Pos	25	_	_	start_char=2142|end_char=2147
+27	health	health	NOUN	NN	Number=Sing	26	_	_	start_char=2148|end_char=2154|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=2154|end_char=2155
+
+# text = And it already is, if we calculate the opportunity cost for people in emerging economies.
+# sent_id = 22
+1	And	and	CCONJ	CC	_	0	_	_	start_char=2156|end_char=2159
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	_	_	start_char=2160|end_char=2162
+3	already	already	ADV	RB	_	2	_	_	start_char=2163|end_char=2170
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=2171|end_char=2173|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=2173|end_char=2174
+6	if	if	SCONJ	IN	_	5	_	_	start_char=2175|end_char=2177
+7	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	_	_	start_char=2178|end_char=2180
+8	calculate	calculate	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	_	_	start_char=2181|end_char=2190
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=2191|end_char=2194
+10	opportunity	opportunity	NOUN	NN	Number=Sing	9	_	_	start_char=2195|end_char=2206
+11	cost	cost	NOUN	NN	Number=Sing	10	_	_	start_char=2207|end_char=2211
+12	for	for	ADP	IN	_	11	_	_	start_char=2212|end_char=2215
+13	people	person	NOUN	NNS	Number=Plur	12	_	_	start_char=2216|end_char=2222
+14	in	in	ADP	IN	_	13	_	_	start_char=2223|end_char=2225
+15	emerging	emerge	VERB	VBG	VerbForm=Ger	14	_	_	start_char=2226|end_char=2234
+16	economies	economy	NOUN	NNS	Number=Plur	15	_	_	start_char=2235|end_char=2244|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=2244|end_char=2245|SpacesAfter=\n\n
+
+# text = Doctors and medical researchers involved in this propaganda have invented their own metric of “ris” to create “evidence” of a growing “threat”.
+# sent_id = 23
+1	Doctors	doctor	NOUN	NNS	Number=Plur	0	_	_	start_char=2247|end_char=2254
+2	and	and	CCONJ	CC	_	1	_	_	start_char=2255|end_char=2258
+3	medical	medical	ADJ	JJ	Degree=Pos	2	_	_	start_char=2259|end_char=2266
+4	researchers	researcher	NOUN	NNS	Number=Plur	3	_	_	start_char=2267|end_char=2278
+5	involved	involve	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=2279|end_char=2287
+6	in	in	ADP	IN	_	5	_	_	start_char=2288|end_char=2290
+7	this	this	DET	DT	Number=Sing|PronType=Dem	6	_	_	start_char=2291|end_char=2295
+8	propaganda	propaganda	NOUN	NN	Number=Sing	7	_	_	start_char=2296|end_char=2306
+9	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=2307|end_char=2311
+10	invented	invent	VERB	VBN	Tense=Past|VerbForm=Part	9	_	_	start_char=2312|end_char=2320
+11	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	10	_	_	start_char=2321|end_char=2326
+12	own	own	ADJ	JJ	Degree=Pos	11	_	_	start_char=2327|end_char=2330
+13	metric	metric	NOUN	NN	Number=Sing	12	_	_	start_char=2331|end_char=2337
+14	of	of	ADP	IN	_	13	_	_	start_char=2338|end_char=2340
+15	“	''	PUNCT	``	_	14	_	_	start_char=2341|end_char=2342|SpaceAfter=No
+16	ris	ris	NOUN	NN	Number=Sing	15	_	_	start_char=2342|end_char=2345|SpaceAfter=No
+17	”	''	PUNCT	''	_	16	_	_	start_char=2345|end_char=2346
+18	to	to	PART	TO	_	17	_	_	start_char=2347|end_char=2349
+19	create	create	VERB	VB	VerbForm=Inf	18	_	_	start_char=2350|end_char=2356
+20	“	''	PUNCT	``	_	19	_	_	start_char=2357|end_char=2358|SpaceAfter=No
+21	evidence	evidence	NOUN	NN	Number=Sing	20	_	_	start_char=2358|end_char=2366|SpaceAfter=No
+22	”	''	PUNCT	''	_	21	_	_	start_char=2366|end_char=2367
+23	of	of	ADP	IN	_	22	_	_	start_char=2368|end_char=2370
+24	a	a	DET	DT	Definite=Ind|PronType=Art	23	_	_	start_char=2371|end_char=2372
+25	growing	grow	VERB	VBG	VerbForm=Ger	24	_	_	start_char=2373|end_char=2380
+26	“	''	PUNCT	``	_	25	_	_	start_char=2381|end_char=2382|SpaceAfter=No
+27	threat	threat	NOUN	NN	Number=Sing	26	_	_	start_char=2382|end_char=2388|SpaceAfter=No
+28	”	''	PUNCT	''	_	27	_	_	start_char=2388|end_char=2389|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=2389|end_char=2390
+
+# text = And doctors and institutions of medicine that reproduce this propaganda do so *uncritically* without checing the numbers.
+# sent_id = 24
+1	And	and	CCONJ	CC	_	0	_	_	start_char=2391|end_char=2394
+2	doctors	doctor	NOUN	NNS	Number=Plur	1	_	_	start_char=2395|end_char=2402
+3	and	and	CCONJ	CC	_	2	_	_	start_char=2403|end_char=2406
+4	institutions	institution	NOUN	NNS	Number=Plur	3	_	_	start_char=2407|end_char=2419
+5	of	of	ADP	IN	_	4	_	_	start_char=2420|end_char=2422
+6	medicine	medicine	NOUN	NN	Number=Sing	5	_	_	start_char=2423|end_char=2431
+7	that	that	PRON	WDT	PronType=Rel	6	_	_	start_char=2432|end_char=2436
+8	reproduce	reproduce	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=2437|end_char=2446
+9	this	this	DET	DT	Number=Sing|PronType=Dem	8	_	_	start_char=2447|end_char=2451
+10	propaganda	propaganda	NOUN	NN	Number=Sing	9	_	_	start_char=2452|end_char=2462
+11	do	do	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=2463|end_char=2465
+12	so	so	ADV	RB	_	11	_	_	start_char=2466|end_char=2468
+13	*	*	PUNCT	NFP	_	12	_	_	start_char=2469|end_char=2470|SpaceAfter=No
+14	uncritically	uncritically	ADV	RB	_	13	_	_	start_char=2470|end_char=2482|SpaceAfter=No
+15	*	*	PUNCT	NFP	_	14	_	_	start_char=2482|end_char=2483
+16	without	without	SCONJ	IN	_	15	_	_	start_char=2484|end_char=2491
+17	checing	chece	VERB	VBG	VerbForm=Ger	16	_	_	start_char=2492|end_char=2499
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=2500|end_char=2503
+19	numbers	number	NOUN	NNS	Number=Plur	18	_	_	start_char=2504|end_char=2511|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=2511|end_char=2512|SpacesAfter=\n\n
+
+# text = The numbers are not complicated.
+# sent_id = 25
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2514|end_char=2517
+2	numbers	number	NOUN	NNS	Number=Plur	1	_	_	start_char=2518|end_char=2525
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2526|end_char=2529
+4	not	not	PART	RB	_	3	_	_	start_char=2530|end_char=2533
+5	complicated	complicated	ADJ	JJ	Degree=Pos	4	_	_	start_char=2534|end_char=2545|SpaceAfter=No
+6	.	.	PUNCT	.	_	5	_	_	start_char=2545|end_char=2546
+
+# text = The science is not complicated.
+# sent_id = 26
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2547|end_char=2550
+2	science	science	NOUN	NN	Number=Sing	1	_	_	start_char=2551|end_char=2558
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2559|end_char=2561
+4	not	not	PART	RB	_	3	_	_	start_char=2562|end_char=2565
+5	complicated	complicated	ADJ	JJ	Degree=Pos	4	_	_	start_char=2566|end_char=2577|SpaceAfter=No
+6	.	.	PUNCT	.	_	5	_	_	start_char=2577|end_char=2578
+
+# text = The data is not hard to find.
+# sent_id = 27
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2579|end_char=2582
+2	data	datum	NOUN	NNS	Number=Plur	1	_	_	start_char=2583|end_char=2587
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2588|end_char=2590
+4	not	not	PART	RB	_	3	_	_	start_char=2591|end_char=2594
+5	hard	hard	ADJ	JJ	Degree=Pos	4	_	_	start_char=2595|end_char=2599
+6	to	to	PART	TO	_	5	_	_	start_char=2600|end_char=2602
+7	find	find	VERB	VB	VerbForm=Inf	6	_	_	start_char=2603|end_char=2607|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	_	_	start_char=2607|end_char=2608
+
+# text = This is not lie 5-sigma high energy physics experimentation.
+# sent_id = 28
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=2609|end_char=2613
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2614|end_char=2616
+3	not	not	PART	RB	_	2	_	_	start_char=2617|end_char=2620
+4	lie	lie	VERB	VB	VerbForm=Inf	3	_	_	start_char=2621|end_char=2624
+5	5	5	NUM	CD	NumForm=Digit|NumType=Card	4	_	_	start_char=2625|end_char=2626|SpaceAfter=No
+6	-	-	PUNCT	HYPH	_	5	_	_	start_char=2626|end_char=2627|SpaceAfter=No
+7	sigma	sigma	NOUN	NN	Number=Sing	6	_	_	start_char=2627|end_char=2632
+8	high	high	ADJ	JJ	Degree=Pos	7	_	_	start_char=2633|end_char=2637
+9	energy	energy	NOUN	NN	Number=Sing	8	_	_	start_char=2638|end_char=2644
+10	physics	physics	NOUN	NN	Number=Sing	9	_	_	start_char=2645|end_char=2652
+11	experimentation	experimentation	NOUN	NN	Number=Sing	10	_	_	start_char=2653|end_char=2668|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=2668|end_char=2669|SpacesAfter=\n\n
+
+# text = Consider this chart from the latest Lancet propaganda report, for example.
+# sent_id = 29
+1	Consider	consider	VERB	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=2671|end_char=2679
+2	this	this	DET	DT	Number=Sing|PronType=Dem	1	_	_	start_char=2680|end_char=2684
+3	chart	chart	NOUN	NN	Number=Sing	2	_	_	start_char=2685|end_char=2690
+4	from	from	ADP	IN	_	3	_	_	start_char=2691|end_char=2695
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=2696|end_char=2699
+6	latest	late	ADJ	JJS	Degree=Sup	5	_	_	start_char=2700|end_char=2706
+7	Lancet	Lancet	PROPN	NNP	Number=Sing	6	_	_	start_char=2707|end_char=2713
+8	propaganda	propaganda	NOUN	NN	Number=Sing	7	_	_	start_char=2714|end_char=2724
+9	report	report	NOUN	NN	Number=Sing	8	_	_	start_char=2725|end_char=2731|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=2731|end_char=2732
+11	for	for	ADP	IN	_	10	_	_	start_char=2733|end_char=2736
+12	example	example	NOUN	NN	Number=Sing	11	_	_	start_char=2737|end_char=2744|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=2744|end_char=2745
+
+# text = It claims that the better part of a $trillion is lost from agricultural production because of exposure to heat.
+# sent_id = 30
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=2746|end_char=2748
+2	claims	claim	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2749|end_char=2755
+3	that	that	SCONJ	IN	_	2	_	_	start_char=2756|end_char=2760
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=2761|end_char=2764
+5	better	good	ADJ	JJR	Degree=Cmp	4	_	_	start_char=2765|end_char=2771
+6	part	part	NOUN	NN	Number=Sing	5	_	_	start_char=2772|end_char=2776
+7	of	of	ADP	IN	_	6	_	_	start_char=2777|end_char=2779
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=2780|end_char=2781
+9	$	$	SYM	$	_	8	_	_	start_char=2782|end_char=2783|SpaceAfter=No
+10	trillion	trillion	NUM	CD	NumForm=Word|NumType=Card	9	_	_	start_char=2783|end_char=2791
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=2792|end_char=2794
+12	lost	lose	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	11	_	_	start_char=2795|end_char=2799
+13	from	from	ADP	IN	_	12	_	_	start_char=2800|end_char=2804
+14	agricultural	agricultural	ADJ	JJ	Degree=Pos	13	_	_	start_char=2805|end_char=2817
+15	production	production	NOUN	NN	Number=Sing	14	_	_	start_char=2818|end_char=2828
+16	because	because	ADP	IN	_	15	_	_	start_char=2829|end_char=2836
+17	of	of	ADP	IN	_	16	_	_	start_char=2837|end_char=2839
+18	exposure	exposure	NOUN	NN	Number=Sing	17	_	_	start_char=2840|end_char=2848
+19	to	to	ADP	IN	_	18	_	_	start_char=2849|end_char=2851
+20	heat	heat	NOUN	NN	Number=Sing	19	_	_	start_char=2852|end_char=2856|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=2856|end_char=2857
+
+# text = But loo at how small that effect is in the West, compared to developing/low income economies.
+# sent_id = 31
+1	But	but	CCONJ	CC	_	0	_	_	start_char=2858|end_char=2861
+2	loo	loo	NOUN	NN	Number=Sing	1	_	_	start_char=2862|end_char=2865
+3	at	at	ADP	IN	_	2	_	_	start_char=2866|end_char=2868
+4	how	how	ADV	WRB	PronType=Int	3	_	_	start_char=2869|end_char=2872
+5	small	small	ADJ	JJ	Degree=Pos	4	_	_	start_char=2873|end_char=2878
+6	that	that	DET	DT	Number=Sing|PronType=Dem	5	_	_	start_char=2879|end_char=2883
+7	effect	effect	NOUN	NN	Number=Sing	6	_	_	start_char=2884|end_char=2890
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=2891|end_char=2893
+9	in	in	ADP	IN	_	8	_	_	start_char=2894|end_char=2896
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=2897|end_char=2900
+11	West	West	PROPN	NNP	Number=Sing	10	_	_	start_char=2901|end_char=2905|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=2905|end_char=2906
+13	compared	compare	VERB	VBN	Tense=Past|VerbForm=Part	12	_	_	start_char=2907|end_char=2915
+14	to	to	ADP	IN	_	13	_	_	start_char=2916|end_char=2918
+15	developing	develop	VERB	VBG	VerbForm=Ger	14	_	_	start_char=2919|end_char=2929|SpaceAfter=No
+16	/	/	SYM	SYM	_	15	_	_	start_char=2929|end_char=2930|SpaceAfter=No
+17	low	low	ADJ	JJ	Degree=Pos	16	_	_	start_char=2930|end_char=2933
+18	income	income	NOUN	NN	Number=Sing	17	_	_	start_char=2934|end_char=2940
+19	economies	economy	NOUN	NNS	Number=Plur	18	_	_	start_char=2941|end_char=2950|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=2950|end_char=2951|SpacesAfter=\n\n
+
+# text = Whereas farmers in the US can tend to vast farms, sitting in GPS-guided, air conditioned, diesel-powered tractors, subsistence agriculture is dawn-to-dus manual labour.
+# sent_id = 32
+1	Whereas	whereas	SCONJ	IN	_	0	_	_	start_char=2953|end_char=2960
+2	farmers	farmer	NOUN	NNS	Number=Plur	1	_	_	start_char=2961|end_char=2968
+3	in	in	ADP	IN	_	2	_	_	start_char=2969|end_char=2971
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=2972|end_char=2975
+5	US	US	PROPN	NNP	Number=Sing	4	_	_	start_char=2976|end_char=2978
+6	can	can	AUX	MD	VerbForm=Fin	5	_	_	start_char=2979|end_char=2982
+7	tend	tend	VERB	VB	VerbForm=Inf	6	_	_	start_char=2983|end_char=2987
+8	to	to	ADP	IN	_	7	_	_	start_char=2988|end_char=2990
+9	vast	vast	ADJ	JJ	Degree=Pos	8	_	_	start_char=2991|end_char=2995
+10	farms	farm	NOUN	NNS	Number=Plur	9	_	_	start_char=2996|end_char=3001|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=3001|end_char=3002
+12	sitting	sit	VERB	VBG	VerbForm=Ger	11	_	_	start_char=3003|end_char=3010
+13	in	in	ADP	IN	_	12	_	_	start_char=3011|end_char=3013
+14	GPS	GPS	NOUN	NN	Number=Sing	13	_	_	start_char=3014|end_char=3017|SpaceAfter=No
+15	-	-	PUNCT	HYPH	_	14	_	_	start_char=3017|end_char=3018|SpaceAfter=No
+16	guided	guide	VERB	VBN	Tense=Past|VerbForm=Part	15	_	_	start_char=3018|end_char=3024|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=3024|end_char=3025
+18	air	air	NOUN	NN	Number=Sing	17	_	_	start_char=3026|end_char=3029
+19	conditioned	condition	VERB	VBN	Tense=Past|VerbForm=Part	18	_	_	start_char=3030|end_char=3041|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=3041|end_char=3042
+21	diesel	diesel	NOUN	NN	Number=Sing	20	_	_	start_char=3043|end_char=3049|SpaceAfter=No
+22	-	-	PUNCT	HYPH	_	21	_	_	start_char=3049|end_char=3050|SpaceAfter=No
+23	powered	power	VERB	VBN	Tense=Past|VerbForm=Part	22	_	_	start_char=3050|end_char=3057
+24	tractors	tractor	NOUN	NNS	Number=Plur	23	_	_	start_char=3058|end_char=3066|SpaceAfter=No
+25	,	,	PUNCT	,	_	24	_	_	start_char=3066|end_char=3067
+26	subsistence	subsistence	NOUN	NN	Number=Sing	25	_	_	start_char=3068|end_char=3079
+27	agriculture	agriculture	NOUN	NN	Number=Sing	26	_	_	start_char=3080|end_char=3091
+28	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	_	_	start_char=3092|end_char=3094
+29	dawn	dawn	NOUN	NN	Number=Sing	28	_	_	start_char=3095|end_char=3099|SpaceAfter=No
+30	-	-	PUNCT	HYPH	_	29	_	_	start_char=3099|end_char=3100|SpaceAfter=No
+31	to	to	ADP	IN	_	30	_	_	start_char=3100|end_char=3102|SpaceAfter=No
+32	-	-	PUNCT	HYPH	_	31	_	_	start_char=3102|end_char=3103|SpaceAfter=No
+33	dus	dus	NOUN	NN	Number=Sing	32	_	_	start_char=3103|end_char=3106
+34	manual	manual	ADJ	JJ	Degree=Pos	33	_	_	start_char=3107|end_char=3113
+35	labour	labour	NOUN	NN	Number=Sing	34	_	_	start_char=3114|end_char=3120|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=3120|end_char=3121|SpacesAfter=\n\n
+
+# text = The difference is access to fossil fuels.
+# sent_id = 33
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=3123|end_char=3126
+2	difference	difference	NOUN	NN	Number=Sing	1	_	_	start_char=3127|end_char=3137
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=3138|end_char=3140
+4	access	access	NOUN	NN	Number=Sing	3	_	_	start_char=3141|end_char=3147
+5	to	to	ADP	IN	_	4	_	_	start_char=3148|end_char=3150
+6	fossil	fossil	NOUN	NN	Number=Sing	5	_	_	start_char=3151|end_char=3157
+7	fuels	fuel	NOUN	NNS	Number=Plur	6	_	_	start_char=3158|end_char=3163|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	_	_	start_char=3163|end_char=3164
+
+# text = It’s not a weather or climate effect.
+# sent_id = 34
+1-2	It’s	_	_	_	_	_	_	_	start_char=3165|end_char=3169
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=3165|end_char=3167
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=3167|end_char=3169
+3	not	not	PART	RB	_	2	_	_	start_char=3170|end_char=3173
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=3174|end_char=3175
+5	weather	weather	NOUN	NN	Number=Sing	4	_	_	start_char=3176|end_char=3183
+6	or	or	CCONJ	CC	_	5	_	_	start_char=3184|end_char=3186
+7	climate	climate	NOUN	NN	Number=Sing	6	_	_	start_char=3187|end_char=3194
+8	effect	effect	NOUN	NN	Number=Sing	7	_	_	start_char=3195|end_char=3201|SpaceAfter=No
+9	.	.	PUNCT	.	_	8	_	_	start_char=3201|end_char=3202|SpacesAfter=\n\n
+
+# text = To frame that disparity between agricultural producers in the richest and poorest economies as one of “climate change”, requiring the abolition of fossil fuels is a grotesque injustice.
+# sent_id = 35
+1	To	to	PART	TO	_	0	_	_	start_char=3204|end_char=3206
+2	frame	frame	VERB	VB	VerbForm=Inf	1	_	_	start_char=3207|end_char=3212
+3	that	that	DET	DT	Number=Sing|PronType=Dem	2	_	_	start_char=3213|end_char=3217
+4	disparity	disparity	NOUN	NN	Number=Sing	3	_	_	start_char=3218|end_char=3227
+5	between	between	ADP	IN	_	4	_	_	start_char=3228|end_char=3235
+6	agricultural	agricultural	ADJ	JJ	Degree=Pos	5	_	_	start_char=3236|end_char=3248
+7	producers	producer	NOUN	NNS	Number=Plur	6	_	_	start_char=3249|end_char=3258
+8	in	in	ADP	IN	_	7	_	_	start_char=3259|end_char=3261
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=3262|end_char=3265
+10	richest	rich	ADJ	JJS	Degree=Sup	9	_	_	start_char=3266|end_char=3273
+11	and	and	CCONJ	CC	_	10	_	_	start_char=3274|end_char=3277
+12	poorest	poor	ADJ	JJS	Degree=Sup	11	_	_	start_char=3278|end_char=3285
+13	economies	economy	NOUN	NNS	Number=Plur	12	_	_	start_char=3286|end_char=3295
+14	as	as	ADP	IN	_	13	_	_	start_char=3296|end_char=3298
+15	one	one	NUM	CD	NumForm=Word|NumType=Card	14	_	_	start_char=3299|end_char=3302
+16	of	of	ADP	IN	_	15	_	_	start_char=3303|end_char=3305
+17	“	''	PUNCT	``	_	16	_	_	start_char=3306|end_char=3307|SpaceAfter=No
+18	climate	climate	NOUN	NN	Number=Sing	17	_	_	start_char=3307|end_char=3314
+19	change	change	NOUN	NN	Number=Sing	18	_	_	start_char=3315|end_char=3321|SpaceAfter=No
+20	”	''	PUNCT	''	_	19	_	_	start_char=3321|end_char=3322|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=3322|end_char=3323
+22	requiring	require	VERB	VBG	VerbForm=Ger	21	_	_	start_char=3324|end_char=3333
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=3334|end_char=3337
+24	abolition	abolition	NOUN	NN	Number=Sing	23	_	_	start_char=3338|end_char=3347
+25	of	of	ADP	IN	_	24	_	_	start_char=3348|end_char=3350
+26	fossil	fossil	NOUN	NN	Number=Sing	25	_	_	start_char=3351|end_char=3357
+27	fuels	fuel	NOUN	NNS	Number=Plur	26	_	_	start_char=3358|end_char=3363
+28	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	_	_	start_char=3364|end_char=3366
+29	a	a	DET	DT	Definite=Ind|PronType=Art	28	_	_	start_char=3367|end_char=3368
+30	grotesque	grotesque	ADJ	JJ	Degree=Pos	29	_	_	start_char=3369|end_char=3378
+31	injustice	injustice	NOUN	NN	Number=Sing	30	_	_	start_char=3379|end_char=3388|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=3388|end_char=3389
+
+# text = It is vile.
+# sent_id = 36
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=3390|end_char=3392
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=3393|end_char=3395
+3	vile	vile	ADJ	JJ	Degree=Pos	2	_	_	start_char=3396|end_char=3400|SpaceAfter=No
+4	.	.	PUNCT	.	_	3	_	_	start_char=3400|end_char=3401|SpaceAfter=No
+

@@ -1,0 +1,482 @@
+# text = Climate activists bloc traffic in German cities
+# sent_id = 0
+1	Climate	climate	NOUN	NN	Number=Sing	0	_	_	start_char=0|end_char=7
+2	activists	activist	NOUN	NNS	Number=Plur	1	_	_	start_char=8|end_char=17
+3	bloc	bloc	NOUN	NN	Number=Sing	2	_	_	start_char=18|end_char=22
+4	traffic	traffic	NOUN	NN	Number=Sing	3	_	_	start_char=23|end_char=30
+5	in	in	ADP	IN	_	4	_	_	start_char=31|end_char=33
+6	German	German	ADJ	JJ	Degree=Pos	5	_	_	start_char=34|end_char=40
+7	cities	city	NOUN	NNS	Number=Plur	6	_	_	start_char=41|end_char=47|SpacesAfter=\s\n\n\s
+
+# text = BERLIN, July 14 (Xinhua) -- Climate activists from the Last Generation environmental group staged nationwide protests in Germany on Friday against the government's transport policy by disrupting traffic in 26 cities.
+# sent_id = 1
+1	BERLIN	BERLIN	PROPN	NNP	Number=Sing	0	_	_	start_char=51|end_char=57|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=57|end_char=58
+3	July	July	PROPN	NNP	Number=Sing	2	_	_	start_char=59|end_char=63
+4	14	14	NUM	CD	NumForm=Digit|NumType=Card	3	_	_	start_char=64|end_char=66
+5	(	(	PUNCT	-LRB-	_	4	_	_	start_char=67|end_char=68|SpaceAfter=No
+6	Xinhua	Xinhua	PROPN	NNP	Number=Sing	5	_	_	start_char=68|end_char=74|SpaceAfter=No
+7	)	)	PUNCT	-RRB-	_	6	_	_	start_char=74|end_char=75
+8	--	--	PUNCT	,	_	7	_	_	start_char=76|end_char=78
+9	Climate	climate	NOUN	NN	Number=Sing	8	_	_	start_char=79|end_char=86
+10	activists	activist	NOUN	NNS	Number=Plur	9	_	_	start_char=87|end_char=96
+11	from	from	ADP	IN	_	10	_	_	start_char=97|end_char=101
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=102|end_char=105
+13	Last	last	ADJ	NNP	Degree=Pos	12	_	_	start_char=106|end_char=110
+14	Generation	Generation	PROPN	NNP	Number=Sing	13	_	_	start_char=111|end_char=121
+15	environmental	environmental	ADJ	JJ	Degree=Pos	14	_	_	start_char=122|end_char=135
+16	group	group	NOUN	NN	Number=Sing	15	_	_	start_char=136|end_char=141
+17	staged	stage	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	16	_	_	start_char=142|end_char=148
+18	nationwide	nationwide	ADJ	JJ	Degree=Pos	17	_	_	start_char=149|end_char=159
+19	protests	protest	NOUN	NNS	Number=Plur	18	_	_	start_char=160|end_char=168
+20	in	in	ADP	IN	_	19	_	_	start_char=169|end_char=171
+21	Germany	Germany	PROPN	NNP	Number=Sing	20	_	_	start_char=172|end_char=179
+22	on	on	ADP	IN	_	21	_	_	start_char=180|end_char=182
+23	Friday	Friday	PROPN	NNP	Number=Sing	22	_	_	start_char=183|end_char=189
+24	against	against	ADP	IN	_	23	_	_	start_char=190|end_char=197
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=198|end_char=201
+26-27	government's	_	_	_	_	_	_	_	start_char=202|end_char=214
+26	government	government	NOUN	NN	Number=Sing	25	_	_	start_char=202|end_char=212
+27	's	's	PART	POS	_	26	_	_	start_char=212|end_char=214
+28	transport	transport	NOUN	NN	Number=Sing	27	_	_	start_char=215|end_char=224
+29	policy	policy	NOUN	NN	Number=Sing	28	_	_	start_char=225|end_char=231
+30	by	by	SCONJ	IN	_	29	_	_	start_char=232|end_char=234
+31	disrupting	disrupt	VERB	VBG	VerbForm=Ger	30	_	_	start_char=235|end_char=245
+32	traffic	traffic	NOUN	NN	Number=Sing	31	_	_	start_char=246|end_char=253
+33	in	in	ADP	IN	_	32	_	_	start_char=254|end_char=256
+34	26	26	NUM	CD	NumForm=Digit|NumType=Card	33	_	_	start_char=257|end_char=259
+35	cities	city	NOUN	NNS	Number=Plur	34	_	_	start_char=260|end_char=266|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=266|end_char=267|SpacesAfter=\n\n
+
+# text = The members of the group are nown in Germany as limaleber (climate sticers) as they are frequently gluing themselves to roads and infrastructure to bloc traffic and gain attention.
+# sent_id = 2
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=269|end_char=272
+2	members	member	NOUN	NNS	Number=Plur	1	_	_	start_char=273|end_char=280
+3	of	of	ADP	IN	_	2	_	_	start_char=281|end_char=283
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=284|end_char=287
+5	group	group	NOUN	NN	Number=Sing	4	_	_	start_char=288|end_char=293
+6	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=294|end_char=297
+7	nown	nown	ADV	RB	_	6	_	_	start_char=298|end_char=302
+8	in	in	ADP	IN	_	7	_	_	start_char=303|end_char=305
+9	Germany	Germany	PROPN	NNP	Number=Sing	8	_	_	start_char=306|end_char=313
+10	as	as	ADP	IN	_	9	_	_	start_char=314|end_char=316
+11	limaleber	limaleber	NOUN	NN	Number=Sing	10	_	_	start_char=317|end_char=326
+12	(	(	PUNCT	-LRB-	_	11	_	_	start_char=327|end_char=328|SpaceAfter=No
+13	climate	climate	NOUN	NN	Number=Sing	12	_	_	start_char=328|end_char=335
+14	sticers	sticer	NOUN	NNS	Number=Plur	13	_	_	start_char=336|end_char=343|SpaceAfter=No
+15	)	)	PUNCT	-RRB-	_	14	_	_	start_char=343|end_char=344
+16	as	as	SCONJ	IN	_	15	_	_	start_char=345|end_char=347
+17	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	_	_	start_char=348|end_char=352
+18	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=353|end_char=356
+19	frequently	frequently	ADV	RB	_	18	_	_	start_char=357|end_char=367
+20	gluing	gli	VERB	VBG	Tense=Pres|VerbForm=Part	19	_	_	start_char=368|end_char=374
+21	themselves	themselves	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	20	_	_	start_char=375|end_char=385
+22	to	to	ADP	IN	_	21	_	_	start_char=386|end_char=388
+23	roads	road	NOUN	NNS	Number=Plur	22	_	_	start_char=389|end_char=394
+24	and	and	CCONJ	CC	_	23	_	_	start_char=395|end_char=398
+25	infrastructure	infrastructure	NOUN	NN	Number=Sing	24	_	_	start_char=399|end_char=413
+26	to	to	PART	TO	_	25	_	_	start_char=414|end_char=416
+27	bloc	bloc	VERB	VB	VerbForm=Inf	26	_	_	start_char=417|end_char=421
+28	traffic	traffic	NOUN	NN	Number=Sing	27	_	_	start_char=422|end_char=429
+29	and	and	CCONJ	CC	_	28	_	_	start_char=430|end_char=433
+30	gain	gain	VERB	VB	VerbForm=Inf	29	_	_	start_char=434|end_char=438
+31	attention	attention	NOUN	NN	Number=Sing	30	_	_	start_char=439|end_char=448|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=448|end_char=449
+
+# text = In the capital Berlin, for example, the main traffic circle around the Victory Column was bloced in this way.
+# sent_id = 3
+1	In	in	ADP	IN	_	0	_	_	start_char=450|end_char=452
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=453|end_char=456
+3	capital	capital	NOUN	NN	Number=Sing	2	_	_	start_char=457|end_char=464
+4	Berlin	Berlin	PROPN	NNP	Number=Sing	3	_	_	start_char=465|end_char=471|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=471|end_char=472
+6	for	for	ADP	IN	_	5	_	_	start_char=473|end_char=476
+7	example	example	NOUN	NN	Number=Sing	6	_	_	start_char=477|end_char=484|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=484|end_char=485
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=486|end_char=489
+10	main	main	ADJ	JJ	Degree=Pos	9	_	_	start_char=490|end_char=494
+11	traffic	traffic	NOUN	NN	Number=Sing	10	_	_	start_char=495|end_char=502
+12	circle	circle	NOUN	NN	Number=Sing	11	_	_	start_char=503|end_char=509
+13	around	around	ADP	IN	_	12	_	_	start_char=510|end_char=516
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=517|end_char=520
+15	Victory	Victory	PROPN	NNP	Number=Sing	14	_	_	start_char=521|end_char=528
+16	Column	Column	PROPN	NNP	Number=Sing	15	_	_	start_char=529|end_char=535
+17	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	_	_	start_char=536|end_char=539
+18	bloced	bloce	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	17	_	_	start_char=540|end_char=546
+19	in	in	ADP	IN	_	18	_	_	start_char=547|end_char=549
+20	this	this	DET	DT	Number=Sing|PronType=Dem	19	_	_	start_char=550|end_char=554
+21	way	way	NOUN	NN	Number=Sing	20	_	_	start_char=555|end_char=558|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=558|end_char=559|SpacesAfter=\n\n
+
+# text = The activists accuse the government of "breaing its own climate law," arguing that the Federal Ministry for Digital and Transport (BMDV) refused to present an emergency climate protection program as required by German law.
+# sent_id = 4
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=561|end_char=564
+2	activists	activist	NOUN	NNS	Number=Plur	1	_	_	start_char=565|end_char=574
+3	accuse	accuse	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=575|end_char=581
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=582|end_char=585
+5	government	government	NOUN	NN	Number=Sing	4	_	_	start_char=586|end_char=596
+6	of	of	SCONJ	IN	_	5	_	_	start_char=597|end_char=599
+7	"	"	PUNCT	``	_	6	_	_	start_char=600|end_char=601|SpaceAfter=No
+8	breaing	brea	VERB	VBG	VerbForm=Ger	7	_	_	start_char=601|end_char=608
+9	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	_	_	start_char=609|end_char=612
+10	own	own	ADJ	JJ	Degree=Pos	9	_	_	start_char=613|end_char=616
+11	climate	climate	NOUN	NN	Number=Sing	10	_	_	start_char=617|end_char=624
+12	law	law	NOUN	NN	Number=Sing	11	_	_	start_char=625|end_char=628|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=628|end_char=629|SpaceAfter=No
+14	"	"	PUNCT	''	_	13	_	_	start_char=629|end_char=630
+15	arguing	argue	VERB	VBG	VerbForm=Ger	14	_	_	start_char=631|end_char=638
+16	that	that	SCONJ	IN	_	15	_	_	start_char=639|end_char=643
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=644|end_char=647
+18	Federal	Federal	ADJ	NNP	Degree=Pos	17	_	_	start_char=648|end_char=655
+19	Ministry	Ministry	PROPN	NNP	Number=Sing	18	_	_	start_char=656|end_char=664
+20	for	for	ADP	IN	_	19	_	_	start_char=665|end_char=668
+21	Digital	digital	ADJ	NNP	Degree=Pos	20	_	_	start_char=669|end_char=676
+22	and	and	CCONJ	CC	_	21	_	_	start_char=677|end_char=680
+23	Transport	Transport	PROPN	NNP	Number=Sing	22	_	_	start_char=681|end_char=690
+24	(	(	PUNCT	-LRB-	_	23	_	_	start_char=691|end_char=692|SpaceAfter=No
+25	BMDV	BMDV	PROPN	NNP	Number=Sing	24	_	_	start_char=692|end_char=696|SpaceAfter=No
+26	)	)	PUNCT	-RRB-	_	25	_	_	start_char=696|end_char=697
+27	refused	refuse	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	26	_	_	start_char=698|end_char=705
+28	to	to	PART	TO	_	27	_	_	start_char=706|end_char=708
+29	present	present	VERB	VB	VerbForm=Inf	28	_	_	start_char=709|end_char=716
+30	an	a	DET	DT	Definite=Ind|PronType=Art	29	_	_	start_char=717|end_char=719
+31	emergency	emergency	NOUN	NN	Number=Sing	30	_	_	start_char=720|end_char=729
+32	climate	climate	NOUN	NN	Number=Sing	31	_	_	start_char=730|end_char=737
+33	protection	protection	NOUN	NN	Number=Sing	32	_	_	start_char=738|end_char=748
+34	program	program	NOUN	NN	Number=Sing	33	_	_	start_char=749|end_char=756
+35	as	as	SCONJ	IN	_	34	_	_	start_char=757|end_char=759
+36	required	require	VERB	VBN	Tense=Past|VerbForm=Part	35	_	_	start_char=760|end_char=768
+37	by	by	ADP	IN	_	36	_	_	start_char=769|end_char=771
+38	German	German	ADJ	JJ	Degree=Pos	37	_	_	start_char=772|end_char=778
+39	law	law	NOUN	NN	Number=Sing	38	_	_	start_char=779|end_char=782|SpaceAfter=No
+40	.	.	PUNCT	.	_	39	_	_	start_char=782|end_char=783|SpacesAfter=\n\n
+
+# text = While Germany met its overall emission reduction target in 2022, the transport sector slightly increased its emissions compared to the previous year, according to the Federal Environment Agency (UBA).
+# sent_id = 5
+1	While	while	SCONJ	IN	_	0	_	_	start_char=785|end_char=790
+2	Germany	Germany	PROPN	NNP	Number=Sing	1	_	_	start_char=791|end_char=798
+3	met	meet	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=799|end_char=802
+4	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	_	_	start_char=803|end_char=806
+5	overall	overall	ADJ	JJ	Degree=Pos	4	_	_	start_char=807|end_char=814
+6	emission	emission	NOUN	NN	Number=Sing	5	_	_	start_char=815|end_char=823
+7	reduction	reduction	NOUN	NN	Number=Sing	6	_	_	start_char=824|end_char=833
+8	target	target	NOUN	NN	Number=Sing	7	_	_	start_char=834|end_char=840
+9	in	in	ADP	IN	_	8	_	_	start_char=841|end_char=843
+10	2022	2022	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=844|end_char=848|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=848|end_char=849
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=850|end_char=853
+13	transport	transport	NOUN	NN	Number=Sing	12	_	_	start_char=854|end_char=863
+14	sector	sector	NOUN	NN	Number=Sing	13	_	_	start_char=864|end_char=870
+15	slightly	slightly	ADV	RB	_	14	_	_	start_char=871|end_char=879
+16	increased	increase	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	_	_	start_char=880|end_char=889
+17	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	_	_	start_char=890|end_char=893
+18	emissions	emission	NOUN	NNS	Number=Plur	17	_	_	start_char=894|end_char=903
+19	compared	compare	VERB	VBN	Tense=Past|VerbForm=Part	18	_	_	start_char=904|end_char=912
+20	to	to	ADP	IN	_	19	_	_	start_char=913|end_char=915
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=916|end_char=919
+22	previous	previous	ADJ	JJ	Degree=Pos	21	_	_	start_char=920|end_char=928
+23	year	year	NOUN	NN	Number=Sing	22	_	_	start_char=929|end_char=933|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=933|end_char=934
+25	according	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	24	_	_	start_char=935|end_char=944
+26	to	to	ADP	IN	_	25	_	_	start_char=945|end_char=947
+27	the	the	DET	DT	Definite=Def|PronType=Art	26	_	_	start_char=948|end_char=951
+28	Federal	Federal	ADJ	NNP	Degree=Pos	27	_	_	start_char=952|end_char=959
+29	Environment	environment	PROPN	NNP	Number=Sing	28	_	_	start_char=960|end_char=971
+30	Agency	Agency	PROPN	NNP	Number=Sing	29	_	_	start_char=972|end_char=978
+31	(	(	PUNCT	-LRB-	_	30	_	_	start_char=979|end_char=980|SpaceAfter=No
+32	UBA	UBA	PROPN	NNP	Number=Sing	31	_	_	start_char=980|end_char=983|SpaceAfter=No
+33	)	)	PUNCT	-RRB-	_	32	_	_	start_char=983|end_char=984|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=984|end_char=985|SpacesAfter=\n\n
+
+# text = Internationally, transport is also failing to deliver on climate change mitigation, as global decarbonization measures would currently only lead to a 3 percent reduction in emissions in the sector by 2050, according to the International Transport Forum (ITF).
+# sent_id = 6
+1	Internationally	internationally	ADV	RB	_	0	_	_	start_char=987|end_char=1002|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=1002|end_char=1003
+3	transport	transport	NOUN	NN	Number=Sing	2	_	_	start_char=1004|end_char=1013
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1014|end_char=1016
+5	also	also	ADV	RB	_	4	_	_	start_char=1017|end_char=1021
+6	failing	fail	VERB	VBG	Tense=Pres|VerbForm=Part	5	_	_	start_char=1022|end_char=1029
+7	to	to	PART	TO	_	6	_	_	start_char=1030|end_char=1032
+8	deliver	deliver	VERB	VB	VerbForm=Inf	7	_	_	start_char=1033|end_char=1040
+9	on	on	ADP	IN	_	8	_	_	start_char=1041|end_char=1043
+10	climate	climate	NOUN	NN	Number=Sing	9	_	_	start_char=1044|end_char=1051
+11	change	change	NOUN	NN	Number=Sing	10	_	_	start_char=1052|end_char=1058
+12	mitigation	mitigation	NOUN	NN	Number=Sing	11	_	_	start_char=1059|end_char=1069|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=1069|end_char=1070
+14	as	as	SCONJ	IN	_	13	_	_	start_char=1071|end_char=1073
+15	global	global	ADJ	JJ	Degree=Pos	14	_	_	start_char=1074|end_char=1080
+16	decarbonization	decarbonization	NOUN	NN	Number=Sing	15	_	_	start_char=1081|end_char=1096
+17	measures	measure	NOUN	NNS	Number=Plur	16	_	_	start_char=1097|end_char=1105
+18	would	would	AUX	MD	VerbForm=Fin	17	_	_	start_char=1106|end_char=1111
+19	currently	currently	ADV	RB	_	18	_	_	start_char=1112|end_char=1121
+20	only	only	ADV	RB	_	19	_	_	start_char=1122|end_char=1126
+21	lead	lead	VERB	VB	VerbForm=Inf	20	_	_	start_char=1127|end_char=1131
+22	to	to	ADP	IN	_	21	_	_	start_char=1132|end_char=1134
+23	a	a	DET	DT	Definite=Ind|PronType=Art	22	_	_	start_char=1135|end_char=1136
+24	3	3	NUM	CD	NumForm=Digit|NumType=Card	23	_	_	start_char=1137|end_char=1138
+25	percent	percent	NOUN	NN	Number=Sing	24	_	_	start_char=1139|end_char=1146
+26	reduction	reduction	NOUN	NN	Number=Sing	25	_	_	start_char=1147|end_char=1156
+27	in	in	ADP	IN	_	26	_	_	start_char=1157|end_char=1159
+28	emissions	emission	NOUN	NNS	Number=Plur	27	_	_	start_char=1160|end_char=1169
+29	in	in	ADP	IN	_	28	_	_	start_char=1170|end_char=1172
+30	the	the	DET	DT	Definite=Def|PronType=Art	29	_	_	start_char=1173|end_char=1176
+31	sector	sector	NOUN	NN	Number=Sing	30	_	_	start_char=1177|end_char=1183
+32	by	by	ADP	IN	_	31	_	_	start_char=1184|end_char=1186
+33	2050	2050	NUM	CD	NumForm=Digit|NumType=Card	32	_	_	start_char=1187|end_char=1191|SpaceAfter=No
+34	,	,	PUNCT	,	_	33	_	_	start_char=1191|end_char=1192
+35	according	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	34	_	_	start_char=1193|end_char=1202
+36	to	to	ADP	IN	_	35	_	_	start_char=1203|end_char=1205
+37	the	the	DET	DT	Definite=Def|PronType=Art	36	_	_	start_char=1206|end_char=1209
+38	International	International	ADJ	NNP	Degree=Pos	37	_	_	start_char=1210|end_char=1223
+39	Transport	Transport	PROPN	NNP	Number=Sing	38	_	_	start_char=1224|end_char=1233
+40	Forum	Forum	PROPN	NNP	Number=Sing	39	_	_	start_char=1234|end_char=1239
+41	(	(	PUNCT	-LRB-	_	40	_	_	start_char=1240|end_char=1241|SpaceAfter=No
+42	ITF	ITF	PROPN	NNP	Number=Sing	41	_	_	start_char=1241|end_char=1244|SpaceAfter=No
+43	)	)	PUNCT	-RRB-	_	42	_	_	start_char=1244|end_char=1245|SpaceAfter=No
+44	.	.	PUNCT	.	_	43	_	_	start_char=1245|end_char=1246|SpacesAfter=\n\n
+
+# text = The transport sector would "miss by a wide margin the reduction needed to eep climate change in chec," the ITF warned in May.
+# sent_id = 7
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1248|end_char=1251
+2	transport	transport	NOUN	NN	Number=Sing	1	_	_	start_char=1252|end_char=1261
+3	sector	sector	NOUN	NN	Number=Sing	2	_	_	start_char=1262|end_char=1268
+4	would	would	AUX	MD	VerbForm=Fin	3	_	_	start_char=1269|end_char=1274
+5	"	"	PUNCT	``	_	4	_	_	start_char=1275|end_char=1276|SpaceAfter=No
+6	miss	miss	VERB	VB	VerbForm=Inf	5	_	_	start_char=1276|end_char=1280
+7	by	by	ADP	IN	_	6	_	_	start_char=1281|end_char=1283
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=1284|end_char=1285
+9	wide	wide	ADJ	JJ	Degree=Pos	8	_	_	start_char=1286|end_char=1290
+10	margin	margin	NOUN	NN	Number=Sing	9	_	_	start_char=1291|end_char=1297
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=1298|end_char=1301
+12	reduction	reduction	NOUN	NN	Number=Sing	11	_	_	start_char=1302|end_char=1311
+13	needed	need	VERB	VBN	Tense=Past|VerbForm=Part	12	_	_	start_char=1312|end_char=1318
+14	to	to	PART	TO	_	13	_	_	start_char=1319|end_char=1321
+15	eep	eep	VERB	VB	VerbForm=Inf	14	_	_	start_char=1322|end_char=1325
+16	climate	climate	NOUN	NN	Number=Sing	15	_	_	start_char=1326|end_char=1333
+17	change	change	NOUN	NN	Number=Sing	16	_	_	start_char=1334|end_char=1340
+18	in	in	ADP	IN	_	17	_	_	start_char=1341|end_char=1343
+19	chec	chec	NOUN	NN	Number=Sing	18	_	_	start_char=1344|end_char=1348|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=1348|end_char=1349|SpaceAfter=No
+21	"	"	PUNCT	''	_	20	_	_	start_char=1349|end_char=1350
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=1351|end_char=1354
+23	ITF	ITF	PROPN	NNP	Number=Sing	22	_	_	start_char=1355|end_char=1358
+24	warned	warn	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	23	_	_	start_char=1359|end_char=1365
+25	in	in	ADP	IN	_	24	_	_	start_char=1366|end_char=1368
+26	May	May	PROPN	NNP	Number=Sing	25	_	_	start_char=1369|end_char=1372|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=1372|end_char=1373|SpacesAfter=\n\n
+
+# text = To meet the Paris Agreement's net-zero target by 2050, transport-related CO2 emissions would need to fall by at least 3 percent annually until 2030, the International Energy Agency (IEA) has warned.
+# sent_id = 8
+1	To	to	PART	TO	_	0	_	_	start_char=1375|end_char=1377
+2	meet	meet	VERB	VB	VerbForm=Inf	1	_	_	start_char=1378|end_char=1382
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1383|end_char=1386
+4	Paris	Paris	PROPN	NNP	Number=Sing	3	_	_	start_char=1387|end_char=1392
+5-6	Agreement's	_	_	_	_	_	_	_	start_char=1393|end_char=1404
+5	Agreement	agreement	NOUN	NN	Number=Sing	4	_	_	start_char=1393|end_char=1402
+6	's	's	PART	POS	_	5	_	_	start_char=1402|end_char=1404
+7	net	net	NOUN	NN	Number=Sing	6	_	_	start_char=1405|end_char=1408|SpaceAfter=No
+8	-	-	PUNCT	HYPH	_	7	_	_	start_char=1408|end_char=1409|SpaceAfter=No
+9	zero	zero	NUM	CD	NumForm=Word|NumType=Card	8	_	_	start_char=1409|end_char=1413
+10	target	target	NOUN	NN	Number=Sing	9	_	_	start_char=1414|end_char=1420
+11	by	by	ADP	IN	_	10	_	_	start_char=1421|end_char=1423
+12	2050	2050	NUM	CD	NumForm=Digit|NumType=Card	11	_	_	start_char=1424|end_char=1428|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=1428|end_char=1429
+14	transport	transport	NOUN	NN	Number=Sing	13	_	_	start_char=1430|end_char=1439|SpaceAfter=No
+15	-	-	PUNCT	HYPH	_	14	_	_	start_char=1439|end_char=1440|SpaceAfter=No
+16	related	related	ADJ	JJ	Degree=Pos	15	_	_	start_char=1440|end_char=1447
+17	CO2	CO2	NOUN	NN	Number=Sing	16	_	_	start_char=1448|end_char=1451
+18	emissions	emission	NOUN	NNS	Number=Plur	17	_	_	start_char=1452|end_char=1461
+19	would	would	AUX	MD	VerbForm=Fin	18	_	_	start_char=1462|end_char=1467
+20	need	need	VERB	VB	VerbForm=Inf	19	_	_	start_char=1468|end_char=1472
+21	to	to	PART	TO	_	20	_	_	start_char=1473|end_char=1475
+22	fall	fall	VERB	VB	VerbForm=Inf	21	_	_	start_char=1476|end_char=1480
+23	by	by	ADP	IN	_	22	_	_	start_char=1481|end_char=1483
+24	at	at	ADP	IN	_	23	_	_	start_char=1484|end_char=1486
+25	least	least	ADJ	JJS	Degree=Sup	24	_	_	start_char=1487|end_char=1492
+26	3	3	NUM	CD	NumForm=Digit|NumType=Card	25	_	_	start_char=1493|end_char=1494
+27	percent	percent	NOUN	NN	Number=Sing	26	_	_	start_char=1495|end_char=1502
+28	annually	annually	ADV	RB	_	27	_	_	start_char=1503|end_char=1511
+29	until	until	ADP	IN	_	28	_	_	start_char=1512|end_char=1517
+30	2030	2030	NUM	CD	NumForm=Digit|NumType=Card	29	_	_	start_char=1518|end_char=1522|SpaceAfter=No
+31	,	,	PUNCT	,	_	30	_	_	start_char=1522|end_char=1523
+32	the	the	DET	DT	Definite=Def|PronType=Art	31	_	_	start_char=1524|end_char=1527
+33	International	International	ADJ	NNP	Degree=Pos	32	_	_	start_char=1528|end_char=1541
+34	Energy	Energy	PROPN	NNP	Number=Sing	33	_	_	start_char=1542|end_char=1548
+35	Agency	Agency	PROPN	NNP	Number=Sing	34	_	_	start_char=1549|end_char=1555
+36	(	(	PUNCT	-LRB-	_	35	_	_	start_char=1556|end_char=1557|SpaceAfter=No
+37	IEA	IEA	PROPN	NNP	Number=Sing	36	_	_	start_char=1557|end_char=1560|SpaceAfter=No
+38	)	)	PUNCT	-RRB-	_	37	_	_	start_char=1560|end_char=1561
+39	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	38	_	_	start_char=1562|end_char=1565
+40	warned	warn	VERB	VBN	Tense=Past|VerbForm=Part	39	_	_	start_char=1566|end_char=1572|SpaceAfter=No
+41	.	.	PUNCT	.	_	40	_	_	start_char=1572|end_char=1573|SpacesAfter=\n\n
+
+# text = The activists' measures are not supported by a majority of Germany's population, sometimes even provoing violent reactions.
+# sent_id = 9
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1575|end_char=1578
+2-3	activists'	_	_	_	_	_	_	_	start_char=1579|end_char=1589
+2	activists	activist	NOUN	NNS	Number=Plur	1	_	_	start_char=1579|end_char=1588
+3	'	's	PART	POS	_	2	_	_	start_char=1588|end_char=1589
+4	measures	measure	NOUN	NNS	Number=Plur	3	_	_	start_char=1590|end_char=1598
+5	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1599|end_char=1602
+6	not	not	PART	RB	_	5	_	_	start_char=1603|end_char=1606
+7	supported	support	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	_	_	start_char=1607|end_char=1616
+8	by	by	ADP	IN	_	7	_	_	start_char=1617|end_char=1619
+9	a	a	DET	DT	Definite=Ind|PronType=Art	8	_	_	start_char=1620|end_char=1621
+10	majority	majority	NOUN	NN	Number=Sing	9	_	_	start_char=1622|end_char=1630
+11	of	of	ADP	IN	_	10	_	_	start_char=1631|end_char=1633
+12-13	Germany's	_	_	_	_	_	_	_	start_char=1634|end_char=1643
+12	Germany	Germany	PROPN	NNP	Number=Sing	11	_	_	start_char=1634|end_char=1641
+13	's	's	PART	POS	_	12	_	_	start_char=1641|end_char=1643
+14	population	population	NOUN	NN	Number=Sing	13	_	_	start_char=1644|end_char=1654|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=1654|end_char=1655
+16	sometimes	sometimes	ADV	RB	_	15	_	_	start_char=1656|end_char=1665
+17	even	even	ADV	RB	_	16	_	_	start_char=1666|end_char=1670
+18	provoing	provo	VERB	VBG	VerbForm=Ger	17	_	_	start_char=1671|end_char=1679
+19	violent	violent	ADJ	JJ	Degree=Pos	18	_	_	start_char=1680|end_char=1687
+20	reactions	reaction	NOUN	NNS	Number=Plur	19	_	_	start_char=1688|end_char=1697|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=1697|end_char=1698
+
+# text = Earlier this wee, a truc driver drove into an activist.
+# sent_id = 10
+1	Earlier	early	ADV	RBR	Degree=Cmp	0	_	_	start_char=1699|end_char=1706
+2	this	this	DET	DT	Number=Sing|PronType=Dem	1	_	_	start_char=1707|end_char=1711
+3	wee	wee	NOUN	NN	Number=Sing	2	_	_	start_char=1712|end_char=1715|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1715|end_char=1716
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=1717|end_char=1718
+6	truc	truc	NOUN	NN	Number=Sing	5	_	_	start_char=1719|end_char=1723
+7	driver	driver	NOUN	NN	Number=Sing	6	_	_	start_char=1724|end_char=1730
+8	drove	drive	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=1731|end_char=1736
+9	into	into	ADP	IN	_	8	_	_	start_char=1737|end_char=1741
+10	an	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=1742|end_char=1744
+11	activist	activist	NOUN	NN	Number=Sing	10	_	_	start_char=1745|end_char=1753|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=1753|end_char=1754
+
+# text = Although no one was injured, the driver could now lose his license.
+# sent_id = 11
+1	Although	although	SCONJ	IN	_	0	_	_	start_char=1755|end_char=1763
+2	no	no	DET	DT	_	1	_	_	start_char=1764|end_char=1766
+3	one	one	PRON	NN	Number=Sing|PronType=Neg	2	_	_	start_char=1767|end_char=1770
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=1771|end_char=1774
+5	injured	injure	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	_	_	start_char=1775|end_char=1782|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=1782|end_char=1783
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1784|end_char=1787
+8	driver	driver	NOUN	NN	Number=Sing	7	_	_	start_char=1788|end_char=1794
+9	could	could	AUX	MD	VerbForm=Fin	8	_	_	start_char=1795|end_char=1800
+10	now	now	ADV	RB	_	9	_	_	start_char=1801|end_char=1804
+11	lose	lose	VERB	VB	VerbForm=Inf	10	_	_	start_char=1805|end_char=1809
+12	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	_	_	start_char=1810|end_char=1813
+13	license	license	NOUN	NN	Number=Sing	12	_	_	start_char=1814|end_char=1821|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=1821|end_char=1822|SpacesAfter=\n\n
+
+# text = On Thursday, the group already bloced two major airports in the middle of the summer vacation season, preventing flights from taing off or landing for hours.
+# sent_id = 12
+1	On	on	ADP	IN	_	0	_	_	start_char=1824|end_char=1826
+2	Thursday	Thursday	PROPN	NNP	Number=Sing	1	_	_	start_char=1827|end_char=1835|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=1835|end_char=1836
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1837|end_char=1840
+5	group	group	NOUN	NN	Number=Sing	4	_	_	start_char=1841|end_char=1846
+6	already	already	ADV	RB	_	5	_	_	start_char=1847|end_char=1854
+7	bloced	bloce	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=1855|end_char=1861
+8	two	two	NUM	CD	NumForm=Word|NumType=Card	7	_	_	start_char=1862|end_char=1865
+9	major	major	ADJ	JJ	Degree=Pos	8	_	_	start_char=1866|end_char=1871
+10	airports	airport	NOUN	NNS	Number=Plur	9	_	_	start_char=1872|end_char=1880
+11	in	in	ADP	IN	_	10	_	_	start_char=1881|end_char=1883
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=1884|end_char=1887
+13	middle	middle	NOUN	NN	Number=Sing	12	_	_	start_char=1888|end_char=1894
+14	of	of	ADP	IN	_	13	_	_	start_char=1895|end_char=1897
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=1898|end_char=1901
+16	summer	summer	NOUN	NN	Number=Sing	15	_	_	start_char=1902|end_char=1908
+17	vacation	vacation	NOUN	NN	Number=Sing	16	_	_	start_char=1909|end_char=1917
+18	season	season	NOUN	NN	Number=Sing	17	_	_	start_char=1918|end_char=1924|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=1924|end_char=1925
+20	preventing	prevent	VERB	VBG	VerbForm=Ger	19	_	_	start_char=1926|end_char=1936
+21	flights	flight	NOUN	NNS	Number=Plur	20	_	_	start_char=1937|end_char=1944
+22	from	from	SCONJ	IN	_	21	_	_	start_char=1945|end_char=1949
+23	taing	tay	VERB	VBG	VerbForm=Ger	22	_	_	start_char=1950|end_char=1955
+24	off	off	ADP	RP	_	23	_	_	start_char=1956|end_char=1959
+25	or	or	CCONJ	CC	_	24	_	_	start_char=1960|end_char=1962
+26	landing	land	VERB	VBG	VerbForm=Ger	25	_	_	start_char=1963|end_char=1970
+27	for	for	ADP	IN	_	26	_	_	start_char=1971|end_char=1974
+28	hours	hour	NOUN	NNS	Number=Plur	27	_	_	start_char=1975|end_char=1980|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=1980|end_char=1981
+
+# text = With this, the activists were "doing massive damage to the cause of climate protection," Minister for Economic Affairs and Climate Action Robert Habec said.
+# sent_id = 13
+1	With	with	ADP	IN	_	0	_	_	start_char=1982|end_char=1986
+2	this	this	PRON	DT	Number=Sing|PronType=Dem	1	_	_	start_char=1987|end_char=1991|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=1991|end_char=1992
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1993|end_char=1996
+5	activists	activist	NOUN	NNS	Number=Plur	4	_	_	start_char=1997|end_char=2006
+6	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=2007|end_char=2011
+7	"	"	PUNCT	``	_	6	_	_	start_char=2012|end_char=2013|SpaceAfter=No
+8	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	7	_	_	start_char=2013|end_char=2018
+9	massive	massive	ADJ	JJ	Degree=Pos	8	_	_	start_char=2019|end_char=2026
+10	damage	damage	NOUN	NN	Number=Sing	9	_	_	start_char=2027|end_char=2033
+11	to	to	ADP	IN	_	10	_	_	start_char=2034|end_char=2036
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=2037|end_char=2040
+13	cause	cause	NOUN	NN	Number=Sing	12	_	_	start_char=2041|end_char=2046
+14	of	of	ADP	IN	_	13	_	_	start_char=2047|end_char=2049
+15	climate	climate	NOUN	NN	Number=Sing	14	_	_	start_char=2050|end_char=2057
+16	protection	protection	NOUN	NN	Number=Sing	15	_	_	start_char=2058|end_char=2068|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=2068|end_char=2069|SpaceAfter=No
+18	"	"	PUNCT	''	_	17	_	_	start_char=2069|end_char=2070
+19	Minister	Minister	PROPN	NNP	Number=Sing	18	_	_	start_char=2071|end_char=2079
+20	for	for	ADP	IN	_	19	_	_	start_char=2080|end_char=2083
+21	Economic	Economic	ADJ	NNP	Degree=Pos	20	_	_	start_char=2084|end_char=2092
+22	Affairs	affair	PROPN	NNPS	Number=Plur	21	_	_	start_char=2093|end_char=2100
+23	and	and	CCONJ	CC	_	22	_	_	start_char=2101|end_char=2104
+24	Climate	Climate	PROPN	NNP	Number=Sing	23	_	_	start_char=2105|end_char=2112
+25	Action	Action	PROPN	NNP	Number=Sing	24	_	_	start_char=2113|end_char=2119
+26	Robert	Robert	PROPN	NNP	Number=Sing	25	_	_	start_char=2120|end_char=2126
+27	Habec	Habec	PROPN	NNP	Number=Sing	26	_	_	start_char=2127|end_char=2132
+28	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	27	_	_	start_char=2133|end_char=2137|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=2137|end_char=2138|SpacesAfter=\n\n
+
+# text = This form of protest is not right, the minister told the German news agency dpa.
+# sent_id = 14
+1	This	this	DET	DT	Number=Sing|PronType=Dem	0	_	_	start_char=2140|end_char=2144
+2	form	form	NOUN	NN	Number=Sing	1	_	_	start_char=2145|end_char=2149
+3	of	of	ADP	IN	_	2	_	_	start_char=2150|end_char=2152
+4	protest	protest	NOUN	NN	Number=Sing	3	_	_	start_char=2153|end_char=2160
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=2161|end_char=2163
+6	not	not	PART	RB	_	5	_	_	start_char=2164|end_char=2167
+7	right	right	ADJ	JJ	Degree=Pos	6	_	_	start_char=2168|end_char=2173|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=2173|end_char=2174
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=2175|end_char=2178
+10	minister	minister	NOUN	NN	Number=Sing	9	_	_	start_char=2179|end_char=2187
+11	told	tell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=2188|end_char=2192
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=2193|end_char=2196
+13	German	German	ADJ	JJ	Degree=Pos	12	_	_	start_char=2197|end_char=2203
+14	news	news	NOUN	NN	Number=Sing	13	_	_	start_char=2204|end_char=2208
+15	agency	agency	NOUN	NN	Number=Sing	14	_	_	start_char=2209|end_char=2215
+16	dpa	dpa	NOUN	NN	Number=Sing	15	_	_	start_char=2216|end_char=2219|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=2219|end_char=2220
+
+# text = "If you really want to stand up for climate protection, you have to tae social acceptance into account," he said.
+# sent_id = 15
+1	"	"	PUNCT	``	_	0	_	_	start_char=2221|end_char=2222|SpaceAfter=No
+2	If	if	SCONJ	IN	_	1	_	_	start_char=2222|end_char=2224
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	_	_	start_char=2225|end_char=2228
+4	really	really	ADV	RB	_	3	_	_	start_char=2229|end_char=2235
+5	want	want	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	_	_	start_char=2236|end_char=2240
+6	to	to	PART	TO	_	5	_	_	start_char=2241|end_char=2243
+7	stand	stand	VERB	VB	VerbForm=Inf	6	_	_	start_char=2244|end_char=2249
+8	up	up	ADP	RP	_	7	_	_	start_char=2250|end_char=2252
+9	for	for	ADP	IN	_	8	_	_	start_char=2253|end_char=2256
+10	climate	climate	NOUN	NN	Number=Sing	9	_	_	start_char=2257|end_char=2264
+11	protection	protection	NOUN	NN	Number=Sing	10	_	_	start_char=2265|end_char=2275|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=2275|end_char=2276
+13	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	_	_	start_char=2277|end_char=2280
+14	have	have	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	13	_	_	start_char=2281|end_char=2285
+15	to	to	PART	TO	_	14	_	_	start_char=2286|end_char=2288
+16	tae	tae	VERB	VB	VerbForm=Inf	15	_	_	start_char=2289|end_char=2292
+17	social	social	ADJ	JJ	Degree=Pos	16	_	_	start_char=2293|end_char=2299
+18	acceptance	acceptance	NOUN	NN	Number=Sing	17	_	_	start_char=2300|end_char=2310
+19	into	into	ADP	IN	_	18	_	_	start_char=2311|end_char=2315
+20	account	account	NOUN	NN	Number=Sing	19	_	_	start_char=2316|end_char=2323|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=2323|end_char=2324|SpaceAfter=No
+22	"	"	PUNCT	''	_	21	_	_	start_char=2324|end_char=2325
+23	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	_	_	start_char=2326|end_char=2328
+24	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	23	_	_	start_char=2329|end_char=2333|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=2333|end_char=2334|SpaceAfter=No
+

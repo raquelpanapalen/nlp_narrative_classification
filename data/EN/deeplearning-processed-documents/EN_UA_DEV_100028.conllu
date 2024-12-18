@@ -1,0 +1,400 @@
+# text = European gas prices surge 20% as Russia's latest move causes supply fears: Report
+# sent_id = 0
+1	European	European	ADJ	JJ	Degree=Pos	0	_	_	start_char=0|end_char=8
+2	gas	gas	NOUN	NN	Number=Sing	1	_	_	start_char=9|end_char=12
+3	prices	price	NOUN	NNS	Number=Plur	2	_	_	start_char=13|end_char=19
+4	surge	surge	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=20|end_char=25
+5	20	20	NUM	CD	NumForm=Digit|NumType=Card	4	_	_	start_char=26|end_char=28|SpaceAfter=No
+6	%	%	SYM	NN	Number=Sing	5	_	_	start_char=28|end_char=29
+7	as	as	SCONJ	IN	_	6	_	_	start_char=30|end_char=32
+8-9	Russia's	_	_	_	_	_	_	_	start_char=33|end_char=41
+8	Russia	Russia	PROPN	NNP	Number=Sing	7	_	_	start_char=33|end_char=39
+9	's	's	PART	POS	_	8	_	_	start_char=39|end_char=41
+10	latest	late	ADJ	JJS	Degree=Sup	9	_	_	start_char=42|end_char=48
+11	move	move	NOUN	NN	Number=Sing	10	_	_	start_char=49|end_char=53
+12	causes	cause	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=54|end_char=60
+13	supply	supply	NOUN	NN	Number=Sing	12	_	_	start_char=61|end_char=67
+14	fears	fear	NOUN	NNS	Number=Plur	13	_	_	start_char=68|end_char=73|SpaceAfter=No
+15	:	:	PUNCT	:	_	14	_	_	start_char=73|end_char=74
+16	Report	report	NOUN	NN	Number=Sing	15	_	_	start_char=75|end_char=81|SpacesAfter=\s\n\n
+
+# text = In the aftermath of Russia's move to shut a major pipeline, prices of European gas surged 20 per cent, Bloomberg reported.
+# sent_id = 1
+1	In	in	ADP	IN	_	0	_	_	start_char=84|end_char=86
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=87|end_char=90
+3	aftermath	aftermath	NOUN	NN	Number=Sing	2	_	_	start_char=91|end_char=100
+4	of	of	ADP	IN	_	3	_	_	start_char=101|end_char=103
+5-6	Russia's	_	_	_	_	_	_	_	start_char=104|end_char=112
+5	Russia	Russia	PROPN	NNP	Number=Sing	4	_	_	start_char=104|end_char=110
+6	's	's	PART	POS	_	5	_	_	start_char=110|end_char=112
+7	move	move	NOUN	NN	Number=Sing	6	_	_	start_char=113|end_char=117
+8	to	to	PART	TO	_	7	_	_	start_char=118|end_char=120
+9	shut	shut	VERB	VB	VerbForm=Inf	8	_	_	start_char=121|end_char=125
+10	a	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=126|end_char=127
+11	major	major	ADJ	JJ	Degree=Pos	10	_	_	start_char=128|end_char=133
+12	pipeline	pipeline	NOUN	NN	Number=Sing	11	_	_	start_char=134|end_char=142|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=142|end_char=143
+14	prices	price	NOUN	NNS	Number=Plur	13	_	_	start_char=144|end_char=150
+15	of	of	ADP	IN	_	14	_	_	start_char=151|end_char=153
+16	European	European	ADJ	JJ	Degree=Pos	15	_	_	start_char=154|end_char=162
+17	gas	gas	NOUN	NN	Number=Sing	16	_	_	start_char=163|end_char=166
+18	surged	surge	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	17	_	_	start_char=167|end_char=173
+19	20	20	NUM	CD	NumForm=Digit|NumType=Card	18	_	_	start_char=174|end_char=176
+20	per	per	NOUN	NN	Number=Sing	19	_	_	start_char=177|end_char=180
+21	cent	cent	NOUN	NN	Number=Sing	20	_	_	start_char=181|end_char=185|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=185|end_char=186
+23	Bloomberg	Bloomberg	PROPN	NNP	Number=Sing	22	_	_	start_char=187|end_char=196
+24	reported	report	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	23	_	_	start_char=197|end_char=205|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=205|end_char=206
+
+# text = It caused fears that the move will lead to a prolonged supply halt.
+# sent_id = 2
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=207|end_char=209
+2	caused	cause	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=210|end_char=216
+3	fears	fear	NOUN	NNS	Number=Plur	2	_	_	start_char=217|end_char=222
+4	that	that	SCONJ	IN	_	3	_	_	start_char=223|end_char=227
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=228|end_char=231
+6	move	move	NOUN	NN	Number=Sing	5	_	_	start_char=232|end_char=236
+7	will	will	AUX	MD	VerbForm=Fin	6	_	_	start_char=237|end_char=241
+8	lead	lead	VERB	VB	VerbForm=Inf	7	_	_	start_char=242|end_char=246
+9	to	to	ADP	IN	_	8	_	_	start_char=247|end_char=249
+10	a	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=250|end_char=251
+11	prolonged	prolonged	ADJ	JJ	Degree=Pos	10	_	_	start_char=252|end_char=261
+12	supply	supply	NOUN	NN	Number=Sing	11	_	_	start_char=262|end_char=268
+13	halt	halt	NOUN	NN	Number=Sing	12	_	_	start_char=269|end_char=273|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=273|end_char=274|SpacesAfter=\n\n
+
+# text = The report mentioned that benchmar futures rose toward 300 euros a megawatt hour.
+# sent_id = 3
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=276|end_char=279
+2	report	report	NOUN	NN	Number=Sing	1	_	_	start_char=280|end_char=286
+3	mentioned	mention	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=287|end_char=296
+4	that	that	SCONJ	IN	_	3	_	_	start_char=297|end_char=301
+5	benchmar	benchmar	NOUN	NN	Number=Sing	4	_	_	start_char=302|end_char=310
+6	futures	future	NOUN	NNS	Number=Plur	5	_	_	start_char=311|end_char=318
+7	rose	rise	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=319|end_char=323
+8	toward	toward	ADP	IN	_	7	_	_	start_char=324|end_char=330
+9	300	300	NUM	CD	NumForm=Digit|NumType=Card	8	_	_	start_char=331|end_char=334
+10	euros	euro	NOUN	NNS	Number=Plur	9	_	_	start_char=335|end_char=340
+11	a	a	DET	DT	Definite=Ind|PronType=Art	10	_	_	start_char=341|end_char=342
+12	megawatt	megawatt	NOUN	NN	Number=Sing	11	_	_	start_char=343|end_char=351
+13	hour	hour	NOUN	NN	Number=Sing	12	_	_	start_char=352|end_char=356|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=356|end_char=357
+
+# text = The electricity and coal prices also surge to fresh records.
+# sent_id = 4
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=358|end_char=361
+2	electricity	electricity	NOUN	NN	Number=Sing	1	_	_	start_char=362|end_char=373
+3	and	and	CCONJ	CC	_	2	_	_	start_char=374|end_char=377
+4	coal	coal	NOUN	NN	Number=Sing	3	_	_	start_char=378|end_char=382
+5	prices	price	NOUN	NNS	Number=Plur	4	_	_	start_char=383|end_char=389
+6	also	also	ADV	RB	_	5	_	_	start_char=390|end_char=394
+7	surge	surge	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=395|end_char=400
+8	to	to	ADP	IN	_	7	_	_	start_char=401|end_char=403
+9	fresh	fresh	ADJ	JJ	Degree=Pos	8	_	_	start_char=404|end_char=409
+10	records	record	NOUN	NNS	Number=Plur	9	_	_	start_char=410|end_char=417|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=417|end_char=418|SpacesAfter=\n\n
+
+# text = The recent developments show that the Europeans are preparing for a difficult winter without gas supplies from Russia.
+# sent_id = 5
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=420|end_char=423
+2	recent	recent	ADJ	JJ	Degree=Pos	1	_	_	start_char=424|end_char=430
+3	developments	development	NOUN	NNS	Number=Plur	2	_	_	start_char=431|end_char=443
+4	show	show	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=444|end_char=448
+5	that	that	SCONJ	IN	_	4	_	_	start_char=449|end_char=453
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=454|end_char=457
+7	Europeans	European	PROPN	NNPS	Number=Plur	6	_	_	start_char=458|end_char=467
+8	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=468|end_char=471
+9	preparing	prepare	VERB	VBG	Tense=Pres|VerbForm=Part	8	_	_	start_char=472|end_char=481
+10	for	for	ADP	IN	_	9	_	_	start_char=482|end_char=485
+11	a	a	DET	DT	Definite=Ind|PronType=Art	10	_	_	start_char=486|end_char=487
+12	difficult	difficult	ADJ	JJ	Degree=Pos	11	_	_	start_char=488|end_char=497
+13	winter	winter	NOUN	NN	Number=Sing	12	_	_	start_char=498|end_char=504
+14	without	without	ADP	IN	_	13	_	_	start_char=505|end_char=512
+15	gas	gas	NOUN	NN	Number=Sing	14	_	_	start_char=513|end_char=516
+16	supplies	supplies	NOUN	NNS	Number=Plur	15	_	_	start_char=517|end_char=525
+17	from	from	ADP	IN	_	16	_	_	start_char=526|end_char=530
+18	Russia	Russia	PROPN	NNP	Number=Sing	17	_	_	start_char=531|end_char=537|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=537|end_char=538
+
+# text = It is part of the fallout from the war in Uraine, which started after Russia announced the invasion of its neighbouring country on February 24.
+# sent_id = 6
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=539|end_char=541
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=542|end_char=544
+3	part	part	NOUN	NN	Number=Sing	2	_	_	start_char=545|end_char=549
+4	of	of	ADP	IN	_	3	_	_	start_char=550|end_char=552
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=553|end_char=556
+6	fallout	fallout	NOUN	NN	Number=Sing	5	_	_	start_char=557|end_char=564
+7	from	from	ADP	IN	_	6	_	_	start_char=565|end_char=569
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=570|end_char=573
+9	war	war	NOUN	NN	Number=Sing	8	_	_	start_char=574|end_char=577
+10	in	in	ADP	IN	_	9	_	_	start_char=578|end_char=580
+11	Uraine	Uraine	PROPN	NNP	Number=Sing	10	_	_	start_char=581|end_char=587|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=587|end_char=588
+13	which	which	PRON	WDT	PronType=Rel	12	_	_	start_char=589|end_char=594
+14	started	start	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	_	_	start_char=595|end_char=602
+15	after	after	SCONJ	IN	_	14	_	_	start_char=603|end_char=608
+16	Russia	Russia	PROPN	NNP	Number=Sing	15	_	_	start_char=609|end_char=615
+17	announced	announce	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	_	_	start_char=616|end_char=625
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=626|end_char=629
+19	invasion	invasion	NOUN	NN	Number=Sing	18	_	_	start_char=630|end_char=638
+20	of	of	ADP	IN	_	19	_	_	start_char=639|end_char=641
+21	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	20	_	_	start_char=642|end_char=645
+22	neighbouring	neighbour	ADJ	JJ	Degree=Pos	21	_	_	start_char=646|end_char=658
+23	country	country	NOUN	NN	Number=Sing	22	_	_	start_char=659|end_char=666
+24	on	on	ADP	IN	_	23	_	_	start_char=667|end_char=669
+25	February	February	PROPN	NNP	Number=Sing	24	_	_	start_char=670|end_char=678
+26	24	24	NUM	CD	NumForm=Digit|NumType=Card	25	_	_	start_char=679|end_char=681|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=681|end_char=682|SpacesAfter=\n\n
+
+# text = In the report, it is mentioned that the ey Nord Stream pipeline will stop for three days of maintenance on August 31.
+# sent_id = 7
+1	In	in	ADP	IN	_	0	_	_	start_char=684|end_char=686
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=687|end_char=690
+3	report	report	NOUN	NN	Number=Sing	2	_	_	start_char=691|end_char=697|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=697|end_char=698
+5	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	_	_	start_char=699|end_char=701
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=702|end_char=704
+7	mentioned	mention	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	_	_	start_char=705|end_char=714
+8	that	that	SCONJ	IN	_	7	_	_	start_char=715|end_char=719
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=720|end_char=723
+10	ey	ey	NOUN	NN	Number=Sing	9	_	_	start_char=724|end_char=726
+11	Nord	Nord	PROPN	NNP	Number=Sing	10	_	_	start_char=727|end_char=731
+12	Stream	Stream	PROPN	NNP	Number=Sing	11	_	_	start_char=732|end_char=738
+13	pipeline	pipeline	NOUN	NN	Number=Sing	12	_	_	start_char=739|end_char=747
+14	will	will	AUX	MD	VerbForm=Fin	13	_	_	start_char=748|end_char=752
+15	stop	stop	VERB	VB	VerbForm=Inf	14	_	_	start_char=753|end_char=757
+16	for	for	ADP	IN	_	15	_	_	start_char=758|end_char=761
+17	three	three	NUM	CD	NumForm=Word|NumType=Card	16	_	_	start_char=762|end_char=767
+18	days	day	NOUN	NNS	Number=Plur	17	_	_	start_char=768|end_char=772
+19	of	of	ADP	IN	_	18	_	_	start_char=773|end_char=775
+20	maintenance	maintenance	NOUN	NN	Number=Sing	19	_	_	start_char=776|end_char=787
+21	on	on	ADP	IN	_	20	_	_	start_char=788|end_char=790
+22	August	August	PROPN	NNP	Number=Sing	21	_	_	start_char=791|end_char=797
+23	31	31	NUM	CD	NumForm=Digit|NumType=Card	22	_	_	start_char=798|end_char=800|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=800|end_char=801
+
+# text = This has raised concerns that the lin won't return to service as planned after the wors.
+# sent_id = 8
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=802|end_char=806
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=807|end_char=810
+3	raised	raise	VERB	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=811|end_char=817
+4	concerns	concern	NOUN	NNS	Number=Plur	3	_	_	start_char=818|end_char=826
+5	that	that	SCONJ	IN	_	4	_	_	start_char=827|end_char=831
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=832|end_char=835
+7	lin	lin	NOUN	NN	Number=Sing	6	_	_	start_char=836|end_char=839
+8-9	won't	_	_	_	_	_	_	_	start_char=840|end_char=845
+8	wo	will	AUX	MD	VerbForm=Fin	7	_	_	start_char=840|end_char=842
+9	n't	not	PART	RB	_	8	_	_	start_char=842|end_char=845
+10	return	return	VERB	VB	VerbForm=Inf	9	_	_	start_char=846|end_char=852
+11	to	to	ADP	IN	_	10	_	_	start_char=853|end_char=855
+12	service	service	NOUN	NN	Number=Sing	11	_	_	start_char=856|end_char=863
+13	as	as	SCONJ	IN	_	12	_	_	start_char=864|end_char=866
+14	planned	plan	VERB	VBN	Tense=Past|VerbForm=Part	13	_	_	start_char=867|end_char=874
+15	after	after	ADP	IN	_	14	_	_	start_char=875|end_char=880
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=881|end_char=884
+17	wors	wor	NOUN	NNS	Number=Plur	16	_	_	start_char=885|end_char=889|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=889|end_char=890|SpacesAfter=\n\n
+
+# text = This comes after Bulgaria announced that it will see tals with Russian energy giant Gazprom to resume deliveries of natural gas ahead of the winter season.
+# sent_id = 9
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=892|end_char=896
+2	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=897|end_char=902
+3	after	after	SCONJ	IN	_	2	_	_	start_char=903|end_char=908
+4	Bulgaria	Bulgaria	PROPN	NNP	Number=Sing	3	_	_	start_char=909|end_char=917
+5	announced	announce	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=918|end_char=927
+6	that	that	SCONJ	IN	_	5	_	_	start_char=928|end_char=932
+7	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	_	_	start_char=933|end_char=935
+8	will	will	AUX	MD	VerbForm=Fin	7	_	_	start_char=936|end_char=940
+9	see	see	VERB	VB	VerbForm=Inf	8	_	_	start_char=941|end_char=944
+10	tals	tal	NOUN	NNS	Number=Plur	9	_	_	start_char=945|end_char=949
+11	with	with	ADP	IN	_	10	_	_	start_char=950|end_char=954
+12	Russian	Russian	ADJ	JJ	Degree=Pos	11	_	_	start_char=955|end_char=962
+13	energy	energy	NOUN	NN	Number=Sing	12	_	_	start_char=963|end_char=969
+14	giant	giant	NOUN	NN	Number=Sing	13	_	_	start_char=970|end_char=975
+15	Gazprom	Gazprom	PROPN	NNP	Number=Sing	14	_	_	start_char=976|end_char=983
+16	to	to	PART	TO	_	15	_	_	start_char=984|end_char=986
+17	resume	resume	VERB	VB	VerbForm=Inf	16	_	_	start_char=987|end_char=993
+18	deliveries	delivery	NOUN	NNS	Number=Plur	17	_	_	start_char=994|end_char=1004
+19	of	of	ADP	IN	_	18	_	_	start_char=1005|end_char=1007
+20	natural	natural	ADJ	JJ	Degree=Pos	19	_	_	start_char=1008|end_char=1015
+21	gas	gas	NOUN	NN	Number=Sing	20	_	_	start_char=1016|end_char=1019
+22	ahead	ahead	ADV	RB	_	21	_	_	start_char=1020|end_char=1025
+23	of	of	ADP	IN	_	22	_	_	start_char=1026|end_char=1028
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=1029|end_char=1032
+25	winter	winter	NOUN	NN	Number=Sing	24	_	_	start_char=1033|end_char=1039
+26	season	season	NOUN	NN	Number=Sing	25	_	_	start_char=1040|end_char=1046|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=1046|end_char=1047|SpacesAfter=\n\n
+
+# text = The deliveries were cut by Gazprom to Bulgaria in late April after the EU member's previous centrist government refused to pay in rubles.
+# sent_id = 10
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1049|end_char=1052
+2	deliveries	delivery	NOUN	NNS	Number=Plur	1	_	_	start_char=1053|end_char=1063
+3	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1064|end_char=1068
+4	cut	cut	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=1069|end_char=1072
+5	by	by	ADP	IN	_	4	_	_	start_char=1073|end_char=1075
+6	Gazprom	Gazprom	PROPN	NNP	Number=Sing	5	_	_	start_char=1076|end_char=1083
+7	to	to	ADP	IN	_	6	_	_	start_char=1084|end_char=1086
+8	Bulgaria	Bulgaria	PROPN	NNP	Number=Sing	7	_	_	start_char=1087|end_char=1095
+9	in	in	ADP	IN	_	8	_	_	start_char=1096|end_char=1098
+10	late	late	ADJ	JJ	Degree=Pos	9	_	_	start_char=1099|end_char=1103
+11	April	April	PROPN	NNP	Number=Sing	10	_	_	start_char=1104|end_char=1109
+12	after	after	SCONJ	IN	_	11	_	_	start_char=1110|end_char=1115
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1116|end_char=1119
+14	EU	EU	PROPN	NNP	Number=Sing	13	_	_	start_char=1120|end_char=1122
+15-16	member's	_	_	_	_	_	_	_	start_char=1123|end_char=1131
+15	member	member	NOUN	NN	Number=Sing	14	_	_	start_char=1123|end_char=1129
+16	's	's	PART	POS	_	15	_	_	start_char=1129|end_char=1131
+17	previous	previous	ADJ	JJ	Degree=Pos	16	_	_	start_char=1132|end_char=1140
+18	centrist	centrist	ADJ	JJ	Degree=Pos	17	_	_	start_char=1141|end_char=1149
+19	government	government	NOUN	NN	Number=Sing	18	_	_	start_char=1150|end_char=1160
+20	refused	refuse	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	_	_	start_char=1161|end_char=1168
+21	to	to	PART	TO	_	20	_	_	start_char=1169|end_char=1171
+22	pay	pay	VERB	VB	VerbForm=Inf	21	_	_	start_char=1172|end_char=1175
+23	in	in	ADP	IN	_	22	_	_	start_char=1176|end_char=1178
+24	rubles	ruble	NOUN	NNS	Number=Plur	23	_	_	start_char=1179|end_char=1185|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=1185|end_char=1186|SpacesAfter=\n\n
+
+# text = Ever since the supplies were cut, the nation, which is almost totally dependent on Russia for its annual consumption of 3.0 billion cubic metres of natural gas, had been looing for alternative deliveries.
+# sent_id = 11
+1	Ever	ever	ADV	RB	_	0	_	_	start_char=1188|end_char=1192
+2	since	since	SCONJ	IN	_	1	_	_	start_char=1193|end_char=1198
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1199|end_char=1202
+4	supplies	supplies	NOUN	NNS	Number=Plur	3	_	_	start_char=1203|end_char=1211
+5	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=1212|end_char=1216
+6	cut	cut	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	_	_	start_char=1217|end_char=1220|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=1220|end_char=1221
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=1222|end_char=1225
+9	nation	nation	NOUN	NN	Number=Sing	8	_	_	start_char=1226|end_char=1232|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=1232|end_char=1233
+11	which	which	PRON	WDT	PronType=Rel	10	_	_	start_char=1234|end_char=1239
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=1240|end_char=1242
+13	almost	almost	ADV	RB	_	12	_	_	start_char=1243|end_char=1249
+14	totally	totally	ADV	RB	_	13	_	_	start_char=1250|end_char=1257
+15	dependent	dependent	ADJ	JJ	Degree=Pos	14	_	_	start_char=1258|end_char=1267
+16	on	on	ADP	IN	_	15	_	_	start_char=1268|end_char=1270
+17	Russia	Russia	PROPN	NNP	Number=Sing	16	_	_	start_char=1271|end_char=1277
+18	for	for	ADP	IN	_	17	_	_	start_char=1278|end_char=1281
+19	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	18	_	_	start_char=1282|end_char=1285
+20	annual	annual	ADJ	JJ	Degree=Pos	19	_	_	start_char=1286|end_char=1292
+21	consumption	consumption	NOUN	NN	Number=Sing	20	_	_	start_char=1293|end_char=1304
+22	of	of	ADP	IN	_	21	_	_	start_char=1305|end_char=1307
+23	3.0	3.0	NUM	CD	NumForm=Digit|NumType=Card	22	_	_	start_char=1308|end_char=1311
+24	billion	billion	NUM	CD	NumForm=Word|NumType=Card	23	_	_	start_char=1312|end_char=1319
+25	cubic	cubic	NOUN	NN	Number=Sing	24	_	_	start_char=1320|end_char=1325
+26	metres	metre	NOUN	NNS	Number=Plur	25	_	_	start_char=1326|end_char=1332
+27	of	of	ADP	IN	_	26	_	_	start_char=1333|end_char=1335
+28	natural	natural	ADJ	JJ	Degree=Pos	27	_	_	start_char=1336|end_char=1343
+29	gas	gas	NOUN	NN	Number=Sing	28	_	_	start_char=1344|end_char=1347|SpaceAfter=No
+30	,	,	PUNCT	,	_	29	_	_	start_char=1347|end_char=1348
+31	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	30	_	_	start_char=1349|end_char=1352
+32	been	be	AUX	VBN	Tense=Past|VerbForm=Part	31	_	_	start_char=1353|end_char=1357
+33	looing	loo	VERB	VBG	Tense=Pres|VerbForm=Part	32	_	_	start_char=1358|end_char=1364
+34	for	for	ADP	IN	_	33	_	_	start_char=1365|end_char=1368
+35	alternative	alternative	ADJ	JJ	Degree=Pos	34	_	_	start_char=1369|end_char=1380
+36	deliveries	delivery	NOUN	NNS	Number=Plur	35	_	_	start_char=1381|end_char=1391|SpaceAfter=No
+37	.	.	PUNCT	.	_	36	_	_	start_char=1391|end_char=1392|SpacesAfter=\n\n
+
+# text = Meanwhile, German Chancellor Olaf Scholz met Canadian Prime Minister Justin Trudeau on Monday (August 22) at the start of a two-day trip.
+# sent_id = 12
+1	Meanwhile	meanwhile	ADV	RB	_	0	_	_	start_char=1394|end_char=1403|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=1403|end_char=1404
+3	German	German	ADJ	JJ	Degree=Pos	2	_	_	start_char=1405|end_char=1411
+4	Chancellor	Chancellor	PROPN	NNP	Number=Sing	3	_	_	start_char=1412|end_char=1422
+5	Olaf	Olaf	PROPN	NNP	Number=Sing	4	_	_	start_char=1423|end_char=1427
+6	Scholz	Scholz	PROPN	NNP	Number=Sing	5	_	_	start_char=1428|end_char=1434
+7	met	meet	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=1435|end_char=1438
+8	Canadian	Canadian	ADJ	JJ	Degree=Pos	7	_	_	start_char=1439|end_char=1447
+9	Prime	Prime	ADJ	NNP	Degree=Pos	8	_	_	start_char=1448|end_char=1453
+10	Minister	Minister	PROPN	NNP	Number=Sing	9	_	_	start_char=1454|end_char=1462
+11	Justin	Justin	PROPN	NNP	Number=Sing	10	_	_	start_char=1463|end_char=1469
+12	Trudeau	Trudeau	PROPN	NNP	Number=Sing	11	_	_	start_char=1470|end_char=1477
+13	on	on	ADP	IN	_	12	_	_	start_char=1478|end_char=1480
+14	Monday	Monday	PROPN	NNP	Number=Sing	13	_	_	start_char=1481|end_char=1487
+15	(	(	PUNCT	-LRB-	_	14	_	_	start_char=1488|end_char=1489|SpaceAfter=No
+16	August	August	PROPN	NNP	Number=Sing	15	_	_	start_char=1489|end_char=1495
+17	22	22	NUM	CD	NumForm=Digit|NumType=Card	16	_	_	start_char=1496|end_char=1498|SpaceAfter=No
+18	)	)	PUNCT	-RRB-	_	17	_	_	start_char=1498|end_char=1499
+19	at	at	ADP	IN	_	18	_	_	start_char=1500|end_char=1502
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=1503|end_char=1506
+21	start	start	NOUN	NN	Number=Sing	20	_	_	start_char=1507|end_char=1512
+22	of	of	ADP	IN	_	21	_	_	start_char=1513|end_char=1515
+23	a	a	DET	DT	Definite=Ind|PronType=Art	22	_	_	start_char=1516|end_char=1517
+24	two	two	NUM	CD	NumForm=Word|NumType=Card	23	_	_	start_char=1518|end_char=1521|SpaceAfter=No
+25	-	-	PUNCT	HYPH	_	24	_	_	start_char=1521|end_char=1522|SpaceAfter=No
+26	day	day	NOUN	NN	Number=Sing	25	_	_	start_char=1522|end_char=1525
+27	trip	trip	NOUN	NN	Number=Sing	26	_	_	start_char=1526|end_char=1530|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=1530|end_char=1531
+
+# text = During this crucial trip, the two leaders are expected to discuss energy cooperation.
+# sent_id = 13
+1	During	during	ADP	IN	_	0	_	_	start_char=1532|end_char=1538
+2	this	this	DET	DT	Number=Sing|PronType=Dem	1	_	_	start_char=1539|end_char=1543
+3	crucial	crucial	ADJ	JJ	Degree=Pos	2	_	_	start_char=1544|end_char=1551
+4	trip	trip	NOUN	NN	Number=Sing	3	_	_	start_char=1552|end_char=1556|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=1556|end_char=1557
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1558|end_char=1561
+7	two	two	NUM	CD	NumForm=Word|NumType=Card	6	_	_	start_char=1562|end_char=1565
+8	leaders	leader	NOUN	NNS	Number=Plur	7	_	_	start_char=1566|end_char=1573
+9	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=1574|end_char=1577
+10	expected	expect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	9	_	_	start_char=1578|end_char=1586
+11	to	to	PART	TO	_	10	_	_	start_char=1587|end_char=1589
+12	discuss	discuss	VERB	VB	VerbForm=Inf	11	_	_	start_char=1590|end_char=1597
+13	energy	energy	NOUN	NN	Number=Sing	12	_	_	start_char=1598|end_char=1604
+14	cooperation	cooperation	NOUN	NN	Number=Sing	13	_	_	start_char=1605|end_char=1616|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=1616|end_char=1617|SpacesAfter=\n\n
+
+# text = Notable, Uraine is at odds with Germany over its gas imports policy.
+# sent_id = 14
+1	Notable	Notable	ADJ	JJ	Degree=Pos	0	_	_	start_char=1619|end_char=1626|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=1626|end_char=1627
+3	Uraine	Uraine	PROPN	NNP	Number=Sing	2	_	_	start_char=1628|end_char=1634
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1635|end_char=1637
+5	at	at	ADP	IN	_	4	_	_	start_char=1638|end_char=1640
+6	odds	odd	NOUN	NNS	Number=Plur	5	_	_	start_char=1641|end_char=1645
+7	with	with	ADP	IN	_	6	_	_	start_char=1646|end_char=1650
+8	Germany	Germany	PROPN	NNP	Number=Sing	7	_	_	start_char=1651|end_char=1658
+9	over	over	ADP	IN	_	8	_	_	start_char=1659|end_char=1663
+10	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	_	_	start_char=1664|end_char=1667
+11	gas	gas	NOUN	NN	Number=Sing	10	_	_	start_char=1668|end_char=1671
+12	imports	import	NOUN	NNS	Number=Plur	11	_	_	start_char=1672|end_char=1679
+13	policy	policy	NOUN	NN	Number=Sing	12	_	_	start_char=1680|end_char=1686|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=1686|end_char=1687|SpacesAfter=\n\n
+
+# text = Especially regarding the deal with Moscow to build the Nord Stream 2 pipeline and also the deal with Canada to get a repaired turbine for the Nord Stream 1 delivered bac to Germany.
+# sent_id = 15
+1	Especially	especially	ADV	RB	_	0	_	_	start_char=1689|end_char=1699
+2	regarding	regard	VERB	VBG	VerbForm=Ger	1	_	_	start_char=1700|end_char=1709
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1710|end_char=1713
+4	deal	deal	NOUN	NN	Number=Sing	3	_	_	start_char=1714|end_char=1718
+5	with	with	ADP	IN	_	4	_	_	start_char=1719|end_char=1723
+6	Moscow	Moscow	PROPN	NNP	Number=Sing	5	_	_	start_char=1724|end_char=1730
+7	to	to	PART	TO	_	6	_	_	start_char=1731|end_char=1733
+8	build	build	VERB	VB	VerbForm=Inf	7	_	_	start_char=1734|end_char=1739
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1740|end_char=1743
+10	Nord	Nord	PROPN	NNP	Number=Sing	9	_	_	start_char=1744|end_char=1748
+11	Stream	Stream	PROPN	NNP	Number=Sing	10	_	_	start_char=1749|end_char=1755
+12	2	2	NUM	CD	NumForm=Digit|NumType=Card	11	_	_	start_char=1756|end_char=1757
+13	pipeline	pipeline	NOUN	NN	Number=Sing	12	_	_	start_char=1758|end_char=1766
+14	and	and	CCONJ	CC	_	13	_	_	start_char=1767|end_char=1770
+15	also	also	ADV	RB	_	14	_	_	start_char=1771|end_char=1775
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=1776|end_char=1779
+17	deal	deal	NOUN	NN	Number=Sing	16	_	_	start_char=1780|end_char=1784
+18	with	with	ADP	IN	_	17	_	_	start_char=1785|end_char=1789
+19	Canada	Canada	PROPN	NNP	Number=Sing	18	_	_	start_char=1790|end_char=1796
+20	to	to	PART	TO	_	19	_	_	start_char=1797|end_char=1799
+21	get	get	VERB	VB	VerbForm=Inf	20	_	_	start_char=1800|end_char=1803
+22	a	a	DET	DT	Definite=Ind|PronType=Art	21	_	_	start_char=1804|end_char=1805
+23	repaired	repair	VERB	VBN	Tense=Past|VerbForm=Part	22	_	_	start_char=1806|end_char=1814
+24	turbine	turbine	NOUN	NN	Number=Sing	23	_	_	start_char=1815|end_char=1822
+25	for	for	ADP	IN	_	24	_	_	start_char=1823|end_char=1826
+26	the	the	DET	DT	Definite=Def|PronType=Art	25	_	_	start_char=1827|end_char=1830
+27	Nord	Nord	PROPN	NNP	Number=Sing	26	_	_	start_char=1831|end_char=1835
+28	Stream	Stream	PROPN	NNP	Number=Sing	27	_	_	start_char=1836|end_char=1842
+29	1	1	NUM	CD	NumForm=Digit|NumType=Card	28	_	_	start_char=1843|end_char=1844
+30	delivered	deliver	VERB	VBN	Tense=Past|VerbForm=Part	29	_	_	start_char=1845|end_char=1854
+31	bac	bac	NOUN	NN	Number=Sing	30	_	_	start_char=1855|end_char=1858
+32	to	to	ADP	IN	_	31	_	_	start_char=1859|end_char=1861
+33	Germany	Germany	PROPN	NNP	Number=Sing	32	_	_	start_char=1862|end_char=1869|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=1869|end_char=1870|SpaceAfter=No
+

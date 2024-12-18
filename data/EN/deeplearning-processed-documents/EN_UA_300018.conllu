@@ -1,0 +1,424 @@
+# text = Urainian terrorist hot air balloon shot down over Russia
+# sent_id = 0
+1	Urainian	Urainian	ADJ	JJ	Degree=Pos	0	_	_	start_char=0|end_char=8
+2	terrorist	terrorist	ADJ	JJ	Degree=Pos	1	_	_	start_char=9|end_char=18
+3	hot	hot	ADJ	JJ	Degree=Pos	2	_	_	start_char=19|end_char=22
+4	air	air	NOUN	NN	Number=Sing	3	_	_	start_char=23|end_char=26
+5	balloon	balloon	NOUN	NN	Number=Sing	4	_	_	start_char=27|end_char=34
+6	shot	shoot	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=35|end_char=39
+7	down	down	ADV	RB	_	6	_	_	start_char=40|end_char=44
+8	over	over	ADP	IN	_	7	_	_	start_char=45|end_char=49
+9	Russia	Russia	PROPN	NNP	Number=Sing	8	_	_	start_char=50|end_char=56|SpacesAfter=\s\n\n\s
+
+# text = The Russian military shot down a Urainian hot air balloon over the urs region of Russia.
+# sent_id = 1
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=60|end_char=63
+2	Russian	Russian	ADJ	JJ	Degree=Pos	1	_	_	start_char=64|end_char=71
+3	military	military	NOUN	NN	Number=Sing	2	_	_	start_char=72|end_char=80
+4	shot	shoot	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=81|end_char=85
+5	down	down	ADP	RP	_	4	_	_	start_char=86|end_char=90
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=91|end_char=92
+7	Urainian	Urainian	ADJ	JJ	Degree=Pos	6	_	_	start_char=93|end_char=101
+8	hot	hot	ADJ	JJ	Degree=Pos	7	_	_	start_char=102|end_char=105
+9	air	air	NOUN	NN	Number=Sing	8	_	_	start_char=106|end_char=109
+10	balloon	balloon	NOUN	NN	Number=Sing	9	_	_	start_char=110|end_char=117
+11	over	over	ADP	IN	_	10	_	_	start_char=118|end_char=122
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=123|end_char=126
+13	urs	ur	NOUN	NN	Number=Sing	12	_	_	start_char=127|end_char=130
+14	region	region	NOUN	NN	Number=Sing	13	_	_	start_char=131|end_char=137
+15	of	of	ADP	IN	_	14	_	_	start_char=138|end_char=140
+16	Russia	Russia	PROPN	NNP	Number=Sing	15	_	_	start_char=141|end_char=147|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=147|end_char=148
+
+# text = They wanted to use the aerostat to carry out a terrorist attac on targets inside Russia, the Defence Ministry said.
+# sent_id = 2
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=149|end_char=153
+2	wanted	want	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=154|end_char=160
+3	to	to	PART	TO	_	2	_	_	start_char=161|end_char=163
+4	use	use	VERB	VB	VerbForm=Inf	3	_	_	start_char=164|end_char=167
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=168|end_char=171
+6	aerostat	aerostat	NOUN	NN	Number=Sing	5	_	_	start_char=172|end_char=180
+7	to	to	PART	TO	_	6	_	_	start_char=181|end_char=183
+8	carry	carry	VERB	VB	VerbForm=Inf	7	_	_	start_char=184|end_char=189
+9	out	out	ADP	RP	_	8	_	_	start_char=190|end_char=193
+10	a	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=194|end_char=195
+11	terrorist	terrorist	ADJ	JJ	Degree=Pos	10	_	_	start_char=196|end_char=205
+12	attac	attac	NOUN	NN	Number=Sing	11	_	_	start_char=206|end_char=211
+13	on	on	ADP	IN	_	12	_	_	start_char=212|end_char=214
+14	targets	target	NOUN	NNS	Number=Plur	13	_	_	start_char=215|end_char=222
+15	inside	inside	ADP	IN	_	14	_	_	start_char=223|end_char=229
+16	Russia	Russia	PROPN	NNP	Number=Sing	15	_	_	start_char=230|end_char=236|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=236|end_char=237
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=238|end_char=241
+19	Defence	Defence	PROPN	NNP	Number=Sing	18	_	_	start_char=242|end_char=249
+20	Ministry	Ministry	PROPN	NNP	Number=Sing	19	_	_	start_char=250|end_char=258
+21	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	_	_	start_char=259|end_char=263|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=263|end_char=264|SpacesAfter=\n\n
+
+# text = The department noted that on April 16 at about 8:15 a.m., air defence systems shot down a small hot air balloon over the territory of the urs region.
+# sent_id = 3
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=266|end_char=269
+2	department	department	NOUN	NN	Number=Sing	1	_	_	start_char=270|end_char=280
+3	noted	note	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=281|end_char=286
+4	that	that	SCONJ	IN	_	3	_	_	start_char=287|end_char=291
+5	on	on	ADP	IN	_	4	_	_	start_char=292|end_char=294
+6	April	April	PROPN	NNP	Number=Sing	5	_	_	start_char=295|end_char=300
+7	16	16	NUM	CD	NumForm=Digit|NumType=Card	6	_	_	start_char=301|end_char=303
+8	at	at	ADP	IN	_	7	_	_	start_char=304|end_char=306
+9	about	about	ADV	RB	_	8	_	_	start_char=307|end_char=312
+10	8:15	8:15	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=313|end_char=317
+11	a.m.	a.m.	NOUN	NN	Abbr=Yes|Number=Sing	10	_	_	start_char=318|end_char=322|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=322|end_char=323
+13	air	air	NOUN	NN	Number=Sing	12	_	_	start_char=324|end_char=327
+14	defence	defence	NOUN	NN	Number=Sing	13	_	_	start_char=328|end_char=335
+15	systems	system	NOUN	NNS	Number=Plur	14	_	_	start_char=336|end_char=343
+16	shot	shoot	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	15	_	_	start_char=344|end_char=348
+17	down	down	ADP	RP	_	16	_	_	start_char=349|end_char=353
+18	a	a	DET	DT	Definite=Ind|PronType=Art	17	_	_	start_char=354|end_char=355
+19	small	small	ADJ	JJ	Degree=Pos	18	_	_	start_char=356|end_char=361
+20	hot	hot	ADJ	JJ	Degree=Pos	19	_	_	start_char=362|end_char=365
+21	air	air	NOUN	NN	Number=Sing	20	_	_	start_char=366|end_char=369
+22	balloon	balloon	NOUN	NN	Number=Sing	21	_	_	start_char=370|end_char=377
+23	over	over	ADP	IN	_	22	_	_	start_char=378|end_char=382
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=383|end_char=386
+25	territory	territory	NOUN	NN	Number=Sing	24	_	_	start_char=387|end_char=396
+26	of	of	ADP	IN	_	25	_	_	start_char=397|end_char=399
+27	the	the	DET	DT	Definite=Def|PronType=Art	26	_	_	start_char=400|end_char=403
+28	urs	ur	NOUN	NN	Number=Sing	27	_	_	start_char=404|end_char=407
+29	region	region	NOUN	NN	Number=Sing	28	_	_	start_char=408|end_char=414|SpaceAfter=No
+30	.	.	PUNCT	.	_	29	_	_	start_char=414|end_char=415
+
+# text = No other details of the incident were provided.
+# sent_id = 4
+1	No	no	DET	DT	_	0	_	_	start_char=416|end_char=418
+2	other	other	ADJ	JJ	Degree=Pos	1	_	_	start_char=419|end_char=424
+3	details	detail	NOUN	NNS	Number=Plur	2	_	_	start_char=425|end_char=432
+4	of	of	ADP	IN	_	3	_	_	start_char=433|end_char=435
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=436|end_char=439
+6	incident	incident	NOUN	NN	Number=Sing	5	_	_	start_char=440|end_char=448
+7	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=449|end_char=453
+8	provided	provide	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	_	_	start_char=454|end_char=462|SpaceAfter=No
+9	.	.	PUNCT	.	_	8	_	_	start_char=462|end_char=463|SpacesAfter=\n\n
+
+# text = The Armed Forces of Uraine used similar aircraft during the special military operation.
+# sent_id = 5
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=465|end_char=468
+2	Armed	armed	ADJ	NNP	Degree=Pos	1	_	_	start_char=469|end_char=474
+3	Forces	Force	PROPN	NNPS	Number=Plur	2	_	_	start_char=475|end_char=481
+4	of	of	ADP	IN	_	3	_	_	start_char=482|end_char=484
+5	Uraine	Uraine	PROPN	NNP	Number=Sing	4	_	_	start_char=485|end_char=491
+6	used	use	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=492|end_char=496
+7	similar	similar	ADJ	JJ	Degree=Pos	6	_	_	start_char=497|end_char=504
+8	aircraft	aircraft	NOUN	NN	Number=Sing	7	_	_	start_char=505|end_char=513
+9	during	during	ADP	IN	_	8	_	_	start_char=514|end_char=520
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=521|end_char=524
+11	special	special	ADJ	JJ	Degree=Pos	10	_	_	start_char=525|end_char=532
+12	military	military	ADJ	JJ	Degree=Pos	11	_	_	start_char=533|end_char=541
+13	operation	operation	NOUN	NN	Number=Sing	12	_	_	start_char=542|end_char=551|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=551|end_char=552
+
+# text = At the end of March, soldiers of the Russian Armed Forces shot down a "terrorist balloon”, which was disguised as a probe.
+# sent_id = 6
+1	At	at	ADP	IN	_	0	_	_	start_char=553|end_char=555
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=556|end_char=559
+3	end	end	NOUN	NN	Number=Sing	2	_	_	start_char=560|end_char=563
+4	of	of	ADP	IN	_	3	_	_	start_char=564|end_char=566
+5	March	March	PROPN	NNP	Number=Sing	4	_	_	start_char=567|end_char=572|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=572|end_char=573
+7	soldiers	soldier	NOUN	NNS	Number=Plur	6	_	_	start_char=574|end_char=582
+8	of	of	ADP	IN	_	7	_	_	start_char=583|end_char=585
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=586|end_char=589
+10	Russian	Russian	ADJ	JJ	Degree=Pos	9	_	_	start_char=590|end_char=597
+11	Armed	armed	ADJ	NNP	Degree=Pos	10	_	_	start_char=598|end_char=603
+12	Forces	Force	PROPN	NNPS	Number=Plur	11	_	_	start_char=604|end_char=610
+13	shot	shoot	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=611|end_char=615
+14	down	down	ADP	RP	_	13	_	_	start_char=616|end_char=620
+15	a	a	DET	DT	Definite=Ind|PronType=Art	14	_	_	start_char=621|end_char=622
+16	"	"	PUNCT	``	_	15	_	_	start_char=623|end_char=624|SpaceAfter=No
+17	terrorist	terrorist	ADJ	JJ	Degree=Pos	16	_	_	start_char=624|end_char=633
+18	balloon	balloon	NOUN	NN	Number=Sing	17	_	_	start_char=634|end_char=641|SpaceAfter=No
+19	”	''	PUNCT	''	_	18	_	_	start_char=641|end_char=642|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=642|end_char=643
+21	which	which	PRON	WDT	PronType=Rel	20	_	_	start_char=644|end_char=649
+22	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	_	_	start_char=650|end_char=653
+23	disguised	disguise	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	22	_	_	start_char=654|end_char=663
+24	as	as	ADP	IN	_	23	_	_	start_char=664|end_char=666
+25	a	a	DET	DT	Definite=Ind|PronType=Art	24	_	_	start_char=667|end_char=668
+26	probe	probe	NOUN	NN	Number=Sing	25	_	_	start_char=669|end_char=674|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=674|end_char=675|SpacesAfter=\n\n
+
+# text = The improvised hot air balloon bombers are equipped with a GPS tracer, flight control equipment, ballast, an explosive device and batteries.
+# sent_id = 7
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=677|end_char=680
+2	improvised	improvised	ADJ	JJ	Degree=Pos	1	_	_	start_char=681|end_char=691
+3	hot	hot	ADJ	JJ	Degree=Pos	2	_	_	start_char=692|end_char=695
+4	air	air	NOUN	NN	Number=Sing	3	_	_	start_char=696|end_char=699
+5	balloon	balloon	NOUN	NN	Number=Sing	4	_	_	start_char=700|end_char=707
+6	bombers	bomber	NOUN	NNS	Number=Plur	5	_	_	start_char=708|end_char=715
+7	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=716|end_char=719
+8	equipped	equip	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	_	_	start_char=720|end_char=728
+9	with	with	ADP	IN	_	8	_	_	start_char=729|end_char=733
+10	a	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=734|end_char=735
+11	GPS	GPS	NOUN	NN	Number=Sing	10	_	_	start_char=736|end_char=739
+12	tracer	tracer	NOUN	NN	Number=Sing	11	_	_	start_char=740|end_char=746|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=746|end_char=747
+14	flight	flight	NOUN	NN	Number=Sing	13	_	_	start_char=748|end_char=754
+15	control	control	NOUN	NN	Number=Sing	14	_	_	start_char=755|end_char=762
+16	equipment	equipment	NOUN	NN	Number=Sing	15	_	_	start_char=763|end_char=772|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=772|end_char=773
+18	ballast	ballast	NOUN	NN	Number=Sing	17	_	_	start_char=774|end_char=781|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=781|end_char=782
+20	an	a	DET	DT	Definite=Ind|PronType=Art	19	_	_	start_char=783|end_char=785
+21	explosive	explosive	ADJ	JJ	Degree=Pos	20	_	_	start_char=786|end_char=795
+22	device	device	NOUN	NN	Number=Sing	21	_	_	start_char=796|end_char=802
+23	and	and	CCONJ	CC	_	22	_	_	start_char=803|end_char=806
+24	batteries	battery	NOUN	NNS	Number=Plur	23	_	_	start_char=807|end_char=816|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=816|end_char=817
+
+# text = Coordinates for dropping the explosives are entered into the navigation controller of the balloon.
+# sent_id = 8
+1	Coordinates	coordinate	NOUN	NNS	Number=Plur	0	_	_	start_char=818|end_char=829
+2	for	for	SCONJ	IN	_	1	_	_	start_char=830|end_char=833
+3	dropping	drop	VERB	VBG	VerbForm=Ger	2	_	_	start_char=834|end_char=842
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=843|end_char=846
+5	explosives	explosive	NOUN	NNS	Number=Plur	4	_	_	start_char=847|end_char=857
+6	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=858|end_char=861
+7	entered	enter	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	_	_	start_char=862|end_char=869
+8	into	into	ADP	IN	_	7	_	_	start_char=870|end_char=874
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=875|end_char=878
+10	navigation	navigation	NOUN	NN	Number=Sing	9	_	_	start_char=879|end_char=889
+11	controller	controller	NOUN	NN	Number=Sing	10	_	_	start_char=890|end_char=900
+12	of	of	ADP	IN	_	11	_	_	start_char=901|end_char=903
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=904|end_char=907
+14	balloon	balloon	NOUN	NN	Number=Sing	13	_	_	start_char=908|end_char=915|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=915|end_char=916
+
+# text = Externally, the aerostat is disguised as a weather balloon to avoid damage.
+# sent_id = 9
+1	Externally	externally	ADV	RB	_	0	_	_	start_char=917|end_char=927|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=927|end_char=928
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=929|end_char=932
+4	aerostat	aerostat	NOUN	NN	Number=Sing	3	_	_	start_char=933|end_char=941
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=942|end_char=944
+6	disguised	disguise	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	_	_	start_char=945|end_char=954
+7	as	as	ADP	IN	_	6	_	_	start_char=955|end_char=957
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=958|end_char=959
+9	weather	weather	NOUN	NN	Number=Sing	8	_	_	start_char=960|end_char=967
+10	balloon	balloon	NOUN	NN	Number=Sing	9	_	_	start_char=968|end_char=975
+11	to	to	PART	TO	_	10	_	_	start_char=976|end_char=978
+12	avoid	avoid	VERB	VB	VerbForm=Inf	11	_	_	start_char=979|end_char=984
+13	damage	damage	NOUN	NN	Number=Sing	12	_	_	start_char=985|end_char=991|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=991|end_char=992|SpacesAfter=\n\n
+
+# text = The accuracy of such drones is not high for hitting targets on the contact line, so they are used to drop bombs on populated areas.
+# sent_id = 10
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=994|end_char=997
+2	accuracy	accuracy	NOUN	NN	Number=Sing	1	_	_	start_char=998|end_char=1006
+3	of	of	ADP	IN	_	2	_	_	start_char=1007|end_char=1009
+4	such	such	ADJ	JJ	Degree=Pos	3	_	_	start_char=1010|end_char=1014
+5	drones	drone	NOUN	NNS	Number=Plur	4	_	_	start_char=1015|end_char=1021
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1022|end_char=1024
+7	not	not	PART	RB	_	6	_	_	start_char=1025|end_char=1028
+8	high	high	ADJ	JJ	Degree=Pos	7	_	_	start_char=1029|end_char=1033
+9	for	for	SCONJ	IN	_	8	_	_	start_char=1034|end_char=1037
+10	hitting	hit	VERB	VBG	VerbForm=Ger	9	_	_	start_char=1038|end_char=1045
+11	targets	target	NOUN	NNS	Number=Plur	10	_	_	start_char=1046|end_char=1053
+12	on	on	ADP	IN	_	11	_	_	start_char=1054|end_char=1056
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1057|end_char=1060
+14	contact	contact	NOUN	NN	Number=Sing	13	_	_	start_char=1061|end_char=1068
+15	line	line	NOUN	NN	Number=Sing	14	_	_	start_char=1069|end_char=1073|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=1073|end_char=1074
+17	so	so	SCONJ	IN	_	16	_	_	start_char=1075|end_char=1077
+18	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	_	_	start_char=1078|end_char=1082
+19	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=1083|end_char=1086
+20	used	use	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	19	_	_	start_char=1087|end_char=1091
+21	to	to	PART	TO	_	20	_	_	start_char=1092|end_char=1094
+22	drop	drop	VERB	VB	VerbForm=Inf	21	_	_	start_char=1095|end_char=1099
+23	bombs	bomb	NOUN	NNS	Number=Plur	22	_	_	start_char=1100|end_char=1105
+24	on	on	ADP	IN	_	23	_	_	start_char=1106|end_char=1108
+25	populated	populate	VERB	VBN	Tense=Past|VerbForm=Part	24	_	_	start_char=1109|end_char=1118
+26	areas	area	NOUN	NNS	Number=Plur	25	_	_	start_char=1119|end_char=1124|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=1124|end_char=1125|SpacesAfter=\n\n
+
+# text = In February 2023, former Urainian air force spoesman Yuriy Ignat said that Russia was using balloons with radar corner reflectors to deplete yiv's air defence system.
+# sent_id = 11
+1	In	in	ADP	IN	_	0	_	_	start_char=1127|end_char=1129
+2	February	February	PROPN	NNP	Number=Sing	1	_	_	start_char=1130|end_char=1138
+3	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	2	_	_	start_char=1139|end_char=1143|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1143|end_char=1144
+5	former	former	ADJ	JJ	Degree=Pos	4	_	_	start_char=1145|end_char=1151
+6	Urainian	Urainian	ADJ	JJ	Degree=Pos	5	_	_	start_char=1152|end_char=1160
+7	air	air	NOUN	NN	Number=Sing	6	_	_	start_char=1161|end_char=1164
+8	force	force	NOUN	NN	Number=Sing	7	_	_	start_char=1165|end_char=1170
+9	spoesman	spoesman	NOUN	NN	Number=Sing	8	_	_	start_char=1171|end_char=1179
+10	Yuriy	Yuriy	PROPN	NNP	Number=Sing	9	_	_	start_char=1180|end_char=1185
+11	Ignat	Ignat	PROPN	NNP	Number=Sing	10	_	_	start_char=1186|end_char=1191
+12	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=1192|end_char=1196
+13	that	that	SCONJ	IN	_	12	_	_	start_char=1197|end_char=1201
+14	Russia	Russia	PROPN	NNP	Number=Sing	13	_	_	start_char=1202|end_char=1208
+15	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=1209|end_char=1212
+16	using	use	VERB	VBG	Tense=Pres|VerbForm=Part	15	_	_	start_char=1213|end_char=1218
+17	balloons	balloon	NOUN	NNS	Number=Plur	16	_	_	start_char=1219|end_char=1227
+18	with	with	ADP	IN	_	17	_	_	start_char=1228|end_char=1232
+19	radar	radar	NOUN	NN	Number=Sing	18	_	_	start_char=1233|end_char=1238
+20	corner	corner	NOUN	NN	Number=Sing	19	_	_	start_char=1239|end_char=1245
+21	reflectors	reflector	NOUN	NNS	Number=Plur	20	_	_	start_char=1246|end_char=1256
+22	to	to	PART	TO	_	21	_	_	start_char=1257|end_char=1259
+23	deplete	deplete	VERB	VB	VerbForm=Inf	22	_	_	start_char=1260|end_char=1267
+24-25	yiv's	_	_	_	_	_	_	_	start_char=1268|end_char=1273
+24	yiv	yiv	PROPN	NNP	Number=Sing	23	_	_	start_char=1268|end_char=1271
+25	's	's	PART	POS	_	24	_	_	start_char=1271|end_char=1273
+26	air	air	NOUN	NN	Number=Sing	25	_	_	start_char=1274|end_char=1277
+27	defence	defence	NOUN	NN	Number=Sing	26	_	_	start_char=1278|end_char=1285
+28	system	system	NOUN	NN	Number=Sing	27	_	_	start_char=1286|end_char=1292|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=1292|end_char=1293|SpacesAfter=\n\n
+
+# text = Specially equipped balloons can be used to combat drones, Sergei Bendin, acting head of the Moscow branch of the Aeronautics Commission of the Russian Geographical Society said.
+# sent_id = 12
+1	Specially	specially	ADV	RB	_	0	_	_	start_char=1295|end_char=1304
+2	equipped	equip	VERB	VBN	Tense=Past|VerbForm=Part	1	_	_	start_char=1305|end_char=1313
+3	balloons	balloon	NOUN	NNS	Number=Plur	2	_	_	start_char=1314|end_char=1322
+4	can	can	AUX	MD	VerbForm=Fin	3	_	_	start_char=1323|end_char=1326
+5	be	be	AUX	VB	VerbForm=Inf	4	_	_	start_char=1327|end_char=1329
+6	used	use	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	_	_	start_char=1330|end_char=1334
+7	to	to	PART	TO	_	6	_	_	start_char=1335|end_char=1337
+8	combat	combat	VERB	VB	VerbForm=Inf	7	_	_	start_char=1338|end_char=1344
+9	drones	drone	NOUN	NNS	Number=Plur	8	_	_	start_char=1345|end_char=1351|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=1351|end_char=1352
+11	Sergei	Sergei	PROPN	NNP	Number=Sing	10	_	_	start_char=1353|end_char=1359
+12	Bendin	Bendin	PROPN	NNP	Number=Sing	11	_	_	start_char=1360|end_char=1366|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=1366|end_char=1367
+14	acting	act	ADJ	JJ	Degree=Pos	13	_	_	start_char=1368|end_char=1374
+15	head	head	NOUN	NN	Number=Sing	14	_	_	start_char=1375|end_char=1379
+16	of	of	ADP	IN	_	15	_	_	start_char=1380|end_char=1382
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=1383|end_char=1386
+18	Moscow	Moscow	PROPN	NNP	Number=Sing	17	_	_	start_char=1387|end_char=1393
+19	branch	branch	NOUN	NN	Number=Sing	18	_	_	start_char=1394|end_char=1400
+20	of	of	ADP	IN	_	19	_	_	start_char=1401|end_char=1403
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=1404|end_char=1407
+22	Aeronautics	Aeronautics	PROPN	NNP	Number=Sing	21	_	_	start_char=1408|end_char=1419
+23	Commission	Commission	PROPN	NNP	Number=Sing	22	_	_	start_char=1420|end_char=1430
+24	of	of	ADP	IN	_	23	_	_	start_char=1431|end_char=1433
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=1434|end_char=1437
+26	Russian	Russian	ADJ	NNP	Degree=Pos	25	_	_	start_char=1438|end_char=1445
+27	Geographical	Geographical	ADJ	NNP	Degree=Pos	26	_	_	start_char=1446|end_char=1458
+28	Society	Society	PROPN	NNP	Number=Sing	27	_	_	start_char=1459|end_char=1466
+29	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	_	_	start_char=1467|end_char=1471|SpaceAfter=No
+30	.	.	PUNCT	.	_	29	_	_	start_char=1471|end_char=1472|SpacesAfter=\n\n
+
+# text = Manned and unmanned airships may carry means of electronic warfare that could protect the military from drones.
+# sent_id = 13
+1	Manned	manned	ADJ	JJ	Degree=Pos	0	_	_	start_char=1474|end_char=1480
+2	and	and	CCONJ	CC	_	1	_	_	start_char=1481|end_char=1484
+3	unmanned	unmanned	ADJ	JJ	Degree=Pos	2	_	_	start_char=1485|end_char=1493
+4	airships	airship	NOUN	NNS	Number=Plur	3	_	_	start_char=1494|end_char=1502
+5	may	may	AUX	MD	VerbForm=Fin	4	_	_	start_char=1503|end_char=1506
+6	carry	carry	VERB	VB	VerbForm=Inf	5	_	_	start_char=1507|end_char=1512
+7	means	means	NOUN	NNS	Number=Plur	6	_	_	start_char=1513|end_char=1518
+8	of	of	ADP	IN	_	7	_	_	start_char=1519|end_char=1521
+9	electronic	electronic	ADJ	JJ	Degree=Pos	8	_	_	start_char=1522|end_char=1532
+10	warfare	warfare	NOUN	NN	Number=Sing	9	_	_	start_char=1533|end_char=1540
+11	that	that	PRON	WDT	PronType=Rel	10	_	_	start_char=1541|end_char=1545
+12	could	could	AUX	MD	VerbForm=Fin	11	_	_	start_char=1546|end_char=1551
+13	protect	protect	VERB	VB	VerbForm=Inf	12	_	_	start_char=1552|end_char=1559
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=1560|end_char=1563
+15	military	military	NOUN	NN	Number=Sing	14	_	_	start_char=1564|end_char=1572
+16	from	from	ADP	IN	_	15	_	_	start_char=1573|end_char=1577
+17	drones	drone	NOUN	NNS	Number=Plur	16	_	_	start_char=1578|end_char=1584|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=1584|end_char=1585
+
+# text = In addition, balloons and airships can be used for reconnaissance and communications relay.
+# sent_id = 14
+1	In	in	ADP	IN	_	0	_	_	start_char=1586|end_char=1588
+2	addition	addition	NOUN	NN	Number=Sing	1	_	_	start_char=1589|end_char=1597|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=1597|end_char=1598
+4	balloons	balloon	NOUN	NNS	Number=Plur	3	_	_	start_char=1599|end_char=1607
+5	and	and	CCONJ	CC	_	4	_	_	start_char=1608|end_char=1611
+6	airships	airship	NOUN	NNS	Number=Plur	5	_	_	start_char=1612|end_char=1620
+7	can	can	AUX	MD	VerbForm=Fin	6	_	_	start_char=1621|end_char=1624
+8	be	be	AUX	VB	VerbForm=Inf	7	_	_	start_char=1625|end_char=1627
+9	used	use	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	_	_	start_char=1628|end_char=1632
+10	for	for	ADP	IN	_	9	_	_	start_char=1633|end_char=1636
+11	reconnaissance	reconnaissance	NOUN	NN	Number=Sing	10	_	_	start_char=1637|end_char=1651
+12	and	and	CCONJ	CC	_	11	_	_	start_char=1652|end_char=1655
+13	communications	communication	NOUN	NNS	Number=Plur	12	_	_	start_char=1656|end_char=1670
+14	relay	relay	NOUN	NN	Number=Sing	13	_	_	start_char=1671|end_char=1676|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=1676|end_char=1677|SpacesAfter=\n\n
+
+# text = It is worthy of note that the US Army also considers upgrading its fleet of hot air balloons that can be used for reconnaissance and communication purposes to possibly counter Russia and China.
+# sent_id = 15
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1679|end_char=1681
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1682|end_char=1684
+3	worthy	worthy	ADJ	JJ	Degree=Pos	2	_	_	start_char=1685|end_char=1691
+4	of	of	ADP	IN	_	3	_	_	start_char=1692|end_char=1694
+5	note	note	NOUN	NN	Number=Sing	4	_	_	start_char=1695|end_char=1699
+6	that	that	SCONJ	IN	_	5	_	_	start_char=1700|end_char=1704
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1705|end_char=1708
+8	US	US	PROPN	NNP	Number=Sing	7	_	_	start_char=1709|end_char=1711
+9	Army	Army	PROPN	NNP	Number=Sing	8	_	_	start_char=1712|end_char=1716
+10	also	also	ADV	RB	_	9	_	_	start_char=1717|end_char=1721
+11	considers	consider	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=1722|end_char=1731
+12	upgrading	upgrade	VERB	VBG	VerbForm=Ger	11	_	_	start_char=1732|end_char=1741
+13	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	_	_	start_char=1742|end_char=1745
+14	fleet	fleet	NOUN	NN	Number=Sing	13	_	_	start_char=1746|end_char=1751
+15	of	of	ADP	IN	_	14	_	_	start_char=1752|end_char=1754
+16	hot	hot	ADJ	JJ	Degree=Pos	15	_	_	start_char=1755|end_char=1758
+17	air	air	NOUN	NN	Number=Sing	16	_	_	start_char=1759|end_char=1762
+18	balloons	balloon	NOUN	NNS	Number=Plur	17	_	_	start_char=1763|end_char=1771
+19	that	that	PRON	WDT	PronType=Rel	18	_	_	start_char=1772|end_char=1776
+20	can	can	AUX	MD	VerbForm=Fin	19	_	_	start_char=1777|end_char=1780
+21	be	be	AUX	VB	VerbForm=Inf	20	_	_	start_char=1781|end_char=1783
+22	used	use	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	21	_	_	start_char=1784|end_char=1788
+23	for	for	ADP	IN	_	22	_	_	start_char=1789|end_char=1792
+24	reconnaissance	reconnaissance	NOUN	NN	Number=Sing	23	_	_	start_char=1793|end_char=1807
+25	and	and	CCONJ	CC	_	24	_	_	start_char=1808|end_char=1811
+26	communication	communication	NOUN	NN	Number=Sing	25	_	_	start_char=1812|end_char=1825
+27	purposes	purpose	NOUN	NNS	Number=Plur	26	_	_	start_char=1826|end_char=1834
+28	to	to	PART	TO	_	27	_	_	start_char=1835|end_char=1837
+29	possibly	possibly	ADV	RB	_	28	_	_	start_char=1838|end_char=1846
+30	counter	counter	VERB	VB	VerbForm=Inf	29	_	_	start_char=1847|end_char=1854
+31	Russia	Russia	PROPN	NNP	Number=Sing	30	_	_	start_char=1855|end_char=1861
+32	and	and	CCONJ	CC	_	31	_	_	start_char=1862|end_char=1865
+33	China	China	PROPN	NNP	Number=Sing	32	_	_	start_char=1866|end_char=1871|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=1871|end_char=1872|SpacesAfter=\n\n
+
+# text = The Russian forces obliterated a batch of 25,000 155-mm NATO shells in the port of Odessa.
+# sent_id = 16
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1874|end_char=1877
+2	Russian	Russian	ADJ	JJ	Degree=Pos	1	_	_	start_char=1878|end_char=1885
+3	forces	force	NOUN	NNS	Number=Plur	2	_	_	start_char=1886|end_char=1892
+4	obliterated	obliterate	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=1893|end_char=1904
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=1905|end_char=1906
+6	batch	batch	NOUN	NN	Number=Sing	5	_	_	start_char=1907|end_char=1912
+7	of	of	ADP	IN	_	6	_	_	start_char=1913|end_char=1915
+8	25,000	25000	NUM	CD	NumForm=Digit|NumType=Card	7	_	_	start_char=1916|end_char=1922
+9	155	155	NUM	CD	NumForm=Digit|NumType=Card	8	_	_	start_char=1923|end_char=1926|SpaceAfter=No
+10	-	-	PUNCT	HYPH	_	9	_	_	start_char=1926|end_char=1927|SpaceAfter=No
+11	mm	mm	NOUN	NN	Number=Sing	10	_	_	start_char=1927|end_char=1929
+12	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	11	_	_	start_char=1930|end_char=1934
+13	shells	shell	NOUN	NNS	Number=Plur	12	_	_	start_char=1935|end_char=1941
+14	in	in	ADP	IN	_	13	_	_	start_char=1942|end_char=1944
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=1945|end_char=1948
+16	port	port	NOUN	NN	Number=Sing	15	_	_	start_char=1949|end_char=1953
+17	of	of	ADP	IN	_	16	_	_	start_char=1954|end_char=1956
+18	Odessa	Odessa	PROPN	NNP	Number=Sing	17	_	_	start_char=1957|end_char=1963|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=1963|end_char=1964
+
+# text = Twelve armoured vehicles (Turey) and a warehouse of unmanned boats were also destroyed
+# sent_id = 17
+1	Twelve	twelve	NUM	CD	NumForm=Word|NumType=Card	0	_	_	start_char=1965|end_char=1971
+2	armoured	armoured	ADJ	JJ	Degree=Pos	1	_	_	start_char=1972|end_char=1980
+3	vehicles	vehicle	NOUN	NNS	Number=Plur	2	_	_	start_char=1981|end_char=1989
+4	(	(	PUNCT	-LRB-	_	3	_	_	start_char=1990|end_char=1991|SpaceAfter=No
+5	Turey	Turey	PROPN	NNP	Number=Sing	4	_	_	start_char=1991|end_char=1996|SpaceAfter=No
+6	)	)	PUNCT	-RRB-	_	5	_	_	start_char=1996|end_char=1997
+7	and	and	CCONJ	CC	_	6	_	_	start_char=1998|end_char=2001
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=2002|end_char=2003
+9	warehouse	warehouse	NOUN	NN	Number=Sing	8	_	_	start_char=2004|end_char=2013
+10	of	of	ADP	IN	_	9	_	_	start_char=2014|end_char=2016
+11	unmanned	unmanned	ADJ	JJ	Degree=Pos	10	_	_	start_char=2017|end_char=2025
+12	boats	boat	NOUN	NNS	Number=Plur	11	_	_	start_char=2026|end_char=2031
+13	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=2032|end_char=2036
+14	also	also	ADV	RB	_	13	_	_	start_char=2037|end_char=2041
+15	destroyed	destroy	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	_	_	start_char=2042|end_char=2051|SpaceAfter=No
+
