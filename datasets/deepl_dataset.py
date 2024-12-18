@@ -12,6 +12,12 @@ from sklearn.metrics import classification_report, accuracy_score
 from sklearn.preprocessing import MultiLabelBinarizer
 from transformers import BertTokenizer
 
+"""import skmultilearn
+import importlib
+
+skmultilearn = importlib.reload(skmultilearn)
+from skmultilearn.model_selection import iterative_train_test_split"""
+
 
 def get_args():
     parser = argparse.ArgumentParser()
@@ -82,6 +88,10 @@ class DeepLNarrativeDataset(Dataset):
         self.train_annotations, self.val_annotations = train_test_split(
             main_annotations, test_size=val_split, random_state=42
         )
+        """labels = np.array([a["labels"] for a in main_annotations])
+        self.train_annotations, self.val_annotations = iterative_train_test_split(
+            main_annotations, labels, test_size=val_split
+        )"""
 
         labels = np.array(
             [annotation["labels"] for annotation in self.train_annotations]
@@ -179,12 +189,7 @@ class DeepLNarrativeDataset(Dataset):
             if self.split == "train"
             else self.val_annotations[idx]
         )
-
-        # Tokenise the data
-        with open(annotation["doc_name"], "r", encoding="utf-8") as f:
-            data = conllu.parse(f.read())
-
-        conllu_data = [token["form"] for sentence in data for token in sentence]
+        conllu_data = self.get_conllu_data(annotation["doc_name"])
         padded_data = self.pad_sequence(conllu_data)
         tokenised_data = np.array([self.train_vocab[word] for word in padded_data])
 
@@ -194,6 +199,12 @@ class DeepLNarrativeDataset(Dataset):
             f"{annotation['doc_name'].stem}.txt",
         )
 
+    def get_conllu_data(self, conllu_file):
+        with open(conllu_file, "r", encoding="utf-8") as f:
+            data = conllu.parse(f.read())
+        conllu_data = [token["form"] for sentence in data for token in sentence]
+        return conllu_data
+
     def __getitem__(self, idx):
 
         if self.split in ["train", "val"]:
@@ -201,11 +212,7 @@ class DeepLNarrativeDataset(Dataset):
 
         elif self.split == "dev":
             conllu_file = self.dev_files[idx]
-
-            with open(conllu_file, "r", encoding="utf-8") as f:
-                data = conllu.parse(f.read())
-
-            conllu_data = [token["form"] for sentence in data for token in sentence]
+            conllu_data = self.get_conllu_data(conllu_file)
             padded_data = self.pad_sequence(conllu_data)
 
             tokenised_data = np.array([self.train_vocab[word] for word in padded_data])
@@ -274,8 +281,8 @@ class DeepLNarrativeDataset(Dataset):
         uniform_weights = np.ones_like(raw_weights)
         weights = (1 - smoothing) * uniform_weights + smoothing * raw_weights
 
-        # Normalize weights so their sum equals 1
-        weights = weights / np.sum(weights)
+        # Normalize weights so their sum equals len
+        # weights = weights / np.sum(weights)
 
         return torch.FloatTensor(weights)
 
@@ -300,79 +307,62 @@ class DeepLNarrativeDataset(Dataset):
         sample_weights = np.sum(labels * class_weights, axis=1) / np.sum(labels, axis=1)
 
         return torch.FloatTensor(sample_weights)
-    
+
     def get_raw_texts(self):
         texts = []
         for annotation in self.train_annotations + self.val_annotations:
             with open(annotation["doc_name"], "r", encoding="utf-8") as f:
                 data = conllu.parse(f.read())
-                text = " ".join([token["form"] for sentence in data for token in sentence])
+                text = " ".join(
+                    [token["form"] for sentence in data for token in sentence]
+                )
                 texts.append(text)
         return texts
-    
+
+
 class BERTDeepLNarrativeDataset(DeepLNarrativeDataset):
     def __init__(self, data_paths, topic, split, val_split=0.1, max_length=512):
         super().__init__(data_paths, topic, split, val_split, max_length)
-        
-        self.tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
+
+        self.tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
         self.max_length = max_length
-    
-    def get_train_val_item(self, idx):
-        tokenized_data, labels, doc_name = super().get_train_val_item(idx)
-        
-        text = " ".join([self.train_vocab.index2word[token] for token in tokenized_data])
-        
-        encoding = self.tokenizer(
-            text,
-            add_special_tokens=True,  
-            max_length=self.max_length,
-            truncation=True,
-            padding='max_length',  
-            return_tensors='pt',   
-            return_attention_mask=True
-        )
-        
-        input_ids = encoding['input_ids'].squeeze(0)  
-        attention_mask = encoding['attention_mask'].squeeze(0)  
-        
-        return {
-            'input_ids': input_ids,
-            'attention_mask': attention_mask,
-            'labels': torch.tensor(labels, dtype=torch.float32)
-        }
 
     def __getitem__(self, idx):
         if self.split in ["train", "val"]:
-            return self.get_train_val_item(idx)
-        
-        elif self.split == "dev":
-            conllu_file = self.dev_files[idx]
-            with open(conllu_file, "r", encoding="utf-8") as f:
-                data = conllu.parse(f.read())
-            conllu_data = [token["form"] for sentence in data for token in sentence]
-            padded_data = self.pad_sequence(conllu_data)
-            text = " ".join([self.train_vocab.index2word[token] for token in padded_data])
-            
+            annotation = (
+                self.train_annotations[idx]
+                if self.split == "train"
+                else self.val_annotations[idx]
+            )
+
+            text = self.get_conllu_data(annotation["doc_name"])
+            text = " ".join(text)
+
+            doc_name = f"{annotation['doc_name'].stem}.txt"
+            labels = annotation["labels"]
+
             encoding = self.tokenizer(
                 text,
-                add_special_tokens=True,
                 max_length=self.max_length,
                 truncation=True,
-                padding='max_length',
-                return_tensors='pt',
-                return_attention_mask=True
+                padding="max_length",
+                return_tensors="pt",
             )
-            
-            input_ids = encoding['input_ids'].squeeze(0)
-            attention_mask = encoding['attention_mask'].squeeze(0)
-            
-            return {
-                'input_ids': input_ids,
-                'attention_mask': attention_mask,
-                'doc_name': f"{conllu_file.stem}.txt"
-            }
-        def _tokenize(self, text):
-            return self.tokenizer(text, padding='max_length', truncation=True, max_length=512, return_tensors='pt')
+            return encoding, labels, doc_name
+
+        else:
+            conllu_file = self.dev_files[idx]
+            text = self.get_conllu_data(conllu_file)
+            doc_name = f"{conllu_file.stem}.txt"
+
+            encoding = self.tokenizer(
+                text,
+                max_length=self.max_length,
+                truncation=True,
+                padding="max_length",
+                return_tensors="pt",
+            )
+            return encoding, doc_name
 
 
 def evaluate_baseline(y_true, y_pred, index2label):
@@ -385,7 +375,17 @@ def evaluate_baseline(y_true, y_pred, index2label):
 if __name__ == "__main__":
     args = get_args()
     data_paths = {"main": args.data_path, "additional": []}
-    dataset = DeepLNarrativeDataset(
+    dataset = BERTDeepLNarrativeDataset(
         data_paths, topic="CC", split="train", val_split=args.val_split
     )
-    dataset[0]
+    item = dataset[0]
+    encoding, labels, doc_name = item
+    print(item)
+    print(encoding["input_ids"].shape)
+
+    loader = DataLoader(dataset, batch_size=8, shuffle=True)
+    item = next(iter(loader))
+    encoding, labels, doc_name = item
+
+    # Check if the encoding can be decoded
+    print(encoding["input_ids"].shape)
