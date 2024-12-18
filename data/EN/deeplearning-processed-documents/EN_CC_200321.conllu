@@ -1,0 +1,593 @@
+# text = New paper maes ‘increasing tropical cyclone frequency’ claim, but contradicted two years ago by NOAA
+# sent_id = 0
+1	New	New	ADJ	JJ	Degree=Pos	0	_	_	start_char=0|end_char=3
+2	paper	paper	NOUN	NN	Number=Sing	1	_	_	start_char=4|end_char=9
+3	maes	Maes	PROPN	NNP	Number=Sing	2	_	_	start_char=10|end_char=14
+4	‘	'	PUNCT	``	_	3	_	_	start_char=15|end_char=16|SpaceAfter=No
+5	increasing	increase	VERB	VBG	VerbForm=Ger	4	_	_	start_char=16|end_char=26
+6	tropical	tropical	ADJ	JJ	Degree=Pos	5	_	_	start_char=27|end_char=35
+7	cyclone	cyclone	NOUN	NN	Number=Sing	6	_	_	start_char=36|end_char=43
+8	frequency	frequency	NOUN	NN	Number=Sing	7	_	_	start_char=44|end_char=53|SpaceAfter=No
+9	’	's	PART	POS	_	8	_	_	start_char=53|end_char=54
+10	claim	claim	NOUN	NN	Number=Sing	9	_	_	start_char=55|end_char=60|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=60|end_char=61
+12	but	but	CCONJ	CC	_	11	_	_	start_char=62|end_char=65
+13	contradicted	contradict	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=66|end_char=78
+14	two	two	NUM	CD	NumForm=Word|NumType=Card	13	_	_	start_char=79|end_char=82
+15	years	year	NOUN	NNS	Number=Plur	14	_	_	start_char=83|end_char=88
+16	ago	ago	ADV	RB	_	15	_	_	start_char=89|end_char=92
+17	by	by	ADP	IN	_	16	_	_	start_char=93|end_char=95
+18	NOAA	NOAA	PROPN	NNP	Number=Sing	17	_	_	start_char=96|end_char=100|SpacesAfter=\s\n\n\s
+
+# text = NOAA July 2022 headline: Research: Global warming contributed to decline in tropical cyclones in the 20th century.
+# sent_id = 1
+1	NOAA	NOAA	PROPN	NNP	Number=Sing	0	_	_	start_char=104|end_char=108
+2	July	July	PROPN	NNP	Number=Sing	1	_	_	start_char=109|end_char=113
+3	2022	2022	NUM	CD	NumForm=Digit|NumType=Card	2	_	_	start_char=114|end_char=118
+4	headline	headline	NOUN	NN	Number=Sing	3	_	_	start_char=119|end_char=127|SpaceAfter=No
+5	:	:	PUNCT	:	_	4	_	_	start_char=127|end_char=128
+6	Research	research	NOUN	NN	Number=Sing	5	_	_	start_char=129|end_char=137|SpaceAfter=No
+7	:	:	PUNCT	:	_	6	_	_	start_char=137|end_char=138
+8	Global	Global	ADJ	JJ	Degree=Pos	7	_	_	start_char=139|end_char=145
+9	warming	warming	NOUN	NN	Number=Sing	8	_	_	start_char=146|end_char=153
+10	contributed	contribute	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=154|end_char=165
+11	to	to	ADP	IN	_	10	_	_	start_char=166|end_char=168
+12	decline	decline	NOUN	NN	Number=Sing	11	_	_	start_char=169|end_char=176
+13	in	in	ADP	IN	_	12	_	_	start_char=177|end_char=179
+14	tropical	tropical	ADJ	JJ	Degree=Pos	13	_	_	start_char=180|end_char=188
+15	cyclones	cyclone	NOUN	NNS	Number=Plur	14	_	_	start_char=189|end_char=197
+16	in	in	ADP	IN	_	15	_	_	start_char=198|end_char=200
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=201|end_char=204
+18	20th	20th	ADJ	JJ	Degree=Pos|NumType=Ord	17	_	_	start_char=205|end_char=209
+19	century	century	NOUN	NN	Number=Sing	18	_	_	start_char=210|end_char=217|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=217|end_char=218
+
+# text = Now the same global warming is supposed to be increasing their frequency?
+# sent_id = 2
+1	Now	now	ADV	RB	_	0	_	_	start_char=219|end_char=222
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=223|end_char=226
+3	same	same	ADJ	JJ	Degree=Pos	2	_	_	start_char=227|end_char=231
+4	global	global	ADJ	JJ	Degree=Pos	3	_	_	start_char=232|end_char=238
+5	warming	warming	NOUN	NN	Number=Sing	4	_	_	start_char=239|end_char=246
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=247|end_char=249
+7	supposed	suppose	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	_	_	start_char=250|end_char=258
+8	to	to	PART	TO	_	7	_	_	start_char=259|end_char=261
+9	be	be	AUX	VB	VerbForm=Inf	8	_	_	start_char=262|end_char=264
+10	increasing	increase	VERB	VBG	Tense=Pres|VerbForm=Part	9	_	_	start_char=265|end_char=275
+11	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	10	_	_	start_char=276|end_char=281
+12	frequency	frequency	NOUN	NN	Number=Sing	11	_	_	start_char=282|end_char=291|SpaceAfter=No
+13	?	?	PUNCT	.	_	12	_	_	start_char=291|end_char=292
+
+# text = Does not compute.
+# sent_id = 3
+1	Does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	start_char=293|end_char=297
+2	not	not	PART	RB	_	1	_	_	start_char=298|end_char=301
+3	compute	compute	VERB	VB	VerbForm=Inf	2	_	_	start_char=302|end_char=309|SpaceAfter=No
+4	.	.	PUNCT	.	_	3	_	_	start_char=309|end_char=310
+
+# text = NOAA Research said: ‘The annual number of tropical cyclones forming globally has decreased by approximately 13% during the 20th century, and scientists say the main cause is a rise in global warming, according to a new study in Nature Climate Change by a group of international scientists including NOAA scientists.’
+# sent_id = 4
+1	NOAA	NOAA	PROPN	NNP	Number=Sing	0	_	_	start_char=311|end_char=315
+2	Research	Research	PROPN	NNP	Number=Sing	1	_	_	start_char=316|end_char=324
+3	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=325|end_char=329|SpaceAfter=No
+4	:	:	PUNCT	:	_	3	_	_	start_char=329|end_char=330
+5	‘	'	PUNCT	``	_	4	_	_	start_char=331|end_char=332|SpaceAfter=No
+6	The	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=332|end_char=335
+7	annual	annual	ADJ	JJ	Degree=Pos	6	_	_	start_char=336|end_char=342
+8	number	number	NOUN	NN	Number=Sing	7	_	_	start_char=343|end_char=349
+9	of	of	ADP	IN	_	8	_	_	start_char=350|end_char=352
+10	tropical	tropical	ADJ	JJ	Degree=Pos	9	_	_	start_char=353|end_char=361
+11	cyclones	cyclone	NOUN	NNS	Number=Plur	10	_	_	start_char=362|end_char=370
+12	forming	form	VERB	VBG	VerbForm=Ger	11	_	_	start_char=371|end_char=378
+13	globally	globally	ADV	RB	_	12	_	_	start_char=379|end_char=387
+14	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=388|end_char=391
+15	decreased	decrease	VERB	VBN	Tense=Past|VerbForm=Part	14	_	_	start_char=392|end_char=401
+16	by	by	ADP	IN	_	15	_	_	start_char=402|end_char=404
+17	approximately	approximately	ADV	RB	_	16	_	_	start_char=405|end_char=418
+18	13	13	NUM	CD	NumForm=Digit|NumType=Card	17	_	_	start_char=419|end_char=421|SpaceAfter=No
+19	%	%	SYM	NN	Number=Sing	18	_	_	start_char=421|end_char=422
+20	during	during	ADP	IN	_	19	_	_	start_char=423|end_char=429
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=430|end_char=433
+22	20th	20th	ADJ	JJ	Degree=Pos|NumType=Ord	21	_	_	start_char=434|end_char=438
+23	century	century	NOUN	NN	Number=Sing	22	_	_	start_char=439|end_char=446|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=446|end_char=447
+25	and	and	CCONJ	CC	_	24	_	_	start_char=448|end_char=451
+26	scientists	scientist	NOUN	NNS	Number=Plur	25	_	_	start_char=452|end_char=462
+27	say	say	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	_	_	start_char=463|end_char=466
+28	the	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=467|end_char=470
+29	main	main	ADJ	JJ	Degree=Pos	28	_	_	start_char=471|end_char=475
+30	cause	cause	NOUN	NN	Number=Sing	29	_	_	start_char=476|end_char=481
+31	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	_	_	start_char=482|end_char=484
+32	a	a	DET	DT	Definite=Ind|PronType=Art	31	_	_	start_char=485|end_char=486
+33	rise	rise	NOUN	NN	Number=Sing	32	_	_	start_char=487|end_char=491
+34	in	in	ADP	IN	_	33	_	_	start_char=492|end_char=494
+35	global	global	ADJ	JJ	Degree=Pos	34	_	_	start_char=495|end_char=501
+36	warming	warming	NOUN	NN	Number=Sing	35	_	_	start_char=502|end_char=509|SpaceAfter=No
+37	,	,	PUNCT	,	_	36	_	_	start_char=509|end_char=510
+38	according	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	37	_	_	start_char=511|end_char=520
+39	to	to	ADP	IN	_	38	_	_	start_char=521|end_char=523
+40	a	a	DET	DT	Definite=Ind|PronType=Art	39	_	_	start_char=524|end_char=525
+41	new	new	ADJ	JJ	Degree=Pos	40	_	_	start_char=526|end_char=529
+42	study	study	NOUN	NN	Number=Sing	41	_	_	start_char=530|end_char=535
+43	in	in	ADP	IN	_	42	_	_	start_char=536|end_char=538
+44	Nature	Nature	PROPN	NNP	Number=Sing	43	_	_	start_char=539|end_char=545
+45	Climate	Climate	PROPN	NNP	Number=Sing	44	_	_	start_char=546|end_char=553
+46	Change	Change	PROPN	NNP	Number=Sing	45	_	_	start_char=554|end_char=560
+47	by	by	ADP	IN	_	46	_	_	start_char=561|end_char=563
+48	a	a	DET	DT	Definite=Ind|PronType=Art	47	_	_	start_char=564|end_char=565
+49	group	group	NOUN	NN	Number=Sing	48	_	_	start_char=566|end_char=571
+50	of	of	ADP	IN	_	49	_	_	start_char=572|end_char=574
+51	international	international	ADJ	JJ	Degree=Pos	50	_	_	start_char=575|end_char=588
+52	scientists	scientist	NOUN	NNS	Number=Plur	51	_	_	start_char=589|end_char=599
+53	including	include	VERB	VBG	VerbForm=Ger	52	_	_	start_char=600|end_char=609
+54	NOAA	NOAA	PROPN	NNP	Number=Sing	53	_	_	start_char=610|end_char=614
+55	scientists	scientist	NOUN	NNS	Number=Plur	54	_	_	start_char=615|end_char=625|SpaceAfter=No
+56	.	.	PUNCT	.	_	55	_	_	start_char=625|end_char=626|SpaceAfter=No
+57	’	'	PUNCT	''	_	56	_	_	start_char=626|end_char=627|SpacesAfter=\n\n
+
+# text = – – –
+# sent_id = 5
+1	–	-	PUNCT	:	_	0	_	_	start_char=629|end_char=630
+2	–	-	PUNCT	:	_	1	_	_	start_char=631|end_char=632
+3	–	-	PUNCT	:	_	2	_	_	start_char=633|end_char=634|SpacesAfter=\n\n
+
+# text = EureAlert news release: Climate: Increasing tropical cyclone frequency may have deadly consequences for seabird populations
+# sent_id = 6
+1	EureAlert	EureAlert	PROPN	NNP	Number=Sing	0	_	_	start_char=636|end_char=645
+2	news	news	NOUN	NN	Number=Sing	1	_	_	start_char=646|end_char=650
+3	release	release	NOUN	NN	Number=Sing	2	_	_	start_char=651|end_char=658|SpaceAfter=No
+4	:	:	PUNCT	:	_	3	_	_	start_char=658|end_char=659
+5	Climate	climate	NOUN	NN	Number=Sing	4	_	_	start_char=660|end_char=667|SpaceAfter=No
+6	:	:	PUNCT	:	_	5	_	_	start_char=667|end_char=668
+7	Increasing	increase	VERB	VBG	VerbForm=Ger	6	_	_	start_char=669|end_char=679
+8	tropical	tropical	ADJ	JJ	Degree=Pos	7	_	_	start_char=680|end_char=688
+9	cyclone	cyclone	NOUN	NN	Number=Sing	8	_	_	start_char=689|end_char=696
+10	frequency	frequency	NOUN	NN	Number=Sing	9	_	_	start_char=697|end_char=706
+11	may	may	AUX	MD	VerbForm=Fin	10	_	_	start_char=707|end_char=710
+12	have	have	VERB	VB	VerbForm=Inf	11	_	_	start_char=711|end_char=715
+13	deadly	deadly	ADJ	JJ	Degree=Pos	12	_	_	start_char=716|end_char=722
+14	consequences	consequence	NOUN	NNS	Number=Plur	13	_	_	start_char=723|end_char=735
+15	for	for	ADP	IN	_	14	_	_	start_char=736|end_char=739
+16	seabird	seabird	NOUN	NN	Number=Sing	15	_	_	start_char=740|end_char=747
+17	populations	population	NOUN	NNS	Number=Plur	16	_	_	start_char=748|end_char=759|SpacesAfter=\n\n
+
+# text = The increase in tropical cyclone frequency and intensity due to climate change could lead to dramatic declines in seabird populations, suggests a paper published in Communications Earth & Environment.
+# sent_id = 7
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=761|end_char=764
+2	increase	increase	NOUN	NN	Number=Sing	1	_	_	start_char=765|end_char=773
+3	in	in	ADP	IN	_	2	_	_	start_char=774|end_char=776
+4	tropical	tropical	ADJ	JJ	Degree=Pos	3	_	_	start_char=777|end_char=785
+5	cyclone	cyclone	NOUN	NN	Number=Sing	4	_	_	start_char=786|end_char=793
+6	frequency	frequency	NOUN	NN	Number=Sing	5	_	_	start_char=794|end_char=803
+7	and	and	CCONJ	CC	_	6	_	_	start_char=804|end_char=807
+8	intensity	intensity	NOUN	NN	Number=Sing	7	_	_	start_char=808|end_char=817
+9	due	due	ADP	IN	_	8	_	_	start_char=818|end_char=821
+10	to	to	ADP	IN	_	9	_	_	start_char=822|end_char=824
+11	climate	climate	NOUN	NN	Number=Sing	10	_	_	start_char=825|end_char=832
+12	change	change	NOUN	NN	Number=Sing	11	_	_	start_char=833|end_char=839
+13	could	could	AUX	MD	VerbForm=Fin	12	_	_	start_char=840|end_char=845
+14	lead	lead	VERB	VB	VerbForm=Inf	13	_	_	start_char=846|end_char=850
+15	to	to	ADP	IN	_	14	_	_	start_char=851|end_char=853
+16	dramatic	dramatic	ADJ	JJ	Degree=Pos	15	_	_	start_char=854|end_char=862
+17	declines	decline	NOUN	NNS	Number=Plur	16	_	_	start_char=863|end_char=871
+18	in	in	ADP	IN	_	17	_	_	start_char=872|end_char=874
+19	seabird	seabird	NOUN	NN	Number=Sing	18	_	_	start_char=875|end_char=882
+20	populations	population	NOUN	NNS	Number=Plur	19	_	_	start_char=883|end_char=894|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=894|end_char=895
+22	suggests	suggest	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	_	_	start_char=896|end_char=904
+23	a	a	DET	DT	Definite=Ind|PronType=Art	22	_	_	start_char=905|end_char=906
+24	paper	paper	NOUN	NN	Number=Sing	23	_	_	start_char=907|end_char=912
+25	published	publish	VERB	VBN	Tense=Past|VerbForm=Part	24	_	_	start_char=913|end_char=922
+26	in	in	ADP	IN	_	25	_	_	start_char=923|end_char=925
+27	Communications	Communication	PROPN	NNPS	Number=Plur	26	_	_	start_char=926|end_char=940
+28	Earth	Earth	PROPN	NNP	Number=Sing	27	_	_	start_char=941|end_char=946
+29	&	&	CCONJ	CC	_	28	_	_	start_char=947|end_char=948
+30	Environment	environment	PROPN	NNP	Number=Sing	29	_	_	start_char=949|end_char=960|SpaceAfter=No
+31	.	.	PUNCT	.	_	30	_	_	start_char=960|end_char=961|SpacesAfter=\n\n
+
+# text = The authors’ conclusion is based on the impacts of Cyclone Ilsa on Bedout Island, after the cyclone illed at least 80% of seabirds nesting on the island when it struc in April 2023.
+# sent_id = 8
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=963|end_char=966
+2-3	authors’	_	_	_	_	_	_	_	start_char=967|end_char=975
+2	authors	author	NOUN	NNS	Number=Plur	1	_	_	start_char=967|end_char=974
+3	’	's	PART	POS	_	2	_	_	start_char=974|end_char=975
+4	conclusion	conclusion	NOUN	NN	Number=Sing	3	_	_	start_char=976|end_char=986
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=987|end_char=989
+6	based	base	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	_	_	start_char=990|end_char=995
+7	on	on	ADP	IN	_	6	_	_	start_char=996|end_char=998
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=999|end_char=1002
+9	impacts	impact	NOUN	NNS	Number=Plur	8	_	_	start_char=1003|end_char=1010
+10	of	of	ADP	IN	_	9	_	_	start_char=1011|end_char=1013
+11	Cyclone	Cyclone	PROPN	NNP	Number=Sing	10	_	_	start_char=1014|end_char=1021
+12	Ilsa	Ilsa	PROPN	NNP	Number=Sing	11	_	_	start_char=1022|end_char=1026
+13	on	on	ADP	IN	_	12	_	_	start_char=1027|end_char=1029
+14	Bedout	Bedout	PROPN	NNP	Number=Sing	13	_	_	start_char=1030|end_char=1036
+15	Island	Island	PROPN	NNP	Number=Sing	14	_	_	start_char=1037|end_char=1043|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=1043|end_char=1044
+17	after	after	SCONJ	IN	_	16	_	_	start_char=1045|end_char=1050
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=1051|end_char=1054
+19	cyclone	cyclone	NOUN	NN	Number=Sing	18	_	_	start_char=1055|end_char=1062
+20	illed	ill	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	_	_	start_char=1063|end_char=1068
+21	at	at	ADP	IN	_	20	_	_	start_char=1069|end_char=1071
+22	least	least	ADJ	JJS	Degree=Sup	21	_	_	start_char=1072|end_char=1077
+23	80	80	NUM	CD	NumForm=Digit|NumType=Card	22	_	_	start_char=1078|end_char=1080|SpaceAfter=No
+24	%	%	SYM	NN	Number=Sing	23	_	_	start_char=1080|end_char=1081
+25	of	of	ADP	IN	_	24	_	_	start_char=1082|end_char=1084
+26	seabirds	seabird	NOUN	NNS	Number=Plur	25	_	_	start_char=1085|end_char=1093
+27	nesting	nest	VERB	VBG	VerbForm=Ger	26	_	_	start_char=1094|end_char=1101
+28	on	on	ADP	IN	_	27	_	_	start_char=1102|end_char=1104
+29	the	the	DET	DT	Definite=Def|PronType=Art	28	_	_	start_char=1105|end_char=1108
+30	island	island	NOUN	NN	Number=Sing	29	_	_	start_char=1109|end_char=1115
+31	when	when	ADV	WRB	PronType=Int	30	_	_	start_char=1116|end_char=1120
+32	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	31	_	_	start_char=1121|end_char=1123
+33	struc	struc	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	_	_	start_char=1124|end_char=1129
+34	in	in	ADP	IN	_	33	_	_	start_char=1130|end_char=1132
+35	April	April	PROPN	NNP	Number=Sing	34	_	_	start_char=1133|end_char=1138
+36	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	35	_	_	start_char=1139|end_char=1143|SpaceAfter=No
+37	.	.	PUNCT	.	_	36	_	_	start_char=1143|end_char=1144|SpacesAfter=\n\n
+
+# text = Climate change is increasing the frequency and intensity of extreme weather events, including tropical cyclones.
+# sent_id = 9
+1	Climate	climate	NOUN	NN	Number=Sing	0	_	_	start_char=1146|end_char=1153
+2	change	change	NOUN	NN	Number=Sing	1	_	_	start_char=1154|end_char=1160
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1161|end_char=1163
+4	increasing	increase	VERB	VBG	Tense=Pres|VerbForm=Part	3	_	_	start_char=1164|end_char=1174
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1175|end_char=1178
+6	frequency	frequency	NOUN	NN	Number=Sing	5	_	_	start_char=1179|end_char=1188
+7	and	and	CCONJ	CC	_	6	_	_	start_char=1189|end_char=1192
+8	intensity	intensity	NOUN	NN	Number=Sing	7	_	_	start_char=1193|end_char=1202
+9	of	of	ADP	IN	_	8	_	_	start_char=1203|end_char=1205
+10	extreme	extreme	ADJ	JJ	Degree=Pos	9	_	_	start_char=1206|end_char=1213
+11	weather	weather	NOUN	NN	Number=Sing	10	_	_	start_char=1214|end_char=1221
+12	events	event	NOUN	NNS	Number=Plur	11	_	_	start_char=1222|end_char=1228|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=1228|end_char=1229
+14	including	include	VERB	VBG	VerbForm=Ger	13	_	_	start_char=1230|end_char=1239
+15	tropical	tropical	ADJ	JJ	Degree=Pos	14	_	_	start_char=1240|end_char=1248
+16	cyclones	cyclone	NOUN	NNS	Number=Plur	15	_	_	start_char=1249|end_char=1257|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=1257|end_char=1258|SpacesAfter=\n\n
+
+# text = Individual cyclones can have a dramatic impact on wildlife populations, including seabirds.
+# sent_id = 10
+1	Individual	individual	ADJ	JJ	Degree=Pos	0	_	_	start_char=1260|end_char=1270
+2	cyclones	cyclone	NOUN	NNS	Number=Plur	1	_	_	start_char=1271|end_char=1279
+3	can	can	AUX	MD	VerbForm=Fin	2	_	_	start_char=1280|end_char=1283
+4	have	have	VERB	VB	VerbForm=Inf	3	_	_	start_char=1284|end_char=1288
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=1289|end_char=1290
+6	dramatic	dramatic	ADJ	JJ	Degree=Pos	5	_	_	start_char=1291|end_char=1299
+7	impact	impact	NOUN	NN	Number=Sing	6	_	_	start_char=1300|end_char=1306
+8	on	on	ADP	IN	_	7	_	_	start_char=1307|end_char=1309
+9	wildlife	wildlife	NOUN	NN	Number=Sing	8	_	_	start_char=1310|end_char=1318
+10	populations	population	NOUN	NNS	Number=Plur	9	_	_	start_char=1319|end_char=1330|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=1330|end_char=1331
+12	including	include	VERB	VBG	VerbForm=Ger	11	_	_	start_char=1332|end_char=1341
+13	seabirds	seabird	NOUN	NNS	Number=Plur	12	_	_	start_char=1342|end_char=1350|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=1350|end_char=1351
+
+# text = Cyclones directly affect seabirds in several ways, including causing significant mortality events, disrupting their nesting and breeding patterns, and altering migration strategies.
+# sent_id = 11
+1	Cyclones	cyclone	NOUN	NNS	Number=Plur	0	_	_	start_char=1352|end_char=1360
+2	directly	directly	ADV	RB	_	1	_	_	start_char=1361|end_char=1369
+3	affect	affect	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1370|end_char=1376
+4	seabirds	seabird	NOUN	NNS	Number=Plur	3	_	_	start_char=1377|end_char=1385
+5	in	in	ADP	IN	_	4	_	_	start_char=1386|end_char=1388
+6	several	several	ADJ	JJ	Degree=Pos	5	_	_	start_char=1389|end_char=1396
+7	ways	way	NOUN	NNS	Number=Plur	6	_	_	start_char=1397|end_char=1401|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=1401|end_char=1402
+9	including	include	VERB	VBG	VerbForm=Ger	8	_	_	start_char=1403|end_char=1412
+10	causing	cause	VERB	VBG	VerbForm=Ger	9	_	_	start_char=1413|end_char=1420
+11	significant	significant	ADJ	JJ	Degree=Pos	10	_	_	start_char=1421|end_char=1432
+12	mortality	mortality	NOUN	NN	Number=Sing	11	_	_	start_char=1433|end_char=1442
+13	events	event	NOUN	NNS	Number=Plur	12	_	_	start_char=1443|end_char=1449|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=1449|end_char=1450
+15	disrupting	disrupt	VERB	VBG	VerbForm=Ger	14	_	_	start_char=1451|end_char=1461
+16	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	15	_	_	start_char=1462|end_char=1467
+17	nesting	nest	NOUN	NN	Number=Sing	16	_	_	start_char=1468|end_char=1475
+18	and	and	CCONJ	CC	_	17	_	_	start_char=1476|end_char=1479
+19	breeding	breeding	NOUN	NN	Number=Sing	18	_	_	start_char=1480|end_char=1488
+20	patterns	pattern	NOUN	NNS	Number=Plur	19	_	_	start_char=1489|end_char=1497|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=1497|end_char=1498
+22	and	and	CCONJ	CC	_	21	_	_	start_char=1499|end_char=1502
+23	altering	alter	VERB	VBG	VerbForm=Ger	22	_	_	start_char=1503|end_char=1511
+24	migration	migration	NOUN	NN	Number=Sing	23	_	_	start_char=1512|end_char=1521
+25	strategies	strategy	NOUN	NNS	Number=Plur	24	_	_	start_char=1522|end_char=1532|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=1532|end_char=1533|SpacesAfter=\n\n
+
+# text = The increasing frequency of cyclones is already nown to have negative impacts on a range of organisms, but the impact on seabird populations is still unclear.
+# sent_id = 12
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1535|end_char=1538
+2	increasing	increase	VERB	VBG	VerbForm=Ger	1	_	_	start_char=1539|end_char=1549
+3	frequency	frequency	NOUN	NN	Number=Sing	2	_	_	start_char=1550|end_char=1559
+4	of	of	ADP	IN	_	3	_	_	start_char=1560|end_char=1562
+5	cyclones	cyclone	NOUN	NNS	Number=Plur	4	_	_	start_char=1563|end_char=1571
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1572|end_char=1574
+7	already	already	ADV	RB	_	6	_	_	start_char=1575|end_char=1582
+8	nown	nown	ADJ	JJ	Degree=Pos	7	_	_	start_char=1583|end_char=1587
+9	to	to	PART	TO	_	8	_	_	start_char=1588|end_char=1590
+10	have	have	VERB	VB	VerbForm=Inf	9	_	_	start_char=1591|end_char=1595
+11	negative	negative	ADJ	JJ	Degree=Pos	10	_	_	start_char=1596|end_char=1604
+12	impacts	impact	NOUN	NNS	Number=Plur	11	_	_	start_char=1605|end_char=1612
+13	on	on	ADP	IN	_	12	_	_	start_char=1613|end_char=1615
+14	a	a	DET	DT	Definite=Ind|PronType=Art	13	_	_	start_char=1616|end_char=1617
+15	range	range	NOUN	NN	Number=Sing	14	_	_	start_char=1618|end_char=1623
+16	of	of	ADP	IN	_	15	_	_	start_char=1624|end_char=1626
+17	organisms	organism	NOUN	NNS	Number=Plur	16	_	_	start_char=1627|end_char=1636|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=1636|end_char=1637
+19	but	but	CCONJ	CC	_	18	_	_	start_char=1638|end_char=1641
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=1642|end_char=1645
+21	impact	impact	NOUN	NN	Number=Sing	20	_	_	start_char=1646|end_char=1652
+22	on	on	ADP	IN	_	21	_	_	start_char=1653|end_char=1655
+23	seabird	seabird	NOUN	NN	Number=Sing	22	_	_	start_char=1656|end_char=1663
+24	populations	population	NOUN	NNS	Number=Plur	23	_	_	start_char=1664|end_char=1675
+25	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	_	_	start_char=1676|end_char=1678
+26	still	still	ADV	RB	_	25	_	_	start_char=1679|end_char=1684
+27	unclear	unclear	ADJ	JJ	Degree=Pos	26	_	_	start_char=1685|end_char=1692|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=1692|end_char=1693|SpacesAfter=\n\n
+
+# text = Jennifer Lavers and colleagues studied the impact of Cyclone Ilsa, a category 5 tropical cyclone, on the populations of several seabird species breeding on the 17-hectare Bedout Island, Western Australia, after the cyclone crossed the island on April 13 2023.
+# sent_id = 13
+1	Jennifer	Jennifer	PROPN	NNP	Number=Sing	0	_	_	start_char=1695|end_char=1703
+2	Lavers	Lavers	PROPN	NNP	Number=Sing	1	_	_	start_char=1704|end_char=1710
+3	and	and	CCONJ	CC	_	2	_	_	start_char=1711|end_char=1714
+4	colleagues	colleague	NOUN	NNS	Number=Plur	3	_	_	start_char=1715|end_char=1725
+5	studied	study	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=1726|end_char=1733
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1734|end_char=1737
+7	impact	impact	NOUN	NN	Number=Sing	6	_	_	start_char=1738|end_char=1744
+8	of	of	ADP	IN	_	7	_	_	start_char=1745|end_char=1747
+9	Cyclone	Cyclone	PROPN	NNP	Number=Sing	8	_	_	start_char=1748|end_char=1755
+10	Ilsa	Ilsa	PROPN	NNP	Number=Sing	9	_	_	start_char=1756|end_char=1760|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=1760|end_char=1761
+12	a	a	DET	DT	Definite=Ind|PronType=Art	11	_	_	start_char=1762|end_char=1763
+13	category	category	NOUN	NN	Number=Sing	12	_	_	start_char=1764|end_char=1772
+14	5	5	NUM	CD	NumForm=Digit|NumType=Card	13	_	_	start_char=1773|end_char=1774
+15	tropical	tropical	ADJ	JJ	Degree=Pos	14	_	_	start_char=1775|end_char=1783
+16	cyclone	cyclone	NOUN	NN	Number=Sing	15	_	_	start_char=1784|end_char=1791|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=1791|end_char=1792
+18	on	on	ADP	IN	_	17	_	_	start_char=1793|end_char=1795
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=1796|end_char=1799
+20	populations	population	NOUN	NNS	Number=Plur	19	_	_	start_char=1800|end_char=1811
+21	of	of	ADP	IN	_	20	_	_	start_char=1812|end_char=1814
+22	several	several	ADJ	JJ	Degree=Pos	21	_	_	start_char=1815|end_char=1822
+23	seabird	seabird	NOUN	NN	Number=Sing	22	_	_	start_char=1823|end_char=1830
+24	species	species	NOUN	NNS	Number=Plur	23	_	_	start_char=1831|end_char=1838
+25	breeding	breed	VERB	VBG	VerbForm=Ger	24	_	_	start_char=1839|end_char=1847
+26	on	on	ADP	IN	_	25	_	_	start_char=1848|end_char=1850
+27	the	the	DET	DT	Definite=Def|PronType=Art	26	_	_	start_char=1851|end_char=1854
+28	17	17	NUM	CD	NumForm=Digit|NumType=Card	27	_	_	start_char=1855|end_char=1857|SpaceAfter=No
+29	-	-	PUNCT	HYPH	_	28	_	_	start_char=1857|end_char=1858|SpaceAfter=No
+30	hectare	hectare	NOUN	NN	Number=Sing	29	_	_	start_char=1858|end_char=1865
+31	Bedout	Bedout	PROPN	NNP	Number=Sing	30	_	_	start_char=1866|end_char=1872
+32	Island	Island	PROPN	NNP	Number=Sing	31	_	_	start_char=1873|end_char=1879|SpaceAfter=No
+33	,	,	PUNCT	,	_	32	_	_	start_char=1879|end_char=1880
+34	Western	western	ADJ	NNP	Degree=Pos	33	_	_	start_char=1881|end_char=1888
+35	Australia	Australia	PROPN	NNP	Number=Sing	34	_	_	start_char=1889|end_char=1898|SpaceAfter=No
+36	,	,	PUNCT	,	_	35	_	_	start_char=1898|end_char=1899
+37	after	after	SCONJ	IN	_	36	_	_	start_char=1900|end_char=1905
+38	the	the	DET	DT	Definite=Def|PronType=Art	37	_	_	start_char=1906|end_char=1909
+39	cyclone	cyclone	NOUN	NN	Number=Sing	38	_	_	start_char=1910|end_char=1917
+40	crossed	cross	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	39	_	_	start_char=1918|end_char=1925
+41	the	the	DET	DT	Definite=Def|PronType=Art	40	_	_	start_char=1926|end_char=1929
+42	island	island	NOUN	NN	Number=Sing	41	_	_	start_char=1930|end_char=1936
+43	on	on	ADP	IN	_	42	_	_	start_char=1937|end_char=1939
+44	April	April	PROPN	NNP	Number=Sing	43	_	_	start_char=1940|end_char=1945
+45	13	13	NUM	CD	NumForm=Digit|NumType=Card	44	_	_	start_char=1946|end_char=1948
+46	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	45	_	_	start_char=1949|end_char=1953|SpaceAfter=No
+47	.	.	PUNCT	.	_	46	_	_	start_char=1953|end_char=1954|SpacesAfter=\n\n
+
+# text = They used aerial and ground surveys, conducted between April 17 and July 21 2023, to estimate the percentage mortality of three species — the brown booby (Sula leucogaster), the lesser frigatebird (Fregata ariel), and an endemic subspecies of the mased booby (Sula dactylatra bedouti).
+# sent_id = 14
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=1956|end_char=1960
+2	used	use	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1961|end_char=1965
+3	aerial	aerial	ADJ	JJ	Degree=Pos	2	_	_	start_char=1966|end_char=1972
+4	and	and	CCONJ	CC	_	3	_	_	start_char=1973|end_char=1976
+5	ground	ground	NOUN	NN	Number=Sing	4	_	_	start_char=1977|end_char=1983
+6	surveys	survey	NOUN	NNS	Number=Plur	5	_	_	start_char=1984|end_char=1991|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=1991|end_char=1992
+8	conducted	conduct	VERB	VBN	Tense=Past|VerbForm=Part	7	_	_	start_char=1993|end_char=2002
+9	between	between	ADP	IN	_	8	_	_	start_char=2003|end_char=2010
+10	April	April	PROPN	NNP	Number=Sing	9	_	_	start_char=2011|end_char=2016
+11	17	17	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=2017|end_char=2019
+12	and	and	CCONJ	CC	_	11	_	_	start_char=2020|end_char=2023
+13	July	July	PROPN	NNP	Number=Sing	12	_	_	start_char=2024|end_char=2028
+14	21	21	NUM	CD	NumForm=Digit|NumType=Card	13	_	_	start_char=2029|end_char=2031
+15	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	14	_	_	start_char=2032|end_char=2036|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=2036|end_char=2037
+17	to	to	PART	TO	_	16	_	_	start_char=2038|end_char=2040
+18	estimate	estimate	VERB	VB	VerbForm=Inf	17	_	_	start_char=2041|end_char=2049
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=2050|end_char=2053
+20	percentage	percentage	NOUN	NN	Number=Sing	19	_	_	start_char=2054|end_char=2064
+21	mortality	mortality	NOUN	NN	Number=Sing	20	_	_	start_char=2065|end_char=2074
+22	of	of	ADP	IN	_	21	_	_	start_char=2075|end_char=2077
+23	three	three	NUM	CD	NumForm=Word|NumType=Card	22	_	_	start_char=2078|end_char=2083
+24	species	species	NOUN	NNS	Number=Plur	23	_	_	start_char=2084|end_char=2091
+25	—	—	PUNCT	:	_	24	_	_	start_char=2092|end_char=2093
+26	the	the	DET	DT	Definite=Def|PronType=Art	25	_	_	start_char=2094|end_char=2097
+27	brown	brown	ADJ	JJ	Degree=Pos	26	_	_	start_char=2098|end_char=2103
+28	booby	booby	NOUN	NN	Number=Sing	27	_	_	start_char=2104|end_char=2109
+29	(	(	PUNCT	-LRB-	_	28	_	_	start_char=2110|end_char=2111|SpaceAfter=No
+30	Sula	Sula	PROPN	NNP	Number=Sing	29	_	_	start_char=2111|end_char=2115
+31	leucogaster	leucogaster	X	FW	Foreign=Yes	30	_	_	start_char=2116|end_char=2127|SpaceAfter=No
+32	)	)	PUNCT	-RRB-	_	31	_	_	start_char=2127|end_char=2128|SpaceAfter=No
+33	,	,	PUNCT	,	_	32	_	_	start_char=2128|end_char=2129
+34	the	the	DET	DT	Definite=Def|PronType=Art	33	_	_	start_char=2130|end_char=2133
+35	lesser	less	ADJ	JJR	Degree=Cmp	34	_	_	start_char=2134|end_char=2140
+36	frigatebird	frigatebird	NOUN	NN	Number=Sing	35	_	_	start_char=2141|end_char=2152
+37	(	(	PUNCT	-LRB-	_	36	_	_	start_char=2153|end_char=2154|SpaceAfter=No
+38	Fregata	Fregata	PROPN	NNP	Number=Sing	37	_	_	start_char=2154|end_char=2161
+39	ariel	ariel	X	FW	Foreign=Yes	38	_	_	start_char=2162|end_char=2167|SpaceAfter=No
+40	)	)	PUNCT	-RRB-	_	39	_	_	start_char=2167|end_char=2168|SpaceAfter=No
+41	,	,	PUNCT	,	_	40	_	_	start_char=2168|end_char=2169
+42	and	and	CCONJ	CC	_	41	_	_	start_char=2170|end_char=2173
+43	an	a	DET	DT	Definite=Ind|PronType=Art	42	_	_	start_char=2174|end_char=2176
+44	endemic	endemic	ADJ	JJ	Degree=Pos	43	_	_	start_char=2177|end_char=2184
+45	subspecies	subspecies	NOUN	NNS	Number=Plur	44	_	_	start_char=2185|end_char=2195
+46	of	of	ADP	IN	_	45	_	_	start_char=2196|end_char=2198
+47	the	the	DET	DT	Definite=Def|PronType=Art	46	_	_	start_char=2199|end_char=2202
+48	mased	mased	NOUN	NN	Number=Sing	47	_	_	start_char=2203|end_char=2208
+49	booby	booby	NOUN	NN	Number=Sing	48	_	_	start_char=2209|end_char=2214
+50	(	(	PUNCT	-LRB-	_	49	_	_	start_char=2215|end_char=2216|SpaceAfter=No
+51	Sula	Sula	PROPN	NNP	Number=Sing	50	_	_	start_char=2216|end_char=2220
+52	dactylatra	dactylatra	X	FW	Foreign=Yes	51	_	_	start_char=2221|end_char=2231
+53	bedouti	bedouti	X	FW	Foreign=Yes	52	_	_	start_char=2232|end_char=2239|SpaceAfter=No
+54	)	)	PUNCT	-RRB-	_	53	_	_	start_char=2239|end_char=2240|SpaceAfter=No
+55	.	.	PUNCT	.	_	54	_	_	start_char=2240|end_char=2241|SpacesAfter=\n\n
+
+# text = The authors estimate that 80–90% of these species’ populations — at least 20,000 individual birds — were illed during the storm, with the losses predominantly adult breeding birds.
+# sent_id = 15
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2243|end_char=2246
+2	authors	author	NOUN	NNS	Number=Plur	1	_	_	start_char=2247|end_char=2254
+3	estimate	estimate	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2255|end_char=2263
+4	that	that	SCONJ	IN	_	3	_	_	start_char=2264|end_char=2268
+5	80	80	NUM	CD	NumForm=Digit|NumType=Card	4	_	_	start_char=2269|end_char=2271|SpaceAfter=No
+6	–	-	SYM	SYM	_	5	_	_	start_char=2271|end_char=2272|SpaceAfter=No
+7	90	90	NUM	CD	NumForm=Digit|NumType=Card	6	_	_	start_char=2272|end_char=2274|SpaceAfter=No
+8	%	%	SYM	NN	Number=Sing	7	_	_	start_char=2274|end_char=2275
+9	of	of	ADP	IN	_	8	_	_	start_char=2276|end_char=2278
+10	these	this	DET	DT	Number=Plur|PronType=Dem	9	_	_	start_char=2279|end_char=2284
+11-12	species’	_	_	_	_	_	_	_	start_char=2285|end_char=2293
+11	species	species	NOUN	NNS	Number=Plur	10	_	_	start_char=2285|end_char=2292
+12	’	's	PART	POS	_	11	_	_	start_char=2292|end_char=2293
+13	populations	population	NOUN	NNS	Number=Plur	12	_	_	start_char=2294|end_char=2305
+14	—	—	PUNCT	:	_	13	_	_	start_char=2306|end_char=2307
+15	at	at	ADP	IN	_	14	_	_	start_char=2308|end_char=2310
+16	least	least	ADJ	JJS	Degree=Sup	15	_	_	start_char=2311|end_char=2316
+17	20,000	20000	NUM	CD	NumForm=Digit|NumType=Card	16	_	_	start_char=2317|end_char=2323
+18	individual	individual	ADJ	JJ	Degree=Pos	17	_	_	start_char=2324|end_char=2334
+19	birds	bird	NOUN	NNS	Number=Plur	18	_	_	start_char=2335|end_char=2340
+20	—	—	PUNCT	:	_	19	_	_	start_char=2341|end_char=2342
+21	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	20	_	_	start_char=2343|end_char=2347
+22	illed	ill	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	21	_	_	start_char=2348|end_char=2353
+23	during	during	ADP	IN	_	22	_	_	start_char=2354|end_char=2360
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=2361|end_char=2364
+25	storm	storm	NOUN	NN	Number=Sing	24	_	_	start_char=2365|end_char=2370|SpaceAfter=No
+26	,	,	PUNCT	,	_	25	_	_	start_char=2370|end_char=2371
+27	with	with	ADP	IN	_	26	_	_	start_char=2372|end_char=2376
+28	the	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=2377|end_char=2380
+29	losses	loss	NOUN	NNS	Number=Plur	28	_	_	start_char=2381|end_char=2387
+30	predominantly	predominantly	ADV	RB	_	29	_	_	start_char=2388|end_char=2401
+31	adult	adult	ADJ	JJ	Degree=Pos	30	_	_	start_char=2402|end_char=2407
+32	breeding	breeding	NOUN	NN	Number=Sing	31	_	_	start_char=2408|end_char=2416
+33	birds	bird	NOUN	NNS	Number=Plur	32	_	_	start_char=2417|end_char=2422|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=2422|end_char=2423|SpacesAfter=\n\n
+
+# text = The authors warn that this level of population loss for island seabirds may be unsustainable when coupled with the increase in cyclone frequency, as many seabirds are long-lived, have long generation times, and raise very few chics per year.
+# sent_id = 16
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2425|end_char=2428
+2	authors	author	NOUN	NNS	Number=Plur	1	_	_	start_char=2429|end_char=2436
+3	warn	warn	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2437|end_char=2441
+4	that	that	SCONJ	IN	_	3	_	_	start_char=2442|end_char=2446
+5	this	this	DET	DT	Number=Sing|PronType=Dem	4	_	_	start_char=2447|end_char=2451
+6	level	level	NOUN	NN	Number=Sing	5	_	_	start_char=2452|end_char=2457
+7	of	of	ADP	IN	_	6	_	_	start_char=2458|end_char=2460
+8	population	population	NOUN	NN	Number=Sing	7	_	_	start_char=2461|end_char=2471
+9	loss	loss	NOUN	NN	Number=Sing	8	_	_	start_char=2472|end_char=2476
+10	for	for	ADP	IN	_	9	_	_	start_char=2477|end_char=2480
+11	island	island	NOUN	NN	Number=Sing	10	_	_	start_char=2481|end_char=2487
+12	seabirds	seabird	NOUN	NNS	Number=Plur	11	_	_	start_char=2488|end_char=2496
+13	may	may	AUX	MD	VerbForm=Fin	12	_	_	start_char=2497|end_char=2500
+14	be	be	AUX	VB	VerbForm=Inf	13	_	_	start_char=2501|end_char=2503
+15	unsustainable	unsustainable	ADJ	JJ	Degree=Pos	14	_	_	start_char=2504|end_char=2517
+16	when	when	ADV	WRB	PronType=Int	15	_	_	start_char=2518|end_char=2522
+17	coupled	couple	VERB	VBN	Tense=Past|VerbForm=Part	16	_	_	start_char=2523|end_char=2530
+18	with	with	ADP	IN	_	17	_	_	start_char=2531|end_char=2535
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=2536|end_char=2539
+20	increase	increase	NOUN	NN	Number=Sing	19	_	_	start_char=2540|end_char=2548
+21	in	in	ADP	IN	_	20	_	_	start_char=2549|end_char=2551
+22	cyclone	cyclone	NOUN	NN	Number=Sing	21	_	_	start_char=2552|end_char=2559
+23	frequency	frequency	NOUN	NN	Number=Sing	22	_	_	start_char=2560|end_char=2569|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=2569|end_char=2570
+25	as	as	SCONJ	IN	_	24	_	_	start_char=2571|end_char=2573
+26	many	many	ADJ	JJ	Degree=Pos	25	_	_	start_char=2574|end_char=2578
+27	seabirds	seabird	NOUN	NNS	Number=Plur	26	_	_	start_char=2579|end_char=2587
+28	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	27	_	_	start_char=2588|end_char=2591
+29	long	long	ADJ	JJ	Degree=Pos	28	_	_	start_char=2592|end_char=2596|SpaceAfter=No
+30	-	-	PUNCT	HYPH	_	29	_	_	start_char=2596|end_char=2597|SpaceAfter=No
+31	lived	live	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	30	_	_	start_char=2597|end_char=2602|SpaceAfter=No
+32	,	,	PUNCT	,	_	31	_	_	start_char=2602|end_char=2603
+33	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	32	_	_	start_char=2604|end_char=2608
+34	long	long	ADJ	JJ	Degree=Pos	33	_	_	start_char=2609|end_char=2613
+35	generation	generation	NOUN	NN	Number=Sing	34	_	_	start_char=2614|end_char=2624
+36	times	time	NOUN	NNS	Number=Plur	35	_	_	start_char=2625|end_char=2630|SpaceAfter=No
+37	,	,	PUNCT	,	_	36	_	_	start_char=2630|end_char=2631
+38	and	and	CCONJ	CC	_	37	_	_	start_char=2632|end_char=2635
+39	raise	raise	VERB	VB	VerbForm=Inf	38	_	_	start_char=2636|end_char=2641
+40	very	very	ADV	RB	_	39	_	_	start_char=2642|end_char=2646
+41	few	few	ADJ	JJ	Degree=Pos	40	_	_	start_char=2647|end_char=2650
+42	chics	chic	NOUN	NNS	Number=Plur	41	_	_	start_char=2651|end_char=2656
+43	per	per	ADP	IN	_	42	_	_	start_char=2657|end_char=2660
+44	year	year	NOUN	NN	Number=Sing	43	_	_	start_char=2661|end_char=2665|SpaceAfter=No
+45	.	.	PUNCT	.	_	44	_	_	start_char=2665|end_char=2666|SpacesAfter=\n\n
+
+# text = Full article here.
+# sent_id = 17
+1	Full	full	ADJ	JJ	Degree=Pos	0	_	_	start_char=2668|end_char=2672
+2	article	article	NOUN	NN	Number=Sing	1	_	_	start_char=2673|end_char=2680
+3	here	here	ADV	RB	PronType=Dem	2	_	_	start_char=2681|end_char=2685|SpaceAfter=No
+4	.	.	PUNCT	.	_	3	_	_	start_char=2685|end_char=2686|SpacesAfter=\n\n
+
+# text = – – –
+# sent_id = 18
+1	–	-	PUNCT	:	_	0	_	_	start_char=2688|end_char=2689
+2	–	-	PUNCT	:	_	1	_	_	start_char=2690|end_char=2691
+3	–	-	PUNCT	:	_	2	_	_	start_char=2692|end_char=2693|SpacesAfter=\n\n
+
+# text = Image: Tropical storm [credit: BBC]
+# sent_id = 19
+1	Image	image	NOUN	NN	Number=Sing	0	_	_	start_char=2695|end_char=2700|SpaceAfter=No
+2	:	:	PUNCT	:	_	1	_	_	start_char=2700|end_char=2701
+3	Tropical	tropical	ADJ	JJ	Degree=Pos	2	_	_	start_char=2702|end_char=2710
+4	storm	storm	NOUN	NN	Number=Sing	3	_	_	start_char=2711|end_char=2716
+5	[	[	PUNCT	-LRB-	_	4	_	_	start_char=2717|end_char=2718|SpaceAfter=No
+6	credit	credit	NOUN	NN	Number=Sing	5	_	_	start_char=2718|end_char=2724|SpaceAfter=No
+7	:	:	PUNCT	:	_	6	_	_	start_char=2724|end_char=2725
+8	BBC	BBC	PROPN	NNP	Number=Sing	7	_	_	start_char=2726|end_char=2729|SpaceAfter=No
+9	]	]	PUNCT	-RRB-	_	8	_	_	start_char=2729|end_char=2730|SpacesAfter=\n\n
+
+# text = The limate lowns have not made one prediction that came through Not one.
+# sent_id = 20
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2732|end_char=2735
+2	limate	limate	NOUN	NN	Number=Sing	1	_	_	start_char=2736|end_char=2742
+3	lowns	lown	NOUN	NNS	Number=Plur	2	_	_	start_char=2743|end_char=2748
+4	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=2749|end_char=2753
+5	not	not	PART	RB	_	4	_	_	start_char=2754|end_char=2757
+6	made	make	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=2758|end_char=2762
+7	one	one	NUM	CD	NumForm=Word|NumType=Card	6	_	_	start_char=2763|end_char=2766
+8	prediction	prediction	NOUN	NN	Number=Sing	7	_	_	start_char=2767|end_char=2777
+9	that	that	PRON	WDT	PronType=Rel	8	_	_	start_char=2778|end_char=2782
+10	came	come	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=2783|end_char=2787
+11	through	through	ADP	IN	_	10	_	_	start_char=2788|end_char=2795
+12	Not	not	PART	RB	_	11	_	_	start_char=2796|end_char=2799
+13	one	one	NUM	CD	NumForm=Word|NumType=Card	12	_	_	start_char=2800|end_char=2803|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=2803|end_char=2804
+
+# text = AND YET… the sheeple and mouth breathers (apparently some 50%+ of the population) are not swayed by incompetence in front of their eyes.
+# sent_id = 21
+1	AND	and	CCONJ	CC	_	0	_	_	start_char=2805|end_char=2808
+2	YET	yet	ADV	RB	_	1	_	_	start_char=2809|end_char=2812|SpaceAfter=No
+3	…	…	PUNCT	:	_	2	_	_	start_char=2812|end_char=2813
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=2814|end_char=2817
+5	sheeple	sheeple	NOUN	NN	Number=Sing	4	_	_	start_char=2818|end_char=2825
+6	and	and	CCONJ	CC	_	5	_	_	start_char=2826|end_char=2829
+7	mouth	mouth	NOUN	NN	Number=Sing	6	_	_	start_char=2830|end_char=2835
+8	breathers	breather	NOUN	NNS	Number=Plur	7	_	_	start_char=2836|end_char=2845
+9	(	(	PUNCT	-LRB-	_	8	_	_	start_char=2846|end_char=2847|SpaceAfter=No
+10	apparently	apparently	ADV	RB	_	9	_	_	start_char=2847|end_char=2857
+11	some	some	DET	DT	_	10	_	_	start_char=2858|end_char=2862
+12	50	50	NUM	CD	NumForm=Digit|NumType=Card	11	_	_	start_char=2863|end_char=2865|SpaceAfter=No
+13	%	%	SYM	NN	Number=Sing	12	_	_	start_char=2865|end_char=2866|SpaceAfter=No
+14	+	+	SYM	SYM	_	13	_	_	start_char=2866|end_char=2867
+15	of	of	ADP	IN	_	14	_	_	start_char=2868|end_char=2870
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=2871|end_char=2874
+17	population	population	NOUN	NN	Number=Sing	16	_	_	start_char=2875|end_char=2885|SpaceAfter=No
+18	)	)	PUNCT	-RRB-	_	17	_	_	start_char=2885|end_char=2886
+19	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=2887|end_char=2890
+20	not	not	PART	RB	_	19	_	_	start_char=2891|end_char=2894
+21	swayed	sway	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	20	_	_	start_char=2895|end_char=2901
+22	by	by	ADP	IN	_	21	_	_	start_char=2902|end_char=2904
+23	incompetence	incompetence	NOUN	NN	Number=Sing	22	_	_	start_char=2905|end_char=2917
+24	in	in	ADP	IN	_	23	_	_	start_char=2918|end_char=2920
+25	front	front	NOUN	NN	Number=Sing	24	_	_	start_char=2921|end_char=2926
+26	of	of	ADP	IN	_	25	_	_	start_char=2927|end_char=2929
+27	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	26	_	_	start_char=2930|end_char=2935
+28	eyes	eye	NOUN	NNS	Number=Plur	27	_	_	start_char=2936|end_char=2940|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=2940|end_char=2941|SpaceAfter=No
+

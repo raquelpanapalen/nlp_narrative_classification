@@ -1,0 +1,434 @@
+# text = “There is so much fallout:” Locals challenge watchdog over coal mine pollution
+# sent_id = 0
+1	“	''	PUNCT	``	_	0	_	_	start_char=0|end_char=1|SpaceAfter=No
+2	There	there	PRON	EX	_	1	_	_	start_char=1|end_char=6
+3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=7|end_char=9
+4	so	so	ADV	RB	_	3	_	_	start_char=10|end_char=12
+5	much	much	ADJ	JJ	Degree=Pos	4	_	_	start_char=13|end_char=17
+6	fallout	fallout	NOUN	NN	Number=Sing	5	_	_	start_char=18|end_char=25|SpaceAfter=No
+7	:	:	PUNCT	:	_	6	_	_	start_char=25|end_char=26|SpaceAfter=No
+8	”	''	PUNCT	``	_	7	_	_	start_char=26|end_char=27
+9	Locals	Locals	PROPN	NNPS	Number=Plur	8	_	_	start_char=28|end_char=34
+10	challenge	challenge	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=35|end_char=44
+11	watchdog	watchdog	NOUN	NN	Number=Sing	10	_	_	start_char=45|end_char=53
+12	over	over	ADP	IN	_	11	_	_	start_char=54|end_char=58
+13	coal	coal	NOUN	NN	Number=Sing	12	_	_	start_char=59|end_char=63
+14	mine	mine	PRON	PRP	Number=Sing|Person=1|Poss=Yes|PronType=Prs	13	_	_	start_char=64|end_char=68
+15	pollution	pollution	NOUN	NN	Number=Sing	14	_	_	start_char=69|end_char=78|SpacesAfter=\s\n\n\s
+
+# text = Ros Druce nows there’s toxic coal dust in the air she breathes.
+# sent_id = 1
+1	Ros	Ros	PROPN	NNP	Number=Sing	0	_	_	start_char=82|end_char=85
+2	Druce	Druce	PROPN	NNP	Number=Sing	1	_	_	start_char=86|end_char=91
+3	nows	now	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=92|end_char=96
+4-5	there’s	_	_	_	_	_	_	_	start_char=97|end_char=104
+4	there	there	PRON	EX	_	3	_	_	start_char=97|end_char=102
+5	’s	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=102|end_char=104
+6	toxic	toxic	ADJ	JJ	Degree=Pos	5	_	_	start_char=105|end_char=110
+7	coal	coal	NOUN	NN	Number=Sing	6	_	_	start_char=111|end_char=115
+8	dust	dust	NOUN	NN	Number=Sing	7	_	_	start_char=116|end_char=120
+9	in	in	ADP	IN	_	8	_	_	start_char=121|end_char=123
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=124|end_char=127
+11	air	air	NOUN	NN	Number=Sing	10	_	_	start_char=128|end_char=131
+12	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	_	_	start_char=132|end_char=135
+13	breathes	breathe	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=136|end_char=144|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=144|end_char=145|SpacesAfter=\n\n
+
+# text = In 2016, NSW’s environmental watchdog tested some of the blac residue that had sullied her barbecue area.
+# sent_id = 2
+1	In	in	ADP	IN	_	0	_	_	start_char=147|end_char=149
+2	2016	2016	NUM	CD	NumForm=Digit|NumType=Card	1	_	_	start_char=150|end_char=154|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=154|end_char=155
+4-5	NSW’s	_	_	_	_	_	_	_	start_char=156|end_char=161
+4	NSW	NSW	PROPN	NNP	Number=Sing	3	_	_	start_char=156|end_char=159
+5	’s	's	PART	POS	_	4	_	_	start_char=159|end_char=161
+6	environmental	environmental	ADJ	JJ	Degree=Pos	5	_	_	start_char=162|end_char=175
+7	watchdog	watchdog	NOUN	NN	Number=Sing	6	_	_	start_char=176|end_char=184
+8	tested	test	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=185|end_char=191
+9	some	some	DET	DT	_	8	_	_	start_char=192|end_char=196
+10	of	of	ADP	IN	_	9	_	_	start_char=197|end_char=199
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=200|end_char=203
+12	blac	blac	NOUN	NN	Number=Sing	11	_	_	start_char=204|end_char=208
+13	residue	residue	NOUN	NN	Number=Sing	12	_	_	start_char=209|end_char=216
+14	that	that	PRON	WDT	PronType=Rel	13	_	_	start_char=217|end_char=221
+15	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=222|end_char=225
+16	sullied	sully	VERB	VBN	Tense=Past|VerbForm=Part	15	_	_	start_char=226|end_char=233
+17	her	her	PRON	PRP$	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	_	_	start_char=234|end_char=237
+18	barbecue	barbecue	NOUN	NN	Number=Sing	17	_	_	start_char=238|end_char=246
+19	area	area	NOUN	NN	Number=Sing	18	_	_	start_char=247|end_char=251|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=251|end_char=252|SpacesAfter=\n\n
+
+# text = “They said it was 15 per cent coal dust bac then.
+# sent_id = 3
+1	“	''	PUNCT	``	_	0	_	_	start_char=254|end_char=255|SpaceAfter=No
+2	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	1	_	_	start_char=255|end_char=259
+3	said	say	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=260|end_char=264
+4	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	_	_	start_char=265|end_char=267
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=268|end_char=271
+6	15	15	NUM	CD	NumForm=Digit|NumType=Card	5	_	_	start_char=272|end_char=274
+7	per	per	NOUN	NN	Number=Sing	6	_	_	start_char=275|end_char=278
+8	cent	cent	NOUN	NN	Number=Sing	7	_	_	start_char=279|end_char=283
+9	coal	coal	NOUN	NN	Number=Sing	8	_	_	start_char=284|end_char=288
+10	dust	dust	NOUN	NN	Number=Sing	9	_	_	start_char=289|end_char=293
+11	bac	bac	NOUN	NN	Number=Sing	10	_	_	start_char=294|end_char=297
+12	then	then	ADV	RB	PronType=Dem	11	_	_	start_char=298|end_char=302|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=302|end_char=303
+
+# text = But that was before they were blasting four days a wee and everything else,” she says from her family’s property, 7m from Whitehaven Coal’s Maules Cree Mine.
+# sent_id = 4
+1	But	but	CCONJ	CC	_	0	_	_	start_char=304|end_char=307
+2	that	that	PRON	DT	Number=Sing|PronType=Dem	1	_	_	start_char=308|end_char=312
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=313|end_char=316
+4	before	before	SCONJ	IN	_	3	_	_	start_char=317|end_char=323
+5	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	_	_	start_char=324|end_char=328
+6	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=329|end_char=333
+7	blasting	blast	VERB	VBG	Tense=Pres|VerbForm=Part	6	_	_	start_char=334|end_char=342
+8	four	four	NUM	CD	NumForm=Word|NumType=Card	7	_	_	start_char=343|end_char=347
+9	days	day	NOUN	NNS	Number=Plur	8	_	_	start_char=348|end_char=352
+10	a	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=353|end_char=354
+11	wee	wee	NOUN	NN	Number=Sing	10	_	_	start_char=355|end_char=358
+12	and	and	CCONJ	CC	_	11	_	_	start_char=359|end_char=362
+13	everything	everything	PRON	NN	Number=Sing|PronType=Tot	12	_	_	start_char=363|end_char=373
+14	else	else	ADJ	JJ	Degree=Pos	13	_	_	start_char=374|end_char=378|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=378|end_char=379|SpaceAfter=No
+16	”	''	PUNCT	''	_	15	_	_	start_char=379|end_char=380
+17	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	_	_	start_char=381|end_char=384
+18	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=385|end_char=389
+19	from	from	ADP	IN	_	18	_	_	start_char=390|end_char=394
+20	her	her	PRON	PRP$	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	_	_	start_char=395|end_char=398
+21-22	family’s	_	_	_	_	_	_	_	start_char=399|end_char=407
+21	family	family	NOUN	NN	Number=Sing	20	_	_	start_char=399|end_char=405
+22	’s	's	PART	POS	_	21	_	_	start_char=405|end_char=407
+23	property	property	NOUN	NN	Number=Sing	22	_	_	start_char=408|end_char=416|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=416|end_char=417
+25	7	7	NUM	CD	NumForm=Digit|NumType=Card	24	_	_	start_char=418|end_char=419|SpaceAfter=No
+26	m	m	NOUN	NNS	Number=Plur	25	_	_	start_char=419|end_char=420
+27	from	from	ADP	IN	_	26	_	_	start_char=421|end_char=425
+28	Whitehaven	Whitehaven	PROPN	NNP	Number=Sing	27	_	_	start_char=426|end_char=436
+29-30	Coal’s	_	_	_	_	_	_	_	start_char=437|end_char=443
+29	Coal	Coal	PROPN	NNP	Number=Sing	28	_	_	start_char=437|end_char=441
+30	’s	's	PART	POS	_	29	_	_	start_char=441|end_char=443
+31	Maules	Maules	PROPN	NNP	Number=Sing	30	_	_	start_char=444|end_char=450
+32	Cree	Cree	PROPN	NNP	Number=Sing	31	_	_	start_char=451|end_char=455
+33	Mine	mine	PROPN	NNP	Number=Sing	32	_	_	start_char=456|end_char=460|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=460|end_char=461|SpacesAfter=\n\n
+
+# text = “I can’t have a vegetable garden any more because there’s so much fallout from when they blast that it covers all the vegetables, the grass, everything.”
+# sent_id = 5
+1	“	''	PUNCT	``	_	0	_	_	start_char=463|end_char=464|SpaceAfter=No
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	_	_	start_char=464|end_char=465
+3-4	can’t	_	_	_	_	_	_	_	start_char=466|end_char=471
+3	ca	can	AUX	MD	VerbForm=Fin	2	_	_	start_char=466|end_char=468
+4	n’t	not	PART	RB	_	3	_	_	start_char=468|end_char=471
+5	have	have	VERB	VB	VerbForm=Inf	4	_	_	start_char=472|end_char=476
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=477|end_char=478
+7	vegetable	vegetable	NOUN	NN	Number=Sing	6	_	_	start_char=479|end_char=488
+8	garden	garden	NOUN	NN	Number=Sing	7	_	_	start_char=489|end_char=495
+9	any	any	ADV	RB	_	8	_	_	start_char=496|end_char=499
+10	more	more	ADV	RBR	Degree=Cmp	9	_	_	start_char=500|end_char=504
+11	because	because	SCONJ	IN	_	10	_	_	start_char=505|end_char=512
+12-13	there’s	_	_	_	_	_	_	_	start_char=513|end_char=520
+12	there	there	PRON	EX	_	11	_	_	start_char=513|end_char=518
+13	’s	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=518|end_char=520
+14	so	so	ADV	RB	_	13	_	_	start_char=521|end_char=523
+15	much	much	ADJ	JJ	Degree=Pos	14	_	_	start_char=524|end_char=528
+16	fallout	fallout	NOUN	NN	Number=Sing	15	_	_	start_char=529|end_char=536
+17	from	from	ADP	IN	_	16	_	_	start_char=537|end_char=541
+18	when	when	ADV	WRB	PronType=Int	17	_	_	start_char=542|end_char=546
+19	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	_	_	start_char=547|end_char=551
+20	blast	blast	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	_	_	start_char=552|end_char=557
+21	that	that	SCONJ	IN	_	20	_	_	start_char=558|end_char=562
+22	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	_	_	start_char=563|end_char=565
+23	covers	cover	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	_	_	start_char=566|end_char=572
+24	all	all	DET	PDT	_	23	_	_	start_char=573|end_char=576
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=577|end_char=580
+26	vegetables	vegetable	NOUN	NNS	Number=Plur	25	_	_	start_char=581|end_char=591|SpaceAfter=No
+27	,	,	PUNCT	,	_	26	_	_	start_char=591|end_char=592
+28	the	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=593|end_char=596
+29	grass	grass	NOUN	NN	Number=Sing	28	_	_	start_char=597|end_char=602|SpaceAfter=No
+30	,	,	PUNCT	,	_	29	_	_	start_char=602|end_char=603
+31	everything	everything	PRON	NN	Number=Sing|PronType=Tot	30	_	_	start_char=604|end_char=614|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=614|end_char=615|SpaceAfter=No
+33	”	''	PUNCT	''	_	32	_	_	start_char=615|end_char=616|SpacesAfter=\n\n
+
+# text = Indoors, it’s more of the same, with coal dust “everywhere” and constant worry about what years of exposure might be doing to her health.
+# sent_id = 6
+1	Indoors	indoor	NOUN	NNS	Number=Plur	0	_	_	start_char=618|end_char=625|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=625|end_char=626
+3-4	it’s	_	_	_	_	_	_	_	start_char=627|end_char=631
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	_	_	start_char=627|end_char=629
+4	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=629|end_char=631
+5	more	more	ADJ	JJR	Degree=Cmp	4	_	_	start_char=632|end_char=636
+6	of	of	ADP	IN	_	5	_	_	start_char=637|end_char=639
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=640|end_char=643
+8	same	same	ADJ	JJ	Degree=Pos	7	_	_	start_char=644|end_char=648|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=648|end_char=649
+10	with	with	ADP	IN	_	9	_	_	start_char=650|end_char=654
+11	coal	coal	NOUN	NN	Number=Sing	10	_	_	start_char=655|end_char=659
+12	dust	dust	NOUN	NN	Number=Sing	11	_	_	start_char=660|end_char=664
+13	“	''	PUNCT	''	_	12	_	_	start_char=665|end_char=666|SpaceAfter=No
+14	everywhere	everywhere	ADV	RB	_	13	_	_	start_char=666|end_char=676|SpaceAfter=No
+15	”	''	PUNCT	''	_	14	_	_	start_char=676|end_char=677
+16	and	and	CCONJ	CC	_	15	_	_	start_char=678|end_char=681
+17	constant	constant	ADJ	JJ	Degree=Pos	16	_	_	start_char=682|end_char=690
+18	worry	worry	NOUN	NN	Number=Sing	17	_	_	start_char=691|end_char=696
+19	about	about	ADP	IN	_	18	_	_	start_char=697|end_char=702
+20	what	what	DET	WDT	PronType=Int	19	_	_	start_char=703|end_char=707
+21	years	year	NOUN	NNS	Number=Plur	20	_	_	start_char=708|end_char=713
+22	of	of	ADP	IN	_	21	_	_	start_char=714|end_char=716
+23	exposure	exposure	NOUN	NN	Number=Sing	22	_	_	start_char=717|end_char=725
+24	might	might	AUX	MD	VerbForm=Fin	23	_	_	start_char=726|end_char=731
+25	be	be	AUX	VB	VerbForm=Inf	24	_	_	start_char=732|end_char=734
+26	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	25	_	_	start_char=735|end_char=740
+27	to	to	ADP	IN	_	26	_	_	start_char=741|end_char=743
+28	her	her	PRON	PRP$	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	27	_	_	start_char=744|end_char=747
+29	health	health	NOUN	NN	Number=Sing	28	_	_	start_char=748|end_char=754|SpaceAfter=No
+30	.	.	PUNCT	.	_	29	_	_	start_char=754|end_char=755|SpacesAfter=\n\n
+
+# text = But hope is on the horizon – a Land and Environment Court challenge due to begin on Tuesday.
+# sent_id = 7
+1	But	but	CCONJ	CC	_	0	_	_	start_char=757|end_char=760
+2	hope	hope	NOUN	NN	Number=Sing	1	_	_	start_char=761|end_char=765
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=766|end_char=768
+4	on	on	ADP	IN	_	3	_	_	start_char=769|end_char=771
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=772|end_char=775
+6	horizon	horizon	NOUN	NN	Number=Sing	5	_	_	start_char=776|end_char=783
+7	–	-	PUNCT	:	_	6	_	_	start_char=784|end_char=785
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=786|end_char=787
+9	Land	land	NOUN	NN	Number=Sing	8	_	_	start_char=788|end_char=792
+10	and	and	CCONJ	CC	_	9	_	_	start_char=793|end_char=796
+11	Environment	environment	NOUN	NN	Number=Sing	10	_	_	start_char=797|end_char=808
+12	Court	Court	PROPN	NNP	Number=Sing	11	_	_	start_char=809|end_char=814
+13	challenge	challenge	NOUN	NN	Number=Sing	12	_	_	start_char=815|end_char=824
+14	due	due	ADJ	JJ	Degree=Pos	13	_	_	start_char=825|end_char=828
+15	to	to	PART	TO	_	14	_	_	start_char=829|end_char=831
+16	begin	begin	VERB	VB	VerbForm=Inf	15	_	_	start_char=832|end_char=837
+17	on	on	ADP	IN	_	16	_	_	start_char=838|end_char=840
+18	Tuesday	Tuesday	PROPN	NNP	Number=Sing	17	_	_	start_char=841|end_char=848|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=848|end_char=849|SpacesAfter=\n\n
+
+# text = Ms Druce and other members of the Maules Cree Community Council are contesting the Environment Protection Authority’s 2023 review of the mine’s environmental protection licence.
+# sent_id = 8
+1	Ms	Ms	PROPN	NNP	Number=Sing	0	_	_	start_char=851|end_char=853
+2	Druce	Druce	PROPN	NNP	Number=Sing	1	_	_	start_char=854|end_char=859
+3	and	and	CCONJ	CC	_	2	_	_	start_char=860|end_char=863
+4	other	other	ADJ	JJ	Degree=Pos	3	_	_	start_char=864|end_char=869
+5	members	member	NOUN	NNS	Number=Plur	4	_	_	start_char=870|end_char=877
+6	of	of	ADP	IN	_	5	_	_	start_char=878|end_char=880
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=881|end_char=884
+8	Maules	Maules	PROPN	NNP	Number=Sing	7	_	_	start_char=885|end_char=891
+9	Cree	Cree	PROPN	NNP	Number=Sing	8	_	_	start_char=892|end_char=896
+10	Community	Community	PROPN	NNP	Number=Sing	9	_	_	start_char=897|end_char=906
+11	Council	Council	PROPN	NNP	Number=Sing	10	_	_	start_char=907|end_char=914
+12	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=915|end_char=918
+13	contesting	contest	VERB	VBG	Tense=Pres|VerbForm=Part	12	_	_	start_char=919|end_char=929
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=930|end_char=933
+15	Environment	environment	PROPN	NNP	Number=Sing	14	_	_	start_char=934|end_char=945
+16	Protection	Protection	PROPN	NNP	Number=Sing	15	_	_	start_char=946|end_char=956
+17-18	Authority’s	_	_	_	_	_	_	_	start_char=957|end_char=968
+17	Authority	Authority	PROPN	NNP	Number=Sing	16	_	_	start_char=957|end_char=966
+18	’s	's	PART	POS	_	17	_	_	start_char=966|end_char=968
+19	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	18	_	_	start_char=969|end_char=973
+20	review	review	NOUN	NN	Number=Sing	19	_	_	start_char=974|end_char=980
+21	of	of	ADP	IN	_	20	_	_	start_char=981|end_char=983
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=984|end_char=987
+23-24	mine’s	_	_	_	_	_	_	_	start_char=988|end_char=994
+23	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	22	_	_	start_char=988|end_char=992
+24	’s	's	PART	POS	_	23	_	_	start_char=992|end_char=994
+25	environmental	environmental	ADJ	JJ	Degree=Pos	24	_	_	start_char=995|end_char=1008
+26	protection	protection	NOUN	NN	Number=Sing	25	_	_	start_char=1009|end_char=1019
+27	licence	licence	NOUN	NN	Number=Sing	26	_	_	start_char=1020|end_char=1027|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=1027|end_char=1028|SpacesAfter=\n\n
+
+# text = They will argue the watchdog failed to protect environmental and human health, and did not consider “relevant” pollutants, namely fine-particle pollution and methane, which is a potent greenhouse gas.
+# sent_id = 9
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=1030|end_char=1034
+2	will	will	AUX	MD	VerbForm=Fin	1	_	_	start_char=1035|end_char=1039
+3	argue	argue	VERB	VB	VerbForm=Inf	2	_	_	start_char=1040|end_char=1045
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1046|end_char=1049
+5	watchdog	watchdog	NOUN	NN	Number=Sing	4	_	_	start_char=1050|end_char=1058
+6	failed	fail	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=1059|end_char=1065
+7	to	to	PART	TO	_	6	_	_	start_char=1066|end_char=1068
+8	protect	protect	VERB	VB	VerbForm=Inf	7	_	_	start_char=1069|end_char=1076
+9	environmental	environmental	ADJ	JJ	Degree=Pos	8	_	_	start_char=1077|end_char=1090
+10	and	and	CCONJ	CC	_	9	_	_	start_char=1091|end_char=1094
+11	human	human	ADJ	JJ	Degree=Pos	10	_	_	start_char=1095|end_char=1100
+12	health	health	NOUN	NN	Number=Sing	11	_	_	start_char=1101|end_char=1107|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=1107|end_char=1108
+14	and	and	CCONJ	CC	_	13	_	_	start_char=1109|end_char=1112
+15	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=1113|end_char=1116
+16	not	not	PART	RB	_	15	_	_	start_char=1117|end_char=1120
+17	consider	consider	VERB	VB	VerbForm=Inf	16	_	_	start_char=1121|end_char=1129
+18	“	''	PUNCT	``	_	17	_	_	start_char=1130|end_char=1131|SpaceAfter=No
+19	relevant	relevant	ADJ	JJ	Degree=Pos	18	_	_	start_char=1131|end_char=1139|SpaceAfter=No
+20	”	''	PUNCT	''	_	19	_	_	start_char=1139|end_char=1140
+21	pollutants	pollutant	NOUN	NNS	Number=Plur	20	_	_	start_char=1141|end_char=1151|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=1151|end_char=1152
+23	namely	namely	ADV	RB	_	22	_	_	start_char=1153|end_char=1159
+24	fine	fine	ADJ	JJ	Degree=Pos	23	_	_	start_char=1160|end_char=1164|SpaceAfter=No
+25	-	-	PUNCT	HYPH	_	24	_	_	start_char=1164|end_char=1165|SpaceAfter=No
+26	particle	particle	NOUN	NN	Number=Sing	25	_	_	start_char=1165|end_char=1173
+27	pollution	pollution	NOUN	NN	Number=Sing	26	_	_	start_char=1174|end_char=1183
+28	and	and	CCONJ	CC	_	27	_	_	start_char=1184|end_char=1187
+29	methane	methane	NOUN	NN	Number=Sing	28	_	_	start_char=1188|end_char=1195|SpaceAfter=No
+30	,	,	PUNCT	,	_	29	_	_	start_char=1195|end_char=1196
+31	which	which	PRON	WDT	PronType=Rel	30	_	_	start_char=1197|end_char=1202
+32	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	_	_	start_char=1203|end_char=1205
+33	a	a	DET	DT	Definite=Ind|PronType=Art	32	_	_	start_char=1206|end_char=1207
+34	potent	potent	ADJ	JJ	Degree=Pos	33	_	_	start_char=1208|end_char=1214
+35	greenhouse	greenhouse	NOUN	NN	Number=Sing	34	_	_	start_char=1215|end_char=1225
+36	gas	gas	NOUN	NN	Number=Sing	35	_	_	start_char=1226|end_char=1229|SpaceAfter=No
+37	.	.	PUNCT	.	_	36	_	_	start_char=1229|end_char=1230|SpacesAfter=\n\n
+
+# text = Specifically the case will deal with PM2.5 – pollution particles so small they can get deep into the lungs and into the bloodstream.
+# sent_id = 10
+1	Specifically	specifically	ADV	RB	_	0	_	_	start_char=1232|end_char=1244
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=1245|end_char=1248
+3	case	case	NOUN	NN	Number=Sing	2	_	_	start_char=1249|end_char=1253
+4	will	will	AUX	MD	VerbForm=Fin	3	_	_	start_char=1254|end_char=1258
+5	deal	deal	VERB	VB	VerbForm=Inf	4	_	_	start_char=1259|end_char=1263
+6	with	with	ADP	IN	_	5	_	_	start_char=1264|end_char=1268
+7	PM2.5	pm2.5	NOUN	NN	Number=Sing	6	_	_	start_char=1269|end_char=1274
+8	–	-	PUNCT	:	_	7	_	_	start_char=1275|end_char=1276
+9	pollution	pollution	NOUN	NN	Number=Sing	8	_	_	start_char=1277|end_char=1286
+10	particles	particle	NOUN	NNS	Number=Plur	9	_	_	start_char=1287|end_char=1296
+11	so	so	ADV	RB	_	10	_	_	start_char=1297|end_char=1299
+12	small	small	ADJ	JJ	Degree=Pos	11	_	_	start_char=1300|end_char=1305
+13	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	_	_	start_char=1306|end_char=1310
+14	can	can	AUX	MD	VerbForm=Fin	13	_	_	start_char=1311|end_char=1314
+15	get	get	VERB	VB	VerbForm=Inf	14	_	_	start_char=1315|end_char=1318
+16	deep	deep	ADV	RB	_	15	_	_	start_char=1319|end_char=1323
+17	into	into	ADP	IN	_	16	_	_	start_char=1324|end_char=1328
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=1329|end_char=1332
+19	lungs	lung	NOUN	NNS	Number=Plur	18	_	_	start_char=1333|end_char=1338
+20	and	and	CCONJ	CC	_	19	_	_	start_char=1339|end_char=1342
+21	into	into	ADP	IN	_	20	_	_	start_char=1343|end_char=1347
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=1348|end_char=1351
+23	bloodstream	bloodstream	NOUN	NN	Number=Sing	22	_	_	start_char=1352|end_char=1363|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=1363|end_char=1364|SpacesAfter=\n\n
+
+# text = Prolonged exposure can cause respiratory and cardiovascular disease and shorten lives.
+# sent_id = 11
+1	Prolonged	prolonged	ADJ	JJ	Degree=Pos	0	_	_	start_char=1366|end_char=1375
+2	exposure	exposure	NOUN	NN	Number=Sing	1	_	_	start_char=1376|end_char=1384
+3	can	can	AUX	MD	VerbForm=Fin	2	_	_	start_char=1385|end_char=1388
+4	cause	cause	VERB	VB	VerbForm=Inf	3	_	_	start_char=1389|end_char=1394
+5	respiratory	respiratory	ADJ	JJ	Degree=Pos	4	_	_	start_char=1395|end_char=1406
+6	and	and	CCONJ	CC	_	5	_	_	start_char=1407|end_char=1410
+7	cardiovascular	cardiovascular	ADJ	JJ	Degree=Pos	6	_	_	start_char=1411|end_char=1425
+8	disease	disease	NOUN	NN	Number=Sing	7	_	_	start_char=1426|end_char=1433
+9	and	and	CCONJ	CC	_	8	_	_	start_char=1434|end_char=1437
+10	shorten	shorten	VERB	VB	VerbForm=Inf	9	_	_	start_char=1438|end_char=1445
+11	lives	life	NOUN	NNS	Number=Plur	10	_	_	start_char=1446|end_char=1451|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=1451|end_char=1452|SpacesAfter=\n\n
+
+# text = The Environmental Defenders Office is representing the community group and will argue the watchdog did not satisfy a legal requirement to consider relevant pollutants and measures that could reduce that pollution when it renewed the mine’s licence in 2023.
+# sent_id = 12
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1454|end_char=1457
+2	Environmental	Environmental	ADJ	NNP	Degree=Pos	1	_	_	start_char=1458|end_char=1471
+3	Defenders	Defender	PROPN	NNPS	Number=Plur	2	_	_	start_char=1472|end_char=1481
+4	Office	Office	PROPN	NNP	Number=Sing	3	_	_	start_char=1482|end_char=1488
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1489|end_char=1491
+6	representing	represent	VERB	VBG	Tense=Pres|VerbForm=Part	5	_	_	start_char=1492|end_char=1504
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1505|end_char=1508
+8	community	community	NOUN	NN	Number=Sing	7	_	_	start_char=1509|end_char=1518
+9	group	group	NOUN	NN	Number=Sing	8	_	_	start_char=1519|end_char=1524
+10	and	and	CCONJ	CC	_	9	_	_	start_char=1525|end_char=1528
+11	will	will	AUX	MD	VerbForm=Fin	10	_	_	start_char=1529|end_char=1533
+12	argue	argue	VERB	VB	VerbForm=Inf	11	_	_	start_char=1534|end_char=1539
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1540|end_char=1543
+14	watchdog	watchdog	NOUN	NN	Number=Sing	13	_	_	start_char=1544|end_char=1552
+15	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=1553|end_char=1556
+16	not	not	PART	RB	_	15	_	_	start_char=1557|end_char=1560
+17	satisfy	satisfy	VERB	VB	VerbForm=Inf	16	_	_	start_char=1561|end_char=1568
+18	a	a	DET	DT	Definite=Ind|PronType=Art	17	_	_	start_char=1569|end_char=1570
+19	legal	legal	ADJ	JJ	Degree=Pos	18	_	_	start_char=1571|end_char=1576
+20	requirement	requirement	NOUN	NN	Number=Sing	19	_	_	start_char=1577|end_char=1588
+21	to	to	PART	TO	_	20	_	_	start_char=1589|end_char=1591
+22	consider	consider	VERB	VB	VerbForm=Inf	21	_	_	start_char=1592|end_char=1600
+23	relevant	relevant	ADJ	JJ	Degree=Pos	22	_	_	start_char=1601|end_char=1609
+24	pollutants	pollutant	NOUN	NNS	Number=Plur	23	_	_	start_char=1610|end_char=1620
+25	and	and	CCONJ	CC	_	24	_	_	start_char=1621|end_char=1624
+26	measures	measure	NOUN	NNS	Number=Plur	25	_	_	start_char=1625|end_char=1633
+27	that	that	PRON	WDT	PronType=Rel	26	_	_	start_char=1634|end_char=1638
+28	could	could	AUX	MD	VerbForm=Fin	27	_	_	start_char=1639|end_char=1644
+29	reduce	reduce	VERB	VB	VerbForm=Inf	28	_	_	start_char=1645|end_char=1651
+30	that	that	DET	DT	Number=Sing|PronType=Dem	29	_	_	start_char=1652|end_char=1656
+31	pollution	pollution	NOUN	NN	Number=Sing	30	_	_	start_char=1657|end_char=1666
+32	when	when	ADV	WRB	PronType=Int	31	_	_	start_char=1667|end_char=1671
+33	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	32	_	_	start_char=1672|end_char=1674
+34	renewed	renew	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	33	_	_	start_char=1675|end_char=1682
+35	the	the	DET	DT	Definite=Def|PronType=Art	34	_	_	start_char=1683|end_char=1686
+36-37	mine’s	_	_	_	_	_	_	_	start_char=1687|end_char=1693
+36	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	35	_	_	start_char=1687|end_char=1691
+37	’s	's	PART	POS	_	36	_	_	start_char=1691|end_char=1693
+38	licence	licence	NOUN	NN	Number=Sing	37	_	_	start_char=1694|end_char=1701
+39	in	in	ADP	IN	_	38	_	_	start_char=1702|end_char=1704
+40	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	39	_	_	start_char=1705|end_char=1709|SpaceAfter=No
+41	.	.	PUNCT	.	_	40	_	_	start_char=1709|end_char=1710|SpacesAfter=\n\n
+
+# text = If the community group wins, the EPA would have to carry out a fresh review that considers the impact of all the harmful pollutants, and what could be done to reduce impacts.
+# sent_id = 13
+1	If	if	SCONJ	IN	_	0	_	_	start_char=1712|end_char=1714
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=1715|end_char=1718
+3	community	community	NOUN	NN	Number=Sing	2	_	_	start_char=1719|end_char=1728
+4	group	group	NOUN	NN	Number=Sing	3	_	_	start_char=1729|end_char=1734
+5	wins	win	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1735|end_char=1739|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=1739|end_char=1740
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1741|end_char=1744
+8	EPA	EPA	PROPN	NNP	Number=Sing	7	_	_	start_char=1745|end_char=1748
+9	would	would	AUX	MD	VerbForm=Fin	8	_	_	start_char=1749|end_char=1754
+10	have	have	VERB	VB	VerbForm=Inf	9	_	_	start_char=1755|end_char=1759
+11	to	to	PART	TO	_	10	_	_	start_char=1760|end_char=1762
+12	carry	carry	VERB	VB	VerbForm=Inf	11	_	_	start_char=1763|end_char=1768
+13	out	out	ADP	RP	_	12	_	_	start_char=1769|end_char=1772
+14	a	a	DET	DT	Definite=Ind|PronType=Art	13	_	_	start_char=1773|end_char=1774
+15	fresh	fresh	ADJ	JJ	Degree=Pos	14	_	_	start_char=1775|end_char=1780
+16	review	review	NOUN	NN	Number=Sing	15	_	_	start_char=1781|end_char=1787
+17	that	that	PRON	WDT	PronType=Rel	16	_	_	start_char=1788|end_char=1792
+18	considers	consider	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=1793|end_char=1802
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=1803|end_char=1806
+20	impact	impact	NOUN	NN	Number=Sing	19	_	_	start_char=1807|end_char=1813
+21	of	of	ADP	IN	_	20	_	_	start_char=1814|end_char=1816
+22	all	all	DET	PDT	_	21	_	_	start_char=1817|end_char=1820
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=1821|end_char=1824
+24	harmful	harmful	ADJ	JJ	Degree=Pos	23	_	_	start_char=1825|end_char=1832
+25	pollutants	pollutant	NOUN	NNS	Number=Plur	24	_	_	start_char=1833|end_char=1843|SpaceAfter=No
+26	,	,	PUNCT	,	_	25	_	_	start_char=1843|end_char=1844
+27	and	and	CCONJ	CC	_	26	_	_	start_char=1845|end_char=1848
+28	what	what	PRON	WP	PronType=Int	27	_	_	start_char=1849|end_char=1853
+29	could	could	AUX	MD	VerbForm=Fin	28	_	_	start_char=1854|end_char=1859
+30	be	be	AUX	VB	VerbForm=Inf	29	_	_	start_char=1860|end_char=1862
+31	done	do	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	30	_	_	start_char=1863|end_char=1867
+32	to	to	PART	TO	_	31	_	_	start_char=1868|end_char=1870
+33	reduce	reduce	VERB	VB	VerbForm=Inf	32	_	_	start_char=1871|end_char=1877
+34	impacts	impact	NOUN	NNS	Number=Plur	33	_	_	start_char=1878|end_char=1885|SpaceAfter=No
+35	.	.	PUNCT	.	_	34	_	_	start_char=1885|end_char=1886|SpacesAfter=\n\n
+
+# text = Ms Druce says she’s hoping for a “landmar win” that will help anyone who might be in her position.
+# sent_id = 14
+1	Ms	Ms	PROPN	NNP	Number=Sing	0	_	_	start_char=1888|end_char=1890
+2	Druce	Druce	PROPN	NNP	Number=Sing	1	_	_	start_char=1891|end_char=1896
+3	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1897|end_char=1901
+4-5	she’s	_	_	_	_	_	_	_	start_char=1902|end_char=1907
+4	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	_	_	start_char=1902|end_char=1905
+5	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1905|end_char=1907
+6	hoping	hope	VERB	VBG	Tense=Pres|VerbForm=Part	5	_	_	start_char=1908|end_char=1914
+7	for	for	ADP	IN	_	6	_	_	start_char=1915|end_char=1918
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=1919|end_char=1920
+9	“	''	PUNCT	``	_	8	_	_	start_char=1921|end_char=1922|SpaceAfter=No
+10	landmar	landmar	NOUN	NN	Number=Sing	9	_	_	start_char=1922|end_char=1929
+11	win	win	NOUN	NN	Number=Sing	10	_	_	start_char=1930|end_char=1933|SpaceAfter=No
+12	”	''	PUNCT	''	_	11	_	_	start_char=1933|end_char=1934
+13	that	that	PRON	WDT	PronType=Rel	12	_	_	start_char=1935|end_char=1939
+14	will	will	AUX	MD	VerbForm=Fin	13	_	_	start_char=1940|end_char=1944
+15	help	help	VERB	VB	VerbForm=Inf	14	_	_	start_char=1945|end_char=1949
+16	anyone	anyone	PRON	NN	Number=Sing|PronType=Ind	15	_	_	start_char=1950|end_char=1956
+17	who	who	PRON	WP	PronType=Rel	16	_	_	start_char=1957|end_char=1960
+18	might	might	AUX	MD	VerbForm=Fin	17	_	_	start_char=1961|end_char=1966
+19	be	be	AUX	VB	VerbForm=Inf	18	_	_	start_char=1967|end_char=1969
+20	in	in	ADP	IN	_	19	_	_	start_char=1970|end_char=1972
+21	her	her	PRON	PRP$	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	20	_	_	start_char=1973|end_char=1976
+22	position	position	NOUN	NN	Number=Sing	21	_	_	start_char=1977|end_char=1985|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=1985|end_char=1986|SpaceAfter=No
+

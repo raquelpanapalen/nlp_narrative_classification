@@ -1,0 +1,718 @@
+# text = Climate Scam: Solar Manufacturer Earning up to $710M in Government Subsidies This Year
+# sent_id = 0
+1	Climate	climate	NOUN	NN	Number=Sing	0	_	_	start_char=0|end_char=7
+2	Scam	scam	NOUN	NN	Number=Sing	1	_	_	start_char=8|end_char=12|SpaceAfter=No
+3	:	:	PUNCT	:	_	2	_	_	start_char=12|end_char=13
+4	Solar	solar	ADJ	JJ	Degree=Pos	3	_	_	start_char=14|end_char=19
+5	Manufacturer	manufacturer	NOUN	NN	Number=Sing	4	_	_	start_char=20|end_char=32
+6	Earning	earn	VERB	VBG	VerbForm=Ger	5	_	_	start_char=33|end_char=40
+7	up	up	ADV	RB	_	6	_	_	start_char=41|end_char=43
+8	to	to	ADP	IN	_	7	_	_	start_char=44|end_char=46
+9	$	$	SYM	$	_	8	_	_	start_char=47|end_char=48|SpaceAfter=No
+10	710	710	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=48|end_char=51|SpaceAfter=No
+11	M	million	NUM	CD	Abbr=Yes|NumForm=Word|NumType=Card	10	_	_	start_char=51|end_char=52
+12	in	in	ADP	IN	_	11	_	_	start_char=53|end_char=55
+13	Government	government	NOUN	NN	Number=Sing	12	_	_	start_char=56|end_char=66
+14	Subsidies	subsidy	NOUN	NNS	Number=Plur	13	_	_	start_char=67|end_char=76
+15	This	this	DET	DT	Number=Sing|PronType=Dem	14	_	_	start_char=77|end_char=81
+16	Year	year	NOUN	NN	Number=Sing	15	_	_	start_char=82|end_char=86|SpacesAfter=\s\n\n\s
+
+# text = The great Rush Limbaugh once said, “Climate change is not about climate change.
+# sent_id = 1
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=90|end_char=93
+2	great	great	ADJ	JJ	Degree=Pos	1	_	_	start_char=94|end_char=99
+3	Rush	Rush	PROPN	NNP	Number=Sing	2	_	_	start_char=100|end_char=104
+4	Limbaugh	Limbaugh	PROPN	NNP	Number=Sing	3	_	_	start_char=105|end_char=113
+5	once	once	ADV	RB	NumType=Mult	4	_	_	start_char=114|end_char=118
+6	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=119|end_char=123|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=123|end_char=124
+8	“	''	PUNCT	``	_	7	_	_	start_char=125|end_char=126|SpaceAfter=No
+9	Climate	climate	NOUN	NN	Number=Sing	8	_	_	start_char=126|end_char=133
+10	change	change	NOUN	NN	Number=Sing	9	_	_	start_char=134|end_char=140
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=141|end_char=143
+12	not	not	PART	RB	_	11	_	_	start_char=144|end_char=147
+13	about	about	ADP	IN	_	12	_	_	start_char=148|end_char=153
+14	climate	climate	NOUN	NN	Number=Sing	13	_	_	start_char=154|end_char=161
+15	change	change	NOUN	NN	Number=Sing	14	_	_	start_char=162|end_char=168|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=168|end_char=169
+
+# text = It’s about the people in it getting rich off of an ever-expanding, growing, controlling government.”
+# sent_id = 2
+1-2	It’s	_	_	_	_	_	_	_	start_char=170|end_char=174
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=170|end_char=172
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=172|end_char=174
+3	about	about	ADP	IN	_	2	_	_	start_char=175|end_char=180
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=181|end_char=184
+5	people	person	NOUN	NNS	Number=Plur	4	_	_	start_char=185|end_char=191
+6	in	in	ADP	IN	_	5	_	_	start_char=192|end_char=194
+7	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	_	_	start_char=195|end_char=197
+8	getting	get	VERB	VBG	VerbForm=Ger	7	_	_	start_char=198|end_char=205
+9	rich	rich	ADJ	JJ	Degree=Pos	8	_	_	start_char=206|end_char=210
+10	off	off	ADP	IN	_	9	_	_	start_char=211|end_char=214
+11	of	of	ADP	IN	_	10	_	_	start_char=215|end_char=217
+12	an	a	DET	DT	Definite=Ind|PronType=Art	11	_	_	start_char=218|end_char=220
+13	ever	ever	ADV	RB	_	12	_	_	start_char=221|end_char=225|SpaceAfter=No
+14	-	-	PUNCT	HYPH	_	13	_	_	start_char=225|end_char=226|SpaceAfter=No
+15	expanding	expand	VERB	VBG	VerbForm=Ger	14	_	_	start_char=226|end_char=235|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=235|end_char=236
+17	growing	grow	VERB	VBG	VerbForm=Ger	16	_	_	start_char=237|end_char=244|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=244|end_char=245
+19	controlling	control	VERB	VBG	VerbForm=Ger	18	_	_	start_char=246|end_char=257
+20	government	government	NOUN	NN	Number=Sing	19	_	_	start_char=258|end_char=268|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=268|end_char=269|SpaceAfter=No
+22	”	''	PUNCT	''	_	21	_	_	start_char=269|end_char=270
+
+# text = Well, a solar company in Arizona is receiving hundreds of millions of dollars in subsidies this year, the overwhelming majority of its operating profit.
+# sent_id = 3
+1	Well	well	INTJ	UH	_	0	_	_	start_char=271|end_char=275|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=275|end_char=276
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=277|end_char=278
+4	solar	solar	ADJ	JJ	Degree=Pos	3	_	_	start_char=279|end_char=284
+5	company	company	NOUN	NN	Number=Sing	4	_	_	start_char=285|end_char=292
+6	in	in	ADP	IN	_	5	_	_	start_char=293|end_char=295
+7	Arizona	Arizona	PROPN	NNP	Number=Sing	6	_	_	start_char=296|end_char=303
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=304|end_char=306
+9	receiving	receive	VERB	VBG	Tense=Pres|VerbForm=Part	8	_	_	start_char=307|end_char=316
+10	hundreds	hundred	NOUN	NNS	Number=Plur	9	_	_	start_char=317|end_char=325
+11	of	of	ADP	IN	_	10	_	_	start_char=326|end_char=328
+12	millions	million	NOUN	NNS	Number=Plur	11	_	_	start_char=329|end_char=337
+13	of	of	ADP	IN	_	12	_	_	start_char=338|end_char=340
+14	dollars	dollar	NOUN	NNS	Number=Plur	13	_	_	start_char=341|end_char=348
+15	in	in	ADP	IN	_	14	_	_	start_char=349|end_char=351
+16	subsidies	subsidy	NOUN	NNS	Number=Plur	15	_	_	start_char=352|end_char=361
+17	this	this	DET	DT	Number=Sing|PronType=Dem	16	_	_	start_char=362|end_char=366
+18	year	year	NOUN	NN	Number=Sing	17	_	_	start_char=367|end_char=371|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=371|end_char=372
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=373|end_char=376
+21	overwhelming	overwhelming	ADJ	JJ	Degree=Pos	20	_	_	start_char=377|end_char=389
+22	majority	majority	NOUN	NN	Number=Sing	21	_	_	start_char=390|end_char=398
+23	of	of	ADP	IN	_	22	_	_	start_char=399|end_char=401
+24	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	23	_	_	start_char=402|end_char=405
+25	operating	operating	NOUN	NN	Number=Sing	24	_	_	start_char=406|end_char=415
+26	profit	profit	NOUN	NN	Number=Sing	25	_	_	start_char=416|end_char=422|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=422|end_char=423
+
+# text = That’s right.
+# sent_id = 4
+1-2	That’s	_	_	_	_	_	_	_	start_char=424|end_char=430
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=424|end_char=428
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=428|end_char=430
+3	right	right	ADJ	JJ	Degree=Pos	2	_	_	start_char=431|end_char=436|SpaceAfter=No
+4	.	.	PUNCT	.	_	3	_	_	start_char=436|end_char=437
+
+# text = Your tax dollars are woring to prop up a toxic and unreliable energy source under the Biden administration.
+# sent_id = 5
+1	Your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	0	_	_	start_char=438|end_char=442
+2	tax	tax	NOUN	NN	Number=Sing	1	_	_	start_char=443|end_char=446
+3	dollars	dollar	NOUN	NNS	Number=Plur	2	_	_	start_char=447|end_char=454
+4	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=455|end_char=458
+5	woring	wore	VERB	VBG	Tense=Pres|VerbForm=Part	4	_	_	start_char=459|end_char=465
+6	to	to	PART	TO	_	5	_	_	start_char=466|end_char=468
+7	prop	prop	VERB	VB	VerbForm=Inf	6	_	_	start_char=469|end_char=473
+8	up	up	ADP	RP	_	7	_	_	start_char=474|end_char=476
+9	a	a	DET	DT	Definite=Ind|PronType=Art	8	_	_	start_char=477|end_char=478
+10	toxic	toxic	ADJ	JJ	Degree=Pos	9	_	_	start_char=479|end_char=484
+11	and	and	CCONJ	CC	_	10	_	_	start_char=485|end_char=488
+12	unreliable	unreliable	ADJ	JJ	Degree=Pos	11	_	_	start_char=489|end_char=499
+13	energy	energy	NOUN	NN	Number=Sing	12	_	_	start_char=500|end_char=506
+14	source	source	NOUN	NN	Number=Sing	13	_	_	start_char=507|end_char=513
+15	under	under	ADP	IN	_	14	_	_	start_char=514|end_char=519
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=520|end_char=523
+17	Biden	Biden	PROPN	NNP	Number=Sing	16	_	_	start_char=524|end_char=529
+18	administration	administration	NOUN	NN	Number=Sing	17	_	_	start_char=530|end_char=544|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=544|end_char=545|SpacesAfter=\n\n
+
+# text = Here is the full quote from Rush Limbaugh:
+# sent_id = 6
+1	Here	here	ADV	RB	PronType=Dem	0	_	_	start_char=547|end_char=551
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=552|end_char=554
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=555|end_char=558
+4	full	full	ADJ	JJ	Degree=Pos	3	_	_	start_char=559|end_char=563
+5	quote	quote	NOUN	NN	Number=Sing	4	_	_	start_char=564|end_char=569
+6	from	from	ADP	IN	_	5	_	_	start_char=570|end_char=574
+7	Rush	Rush	PROPN	NNP	Number=Sing	6	_	_	start_char=575|end_char=579
+8	Limbaugh	Limbaugh	PROPN	NNP	Number=Sing	7	_	_	start_char=580|end_char=588|SpaceAfter=No
+9	:	:	PUNCT	:	_	8	_	_	start_char=588|end_char=589|SpacesAfter=\n\n
+
+# text = Climate change is not about climate change.
+# sent_id = 7
+1	Climate	climate	NOUN	NN	Number=Sing	0	_	_	start_char=591|end_char=598
+2	change	change	NOUN	NN	Number=Sing	1	_	_	start_char=599|end_char=605
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=606|end_char=608
+4	not	not	PART	RB	_	3	_	_	start_char=609|end_char=612
+5	about	about	ADP	IN	_	4	_	_	start_char=613|end_char=618
+6	climate	climate	NOUN	NN	Number=Sing	5	_	_	start_char=619|end_char=626
+7	change	change	NOUN	NN	Number=Sing	6	_	_	start_char=627|end_char=633|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	_	_	start_char=633|end_char=634
+
+# text = It’s about the people in it getting rich off of an ever-expanding, growing, controlling government.
+# sent_id = 8
+1-2	It’s	_	_	_	_	_	_	_	start_char=635|end_char=639
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=635|end_char=637
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=637|end_char=639
+3	about	about	ADP	IN	_	2	_	_	start_char=640|end_char=645
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=646|end_char=649
+5	people	person	NOUN	NNS	Number=Plur	4	_	_	start_char=650|end_char=656
+6	in	in	ADP	IN	_	5	_	_	start_char=657|end_char=659
+7	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	_	_	start_char=660|end_char=662
+8	getting	get	VERB	VBG	VerbForm=Ger	7	_	_	start_char=663|end_char=670
+9	rich	rich	ADJ	JJ	Degree=Pos	8	_	_	start_char=671|end_char=675
+10	off	off	ADP	IN	_	9	_	_	start_char=676|end_char=679
+11	of	of	ADP	IN	_	10	_	_	start_char=680|end_char=682
+12	an	a	DET	DT	Definite=Ind|PronType=Art	11	_	_	start_char=683|end_char=685
+13	ever	ever	ADV	RB	_	12	_	_	start_char=686|end_char=690|SpaceAfter=No
+14	-	-	PUNCT	HYPH	_	13	_	_	start_char=690|end_char=691|SpaceAfter=No
+15	expanding	expand	VERB	VBG	VerbForm=Ger	14	_	_	start_char=691|end_char=700|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=700|end_char=701
+17	growing	grow	VERB	VBG	VerbForm=Ger	16	_	_	start_char=702|end_char=709|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=709|end_char=710
+19	controlling	control	VERB	VBG	VerbForm=Ger	18	_	_	start_char=711|end_char=722
+20	government	government	NOUN	NN	Number=Sing	19	_	_	start_char=723|end_char=733|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=733|end_char=734
+
+# text = It’s all about expanding the government and government control over people.
+# sent_id = 9
+1-2	It’s	_	_	_	_	_	_	_	start_char=735|end_char=739
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=735|end_char=737
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=737|end_char=739
+3	all	all	DET	DT	_	2	_	_	start_char=740|end_char=743
+4	about	about	SCONJ	IN	_	3	_	_	start_char=744|end_char=749
+5	expanding	expand	VERB	VBG	VerbForm=Ger	4	_	_	start_char=750|end_char=759
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=760|end_char=763
+7	government	government	NOUN	NN	Number=Sing	6	_	_	start_char=764|end_char=774
+8	and	and	CCONJ	CC	_	7	_	_	start_char=775|end_char=778
+9	government	government	NOUN	NN	Number=Sing	8	_	_	start_char=779|end_char=789
+10	control	control	NOUN	NN	Number=Sing	9	_	_	start_char=790|end_char=797
+11	over	over	ADP	IN	_	10	_	_	start_char=798|end_char=802
+12	people	person	NOUN	NNS	Number=Plur	11	_	_	start_char=803|end_char=809|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=809|end_char=810
+
+# text = It’s about creating victims.
+# sent_id = 10
+1-2	It’s	_	_	_	_	_	_	_	start_char=811|end_char=815
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=811|end_char=813
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=813|end_char=815
+3	about	about	SCONJ	IN	_	2	_	_	start_char=816|end_char=821
+4	creating	create	VERB	VBG	VerbForm=Ger	3	_	_	start_char=822|end_char=830
+5	victims	victim	NOUN	NNS	Number=Plur	4	_	_	start_char=831|end_char=838|SpaceAfter=No
+6	.	.	PUNCT	.	_	5	_	_	start_char=838|end_char=839
+
+# text = When you successfully turn somebody into a victim, you have automatically made them a dependent on you.
+# sent_id = 11
+1	When	when	ADV	WRB	PronType=Int	0	_	_	start_char=840|end_char=844
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	1	_	_	start_char=845|end_char=848
+3	successfully	successfully	ADV	RB	_	2	_	_	start_char=849|end_char=861
+4	turn	turn	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	_	_	start_char=862|end_char=866
+5	somebody	somebody	PRON	NN	Number=Sing|PronType=Ind	4	_	_	start_char=867|end_char=875
+6	into	into	ADP	IN	_	5	_	_	start_char=876|end_char=880
+7	a	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=881|end_char=882
+8	victim	victim	NOUN	NN	Number=Sing	7	_	_	start_char=883|end_char=889|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=889|end_char=890
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	_	_	start_char=891|end_char=894
+11	have	have	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	_	_	start_char=895|end_char=899
+12	automatically	automatically	ADV	RB	_	11	_	_	start_char=900|end_char=913
+13	made	make	VERB	VBN	Tense=Past|VerbForm=Part	12	_	_	start_char=914|end_char=918
+14	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	13	_	_	start_char=919|end_char=923
+15	a	a	DET	DT	Definite=Ind|PronType=Art	14	_	_	start_char=924|end_char=925
+16	dependent	dependent	ADJ	JJ	Degree=Pos	15	_	_	start_char=926|end_char=935
+17	on	on	ADP	IN	_	16	_	_	start_char=936|end_char=938
+18	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	17	_	_	start_char=939|end_char=942|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=942|end_char=943
+
+# text = You are essentially telling them they have lost the power necessary to solve their own problems.
+# sent_id = 12
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	0	_	_	start_char=944|end_char=947
+2	are	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	_	_	start_char=948|end_char=951
+3	essentially	essentially	ADV	RB	_	2	_	_	start_char=952|end_char=963
+4	telling	tell	VERB	VBG	Tense=Pres|VerbForm=Part	3	_	_	start_char=964|end_char=971
+5	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	4	_	_	start_char=972|end_char=976
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	_	_	start_char=977|end_char=981
+7	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=982|end_char=986
+8	lost	lose	VERB	VBN	Tense=Past|VerbForm=Part	7	_	_	start_char=987|end_char=991
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=992|end_char=995
+10	power	power	NOUN	NN	Number=Sing	9	_	_	start_char=996|end_char=1001
+11	necessary	necessary	ADJ	JJ	Degree=Pos	10	_	_	start_char=1002|end_char=1011
+12	to	to	PART	TO	_	11	_	_	start_char=1012|end_char=1014
+13	solve	solve	VERB	VB	VerbForm=Inf	12	_	_	start_char=1015|end_char=1020
+14	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	13	_	_	start_char=1021|end_char=1026
+15	own	own	ADJ	JJ	Degree=Pos	14	_	_	start_char=1027|end_char=1030
+16	problems	problem	NOUN	NNS	Number=Plur	15	_	_	start_char=1031|end_char=1039|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=1039|end_char=1040
+
+# text = And you create within them a mentality that they can’t overcome their own problem because they’re victims.
+# sent_id = 13
+1	And	and	CCONJ	CC	_	0	_	_	start_char=1041|end_char=1044
+2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	_	_	start_char=1045|end_char=1048
+3	create	create	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1049|end_char=1055
+4	within	within	ADP	IN	_	3	_	_	start_char=1056|end_char=1062
+5	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	4	_	_	start_char=1063|end_char=1067
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=1068|end_char=1069
+7	mentality	mentality	NOUN	NN	Number=Sing	6	_	_	start_char=1070|end_char=1079
+8	that	that	PRON	WDT	PronType=Rel	7	_	_	start_char=1080|end_char=1084
+9	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	_	_	start_char=1085|end_char=1089
+10-11	can’t	_	_	_	_	_	_	_	start_char=1090|end_char=1095
+10	ca	can	AUX	MD	VerbForm=Fin	9	_	_	start_char=1090|end_char=1092
+11	n’t	not	PART	RB	_	10	_	_	start_char=1092|end_char=1095
+12	overcome	overcome	VERB	VB	VerbForm=Inf	11	_	_	start_char=1096|end_char=1104
+13	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	12	_	_	start_char=1105|end_char=1110
+14	own	own	ADJ	JJ	Degree=Pos	13	_	_	start_char=1111|end_char=1114
+15	problem	problem	NOUN	NN	Number=Sing	14	_	_	start_char=1115|end_char=1122
+16	because	because	SCONJ	IN	_	15	_	_	start_char=1123|end_char=1130
+17-18	they’re	_	_	_	_	_	_	_	start_char=1131|end_char=1138
+17	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	_	_	start_char=1131|end_char=1135
+18	’re	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=1135|end_char=1138
+19	victims	victim	NOUN	NNS	Number=Plur	18	_	_	start_char=1139|end_char=1146|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=1146|end_char=1147|SpacesAfter=\n\n
+
+# text = This whole paragraph is absolutely true, but I’m going to focus on the first point made.
+# sent_id = 14
+1	This	this	DET	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1149|end_char=1153
+2	whole	whole	ADJ	JJ	Degree=Pos	1	_	_	start_char=1154|end_char=1159
+3	paragraph	paragraph	NOUN	NN	Number=Sing	2	_	_	start_char=1160|end_char=1169
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1170|end_char=1172
+5	absolutely	absolutely	ADV	RB	_	4	_	_	start_char=1173|end_char=1183
+6	true	true	ADJ	JJ	Degree=Pos	5	_	_	start_char=1184|end_char=1188|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=1188|end_char=1189
+8	but	but	CCONJ	CC	_	7	_	_	start_char=1190|end_char=1193
+9-10	I’m	_	_	_	_	_	_	_	start_char=1194|end_char=1197
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	_	_	start_char=1194|end_char=1195
+10	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	_	_	start_char=1195|end_char=1197
+11	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	10	_	_	start_char=1198|end_char=1203
+12	to	to	PART	TO	_	11	_	_	start_char=1204|end_char=1206
+13	focus	focus	VERB	VB	VerbForm=Inf	12	_	_	start_char=1207|end_char=1212
+14	on	on	ADP	IN	_	13	_	_	start_char=1213|end_char=1215
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=1216|end_char=1219
+16	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	15	_	_	start_char=1220|end_char=1225
+17	point	point	NOUN	NN	Number=Sing	16	_	_	start_char=1226|end_char=1231
+18	made	make	VERB	VBN	Tense=Past|VerbForm=Part	17	_	_	start_char=1232|end_char=1236|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=1236|end_char=1237
+
+# text = Climate change certainly allows many young people to feel virtuous for engaging in destructive or pointless demonstrations while they claim that the problems in their lives are caused by some vaguely defined climate catastrophe, one which government has to fix for them.
+# sent_id = 15
+1	Climate	climate	NOUN	NN	Number=Sing	0	_	_	start_char=1238|end_char=1245
+2	change	change	NOUN	NN	Number=Sing	1	_	_	start_char=1246|end_char=1252
+3	certainly	certainly	ADV	RB	_	2	_	_	start_char=1253|end_char=1262
+4	allows	allow	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1263|end_char=1269
+5	many	many	ADJ	JJ	Degree=Pos	4	_	_	start_char=1270|end_char=1274
+6	young	young	ADJ	JJ	Degree=Pos	5	_	_	start_char=1275|end_char=1280
+7	people	person	NOUN	NNS	Number=Plur	6	_	_	start_char=1281|end_char=1287
+8	to	to	PART	TO	_	7	_	_	start_char=1288|end_char=1290
+9	feel	feel	VERB	VB	VerbForm=Inf	8	_	_	start_char=1291|end_char=1295
+10	virtuous	virtuous	ADJ	JJ	Degree=Pos	9	_	_	start_char=1296|end_char=1304
+11	for	for	SCONJ	IN	_	10	_	_	start_char=1305|end_char=1308
+12	engaging	engage	VERB	VBG	VerbForm=Ger	11	_	_	start_char=1309|end_char=1317
+13	in	in	ADP	IN	_	12	_	_	start_char=1318|end_char=1320
+14	destructive	destructive	ADJ	JJ	Degree=Pos	13	_	_	start_char=1321|end_char=1332
+15	or	or	CCONJ	CC	_	14	_	_	start_char=1333|end_char=1335
+16	pointless	pointless	ADJ	JJ	Degree=Pos	15	_	_	start_char=1336|end_char=1345
+17	demonstrations	demonstration	NOUN	NNS	Number=Plur	16	_	_	start_char=1346|end_char=1360
+18	while	while	SCONJ	IN	_	17	_	_	start_char=1361|end_char=1366
+19	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	_	_	start_char=1367|end_char=1371
+20	claim	claim	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	_	_	start_char=1372|end_char=1377
+21	that	that	SCONJ	IN	_	20	_	_	start_char=1378|end_char=1382
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=1383|end_char=1386
+23	problems	problem	NOUN	NNS	Number=Plur	22	_	_	start_char=1387|end_char=1395
+24	in	in	ADP	IN	_	23	_	_	start_char=1396|end_char=1398
+25	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	24	_	_	start_char=1399|end_char=1404
+26	lives	life	NOUN	NNS	Number=Plur	25	_	_	start_char=1405|end_char=1410
+27	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	_	_	start_char=1411|end_char=1414
+28	caused	cause	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	27	_	_	start_char=1415|end_char=1421
+29	by	by	ADP	IN	_	28	_	_	start_char=1422|end_char=1424
+30	some	some	DET	DT	_	29	_	_	start_char=1425|end_char=1429
+31	vaguely	vaguely	ADV	RB	_	30	_	_	start_char=1430|end_char=1437
+32	defined	define	VERB	VBN	Tense=Past|VerbForm=Part	31	_	_	start_char=1438|end_char=1445
+33	climate	climate	NOUN	NN	Number=Sing	32	_	_	start_char=1446|end_char=1453
+34	catastrophe	catastrophe	NOUN	NN	Number=Sing	33	_	_	start_char=1454|end_char=1465|SpaceAfter=No
+35	,	,	PUNCT	,	_	34	_	_	start_char=1465|end_char=1466
+36	one	one	NUM	CD	NumForm=Word|NumType=Card	35	_	_	start_char=1467|end_char=1470
+37	which	which	PRON	WDT	PronType=Rel	36	_	_	start_char=1471|end_char=1476
+38	government	government	NOUN	NN	Number=Sing	37	_	_	start_char=1477|end_char=1487
+39	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	38	_	_	start_char=1488|end_char=1491
+40	to	to	PART	TO	_	39	_	_	start_char=1492|end_char=1494
+41	fix	fix	VERB	VB	VerbForm=Inf	40	_	_	start_char=1495|end_char=1498
+42	for	for	ADP	IN	_	41	_	_	start_char=1499|end_char=1502
+43	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	42	_	_	start_char=1503|end_char=1507|SpaceAfter=No
+44	.	.	PUNCT	.	_	43	_	_	start_char=1507|end_char=1508
+
+# text = Most of all, however, the climate scam is a way of enriching its proponents in government and business.
+# sent_id = 16
+1	Most	most	ADJ	JJS	Degree=Sup	0	_	_	start_char=1509|end_char=1513
+2	of	of	ADP	IN	_	1	_	_	start_char=1514|end_char=1516
+3	all	all	DET	DT	_	2	_	_	start_char=1517|end_char=1520|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1520|end_char=1521
+5	however	however	ADV	RB	_	4	_	_	start_char=1522|end_char=1529|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=1529|end_char=1530
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1531|end_char=1534
+8	climate	climate	NOUN	NN	Number=Sing	7	_	_	start_char=1535|end_char=1542
+9	scam	scam	NOUN	NN	Number=Sing	8	_	_	start_char=1543|end_char=1547
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=1548|end_char=1550
+11	a	a	DET	DT	Definite=Ind|PronType=Art	10	_	_	start_char=1551|end_char=1552
+12	way	way	NOUN	NN	Number=Sing	11	_	_	start_char=1553|end_char=1556
+13	of	of	SCONJ	IN	_	12	_	_	start_char=1557|end_char=1559
+14	enriching	enrich	VERB	VBG	VerbForm=Ger	13	_	_	start_char=1560|end_char=1569
+15	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	_	_	start_char=1570|end_char=1573
+16	proponents	proponent	NOUN	NNS	Number=Plur	15	_	_	start_char=1574|end_char=1584
+17	in	in	ADP	IN	_	16	_	_	start_char=1585|end_char=1587
+18	government	government	NOUN	NN	Number=Sing	17	_	_	start_char=1588|end_char=1598
+19	and	and	CCONJ	CC	_	18	_	_	start_char=1599|end_char=1602
+20	business	business	NOUN	NN	Number=Sing	19	_	_	start_char=1603|end_char=1611|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=1611|end_char=1612|SpacesAfter=\n\n
+
+# text = Related: Climate Expert: Gas Car Cancellation
+# sent_id = 17
+1	Related	related	ADJ	JJ	Degree=Pos	0	_	_	start_char=1614|end_char=1621|SpaceAfter=No
+2	:	:	PUNCT	:	_	1	_	_	start_char=1621|end_char=1622
+3	Climate	climate	NOUN	NN	Number=Sing	2	_	_	start_char=1623|end_char=1630
+4	Expert	expert	NOUN	NN	Number=Sing	3	_	_	start_char=1631|end_char=1637|SpaceAfter=No
+5	:	:	PUNCT	:	_	4	_	_	start_char=1637|end_char=1638
+6	Gas	gas	NOUN	NN	Number=Sing	5	_	_	start_char=1639|end_char=1642
+7	Car	car	NOUN	NN	Number=Sing	6	_	_	start_char=1643|end_char=1646
+8	Cancellation	cancellation	NOUN	NN	Number=Sing	7	_	_	start_char=1647|end_char=1659
+
+# text = Is Intended to End Private Transport
+# sent_id = 18
+1	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	start_char=1660|end_char=1662
+2	Intended	intend	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	1	_	_	start_char=1663|end_char=1671
+3	to	to	PART	TO	_	2	_	_	start_char=1672|end_char=1674
+4	End	end	VERB	VB	VerbForm=Inf	3	_	_	start_char=1675|end_char=1678
+5	Private	private	ADJ	JJ	Degree=Pos	4	_	_	start_char=1679|end_char=1686
+6	Transport	Transport	NOUN	NN	Number=Sing	5	_	_	start_char=1687|end_char=1696|SpacesAfter=\n\n
+
+# text = The Wall Street Journal reported July 31 that Arizona-based solar panel manufacturer First Solar “expects to receive as much as $710 million this year—nearly 90% of forecast operating profit—from subsidies the U.S. government rolled out a year ago to encourage domestic renewables production.”
+# sent_id = 19
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1698|end_char=1701
+2	Wall	Wall	PROPN	NNP	Number=Sing	1	_	_	start_char=1702|end_char=1706
+3	Street	Street	PROPN	NNP	Number=Sing	2	_	_	start_char=1707|end_char=1713
+4	Journal	Journal	PROPN	NNP	Number=Sing	3	_	_	start_char=1714|end_char=1721
+5	reported	report	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=1722|end_char=1730
+6	July	July	PROPN	NNP	Number=Sing	5	_	_	start_char=1731|end_char=1735
+7	31	31	NUM	CD	NumForm=Digit|NumType=Card	6	_	_	start_char=1736|end_char=1738
+8	that	that	SCONJ	IN	_	7	_	_	start_char=1739|end_char=1743
+9	Arizona	Arizona	PROPN	NNP	Number=Sing	8	_	_	start_char=1744|end_char=1751|SpaceAfter=No
+10	-	-	PUNCT	HYPH	_	9	_	_	start_char=1751|end_char=1752|SpaceAfter=No
+11	based	base	VERB	VBN	Tense=Past|VerbForm=Part	10	_	_	start_char=1752|end_char=1757
+12	solar	solar	NOUN	NN	Number=Sing	11	_	_	start_char=1758|end_char=1763
+13	panel	panel	NOUN	NN	Number=Sing	12	_	_	start_char=1764|end_char=1769
+14	manufacturer	manufacturer	NOUN	NN	Number=Sing	13	_	_	start_char=1770|end_char=1782
+15	First	first	ADJ	NNP	Degree=Pos	14	_	_	start_char=1783|end_char=1788
+16	Solar	Solar	PROPN	NNP	Number=Sing	15	_	_	start_char=1789|end_char=1794
+17	“	''	PUNCT	''	_	16	_	_	start_char=1795|end_char=1796|SpaceAfter=No
+18	expects	expect	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=1796|end_char=1803
+19	to	to	PART	TO	_	18	_	_	start_char=1804|end_char=1806
+20	receive	receive	VERB	VB	VerbForm=Inf	19	_	_	start_char=1807|end_char=1814
+21	as	as	ADV	RB	_	20	_	_	start_char=1815|end_char=1817
+22	much	much	ADJ	JJ	Degree=Pos	21	_	_	start_char=1818|end_char=1822
+23	as	as	ADP	IN	_	22	_	_	start_char=1823|end_char=1825
+24	$	$	SYM	$	_	23	_	_	start_char=1826|end_char=1827|SpaceAfter=No
+25	710	710	NUM	CD	NumForm=Digit|NumType=Card	24	_	_	start_char=1827|end_char=1830
+26	million	million	NUM	CD	NumForm=Word|NumType=Card	25	_	_	start_char=1831|end_char=1838
+27	this	this	DET	DT	Number=Sing|PronType=Dem	26	_	_	start_char=1839|end_char=1843
+28	year	year	NOUN	NN	Number=Sing	27	_	_	start_char=1844|end_char=1848|SpaceAfter=No
+29	—	—	PUNCT	:	_	28	_	_	start_char=1848|end_char=1849|SpaceAfter=No
+30	nearly	nearly	ADV	RB	_	29	_	_	start_char=1849|end_char=1855
+31	90	90	NUM	CD	NumForm=Digit|NumType=Card	30	_	_	start_char=1856|end_char=1858|SpaceAfter=No
+32	%	%	SYM	NN	Number=Sing	31	_	_	start_char=1858|end_char=1859
+33	of	of	ADP	IN	_	32	_	_	start_char=1860|end_char=1862
+34	forecast	forecast	NOUN	NN	Number=Sing	33	_	_	start_char=1863|end_char=1871
+35	operating	operating	NOUN	NN	Number=Sing	34	_	_	start_char=1872|end_char=1881
+36	profit	profit	NOUN	NN	Number=Sing	35	_	_	start_char=1882|end_char=1888|SpaceAfter=No
+37	—	—	PUNCT	:	_	36	_	_	start_char=1888|end_char=1889|SpaceAfter=No
+38	from	from	ADP	IN	_	37	_	_	start_char=1889|end_char=1893
+39	subsidies	subsidy	NOUN	NNS	Number=Plur	38	_	_	start_char=1894|end_char=1903
+40	the	the	DET	DT	Definite=Def|PronType=Art	39	_	_	start_char=1904|end_char=1907
+41	U.S.	U.S.	PROPN	NNP	Number=Sing	40	_	_	start_char=1908|end_char=1912
+42	government	government	NOUN	NN	Number=Sing	41	_	_	start_char=1913|end_char=1923
+43	rolled	roll	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	42	_	_	start_char=1924|end_char=1930
+44	out	out	ADP	RP	_	43	_	_	start_char=1931|end_char=1934
+45	a	a	DET	DT	Definite=Ind|PronType=Art	44	_	_	start_char=1935|end_char=1936
+46	year	year	NOUN	NN	Number=Sing	45	_	_	start_char=1937|end_char=1941
+47	ago	ago	ADV	RB	_	46	_	_	start_char=1942|end_char=1945
+48	to	to	PART	TO	_	47	_	_	start_char=1946|end_char=1948
+49	encourage	encourage	VERB	VB	VerbForm=Inf	48	_	_	start_char=1949|end_char=1958
+50	domestic	domestic	ADJ	JJ	Degree=Pos	49	_	_	start_char=1959|end_char=1967
+51	renewables	renewable	NOUN	NNS	Number=Plur	50	_	_	start_char=1968|end_char=1978
+52	production	production	NOUN	NN	Number=Sing	51	_	_	start_char=1979|end_char=1989|SpaceAfter=No
+53	.	.	PUNCT	.	_	52	_	_	start_char=1989|end_char=1990|SpaceAfter=No
+54	”	''	PUNCT	''	_	53	_	_	start_char=1990|end_char=1991
+
+# text = WSJ added, “One analyst estimates the incentives could be worth more than $10 billion for the company over the next decade.”
+# sent_id = 20
+1	WSJ	WSJ	PROPN	NNP	Number=Sing	0	_	_	start_char=1992|end_char=1995
+2	added	add	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1996|end_char=2001|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=2001|end_char=2002
+4	“	''	PUNCT	``	_	3	_	_	start_char=2003|end_char=2004|SpaceAfter=No
+5	One	one	NUM	CD	NumForm=Word|NumType=Card	4	_	_	start_char=2004|end_char=2007
+6	analyst	analyst	NOUN	NN	Number=Sing	5	_	_	start_char=2008|end_char=2015
+7	estimates	estimate	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=2016|end_char=2025
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=2026|end_char=2029
+9	incentives	incentive	NOUN	NNS	Number=Plur	8	_	_	start_char=2030|end_char=2040
+10	could	could	AUX	MD	VerbForm=Fin	9	_	_	start_char=2041|end_char=2046
+11	be	be	AUX	VB	VerbForm=Inf	10	_	_	start_char=2047|end_char=2049
+12	worth	worth	ADJ	JJ	Degree=Pos	11	_	_	start_char=2050|end_char=2055
+13	more	more	ADJ	JJR	Degree=Cmp	12	_	_	start_char=2056|end_char=2060
+14	than	than	ADP	IN	_	13	_	_	start_char=2061|end_char=2065
+15	$	$	SYM	$	_	14	_	_	start_char=2066|end_char=2067|SpaceAfter=No
+16	10	10	NUM	CD	NumForm=Digit|NumType=Card	15	_	_	start_char=2067|end_char=2069
+17	billion	billion	NUM	CD	NumForm=Word|NumType=Card	16	_	_	start_char=2070|end_char=2077
+18	for	for	ADP	IN	_	17	_	_	start_char=2078|end_char=2081
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=2082|end_char=2085
+20	company	company	NOUN	NN	Number=Sing	19	_	_	start_char=2086|end_char=2093
+21	over	over	ADP	IN	_	20	_	_	start_char=2094|end_char=2098
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=2099|end_char=2102
+23	next	next	ADJ	JJ	Degree=Pos	22	_	_	start_char=2103|end_char=2107
+24	decade	decade	NOUN	NN	Number=Sing	23	_	_	start_char=2108|end_char=2114|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=2114|end_char=2115|SpaceAfter=No
+26	”	''	PUNCT	''	_	25	_	_	start_char=2115|end_char=2116
+
+# text = Tal about hitting the jacpot.
+# sent_id = 21
+1	Tal	tal	INTJ	UH	_	0	_	_	start_char=2117|end_char=2120
+2	about	about	SCONJ	IN	_	1	_	_	start_char=2121|end_char=2126
+3	hitting	hit	VERB	VBG	VerbForm=Ger	2	_	_	start_char=2127|end_char=2134
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=2135|end_char=2138
+5	jacpot	jacpot	NOUN	NN	Number=Sing	4	_	_	start_char=2139|end_char=2145|SpaceAfter=No
+6	.	.	PUNCT	.	_	5	_	_	start_char=2145|end_char=2146|SpacesAfter=\n\n
+
+# text = From WSJ:
+# sent_id = 22
+1	From	from	ADP	IN	_	0	_	_	start_char=2148|end_char=2152
+2	WSJ	WSJ	PROPN	NNP	Number=Sing	1	_	_	start_char=2153|end_char=2156|SpaceAfter=No
+3	:	:	PUNCT	:	_	2	_	_	start_char=2156|end_char=2157|SpacesAfter=\n\n
+
+# text = First Solar expects to have as much as a 60% share of the U.S. maret for large-scale solar installations this year, largely a result of government policies that are pushing clean-energy developers to buy more made-in-America components.
+# sent_id = 23
+1	First	first	ADJ	NNP	Degree=Pos|NumType=Ord	0	_	_	start_char=2159|end_char=2164
+2	Solar	Solar	PROPN	NNP	Number=Sing	1	_	_	start_char=2165|end_char=2170
+3	expects	expect	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2171|end_char=2178
+4	to	to	PART	TO	_	3	_	_	start_char=2179|end_char=2181
+5	have	have	VERB	VB	VerbForm=Inf	4	_	_	start_char=2182|end_char=2186
+6	as	as	ADV	RB	_	5	_	_	start_char=2187|end_char=2189
+7	much	much	ADJ	JJ	Degree=Pos	6	_	_	start_char=2190|end_char=2194
+8	as	as	ADP	IN	_	7	_	_	start_char=2195|end_char=2197
+9	a	a	DET	DT	Definite=Ind|PronType=Art	8	_	_	start_char=2198|end_char=2199
+10	60	60	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=2200|end_char=2202|SpaceAfter=No
+11	%	%	SYM	NN	Number=Sing	10	_	_	start_char=2202|end_char=2203
+12	share	share	NOUN	NN	Number=Sing	11	_	_	start_char=2204|end_char=2209
+13	of	of	ADP	IN	_	12	_	_	start_char=2210|end_char=2212
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=2213|end_char=2216
+15	U.S.	U.S.	PROPN	NNP	Number=Sing	14	_	_	start_char=2217|end_char=2221
+16	maret	maret	NOUN	NN	Number=Sing	15	_	_	start_char=2222|end_char=2227
+17	for	for	ADP	IN	_	16	_	_	start_char=2228|end_char=2231
+18	large	large	ADJ	JJ	Degree=Pos	17	_	_	start_char=2232|end_char=2237|SpaceAfter=No
+19	-	-	PUNCT	HYPH	_	18	_	_	start_char=2237|end_char=2238|SpaceAfter=No
+20	scale	scale	NOUN	NN	Number=Sing	19	_	_	start_char=2238|end_char=2243
+21	solar	solar	ADJ	JJ	Degree=Pos	20	_	_	start_char=2244|end_char=2249
+22	installations	installation	NOUN	NNS	Number=Plur	21	_	_	start_char=2250|end_char=2263
+23	this	this	DET	DT	Number=Sing|PronType=Dem	22	_	_	start_char=2264|end_char=2268
+24	year	year	NOUN	NN	Number=Sing	23	_	_	start_char=2269|end_char=2273|SpaceAfter=No
+25	,	,	PUNCT	,	_	24	_	_	start_char=2273|end_char=2274
+26	largely	largely	ADV	RB	_	25	_	_	start_char=2275|end_char=2282
+27	a	a	DET	DT	Definite=Ind|PronType=Art	26	_	_	start_char=2283|end_char=2284
+28	result	result	NOUN	NN	Number=Sing	27	_	_	start_char=2285|end_char=2291
+29	of	of	ADP	IN	_	28	_	_	start_char=2292|end_char=2294
+30	government	government	NOUN	NN	Number=Sing	29	_	_	start_char=2295|end_char=2305
+31	policies	policy	NOUN	NNS	Number=Plur	30	_	_	start_char=2306|end_char=2314
+32	that	that	PRON	WDT	PronType=Rel	31	_	_	start_char=2315|end_char=2319
+33	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	32	_	_	start_char=2320|end_char=2323
+34	pushing	push	VERB	VBG	Tense=Pres|VerbForm=Part	33	_	_	start_char=2324|end_char=2331
+35	clean	clean	ADJ	JJ	Degree=Pos	34	_	_	start_char=2332|end_char=2337|SpaceAfter=No
+36	-	-	PUNCT	HYPH	_	35	_	_	start_char=2337|end_char=2338|SpaceAfter=No
+37	energy	energy	NOUN	NN	Number=Sing	36	_	_	start_char=2338|end_char=2344
+38	developers	developer	NOUN	NNS	Number=Plur	37	_	_	start_char=2345|end_char=2355
+39	to	to	PART	TO	_	38	_	_	start_char=2356|end_char=2358
+40	buy	buy	VERB	VB	VerbForm=Inf	39	_	_	start_char=2359|end_char=2362
+41	more	more	ADV	RBR	Degree=Cmp	40	_	_	start_char=2363|end_char=2367
+42	made	make	VERB	VBN	Tense=Past|VerbForm=Part	41	_	_	start_char=2368|end_char=2372|SpaceAfter=No
+43	-	-	PUNCT	HYPH	_	42	_	_	start_char=2372|end_char=2373|SpaceAfter=No
+44	in	in	ADP	IN	_	43	_	_	start_char=2373|end_char=2375|SpaceAfter=No
+45	-	-	PUNCT	HYPH	_	44	_	_	start_char=2375|end_char=2376|SpaceAfter=No
+46	America	America	PROPN	NNP	Number=Sing	45	_	_	start_char=2376|end_char=2383
+47	components	component	NOUN	NNS	Number=Plur	46	_	_	start_char=2384|end_char=2394|SpaceAfter=No
+48	.	.	PUNCT	.	_	47	_	_	start_char=2394|end_char=2395|SpacesAfter=\n\n
+
+# text = The company’s shares have more than doubled to $208.40 in Friday trade since the beginning of 2022, despite a string of earnings disappointments during that period.
+# sent_id = 24
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2397|end_char=2400
+2-3	company’s	_	_	_	_	_	_	_	start_char=2401|end_char=2410
+2	company	company	NOUN	NN	Number=Sing	1	_	_	start_char=2401|end_char=2408
+3	’s	's	PART	POS	_	2	_	_	start_char=2408|end_char=2410
+4	shares	share	NOUN	NNS	Number=Plur	3	_	_	start_char=2411|end_char=2417
+5	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=2418|end_char=2422
+6	more	more	ADJ	JJR	Degree=Cmp	5	_	_	start_char=2423|end_char=2427
+7	than	than	ADP	IN	_	6	_	_	start_char=2428|end_char=2432
+8	doubled	double	VERB	VBN	Tense=Past|VerbForm=Part	7	_	_	start_char=2433|end_char=2440
+9	to	to	ADP	IN	_	8	_	_	start_char=2441|end_char=2443
+10	$	$	SYM	$	_	9	_	_	start_char=2444|end_char=2445|SpaceAfter=No
+11	208.40	208.40	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=2445|end_char=2451
+12	in	in	ADP	IN	_	11	_	_	start_char=2452|end_char=2454
+13	Friday	Friday	PROPN	NNP	Number=Sing	12	_	_	start_char=2455|end_char=2461
+14	trade	trade	NOUN	NN	Number=Sing	13	_	_	start_char=2462|end_char=2467
+15	since	since	ADP	IN	_	14	_	_	start_char=2468|end_char=2473
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=2474|end_char=2477
+17	beginning	beginning	NOUN	NN	Number=Sing	16	_	_	start_char=2478|end_char=2487
+18	of	of	ADP	IN	_	17	_	_	start_char=2488|end_char=2490
+19	2022	2022	NUM	CD	NumForm=Digit|NumType=Card	18	_	_	start_char=2491|end_char=2495|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=2495|end_char=2496
+21	despite	despite	ADP	IN	_	20	_	_	start_char=2497|end_char=2504
+22	a	a	DET	DT	Definite=Ind|PronType=Art	21	_	_	start_char=2505|end_char=2506
+23	string	string	NOUN	NN	Number=Sing	22	_	_	start_char=2507|end_char=2513
+24	of	of	ADP	IN	_	23	_	_	start_char=2514|end_char=2516
+25	earnings	earnings	NOUN	NNS	Number=Plur	24	_	_	start_char=2517|end_char=2525
+26	disappointments	disappointment	NOUN	NNS	Number=Plur	25	_	_	start_char=2526|end_char=2541
+27	during	during	ADP	IN	_	26	_	_	start_char=2542|end_char=2548
+28	that	that	DET	DT	Number=Sing|PronType=Dem	27	_	_	start_char=2549|end_char=2553
+29	period	period	NOUN	NN	Number=Sing	28	_	_	start_char=2554|end_char=2560|SpaceAfter=No
+30	.	.	PUNCT	.	_	29	_	_	start_char=2560|end_char=2561|SpacesAfter=\n\n
+
+# text = The manufacturer has even announced a new factory.
+# sent_id = 25
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2563|end_char=2566
+2	manufacturer	manufacturer	NOUN	NN	Number=Sing	1	_	_	start_char=2567|end_char=2579
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2580|end_char=2583
+4	even	even	ADV	RB	_	3	_	_	start_char=2584|end_char=2588
+5	announced	announce	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=2589|end_char=2598
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=2599|end_char=2600
+7	new	new	ADJ	JJ	Degree=Pos	6	_	_	start_char=2601|end_char=2604
+8	factory	factory	NOUN	NN	Number=Sing	7	_	_	start_char=2605|end_char=2612|SpaceAfter=No
+9	.	.	PUNCT	.	_	8	_	_	start_char=2612|end_char=2613|SpacesAfter=\n\n
+
+# text = What is not being said here is that solar panels generate lots of toxic waste and are unreliable as an energy source.
+# sent_id = 26
+1	What	what	PRON	WP	PronType=Int	0	_	_	start_char=2615|end_char=2619
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2620|end_char=2622
+3	not	not	PART	RB	_	2	_	_	start_char=2623|end_char=2626
+4	being	be	AUX	VBG	VerbForm=Ger	3	_	_	start_char=2627|end_char=2632
+5	said	say	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	_	_	start_char=2633|end_char=2637
+6	here	here	ADV	RB	PronType=Dem	5	_	_	start_char=2638|end_char=2642
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=2643|end_char=2645
+8	that	that	SCONJ	IN	_	7	_	_	start_char=2646|end_char=2650
+9	solar	solar	ADJ	JJ	Degree=Pos	8	_	_	start_char=2651|end_char=2656
+10	panels	panel	NOUN	NNS	Number=Plur	9	_	_	start_char=2657|end_char=2663
+11	generate	generate	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=2664|end_char=2672
+12	lots	lot	NOUN	NNS	Number=Plur	11	_	_	start_char=2673|end_char=2677
+13	of	of	ADP	IN	_	12	_	_	start_char=2678|end_char=2680
+14	toxic	toxic	ADJ	JJ	Degree=Pos	13	_	_	start_char=2681|end_char=2686
+15	waste	waste	NOUN	NN	Number=Sing	14	_	_	start_char=2687|end_char=2692
+16	and	and	CCONJ	CC	_	15	_	_	start_char=2693|end_char=2696
+17	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=2697|end_char=2700
+18	unreliable	unreliable	ADJ	JJ	Degree=Pos	17	_	_	start_char=2701|end_char=2711
+19	as	as	ADP	IN	_	18	_	_	start_char=2712|end_char=2714
+20	an	a	DET	DT	Definite=Ind|PronType=Art	19	_	_	start_char=2715|end_char=2717
+21	energy	energy	NOUN	NN	Number=Sing	20	_	_	start_char=2718|end_char=2724
+22	source	source	NOUN	NN	Number=Sing	21	_	_	start_char=2725|end_char=2731|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=2731|end_char=2732
+
+# text = Also, solar panels have illed billions of birds.
+# sent_id = 27
+1	Also	also	ADV	RB	_	0	_	_	start_char=2733|end_char=2737|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=2737|end_char=2738
+3	solar	solar	ADJ	JJ	Degree=Pos	2	_	_	start_char=2739|end_char=2744
+4	panels	panel	NOUN	NNS	Number=Plur	3	_	_	start_char=2745|end_char=2751
+5	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=2752|end_char=2756
+6	illed	ill	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=2757|end_char=2762
+7	billions	billion	NOUN	NNS	Number=Plur	6	_	_	start_char=2763|end_char=2771
+8	of	of	ADP	IN	_	7	_	_	start_char=2772|end_char=2774
+9	birds	bird	NOUN	NNS	Number=Plur	8	_	_	start_char=2775|end_char=2780|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=2780|end_char=2781
+
+# text = Meanwhile, huge swathes of natural scenery and farmland must be ruined to set up solar panels.
+# sent_id = 28
+1	Meanwhile	meanwhile	ADV	RB	_	0	_	_	start_char=2782|end_char=2791|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=2791|end_char=2792
+3	huge	huge	ADJ	JJ	Degree=Pos	2	_	_	start_char=2793|end_char=2797
+4	swathes	swathes	NOUN	NNS	Number=Plur	3	_	_	start_char=2798|end_char=2805
+5	of	of	ADP	IN	_	4	_	_	start_char=2806|end_char=2808
+6	natural	natural	ADJ	JJ	Degree=Pos	5	_	_	start_char=2809|end_char=2816
+7	scenery	scenery	NOUN	NN	Number=Sing	6	_	_	start_char=2817|end_char=2824
+8	and	and	CCONJ	CC	_	7	_	_	start_char=2825|end_char=2828
+9	farmland	farmland	NOUN	NN	Number=Sing	8	_	_	start_char=2829|end_char=2837
+10	must	must	AUX	MD	VerbForm=Fin	9	_	_	start_char=2838|end_char=2842
+11	be	be	AUX	VB	VerbForm=Inf	10	_	_	start_char=2843|end_char=2845
+12	ruined	ruin	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	11	_	_	start_char=2846|end_char=2852
+13	to	to	PART	TO	_	12	_	_	start_char=2853|end_char=2855
+14	set	set	VERB	VB	VerbForm=Inf	13	_	_	start_char=2856|end_char=2859
+15	up	up	ADP	RP	_	14	_	_	start_char=2860|end_char=2862
+16	solar	solar	ADJ	JJ	Degree=Pos	15	_	_	start_char=2863|end_char=2868
+17	panels	panel	NOUN	NNS	Number=Plur	16	_	_	start_char=2869|end_char=2875|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=2875|end_char=2876
+
+# text = Solar is also unprofitable when left to survive on its own merits; that’s why so many government subsidies are needed.
+# sent_id = 29
+1	Solar	solar	NOUN	NN	Number=Sing	0	_	_	start_char=2877|end_char=2882
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2883|end_char=2885
+3	also	also	ADV	RB	_	2	_	_	start_char=2886|end_char=2890
+4	unprofitable	unprofitable	ADJ	JJ	Degree=Pos	3	_	_	start_char=2891|end_char=2903
+5	when	when	ADV	WRB	PronType=Int	4	_	_	start_char=2904|end_char=2908
+6	left	leave	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=2909|end_char=2913
+7	to	to	PART	TO	_	6	_	_	start_char=2914|end_char=2916
+8	survive	survive	VERB	VB	VerbForm=Inf	7	_	_	start_char=2917|end_char=2924
+9	on	on	ADP	IN	_	8	_	_	start_char=2925|end_char=2927
+10	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	_	_	start_char=2928|end_char=2931
+11	own	own	ADJ	JJ	Degree=Pos	10	_	_	start_char=2932|end_char=2935
+12	merits	merit	NOUN	NNS	Number=Plur	11	_	_	start_char=2936|end_char=2942|SpaceAfter=No
+13	;	;	PUNCT	:	_	12	_	_	start_char=2942|end_char=2943
+14-15	that’s	_	_	_	_	_	_	_	start_char=2944|end_char=2950
+14	that	that	PRON	DT	Number=Sing|PronType=Dem	13	_	_	start_char=2944|end_char=2948
+15	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=2948|end_char=2950
+16	why	why	ADV	WRB	PronType=Int	15	_	_	start_char=2951|end_char=2954
+17	so	so	ADV	RB	_	16	_	_	start_char=2955|end_char=2957
+18	many	many	ADJ	JJ	Degree=Pos	17	_	_	start_char=2958|end_char=2962
+19	government	government	NOUN	NN	Number=Sing	18	_	_	start_char=2963|end_char=2973
+20	subsidies	subsidy	NOUN	NNS	Number=Plur	19	_	_	start_char=2974|end_char=2983
+21	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	_	_	start_char=2984|end_char=2987
+22	needed	need	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	21	_	_	start_char=2988|end_char=2994|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=2994|end_char=2995
+
+# text = Solar panels are a terrible choice, both for the environment and for the energy grid.
+# sent_id = 30
+1	Solar	solar	NOUN	NN	Number=Sing	0	_	_	start_char=2996|end_char=3001
+2	panels	panel	NOUN	NNS	Number=Plur	1	_	_	start_char=3002|end_char=3008
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=3009|end_char=3012
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=3013|end_char=3014
+5	terrible	terrible	ADJ	JJ	Degree=Pos	4	_	_	start_char=3015|end_char=3023
+6	choice	choice	NOUN	NN	Number=Sing	5	_	_	start_char=3024|end_char=3030|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=3030|end_char=3031
+8	both	both	CCONJ	CC	_	7	_	_	start_char=3032|end_char=3036
+9	for	for	ADP	IN	_	8	_	_	start_char=3037|end_char=3040
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=3041|end_char=3044
+11	environment	environment	NOUN	NN	Number=Sing	10	_	_	start_char=3045|end_char=3056
+12	and	and	CCONJ	CC	_	11	_	_	start_char=3057|end_char=3060
+13	for	for	ADP	IN	_	12	_	_	start_char=3061|end_char=3064
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=3065|end_char=3068
+15	energy	energy	NOUN	NN	Number=Sing	14	_	_	start_char=3069|end_char=3075
+16	grid	grid	NOUN	NN	Number=Sing	15	_	_	start_char=3076|end_char=3080|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=3080|end_char=3081
+
+# text = They are not a solution to the fae climate crisis.
+# sent_id = 31
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=3082|end_char=3086
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=3087|end_char=3090
+3	not	not	PART	RB	_	2	_	_	start_char=3091|end_char=3094
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=3095|end_char=3096
+5	solution	solution	NOUN	NN	Number=Sing	4	_	_	start_char=3097|end_char=3105
+6	to	to	ADP	IN	_	5	_	_	start_char=3106|end_char=3108
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=3109|end_char=3112
+8	fae	fae	NOUN	NN	Number=Sing	7	_	_	start_char=3113|end_char=3116
+9	climate	climate	NOUN	NN	Number=Sing	8	_	_	start_char=3117|end_char=3124
+10	crisis	crisis	NOUN	NN	Number=Sing	9	_	_	start_char=3125|end_char=3131|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=3131|end_char=3132|SpacesAfter=\n\n
+
+# text = As the above Limbaugh quote noted, it’s a money-maing scam.
+# sent_id = 32
+1	As	as	SCONJ	IN	_	0	_	_	start_char=3134|end_char=3136
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=3137|end_char=3140
+3	above	above	ADJ	JJ	Degree=Pos	2	_	_	start_char=3141|end_char=3146
+4	Limbaugh	Limbaugh	PROPN	NNP	Number=Sing	3	_	_	start_char=3147|end_char=3155
+5	quote	quote	NOUN	NN	Number=Sing	4	_	_	start_char=3156|end_char=3161
+6	noted	note	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=3162|end_char=3167|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=3167|end_char=3168
+8-9	it’s	_	_	_	_	_	_	_	start_char=3169|end_char=3173
+8	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	_	_	start_char=3169|end_char=3171
+9	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=3171|end_char=3173
+10	a	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=3174|end_char=3175
+11	money	money	NOUN	NN	Number=Sing	10	_	_	start_char=3176|end_char=3181|SpaceAfter=No
+12	-	-	PUNCT	HYPH	_	11	_	_	start_char=3181|end_char=3182|SpaceAfter=No
+13	maing	maing	NOUN	NN	Number=Sing	12	_	_	start_char=3182|end_char=3187
+14	scam	scam	NOUN	NN	Number=Sing	13	_	_	start_char=3188|end_char=3192|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=3192|end_char=3193|SpaceAfter=No
+

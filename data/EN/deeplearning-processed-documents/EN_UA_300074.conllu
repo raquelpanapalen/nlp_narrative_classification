@@ -1,0 +1,661 @@
+# text = UN Chief Warns of Global Economic Crisis at World Economic Forum in Davos
+# sent_id = 0
+1	UN	UN	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=2
+2	Chief	Chief	ADJ	NNP	Degree=Pos	1	_	_	start_char=3|end_char=8
+3	Warns	Warns	PROPN	NNPS	Number=Plur	2	_	_	start_char=9|end_char=14
+4	of	of	ADP	IN	_	3	_	_	start_char=15|end_char=17
+5	Global	Global	ADJ	NNP	Degree=Pos	4	_	_	start_char=18|end_char=24
+6	Economic	Economic	ADJ	NNP	Degree=Pos|Number=Sing	5	_	_	start_char=25|end_char=33
+7	Crisis	crisis	PROPN	NNP	Number=Sing	6	_	_	start_char=34|end_char=40
+8	at	at	ADP	IN	_	7	_	_	start_char=41|end_char=43
+9	World	World	PROPN	NNP	Number=Sing	8	_	_	start_char=44|end_char=49
+10	Economic	Economic	ADJ	NNP	Degree=Pos	9	_	_	start_char=50|end_char=58
+11	Forum	Forum	PROPN	NNP	Number=Sing	10	_	_	start_char=59|end_char=64
+12	in	in	ADP	IN	_	11	_	_	start_char=65|end_char=67
+13	Davos	Davos	PROPN	NNP	Number=Sing	12	_	_	start_char=68|end_char=73|SpacesAfter=\s\n\n\s
+
+# text = United Nations Secretary-General Antonio Guterres offered a grim outloo on the global economic during the World Economic Forum’s 2023 summit in Davos, Switzerland, warning of a possible worldwide economic downturn.
+# sent_id = 1
+1	United	United	ADJ	NNP	Degree=Pos	0	_	_	start_char=77|end_char=83
+2	Nations	Nation	PROPN	NNPS	Number=Plur	1	_	_	start_char=84|end_char=91
+3	Secretary	Secretary	PROPN	NNP	Number=Sing	2	_	_	start_char=92|end_char=101|SpaceAfter=No
+4	-	-	PUNCT	HYPH	_	3	_	_	start_char=101|end_char=102|SpaceAfter=No
+5	General	General	PROPN	NNP	Number=Sing	4	_	_	start_char=102|end_char=109
+6	Antonio	Antonio	PROPN	NNP	Number=Sing	5	_	_	start_char=110|end_char=117
+7	Guterres	Guterres	PROPN	NNP	Number=Sing	6	_	_	start_char=118|end_char=126
+8	offered	offer	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=127|end_char=134
+9	a	a	DET	DT	Definite=Ind|PronType=Art	8	_	_	start_char=135|end_char=136
+10	grim	grim	ADJ	JJ	Degree=Pos	9	_	_	start_char=137|end_char=141
+11	outloo	outloo	NOUN	NN	Number=Sing	10	_	_	start_char=142|end_char=148
+12	on	on	ADP	IN	_	11	_	_	start_char=149|end_char=151
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=152|end_char=155
+14	global	global	ADJ	JJ	Degree=Pos	13	_	_	start_char=156|end_char=162
+15	economic	economic	ADJ	JJ	Degree=Pos	14	_	_	start_char=163|end_char=171
+16	during	during	ADP	IN	_	15	_	_	start_char=172|end_char=178
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=179|end_char=182
+18	World	World	PROPN	NNP	Number=Sing	17	_	_	start_char=183|end_char=188
+19	Economic	Economic	ADJ	NNP	Degree=Pos	18	_	_	start_char=189|end_char=197
+20-21	Forum’s	_	_	_	_	_	_	_	start_char=198|end_char=205
+20	Forum	Forum	PROPN	NNP	Number=Sing	19	_	_	start_char=198|end_char=203
+21	’s	's	PART	POS	_	20	_	_	start_char=203|end_char=205
+22	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	21	_	_	start_char=206|end_char=210
+23	summit	summit	NOUN	NN	Number=Sing	22	_	_	start_char=211|end_char=217
+24	in	in	ADP	IN	_	23	_	_	start_char=218|end_char=220
+25	Davos	Davos	PROPN	NNP	Number=Sing	24	_	_	start_char=221|end_char=226|SpaceAfter=No
+26	,	,	PUNCT	,	_	25	_	_	start_char=226|end_char=227
+27	Switzerland	Switzerland	PROPN	NNP	Number=Sing	26	_	_	start_char=228|end_char=239|SpaceAfter=No
+28	,	,	PUNCT	,	_	27	_	_	start_char=239|end_char=240
+29	warning	warning	VERB	VBG	VerbForm=Ger	28	_	_	start_char=241|end_char=248
+30	of	of	ADP	IN	_	29	_	_	start_char=249|end_char=251
+31	a	a	DET	DT	Definite=Ind|PronType=Art	30	_	_	start_char=252|end_char=253
+32	possible	possible	ADJ	JJ	Degree=Pos	31	_	_	start_char=254|end_char=262
+33	worldwide	worldwide	ADJ	JJ	Degree=Pos	32	_	_	start_char=263|end_char=272
+34	economic	economic	ADJ	JJ	Degree=Pos	33	_	_	start_char=273|end_char=281
+35	downturn	downturn	NOUN	NN	Number=Sing	34	_	_	start_char=282|end_char=290|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=290|end_char=291|SpacesAfter=\n\n
+
+# text = Citing the “perfect storm” of the Russia–Uraine war, high food prices, and high energy costs, Guterres said that there will be “huge economic consequences” around the world.
+# sent_id = 2
+1	Citing	cite	VERB	VBG	VerbForm=Ger	0	_	_	start_char=293|end_char=299
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=300|end_char=303
+3	“	''	PUNCT	``	_	2	_	_	start_char=304|end_char=305|SpaceAfter=No
+4	perfect	perfect	ADJ	JJ	Degree=Pos	3	_	_	start_char=305|end_char=312
+5	storm	storm	NOUN	NN	Number=Sing	4	_	_	start_char=313|end_char=318|SpaceAfter=No
+6	”	''	PUNCT	''	_	5	_	_	start_char=318|end_char=319
+7	of	of	ADP	IN	_	6	_	_	start_char=320|end_char=322
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=323|end_char=326
+9	Russia	Russia	PROPN	NNP	Number=Sing	8	_	_	start_char=327|end_char=333|SpaceAfter=No
+10	–	-	PUNCT	:	_	9	_	_	start_char=333|end_char=334|SpaceAfter=No
+11	Uraine	Uraine	PROPN	NNP	Number=Sing	10	_	_	start_char=334|end_char=340
+12	war	war	NOUN	NN	Number=Sing	11	_	_	start_char=341|end_char=344|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=344|end_char=345
+14	high	high	ADJ	JJ	Degree=Pos	13	_	_	start_char=346|end_char=350
+15	food	food	NOUN	NN	Number=Sing	14	_	_	start_char=351|end_char=355
+16	prices	price	NOUN	NNS	Number=Plur	15	_	_	start_char=356|end_char=362|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=362|end_char=363
+18	and	and	CCONJ	CC	_	17	_	_	start_char=364|end_char=367
+19	high	high	ADJ	JJ	Degree=Pos	18	_	_	start_char=368|end_char=372
+20	energy	energy	NOUN	NN	Number=Sing	19	_	_	start_char=373|end_char=379
+21	costs	cost	NOUN	NNS	Number=Plur	20	_	_	start_char=380|end_char=385|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=385|end_char=386
+23	Guterres	Guterres	PROPN	NNP	Number=Sing	22	_	_	start_char=387|end_char=395
+24	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	23	_	_	start_char=396|end_char=400
+25	that	that	SCONJ	IN	_	24	_	_	start_char=401|end_char=405
+26	there	there	PRON	EX	_	25	_	_	start_char=406|end_char=411
+27	will	will	AUX	MD	VerbForm=Fin	26	_	_	start_char=412|end_char=416
+28	be	be	VERB	VB	VerbForm=Inf	27	_	_	start_char=417|end_char=419
+29	“	''	PUNCT	``	_	28	_	_	start_char=420|end_char=421|SpaceAfter=No
+30	huge	huge	ADJ	JJ	Degree=Pos	29	_	_	start_char=421|end_char=425
+31	economic	economic	ADJ	JJ	Degree=Pos	30	_	_	start_char=426|end_char=434
+32	consequences	consequence	NOUN	NNS	Number=Plur	31	_	_	start_char=435|end_char=447|SpaceAfter=No
+33	”	''	PUNCT	''	_	32	_	_	start_char=447|end_char=448
+34	around	around	ADP	IN	_	33	_	_	start_char=449|end_char=455
+35	the	the	DET	DT	Definite=Def|PronType=Art	34	_	_	start_char=456|end_char=459
+36	world	world	NOUN	NN	Number=Sing	35	_	_	start_char=460|end_char=465|SpaceAfter=No
+37	.	.	PUNCT	.	_	36	_	_	start_char=465|end_char=466
+
+# text = He did not predict, however, when the slowdown would start.
+# sent_id = 3
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=467|end_char=469
+2	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=470|end_char=473
+3	not	not	PART	RB	_	2	_	_	start_char=474|end_char=477
+4	predict	predict	VERB	VB	VerbForm=Inf	3	_	_	start_char=478|end_char=485|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=485|end_char=486
+6	however	however	ADV	RB	_	5	_	_	start_char=487|end_char=494|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=494|end_char=495
+8	when	when	ADV	WRB	PronType=Int	7	_	_	start_char=496|end_char=500
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=501|end_char=504
+10	slowdown	slowdown	NOUN	NN	Number=Sing	9	_	_	start_char=505|end_char=513
+11	would	would	AUX	MD	VerbForm=Fin	10	_	_	start_char=514|end_char=519
+12	start	start	VERB	VB	VerbForm=Inf	11	_	_	start_char=520|end_char=525|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=525|end_char=526|SpacesAfter=\n\n
+
+# text = Guterres noted that economies outside the United States, Europe, and Asia would face worsening economic conditions.
+# sent_id = 4
+1	Guterres	Guterres	PROPN	NNP	Number=Sing	0	_	_	start_char=528|end_char=536
+2	noted	note	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=537|end_char=542
+3	that	that	SCONJ	IN	_	2	_	_	start_char=543|end_char=547
+4	economies	economy	NOUN	NNS	Number=Plur	3	_	_	start_char=548|end_char=557
+5	outside	outside	ADP	IN	_	4	_	_	start_char=558|end_char=565
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=566|end_char=569
+7	United	United	ADJ	NNP	Degree=Pos	6	_	_	start_char=570|end_char=576
+8	States	State	PROPN	NNPS	Number=Plur	7	_	_	start_char=577|end_char=583|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=583|end_char=584
+10	Europe	Europe	PROPN	NNP	Number=Sing	9	_	_	start_char=585|end_char=591|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=591|end_char=592
+12	and	and	CCONJ	CC	_	11	_	_	start_char=593|end_char=596
+13	Asia	Asia	PROPN	NNP	Number=Sing	12	_	_	start_char=597|end_char=601
+14	would	would	AUX	MD	VerbForm=Fin	13	_	_	start_char=602|end_char=607
+15	face	face	VERB	VB	VerbForm=Inf	14	_	_	start_char=608|end_char=612
+16	worsening	worsen	VERB	VBG	VerbForm=Ger	15	_	_	start_char=613|end_char=622
+17	economic	economic	ADJ	JJ	Degree=Pos	16	_	_	start_char=623|end_char=631
+18	conditions	condition	NOUN	NNS	Number=Plur	17	_	_	start_char=632|end_char=642|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=642|end_char=643
+
+# text = Developing countries in Africa, South America, and much of Asia are seeing rising interest rates, he noted.
+# sent_id = 5
+1	Developing	develop	VERB	VBG	VerbForm=Ger	0	_	_	start_char=644|end_char=654
+2	countries	country	NOUN	NNS	Number=Plur	1	_	_	start_char=655|end_char=664
+3	in	in	ADP	IN	_	2	_	_	start_char=665|end_char=667
+4	Africa	Africa	PROPN	NNP	Number=Sing	3	_	_	start_char=668|end_char=674|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=674|end_char=675
+6	South	South	PROPN	NNP	Number=Sing	5	_	_	start_char=676|end_char=681
+7	America	America	PROPN	NNP	Number=Sing	6	_	_	start_char=682|end_char=689|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=689|end_char=690
+9	and	and	CCONJ	CC	_	8	_	_	start_char=691|end_char=694
+10	much	much	ADJ	JJ	Degree=Pos	9	_	_	start_char=695|end_char=699
+11	of	of	ADP	IN	_	10	_	_	start_char=700|end_char=702
+12	Asia	Asia	PROPN	NNP	Number=Sing	11	_	_	start_char=703|end_char=707
+13	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=708|end_char=711
+14	seeing	see	VERB	VBG	Tense=Pres|VerbForm=Part	13	_	_	start_char=712|end_char=718
+15	rising	rise	VERB	VBG	VerbForm=Ger	14	_	_	start_char=719|end_char=725
+16	interest	interest	NOUN	NN	Number=Sing	15	_	_	start_char=726|end_char=734
+17	rates	rate	NOUN	NNS	Number=Plur	16	_	_	start_char=735|end_char=740|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=740|end_char=741
+19	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	_	_	start_char=742|end_char=744
+20	noted	note	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	_	_	start_char=745|end_char=750|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=750|end_char=751|SpacesAfter=\n\n
+
+# text = “Interest rates are going up extremely in the global south.
+# sent_id = 6
+1	“	''	PUNCT	``	_	0	_	_	start_char=753|end_char=754|SpaceAfter=No
+2	Interest	interest	NOUN	NN	Number=Sing	1	_	_	start_char=754|end_char=762
+3	rates	rate	NOUN	NNS	Number=Plur	2	_	_	start_char=763|end_char=768
+4	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=769|end_char=772
+5	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	4	_	_	start_char=773|end_char=778
+6	up	up	ADP	RP	_	5	_	_	start_char=779|end_char=781
+7	extremely	extremely	ADV	RB	_	6	_	_	start_char=782|end_char=791
+8	in	in	ADP	IN	_	7	_	_	start_char=792|end_char=794
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=795|end_char=798
+10	global	global	ADJ	JJ	Degree=Pos	9	_	_	start_char=799|end_char=805
+11	south	south	NOUN	NN	Number=Sing	10	_	_	start_char=806|end_char=811|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=811|end_char=812
+
+# text = Countries are close to default.
+# sent_id = 7
+1	Countries	country	NOUN	NNS	Number=Plur	0	_	_	start_char=813|end_char=822
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=823|end_char=826
+3	close	close	ADJ	JJ	Degree=Pos	2	_	_	start_char=827|end_char=832
+4	to	to	ADP	IN	_	3	_	_	start_char=833|end_char=835
+5	default	default	NOUN	NN	Number=Sing	4	_	_	start_char=836|end_char=843|SpaceAfter=No
+6	.	.	PUNCT	.	_	5	_	_	start_char=843|end_char=844
+
+# text = They have no resources because they couldn’t print money lie the United States did, lie Europe did during the COVID-19 [pandemic],” the UN chief told Bartiromo.
+# sent_id = 8
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=845|end_char=849
+2	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=850|end_char=854
+3	no	no	DET	DT	_	2	_	_	start_char=855|end_char=857
+4	resources	resource	NOUN	NNS	Number=Plur	3	_	_	start_char=858|end_char=867
+5	because	because	SCONJ	IN	_	4	_	_	start_char=868|end_char=875
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	_	_	start_char=876|end_char=880
+7-8	couldn’t	_	_	_	_	_	_	_	start_char=881|end_char=889
+7	could	could	AUX	MD	VerbForm=Fin	6	_	_	start_char=881|end_char=886
+8	n’t	not	PART	RB	_	7	_	_	start_char=886|end_char=889
+9	print	print	VERB	VB	VerbForm=Inf	8	_	_	start_char=890|end_char=895
+10	money	money	NOUN	NN	Number=Sing	9	_	_	start_char=896|end_char=901
+11	lie	lie	VERB	VB	VerbForm=Inf	10	_	_	start_char=902|end_char=905
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=906|end_char=909
+13	United	United	ADJ	NNP	Degree=Pos	12	_	_	start_char=910|end_char=916
+14	States	State	PROPN	NNPS	Number=Plur	13	_	_	start_char=917|end_char=923
+15	did	do	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=924|end_char=927|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=927|end_char=928
+17	lie	lie	VERB	VB	VerbForm=Inf	16	_	_	start_char=929|end_char=932
+18	Europe	Europe	PROPN	NNP	Number=Sing	17	_	_	start_char=933|end_char=939
+19	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	_	_	start_char=940|end_char=943
+20	during	during	ADP	IN	_	19	_	_	start_char=944|end_char=950
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=951|end_char=954
+22	COVID	COVID	PROPN	NNP	Number=Sing	21	_	_	start_char=955|end_char=960|SpaceAfter=No
+23	-	-	PUNCT	HYPH	_	22	_	_	start_char=960|end_char=961|SpaceAfter=No
+24	19	19	NUM	CD	NumForm=Digit|NumType=Card	23	_	_	start_char=961|end_char=963
+25	[	[	PUNCT	-LRB-	_	24	_	_	start_char=964|end_char=965|SpaceAfter=No
+26	pandemic	pandemic	NOUN	NN	Number=Sing	25	_	_	start_char=965|end_char=973|SpaceAfter=No
+27	]	]	PUNCT	-RRB-	_	26	_	_	start_char=973|end_char=974|SpaceAfter=No
+28	,	,	PUNCT	,	_	27	_	_	start_char=974|end_char=975|SpaceAfter=No
+29	”	''	PUNCT	''	_	28	_	_	start_char=975|end_char=976
+30	the	the	DET	DT	Definite=Def|PronType=Art	29	_	_	start_char=977|end_char=980
+31	UN	UN	PROPN	NNP	Number=Sing	30	_	_	start_char=981|end_char=983
+32	chief	chief	NOUN	NN	Number=Sing	31	_	_	start_char=984|end_char=989
+33	told	tell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	32	_	_	start_char=990|end_char=994
+34	Bartiromo	Bartiromo	PROPN	NNP	Number=Sing	33	_	_	start_char=995|end_char=1004|SpaceAfter=No
+35	.	.	PUNCT	.	_	34	_	_	start_char=1004|end_char=1005
+
+# text = “They have no access to concessional funding because many of them are middle-income countries.
+# sent_id = 9
+1	“	''	PUNCT	``	_	0	_	_	start_char=1006|end_char=1007|SpaceAfter=No
+2	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	1	_	_	start_char=1007|end_char=1011
+3	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1012|end_char=1016
+4	no	no	DET	DT	_	3	_	_	start_char=1017|end_char=1019
+5	access	access	NOUN	NN	Number=Sing	4	_	_	start_char=1020|end_char=1026
+6	to	to	ADP	IN	_	5	_	_	start_char=1027|end_char=1029
+7	concessional	concessional	ADJ	JJ	Degree=Pos	6	_	_	start_char=1030|end_char=1042
+8	funding	funding	NOUN	NN	Number=Sing	7	_	_	start_char=1043|end_char=1050
+9	because	because	SCONJ	IN	_	8	_	_	start_char=1051|end_char=1058
+10	many	many	ADJ	JJ	Degree=Pos	9	_	_	start_char=1059|end_char=1063
+11	of	of	ADP	IN	_	10	_	_	start_char=1064|end_char=1066
+12	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	11	_	_	start_char=1067|end_char=1071
+13	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=1072|end_char=1075
+14	middle	middle	ADJ	JJ	Degree=Pos	13	_	_	start_char=1076|end_char=1082|SpaceAfter=No
+15	-	-	PUNCT	HYPH	_	14	_	_	start_char=1082|end_char=1083|SpaceAfter=No
+16	income	income	NOUN	NN	Number=Sing	15	_	_	start_char=1083|end_char=1089
+17	countries	country	NOUN	NNS	Number=Plur	16	_	_	start_char=1090|end_char=1099|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=1099|end_char=1100
+
+# text = Loo at small island developing states, the Caribbean islands.”
+# sent_id = 10
+1	Loo	loo	NOUN	NN	Number=Sing	0	_	_	start_char=1101|end_char=1104
+2	at	at	ADP	IN	_	1	_	_	start_char=1105|end_char=1107
+3	small	small	ADJ	JJ	Degree=Pos	2	_	_	start_char=1108|end_char=1113
+4	island	island	NOUN	NN	Number=Sing	3	_	_	start_char=1114|end_char=1120
+5	developing	develop	VERB	VBG	VerbForm=Ger	4	_	_	start_char=1121|end_char=1131
+6	states	state	NOUN	NNS	Number=Plur	5	_	_	start_char=1132|end_char=1138|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=1138|end_char=1139
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=1140|end_char=1143
+9	Caribbean	caribbean	ADJ	JJ	Degree=Pos	8	_	_	start_char=1144|end_char=1153
+10	islands	island	NOUN	NNS	Number=Plur	9	_	_	start_char=1154|end_char=1161|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=1161|end_char=1162|SpaceAfter=No
+12	”	''	PUNCT	''	_	11	_	_	start_char=1162|end_char=1163|SpacesAfter=\n\n
+
+# text = Some of those countries, he added, “lived on tourism” and “tourism has ended for two years, but as they are middle-income countries, they had no debt to live, they had no concessional funding.”
+# sent_id = 11
+1	Some	some	DET	DT	_	0	_	_	start_char=1165|end_char=1169
+2	of	of	ADP	IN	_	1	_	_	start_char=1170|end_char=1172
+3	those	that	DET	DT	Number=Plur|PronType=Dem	2	_	_	start_char=1173|end_char=1178
+4	countries	country	NOUN	NNS	Number=Plur	3	_	_	start_char=1179|end_char=1188|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=1188|end_char=1189
+6	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	_	_	start_char=1190|end_char=1192
+7	added	add	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=1193|end_char=1198|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=1198|end_char=1199
+9	“	''	PUNCT	``	_	8	_	_	start_char=1200|end_char=1201|SpaceAfter=No
+10	lived	live	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=1201|end_char=1206
+11	on	on	ADP	IN	_	10	_	_	start_char=1207|end_char=1209
+12	tourism	tourism	NOUN	NN	Number=Sing	11	_	_	start_char=1210|end_char=1217|SpaceAfter=No
+13	”	''	PUNCT	''	_	12	_	_	start_char=1217|end_char=1218
+14	and	and	CCONJ	CC	_	13	_	_	start_char=1219|end_char=1222
+15	“	''	PUNCT	``	_	14	_	_	start_char=1223|end_char=1224|SpaceAfter=No
+16	tourism	tourism	NOUN	NN	Number=Sing	15	_	_	start_char=1224|end_char=1231
+17	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=1232|end_char=1235
+18	ended	end	VERB	VBN	Tense=Past|VerbForm=Part	17	_	_	start_char=1236|end_char=1241
+19	for	for	ADP	IN	_	18	_	_	start_char=1242|end_char=1245
+20	two	two	NUM	CD	NumForm=Word|NumType=Card	19	_	_	start_char=1246|end_char=1249
+21	years	year	NOUN	NNS	Number=Plur	20	_	_	start_char=1250|end_char=1255|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=1255|end_char=1256
+23	but	but	CCONJ	CC	_	22	_	_	start_char=1257|end_char=1260
+24	as	as	SCONJ	IN	_	23	_	_	start_char=1261|end_char=1263
+25	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	24	_	_	start_char=1264|end_char=1268
+26	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	_	_	start_char=1269|end_char=1272
+27	middle	middle	ADJ	JJ	Degree=Pos	26	_	_	start_char=1273|end_char=1279|SpaceAfter=No
+28	-	-	PUNCT	HYPH	_	27	_	_	start_char=1279|end_char=1280|SpaceAfter=No
+29	income	income	NOUN	NN	Number=Sing	28	_	_	start_char=1280|end_char=1286
+30	countries	country	NOUN	NNS	Number=Plur	29	_	_	start_char=1287|end_char=1296|SpaceAfter=No
+31	,	,	PUNCT	,	_	30	_	_	start_char=1296|end_char=1297
+32	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	31	_	_	start_char=1298|end_char=1302
+33	had	have	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	32	_	_	start_char=1303|end_char=1306
+34	no	no	DET	DT	_	33	_	_	start_char=1307|end_char=1309
+35	debt	debt	NOUN	NN	Number=Sing	34	_	_	start_char=1310|end_char=1314
+36	to	to	PART	TO	_	35	_	_	start_char=1315|end_char=1317
+37	live	live	VERB	VB	VerbForm=Inf	36	_	_	start_char=1318|end_char=1322|SpaceAfter=No
+38	,	,	PUNCT	,	_	37	_	_	start_char=1322|end_char=1323
+39	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	38	_	_	start_char=1324|end_char=1328
+40	had	have	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	39	_	_	start_char=1329|end_char=1332
+41	no	no	DET	DT	_	40	_	_	start_char=1333|end_char=1335
+42	concessional	concessional	ADJ	JJ	Degree=Pos	41	_	_	start_char=1336|end_char=1348
+43	funding	funding	NOUN	NN	Number=Sing	42	_	_	start_char=1349|end_char=1356|SpaceAfter=No
+44	.	.	PUNCT	.	_	43	_	_	start_char=1356|end_char=1357|SpaceAfter=No
+45	”	''	PUNCT	''	_	44	_	_	start_char=1357|end_char=1358|SpacesAfter=\n\n
+
+# text = Guterres said that the United Nations is proposing a global stimulus plan to address economic woes, and claimed that economies should transition from oil and gas to other energy sources.
+# sent_id = 12
+1	Guterres	Guterres	PROPN	NNP	Number=Sing	0	_	_	start_char=1360|end_char=1368
+2	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1369|end_char=1373
+3	that	that	SCONJ	IN	_	2	_	_	start_char=1374|end_char=1378
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1379|end_char=1382
+5	United	United	ADJ	NNP	Degree=Pos	4	_	_	start_char=1383|end_char=1389
+6	Nations	Nation	PROPN	NNPS	Number=Plur	5	_	_	start_char=1390|end_char=1397
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=1398|end_char=1400
+8	proposing	propose	VERB	VBG	Tense=Pres|VerbForm=Part	7	_	_	start_char=1401|end_char=1410
+9	a	a	DET	DT	Definite=Ind|PronType=Art	8	_	_	start_char=1411|end_char=1412
+10	global	global	ADJ	JJ	Degree=Pos	9	_	_	start_char=1413|end_char=1419
+11	stimulus	stimulus	NOUN	NN	Number=Sing	10	_	_	start_char=1420|end_char=1428
+12	plan	plan	NOUN	NN	Number=Sing	11	_	_	start_char=1429|end_char=1433
+13	to	to	PART	TO	_	12	_	_	start_char=1434|end_char=1436
+14	address	address	VERB	VB	VerbForm=Inf	13	_	_	start_char=1437|end_char=1444
+15	economic	economic	ADJ	JJ	Degree=Pos	14	_	_	start_char=1445|end_char=1453
+16	woes	woe	NOUN	NNS	Number=Plur	15	_	_	start_char=1454|end_char=1458|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=1458|end_char=1459
+18	and	and	CCONJ	CC	_	17	_	_	start_char=1460|end_char=1463
+19	claimed	claim	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	_	_	start_char=1464|end_char=1471
+20	that	that	SCONJ	IN	_	19	_	_	start_char=1472|end_char=1476
+21	economies	economy	NOUN	NNS	Number=Plur	20	_	_	start_char=1477|end_char=1486
+22	should	should	AUX	MD	VerbForm=Fin	21	_	_	start_char=1487|end_char=1493
+23	transition	transition	VERB	VB	VerbForm=Inf	22	_	_	start_char=1494|end_char=1504
+24	from	from	ADP	IN	_	23	_	_	start_char=1505|end_char=1509
+25	oil	oil	NOUN	NN	Number=Sing	24	_	_	start_char=1510|end_char=1513
+26	and	and	CCONJ	CC	_	25	_	_	start_char=1514|end_char=1517
+27	gas	gas	NOUN	NN	Number=Sing	26	_	_	start_char=1518|end_char=1521
+28	to	to	ADP	IN	_	27	_	_	start_char=1522|end_char=1524
+29	other	other	ADJ	JJ	Degree=Pos	28	_	_	start_char=1525|end_char=1530
+30	energy	energy	NOUN	NN	Number=Sing	29	_	_	start_char=1531|end_char=1537
+31	sources	source	NOUN	NNS	Number=Plur	30	_	_	start_char=1538|end_char=1545|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=1545|end_char=1546
+
+# text = “We need to do that in a just way,” he said, adding that “this transition needs to be well-managed.”
+# sent_id = 13
+1	“	''	PUNCT	``	_	0	_	_	start_char=1547|end_char=1548|SpaceAfter=No
+2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	1	_	_	start_char=1548|end_char=1550
+3	need	need	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1551|end_char=1555
+4	to	to	PART	TO	_	3	_	_	start_char=1556|end_char=1558
+5	do	do	VERB	VB	VerbForm=Inf	4	_	_	start_char=1559|end_char=1561
+6	that	that	PRON	DT	Number=Sing|PronType=Dem	5	_	_	start_char=1562|end_char=1566
+7	in	in	ADP	IN	_	6	_	_	start_char=1567|end_char=1569
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=1570|end_char=1571
+9	just	just	ADV	RB	_	8	_	_	start_char=1572|end_char=1576
+10	way	way	NOUN	NN	Number=Sing	9	_	_	start_char=1577|end_char=1580|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=1580|end_char=1581|SpaceAfter=No
+12	”	''	PUNCT	''	_	11	_	_	start_char=1581|end_char=1582
+13	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	_	_	start_char=1583|end_char=1585
+14	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	_	_	start_char=1586|end_char=1590|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=1590|end_char=1591
+16	adding	add	VERB	VBG	VerbForm=Ger	15	_	_	start_char=1592|end_char=1598
+17	that	that	SCONJ	IN	_	16	_	_	start_char=1599|end_char=1603
+18	“	''	PUNCT	``	_	17	_	_	start_char=1604|end_char=1605|SpaceAfter=No
+19	this	this	DET	DT	Number=Sing|PronType=Dem	18	_	_	start_char=1605|end_char=1609
+20	transition	transition	NOUN	NN	Number=Sing	19	_	_	start_char=1610|end_char=1620
+21	needs	need	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	_	_	start_char=1621|end_char=1626
+22	to	to	PART	TO	_	21	_	_	start_char=1627|end_char=1629
+23	be	be	AUX	VB	VerbForm=Inf	22	_	_	start_char=1630|end_char=1632
+24	well	well	ADV	RB	Degree=Pos	23	_	_	start_char=1633|end_char=1637|SpaceAfter=No
+25	-	-	PUNCT	HYPH	_	24	_	_	start_char=1637|end_char=1638|SpaceAfter=No
+26	managed	manage	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	25	_	_	start_char=1638|end_char=1645|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=1645|end_char=1646|SpaceAfter=No
+28	”	''	PUNCT	''	_	27	_	_	start_char=1646|end_char=1647|SpacesAfter=\n\n
+
+# text = Meanwhile, the West and China need to have “serious” negotiations amid the dim global economic outloo, said the UN chief.
+# sent_id = 14
+1	Meanwhile	meanwhile	ADV	RB	_	0	_	_	start_char=1649|end_char=1658|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=1658|end_char=1659
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1660|end_char=1663
+4	West	West	PROPN	NNP	Number=Sing	3	_	_	start_char=1664|end_char=1668
+5	and	and	CCONJ	CC	_	4	_	_	start_char=1669|end_char=1672
+6	China	China	PROPN	NNP	Number=Sing	5	_	_	start_char=1673|end_char=1678
+7	need	need	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=1679|end_char=1683
+8	to	to	PART	TO	_	7	_	_	start_char=1684|end_char=1686
+9	have	have	VERB	VB	VerbForm=Inf	8	_	_	start_char=1687|end_char=1691
+10	“	''	PUNCT	``	_	9	_	_	start_char=1692|end_char=1693|SpaceAfter=No
+11	serious	serious	ADJ	JJ	Degree=Pos	10	_	_	start_char=1693|end_char=1700|SpaceAfter=No
+12	”	''	PUNCT	''	_	11	_	_	start_char=1700|end_char=1701
+13	negotiations	negotiation	NOUN	NNS	Number=Plur	12	_	_	start_char=1702|end_char=1714
+14	amid	amid	ADP	IN	_	13	_	_	start_char=1715|end_char=1719
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=1720|end_char=1723
+16	dim	dim	ADJ	JJ	Degree=Pos	15	_	_	start_char=1724|end_char=1727
+17	global	global	ADJ	JJ	Degree=Pos	16	_	_	start_char=1728|end_char=1734
+18	economic	economic	ADJ	JJ	Degree=Pos	17	_	_	start_char=1735|end_char=1743
+19	outloo	outloo	NOUN	NN	Number=Sing	18	_	_	start_char=1744|end_char=1750|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=1750|end_char=1751
+21	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	_	_	start_char=1752|end_char=1756
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=1757|end_char=1760
+23	UN	UN	PROPN	NNP	Number=Sing	22	_	_	start_char=1761|end_char=1763
+24	chief	chief	NOUN	NN	Number=Sing	23	_	_	start_char=1764|end_char=1769|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=1769|end_char=1770|SpacesAfter=\n\n
+
+# text = Other WarningsWhile inflation has eased at the consumer and producer level in the United States in recent months, a number of economists and business leaders say that Americans should prepare for a recession starting in 2023.
+# sent_id = 15
+1	Other	other	ADJ	JJ	Degree=Pos	0	_	_	start_char=1772|end_char=1777
+2	WarningsWhile	warningswhile	ADJ	JJ	Degree=Pos	1	_	_	start_char=1778|end_char=1791
+3	inflation	inflation	NOUN	NN	Number=Sing	2	_	_	start_char=1792|end_char=1801
+4	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1802|end_char=1805
+5	eased	ease	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=1806|end_char=1811
+6	at	at	ADP	IN	_	5	_	_	start_char=1812|end_char=1814
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1815|end_char=1818
+8	consumer	consumer	NOUN	NN	Number=Sing	7	_	_	start_char=1819|end_char=1827
+9	and	and	CCONJ	CC	_	8	_	_	start_char=1828|end_char=1831
+10	producer	producer	NOUN	NN	Number=Sing	9	_	_	start_char=1832|end_char=1840
+11	level	level	NOUN	NN	Number=Sing	10	_	_	start_char=1841|end_char=1846
+12	in	in	ADP	IN	_	11	_	_	start_char=1847|end_char=1849
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1850|end_char=1853
+14	United	United	ADJ	NNP	Degree=Pos	13	_	_	start_char=1854|end_char=1860
+15	States	State	PROPN	NNPS	Number=Plur	14	_	_	start_char=1861|end_char=1867
+16	in	in	ADP	IN	_	15	_	_	start_char=1868|end_char=1870
+17	recent	recent	ADJ	JJ	Degree=Pos	16	_	_	start_char=1871|end_char=1877
+18	months	month	NOUN	NNS	Number=Plur	17	_	_	start_char=1878|end_char=1884|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=1884|end_char=1885
+20	a	a	DET	DT	Definite=Ind|PronType=Art	19	_	_	start_char=1886|end_char=1887
+21	number	number	NOUN	NN	Number=Sing	20	_	_	start_char=1888|end_char=1894
+22	of	of	ADP	IN	_	21	_	_	start_char=1895|end_char=1897
+23	economists	economist	NOUN	NNS	Number=Plur	22	_	_	start_char=1898|end_char=1908
+24	and	and	CCONJ	CC	_	23	_	_	start_char=1909|end_char=1912
+25	business	business	NOUN	NN	Number=Sing	24	_	_	start_char=1913|end_char=1921
+26	leaders	leader	NOUN	NNS	Number=Plur	25	_	_	start_char=1922|end_char=1929
+27	say	say	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	_	_	start_char=1930|end_char=1933
+28	that	that	SCONJ	IN	_	27	_	_	start_char=1934|end_char=1938
+29	Americans	American	PROPN	NNPS	Number=Plur	28	_	_	start_char=1939|end_char=1948
+30	should	should	AUX	MD	VerbForm=Fin	29	_	_	start_char=1949|end_char=1955
+31	prepare	prepare	VERB	VB	VerbForm=Inf	30	_	_	start_char=1956|end_char=1963
+32	for	for	ADP	IN	_	31	_	_	start_char=1964|end_char=1967
+33	a	a	DET	DT	Definite=Ind|PronType=Art	32	_	_	start_char=1968|end_char=1969
+34	recession	recession	NOUN	NN	Number=Sing	33	_	_	start_char=1970|end_char=1979
+35	starting	start	VERB	VBG	VerbForm=Ger	34	_	_	start_char=1980|end_char=1988
+36	in	in	ADP	IN	_	35	_	_	start_char=1989|end_char=1991
+37	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	36	_	_	start_char=1992|end_char=1996|SpaceAfter=No
+38	.	.	PUNCT	.	_	37	_	_	start_char=1996|end_char=1997
+
+# text = The Federal Reserve has raised interest rates to their highest levels in decades in order to cool high inflation that reached more than 9 percent in June 2022, though it has since dropped to below 7 percent.
+# sent_id = 16
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1998|end_char=2001
+2	Federal	Federal	ADJ	NNP	Degree=Pos	1	_	_	start_char=2002|end_char=2009
+3	Reserve	Reserve	PROPN	NNP	Number=Sing	2	_	_	start_char=2010|end_char=2017
+4	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=2018|end_char=2021
+5	raised	raise	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=2022|end_char=2028
+6	interest	interest	NOUN	NN	Number=Sing	5	_	_	start_char=2029|end_char=2037
+7	rates	rate	NOUN	NNS	Number=Plur	6	_	_	start_char=2038|end_char=2043
+8	to	to	ADP	IN	_	7	_	_	start_char=2044|end_char=2046
+9	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	8	_	_	start_char=2047|end_char=2052
+10	highest	high	ADJ	JJS	Degree=Sup	9	_	_	start_char=2053|end_char=2060
+11	levels	level	NOUN	NNS	Number=Plur	10	_	_	start_char=2061|end_char=2067
+12	in	in	ADP	IN	_	11	_	_	start_char=2068|end_char=2070
+13	decades	decade	NOUN	NNS	Number=Plur	12	_	_	start_char=2071|end_char=2078
+14	in	in	ADP	IN	_	13	_	_	start_char=2079|end_char=2081
+15	order	order	NOUN	NN	Number=Sing	14	_	_	start_char=2082|end_char=2087
+16	to	to	PART	TO	_	15	_	_	start_char=2088|end_char=2090
+17	cool	cool	VERB	VB	VerbForm=Inf	16	_	_	start_char=2091|end_char=2095
+18	high	high	ADJ	JJ	Degree=Pos	17	_	_	start_char=2096|end_char=2100
+19	inflation	inflation	NOUN	NN	Number=Sing	18	_	_	start_char=2101|end_char=2110
+20	that	that	PRON	WDT	PronType=Rel	19	_	_	start_char=2111|end_char=2115
+21	reached	reach	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	_	_	start_char=2116|end_char=2123
+22	more	more	ADJ	JJR	Degree=Cmp	21	_	_	start_char=2124|end_char=2128
+23	than	than	ADP	IN	_	22	_	_	start_char=2129|end_char=2133
+24	9	9	NUM	CD	NumForm=Digit|NumType=Card	23	_	_	start_char=2134|end_char=2135
+25	percent	percent	NOUN	NN	Number=Sing	24	_	_	start_char=2136|end_char=2143
+26	in	in	ADP	IN	_	25	_	_	start_char=2144|end_char=2146
+27	June	June	PROPN	NNP	Number=Sing	26	_	_	start_char=2147|end_char=2151
+28	2022	2022	NUM	CD	NumForm=Digit|NumType=Card	27	_	_	start_char=2152|end_char=2156|SpaceAfter=No
+29	,	,	PUNCT	,	_	28	_	_	start_char=2156|end_char=2157
+30	though	though	SCONJ	IN	_	29	_	_	start_char=2158|end_char=2164
+31	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	30	_	_	start_char=2165|end_char=2167
+32	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	_	_	start_char=2168|end_char=2171
+33	since	since	ADV	RB	_	32	_	_	start_char=2172|end_char=2177
+34	dropped	drop	VERB	VBN	Tense=Past|VerbForm=Part	33	_	_	start_char=2178|end_char=2185
+35	to	to	ADP	IN	_	34	_	_	start_char=2186|end_char=2188
+36	below	below	ADP	IN	_	35	_	_	start_char=2189|end_char=2194
+37	7	7	NUM	CD	NumForm=Digit|NumType=Card	36	_	_	start_char=2195|end_char=2196
+38	percent	percent	NOUN	NN	Number=Sing	37	_	_	start_char=2197|end_char=2204|SpaceAfter=No
+39	.	.	PUNCT	.	_	38	_	_	start_char=2204|end_char=2205|SpacesAfter=\n\n
+
+# text = “Some economists argue that the strength of the labor maret—as well as household balance sheets—will eep the economy strong enough to avoid a recession,” wrote Lashman Achuthan and Anirvan Banerji, co-founders of the Economic Cycle Research Institute, for CNN’s website.
+# sent_id = 17
+1	“	''	PUNCT	``	_	0	_	_	start_char=2207|end_char=2208|SpaceAfter=No
+2	Some	some	DET	DT	_	1	_	_	start_char=2208|end_char=2212
+3	economists	economist	NOUN	NNS	Number=Plur	2	_	_	start_char=2213|end_char=2223
+4	argue	argue	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=2224|end_char=2229
+5	that	that	SCONJ	IN	_	4	_	_	start_char=2230|end_char=2234
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=2235|end_char=2238
+7	strength	strength	NOUN	NN	Number=Sing	6	_	_	start_char=2239|end_char=2247
+8	of	of	ADP	IN	_	7	_	_	start_char=2248|end_char=2250
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=2251|end_char=2254
+10	labor	labor	NOUN	NN	Number=Sing	9	_	_	start_char=2255|end_char=2260
+11	maret	maret	NOUN	NN	Number=Sing	10	_	_	start_char=2261|end_char=2266|SpaceAfter=No
+12	—	—	PUNCT	:	_	11	_	_	start_char=2266|end_char=2267|SpaceAfter=No
+13	as	as	ADV	RB	_	12	_	_	start_char=2267|end_char=2269
+14	well	well	ADV	RB	Degree=Pos	13	_	_	start_char=2270|end_char=2274
+15	as	as	ADP	IN	_	14	_	_	start_char=2275|end_char=2277
+16	household	household	NOUN	NN	Number=Sing	15	_	_	start_char=2278|end_char=2287
+17	balance	balance	NOUN	NN	Number=Sing	16	_	_	start_char=2288|end_char=2295
+18	sheets	sheet	NOUN	NNS	Number=Plur	17	_	_	start_char=2296|end_char=2302|SpaceAfter=No
+19	—	—	PUNCT	:	_	18	_	_	start_char=2302|end_char=2303|SpaceAfter=No
+20	will	will	AUX	MD	VerbForm=Fin	19	_	_	start_char=2303|end_char=2307
+21	eep	eep	VERB	VB	VerbForm=Inf	20	_	_	start_char=2308|end_char=2311
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=2312|end_char=2315
+23	economy	economy	NOUN	NN	Number=Sing	22	_	_	start_char=2316|end_char=2323
+24	strong	strong	ADJ	JJ	Degree=Pos	23	_	_	start_char=2324|end_char=2330
+25	enough	enough	ADV	RB	_	24	_	_	start_char=2331|end_char=2337
+26	to	to	PART	TO	_	25	_	_	start_char=2338|end_char=2340
+27	avoid	avoid	VERB	VB	VerbForm=Inf	26	_	_	start_char=2341|end_char=2346
+28	a	a	DET	DT	Definite=Ind|PronType=Art	27	_	_	start_char=2347|end_char=2348
+29	recession	recession	NOUN	NN	Number=Sing	28	_	_	start_char=2349|end_char=2358|SpaceAfter=No
+30	,	,	PUNCT	,	_	29	_	_	start_char=2358|end_char=2359|SpaceAfter=No
+31	”	''	PUNCT	''	_	30	_	_	start_char=2359|end_char=2360
+32	wrote	write	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	31	_	_	start_char=2361|end_char=2366
+33	Lashman	Lashman	PROPN	NNP	Number=Sing	32	_	_	start_char=2367|end_char=2374
+34	Achuthan	Achuthan	PROPN	NNP	Number=Sing	33	_	_	start_char=2375|end_char=2383
+35	and	and	CCONJ	CC	_	34	_	_	start_char=2384|end_char=2387
+36	Anirvan	Anirvan	PROPN	NNP	Number=Sing	35	_	_	start_char=2388|end_char=2395
+37	Banerji	Banerji	PROPN	NNP	Number=Sing	36	_	_	start_char=2396|end_char=2403|SpaceAfter=No
+38	,	,	PUNCT	,	_	37	_	_	start_char=2403|end_char=2404
+39	co-founders	co-founder	NOUN	NNS	Number=Plur	38	_	_	start_char=2405|end_char=2416
+40	of	of	ADP	IN	_	39	_	_	start_char=2417|end_char=2419
+41	the	the	DET	DT	Definite=Def|PronType=Art	40	_	_	start_char=2420|end_char=2423
+42	Economic	Economic	ADJ	NNP	Degree=Pos	41	_	_	start_char=2424|end_char=2432
+43	Cycle	Cycle	PROPN	NNP	Number=Sing	42	_	_	start_char=2433|end_char=2438
+44	Research	Research	PROPN	NNP	Number=Sing	43	_	_	start_char=2439|end_char=2447
+45	Institute	Institute	PROPN	NNP	Number=Sing	44	_	_	start_char=2448|end_char=2457|SpaceAfter=No
+46	,	,	PUNCT	,	_	45	_	_	start_char=2457|end_char=2458
+47	for	for	ADP	IN	_	46	_	_	start_char=2459|end_char=2462
+48-49	CNN’s	_	_	_	_	_	_	_	start_char=2463|end_char=2468
+48	CNN	CNN	PROPN	NNP	Number=Sing	47	_	_	start_char=2463|end_char=2466
+49	’s	's	PART	POS	_	48	_	_	start_char=2466|end_char=2468
+50	website	website	NOUN	NN	Number=Sing	49	_	_	start_char=2469|end_char=2476|SpaceAfter=No
+51	.	.	PUNCT	.	_	50	_	_	start_char=2476|end_char=2477
+
+# text = “We disagree,” they wrote, saying that “it remains our expectation that the U.S. economy will enter a recession this year.”
+# sent_id = 18
+1	“	''	PUNCT	``	_	0	_	_	start_char=2478|end_char=2479|SpaceAfter=No
+2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	1	_	_	start_char=2479|end_char=2481
+3	disagree	disagree	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2482|end_char=2490|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=2490|end_char=2491|SpaceAfter=No
+5	”	''	PUNCT	''	_	4	_	_	start_char=2491|end_char=2492
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	_	_	start_char=2493|end_char=2497
+7	wrote	write	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=2498|end_char=2503|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=2503|end_char=2504
+9	saying	say	VERB	VBG	VerbForm=Ger	8	_	_	start_char=2505|end_char=2511
+10	that	that	SCONJ	IN	_	9	_	_	start_char=2512|end_char=2516
+11	“	''	PUNCT	``	_	10	_	_	start_char=2517|end_char=2518|SpaceAfter=No
+12	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	_	_	start_char=2518|end_char=2520
+13	remains	remain	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=2521|end_char=2528
+14	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	13	_	_	start_char=2529|end_char=2532
+15	expectation	expectation	NOUN	NN	Number=Sing	14	_	_	start_char=2533|end_char=2544
+16	that	that	SCONJ	IN	_	15	_	_	start_char=2545|end_char=2549
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=2550|end_char=2553
+18	U.S.	U.S.	PROPN	NNP	Number=Sing	17	_	_	start_char=2554|end_char=2558
+19	economy	economy	NOUN	NN	Number=Sing	18	_	_	start_char=2559|end_char=2566
+20	will	will	AUX	MD	VerbForm=Fin	19	_	_	start_char=2567|end_char=2571
+21	enter	enter	VERB	VB	VerbForm=Inf	20	_	_	start_char=2572|end_char=2577
+22	a	a	DET	DT	Definite=Ind|PronType=Art	21	_	_	start_char=2578|end_char=2579
+23	recession	recession	NOUN	NN	Number=Sing	22	_	_	start_char=2580|end_char=2589
+24	this	this	DET	DT	Number=Sing|PronType=Dem	23	_	_	start_char=2590|end_char=2594
+25	year	year	NOUN	NN	Number=Sing	24	_	_	start_char=2595|end_char=2599|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=2599|end_char=2600|SpaceAfter=No
+27	”	''	PUNCT	''	_	26	_	_	start_char=2600|end_char=2601|SpacesAfter=\n\n
+
+# text = “I’m confident that Microsoft will emerge from this stronger and more competitive,” Microsoft CEO Satya Nadella told employees in a memo on company’s website on Wednesday.
+# sent_id = 19
+1	“	''	PUNCT	``	_	0	_	_	start_char=2603|end_char=2604|SpaceAfter=No
+2-3	I’m	_	_	_	_	_	_	_	start_char=2604|end_char=2607
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	_	_	start_char=2604|end_char=2605
+3	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2605|end_char=2607
+4	confident	confident	ADJ	JJ	Degree=Pos	3	_	_	start_char=2608|end_char=2617
+5	that	that	SCONJ	IN	_	4	_	_	start_char=2618|end_char=2622
+6	Microsoft	Microsoft	PROPN	NNP	Number=Sing	5	_	_	start_char=2623|end_char=2632
+7	will	will	AUX	MD	VerbForm=Fin	6	_	_	start_char=2633|end_char=2637
+8	emerge	emerge	VERB	VB	VerbForm=Inf	7	_	_	start_char=2638|end_char=2644
+9	from	from	ADP	IN	_	8	_	_	start_char=2645|end_char=2649
+10	this	this	PRON	DT	Number=Sing|PronType=Dem	9	_	_	start_char=2650|end_char=2654
+11	stronger	strong	ADJ	JJR	Degree=Cmp	10	_	_	start_char=2655|end_char=2663
+12	and	and	CCONJ	CC	_	11	_	_	start_char=2664|end_char=2667
+13	more	more	ADV	RBR	Degree=Cmp	12	_	_	start_char=2668|end_char=2672
+14	competitive	competitive	ADJ	JJ	Degree=Pos	13	_	_	start_char=2673|end_char=2684|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=2684|end_char=2685|SpaceAfter=No
+16	”	''	PUNCT	''	_	15	_	_	start_char=2685|end_char=2686
+17	Microsoft	Microsoft	PROPN	NNP	Number=Sing	16	_	_	start_char=2687|end_char=2696
+18	CEO	ceo	NOUN	NN	Number=Sing	17	_	_	start_char=2697|end_char=2700
+19	Satya	Satya	PROPN	NNP	Number=Sing	18	_	_	start_char=2701|end_char=2706
+20	Nadella	Nadella	PROPN	NNP	Number=Sing	19	_	_	start_char=2707|end_char=2714
+21	told	tell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	_	_	start_char=2715|end_char=2719
+22	employees	employee	NOUN	NNS	Number=Plur	21	_	_	start_char=2720|end_char=2729
+23	in	in	ADP	IN	_	22	_	_	start_char=2730|end_char=2732
+24	a	a	DET	DT	Definite=Ind|PronType=Art	23	_	_	start_char=2733|end_char=2734
+25	memo	memo	NOUN	NN	Number=Sing	24	_	_	start_char=2735|end_char=2739
+26	on	on	ADP	IN	_	25	_	_	start_char=2740|end_char=2742
+27-28	company’s	_	_	_	_	_	_	_	start_char=2743|end_char=2752
+27	company	company	NOUN	NN	Number=Sing	26	_	_	start_char=2743|end_char=2750
+28	’s	's	PART	POS	_	27	_	_	start_char=2750|end_char=2752
+29	website	website	NOUN	NN	Number=Sing	28	_	_	start_char=2753|end_char=2760
+30	on	on	ADP	IN	_	29	_	_	start_char=2761|end_char=2763
+31	Wednesday	Wednesday	PROPN	NNP	Number=Sing	30	_	_	start_char=2764|end_char=2773|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=2773|end_char=2774|SpacesAfter=\n\n
+
+# text = Other tech firms, such as Amazon, Meta, Alphabet, Salesforce, and Twitter, have announced similar moves in recent wees.
+# sent_id = 20
+1	Other	other	ADJ	JJ	Degree=Pos	0	_	_	start_char=2776|end_char=2781
+2	tech	tech	NOUN	NN	Number=Sing	1	_	_	start_char=2782|end_char=2786
+3	firms	firm	NOUN	NNS	Number=Plur	2	_	_	start_char=2787|end_char=2792|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=2792|end_char=2793
+5	such	such	ADJ	JJ	Degree=Pos	4	_	_	start_char=2794|end_char=2798
+6	as	as	ADP	IN	_	5	_	_	start_char=2799|end_char=2801
+7	Amazon	Amazon	PROPN	NNP	Number=Sing	6	_	_	start_char=2802|end_char=2808|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=2808|end_char=2809
+9	Meta	Meta	PROPN	NNP	Number=Sing	8	_	_	start_char=2810|end_char=2814|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=2814|end_char=2815
+11	Alphabet	alphabet	PROPN	NNP	Number=Sing	10	_	_	start_char=2816|end_char=2824|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=2824|end_char=2825
+13	Salesforce	Salesforce	PROPN	NNP	Number=Sing	12	_	_	start_char=2826|end_char=2836|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=2836|end_char=2837
+15	and	and	CCONJ	CC	_	14	_	_	start_char=2838|end_char=2841
+16	Twitter	Twitter	PROPN	NNP	Number=Sing	15	_	_	start_char=2842|end_char=2849|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=2849|end_char=2850
+18	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=2851|end_char=2855
+19	announced	announce	VERB	VBN	Tense=Past|VerbForm=Part	18	_	_	start_char=2856|end_char=2865
+20	similar	similar	ADJ	JJ	Degree=Pos	19	_	_	start_char=2866|end_char=2873
+21	moves	move	NOUN	NNS	Number=Plur	20	_	_	start_char=2874|end_char=2879
+22	in	in	ADP	IN	_	21	_	_	start_char=2880|end_char=2882
+23	recent	recent	ADJ	JJ	Degree=Pos	22	_	_	start_char=2883|end_char=2889
+24	wees	wee	NOUN	NNS	Number=Plur	23	_	_	start_char=2890|end_char=2894|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=2894|end_char=2895
+
+# text = Microsoft, based in Redmond, Washington, had 221,000 full-time employees as of June 30, 2022, according to government filings.
+# sent_id = 21
+1	Microsoft	Microsoft	PROPN	NNP	Number=Sing	0	_	_	start_char=2896|end_char=2905|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=2905|end_char=2906
+3	based	base	VERB	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=2907|end_char=2912
+4	in	in	ADP	IN	_	3	_	_	start_char=2913|end_char=2915
+5	Redmond	Redmond	PROPN	NNP	Number=Sing	4	_	_	start_char=2916|end_char=2923|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=2923|end_char=2924
+7	Washington	Washington	PROPN	NNP	Number=Sing	6	_	_	start_char=2925|end_char=2935|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=2935|end_char=2936
+9	had	have	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=2937|end_char=2940
+10	221,000	221000	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=2941|end_char=2948
+11	full	full	ADJ	JJ	Degree=Pos	10	_	_	start_char=2949|end_char=2953|SpaceAfter=No
+12	-	-	PUNCT	HYPH	_	11	_	_	start_char=2953|end_char=2954|SpaceAfter=No
+13	time	time	NOUN	NN	Number=Sing	12	_	_	start_char=2954|end_char=2958
+14	employees	employee	NOUN	NNS	Number=Plur	13	_	_	start_char=2959|end_char=2968
+15	as	as	ADP	IN	_	14	_	_	start_char=2969|end_char=2971
+16	of	of	ADP	IN	_	15	_	_	start_char=2972|end_char=2974
+17	June	June	PROPN	NNP	Number=Sing	16	_	_	start_char=2975|end_char=2979
+18	30	30	NUM	CD	NumForm=Digit|NumType=Card	17	_	_	start_char=2980|end_char=2982|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=2982|end_char=2983
+20	2022	2022	NUM	CD	NumForm=Digit|NumType=Card	19	_	_	start_char=2984|end_char=2988|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=2988|end_char=2989
+22	according	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	21	_	_	start_char=2990|end_char=2999
+23	to	to	ADP	IN	_	22	_	_	start_char=3000|end_char=3002
+24	government	government	NOUN	NN	Number=Sing	23	_	_	start_char=3003|end_char=3013
+25	filings	filing	NOUN	NNS	Number=Plur	24	_	_	start_char=3014|end_char=3021|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=3021|end_char=3022|SpaceAfter=No
+

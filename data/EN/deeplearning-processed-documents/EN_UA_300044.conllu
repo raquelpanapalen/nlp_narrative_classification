@@ -1,0 +1,522 @@
+# text = Fed Drives a Stae Into Own Rate-Setting 'Newthin'
+# sent_id = 0
+1	Fed	fed	VERB	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=0|end_char=3
+2	Drives	drive	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=4|end_char=10
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=11|end_char=12
+4	Stae	stae	NOUN	NN	Number=Sing	3	_	_	start_char=13|end_char=17
+5	Into	into	ADP	IN	_	4	_	_	start_char=18|end_char=22
+6	Own	own	ADJ	JJ	Degree=Pos	5	_	_	start_char=23|end_char=26
+7	Rate-	rate-	NOUN	NN	Number=Sing	6	_	_	start_char=27|end_char=32|SpaceAfter=No
+8	Setting	setting	NOUN	NN	Number=Sing	7	_	_	start_char=32|end_char=39
+9	'	'	PUNCT	``	_	8	_	_	start_char=40|end_char=41|SpaceAfter=No
+10	Newthin'	Newthin'	PROPN	NNP	Number=Sing	9	_	_	start_char=41|end_char=49|SpacesAfter=\s\n\n\s
+
+# text = Rest in peace, flexible average inflation targeting.
+# sent_id = 1
+1	Rest	Rest	VERB	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=53|end_char=57
+2	in	in	ADP	IN	_	1	_	_	start_char=58|end_char=60
+3	peace	peace	NOUN	NN	Number=Sing	2	_	_	start_char=61|end_char=66|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=66|end_char=67
+5	flexible	flexible	ADJ	JJ	Degree=Pos	4	_	_	start_char=68|end_char=76
+6	average	average	ADJ	JJ	Degree=Pos	5	_	_	start_char=77|end_char=84
+7	inflation	inflation	NOUN	NN	Number=Sing	6	_	_	start_char=85|end_char=94
+8	targeting	target	VERB	VBG	VerbForm=Ger	7	_	_	start_char=95|end_char=104|SpaceAfter=No
+9	.	.	PUNCT	.	_	8	_	_	start_char=104|end_char=105
+
+# text = The Federal Reserve raised interest rates by 0.75 percentage points on Wednesday, spurred into the biggest single move since 1994 by surging prices.
+# sent_id = 2
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=106|end_char=109
+2	Federal	Federal	ADJ	NNP	Degree=Pos	1	_	_	start_char=110|end_char=117
+3	Reserve	Reserve	PROPN	NNP	Number=Sing	2	_	_	start_char=118|end_char=125
+4	raised	raise	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=126|end_char=132
+5	interest	interest	NOUN	NN	Number=Sing	4	_	_	start_char=133|end_char=141
+6	rates	rate	NOUN	NNS	Number=Plur	5	_	_	start_char=142|end_char=147
+7	by	by	ADP	IN	_	6	_	_	start_char=148|end_char=150
+8	0.75	0.75	NUM	CD	NumForm=Digit|NumType=Card	7	_	_	start_char=151|end_char=155
+9	percentage	percentage	NOUN	NN	Number=Sing	8	_	_	start_char=156|end_char=166
+10	points	point	NOUN	NNS	Number=Plur	9	_	_	start_char=167|end_char=173
+11	on	on	ADP	IN	_	10	_	_	start_char=174|end_char=176
+12	Wednesday	Wednesday	PROPN	NNP	Number=Sing	11	_	_	start_char=177|end_char=186|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=186|end_char=187
+14	spurred	spur	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	13	_	_	start_char=188|end_char=195
+15	into	into	ADP	IN	_	14	_	_	start_char=196|end_char=200
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=201|end_char=204
+17	biggest	big	ADJ	JJS	Degree=Sup	16	_	_	start_char=205|end_char=212
+18	single	single	ADJ	JJ	Degree=Pos	17	_	_	start_char=213|end_char=219
+19	move	move	NOUN	NN	Number=Sing	18	_	_	start_char=220|end_char=224
+20	since	since	ADP	IN	_	19	_	_	start_char=225|end_char=230
+21	1994	1994	NUM	CD	NumForm=Digit|NumType=Card	20	_	_	start_char=231|end_char=235
+22	by	by	ADP	IN	_	21	_	_	start_char=236|end_char=238
+23	surging	surge	VERB	VBG	VerbForm=Ger	22	_	_	start_char=239|end_char=246
+24	prices	price	NOUN	NNS	Number=Plur	23	_	_	start_char=247|end_char=253|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=253|end_char=254|SpacesAfter=\n\n
+
+# text = That may not ill inflation – but it does effectively ill Chair Jay Powell’s 2-year-old push to emphasize inclusive employment.
+# sent_id = 3
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=256|end_char=260
+2	may	may	AUX	MD	VerbForm=Fin	1	_	_	start_char=261|end_char=264
+3	not	not	PART	RB	_	2	_	_	start_char=265|end_char=268
+4	ill	ill	ADJ	JJ	Degree=Pos	3	_	_	start_char=269|end_char=272
+5	inflation	inflation	NOUN	NN	Number=Sing	4	_	_	start_char=273|end_char=282
+6	–	-	PUNCT	:	_	5	_	_	start_char=283|end_char=284
+7	but	but	CCONJ	CC	_	6	_	_	start_char=285|end_char=288
+8	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	_	_	start_char=289|end_char=291
+9	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=292|end_char=296
+10	effectively	effectively	ADV	RB	_	9	_	_	start_char=297|end_char=308
+11	ill	ill	ADJ	JJ	Degree=Pos	10	_	_	start_char=309|end_char=312
+12	Chair	Chair	PROPN	NNP	Number=Sing	11	_	_	start_char=313|end_char=318
+13	Jay	Jay	PROPN	NNP	Number=Sing	12	_	_	start_char=319|end_char=322
+14-15	Powell’s	_	_	_	_	_	_	_	start_char=323|end_char=331
+14	Powell	Powell	PROPN	NNP	Number=Sing	13	_	_	start_char=323|end_char=329
+15	’s	's	PART	POS	_	14	_	_	start_char=329|end_char=331
+16	2	2	NUM	CD	NumForm=Digit|NumType=Card	15	_	_	start_char=332|end_char=333|SpaceAfter=No
+17	-	-	PUNCT	HYPH	_	16	_	_	start_char=333|end_char=334|SpaceAfter=No
+18	year	year	NOUN	NN	Number=Sing	17	_	_	start_char=334|end_char=338|SpaceAfter=No
+19	-	-	PUNCT	HYPH	_	18	_	_	start_char=338|end_char=339|SpaceAfter=No
+20	old	old	ADJ	JJ	Degree=Pos	19	_	_	start_char=339|end_char=342
+21	push	push	NOUN	NN	Number=Sing	20	_	_	start_char=343|end_char=347
+22	to	to	PART	TO	_	21	_	_	start_char=348|end_char=350
+23	emphasize	emphasize	VERB	VB	VerbForm=Inf	22	_	_	start_char=351|end_char=360
+24	inclusive	inclusive	ADJ	JJ	Degree=Pos	23	_	_	start_char=361|end_char=370
+25	employment	employment	NOUN	NN	Number=Sing	24	_	_	start_char=371|end_char=381|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=381|end_char=382|SpacesAfter=\n\n
+
+# text = In the end, rising prices forced Powell’s hand.
+# sent_id = 4
+1	In	in	ADP	IN	_	0	_	_	start_char=384|end_char=386
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=387|end_char=390
+3	end	end	NOUN	NN	Number=Sing	2	_	_	start_char=391|end_char=394|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=394|end_char=395
+5	rising	rise	VERB	VBG	VerbForm=Ger	4	_	_	start_char=396|end_char=402
+6	prices	price	NOUN	NNS	Number=Plur	5	_	_	start_char=403|end_char=409
+7	forced	force	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=410|end_char=416
+8-9	Powell’s	_	_	_	_	_	_	_	start_char=417|end_char=425
+8	Powell	Powell	PROPN	NNP	Number=Sing	7	_	_	start_char=417|end_char=423
+9	’s	's	PART	POS	_	8	_	_	start_char=423|end_char=425
+10	hand	hand	NOUN	NN	Number=Sing	9	_	_	start_char=426|end_char=430|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=430|end_char=431
+
+# text = In May, the Fed chief had said he favored steady 0.5 percentage-point rate increases to contain inflation.
+# sent_id = 5
+1	In	in	ADP	IN	_	0	_	_	start_char=432|end_char=434
+2	May	May	PROPN	NNP	Number=Sing	1	_	_	start_char=435|end_char=438|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=438|end_char=439
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=440|end_char=443
+5	Fed	Fed	PROPN	NNP	Number=Sing	4	_	_	start_char=444|end_char=447
+6	chief	chief	NOUN	NN	Number=Sing	5	_	_	start_char=448|end_char=453
+7	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=454|end_char=457
+8	said	say	VERB	VBN	Tense=Past|VerbForm=Part	7	_	_	start_char=458|end_char=462
+9	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	_	_	start_char=463|end_char=465
+10	favored	favor	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=466|end_char=473
+11	steady	steady	ADJ	JJ	Degree=Pos	10	_	_	start_char=474|end_char=480
+12	0.5	0.5	NUM	CD	NumForm=Digit|NumType=Frac	11	_	_	start_char=481|end_char=484
+13	percentage	percentage	NOUN	NN	Number=Sing	12	_	_	start_char=485|end_char=495|SpaceAfter=No
+14	-	-	PUNCT	HYPH	_	13	_	_	start_char=495|end_char=496|SpaceAfter=No
+15	point	point	NOUN	NN	Number=Sing	14	_	_	start_char=496|end_char=501
+16	rate	rate	NOUN	NN	Number=Sing	15	_	_	start_char=502|end_char=506
+17	increases	increase	NOUN	NNS	Number=Plur	16	_	_	start_char=507|end_char=516
+18	to	to	PART	TO	_	17	_	_	start_char=517|end_char=519
+19	contain	contain	VERB	VB	VerbForm=Inf	18	_	_	start_char=520|end_char=527
+20	inflation	inflation	NOUN	NN	Number=Sing	19	_	_	start_char=528|end_char=537|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=537|end_char=538
+
+# text = But then Labor Department data showed consumer prices rising 8.6% year-over-year, the fastest pace since 1981.
+# sent_id = 6
+1	But	but	CCONJ	CC	_	0	_	_	start_char=539|end_char=542
+2	then	then	ADV	RB	PronType=Dem	1	_	_	start_char=543|end_char=547
+3	Labor	Labor	PROPN	NNP	Number=Sing	2	_	_	start_char=548|end_char=553
+4	Department	Department	PROPN	NNP	Number=Sing	3	_	_	start_char=554|end_char=564
+5	data	datum	NOUN	NNS	Number=Plur	4	_	_	start_char=565|end_char=569
+6	showed	show	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=570|end_char=576
+7	consumer	consumer	NOUN	NN	Number=Sing	6	_	_	start_char=577|end_char=585
+8	prices	price	NOUN	NNS	Number=Plur	7	_	_	start_char=586|end_char=592
+9	rising	rise	VERB	VBG	VerbForm=Ger	8	_	_	start_char=593|end_char=599
+10	8.6	8.6	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=600|end_char=603|SpaceAfter=No
+11	%	%	SYM	NN	Number=Sing	10	_	_	start_char=603|end_char=604
+12	year	year	NOUN	NN	Number=Sing	11	_	_	start_char=605|end_char=609|SpaceAfter=No
+13	-	-	PUNCT	HYPH	_	12	_	_	start_char=609|end_char=610|SpaceAfter=No
+14	over	over	ADV	RB	_	13	_	_	start_char=610|end_char=614|SpaceAfter=No
+15	-	-	PUNCT	HYPH	_	14	_	_	start_char=614|end_char=615|SpaceAfter=No
+16	year	year	NOUN	NN	Number=Sing	15	_	_	start_char=615|end_char=619|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=619|end_char=620
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=621|end_char=624
+19	fastest	fast	ADJ	JJS	Degree=Sup	18	_	_	start_char=625|end_char=632
+20	pace	pace	NOUN	NN	Number=Sing	19	_	_	start_char=633|end_char=637
+21	since	since	ADP	IN	_	20	_	_	start_char=638|end_char=643
+22	1981	1981	NUM	CD	NumForm=Digit|NumType=Card	21	_	_	start_char=644|end_char=648|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=648|end_char=649
+
+# text = And Americans’ median expectations for inflation in May 2023 increased, according to a New Yor Fed survey released on Monday.
+# sent_id = 7
+1	And	and	CCONJ	CC	_	0	_	_	start_char=650|end_char=653
+2-3	Americans’	_	_	_	_	_	_	_	start_char=654|end_char=664
+2	Americans	American	PROPN	NNPS	Number=Plur	1	_	_	start_char=654|end_char=663
+3	’	's	PART	POS	_	2	_	_	start_char=663|end_char=664
+4	median	median	ADJ	JJ	Degree=Pos	3	_	_	start_char=665|end_char=671
+5	expectations	expectation	NOUN	NNS	Number=Plur	4	_	_	start_char=672|end_char=684
+6	for	for	ADP	IN	_	5	_	_	start_char=685|end_char=688
+7	inflation	inflation	NOUN	NN	Number=Sing	6	_	_	start_char=689|end_char=698
+8	in	in	ADP	IN	_	7	_	_	start_char=699|end_char=701
+9	May	May	PROPN	NNP	Number=Sing	8	_	_	start_char=702|end_char=705
+10	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=706|end_char=710
+11	increased	increase	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=711|end_char=720|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=720|end_char=721
+13	according	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	12	_	_	start_char=722|end_char=731
+14	to	to	ADP	IN	_	13	_	_	start_char=732|end_char=734
+15	a	a	DET	DT	Definite=Ind|PronType=Art	14	_	_	start_char=735|end_char=736
+16	New	New	ADJ	NNP	Degree=Pos	15	_	_	start_char=737|end_char=740
+17	Yor	Yor	PROPN	NNP	Number=Sing	16	_	_	start_char=741|end_char=744
+18	Fed	Fed	PROPN	NNP	Number=Sing	17	_	_	start_char=745|end_char=748
+19	survey	survey	NOUN	NN	Number=Sing	18	_	_	start_char=749|end_char=755
+20	released	release	VERB	VBN	Tense=Past|VerbForm=Part	19	_	_	start_char=756|end_char=764
+21	on	on	ADP	IN	_	20	_	_	start_char=765|end_char=767
+22	Monday	Monday	PROPN	NNP	Number=Sing	21	_	_	start_char=768|end_char=774|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=774|end_char=775|SpacesAfter=\n\n
+
+# text = That has made the Fed’s newish framewor, flexible average inflation targeting, acronym FAIT, untenable.
+# sent_id = 8
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=777|end_char=781
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=782|end_char=785
+3	made	make	VERB	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=786|end_char=790
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=791|end_char=794
+5-6	Fed’s	_	_	_	_	_	_	_	start_char=795|end_char=800
+5	Fed	Fed	PROPN	NNP	Number=Sing	4	_	_	start_char=795|end_char=798
+6	’s	's	PART	POS	_	5	_	_	start_char=798|end_char=800
+7	newish	newish	ADJ	JJ	Degree=Pos	6	_	_	start_char=801|end_char=807
+8	framewor	framewor	NOUN	NN	Number=Sing	7	_	_	start_char=808|end_char=816|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=816|end_char=817
+10	flexible	flexible	ADJ	JJ	Degree=Pos	9	_	_	start_char=818|end_char=826
+11	average	average	ADJ	JJ	Degree=Pos	10	_	_	start_char=827|end_char=834
+12	inflation	inflation	NOUN	NN	Number=Sing	11	_	_	start_char=835|end_char=844
+13	targeting	target	NOUN	NN	Number=Sing	12	_	_	start_char=845|end_char=854|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=854|end_char=855
+15	acronym	acronym	NOUN	NN	Number=Sing	14	_	_	start_char=856|end_char=863
+16	FAIT	FAIT	PROPN	NNP	Number=Sing	15	_	_	start_char=864|end_char=868|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=868|end_char=869
+18	untenable	untenable	ADJ	JJ	Degree=Pos	17	_	_	start_char=870|end_char=879|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=879|end_char=880
+
+# text = Bac in 2020, Powell said that after years of inflation below the central ban’s 2% target, it would shift to a new, flexible approach.
+# sent_id = 9
+1	Bac	Bac	PROPN	NNP	Number=Sing	0	_	_	start_char=881|end_char=884
+2	in	in	ADP	IN	_	1	_	_	start_char=885|end_char=887
+3	2020	2020	NUM	CD	NumForm=Digit|NumType=Card	2	_	_	start_char=888|end_char=892|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=892|end_char=893
+5	Powell	Powell	PROPN	NNP	Number=Sing	4	_	_	start_char=894|end_char=900
+6	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=901|end_char=905
+7	that	that	SCONJ	IN	_	6	_	_	start_char=906|end_char=910
+8	after	after	ADP	IN	_	7	_	_	start_char=911|end_char=916
+9	years	year	NOUN	NNS	Number=Plur	8	_	_	start_char=917|end_char=922
+10	of	of	ADP	IN	_	9	_	_	start_char=923|end_char=925
+11	inflation	inflation	NOUN	NN	Number=Sing	10	_	_	start_char=926|end_char=935
+12	below	below	ADP	IN	_	11	_	_	start_char=936|end_char=941
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=942|end_char=945
+14	central	central	ADJ	JJ	Degree=Pos	13	_	_	start_char=946|end_char=953
+15-16	ban’s	_	_	_	_	_	_	_	start_char=954|end_char=959
+15	ban	ban	NOUN	NN	Number=Sing	14	_	_	start_char=954|end_char=957
+16	’s	's	PART	POS	_	15	_	_	start_char=957|end_char=959
+17	2	2	NUM	CD	NumForm=Digit|NumType=Card	16	_	_	start_char=960|end_char=961|SpaceAfter=No
+18	%	%	SYM	NN	Number=Sing	17	_	_	start_char=961|end_char=962
+19	target	target	NOUN	NN	Number=Sing	18	_	_	start_char=963|end_char=969|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=969|end_char=970
+21	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	20	_	_	start_char=971|end_char=973
+22	would	would	AUX	MD	VerbForm=Fin	21	_	_	start_char=974|end_char=979
+23	shift	shift	VERB	VB	VerbForm=Inf	22	_	_	start_char=980|end_char=985
+24	to	to	ADP	IN	_	23	_	_	start_char=986|end_char=988
+25	a	a	DET	DT	Definite=Ind|PronType=Art	24	_	_	start_char=989|end_char=990
+26	new	new	ADJ	JJ	Degree=Pos	25	_	_	start_char=991|end_char=994|SpaceAfter=No
+27	,	,	PUNCT	,	_	26	_	_	start_char=994|end_char=995
+28	flexible	flexible	ADJ	JJ	Degree=Pos	27	_	_	start_char=996|end_char=1004
+29	approach	approach	NOUN	NN	Number=Sing	28	_	_	start_char=1005|end_char=1013|SpaceAfter=No
+30	.	.	PUNCT	.	_	29	_	_	start_char=1013|end_char=1014|SpacesAfter=\n\n
+
+# text = Rates would be allowed to stay near zero, even if inflation went above 2% for a while, to mae sure the economy was creating enough jobs for groups lie Blac worers, who are often the last to benefit from economic expansions and who weren’t considered separately in the old ways of rate-setting.
+# sent_id = 10
+1	Rates	rate	NOUN	NNS	Number=Plur	0	_	_	start_char=1016|end_char=1021
+2	would	would	AUX	MD	VerbForm=Fin	1	_	_	start_char=1022|end_char=1027
+3	be	be	AUX	VB	VerbForm=Inf	2	_	_	start_char=1028|end_char=1030
+4	allowed	allow	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=1031|end_char=1038
+5	to	to	PART	TO	_	4	_	_	start_char=1039|end_char=1041
+6	stay	stay	VERB	VB	VerbForm=Inf	5	_	_	start_char=1042|end_char=1046
+7	near	near	ADP	IN	_	6	_	_	start_char=1047|end_char=1051
+8	zero	zero	NUM	CD	NumForm=Word|NumType=Card	7	_	_	start_char=1052|end_char=1056|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1056|end_char=1057
+10	even	even	ADV	RB	_	9	_	_	start_char=1058|end_char=1062
+11	if	if	SCONJ	IN	_	10	_	_	start_char=1063|end_char=1065
+12	inflation	inflation	NOUN	NN	Number=Sing	11	_	_	start_char=1066|end_char=1075
+13	went	go	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=1076|end_char=1080
+14	above	above	ADP	IN	_	13	_	_	start_char=1081|end_char=1086
+15	2	2	NUM	CD	NumForm=Digit|NumType=Card	14	_	_	start_char=1087|end_char=1088|SpaceAfter=No
+16	%	%	SYM	NN	Number=Sing	15	_	_	start_char=1088|end_char=1089
+17	for	for	ADP	IN	_	16	_	_	start_char=1090|end_char=1093
+18	a	a	DET	DT	Definite=Ind|PronType=Art	17	_	_	start_char=1094|end_char=1095
+19	while	while	NOUN	NN	Number=Sing	18	_	_	start_char=1096|end_char=1101|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=1101|end_char=1102
+21	to	to	PART	TO	_	20	_	_	start_char=1103|end_char=1105
+22	mae	marr	VERB	VB	VerbForm=Inf	21	_	_	start_char=1106|end_char=1109
+23	sure	sure	ADJ	JJ	Degree=Pos	22	_	_	start_char=1110|end_char=1114
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=1115|end_char=1118
+25	economy	economy	NOUN	NN	Number=Sing	24	_	_	start_char=1119|end_char=1126
+26	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	_	_	start_char=1127|end_char=1130
+27	creating	create	VERB	VBG	Tense=Pres|VerbForm=Part	26	_	_	start_char=1131|end_char=1139
+28	enough	enough	ADJ	JJ	Degree=Pos	27	_	_	start_char=1140|end_char=1146
+29	jobs	job	NOUN	NNS	Number=Plur	28	_	_	start_char=1147|end_char=1151
+30	for	for	ADP	IN	_	29	_	_	start_char=1152|end_char=1155
+31	groups	group	NOUN	NNS	Number=Plur	30	_	_	start_char=1156|end_char=1162
+32	lie	lie	VERB	VB	VerbForm=Inf	31	_	_	start_char=1163|end_char=1166
+33	Blac	Blac	PROPN	NNP	Number=Sing	32	_	_	start_char=1167|end_char=1171
+34	worers	worer	NOUN	NNS	Number=Plur	33	_	_	start_char=1172|end_char=1178|SpaceAfter=No
+35	,	,	PUNCT	,	_	34	_	_	start_char=1178|end_char=1179
+36	who	who	PRON	WP	PronType=Rel	35	_	_	start_char=1180|end_char=1183
+37	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	36	_	_	start_char=1184|end_char=1187
+38	often	often	ADV	RB	_	37	_	_	start_char=1188|end_char=1193
+39	the	the	DET	DT	Definite=Def|PronType=Art	38	_	_	start_char=1194|end_char=1197
+40	last	last	ADJ	JJ	Degree=Pos	39	_	_	start_char=1198|end_char=1202
+41	to	to	PART	TO	_	40	_	_	start_char=1203|end_char=1205
+42	benefit	benefit	VERB	VB	VerbForm=Inf	41	_	_	start_char=1206|end_char=1213
+43	from	from	ADP	IN	_	42	_	_	start_char=1214|end_char=1218
+44	economic	economic	ADJ	JJ	Degree=Pos	43	_	_	start_char=1219|end_char=1227
+45	expansions	expansion	NOUN	NNS	Number=Plur	44	_	_	start_char=1228|end_char=1238
+46	and	and	CCONJ	CC	_	45	_	_	start_char=1239|end_char=1242
+47	who	who	PRON	WP	PronType=Rel	46	_	_	start_char=1243|end_char=1246
+48-49	weren’t	_	_	_	_	_	_	_	start_char=1247|end_char=1254
+48	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	47	_	_	start_char=1247|end_char=1251
+49	n’t	not	PART	RB	_	48	_	_	start_char=1251|end_char=1254
+50	considered	consider	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	49	_	_	start_char=1255|end_char=1265
+51	separately	separately	ADV	RB	_	50	_	_	start_char=1266|end_char=1276
+52	in	in	ADP	IN	_	51	_	_	start_char=1277|end_char=1279
+53	the	the	DET	DT	Definite=Def|PronType=Art	52	_	_	start_char=1280|end_char=1283
+54	old	old	ADJ	JJ	Degree=Pos	53	_	_	start_char=1284|end_char=1287
+55	ways	way	NOUN	NNS	Number=Plur	54	_	_	start_char=1288|end_char=1292
+56	of	of	ADP	IN	_	55	_	_	start_char=1293|end_char=1295
+57	rate	rate	NOUN	NN	Number=Sing	56	_	_	start_char=1296|end_char=1300|SpaceAfter=No
+58	-	-	PUNCT	HYPH	_	57	_	_	start_char=1300|end_char=1301|SpaceAfter=No
+59	setting	setting	NOUN	NN	Number=Sing	58	_	_	start_char=1301|end_char=1308|SpaceAfter=No
+60	.	.	PUNCT	.	_	59	_	_	start_char=1308|end_char=1309|SpacesAfter=\n\n
+
+# text = Aggressively raising rates now riss leaving those worers in the lurch.
+# sent_id = 11
+1	Aggressively	aggressively	ADV	RB	_	0	_	_	start_char=1311|end_char=1323
+2	raising	raising	NOUN	NN	Number=Sing	1	_	_	start_char=1324|end_char=1331
+3	rates	rate	NOUN	NNS	Number=Plur	2	_	_	start_char=1332|end_char=1337
+4	now	now	ADV	RB	_	3	_	_	start_char=1338|end_char=1341
+5	riss	riss	ADV	RB	_	4	_	_	start_char=1342|end_char=1346
+6	leaving	leave	VERB	VBG	VerbForm=Ger	5	_	_	start_char=1347|end_char=1354
+7	those	that	DET	DT	Number=Plur|PronType=Dem	6	_	_	start_char=1355|end_char=1360
+8	worers	worer	NOUN	NNS	Number=Plur	7	_	_	start_char=1361|end_char=1367
+9	in	in	ADP	IN	_	8	_	_	start_char=1368|end_char=1370
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=1371|end_char=1374
+11	lurch	lurch	NOUN	NN	Number=Sing	10	_	_	start_char=1375|end_char=1380|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=1380|end_char=1381
+
+# text = The unemployment rate for Blac Americans in May was 6.2% compared to the overall 3.6% level and 3.2% for white employees.
+# sent_id = 12
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1382|end_char=1385
+2	unemployment	unemployment	NOUN	NN	Number=Sing	1	_	_	start_char=1386|end_char=1398
+3	rate	rate	NOUN	NN	Number=Sing	2	_	_	start_char=1399|end_char=1403
+4	for	for	ADP	IN	_	3	_	_	start_char=1404|end_char=1407
+5	Blac	Blac	PROPN	NNP	Number=Sing	4	_	_	start_char=1408|end_char=1412
+6	Americans	American	PROPN	NNPS	Number=Plur	5	_	_	start_char=1413|end_char=1422
+7	in	in	ADP	IN	_	6	_	_	start_char=1423|end_char=1425
+8	May	May	PROPN	NNP	Number=Sing	7	_	_	start_char=1426|end_char=1429
+9	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=1430|end_char=1433
+10	6.2	6.2	NUM	CD	NumForm=Digit|NumType=Frac	9	_	_	start_char=1434|end_char=1437|SpaceAfter=No
+11	%	%	SYM	NN	Number=Sing	10	_	_	start_char=1437|end_char=1438
+12	compared	compare	VERB	VBN	Tense=Past|VerbForm=Part	11	_	_	start_char=1439|end_char=1447
+13	to	to	ADP	IN	_	12	_	_	start_char=1448|end_char=1450
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=1451|end_char=1454
+15	overall	overall	ADJ	JJ	Degree=Pos	14	_	_	start_char=1455|end_char=1462
+16	3.6	3.6	NUM	CD	NumForm=Digit|NumType=Card	15	_	_	start_char=1463|end_char=1466|SpaceAfter=No
+17	%	%	SYM	NN	Number=Sing	16	_	_	start_char=1466|end_char=1467
+18	level	level	NOUN	NN	Number=Sing	17	_	_	start_char=1468|end_char=1473
+19	and	and	CCONJ	CC	_	18	_	_	start_char=1474|end_char=1477
+20	3.2	3.2	NUM	CD	NumForm=Digit|NumType=Card	19	_	_	start_char=1478|end_char=1481|SpaceAfter=No
+21	%	%	SYM	NN	Number=Sing	20	_	_	start_char=1481|end_char=1482
+22	for	for	ADP	IN	_	21	_	_	start_char=1483|end_char=1486
+23	white	white	ADJ	JJ	Degree=Pos	22	_	_	start_char=1487|end_char=1492
+24	employees	employee	NOUN	NNS	Number=Plur	23	_	_	start_char=1493|end_char=1502|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=1502|end_char=1503|SpacesAfter=\n\n
+
+# text = And now the Fed projects the jobless pace will tic up the next few years.
+# sent_id = 13
+1	And	and	CCONJ	CC	_	0	_	_	start_char=1505|end_char=1508
+2	now	now	ADV	RB	_	1	_	_	start_char=1509|end_char=1512
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1513|end_char=1516
+4	Fed	Fed	PROPN	NNP	Number=Sing	3	_	_	start_char=1517|end_char=1520
+5	projects	project	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1521|end_char=1529
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1530|end_char=1533
+7	jobless	jobless	NOUN	NN	Number=Sing	6	_	_	start_char=1534|end_char=1541
+8	pace	pace	NOUN	NN	Number=Sing	7	_	_	start_char=1542|end_char=1546
+9	will	will	AUX	MD	VerbForm=Fin	8	_	_	start_char=1547|end_char=1551
+10	tic	tic	VERB	VB	VerbForm=Inf	9	_	_	start_char=1552|end_char=1555
+11	up	up	ADP	RP	_	10	_	_	start_char=1556|end_char=1558
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=1559|end_char=1562
+13	next	next	ADJ	JJ	Degree=Pos	12	_	_	start_char=1563|end_char=1567
+14	few	few	ADJ	JJ	Degree=Pos	13	_	_	start_char=1568|end_char=1571
+15	years	year	NOUN	NNS	Number=Plur	14	_	_	start_char=1572|end_char=1577|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=1577|end_char=1578
+
+# text = Elsewhere, expectations for debt delinquencies went up from April to May for those with an education level of a high school degree or less, according to the New Yor Fed survey.
+# sent_id = 14
+1	Elsewhere	elsewhere	ADV	RB	_	0	_	_	start_char=1579|end_char=1588|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=1588|end_char=1589
+3	expectations	expectation	NOUN	NNS	Number=Plur	2	_	_	start_char=1590|end_char=1602
+4	for	for	ADP	IN	_	3	_	_	start_char=1603|end_char=1606
+5	debt	debt	NOUN	NN	Number=Sing	4	_	_	start_char=1607|end_char=1611
+6	delinquencies	delinquency	NOUN	NNS	Number=Plur	5	_	_	start_char=1612|end_char=1625
+7	went	go	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=1626|end_char=1630
+8	up	up	ADP	RP	_	7	_	_	start_char=1631|end_char=1633
+9	from	from	ADP	IN	_	8	_	_	start_char=1634|end_char=1638
+10	April	April	PROPN	NNP	Number=Sing	9	_	_	start_char=1639|end_char=1644
+11	to	to	ADP	IN	_	10	_	_	start_char=1645|end_char=1647
+12	May	May	PROPN	NNP	Number=Sing	11	_	_	start_char=1648|end_char=1651
+13	for	for	ADP	IN	_	12	_	_	start_char=1652|end_char=1655
+14	those	that	PRON	DT	Number=Plur|PronType=Dem	13	_	_	start_char=1656|end_char=1661
+15	with	with	ADP	IN	_	14	_	_	start_char=1662|end_char=1666
+16	an	a	DET	DT	Definite=Ind|PronType=Art	15	_	_	start_char=1667|end_char=1669
+17	education	education	NOUN	NN	Number=Sing	16	_	_	start_char=1670|end_char=1679
+18	level	level	NOUN	NN	Number=Sing	17	_	_	start_char=1680|end_char=1685
+19	of	of	ADP	IN	_	18	_	_	start_char=1686|end_char=1688
+20	a	a	DET	DT	Definite=Ind|PronType=Art	19	_	_	start_char=1689|end_char=1690
+21	high	high	ADJ	JJ	Degree=Pos	20	_	_	start_char=1691|end_char=1695
+22	school	school	NOUN	NN	Number=Sing	21	_	_	start_char=1696|end_char=1702
+23	degree	degree	NOUN	NN	Number=Sing	22	_	_	start_char=1703|end_char=1709
+24	or	or	CCONJ	CC	_	23	_	_	start_char=1710|end_char=1712
+25	less	less	ADJ	JJR	Degree=Cmp	24	_	_	start_char=1713|end_char=1717|SpaceAfter=No
+26	,	,	PUNCT	,	_	25	_	_	start_char=1717|end_char=1718
+27	according	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	26	_	_	start_char=1719|end_char=1728
+28	to	to	ADP	IN	_	27	_	_	start_char=1729|end_char=1731
+29	the	the	DET	DT	Definite=Def|PronType=Art	28	_	_	start_char=1732|end_char=1735
+30	New	New	ADJ	NNP	Degree=Pos	29	_	_	start_char=1736|end_char=1739
+31	Yor	Yor	PROPN	NNP	Number=Sing	30	_	_	start_char=1740|end_char=1743
+32	Fed	Fed	PROPN	NNP	Number=Sing	31	_	_	start_char=1744|end_char=1747
+33	survey	survey	NOUN	NN	Number=Sing	32	_	_	start_char=1748|end_char=1754|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=1754|end_char=1755
+
+# text = It will be for politicians, not central baners, to decide how best to help those left behind.
+# sent_id = 15
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1756|end_char=1758
+2	will	will	AUX	MD	VerbForm=Fin	1	_	_	start_char=1759|end_char=1763
+3	be	be	AUX	VB	VerbForm=Inf	2	_	_	start_char=1764|end_char=1766
+4	for	for	ADP	IN	_	3	_	_	start_char=1767|end_char=1770
+5	politicians	politician	NOUN	NNS	Number=Plur	4	_	_	start_char=1771|end_char=1782|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=1782|end_char=1783
+7	not	not	PART	RB	_	6	_	_	start_char=1784|end_char=1787
+8	central	central	ADJ	JJ	Degree=Pos	7	_	_	start_char=1788|end_char=1795
+9	baners	baner	NOUN	NNS	Number=Plur	8	_	_	start_char=1796|end_char=1802|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=1802|end_char=1803
+11	to	to	PART	TO	_	10	_	_	start_char=1804|end_char=1806
+12	decide	decide	VERB	VB	VerbForm=Inf	11	_	_	start_char=1807|end_char=1813
+13	how	how	ADV	WRB	PronType=Int	12	_	_	start_char=1814|end_char=1817
+14	best	good	ADJ	JJS	Degree=Sup	13	_	_	start_char=1818|end_char=1822
+15	to	to	PART	TO	_	14	_	_	start_char=1823|end_char=1825
+16	help	help	VERB	VB	VerbForm=Inf	15	_	_	start_char=1826|end_char=1830
+17	those	that	PRON	DT	Number=Plur|PronType=Dem	16	_	_	start_char=1831|end_char=1836
+18	left	leave	VERB	VBN	Tense=Past|VerbForm=Part	17	_	_	start_char=1837|end_char=1841
+19	behind	behind	ADV	RB	_	18	_	_	start_char=1842|end_char=1848|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=1848|end_char=1849|SpacesAfter=\n\n
+
+# text = There may still be room for Powell to innovate – for example, revisiting the 2% inflation target.
+# sent_id = 16
+1	There	there	PRON	EX	_	0	_	_	start_char=1851|end_char=1856
+2	may	may	AUX	MD	VerbForm=Fin	1	_	_	start_char=1857|end_char=1860
+3	still	still	ADV	RB	_	2	_	_	start_char=1861|end_char=1866
+4	be	be	VERB	VB	VerbForm=Inf	3	_	_	start_char=1867|end_char=1869
+5	room	room	NOUN	NN	Number=Sing	4	_	_	start_char=1870|end_char=1874
+6	for	for	SCONJ	IN	_	5	_	_	start_char=1875|end_char=1878
+7	Powell	Powell	PROPN	NNP	Number=Sing	6	_	_	start_char=1879|end_char=1885
+8	to	to	PART	TO	_	7	_	_	start_char=1886|end_char=1888
+9	innovate	innovate	VERB	VB	VerbForm=Inf	8	_	_	start_char=1889|end_char=1897
+10	–	-	PUNCT	:	_	9	_	_	start_char=1898|end_char=1899
+11	for	for	ADP	IN	_	10	_	_	start_char=1900|end_char=1903
+12	example	example	NOUN	NN	Number=Sing	11	_	_	start_char=1904|end_char=1911|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=1911|end_char=1912
+14	revisiting	revisit	VERB	VBG	VerbForm=Ger	13	_	_	start_char=1913|end_char=1923
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=1924|end_char=1927
+16	2	2	NUM	CD	NumForm=Digit|NumType=Card	15	_	_	start_char=1928|end_char=1929|SpaceAfter=No
+17	%	%	SYM	NN	Number=Sing	16	_	_	start_char=1929|end_char=1930
+18	inflation	inflation	NOUN	NN	Number=Sing	17	_	_	start_char=1931|end_char=1940
+19	target	target	NOUN	NN	Number=Sing	18	_	_	start_char=1941|end_char=1947|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=1947|end_char=1948
+
+# text = The Fed failed to hit that on the way up for years, but the pandemic, trade wars and Russia’s invasion of Uraine may have permanently altered supply chains and spending patterns.
+# sent_id = 17
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1949|end_char=1952
+2	Fed	Fed	PROPN	NNP	Number=Sing	1	_	_	start_char=1953|end_char=1956
+3	failed	fail	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1957|end_char=1963
+4	to	to	PART	TO	_	3	_	_	start_char=1964|end_char=1966
+5	hit	hit	VERB	VB	VerbForm=Inf	4	_	_	start_char=1967|end_char=1970
+6	that	that	PRON	DT	Number=Sing|PronType=Dem	5	_	_	start_char=1971|end_char=1975
+7	on	on	ADP	IN	_	6	_	_	start_char=1976|end_char=1978
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=1979|end_char=1982
+9	way	way	NOUN	NN	Number=Sing	8	_	_	start_char=1983|end_char=1986
+10	up	up	ADP	RP	_	9	_	_	start_char=1987|end_char=1989
+11	for	for	ADP	IN	_	10	_	_	start_char=1990|end_char=1993
+12	years	year	NOUN	NNS	Number=Plur	11	_	_	start_char=1994|end_char=1999|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=1999|end_char=2000
+14	but	but	CCONJ	CC	_	13	_	_	start_char=2001|end_char=2004
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=2005|end_char=2008
+16	pandemic	pandemic	NOUN	NN	Number=Sing	15	_	_	start_char=2009|end_char=2017|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=2017|end_char=2018
+18	trade	trade	NOUN	NN	Number=Sing	17	_	_	start_char=2019|end_char=2024
+19	wars	war	NOUN	NNS	Number=Plur	18	_	_	start_char=2025|end_char=2029
+20	and	and	CCONJ	CC	_	19	_	_	start_char=2030|end_char=2033
+21-22	Russia’s	_	_	_	_	_	_	_	start_char=2034|end_char=2042
+21	Russia	Russia	PROPN	NNP	Number=Sing	20	_	_	start_char=2034|end_char=2040
+22	’s	's	PART	POS	_	21	_	_	start_char=2040|end_char=2042
+23	invasion	invasion	NOUN	NN	Number=Sing	22	_	_	start_char=2043|end_char=2051
+24	of	of	ADP	IN	_	23	_	_	start_char=2052|end_char=2054
+25	Uraine	Uraine	PROPN	NNP	Number=Sing	24	_	_	start_char=2055|end_char=2061
+26	may	may	AUX	MD	VerbForm=Fin	25	_	_	start_char=2062|end_char=2065
+27	have	have	VERB	VB	VerbForm=Inf	26	_	_	start_char=2066|end_char=2070
+28	permanently	permanently	ADV	RB	_	27	_	_	start_char=2071|end_char=2082
+29	altered	alter	VERB	VBN	Tense=Past|VerbForm=Part	28	_	_	start_char=2083|end_char=2090
+30	supply	supply	NOUN	NN	Number=Sing	29	_	_	start_char=2091|end_char=2097
+31	chains	chain	NOUN	NNS	Number=Plur	30	_	_	start_char=2098|end_char=2104
+32	and	and	CCONJ	CC	_	31	_	_	start_char=2105|end_char=2108
+33	spending	spending	NOUN	NN	Number=Sing	32	_	_	start_char=2109|end_char=2117
+34	patterns	pattern	NOUN	NNS	Number=Plur	33	_	_	start_char=2118|end_char=2126|SpaceAfter=No
+35	.	.	PUNCT	.	_	34	_	_	start_char=2126|end_char=2127|SpacesAfter=\n\n
+
+# text = The central ban’s June median projection for inflation this year is higher than in March at 5.2%.
+# sent_id = 18
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2129|end_char=2132
+2	central	central	ADJ	JJ	Degree=Pos	1	_	_	start_char=2133|end_char=2140
+3-4	ban’s	_	_	_	_	_	_	_	start_char=2141|end_char=2146
+3	ban	ban	NOUN	NN	Number=Sing	2	_	_	start_char=2141|end_char=2144
+4	’s	's	PART	POS	_	3	_	_	start_char=2144|end_char=2146
+5	June	June	PROPN	NNP	Number=Sing	4	_	_	start_char=2147|end_char=2151
+6	median	median	ADJ	JJ	Degree=Pos	5	_	_	start_char=2152|end_char=2158
+7	projection	projection	NOUN	NN	Number=Sing	6	_	_	start_char=2159|end_char=2169
+8	for	for	ADP	IN	_	7	_	_	start_char=2170|end_char=2173
+9	inflation	inflation	NOUN	NN	Number=Sing	8	_	_	start_char=2174|end_char=2183
+10	this	this	DET	DT	Number=Sing|PronType=Dem	9	_	_	start_char=2184|end_char=2188
+11	year	year	NOUN	NN	Number=Sing	10	_	_	start_char=2189|end_char=2193
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=2194|end_char=2196
+13	higher	high	ADJ	JJR	Degree=Cmp	12	_	_	start_char=2197|end_char=2203
+14	than	than	ADP	IN	_	13	_	_	start_char=2204|end_char=2208
+15	in	in	ADP	IN	_	14	_	_	start_char=2209|end_char=2211
+16	March	March	PROPN	NNP	Number=Sing	15	_	_	start_char=2212|end_char=2217
+17	at	at	ADP	IN	_	16	_	_	start_char=2218|end_char=2220
+18	5.2	5.2	NUM	CD	NumForm=Digit|NumType=Card	17	_	_	start_char=2221|end_char=2224|SpaceAfter=No
+19	%	%	SYM	NN	Number=Sing	18	_	_	start_char=2224|end_char=2225|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=2225|end_char=2226|SpacesAfter=\n\n
+
+# text = Even so, all newthin is best left until prices have found their level.
+# sent_id = 19
+1	Even	even	ADV	RB	_	0	_	_	start_char=2228|end_char=2232
+2	so	so	ADV	RB	_	1	_	_	start_char=2233|end_char=2235|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=2235|end_char=2236
+4	all	all	DET	DT	_	3	_	_	start_char=2237|end_char=2240
+5	newthin	newthin	NOUN	NN	Number=Sing	4	_	_	start_char=2241|end_char=2248
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=2249|end_char=2251
+7	best	well	ADV	RBS	Degree=Sup	6	_	_	start_char=2252|end_char=2256
+8	left	leave	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	_	_	start_char=2257|end_char=2261
+9	until	until	SCONJ	IN	_	8	_	_	start_char=2262|end_char=2267
+10	prices	price	NOUN	NNS	Number=Plur	9	_	_	start_char=2268|end_char=2274
+11	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=2275|end_char=2279
+12	found	find	VERB	VBN	Tense=Past|VerbForm=Part	11	_	_	start_char=2280|end_char=2285
+13	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	12	_	_	start_char=2286|end_char=2291
+14	level	level	NOUN	NN	Number=Sing	13	_	_	start_char=2292|end_char=2297|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=2297|end_char=2298|SpaceAfter=No
+

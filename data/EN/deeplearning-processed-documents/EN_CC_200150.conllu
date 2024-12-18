@@ -1,0 +1,712 @@
+# text = Despite Yields Doubling, NYTimes Claims Vanilla
+# sent_id = 0
+1	Despite	despite	ADP	IN	_	0	_	_	start_char=0|end_char=7
+2	Yields	yield	NOUN	NNS	Number=Plur	1	_	_	start_char=8|end_char=14
+3	Doubling	doubling	NOUN	NN	Number=Sing	2	_	_	start_char=15|end_char=23|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=23|end_char=24
+5	NYTimes	NYTimes	PROPN	NNP	Number=Sing	4	_	_	start_char=25|end_char=32
+6	Claims	claim	NOUN	NNS	Number=Plur	5	_	_	start_char=33|end_char=39
+7	Vanilla	vanilla	NOUN	NN	Number=Sing	6	_	_	start_char=40|end_char=47
+
+# text = Is Disappearing From Climate Change
+# sent_id = 1
+1	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	start_char=48|end_char=50
+2	Disappearing	disappear	VERB	VBG	Tense=Pres|VerbForm=Part	1	_	_	start_char=51|end_char=63
+3	From	from	ADP	IN	_	2	_	_	start_char=64|end_char=68
+4	Climate	Climate	PROPN	NNP	Number=Sing	3	_	_	start_char=69|end_char=76
+5	Change	Change	PROPN	NNP	Number=Sing	4	_	_	start_char=77|end_char=83|SpacesAfter=\s\n\n\s
+
+# text = The New Yor Times is attempting to stoe climate alarm this wee with an article claiming the world’s favorite scent – vanilla – is about to disappear because climate change is eradicating vanilla plants.
+# sent_id = 2
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=87|end_char=90
+2	New	New	PROPN	NNP	Number=Sing	1	_	_	start_char=91|end_char=94
+3	Yor	Yor	PROPN	NNP	Number=Sing	2	_	_	start_char=95|end_char=98
+4	Times	Times	PROPN	NNP	Number=Sing	3	_	_	start_char=99|end_char=104
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=105|end_char=107
+6	attempting	attempt	VERB	VBG	Tense=Pres|VerbForm=Part	5	_	_	start_char=108|end_char=118
+7	to	to	PART	TO	_	6	_	_	start_char=119|end_char=121
+8	stoe	stoe	VERB	VB	VerbForm=Inf	7	_	_	start_char=122|end_char=126
+9	climate	climate	NOUN	NN	Number=Sing	8	_	_	start_char=127|end_char=134
+10	alarm	alarm	NOUN	NN	Number=Sing	9	_	_	start_char=135|end_char=140
+11	this	this	DET	DT	Number=Sing|PronType=Dem	10	_	_	start_char=141|end_char=145
+12	wee	wee	NOUN	NN	Number=Sing	11	_	_	start_char=146|end_char=149
+13	with	with	ADP	IN	_	12	_	_	start_char=150|end_char=154
+14	an	a	DET	DT	Definite=Ind|PronType=Art	13	_	_	start_char=155|end_char=157
+15	article	article	NOUN	NN	Number=Sing	14	_	_	start_char=158|end_char=165
+16	claiming	claim	VERB	VBG	VerbForm=Ger	15	_	_	start_char=166|end_char=174
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=175|end_char=178
+18-19	world’s	_	_	_	_	_	_	_	start_char=179|end_char=186
+18	world	world	NOUN	NN	Number=Sing	17	_	_	start_char=179|end_char=184
+19	’s	's	PART	POS	_	18	_	_	start_char=184|end_char=186
+20	favorite	favorite	ADJ	JJ	Degree=Pos	19	_	_	start_char=187|end_char=195
+21	scent	scent	NOUN	NN	Number=Sing	20	_	_	start_char=196|end_char=201
+22	–	-	PUNCT	:	_	21	_	_	start_char=202|end_char=203
+23	vanilla	vanilla	NOUN	NN	Number=Sing	22	_	_	start_char=204|end_char=211
+24	–	-	PUNCT	:	_	23	_	_	start_char=212|end_char=213
+25	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	_	_	start_char=214|end_char=216
+26	about	about	ADJ	JJ	Degree=Pos	25	_	_	start_char=217|end_char=222
+27	to	to	PART	TO	_	26	_	_	start_char=223|end_char=225
+28	disappear	disappear	VERB	VB	VerbForm=Inf	27	_	_	start_char=226|end_char=235
+29	because	because	SCONJ	IN	_	28	_	_	start_char=236|end_char=243
+30	climate	climate	NOUN	NN	Number=Sing	29	_	_	start_char=244|end_char=251
+31	change	change	NOUN	NN	Number=Sing	30	_	_	start_char=252|end_char=258
+32	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	_	_	start_char=259|end_char=261
+33	eradicating	eradicate	VERB	VBG	Tense=Pres|VerbForm=Part	32	_	_	start_char=262|end_char=273
+34	vanilla	vanilla	NOUN	NN	Number=Sing	33	_	_	start_char=274|end_char=281
+35	plants	plant	NOUN	NNS	Number=Plur	34	_	_	start_char=282|end_char=288|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=288|end_char=289
+
+# text = [emphasis, lins added]
+# sent_id = 3
+1	[	[	PUNCT	-LRB-	_	0	_	_	start_char=290|end_char=291|SpaceAfter=No
+2	emphasis	emphasis	NOUN	NN	Number=Sing	1	_	_	start_char=291|end_char=299|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=299|end_char=300
+4	lins	lin	NOUN	NNS	Number=Plur	3	_	_	start_char=301|end_char=305
+5	added	add	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=306|end_char=311|SpaceAfter=No
+6	]	]	PUNCT	-RRB-	_	5	_	_	start_char=311|end_char=312|SpacesAfter=\n\n
+
+# text = In reality, objective data show vanilla production has doubled since the year 2000, and the current maret is saturated with oversupply.
+# sent_id = 4
+1	In	in	ADP	IN	_	0	_	_	start_char=314|end_char=316
+2	reality	reality	NOUN	NN	Number=Sing	1	_	_	start_char=317|end_char=324|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=324|end_char=325
+4	objective	objective	ADJ	JJ	Degree=Pos	3	_	_	start_char=326|end_char=335
+5	data	datum	NOUN	NNS	Number=Plur	4	_	_	start_char=336|end_char=340
+6	show	show	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=341|end_char=345
+7	vanilla	vanilla	NOUN	NN	Number=Sing	6	_	_	start_char=346|end_char=353
+8	production	production	NOUN	NN	Number=Sing	7	_	_	start_char=354|end_char=364
+9	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=365|end_char=368
+10	doubled	double	VERB	VBN	Tense=Past|VerbForm=Part	9	_	_	start_char=369|end_char=376
+11	since	since	ADP	IN	_	10	_	_	start_char=377|end_char=382
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=383|end_char=386
+13	year	year	NOUN	NN	Number=Sing	12	_	_	start_char=387|end_char=391
+14	2000	2000	NUM	CD	NumForm=Digit|NumType=Card	13	_	_	start_char=392|end_char=396|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=396|end_char=397
+16	and	and	CCONJ	CC	_	15	_	_	start_char=398|end_char=401
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=402|end_char=405
+18	current	current	ADJ	JJ	Degree=Pos	17	_	_	start_char=406|end_char=413
+19	maret	maret	NOUN	NN	Number=Sing	18	_	_	start_char=414|end_char=419
+20	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	_	_	start_char=420|end_char=422
+21	saturated	saturate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	20	_	_	start_char=423|end_char=432
+22	with	with	ADP	IN	_	21	_	_	start_char=433|end_char=437
+23	oversupply	oversupply	NOUN	NN	Number=Sing	22	_	_	start_char=438|end_char=448|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=448|end_char=449|SpacesAfter=\n\n
+
+# text = The Times article, “This Is How the World’s Favorite Scent Disappears,” notes vanilla is the world’s favorite scent and is used in a wide variety of perfumes and other products.
+# sent_id = 5
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=451|end_char=454
+2	Times	Times	PROPN	NNP	Number=Sing	1	_	_	start_char=455|end_char=460
+3	article	article	NOUN	NN	Number=Sing	2	_	_	start_char=461|end_char=468|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=468|end_char=469
+5	“	''	PUNCT	``	_	4	_	_	start_char=470|end_char=471|SpaceAfter=No
+6	This	this	PRON	DT	Number=Sing|PronType=Dem	5	_	_	start_char=471|end_char=475
+7	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=476|end_char=478
+8	How	how	ADV	WRB	PronType=Int	7	_	_	start_char=479|end_char=482
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=483|end_char=486
+10-11	World’s	_	_	_	_	_	_	_	start_char=487|end_char=494
+10	World	world	NOUN	NN	Number=Sing	9	_	_	start_char=487|end_char=492
+11	’s	's	PART	POS	_	10	_	_	start_char=492|end_char=494
+12	Favorite	favorite	ADJ	JJ	Degree=Pos	11	_	_	start_char=495|end_char=503
+13	Scent	scent	NOUN	NN	Number=Sing	12	_	_	start_char=504|end_char=509
+14	Disappears	disappear	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=510|end_char=520|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=520|end_char=521|SpaceAfter=No
+16	”	''	PUNCT	''	_	15	_	_	start_char=521|end_char=522
+17	notes	note	NOUN	NNS	Number=Plur	16	_	_	start_char=523|end_char=528
+18	vanilla	vanilla	NOUN	NN	Number=Sing	17	_	_	start_char=529|end_char=536
+19	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=537|end_char=539
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=540|end_char=543
+21-22	world’s	_	_	_	_	_	_	_	start_char=544|end_char=551
+21	world	world	NOUN	NN	Number=Sing	20	_	_	start_char=544|end_char=549
+22	’s	's	PART	POS	_	21	_	_	start_char=549|end_char=551
+23	favorite	favorite	ADJ	JJ	Degree=Pos	22	_	_	start_char=552|end_char=560
+24	scent	scent	NOUN	NN	Number=Sing	23	_	_	start_char=561|end_char=566
+25	and	and	CCONJ	CC	_	24	_	_	start_char=567|end_char=570
+26	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	_	_	start_char=571|end_char=573
+27	used	use	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	26	_	_	start_char=574|end_char=578
+28	in	in	ADP	IN	_	27	_	_	start_char=579|end_char=581
+29	a	a	DET	DT	Definite=Ind|PronType=Art	28	_	_	start_char=582|end_char=583
+30	wide	wide	ADJ	JJ	Degree=Pos	29	_	_	start_char=584|end_char=588
+31	variety	variety	NOUN	NN	Number=Sing	30	_	_	start_char=589|end_char=596
+32	of	of	ADP	IN	_	31	_	_	start_char=597|end_char=599
+33	perfumes	perfume	NOUN	NNS	Number=Plur	32	_	_	start_char=600|end_char=608
+34	and	and	CCONJ	CC	_	33	_	_	start_char=609|end_char=612
+35	other	other	ADJ	JJ	Degree=Pos	34	_	_	start_char=613|end_char=618
+36	products	product	NOUN	NNS	Number=Plur	35	_	_	start_char=619|end_char=627|SpaceAfter=No
+37	.	.	PUNCT	.	_	36	_	_	start_char=627|end_char=628|SpacesAfter=\n\n
+
+# text = Citing anecdotal events lie a cyclone that hit Madagascar several years ago during its annual cyclone season, the Times claims supersized cyclones are putting vanilla plants on the verge of extinction.
+# sent_id = 6
+1	Citing	cite	VERB	VBG	VerbForm=Ger	0	_	_	start_char=630|end_char=636
+2	anecdotal	anecdotal	ADJ	JJ	Degree=Pos	1	_	_	start_char=637|end_char=646
+3	events	event	NOUN	NNS	Number=Plur	2	_	_	start_char=647|end_char=653
+4	lie	lie	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=654|end_char=657
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=658|end_char=659
+6	cyclone	cyclone	NOUN	NN	Number=Sing	5	_	_	start_char=660|end_char=667
+7	that	that	PRON	WDT	PronType=Rel	6	_	_	start_char=668|end_char=672
+8	hit	hit	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=673|end_char=676
+9	Madagascar	Madagascar	PROPN	NNP	Number=Sing	8	_	_	start_char=677|end_char=687
+10	several	several	ADJ	JJ	Degree=Pos	9	_	_	start_char=688|end_char=695
+11	years	year	NOUN	NNS	Number=Plur	10	_	_	start_char=696|end_char=701
+12	ago	ago	ADV	RB	_	11	_	_	start_char=702|end_char=705
+13	during	during	ADP	IN	_	12	_	_	start_char=706|end_char=712
+14	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	_	_	start_char=713|end_char=716
+15	annual	annual	ADJ	JJ	Degree=Pos	14	_	_	start_char=717|end_char=723
+16	cyclone	cyclone	NOUN	NN	Number=Sing	15	_	_	start_char=724|end_char=731
+17	season	season	NOUN	NN	Number=Sing	16	_	_	start_char=732|end_char=738|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=738|end_char=739
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=740|end_char=743
+20	Times	Times	PROPN	NNP	Number=Sing	19	_	_	start_char=744|end_char=749
+21	claims	claim	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	_	_	start_char=750|end_char=756
+22	supersized	supersized	ADJ	JJ	Degree=Pos	21	_	_	start_char=757|end_char=767
+23	cyclones	cyclone	NOUN	NNS	Number=Plur	22	_	_	start_char=768|end_char=776
+24	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	_	_	start_char=777|end_char=780
+25	putting	put	VERB	VBG	Tense=Pres|VerbForm=Part	24	_	_	start_char=781|end_char=788
+26	vanilla	vanilla	NOUN	NN	Number=Sing	25	_	_	start_char=789|end_char=796
+27	plants	plant	NOUN	NNS	Number=Plur	26	_	_	start_char=797|end_char=803
+28	on	on	ADP	IN	_	27	_	_	start_char=804|end_char=806
+29	the	the	DET	DT	Definite=Def|PronType=Art	28	_	_	start_char=807|end_char=810
+30	verge	verge	NOUN	NN	Number=Sing	29	_	_	start_char=811|end_char=816
+31	of	of	ADP	IN	_	30	_	_	start_char=817|end_char=819
+32	extinction	extinction	NOUN	NN	Number=Sing	31	_	_	start_char=820|end_char=830|SpaceAfter=No
+33	.	.	PUNCT	.	_	32	_	_	start_char=830|end_char=831|SpacesAfter=\n\n
+
+# text = Interestingly, although the Times published its article just yesterday, the best anecdotal “evidence” for the asserted vanilla extinction was a cyclone that hit Madagascar way bac in 2017 during its cyclone season.
+# sent_id = 7
+1	Interestingly	interestingly	ADV	RB	_	0	_	_	start_char=833|end_char=846|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=846|end_char=847
+3	although	although	SCONJ	IN	_	2	_	_	start_char=848|end_char=856
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=857|end_char=860
+5	Times	Times	PROPN	NNP	Number=Sing	4	_	_	start_char=861|end_char=866
+6	published	publish	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=867|end_char=876
+7	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	_	_	start_char=877|end_char=880
+8	article	article	NOUN	NN	Number=Sing	7	_	_	start_char=881|end_char=888
+9	just	just	ADV	RB	_	8	_	_	start_char=889|end_char=893
+10	yesterday	yesterday	NOUN	NN	Number=Sing	9	_	_	start_char=894|end_char=903|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=903|end_char=904
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=905|end_char=908
+13	best	good	ADJ	JJS	Degree=Sup	12	_	_	start_char=909|end_char=913
+14	anecdotal	anecdotal	ADJ	JJ	Degree=Pos	13	_	_	start_char=914|end_char=923
+15	“	''	PUNCT	``	_	14	_	_	start_char=924|end_char=925|SpaceAfter=No
+16	evidence	evidence	NOUN	NN	Number=Sing	15	_	_	start_char=925|end_char=933|SpaceAfter=No
+17	”	''	PUNCT	''	_	16	_	_	start_char=933|end_char=934
+18	for	for	ADP	IN	_	17	_	_	start_char=935|end_char=938
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=939|end_char=942
+20	asserted	assert	VERB	VBN	Tense=Past|VerbForm=Part	19	_	_	start_char=943|end_char=951
+21	vanilla	vanilla	NOUN	NN	Number=Sing	20	_	_	start_char=952|end_char=959
+22	extinction	extinction	NOUN	NN	Number=Sing	21	_	_	start_char=960|end_char=970
+23	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	_	_	start_char=971|end_char=974
+24	a	a	DET	DT	Definite=Ind|PronType=Art	23	_	_	start_char=975|end_char=976
+25	cyclone	cyclone	NOUN	NN	Number=Sing	24	_	_	start_char=977|end_char=984
+26	that	that	PRON	WDT	PronType=Rel	25	_	_	start_char=985|end_char=989
+27	hit	hit	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	26	_	_	start_char=990|end_char=993
+28	Madagascar	Madagascar	PROPN	NNP	Number=Sing	27	_	_	start_char=994|end_char=1004
+29	way	way	NOUN	NN	Number=Sing	28	_	_	start_char=1005|end_char=1008
+30	bac	bac	ADV	RB	_	29	_	_	start_char=1009|end_char=1012
+31	in	in	ADP	IN	_	30	_	_	start_char=1013|end_char=1015
+32	2017	2017	NUM	CD	NumForm=Digit|NumType=Card	31	_	_	start_char=1016|end_char=1020
+33	during	during	ADP	IN	_	32	_	_	start_char=1021|end_char=1027
+34	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	33	_	_	start_char=1028|end_char=1031
+35	cyclone	cyclone	NOUN	NN	Number=Sing	34	_	_	start_char=1032|end_char=1039
+36	season	season	NOUN	NN	Number=Sing	35	_	_	start_char=1040|end_char=1046|SpaceAfter=No
+37	.	.	PUNCT	.	_	36	_	_	start_char=1046|end_char=1047|SpacesAfter=\n\n
+
+# text = According to the Times, Madagascar produces 80 percent of the world’s vanilla – actually, it produces significantly less than 80 percent – and:
+# sent_id = 8
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=1049|end_char=1058
+2	to	to	ADP	IN	_	1	_	_	start_char=1059|end_char=1061
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1062|end_char=1065
+4	Times	Times	PROPN	NNP	Number=Sing	3	_	_	start_char=1066|end_char=1071|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=1071|end_char=1072
+6	Madagascar	Madagascar	PROPN	NNP	Number=Sing	5	_	_	start_char=1073|end_char=1083
+7	produces	produce	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=1084|end_char=1092
+8	80	80	NUM	CD	NumForm=Digit|NumType=Card	7	_	_	start_char=1093|end_char=1095
+9	percent	percent	NOUN	NN	Number=Sing	8	_	_	start_char=1096|end_char=1103
+10	of	of	ADP	IN	_	9	_	_	start_char=1104|end_char=1106
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=1107|end_char=1110
+12-13	world’s	_	_	_	_	_	_	_	start_char=1111|end_char=1118
+12	world	world	NOUN	NN	Number=Sing	11	_	_	start_char=1111|end_char=1116
+13	’s	's	PART	POS	_	12	_	_	start_char=1116|end_char=1118
+14	vanilla	vanilla	NOUN	NN	Number=Sing	13	_	_	start_char=1119|end_char=1126
+15	–	-	PUNCT	:	_	14	_	_	start_char=1127|end_char=1128
+16	actually	actually	ADV	RB	_	15	_	_	start_char=1129|end_char=1137|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=1137|end_char=1138
+18	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	_	_	start_char=1139|end_char=1141
+19	produces	produce	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=1142|end_char=1150
+20	significantly	significantly	ADV	RB	_	19	_	_	start_char=1151|end_char=1164
+21	less	less	ADJ	JJR	Degree=Cmp	20	_	_	start_char=1165|end_char=1169
+22	than	than	ADP	IN	_	21	_	_	start_char=1170|end_char=1174
+23	80	80	NUM	CD	NumForm=Digit|NumType=Card	22	_	_	start_char=1175|end_char=1177
+24	percent	percent	NOUN	NN	Number=Sing	23	_	_	start_char=1178|end_char=1185
+25	–	-	PUNCT	:	_	24	_	_	start_char=1186|end_char=1187
+26	and	and	CCONJ	CC	_	25	_	_	start_char=1188|end_char=1191|SpaceAfter=No
+27	:	:	PUNCT	:	_	26	_	_	start_char=1191|end_char=1192|SpacesAfter=\n\n
+
+# text = “As a result [of the 2017 cyclone], the price of vanilla bean pods surged to nearly $300 a pound.
+# sent_id = 9
+1	“	''	PUNCT	``	_	0	_	_	start_char=1194|end_char=1195|SpaceAfter=No
+2	As	as	ADP	IN	_	1	_	_	start_char=1195|end_char=1197
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=1198|end_char=1199
+4	result	result	NOUN	NN	Number=Sing	3	_	_	start_char=1200|end_char=1206
+5	[	[	PUNCT	-LRB-	_	4	_	_	start_char=1207|end_char=1208|SpaceAfter=No
+6	of	of	ADP	IN	_	5	_	_	start_char=1208|end_char=1210
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1211|end_char=1214
+8	2017	2017	NUM	CD	NumForm=Digit|NumType=Card	7	_	_	start_char=1215|end_char=1219
+9	cyclone	cyclone	NOUN	NN	Number=Sing	8	_	_	start_char=1220|end_char=1227|SpaceAfter=No
+10	]	]	PUNCT	-RRB-	_	9	_	_	start_char=1227|end_char=1228|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=1228|end_char=1229
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=1230|end_char=1233
+13	price	price	NOUN	NN	Number=Sing	12	_	_	start_char=1234|end_char=1239
+14	of	of	ADP	IN	_	13	_	_	start_char=1240|end_char=1242
+15	vanilla	vanilla	NOUN	NN	Number=Sing	14	_	_	start_char=1243|end_char=1250
+16	bean	bean	NOUN	NN	Number=Sing	15	_	_	start_char=1251|end_char=1255
+17	pods	pod	NOUN	NNS	Number=Plur	16	_	_	start_char=1256|end_char=1260
+18	surged	surge	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	17	_	_	start_char=1261|end_char=1267
+19	to	to	ADP	IN	_	18	_	_	start_char=1268|end_char=1270
+20	nearly	nearly	ADV	RB	_	19	_	_	start_char=1271|end_char=1277
+21	$	$	SYM	$	_	20	_	_	start_char=1278|end_char=1279|SpaceAfter=No
+22	300	300	NUM	CD	NumForm=Digit|NumType=Card	21	_	_	start_char=1279|end_char=1282
+23	a	a	DET	DT	Definite=Ind|PronType=Art	22	_	_	start_char=1283|end_char=1284
+24	pound	pound	NOUN	NN	Number=Sing	23	_	_	start_char=1285|end_char=1290|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=1290|end_char=1291
+
+# text = The increasingly erratic weather, along with pressure to cut the forests that harbor the orchids, is particularly worrisome for farmers…”
+# sent_id = 10
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1292|end_char=1295
+2	increasingly	increasingly	ADV	RB	_	1	_	_	start_char=1296|end_char=1308
+3	erratic	erratic	ADJ	JJ	Degree=Pos	2	_	_	start_char=1309|end_char=1316
+4	weather	weather	NOUN	NN	Number=Sing	3	_	_	start_char=1317|end_char=1324|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=1324|end_char=1325
+6	along	along	ADP	IN	_	5	_	_	start_char=1326|end_char=1331
+7	with	with	ADP	IN	_	6	_	_	start_char=1332|end_char=1336
+8	pressure	pressure	NOUN	NN	Number=Sing	7	_	_	start_char=1337|end_char=1345
+9	to	to	PART	TO	_	8	_	_	start_char=1346|end_char=1348
+10	cut	cut	VERB	VB	VerbForm=Inf	9	_	_	start_char=1349|end_char=1352
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=1353|end_char=1356
+12	forests	forest	NOUN	NNS	Number=Plur	11	_	_	start_char=1357|end_char=1364
+13	that	that	PRON	WDT	PronType=Rel	12	_	_	start_char=1365|end_char=1369
+14	harbor	harbor	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=1370|end_char=1376
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=1377|end_char=1380
+16	orchids	orchid	NOUN	NNS	Number=Plur	15	_	_	start_char=1381|end_char=1388|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=1388|end_char=1389
+18	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=1390|end_char=1392
+19	particularly	particularly	ADV	RB	_	18	_	_	start_char=1393|end_char=1405
+20	worrisome	worrisome	ADJ	JJ	Degree=Pos	19	_	_	start_char=1406|end_char=1415
+21	for	for	ADP	IN	_	20	_	_	start_char=1416|end_char=1419
+22	farmers	farmer	NOUN	NNS	Number=Plur	21	_	_	start_char=1420|end_char=1427|SpaceAfter=No
+23	…	…	PUNCT	:	_	22	_	_	start_char=1427|end_char=1428|SpaceAfter=No
+24	”	''	PUNCT	''	_	23	_	_	start_char=1428|end_char=1429|SpacesAfter=\n\n
+
+# text = So, why does the Times provide just anecdotal ‘evidence’ of climate change ravaging vanilla crops, and why does the Times have to go bac to 2017 to find any such anecdotal evidence?
+# sent_id = 11
+1	So	so	ADV	RB	_	0	_	_	start_char=1431|end_char=1433|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=1433|end_char=1434
+3	why	why	ADV	WRB	PronType=Int	2	_	_	start_char=1435|end_char=1438
+4	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1439|end_char=1443
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1444|end_char=1447
+6	Times	Times	PROPN	NNP	Number=Plur	5	_	_	start_char=1448|end_char=1453
+7	provide	provide	VERB	VB	VerbForm=Inf	6	_	_	start_char=1454|end_char=1461
+8	just	just	ADV	RB	_	7	_	_	start_char=1462|end_char=1466
+9	anecdotal	anecdotal	ADJ	JJ	Degree=Pos	8	_	_	start_char=1467|end_char=1476
+10	‘	'	PUNCT	``	_	9	_	_	start_char=1477|end_char=1478|SpaceAfter=No
+11	evidence	evidence	NOUN	NN	Number=Sing	10	_	_	start_char=1478|end_char=1486|SpaceAfter=No
+12	’	'	PUNCT	''	_	11	_	_	start_char=1486|end_char=1487
+13	of	of	ADP	IN	_	12	_	_	start_char=1488|end_char=1490
+14	climate	climate	NOUN	NN	Number=Sing	13	_	_	start_char=1491|end_char=1498
+15	change	change	NOUN	NN	Number=Sing	14	_	_	start_char=1499|end_char=1505
+16	ravaging	ravage	VERB	VBG	VerbForm=Ger	15	_	_	start_char=1506|end_char=1514
+17	vanilla	vanilla	NOUN	NN	Number=Sing	16	_	_	start_char=1515|end_char=1522
+18	crops	crop	NOUN	NNS	Number=Plur	17	_	_	start_char=1523|end_char=1528|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=1528|end_char=1529
+20	and	and	CCONJ	CC	_	19	_	_	start_char=1530|end_char=1533
+21	why	why	ADV	WRB	PronType=Int	20	_	_	start_char=1534|end_char=1537
+22	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	_	_	start_char=1538|end_char=1542
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=1543|end_char=1546
+24	Times	Times	PROPN	NNP	Number=Sing	23	_	_	start_char=1547|end_char=1552
+25	have	have	VERB	VB	VerbForm=Inf	24	_	_	start_char=1553|end_char=1557
+26	to	to	PART	TO	_	25	_	_	start_char=1558|end_char=1560
+27	go	go	VERB	VB	VerbForm=Inf	26	_	_	start_char=1561|end_char=1563
+28	bac	bac	ADV	RB	_	27	_	_	start_char=1564|end_char=1567
+29	to	to	ADP	IN	_	28	_	_	start_char=1568|end_char=1570
+30	2017	2017	NUM	CD	NumForm=Digit|NumType=Card	29	_	_	start_char=1571|end_char=1575
+31	to	to	PART	TO	_	30	_	_	start_char=1576|end_char=1578
+32	find	find	VERB	VB	VerbForm=Inf	31	_	_	start_char=1579|end_char=1583
+33	any	any	DET	DT	_	32	_	_	start_char=1584|end_char=1587
+34	such	such	ADJ	JJ	Degree=Pos	33	_	_	start_char=1588|end_char=1592
+35	anecdotal	anecdotal	ADJ	JJ	Degree=Pos	34	_	_	start_char=1593|end_char=1602
+36	evidence	evidence	NOUN	NN	Number=Sing	35	_	_	start_char=1603|end_char=1611|SpaceAfter=No
+37	?	?	PUNCT	.	_	36	_	_	start_char=1611|end_char=1612|SpacesAfter=\n\n
+
+# text = The answer is that objective facts expose the Times’ claim as false.
+# sent_id = 12
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1614|end_char=1617
+2	answer	answer	NOUN	NN	Number=Sing	1	_	_	start_char=1618|end_char=1624
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1625|end_char=1627
+4	that	that	SCONJ	IN	_	3	_	_	start_char=1628|end_char=1632
+5	objective	objective	ADJ	JJ	Degree=Pos	4	_	_	start_char=1633|end_char=1642
+6	facts	fact	NOUN	NNS	Number=Plur	5	_	_	start_char=1643|end_char=1648
+7	expose	expose	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=1649|end_char=1655
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=1656|end_char=1659
+9-10	Times’	_	_	_	_	_	_	_	start_char=1660|end_char=1666
+9	Times	Times	PROPN	NNP	Number=Sing	8	_	_	start_char=1660|end_char=1665
+10	’	's	PART	POS	_	9	_	_	start_char=1665|end_char=1666
+11	claim	claim	NOUN	NN	Number=Sing	10	_	_	start_char=1667|end_char=1672
+12	as	as	ADP	IN	_	11	_	_	start_char=1673|end_char=1675
+13	false	false	ADJ	JJ	Degree=Pos	12	_	_	start_char=1676|end_char=1681|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=1681|end_char=1682|SpacesAfter=\n\n
+
+# text = The United Nations Food and Agriculture Organization provides detailed information on global crop production, including vanilla.
+# sent_id = 13
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1684|end_char=1687
+2	United	United	ADJ	NNP	Degree=Pos	1	_	_	start_char=1688|end_char=1694
+3	Nations	Nation	PROPN	NNPS	Number=Plur	2	_	_	start_char=1695|end_char=1702
+4	Food	Food	PROPN	NNP	Number=Sing	3	_	_	start_char=1703|end_char=1707
+5	and	and	CCONJ	CC	_	4	_	_	start_char=1708|end_char=1711
+6	Agriculture	Agriculture	PROPN	NNP	Number=Sing	5	_	_	start_char=1712|end_char=1723
+7	Organization	Organization	PROPN	NNP	Number=Sing	6	_	_	start_char=1724|end_char=1736
+8	provides	provide	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=1737|end_char=1745
+9	detailed	detailed	ADJ	JJ	Degree=Pos	8	_	_	start_char=1746|end_char=1754
+10	information	information	NOUN	NN	Number=Sing	9	_	_	start_char=1755|end_char=1766
+11	on	on	ADP	IN	_	10	_	_	start_char=1767|end_char=1769
+12	global	global	ADJ	JJ	Degree=Pos	11	_	_	start_char=1770|end_char=1776
+13	crop	crop	NOUN	NN	Number=Sing	12	_	_	start_char=1777|end_char=1781
+14	production	production	NOUN	NN	Number=Sing	13	_	_	start_char=1782|end_char=1792|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=1792|end_char=1793
+16	including	include	VERB	VBG	VerbForm=Ger	15	_	_	start_char=1794|end_char=1803
+17	vanilla	vanilla	NOUN	NN	Number=Sing	16	_	_	start_char=1804|end_char=1811|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=1811|end_char=1812
+
+# text = According to the UN data, global vanilla production has doubled from 3.9 million g of vanilla in 2000 to 7.7 million g in 2022.
+# sent_id = 14
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=1813|end_char=1822
+2	to	to	ADP	IN	_	1	_	_	start_char=1823|end_char=1825
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1826|end_char=1829
+4	UN	UN	PROPN	NNP	Number=Sing	3	_	_	start_char=1830|end_char=1832
+5	data	datum	NOUN	NNS	Number=Plur	4	_	_	start_char=1833|end_char=1837|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=1837|end_char=1838
+7	global	global	ADJ	JJ	Degree=Pos	6	_	_	start_char=1839|end_char=1845
+8	vanilla	vanilla	NOUN	NN	Number=Sing	7	_	_	start_char=1846|end_char=1853
+9	production	production	NOUN	NN	Number=Sing	8	_	_	start_char=1854|end_char=1864
+10	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=1865|end_char=1868
+11	doubled	double	VERB	VBN	Tense=Past|VerbForm=Part	10	_	_	start_char=1869|end_char=1876
+12	from	from	ADP	IN	_	11	_	_	start_char=1877|end_char=1881
+13	3.9	3.9	NUM	CD	NumForm=Digit|NumType=Card	12	_	_	start_char=1882|end_char=1885
+14	million	million	NUM	CD	NumForm=Word|NumType=Card	13	_	_	start_char=1886|end_char=1893
+15	g	gram	NOUN	NNS	Number=Plur	14	_	_	start_char=1894|end_char=1895
+16	of	of	ADP	IN	_	15	_	_	start_char=1896|end_char=1898
+17	vanilla	vanilla	NOUN	NN	Number=Sing	16	_	_	start_char=1899|end_char=1906
+18	in	in	ADP	IN	_	17	_	_	start_char=1907|end_char=1909
+19	2000	2000	NUM	CD	NumForm=Digit|NumType=Card	18	_	_	start_char=1910|end_char=1914
+20	to	to	ADP	IN	_	19	_	_	start_char=1915|end_char=1917
+21	7.7	7.7	NUM	CD	NumForm=Digit|NumType=Card	20	_	_	start_char=1918|end_char=1921
+22	million	million	NUM	CD	NumForm=Word|NumType=Card	21	_	_	start_char=1922|end_char=1929
+23	g	gram	NOUN	NNS	Number=Plur	22	_	_	start_char=1930|end_char=1931
+24	in	in	ADP	IN	_	23	_	_	start_char=1932|end_char=1934
+25	2022	2022	NUM	CD	NumForm=Digit|NumType=Card	24	_	_	start_char=1935|end_char=1939|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=1939|end_char=1940|SpacesAfter=\n\n
+
+# text = There is so much vanilla being produced that farmers are complaining about low vanilla prices caused by overproduction.
+# sent_id = 15
+1	There	there	PRON	EX	_	0	_	_	start_char=1942|end_char=1947
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1948|end_char=1950
+3	so	so	ADV	RB	_	2	_	_	start_char=1951|end_char=1953
+4	much	much	ADJ	JJ	Degree=Pos	3	_	_	start_char=1954|end_char=1958
+5	vanilla	vanilla	NOUN	NN	Number=Sing	4	_	_	start_char=1959|end_char=1966
+6	being	be	AUX	VBG	VerbForm=Ger	5	_	_	start_char=1967|end_char=1972
+7	produced	produce	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	_	_	start_char=1973|end_char=1981
+8	that	that	SCONJ	IN	_	7	_	_	start_char=1982|end_char=1986
+9	farmers	farmer	NOUN	NNS	Number=Plur	8	_	_	start_char=1987|end_char=1994
+10	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=1995|end_char=1998
+11	complaining	complain	VERB	VBG	Tense=Pres|VerbForm=Part	10	_	_	start_char=1999|end_char=2010
+12	about	about	ADP	IN	_	11	_	_	start_char=2011|end_char=2016
+13	low	low	ADJ	JJ	Degree=Pos	12	_	_	start_char=2017|end_char=2020
+14	vanilla	vanilla	NOUN	NN	Number=Sing	13	_	_	start_char=2021|end_char=2028
+15	prices	price	NOUN	NNS	Number=Plur	14	_	_	start_char=2029|end_char=2035
+16	caused	cause	VERB	VBN	Tense=Past|VerbForm=Part	15	_	_	start_char=2036|end_char=2042
+17	by	by	ADP	IN	_	16	_	_	start_char=2043|end_char=2045
+18	overproduction	overproduction	NOUN	NN	Number=Sing	17	_	_	start_char=2046|end_char=2060|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=2060|end_char=2061|SpacesAfter=\n\n
+
+# text = “The 2023 vanilla crop is expected to be one of the best harvests in the last two decades, forecasted at 2,500 tons with exceptionally high quality,” observes the Nielsen-Massey 2023 Crop Report.
+# sent_id = 16
+1	“	''	PUNCT	``	_	0	_	_	start_char=2063|end_char=2064|SpaceAfter=No
+2	The	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=2064|end_char=2067
+3	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	2	_	_	start_char=2068|end_char=2072
+4	vanilla	vanilla	NOUN	NN	Number=Sing	3	_	_	start_char=2073|end_char=2080
+5	crop	crop	NOUN	NN	Number=Sing	4	_	_	start_char=2081|end_char=2085
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=2086|end_char=2088
+7	expected	expect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	_	_	start_char=2089|end_char=2097
+8	to	to	PART	TO	_	7	_	_	start_char=2098|end_char=2100
+9	be	be	AUX	VB	VerbForm=Inf	8	_	_	start_char=2101|end_char=2103
+10	one	one	NUM	CD	NumForm=Word|NumType=Card	9	_	_	start_char=2104|end_char=2107
+11	of	of	ADP	IN	_	10	_	_	start_char=2108|end_char=2110
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=2111|end_char=2114
+13	best	good	ADJ	JJS	Degree=Sup	12	_	_	start_char=2115|end_char=2119
+14	harvests	harvest	NOUN	NNS	Number=Plur	13	_	_	start_char=2120|end_char=2128
+15	in	in	ADP	IN	_	14	_	_	start_char=2129|end_char=2131
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=2132|end_char=2135
+17	last	last	ADJ	JJ	Degree=Pos	16	_	_	start_char=2136|end_char=2140
+18	two	two	NUM	CD	NumForm=Word|NumType=Card	17	_	_	start_char=2141|end_char=2144
+19	decades	decade	NOUN	NNS	Number=Plur	18	_	_	start_char=2145|end_char=2152|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=2152|end_char=2153
+21	forecasted	forecast	VERB	VBN	Tense=Past|VerbForm=Part	20	_	_	start_char=2154|end_char=2164
+22	at	at	ADP	IN	_	21	_	_	start_char=2165|end_char=2167
+23	2,500	2500	NUM	CD	NumForm=Digit|NumType=Card	22	_	_	start_char=2168|end_char=2173
+24	tons	ton	NOUN	NNS	Number=Plur	23	_	_	start_char=2174|end_char=2178
+25	with	with	ADP	IN	_	24	_	_	start_char=2179|end_char=2183
+26	exceptionally	exceptionally	ADV	RB	_	25	_	_	start_char=2184|end_char=2197
+27	high	high	ADJ	JJ	Degree=Pos	26	_	_	start_char=2198|end_char=2202
+28	quality	quality	NOUN	NN	Number=Sing	27	_	_	start_char=2203|end_char=2210|SpaceAfter=No
+29	,	,	PUNCT	,	_	28	_	_	start_char=2210|end_char=2211|SpaceAfter=No
+30	”	''	PUNCT	''	_	29	_	_	start_char=2211|end_char=2212
+31	observes	observe	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	_	_	start_char=2213|end_char=2221
+32	the	the	DET	DT	Definite=Def|PronType=Art	31	_	_	start_char=2222|end_char=2225
+33	Nielsen	Nielsen	PROPN	NNP	Number=Sing	32	_	_	start_char=2226|end_char=2233|SpaceAfter=No
+34	-	-	PUNCT	HYPH	_	33	_	_	start_char=2233|end_char=2234|SpaceAfter=No
+35	Massey	Massey	PROPN	NNP	Number=Sing	34	_	_	start_char=2234|end_char=2240
+36	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	35	_	_	start_char=2241|end_char=2245
+37	Crop	Crop	PROPN	NNP	Number=Sing	36	_	_	start_char=2246|end_char=2250
+38	Report	report	NOUN	NN	Number=Sing	37	_	_	start_char=2251|end_char=2257|SpaceAfter=No
+39	.	.	PUNCT	.	_	38	_	_	start_char=2257|end_char=2258|SpacesAfter=\n\n
+
+# text = The Crop Report observes that recent strong production has created a maret oversupply.
+# sent_id = 17
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2260|end_char=2263
+2	Crop	Crop	PROPN	NNP	Number=Sing	1	_	_	start_char=2264|end_char=2268
+3	Report	report	NOUN	NN	Number=Sing	2	_	_	start_char=2269|end_char=2275
+4	observes	observe	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=2276|end_char=2284
+5	that	that	SCONJ	IN	_	4	_	_	start_char=2285|end_char=2289
+6	recent	recent	ADJ	JJ	Degree=Pos	5	_	_	start_char=2290|end_char=2296
+7	strong	strong	ADJ	JJ	Degree=Pos	6	_	_	start_char=2297|end_char=2303
+8	production	production	NOUN	NN	Number=Sing	7	_	_	start_char=2304|end_char=2314
+9	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=2315|end_char=2318
+10	created	create	VERB	VBN	Tense=Past|VerbForm=Part	9	_	_	start_char=2319|end_char=2326
+11	a	a	DET	DT	Definite=Ind|PronType=Art	10	_	_	start_char=2327|end_char=2328
+12	maret	maret	NOUN	NN	Number=Sing	11	_	_	start_char=2329|end_char=2334
+13	oversupply	oversupply	NOUN	NN	Number=Sing	12	_	_	start_char=2335|end_char=2345|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=2345|end_char=2346
+
+# text = “The oversupply has led to aggressive price reductions, posing economic challenges for vanilla farmers as they sell their 2022 crop at low prices to meet their daily living needs,” the Crop Report adds.
+# sent_id = 18
+1	“	''	PUNCT	``	_	0	_	_	start_char=2347|end_char=2348|SpaceAfter=No
+2	The	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=2348|end_char=2351
+3	oversupply	oversupply	NOUN	NN	Number=Sing	2	_	_	start_char=2352|end_char=2362
+4	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=2363|end_char=2366
+5	led	lead	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=2367|end_char=2370
+6	to	to	ADP	IN	_	5	_	_	start_char=2371|end_char=2373
+7	aggressive	aggressive	ADJ	JJ	Degree=Pos	6	_	_	start_char=2374|end_char=2384
+8	price	price	NOUN	NN	Number=Sing	7	_	_	start_char=2385|end_char=2390
+9	reductions	reduction	NOUN	NNS	Number=Plur	8	_	_	start_char=2391|end_char=2401|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=2401|end_char=2402
+11	posing	pose	VERB	VBG	VerbForm=Ger	10	_	_	start_char=2403|end_char=2409
+12	economic	economic	ADJ	JJ	Degree=Pos	11	_	_	start_char=2410|end_char=2418
+13	challenges	challenge	NOUN	NNS	Number=Plur	12	_	_	start_char=2419|end_char=2429
+14	for	for	ADP	IN	_	13	_	_	start_char=2430|end_char=2433
+15	vanilla	vanilla	NOUN	NN	Number=Sing	14	_	_	start_char=2434|end_char=2441
+16	farmers	farmer	NOUN	NNS	Number=Plur	15	_	_	start_char=2442|end_char=2449
+17	as	as	SCONJ	IN	_	16	_	_	start_char=2450|end_char=2452
+18	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	_	_	start_char=2453|end_char=2457
+19	sell	sell	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=2458|end_char=2462
+20	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	19	_	_	start_char=2463|end_char=2468
+21	2022	2022	NUM	CD	NumForm=Digit|NumType=Card	20	_	_	start_char=2469|end_char=2473
+22	crop	crop	NOUN	NN	Number=Sing	21	_	_	start_char=2474|end_char=2478
+23	at	at	ADP	IN	_	22	_	_	start_char=2479|end_char=2481
+24	low	low	ADJ	JJ	Degree=Pos	23	_	_	start_char=2482|end_char=2485
+25	prices	price	NOUN	NNS	Number=Plur	24	_	_	start_char=2486|end_char=2492
+26	to	to	PART	TO	_	25	_	_	start_char=2493|end_char=2495
+27	meet	meet	VERB	VB	VerbForm=Inf	26	_	_	start_char=2496|end_char=2500
+28	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	27	_	_	start_char=2501|end_char=2506
+29	daily	daily	ADJ	JJ	Degree=Pos	28	_	_	start_char=2507|end_char=2512
+30	living	living	NOUN	NN	Number=Sing	29	_	_	start_char=2513|end_char=2519
+31	needs	need	NOUN	NNS	Number=Plur	30	_	_	start_char=2520|end_char=2525|SpaceAfter=No
+32	,	,	PUNCT	,	_	31	_	_	start_char=2525|end_char=2526|SpaceAfter=No
+33	”	''	PUNCT	''	_	32	_	_	start_char=2526|end_char=2527
+34	the	the	DET	DT	Definite=Def|PronType=Art	33	_	_	start_char=2528|end_char=2531
+35	Crop	Crop	PROPN	NNP	Number=Sing	34	_	_	start_char=2532|end_char=2536
+36	Report	report	NOUN	NN	Number=Sing	35	_	_	start_char=2537|end_char=2543
+37	adds	add	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	_	_	start_char=2544|end_char=2548|SpaceAfter=No
+38	.	.	PUNCT	.	_	37	_	_	start_char=2548|end_char=2549|SpacesAfter=\n\n
+
+# text = Wow, tal about the New Yor Times getting the story completely bacward and wrong!
+# sent_id = 19
+1	Wow	wow	INTJ	UH	_	0	_	_	start_char=2551|end_char=2554|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=2554|end_char=2555
+3	tal	tal	INTJ	UH	_	2	_	_	start_char=2556|end_char=2559
+4	about	about	ADP	IN	_	3	_	_	start_char=2560|end_char=2565
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=2566|end_char=2569
+6	New	New	ADJ	NNP	Degree=Pos	5	_	_	start_char=2570|end_char=2573
+7	Yor	Yor	PROPN	NNP	Number=Sing	6	_	_	start_char=2574|end_char=2577
+8	Times	Times	PROPN	NNP	Number=Sing	7	_	_	start_char=2578|end_char=2583
+9	getting	get	VERB	VBG	VerbForm=Ger	8	_	_	start_char=2584|end_char=2591
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=2592|end_char=2595
+11	story	story	NOUN	NN	Number=Sing	10	_	_	start_char=2596|end_char=2601
+12	completely	completely	ADV	RB	_	11	_	_	start_char=2602|end_char=2612
+13	bacward	bacward	ADJ	JJ	Degree=Pos	12	_	_	start_char=2613|end_char=2620
+14	and	and	CCONJ	CC	_	13	_	_	start_char=2621|end_char=2624
+15	wrong	wrong	ADJ	JJ	Degree=Pos	14	_	_	start_char=2625|end_char=2630|SpaceAfter=No
+16	!	!	PUNCT	.	_	15	_	_	start_char=2630|end_char=2631|SpacesAfter=\n\n
+
+# text = The New Yor Times points to a cyclone that hit Madagascar seven years ago during its cyclone season and caused a very short-term spie in vanilla prices.
+# sent_id = 20
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2633|end_char=2636
+2	New	New	ADJ	NNP	Degree=Pos	1	_	_	start_char=2637|end_char=2640
+3	Yor	Yor	PROPN	NNP	Number=Sing	2	_	_	start_char=2641|end_char=2644
+4	Times	Times	PROPN	NNP	Number=Sing	3	_	_	start_char=2645|end_char=2650
+5	points	point	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=2651|end_char=2657
+6	to	to	ADP	IN	_	5	_	_	start_char=2658|end_char=2660
+7	a	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=2661|end_char=2662
+8	cyclone	cyclone	NOUN	NN	Number=Sing	7	_	_	start_char=2663|end_char=2670
+9	that	that	PRON	WDT	PronType=Rel	8	_	_	start_char=2671|end_char=2675
+10	hit	hit	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=2676|end_char=2679
+11	Madagascar	Madagascar	PROPN	NNP	Number=Sing	10	_	_	start_char=2680|end_char=2690
+12	seven	seven	NUM	CD	NumForm=Word|NumType=Card	11	_	_	start_char=2691|end_char=2696
+13	years	year	NOUN	NNS	Number=Plur	12	_	_	start_char=2697|end_char=2702
+14	ago	ago	ADV	RB	_	13	_	_	start_char=2703|end_char=2706
+15	during	during	ADP	IN	_	14	_	_	start_char=2707|end_char=2713
+16	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	_	_	start_char=2714|end_char=2717
+17	cyclone	cyclone	NOUN	NN	Number=Sing	16	_	_	start_char=2718|end_char=2725
+18	season	season	NOUN	NN	Number=Sing	17	_	_	start_char=2726|end_char=2732
+19	and	and	CCONJ	CC	_	18	_	_	start_char=2733|end_char=2736
+20	caused	cause	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	_	_	start_char=2737|end_char=2743
+21	a	a	DET	DT	Definite=Ind|PronType=Art	20	_	_	start_char=2744|end_char=2745
+22	very	very	ADV	RB	_	21	_	_	start_char=2746|end_char=2750
+23	short	short	ADJ	JJ	Degree=Pos	22	_	_	start_char=2751|end_char=2756|SpaceAfter=No
+24	-	-	PUNCT	HYPH	_	23	_	_	start_char=2756|end_char=2757|SpaceAfter=No
+25	term	term	NOUN	NN	Number=Sing	24	_	_	start_char=2757|end_char=2761
+26	spie	spie	NOUN	NN	Number=Sing	25	_	_	start_char=2762|end_char=2766
+27	in	in	ADP	IN	_	26	_	_	start_char=2767|end_char=2769
+28	vanilla	vanilla	NOUN	NN	Number=Sing	27	_	_	start_char=2770|end_char=2777
+29	prices	price	NOUN	NNS	Number=Plur	28	_	_	start_char=2778|end_char=2784|SpaceAfter=No
+30	.	.	PUNCT	.	_	29	_	_	start_char=2784|end_char=2785|SpacesAfter=\n\n
+
+# text = That is its sole “evidence” of climate change maing vanilla go extinct.
+# sent_id = 21
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=2787|end_char=2791
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2792|end_char=2794
+3	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	_	_	start_char=2795|end_char=2798
+4	sole	sole	ADJ	JJ	Degree=Pos	3	_	_	start_char=2799|end_char=2803
+5	“	''	PUNCT	``	_	4	_	_	start_char=2804|end_char=2805|SpaceAfter=No
+6	evidence	evidence	NOUN	NN	Number=Sing	5	_	_	start_char=2805|end_char=2813|SpaceAfter=No
+7	”	''	PUNCT	''	_	6	_	_	start_char=2813|end_char=2814
+8	of	of	ADP	IN	_	7	_	_	start_char=2815|end_char=2817
+9	climate	climate	NOUN	NN	Number=Sing	8	_	_	start_char=2818|end_char=2825
+10	change	change	NOUN	NN	Number=Sing	9	_	_	start_char=2826|end_char=2832
+11	maing	maing	NOUN	NN	Number=Sing	10	_	_	start_char=2833|end_char=2838
+12	vanilla	vanilla	NOUN	NN	Number=Sing	11	_	_	start_char=2839|end_char=2846
+13	go	go	VERB	VBP	Mood=Ind|Person=3|VerbForm=Fin	12	_	_	start_char=2847|end_char=2849
+14	extinct	extinct	ADJ	JJ	Degree=Pos	13	_	_	start_char=2850|end_char=2857|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=2857|end_char=2858|SpacesAfter=\n\n
+
+# text = In reality, vanilla production is so strong that the maret is saturated with vanilla, … maing farmers complain about low prices.
+# sent_id = 22
+1	In	in	ADP	IN	_	0	_	_	start_char=2860|end_char=2862
+2	reality	reality	NOUN	NN	Number=Sing	1	_	_	start_char=2863|end_char=2870|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=2870|end_char=2871
+4	vanilla	vanilla	NOUN	NN	Number=Sing	3	_	_	start_char=2872|end_char=2879
+5	production	production	NOUN	NN	Number=Sing	4	_	_	start_char=2880|end_char=2890
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=2891|end_char=2893
+7	so	so	ADV	RB	_	6	_	_	start_char=2894|end_char=2896
+8	strong	strong	ADJ	JJ	Degree=Pos	7	_	_	start_char=2897|end_char=2903
+9	that	that	SCONJ	IN	_	8	_	_	start_char=2904|end_char=2908
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=2909|end_char=2912
+11	maret	maret	NOUN	NN	Number=Sing	10	_	_	start_char=2913|end_char=2918
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=2919|end_char=2921
+13	saturated	saturate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	12	_	_	start_char=2922|end_char=2931
+14	with	with	ADP	IN	_	13	_	_	start_char=2932|end_char=2936
+15	vanilla	vanilla	NOUN	NN	Number=Sing	14	_	_	start_char=2937|end_char=2944|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=2944|end_char=2945
+17	…	…	PUNCT	:	_	16	_	_	start_char=2946|end_char=2947
+18	maing	maing	NOUN	NN	Number=Sing	17	_	_	start_char=2948|end_char=2953
+19	farmers	farmer	NOUN	NNS	Number=Plur	18	_	_	start_char=2954|end_char=2961
+20	complain	complain	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	_	_	start_char=2962|end_char=2970
+21	about	about	ADP	IN	_	20	_	_	start_char=2971|end_char=2976
+22	low	low	ADJ	JJ	Degree=Pos	21	_	_	start_char=2977|end_char=2980
+23	prices	price	NOUN	NNS	Number=Plur	22	_	_	start_char=2981|end_char=2987|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=2987|end_char=2988|SpacesAfter=\n\n
+
+# text = The New Yor Times and other “mainstream” media outlets have a long history of identifying popular foods, beverages, and luxury items that climate change is allegedly destroying.
+# sent_id = 23
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2990|end_char=2993
+2	New	New	ADJ	NNP	Degree=Pos	1	_	_	start_char=2994|end_char=2997
+3	Yor	Yor	PROPN	NNP	Number=Sing	2	_	_	start_char=2998|end_char=3001
+4	Times	Times	PROPN	NNP	Number=Sing	3	_	_	start_char=3002|end_char=3007
+5	and	and	CCONJ	CC	_	4	_	_	start_char=3008|end_char=3011
+6	other	other	ADJ	JJ	Degree=Pos	5	_	_	start_char=3012|end_char=3017
+7	“	''	PUNCT	``	_	6	_	_	start_char=3018|end_char=3019|SpaceAfter=No
+8	mainstream	mainstream	ADJ	JJ	Degree=Pos	7	_	_	start_char=3019|end_char=3029|SpaceAfter=No
+9	”	''	PUNCT	''	_	8	_	_	start_char=3029|end_char=3030
+10	media	media	NOUN	NN	Number=Sing	9	_	_	start_char=3031|end_char=3036
+11	outlets	outlet	NOUN	NNS	Number=Plur	10	_	_	start_char=3037|end_char=3044
+12	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=3045|end_char=3049
+13	a	a	DET	DT	Definite=Ind|PronType=Art	12	_	_	start_char=3050|end_char=3051
+14	long	long	ADJ	JJ	Degree=Pos	13	_	_	start_char=3052|end_char=3056
+15	history	history	NOUN	NN	Number=Sing	14	_	_	start_char=3057|end_char=3064
+16	of	of	SCONJ	IN	_	15	_	_	start_char=3065|end_char=3067
+17	identifying	identify	VERB	VBG	VerbForm=Ger	16	_	_	start_char=3068|end_char=3079
+18	popular	popular	ADJ	JJ	Degree=Pos	17	_	_	start_char=3080|end_char=3087
+19	foods	food	NOUN	NNS	Number=Plur	18	_	_	start_char=3088|end_char=3093|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=3093|end_char=3094
+21	beverages	beverage	NOUN	NNS	Number=Plur	20	_	_	start_char=3095|end_char=3104|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=3104|end_char=3105
+23	and	and	CCONJ	CC	_	22	_	_	start_char=3106|end_char=3109
+24	luxury	luxury	NOUN	NN	Number=Sing	23	_	_	start_char=3110|end_char=3116
+25	items	item	NOUN	NNS	Number=Plur	24	_	_	start_char=3117|end_char=3122
+26	that	that	PRON	WDT	PronType=Rel	25	_	_	start_char=3123|end_char=3127
+27	climate	climate	NOUN	NN	Number=Sing	26	_	_	start_char=3128|end_char=3135
+28	change	change	NOUN	NN	Number=Sing	27	_	_	start_char=3136|end_char=3142
+29	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	_	_	start_char=3143|end_char=3145
+30	allegedly	allegedly	ADV	RB	_	29	_	_	start_char=3146|end_char=3155
+31	destroying	destroy	VERB	VBG	Tense=Pres|VerbForm=Part	30	_	_	start_char=3156|end_char=3166|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=3166|end_char=3167|SpacesAfter=\n\n
+
+# text = As is the case with all other such items that have come to Climate Realism’s attention, vanilla is becoming more abundant rather than less abundant as the planet modestly warms.
+# sent_id = 24
+1	As	as	SCONJ	IN	_	0	_	_	start_char=3169|end_char=3171
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=3172|end_char=3174
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=3175|end_char=3178
+4	case	case	NOUN	NN	Number=Sing	3	_	_	start_char=3179|end_char=3183
+5	with	with	ADP	IN	_	4	_	_	start_char=3184|end_char=3188
+6	all	all	DET	DT	_	5	_	_	start_char=3189|end_char=3192
+7	other	other	ADJ	JJ	Degree=Pos	6	_	_	start_char=3193|end_char=3198
+8	such	such	ADJ	JJ	Degree=Pos	7	_	_	start_char=3199|end_char=3203
+9	items	item	NOUN	NNS	Number=Plur	8	_	_	start_char=3204|end_char=3209
+10	that	that	PRON	WDT	PronType=Rel	9	_	_	start_char=3210|end_char=3214
+11	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=3215|end_char=3219
+12	come	come	VERB	VBN	Tense=Past|VerbForm=Part	11	_	_	start_char=3220|end_char=3224
+13	to	to	ADP	IN	_	12	_	_	start_char=3225|end_char=3227
+14	Climate	Climate	PROPN	NNP	Number=Sing	13	_	_	start_char=3228|end_char=3235
+15-16	Realism’s	_	_	_	_	_	_	_	start_char=3236|end_char=3245
+15	Realism	realism	PROPN	NNP	Number=Sing	14	_	_	start_char=3236|end_char=3243
+16	’s	's	PART	POS	_	15	_	_	start_char=3243|end_char=3245
+17	attention	attention	NOUN	NN	Number=Sing	16	_	_	start_char=3246|end_char=3255|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=3255|end_char=3256
+19	vanilla	vanilla	NOUN	NN	Number=Sing	18	_	_	start_char=3257|end_char=3264
+20	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	_	_	start_char=3265|end_char=3267
+21	becoming	become	VERB	VBG	Tense=Pres|VerbForm=Part	20	_	_	start_char=3268|end_char=3276
+22	more	more	ADV	RBR	Degree=Cmp	21	_	_	start_char=3277|end_char=3281
+23	abundant	abundant	ADJ	JJ	Degree=Pos	22	_	_	start_char=3282|end_char=3290
+24	rather	rather	ADV	RB	_	23	_	_	start_char=3291|end_char=3297
+25	than	than	ADP	IN	_	24	_	_	start_char=3298|end_char=3302
+26	less	less	ADV	RBR	Degree=Cmp	25	_	_	start_char=3303|end_char=3307
+27	abundant	abundant	ADJ	JJ	Degree=Pos	26	_	_	start_char=3308|end_char=3316
+28	as	as	SCONJ	IN	_	27	_	_	start_char=3317|end_char=3319
+29	the	the	DET	DT	Definite=Def|PronType=Art	28	_	_	start_char=3320|end_char=3323
+30	planet	planet	NOUN	NN	Number=Sing	29	_	_	start_char=3324|end_char=3330
+31	modestly	modestly	ADV	RB	_	30	_	_	start_char=3331|end_char=3339
+32	warms	warm	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	_	_	start_char=3340|end_char=3345|SpaceAfter=No
+33	.	.	PUNCT	.	_	32	_	_	start_char=3345|end_char=3346|SpacesAfter=\n\n
+
+# text = Top photo of the Vanilla bean plant by risty An on Unsplash
+# sent_id = 25
+1	Top	top	ADJ	JJ	Degree=Pos	0	_	_	start_char=3348|end_char=3351
+2	photo	photo	NOUN	NN	Number=Sing	1	_	_	start_char=3352|end_char=3357
+3	of	of	ADP	IN	_	2	_	_	start_char=3358|end_char=3360
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=3361|end_char=3364
+5	Vanilla	vanilla	PROPN	NNP	Number=Sing	4	_	_	start_char=3365|end_char=3372
+6	bean	bean	NOUN	NN	Number=Sing	5	_	_	start_char=3373|end_char=3377
+7	plant	plant	NOUN	NN	Number=Sing	6	_	_	start_char=3378|end_char=3383
+8	by	by	ADP	IN	_	7	_	_	start_char=3384|end_char=3386
+9	risty	risty	ADJ	JJ	Degree=Pos	8	_	_	start_char=3387|end_char=3392
+10	An	a	PROPN	NNP	Number=Sing	9	_	_	start_char=3393|end_char=3395
+11	on	on	ADP	IN	_	10	_	_	start_char=3396|end_char=3398
+12	Unsplash	Unsplash	PROPN	NNP	Number=Sing	11	_	_	start_char=3399|end_char=3407|SpaceAfter=No
+

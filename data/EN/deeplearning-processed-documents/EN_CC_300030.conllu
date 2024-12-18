@@ -1,0 +1,510 @@
+# text = ‘Urgent’ planning reform needed to meet renewable energy targets
+# sent_id = 0
+1	‘	'	PUNCT	``	_	0	_	_	start_char=0|end_char=1|SpaceAfter=No
+2-3	Urgent’	_	_	_	_	_	_	_	start_char=1|end_char=8
+2	Urgent	Urgent	ADJ	JJ	Degree=Pos	1	_	_	start_char=1|end_char=7
+3	’	's	PART	POS	_	2	_	_	start_char=7|end_char=8
+4	planning	planning	NOUN	NN	Number=Sing	3	_	_	start_char=9|end_char=17
+5	reform	reform	NOUN	NN	Number=Sing	4	_	_	start_char=18|end_char=24
+6	needed	need	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=25|end_char=31
+7	to	to	PART	TO	_	6	_	_	start_char=32|end_char=34
+8	meet	meet	VERB	VB	VerbForm=Inf	7	_	_	start_char=35|end_char=39
+9	renewable	renewable	ADJ	JJ	Degree=Pos	8	_	_	start_char=40|end_char=49
+10	energy	energy	NOUN	NN	Number=Sing	9	_	_	start_char=50|end_char=56
+11	targets	target	NOUN	NNS	Number=Plur	10	_	_	start_char=57|end_char=64|SpacesAfter=\s\n\n\s
+
+# text = The planning application process needs “urgent” reform in order to accelerate wind and solar projects to meet national renewable energy targets, a new report has warned.
+# sent_id = 1
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=68|end_char=71
+2	planning	planning	NOUN	NN	Number=Sing	1	_	_	start_char=72|end_char=80
+3	application	application	NOUN	NN	Number=Sing	2	_	_	start_char=81|end_char=92
+4	process	process	NOUN	NN	Number=Sing	3	_	_	start_char=93|end_char=100
+5	needs	need	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=101|end_char=106
+6	“	''	PUNCT	``	_	5	_	_	start_char=107|end_char=108|SpaceAfter=No
+7	urgent	urgent	ADJ	JJ	Degree=Pos	6	_	_	start_char=108|end_char=114|SpaceAfter=No
+8	”	''	PUNCT	''	_	7	_	_	start_char=114|end_char=115
+9	reform	reform	NOUN	NN	Number=Sing	8	_	_	start_char=116|end_char=122
+10	in	in	ADP	IN	_	9	_	_	start_char=123|end_char=125
+11	order	order	NOUN	NN	Number=Sing	10	_	_	start_char=126|end_char=131
+12	to	to	PART	TO	_	11	_	_	start_char=132|end_char=134
+13	accelerate	accelerate	VERB	VB	VerbForm=Inf	12	_	_	start_char=135|end_char=145
+14	wind	wind	NOUN	NN	Number=Sing	13	_	_	start_char=146|end_char=150
+15	and	and	CCONJ	CC	_	14	_	_	start_char=151|end_char=154
+16	solar	solar	ADJ	JJ	Degree=Pos	15	_	_	start_char=155|end_char=160
+17	projects	project	NOUN	NNS	Number=Plur	16	_	_	start_char=161|end_char=169
+18	to	to	PART	TO	_	17	_	_	start_char=170|end_char=172
+19	meet	meet	VERB	VB	VerbForm=Inf	18	_	_	start_char=173|end_char=177
+20	national	national	ADJ	JJ	Degree=Pos	19	_	_	start_char=178|end_char=186
+21	renewable	renewable	ADJ	JJ	Degree=Pos	20	_	_	start_char=187|end_char=196
+22	energy	energy	NOUN	NN	Number=Sing	21	_	_	start_char=197|end_char=203
+23	targets	target	NOUN	NNS	Number=Plur	22	_	_	start_char=204|end_char=211|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=211|end_char=212
+25	a	a	DET	DT	Definite=Ind|PronType=Art	24	_	_	start_char=213|end_char=214
+26	new	new	ADJ	JJ	Degree=Pos	25	_	_	start_char=215|end_char=218
+27	report	report	NOUN	NN	Number=Sing	26	_	_	start_char=219|end_char=225
+28	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	_	_	start_char=226|end_char=229
+29	warned	warn	VERB	VBN	Tense=Past|VerbForm=Part	28	_	_	start_char=230|end_char=236|SpaceAfter=No
+30	.	.	PUNCT	.	_	29	_	_	start_char=236|end_char=237|SpacesAfter=\n\n
+
+# text = The report from the Climate Change Advisory Council said the target to increase renewable energy capacity by 1.6GW will not be met without changes to the planning system.
+# sent_id = 2
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=239|end_char=242
+2	report	report	NOUN	NN	Number=Sing	1	_	_	start_char=243|end_char=249
+3	from	from	ADP	IN	_	2	_	_	start_char=250|end_char=254
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=255|end_char=258
+5	Climate	Climate	PROPN	NNP	Number=Sing	4	_	_	start_char=259|end_char=266
+6	Change	Change	PROPN	NNP	Number=Sing	5	_	_	start_char=267|end_char=273
+7	Advisory	Advisory	ADJ	NNP	Degree=Pos	6	_	_	start_char=274|end_char=282
+8	Council	Council	PROPN	NNP	Number=Sing	7	_	_	start_char=283|end_char=290
+9	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=291|end_char=295
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=296|end_char=299
+11	target	target	NOUN	NN	Number=Sing	10	_	_	start_char=300|end_char=306
+12	to	to	PART	TO	_	11	_	_	start_char=307|end_char=309
+13	increase	increase	VERB	VB	VerbForm=Inf	12	_	_	start_char=310|end_char=318
+14	renewable	renewable	ADJ	JJ	Degree=Pos	13	_	_	start_char=319|end_char=328
+15	energy	energy	NOUN	NN	Number=Sing	14	_	_	start_char=329|end_char=335
+16	capacity	capacity	NOUN	NN	Number=Sing	15	_	_	start_char=336|end_char=344
+17	by	by	ADP	IN	_	16	_	_	start_char=345|end_char=347
+18	1.6	1.6	NUM	CD	NumForm=Digit|NumType=Frac	17	_	_	start_char=348|end_char=351|SpaceAfter=No
+19	GW	GW	NOUN	NN	Number=Sing	18	_	_	start_char=351|end_char=353
+20	will	will	AUX	MD	VerbForm=Fin	19	_	_	start_char=354|end_char=358
+21	not	not	PART	RB	_	20	_	_	start_char=359|end_char=362
+22	be	be	AUX	VB	VerbForm=Inf	21	_	_	start_char=363|end_char=365
+23	met	meet	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	22	_	_	start_char=366|end_char=369
+24	without	without	ADP	IN	_	23	_	_	start_char=370|end_char=377
+25	changes	change	NOUN	NNS	Number=Plur	24	_	_	start_char=378|end_char=385
+26	to	to	ADP	IN	_	25	_	_	start_char=386|end_char=388
+27	the	the	DET	DT	Definite=Def|PronType=Art	26	_	_	start_char=389|end_char=392
+28	planning	planning	NOUN	NN	Number=Sing	27	_	_	start_char=393|end_char=401
+29	system	system	NOUN	NN	Number=Sing	28	_	_	start_char=402|end_char=408|SpaceAfter=No
+30	.	.	PUNCT	.	_	29	_	_	start_char=408|end_char=409|SpacesAfter=\n\n
+
+# text = It highlighted that an onshore wind farm was not granted planning permission in the 12 months to September 2023.
+# sent_id = 3
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=411|end_char=413
+2	highlighted	highlight	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=414|end_char=425
+3	that	that	SCONJ	IN	_	2	_	_	start_char=426|end_char=430
+4	an	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=431|end_char=433
+5	onshore	onshore	ADJ	JJ	Degree=Pos	4	_	_	start_char=434|end_char=441
+6	wind	wind	NOUN	NN	Number=Sing	5	_	_	start_char=442|end_char=446
+7	farm	farm	NOUN	NN	Number=Sing	6	_	_	start_char=447|end_char=451
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=452|end_char=455
+9	not	not	PART	RB	_	8	_	_	start_char=456|end_char=459
+10	granted	grant	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	9	_	_	start_char=460|end_char=467
+11	planning	planning	NOUN	NN	Number=Sing	10	_	_	start_char=468|end_char=476
+12	permission	permission	NOUN	NN	Number=Sing	11	_	_	start_char=477|end_char=487
+13	in	in	ADP	IN	_	12	_	_	start_char=488|end_char=490
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=491|end_char=494
+15	12	12	NUM	CD	NumForm=Digit|NumType=Card	14	_	_	start_char=495|end_char=497
+16	months	month	NOUN	NNS	Number=Plur	15	_	_	start_char=498|end_char=504
+17	to	to	ADP	IN	_	16	_	_	start_char=505|end_char=507
+18	September	September	PROPN	NNP	Number=Sing	17	_	_	start_char=508|end_char=517
+19	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	18	_	_	start_char=518|end_char=522|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=522|end_char=523|SpacesAfter=\n\n
+
+# text = This project, which was the only one to receive planning permission from a local authority, is now subject to an appeal.
+# sent_id = 4
+1	This	this	DET	DT	Number=Sing|PronType=Dem	0	_	_	start_char=525|end_char=529
+2	project	project	NOUN	NN	Number=Sing	1	_	_	start_char=530|end_char=537|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=537|end_char=538
+4	which	which	PRON	WDT	PronType=Rel	3	_	_	start_char=539|end_char=544
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=545|end_char=548
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=549|end_char=552
+7	only	only	ADJ	JJ	Degree=Pos	6	_	_	start_char=553|end_char=557
+8	one	one	NOUN	NN	Number=Sing	7	_	_	start_char=558|end_char=561
+9	to	to	PART	TO	_	8	_	_	start_char=562|end_char=564
+10	receive	receive	VERB	VB	VerbForm=Inf	9	_	_	start_char=565|end_char=572
+11	planning	planning	NOUN	NN	Number=Sing	10	_	_	start_char=573|end_char=581
+12	permission	permission	NOUN	NN	Number=Sing	11	_	_	start_char=582|end_char=592
+13	from	from	ADP	IN	_	12	_	_	start_char=593|end_char=597
+14	a	a	DET	DT	Definite=Ind|PronType=Art	13	_	_	start_char=598|end_char=599
+15	local	local	ADJ	JJ	Degree=Pos	14	_	_	start_char=600|end_char=605
+16	authority	authority	NOUN	NN	Number=Sing	15	_	_	start_char=606|end_char=615|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=615|end_char=616
+18	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=617|end_char=619
+19	now	now	ADV	RB	_	18	_	_	start_char=620|end_char=623
+20	subject	subject	ADJ	JJ	Degree=Pos	19	_	_	start_char=624|end_char=631
+21	to	to	ADP	IN	_	20	_	_	start_char=632|end_char=634
+22	an	a	DET	DT	Definite=Ind|PronType=Art	21	_	_	start_char=635|end_char=637
+23	appeal	appeal	NOUN	NN	Number=Sing	22	_	_	start_char=638|end_char=644|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=644|end_char=645|SpacesAfter=\n\n
+
+# text = There were four wind farms granted approval from An Bord Pleanála in late 2023, with all of them currently undergoing judicial review.
+# sent_id = 5
+1	There	there	PRON	EX	_	0	_	_	start_char=647|end_char=652
+2	were	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=653|end_char=657
+3	four	four	NUM	CD	NumForm=Word|NumType=Card	2	_	_	start_char=658|end_char=662
+4	wind	wind	NOUN	NN	Number=Sing	3	_	_	start_char=663|end_char=667
+5	farms	farm	NOUN	NNS	Number=Plur	4	_	_	start_char=668|end_char=673
+6	granted	grant	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=674|end_char=681
+7	approval	approval	NOUN	NN	Number=Sing	6	_	_	start_char=682|end_char=690
+8	from	from	ADP	IN	_	7	_	_	start_char=691|end_char=695
+9	An	a	DET	DT	Definite=Ind|PronType=Art	8	_	_	start_char=696|end_char=698
+10	Bord	Bord	PROPN	NNP	Number=Sing	9	_	_	start_char=699|end_char=703
+11	Pleanála	Pleanála	PROPN	NNP	Number=Sing	10	_	_	start_char=704|end_char=712
+12	in	in	ADP	IN	_	11	_	_	start_char=713|end_char=715
+13	late	late	ADJ	JJ	Degree=Pos	12	_	_	start_char=716|end_char=720
+14	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	13	_	_	start_char=721|end_char=725|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=725|end_char=726
+16	with	with	SCONJ	IN	_	15	_	_	start_char=727|end_char=731
+17	all	all	DET	DT	_	16	_	_	start_char=732|end_char=735
+18	of	of	ADP	IN	_	17	_	_	start_char=736|end_char=738
+19	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	18	_	_	start_char=739|end_char=743
+20	currently	currently	ADV	RB	_	19	_	_	start_char=744|end_char=753
+21	undergoing	undergo	VERB	VBG	VerbForm=Ger	20	_	_	start_char=754|end_char=764
+22	judicial	judicial	ADJ	JJ	Degree=Pos	21	_	_	start_char=765|end_char=773
+23	review	review	NOUN	NN	Number=Sing	22	_	_	start_char=774|end_char=780|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=780|end_char=781|SpacesAfter=\n\n
+
+# text = Five others were granted permission on conclusion of an appeals process following an original local authority decision.
+# sent_id = 6
+1	Five	five	NUM	CD	NumForm=Word|NumType=Card	0	_	_	start_char=783|end_char=787
+2	others	other	NOUN	NNS	Number=Plur	1	_	_	start_char=788|end_char=794
+3	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=795|end_char=799
+4	granted	grant	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=800|end_char=807
+5	permission	permission	NOUN	NN	Number=Sing	4	_	_	start_char=808|end_char=818
+6	on	on	ADP	IN	_	5	_	_	start_char=819|end_char=821
+7	conclusion	conclusion	NOUN	NN	Number=Sing	6	_	_	start_char=822|end_char=832
+8	of	of	ADP	IN	_	7	_	_	start_char=833|end_char=835
+9	an	a	DET	DT	Definite=Ind|PronType=Art	8	_	_	start_char=836|end_char=838
+10	appeals	appeal	NOUN	NN	Number=Sing	9	_	_	start_char=839|end_char=846
+11	process	process	NOUN	NN	Number=Sing	10	_	_	start_char=847|end_char=854
+12	following	follow	VERB	VBG	VerbForm=Ger	11	_	_	start_char=855|end_char=864
+13	an	a	DET	DT	Definite=Ind|PronType=Art	12	_	_	start_char=865|end_char=867
+14	original	original	ADJ	JJ	Degree=Pos	13	_	_	start_char=868|end_char=876
+15	local	local	ADJ	JJ	Degree=Pos	14	_	_	start_char=877|end_char=882
+16	authority	authority	NOUN	NN	Number=Sing	15	_	_	start_char=883|end_char=892
+17	decision	decision	NOUN	NN	Number=Sing	16	_	_	start_char=893|end_char=901|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=901|end_char=902|SpacesAfter=\n\n
+
+# text = “These appeals will add significant delays to the development of these projects, maing 2030 targets increasingly difficult to achieve.
+# sent_id = 7
+1	“	''	PUNCT	``	_	0	_	_	start_char=904|end_char=905|SpaceAfter=No
+2	These	this	DET	DT	Number=Plur|PronType=Dem	1	_	_	start_char=905|end_char=910
+3	appeals	appeal	NOUN	NNS	Number=Plur	2	_	_	start_char=911|end_char=918
+4	will	will	AUX	MD	VerbForm=Fin	3	_	_	start_char=919|end_char=923
+5	add	add	VERB	VB	VerbForm=Inf	4	_	_	start_char=924|end_char=927
+6	significant	significant	ADJ	JJ	Degree=Pos	5	_	_	start_char=928|end_char=939
+7	delays	delay	NOUN	NNS	Number=Plur	6	_	_	start_char=940|end_char=946
+8	to	to	ADP	IN	_	7	_	_	start_char=947|end_char=949
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=950|end_char=953
+10	development	development	NOUN	NN	Number=Sing	9	_	_	start_char=954|end_char=965
+11	of	of	ADP	IN	_	10	_	_	start_char=966|end_char=968
+12	these	this	DET	DT	Number=Plur|PronType=Dem	11	_	_	start_char=969|end_char=974
+13	projects	project	NOUN	NNS	Number=Plur	12	_	_	start_char=975|end_char=983|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=983|end_char=984
+15	maing	ma	VERB	VBG	VerbForm=Ger	14	_	_	start_char=985|end_char=990
+16	2030	2030	NUM	CD	NumForm=Digit|NumType=Card	15	_	_	start_char=991|end_char=995
+17	targets	target	NOUN	NNS	Number=Plur	16	_	_	start_char=996|end_char=1003
+18	increasingly	increasingly	ADV	RB	_	17	_	_	start_char=1004|end_char=1016
+19	difficult	difficult	ADJ	JJ	Degree=Pos	18	_	_	start_char=1017|end_char=1026
+20	to	to	PART	TO	_	19	_	_	start_char=1027|end_char=1029
+21	achieve	achieve	VERB	VB	VerbForm=Inf	20	_	_	start_char=1030|end_char=1037|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=1037|end_char=1038|SpacesAfter=\n\n
+
+# text = “Of those applications that received a decision, projects accounting for approximately 20% of wind capacity and 15% of solar capacity were refused,” the report stated.
+# sent_id = 8
+1	“	''	PUNCT	``	_	0	_	_	start_char=1040|end_char=1041|SpaceAfter=No
+2	Of	of	ADP	IN	_	1	_	_	start_char=1041|end_char=1043
+3	those	that	DET	DT	Number=Plur|PronType=Dem	2	_	_	start_char=1044|end_char=1049
+4	applications	application	NOUN	NNS	Number=Plur	3	_	_	start_char=1050|end_char=1062
+5	that	that	PRON	WDT	PronType=Rel	4	_	_	start_char=1063|end_char=1067
+6	received	receive	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=1068|end_char=1076
+7	a	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=1077|end_char=1078
+8	decision	decision	NOUN	NN	Number=Sing	7	_	_	start_char=1079|end_char=1087|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1087|end_char=1088
+10	projects	project	NOUN	NNS	Number=Plur	9	_	_	start_char=1089|end_char=1097
+11	accounting	accounting	VERB	VBG	VerbForm=Ger	10	_	_	start_char=1098|end_char=1108
+12	for	for	ADP	IN	_	11	_	_	start_char=1109|end_char=1112
+13	approximately	approximately	ADV	RB	_	12	_	_	start_char=1113|end_char=1126
+14	20	20	NUM	CD	NumForm=Digit|NumType=Card	13	_	_	start_char=1127|end_char=1129|SpaceAfter=No
+15	%	%	SYM	NN	Number=Sing	14	_	_	start_char=1129|end_char=1130
+16	of	of	ADP	IN	_	15	_	_	start_char=1131|end_char=1133
+17	wind	wind	NOUN	NN	Number=Sing	16	_	_	start_char=1134|end_char=1138
+18	capacity	capacity	NOUN	NN	Number=Sing	17	_	_	start_char=1139|end_char=1147
+19	and	and	CCONJ	CC	_	18	_	_	start_char=1148|end_char=1151
+20	15	15	NUM	CD	NumForm=Digit|NumType=Card	19	_	_	start_char=1152|end_char=1154|SpaceAfter=No
+21	%	%	SYM	NN	Number=Sing	20	_	_	start_char=1154|end_char=1155
+22	of	of	ADP	IN	_	21	_	_	start_char=1156|end_char=1158
+23	solar	solar	ADJ	JJ	Degree=Pos	22	_	_	start_char=1159|end_char=1164
+24	capacity	capacity	NOUN	NN	Number=Sing	23	_	_	start_char=1165|end_char=1173
+25	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	24	_	_	start_char=1174|end_char=1178
+26	refused	refuse	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	25	_	_	start_char=1179|end_char=1186|SpaceAfter=No
+27	,	,	PUNCT	,	_	26	_	_	start_char=1186|end_char=1187|SpaceAfter=No
+28	”	''	PUNCT	''	_	27	_	_	start_char=1187|end_char=1188
+29	the	the	DET	DT	Definite=Def|PronType=Art	28	_	_	start_char=1189|end_char=1192
+30	report	report	NOUN	NN	Number=Sing	29	_	_	start_char=1193|end_char=1199
+31	stated	state	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	30	_	_	start_char=1200|end_char=1206|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=1206|end_char=1207|SpacesAfter=\n\n
+
+# text = Offshore
+# sent_id = 9
+1	Offshore	offshore	ADJ	JJ	Degree=Pos	0	_	_	start_char=1209|end_char=1217|SpacesAfter=\n\n
+
+# text = It was also recommended in the report that the Government immediately adopt the plan for the rollout of offshore wind power off the south coast.
+# sent_id = 10
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1219|end_char=1221
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1222|end_char=1225
+3	also	also	ADV	RB	_	2	_	_	start_char=1226|end_char=1230
+4	recommended	recommend	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=1231|end_char=1242
+5	in	in	ADP	IN	_	4	_	_	start_char=1243|end_char=1245
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1246|end_char=1249
+7	report	report	NOUN	NN	Number=Sing	6	_	_	start_char=1250|end_char=1256
+8	that	that	SCONJ	IN	_	7	_	_	start_char=1257|end_char=1261
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1262|end_char=1265
+10	Government	Government	PROPN	NNP	Number=Sing	9	_	_	start_char=1266|end_char=1276
+11	immediately	immediately	ADV	RB	_	10	_	_	start_char=1277|end_char=1288
+12	adopt	adopt	VERB	VB	VerbForm=Inf	11	_	_	start_char=1289|end_char=1294
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1295|end_char=1298
+14	plan	plan	NOUN	NN	Number=Sing	13	_	_	start_char=1299|end_char=1303
+15	for	for	ADP	IN	_	14	_	_	start_char=1304|end_char=1307
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=1308|end_char=1311
+17	rollout	rollout	NOUN	NN	Number=Sing	16	_	_	start_char=1312|end_char=1319
+18	of	of	ADP	IN	_	17	_	_	start_char=1320|end_char=1322
+19	offshore	offshore	ADJ	JJ	Degree=Pos	18	_	_	start_char=1323|end_char=1331
+20	wind	wind	NOUN	NN	Number=Sing	19	_	_	start_char=1332|end_char=1336
+21	power	power	NOUN	NN	Number=Sing	20	_	_	start_char=1337|end_char=1342
+22	off	off	ADP	IN	_	21	_	_	start_char=1343|end_char=1346
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=1347|end_char=1350
+24	south	south	ADJ	JJ	Degree=Pos	23	_	_	start_char=1351|end_char=1356
+25	coast	coast	NOUN	NN	Number=Sing	24	_	_	start_char=1357|end_char=1362|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=1362|end_char=1363|SpacesAfter=\n\n
+
+# text = This, it said, would avoid further delays in offshore wind generation.
+# sent_id = 11
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1365|end_char=1369|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=1369|end_char=1370
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	_	_	start_char=1371|end_char=1373
+4	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=1374|end_char=1378|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=1378|end_char=1379
+6	would	would	AUX	MD	VerbForm=Fin	5	_	_	start_char=1380|end_char=1385
+7	avoid	avoid	VERB	VB	VerbForm=Inf	6	_	_	start_char=1386|end_char=1391
+8	further	further	ADJ	JJ	Degree=Cmp	7	_	_	start_char=1392|end_char=1399
+9	delays	delay	NOUN	NNS	Number=Plur	8	_	_	start_char=1400|end_char=1406
+10	in	in	ADP	IN	_	9	_	_	start_char=1407|end_char=1409
+11	offshore	offshore	ADJ	JJ	Degree=Pos	10	_	_	start_char=1410|end_char=1418
+12	wind	wind	NOUN	NN	Number=Sing	11	_	_	start_char=1419|end_char=1423
+13	generation	generation	NOUN	NN	Number=Sing	12	_	_	start_char=1424|end_char=1434|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=1434|end_char=1435|SpacesAfter=\n\n
+
+# text = “The council is calling on the Government to finalise and adopt the South Coast Designated Maritime Area Plan by summer 2024.
+# sent_id = 12
+1	“	''	PUNCT	``	_	0	_	_	start_char=1437|end_char=1438|SpaceAfter=No
+2	The	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=1438|end_char=1441
+3	council	council	NOUN	NN	Number=Sing	2	_	_	start_char=1442|end_char=1449
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1450|end_char=1452
+5	calling	call	VERB	VBG	Tense=Pres|VerbForm=Part	4	_	_	start_char=1453|end_char=1460
+6	on	on	ADP	IN	_	5	_	_	start_char=1461|end_char=1463
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1464|end_char=1467
+8	Government	government	NOUN	NN	Number=Sing	7	_	_	start_char=1468|end_char=1478
+9	to	to	PART	TO	_	8	_	_	start_char=1479|end_char=1481
+10	finalise	finalise	VERB	VB	VerbForm=Inf	9	_	_	start_char=1482|end_char=1490
+11	and	and	CCONJ	CC	_	10	_	_	start_char=1491|end_char=1494
+12	adopt	adopt	VERB	VB	VerbForm=Inf	11	_	_	start_char=1495|end_char=1500
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1501|end_char=1504
+14	South	South	PROPN	NNP	Number=Sing	13	_	_	start_char=1505|end_char=1510
+15	Coast	Coast	PROPN	NNP	Number=Sing	14	_	_	start_char=1511|end_char=1516
+16	Designated	designate	VERB	NNP	Tense=Past|VerbForm=Part	15	_	_	start_char=1517|end_char=1527
+17	Maritime	Maritime	ADJ	NNP	Degree=Pos	16	_	_	start_char=1528|end_char=1536
+18	Area	Area	PROPN	NNP	Number=Sing	17	_	_	start_char=1537|end_char=1541
+19	Plan	Plan	PROPN	NNP	Number=Sing	18	_	_	start_char=1542|end_char=1546
+20	by	by	ADP	IN	_	19	_	_	start_char=1547|end_char=1549
+21	summer	summer	NOUN	NN	Number=Sing	20	_	_	start_char=1550|end_char=1556
+22	2024	2024	NUM	CD	NumForm=Digit|NumType=Card	21	_	_	start_char=1557|end_char=1561|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=1561|end_char=1562|SpacesAfter=\n\n
+
+# text = “Any delay in its publication riss not achieving Ireland’s 2030 offshore wind targets,” the report said.
+# sent_id = 13
+1	“	''	PUNCT	``	_	0	_	_	start_char=1564|end_char=1565|SpaceAfter=No
+2	Any	any	DET	DT	_	1	_	_	start_char=1565|end_char=1568
+3	delay	delay	NOUN	NN	Number=Sing	2	_	_	start_char=1569|end_char=1574
+4	in	in	ADP	IN	_	3	_	_	start_char=1575|end_char=1577
+5	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	_	_	start_char=1578|end_char=1581
+6	publication	publication	NOUN	NN	Number=Sing	5	_	_	start_char=1582|end_char=1593
+7	riss	riss	NOUN	NN	Number=Sing	6	_	_	start_char=1594|end_char=1598
+8	not	not	PART	RB	_	7	_	_	start_char=1599|end_char=1602
+9	achieving	achieve	VERB	VBG	VerbForm=Ger	8	_	_	start_char=1603|end_char=1612
+10-11	Ireland’s	_	_	_	_	_	_	_	start_char=1613|end_char=1622
+10	Ireland	Ireland	PROPN	NNP	Number=Sing	9	_	_	start_char=1613|end_char=1620
+11	’s	's	PART	POS	_	10	_	_	start_char=1620|end_char=1622
+12	2030	2030	NUM	CD	NumForm=Digit|NumType=Card	11	_	_	start_char=1623|end_char=1627
+13	offshore	offshore	NOUN	NN	Number=Sing	12	_	_	start_char=1628|end_char=1636
+14	wind	wind	NOUN	NN	Number=Sing	13	_	_	start_char=1637|end_char=1641
+15	targets	target	NOUN	NNS	Number=Plur	14	_	_	start_char=1642|end_char=1649|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=1649|end_char=1650|SpaceAfter=No
+17	”	''	PUNCT	''	_	16	_	_	start_char=1650|end_char=1651
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=1652|end_char=1655
+19	report	report	NOUN	NN	Number=Sing	18	_	_	start_char=1656|end_char=1662
+20	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	_	_	start_char=1663|end_char=1667|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=1667|end_char=1668|SpacesAfter=\n\n
+
+# text = The report also said Ireland is behind at European level when it comes to offshore wind generation.
+# sent_id = 14
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1670|end_char=1673
+2	report	report	NOUN	NN	Number=Sing	1	_	_	start_char=1674|end_char=1680
+3	also	also	ADV	RB	_	2	_	_	start_char=1681|end_char=1685
+4	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=1686|end_char=1690
+5	Ireland	Ireland	PROPN	NNP	Number=Sing	4	_	_	start_char=1691|end_char=1698
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1699|end_char=1701
+7	behind	behind	ADP	IN	_	6	_	_	start_char=1702|end_char=1708
+8	at	at	ADP	IN	_	7	_	_	start_char=1709|end_char=1711
+9	European	European	ADJ	JJ	Degree=Pos	8	_	_	start_char=1712|end_char=1720
+10	level	level	NOUN	NN	Number=Sing	9	_	_	start_char=1721|end_char=1726
+11	when	when	ADV	WRB	PronType=Int	10	_	_	start_char=1727|end_char=1731
+12	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	_	_	start_char=1732|end_char=1734
+13	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=1735|end_char=1740
+14	to	to	ADP	IN	_	13	_	_	start_char=1741|end_char=1743
+15	offshore	offshore	ADJ	JJ	Degree=Pos	14	_	_	start_char=1744|end_char=1752
+16	wind	wind	NOUN	NN	Number=Sing	15	_	_	start_char=1753|end_char=1757
+17	generation	generation	NOUN	NN	Number=Sing	16	_	_	start_char=1758|end_char=1768|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=1768|end_char=1769|SpacesAfter=\n\n
+
+# text = Recommendations
+# sent_id = 15
+1	Recommendations	recommendation	NOUN	NNS	Number=Plur	0	_	_	start_char=1771|end_char=1786|SpacesAfter=\n\n
+
+# text = Further recommendations from the report include stopping the use of coal and oil to generate electricity, pricing incentives for data centres to shift electricity usage to times of low carbon emissions and publishing a long-term strategy for the delivery of a zero-carbon electricity system.
+# sent_id = 16
+1	Further	further	ADJ	JJR	Degree=Cmp	0	_	_	start_char=1788|end_char=1795
+2	recommendations	recommendation	NOUN	NNS	Number=Plur	1	_	_	start_char=1796|end_char=1811
+3	from	from	ADP	IN	_	2	_	_	start_char=1812|end_char=1816
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1817|end_char=1820
+5	report	report	NOUN	NN	Number=Sing	4	_	_	start_char=1821|end_char=1827
+6	include	include	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1828|end_char=1835
+7	stopping	stop	VERB	VBG	VerbForm=Ger	6	_	_	start_char=1836|end_char=1844
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=1845|end_char=1848
+9	use	use	NOUN	NN	Number=Sing	8	_	_	start_char=1849|end_char=1852
+10	of	of	ADP	IN	_	9	_	_	start_char=1853|end_char=1855
+11	coal	coal	NOUN	NN	Number=Sing	10	_	_	start_char=1856|end_char=1860
+12	and	and	CCONJ	CC	_	11	_	_	start_char=1861|end_char=1864
+13	oil	oil	NOUN	NN	Number=Sing	12	_	_	start_char=1865|end_char=1868
+14	to	to	PART	TO	_	13	_	_	start_char=1869|end_char=1871
+15	generate	generate	VERB	VB	VerbForm=Inf	14	_	_	start_char=1872|end_char=1880
+16	electricity	electricity	NOUN	NN	Number=Sing	15	_	_	start_char=1881|end_char=1892|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=1892|end_char=1893
+18	pricing	pricing	NOUN	NN	Number=Sing	17	_	_	start_char=1894|end_char=1901
+19	incentives	incentive	NOUN	NNS	Number=Plur	18	_	_	start_char=1902|end_char=1912
+20	for	for	ADP	IN	_	19	_	_	start_char=1913|end_char=1916
+21	data	datum	NOUN	NN	Number=Sing	20	_	_	start_char=1917|end_char=1921
+22	centres	centre	NOUN	NNS	Number=Plur	21	_	_	start_char=1922|end_char=1929
+23	to	to	PART	TO	_	22	_	_	start_char=1930|end_char=1932
+24	shift	shift	VERB	VB	VerbForm=Inf	23	_	_	start_char=1933|end_char=1938
+25	electricity	electricity	NOUN	NN	Number=Sing	24	_	_	start_char=1939|end_char=1950
+26	usage	usage	NOUN	NN	Number=Sing	25	_	_	start_char=1951|end_char=1956
+27	to	to	ADP	IN	_	26	_	_	start_char=1957|end_char=1959
+28	times	time	NOUN	NNS	Number=Plur	27	_	_	start_char=1960|end_char=1965
+29	of	of	ADP	IN	_	28	_	_	start_char=1966|end_char=1968
+30	low	low	ADJ	JJ	Degree=Pos	29	_	_	start_char=1969|end_char=1972
+31	carbon	carbon	NOUN	NN	Number=Sing	30	_	_	start_char=1973|end_char=1979
+32	emissions	emission	NOUN	NNS	Number=Plur	31	_	_	start_char=1980|end_char=1989
+33	and	and	CCONJ	CC	_	32	_	_	start_char=1990|end_char=1993
+34	publishing	publish	VERB	VBG	VerbForm=Ger	33	_	_	start_char=1994|end_char=2004
+35	a	a	DET	DT	Definite=Ind|PronType=Art	34	_	_	start_char=2005|end_char=2006
+36	long	long	ADJ	JJ	Degree=Pos	35	_	_	start_char=2007|end_char=2011|SpaceAfter=No
+37	-	-	PUNCT	HYPH	_	36	_	_	start_char=2011|end_char=2012|SpaceAfter=No
+38	term	term	NOUN	NN	Number=Sing	37	_	_	start_char=2012|end_char=2016
+39	strategy	strategy	NOUN	NN	Number=Sing	38	_	_	start_char=2017|end_char=2025
+40	for	for	ADP	IN	_	39	_	_	start_char=2026|end_char=2029
+41	the	the	DET	DT	Definite=Def|PronType=Art	40	_	_	start_char=2030|end_char=2033
+42	delivery	delivery	NOUN	NN	Number=Sing	41	_	_	start_char=2034|end_char=2042
+43	of	of	ADP	IN	_	42	_	_	start_char=2043|end_char=2045
+44	a	a	DET	DT	Definite=Ind|PronType=Art	43	_	_	start_char=2046|end_char=2047
+45	zero	zero	NUM	CD	NumForm=Word|NumType=Card	44	_	_	start_char=2048|end_char=2052|SpaceAfter=No
+46	-	-	PUNCT	HYPH	_	45	_	_	start_char=2052|end_char=2053|SpaceAfter=No
+47	carbon	carbon	NOUN	NN	Number=Sing	46	_	_	start_char=2053|end_char=2059
+48	electricity	electricity	NOUN	NN	Number=Sing	47	_	_	start_char=2060|end_char=2071
+49	system	system	NOUN	NN	Number=Sing	48	_	_	start_char=2072|end_char=2078|SpaceAfter=No
+50	.	.	PUNCT	.	_	49	_	_	start_char=2078|end_char=2079|SpacesAfter=\n\n
+
+# text = Ensuring future infrastructure is resilient to projected climate impacts, such as floods, was also recommended.
+# sent_id = 17
+1	Ensuring	ensure	VERB	VBG	VerbForm=Ger	0	_	_	start_char=2081|end_char=2089
+2	future	future	ADJ	JJ	Degree=Pos	1	_	_	start_char=2090|end_char=2096
+3	infrastructure	infrastructure	NOUN	NN	Number=Sing	2	_	_	start_char=2097|end_char=2111
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=2112|end_char=2114
+5	resilient	resilient	ADJ	JJ	Degree=Pos	4	_	_	start_char=2115|end_char=2124
+6	to	to	ADP	IN	_	5	_	_	start_char=2125|end_char=2127
+7	projected	project	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=2128|end_char=2137
+8	climate	climate	NOUN	NN	Number=Sing	7	_	_	start_char=2138|end_char=2145
+9	impacts	impact	NOUN	NNS	Number=Plur	8	_	_	start_char=2146|end_char=2153|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=2153|end_char=2154
+11	such	such	ADJ	JJ	Degree=Pos	10	_	_	start_char=2155|end_char=2159
+12	as	as	ADP	IN	_	11	_	_	start_char=2160|end_char=2162
+13	floods	flood	NOUN	NNS	Number=Plur	12	_	_	start_char=2163|end_char=2169|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=2169|end_char=2170
+15	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=2171|end_char=2174
+16	also	also	ADV	RB	_	15	_	_	start_char=2175|end_char=2179
+17	recommended	recommend	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	16	_	_	start_char=2180|end_char=2191|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=2191|end_char=2192|SpacesAfter=\n\n
+
+# text = Solar
+# sent_id = 18
+1	Solar	solar	NOUN	NN	Number=Sing	0	_	_	start_char=2194|end_char=2199|SpacesAfter=\n\n
+
+# text = There was a 90% increase in applications for solar microgeneration installations last year compared with 2022.
+# sent_id = 19
+1	There	there	PRON	EX	_	0	_	_	start_char=2201|end_char=2206
+2	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=2207|end_char=2210
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=2211|end_char=2212
+4	90	90	NUM	CD	NumForm=Digit|NumType=Card	3	_	_	start_char=2213|end_char=2215|SpaceAfter=No
+5	%	%	SYM	NN	Number=Sing	4	_	_	start_char=2215|end_char=2216
+6	increase	increase	NOUN	NN	Number=Sing	5	_	_	start_char=2217|end_char=2225
+7	in	in	ADP	IN	_	6	_	_	start_char=2226|end_char=2228
+8	applications	application	NOUN	NNS	Number=Plur	7	_	_	start_char=2229|end_char=2241
+9	for	for	ADP	IN	_	8	_	_	start_char=2242|end_char=2245
+10	solar	solar	ADJ	JJ	Degree=Pos	9	_	_	start_char=2246|end_char=2251
+11	microgeneration	microgeneration	NOUN	NN	Number=Sing	10	_	_	start_char=2252|end_char=2267
+12	installations	installation	NOUN	NNS	Number=Plur	11	_	_	start_char=2268|end_char=2281
+13	last	last	ADJ	JJ	Degree=Pos	12	_	_	start_char=2282|end_char=2286
+14	year	year	NOUN	NN	Number=Sing	13	_	_	start_char=2287|end_char=2291
+15	compared	compare	VERB	VBN	Tense=Past|VerbForm=Part	14	_	_	start_char=2292|end_char=2300
+16	with	with	ADP	IN	_	15	_	_	start_char=2301|end_char=2305
+17	2022	2022	NUM	CD	NumForm=Digit|NumType=Card	16	_	_	start_char=2306|end_char=2310|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=2310|end_char=2311|SpacesAfter=\n\n
+
+# text = ESB
+# sent_id = 20
+1	ESB	ESB	NOUN	NN	Number=Sing	0	_	_	start_char=2313|end_char=2316
+
+# text = Networs received 33,000 applications for microgeneration installations of up to 6 or11 VA in 2023, typically domestic rooftop solar PV installations.
+# sent_id = 21
+1	Networs	networ	NOUN	NNS	Number=Plur	0	_	_	start_char=2317|end_char=2324
+2	received	receive	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=2325|end_char=2333
+3	33,000	33000	NUM	CD	NumForm=Digit|NumType=Card	2	_	_	start_char=2334|end_char=2340
+4	applications	application	NOUN	NNS	Number=Plur	3	_	_	start_char=2341|end_char=2353
+5	for	for	ADP	IN	_	4	_	_	start_char=2354|end_char=2357
+6	microgeneration	microgeneration	NOUN	NN	Number=Sing	5	_	_	start_char=2358|end_char=2373
+7	installations	installation	NOUN	NNS	Number=Plur	6	_	_	start_char=2374|end_char=2387
+8	of	of	ADP	IN	_	7	_	_	start_char=2388|end_char=2390
+9	up	up	ADV	RB	_	8	_	_	start_char=2391|end_char=2393
+10	to	to	ADP	IN	_	9	_	_	start_char=2394|end_char=2396
+11	6	6	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=2397|end_char=2398
+12	or11	or11	NOUN	NN	Number=Sing	11	_	_	start_char=2399|end_char=2403
+13	VA	VA	PROPN	NNP	Number=Sing	12	_	_	start_char=2404|end_char=2406
+14	in	in	ADP	IN	_	13	_	_	start_char=2407|end_char=2409
+15	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	14	_	_	start_char=2410|end_char=2414|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=2414|end_char=2415
+17	typically	typically	ADV	RB	_	16	_	_	start_char=2416|end_char=2425
+18	domestic	domestic	ADJ	JJ	Degree=Pos	17	_	_	start_char=2426|end_char=2434
+19	rooftop	rooftop	NOUN	NN	Number=Sing	18	_	_	start_char=2435|end_char=2442
+20	solar	solar	ADJ	JJ	Degree=Pos	19	_	_	start_char=2443|end_char=2448
+21	PV	pv	NOUN	NN	Number=Sing	20	_	_	start_char=2449|end_char=2451
+22	installations	installation	NOUN	NNS	Number=Plur	21	_	_	start_char=2452|end_char=2465|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=2465|end_char=2466|SpacesAfter=\n\n
+
+# text = Last year, there was an average of 700 applications per wee.
+# sent_id = 22
+1	Last	last	ADJ	JJ	Degree=Pos	0	_	_	start_char=2468|end_char=2472
+2	year	year	NOUN	NN	Number=Sing	1	_	_	start_char=2473|end_char=2477|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=2477|end_char=2478
+4	there	there	PRON	EX	_	3	_	_	start_char=2479|end_char=2484
+5	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=2485|end_char=2488
+6	an	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=2489|end_char=2491
+7	average	average	NOUN	NN	Number=Sing	6	_	_	start_char=2492|end_char=2499
+8	of	of	ADP	IN	_	7	_	_	start_char=2500|end_char=2502
+9	700	700	NUM	CD	NumForm=Digit|NumType=Card	8	_	_	start_char=2503|end_char=2506
+10	applications	application	NOUN	NNS	Number=Plur	9	_	_	start_char=2507|end_char=2519
+11	per	per	ADP	IN	_	10	_	_	start_char=2520|end_char=2523
+12	wee	wee	NOUN	NN	Number=Sing	11	_	_	start_char=2524|end_char=2527|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=2527|end_char=2528|SpaceAfter=No
+

@@ -1,0 +1,700 @@
+# text = Why is ‘David Attenborough dead’ trending?
+# sent_id = 0
+1	Why	why	ADV	WRB	PronType=Int	0	_	_	start_char=0|end_char=3
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=4|end_char=6
+3	‘	'	PUNCT	``	_	2	_	_	start_char=7|end_char=8|SpaceAfter=No
+4	David	David	PROPN	NNP	Number=Sing	3	_	_	start_char=8|end_char=13
+5	Attenborough	Attenborough	PROPN	NNP	Number=Sing	4	_	_	start_char=14|end_char=26
+6	dead’	dead’	NOUN	NN	Number=Sing	5	_	_	start_char=27|end_char=32
+7	trending	trend	NOUN	NN	Number=Sing	6	_	_	start_char=33|end_char=41|SpaceAfter=No
+8	?	?	PUNCT	.	_	7	_	_	start_char=41|end_char=42|SpacesAfter=\s\n\n\s
+
+# text = Why is ‘David Attenborough dead’ trending?
+# sent_id = 1
+1	Why	why	ADV	WRB	PronType=Int	0	_	_	start_char=46|end_char=49
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=50|end_char=52
+3	‘	'	PUNCT	``	_	2	_	_	start_char=53|end_char=54|SpaceAfter=No
+4	David	David	PROPN	NNP	Number=Sing	3	_	_	start_char=54|end_char=59
+5	Attenborough	Attenborough	PROPN	NNP	Number=Sing	4	_	_	start_char=60|end_char=72
+6	dead’	dead’	NOUN	NN	Number=Sing	5	_	_	start_char=73|end_char=78
+7	trending	trend	NOUN	NN	Number=Sing	6	_	_	start_char=79|end_char=87|SpaceAfter=No
+8	?	?	PUNCT	.	_	7	_	_	start_char=87|end_char=88|SpacesAfter=\n\n
+
+# text = SIR DAVID
+# sent_id = 2
+1	SIR	SIR	PROPN	NNP	Number=Sing	0	_	_	start_char=90|end_char=93
+2	DAVID	DAVID	PROPN	NNP	Number=Sing	1	_	_	start_char=94|end_char=99
+
+# text = Attenborough is a much-loved broadcaster and wildlife expert, who has fans all around the world.
+# sent_id = 3
+1	Attenborough	Attenborough	PROPN	NNP	Number=Sing	0	_	_	start_char=100|end_char=112
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=113|end_char=115
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=116|end_char=117
+4	much	much	ADV	RB	_	3	_	_	start_char=118|end_char=122|SpaceAfter=No
+5	-	-	PUNCT	HYPH	_	4	_	_	start_char=122|end_char=123|SpaceAfter=No
+6	loved	love	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=123|end_char=128
+7	broadcaster	broadcaster	NOUN	NN	Number=Sing	6	_	_	start_char=129|end_char=140
+8	and	and	CCONJ	CC	_	7	_	_	start_char=141|end_char=144
+9	wildlife	wildlife	NOUN	NN	Number=Sing	8	_	_	start_char=145|end_char=153
+10	expert	expert	NOUN	NN	Number=Sing	9	_	_	start_char=154|end_char=160|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=160|end_char=161
+12	who	who	PRON	WP	PronType=Rel	11	_	_	start_char=162|end_char=165
+13	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=166|end_char=169
+14	fans	fan	NOUN	NNS	Number=Plur	13	_	_	start_char=170|end_char=174
+15	all	all	ADV	RB	_	14	_	_	start_char=175|end_char=178
+16	around	around	ADP	IN	_	15	_	_	start_char=179|end_char=185
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=186|end_char=189
+18	world	world	NOUN	NN	Number=Sing	17	_	_	start_char=190|end_char=195|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=195|end_char=196|SpacesAfter=\n\n
+
+# text = In a recent death hoax, claims circulated that the beloved figure had passed away.
+# sent_id = 4
+1	In	in	ADP	IN	_	0	_	_	start_char=198|end_char=200
+2	a	a	DET	DT	Definite=Ind|PronType=Art	1	_	_	start_char=201|end_char=202
+3	recent	recent	ADJ	JJ	Degree=Pos	2	_	_	start_char=203|end_char=209
+4	death	death	NOUN	NN	Number=Sing	3	_	_	start_char=210|end_char=215
+5	hoax	hoax	NOUN	NN	Number=Sing	4	_	_	start_char=216|end_char=220|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=220|end_char=221
+7	claims	claim	NOUN	NNS	Number=Plur	6	_	_	start_char=222|end_char=228
+8	circulated	circulate	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=229|end_char=239
+9	that	that	SCONJ	IN	_	8	_	_	start_char=240|end_char=244
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=245|end_char=248
+11	beloved	beloved	ADJ	JJ	Degree=Pos	10	_	_	start_char=249|end_char=256
+12	figure	figure	NOUN	NN	Number=Sing	11	_	_	start_char=257|end_char=263
+13	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=264|end_char=267
+14	passed	pass	VERB	VBN	Tense=Past|VerbForm=Part	13	_	_	start_char=268|end_char=274
+15	away	away	ADV	RB	_	14	_	_	start_char=275|end_char=279|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=279|end_char=280
+
+# text = However, it has since been revealed that this was only an internet rumour.
+# sent_id = 5
+1	However	however	ADV	RB	_	0	_	_	start_char=281|end_char=288|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=288|end_char=289
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	_	_	start_char=290|end_char=292
+4	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=293|end_char=296
+5	since	since	ADV	RB	_	4	_	_	start_char=297|end_char=302
+6	been	be	AUX	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=303|end_char=307
+7	revealed	reveal	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	_	_	start_char=308|end_char=316
+8	that	that	SCONJ	IN	_	7	_	_	start_char=317|end_char=321
+9	this	this	PRON	DT	Number=Sing|PronType=Dem	8	_	_	start_char=322|end_char=326
+10	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=327|end_char=330
+11	only	only	ADV	RB	_	10	_	_	start_char=331|end_char=335
+12	an	a	DET	DT	Definite=Ind|PronType=Art	11	_	_	start_char=336|end_char=338
+13	internet	internet	NOUN	NN	Number=Sing	12	_	_	start_char=339|end_char=347
+14	rumour	rumour	NOUN	NN	Number=Sing	13	_	_	start_char=348|end_char=354|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=354|end_char=355|SpacesAfter=\n\n
+
+# text = Why is ‘David Attenborough dead’ trending?
+# sent_id = 6
+1	Why	why	ADV	WRB	PronType=Int	0	_	_	start_char=357|end_char=360
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=361|end_char=363
+3	‘	'	PUNCT	``	_	2	_	_	start_char=364|end_char=365|SpaceAfter=No
+4	David	David	PROPN	NNP	Number=Sing	3	_	_	start_char=365|end_char=370
+5	Attenborough	Attenborough	PROPN	NNP	Number=Sing	4	_	_	start_char=371|end_char=383
+6	dead’	dead’	NOUN	NN	Number=Sing	5	_	_	start_char=384|end_char=389
+7	trending	trend	NOUN	NN	Number=Sing	6	_	_	start_char=390|end_char=398|SpaceAfter=No
+8	?	?	PUNCT	.	_	7	_	_	start_char=398|end_char=399|SpacesAfter=\n\n
+
+# text = To fans' relief, the reason that "David Attenborough dead" is trending is that Sir David Attenborough is the victim of a death hoax.
+# sent_id = 7
+1	To	to	ADP	IN	_	0	_	_	start_char=401|end_char=403
+2-3	fans'	_	_	_	_	_	_	_	start_char=404|end_char=409
+2	fans	fan	NOUN	NNS	Number=Plur	1	_	_	start_char=404|end_char=408
+3	'	's	PART	POS	_	2	_	_	start_char=408|end_char=409
+4	relief	relief	NOUN	NN	Number=Sing	3	_	_	start_char=410|end_char=416|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=416|end_char=417
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=418|end_char=421
+7	reason	reason	NOUN	NN	Number=Sing	6	_	_	start_char=422|end_char=428
+8	that	that	SCONJ	IN	_	7	_	_	start_char=429|end_char=433
+9	"	"	PUNCT	``	_	8	_	_	start_char=434|end_char=435|SpaceAfter=No
+10	David	David	PROPN	NNP	Number=Sing	9	_	_	start_char=435|end_char=440
+11	Attenborough	Attenborough	PROPN	NNP	Number=Sing	10	_	_	start_char=441|end_char=453
+12	dead	dead	ADJ	JJ	Degree=Pos	11	_	_	start_char=454|end_char=458|SpaceAfter=No
+13	"	"	PUNCT	''	_	12	_	_	start_char=458|end_char=459
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=460|end_char=462
+15	trending	trend	VERB	VBG	Tense=Pres|VerbForm=Part	14	_	_	start_char=463|end_char=471
+16	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=472|end_char=474
+17	that	that	SCONJ	IN	_	16	_	_	start_char=475|end_char=479
+18	Sir	Sir	PROPN	NNP	Number=Sing	17	_	_	start_char=480|end_char=483
+19	David	David	PROPN	NNP	Number=Sing	18	_	_	start_char=484|end_char=489
+20	Attenborough	Attenborough	PROPN	NNP	Number=Sing	19	_	_	start_char=490|end_char=502
+21	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	_	_	start_char=503|end_char=505
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=506|end_char=509
+23	victim	victim	NOUN	NN	Number=Sing	22	_	_	start_char=510|end_char=516
+24	of	of	ADP	IN	_	23	_	_	start_char=517|end_char=519
+25	a	a	DET	DT	Definite=Ind|PronType=Art	24	_	_	start_char=520|end_char=521
+26	death	death	NOUN	NN	Number=Sing	25	_	_	start_char=522|end_char=527
+27	hoax	hoax	NOUN	NN	Number=Sing	26	_	_	start_char=528|end_char=532|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=532|end_char=533|SpacesAfter=\n\n
+
+# text = There is no truth to it, and the wildlife expert is still alive.
+# sent_id = 8
+1	There	there	PRON	EX	_	0	_	_	start_char=535|end_char=540
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=541|end_char=543
+3	no	no	DET	DT	_	2	_	_	start_char=544|end_char=546
+4	truth	truth	NOUN	NN	Number=Sing	3	_	_	start_char=547|end_char=552
+5	to	to	ADP	IN	_	4	_	_	start_char=553|end_char=555
+6	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	_	_	start_char=556|end_char=558|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=558|end_char=559
+8	and	and	CCONJ	CC	_	7	_	_	start_char=560|end_char=563
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=564|end_char=567
+10	wildlife	wildlife	NOUN	NN	Number=Sing	9	_	_	start_char=568|end_char=576
+11	expert	expert	NOUN	NN	Number=Sing	10	_	_	start_char=577|end_char=583
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=584|end_char=586
+13	still	still	ADV	RB	_	12	_	_	start_char=587|end_char=592
+14	alive	alive	ADJ	JJ	Degree=Pos	13	_	_	start_char=593|end_char=598|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=598|end_char=599|SpacesAfter=\n\n
+
+# text = The cruel hoax started when somebody wrote an "Obituary of David Attenborough" on WiiObits.
+# sent_id = 9
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=601|end_char=604
+2	cruel	cruel	ADJ	JJ	Degree=Pos	1	_	_	start_char=605|end_char=610
+3	hoax	hoax	NOUN	NN	Number=Sing	2	_	_	start_char=611|end_char=615
+4	started	start	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=616|end_char=623
+5	when	when	ADV	WRB	PronType=Int	4	_	_	start_char=624|end_char=628
+6	somebody	somebody	PRON	NN	Number=Sing|PronType=Ind	5	_	_	start_char=629|end_char=637
+7	wrote	write	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=638|end_char=643
+8	an	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=644|end_char=646
+9	"	"	PUNCT	``	_	8	_	_	start_char=647|end_char=648|SpaceAfter=No
+10	Obituary	Obituary	PROPN	NNP	Number=Sing	9	_	_	start_char=648|end_char=656
+11	of	of	ADP	IN	_	10	_	_	start_char=657|end_char=659
+12	David	David	PROPN	NNP	Number=Sing	11	_	_	start_char=660|end_char=665
+13	Attenborough	Attenborough	PROPN	NNP	Number=Sing	12	_	_	start_char=666|end_char=678|SpaceAfter=No
+14	"	"	PUNCT	''	_	13	_	_	start_char=678|end_char=679
+15	on	on	ADP	IN	_	14	_	_	start_char=680|end_char=682
+16	WiiObits	WiiObits	PROPN	NNP	Number=Sing	15	_	_	start_char=683|end_char=691|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=691|end_char=692|SpacesAfter=\n\n
+
+# text = The fae obituary read: "David Attenborough (born May 8th, 1926 in Isleworth, England) was an TV Personality who was best nown for being a noted historian woring for the BBC.
+# sent_id = 10
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=694|end_char=697
+2	fae	fae	NOUN	NN	Number=Sing	1	_	_	start_char=698|end_char=701
+3	obituary	obituary	NOUN	NN	Number=Sing	2	_	_	start_char=702|end_char=710
+4	read	read	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=711|end_char=715|SpaceAfter=No
+5	:	:	PUNCT	:	_	4	_	_	start_char=715|end_char=716
+6	"	"	PUNCT	``	_	5	_	_	start_char=717|end_char=718|SpaceAfter=No
+7	David	David	PROPN	NNP	Number=Sing	6	_	_	start_char=718|end_char=723
+8	Attenborough	Attenborough	PROPN	NNP	Number=Sing	7	_	_	start_char=724|end_char=736
+9	(	(	PUNCT	-LRB-	_	8	_	_	start_char=737|end_char=738|SpaceAfter=No
+10	born	bear	VERB	VBN	Tense=Past|VerbForm=Part	9	_	_	start_char=738|end_char=742
+11	May	May	PROPN	NNP	Number=Sing	10	_	_	start_char=743|end_char=746
+12	8th	8th	NOUN	NN	NumType=Ord|Number=Sing	11	_	_	start_char=747|end_char=750|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=750|end_char=751
+14	1926	1926	NUM	CD	NumForm=Digit|NumType=Card	13	_	_	start_char=752|end_char=756
+15	in	in	ADP	IN	_	14	_	_	start_char=757|end_char=759
+16	Isleworth	Isleworth	PROPN	NNP	Number=Sing	15	_	_	start_char=760|end_char=769|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=769|end_char=770
+18	England	England	PROPN	NNP	Number=Sing	17	_	_	start_char=771|end_char=778|SpaceAfter=No
+19	)	)	PUNCT	-RRB-	_	18	_	_	start_char=778|end_char=779
+20	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	_	_	start_char=780|end_char=783
+21	an	a	DET	DT	Definite=Ind|PronType=Art	20	_	_	start_char=784|end_char=786
+22	TV	TV	NOUN	NN	Number=Sing	21	_	_	start_char=787|end_char=789
+23	Personality	personality	NOUN	NN	Number=Sing	22	_	_	start_char=790|end_char=801
+24	who	who	PRON	WP	PronType=Rel	23	_	_	start_char=802|end_char=805
+25	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	_	_	start_char=806|end_char=809
+26	best	good	ADJ	JJS	Degree=Sup	25	_	_	start_char=810|end_char=814
+27	nown	nown	ADJ	JJ	Degree=Pos	26	_	_	start_char=815|end_char=819
+28	for	for	SCONJ	IN	_	27	_	_	start_char=820|end_char=823
+29	being	be	AUX	VBG	VerbForm=Ger	28	_	_	start_char=824|end_char=829
+30	a	a	DET	DT	Definite=Ind|PronType=Art	29	_	_	start_char=830|end_char=831
+31	noted	note	VERB	VBN	Tense=Past|VerbForm=Part	30	_	_	start_char=832|end_char=837
+32	historian	historian	NOUN	NN	Number=Sing	31	_	_	start_char=838|end_char=847
+33	woring	wore	VERB	VBG	VerbForm=Ger	32	_	_	start_char=848|end_char=854
+34	for	for	ADP	IN	_	33	_	_	start_char=855|end_char=858
+35	the	the	DET	DT	Definite=Def|PronType=Art	34	_	_	start_char=859|end_char=862
+36	BBC	BBC	PROPN	NNP	Number=Sing	35	_	_	start_char=863|end_char=866|SpaceAfter=No
+37	.	.	PUNCT	.	_	36	_	_	start_char=866|end_char=867|SpacesAfter=\n\n
+
+# text = "David died on October 11th, 2023 (TBV) and his death was possibly because of natural causes.
+# sent_id = 11
+1	"	"	PUNCT	``	_	0	_	_	start_char=869|end_char=870|SpaceAfter=No
+2	David	David	PROPN	NNP	Number=Sing	1	_	_	start_char=870|end_char=875
+3	died	die	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=876|end_char=880
+4	on	on	ADP	IN	_	3	_	_	start_char=881|end_char=883
+5	October	October	PROPN	NNP	Number=Sing	4	_	_	start_char=884|end_char=891
+6	11th	11th	NOUN	NN	NumType=Ord|Number=Sing	5	_	_	start_char=892|end_char=896|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=896|end_char=897
+8	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	7	_	_	start_char=898|end_char=902
+9	(	(	PUNCT	-LRB-	_	8	_	_	start_char=903|end_char=904|SpaceAfter=No
+10	TBV	TBV	PROPN	NNP	Number=Sing	9	_	_	start_char=904|end_char=907|SpaceAfter=No
+11	)	)	PUNCT	-RRB-	_	10	_	_	start_char=907|end_char=908
+12	and	and	CCONJ	CC	_	11	_	_	start_char=909|end_char=912
+13	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	_	_	start_char=913|end_char=916
+14	death	death	NOUN	NN	Number=Sing	13	_	_	start_char=917|end_char=922
+15	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=923|end_char=926
+16	possibly	possibly	ADV	RB	_	15	_	_	start_char=927|end_char=935
+17	because	because	ADP	IN	_	16	_	_	start_char=936|end_char=943
+18	of	of	ADP	IN	_	17	_	_	start_char=944|end_char=946
+19	natural	natural	ADJ	JJ	Degree=Pos	18	_	_	start_char=947|end_char=954
+20	causes	cause	NOUN	NNS	Number=Plur	19	_	_	start_char=955|end_char=961|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=961|end_char=962
+
+# text = He was an impressive, 97 years old."
+# sent_id = 12
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=963|end_char=965
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=966|end_char=969
+3	an	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=970|end_char=972
+4	impressive	impressive	ADJ	JJ	Degree=Pos	3	_	_	start_char=973|end_char=983|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=983|end_char=984
+6	97	97	NUM	CD	NumForm=Digit|NumType=Card	5	_	_	start_char=985|end_char=987
+7	years	year	NOUN	NNS	Number=Plur	6	_	_	start_char=988|end_char=993
+8	old	old	ADJ	JJ	Degree=Pos	7	_	_	start_char=994|end_char=997|SpaceAfter=No
+9	.	.	PUNCT	.	_	8	_	_	start_char=997|end_char=998|SpaceAfter=No
+10	"	"	PUNCT	''	_	9	_	_	start_char=998|end_char=999|SpacesAfter=\n\n
+
+# text = However, the obituary is completely fae, and just a hoax to fool Sir David's loyal fans.
+# sent_id = 13
+1	However	however	ADV	RB	_	0	_	_	start_char=1001|end_char=1008|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=1008|end_char=1009
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1010|end_char=1013
+4	obituary	obituary	NOUN	NN	Number=Sing	3	_	_	start_char=1014|end_char=1022
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1023|end_char=1025
+6	completely	completely	ADV	RB	_	5	_	_	start_char=1026|end_char=1036
+7	fae	fae	ADJ	JJ	Degree=Pos	6	_	_	start_char=1037|end_char=1040|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=1040|end_char=1041
+9	and	and	CCONJ	CC	_	8	_	_	start_char=1042|end_char=1045
+10	just	just	ADV	RB	_	9	_	_	start_char=1046|end_char=1050
+11	a	a	DET	DT	Definite=Ind|PronType=Art	10	_	_	start_char=1051|end_char=1052
+12	hoax	hoax	NOUN	NN	Number=Sing	11	_	_	start_char=1053|end_char=1057
+13	to	to	PART	TO	_	12	_	_	start_char=1058|end_char=1060
+14	fool	fool	VERB	VB	VerbForm=Inf	13	_	_	start_char=1061|end_char=1065
+15	Sir	Sir	PROPN	NNP	Number=Sing	14	_	_	start_char=1066|end_char=1069
+16-17	David's	_	_	_	_	_	_	_	start_char=1070|end_char=1077
+16	David	David	PROPN	NNP	Number=Sing	15	_	_	start_char=1070|end_char=1075
+17	's	's	PART	POS	_	16	_	_	start_char=1075|end_char=1077
+18	loyal	loyal	ADJ	JJ	Degree=Pos	17	_	_	start_char=1078|end_char=1083
+19	fans	fan	NOUN	NNS	Number=Plur	18	_	_	start_char=1084|end_char=1088|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=1088|end_char=1089|SpacesAfter=\n\n
+
+# text = Has 'David Attenborough dead' trended before?
+# sent_id = 14
+1	Has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	start_char=1091|end_char=1094
+2	'	'	PUNCT	``	_	1	_	_	start_char=1095|end_char=1096|SpaceAfter=No
+3	David	David	PROPN	NNP	Number=Sing	2	_	_	start_char=1096|end_char=1101
+4	Attenborough	Attenborough	PROPN	NNP	Number=Sing	3	_	_	start_char=1102|end_char=1114
+5	dead	dead	ADJ	JJ	Degree=Pos	4	_	_	start_char=1115|end_char=1119|SpaceAfter=No
+6	'	'	PUNCT	''	_	5	_	_	start_char=1119|end_char=1120
+7	trended	trend	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=1121|end_char=1128
+8	before	before	ADV	RB	_	7	_	_	start_char=1129|end_char=1135|SpaceAfter=No
+9	?	?	PUNCT	.	_	8	_	_	start_char=1135|end_char=1136|SpacesAfter=\n\n
+
+# text = Sadly this isn't the first time that Sir David has been the victim of a death hoax.
+# sent_id = 15
+1	Sadly	sadly	ADV	RB	_	0	_	_	start_char=1138|end_char=1143
+2	this	this	PRON	DT	Number=Sing|PronType=Dem	1	_	_	start_char=1144|end_char=1148
+3-4	isn't	_	_	_	_	_	_	_	start_char=1149|end_char=1154
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1149|end_char=1151
+4	n't	not	PART	RB	_	3	_	_	start_char=1151|end_char=1154
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1155|end_char=1158
+6	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	5	_	_	start_char=1159|end_char=1164
+7	time	time	NOUN	NN	Number=Sing	6	_	_	start_char=1165|end_char=1169
+8	that	that	SCONJ	IN	_	7	_	_	start_char=1170|end_char=1174
+9	Sir	Sir	PROPN	NNP	Number=Sing	8	_	_	start_char=1175|end_char=1178
+10	David	David	PROPN	NNP	Number=Sing	9	_	_	start_char=1179|end_char=1184
+11	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=1185|end_char=1188
+12	been	be	AUX	VBN	Tense=Past|VerbForm=Part	11	_	_	start_char=1189|end_char=1193
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1194|end_char=1197
+14	victim	victim	NOUN	NN	Number=Sing	13	_	_	start_char=1198|end_char=1204
+15	of	of	ADP	IN	_	14	_	_	start_char=1205|end_char=1207
+16	a	a	DET	DT	Definite=Ind|PronType=Art	15	_	_	start_char=1208|end_char=1209
+17	death	death	NOUN	NN	Number=Sing	16	_	_	start_char=1210|end_char=1215
+18	hoax	hoax	NOUN	NN	Number=Sing	17	_	_	start_char=1216|end_char=1220|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=1220|end_char=1221|SpacesAfter=\n\n
+
+# text = In August 2023, "David Attenborough dead" was trending after rumours started spreading on WhatsApp and other social media platforms.
+# sent_id = 16
+1	In	in	ADP	IN	_	0	_	_	start_char=1223|end_char=1225
+2	August	August	PROPN	NNP	Number=Sing	1	_	_	start_char=1226|end_char=1232
+3	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	2	_	_	start_char=1233|end_char=1237|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1237|end_char=1238
+5	"	"	PUNCT	``	_	4	_	_	start_char=1239|end_char=1240|SpaceAfter=No
+6	David	David	PROPN	NNP	Number=Sing	5	_	_	start_char=1240|end_char=1245
+7	Attenborough	Attenborough	PROPN	NNP	Number=Sing	6	_	_	start_char=1246|end_char=1258
+8	dead	dead	ADJ	JJ	Degree=Pos	7	_	_	start_char=1259|end_char=1263|SpaceAfter=No
+9	"	"	PUNCT	''	_	8	_	_	start_char=1263|end_char=1264
+10	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=1265|end_char=1268
+11	trending	trend	VERB	VBG	Tense=Pres|VerbForm=Part	10	_	_	start_char=1269|end_char=1277
+12	after	after	SCONJ	IN	_	11	_	_	start_char=1278|end_char=1283
+13	rumours	rumour	NOUN	NNS	Number=Plur	12	_	_	start_char=1284|end_char=1291
+14	started	start	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	13	_	_	start_char=1292|end_char=1299
+15	spreading	spread	VERB	VBG	VerbForm=Ger	14	_	_	start_char=1300|end_char=1309
+16	on	on	ADP	IN	_	15	_	_	start_char=1310|end_char=1312
+17	WhatsApp	WhatsApp	PROPN	NNP	Number=Sing	16	_	_	start_char=1313|end_char=1321
+18	and	and	CCONJ	CC	_	17	_	_	start_char=1322|end_char=1325
+19	other	other	ADJ	JJ	Degree=Pos	18	_	_	start_char=1326|end_char=1331
+20	social	social	ADJ	JJ	Degree=Pos	19	_	_	start_char=1332|end_char=1338
+21	media	media	NOUN	NN	Number=Sing	20	_	_	start_char=1339|end_char=1344
+22	platforms	platform	NOUN	NNS	Number=Plur	21	_	_	start_char=1345|end_char=1354|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=1354|end_char=1355|SpacesAfter=\n\n
+
+# text = Fans again went online in a panic, but once again this was completely false news.
+# sent_id = 17
+1	Fans	fan	NOUN	NNS	Number=Plur	0	_	_	start_char=1357|end_char=1361
+2	again	again	ADV	RB	_	1	_	_	start_char=1362|end_char=1367
+3	went	go	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1368|end_char=1372
+4	online	online	ADV	RB	_	3	_	_	start_char=1373|end_char=1379
+5	in	in	ADP	IN	_	4	_	_	start_char=1380|end_char=1382
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=1383|end_char=1384
+7	panic	panic	NOUN	NN	Number=Sing	6	_	_	start_char=1385|end_char=1390|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=1390|end_char=1391
+9	but	but	CCONJ	CC	_	8	_	_	start_char=1392|end_char=1395
+10	once	once	ADV	RB	NumType=Mult	9	_	_	start_char=1396|end_char=1400
+11	again	again	ADV	RB	_	10	_	_	start_char=1401|end_char=1406
+12	this	this	PRON	DT	Number=Sing|PronType=Dem	11	_	_	start_char=1407|end_char=1411
+13	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=1412|end_char=1415
+14	completely	completely	ADV	RB	_	13	_	_	start_char=1416|end_char=1426
+15	false	false	ADJ	JJ	Degree=Pos	14	_	_	start_char=1427|end_char=1432
+16	news	news	NOUN	NN	Number=Sing	15	_	_	start_char=1433|end_char=1437|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=1437|end_char=1438|SpacesAfter=\n\n
+
+# text = Famous faces are often the victims of death notices - only for them to be false.
+# sent_id = 18
+1	Famous	Famous	ADJ	JJ	Degree=Pos	0	_	_	start_char=1440|end_char=1446
+2	faces	face	NOUN	NNS	Number=Plur	1	_	_	start_char=1447|end_char=1452
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1453|end_char=1456
+4	often	often	ADV	RB	_	3	_	_	start_char=1457|end_char=1462
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1463|end_char=1466
+6	victims	victim	NOUN	NNS	Number=Plur	5	_	_	start_char=1467|end_char=1474
+7	of	of	ADP	IN	_	6	_	_	start_char=1475|end_char=1477
+8	death	death	NOUN	NN	Number=Sing	7	_	_	start_char=1478|end_char=1483
+9	notices	notice	NOUN	NNS	Number=Plur	8	_	_	start_char=1484|end_char=1491
+10	-	-	PUNCT	,	_	9	_	_	start_char=1492|end_char=1493
+11	only	only	ADV	RB	_	10	_	_	start_char=1494|end_char=1498
+12	for	for	SCONJ	IN	_	11	_	_	start_char=1499|end_char=1502
+13	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	12	_	_	start_char=1503|end_char=1507
+14	to	to	PART	TO	_	13	_	_	start_char=1508|end_char=1510
+15	be	be	AUX	VB	VerbForm=Inf	14	_	_	start_char=1511|end_char=1513
+16	false	false	ADJ	JJ	Degree=Pos	15	_	_	start_char=1514|end_char=1519|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=1519|end_char=1520|SpacesAfter=\n\n
+
+# text = One fan tweeted: "Every time I see ing David Attenborough on trending only to find out it's just him doing the absolute most for this planet to thrive as he usually does."
+# sent_id = 19
+1	One	one	NUM	CD	NumForm=Word|NumType=Card	0	_	_	start_char=1522|end_char=1525
+2	fan	fan	NOUN	NN	Number=Sing	1	_	_	start_char=1526|end_char=1529
+3	tweeted	tweet	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1530|end_char=1537|SpaceAfter=No
+4	:	:	PUNCT	:	_	3	_	_	start_char=1537|end_char=1538
+5	"	"	PUNCT	``	_	4	_	_	start_char=1539|end_char=1540|SpaceAfter=No
+6	Every	every	DET	DT	_	5	_	_	start_char=1540|end_char=1545
+7	time	time	NOUN	NN	Number=Sing	6	_	_	start_char=1546|end_char=1550
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	_	_	start_char=1551|end_char=1552
+9	see	see	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	_	_	start_char=1553|end_char=1556
+10	ing	ing	ADP	IN	_	9	_	_	start_char=1557|end_char=1560
+11	David	David	PROPN	NNP	Number=Sing	10	_	_	start_char=1561|end_char=1566
+12	Attenborough	Attenborough	PROPN	NNP	Number=Sing	11	_	_	start_char=1567|end_char=1579
+13	on	on	SCONJ	IN	_	12	_	_	start_char=1580|end_char=1582
+14	trending	trend	VERB	VBG	VerbForm=Ger	13	_	_	start_char=1583|end_char=1591
+15	only	only	ADV	RB	_	14	_	_	start_char=1592|end_char=1596
+16	to	to	PART	TO	_	15	_	_	start_char=1597|end_char=1599
+17	find	find	VERB	VB	VerbForm=Inf	16	_	_	start_char=1600|end_char=1604
+18	out	out	ADP	RP	_	17	_	_	start_char=1605|end_char=1608
+19-20	it's	_	_	_	_	_	_	_	start_char=1609|end_char=1613
+19	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	_	_	start_char=1609|end_char=1611
+20	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	_	_	start_char=1611|end_char=1613
+21	just	just	ADV	RB	_	20	_	_	start_char=1614|end_char=1618
+22	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	_	_	start_char=1619|end_char=1622
+23	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	22	_	_	start_char=1623|end_char=1628
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=1629|end_char=1632
+25	absolute	absolute	ADJ	JJ	Degree=Pos	24	_	_	start_char=1633|end_char=1641
+26	most	most	ADJ	JJS	Degree=Sup	25	_	_	start_char=1642|end_char=1646
+27	for	for	SCONJ	IN	_	26	_	_	start_char=1647|end_char=1650
+28	this	this	DET	DT	Number=Sing|PronType=Dem	27	_	_	start_char=1651|end_char=1655
+29	planet	planet	NOUN	NN	Number=Sing	28	_	_	start_char=1656|end_char=1662
+30	to	to	PART	TO	_	29	_	_	start_char=1663|end_char=1665
+31	thrive	thrive	VERB	VB	VerbForm=Inf	30	_	_	start_char=1666|end_char=1672
+32	as	as	SCONJ	IN	_	31	_	_	start_char=1673|end_char=1675
+33	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	32	_	_	start_char=1676|end_char=1678
+34	usually	usually	ADV	RB	_	33	_	_	start_char=1679|end_char=1686
+35	does	do	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	34	_	_	start_char=1687|end_char=1691|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=1691|end_char=1692|SpaceAfter=No
+37	"	"	PUNCT	''	_	36	_	_	start_char=1692|end_char=1693|SpacesAfter=\n\n
+
+# text = Another agreed: "Me seeing David Attenborough trending again and realising it’s just the usual legend wor and not…the other thing."
+# sent_id = 20
+1	Another	another	DET	DT	_	0	_	_	start_char=1695|end_char=1702
+2	agreed	agree	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	1	_	_	start_char=1703|end_char=1709|SpaceAfter=No
+3	:	:	PUNCT	:	_	2	_	_	start_char=1709|end_char=1710
+4	"	"	PUNCT	``	_	3	_	_	start_char=1711|end_char=1712|SpaceAfter=No
+5	Me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	_	_	start_char=1712|end_char=1714
+6	seeing	see	VERB	VBG	VerbForm=Ger	5	_	_	start_char=1715|end_char=1721
+7	David	David	PROPN	NNP	Number=Sing	6	_	_	start_char=1722|end_char=1727
+8	Attenborough	Attenborough	PROPN	NNP	Number=Sing	7	_	_	start_char=1728|end_char=1740
+9	trending	trend	VERB	VBG	VerbForm=Ger	8	_	_	start_char=1741|end_char=1749
+10	again	again	ADV	RB	_	9	_	_	start_char=1750|end_char=1755
+11	and	and	CCONJ	CC	_	10	_	_	start_char=1756|end_char=1759
+12	realising	realise	VERB	VBG	VerbForm=Ger	11	_	_	start_char=1760|end_char=1769
+13-14	it’s	_	_	_	_	_	_	_	start_char=1770|end_char=1774
+13	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	_	_	start_char=1770|end_char=1772
+14	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=1772|end_char=1774
+15	just	just	ADV	RB	_	14	_	_	start_char=1775|end_char=1779
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=1780|end_char=1783
+17	usual	usual	ADJ	JJ	Degree=Pos	16	_	_	start_char=1784|end_char=1789
+18	legend	legend	NOUN	NN	Number=Sing	17	_	_	start_char=1790|end_char=1796
+19	wor	wor	NOUN	NN	Number=Sing	18	_	_	start_char=1797|end_char=1800
+20	and	and	CCONJ	CC	_	19	_	_	start_char=1801|end_char=1804
+21	not	not	PART	RB	_	20	_	_	start_char=1805|end_char=1808|SpaceAfter=No
+22	…	…	PUNCT	:	_	21	_	_	start_char=1808|end_char=1809|SpaceAfter=No
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=1809|end_char=1812
+24	other	other	ADJ	JJ	Degree=Pos	23	_	_	start_char=1813|end_char=1818
+25	thing	thing	NOUN	NN	Number=Sing	24	_	_	start_char=1819|end_char=1824|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=1824|end_char=1825|SpaceAfter=No
+27	"	"	PUNCT	''	_	26	_	_	start_char=1825|end_char=1826|SpacesAfter=\n\n
+
+# text = Who is David Attenborough?
+# sent_id = 21
+1	Who	who	PRON	WP	PronType=Int	0	_	_	start_char=1828|end_char=1831
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1832|end_char=1834
+3	David	David	PROPN	NNP	Number=Sing	2	_	_	start_char=1835|end_char=1840
+4	Attenborough	Attenborough	PROPN	NNP	Number=Sing	3	_	_	start_char=1841|end_char=1853|SpaceAfter=No
+5	?	?	PUNCT	.	_	4	_	_	start_char=1853|end_char=1854|SpacesAfter=\n\n
+
+# text = Sir David Attenborough is a veteran broadcaster and wildlife expert, who was born on May 8, 1926, in Isleworth, London.
+# sent_id = 22
+1	Sir	Sir	PROPN	NNP	Number=Sing	0	_	_	start_char=1856|end_char=1859
+2	David	David	PROPN	NNP	Number=Sing	1	_	_	start_char=1860|end_char=1865
+3	Attenborough	Attenborough	PROPN	NNP	Number=Sing	2	_	_	start_char=1866|end_char=1878
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1879|end_char=1881
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=1882|end_char=1883
+6	veteran	veteran	ADJ	JJ	Degree=Pos	5	_	_	start_char=1884|end_char=1891
+7	broadcaster	broadcaster	NOUN	NN	Number=Sing	6	_	_	start_char=1892|end_char=1903
+8	and	and	CCONJ	CC	_	7	_	_	start_char=1904|end_char=1907
+9	wildlife	wildlife	NOUN	NN	Number=Sing	8	_	_	start_char=1908|end_char=1916
+10	expert	expert	NOUN	NN	Number=Sing	9	_	_	start_char=1917|end_char=1923|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=1923|end_char=1924
+12	who	who	PRON	WP	PronType=Rel	11	_	_	start_char=1925|end_char=1928
+13	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=1929|end_char=1932
+14	born	bear	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	13	_	_	start_char=1933|end_char=1937
+15	on	on	ADP	IN	_	14	_	_	start_char=1938|end_char=1940
+16	May	May	PROPN	NNP	Number=Sing	15	_	_	start_char=1941|end_char=1944
+17	8	8	NUM	CD	NumForm=Digit|NumType=Card	16	_	_	start_char=1945|end_char=1946|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=1946|end_char=1947
+19	1926	1926	NUM	CD	NumForm=Digit|NumType=Card	18	_	_	start_char=1948|end_char=1952|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=1952|end_char=1953
+21	in	in	ADP	IN	_	20	_	_	start_char=1954|end_char=1956
+22	Isleworth	Isleworth	PROPN	NNP	Number=Sing	21	_	_	start_char=1957|end_char=1966|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=1966|end_char=1967
+24	London	London	PROPN	NNP	Number=Sing	23	_	_	start_char=1968|end_char=1974|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=1974|end_char=1975|SpacesAfter=\n\n
+
+# text = His brother is the late movie star Richard Attenborough, who was nown for the original Jurassic Par trilogy.
+# sent_id = 23
+1	His	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	_	_	start_char=1977|end_char=1980
+2	brother	brother	NOUN	NN	Number=Sing	1	_	_	start_char=1981|end_char=1988
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1989|end_char=1991
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1992|end_char=1995
+5	late	late	ADJ	JJ	Degree=Pos	4	_	_	start_char=1996|end_char=2000
+6	movie	movie	NOUN	NN	Number=Sing	5	_	_	start_char=2001|end_char=2006
+7	star	star	NOUN	NN	Number=Sing	6	_	_	start_char=2007|end_char=2011
+8	Richard	Richard	PROPN	NNP	Number=Sing	7	_	_	start_char=2012|end_char=2019
+9	Attenborough	Attenborough	PROPN	NNP	Number=Sing	8	_	_	start_char=2020|end_char=2032|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=2032|end_char=2033
+11	who	who	PRON	WP	PronType=Rel	10	_	_	start_char=2034|end_char=2037
+12	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=2038|end_char=2041
+13	nown	nown	ADV	RB	_	12	_	_	start_char=2042|end_char=2046
+14	for	for	ADP	IN	_	13	_	_	start_char=2047|end_char=2050
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=2051|end_char=2054
+16	original	original	ADJ	JJ	Degree=Pos	15	_	_	start_char=2055|end_char=2063
+17	Jurassic	Jurassic	PROPN	NNP	Number=Sing	16	_	_	start_char=2064|end_char=2072
+18	Par	Par	PROPN	NNP	Number=Sing	17	_	_	start_char=2073|end_char=2076
+19	trilogy	trilogy	NOUN	NN	Number=Sing	18	_	_	start_char=2077|end_char=2084|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=2084|end_char=2085|SpacesAfter=\n\n
+
+# text = Sir David started his career as the narrator of Wildlife On One in 1977 - the series then ran until 2005.
+# sent_id = 24
+1	Sir	Sir	PROPN	NNP	Number=Sing	0	_	_	start_char=2087|end_char=2090
+2	David	David	PROPN	NNP	Number=Sing	1	_	_	start_char=2091|end_char=2096
+3	started	start	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=2097|end_char=2104
+4	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	_	_	start_char=2105|end_char=2108
+5	career	career	NOUN	NN	Number=Sing	4	_	_	start_char=2109|end_char=2115
+6	as	as	ADP	IN	_	5	_	_	start_char=2116|end_char=2118
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=2119|end_char=2122
+8	narrator	narrator	NOUN	NN	Number=Sing	7	_	_	start_char=2123|end_char=2131
+9	of	of	ADP	IN	_	8	_	_	start_char=2132|end_char=2134
+10	Wildlife	Wildlife	PROPN	NNP	Number=Sing	9	_	_	start_char=2135|end_char=2143
+11	On	on	ADP	IN	_	10	_	_	start_char=2144|end_char=2146
+12	One	One	PROPN	NNP	Number=Sing	11	_	_	start_char=2147|end_char=2150
+13	in	in	ADP	IN	_	12	_	_	start_char=2151|end_char=2153
+14	1977	1977	NUM	CD	NumForm=Digit|NumType=Card	13	_	_	start_char=2154|end_char=2158
+15	-	-	PUNCT	,	_	14	_	_	start_char=2159|end_char=2160
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=2161|end_char=2164
+17	series	series	NOUN	NN	Number=Sing	16	_	_	start_char=2165|end_char=2171
+18	then	then	ADV	RB	PronType=Dem	17	_	_	start_char=2172|end_char=2176
+19	ran	run	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	_	_	start_char=2177|end_char=2180
+20	until	until	ADP	IN	_	19	_	_	start_char=2181|end_char=2186
+21	2005	2005	NUM	CD	NumForm=Digit|NumType=Card	20	_	_	start_char=2187|end_char=2191|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=2191|end_char=2192|SpacesAfter=\n\n
+
+# text = But he came to prominence with Life on Earth in 1979 which spawned a series of Life programmes including Life In The Freezer, The Private Life Of Plants, The Life Of Birds and The Life Of Mammals.
+# sent_id = 25
+1	But	but	CCONJ	CC	_	0	_	_	start_char=2194|end_char=2197
+2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	_	_	start_char=2198|end_char=2200
+3	came	come	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=2201|end_char=2205
+4	to	to	ADP	IN	_	3	_	_	start_char=2206|end_char=2208
+5	prominence	prominence	NOUN	NN	Number=Sing	4	_	_	start_char=2209|end_char=2219
+6	with	with	ADP	IN	_	5	_	_	start_char=2220|end_char=2224
+7	Life	Life	PROPN	NNP	Number=Sing	6	_	_	start_char=2225|end_char=2229
+8	on	on	ADP	IN	_	7	_	_	start_char=2230|end_char=2232
+9	Earth	Earth	PROPN	NNP	Number=Sing	8	_	_	start_char=2233|end_char=2238
+10	in	in	ADP	IN	_	9	_	_	start_char=2239|end_char=2241
+11	1979	1979	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=2242|end_char=2246
+12	which	which	PRON	WDT	PronType=Rel	11	_	_	start_char=2247|end_char=2252
+13	spawned	spawn	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=2253|end_char=2260
+14	a	a	DET	DT	Definite=Ind|PronType=Art	13	_	_	start_char=2261|end_char=2262
+15	series	series	NOUN	NN	Number=Sing	14	_	_	start_char=2263|end_char=2269
+16	of	of	ADP	IN	_	15	_	_	start_char=2270|end_char=2272
+17	Life	life	NOUN	NN	Number=Sing	16	_	_	start_char=2273|end_char=2277
+18	programmes	programme	NOUN	NNS	Number=Plur	17	_	_	start_char=2278|end_char=2288
+19	including	include	VERB	VBG	VerbForm=Ger	18	_	_	start_char=2289|end_char=2298
+20	Life	life	NOUN	NN	Number=Sing	19	_	_	start_char=2299|end_char=2303
+21	In	in	ADP	IN	_	20	_	_	start_char=2304|end_char=2306
+22	The	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=2307|end_char=2310
+23	Freezer	Freezer	PROPN	NNP	Number=Sing	22	_	_	start_char=2311|end_char=2318|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=2318|end_char=2319
+25	The	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=2320|end_char=2323
+26	Private	private	ADJ	NNP	Degree=Pos	25	_	_	start_char=2324|end_char=2331
+27	Life	Life	PROPN	NNP	Number=Sing	26	_	_	start_char=2332|end_char=2336
+28	Of	of	ADP	IN	_	27	_	_	start_char=2337|end_char=2339
+29	Plants	Plant	PROPN	NNPS	Number=Plur	28	_	_	start_char=2340|end_char=2346|SpaceAfter=No
+30	,	,	PUNCT	,	_	29	_	_	start_char=2346|end_char=2347
+31	The	the	DET	DT	Definite=Def|PronType=Art	30	_	_	start_char=2348|end_char=2351
+32	Life	life	NOUN	NN	Number=Sing	31	_	_	start_char=2352|end_char=2356
+33	Of	of	ADP	IN	_	32	_	_	start_char=2357|end_char=2359
+34	Birds	bird	NOUN	NNS	Number=Plur	33	_	_	start_char=2360|end_char=2365
+35	and	and	CCONJ	CC	_	34	_	_	start_char=2366|end_char=2369
+36	The	the	DET	DT	Definite=Def|PronType=Art	35	_	_	start_char=2370|end_char=2373
+37	Life	Life	PROPN	NNP	Number=Sing	36	_	_	start_char=2374|end_char=2378
+38	Of	of	ADP	IN	_	37	_	_	start_char=2379|end_char=2381
+39	Mammals	Mammal	PROPN	NNPS	Number=Plur	38	_	_	start_char=2382|end_char=2389|SpaceAfter=No
+40	.	.	PUNCT	.	_	39	_	_	start_char=2389|end_char=2390|SpacesAfter=\n\n
+
+# text = Sir David also narrated over 50 episodes of Natural World from 1992 until 2018.
+# sent_id = 26
+1	Sir	Sir	PROPN	NNP	Number=Sing	0	_	_	start_char=2392|end_char=2395
+2	David	David	PROPN	NNP	Number=Sing	1	_	_	start_char=2396|end_char=2401
+3	also	also	ADV	RB	_	2	_	_	start_char=2402|end_char=2406
+4	narrated	narrate	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=2407|end_char=2415
+5	over	over	ADV	RB	_	4	_	_	start_char=2416|end_char=2420
+6	50	50	NUM	CD	NumForm=Digit|NumType=Card	5	_	_	start_char=2421|end_char=2423
+7	episodes	episode	NOUN	NNS	Number=Plur	6	_	_	start_char=2424|end_char=2432
+8	of	of	ADP	IN	_	7	_	_	start_char=2433|end_char=2435
+9	Natural	Natural	ADJ	NNP	Degree=Pos	8	_	_	start_char=2436|end_char=2443
+10	World	World	PROPN	NNP	Number=Sing	9	_	_	start_char=2444|end_char=2449
+11	from	from	ADP	IN	_	10	_	_	start_char=2450|end_char=2454
+12	1992	1992	NUM	CD	NumForm=Digit|NumType=Card	11	_	_	start_char=2455|end_char=2459
+13	until	until	ADP	IN	_	12	_	_	start_char=2460|end_char=2465
+14	2018	2018	NUM	CD	NumForm=Digit|NumType=Card	13	_	_	start_char=2466|end_char=2470|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=2470|end_char=2471|SpacesAfter=\n\n
+
+# text = He won high praise for The Blue Planet (2001), Planet Earth (2006) and Frozen Planet (2011).
+# sent_id = 27
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=2473|end_char=2475
+2	won	win	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=2476|end_char=2479
+3	high	high	ADJ	JJ	Degree=Pos	2	_	_	start_char=2480|end_char=2484
+4	praise	praise	NOUN	NN	Number=Sing	3	_	_	start_char=2485|end_char=2491
+5	for	for	ADP	IN	_	4	_	_	start_char=2492|end_char=2495
+6	The	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=2496|end_char=2499
+7	Blue	Blue	ADJ	NNP	Degree=Pos	6	_	_	start_char=2500|end_char=2504
+8	Planet	Planet	PROPN	NNP	Number=Sing	7	_	_	start_char=2505|end_char=2511
+9	(	(	PUNCT	-LRB-	_	8	_	_	start_char=2512|end_char=2513|SpaceAfter=No
+10	2001	2001	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=2513|end_char=2517|SpaceAfter=No
+11	)	)	PUNCT	-RRB-	_	10	_	_	start_char=2517|end_char=2518|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=2518|end_char=2519
+13	Planet	Planet	PROPN	NNP	Number=Sing	12	_	_	start_char=2520|end_char=2526
+14	Earth	Earth	PROPN	NNP	Number=Sing	13	_	_	start_char=2527|end_char=2532
+15	(	(	PUNCT	-LRB-	_	14	_	_	start_char=2533|end_char=2534|SpaceAfter=No
+16	2006	2006	NUM	CD	NumForm=Digit|NumType=Card	15	_	_	start_char=2534|end_char=2538|SpaceAfter=No
+17	)	)	PUNCT	-RRB-	_	16	_	_	start_char=2538|end_char=2539
+18	and	and	CCONJ	CC	_	17	_	_	start_char=2540|end_char=2543
+19	Frozen	Frozen	PROPN	NNP	Number=Sing	18	_	_	start_char=2544|end_char=2550
+20	Planet	Planet	PROPN	NNP	Number=Sing	19	_	_	start_char=2551|end_char=2557
+21	(	(	PUNCT	-LRB-	_	20	_	_	start_char=2558|end_char=2559|SpaceAfter=No
+22	2011	2011	NUM	CD	NumForm=Digit|NumType=Card	21	_	_	start_char=2559|end_char=2563|SpaceAfter=No
+23	)	)	PUNCT	-RRB-	_	22	_	_	start_char=2563|end_char=2564|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=2564|end_char=2565|SpacesAfter=\n\n
+
+# text = Sir David is also nown for the Planet Earth: Dynasties, and Climate Change - The Facts, and his wor with Netflix.
+# sent_id = 28
+1	Sir	Sir	PROPN	NNP	Number=Sing	0	_	_	start_char=2567|end_char=2570
+2	David	David	PROPN	NNP	Number=Sing	1	_	_	start_char=2571|end_char=2576
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2577|end_char=2579
+4	also	also	ADV	RB	_	3	_	_	start_char=2580|end_char=2584
+5	nown	nown	ADJ	JJ	Degree=Pos	4	_	_	start_char=2585|end_char=2589
+6	for	for	ADP	IN	_	5	_	_	start_char=2590|end_char=2593
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=2594|end_char=2597
+8	Planet	Planet	PROPN	NNP	Number=Sing	7	_	_	start_char=2598|end_char=2604
+9	Earth	Earth	PROPN	NNP	Number=Sing	8	_	_	start_char=2605|end_char=2610|SpaceAfter=No
+10	:	:	PUNCT	:	_	9	_	_	start_char=2610|end_char=2611
+11	Dynasties	dynasty	NOUN	NNS	Number=Plur	10	_	_	start_char=2612|end_char=2621|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=2621|end_char=2622
+13	and	and	CCONJ	CC	_	12	_	_	start_char=2623|end_char=2626
+14	Climate	Climate	PROPN	NNP	Number=Sing	13	_	_	start_char=2627|end_char=2634
+15	Change	Change	PROPN	NNP	Number=Sing	14	_	_	start_char=2635|end_char=2641
+16	-	-	PUNCT	,	_	15	_	_	start_char=2642|end_char=2643
+17	The	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=2644|end_char=2647
+18	Facts	fact	NOUN	NNS	Number=Plur	17	_	_	start_char=2648|end_char=2653|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=2653|end_char=2654
+20	and	and	CCONJ	CC	_	19	_	_	start_char=2655|end_char=2658
+21	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	20	_	_	start_char=2659|end_char=2662
+22	wor	wor	NOUN	NN	Number=Sing	21	_	_	start_char=2663|end_char=2666
+23	with	with	ADP	IN	_	22	_	_	start_char=2667|end_char=2671
+24	Netflix	Netflix	PROPN	NNP	Number=Sing	23	_	_	start_char=2672|end_char=2679|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=2679|end_char=2680|SpacesAfter=\n\n
+
+# text = Over the years he has built up an impressive net worth, and has an estimated wealth of £12million, according to Celebrity Net Worth.
+# sent_id = 29
+1	Over	over	ADP	IN	_	0	_	_	start_char=2682|end_char=2686
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=2687|end_char=2690
+3	years	year	NOUN	NNS	Number=Plur	2	_	_	start_char=2691|end_char=2696
+4	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	_	_	start_char=2697|end_char=2699
+5	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=2700|end_char=2703
+6	built	build	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=2704|end_char=2709
+7	up	up	ADP	RP	_	6	_	_	start_char=2710|end_char=2712
+8	an	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=2713|end_char=2715
+9	impressive	impressive	ADJ	JJ	Degree=Pos	8	_	_	start_char=2716|end_char=2726
+10	net	net	NOUN	NN	Number=Sing	9	_	_	start_char=2727|end_char=2730
+11	worth	worth	NOUN	NN	Number=Sing	10	_	_	start_char=2731|end_char=2736|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=2736|end_char=2737
+13	and	and	CCONJ	CC	_	12	_	_	start_char=2738|end_char=2741
+14	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=2742|end_char=2745
+15	an	a	DET	DT	Definite=Ind|PronType=Art	14	_	_	start_char=2746|end_char=2748
+16	estimated	estimate	VERB	VBN	Tense=Past|VerbForm=Part	15	_	_	start_char=2749|end_char=2758
+17	wealth	wealth	NOUN	NN	Number=Sing	16	_	_	start_char=2759|end_char=2765
+18	of	of	ADP	IN	_	17	_	_	start_char=2766|end_char=2768
+19	£	£	SYM	$	_	18	_	_	start_char=2769|end_char=2770|SpaceAfter=No
+20	12	12	NUM	CD	NumForm=Digit|NumType=Card	19	_	_	start_char=2770|end_char=2772|SpaceAfter=No
+21	million	million	NUM	CD	NumForm=Word|NumType=Card	20	_	_	start_char=2772|end_char=2779|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=2779|end_char=2780
+23	according	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	22	_	_	start_char=2781|end_char=2790
+24	to	to	ADP	IN	_	23	_	_	start_char=2791|end_char=2793
+25	Celebrity	celebrity	PROPN	NNP	Number=Sing	24	_	_	start_char=2794|end_char=2803
+26	Net	Net	PROPN	NNP	Number=Sing	25	_	_	start_char=2804|end_char=2807
+27	Worth	Worth	PROPN	NNP	Number=Sing	26	_	_	start_char=2808|end_char=2813|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=2813|end_char=2814|SpacesAfter=\n\n
+
+# text = Meanwhile, as of October 2023, Sir David is busy woring on his next project, David Attenborough And The Giant Sea Monster.
+# sent_id = 30
+1	Meanwhile	meanwhile	ADV	RB	_	0	_	_	start_char=2816|end_char=2825|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=2825|end_char=2826
+3	as	as	ADP	IN	_	2	_	_	start_char=2827|end_char=2829
+4	of	of	ADP	IN	_	3	_	_	start_char=2830|end_char=2832
+5	October	October	PROPN	NNP	Number=Sing	4	_	_	start_char=2833|end_char=2840
+6	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	5	_	_	start_char=2841|end_char=2845|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=2845|end_char=2846
+8	Sir	Sir	PROPN	NNP	Number=Sing	7	_	_	start_char=2847|end_char=2850
+9	David	David	PROPN	NNP	Number=Sing	8	_	_	start_char=2851|end_char=2856
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=2857|end_char=2859
+11	busy	busy	ADJ	JJ	Degree=Pos	10	_	_	start_char=2860|end_char=2864
+12	woring	wore	VERB	VBG	VerbForm=Ger	11	_	_	start_char=2865|end_char=2871
+13	on	on	ADP	IN	_	12	_	_	start_char=2872|end_char=2874
+14	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	_	_	start_char=2875|end_char=2878
+15	next	next	ADJ	JJ	Degree=Pos	14	_	_	start_char=2879|end_char=2883
+16	project	project	NOUN	NN	Number=Sing	15	_	_	start_char=2884|end_char=2891|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=2891|end_char=2892
+18	David	David	PROPN	NNP	Number=Sing	17	_	_	start_char=2893|end_char=2898
+19	Attenborough	Attenborough	PROPN	NNP	Number=Sing	18	_	_	start_char=2899|end_char=2911
+20	And	and	CCONJ	CC	_	19	_	_	start_char=2912|end_char=2915
+21	The	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=2916|end_char=2919
+22	Giant	Giant	PROPN	NNP	Number=Sing	21	_	_	start_char=2920|end_char=2925
+23	Sea	Sea	PROPN	NNP	Number=Sing	22	_	_	start_char=2926|end_char=2929
+24	Monster	monster	PROPN	NNP	Number=Sing	23	_	_	start_char=2930|end_char=2937|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=2937|end_char=2938|SpaceAfter=No
+

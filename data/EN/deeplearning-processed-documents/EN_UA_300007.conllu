@@ -1,0 +1,399 @@
+# text = Major British General Declares That Britain Must Prepare For War With Russia
+# sent_id = 0
+1	Major	Major	ADJ	JJ	Degree=Pos	0	_	_	start_char=0|end_char=5
+2	British	British	ADJ	JJ	Degree=Pos	1	_	_	start_char=6|end_char=13
+3	General	General	PROPN	NNP	Number=Sing	2	_	_	start_char=14|end_char=21
+4	Declares	Declares	PROPN	NNPS	Number=Plur	3	_	_	start_char=22|end_char=30
+5	That	that	DET	DT	Number=Sing|PronType=Dem	4	_	_	start_char=31|end_char=35
+6	Britain	Britain	PROPN	NNP	Number=Sing	5	_	_	start_char=36|end_char=43
+7	Must	must	AUX	MD	VerbForm=Fin	6	_	_	start_char=44|end_char=48
+8	Prepare	prepare	VERB	VB	VerbForm=Inf	7	_	_	start_char=49|end_char=56
+9	For	for	ADP	IN	_	8	_	_	start_char=57|end_char=60
+10	War	war	NOUN	NN	Number=Sing	9	_	_	start_char=61|end_char=64
+11	With	with	ADP	IN	_	10	_	_	start_char=65|end_char=69
+12	Russia	Russia	PROPN	NNP	Number=Sing	11	_	_	start_char=70|end_char=76
+
+# text = The leading general of the British army, Sir Patric Sanders,...
+# sent_id = 1
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=77|end_char=80
+2	leading	lead	VERB	VBG	VerbForm=Ger	1	_	_	start_char=81|end_char=88
+3	general	general	NOUN	NN	Number=Sing	2	_	_	start_char=89|end_char=96
+4	of	of	ADP	IN	_	3	_	_	start_char=97|end_char=99
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=100|end_char=103
+6	British	British	ADJ	JJ	Degree=Pos	5	_	_	start_char=104|end_char=111
+7	army	army	NOUN	NN	Number=Sing	6	_	_	start_char=112|end_char=116|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=116|end_char=117
+9	Sir	Sir	PROPN	NNP	Number=Sing	8	_	_	start_char=118|end_char=121
+10	Patric	Patric	PROPN	NNP	Number=Sing	9	_	_	start_char=122|end_char=128
+11	Sanders	Sanders	PROPN	NNP	Number=Sing	10	_	_	start_char=129|end_char=136|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=136|end_char=137|SpaceAfter=No
+13	...	...	PUNCT	.	_	12	_	_	start_char=137|end_char=140|SpacesAfter=\s\n\n\s
+
+# text = The leading general of the British army, Sir Patric Sanders, just declared that Britain must prepare for a war with Russia.
+# sent_id = 2
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=144|end_char=147
+2	leading	lead	VERB	VBG	VerbForm=Ger	1	_	_	start_char=148|end_char=155
+3	general	general	NOUN	NN	Number=Sing	2	_	_	start_char=156|end_char=163
+4	of	of	ADP	IN	_	3	_	_	start_char=164|end_char=166
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=167|end_char=170
+6	British	British	ADJ	JJ	Degree=Pos	5	_	_	start_char=171|end_char=178
+7	army	army	NOUN	NN	Number=Sing	6	_	_	start_char=179|end_char=183|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=183|end_char=184
+9	Sir	Sir	PROPN	NNP	Number=Sing	8	_	_	start_char=185|end_char=188
+10	Patric	Patric	PROPN	NNP	Number=Sing	9	_	_	start_char=189|end_char=195
+11	Sanders	Sanders	PROPN	NNP	Number=Sing	10	_	_	start_char=196|end_char=203|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=203|end_char=204
+13	just	just	ADV	RB	_	12	_	_	start_char=205|end_char=209
+14	declared	declare	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	_	_	start_char=210|end_char=218
+15	that	that	SCONJ	IN	_	14	_	_	start_char=219|end_char=223
+16	Britain	Britain	PROPN	NNP	Number=Sing	15	_	_	start_char=224|end_char=231
+17	must	must	AUX	MD	VerbForm=Fin	16	_	_	start_char=232|end_char=236
+18	prepare	prepare	VERB	VB	VerbForm=Inf	17	_	_	start_char=237|end_char=244
+19	for	for	ADP	IN	_	18	_	_	start_char=245|end_char=248
+20	a	a	DET	DT	Definite=Ind|PronType=Art	19	_	_	start_char=249|end_char=250
+21	war	war	NOUN	NN	Number=Sing	20	_	_	start_char=251|end_char=254
+22	with	with	ADP	IN	_	21	_	_	start_char=255|end_char=259
+23	Russia	Russia	PROPN	NNP	Number=Sing	22	_	_	start_char=260|end_char=266|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=266|end_char=267
+
+# text = As we read in WIO News:
+# sent_id = 3
+1	As	as	SCONJ	IN	_	0	_	_	start_char=268|end_char=270
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	1	_	_	start_char=271|end_char=273
+3	read	read	VERB	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	2	_	_	start_char=274|end_char=278
+4	in	in	ADP	IN	_	3	_	_	start_char=279|end_char=281
+5	WIO	WIO	PROPN	NNP	Number=Sing	4	_	_	start_char=282|end_char=285
+6	News	News	PROPN	NNP	Number=Sing	5	_	_	start_char=286|end_char=290|SpaceAfter=No
+7	:	:	PUNCT	:	_	6	_	_	start_char=290|end_char=291|SpacesAfter=\n\n
+
+# text = U’s new top Army general General Sir Patric Sanders has ased every soldier to prepare to fight against the Russian army in a potential World War III.
+# sent_id = 4
+1-2	U’s	_	_	_	_	_	_	_	start_char=293|end_char=296
+1	U	U	PROPN	NNP	Number=Sing	0	_	_	start_char=293|end_char=294
+2	’s	's	PART	POS	_	1	_	_	start_char=294|end_char=296
+3	new	new	ADJ	JJ	Degree=Pos	2	_	_	start_char=297|end_char=300
+4	top	top	ADJ	JJ	Degree=Pos	3	_	_	start_char=301|end_char=304
+5	Army	Army	PROPN	NNP	Number=Sing	4	_	_	start_char=305|end_char=309
+6	general	general	NOUN	NN	Number=Sing	5	_	_	start_char=310|end_char=317
+7	General	General	PROPN	NNP	Number=Sing	6	_	_	start_char=318|end_char=325
+8	Sir	Sir	PROPN	NNP	Number=Sing	7	_	_	start_char=326|end_char=329
+9	Patric	Patric	PROPN	NNP	Number=Sing	8	_	_	start_char=330|end_char=336
+10	Sanders	Sanders	PROPN	NNP	Number=Sing	9	_	_	start_char=337|end_char=344
+11	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=345|end_char=348
+12	ased	ase	VERB	VBN	Tense=Past|VerbForm=Part	11	_	_	start_char=349|end_char=353
+13	every	every	DET	DT	_	12	_	_	start_char=354|end_char=359
+14	soldier	soldier	NOUN	NN	Number=Sing	13	_	_	start_char=360|end_char=367
+15	to	to	PART	TO	_	14	_	_	start_char=368|end_char=370
+16	prepare	prepare	VERB	VB	VerbForm=Inf	15	_	_	start_char=371|end_char=378
+17	to	to	PART	TO	_	16	_	_	start_char=379|end_char=381
+18	fight	fight	VERB	VB	VerbForm=Inf	17	_	_	start_char=382|end_char=387
+19	against	against	ADP	IN	_	18	_	_	start_char=388|end_char=395
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=396|end_char=399
+21	Russian	Russian	ADJ	JJ	Degree=Pos	20	_	_	start_char=400|end_char=407
+22	army	army	NOUN	NN	Number=Sing	21	_	_	start_char=408|end_char=412
+23	in	in	ADP	IN	_	22	_	_	start_char=413|end_char=415
+24	a	a	DET	DT	Definite=Ind|PronType=Art	23	_	_	start_char=416|end_char=417
+25	potential	potential	ADJ	JJ	Degree=Pos	24	_	_	start_char=418|end_char=427
+26	World	World	PROPN	NNP	Number=Sing	25	_	_	start_char=428|end_char=433
+27	War	War	PROPN	NNP	Number=Sing	26	_	_	start_char=434|end_char=437
+28	III	III	NUM	CD	NumForm=Roman|NumType=Card	27	_	_	start_char=438|end_char=441|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=441|end_char=442|SpacesAfter=\n\n
+
+# text = General Sanders, who too over from General Sir Mar Carleton Smith on Monday, told the British soldiers that they must prepare “to fight in Europe once again” as the conflict in Uraine continues.
+# sent_id = 5
+1	General	General	PROPN	NNP	Number=Sing	0	_	_	start_char=444|end_char=451
+2	Sanders	Sanders	PROPN	NNP	Number=Sing	1	_	_	start_char=452|end_char=459|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=459|end_char=460
+4	who	who	PRON	WP	PronType=Rel	3	_	_	start_char=461|end_char=464
+5	too	too	ADV	RB	_	4	_	_	start_char=465|end_char=468
+6	over	over	ADV	RB	_	5	_	_	start_char=469|end_char=473
+7	from	from	ADP	IN	_	6	_	_	start_char=474|end_char=478
+8	General	General	PROPN	NNP	Number=Sing	7	_	_	start_char=479|end_char=486
+9	Sir	Sir	PROPN	NNP	Number=Sing	8	_	_	start_char=487|end_char=490
+10	Mar	March	PROPN	NNP	Number=Sing	9	_	_	start_char=491|end_char=494
+11	Carleton	Carleton	PROPN	NNP	Number=Sing	10	_	_	start_char=495|end_char=503
+12	Smith	Smith	PROPN	NNP	Number=Sing	11	_	_	start_char=504|end_char=509
+13	on	on	ADP	IN	_	12	_	_	start_char=510|end_char=512
+14	Monday	Monday	PROPN	NNP	Number=Sing	13	_	_	start_char=513|end_char=519|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=519|end_char=520
+16	told	tell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	_	_	start_char=521|end_char=525
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=526|end_char=529
+18	British	British	ADJ	JJ	Degree=Pos	17	_	_	start_char=530|end_char=537
+19	soldiers	soldier	NOUN	NNS	Number=Plur	18	_	_	start_char=538|end_char=546
+20	that	that	SCONJ	IN	_	19	_	_	start_char=547|end_char=551
+21	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	_	_	start_char=552|end_char=556
+22	must	must	AUX	MD	VerbForm=Fin	21	_	_	start_char=557|end_char=561
+23	prepare	prepare	VERB	VB	VerbForm=Inf	22	_	_	start_char=562|end_char=569
+24	“	''	PUNCT	``	_	23	_	_	start_char=570|end_char=571|SpaceAfter=No
+25	to	to	PART	TO	_	24	_	_	start_char=571|end_char=573
+26	fight	fight	VERB	VB	VerbForm=Inf	25	_	_	start_char=574|end_char=579
+27	in	in	ADP	IN	_	26	_	_	start_char=580|end_char=582
+28	Europe	Europe	PROPN	NNP	Number=Sing	27	_	_	start_char=583|end_char=589
+29	once	once	ADV	RB	NumType=Mult	28	_	_	start_char=590|end_char=594
+30	again	again	ADV	RB	_	29	_	_	start_char=595|end_char=600|SpaceAfter=No
+31	”	''	PUNCT	''	_	30	_	_	start_char=600|end_char=601
+32	as	as	SCONJ	IN	_	31	_	_	start_char=602|end_char=604
+33	the	the	DET	DT	Definite=Def|PronType=Art	32	_	_	start_char=605|end_char=608
+34	conflict	conflict	NOUN	NN	Number=Sing	33	_	_	start_char=609|end_char=617
+35	in	in	ADP	IN	_	34	_	_	start_char=618|end_char=620
+36	Uraine	Uraine	PROPN	NNP	Number=Sing	35	_	_	start_char=621|end_char=627
+37	continues	continue	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	_	_	start_char=628|end_char=637|SpaceAfter=No
+38	.	.	PUNCT	.	_	37	_	_	start_char=637|end_char=638|SpacesAfter=\n\n
+
+# text = “There is now a burning imperative to forge an Army capable of fighting alongside our allies and defeating Russia in battle,” Sir Patric said.
+# sent_id = 6
+1	“	''	PUNCT	``	_	0	_	_	start_char=640|end_char=641|SpaceAfter=No
+2	There	there	PRON	EX	_	1	_	_	start_char=641|end_char=646
+3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=647|end_char=649
+4	now	now	ADV	RB	_	3	_	_	start_char=650|end_char=653
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=654|end_char=655
+6	burning	burning	NOUN	NN	Number=Sing	5	_	_	start_char=656|end_char=663
+7	imperative	imperative	NOUN	NN	Number=Sing	6	_	_	start_char=664|end_char=674
+8	to	to	PART	TO	_	7	_	_	start_char=675|end_char=677
+9	forge	forge	VERB	VB	VerbForm=Inf	8	_	_	start_char=678|end_char=683
+10	an	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=684|end_char=686
+11	Army	army	NOUN	NN	Number=Sing	10	_	_	start_char=687|end_char=691
+12	capable	capable	ADJ	JJ	Degree=Pos	11	_	_	start_char=692|end_char=699
+13	of	of	SCONJ	IN	_	12	_	_	start_char=700|end_char=702
+14	fighting	fight	VERB	VBG	VerbForm=Ger	13	_	_	start_char=703|end_char=711
+15	alongside	alongside	ADP	IN	_	14	_	_	start_char=712|end_char=721
+16	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	15	_	_	start_char=722|end_char=725
+17	allies	ally	NOUN	NNS	Number=Plur	16	_	_	start_char=726|end_char=732
+18	and	and	CCONJ	CC	_	17	_	_	start_char=733|end_char=736
+19	defeating	defeat	VERB	VBG	VerbForm=Ger	18	_	_	start_char=737|end_char=746
+20	Russia	Russia	PROPN	NNP	Number=Sing	19	_	_	start_char=747|end_char=753
+21	in	in	ADP	IN	_	20	_	_	start_char=754|end_char=756
+22	battle	battle	NOUN	NN	Number=Sing	21	_	_	start_char=757|end_char=763|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=763|end_char=764|SpaceAfter=No
+24	”	''	PUNCT	''	_	23	_	_	start_char=764|end_char=765
+25	Sir	Sir	PROPN	NNP	Number=Sing	24	_	_	start_char=766|end_char=769
+26	Patric	Patric	PROPN	NNP	Number=Sing	25	_	_	start_char=770|end_char=776
+27	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	26	_	_	start_char=777|end_char=781|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=781|end_char=782|SpacesAfter=\n\n
+
+# text = According to The Sun, the warning came in his first speech since he became Chief of the General Staff this month, taing overall control of the British Army.
+# sent_id = 7
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=784|end_char=793
+2	to	to	ADP	IN	_	1	_	_	start_char=794|end_char=796
+3	The	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=797|end_char=800
+4	Sun	Sun	PROPN	NNP	Number=Sing	3	_	_	start_char=801|end_char=804|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=804|end_char=805
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=806|end_char=809
+7	warning	warning	NOUN	NN	Number=Sing	6	_	_	start_char=810|end_char=817
+8	came	come	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=818|end_char=822
+9	in	in	ADP	IN	_	8	_	_	start_char=823|end_char=825
+10	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	_	_	start_char=826|end_char=829
+11	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	10	_	_	start_char=830|end_char=835
+12	speech	speech	NOUN	NN	Number=Sing	11	_	_	start_char=836|end_char=842
+13	since	since	SCONJ	IN	_	12	_	_	start_char=843|end_char=848
+14	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	_	_	start_char=849|end_char=851
+15	became	become	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=852|end_char=858
+16	Chief	Chief	PROPN	NNP	Number=Sing	15	_	_	start_char=859|end_char=864
+17	of	of	ADP	IN	_	16	_	_	start_char=865|end_char=867
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=868|end_char=871
+19	General	General	ADJ	NNP	Degree=Pos	18	_	_	start_char=872|end_char=879
+20	Staff	Staff	PROPN	NNP	Number=Sing	19	_	_	start_char=880|end_char=885
+21	this	this	DET	DT	Number=Sing|PronType=Dem	20	_	_	start_char=886|end_char=890
+22	month	month	NOUN	NN	Number=Sing	21	_	_	start_char=891|end_char=896|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=896|end_char=897
+24	taing	tay	VERB	VBG	VerbForm=Ger	23	_	_	start_char=898|end_char=903
+25	overall	overall	ADJ	JJ	Degree=Pos	24	_	_	start_char=904|end_char=911
+26	control	control	NOUN	NN	Number=Sing	25	_	_	start_char=912|end_char=919
+27	of	of	ADP	IN	_	26	_	_	start_char=920|end_char=922
+28	the	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=923|end_char=926
+29	British	British	ADJ	NNP	Degree=Pos	28	_	_	start_char=927|end_char=934
+30	Army	Army	PROPN	NNP	Number=Sing	29	_	_	start_char=935|end_char=939|SpaceAfter=No
+31	.	.	PUNCT	.	_	30	_	_	start_char=939|end_char=940|SpacesAfter=\n\n
+
+# text = “We are the generation that must prepare the Army to fight in Europe once again.”
+# sent_id = 8
+1	“	''	PUNCT	``	_	0	_	_	start_char=942|end_char=943|SpaceAfter=No
+2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	1	_	_	start_char=943|end_char=945
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=946|end_char=949
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=950|end_char=953
+5	generation	generation	NOUN	NN	Number=Sing	4	_	_	start_char=954|end_char=964
+6	that	that	PRON	WDT	PronType=Rel	5	_	_	start_char=965|end_char=969
+7	must	must	AUX	MD	VerbForm=Fin	6	_	_	start_char=970|end_char=974
+8	prepare	prepare	VERB	VB	VerbForm=Inf	7	_	_	start_char=975|end_char=982
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=983|end_char=986
+10	Army	Army	PROPN	NNP	Number=Sing	9	_	_	start_char=987|end_char=991
+11	to	to	PART	TO	_	10	_	_	start_char=992|end_char=994
+12	fight	fight	VERB	VB	VerbForm=Inf	11	_	_	start_char=995|end_char=1000
+13	in	in	ADP	IN	_	12	_	_	start_char=1001|end_char=1003
+14	Europe	Europe	PROPN	NNP	Number=Sing	13	_	_	start_char=1004|end_char=1010
+15	once	once	ADV	RB	NumType=Mult	14	_	_	start_char=1011|end_char=1015
+16	again	again	ADV	RB	_	15	_	_	start_char=1016|end_char=1021|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=1021|end_char=1022|SpaceAfter=No
+18	”	''	PUNCT	''	_	17	_	_	start_char=1022|end_char=1023|SpacesAfter=\n\n
+
+# text = “I am the first Chief of the General Staff since 1941 to tae command of the Army in the shadow of a land war in Europe involving a continental power,” General Sanders added.
+# sent_id = 9
+1	“	''	PUNCT	``	_	0	_	_	start_char=1025|end_char=1026|SpaceAfter=No
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	_	_	start_char=1026|end_char=1027
+3	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1028|end_char=1030
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1031|end_char=1034
+5	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	4	_	_	start_char=1035|end_char=1040
+6	Chief	Chief	PROPN	NNP	Number=Sing	5	_	_	start_char=1041|end_char=1046
+7	of	of	ADP	IN	_	6	_	_	start_char=1047|end_char=1049
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=1050|end_char=1053
+9	General	General	ADJ	NNP	Degree=Pos	8	_	_	start_char=1054|end_char=1061
+10	Staff	Staff	PROPN	NNP	Number=Sing	9	_	_	start_char=1062|end_char=1067
+11	since	since	ADP	IN	_	10	_	_	start_char=1068|end_char=1073
+12	1941	1941	NUM	CD	NumForm=Digit|NumType=Card	11	_	_	start_char=1074|end_char=1078
+13	to	to	PART	TO	_	12	_	_	start_char=1079|end_char=1081
+14	tae	tae	VERB	VB	VerbForm=Inf	13	_	_	start_char=1082|end_char=1085
+15	command	command	NOUN	NN	Number=Sing	14	_	_	start_char=1086|end_char=1093
+16	of	of	ADP	IN	_	15	_	_	start_char=1094|end_char=1096
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=1097|end_char=1100
+18	Army	Army	PROPN	NNP	Number=Sing	17	_	_	start_char=1101|end_char=1105
+19	in	in	ADP	IN	_	18	_	_	start_char=1106|end_char=1108
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=1109|end_char=1112
+21	shadow	shadow	NOUN	NN	Number=Sing	20	_	_	start_char=1113|end_char=1119
+22	of	of	ADP	IN	_	21	_	_	start_char=1120|end_char=1122
+23	a	a	DET	DT	Definite=Ind|PronType=Art	22	_	_	start_char=1123|end_char=1124
+24	land	land	NOUN	NN	Number=Sing	23	_	_	start_char=1125|end_char=1129
+25	war	war	NOUN	NN	Number=Sing	24	_	_	start_char=1130|end_char=1133
+26	in	in	ADP	IN	_	25	_	_	start_char=1134|end_char=1136
+27	Europe	Europe	PROPN	NNP	Number=Sing	26	_	_	start_char=1137|end_char=1143
+28	involving	involve	VERB	VBG	VerbForm=Ger	27	_	_	start_char=1144|end_char=1153
+29	a	a	DET	DT	Definite=Ind|PronType=Art	28	_	_	start_char=1154|end_char=1155
+30	continental	continental	ADJ	JJ	Degree=Pos	29	_	_	start_char=1156|end_char=1167
+31	power	power	NOUN	NN	Number=Sing	30	_	_	start_char=1168|end_char=1173|SpaceAfter=No
+32	,	,	PUNCT	,	_	31	_	_	start_char=1173|end_char=1174|SpaceAfter=No
+33	”	''	PUNCT	''	_	32	_	_	start_char=1174|end_char=1175
+34	General	General	PROPN	NNP	Number=Sing	33	_	_	start_char=1176|end_char=1183
+35	Sanders	Sanders	PROPN	NNP	Number=Sing	34	_	_	start_char=1184|end_char=1191
+36	added	add	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	35	_	_	start_char=1192|end_char=1197|SpaceAfter=No
+37	.	.	PUNCT	.	_	36	_	_	start_char=1197|end_char=1198|SpacesAfter=\n\n
+
+# text = “Russia’s invasion of Uraine underlines our core purpose — to protect the U by being ready to fight and win wars on land.”
+# sent_id = 10
+1	“	''	PUNCT	``	_	0	_	_	start_char=1200|end_char=1201|SpaceAfter=No
+2-3	Russia’s	_	_	_	_	_	_	_	start_char=1201|end_char=1209
+2	Russia	Russia	PROPN	NNP	Number=Sing	1	_	_	start_char=1201|end_char=1207
+3	’s	's	PART	POS	_	2	_	_	start_char=1207|end_char=1209
+4	invasion	invasion	NOUN	NN	Number=Sing	3	_	_	start_char=1210|end_char=1218
+5	of	of	ADP	IN	_	4	_	_	start_char=1219|end_char=1221
+6	Uraine	Uraine	PROPN	NNP	Number=Sing	5	_	_	start_char=1222|end_char=1228
+7	underlines	underline	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=1229|end_char=1239
+8	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	7	_	_	start_char=1240|end_char=1243
+9	core	core	ADJ	JJ	Degree=Pos	8	_	_	start_char=1244|end_char=1248
+10	purpose	purpose	NOUN	NN	Number=Sing	9	_	_	start_char=1249|end_char=1256
+11	—	—	PUNCT	:	_	10	_	_	start_char=1257|end_char=1258
+12	to	to	PART	TO	_	11	_	_	start_char=1259|end_char=1261
+13	protect	protect	VERB	VB	VerbForm=Inf	12	_	_	start_char=1262|end_char=1269
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=1270|end_char=1273
+15	U	U	PROPN	NNP	Number=Sing	14	_	_	start_char=1274|end_char=1275
+16	by	by	SCONJ	IN	_	15	_	_	start_char=1276|end_char=1278
+17	being	be	AUX	VBG	VerbForm=Ger	16	_	_	start_char=1279|end_char=1284
+18	ready	ready	ADJ	JJ	Degree=Pos	17	_	_	start_char=1285|end_char=1290
+19	to	to	PART	TO	_	18	_	_	start_char=1291|end_char=1293
+20	fight	fight	VERB	VB	VerbForm=Inf	19	_	_	start_char=1294|end_char=1299
+21	and	and	CCONJ	CC	_	20	_	_	start_char=1300|end_char=1303
+22	win	win	VERB	VB	VerbForm=Inf	21	_	_	start_char=1304|end_char=1307
+23	wars	war	NOUN	NNS	Number=Plur	22	_	_	start_char=1308|end_char=1312
+24	on	on	ADP	IN	_	23	_	_	start_char=1313|end_char=1315
+25	land	land	NOUN	NN	Number=Sing	24	_	_	start_char=1316|end_char=1320|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=1320|end_char=1321|SpaceAfter=No
+27	”	''	PUNCT	''	_	26	_	_	start_char=1321|end_char=1322|SpacesAfter=\n\n
+
+# text = Columnist Mihail Rostovsy finds it very strange that Sanders apparently believes that the war between Russia and NATO can be non-nuclear.
+# sent_id = 11
+1	Columnist	columnist	NOUN	NN	Number=Sing	0	_	_	start_char=1324|end_char=1333
+2	Mihail	Mihail	PROPN	NNP	Number=Sing	1	_	_	start_char=1334|end_char=1340
+3	Rostovsy	Rostovsy	PROPN	NNP	Number=Sing	2	_	_	start_char=1341|end_char=1349
+4	finds	find	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1350|end_char=1355
+5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	_	_	start_char=1356|end_char=1358
+6	very	very	ADV	RB	_	5	_	_	start_char=1359|end_char=1363
+7	strange	strange	ADJ	JJ	Degree=Pos	6	_	_	start_char=1364|end_char=1371
+8	that	that	SCONJ	IN	_	7	_	_	start_char=1372|end_char=1376
+9	Sanders	Sanders	PROPN	NNP	Number=Sing	8	_	_	start_char=1377|end_char=1384
+10	apparently	apparently	ADV	RB	_	9	_	_	start_char=1385|end_char=1395
+11	believes	believe	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=1396|end_char=1404
+12	that	that	SCONJ	IN	_	11	_	_	start_char=1405|end_char=1409
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1410|end_char=1413
+14	war	war	NOUN	NN	Number=Sing	13	_	_	start_char=1414|end_char=1417
+15	between	between	ADP	IN	_	14	_	_	start_char=1418|end_char=1425
+16	Russia	Russia	PROPN	NNP	Number=Sing	15	_	_	start_char=1426|end_char=1432
+17	and	and	CCONJ	CC	_	16	_	_	start_char=1433|end_char=1436
+18	NATO	NATO	PROPN	NNP	Number=Sing	17	_	_	start_char=1437|end_char=1441
+19	can	can	AUX	MD	VerbForm=Fin	18	_	_	start_char=1442|end_char=1445
+20	be	be	AUX	VB	VerbForm=Inf	19	_	_	start_char=1446|end_char=1448
+21	non-nuclear	non-nuclear	ADJ	JJ	Degree=Pos	20	_	_	start_char=1449|end_char=1460|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=1460|end_char=1461
+
+# text = The expert recalls that during the Cold War, an acute conflict never developed into a hot stage due to the doctrine of mutually assured destruction.
+# sent_id = 12
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1462|end_char=1465
+2	expert	expert	NOUN	NN	Number=Sing	1	_	_	start_char=1466|end_char=1472
+3	recalls	recall	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1473|end_char=1480
+4	that	that	SCONJ	IN	_	3	_	_	start_char=1481|end_char=1485
+5	during	during	ADP	IN	_	4	_	_	start_char=1486|end_char=1492
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1493|end_char=1496
+7	Cold	cold	ADJ	NNP	Degree=Pos	6	_	_	start_char=1497|end_char=1501
+8	War	War	PROPN	NNP	Number=Sing	7	_	_	start_char=1502|end_char=1505|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1505|end_char=1506
+10	an	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=1507|end_char=1509
+11	acute	acute	ADJ	JJ	Degree=Pos	10	_	_	start_char=1510|end_char=1515
+12	conflict	conflict	NOUN	NN	Number=Sing	11	_	_	start_char=1516|end_char=1524
+13	never	never	ADV	RB	_	12	_	_	start_char=1525|end_char=1530
+14	developed	develop	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	_	_	start_char=1531|end_char=1540
+15	into	into	ADP	IN	_	14	_	_	start_char=1541|end_char=1545
+16	a	a	DET	DT	Definite=Ind|PronType=Art	15	_	_	start_char=1546|end_char=1547
+17	hot	hot	ADJ	JJ	Degree=Pos	16	_	_	start_char=1548|end_char=1551
+18	stage	stage	NOUN	NN	Number=Sing	17	_	_	start_char=1552|end_char=1557
+19	due	due	ADP	IN	_	18	_	_	start_char=1558|end_char=1561
+20	to	to	ADP	IN	_	19	_	_	start_char=1562|end_char=1564
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=1565|end_char=1568
+22	doctrine	doctrine	NOUN	NN	Number=Sing	21	_	_	start_char=1569|end_char=1577
+23	of	of	ADP	IN	_	22	_	_	start_char=1578|end_char=1580
+24	mutually	mutually	ADV	RB	_	23	_	_	start_char=1581|end_char=1589
+25	assured	assure	VERB	VBN	Tense=Past|VerbForm=Part	24	_	_	start_char=1590|end_char=1597
+26	destruction	destruction	NOUN	NN	Number=Sing	25	_	_	start_char=1598|end_char=1609|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=1609|end_char=1610|SpacesAfter=\n\n
+
+# text = For some reason, Sanders believes that NATO will be able to fight Russia without the participation of nuclear forces.
+# sent_id = 13
+1	For	for	ADP	IN	_	0	_	_	start_char=1612|end_char=1615
+2	some	some	DET	DT	_	1	_	_	start_char=1616|end_char=1620
+3	reason	reason	NOUN	NN	Number=Sing	2	_	_	start_char=1621|end_char=1627|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1627|end_char=1628
+5	Sanders	Sanders	PROPN	NNP	Number=Sing	4	_	_	start_char=1629|end_char=1636
+6	believes	believe	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1637|end_char=1645
+7	that	that	SCONJ	IN	_	6	_	_	start_char=1646|end_char=1650
+8	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	7	_	_	start_char=1651|end_char=1655
+9	will	will	AUX	MD	VerbForm=Fin	8	_	_	start_char=1656|end_char=1660
+10	be	be	AUX	VB	VerbForm=Inf	9	_	_	start_char=1661|end_char=1663
+11	able	able	ADJ	JJ	Degree=Pos	10	_	_	start_char=1664|end_char=1668
+12	to	to	PART	TO	_	11	_	_	start_char=1669|end_char=1671
+13	fight	fight	VERB	VB	VerbForm=Inf	12	_	_	start_char=1672|end_char=1677
+14	Russia	Russia	PROPN	NNP	Number=Sing	13	_	_	start_char=1678|end_char=1684
+15	without	without	ADP	IN	_	14	_	_	start_char=1685|end_char=1692
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=1693|end_char=1696
+17	participation	participation	NOUN	NN	Number=Sing	16	_	_	start_char=1697|end_char=1710
+18	of	of	ADP	IN	_	17	_	_	start_char=1711|end_char=1713
+19	nuclear	nuclear	ADJ	JJ	Degree=Pos	18	_	_	start_char=1714|end_char=1721
+20	forces	force	NOUN	NNS	Number=Plur	19	_	_	start_char=1722|end_char=1728|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=1728|end_char=1729
+
+# text = Rostovsy is surprised that in Poland there are also many who want to mae war with Russia.
+# sent_id = 14
+1	Rostovsy	Rostovsy	PROPN	NNP	Number=Sing	0	_	_	start_char=1730|end_char=1738
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1739|end_char=1741
+3	surprised	surprise	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	_	_	start_char=1742|end_char=1751
+4	that	that	SCONJ	IN	_	3	_	_	start_char=1752|end_char=1756
+5	in	in	ADP	IN	_	4	_	_	start_char=1757|end_char=1759
+6	Poland	Poland	PROPN	NNP	Number=Sing	5	_	_	start_char=1760|end_char=1766
+7	there	there	PRON	EX	_	6	_	_	start_char=1767|end_char=1772
+8	are	be	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=1773|end_char=1776
+9	also	also	ADV	RB	_	8	_	_	start_char=1777|end_char=1781
+10	many	many	ADJ	JJ	Degree=Pos	9	_	_	start_char=1782|end_char=1786
+11	who	who	PRON	WP	PronType=Rel	10	_	_	start_char=1787|end_char=1790
+12	want	want	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=1791|end_char=1795
+13	to	to	PART	TO	_	12	_	_	start_char=1796|end_char=1798
+14	mae	marr	VERB	VB	VerbForm=Inf	13	_	_	start_char=1799|end_char=1802
+15	war	war	NOUN	NN	Number=Sing	14	_	_	start_char=1803|end_char=1806
+16	with	with	ADP	IN	_	15	_	_	start_char=1807|end_char=1811
+17	Russia	Russia	PROPN	NNP	Number=Sing	16	_	_	start_char=1812|end_char=1818|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=1818|end_char=1819|SpaceAfter=No
+

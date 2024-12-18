@@ -1,0 +1,652 @@
+# text = ‘Oops’ – Pentagon Made $3 Billion ‘Error’ in Uraine Aid, Claims it Owes Zelensy
+# sent_id = 0
+1	‘	'	PUNCT	``	_	0	_	_	start_char=0|end_char=1|SpaceAfter=No
+2-3	Oops’	_	_	_	_	_	_	_	start_char=1|end_char=6
+2	Oops	oops	INTJ	UH	_	1	_	_	start_char=1|end_char=5
+3	’	'	PUNCT	''	_	2	_	_	start_char=5|end_char=6
+4	–	-	PUNCT	:	_	3	_	_	start_char=7|end_char=8
+5	Pentagon	Pentagon	PROPN	NNP	Number=Sing	4	_	_	start_char=9|end_char=17
+6	Made	make	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=18|end_char=22
+7	$	$	SYM	$	_	6	_	_	start_char=23|end_char=24|SpaceAfter=No
+8	3	3	NUM	CD	NumForm=Digit|NumType=Card	7	_	_	start_char=24|end_char=25
+9	Billion	Billion	NUM	CD	NumForm=Word|NumType=Card	8	_	_	start_char=26|end_char=33
+10	‘	'	PUNCT	``	_	9	_	_	start_char=34|end_char=35|SpaceAfter=No
+11	Error	error	NOUN	NN	Number=Sing	10	_	_	start_char=35|end_char=40|SpaceAfter=No
+12	’	'	PUNCT	''	_	11	_	_	start_char=40|end_char=41
+13	in	in	ADP	IN	_	12	_	_	start_char=42|end_char=44
+14	Uraine	Uraine	PROPN	NNP	Number=Sing	13	_	_	start_char=45|end_char=51
+15	Aid	Aid	PROPN	NNP	Number=Sing	14	_	_	start_char=52|end_char=55|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=55|end_char=56
+17	Claims	claim	NOUN	NNS	Number=Plur	16	_	_	start_char=57|end_char=63
+18	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	_	_	start_char=64|end_char=66
+19	Owes	owe	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=67|end_char=71
+20	Zelensy	Zelensy	PROPN	NNP	Number=Sing	19	_	_	start_char=72|end_char=79|SpacesAfter=\s\n\n
+
+# text = Pentagon bean-counters now claim that an ‘accounting error’ may have resulted in iev being supposedly shortchanged of billions in US weapons and ammunition.
+# sent_id = 1
+1	Pentagon	Pentagon	PROPN	NNP	Number=Sing	0	_	_	start_char=82|end_char=90
+2	bean	bean	NOUN	NN	Number=Sing	1	_	_	start_char=91|end_char=95|SpaceAfter=No
+3	-	-	PUNCT	HYPH	_	2	_	_	start_char=95|end_char=96|SpaceAfter=No
+4	counters	counter	NOUN	NNS	Number=Plur	3	_	_	start_char=96|end_char=104
+5	now	now	ADV	RB	_	4	_	_	start_char=105|end_char=108
+6	claim	claim	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=109|end_char=114
+7	that	that	SCONJ	IN	_	6	_	_	start_char=115|end_char=119
+8	an	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=120|end_char=122
+9	‘	'	PUNCT	``	_	8	_	_	start_char=123|end_char=124|SpaceAfter=No
+10	accounting	accounting	NOUN	NN	Number=Sing	9	_	_	start_char=124|end_char=134
+11	error’	error’	NOUN	NN	Number=Sing	10	_	_	start_char=135|end_char=141
+12	may	may	AUX	MD	VerbForm=Fin	11	_	_	start_char=142|end_char=145
+13	have	have	AUX	VB	VerbForm=Inf	12	_	_	start_char=146|end_char=150
+14	resulted	result	VERB	VBN	Tense=Past|VerbForm=Part	13	_	_	start_char=151|end_char=159
+15	in	in	SCONJ	IN	_	14	_	_	start_char=160|end_char=162
+16	iev	iev	NOUN	NN	Number=Sing	15	_	_	start_char=163|end_char=166
+17	being	be	AUX	VBG	VerbForm=Ger	16	_	_	start_char=167|end_char=172
+18	supposedly	supposedly	ADV	RB	_	17	_	_	start_char=173|end_char=183
+19	shortchanged	shortchange	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	18	_	_	start_char=184|end_char=196
+20	of	of	ADP	IN	_	19	_	_	start_char=197|end_char=199
+21	billions	billion	NOUN	NNS	Number=Plur	20	_	_	start_char=200|end_char=208
+22	in	in	ADP	IN	_	21	_	_	start_char=209|end_char=211
+23	US	US	PROPN	NNP	Number=Sing	22	_	_	start_char=212|end_char=214
+24	weapons	weapon	NOUN	NNS	Number=Plur	23	_	_	start_char=215|end_char=222
+25	and	and	CCONJ	CC	_	24	_	_	start_char=223|end_char=226
+26	ammunition	ammunition	NOUN	NN	Number=Sing	25	_	_	start_char=227|end_char=237|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=237|end_char=238|SpacesAfter=\n\n
+
+# text = iev’s money pit: the billion dollar grift just got that much more corrupt…
+# sent_id = 2
+1-2	iev’s	_	_	_	_	_	_	_	start_char=240|end_char=245
+1	iev	iev	PROPN	NNP	Number=Sing	0	_	_	start_char=240|end_char=243
+2	’s	's	PART	POS	_	1	_	_	start_char=243|end_char=245
+3	money	money	NOUN	NN	Number=Sing	2	_	_	start_char=246|end_char=251
+4	pit	pit	NOUN	NN	Number=Sing	3	_	_	start_char=252|end_char=255|SpaceAfter=No
+5	:	:	PUNCT	:	_	4	_	_	start_char=255|end_char=256
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=257|end_char=260
+7	billion	billion	NUM	CD	NumForm=Word|NumType=Card	6	_	_	start_char=261|end_char=268
+8	dollar	dollar	NOUN	NN	Number=Sing	7	_	_	start_char=269|end_char=275
+9	grift	grift	NOUN	NN	Number=Sing	8	_	_	start_char=276|end_char=281
+10	just	just	ADV	RB	_	9	_	_	start_char=282|end_char=286
+11	got	get	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=287|end_char=290
+12	that	that	ADV	RB	_	11	_	_	start_char=291|end_char=295
+13	much	much	ADV	RB	_	12	_	_	start_char=296|end_char=300
+14	more	more	ADV	RBR	Degree=Cmp	13	_	_	start_char=301|end_char=305
+15	corrupt	corrupt	ADJ	JJ	Degree=Pos	14	_	_	start_char=306|end_char=313|SpaceAfter=No
+16	…	…	PUNCT	.	_	15	_	_	start_char=313|end_char=314|SpacesAfter=\n\n
+
+# text = The US Department of Defense has discovered an accounting error that could result in even more weapons, ammunition and equipment being available for Uraine than previously thought, Reuters reported on Thursday.
+# sent_id = 3
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=316|end_char=319
+2	US	US	PROPN	NNP	Number=Sing	1	_	_	start_char=320|end_char=322
+3	Department	Department	PROPN	NNP	Number=Sing	2	_	_	start_char=323|end_char=333
+4	of	of	ADP	IN	_	3	_	_	start_char=334|end_char=336
+5	Defense	Defense	PROPN	NNP	Number=Sing	4	_	_	start_char=337|end_char=344
+6	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=345|end_char=348
+7	discovered	discover	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=349|end_char=359
+8	an	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=360|end_char=362
+9	accounting	accounting	NOUN	NN	Number=Sing	8	_	_	start_char=363|end_char=373
+10	error	error	NOUN	NN	Number=Sing	9	_	_	start_char=374|end_char=379
+11	that	that	PRON	WDT	PronType=Rel	10	_	_	start_char=380|end_char=384
+12	could	could	AUX	MD	VerbForm=Fin	11	_	_	start_char=385|end_char=390
+13	result	result	VERB	VB	VerbForm=Inf	12	_	_	start_char=391|end_char=397
+14	in	in	ADP	IN	_	13	_	_	start_char=398|end_char=400
+15	even	even	ADV	RB	_	14	_	_	start_char=401|end_char=405
+16	more	more	ADJ	JJR	Degree=Cmp	15	_	_	start_char=406|end_char=410
+17	weapons	weapon	NOUN	NNS	Number=Plur	16	_	_	start_char=411|end_char=418|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=418|end_char=419
+19	ammunition	ammunition	NOUN	NN	Number=Sing	18	_	_	start_char=420|end_char=430
+20	and	and	CCONJ	CC	_	19	_	_	start_char=431|end_char=434
+21	equipment	equipment	NOUN	NN	Number=Sing	20	_	_	start_char=435|end_char=444
+22	being	be	AUX	VBG	VerbForm=Ger	21	_	_	start_char=445|end_char=450
+23	available	available	ADJ	JJ	Degree=Pos	22	_	_	start_char=451|end_char=460
+24	for	for	ADP	IN	_	23	_	_	start_char=461|end_char=464
+25	Uraine	Uraine	PROPN	NNP	Number=Sing	24	_	_	start_char=465|end_char=471
+26	than	than	SCONJ	IN	_	25	_	_	start_char=472|end_char=476
+27	previously	previously	ADV	RB	_	26	_	_	start_char=477|end_char=487
+28	thought	think	VERB	VBN	Tense=Past|VerbForm=Part	27	_	_	start_char=488|end_char=495|SpaceAfter=No
+29	,	,	PUNCT	,	_	28	_	_	start_char=495|end_char=496
+30	Reuters	Reuters	PROPN	NNP	Number=Sing	29	_	_	start_char=497|end_char=504
+31	reported	report	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	30	_	_	start_char=505|end_char=513
+32	on	on	ADP	IN	_	31	_	_	start_char=514|end_char=516
+33	Thursday	Thursday	PROPN	NNP	Number=Sing	32	_	_	start_char=517|end_char=525|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=525|end_char=526|SpacesAfter=\n\n
+
+# text = The agency cited a Senate aide and a Pentagon official – both anonymous – who said that the US military had “overestimated the value” of some of its hardware that was sent to iev by “around $3 billion.”
+# sent_id = 4
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=528|end_char=531
+2	agency	agency	NOUN	NN	Number=Sing	1	_	_	start_char=532|end_char=538
+3	cited	cite	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=539|end_char=544
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=545|end_char=546
+5	Senate	Senate	PROPN	NNP	Number=Sing	4	_	_	start_char=547|end_char=553
+6	aide	aide	NOUN	NN	Number=Sing	5	_	_	start_char=554|end_char=558
+7	and	and	CCONJ	CC	_	6	_	_	start_char=559|end_char=562
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=563|end_char=564
+9	Pentagon	Pentagon	PROPN	NNP	Number=Sing	8	_	_	start_char=565|end_char=573
+10	official	official	NOUN	NN	Number=Sing	9	_	_	start_char=574|end_char=582
+11	–	-	PUNCT	:	_	10	_	_	start_char=583|end_char=584
+12	both	both	DET	DT	PronType=Art	11	_	_	start_char=585|end_char=589
+13	anonymous	anonymous	ADJ	JJ	Degree=Pos	12	_	_	start_char=590|end_char=599
+14	–	-	PUNCT	:	_	13	_	_	start_char=600|end_char=601
+15	who	who	PRON	WP	PronType=Rel	14	_	_	start_char=602|end_char=605
+16	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	_	_	start_char=606|end_char=610
+17	that	that	SCONJ	IN	_	16	_	_	start_char=611|end_char=615
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=616|end_char=619
+19	US	US	PROPN	NNP	Number=Sing	18	_	_	start_char=620|end_char=622
+20	military	military	NOUN	NN	Number=Sing	19	_	_	start_char=623|end_char=631
+21	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	_	_	start_char=632|end_char=635
+22	“	''	PUNCT	``	_	21	_	_	start_char=636|end_char=637|SpaceAfter=No
+23	overestimated	overestimate	VERB	VBN	Tense=Past|VerbForm=Part	22	_	_	start_char=637|end_char=650
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=651|end_char=654
+25	value	value	NOUN	NN	Number=Sing	24	_	_	start_char=655|end_char=660|SpaceAfter=No
+26	”	''	PUNCT	''	_	25	_	_	start_char=660|end_char=661
+27	of	of	ADP	IN	_	26	_	_	start_char=662|end_char=664
+28	some	some	DET	DT	_	27	_	_	start_char=665|end_char=669
+29	of	of	ADP	IN	_	28	_	_	start_char=670|end_char=672
+30	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	29	_	_	start_char=673|end_char=676
+31	hardware	hardware	NOUN	NN	Number=Sing	30	_	_	start_char=677|end_char=685
+32	that	that	PRON	WDT	PronType=Rel	31	_	_	start_char=686|end_char=690
+33	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	32	_	_	start_char=691|end_char=694
+34	sent	send	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	33	_	_	start_char=695|end_char=699
+35	to	to	ADP	IN	_	34	_	_	start_char=700|end_char=702
+36	iev	iev	PROPN	NNP	Number=Sing	35	_	_	start_char=703|end_char=706
+37	by	by	ADP	IN	_	36	_	_	start_char=707|end_char=709
+38	“	''	PUNCT	``	_	37	_	_	start_char=710|end_char=711|SpaceAfter=No
+39	around	around	ADV	RB	_	38	_	_	start_char=711|end_char=717
+40	$	$	SYM	$	_	39	_	_	start_char=718|end_char=719|SpaceAfter=No
+41	3	3	NUM	CD	NumForm=Digit|NumType=Card	40	_	_	start_char=719|end_char=720
+42	billion	billion	NUM	CD	NumForm=Word|NumType=Card	41	_	_	start_char=721|end_char=728|SpaceAfter=No
+43	.	.	PUNCT	.	_	42	_	_	start_char=728|end_char=729|SpaceAfter=No
+44	”	''	PUNCT	''	_	43	_	_	start_char=729|end_char=730|SpacesAfter=\n\n
+
+# text = The Pentagon used the current replacement costs for equipment taen from its stocs, rather than factoring in the original purchase price and depreciation, according to the agency’s source.
+# sent_id = 5
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=732|end_char=735
+2	Pentagon	Pentagon	PROPN	NNP	Number=Sing	1	_	_	start_char=736|end_char=744
+3	used	use	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=745|end_char=749
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=750|end_char=753
+5	current	current	ADJ	JJ	Degree=Pos	4	_	_	start_char=754|end_char=761
+6	replacement	replacement	NOUN	NN	Number=Sing	5	_	_	start_char=762|end_char=773
+7	costs	cost	NOUN	NNS	Number=Plur	6	_	_	start_char=774|end_char=779
+8	for	for	ADP	IN	_	7	_	_	start_char=780|end_char=783
+9	equipment	equipment	NOUN	NN	Number=Sing	8	_	_	start_char=784|end_char=793
+10	taen	taen	NOUN	NN	Number=Sing	9	_	_	start_char=794|end_char=798
+11	from	from	ADP	IN	_	10	_	_	start_char=799|end_char=803
+12	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	_	_	start_char=804|end_char=807
+13	stocs	stocs	NOUN	NNS	Number=Plur	12	_	_	start_char=808|end_char=813|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=813|end_char=814
+15	rather	rather	ADV	RB	_	14	_	_	start_char=815|end_char=821
+16	than	than	SCONJ	IN	_	15	_	_	start_char=822|end_char=826
+17	factoring	factor	VERB	VBG	VerbForm=Ger	16	_	_	start_char=827|end_char=836
+18	in	in	ADP	IN	_	17	_	_	start_char=837|end_char=839
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=840|end_char=843
+20	original	original	ADJ	JJ	Degree=Pos	19	_	_	start_char=844|end_char=852
+21	purchase	purchase	NOUN	NN	Number=Sing	20	_	_	start_char=853|end_char=861
+22	price	price	NOUN	NN	Number=Sing	21	_	_	start_char=862|end_char=867
+23	and	and	CCONJ	CC	_	22	_	_	start_char=868|end_char=871
+24	depreciation	depreciation	NOUN	NN	Number=Sing	23	_	_	start_char=872|end_char=884|SpaceAfter=No
+25	,	,	PUNCT	,	_	24	_	_	start_char=884|end_char=885
+26	according	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	25	_	_	start_char=886|end_char=895
+27	to	to	ADP	IN	_	26	_	_	start_char=896|end_char=898
+28	the	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=899|end_char=902
+29-30	agency’s	_	_	_	_	_	_	_	start_char=903|end_char=911
+29	agency	agency	NOUN	NN	Number=Sing	28	_	_	start_char=903|end_char=909
+30	’s	's	PART	POS	_	29	_	_	start_char=909|end_char=911
+31	source	source	NOUN	NN	Number=Sing	30	_	_	start_char=912|end_char=918|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=918|end_char=919
+
+# text = The DOD is reportedly taing steps to notify Congress of the “accounting adjustment.”
+# sent_id = 6
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=920|end_char=923
+2	DOD	DOD	PROPN	NNP	Number=Sing	1	_	_	start_char=924|end_char=927
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=928|end_char=930
+4	reportedly	reportedly	ADV	RB	_	3	_	_	start_char=931|end_char=941
+5	taing	tay	VERB	VBG	Tense=Pres|VerbForm=Part	4	_	_	start_char=942|end_char=947
+6	steps	step	NOUN	NNS	Number=Plur	5	_	_	start_char=948|end_char=953
+7	to	to	PART	TO	_	6	_	_	start_char=954|end_char=956
+8	notify	notify	VERB	VB	VerbForm=Inf	7	_	_	start_char=957|end_char=963
+9	Congress	Congress	PROPN	NNP	Number=Sing	8	_	_	start_char=964|end_char=972
+10	of	of	ADP	IN	_	9	_	_	start_char=973|end_char=975
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=976|end_char=979
+12	“	''	PUNCT	``	_	11	_	_	start_char=980|end_char=981|SpaceAfter=No
+13	accounting	accounting	NOUN	NN	Number=Sing	12	_	_	start_char=981|end_char=991
+14	adjustment	adjustment	NOUN	NN	Number=Sing	13	_	_	start_char=992|end_char=1002|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=1002|end_char=1003|SpaceAfter=No
+16	”	''	PUNCT	''	_	15	_	_	start_char=1003|end_char=1004|SpacesAfter=\n\n
+
+# text = Senator Roger Wicer, the raning Republican on the Senate Armed Services Committee, told Reuters that the Pentagon made a “major mistae” that could underestimate future needs of NATO allies.
+# sent_id = 7
+1	Senator	Senator	PROPN	NNP	Number=Sing	0	_	_	start_char=1006|end_char=1013
+2	Roger	Roger	PROPN	NNP	Number=Sing	1	_	_	start_char=1014|end_char=1019
+3	Wicer	Wicer	PROPN	NNP	Number=Sing	2	_	_	start_char=1020|end_char=1025|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1025|end_char=1026
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1027|end_char=1030
+6	raning	raning	NOUN	NN	Number=Sing	5	_	_	start_char=1031|end_char=1037
+7	Republican	Republican	PROPN	NNP	Number=Sing	6	_	_	start_char=1038|end_char=1048
+8	on	on	ADP	IN	_	7	_	_	start_char=1049|end_char=1051
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1052|end_char=1055
+10	Senate	Senate	PROPN	NNP	Number=Sing	9	_	_	start_char=1056|end_char=1062
+11	Armed	armed	ADJ	NNP	Degree=Pos	10	_	_	start_char=1063|end_char=1068
+12	Services	Service	PROPN	NNPS	Number=Plur	11	_	_	start_char=1069|end_char=1077
+13	Committee	Committee	PROPN	NNP	Number=Sing	12	_	_	start_char=1078|end_char=1087|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=1087|end_char=1088
+15	told	tell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=1089|end_char=1093
+16	Reuters	Reuters	PROPN	NNP	Number=Sing	15	_	_	start_char=1094|end_char=1101
+17	that	that	SCONJ	IN	_	16	_	_	start_char=1102|end_char=1106
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=1107|end_char=1110
+19	Pentagon	Pentagon	PROPN	NNP	Number=Sing	18	_	_	start_char=1111|end_char=1119
+20	made	make	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	_	_	start_char=1120|end_char=1124
+21	a	a	DET	DT	Definite=Ind|PronType=Art	20	_	_	start_char=1125|end_char=1126
+22	“	''	PUNCT	``	_	21	_	_	start_char=1127|end_char=1128|SpaceAfter=No
+23	major	major	ADJ	JJ	Degree=Pos	22	_	_	start_char=1128|end_char=1133
+24	mistae	mistae	NOUN	NN	Number=Sing	23	_	_	start_char=1134|end_char=1140|SpaceAfter=No
+25	”	''	PUNCT	''	_	24	_	_	start_char=1140|end_char=1141
+26	that	that	PRON	WDT	PronType=Rel	25	_	_	start_char=1142|end_char=1146
+27	could	could	AUX	MD	VerbForm=Fin	26	_	_	start_char=1147|end_char=1152
+28	underestimate	underestimate	VERB	VB	VerbForm=Inf	27	_	_	start_char=1153|end_char=1166
+29	future	future	ADJ	JJ	Degree=Pos	28	_	_	start_char=1167|end_char=1173
+30	needs	need	NOUN	NNS	Number=Plur	29	_	_	start_char=1174|end_char=1179
+31	of	of	ADP	IN	_	30	_	_	start_char=1180|end_char=1182
+32	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	31	_	_	start_char=1183|end_char=1187
+33	allies	ally	NOUN	NNS	Number=Plur	32	_	_	start_char=1188|end_char=1194|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=1194|end_char=1195|SpacesAfter=\n\n
+
+# text = “Our priority should be a Urainian victory over [Russian President Vladimir] Putin.
+# sent_id = 8
+1	“	''	PUNCT	``	_	0	_	_	start_char=1197|end_char=1198|SpaceAfter=No
+2	Our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	1	_	_	start_char=1198|end_char=1201
+3	priority	priority	NOUN	NN	Number=Sing	2	_	_	start_char=1202|end_char=1210
+4	should	should	AUX	MD	VerbForm=Fin	3	_	_	start_char=1211|end_char=1217
+5	be	be	AUX	VB	VerbForm=Inf	4	_	_	start_char=1218|end_char=1220
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=1221|end_char=1222
+7	Urainian	Urainian	ADJ	JJ	Degree=Pos	6	_	_	start_char=1223|end_char=1231
+8	victory	victory	NOUN	NN	Number=Sing	7	_	_	start_char=1232|end_char=1239
+9	over	over	ADP	IN	_	8	_	_	start_char=1240|end_char=1244
+10	[	[	PUNCT	-LRB-	_	9	_	_	start_char=1245|end_char=1246|SpaceAfter=No
+11	Russian	Russian	ADJ	JJ	Degree=Pos	10	_	_	start_char=1246|end_char=1253
+12	President	President	PROPN	NNP	Number=Sing	11	_	_	start_char=1254|end_char=1263
+13	Vladimir	Vladimir	PROPN	NNP	Number=Sing	12	_	_	start_char=1264|end_char=1272|SpaceAfter=No
+14	]	]	PUNCT	-RRB-	_	13	_	_	start_char=1272|end_char=1273
+15	Putin	Putin	PROPN	NNP	Number=Sing	14	_	_	start_char=1274|end_char=1279|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=1279|end_char=1280
+
+# text = Unilaterally altering military aid calculations is an attempt at deception and undermines this goal,” said the senator from Mississippi.
+# sent_id = 9
+1	Unilaterally	unilaterally	ADV	RB	_	0	_	_	start_char=1281|end_char=1293
+2	altering	alter	VERB	VBG	VerbForm=Ger	1	_	_	start_char=1294|end_char=1302
+3	military	military	ADJ	JJ	Degree=Pos	2	_	_	start_char=1303|end_char=1311
+4	aid	aid	NOUN	NN	Number=Sing	3	_	_	start_char=1312|end_char=1315
+5	calculations	calculation	NOUN	NNS	Number=Plur	4	_	_	start_char=1316|end_char=1328
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1329|end_char=1331
+7	an	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=1332|end_char=1334
+8	attempt	attempt	NOUN	NN	Number=Sing	7	_	_	start_char=1335|end_char=1342
+9	at	at	ADP	IN	_	8	_	_	start_char=1343|end_char=1345
+10	deception	deception	NOUN	NN	Number=Sing	9	_	_	start_char=1346|end_char=1355
+11	and	and	CCONJ	CC	_	10	_	_	start_char=1356|end_char=1359
+12	undermines	undermine	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=1360|end_char=1370
+13	this	this	DET	DT	Number=Sing|PronType=Dem	12	_	_	start_char=1371|end_char=1375
+14	goal	goal	NOUN	NN	Number=Sing	13	_	_	start_char=1376|end_char=1380|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=1380|end_char=1381|SpaceAfter=No
+16	”	''	PUNCT	''	_	15	_	_	start_char=1381|end_char=1382
+17	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	_	_	start_char=1383|end_char=1387
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=1388|end_char=1391
+19	senator	senator	NOUN	NN	Number=Sing	18	_	_	start_char=1392|end_char=1399
+20	from	from	ADP	IN	_	19	_	_	start_char=1400|end_char=1404
+21	Mississippi	Mississippi	PROPN	NNP	Number=Sing	20	_	_	start_char=1405|end_char=1416|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=1416|end_char=1417|SpacesAfter=\n\n
+
+# text = However, the accounting confusion may translate into even more supplies to the iev government, according to the agency.
+# sent_id = 10
+1	However	however	ADV	RB	_	0	_	_	start_char=1419|end_char=1426|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=1426|end_char=1427
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1428|end_char=1431
+4	accounting	accounting	NOUN	NN	Number=Sing	3	_	_	start_char=1432|end_char=1442
+5	confusion	confusion	NOUN	NN	Number=Sing	4	_	_	start_char=1443|end_char=1452
+6	may	may	AUX	MD	VerbForm=Fin	5	_	_	start_char=1453|end_char=1456
+7	translate	translate	VERB	VB	VerbForm=Inf	6	_	_	start_char=1457|end_char=1466
+8	into	into	ADP	IN	_	7	_	_	start_char=1467|end_char=1471
+9	even	even	ADV	RB	_	8	_	_	start_char=1472|end_char=1476
+10	more	more	ADJ	JJR	Degree=Cmp	9	_	_	start_char=1477|end_char=1481
+11	supplies	supplies	NOUN	NNS	Number=Plur	10	_	_	start_char=1482|end_char=1490
+12	to	to	ADP	IN	_	11	_	_	start_char=1491|end_char=1493
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1494|end_char=1497
+14	iev	iev	NOUN	NN	Number=Sing	13	_	_	start_char=1498|end_char=1501
+15	government	government	NOUN	NN	Number=Sing	14	_	_	start_char=1502|end_char=1512|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=1512|end_char=1513
+17	according	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	16	_	_	start_char=1514|end_char=1523
+18	to	to	ADP	IN	_	17	_	_	start_char=1524|end_char=1526
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=1527|end_char=1530
+20	agency	agency	NOUN	NN	Number=Sing	19	_	_	start_char=1531|end_char=1537|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=1537|end_char=1538
+
+# text = As of Monday, the US was reportedly down to only $6 billion in Uraine aid, from the $48 billion approved by Congress in December.
+# sent_id = 11
+1	As	as	ADP	IN	_	0	_	_	start_char=1539|end_char=1541
+2	of	of	ADP	IN	_	1	_	_	start_char=1542|end_char=1544
+3	Monday	Monday	PROPN	NNP	Number=Sing	2	_	_	start_char=1545|end_char=1551|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1551|end_char=1552
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1553|end_char=1556
+6	US	US	PROPN	NNP	Number=Sing	5	_	_	start_char=1557|end_char=1559
+7	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=1560|end_char=1563
+8	reportedly	reportedly	ADV	RB	_	7	_	_	start_char=1564|end_char=1574
+9	down	down	ADV	RB	_	8	_	_	start_char=1575|end_char=1579
+10	to	to	ADP	IN	_	9	_	_	start_char=1580|end_char=1582
+11	only	only	ADV	RB	_	10	_	_	start_char=1583|end_char=1587
+12	$	$	SYM	$	_	11	_	_	start_char=1588|end_char=1589|SpaceAfter=No
+13	6	6	NUM	CD	NumForm=Digit|NumType=Card	12	_	_	start_char=1589|end_char=1590
+14	billion	billion	NUM	CD	NumForm=Word|NumType=Card	13	_	_	start_char=1591|end_char=1598
+15	in	in	ADP	IN	_	14	_	_	start_char=1599|end_char=1601
+16	Uraine	Uraine	PROPN	NNP	Number=Sing	15	_	_	start_char=1602|end_char=1608
+17	aid	aid	NOUN	NN	Number=Sing	16	_	_	start_char=1609|end_char=1612|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=1612|end_char=1613
+19	from	from	ADP	IN	_	18	_	_	start_char=1614|end_char=1618
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=1619|end_char=1622
+21	$	$	SYM	$	_	20	_	_	start_char=1623|end_char=1624|SpaceAfter=No
+22	48	48	NUM	CD	NumForm=Digit|NumType=Card	21	_	_	start_char=1624|end_char=1626
+23	billion	billion	NUM	CD	NumForm=Word|NumType=Card	22	_	_	start_char=1627|end_char=1634
+24	approved	approve	VERB	VBN	Tense=Past|VerbForm=Part	23	_	_	start_char=1635|end_char=1643
+25	by	by	ADP	IN	_	24	_	_	start_char=1644|end_char=1646
+26	Congress	Congress	PROPN	NNP	Number=Sing	25	_	_	start_char=1647|end_char=1655
+27	in	in	ADP	IN	_	26	_	_	start_char=1656|end_char=1658
+28	December	December	PROPN	NNP	Number=Sing	27	_	_	start_char=1659|end_char=1667|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=1667|end_char=1668
+
+# text = Getting more funding approved is difficult at the moment, due to the standoff over the national debt ceiling.
+# sent_id = 12
+1	Getting	get	VERB	VBG	VerbForm=Ger	0	_	_	start_char=1669|end_char=1676
+2	more	more	ADJ	JJR	Degree=Cmp	1	_	_	start_char=1677|end_char=1681
+3	funding	funding	NOUN	NN	Number=Sing	2	_	_	start_char=1682|end_char=1689
+4	approved	approve	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=1690|end_char=1698
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1699|end_char=1701
+6	difficult	difficult	ADJ	JJ	Degree=Pos	5	_	_	start_char=1702|end_char=1711
+7	at	at	ADP	IN	_	6	_	_	start_char=1712|end_char=1714
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=1715|end_char=1718
+9	moment	moment	NOUN	NN	Number=Sing	8	_	_	start_char=1719|end_char=1725|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=1725|end_char=1726
+11	due	due	ADP	IN	_	10	_	_	start_char=1727|end_char=1730
+12	to	to	ADP	IN	_	11	_	_	start_char=1731|end_char=1733
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1734|end_char=1737
+14	standoff	standoff	NOUN	NN	Number=Sing	13	_	_	start_char=1738|end_char=1746
+15	over	over	ADP	IN	_	14	_	_	start_char=1747|end_char=1751
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=1752|end_char=1755
+17	national	national	ADJ	JJ	Degree=Pos	16	_	_	start_char=1756|end_char=1764
+18	debt	debt	NOUN	NN	Number=Sing	17	_	_	start_char=1765|end_char=1769
+19	ceiling	ceiling	NOUN	NN	Number=Sing	18	_	_	start_char=1770|end_char=1777|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=1777|end_char=1778|SpacesAfter=\n\n
+
+# text = Washington’s efforts to pump iev with weapons consist of two tracs.
+# sent_id = 13
+1-2	Washington’s	_	_	_	_	_	_	_	start_char=1780|end_char=1792
+1	Washington	Washington	PROPN	NNP	Number=Sing	0	_	_	start_char=1780|end_char=1790
+2	’s	's	PART	POS	_	1	_	_	start_char=1790|end_char=1792
+3	efforts	effort	NOUN	NNS	Number=Plur	2	_	_	start_char=1793|end_char=1800
+4	to	to	PART	TO	_	3	_	_	start_char=1801|end_char=1803
+5	pump	pump	VERB	VB	VerbForm=Inf	4	_	_	start_char=1804|end_char=1808
+6	iev	iev	NOUN	NN	Number=Sing	5	_	_	start_char=1809|end_char=1812
+7	with	with	ADP	IN	_	6	_	_	start_char=1813|end_char=1817
+8	weapons	weapon	NOUN	NNS	Number=Plur	7	_	_	start_char=1818|end_char=1825
+9	consist	consist	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=1826|end_char=1833
+10	of	of	ADP	IN	_	9	_	_	start_char=1834|end_char=1836
+11	two	two	NUM	CD	NumForm=Word|NumType=Card	10	_	_	start_char=1837|end_char=1840
+12	tracs	trac	NOUN	NN	Number=Sing	11	_	_	start_char=1841|end_char=1846|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=1846|end_char=1847
+
+# text = The Presidential Drawdown Authority (PDA) allows the Pentagon to send materiel from its own stocpiles – to the tune of $21.1 billion so far, in 37 separate pacages.
+# sent_id = 14
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1848|end_char=1851
+2	Presidential	presidential	ADJ	NNP	Degree=Pos	1	_	_	start_char=1852|end_char=1864
+3	Drawdown	Drawdown	PROPN	NNP	Number=Sing	2	_	_	start_char=1865|end_char=1873
+4	Authority	Authority	PROPN	NNP	Number=Sing	3	_	_	start_char=1874|end_char=1883
+5	(	(	PUNCT	-LRB-	_	4	_	_	start_char=1884|end_char=1885|SpaceAfter=No
+6	PDA	PDA	PROPN	NNP	Number=Sing	5	_	_	start_char=1885|end_char=1888|SpaceAfter=No
+7	)	)	PUNCT	-RRB-	_	6	_	_	start_char=1888|end_char=1889
+8	allows	allow	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=1890|end_char=1896
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1897|end_char=1900
+10	Pentagon	Pentagon	PROPN	NNP	Number=Sing	9	_	_	start_char=1901|end_char=1909
+11	to	to	PART	TO	_	10	_	_	start_char=1910|end_char=1912
+12	send	send	VERB	VB	VerbForm=Inf	11	_	_	start_char=1913|end_char=1917
+13	materiel	materiel	NOUN	NN	Number=Sing	12	_	_	start_char=1918|end_char=1926
+14	from	from	ADP	IN	_	13	_	_	start_char=1927|end_char=1931
+15	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	_	_	start_char=1932|end_char=1935
+16	own	own	ADJ	JJ	Degree=Pos	15	_	_	start_char=1936|end_char=1939
+17	stocpiles	stocpile	NOUN	NNS	Number=Plur	16	_	_	start_char=1940|end_char=1949
+18	–	-	PUNCT	:	_	17	_	_	start_char=1950|end_char=1951
+19	to	to	ADP	IN	_	18	_	_	start_char=1952|end_char=1954
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=1955|end_char=1958
+21	tune	tune	NOUN	NN	Number=Sing	20	_	_	start_char=1959|end_char=1963
+22	of	of	ADP	IN	_	21	_	_	start_char=1964|end_char=1966
+23	$	$	SYM	$	_	22	_	_	start_char=1967|end_char=1968|SpaceAfter=No
+24	21.1	21.1	NUM	CD	NumForm=Digit|NumType=Card	23	_	_	start_char=1968|end_char=1972
+25	billion	billion	NUM	CD	NumForm=Word|NumType=Card	24	_	_	start_char=1973|end_char=1980
+26	so	so	ADV	RB	_	25	_	_	start_char=1981|end_char=1983
+27	far	far	ADV	RB	Degree=Pos	26	_	_	start_char=1984|end_char=1987|SpaceAfter=No
+28	,	,	PUNCT	,	_	27	_	_	start_char=1987|end_char=1988
+29	in	in	ADP	IN	_	28	_	_	start_char=1989|end_char=1991
+30	37	37	NUM	CD	NumForm=Digit|NumType=Card	29	_	_	start_char=1992|end_char=1994
+31	separate	separate	ADJ	JJ	Degree=Pos	30	_	_	start_char=1995|end_char=2003
+32	pacages	pacage	NOUN	NNS	Number=Plur	31	_	_	start_char=2004|end_char=2011|SpaceAfter=No
+33	.	.	PUNCT	.	_	32	_	_	start_char=2011|end_char=2012
+
+# text = The separate Uraine Security Assistance Initiative (USAI) has the US government pay the military industry to mae new weapons and ammunition, much of which has yet to arrive.
+# sent_id = 15
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2013|end_char=2016
+2	separate	separate	ADJ	JJ	Degree=Pos	1	_	_	start_char=2017|end_char=2025
+3	Uraine	Uraine	PROPN	NNP	Number=Sing	2	_	_	start_char=2026|end_char=2032
+4	Security	Security	PROPN	NNP	Number=Sing	3	_	_	start_char=2033|end_char=2041
+5	Assistance	Assistance	PROPN	NNP	Number=Sing	4	_	_	start_char=2042|end_char=2052
+6	Initiative	Initiative	PROPN	NNP	Number=Sing	5	_	_	start_char=2053|end_char=2063
+7	(	(	PUNCT	-LRB-	_	6	_	_	start_char=2064|end_char=2065|SpaceAfter=No
+8	USAI	USAI	PROPN	NNP	Number=Sing	7	_	_	start_char=2065|end_char=2069|SpaceAfter=No
+9	)	)	PUNCT	-RRB-	_	8	_	_	start_char=2069|end_char=2070
+10	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=2071|end_char=2074
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=2075|end_char=2078
+12	US	US	PROPN	NNP	Number=Sing	11	_	_	start_char=2079|end_char=2081
+13	government	government	NOUN	NN	Number=Sing	12	_	_	start_char=2082|end_char=2092
+14	pay	pay	VERB	VB	VerbForm=Inf	13	_	_	start_char=2093|end_char=2096
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=2097|end_char=2100
+16	military	military	ADJ	JJ	Degree=Pos	15	_	_	start_char=2101|end_char=2109
+17	industry	industry	NOUN	NN	Number=Sing	16	_	_	start_char=2110|end_char=2118
+18	to	to	PART	TO	_	17	_	_	start_char=2119|end_char=2121
+19	mae	marr	VERB	VB	VerbForm=Inf	18	_	_	start_char=2122|end_char=2125
+20	new	new	ADJ	JJ	Degree=Pos	19	_	_	start_char=2126|end_char=2129
+21	weapons	weapon	NOUN	NNS	Number=Plur	20	_	_	start_char=2130|end_char=2137
+22	and	and	CCONJ	CC	_	21	_	_	start_char=2138|end_char=2141
+23	ammunition	ammunition	NOUN	NN	Number=Sing	22	_	_	start_char=2142|end_char=2152|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=2152|end_char=2153
+25	much	much	ADJ	JJ	Degree=Pos	24	_	_	start_char=2154|end_char=2158
+26	of	of	ADP	IN	_	25	_	_	start_char=2159|end_char=2161
+27	which	which	PRON	WDT	PronType=Rel	26	_	_	start_char=2162|end_char=2167
+28	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	_	_	start_char=2168|end_char=2171
+29	yet	yet	ADV	RB	_	28	_	_	start_char=2172|end_char=2175
+30	to	to	PART	TO	_	29	_	_	start_char=2176|end_char=2178
+31	arrive	arrive	VERB	VB	VerbForm=Inf	30	_	_	start_char=2179|end_char=2185|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=2185|end_char=2186|SpacesAfter=\n\n
+
+# text = According to Reuters, the Pentagon sent a memo to all four service branches the Army, Navy, Air Force and the Marine Corps – on March 31, clarifying how the value of the equipment should be calculated.
+# sent_id = 16
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=2188|end_char=2197
+2	to	to	ADP	IN	_	1	_	_	start_char=2198|end_char=2200
+3	Reuters	Reuters	PROPN	NNP	Number=Sing	2	_	_	start_char=2201|end_char=2208|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=2208|end_char=2209
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=2210|end_char=2213
+6	Pentagon	Pentagon	PROPN	NNP	Number=Sing	5	_	_	start_char=2214|end_char=2222
+7	sent	send	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=2223|end_char=2227
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=2228|end_char=2229
+9	memo	memo	NOUN	NN	Number=Sing	8	_	_	start_char=2230|end_char=2234
+10	to	to	ADP	IN	_	9	_	_	start_char=2235|end_char=2237
+11	all	all	DET	DT	_	10	_	_	start_char=2238|end_char=2241
+12	four	four	NUM	CD	NumForm=Word|NumType=Card	11	_	_	start_char=2242|end_char=2246
+13	service	service	NOUN	NN	Number=Sing	12	_	_	start_char=2247|end_char=2254
+14	branches	branch	NOUN	NNS	Number=Plur	13	_	_	start_char=2255|end_char=2263
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=2264|end_char=2267
+16	Army	Army	PROPN	NNP	Number=Sing	15	_	_	start_char=2268|end_char=2272|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=2272|end_char=2273
+18	Navy	Navy	PROPN	NNP	Number=Sing	17	_	_	start_char=2274|end_char=2278|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=2278|end_char=2279
+20	Air	Air	PROPN	NNP	Number=Sing	19	_	_	start_char=2280|end_char=2283
+21	Force	Force	PROPN	NNP	Number=Sing	20	_	_	start_char=2284|end_char=2289
+22	and	and	CCONJ	CC	_	21	_	_	start_char=2290|end_char=2293
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=2294|end_char=2297
+24	Marine	Marine	PROPN	NNP	Number=Sing	23	_	_	start_char=2298|end_char=2304
+25	Corps	Corps	PROPN	NNP	Number=Sing	24	_	_	start_char=2305|end_char=2310
+26	–	-	PUNCT	:	_	25	_	_	start_char=2311|end_char=2312
+27	on	on	ADP	IN	_	26	_	_	start_char=2313|end_char=2315
+28	March	March	PROPN	NNP	Number=Sing	27	_	_	start_char=2316|end_char=2321
+29	31	31	NUM	CD	NumForm=Digit|NumType=Card	28	_	_	start_char=2322|end_char=2324|SpaceAfter=No
+30	,	,	PUNCT	,	_	29	_	_	start_char=2324|end_char=2325
+31	clarifying	clarify	VERB	VBG	VerbForm=Ger	30	_	_	start_char=2326|end_char=2336
+32	how	how	ADV	WRB	PronType=Int	31	_	_	start_char=2337|end_char=2340
+33	the	the	DET	DT	Definite=Def|PronType=Art	32	_	_	start_char=2341|end_char=2344
+34	value	value	NOUN	NN	Number=Sing	33	_	_	start_char=2345|end_char=2350
+35	of	of	ADP	IN	_	34	_	_	start_char=2351|end_char=2353
+36	the	the	DET	DT	Definite=Def|PronType=Art	35	_	_	start_char=2354|end_char=2357
+37	equipment	equipment	NOUN	NN	Number=Sing	36	_	_	start_char=2358|end_char=2367
+38	should	should	AUX	MD	VerbForm=Fin	37	_	_	start_char=2368|end_char=2374
+39	be	be	AUX	VB	VerbForm=Inf	38	_	_	start_char=2375|end_char=2377
+40	calculated	calculate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	39	_	_	start_char=2378|end_char=2388|SpaceAfter=No
+41	.	.	PUNCT	.	_	40	_	_	start_char=2388|end_char=2389
+
+# text = The anonymous Pentagon official speaing to the agency used the example of 155mm artillery shells, of which more than 1.5 million were sent to iev.
+# sent_id = 17
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2390|end_char=2393
+2	anonymous	anonymous	ADJ	JJ	Degree=Pos	1	_	_	start_char=2394|end_char=2403
+3	Pentagon	Pentagon	PROPN	NNP	Number=Sing	2	_	_	start_char=2404|end_char=2412
+4	official	official	NOUN	NN	Number=Sing	3	_	_	start_char=2413|end_char=2421
+5	speaing	speae	VERB	VBG	VerbForm=Ger	4	_	_	start_char=2422|end_char=2429
+6	to	to	ADP	IN	_	5	_	_	start_char=2430|end_char=2432
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=2433|end_char=2436
+8	agency	agency	NOUN	NN	Number=Sing	7	_	_	start_char=2437|end_char=2443
+9	used	use	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=2444|end_char=2448
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=2449|end_char=2452
+11	example	example	NOUN	NN	Number=Sing	10	_	_	start_char=2453|end_char=2460
+12	of	of	ADP	IN	_	11	_	_	start_char=2461|end_char=2463
+13	155	155	NUM	CD	NumForm=Digit|NumType=Card	12	_	_	start_char=2464|end_char=2467|SpaceAfter=No
+14	mm	mm	NOUN	NN	Number=Sing	13	_	_	start_char=2467|end_char=2469
+15	artillery	artillery	NOUN	NN	Number=Sing	14	_	_	start_char=2470|end_char=2479
+16	shells	shell	NOUN	NNS	Number=Plur	15	_	_	start_char=2480|end_char=2486|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=2486|end_char=2487
+18	of	of	ADP	IN	_	17	_	_	start_char=2488|end_char=2490
+19	which	which	PRON	WDT	PronType=Rel	18	_	_	start_char=2491|end_char=2496
+20	more	more	ADJ	JJR	Degree=Cmp	19	_	_	start_char=2497|end_char=2501
+21	than	than	ADP	IN	_	20	_	_	start_char=2502|end_char=2506
+22	1.5	1.5	NUM	CD	NumForm=Digit|NumType=Card	21	_	_	start_char=2507|end_char=2510
+23	million	million	NUM	CD	NumForm=Word|NumType=Card	22	_	_	start_char=2511|end_char=2518
+24	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	23	_	_	start_char=2519|end_char=2523
+25	sent	send	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	24	_	_	start_char=2524|end_char=2528
+26	to	to	ADP	IN	_	25	_	_	start_char=2529|end_char=2531
+27	iev	iev	NOUN	NN	Number=Sing	26	_	_	start_char=2532|end_char=2535|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=2535|end_char=2536
+
+# text = While each costs about $800 today, the cost over several decades averages out to much less.
+# sent_id = 18
+1	While	while	SCONJ	IN	_	0	_	_	start_char=2537|end_char=2542
+2	each	each	DET	DT	_	1	_	_	start_char=2543|end_char=2547
+3	costs	cost	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2548|end_char=2553
+4	about	about	ADV	RB	_	3	_	_	start_char=2554|end_char=2559
+5	$	$	SYM	$	_	4	_	_	start_char=2560|end_char=2561|SpaceAfter=No
+6	800	800	NUM	CD	NumForm=Digit|NumType=Card	5	_	_	start_char=2561|end_char=2564
+7	today	today	NOUN	NN	Number=Sing	6	_	_	start_char=2565|end_char=2570|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=2570|end_char=2571
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=2572|end_char=2575
+10	cost	cost	NOUN	NN	Number=Sing	9	_	_	start_char=2576|end_char=2580
+11	over	over	ADP	IN	_	10	_	_	start_char=2581|end_char=2585
+12	several	several	ADJ	JJ	Degree=Pos	11	_	_	start_char=2586|end_char=2593
+13	decades	decade	NOUN	NNS	Number=Plur	12	_	_	start_char=2594|end_char=2601
+14	averages	average	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=2602|end_char=2610
+15	out	out	ADP	RP	_	14	_	_	start_char=2611|end_char=2614
+16	to	to	ADP	IN	_	15	_	_	start_char=2615|end_char=2617
+17	much	much	ADV	RB	_	16	_	_	start_char=2618|end_char=2622
+18	less	less	ADJ	JJR	Degree=Cmp	17	_	_	start_char=2623|end_char=2627|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=2627|end_char=2628|SpacesAfter=\n\n
+
+# text = Uraine has repeatedly said that its successes on the battlefield heavily depends on the aid from the West.
+# sent_id = 19
+1	Uraine	Uraine	PROPN	NNP	Number=Sing	0	_	_	start_char=2630|end_char=2636
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2637|end_char=2640
+3	repeatedly	repeatedly	ADV	RB	_	2	_	_	start_char=2641|end_char=2651
+4	said	say	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=2652|end_char=2656
+5	that	that	SCONJ	IN	_	4	_	_	start_char=2657|end_char=2661
+6	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	_	_	start_char=2662|end_char=2665
+7	successes	success	NOUN	NNS	Number=Plur	6	_	_	start_char=2666|end_char=2675
+8	on	on	ADP	IN	_	7	_	_	start_char=2676|end_char=2678
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=2679|end_char=2682
+10	battlefield	battlefield	NOUN	NN	Number=Sing	9	_	_	start_char=2683|end_char=2694
+11	heavily	heavily	ADV	RB	_	10	_	_	start_char=2695|end_char=2702
+12	depends	depend	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=2703|end_char=2710
+13	on	on	ADP	IN	_	12	_	_	start_char=2711|end_char=2713
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=2714|end_char=2717
+15	aid	aid	NOUN	NN	Number=Sing	14	_	_	start_char=2718|end_char=2721
+16	from	from	ADP	IN	_	15	_	_	start_char=2722|end_char=2726
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=2727|end_char=2730
+18	West	West	PROPN	NNP	Number=Sing	17	_	_	start_char=2731|end_char=2735|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=2735|end_char=2736
+
+# text = According to Russian military estimates, the US and its allies had delivered over $100 billion worth of weapons and supplies to Uraine by December 2022.
+# sent_id = 20
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=2737|end_char=2746
+2	to	to	ADP	IN	_	1	_	_	start_char=2747|end_char=2749
+3	Russian	Russian	ADJ	JJ	Degree=Pos	2	_	_	start_char=2750|end_char=2757
+4	military	military	ADJ	JJ	Degree=Pos	3	_	_	start_char=2758|end_char=2766
+5	estimates	estimate	NOUN	NNS	Number=Plur	4	_	_	start_char=2767|end_char=2776|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=2776|end_char=2777
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=2778|end_char=2781
+8	US	US	PROPN	NNP	Number=Sing	7	_	_	start_char=2782|end_char=2784
+9	and	and	CCONJ	CC	_	8	_	_	start_char=2785|end_char=2788
+10	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	_	_	start_char=2789|end_char=2792
+11	allies	ally	NOUN	NNS	Number=Plur	10	_	_	start_char=2793|end_char=2799
+12	had	have	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=2800|end_char=2803
+13	delivered	deliver	VERB	VBN	Tense=Past|VerbForm=Part	12	_	_	start_char=2804|end_char=2813
+14	over	over	ADV	RB	_	13	_	_	start_char=2814|end_char=2818
+15	$	$	SYM	$	_	14	_	_	start_char=2819|end_char=2820|SpaceAfter=No
+16	100	100	NUM	CD	NumForm=Digit|NumType=Card	15	_	_	start_char=2820|end_char=2823
+17	billion	billion	NUM	CD	NumForm=Word|NumType=Card	16	_	_	start_char=2824|end_char=2831
+18	worth	worth	NOUN	NN	Number=Sing	17	_	_	start_char=2832|end_char=2837
+19	of	of	ADP	IN	_	18	_	_	start_char=2838|end_char=2840
+20	weapons	weapon	NOUN	NNS	Number=Plur	19	_	_	start_char=2841|end_char=2848
+21	and	and	CCONJ	CC	_	20	_	_	start_char=2849|end_char=2852
+22	supplies	supplies	NOUN	NNS	Number=Plur	21	_	_	start_char=2853|end_char=2861
+23	to	to	ADP	IN	_	22	_	_	start_char=2862|end_char=2864
+24	Uraine	Uraine	PROPN	NNP	Number=Sing	23	_	_	start_char=2865|end_char=2871
+25	by	by	ADP	IN	_	24	_	_	start_char=2872|end_char=2874
+26	December	December	PROPN	NNP	Number=Sing	25	_	_	start_char=2875|end_char=2883
+27	2022	2022	NUM	CD	NumForm=Digit|NumType=Card	26	_	_	start_char=2884|end_char=2888|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=2888|end_char=2889|SpacesAfter=\n\n
+
+# text = Moscow has warned Washington that this elevates the ris of direct confrontation.
+# sent_id = 21
+1	Moscow	Moscow	PROPN	NNP	Number=Sing	0	_	_	start_char=2891|end_char=2897
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2898|end_char=2901
+3	warned	warn	VERB	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=2902|end_char=2908
+4	Washington	Washington	PROPN	NNP	Number=Sing	3	_	_	start_char=2909|end_char=2919
+5	that	that	SCONJ	IN	_	4	_	_	start_char=2920|end_char=2924
+6	this	this	PRON	DT	Number=Sing|PronType=Dem	5	_	_	start_char=2925|end_char=2929
+7	elevates	elevate	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=2930|end_char=2938
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=2939|end_char=2942
+9	ris	ris	NOUN	NN	Number=Sing	8	_	_	start_char=2943|end_char=2946
+10	of	of	ADP	IN	_	9	_	_	start_char=2947|end_char=2949
+11	direct	direct	ADJ	JJ	Degree=Pos	10	_	_	start_char=2950|end_char=2956
+12	confrontation	confrontation	NOUN	NN	Number=Sing	11	_	_	start_char=2957|end_char=2970|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=2970|end_char=2971
+
+# text = However, the US and NATO have insisted that arming iev does not actually mae them a party to the conflict.
+# sent_id = 22
+1	However	however	ADV	RB	_	0	_	_	start_char=2972|end_char=2979|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=2979|end_char=2980
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=2981|end_char=2984
+4	US	US	PROPN	NNP	Number=Sing	3	_	_	start_char=2985|end_char=2987
+5	and	and	CCONJ	CC	_	4	_	_	start_char=2988|end_char=2991
+6	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	5	_	_	start_char=2992|end_char=2996
+7	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=2997|end_char=3001
+8	insisted	insist	VERB	VBN	Tense=Past|VerbForm=Part	7	_	_	start_char=3002|end_char=3010
+9	that	that	SCONJ	IN	_	8	_	_	start_char=3011|end_char=3015
+10	arming	arm	VERB	VBG	VerbForm=Ger	9	_	_	start_char=3016|end_char=3022
+11	iev	iev	NOUN	NN	Number=Sing	10	_	_	start_char=3023|end_char=3026
+12	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=3027|end_char=3031
+13	not	not	PART	RB	_	12	_	_	start_char=3032|end_char=3035
+14	actually	actually	ADV	RB	_	13	_	_	start_char=3036|end_char=3044
+15	mae	marr	VERB	VB	VerbForm=Inf	14	_	_	start_char=3045|end_char=3048
+16	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	15	_	_	start_char=3049|end_char=3053
+17	a	a	DET	DT	Definite=Ind|PronType=Art	16	_	_	start_char=3054|end_char=3055
+18	party	party	NOUN	NN	Number=Sing	17	_	_	start_char=3056|end_char=3061
+19	to	to	ADP	IN	_	18	_	_	start_char=3062|end_char=3064
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=3065|end_char=3068
+21	conflict	conflict	NOUN	NN	Number=Sing	20	_	_	start_char=3069|end_char=3077|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=3077|end_char=3078|SpaceAfter=No
+

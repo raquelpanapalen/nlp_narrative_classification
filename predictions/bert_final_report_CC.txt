@@ -1,0 +1,427 @@
+Classification Report:
+                                                                                                            precision    recall  f1-score   support
+
+                                                                                                     Other       0.80      0.89      0.84        18
+                                                                              CC: Amplifying Climate Fears       0.00      0.00      0.00         0
+                                                                          CC: Climate change is beneficial       0.00      0.00      0.00         1
+                                                                  CC: Controversy about green technologies       0.00      0.00      0.00         3
+                                                                         CC: Criticism of climate movement       0.44      0.67      0.53         6
+                                                                         CC: Criticism of climate policies       1.00      0.30      0.46        10
+                                                             CC: Criticism of institutions and authorities       0.67      0.77      0.71        13
+                                                                            CC: Downplaying climate change       1.00      0.33      0.50         6
+                                                           CC: Green policies are geopolitical instruments       0.00      0.00      0.00         1
+                                                     CC: Hidden plots by secret schemes of powerful groups       0.86      0.55      0.67        11
+                                                              CC: Questioning the measurements and science       0.50      0.25      0.33         4
+                                 CC: Amplifying Climate Fears: Amplifying existing fears of global warming       0.00      0.00      0.00         0
+                                               CC: Amplifying Climate Fears: Doomsday scenarios for humans       0.00      0.00      0.00         0
+                                            CC: Amplifying Climate Fears: Earth will be uninhabitable soon       0.00      0.00      0.00         0
+                                                                       CC: Amplifying Climate Fears: Other       0.00      0.00      0.00         0
+                                       CC: Amplifying Climate Fears: Whatever we do it is already too late       0.00      0.00      0.00         0
+                                                       CC: Climate change is beneficial: CO2 is beneficial       0.00      0.00      0.00         1
+                                                           CC: Controversy about green technologies: Other       0.00      0.00      0.00         3
+                                      CC: Controversy about green technologies: Renewable energy is costly       0.00      0.00      0.00         0
+                                   CC: Controversy about green technologies: Renewable energy is dangerous       0.00      0.00      0.00         0
+                                  CC: Controversy about green technologies: Renewable energy is unreliable       0.00      0.00      0.00         0
+                                    CC: Criticism of climate movement: Ad hominem attacks on key activists       0.00      0.00      0.00         1
+                                           CC: Criticism of climate movement: Climate movement is alarmist       0.33      0.25      0.29         4
+                                            CC: Criticism of climate movement: Climate movement is corrupt       0.00      0.00      0.00         2
+                                                                  CC: Criticism of climate movement: Other       0.00      0.00      0.00         3
+                                       CC: Criticism of climate policies: Climate policies are ineffective       0.00      0.00      0.00         3
+                                   CC: Criticism of climate policies: Climate policies are only for profit       0.00      0.00      0.00         2
+                   CC: Criticism of climate policies: Climate policies have negative impact on the economy       0.50      0.25      0.33         4
+                                                                  CC: Criticism of climate policies: Other       0.00      0.00      0.00         4
+                        CC: Criticism of institutions and authorities: Criticism of international entities       0.00      0.00      0.00         2
+                          CC: Criticism of institutions and authorities: Criticism of national governments       0.50      0.43      0.46         7
+           CC: Criticism of institutions and authorities: Criticism of political organizations and figures       0.80      0.67      0.73         6
+                                        CC: Criticism of institutions and authorities: Criticism of the EU       0.00      0.00      0.00         1
+                                                      CC: Criticism of institutions and authorities: Other       0.00      0.00      0.00         1
+                        CC: Downplaying climate change: CO2 concentrations are too small to have an impact       0.00      0.00      0.00         2
+                                                CC: Downplaying climate change: Climate cycles are natural       0.00      0.00      0.00         1
+                             CC: Downplaying climate change: Human activities do not impact climate change       0.00      0.00      0.00         1
+                               CC: Downplaying climate change: Humans and nature will adapt to the changes       0.00      0.00      0.00         1
+                                                        CC: Downplaying climate change: Ice is not melting       0.00      0.00      0.00         0
+                                                                     CC: Downplaying climate change: Other       0.00      0.00      0.00         4
+                     CC: Downplaying climate change: Temperature increase does not have significant impact       0.00      0.00      0.00         1
+                              CC: Downplaying climate change: Weather suggests the trend is global cooling       0.00      0.00      0.00         0
+           CC: Green policies are geopolitical instruments: Green activities are a form of neo-colonialism       0.00      0.00      0.00         0
+                                                    CC: Green policies are geopolitical instruments: Other       0.00      0.00      0.00         0
+                              CC: Hidden plots by secret schemes of powerful groups: Blaming global elites       0.00      0.00      0.00         5
+                  CC: Hidden plots by secret schemes of powerful groups: Climate agenda has hidden motives       1.00      0.29      0.44         7
+                                              CC: Hidden plots by secret schemes of powerful groups: Other       0.00      0.00      0.00         4
+                          CC: Questioning the measurements and science: Data shows no temperature increase       0.00      0.00      0.00         0
+CC: Questioning the measurements and science: Greenhouse effect/carbon dioxide do not drive climate change       0.00      0.00      0.00         0
+            CC: Questioning the measurements and science: Methodologies/metrics used are unreliable/faulty       0.00      0.00      0.00         1
+                                                       CC: Questioning the measurements and science: Other       0.00      0.00      0.00         1
+                          CC: Questioning the measurements and science: Scientific community is unreliable       0.00      0.00      0.00         4
+
+                                                                                                 micro avg       0.66      0.36      0.46       149
+                                                                                                 macro avg       0.16      0.11      0.12       149
+                                                                                              weighted avg       0.48      0.36      0.38       149
+                                                                                               samples avg       0.71      0.58      0.61       149
+
+Accuracy: 0.4444444444444444
+F1 Score: 0.38327092272694535
+Other: 
+Confusion Matrix:
+True Negative (TN): 14
+False Positive (FP): 4
+False Negative (FN): 2
+True Positive (TP): 16
+
+CC: Amplifying Climate Fears: 
+Confusion Matrix:
+True Negative (TN): 36
+False Positive (FP): 0
+False Negative (FN): 0
+True Positive (TP): 0
+
+CC: Climate change is beneficial: 
+Confusion Matrix:
+True Negative (TN): 35
+False Positive (FP): 0
+False Negative (FN): 1
+True Positive (TP): 0
+
+CC: Controversy about green technologies: 
+Confusion Matrix:
+True Negative (TN): 32
+False Positive (FP): 1
+False Negative (FN): 3
+True Positive (TP): 0
+
+CC: Criticism of climate movement: 
+Confusion Matrix:
+True Negative (TN): 25
+False Positive (FP): 5
+False Negative (FN): 2
+True Positive (TP): 4
+
+CC: Criticism of climate policies: 
+Confusion Matrix:
+True Negative (TN): 26
+False Positive (FP): 0
+False Negative (FN): 7
+True Positive (TP): 3
+
+CC: Criticism of institutions and authorities: 
+Confusion Matrix:
+True Negative (TN): 18
+False Positive (FP): 5
+False Negative (FN): 3
+True Positive (TP): 10
+
+CC: Downplaying climate change: 
+Confusion Matrix:
+True Negative (TN): 30
+False Positive (FP): 0
+False Negative (FN): 4
+True Positive (TP): 2
+
+CC: Green policies are geopolitical instruments: 
+Confusion Matrix:
+True Negative (TN): 35
+False Positive (FP): 0
+False Negative (FN): 1
+True Positive (TP): 0
+
+CC: Hidden plots by secret schemes of powerful groups: 
+Confusion Matrix:
+True Negative (TN): 24
+False Positive (FP): 1
+False Negative (FN): 5
+True Positive (TP): 6
+
+CC: Questioning the measurements and science: 
+Confusion Matrix:
+True Negative (TN): 31
+False Positive (FP): 1
+False Negative (FN): 3
+True Positive (TP): 1
+
+CC: Amplifying Climate Fears: Amplifying existing fears of global warming: 
+Confusion Matrix:
+True Negative (TN): 36
+False Positive (FP): 0
+False Negative (FN): 0
+True Positive (TP): 0
+
+CC: Amplifying Climate Fears: Doomsday scenarios for humans: 
+Confusion Matrix:
+True Negative (TN): 36
+False Positive (FP): 0
+False Negative (FN): 0
+True Positive (TP): 0
+
+CC: Amplifying Climate Fears: Earth will be uninhabitable soon: 
+Confusion Matrix:
+True Negative (TN): 36
+False Positive (FP): 0
+False Negative (FN): 0
+True Positive (TP): 0
+
+CC: Amplifying Climate Fears: Other: 
+Confusion Matrix:
+True Negative (TN): 36
+False Positive (FP): 0
+False Negative (FN): 0
+True Positive (TP): 0
+
+CC: Amplifying Climate Fears: Whatever we do it is already too late: 
+Confusion Matrix:
+True Negative (TN): 36
+False Positive (FP): 0
+False Negative (FN): 0
+True Positive (TP): 0
+
+CC: Climate change is beneficial: CO2 is beneficial: 
+Confusion Matrix:
+True Negative (TN): 35
+False Positive (FP): 0
+False Negative (FN): 1
+True Positive (TP): 0
+
+CC: Controversy about green technologies: Other: 
+Confusion Matrix:
+True Negative (TN): 33
+False Positive (FP): 0
+False Negative (FN): 3
+True Positive (TP): 0
+
+CC: Controversy about green technologies: Renewable energy is costly: 
+Confusion Matrix:
+True Negative (TN): 36
+False Positive (FP): 0
+False Negative (FN): 0
+True Positive (TP): 0
+
+CC: Controversy about green technologies: Renewable energy is dangerous: 
+Confusion Matrix:
+True Negative (TN): 36
+False Positive (FP): 0
+False Negative (FN): 0
+True Positive (TP): 0
+
+CC: Controversy about green technologies: Renewable energy is unreliable: 
+Confusion Matrix:
+True Negative (TN): 36
+False Positive (FP): 0
+False Negative (FN): 0
+True Positive (TP): 0
+
+CC: Criticism of climate movement: Ad hominem attacks on key activists: 
+Confusion Matrix:
+True Negative (TN): 34
+False Positive (FP): 1
+False Negative (FN): 1
+True Positive (TP): 0
+
+CC: Criticism of climate movement: Climate movement is alarmist: 
+Confusion Matrix:
+True Negative (TN): 30
+False Positive (FP): 2
+False Negative (FN): 3
+True Positive (TP): 1
+
+CC: Criticism of climate movement: Climate movement is corrupt: 
+Confusion Matrix:
+True Negative (TN): 34
+False Positive (FP): 0
+False Negative (FN): 2
+True Positive (TP): 0
+
+CC: Criticism of climate movement: Other: 
+Confusion Matrix:
+True Negative (TN): 33
+False Positive (FP): 0
+False Negative (FN): 3
+True Positive (TP): 0
+
+CC: Criticism of climate policies: Climate policies are ineffective: 
+Confusion Matrix:
+True Negative (TN): 32
+False Positive (FP): 1
+False Negative (FN): 3
+True Positive (TP): 0
+
+CC: Criticism of climate policies: Climate policies are only for profit: 
+Confusion Matrix:
+True Negative (TN): 34
+False Positive (FP): 0
+False Negative (FN): 2
+True Positive (TP): 0
+
+CC: Criticism of climate policies: Climate policies have negative impact on the economy: 
+Confusion Matrix:
+True Negative (TN): 31
+False Positive (FP): 1
+False Negative (FN): 3
+True Positive (TP): 1
+
+CC: Criticism of climate policies: Other: 
+Confusion Matrix:
+True Negative (TN): 32
+False Positive (FP): 0
+False Negative (FN): 4
+True Positive (TP): 0
+
+CC: Criticism of institutions and authorities: Criticism of international entities: 
+Confusion Matrix:
+True Negative (TN): 34
+False Positive (FP): 0
+False Negative (FN): 2
+True Positive (TP): 0
+
+CC: Criticism of institutions and authorities: Criticism of national governments: 
+Confusion Matrix:
+True Negative (TN): 26
+False Positive (FP): 3
+False Negative (FN): 4
+True Positive (TP): 3
+
+CC: Criticism of institutions and authorities: Criticism of political organizations and figures: 
+Confusion Matrix:
+True Negative (TN): 29
+False Positive (FP): 1
+False Negative (FN): 2
+True Positive (TP): 4
+
+CC: Criticism of institutions and authorities: Criticism of the EU: 
+Confusion Matrix:
+True Negative (TN): 35
+False Positive (FP): 0
+False Negative (FN): 1
+True Positive (TP): 0
+
+CC: Criticism of institutions and authorities: Other: 
+Confusion Matrix:
+True Negative (TN): 35
+False Positive (FP): 0
+False Negative (FN): 1
+True Positive (TP): 0
+
+CC: Downplaying climate change: CO2 concentrations are too small to have an impact: 
+Confusion Matrix:
+True Negative (TN): 34
+False Positive (FP): 0
+False Negative (FN): 2
+True Positive (TP): 0
+
+CC: Downplaying climate change: Climate cycles are natural: 
+Confusion Matrix:
+True Negative (TN): 35
+False Positive (FP): 0
+False Negative (FN): 1
+True Positive (TP): 0
+
+CC: Downplaying climate change: Human activities do not impact climate change: 
+Confusion Matrix:
+True Negative (TN): 35
+False Positive (FP): 0
+False Negative (FN): 1
+True Positive (TP): 0
+
+CC: Downplaying climate change: Humans and nature will adapt to the changes: 
+Confusion Matrix:
+True Negative (TN): 35
+False Positive (FP): 0
+False Negative (FN): 1
+True Positive (TP): 0
+
+CC: Downplaying climate change: Ice is not melting: 
+Confusion Matrix:
+True Negative (TN): 36
+False Positive (FP): 0
+False Negative (FN): 0
+True Positive (TP): 0
+
+CC: Downplaying climate change: Other: 
+Confusion Matrix:
+True Negative (TN): 32
+False Positive (FP): 0
+False Negative (FN): 4
+True Positive (TP): 0
+
+CC: Downplaying climate change: Temperature increase does not have significant impact: 
+Confusion Matrix:
+True Negative (TN): 35
+False Positive (FP): 0
+False Negative (FN): 1
+True Positive (TP): 0
+
+CC: Downplaying climate change: Weather suggests the trend is global cooling: 
+Confusion Matrix:
+True Negative (TN): 36
+False Positive (FP): 0
+False Negative (FN): 0
+True Positive (TP): 0
+
+CC: Green policies are geopolitical instruments: Green activities are a form of neo-colonialism: 
+Confusion Matrix:
+True Negative (TN): 36
+False Positive (FP): 0
+False Negative (FN): 0
+True Positive (TP): 0
+
+CC: Green policies are geopolitical instruments: Other: 
+Confusion Matrix:
+True Negative (TN): 36
+False Positive (FP): 0
+False Negative (FN): 0
+True Positive (TP): 0
+
+CC: Hidden plots by secret schemes of powerful groups: Blaming global elites: 
+Confusion Matrix:
+True Negative (TN): 30
+False Positive (FP): 1
+False Negative (FN): 5
+True Positive (TP): 0
+
+CC: Hidden plots by secret schemes of powerful groups: Climate agenda has hidden motives: 
+Confusion Matrix:
+True Negative (TN): 29
+False Positive (FP): 0
+False Negative (FN): 5
+True Positive (TP): 2
+
+CC: Hidden plots by secret schemes of powerful groups: Other: 
+Confusion Matrix:
+True Negative (TN): 32
+False Positive (FP): 0
+False Negative (FN): 4
+True Positive (TP): 0
+
+CC: Questioning the measurements and science: Data shows no temperature increase: 
+Confusion Matrix:
+True Negative (TN): 36
+False Positive (FP): 0
+False Negative (FN): 0
+True Positive (TP): 0
+
+CC: Questioning the measurements and science: Greenhouse effect/carbon dioxide do not drive climate change: 
+Confusion Matrix:
+True Negative (TN): 36
+False Positive (FP): 0
+False Negative (FN): 0
+True Positive (TP): 0
+
+CC: Questioning the measurements and science: Methodologies/metrics used are unreliable/faulty: 
+Confusion Matrix:
+True Negative (TN): 35
+False Positive (FP): 0
+False Negative (FN): 1
+True Positive (TP): 0
+
+CC: Questioning the measurements and science: Other: 
+Confusion Matrix:
+True Negative (TN): 35
+False Positive (FP): 0
+False Negative (FN): 1
+True Positive (TP): 0
+
+CC: Questioning the measurements and science: Scientific community is unreliable: 
+Confusion Matrix:
+True Negative (TN): 32
+False Positive (FP): 0
+False Negative (FN): 4
+True Positive (TP): 0
+

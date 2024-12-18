@@ -1,0 +1,406 @@
+# text = Bill Gates Says He Is ‘The Solution’ To Climate Change So It’s O To Own Four Private Jets
+# sent_id = 0
+1	Bill	Bill	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=4
+2	Gates	Gates	PROPN	NNP	Number=Sing	1	_	_	start_char=5|end_char=10
+3	Says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=11|end_char=15
+4	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	_	_	start_char=16|end_char=18
+5	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=19|end_char=21
+6	‘	'	PUNCT	``	_	5	_	_	start_char=22|end_char=23|SpaceAfter=No
+7	The	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=23|end_char=26
+8	Solution	solution	NOUN	NN	Number=Sing	7	_	_	start_char=27|end_char=35|SpaceAfter=No
+9	’	'	PUNCT	''	_	8	_	_	start_char=35|end_char=36
+10	To	to	ADP	IN	_	9	_	_	start_char=37|end_char=39
+11	Climate	climate	NOUN	NN	Number=Sing	10	_	_	start_char=40|end_char=47
+12	Change	change	NOUN	NN	Number=Sing	11	_	_	start_char=48|end_char=54
+13	So	so	ADV	RB	_	12	_	_	start_char=55|end_char=57
+14-15	It’s	_	_	_	_	_	_	_	start_char=58|end_char=62
+14	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	_	_	start_char=58|end_char=60
+15	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=60|end_char=62
+16	O	of	ADP	IN	_	15	_	_	start_char=63|end_char=64
+17	To	to	ADP	IN	_	16	_	_	start_char=65|end_char=67
+18	Own	own	ADJ	JJ	Degree=Pos	17	_	_	start_char=68|end_char=71
+19	Four	four	NUM	CD	NumForm=Word|NumType=Card	18	_	_	start_char=72|end_char=76
+20	Private	private	ADJ	NNP	Degree=Pos	19	_	_	start_char=77|end_char=84
+21	Jets	Jet	PROPN	NNPS	Number=Plur	20	_	_	start_char=85|end_char=89|SpacesAfter=\s\n\n
+
+# text = Bill Gates has the right to fly around the world on private jets while normal people are forced to live in 15 minute cities without freedom of travel, according to Bill Gates himself, who told the BBC he is doing much more than anybody else to fight climate change.
+# sent_id = 1
+1	Bill	Bill	PROPN	NNP	Number=Sing	0	_	_	start_char=92|end_char=96
+2	Gates	Gates	PROPN	NNP	Number=Sing	1	_	_	start_char=97|end_char=102
+3	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=103|end_char=106
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=107|end_char=110
+5	right	right	NOUN	NN	Number=Sing	4	_	_	start_char=111|end_char=116
+6	to	to	PART	TO	_	5	_	_	start_char=117|end_char=119
+7	fly	fly	VERB	VB	VerbForm=Inf	6	_	_	start_char=120|end_char=123
+8	around	around	ADP	IN	_	7	_	_	start_char=124|end_char=130
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=131|end_char=134
+10	world	world	NOUN	NN	Number=Sing	9	_	_	start_char=135|end_char=140
+11	on	on	ADP	IN	_	10	_	_	start_char=141|end_char=143
+12	private	private	ADJ	JJ	Degree=Pos	11	_	_	start_char=144|end_char=151
+13	jets	jet	NOUN	NNS	Number=Plur	12	_	_	start_char=152|end_char=156
+14	while	while	SCONJ	IN	_	13	_	_	start_char=157|end_char=162
+15	normal	normal	ADJ	JJ	Degree=Pos	14	_	_	start_char=163|end_char=169
+16	people	person	NOUN	NNS	Number=Plur	15	_	_	start_char=170|end_char=176
+17	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=177|end_char=180
+18	forced	force	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	17	_	_	start_char=181|end_char=187
+19	to	to	PART	TO	_	18	_	_	start_char=188|end_char=190
+20	live	live	VERB	VB	VerbForm=Inf	19	_	_	start_char=191|end_char=195
+21	in	in	ADP	IN	_	20	_	_	start_char=196|end_char=198
+22	15	15	NUM	CD	NumForm=Digit|NumType=Card	21	_	_	start_char=199|end_char=201
+23	minute	minute	NOUN	NN	Number=Sing	22	_	_	start_char=202|end_char=208
+24	cities	city	NOUN	NNS	Number=Plur	23	_	_	start_char=209|end_char=215
+25	without	without	ADP	IN	_	24	_	_	start_char=216|end_char=223
+26	freedom	freedom	NOUN	NN	Number=Sing	25	_	_	start_char=224|end_char=231
+27	of	of	ADP	IN	_	26	_	_	start_char=232|end_char=234
+28	travel	travel	NOUN	NN	Number=Sing	27	_	_	start_char=235|end_char=241|SpaceAfter=No
+29	,	,	PUNCT	,	_	28	_	_	start_char=241|end_char=242
+30	according	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	29	_	_	start_char=243|end_char=252
+31	to	to	ADP	IN	_	30	_	_	start_char=253|end_char=255
+32	Bill	Bill	PROPN	NNP	Number=Sing	31	_	_	start_char=256|end_char=260
+33	Gates	Gates	PROPN	NNP	Number=Sing	32	_	_	start_char=261|end_char=266
+34	himself	himself	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	33	_	_	start_char=267|end_char=274|SpaceAfter=No
+35	,	,	PUNCT	,	_	34	_	_	start_char=274|end_char=275
+36	who	who	PRON	WP	PronType=Rel	35	_	_	start_char=276|end_char=279
+37	told	tell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	36	_	_	start_char=280|end_char=284
+38	the	the	DET	DT	Definite=Def|PronType=Art	37	_	_	start_char=285|end_char=288
+39	BBC	BBC	PROPN	NNP	Number=Sing	38	_	_	start_char=289|end_char=292
+40	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	39	_	_	start_char=293|end_char=295
+41	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	40	_	_	start_char=296|end_char=298
+42	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	41	_	_	start_char=299|end_char=304
+43	much	much	ADV	RB	_	42	_	_	start_char=305|end_char=309
+44	more	more	ADJ	JJR	Degree=Cmp	43	_	_	start_char=310|end_char=314
+45	than	than	ADP	IN	_	44	_	_	start_char=315|end_char=319
+46	anybody	anybody	PRON	NN	Number=Sing|PronType=Ind	45	_	_	start_char=320|end_char=327
+47	else	else	ADJ	JJ	Degree=Pos	46	_	_	start_char=328|end_char=332
+48	to	to	PART	TO	_	47	_	_	start_char=333|end_char=335
+49	fight	fight	VERB	VB	VerbForm=Inf	48	_	_	start_char=336|end_char=341
+50	climate	climate	NOUN	NN	Number=Sing	49	_	_	start_char=342|end_char=349
+51	change	change	NOUN	NN	Number=Sing	50	_	_	start_char=350|end_char=356|SpaceAfter=No
+52	.	.	PUNCT	.	_	51	_	_	start_char=356|end_char=357|SpacesAfter=\n\n
+
+# text = Gates claimed that because he continues to “spend billions of dollars” on climate change activism, his carbon footprint isn’t an issue.
+# sent_id = 2
+1	Gates	gate	NOUN	NNS	Number=Plur	0	_	_	start_char=359|end_char=364
+2	claimed	claim	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=365|end_char=372
+3	that	that	SCONJ	IN	_	2	_	_	start_char=373|end_char=377
+4	because	because	SCONJ	IN	_	3	_	_	start_char=378|end_char=385
+5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	_	_	start_char=386|end_char=388
+6	continues	continue	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=389|end_char=398
+7	to	to	PART	TO	_	6	_	_	start_char=399|end_char=401
+8	“	''	PUNCT	``	_	7	_	_	start_char=402|end_char=403|SpaceAfter=No
+9	spend	spend	VERB	VB	VerbForm=Inf	8	_	_	start_char=403|end_char=408
+10	billions	billion	NOUN	NNS	Number=Plur	9	_	_	start_char=409|end_char=417
+11	of	of	ADP	IN	_	10	_	_	start_char=418|end_char=420
+12	dollars	dollar	NOUN	NNS	Number=Plur	11	_	_	start_char=421|end_char=428|SpaceAfter=No
+13	”	''	PUNCT	''	_	12	_	_	start_char=428|end_char=429
+14	on	on	ADP	IN	_	13	_	_	start_char=430|end_char=432
+15	climate	climate	NOUN	NN	Number=Sing	14	_	_	start_char=433|end_char=440
+16	change	change	NOUN	NN	Number=Sing	15	_	_	start_char=441|end_char=447
+17	activism	activism	NOUN	NN	Number=Sing	16	_	_	start_char=448|end_char=456|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=456|end_char=457
+19	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	18	_	_	start_char=458|end_char=461
+20	carbon	carbon	NOUN	NN	Number=Sing	19	_	_	start_char=462|end_char=468
+21	footprint	footprint	NOUN	NN	Number=Sing	20	_	_	start_char=469|end_char=478
+22-23	isn’t	_	_	_	_	_	_	_	start_char=479|end_char=484
+22	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	_	_	start_char=479|end_char=481
+23	n’t	not	PART	RB	_	22	_	_	start_char=481|end_char=484
+24	an	a	DET	DT	Definite=Ind|PronType=Art	23	_	_	start_char=485|end_char=487
+25	issue	issue	NOUN	NN	Number=Sing	24	_	_	start_char=488|end_char=493|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=493|end_char=494|SpacesAfter=\n\n
+
+# text = “Should I stay at home and not come to enya and learn about farming and malaria?”
+# sent_id = 3
+1	“	''	PUNCT	``	_	0	_	_	start_char=496|end_char=497|SpaceAfter=No
+2	Should	should	AUX	MD	VerbForm=Fin	1	_	_	start_char=497|end_char=503
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	_	_	start_char=504|end_char=505
+4	stay	stay	VERB	VB	VerbForm=Inf	3	_	_	start_char=506|end_char=510
+5	at	at	ADP	IN	_	4	_	_	start_char=511|end_char=513
+6	home	home	NOUN	NN	Number=Sing	5	_	_	start_char=514|end_char=518
+7	and	and	CCONJ	CC	_	6	_	_	start_char=519|end_char=522
+8	not	not	PART	RB	_	7	_	_	start_char=523|end_char=526
+9	come	come	VERB	VB	VerbForm=Inf	8	_	_	start_char=527|end_char=531
+10	to	to	ADP	IN	_	9	_	_	start_char=532|end_char=534
+11	enya	enya	PROPN	NNP	Number=Sing	10	_	_	start_char=535|end_char=539
+12	and	and	CCONJ	CC	_	11	_	_	start_char=540|end_char=543
+13	learn	learn	VERB	VB	VerbForm=Inf	12	_	_	start_char=544|end_char=549
+14	about	about	ADP	IN	_	13	_	_	start_char=550|end_char=555
+15	farming	farming	NOUN	NN	Number=Sing	14	_	_	start_char=556|end_char=563
+16	and	and	CCONJ	CC	_	15	_	_	start_char=564|end_char=567
+17	malaria	malaria	NOUN	NN	Number=Sing	16	_	_	start_char=568|end_char=575|SpaceAfter=No
+18	?	?	PUNCT	.	_	17	_	_	start_char=575|end_char=576|SpaceAfter=No
+19	”	''	PUNCT	''	_	18	_	_	start_char=576|end_char=577
+
+# text = Gates said in the interview with Amol Rajan.
+# sent_id = 4
+1	Gates	Gates	PROPN	NNPS	Number=Plur	0	_	_	start_char=578|end_char=583
+2	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=584|end_char=588
+3	in	in	ADP	IN	_	2	_	_	start_char=589|end_char=591
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=592|end_char=595
+5	interview	interview	NOUN	NN	Number=Sing	4	_	_	start_char=596|end_char=605
+6	with	with	ADP	IN	_	5	_	_	start_char=606|end_char=610
+7	Amol	Amol	PROPN	NNP	Number=Sing	6	_	_	start_char=611|end_char=615
+8	Rajan	Rajan	PROPN	NNP	Number=Sing	7	_	_	start_char=616|end_char=621|SpaceAfter=No
+9	.	.	PUNCT	.	_	8	_	_	start_char=621|end_char=622|SpacesAfter=\n\n
+
+# text = “I’m comfortable with the idea that not only am I not part of the problem by paying for the offsets, but also through the billions that my Breathrough Energy Group is spending, that I’m part of the solution,” Gates added.
+# sent_id = 5
+1	“	''	PUNCT	``	_	0	_	_	start_char=624|end_char=625|SpaceAfter=No
+2-3	I’m	_	_	_	_	_	_	_	start_char=625|end_char=628
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	_	_	start_char=625|end_char=626
+3	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=626|end_char=628
+4	comfortable	comfortable	ADJ	JJ	Degree=Pos	3	_	_	start_char=629|end_char=640
+5	with	with	ADP	IN	_	4	_	_	start_char=641|end_char=645
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=646|end_char=649
+7	idea	idea	NOUN	NN	Number=Sing	6	_	_	start_char=650|end_char=654
+8	that	that	SCONJ	IN	_	7	_	_	start_char=655|end_char=659
+9	not	not	PART	RB	_	8	_	_	start_char=660|end_char=663
+10	only	only	ADV	RB	_	9	_	_	start_char=664|end_char=668
+11	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	_	_	start_char=669|end_char=671
+12	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	_	_	start_char=672|end_char=673
+13	not	not	PART	RB	_	12	_	_	start_char=674|end_char=677
+14	part	part	NOUN	NN	Number=Sing	13	_	_	start_char=678|end_char=682
+15	of	of	ADP	IN	_	14	_	_	start_char=683|end_char=685
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=686|end_char=689
+17	problem	problem	NOUN	NN	Number=Sing	16	_	_	start_char=690|end_char=697
+18	by	by	SCONJ	IN	_	17	_	_	start_char=698|end_char=700
+19	paying	pay	VERB	VBG	VerbForm=Ger	18	_	_	start_char=701|end_char=707
+20	for	for	ADP	IN	_	19	_	_	start_char=708|end_char=711
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=712|end_char=715
+22	offsets	offset	NOUN	NNS	Number=Plur	21	_	_	start_char=716|end_char=723|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=723|end_char=724
+24	but	but	CCONJ	CC	_	23	_	_	start_char=725|end_char=728
+25	also	also	ADV	RB	_	24	_	_	start_char=729|end_char=733
+26	through	through	ADP	IN	_	25	_	_	start_char=734|end_char=741
+27	the	the	DET	DT	Definite=Def|PronType=Art	26	_	_	start_char=742|end_char=745
+28	billions	billion	NOUN	NNS	Number=Plur	27	_	_	start_char=746|end_char=754
+29	that	that	PRON	WDT	PronType=Rel	28	_	_	start_char=755|end_char=759
+30	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	29	_	_	start_char=760|end_char=762
+31	Breathrough	Breathrough	PROPN	NNP	Number=Sing	30	_	_	start_char=763|end_char=774
+32	Energy	Energy	PROPN	NNP	Number=Sing	31	_	_	start_char=775|end_char=781
+33	Group	Group	PROPN	NNP	Number=Sing	32	_	_	start_char=782|end_char=787
+34	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	_	_	start_char=788|end_char=790
+35	spending	spend	VERB	VBG	Tense=Pres|VerbForm=Part	34	_	_	start_char=791|end_char=799|SpaceAfter=No
+36	,	,	PUNCT	,	_	35	_	_	start_char=799|end_char=800
+37	that	that	SCONJ	IN	_	36	_	_	start_char=801|end_char=805
+38-39	I’m	_	_	_	_	_	_	_	start_char=806|end_char=809
+38	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	37	_	_	start_char=806|end_char=807
+39	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	38	_	_	start_char=807|end_char=809
+40	part	part	NOUN	NN	Number=Sing	39	_	_	start_char=810|end_char=814
+41	of	of	ADP	IN	_	40	_	_	start_char=815|end_char=817
+42	the	the	DET	DT	Definite=Def|PronType=Art	41	_	_	start_char=818|end_char=821
+43	solution	solution	NOUN	NN	Number=Sing	42	_	_	start_char=822|end_char=830|SpaceAfter=No
+44	,	,	PUNCT	,	_	43	_	_	start_char=830|end_char=831|SpaceAfter=No
+45	”	''	PUNCT	''	_	44	_	_	start_char=831|end_char=832
+46	Gates	Gates	PROPN	NNPS	Number=Plur	45	_	_	start_char=833|end_char=838
+47	added	add	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	46	_	_	start_char=839|end_char=844|SpaceAfter=No
+48	.	.	PUNCT	.	_	47	_	_	start_char=844|end_char=845
+
+# text = Watch:
+# sent_id = 6
+1	Watch	watch	VERB	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=846|end_char=851|SpaceAfter=No
+2	:	:	PUNCT	:	_	1	_	_	start_char=851|end_char=852|SpacesAfter=\n\n
+
+# text = Earlier this year, Gates flew around Australia on board his $70 million dollar luxury private jet lecturing people about climate change and ordering them to stop flying on planes.
+# sent_id = 7
+1	Earlier	early	ADV	RBR	Degree=Cmp	0	_	_	start_char=854|end_char=861
+2	this	this	DET	DT	Number=Sing|PronType=Dem	1	_	_	start_char=862|end_char=866
+3	year	year	NOUN	NN	Number=Sing	2	_	_	start_char=867|end_char=871|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=871|end_char=872
+5	Gates	Gates	PROPN	NNPS	Number=Plur	4	_	_	start_char=873|end_char=878
+6	flew	fly	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=879|end_char=883
+7	around	around	ADP	IN	_	6	_	_	start_char=884|end_char=890
+8	Australia	Australia	PROPN	NNP	Number=Sing	7	_	_	start_char=891|end_char=900
+9	on	on	ADP	IN	_	8	_	_	start_char=901|end_char=903
+10	board	board	NOUN	NN	Number=Sing	9	_	_	start_char=904|end_char=909
+11	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	_	_	start_char=910|end_char=913
+12	$	$	SYM	$	_	11	_	_	start_char=914|end_char=915|SpaceAfter=No
+13	70	70	NUM	CD	NumForm=Digit|NumType=Card	12	_	_	start_char=915|end_char=917
+14	million	million	NUM	CD	NumForm=Word|NumType=Card	13	_	_	start_char=918|end_char=925
+15	dollar	dollar	NOUN	NN	Number=Sing	14	_	_	start_char=926|end_char=932
+16	luxury	luxury	NOUN	NN	Number=Sing	15	_	_	start_char=933|end_char=939
+17	private	private	ADJ	JJ	Degree=Pos	16	_	_	start_char=940|end_char=947
+18	jet	jet	NOUN	NN	Number=Sing	17	_	_	start_char=948|end_char=951
+19	lecturing	lecture	VERB	VBG	VerbForm=Ger	18	_	_	start_char=952|end_char=961
+20	people	person	NOUN	NNS	Number=Plur	19	_	_	start_char=962|end_char=968
+21	about	about	ADP	IN	_	20	_	_	start_char=969|end_char=974
+22	climate	climate	NOUN	NN	Number=Sing	21	_	_	start_char=975|end_char=982
+23	change	change	NOUN	NN	Number=Sing	22	_	_	start_char=983|end_char=989
+24	and	and	CCONJ	CC	_	23	_	_	start_char=990|end_char=993
+25	ordering	order	VERB	VBG	VerbForm=Ger	24	_	_	start_char=994|end_char=1002
+26	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	25	_	_	start_char=1003|end_char=1007
+27	to	to	PART	TO	_	26	_	_	start_char=1008|end_char=1010
+28	stop	stop	VERB	VB	VerbForm=Inf	27	_	_	start_char=1011|end_char=1015
+29	flying	fly	VERB	VBG	VerbForm=Ger	28	_	_	start_char=1016|end_char=1022
+30	on	on	ADP	IN	_	29	_	_	start_char=1023|end_char=1025
+31	planes	plane	NOUN	NNS	Number=Plur	30	_	_	start_char=1026|end_char=1032|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=1032|end_char=1033|SpacesAfter=\n\n
+
+# text = Gates, who has declared that the energy crisis is a good thing, owns no fewer than FOUR private jets at a combined cost of $194 million dollars.
+# sent_id = 8
+1	Gates	Gates	PROPN	NNPS	Number=Plur	0	_	_	start_char=1035|end_char=1040|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=1040|end_char=1041
+3	who	who	PRON	WP	PronType=Rel	2	_	_	start_char=1042|end_char=1045
+4	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1046|end_char=1049
+5	declared	declare	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=1050|end_char=1058
+6	that	that	SCONJ	IN	_	5	_	_	start_char=1059|end_char=1063
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1064|end_char=1067
+8	energy	energy	NOUN	NN	Number=Sing	7	_	_	start_char=1068|end_char=1074
+9	crisis	crisis	NOUN	NN	Number=Sing	8	_	_	start_char=1075|end_char=1081
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=1082|end_char=1084
+11	a	a	DET	DT	Definite=Ind|PronType=Art	10	_	_	start_char=1085|end_char=1086
+12	good	good	ADJ	JJ	Degree=Pos	11	_	_	start_char=1087|end_char=1091
+13	thing	thing	NOUN	NN	Number=Sing	12	_	_	start_char=1092|end_char=1097|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=1097|end_char=1098
+15	owns	own	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=1099|end_char=1103
+16	no	no	ADV	RB	_	15	_	_	start_char=1104|end_char=1106
+17	fewer	few	ADJ	JJR	Degree=Cmp	16	_	_	start_char=1107|end_char=1112
+18	than	than	ADP	IN	_	17	_	_	start_char=1113|end_char=1117
+19	FOUR	four	NUM	CD	NumForm=Word|NumType=Card	18	_	_	start_char=1118|end_char=1122
+20	private	private	ADJ	JJ	Degree=Pos	19	_	_	start_char=1123|end_char=1130
+21	jets	jet	NOUN	NNS	Number=Plur	20	_	_	start_char=1131|end_char=1135
+22	at	at	ADP	IN	_	21	_	_	start_char=1136|end_char=1138
+23	a	a	DET	DT	Definite=Ind|PronType=Art	22	_	_	start_char=1139|end_char=1140
+24	combined	combine	VERB	VBN	Tense=Past|VerbForm=Part	23	_	_	start_char=1141|end_char=1149
+25	cost	cost	NOUN	NN	Number=Sing	24	_	_	start_char=1150|end_char=1154
+26	of	of	ADP	IN	_	25	_	_	start_char=1155|end_char=1157
+27	$	$	SYM	$	_	26	_	_	start_char=1158|end_char=1159|SpaceAfter=No
+28	194	194	NUM	CD	NumForm=Digit|NumType=Card	27	_	_	start_char=1159|end_char=1162
+29	million	million	NUM	CD	NumForm=Word|NumType=Card	28	_	_	start_char=1163|end_char=1170
+30	dollars	dollar	NOUN	NNS	Number=Plur	29	_	_	start_char=1171|end_char=1178|SpaceAfter=No
+31	.	.	PUNCT	.	_	30	_	_	start_char=1178|end_char=1179|SpacesAfter=\n\n
+
+# text = A study carried out by Linnaeus University economics professor Stefan Gössling found that Gates flew more than 213,000 miles on 59 private jet flights in 2017 alone.
+# sent_id = 9
+1	A	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=1181|end_char=1182
+2	study	study	NOUN	NN	Number=Sing	1	_	_	start_char=1183|end_char=1188
+3	carried	carry	VERB	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=1189|end_char=1196
+4	out	out	ADP	RP	_	3	_	_	start_char=1197|end_char=1200
+5	by	by	ADP	IN	_	4	_	_	start_char=1201|end_char=1203
+6	Linnaeus	Linnaeus	PROPN	NNP	Number=Sing	5	_	_	start_char=1204|end_char=1212
+7	University	University	PROPN	NNP	Number=Sing	6	_	_	start_char=1213|end_char=1223
+8	economics	economics	NOUN	NN	Number=Sing	7	_	_	start_char=1224|end_char=1233
+9	professor	professor	NOUN	NN	Number=Sing	8	_	_	start_char=1234|end_char=1243
+10	Stefan	Stefan	PROPN	NNP	Number=Sing	9	_	_	start_char=1244|end_char=1250
+11	Gössling	Gössling	PROPN	NNP	Number=Sing	10	_	_	start_char=1251|end_char=1259
+12	found	find	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=1260|end_char=1265
+13	that	that	SCONJ	IN	_	12	_	_	start_char=1266|end_char=1270
+14	Gates	Gates	PROPN	NNPS	Number=Plur	13	_	_	start_char=1271|end_char=1276
+15	flew	fly	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=1277|end_char=1281
+16	more	more	ADJ	JJR	Degree=Cmp	15	_	_	start_char=1282|end_char=1286
+17	than	than	ADP	IN	_	16	_	_	start_char=1287|end_char=1291
+18	213,000	213000	NUM	CD	NumForm=Digit|NumType=Card	17	_	_	start_char=1292|end_char=1299
+19	miles	mile	NOUN	NNS	Number=Plur	18	_	_	start_char=1300|end_char=1305
+20	on	on	ADP	IN	_	19	_	_	start_char=1306|end_char=1308
+21	59	59	NUM	CD	NumForm=Digit|NumType=Card	20	_	_	start_char=1309|end_char=1311
+22	private	private	ADJ	JJ	Degree=Pos	21	_	_	start_char=1312|end_char=1319
+23	jet	jet	NOUN	NN	Number=Sing	22	_	_	start_char=1320|end_char=1323
+24	flights	flight	NOUN	NNS	Number=Plur	23	_	_	start_char=1324|end_char=1331
+25	in	in	ADP	IN	_	24	_	_	start_char=1332|end_char=1334
+26	2017	2017	NUM	CD	NumForm=Digit|NumType=Card	25	_	_	start_char=1335|end_char=1339
+27	alone	alone	ADV	RB	_	26	_	_	start_char=1340|end_char=1345|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=1345|end_char=1346|SpacesAfter=\n\n
+
+# text = Gates emitted an estimated 1,760 tons of carbon dioxide emissions, over a hundred times more than the emissions per capita in the United States, according to data from the World Ban.
+# sent_id = 10
+1	Gates	gate	NOUN	NNS	Number=Plur	0	_	_	start_char=1348|end_char=1353
+2	emitted	emit	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1354|end_char=1361
+3	an	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=1362|end_char=1364
+4	estimated	estimate	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=1365|end_char=1374
+5	1,760	1760	NUM	CD	NumForm=Digit|NumType=Card	4	_	_	start_char=1375|end_char=1380
+6	tons	ton	NOUN	NNS	Number=Plur	5	_	_	start_char=1381|end_char=1385
+7	of	of	ADP	IN	_	6	_	_	start_char=1386|end_char=1388
+8	carbon	carbon	NOUN	NN	Number=Sing	7	_	_	start_char=1389|end_char=1395
+9	dioxide	dioxide	NOUN	NN	Number=Sing	8	_	_	start_char=1396|end_char=1403
+10	emissions	emission	NOUN	NNS	Number=Plur	9	_	_	start_char=1404|end_char=1413|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=1413|end_char=1414
+12	over	over	ADV	RB	_	11	_	_	start_char=1415|end_char=1419
+13	a	a	DET	DT	Definite=Ind|PronType=Art	12	_	_	start_char=1420|end_char=1421
+14	hundred	hundred	NUM	CD	NumForm=Word|NumType=Card	13	_	_	start_char=1422|end_char=1429
+15	times	time	NOUN	NNS	Number=Plur	14	_	_	start_char=1430|end_char=1435
+16	more	more	ADJ	JJR	Degree=Cmp	15	_	_	start_char=1436|end_char=1440
+17	than	than	ADP	IN	_	16	_	_	start_char=1441|end_char=1445
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=1446|end_char=1449
+19	emissions	emission	NOUN	NNS	Number=Plur	18	_	_	start_char=1450|end_char=1459
+20	per	per	ADP	IN	_	19	_	_	start_char=1460|end_char=1463
+21	capita	capita	NOUN	NN	Number=Sing	20	_	_	start_char=1464|end_char=1470
+22	in	in	ADP	IN	_	21	_	_	start_char=1471|end_char=1473
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=1474|end_char=1477
+24	United	United	ADJ	NNP	Degree=Pos	23	_	_	start_char=1478|end_char=1484
+25	States	State	PROPN	NNPS	Number=Plur	24	_	_	start_char=1485|end_char=1491|SpaceAfter=No
+26	,	,	PUNCT	,	_	25	_	_	start_char=1491|end_char=1492
+27	according	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	26	_	_	start_char=1493|end_char=1502
+28	to	to	ADP	IN	_	27	_	_	start_char=1503|end_char=1505
+29	data	datum	NOUN	NNS	Number=Plur	28	_	_	start_char=1506|end_char=1510
+30	from	from	ADP	IN	_	29	_	_	start_char=1511|end_char=1515
+31	the	the	DET	DT	Definite=Def|PronType=Art	30	_	_	start_char=1516|end_char=1519
+32	World	World	PROPN	NNP	Number=Sing	31	_	_	start_char=1520|end_char=1525
+33	Ban	Ban	PROPN	NNP	Number=Sing	32	_	_	start_char=1526|end_char=1529|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=1529|end_char=1530|SpacesAfter=\n\n
+
+# text = Elsewhere during the carefully constructed interview, Gates said he was surprised that he was targeted by ‘conspiracy theorists’ for pushing vaccines during the pandemic.
+# sent_id = 11
+1	Elsewhere	elsewhere	ADV	RB	_	0	_	_	start_char=1532|end_char=1541
+2	during	during	ADP	IN	_	1	_	_	start_char=1542|end_char=1548
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1549|end_char=1552
+4	carefully	carefully	ADV	RB	_	3	_	_	start_char=1553|end_char=1562
+5	constructed	construct	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=1563|end_char=1574
+6	interview	interview	NOUN	NN	Number=Sing	5	_	_	start_char=1575|end_char=1584|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=1584|end_char=1585
+8	Gates	Gates	PROPN	NNP	Number=Sing	7	_	_	start_char=1586|end_char=1591
+9	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=1592|end_char=1596
+10	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	_	_	start_char=1597|end_char=1599
+11	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=1600|end_char=1603
+12	surprised	surprise	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	11	_	_	start_char=1604|end_char=1613
+13	that	that	SCONJ	IN	_	12	_	_	start_char=1614|end_char=1618
+14	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	_	_	start_char=1619|end_char=1621
+15	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=1622|end_char=1625
+16	targeted	target	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	15	_	_	start_char=1626|end_char=1634
+17	by	by	ADP	IN	_	16	_	_	start_char=1635|end_char=1637
+18	‘	'	PUNCT	``	_	17	_	_	start_char=1638|end_char=1639|SpaceAfter=No
+19	conspiracy	conspiracy	NOUN	NN	Number=Sing	18	_	_	start_char=1639|end_char=1649
+20	theorists	theorist	NOUN	NNS	Number=Plur	19	_	_	start_char=1650|end_char=1659|SpaceAfter=No
+21	’	'	PUNCT	''	_	20	_	_	start_char=1659|end_char=1660
+22	for	for	SCONJ	IN	_	21	_	_	start_char=1661|end_char=1664
+23	pushing	push	VERB	VBG	VerbForm=Ger	22	_	_	start_char=1665|end_char=1672
+24	vaccines	vaccine	NOUN	NNS	Number=Plur	23	_	_	start_char=1673|end_char=1681
+25	during	during	ADP	IN	_	24	_	_	start_char=1682|end_char=1688
+26	the	the	DET	DT	Definite=Def|PronType=Art	25	_	_	start_char=1689|end_char=1692
+27	pandemic	pandemic	NOUN	NN	Number=Sing	26	_	_	start_char=1693|end_char=1701|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=1701|end_char=1702|SpacesAfter=\n\n
+
+# text = While the BBC interview was set up to loo lie Gates was being challenged or grilled, he wasn’t ased about his close friendship with the elite pedophile Jeffrey Epstein.
+# sent_id = 12
+1	While	while	SCONJ	IN	_	0	_	_	start_char=1704|end_char=1709
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=1710|end_char=1713
+3	BBC	BBC	PROPN	NNP	Number=Sing	2	_	_	start_char=1714|end_char=1717
+4	interview	interview	NOUN	NN	Number=Sing	3	_	_	start_char=1718|end_char=1727
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=1728|end_char=1731
+6	set	set	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	_	_	start_char=1732|end_char=1735
+7	up	up	ADP	RP	_	6	_	_	start_char=1736|end_char=1738
+8	to	to	PART	TO	_	7	_	_	start_char=1739|end_char=1741
+9	loo	loo	VERB	VB	VerbForm=Inf	8	_	_	start_char=1742|end_char=1745
+10	lie	lie	VERB	VB	VerbForm=Inf	9	_	_	start_char=1746|end_char=1749
+11	Gates	Gates	PROPN	NNPS	Number=Plur	10	_	_	start_char=1750|end_char=1755
+12	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=1756|end_char=1759
+13	being	be	AUX	VBG	VerbForm=Ger	12	_	_	start_char=1760|end_char=1765
+14	challenged	challenge	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	13	_	_	start_char=1766|end_char=1776
+15	or	or	CCONJ	CC	_	14	_	_	start_char=1777|end_char=1779
+16	grilled	grill	VERB	VBN	Tense=Past|VerbForm=Part	15	_	_	start_char=1780|end_char=1787|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=1787|end_char=1788
+18	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	_	_	start_char=1789|end_char=1791
+19-20	wasn’t	_	_	_	_	_	_	_	start_char=1792|end_char=1798
+19	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	_	_	start_char=1792|end_char=1795
+20	n’t	not	PART	RB	_	19	_	_	start_char=1795|end_char=1798
+21	ased	ase	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	20	_	_	start_char=1799|end_char=1803
+22	about	about	ADP	IN	_	21	_	_	start_char=1804|end_char=1809
+23	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	22	_	_	start_char=1810|end_char=1813
+24	close	close	ADJ	JJ	Degree=Pos	23	_	_	start_char=1814|end_char=1819
+25	friendship	friendship	NOUN	NN	Number=Sing	24	_	_	start_char=1820|end_char=1830
+26	with	with	ADP	IN	_	25	_	_	start_char=1831|end_char=1835
+27	the	the	DET	DT	Definite=Def|PronType=Art	26	_	_	start_char=1836|end_char=1839
+28	elite	elite	ADJ	JJ	Degree=Pos	27	_	_	start_char=1840|end_char=1845
+29	pedophile	pedophile	NOUN	NN	Number=Sing	28	_	_	start_char=1846|end_char=1855
+30	Jeffrey	Jeffrey	PROPN	NNP	Number=Sing	29	_	_	start_char=1856|end_char=1863
+31	Epstein	Epstein	PROPN	NNP	Number=Sing	30	_	_	start_char=1864|end_char=1871|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=1871|end_char=1872|SpaceAfter=No
+

@@ -1,0 +1,381 @@
+# text = Uraine Bombed Diesel Tans Near A Nuclear Plant In Russia
+# sent_id = 0
+1	Uraine	Uraine	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=6
+2	Bombed	bomb	VERB	VBN	Tense=Past|VerbForm=Part	1	_	_	start_char=7|end_char=13
+3	Diesel	Diesel	PROPN	NNP	Number=Sing	2	_	_	start_char=14|end_char=20
+4	Tans	Tan	PROPN	NNP	Number=Sing	3	_	_	start_char=21|end_char=25
+5	Near	near	PROPN	NNP	Number=Sing	4	_	_	start_char=26|end_char=30
+6	A	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=31|end_char=32
+7	Nuclear	Nuclear	ADJ	NNP	Degree=Pos	6	_	_	start_char=33|end_char=40
+8	Plant	Plant	PROPN	NNP	Number=Sing	7	_	_	start_char=41|end_char=46
+9	In	in	ADP	IN	_	8	_	_	start_char=47|end_char=49
+10	Russia	Russia	PROPN	NNP	Number=Sing	9	_	_	start_char=50|end_char=56|SpacesAfter=\s\n\n\s
+
+# text = TRUMP SAYS: HUNTER MAES FORTUNE FROM SHADY DEALS!
+# sent_id = 1
+1	TRUMP	TRUMP	PROPN	NNP	Number=Sing	0	_	_	start_char=60|end_char=65
+2	SAYS	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=66|end_char=70|SpaceAfter=No
+3	:	:	PUNCT	:	_	2	_	_	start_char=70|end_char=71
+4	HUNTER	HUNTER	PROPN	NNP	Number=Sing	3	_	_	start_char=72|end_char=78
+5	MAES	MAES	PROPN	NNP	Number=Sing	4	_	_	start_char=79|end_char=83
+6	FORTUNE	fortune	NOUN	NN	Number=Sing	5	_	_	start_char=84|end_char=91
+7	FROM	from	ADP	IN	_	6	_	_	start_char=92|end_char=96
+8	SHADY	shady	ADJ	JJ	Degree=Pos	7	_	_	start_char=97|end_char=102
+9	DEALS	deal	NOUN	NNS	Number=Plur	8	_	_	start_char=103|end_char=108|SpaceAfter=No
+10	!	!	PUNCT	.	_	9	_	_	start_char=108|end_char=109|SpacesAfter=\n\n
+
+# text = BIDEN FAMILY STINS TO HIGH HEAVENS OF CORRUPTION!
+# sent_id = 2
+1	BIDEN	BIDEN	PROPN	NNP	Number=Sing	0	_	_	start_char=111|end_char=116
+2	FAMILY	family	NOUN	NN	Number=Sing	1	_	_	start_char=117|end_char=123
+3	STINS	sting	NOUN	NNS	Number=Plur	2	_	_	start_char=124|end_char=129
+4	TO	to	ADP	IN	_	3	_	_	start_char=130|end_char=132
+5	HIGH	high	ADJ	JJ	Degree=Pos	4	_	_	start_char=133|end_char=137
+6	HEAVENS	heaven	NOUN	NNS	Number=Plur	5	_	_	start_char=138|end_char=145
+7	OF	of	ADP	IN	_	6	_	_	start_char=146|end_char=148
+8	CORRUPTION	corruption	NOUN	NN	Number=Sing	7	_	_	start_char=149|end_char=159|SpaceAfter=No
+9	!	!	PUNCT	.	_	8	_	_	start_char=159|end_char=160|SpacesAfter=\n\n
+
+# text = DON'T GET LEFT OUT: HUNTER MUST BE STOPPED!
+# sent_id = 3
+1-2	DON'T	_	_	_	_	_	_	_	start_char=162|end_char=167
+1	DO	do	AUX	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=162|end_char=164
+2	N'T	not	PART	RB	_	1	_	_	start_char=164|end_char=167
+3	GET	get	VERB	VB	Mood=Imp|VerbForm=Fin	2	_	_	start_char=168|end_char=171
+4	LEFT	left	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=172|end_char=176
+5	OUT	out	ADP	IN	_	4	_	_	start_char=177|end_char=180|SpaceAfter=No
+6	:	:	PUNCT	:	_	5	_	_	start_char=180|end_char=181
+7	HUNTER	hunter	NOUN	NN	Number=Sing	6	_	_	start_char=182|end_char=188
+8	MUST	must	AUX	MD	VerbForm=Fin	7	_	_	start_char=189|end_char=193
+9	BE	be	AUX	VB	VerbForm=Inf	8	_	_	start_char=194|end_char=196
+10	STOPPED	stopped	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	9	_	_	start_char=197|end_char=204|SpaceAfter=No
+11	!	!	PUNCT	.	_	10	_	_	start_char=204|end_char=205|SpacesAfter=\n\n
+
+# text = Urainian forces have dropped a bomb near diesel tans located at Russia’s Zaporizhzhia nuclear power plant, management at the facility reported on Thursday.
+# sent_id = 4
+1	Urainian	Urainian	ADJ	JJ	Degree=Pos	0	_	_	start_char=207|end_char=215
+2	forces	force	NOUN	NNS	Number=Plur	1	_	_	start_char=216|end_char=222
+3	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=223|end_char=227
+4	dropped	drop	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=228|end_char=235
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=236|end_char=237
+6	bomb	bomb	NOUN	NN	Number=Sing	5	_	_	start_char=238|end_char=242
+7	near	near	ADP	IN	_	6	_	_	start_char=243|end_char=247
+8	diesel	diesel	NOUN	NN	Number=Sing	7	_	_	start_char=248|end_char=254
+9	tans	tan	NOUN	NNS	Number=Plur	8	_	_	start_char=255|end_char=259
+10	located	locate	VERB	VBN	Tense=Past|VerbForm=Part	9	_	_	start_char=260|end_char=267
+11	at	at	ADP	IN	_	10	_	_	start_char=268|end_char=270
+12-13	Russia’s	_	_	_	_	_	_	_	start_char=271|end_char=279
+12	Russia	Russia	PROPN	NNP	Number=Sing	11	_	_	start_char=271|end_char=277
+13	’s	's	PART	POS	_	12	_	_	start_char=277|end_char=279
+14	Zaporizhzhia	Zaporizhzhia	PROPN	NNP	Number=Sing	13	_	_	start_char=280|end_char=292
+15	nuclear	nuclear	ADJ	JJ	Degree=Pos	14	_	_	start_char=293|end_char=300
+16	power	power	NOUN	NN	Number=Sing	15	_	_	start_char=301|end_char=306
+17	plant	plant	NOUN	NN	Number=Sing	16	_	_	start_char=307|end_char=312|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=312|end_char=313
+19	management	management	NOUN	NN	Number=Sing	18	_	_	start_char=314|end_char=324
+20	at	at	ADP	IN	_	19	_	_	start_char=325|end_char=327
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=328|end_char=331
+22	facility	facility	NOUN	NN	Number=Sing	21	_	_	start_char=332|end_char=340
+23	reported	report	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	_	_	start_char=341|end_char=349
+24	on	on	ADP	IN	_	23	_	_	start_char=350|end_char=352
+25	Thursday	Thursday	PROPN	NNP	Number=Sing	24	_	_	start_char=353|end_char=361|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=361|end_char=362
+
+# text = The blast occurred near tans containing diesel for bacup generators at the Zaporizhzhia facility, according to management.
+# sent_id = 5
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=363|end_char=366
+2	blast	blast	NOUN	NN	Number=Sing	1	_	_	start_char=367|end_char=372
+3	occurred	occur	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=373|end_char=381
+4	near	near	ADP	IN	_	3	_	_	start_char=382|end_char=386
+5	tans	tan	NOUN	NNS	Number=Plur	4	_	_	start_char=387|end_char=391
+6	containing	contain	VERB	VBG	VerbForm=Ger	5	_	_	start_char=392|end_char=402
+7	diesel	diesel	NOUN	NN	Number=Sing	6	_	_	start_char=403|end_char=409
+8	for	for	ADP	IN	_	7	_	_	start_char=410|end_char=413
+9	bacup	bacup	NOUN	NN	Number=Sing	8	_	_	start_char=414|end_char=419
+10	generators	generator	NOUN	NNS	Number=Plur	9	_	_	start_char=420|end_char=430
+11	at	at	ADP	IN	_	10	_	_	start_char=431|end_char=433
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=434|end_char=437
+13	Zaporizhzhia	Zaporizhzhia	PROPN	NNP	Number=Sing	12	_	_	start_char=438|end_char=450
+14	facility	facility	NOUN	NN	Number=Sing	13	_	_	start_char=451|end_char=459|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=459|end_char=460
+16	according	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	15	_	_	start_char=461|end_char=470
+17	to	to	ADP	IN	_	16	_	_	start_char=471|end_char=473
+18	management	management	NOUN	NN	Number=Sing	17	_	_	start_char=474|end_char=484|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=484|end_char=485|SpacesAfter=\n\n
+
+# text = The plant has bacup diesel generators, which ic on when the electricity supply from the power grid is cut off.
+# sent_id = 6
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=487|end_char=490
+2	plant	plant	NOUN	NN	Number=Sing	1	_	_	start_char=491|end_char=496
+3	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=497|end_char=500
+4	bacup	Bacup	PROPN	NNP	Number=Sing	3	_	_	start_char=501|end_char=506
+5	diesel	diesel	NOUN	NN	Number=Sing	4	_	_	start_char=507|end_char=513
+6	generators	generator	NOUN	NNS	Number=Plur	5	_	_	start_char=514|end_char=524|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=524|end_char=525
+8	which	which	PRON	WDT	PronType=Rel	7	_	_	start_char=526|end_char=531
+9	ic	ic	NOUN	NN	Number=Sing	8	_	_	start_char=532|end_char=534
+10	on	on	ADP	IN	_	9	_	_	start_char=535|end_char=537
+11	when	when	ADV	WRB	PronType=Int	10	_	_	start_char=538|end_char=542
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=543|end_char=546
+13	electricity	electricity	NOUN	NN	Number=Sing	12	_	_	start_char=547|end_char=558
+14	supply	supply	NOUN	NN	Number=Sing	13	_	_	start_char=559|end_char=565
+15	from	from	ADP	IN	_	14	_	_	start_char=566|end_char=570
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=571|end_char=574
+17	power	power	NOUN	NN	Number=Sing	16	_	_	start_char=575|end_char=580
+18	grid	grid	NOUN	NN	Number=Sing	17	_	_	start_char=581|end_char=585
+19	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=586|end_char=588
+20	cut	cut	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	19	_	_	start_char=589|end_char=592
+21	off	off	ADP	RP	_	20	_	_	start_char=593|end_char=596|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=596|end_char=597
+
+# text = Its equipment has to be powered continuously to ensure safe operation, even when nuclear reactors are not online.
+# sent_id = 7
+1	Its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	_	_	start_char=598|end_char=601
+2	equipment	equipment	NOUN	NN	Number=Sing	1	_	_	start_char=602|end_char=611
+3	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=612|end_char=615
+4	to	to	PART	TO	_	3	_	_	start_char=616|end_char=618
+5	be	be	AUX	VB	VerbForm=Inf	4	_	_	start_char=619|end_char=621
+6	powered	power	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	_	_	start_char=622|end_char=629
+7	continuously	continuously	ADV	RB	_	6	_	_	start_char=630|end_char=642
+8	to	to	PART	TO	_	7	_	_	start_char=643|end_char=645
+9	ensure	ensure	VERB	VB	VerbForm=Inf	8	_	_	start_char=646|end_char=652
+10	safe	safe	ADJ	JJ	Degree=Pos	9	_	_	start_char=653|end_char=657
+11	operation	operation	NOUN	NN	Number=Sing	10	_	_	start_char=658|end_char=667|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=667|end_char=668
+13	even	even	ADV	RB	_	12	_	_	start_char=669|end_char=673
+14	when	when	ADV	WRB	PronType=Int	13	_	_	start_char=674|end_char=678
+15	nuclear	nuclear	ADJ	JJ	Degree=Pos	14	_	_	start_char=679|end_char=686
+16	reactors	reactor	NOUN	NNS	Number=Plur	15	_	_	start_char=687|end_char=695
+17	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=696|end_char=699
+18	not	not	PART	RB	_	17	_	_	start_char=700|end_char=703
+19	online	online	ADV	RB	_	18	_	_	start_char=704|end_char=710|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=710|end_char=711
+
+# text = Blacouts have been a regular occurrence for the site since the beginning of the conflict, according to a report by RT.
+# sent_id = 8
+1	Blacouts	Blacouts	PROPN	NNPS	Number=Plur	0	_	_	start_char=712|end_char=720
+2	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=721|end_char=725
+3	been	be	AUX	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=726|end_char=730
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=731|end_char=732
+5	regular	regular	ADJ	JJ	Degree=Pos	4	_	_	start_char=733|end_char=740
+6	occurrence	occurrence	NOUN	NN	Number=Sing	5	_	_	start_char=741|end_char=751
+7	for	for	ADP	IN	_	6	_	_	start_char=752|end_char=755
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=756|end_char=759
+9	site	site	NOUN	NN	Number=Sing	8	_	_	start_char=760|end_char=764
+10	since	since	ADP	IN	_	9	_	_	start_char=765|end_char=770
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=771|end_char=774
+12	beginning	beginning	NOUN	NN	Number=Sing	11	_	_	start_char=775|end_char=784
+13	of	of	ADP	IN	_	12	_	_	start_char=785|end_char=787
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=788|end_char=791
+15	conflict	conflict	NOUN	NN	Number=Sing	14	_	_	start_char=792|end_char=800|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=800|end_char=801
+17	according	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	16	_	_	start_char=802|end_char=811
+18	to	to	ADP	IN	_	17	_	_	start_char=812|end_char=814
+19	a	a	DET	DT	Definite=Ind|PronType=Art	18	_	_	start_char=815|end_char=816
+20	report	report	NOUN	NN	Number=Sing	19	_	_	start_char=817|end_char=823
+21	by	by	ADP	IN	_	20	_	_	start_char=824|end_char=826
+22	RT	RT	PROPN	NNP	Number=Sing	21	_	_	start_char=827|end_char=829|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=829|end_char=830|SpacesAfter=\n\n
+
+# text = Russia has said in the past that a Urainian attac is imminent.
+# sent_id = 9
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=832|end_char=838
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=839|end_char=842
+3	said	say	VERB	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=843|end_char=847
+4	in	in	ADP	IN	_	3	_	_	start_char=848|end_char=850
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=851|end_char=854
+6	past	past	NOUN	NN	Number=Sing	5	_	_	start_char=855|end_char=859
+7	that	that	SCONJ	IN	_	6	_	_	start_char=860|end_char=864
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=865|end_char=866
+9	Urainian	Urainian	ADJ	JJ	Degree=Pos	8	_	_	start_char=867|end_char=875
+10	attac	attac	NOUN	NN	Number=Sing	9	_	_	start_char=876|end_char=881
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=882|end_char=884
+12	imminent	imminent	ADJ	JJ	Degree=Pos	11	_	_	start_char=885|end_char=893|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=893|end_char=894|SpacesAfter=\n\n
+
+# text = Russia Says A Urainian Attac On Zaporizhzhia Facility With a ‘Dirty’ Nuclear Device Is Imminent
+# sent_id = 10
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=896|end_char=902
+2	Says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=903|end_char=907
+3	A	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=908|end_char=909
+4	Urainian	Urainian	ADJ	NNP	Degree=Pos	3	_	_	start_char=910|end_char=918
+5	Attac	Attac	PROPN	NNP	Number=Sing	4	_	_	start_char=919|end_char=924
+6	On	on	ADP	IN	_	5	_	_	start_char=925|end_char=927
+7	Zaporizhzhia	Zaporizhzhia	PROPN	NNP	Number=Sing	6	_	_	start_char=928|end_char=940
+8	Facility	facility	PROPN	NNP	Number=Sing	7	_	_	start_char=941|end_char=949
+9	With	with	ADP	IN	_	8	_	_	start_char=950|end_char=954
+10	a	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=955|end_char=956
+11	‘	'	PUNCT	``	_	10	_	_	start_char=957|end_char=958|SpaceAfter=No
+12	Dirty’	dirty’	ADJ	JJ	Degree=Pos	11	_	_	start_char=958|end_char=964
+13	Nuclear	Nuclear	ADJ	JJ	Degree=Pos	12	_	_	start_char=965|end_char=972
+14	Device	device	NOUN	NN	Number=Sing	13	_	_	start_char=973|end_char=979
+15	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=980|end_char=982
+16	Imminent	imminent	NOUN	NN	Number=Sing	15	_	_	start_char=983|end_char=991|SpacesAfter=\n\n
+
+# text = Chernu, noted that it was fortunate that “neither equipment nor personnel were damaged in the attac.”
+# sent_id = 11
+1	Chernu	Chernu	PROPN	NNP	Number=Sing	0	_	_	start_char=993|end_char=999|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=999|end_char=1000
+3	noted	note	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1001|end_char=1006
+4	that	that	SCONJ	IN	_	3	_	_	start_char=1007|end_char=1011
+5	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	_	_	start_char=1012|end_char=1014
+6	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=1015|end_char=1018
+7	fortunate	fortunate	ADJ	JJ	Degree=Pos	6	_	_	start_char=1019|end_char=1028
+8	that	that	SCONJ	IN	_	7	_	_	start_char=1029|end_char=1033
+9	“	''	PUNCT	``	_	8	_	_	start_char=1034|end_char=1035|SpaceAfter=No
+10	neither	neither	DET	DT	_	9	_	_	start_char=1035|end_char=1042
+11	equipment	equipment	NOUN	NN	Number=Sing	10	_	_	start_char=1043|end_char=1052
+12	nor	nor	CCONJ	CC	_	11	_	_	start_char=1053|end_char=1056
+13	personnel	personnel	NOUN	NNS	Number=Plur	12	_	_	start_char=1057|end_char=1066
+14	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	13	_	_	start_char=1067|end_char=1071
+15	damaged	damage	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	_	_	start_char=1072|end_char=1079
+16	in	in	ADP	IN	_	15	_	_	start_char=1080|end_char=1082
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=1083|end_char=1086
+18	attac	attac	NOUN	NN	Number=Sing	17	_	_	start_char=1087|end_char=1092|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=1092|end_char=1093|SpaceAfter=No
+20	”	''	PUNCT	''	_	19	_	_	start_char=1093|end_char=1094|SpacesAfter=\n\n
+
+# text = ”Destruction of those tans or a fuel lea may not only cause a fire but also result in significant loss of diesel reserves.
+# sent_id = 12
+1	”	''	PUNCT	``	_	0	_	_	start_char=1096|end_char=1097|SpaceAfter=No
+2	Destruction	destruction	NOUN	NN	Number=Sing	1	_	_	start_char=1097|end_char=1108
+3	of	of	ADP	IN	_	2	_	_	start_char=1109|end_char=1111
+4	those	that	DET	DT	Number=Plur|PronType=Dem	3	_	_	start_char=1112|end_char=1117
+5	tans	tan	NOUN	NNS	Number=Plur	4	_	_	start_char=1118|end_char=1122
+6	or	or	CCONJ	CC	_	5	_	_	start_char=1123|end_char=1125
+7	a	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=1126|end_char=1127
+8	fuel	fuel	NOUN	NN	Number=Sing	7	_	_	start_char=1128|end_char=1132
+9	lea	lea	NOUN	NN	Number=Sing	8	_	_	start_char=1133|end_char=1136
+10	may	may	AUX	MD	VerbForm=Fin	9	_	_	start_char=1137|end_char=1140
+11	not	not	PART	RB	_	10	_	_	start_char=1141|end_char=1144
+12	only	only	ADV	RB	_	11	_	_	start_char=1145|end_char=1149
+13	cause	cause	VERB	VB	VerbForm=Inf	12	_	_	start_char=1150|end_char=1155
+14	a	a	DET	DT	Definite=Ind|PronType=Art	13	_	_	start_char=1156|end_char=1157
+15	fire	fire	NOUN	NN	Number=Sing	14	_	_	start_char=1158|end_char=1162
+16	but	but	CCONJ	CC	_	15	_	_	start_char=1163|end_char=1166
+17	also	also	ADV	RB	_	16	_	_	start_char=1167|end_char=1171
+18	result	result	VERB	VB	VerbForm=Inf	17	_	_	start_char=1172|end_char=1178
+19	in	in	ADP	IN	_	18	_	_	start_char=1179|end_char=1181
+20	significant	significant	ADJ	JJ	Degree=Pos	19	_	_	start_char=1182|end_char=1193
+21	loss	loss	NOUN	NN	Number=Sing	20	_	_	start_char=1194|end_char=1198
+22	of	of	ADP	IN	_	21	_	_	start_char=1199|end_char=1201
+23	diesel	diesel	NOUN	NN	Number=Sing	22	_	_	start_char=1202|end_char=1208
+24	reserves	reserve	NOUN	NNS	Number=Plur	23	_	_	start_char=1209|end_char=1217|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=1217|end_char=1218
+
+# text = Consequently, the plant’s preparedness for emergencies would be reduced by orders of magnitude,” Chernu explained.
+# sent_id = 13
+1	Consequently	consequently	ADV	RB	_	0	_	_	start_char=1219|end_char=1231|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=1231|end_char=1232
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1233|end_char=1236
+4-5	plant’s	_	_	_	_	_	_	_	start_char=1237|end_char=1244
+4	plant	plant	NOUN	NN	Number=Sing	3	_	_	start_char=1237|end_char=1242
+5	’s	's	PART	POS	_	4	_	_	start_char=1242|end_char=1244
+6	preparedness	preparedness	NOUN	NN	Number=Sing	5	_	_	start_char=1245|end_char=1257
+7	for	for	ADP	IN	_	6	_	_	start_char=1258|end_char=1261
+8	emergencies	emergency	NOUN	NNS	Number=Plur	7	_	_	start_char=1262|end_char=1273
+9	would	would	AUX	MD	VerbForm=Fin	8	_	_	start_char=1274|end_char=1279
+10	be	be	AUX	VB	VerbForm=Inf	9	_	_	start_char=1280|end_char=1282
+11	reduced	reduce	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10	_	_	start_char=1283|end_char=1290
+12	by	by	ADP	IN	_	11	_	_	start_char=1291|end_char=1293
+13	orders	order	NOUN	NNS	Number=Plur	12	_	_	start_char=1294|end_char=1300
+14	of	of	ADP	IN	_	13	_	_	start_char=1301|end_char=1303
+15	magnitude	magnitude	NOUN	NN	Number=Sing	14	_	_	start_char=1304|end_char=1313|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=1313|end_char=1314|SpaceAfter=No
+17	”	''	PUNCT	''	_	16	_	_	start_char=1314|end_char=1315
+18	Chernu	Chernu	PROPN	NNP	Number=Sing	17	_	_	start_char=1316|end_char=1322
+19	explained	explain	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	_	_	start_char=1323|end_char=1332|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=1332|end_char=1333
+
+# text = He also noted that Urainian forces had targeted the plant days after the International Atomic Energy Agency, the United Nation’s nuclear watchdog, rotated observers stationed there.
+# sent_id = 14
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1334|end_char=1336
+2	also	also	ADV	RB	_	1	_	_	start_char=1337|end_char=1341
+3	noted	note	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1342|end_char=1347
+4	that	that	SCONJ	IN	_	3	_	_	start_char=1348|end_char=1352
+5	Urainian	Urainian	ADJ	JJ	Degree=Pos	4	_	_	start_char=1353|end_char=1361
+6	forces	force	NOUN	NNS	Number=Plur	5	_	_	start_char=1362|end_char=1368
+7	had	have	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=1369|end_char=1372
+8	targeted	target	VERB	VBN	Tense=Past|VerbForm=Part	7	_	_	start_char=1373|end_char=1381
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1382|end_char=1385
+10	plant	plant	NOUN	NN	Number=Sing	9	_	_	start_char=1386|end_char=1391
+11	days	day	NOUN	NNS	Number=Plur	10	_	_	start_char=1392|end_char=1396
+12	after	after	ADP	IN	_	11	_	_	start_char=1397|end_char=1402
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1403|end_char=1406
+14	International	International	ADJ	NNP	Degree=Pos	13	_	_	start_char=1407|end_char=1420
+15	Atomic	Atomic	ADJ	NNP	Degree=Pos	14	_	_	start_char=1421|end_char=1427
+16	Energy	Energy	PROPN	NNP	Number=Sing	15	_	_	start_char=1428|end_char=1434
+17	Agency	Agency	PROPN	NNP	Number=Sing	16	_	_	start_char=1435|end_char=1441|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=1441|end_char=1442
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=1443|end_char=1446
+20	United	United	ADJ	NNP	Degree=Pos	19	_	_	start_char=1447|end_char=1453
+21-22	Nation’s	_	_	_	_	_	_	_	start_char=1454|end_char=1462
+21	Nation	Nation	PROPN	NNP	Number=Sing	20	_	_	start_char=1454|end_char=1460
+22	’s	's	PART	POS	_	21	_	_	start_char=1460|end_char=1462
+23	nuclear	nuclear	ADJ	JJ	Degree=Pos	22	_	_	start_char=1463|end_char=1470
+24	watchdog	watchdog	NOUN	NN	Number=Sing	23	_	_	start_char=1471|end_char=1479|SpaceAfter=No
+25	,	,	PUNCT	,	_	24	_	_	start_char=1479|end_char=1480
+26	rotated	rotate	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	_	_	start_char=1481|end_char=1488
+27	observers	observer	NOUN	NNS	Number=Plur	26	_	_	start_char=1489|end_char=1498
+28	stationed	station	VERB	VBN	Tense=Past|VerbForm=Part	27	_	_	start_char=1499|end_char=1508
+29	there	there	ADV	RB	PronType=Dem	28	_	_	start_char=1509|end_char=1514|SpaceAfter=No
+30	.	.	PUNCT	.	_	29	_	_	start_char=1514|end_char=1515
+
+# text = The organization told Russian media that it was aware of the incident, but offered no further comment.
+# sent_id = 15
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1516|end_char=1519
+2	organization	organization	NOUN	NN	Number=Sing	1	_	_	start_char=1520|end_char=1532
+3	told	tell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1533|end_char=1537
+4	Russian	Russian	ADJ	JJ	Degree=Pos	3	_	_	start_char=1538|end_char=1545
+5	media	media	NOUN	NN	Number=Sing	4	_	_	start_char=1546|end_char=1551
+6	that	that	SCONJ	IN	_	5	_	_	start_char=1552|end_char=1556
+7	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	_	_	start_char=1557|end_char=1559
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=1560|end_char=1563
+9	aware	aware	ADJ	JJ	Degree=Pos	8	_	_	start_char=1564|end_char=1569
+10	of	of	ADP	IN	_	9	_	_	start_char=1570|end_char=1572
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=1573|end_char=1576
+12	incident	incident	NOUN	NN	Number=Sing	11	_	_	start_char=1577|end_char=1585|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=1585|end_char=1586
+14	but	but	CCONJ	CC	_	13	_	_	start_char=1587|end_char=1590
+15	offered	offer	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=1591|end_char=1598
+16	no	no	DET	DT	_	15	_	_	start_char=1599|end_char=1601
+17	further	further	ADJ	JJ	Degree=Pos	16	_	_	start_char=1602|end_char=1609
+18	comment	comment	NOUN	NN	Number=Sing	17	_	_	start_char=1610|end_char=1617|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=1617|end_char=1618|SpacesAfter=\n\n
+
+# text = It Too 22 Years to Get to This Point
+# sent_id = 16
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1620|end_char=1622
+2	Too	too	ADV	RB	_	1	_	_	start_char=1623|end_char=1626
+3	22	22	NUM	CD	NumForm=Digit|NumType=Card	2	_	_	start_char=1627|end_char=1629
+4	Years	year	NOUN	NNS	Number=Plur	3	_	_	start_char=1630|end_char=1635
+5	to	to	PART	TO	_	4	_	_	start_char=1636|end_char=1638
+6	Get	get	VERB	VB	VerbForm=Inf	5	_	_	start_char=1639|end_char=1642
+7	to	to	ADP	IN	_	6	_	_	start_char=1643|end_char=1645
+8	This	this	DET	DT	Number=Sing|PronType=Dem	7	_	_	start_char=1646|end_char=1650
+9	Point	point	NOUN	NN	Number=Sing	8	_	_	start_char=1651|end_char=1656|SpacesAfter=\n\n
+
+# text = The remlin has offered a lacluster response to Donald Trump’s election win.
+# sent_id = 17
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1658|end_char=1661
+2	remlin	remlin	NOUN	NN	Number=Sing	1	_	_	start_char=1662|end_char=1668
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1669|end_char=1672
+4	offered	offer	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=1673|end_char=1680
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=1681|end_char=1682
+6	lacluster	lacluster	ADJ	JJ	Degree=Pos	5	_	_	start_char=1683|end_char=1692
+7	response	response	NOUN	NN	Number=Sing	6	_	_	start_char=1693|end_char=1701
+8	to	to	ADP	IN	_	7	_	_	start_char=1702|end_char=1704
+9	Donald	Donald	PROPN	NNP	Number=Sing	8	_	_	start_char=1705|end_char=1711
+10-11	Trump’s	_	_	_	_	_	_	_	start_char=1712|end_char=1719
+10	Trump	Trump	PROPN	NNP	Number=Sing	9	_	_	start_char=1712|end_char=1717
+11	’s	's	PART	POS	_	10	_	_	start_char=1717|end_char=1719
+12	election	election	NOUN	NN	Number=Sing	11	_	_	start_char=1720|end_char=1728
+13	win	win	NOUN	NN	Number=Sing	12	_	_	start_char=1729|end_char=1732|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=1732|end_char=1733
+
+# text = Spoesman Dmitry...
+# sent_id = 18
+1	Spoesman	Spoesman	PROPN	NNP	Number=Sing	0	_	_	start_char=1734|end_char=1742
+2	Dmitry	Dmitry	PROPN	NNP	Number=Sing	1	_	_	start_char=1743|end_char=1749|SpaceAfter=No
+3	...	...	PUNCT	.	_	2	_	_	start_char=1749|end_char=1752|SpaceAfter=No
+

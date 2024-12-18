@@ -1,0 +1,355 @@
+# text = George W. Bush and Barac Obama to Hold Bac-to-Bac Conferences
+# sent_id = 0
+1	George	George	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=6
+2	W.	W.	PROPN	NNP	Number=Sing	1	_	_	start_char=7|end_char=9
+3	Bush	Bush	PROPN	NNP	Number=Sing	2	_	_	start_char=10|end_char=14
+4	and	and	CCONJ	CC	_	3	_	_	start_char=15|end_char=18
+5	Barac	Barac	PROPN	NNP	Number=Sing	4	_	_	start_char=19|end_char=24
+6	Obama	Obama	PROPN	NNP	Number=Sing	5	_	_	start_char=25|end_char=30
+7	to	to	ADP	IN	_	6	_	_	start_char=31|end_char=33
+8	Hold	Hold	PROPN	NNP	Number=Sing	7	_	_	start_char=34|end_char=38
+9	Bac	Bac	PROPN	NNP	Number=Sing	8	_	_	start_char=39|end_char=42|SpaceAfter=No
+10	-	-	PUNCT	HYPH	_	9	_	_	start_char=42|end_char=43|SpaceAfter=No
+11	to	to	ADP	IN	_	10	_	_	start_char=43|end_char=45|SpaceAfter=No
+12	-	-	PUNCT	HYPH	_	11	_	_	start_char=45|end_char=46|SpaceAfter=No
+13	Bac	Bac	PROPN	NNP	Number=Sing	12	_	_	start_char=46|end_char=49
+14	Conferences	conference	NOUN	NNS	Number=Plur	13	_	_	start_char=50|end_char=61
+
+# text = This Wee on “Democracy” and “Disinformation”
+# sent_id = 1
+1	This	this	DET	DT	Number=Sing|PronType=Dem	0	_	_	start_char=62|end_char=66
+2	Wee	wee	NOUN	NN	Number=Sing	1	_	_	start_char=67|end_char=70
+3	on	on	ADP	IN	_	2	_	_	start_char=71|end_char=73
+4	“	''	PUNCT	``	_	3	_	_	start_char=74|end_char=75|SpaceAfter=No
+5	Democracy	democracy	NOUN	NN	Number=Sing	4	_	_	start_char=75|end_char=84|SpaceAfter=No
+6	”	''	PUNCT	''	_	5	_	_	start_char=84|end_char=85
+7	and	and	CCONJ	CC	_	6	_	_	start_char=86|end_char=89
+8	“	''	PUNCT	``	_	7	_	_	start_char=90|end_char=91|SpaceAfter=No
+9	Disinformation	disinformation	NOUN	NN	Number=Sing	8	_	_	start_char=91|end_char=105|SpaceAfter=No
+10	”	''	PUNCT	''	_	9	_	_	start_char=105|end_char=106|SpacesAfter=\s\n\n\s
+
+# text = George W. Bush and Barac Obama will hold bac-to-bac conferences this wee focusing on “democracy” and “disinformation.”
+# sent_id = 2
+1	George	George	PROPN	NNP	Number=Sing	0	_	_	start_char=110|end_char=116
+2	W.	W.	PROPN	NNP	Number=Sing	1	_	_	start_char=117|end_char=119
+3	Bush	Bush	PROPN	NNP	Number=Sing	2	_	_	start_char=120|end_char=124
+4	and	and	CCONJ	CC	_	3	_	_	start_char=125|end_char=128
+5	Barac	Barac	PROPN	NNP	Number=Sing	4	_	_	start_char=129|end_char=134
+6	Obama	Obama	PROPN	NNP	Number=Sing	5	_	_	start_char=135|end_char=140
+7	will	will	AUX	MD	VerbForm=Fin	6	_	_	start_char=141|end_char=145
+8	hold	hold	VERB	VB	VerbForm=Inf	7	_	_	start_char=146|end_char=150
+9	bac	bac	NOUN	NN	Number=Sing	8	_	_	start_char=151|end_char=154|SpaceAfter=No
+10	-	-	PUNCT	HYPH	_	9	_	_	start_char=154|end_char=155|SpaceAfter=No
+11	to	to	ADP	IN	_	10	_	_	start_char=155|end_char=157|SpaceAfter=No
+12	-	-	PUNCT	HYPH	_	11	_	_	start_char=157|end_char=158|SpaceAfter=No
+13	bac	bac	NOUN	NN	Number=Sing	12	_	_	start_char=158|end_char=161
+14	conferences	conference	NOUN	NNS	Number=Plur	13	_	_	start_char=162|end_char=173
+15	this	this	DET	DT	Number=Sing|PronType=Dem	14	_	_	start_char=174|end_char=178
+16	wee	wee	NOUN	NN	Number=Sing	15	_	_	start_char=179|end_char=182
+17	focusing	focus	VERB	VBG	VerbForm=Ger	16	_	_	start_char=183|end_char=191
+18	on	on	ADP	IN	_	17	_	_	start_char=192|end_char=194
+19	“	''	PUNCT	``	_	18	_	_	start_char=195|end_char=196|SpaceAfter=No
+20	democracy	democracy	NOUN	NN	Number=Sing	19	_	_	start_char=196|end_char=205|SpaceAfter=No
+21	”	''	PUNCT	''	_	20	_	_	start_char=205|end_char=206
+22	and	and	CCONJ	CC	_	21	_	_	start_char=207|end_char=210
+23	“	''	PUNCT	``	_	22	_	_	start_char=211|end_char=212|SpaceAfter=No
+24	disinformation	disinformation	NOUN	NN	Number=Sing	23	_	_	start_char=212|end_char=226|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=226|end_char=227|SpaceAfter=No
+26	”	''	PUNCT	''	_	25	_	_	start_char=227|end_char=228|SpacesAfter=\n\n
+
+# text = George W. Bush’s executive director who is woring with the former president on the democracy and disinformation conference is David J. ramer who is famous for promoting the bogus Trump-Russia dossier.
+# sent_id = 3
+1	George	George	PROPN	NNP	Number=Sing	0	_	_	start_char=230|end_char=236
+2	W.	W.	PROPN	NNP	Number=Sing	1	_	_	start_char=237|end_char=239
+3-4	Bush’s	_	_	_	_	_	_	_	start_char=240|end_char=246
+3	Bush	Bush	PROPN	NNP	Number=Sing	2	_	_	start_char=240|end_char=244
+4	’s	's	PART	POS	_	3	_	_	start_char=244|end_char=246
+5	executive	executive	ADJ	JJ	Degree=Pos	4	_	_	start_char=247|end_char=256
+6	director	director	NOUN	NN	Number=Sing	5	_	_	start_char=257|end_char=265
+7	who	who	PRON	WP	PronType=Rel	6	_	_	start_char=266|end_char=269
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=270|end_char=272
+9	woring	wore	VERB	VBG	Tense=Pres|VerbForm=Part	8	_	_	start_char=273|end_char=279
+10	with	with	ADP	IN	_	9	_	_	start_char=280|end_char=284
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=285|end_char=288
+12	former	former	ADJ	JJ	Degree=Pos	11	_	_	start_char=289|end_char=295
+13	president	president	NOUN	NN	Number=Sing	12	_	_	start_char=296|end_char=305
+14	on	on	ADP	IN	_	13	_	_	start_char=306|end_char=308
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=309|end_char=312
+16	democracy	democracy	NOUN	NN	Number=Sing	15	_	_	start_char=313|end_char=322
+17	and	and	CCONJ	CC	_	16	_	_	start_char=323|end_char=326
+18	disinformation	disinformation	NOUN	NN	Number=Sing	17	_	_	start_char=327|end_char=341
+19	conference	conference	NOUN	NN	Number=Sing	18	_	_	start_char=342|end_char=352
+20	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	_	_	start_char=353|end_char=355
+21	David	David	PROPN	NNP	Number=Sing	20	_	_	start_char=356|end_char=361
+22	J.	J.	PROPN	NNP	Number=Sing	21	_	_	start_char=362|end_char=364
+23	ramer	ramer	PROPN	NNP	Number=Sing	22	_	_	start_char=365|end_char=370
+24	who	who	PRON	WP	PronType=Rel	23	_	_	start_char=371|end_char=374
+25	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	_	_	start_char=375|end_char=377
+26	famous	famous	ADJ	JJ	Degree=Pos	25	_	_	start_char=378|end_char=384
+27	for	for	SCONJ	IN	_	26	_	_	start_char=385|end_char=388
+28	promoting	promote	VERB	VBG	VerbForm=Ger	27	_	_	start_char=389|end_char=398
+29	the	the	DET	DT	Definite=Def|PronType=Art	28	_	_	start_char=399|end_char=402
+30	bogus	bogus	ADJ	JJ	Degree=Pos	29	_	_	start_char=403|end_char=408
+31	Trump	Trump	PROPN	NNP	Number=Sing	30	_	_	start_char=409|end_char=414|SpaceAfter=No
+32	-	-	PUNCT	HYPH	_	31	_	_	start_char=414|end_char=415|SpaceAfter=No
+33	Russia	Russia	PROPN	NNP	Number=Sing	32	_	_	start_char=415|end_char=421
+34	dossier	dossier	NOUN	NN	Number=Sing	33	_	_	start_char=422|end_char=429|SpaceAfter=No
+35	.	.	PUNCT	.	_	34	_	_	start_char=429|end_char=430
+
+# text = ramer pushed the fae document behind the Russia Collusion coup to the FBI and over a dozen left-wing journalists.
+# sent_id = 4
+1	ramer	ramer	PROPN	NNP	Number=Sing	0	_	_	start_char=431|end_char=436
+2	pushed	push	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=437|end_char=443
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=444|end_char=447
+4	fae	fae	NOUN	NN	Number=Sing	3	_	_	start_char=448|end_char=451
+5	document	document	NOUN	NN	Number=Sing	4	_	_	start_char=452|end_char=460
+6	behind	behind	ADP	IN	_	5	_	_	start_char=461|end_char=467
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=468|end_char=471
+8	Russia	Russia	PROPN	NNP	Number=Sing	7	_	_	start_char=472|end_char=478
+9	Collusion	Collusion	PROPN	NNP	Number=Sing	8	_	_	start_char=479|end_char=488
+10	coup	coup	NOUN	NN	Number=Sing	9	_	_	start_char=489|end_char=493
+11	to	to	ADP	IN	_	10	_	_	start_char=494|end_char=496
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=497|end_char=500
+13	FBI	FBI	PROPN	NNP	Number=Sing	12	_	_	start_char=501|end_char=504
+14	and	and	CCONJ	CC	_	13	_	_	start_char=505|end_char=508
+15	over	over	ADV	RB	_	14	_	_	start_char=509|end_char=513
+16	a	a	DET	DT	Definite=Ind|PronType=Art	15	_	_	start_char=514|end_char=515
+17	dozen	dozen	NUM	CD	NumForm=Word|NumType=Card	16	_	_	start_char=516|end_char=521
+18	left	left	NOUN	NN	Number=Sing	17	_	_	start_char=522|end_char=526|SpaceAfter=No
+19	-	-	PUNCT	HYPH	_	18	_	_	start_char=526|end_char=527|SpaceAfter=No
+20	wing	wing	NOUN	NN	Number=Sing	19	_	_	start_char=527|end_char=531
+21	journalists	journalist	NOUN	NNS	Number=Plur	20	_	_	start_char=532|end_char=543|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=543|end_char=544|SpacesAfter=\n\n
+
+# text = Obama will focus on the challenges of polarization, climate change, capitalism and disinformation.
+# sent_id = 5
+1	Obama	Obama	PROPN	NNP	Number=Sing	0	_	_	start_char=546|end_char=551
+2	will	will	AUX	MD	VerbForm=Fin	1	_	_	start_char=552|end_char=556
+3	focus	focus	VERB	VB	VerbForm=Inf	2	_	_	start_char=557|end_char=562
+4	on	on	ADP	IN	_	3	_	_	start_char=563|end_char=565
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=566|end_char=569
+6	challenges	challenge	NOUN	NNS	Number=Plur	5	_	_	start_char=570|end_char=580
+7	of	of	ADP	IN	_	6	_	_	start_char=581|end_char=583
+8	polarization	polarization	NOUN	NN	Number=Sing	7	_	_	start_char=584|end_char=596|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=596|end_char=597
+10	climate	climate	NOUN	NN	Number=Sing	9	_	_	start_char=598|end_char=605
+11	change	change	NOUN	NN	Number=Sing	10	_	_	start_char=606|end_char=612|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=612|end_char=613
+13	capitalism	capitalism	NOUN	NN	Number=Sing	12	_	_	start_char=614|end_char=624
+14	and	and	CCONJ	CC	_	13	_	_	start_char=625|end_char=628
+15	disinformation	disinformation	NOUN	NN	Number=Sing	14	_	_	start_char=629|end_char=643|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=643|end_char=644|SpacesAfter=\n\n
+
+# text = Mediaite reported:
+# sent_id = 6
+1	Mediaite	Mediaite	PROPN	NNP	Number=Sing	0	_	_	start_char=646|end_char=654
+2	reported	report	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=655|end_char=663|SpaceAfter=No
+3	:	:	PUNCT	:	_	2	_	_	start_char=663|end_char=664|SpacesAfter=\n\n
+
+# text = Former Presidents George W. Bush and Barac Obama are holding bac-to-bac democracy conferences in the days after Donald Trump maes what he’s teased will be a major announcement.
+# sent_id = 7
+1	Former	former	ADJ	JJ	Degree=Pos	0	_	_	start_char=666|end_char=672
+2	Presidents	president	NOUN	NNS	Number=Plur	1	_	_	start_char=673|end_char=683
+3	George	George	PROPN	NNP	Number=Sing	2	_	_	start_char=684|end_char=690
+4	W.	W.	PROPN	NNP	Number=Sing	3	_	_	start_char=691|end_char=693
+5	Bush	Bush	PROPN	NNP	Number=Sing	4	_	_	start_char=694|end_char=698
+6	and	and	CCONJ	CC	_	5	_	_	start_char=699|end_char=702
+7	Barac	Barac	PROPN	NNP	Number=Sing	6	_	_	start_char=703|end_char=708
+8	Obama	Obama	PROPN	NNP	Number=Sing	7	_	_	start_char=709|end_char=714
+9	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=715|end_char=718
+10	holding	hold	VERB	VBG	Tense=Pres|VerbForm=Part	9	_	_	start_char=719|end_char=726
+11	bac	bac	NOUN	NN	Number=Sing	10	_	_	start_char=727|end_char=730|SpaceAfter=No
+12	-	-	PUNCT	HYPH	_	11	_	_	start_char=730|end_char=731|SpaceAfter=No
+13	to	to	ADP	IN	_	12	_	_	start_char=731|end_char=733|SpaceAfter=No
+14	-	-	PUNCT	HYPH	_	13	_	_	start_char=733|end_char=734|SpaceAfter=No
+15	bac	bac	NOUN	NN	Number=Sing	14	_	_	start_char=734|end_char=737
+16	democracy	democracy	NOUN	NN	Number=Sing	15	_	_	start_char=738|end_char=747
+17	conferences	conference	NOUN	NNS	Number=Plur	16	_	_	start_char=748|end_char=759
+18	in	in	ADP	IN	_	17	_	_	start_char=760|end_char=762
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=763|end_char=766
+20	days	day	NOUN	NNS	Number=Plur	19	_	_	start_char=767|end_char=771
+21	after	after	ADP	IN	_	20	_	_	start_char=772|end_char=777
+22	Donald	Donald	PROPN	NNP	Number=Sing	21	_	_	start_char=778|end_char=784
+23	Trump	Trump	PROPN	NNP	Number=Sing	22	_	_	start_char=785|end_char=790
+24	maes	Maes	PROPN	NNP	Number=Sing	23	_	_	start_char=791|end_char=795
+25	what	what	PRON	WP	PronType=Rel	24	_	_	start_char=796|end_char=800
+26-27	he’s	_	_	_	_	_	_	_	start_char=801|end_char=805
+26	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	_	_	start_char=801|end_char=803
+27	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	_	_	start_char=803|end_char=805
+28	teased	tease	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	27	_	_	start_char=806|end_char=812
+29	will	will	AUX	MD	VerbForm=Fin	28	_	_	start_char=813|end_char=817
+30	be	be	AUX	VB	VerbForm=Inf	29	_	_	start_char=818|end_char=820
+31	a	a	DET	DT	Definite=Ind|PronType=Art	30	_	_	start_char=821|end_char=822
+32	major	major	ADJ	JJ	Degree=Pos	31	_	_	start_char=823|end_char=828
+33	announcement	announcement	NOUN	NN	Number=Sing	32	_	_	start_char=829|end_char=841|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=841|end_char=842|SpacesAfter=\n\n
+
+# text = Trump advisor Jason Miller confirmed Trump’s “big” announcement will be the former president declaring his 2024 candidacy, an announcement some Republicans have been pushing for Trump to hold off on maing.
+# sent_id = 8
+1	Trump	Trump	PROPN	NNP	Number=Sing	0	_	_	start_char=844|end_char=849
+2	advisor	advisor	NOUN	NN	Number=Sing	1	_	_	start_char=850|end_char=857
+3	Jason	Jason	PROPN	NNP	Number=Sing	2	_	_	start_char=858|end_char=863
+4	Miller	Miller	PROPN	NNP	Number=Sing	3	_	_	start_char=864|end_char=870
+5	confirmed	confirm	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=871|end_char=880
+6-7	Trump’s	_	_	_	_	_	_	_	start_char=881|end_char=888
+6	Trump	Trump	PROPN	NNP	Number=Sing	5	_	_	start_char=881|end_char=886
+7	’s	's	PART	POS	_	6	_	_	start_char=886|end_char=888
+8	“	''	PUNCT	``	_	7	_	_	start_char=889|end_char=890|SpaceAfter=No
+9	big	big	ADJ	JJ	Degree=Pos	8	_	_	start_char=890|end_char=893|SpaceAfter=No
+10	”	''	PUNCT	''	_	9	_	_	start_char=893|end_char=894
+11	announcement	announcement	NOUN	NN	Number=Sing	10	_	_	start_char=895|end_char=907
+12	will	will	AUX	MD	VerbForm=Fin	11	_	_	start_char=908|end_char=912
+13	be	be	AUX	VB	VerbForm=Inf	12	_	_	start_char=913|end_char=915
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=916|end_char=919
+15	former	former	ADJ	JJ	Degree=Pos	14	_	_	start_char=920|end_char=926
+16	president	president	NOUN	NN	Number=Sing	15	_	_	start_char=927|end_char=936
+17	declaring	declare	VERB	VBG	VerbForm=Ger	16	_	_	start_char=937|end_char=946
+18	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	_	_	start_char=947|end_char=950
+19	2024	2024	NUM	CD	NumForm=Digit|NumType=Card	18	_	_	start_char=951|end_char=955
+20	candidacy	candidacy	NOUN	NN	Number=Sing	19	_	_	start_char=956|end_char=965|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=965|end_char=966
+22	an	a	DET	DT	Definite=Ind|PronType=Art	21	_	_	start_char=967|end_char=969
+23	announcement	announcement	NOUN	NN	Number=Sing	22	_	_	start_char=970|end_char=982
+24	some	some	DET	DT	_	23	_	_	start_char=983|end_char=987
+25	Republicans	Republican	PROPN	NNPS	Number=Plur	24	_	_	start_char=988|end_char=999
+26	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	_	_	start_char=1000|end_char=1004
+27	been	be	AUX	VBN	Tense=Past|VerbForm=Part	26	_	_	start_char=1005|end_char=1009
+28	pushing	push	VERB	VBG	Tense=Pres|VerbForm=Part	27	_	_	start_char=1010|end_char=1017
+29	for	for	ADP	IN	_	28	_	_	start_char=1018|end_char=1021
+30	Trump	Trump	PROPN	NNP	Number=Sing	29	_	_	start_char=1022|end_char=1027
+31	to	to	PART	TO	_	30	_	_	start_char=1028|end_char=1030
+32	hold	hold	VERB	VB	VerbForm=Inf	31	_	_	start_char=1031|end_char=1035
+33	off	off	ADP	RP	_	32	_	_	start_char=1036|end_char=1039
+34	on	on	ADP	IN	_	33	_	_	start_char=1040|end_char=1042
+35	maing	maing	NOUN	NN	Number=Sing	34	_	_	start_char=1043|end_char=1048|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=1048|end_char=1049
+
+# text = Miller at one point even said he advised Trump to wait until the Georgia runoff election between Sen. Raphael Warnoc (D-GA) and Republican Herschel Waler.
+# sent_id = 9
+1	Miller	Miller	PROPN	NNP	Number=Sing	0	_	_	start_char=1050|end_char=1056
+2	at	at	ADP	IN	_	1	_	_	start_char=1057|end_char=1059
+3	one	one	NUM	CD	NumForm=Word|NumType=Card	2	_	_	start_char=1060|end_char=1063
+4	point	point	NOUN	NN	Number=Sing	3	_	_	start_char=1064|end_char=1069
+5	even	even	ADV	RB	_	4	_	_	start_char=1070|end_char=1074
+6	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=1075|end_char=1079
+7	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	_	_	start_char=1080|end_char=1082
+8	advised	advise	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=1083|end_char=1090
+9	Trump	Trump	PROPN	NNP	Number=Sing	8	_	_	start_char=1091|end_char=1096
+10	to	to	PART	TO	_	9	_	_	start_char=1097|end_char=1099
+11	wait	wait	VERB	VB	VerbForm=Inf	10	_	_	start_char=1100|end_char=1104
+12	until	until	ADP	IN	_	11	_	_	start_char=1105|end_char=1110
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1111|end_char=1114
+14	Georgia	Georgia	PROPN	NNP	Number=Sing	13	_	_	start_char=1115|end_char=1122
+15	runoff	runoff	NOUN	NN	Number=Sing	14	_	_	start_char=1123|end_char=1129
+16	election	election	NOUN	NN	Number=Sing	15	_	_	start_char=1130|end_char=1138
+17	between	between	ADP	IN	_	16	_	_	start_char=1139|end_char=1146
+18	Sen.	Sen.	PROPN	NNP	Number=Sing	17	_	_	start_char=1147|end_char=1151
+19	Raphael	Raphael	PROPN	NNP	Number=Sing	18	_	_	start_char=1152|end_char=1159
+20	Warnoc	Warnoc	PROPN	NNP	Number=Sing	19	_	_	start_char=1160|end_char=1166
+21	(	(	PUNCT	-LRB-	_	20	_	_	start_char=1167|end_char=1168|SpaceAfter=No
+22	D	D	PROPN	NNP	Number=Sing	21	_	_	start_char=1168|end_char=1169|SpaceAfter=No
+23	-	-	PUNCT	HYPH	_	22	_	_	start_char=1169|end_char=1170|SpaceAfter=No
+24	GA	ga	PROPN	NNP	Number=Sing	23	_	_	start_char=1170|end_char=1172|SpaceAfter=No
+25	)	)	PUNCT	-RRB-	_	24	_	_	start_char=1172|end_char=1173
+26	and	and	CCONJ	CC	_	25	_	_	start_char=1174|end_char=1177
+27	Republican	Republican	ADJ	JJ	Degree=Pos	26	_	_	start_char=1178|end_char=1188
+28	Herschel	Herschel	PROPN	NNP	Number=Sing	27	_	_	start_char=1189|end_char=1197
+29	Waler	Waler	PROPN	NNP	Number=Sing	28	_	_	start_char=1198|end_char=1203|SpaceAfter=No
+30	.	.	PUNCT	.	_	29	_	_	start_char=1203|end_char=1204|SpacesAfter=\n\n
+
+# text = Axios reported on Saturday that organizers insist Bush and Obama did not coordinate the timing of their conferences, both of which will focus on “highlighting rising threats from authoritarianism and disinformation — and how to combat them globally and at home,” according to the outlet.
+# sent_id = 10
+1	Axios	Axios	PROPN	NNP	Number=Sing	0	_	_	start_char=1206|end_char=1211
+2	reported	report	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1212|end_char=1220
+3	on	on	ADP	IN	_	2	_	_	start_char=1221|end_char=1223
+4	Saturday	Saturday	PROPN	NNP	Number=Sing	3	_	_	start_char=1224|end_char=1232
+5	that	that	SCONJ	IN	_	4	_	_	start_char=1233|end_char=1237
+6	organizers	organizer	NOUN	NNS	Number=Plur	5	_	_	start_char=1238|end_char=1248
+7	insist	insist	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=1249|end_char=1255
+8	Bush	Bush	PROPN	NNP	Number=Sing	7	_	_	start_char=1256|end_char=1260
+9	and	and	CCONJ	CC	_	8	_	_	start_char=1261|end_char=1264
+10	Obama	Obama	PROPN	NNP	Number=Sing	9	_	_	start_char=1265|end_char=1270
+11	did	do	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=1271|end_char=1274
+12	not	not	PART	RB	_	11	_	_	start_char=1275|end_char=1278
+13	coordinate	coordinate	VERB	VB	VerbForm=Inf	12	_	_	start_char=1279|end_char=1289
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=1290|end_char=1293
+15	timing	timing	NOUN	NN	Number=Sing	14	_	_	start_char=1294|end_char=1300
+16	of	of	ADP	IN	_	15	_	_	start_char=1301|end_char=1303
+17	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	16	_	_	start_char=1304|end_char=1309
+18	conferences	conference	NOUN	NNS	Number=Plur	17	_	_	start_char=1310|end_char=1321|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=1321|end_char=1322
+20	both	both	DET	DT	_	19	_	_	start_char=1323|end_char=1327
+21	of	of	ADP	IN	_	20	_	_	start_char=1328|end_char=1330
+22	which	which	PRON	WDT	PronType=Rel	21	_	_	start_char=1331|end_char=1336
+23	will	will	AUX	MD	VerbForm=Fin	22	_	_	start_char=1337|end_char=1341
+24	focus	focus	VERB	VB	VerbForm=Inf	23	_	_	start_char=1342|end_char=1347
+25	on	on	ADP	IN	_	24	_	_	start_char=1348|end_char=1350
+26	“	''	PUNCT	``	_	25	_	_	start_char=1351|end_char=1352|SpaceAfter=No
+27	highlighting	highlight	VERB	VBG	VerbForm=Ger	26	_	_	start_char=1352|end_char=1364
+28	rising	rise	VERB	VBG	VerbForm=Ger	27	_	_	start_char=1365|end_char=1371
+29	threats	threat	NOUN	NNS	Number=Plur	28	_	_	start_char=1372|end_char=1379
+30	from	from	ADP	IN	_	29	_	_	start_char=1380|end_char=1384
+31	authoritarianism	authoritarianism	NOUN	NN	Number=Sing	30	_	_	start_char=1385|end_char=1401
+32	and	and	CCONJ	CC	_	31	_	_	start_char=1402|end_char=1405
+33	disinformation	disinformation	NOUN	NN	Number=Sing	32	_	_	start_char=1406|end_char=1420
+34	—	—	PUNCT	:	_	33	_	_	start_char=1421|end_char=1422
+35	and	and	CCONJ	CC	_	34	_	_	start_char=1423|end_char=1426
+36	how	how	ADV	WRB	PronType=Int	35	_	_	start_char=1427|end_char=1430
+37	to	to	PART	TO	_	36	_	_	start_char=1431|end_char=1433
+38	combat	combat	VERB	VB	VerbForm=Inf	37	_	_	start_char=1434|end_char=1440
+39	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	38	_	_	start_char=1441|end_char=1445
+40	globally	globally	ADV	RB	_	39	_	_	start_char=1446|end_char=1454
+41	and	and	CCONJ	CC	_	40	_	_	start_char=1455|end_char=1458
+42	at	at	ADP	IN	_	41	_	_	start_char=1459|end_char=1461
+43	home	home	NOUN	NN	Number=Sing	42	_	_	start_char=1462|end_char=1466|SpaceAfter=No
+44	,	,	PUNCT	,	_	43	_	_	start_char=1466|end_char=1467|SpaceAfter=No
+45	”	''	PUNCT	''	_	44	_	_	start_char=1467|end_char=1468
+46	according	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	45	_	_	start_char=1469|end_char=1478
+47	to	to	ADP	IN	_	46	_	_	start_char=1479|end_char=1481
+48	the	the	DET	DT	Definite=Def|PronType=Art	47	_	_	start_char=1482|end_char=1485
+49	outlet	outlet	NOUN	NN	Number=Sing	48	_	_	start_char=1486|end_char=1492|SpaceAfter=No
+50	.	.	PUNCT	.	_	49	_	_	start_char=1492|end_char=1493|SpacesAfter=\n\n
+
+# text = Bush’s conference will tae place in Dallas on November 16, while Obama’s will be in New Yor on November 17.
+# sent_id = 11
+1-2	Bush’s	_	_	_	_	_	_	_	start_char=1495|end_char=1501
+1	Bush	Bush	PROPN	NNP	Number=Sing	0	_	_	start_char=1495|end_char=1499
+2	’s	's	PART	POS	_	1	_	_	start_char=1499|end_char=1501
+3	conference	conference	NOUN	NN	Number=Sing	2	_	_	start_char=1502|end_char=1512
+4	will	will	AUX	MD	VerbForm=Fin	3	_	_	start_char=1513|end_char=1517
+5	tae	tae	VERB	VB	VerbForm=Inf	4	_	_	start_char=1518|end_char=1521
+6	place	place	NOUN	NN	Number=Sing	5	_	_	start_char=1522|end_char=1527
+7	in	in	ADP	IN	_	6	_	_	start_char=1528|end_char=1530
+8	Dallas	Dallas	PROPN	NNP	Number=Sing	7	_	_	start_char=1531|end_char=1537
+9	on	on	ADP	IN	_	8	_	_	start_char=1538|end_char=1540
+10	November	November	PROPN	NNP	Number=Sing	9	_	_	start_char=1541|end_char=1549
+11	16	16	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=1550|end_char=1552|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=1552|end_char=1553
+13	while	while	SCONJ	IN	_	12	_	_	start_char=1554|end_char=1559
+14-15	Obama’s	_	_	_	_	_	_	_	start_char=1560|end_char=1567
+14	Obama	Obama	PROPN	NNP	Number=Sing	13	_	_	start_char=1560|end_char=1565
+15	’s	's	PART	POS	_	14	_	_	start_char=1565|end_char=1567
+16	will	will	AUX	MD	VerbForm=Fin	15	_	_	start_char=1568|end_char=1572
+17	be	be	AUX	VB	VerbForm=Inf	16	_	_	start_char=1573|end_char=1575
+18	in	in	ADP	IN	_	17	_	_	start_char=1576|end_char=1578
+19	New	New	ADJ	NNP	Degree=Pos	18	_	_	start_char=1579|end_char=1582
+20	Yor	Yor	PROPN	NNP	Number=Sing	19	_	_	start_char=1583|end_char=1586
+21	on	on	ADP	IN	_	20	_	_	start_char=1587|end_char=1589
+22	November	November	PROPN	NNP	Number=Sing	21	_	_	start_char=1590|end_char=1598
+23	17	17	NUM	CD	NumForm=Digit|NumType=Card	22	_	_	start_char=1599|end_char=1601|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=1601|end_char=1602
+
+# text = Bush will interview Urainian President Volodymyr Zelensy at his conference.
+# sent_id = 12
+1	Bush	Bush	PROPN	NNP	Number=Sing	0	_	_	start_char=1603|end_char=1607
+2	will	will	AUX	MD	VerbForm=Fin	1	_	_	start_char=1608|end_char=1612
+3	interview	interview	VERB	VB	VerbForm=Inf	2	_	_	start_char=1613|end_char=1622
+4	Urainian	Urainian	ADJ	JJ	Degree=Pos	3	_	_	start_char=1623|end_char=1631
+5	President	President	PROPN	NNP	Number=Sing	4	_	_	start_char=1632|end_char=1641
+6	Volodymyr	Volodymyr	PROPN	NNP	Number=Sing	5	_	_	start_char=1642|end_char=1651
+7	Zelensy	Zelensy	PROPN	NNP	Number=Sing	6	_	_	start_char=1652|end_char=1659
+8	at	at	ADP	IN	_	7	_	_	start_char=1660|end_char=1662
+9	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	_	_	start_char=1663|end_char=1666
+10	conference	conference	NOUN	NN	Number=Sing	9	_	_	start_char=1667|end_char=1677|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=1677|end_char=1678|SpaceAfter=No
+

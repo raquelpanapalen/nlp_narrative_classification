@@ -1,0 +1,544 @@
+# text = Costa Rica’s Sea Turtle Decline Lined to Climate Change
+# sent_id = 0
+1	Costa	Costa	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=5
+2-3	Rica’s	_	_	_	_	_	_	_	start_char=6|end_char=12
+2	Rica	Rica	PROPN	NNP	Number=Sing	1	_	_	start_char=6|end_char=10
+3	’s	's	PART	POS	_	2	_	_	start_char=10|end_char=12
+4	Sea	Sea	PROPN	NNP	Number=Sing	3	_	_	start_char=13|end_char=16
+5	Turtle	Turtle	PROPN	NNP	Number=Sing	4	_	_	start_char=17|end_char=23
+6	Decline	decline	PROPN	NNP	Number=Sing	5	_	_	start_char=24|end_char=31
+7	Lined	line	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=32|end_char=37
+8	to	to	ADP	IN	_	7	_	_	start_char=38|end_char=40
+9	Climate	Climate	PROPN	NNP	Number=Sing	8	_	_	start_char=41|end_char=48
+10	Change	Change	PROPN	NNP	Number=Sing	9	_	_	start_char=49|end_char=55|SpacesAfter=\s\n\n\s
+
+# text = The effects of climate change are increasingly evident in various parts of the planet.
+# sent_id = 1
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=59|end_char=62
+2	effects	effect	NOUN	NNS	Number=Plur	1	_	_	start_char=63|end_char=70
+3	of	of	ADP	IN	_	2	_	_	start_char=71|end_char=73
+4	climate	climate	NOUN	NN	Number=Sing	3	_	_	start_char=74|end_char=81
+5	change	change	NOUN	NN	Number=Sing	4	_	_	start_char=82|end_char=88
+6	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=89|end_char=92
+7	increasingly	increasingly	ADV	RB	_	6	_	_	start_char=93|end_char=105
+8	evident	evident	ADJ	JJ	Degree=Pos	7	_	_	start_char=106|end_char=113
+9	in	in	ADP	IN	_	8	_	_	start_char=114|end_char=116
+10	various	various	ADJ	JJ	Degree=Pos	9	_	_	start_char=117|end_char=124
+11	parts	part	NOUN	NNS	Number=Plur	10	_	_	start_char=125|end_char=130
+12	of	of	ADP	IN	_	11	_	_	start_char=131|end_char=133
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=134|end_char=137
+14	planet	planet	NOUN	NN	Number=Sing	13	_	_	start_char=138|end_char=144|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=144|end_char=145
+
+# text = In Costa Rica, the impact is apparent due to high temperatures, changes in rainfall patterns, and now the decline in sea turtle hatchlings.
+# sent_id = 2
+1	In	in	ADP	IN	_	0	_	_	start_char=146|end_char=148
+2	Costa	Costa	PROPN	NNP	Number=Sing	1	_	_	start_char=149|end_char=154
+3	Rica	Rica	PROPN	NNP	Number=Sing	2	_	_	start_char=155|end_char=159|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=159|end_char=160
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=161|end_char=164
+6	impact	impact	NOUN	NN	Number=Sing	5	_	_	start_char=165|end_char=171
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=172|end_char=174
+8	apparent	apparent	ADJ	JJ	Degree=Pos	7	_	_	start_char=175|end_char=183
+9	due	due	ADP	IN	_	8	_	_	start_char=184|end_char=187
+10	to	to	ADP	IN	_	9	_	_	start_char=188|end_char=190
+11	high	high	ADJ	JJ	Degree=Pos	10	_	_	start_char=191|end_char=195
+12	temperatures	temperature	NOUN	NNS	Number=Plur	11	_	_	start_char=196|end_char=208|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=208|end_char=209
+14	changes	change	NOUN	NNS	Number=Plur	13	_	_	start_char=210|end_char=217
+15	in	in	ADP	IN	_	14	_	_	start_char=218|end_char=220
+16	rainfall	rainfall	NOUN	NN	Number=Sing	15	_	_	start_char=221|end_char=229
+17	patterns	pattern	NOUN	NNS	Number=Plur	16	_	_	start_char=230|end_char=238|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=238|end_char=239
+19	and	and	CCONJ	CC	_	18	_	_	start_char=240|end_char=243
+20	now	now	ADV	RB	_	19	_	_	start_char=244|end_char=247
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=248|end_char=251
+22	decline	decline	NOUN	NN	Number=Sing	21	_	_	start_char=252|end_char=259
+23	in	in	ADP	IN	_	22	_	_	start_char=260|end_char=262
+24	sea	sea	NOUN	NN	Number=Sing	23	_	_	start_char=263|end_char=266
+25	turtle	turtle	NOUN	NN	Number=Sing	24	_	_	start_char=267|end_char=273
+26	hatchlings	hatchling	NOUN	NNS	Number=Plur	25	_	_	start_char=274|end_char=284|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=284|end_char=285|SpacesAfter=\n\n
+
+# text = Experts from the APM Terminals Turtle Conservation Program, which protects sea turtle eggs and releases hatchlings on the beach that spans from the mouth of the Moín river to the mouth of the Matina River, have determined that this year the number of hatchlings and turtle releases in Moín will reach 10,000.
+# sent_id = 3
+1	Experts	expert	NOUN	NNS	Number=Plur	0	_	_	start_char=287|end_char=294
+2	from	from	ADP	IN	_	1	_	_	start_char=295|end_char=299
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=300|end_char=303
+4	APM	APM	PROPN	NNP	Number=Sing	3	_	_	start_char=304|end_char=307
+5	Terminals	terminal	PROPN	NNPS	Number=Plur	4	_	_	start_char=308|end_char=317
+6	Turtle	Turtle	PROPN	NNP	Number=Sing	5	_	_	start_char=318|end_char=324
+7	Conservation	Conservation	PROPN	NNP	Number=Sing	6	_	_	start_char=325|end_char=337
+8	Program	Program	PROPN	NNP	Number=Sing	7	_	_	start_char=338|end_char=345|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=345|end_char=346
+10	which	which	PRON	WDT	PronType=Rel	9	_	_	start_char=347|end_char=352
+11	protects	protect	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=353|end_char=361
+12	sea	sea	NOUN	NN	Number=Sing	11	_	_	start_char=362|end_char=365
+13	turtle	turtle	NOUN	NN	Number=Sing	12	_	_	start_char=366|end_char=372
+14	eggs	egg	NOUN	NNS	Number=Plur	13	_	_	start_char=373|end_char=377
+15	and	and	CCONJ	CC	_	14	_	_	start_char=378|end_char=381
+16	releases	release	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=382|end_char=390
+17	hatchlings	hatchling	NOUN	NNS	Number=Plur	16	_	_	start_char=391|end_char=401
+18	on	on	ADP	IN	_	17	_	_	start_char=402|end_char=404
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=405|end_char=408
+20	beach	beach	NOUN	NN	Number=Sing	19	_	_	start_char=409|end_char=414
+21	that	that	PRON	WDT	PronType=Rel	20	_	_	start_char=415|end_char=419
+22	spans	span	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	_	_	start_char=420|end_char=425
+23	from	from	ADP	IN	_	22	_	_	start_char=426|end_char=430
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=431|end_char=434
+25	mouth	mouth	NOUN	NN	Number=Sing	24	_	_	start_char=435|end_char=440
+26	of	of	ADP	IN	_	25	_	_	start_char=441|end_char=443
+27	the	the	DET	DT	Definite=Def|PronType=Art	26	_	_	start_char=444|end_char=447
+28	Moín	Moín	PROPN	NNP	Number=Sing	27	_	_	start_char=448|end_char=452
+29	river	river	NOUN	NN	Number=Sing	28	_	_	start_char=453|end_char=458
+30	to	to	ADP	IN	_	29	_	_	start_char=459|end_char=461
+31	the	the	DET	DT	Definite=Def|PronType=Art	30	_	_	start_char=462|end_char=465
+32	mouth	mouth	NOUN	NN	Number=Sing	31	_	_	start_char=466|end_char=471
+33	of	of	ADP	IN	_	32	_	_	start_char=472|end_char=474
+34	the	the	DET	DT	Definite=Def|PronType=Art	33	_	_	start_char=475|end_char=478
+35	Matina	Matina	PROPN	NNP	Number=Sing	34	_	_	start_char=479|end_char=485
+36	River	River	PROPN	NNP	Number=Sing	35	_	_	start_char=486|end_char=491|SpaceAfter=No
+37	,	,	PUNCT	,	_	36	_	_	start_char=491|end_char=492
+38	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	37	_	_	start_char=493|end_char=497
+39	determined	determine	VERB	VBN	Tense=Past|VerbForm=Part	38	_	_	start_char=498|end_char=508
+40	that	that	SCONJ	IN	_	39	_	_	start_char=509|end_char=513
+41	this	this	DET	DT	Number=Sing|PronType=Dem	40	_	_	start_char=514|end_char=518
+42	year	year	NOUN	NN	Number=Sing	41	_	_	start_char=519|end_char=523
+43	the	the	DET	DT	Definite=Def|PronType=Art	42	_	_	start_char=524|end_char=527
+44	number	number	NOUN	NN	Number=Sing	43	_	_	start_char=528|end_char=534
+45	of	of	ADP	IN	_	44	_	_	start_char=535|end_char=537
+46	hatchlings	hatchling	NOUN	NNS	Number=Plur	45	_	_	start_char=538|end_char=548
+47	and	and	CCONJ	CC	_	46	_	_	start_char=549|end_char=552
+48	turtle	turtle	NOUN	NN	Number=Sing	47	_	_	start_char=553|end_char=559
+49	releases	release	NOUN	NNS	Number=Plur	48	_	_	start_char=560|end_char=568
+50	in	in	ADP	IN	_	49	_	_	start_char=569|end_char=571
+51	Moín	Moín	PROPN	NNP	Number=Sing	50	_	_	start_char=572|end_char=576
+52	will	will	AUX	MD	VerbForm=Fin	51	_	_	start_char=577|end_char=581
+53	reach	reach	VERB	VB	VerbForm=Inf	52	_	_	start_char=582|end_char=587
+54	10,000	10000	NUM	CD	NumForm=Digit|NumType=Card	53	_	_	start_char=588|end_char=594|SpaceAfter=No
+55	.	.	PUNCT	.	_	54	_	_	start_char=594|end_char=595
+
+# text = In contrast, in 2022, approximately 30,000 turtles were released.
+# sent_id = 4
+1	In	in	ADP	IN	_	0	_	_	start_char=596|end_char=598
+2	contrast	contrast	NOUN	NN	Number=Sing	1	_	_	start_char=599|end_char=607|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=607|end_char=608
+4	in	in	ADP	IN	_	3	_	_	start_char=609|end_char=611
+5	2022	2022	NUM	CD	NumForm=Digit|NumType=Card	4	_	_	start_char=612|end_char=616|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=616|end_char=617
+7	approximately	approximately	ADV	RB	_	6	_	_	start_char=618|end_char=631
+8	30,000	30000	NUM	CD	NumForm=Digit|NumType=Card	7	_	_	start_char=632|end_char=638
+9	turtles	turtle	NOUN	NNS	Number=Plur	8	_	_	start_char=639|end_char=646
+10	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=647|end_char=651
+11	released	release	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10	_	_	start_char=652|end_char=660|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=660|end_char=661|SpacesAfter=\n\n
+
+# text = Climate change and its repercussions, such as rising sea levels, high sea temperatures, and shifts in migration and feeding patterns, are resulting in fewer hatchlings.
+# sent_id = 5
+1	Climate	climate	NOUN	NN	Number=Sing	0	_	_	start_char=663|end_char=670
+2	change	change	NOUN	NN	Number=Sing	1	_	_	start_char=671|end_char=677
+3	and	and	CCONJ	CC	_	2	_	_	start_char=678|end_char=681
+4	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	_	_	start_char=682|end_char=685
+5	repercussions	repercussion	NOUN	NNS	Number=Plur	4	_	_	start_char=686|end_char=699|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=699|end_char=700
+7	such	such	ADJ	JJ	Degree=Pos	6	_	_	start_char=701|end_char=705
+8	as	as	ADP	IN	_	7	_	_	start_char=706|end_char=708
+9	rising	rise	VERB	VBG	VerbForm=Ger	8	_	_	start_char=709|end_char=715
+10	sea	sea	NOUN	NN	Number=Sing	9	_	_	start_char=716|end_char=719
+11	levels	level	NOUN	NNS	Number=Plur	10	_	_	start_char=720|end_char=726|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=726|end_char=727
+13	high	high	ADJ	JJ	Degree=Pos	12	_	_	start_char=728|end_char=732
+14	sea	sea	NOUN	NN	Number=Sing	13	_	_	start_char=733|end_char=736
+15	temperatures	temperature	NOUN	NNS	Number=Plur	14	_	_	start_char=737|end_char=749|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=749|end_char=750
+17	and	and	CCONJ	CC	_	16	_	_	start_char=751|end_char=754
+18	shifts	shift	NOUN	NNS	Number=Plur	17	_	_	start_char=755|end_char=761
+19	in	in	ADP	IN	_	18	_	_	start_char=762|end_char=764
+20	migration	migration	NOUN	NN	Number=Sing	19	_	_	start_char=765|end_char=774
+21	and	and	CCONJ	CC	_	20	_	_	start_char=775|end_char=778
+22	feeding	feeding	NOUN	NN	Number=Sing	21	_	_	start_char=779|end_char=786
+23	patterns	pattern	NOUN	NNS	Number=Plur	22	_	_	start_char=787|end_char=795|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=795|end_char=796
+25	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	24	_	_	start_char=797|end_char=800
+26	resulting	result	VERB	VBG	Tense=Pres|VerbForm=Part	25	_	_	start_char=801|end_char=810
+27	in	in	ADP	IN	_	26	_	_	start_char=811|end_char=813
+28	fewer	few	ADJ	JJR	Degree=Cmp	27	_	_	start_char=814|end_char=819
+29	hatchlings	hatchling	NOUN	NNS	Number=Plur	28	_	_	start_char=820|end_char=830|SpaceAfter=No
+30	.	.	PUNCT	.	_	29	_	_	start_char=830|end_char=831|SpacesAfter=\n\n
+
+# text = “There’s a decrease in turtle births on all nesting beaches from the Guajira Peninsula in Colombia to southern Nicaragua.
+# sent_id = 6
+1	“	''	PUNCT	``	_	0	_	_	start_char=833|end_char=834|SpaceAfter=No
+2-3	There’s	_	_	_	_	_	_	_	start_char=834|end_char=841
+2	There	there	PRON	EX	_	1	_	_	start_char=834|end_char=839
+3	’s	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=839|end_char=841
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=842|end_char=843
+5	decrease	decrease	NOUN	NN	Number=Sing	4	_	_	start_char=844|end_char=852
+6	in	in	ADP	IN	_	5	_	_	start_char=853|end_char=855
+7	turtle	turtle	NOUN	NN	Number=Sing	6	_	_	start_char=856|end_char=862
+8	births	birth	NOUN	NNS	Number=Plur	7	_	_	start_char=863|end_char=869
+9	on	on	ADP	IN	_	8	_	_	start_char=870|end_char=872
+10	all	all	DET	DT	_	9	_	_	start_char=873|end_char=876
+11	nesting	nest	NOUN	NN	Number=Sing	10	_	_	start_char=877|end_char=884
+12	beaches	beach	NOUN	NNS	Number=Plur	11	_	_	start_char=885|end_char=892
+13	from	from	ADP	IN	_	12	_	_	start_char=893|end_char=897
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=898|end_char=901
+15	Guajira	Guajira	PROPN	NNP	Number=Sing	14	_	_	start_char=902|end_char=909
+16	Peninsula	Peninsula	PROPN	NNP	Number=Sing	15	_	_	start_char=910|end_char=919
+17	in	in	ADP	IN	_	16	_	_	start_char=920|end_char=922
+18	Colombia	Colombia	PROPN	NNP	Number=Sing	17	_	_	start_char=923|end_char=931
+19	to	to	ADP	IN	_	18	_	_	start_char=932|end_char=934
+20	southern	southern	ADJ	JJ	Degree=Pos	19	_	_	start_char=935|end_char=943
+21	Nicaragua	Nicaragua	PROPN	NNP	Number=Sing	20	_	_	start_char=944|end_char=953|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=953|end_char=954
+
+# text = We are monitoring data related to conditions exacerbated by and associated with climate change, such as warm waters in the North Atlantic that produce less food, and hot beaches with temperatures exceeding 34° Celsius, leading to infertile nests,” said Didiher Chacón, a specialist in Marine Sciences and the director of the Latin American Sea Turtles Association.
+# sent_id = 7
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	start_char=955|end_char=957
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	_	_	start_char=958|end_char=961
+3	monitoring	monitor	VERB	VBG	Tense=Pres|VerbForm=Part	2	_	_	start_char=962|end_char=972
+4	data	datum	NOUN	NNS	Number=Plur	3	_	_	start_char=973|end_char=977
+5	related	related	ADJ	JJ	Degree=Pos	4	_	_	start_char=978|end_char=985
+6	to	to	ADP	IN	_	5	_	_	start_char=986|end_char=988
+7	conditions	condition	NOUN	NNS	Number=Plur	6	_	_	start_char=989|end_char=999
+8	exacerbated	exacerbate	VERB	VBN	Tense=Past|VerbForm=Part	7	_	_	start_char=1000|end_char=1011
+9	by	by	ADP	IN	_	8	_	_	start_char=1012|end_char=1014
+10	and	and	CCONJ	CC	_	9	_	_	start_char=1015|end_char=1018
+11	associated	associate	VERB	VBN	Tense=Past|VerbForm=Part	10	_	_	start_char=1019|end_char=1029
+12	with	with	ADP	IN	_	11	_	_	start_char=1030|end_char=1034
+13	climate	climate	NOUN	NN	Number=Sing	12	_	_	start_char=1035|end_char=1042
+14	change	change	NOUN	NN	Number=Sing	13	_	_	start_char=1043|end_char=1049|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=1049|end_char=1050
+16	such	such	ADJ	JJ	Degree=Pos	15	_	_	start_char=1051|end_char=1055
+17	as	as	ADP	IN	_	16	_	_	start_char=1056|end_char=1058
+18	warm	warm	ADJ	JJ	Degree=Pos	17	_	_	start_char=1059|end_char=1063
+19	waters	water	NOUN	NNS	Number=Plur	18	_	_	start_char=1064|end_char=1070
+20	in	in	ADP	IN	_	19	_	_	start_char=1071|end_char=1073
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=1074|end_char=1077
+22	North	North	PROPN	NNP	Number=Sing	21	_	_	start_char=1078|end_char=1083
+23	Atlantic	Atlantic	PROPN	NNP	Number=Sing	22	_	_	start_char=1084|end_char=1092
+24	that	that	PRON	WDT	PronType=Rel	23	_	_	start_char=1093|end_char=1097
+25	produce	produce	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	24	_	_	start_char=1098|end_char=1105
+26	less	less	ADJ	JJR	Degree=Cmp	25	_	_	start_char=1106|end_char=1110
+27	food	food	NOUN	NN	Number=Sing	26	_	_	start_char=1111|end_char=1115|SpaceAfter=No
+28	,	,	PUNCT	,	_	27	_	_	start_char=1115|end_char=1116
+29	and	and	CCONJ	CC	_	28	_	_	start_char=1117|end_char=1120
+30	hot	hot	ADJ	JJ	Degree=Pos	29	_	_	start_char=1121|end_char=1124
+31	beaches	beach	NOUN	NNS	Number=Plur	30	_	_	start_char=1125|end_char=1132
+32	with	with	ADP	IN	_	31	_	_	start_char=1133|end_char=1137
+33	temperatures	temperature	NOUN	NNS	Number=Plur	32	_	_	start_char=1138|end_char=1150
+34	exceeding	exceed	VERB	VBG	VerbForm=Ger	33	_	_	start_char=1151|end_char=1160
+35	34°	34°	NUM	CD	NumForm=Digit|NumType=Card	34	_	_	start_char=1161|end_char=1164
+36	Celsius	Celsius	PROPN	NNP	Number=Sing	35	_	_	start_char=1165|end_char=1172|SpaceAfter=No
+37	,	,	PUNCT	,	_	36	_	_	start_char=1172|end_char=1173
+38	leading	lead	VERB	VBG	VerbForm=Ger	37	_	_	start_char=1174|end_char=1181
+39	to	to	ADP	IN	_	38	_	_	start_char=1182|end_char=1184
+40	infertile	infertile	ADJ	JJ	Degree=Pos	39	_	_	start_char=1185|end_char=1194
+41	nests	nest	NOUN	NNS	Number=Plur	40	_	_	start_char=1195|end_char=1200|SpaceAfter=No
+42	,	,	PUNCT	,	_	41	_	_	start_char=1200|end_char=1201|SpaceAfter=No
+43	”	''	PUNCT	''	_	42	_	_	start_char=1201|end_char=1202
+44	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	43	_	_	start_char=1203|end_char=1207
+45	Didiher	Didiher	PROPN	NNP	Number=Sing	44	_	_	start_char=1208|end_char=1215
+46	Chacón	Chacón	PROPN	NNP	Number=Sing	45	_	_	start_char=1216|end_char=1222|SpaceAfter=No
+47	,	,	PUNCT	,	_	46	_	_	start_char=1222|end_char=1223
+48	a	a	DET	DT	Definite=Ind|PronType=Art	47	_	_	start_char=1224|end_char=1225
+49	specialist	specialist	NOUN	NN	Number=Sing	48	_	_	start_char=1226|end_char=1236
+50	in	in	ADP	IN	_	49	_	_	start_char=1237|end_char=1239
+51	Marine	Marine	PROPN	NNP	Number=Sing	50	_	_	start_char=1240|end_char=1246
+52	Sciences	Science	PROPN	NNPS	Number=Plur	51	_	_	start_char=1247|end_char=1255
+53	and	and	CCONJ	CC	_	52	_	_	start_char=1256|end_char=1259
+54	the	the	DET	DT	Definite=Def|PronType=Art	53	_	_	start_char=1260|end_char=1263
+55	director	director	NOUN	NN	Number=Sing	54	_	_	start_char=1264|end_char=1272
+56	of	of	ADP	IN	_	55	_	_	start_char=1273|end_char=1275
+57	the	the	DET	DT	Definite=Def|PronType=Art	56	_	_	start_char=1276|end_char=1279
+58	Latin	Latin	ADJ	NNP	Degree=Pos	57	_	_	start_char=1280|end_char=1285
+59	American	American	ADJ	NNP	Degree=Pos	58	_	_	start_char=1286|end_char=1294
+60	Sea	Sea	PROPN	NNP	Number=Sing	59	_	_	start_char=1295|end_char=1298
+61	Turtles	Turtles	PROPN	NNPS	Number=Plur	60	_	_	start_char=1299|end_char=1306
+62	Association	Association	PROPN	NNP	Number=Sing	61	_	_	start_char=1307|end_char=1318|SpaceAfter=No
+63	.	.	PUNCT	.	_	62	_	_	start_char=1318|end_char=1319|SpacesAfter=\n\n
+
+# text = Ris factors
+# sent_id = 8
+1	Ris	ris	NOUN	NN	Number=Sing	0	_	_	start_char=1321|end_char=1324
+2	factors	factor	NOUN	NNS	Number=Plur	1	_	_	start_char=1325|end_char=1332|SpacesAfter=\n\n
+
+# text = Climate change presents challenges that threaten the development of fertile turtle eggs and the births of leatherbac, green, and hawsbill turtles.
+# sent_id = 9
+1	Climate	climate	NOUN	NN	Number=Sing	0	_	_	start_char=1334|end_char=1341
+2	change	change	NOUN	NN	Number=Sing	1	_	_	start_char=1342|end_char=1348
+3	presents	present	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1349|end_char=1357
+4	challenges	challenge	NOUN	NNS	Number=Plur	3	_	_	start_char=1358|end_char=1368
+5	that	that	PRON	WDT	PronType=Rel	4	_	_	start_char=1369|end_char=1373
+6	threaten	threaten	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1374|end_char=1382
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1383|end_char=1386
+8	development	development	NOUN	NN	Number=Sing	7	_	_	start_char=1387|end_char=1398
+9	of	of	ADP	IN	_	8	_	_	start_char=1399|end_char=1401
+10	fertile	fertile	ADJ	JJ	Degree=Pos	9	_	_	start_char=1402|end_char=1409
+11	turtle	turtle	NOUN	NN	Number=Sing	10	_	_	start_char=1410|end_char=1416
+12	eggs	egg	NOUN	NNS	Number=Plur	11	_	_	start_char=1417|end_char=1421
+13	and	and	CCONJ	CC	_	12	_	_	start_char=1422|end_char=1425
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=1426|end_char=1429
+15	births	birth	NOUN	NNS	Number=Plur	14	_	_	start_char=1430|end_char=1436
+16	of	of	ADP	IN	_	15	_	_	start_char=1437|end_char=1439
+17	leatherbac	leatherbac	NOUN	NN	Number=Sing	16	_	_	start_char=1440|end_char=1450|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=1450|end_char=1451
+19	green	green	ADJ	JJ	Degree=Pos	18	_	_	start_char=1452|end_char=1457|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=1457|end_char=1458
+21	and	and	CCONJ	CC	_	20	_	_	start_char=1459|end_char=1462
+22	hawsbill	hawsbill	NOUN	NN	Number=Sing	21	_	_	start_char=1463|end_char=1471
+23	turtles	turtle	NOUN	NNS	Number=Plur	22	_	_	start_char=1472|end_char=1479|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=1479|end_char=1480|SpacesAfter=\n\n
+
+# text = For instance, sea turtles exhibit temperature-dependent sex determination.
+# sent_id = 10
+1	For	for	ADP	IN	_	0	_	_	start_char=1482|end_char=1485
+2	instance	instance	NOUN	NN	Number=Sing	1	_	_	start_char=1486|end_char=1494|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=1494|end_char=1495
+4	sea	sea	NOUN	NN	Number=Sing	3	_	_	start_char=1496|end_char=1499
+5	turtles	turtle	NOUN	NNS	Number=Plur	4	_	_	start_char=1500|end_char=1507
+6	exhibit	exhibit	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1508|end_char=1515
+7	temperature	temperature	NOUN	NN	Number=Sing	6	_	_	start_char=1516|end_char=1527|SpaceAfter=No
+8	-	-	PUNCT	HYPH	_	7	_	_	start_char=1527|end_char=1528|SpaceAfter=No
+9	dependent	dependent	ADJ	JJ	Degree=Pos	8	_	_	start_char=1528|end_char=1537
+10	sex	sex	NOUN	NN	Number=Sing	9	_	_	start_char=1538|end_char=1541
+11	determination	determination	NOUN	NN	Number=Sing	10	_	_	start_char=1542|end_char=1555|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=1555|end_char=1556
+
+# text = During incubation, the temperature determines whether the offspring will be male or female.
+# sent_id = 11
+1	During	during	ADP	IN	_	0	_	_	start_char=1557|end_char=1563
+2	incubation	incubation	NOUN	NN	Number=Sing	1	_	_	start_char=1564|end_char=1574|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=1574|end_char=1575
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1576|end_char=1579
+5	temperature	temperature	NOUN	NN	Number=Sing	4	_	_	start_char=1580|end_char=1591
+6	determines	determine	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1592|end_char=1602
+7	whether	whether	SCONJ	IN	_	6	_	_	start_char=1603|end_char=1610
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=1611|end_char=1614
+9	offspring	offspring	NOUN	NN	Number=Sing	8	_	_	start_char=1615|end_char=1624
+10	will	will	AUX	MD	VerbForm=Fin	9	_	_	start_char=1625|end_char=1629
+11	be	be	AUX	VB	VerbForm=Inf	10	_	_	start_char=1630|end_char=1632
+12	male	male	ADJ	JJ	Degree=Pos	11	_	_	start_char=1633|end_char=1637
+13	or	or	CCONJ	CC	_	12	_	_	start_char=1638|end_char=1640
+14	female	female	ADJ	JJ	Degree=Pos	13	_	_	start_char=1641|end_char=1647|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=1647|end_char=1648
+
+# text = Rising temperatures are producing more female turtles, thereby reducing the chances of reproduction.
+# sent_id = 12
+1	Rising	rise	VERB	VBG	VerbForm=Ger	0	_	_	start_char=1649|end_char=1655
+2	temperatures	temperature	NOUN	NNS	Number=Plur	1	_	_	start_char=1656|end_char=1668
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1669|end_char=1672
+4	producing	produce	VERB	VBG	Tense=Pres|VerbForm=Part	3	_	_	start_char=1673|end_char=1682
+5	more	more	ADJ	JJR	Degree=Cmp	4	_	_	start_char=1683|end_char=1687
+6	female	female	ADJ	JJ	Degree=Pos	5	_	_	start_char=1688|end_char=1694
+7	turtles	turtle	NOUN	NNS	Number=Plur	6	_	_	start_char=1695|end_char=1702|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=1702|end_char=1703
+9	thereby	thereby	ADV	RB	_	8	_	_	start_char=1704|end_char=1711
+10	reducing	reduce	VERB	VBG	VerbForm=Ger	9	_	_	start_char=1712|end_char=1720
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=1721|end_char=1724
+12	chances	chance	NOUN	NNS	Number=Plur	11	_	_	start_char=1725|end_char=1732
+13	of	of	ADP	IN	_	12	_	_	start_char=1733|end_char=1735
+14	reproduction	reproduction	NOUN	NN	Number=Sing	13	_	_	start_char=1736|end_char=1748|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=1748|end_char=1749|SpacesAfter=\n\n
+
+# text = Furthermore, the rise in sea levels, due to glacier melting and the thermal expansion of the oceans, results in a loss of nesting and feeding habitats for sea turtles.
+# sent_id = 13
+1	Furthermore	furthermore	ADV	RB	_	0	_	_	start_char=1751|end_char=1762|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=1762|end_char=1763
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1764|end_char=1767
+4	rise	rise	NOUN	NN	Number=Sing	3	_	_	start_char=1768|end_char=1772
+5	in	in	ADP	IN	_	4	_	_	start_char=1773|end_char=1775
+6	sea	sea	NOUN	NN	Number=Sing	5	_	_	start_char=1776|end_char=1779
+7	levels	level	NOUN	NNS	Number=Plur	6	_	_	start_char=1780|end_char=1786|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=1786|end_char=1787
+9	due	due	ADP	IN	_	8	_	_	start_char=1788|end_char=1791
+10	to	to	ADP	IN	_	9	_	_	start_char=1792|end_char=1794
+11	glacier	glacier	NOUN	NN	Number=Sing	10	_	_	start_char=1795|end_char=1802
+12	melting	melting	NOUN	NN	Number=Sing	11	_	_	start_char=1803|end_char=1810
+13	and	and	CCONJ	CC	_	12	_	_	start_char=1811|end_char=1814
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=1815|end_char=1818
+15	thermal	thermal	ADJ	JJ	Degree=Pos	14	_	_	start_char=1819|end_char=1826
+16	expansion	expansion	NOUN	NN	Number=Sing	15	_	_	start_char=1827|end_char=1836
+17	of	of	ADP	IN	_	16	_	_	start_char=1837|end_char=1839
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=1840|end_char=1843
+19	oceans	ocean	NOUN	NNS	Number=Plur	18	_	_	start_char=1844|end_char=1850|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=1850|end_char=1851
+21	results	result	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	_	_	start_char=1852|end_char=1859
+22	in	in	ADP	IN	_	21	_	_	start_char=1860|end_char=1862
+23	a	a	DET	DT	Definite=Ind|PronType=Art	22	_	_	start_char=1863|end_char=1864
+24	loss	loss	NOUN	NN	Number=Sing	23	_	_	start_char=1865|end_char=1869
+25	of	of	ADP	IN	_	24	_	_	start_char=1870|end_char=1872
+26	nesting	nest	NOUN	NN	Number=Sing	25	_	_	start_char=1873|end_char=1880
+27	and	and	CCONJ	CC	_	26	_	_	start_char=1881|end_char=1884
+28	feeding	feeding	NOUN	NN	Number=Sing	27	_	_	start_char=1885|end_char=1892
+29	habitats	habitat	NOUN	NNS	Number=Plur	28	_	_	start_char=1893|end_char=1901
+30	for	for	ADP	IN	_	29	_	_	start_char=1902|end_char=1905
+31	sea	sea	NOUN	NN	Number=Sing	30	_	_	start_char=1906|end_char=1909
+32	turtles	turtle	NOUN	NNS	Number=Plur	31	_	_	start_char=1910|end_char=1917|SpaceAfter=No
+33	.	.	PUNCT	.	_	32	_	_	start_char=1917|end_char=1918
+
+# text = Nesting beaches may erode or become submerged, limiting the available space for turtles to nest.
+# sent_id = 14
+1	Nesting	nesting	NOUN	NN	Number=Sing	0	_	_	start_char=1919|end_char=1926
+2	beaches	beach	NOUN	NNS	Number=Plur	1	_	_	start_char=1927|end_char=1934
+3	may	may	AUX	MD	VerbForm=Fin	2	_	_	start_char=1935|end_char=1938
+4	erode	eride	VERB	VB	VerbForm=Inf	3	_	_	start_char=1939|end_char=1944
+5	or	or	CCONJ	CC	_	4	_	_	start_char=1945|end_char=1947
+6	become	become	VERB	VB	VerbForm=Inf	5	_	_	start_char=1948|end_char=1954
+7	submerged	submerge	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=1955|end_char=1964|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=1964|end_char=1965
+9	limiting	limit	VERB	VBG	VerbForm=Ger	8	_	_	start_char=1966|end_char=1974
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=1975|end_char=1978
+11	available	available	ADJ	JJ	Degree=Pos	10	_	_	start_char=1979|end_char=1988
+12	space	space	NOUN	NN	Number=Sing	11	_	_	start_char=1989|end_char=1994
+13	for	for	ADP	IN	_	12	_	_	start_char=1995|end_char=1998
+14	turtles	turtle	NOUN	NNS	Number=Plur	13	_	_	start_char=1999|end_char=2006
+15	to	to	PART	TO	_	14	_	_	start_char=2007|end_char=2009
+16	nest	nest	VERB	VB	VerbForm=Inf	15	_	_	start_char=2010|end_char=2014|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=2014|end_char=2015|SpacesAfter=\n\n
+
+# text = Marine species rely on ocean currents and water temperatures for their migrations.
+# sent_id = 15
+1	Marine	Marine	PROPN	NNP	Number=Sing	0	_	_	start_char=2017|end_char=2023
+2	species	species	NOUN	NNS	Number=Plur	1	_	_	start_char=2024|end_char=2031
+3	rely	rely	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2032|end_char=2036
+4	on	on	ADP	IN	_	3	_	_	start_char=2037|end_char=2039
+5	ocean	ocean	NOUN	NN	Number=Sing	4	_	_	start_char=2040|end_char=2045
+6	currents	current	NOUN	NNS	Number=Plur	5	_	_	start_char=2046|end_char=2054
+7	and	and	CCONJ	CC	_	6	_	_	start_char=2055|end_char=2058
+8	water	water	NOUN	NN	Number=Sing	7	_	_	start_char=2059|end_char=2064
+9	temperatures	temperature	NOUN	NNS	Number=Plur	8	_	_	start_char=2065|end_char=2077
+10	for	for	ADP	IN	_	9	_	_	start_char=2078|end_char=2081
+11	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	10	_	_	start_char=2082|end_char=2087
+12	migrations	migration	NOUN	NNS	Number=Plur	11	_	_	start_char=2088|end_char=2098|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=2098|end_char=2099
+
+# text = Climate change can disrupt these patterns, affecting the availability of food and altering the migration routes of sea turtles.
+# sent_id = 16
+1	Climate	climate	NOUN	NN	Number=Sing	0	_	_	start_char=2100|end_char=2107
+2	change	change	NOUN	NN	Number=Sing	1	_	_	start_char=2108|end_char=2114
+3	can	can	AUX	MD	VerbForm=Fin	2	_	_	start_char=2115|end_char=2118
+4	disrupt	disrupt	VERB	VB	VerbForm=Inf	3	_	_	start_char=2119|end_char=2126
+5	these	this	DET	DT	Number=Plur|PronType=Dem	4	_	_	start_char=2127|end_char=2132
+6	patterns	pattern	NOUN	NNS	Number=Plur	5	_	_	start_char=2133|end_char=2141|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=2141|end_char=2142
+8	affecting	affect	VERB	VBG	VerbForm=Ger	7	_	_	start_char=2143|end_char=2152
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=2153|end_char=2156
+10	availability	availability	NOUN	NN	Number=Sing	9	_	_	start_char=2157|end_char=2169
+11	of	of	ADP	IN	_	10	_	_	start_char=2170|end_char=2172
+12	food	food	NOUN	NN	Number=Sing	11	_	_	start_char=2173|end_char=2177
+13	and	and	CCONJ	CC	_	12	_	_	start_char=2178|end_char=2181
+14	altering	alter	VERB	VBG	VerbForm=Ger	13	_	_	start_char=2182|end_char=2190
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=2191|end_char=2194
+16	migration	migration	NOUN	NN	Number=Sing	15	_	_	start_char=2195|end_char=2204
+17	routes	route	NOUN	NNS	Number=Plur	16	_	_	start_char=2205|end_char=2211
+18	of	of	ADP	IN	_	17	_	_	start_char=2212|end_char=2214
+19	sea	sea	NOUN	NN	Number=Sing	18	_	_	start_char=2215|end_char=2218
+20	turtles	turtle	NOUN	NNS	Number=Plur	19	_	_	start_char=2219|end_char=2226|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=2226|end_char=2227|SpacesAfter=\n\n
+
+# text = Moreover, climate change can influence the availability and distribution of the turtles’ prey.
+# sent_id = 17
+1	Moreover	moreover	ADV	RB	Degree=Pos	0	_	_	start_char=2229|end_char=2237|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=2237|end_char=2238
+3	climate	climate	NOUN	NN	Number=Sing	2	_	_	start_char=2239|end_char=2246
+4	change	change	NOUN	NN	Number=Sing	3	_	_	start_char=2247|end_char=2253
+5	can	can	AUX	MD	VerbForm=Fin	4	_	_	start_char=2254|end_char=2257
+6	influence	influence	VERB	VB	VerbForm=Inf	5	_	_	start_char=2258|end_char=2267
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=2268|end_char=2271
+8	availability	availability	NOUN	NN	Number=Sing	7	_	_	start_char=2272|end_char=2284
+9	and	and	CCONJ	CC	_	8	_	_	start_char=2285|end_char=2288
+10	distribution	distribution	NOUN	NN	Number=Sing	9	_	_	start_char=2289|end_char=2301
+11	of	of	ADP	IN	_	10	_	_	start_char=2302|end_char=2304
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=2305|end_char=2308
+13-14	turtles’	_	_	_	_	_	_	_	start_char=2309|end_char=2317
+13	turtles	turtle	NOUN	NNS	Number=Plur	12	_	_	start_char=2309|end_char=2316
+14	’	's	PART	POS	_	13	_	_	start_char=2316|end_char=2317
+15	prey	prey	NOUN	NN	Number=Sing	14	_	_	start_char=2318|end_char=2322|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=2322|end_char=2323
+
+# text = Fluctuations in water temperatures and ocean acidification can destabilize marine ecosystems, thereby impacting the quantity and quality of food sources for sea turtles.
+# sent_id = 18
+1	Fluctuations	fluctuation	NOUN	NNS	Number=Plur	0	_	_	start_char=2324|end_char=2336
+2	in	in	ADP	IN	_	1	_	_	start_char=2337|end_char=2339
+3	water	water	NOUN	NN	Number=Sing	2	_	_	start_char=2340|end_char=2345
+4	temperatures	temperature	NOUN	NNS	Number=Plur	3	_	_	start_char=2346|end_char=2358
+5	and	and	CCONJ	CC	_	4	_	_	start_char=2359|end_char=2362
+6	ocean	ocean	NOUN	NN	Number=Sing	5	_	_	start_char=2363|end_char=2368
+7	acidification	acidification	NOUN	NN	Number=Sing	6	_	_	start_char=2369|end_char=2382
+8	can	can	AUX	MD	VerbForm=Fin	7	_	_	start_char=2383|end_char=2386
+9	destabilize	destabilize	VERB	VB	VerbForm=Inf	8	_	_	start_char=2387|end_char=2398
+10	marine	marine	ADJ	JJ	Degree=Pos	9	_	_	start_char=2399|end_char=2405
+11	ecosystems	ecosystem	NOUN	NNS	Number=Plur	10	_	_	start_char=2406|end_char=2416|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=2416|end_char=2417
+13	thereby	thereby	ADV	RB	_	12	_	_	start_char=2418|end_char=2425
+14	impacting	impact	VERB	VBG	VerbForm=Ger	13	_	_	start_char=2426|end_char=2435
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=2436|end_char=2439
+16	quantity	quantity	NOUN	NN	Number=Sing	15	_	_	start_char=2440|end_char=2448
+17	and	and	CCONJ	CC	_	16	_	_	start_char=2449|end_char=2452
+18	quality	quality	NOUN	NN	Number=Sing	17	_	_	start_char=2453|end_char=2460
+19	of	of	ADP	IN	_	18	_	_	start_char=2461|end_char=2463
+20	food	food	NOUN	NN	Number=Sing	19	_	_	start_char=2464|end_char=2468
+21	sources	source	NOUN	NNS	Number=Plur	20	_	_	start_char=2469|end_char=2476
+22	for	for	ADP	IN	_	21	_	_	start_char=2477|end_char=2480
+23	sea	sea	NOUN	NN	Number=Sing	22	_	_	start_char=2481|end_char=2484
+24	turtles	turtle	NOUN	NNS	Number=Plur	23	_	_	start_char=2485|end_char=2492|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=2492|end_char=2493|SpacesAfter=\n\n
+
+# text = Didiher Chacón emphasized that people can help the cause through actions such as abstaining from consuming turtle eggs, participating in volunteer programs aimed at nest protection, cleaning beaches, minimizing their greenhouse gas emissions, recycling to curtail the demand for plastics, and educating the younger generations about these measures.
+# sent_id = 19
+1	Didiher	Didiher	PROPN	NNP	Number=Sing	0	_	_	start_char=2495|end_char=2502
+2	Chacón	Chacón	PROPN	NNP	Number=Sing	1	_	_	start_char=2503|end_char=2509
+3	emphasized	emphasize	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=2510|end_char=2520
+4	that	that	SCONJ	IN	_	3	_	_	start_char=2521|end_char=2525
+5	people	person	NOUN	NNS	Number=Plur	4	_	_	start_char=2526|end_char=2532
+6	can	can	AUX	MD	VerbForm=Fin	5	_	_	start_char=2533|end_char=2536
+7	help	help	VERB	VB	VerbForm=Inf	6	_	_	start_char=2537|end_char=2541
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=2542|end_char=2545
+9	cause	cause	NOUN	NN	Number=Sing	8	_	_	start_char=2546|end_char=2551
+10	through	through	ADP	IN	_	9	_	_	start_char=2552|end_char=2559
+11	actions	action	NOUN	NNS	Number=Plur	10	_	_	start_char=2560|end_char=2567
+12	such	such	ADJ	JJ	Degree=Pos	11	_	_	start_char=2568|end_char=2572
+13	as	as	ADP	IN	_	12	_	_	start_char=2573|end_char=2575
+14	abstaining	abstain	VERB	VBG	VerbForm=Ger	13	_	_	start_char=2576|end_char=2586
+15	from	from	SCONJ	IN	_	14	_	_	start_char=2587|end_char=2591
+16	consuming	consume	VERB	VBG	VerbForm=Ger	15	_	_	start_char=2592|end_char=2601
+17	turtle	turtle	NOUN	NN	Number=Sing	16	_	_	start_char=2602|end_char=2608
+18	eggs	egg	NOUN	NNS	Number=Plur	17	_	_	start_char=2609|end_char=2613|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=2613|end_char=2614
+20	participating	participate	VERB	VBG	VerbForm=Ger	19	_	_	start_char=2615|end_char=2628
+21	in	in	ADP	IN	_	20	_	_	start_char=2629|end_char=2631
+22	volunteer	volunteer	NOUN	NN	Number=Sing	21	_	_	start_char=2632|end_char=2641
+23	programs	program	NOUN	NNS	Number=Plur	22	_	_	start_char=2642|end_char=2650
+24	aimed	aim	VERB	VBN	Tense=Past|VerbForm=Part	23	_	_	start_char=2651|end_char=2656
+25	at	at	ADP	IN	_	24	_	_	start_char=2657|end_char=2659
+26	nest	nest	NOUN	NN	Number=Sing	25	_	_	start_char=2660|end_char=2664
+27	protection	protection	NOUN	NN	Number=Sing	26	_	_	start_char=2665|end_char=2675|SpaceAfter=No
+28	,	,	PUNCT	,	_	27	_	_	start_char=2675|end_char=2676
+29	cleaning	cleaning	NOUN	NN	Number=Sing	28	_	_	start_char=2677|end_char=2685
+30	beaches	beach	NOUN	NNS	Number=Plur	29	_	_	start_char=2686|end_char=2693|SpaceAfter=No
+31	,	,	PUNCT	,	_	30	_	_	start_char=2693|end_char=2694
+32	minimizing	minimize	VERB	VBG	VerbForm=Ger	31	_	_	start_char=2695|end_char=2705
+33	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	32	_	_	start_char=2706|end_char=2711
+34	greenhouse	greenhouse	NOUN	NN	Number=Sing	33	_	_	start_char=2712|end_char=2722
+35	gas	gas	NOUN	NN	Number=Sing	34	_	_	start_char=2723|end_char=2726
+36	emissions	emission	NOUN	NNS	Number=Plur	35	_	_	start_char=2727|end_char=2736|SpaceAfter=No
+37	,	,	PUNCT	,	_	36	_	_	start_char=2736|end_char=2737
+38	recycling	recycling	NOUN	NN	Number=Sing	37	_	_	start_char=2738|end_char=2747
+39	to	to	PART	TO	_	38	_	_	start_char=2748|end_char=2750
+40	curtail	curtail	VERB	VB	VerbForm=Inf	39	_	_	start_char=2751|end_char=2758
+41	the	the	DET	DT	Definite=Def|PronType=Art	40	_	_	start_char=2759|end_char=2762
+42	demand	demand	NOUN	NN	Number=Sing	41	_	_	start_char=2763|end_char=2769
+43	for	for	ADP	IN	_	42	_	_	start_char=2770|end_char=2773
+44	plastics	plastic	NOUN	NNS	Number=Plur	43	_	_	start_char=2774|end_char=2782|SpaceAfter=No
+45	,	,	PUNCT	,	_	44	_	_	start_char=2782|end_char=2783
+46	and	and	CCONJ	CC	_	45	_	_	start_char=2784|end_char=2787
+47	educating	educate	VERB	VBG	VerbForm=Ger	46	_	_	start_char=2788|end_char=2797
+48	the	the	DET	DT	Definite=Def|PronType=Art	47	_	_	start_char=2798|end_char=2801
+49	younger	young	ADJ	JJR	Degree=Cmp	48	_	_	start_char=2802|end_char=2809
+50	generations	generation	NOUN	NNS	Number=Plur	49	_	_	start_char=2810|end_char=2821
+51	about	about	ADP	IN	_	50	_	_	start_char=2822|end_char=2827
+52	these	this	DET	DT	Number=Plur|PronType=Dem	51	_	_	start_char=2828|end_char=2833
+53	measures	measure	NOUN	NNS	Number=Plur	52	_	_	start_char=2834|end_char=2842|SpaceAfter=No
+54	.	.	PUNCT	.	_	53	_	_	start_char=2842|end_char=2843|SpaceAfter=No
+

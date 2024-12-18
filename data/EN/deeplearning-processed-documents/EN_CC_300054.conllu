@@ -1,0 +1,549 @@
+# text = One third of Americans under alerts as heatwave liely to intensify
+# sent_id = 0
+1	One	one	NUM	CD	NumForm=Word|NumType=Card	0	_	_	start_char=0|end_char=3
+2	third	third	NOUN	NN	NumForm=Word|NumType=Frac|Number=Sing	1	_	_	start_char=4|end_char=9
+3	of	of	ADP	IN	_	2	_	_	start_char=10|end_char=12
+4	Americans	American	PROPN	NNPS	Number=Plur	3	_	_	start_char=13|end_char=22
+5	under	under	ADP	IN	_	4	_	_	start_char=23|end_char=28
+6	alerts	alert	NOUN	NNS	Number=Plur	5	_	_	start_char=29|end_char=35
+7	as	as	ADP	IN	_	6	_	_	start_char=36|end_char=38
+8	heatwave	heatwave	NOUN	NN	Number=Sing	7	_	_	start_char=39|end_char=47
+9	liely	liely	ADV	RB	_	8	_	_	start_char=48|end_char=53
+10	to	to	PART	TO	_	9	_	_	start_char=54|end_char=56
+11	intensify	intensify	VERB	VB	VerbForm=Inf	10	_	_	start_char=57|end_char=66|SpacesAfter=\s\n\n\s
+
+# text = July 15, 2023
+# sent_id = 1
+1	July	July	PROPN	NNP	Number=Sing	0	_	_	start_char=70|end_char=74
+2	15	15	NUM	CD	NumForm=Digit|NumType=Card	1	_	_	start_char=75|end_char=77|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=77|end_char=78
+4	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	3	_	_	start_char=79|end_char=83|SpacesAfter=\n\n
+
+# text = More than a third of Americans are under heat advisories as extreme temperatures are liely to hit several states in the United States this weeend, BBC reported.
+# sent_id = 2
+1	More	more	ADJ	JJR	Degree=Cmp	0	_	_	start_char=85|end_char=89
+2	than	than	ADP	IN	_	1	_	_	start_char=90|end_char=94
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=95|end_char=96
+4	third	third	NOUN	NN	NumForm=Word|NumType=Frac|Number=Sing	3	_	_	start_char=97|end_char=102
+5	of	of	ADP	IN	_	4	_	_	start_char=103|end_char=105
+6	Americans	American	PROPN	NNPS	Number=Plur	5	_	_	start_char=106|end_char=115
+7	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=116|end_char=119
+8	under	under	ADP	IN	_	7	_	_	start_char=120|end_char=125
+9	heat	heat	NOUN	NN	Number=Sing	8	_	_	start_char=126|end_char=130
+10	advisories	advisory	NOUN	NNS	Number=Plur	9	_	_	start_char=131|end_char=141
+11	as	as	SCONJ	IN	_	10	_	_	start_char=142|end_char=144
+12	extreme	extreme	ADJ	JJ	Degree=Pos	11	_	_	start_char=145|end_char=152
+13	temperatures	temperature	NOUN	NNS	Number=Plur	12	_	_	start_char=153|end_char=165
+14	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=166|end_char=169
+15	liely	liely	ADV	RB	_	14	_	_	start_char=170|end_char=175
+16	to	to	PART	TO	_	15	_	_	start_char=176|end_char=178
+17	hit	hit	VERB	VB	VerbForm=Inf	16	_	_	start_char=179|end_char=182
+18	several	several	ADJ	JJ	Degree=Pos	17	_	_	start_char=183|end_char=190
+19	states	state	NOUN	NNS	Number=Plur	18	_	_	start_char=191|end_char=197
+20	in	in	ADP	IN	_	19	_	_	start_char=198|end_char=200
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=201|end_char=204
+22	United	United	ADJ	NNP	Degree=Pos	21	_	_	start_char=205|end_char=211
+23	States	State	PROPN	NNPS	Number=Plur	22	_	_	start_char=212|end_char=218
+24	this	this	DET	DT	Number=Sing|PronType=Dem	23	_	_	start_char=219|end_char=223
+25	weeend	weeend	NOUN	NN	Number=Sing	24	_	_	start_char=224|end_char=230|SpaceAfter=No
+26	,	,	PUNCT	,	_	25	_	_	start_char=230|end_char=231
+27	BBC	BBC	PROPN	NNP	Number=Sing	26	_	_	start_char=232|end_char=235
+28	reported	report	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	27	_	_	start_char=236|end_char=244|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=244|end_char=245|SpacesAfter=\n\n
+
+# text = About 113 million people in the US have been affected by the advisories from Florida to Texas to California up to the north-western state of Washington.
+# sent_id = 3
+1	About	about	ADV	RB	_	0	_	_	start_char=247|end_char=252
+2	113	113	NUM	CD	NumForm=Digit|NumType=Card	1	_	_	start_char=253|end_char=256
+3	million	million	NUM	CD	NumForm=Word|NumType=Card	2	_	_	start_char=257|end_char=264
+4	people	person	NOUN	NNS	Number=Plur	3	_	_	start_char=265|end_char=271
+5	in	in	ADP	IN	_	4	_	_	start_char=272|end_char=274
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=275|end_char=278
+7	US	US	PROPN	NNP	Number=Sing	6	_	_	start_char=279|end_char=281
+8	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=282|end_char=286
+9	been	be	AUX	VBN	Tense=Past|VerbForm=Part	8	_	_	start_char=287|end_char=291
+10	affected	affect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	9	_	_	start_char=292|end_char=300
+11	by	by	ADP	IN	_	10	_	_	start_char=301|end_char=303
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=304|end_char=307
+13	advisories	advisory	NOUN	NNS	Number=Plur	12	_	_	start_char=308|end_char=318
+14	from	from	ADP	IN	_	13	_	_	start_char=319|end_char=323
+15	Florida	Florida	PROPN	NNP	Number=Sing	14	_	_	start_char=324|end_char=331
+16	to	to	ADP	IN	_	15	_	_	start_char=332|end_char=334
+17	Texas	Texas	PROPN	NNP	Number=Sing	16	_	_	start_char=335|end_char=340
+18	to	to	ADP	IN	_	17	_	_	start_char=341|end_char=343
+19	California	California	PROPN	NNP	Number=Sing	18	_	_	start_char=344|end_char=354
+20	up	up	ADV	RB	_	19	_	_	start_char=355|end_char=357
+21	to	to	ADP	IN	_	20	_	_	start_char=358|end_char=360
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=361|end_char=364
+23	north	north	NOUN	NN	Number=Sing	22	_	_	start_char=365|end_char=370|SpaceAfter=No
+24	-	-	PUNCT	HYPH	_	23	_	_	start_char=370|end_char=371|SpaceAfter=No
+25	western	western	ADJ	JJ	Degree=Pos	24	_	_	start_char=371|end_char=378
+26	state	state	NOUN	NN	Number=Sing	25	_	_	start_char=379|end_char=384
+27	of	of	ADP	IN	_	26	_	_	start_char=385|end_char=387
+28	Washington	Washington	PROPN	NNP	Number=Sing	27	_	_	start_char=388|end_char=398|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=398|end_char=399|SpacesAfter=\n\n
+
+# text = The extreme temperatures have forced the residents to use air conditioners while people have broen the record for power consumption in Texas since last year.
+# sent_id = 4
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=401|end_char=404
+2	extreme	extreme	ADJ	JJ	Degree=Pos	1	_	_	start_char=405|end_char=412
+3	temperatures	temperature	NOUN	NNS	Number=Plur	2	_	_	start_char=413|end_char=425
+4	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=426|end_char=430
+5	forced	force	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=431|end_char=437
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=438|end_char=441
+7	residents	resident	NOUN	NNS	Number=Plur	6	_	_	start_char=442|end_char=451
+8	to	to	PART	TO	_	7	_	_	start_char=452|end_char=454
+9	use	use	VERB	VB	VerbForm=Inf	8	_	_	start_char=455|end_char=458
+10	air	air	NOUN	NN	Number=Sing	9	_	_	start_char=459|end_char=462
+11	conditioners	conditioner	NOUN	NNS	Number=Plur	10	_	_	start_char=463|end_char=475
+12	while	while	SCONJ	IN	_	11	_	_	start_char=476|end_char=481
+13	people	person	NOUN	NNS	Number=Plur	12	_	_	start_char=482|end_char=488
+14	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=489|end_char=493
+15	broen	brean	VERB	VBN	Tense=Past|VerbForm=Part	14	_	_	start_char=494|end_char=499
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=500|end_char=503
+17	record	record	NOUN	NN	Number=Sing	16	_	_	start_char=504|end_char=510
+18	for	for	ADP	IN	_	17	_	_	start_char=511|end_char=514
+19	power	power	NOUN	NN	Number=Sing	18	_	_	start_char=515|end_char=520
+20	consumption	consumption	NOUN	NN	Number=Sing	19	_	_	start_char=521|end_char=532
+21	in	in	ADP	IN	_	20	_	_	start_char=533|end_char=535
+22	Texas	Texas	PROPN	NNP	Number=Sing	21	_	_	start_char=536|end_char=541
+23	since	since	ADP	IN	_	22	_	_	start_char=542|end_char=547
+24	last	last	ADJ	JJ	Degree=Pos	23	_	_	start_char=548|end_char=552
+25	year	year	NOUN	NN	Number=Sing	24	_	_	start_char=553|end_char=557|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=557|end_char=558|SpacesAfter=\n\n
+
+# text = As many as 27 million people are expected to suffer from high temperatures of over 43°C in the coming days.
+# sent_id = 5
+1	As	as	ADV	RB	_	0	_	_	start_char=560|end_char=562
+2	many	many	ADJ	JJ	Degree=Pos	1	_	_	start_char=563|end_char=567
+3	as	as	ADP	IN	_	2	_	_	start_char=568|end_char=570
+4	27	27	NUM	CD	NumForm=Digit|NumType=Card	3	_	_	start_char=571|end_char=573
+5	million	million	NUM	CD	NumForm=Word|NumType=Card	4	_	_	start_char=574|end_char=581
+6	people	person	NOUN	NNS	Number=Plur	5	_	_	start_char=582|end_char=588
+7	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=589|end_char=592
+8	expected	expect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	_	_	start_char=593|end_char=601
+9	to	to	PART	TO	_	8	_	_	start_char=602|end_char=604
+10	suffer	suffer	VERB	VB	VerbForm=Inf	9	_	_	start_char=605|end_char=611
+11	from	from	ADP	IN	_	10	_	_	start_char=612|end_char=616
+12	high	high	ADJ	JJ	Degree=Pos	11	_	_	start_char=617|end_char=621
+13	temperatures	temperature	NOUN	NNS	Number=Plur	12	_	_	start_char=622|end_char=634
+14	of	of	ADP	IN	_	13	_	_	start_char=635|end_char=637
+15	over	over	ADV	RB	_	14	_	_	start_char=638|end_char=642
+16	43°C	43°C	NUM	CD	NumForm=Digit|NumType=Card	15	_	_	start_char=643|end_char=647
+17	in	in	ADP	IN	_	16	_	_	start_char=648|end_char=650
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=651|end_char=654
+19	coming	come	VERB	VBG	VerbForm=Ger	18	_	_	start_char=655|end_char=661
+20	days	day	NOUN	NNS	Number=Plur	19	_	_	start_char=662|end_char=666|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=666|end_char=667|SpacesAfter=\n\n
+
+# text = According to the National Weather Service (NWS), the heat is caused by an upper-level ridge of high pressure, calling it "one of the strongest" systems to be experienced by the region.
+# sent_id = 6
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=669|end_char=678
+2	to	to	ADP	IN	_	1	_	_	start_char=679|end_char=681
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=682|end_char=685
+4	National	National	ADJ	NNP	Degree=Pos	3	_	_	start_char=686|end_char=694
+5	Weather	Weather	PROPN	NNP	Number=Sing	4	_	_	start_char=695|end_char=702
+6	Service	Service	PROPN	NNP	Number=Sing	5	_	_	start_char=703|end_char=710
+7	(	(	PUNCT	-LRB-	_	6	_	_	start_char=711|end_char=712|SpaceAfter=No
+8	NWS	NWS	PROPN	NNP	Number=Sing	7	_	_	start_char=712|end_char=715|SpaceAfter=No
+9	)	)	PUNCT	-RRB-	_	8	_	_	start_char=715|end_char=716|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=716|end_char=717
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=718|end_char=721
+12	heat	heat	NOUN	NN	Number=Sing	11	_	_	start_char=722|end_char=726
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=727|end_char=729
+14	caused	cause	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	13	_	_	start_char=730|end_char=736
+15	by	by	ADP	IN	_	14	_	_	start_char=737|end_char=739
+16	an	a	DET	DT	Definite=Ind|PronType=Art	15	_	_	start_char=740|end_char=742
+17	upper	upper	ADJ	JJ	Degree=Pos	16	_	_	start_char=743|end_char=748|SpaceAfter=No
+18	-	-	PUNCT	HYPH	_	17	_	_	start_char=748|end_char=749|SpaceAfter=No
+19	level	level	NOUN	NN	Number=Sing	18	_	_	start_char=749|end_char=754
+20	ridge	ridge	NOUN	NN	Number=Sing	19	_	_	start_char=755|end_char=760
+21	of	of	ADP	IN	_	20	_	_	start_char=761|end_char=763
+22	high	high	ADJ	JJ	Degree=Pos	21	_	_	start_char=764|end_char=768
+23	pressure	pressure	NOUN	NN	Number=Sing	22	_	_	start_char=769|end_char=777|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=777|end_char=778
+25	calling	call	VERB	VBG	VerbForm=Ger	24	_	_	start_char=779|end_char=786
+26	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	25	_	_	start_char=787|end_char=789
+27	"	"	PUNCT	``	_	26	_	_	start_char=790|end_char=791|SpaceAfter=No
+28	one	one	NUM	CD	NumForm=Word|NumType=Card	27	_	_	start_char=791|end_char=794
+29	of	of	ADP	IN	_	28	_	_	start_char=795|end_char=797
+30	the	the	DET	DT	Definite=Def|PronType=Art	29	_	_	start_char=798|end_char=801
+31	strongest	strong	ADJ	JJS	Degree=Sup	30	_	_	start_char=802|end_char=811|SpaceAfter=No
+32	"	"	PUNCT	''	_	31	_	_	start_char=811|end_char=812
+33	systems	system	NOUN	NNS	Number=Plur	32	_	_	start_char=813|end_char=820
+34	to	to	PART	TO	_	33	_	_	start_char=821|end_char=823
+35	be	be	AUX	VB	VerbForm=Inf	34	_	_	start_char=824|end_char=826
+36	experienced	experience	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	35	_	_	start_char=827|end_char=838
+37	by	by	ADP	IN	_	36	_	_	start_char=839|end_char=841
+38	the	the	DET	DT	Definite=Def|PronType=Art	37	_	_	start_char=842|end_char=845
+39	region	region	NOUN	NN	Number=Sing	38	_	_	start_char=846|end_char=852|SpaceAfter=No
+40	.	.	PUNCT	.	_	39	_	_	start_char=852|end_char=853|SpacesAfter=\n\n
+
+# text = "The subtropical ridge responsible for this liely historic heatwave across the region is not showing signs of letting up anytime soon," the NWS said.
+# sent_id = 7
+1	"	"	PUNCT	``	_	0	_	_	start_char=855|end_char=856|SpaceAfter=No
+2	The	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=856|end_char=859
+3	subtropical	subtropical	ADJ	JJ	Degree=Pos	2	_	_	start_char=860|end_char=871
+4	ridge	ridge	NOUN	NN	Number=Sing	3	_	_	start_char=872|end_char=877
+5	responsible	responsible	ADJ	JJ	Degree=Pos	4	_	_	start_char=878|end_char=889
+6	for	for	ADP	IN	_	5	_	_	start_char=890|end_char=893
+7	this	this	DET	DT	Number=Sing|PronType=Dem	6	_	_	start_char=894|end_char=898
+8	liely	liely	ADV	RB	_	7	_	_	start_char=899|end_char=904
+9	historic	historic	ADJ	JJ	Degree=Pos	8	_	_	start_char=905|end_char=913
+10	heatwave	heatwave	NOUN	NN	Number=Sing	9	_	_	start_char=914|end_char=922
+11	across	across	ADP	IN	_	10	_	_	start_char=923|end_char=929
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=930|end_char=933
+13	region	region	NOUN	NN	Number=Sing	12	_	_	start_char=934|end_char=940
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=941|end_char=943
+15	not	not	PART	RB	_	14	_	_	start_char=944|end_char=947
+16	showing	show	VERB	VBG	Tense=Pres|VerbForm=Part	15	_	_	start_char=948|end_char=955
+17	signs	sign	NOUN	NNS	Number=Plur	16	_	_	start_char=956|end_char=961
+18	of	of	SCONJ	IN	_	17	_	_	start_char=962|end_char=964
+19	letting	let	VERB	VBG	VerbForm=Ger	18	_	_	start_char=965|end_char=972
+20	up	up	ADP	RP	_	19	_	_	start_char=973|end_char=975
+21	anytime	anytime	ADV	RB	_	20	_	_	start_char=976|end_char=983
+22	soon	soon	ADV	RB	Degree=Pos	21	_	_	start_char=984|end_char=988|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=988|end_char=989|SpaceAfter=No
+24	"	"	PUNCT	''	_	23	_	_	start_char=989|end_char=990
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=991|end_char=994
+26	NWS	NWS	PROPN	NNP	Number=Sing	25	_	_	start_char=995|end_char=998
+27	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	26	_	_	start_char=999|end_char=1003|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=1003|end_char=1004|SpacesAfter=\n\n
+
+# text = The estimated number of people to die from heat-related incidents in the US is 700, according to the Centres for Disease Control and Prevention.
+# sent_id = 8
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1006|end_char=1009
+2	estimated	estimate	VERB	VBN	Tense=Past|VerbForm=Part	1	_	_	start_char=1010|end_char=1019
+3	number	number	NOUN	NN	Number=Sing	2	_	_	start_char=1020|end_char=1026
+4	of	of	ADP	IN	_	3	_	_	start_char=1027|end_char=1029
+5	people	person	NOUN	NNS	Number=Plur	4	_	_	start_char=1030|end_char=1036
+6	to	to	PART	TO	_	5	_	_	start_char=1037|end_char=1039
+7	die	die	VERB	VB	VerbForm=Inf	6	_	_	start_char=1040|end_char=1043
+8	from	from	ADP	IN	_	7	_	_	start_char=1044|end_char=1048
+9	heat	heat	NOUN	NN	Number=Sing	8	_	_	start_char=1049|end_char=1053|SpaceAfter=No
+10	-	-	PUNCT	HYPH	_	9	_	_	start_char=1053|end_char=1054|SpaceAfter=No
+11	related	related	ADJ	JJ	Degree=Pos	10	_	_	start_char=1054|end_char=1061
+12	incidents	incident	NOUN	NNS	Number=Plur	11	_	_	start_char=1062|end_char=1071
+13	in	in	ADP	IN	_	12	_	_	start_char=1072|end_char=1074
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=1075|end_char=1078
+15	US	US	PROPN	NNP	Number=Sing	14	_	_	start_char=1079|end_char=1081
+16	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=1082|end_char=1084
+17	700	700	NUM	CD	NumForm=Digit|NumType=Card	16	_	_	start_char=1085|end_char=1088|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=1088|end_char=1089
+19	according	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	18	_	_	start_char=1090|end_char=1099
+20	to	to	ADP	IN	_	19	_	_	start_char=1100|end_char=1102
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=1103|end_char=1106
+22	Centres	Centre	PROPN	NNPS	Number=Plur	21	_	_	start_char=1107|end_char=1114
+23	for	for	ADP	IN	_	22	_	_	start_char=1115|end_char=1118
+24	Disease	Disease	PROPN	NNP	Number=Sing	23	_	_	start_char=1119|end_char=1126
+25	Control	Control	PROPN	NNP	Number=Sing	24	_	_	start_char=1127|end_char=1134
+26	and	and	CCONJ	CC	_	25	_	_	start_char=1135|end_char=1138
+27	Prevention	Prevention	PROPN	NNP	Number=Sing	26	_	_	start_char=1139|end_char=1149|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=1149|end_char=1150|SpacesAfter=\n\n
+
+# text = The daytime temperatures are expected to remain up to 46°C (today) while the heat is forecast to remain until next wee.
+# sent_id = 9
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1152|end_char=1155
+2	daytime	daytime	NOUN	NN	Number=Sing	1	_	_	start_char=1156|end_char=1163
+3	temperatures	temperature	NOUN	NNS	Number=Plur	2	_	_	start_char=1164|end_char=1176
+4	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1177|end_char=1180
+5	expected	expect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	_	_	start_char=1181|end_char=1189
+6	to	to	PART	TO	_	5	_	_	start_char=1190|end_char=1192
+7	remain	remain	VERB	VB	VerbForm=Inf	6	_	_	start_char=1193|end_char=1199
+8	up	up	ADV	RB	_	7	_	_	start_char=1200|end_char=1202
+9	to	to	ADP	IN	_	8	_	_	start_char=1203|end_char=1205
+10	46°C	46°C	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=1206|end_char=1210
+11	(	(	PUNCT	-LRB-	_	10	_	_	start_char=1211|end_char=1212|SpaceAfter=No
+12	today	today	NOUN	NN	Number=Sing	11	_	_	start_char=1212|end_char=1217|SpaceAfter=No
+13	)	)	PUNCT	-RRB-	_	12	_	_	start_char=1217|end_char=1218
+14	while	while	SCONJ	IN	_	13	_	_	start_char=1219|end_char=1224
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=1225|end_char=1228
+16	heat	heat	NOUN	NN	Number=Sing	15	_	_	start_char=1229|end_char=1233
+17	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=1234|end_char=1236
+18	forecast	forecast	ADJ	JJ	Degree=Pos	17	_	_	start_char=1237|end_char=1245
+19	to	to	PART	TO	_	18	_	_	start_char=1246|end_char=1248
+20	remain	remain	VERB	VB	VerbForm=Inf	19	_	_	start_char=1249|end_char=1255
+21	until	until	ADP	IN	_	20	_	_	start_char=1256|end_char=1261
+22	next	next	ADJ	JJ	Degree=Pos	21	_	_	start_char=1262|end_char=1266
+23	wee	wee	NOUN	NN	Number=Sing	22	_	_	start_char=1267|end_char=1270|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=1270|end_char=1271|SpacesAfter=\n\n
+
+# text = The temperatures in Phoenix are liely to hit or exceed 43°C in the next five days, breaing its longest hot spell which lasted 18 days.
+# sent_id = 10
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1273|end_char=1276
+2	temperatures	temperature	NOUN	NNS	Number=Plur	1	_	_	start_char=1277|end_char=1289
+3	in	in	ADP	IN	_	2	_	_	start_char=1290|end_char=1292
+4	Phoenix	Phoenix	PROPN	NNP	Number=Sing	3	_	_	start_char=1293|end_char=1300
+5	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1301|end_char=1304
+6	liely	liely	ADV	RB	_	5	_	_	start_char=1305|end_char=1310
+7	to	to	PART	TO	_	6	_	_	start_char=1311|end_char=1313
+8	hit	hit	VERB	VB	VerbForm=Inf	7	_	_	start_char=1314|end_char=1317
+9	or	or	CCONJ	CC	_	8	_	_	start_char=1318|end_char=1320
+10	exceed	exceed	VERB	VB	VerbForm=Inf	9	_	_	start_char=1321|end_char=1327
+11	43°C	43°C	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=1328|end_char=1332
+12	in	in	ADP	IN	_	11	_	_	start_char=1333|end_char=1335
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1336|end_char=1339
+14	next	next	ADJ	JJ	Degree=Pos	13	_	_	start_char=1340|end_char=1344
+15	five	five	NUM	CD	NumForm=Word|NumType=Card	14	_	_	start_char=1345|end_char=1349
+16	days	day	NOUN	NNS	Number=Plur	15	_	_	start_char=1350|end_char=1354|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=1354|end_char=1355
+18	breaing	brea	VERB	VBG	VerbForm=Ger	17	_	_	start_char=1356|end_char=1363
+19	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	18	_	_	start_char=1364|end_char=1367
+20	longest	long	ADJ	JJS	Degree=Sup	19	_	_	start_char=1368|end_char=1375
+21	hot	hot	ADJ	JJ	Degree=Pos	20	_	_	start_char=1376|end_char=1379
+22	spell	spell	NOUN	NN	Number=Sing	21	_	_	start_char=1380|end_char=1385
+23	which	which	PRON	WDT	PronType=Rel	22	_	_	start_char=1386|end_char=1391
+24	lasted	last	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	23	_	_	start_char=1392|end_char=1398
+25	18	18	NUM	CD	NumForm=Digit|NumType=Card	24	_	_	start_char=1399|end_char=1401
+26	days	day	NOUN	NNS	Number=Plur	25	_	_	start_char=1402|end_char=1406|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=1406|end_char=1407|SpacesAfter=\n\n
+
+# text = Las Vegas may experience 47°C in the next few days while Death Valley, California is also expected to surpass its all-time high temperature of 54°C.
+# sent_id = 11
+1	Las	Las	PROPN	NNP	Number=Sing	0	_	_	start_char=1409|end_char=1412
+2	Vegas	Vegas	PROPN	NNP	Number=Sing	1	_	_	start_char=1413|end_char=1418
+3	may	may	AUX	MD	VerbForm=Fin	2	_	_	start_char=1419|end_char=1422
+4	experience	experience	VERB	VB	VerbForm=Inf	3	_	_	start_char=1423|end_char=1433
+5	47°C	47°C	NUM	CD	NumForm=Digit|NumType=Card	4	_	_	start_char=1434|end_char=1438
+6	in	in	ADP	IN	_	5	_	_	start_char=1439|end_char=1441
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1442|end_char=1445
+8	next	next	ADJ	JJ	Degree=Pos	7	_	_	start_char=1446|end_char=1450
+9	few	few	ADJ	JJ	Degree=Pos	8	_	_	start_char=1451|end_char=1454
+10	days	day	NOUN	NNS	Number=Plur	9	_	_	start_char=1455|end_char=1459
+11	while	while	SCONJ	IN	_	10	_	_	start_char=1460|end_char=1465
+12	Death	death	PROPN	NNP	Number=Sing	11	_	_	start_char=1466|end_char=1471
+13	Valley	Valley	PROPN	NNP	Number=Sing	12	_	_	start_char=1472|end_char=1478|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=1478|end_char=1479
+15	California	California	PROPN	NNP	Number=Sing	14	_	_	start_char=1480|end_char=1490
+16	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=1491|end_char=1493
+17	also	also	ADV	RB	_	16	_	_	start_char=1494|end_char=1498
+18	expected	expect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	17	_	_	start_char=1499|end_char=1507
+19	to	to	PART	TO	_	18	_	_	start_char=1508|end_char=1510
+20	surpass	surpass	VERB	VB	VerbForm=Inf	19	_	_	start_char=1511|end_char=1518
+21	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	20	_	_	start_char=1519|end_char=1522
+22	all	all	DET	DT	_	21	_	_	start_char=1523|end_char=1526|SpaceAfter=No
+23	-	-	PUNCT	HYPH	_	22	_	_	start_char=1526|end_char=1527|SpaceAfter=No
+24	time	time	NOUN	NN	Number=Sing	23	_	_	start_char=1527|end_char=1531
+25	high	high	ADJ	JJ	Degree=Pos	24	_	_	start_char=1532|end_char=1536
+26	temperature	temperature	NOUN	NN	Number=Sing	25	_	_	start_char=1537|end_char=1548
+27	of	of	ADP	IN	_	26	_	_	start_char=1549|end_char=1551
+28	54°C	54°C	NUM	CD	NumForm=Digit|NumType=Card	27	_	_	start_char=1552|end_char=1556|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=1556|end_char=1557|SpacesAfter=\n\n
+
+# text = A warning was issued to the Las Vegas residents by the NWS.
+# sent_id = 12
+1	A	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=1559|end_char=1560
+2	warning	warning	NOUN	NN	Number=Sing	1	_	_	start_char=1561|end_char=1568
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1569|end_char=1572
+4	issued	issue	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=1573|end_char=1579
+5	to	to	ADP	IN	_	4	_	_	start_char=1580|end_char=1582
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1583|end_char=1586
+7	Las	Las	PROPN	NNP	Number=Sing	6	_	_	start_char=1587|end_char=1590
+8	Vegas	Vegas	PROPN	NNP	Number=Sing	7	_	_	start_char=1591|end_char=1596
+9	residents	resident	NOUN	NNS	Number=Plur	8	_	_	start_char=1597|end_char=1606
+10	by	by	ADP	IN	_	9	_	_	start_char=1607|end_char=1609
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=1610|end_char=1613
+12	NWS	NWS	PROPN	NNP	Number=Sing	11	_	_	start_char=1614|end_char=1617|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=1617|end_char=1618
+
+# text = "'It's the desert, of course its hot'-
+# sent_id = 13
+1	"	"	PUNCT	``	_	0	_	_	start_char=1619|end_char=1620|SpaceAfter=No
+2	'	'	PUNCT	``	_	1	_	_	start_char=1620|end_char=1621|SpaceAfter=No
+3-4	It's	_	_	_	_	_	_	_	start_char=1621|end_char=1625
+3	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	_	_	start_char=1621|end_char=1623
+4	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1623|end_char=1625
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1626|end_char=1629
+6	desert	desert	NOUN	NN	Number=Sing	5	_	_	start_char=1630|end_char=1636|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=1636|end_char=1637
+8	of	of	ADV	IN	_	7	_	_	start_char=1638|end_char=1640
+9	course	course	NOUN	NN	Number=Sing	8	_	_	start_char=1641|end_char=1647
+10	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	_	_	start_char=1648|end_char=1651
+11	hot	hot	ADJ	JJ	Degree=Pos	10	_	_	start_char=1652|end_char=1655|SpaceAfter=No
+12	'-	'-	PUNCT	''	_	11	_	_	start_char=1655|end_char=1657
+
+# text = This is a DANGEROUS mind set!
+# sent_id = 14
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1658|end_char=1662
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1663|end_char=1665
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=1666|end_char=1667
+4	DANGEROUS	dangerous	ADJ	JJ	Degree=Pos	3	_	_	start_char=1668|end_char=1677
+5	mind	mind	NOUN	NN	Number=Sing	4	_	_	start_char=1678|end_char=1682
+6	set	set	NOUN	NN	Number=Sing	5	_	_	start_char=1683|end_char=1686|SpaceAfter=No
+7	!	!	PUNCT	.	_	6	_	_	start_char=1686|end_char=1687
+
+# text = This heatwave is NOT typical desert heat due to its long duration, extreme daytime temperatures, & warm nights.
+# sent_id = 15
+1	This	this	DET	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1688|end_char=1692
+2	heatwave	heatwave	NOUN	NN	Number=Sing	1	_	_	start_char=1693|end_char=1701
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1702|end_char=1704
+4	NOT	not	PART	RB	_	3	_	_	start_char=1705|end_char=1708
+5	typical	typical	ADJ	JJ	Degree=Pos	4	_	_	start_char=1709|end_char=1716
+6	desert	desert	NOUN	NN	Number=Sing	5	_	_	start_char=1717|end_char=1723
+7	heat	heat	NOUN	NN	Number=Sing	6	_	_	start_char=1724|end_char=1728
+8	due	due	ADP	IN	_	7	_	_	start_char=1729|end_char=1732
+9	to	to	ADP	IN	_	8	_	_	start_char=1733|end_char=1735
+10	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	_	_	start_char=1736|end_char=1739
+11	long	long	ADJ	JJ	Degree=Pos	10	_	_	start_char=1740|end_char=1744
+12	duration	duration	NOUN	NN	Number=Sing	11	_	_	start_char=1745|end_char=1753|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=1753|end_char=1754
+14	extreme	extreme	ADJ	JJ	Degree=Pos	13	_	_	start_char=1755|end_char=1762
+15	daytime	daytime	NOUN	NN	Number=Sing	14	_	_	start_char=1763|end_char=1770
+16	temperatures	temperature	NOUN	NNS	Number=Plur	15	_	_	start_char=1771|end_char=1783|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=1783|end_char=1784
+18	&	&	CCONJ	CC	_	17	_	_	start_char=1785|end_char=1786
+19	warm	warm	ADJ	JJ	Degree=Pos	18	_	_	start_char=1787|end_char=1791
+20	nights	night	NOUN	NNS	Number=Plur	19	_	_	start_char=1792|end_char=1798|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=1798|end_char=1799
+
+# text = Everyone needs to tae this heat seriously, including those who live in the desert," it said.
+# sent_id = 16
+1	Everyone	everyone	PRON	NN	Number=Sing|PronType=Tot	0	_	_	start_char=1800|end_char=1808
+2	needs	need	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1809|end_char=1814
+3	to	to	PART	TO	_	2	_	_	start_char=1815|end_char=1817
+4	tae	tae	VERB	VB	VerbForm=Inf	3	_	_	start_char=1818|end_char=1821
+5	this	this	DET	DT	Number=Sing|PronType=Dem	4	_	_	start_char=1822|end_char=1826
+6	heat	heat	NOUN	NN	Number=Sing	5	_	_	start_char=1827|end_char=1831
+7	seriously	seriously	ADV	RB	_	6	_	_	start_char=1832|end_char=1841|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=1841|end_char=1842
+9	including	include	VERB	VBG	VerbForm=Ger	8	_	_	start_char=1843|end_char=1852
+10	those	that	PRON	DT	Number=Plur|PronType=Dem	9	_	_	start_char=1853|end_char=1858
+11	who	who	PRON	WP	PronType=Rel	10	_	_	start_char=1859|end_char=1862
+12	live	live	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=1863|end_char=1867
+13	in	in	ADP	IN	_	12	_	_	start_char=1868|end_char=1870
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=1871|end_char=1874
+15	desert	desert	NOUN	NN	Number=Sing	14	_	_	start_char=1875|end_char=1881|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=1881|end_char=1882|SpaceAfter=No
+17	"	"	PUNCT	''	_	16	_	_	start_char=1882|end_char=1883
+18	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	_	_	start_char=1884|end_char=1886
+19	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	_	_	start_char=1887|end_char=1891|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=1891|end_char=1892|SpacesAfter=\n\n
+
+# text = The extreme heat has also forced the closure or shortening of hours of pars, museums, zoos and businesses.
+# sent_id = 17
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1894|end_char=1897
+2	extreme	extreme	ADJ	JJ	Degree=Pos	1	_	_	start_char=1898|end_char=1905
+3	heat	heat	NOUN	NN	Number=Sing	2	_	_	start_char=1906|end_char=1910
+4	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1911|end_char=1914
+5	also	also	ADV	RB	_	4	_	_	start_char=1915|end_char=1919
+6	forced	force	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=1920|end_char=1926
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1927|end_char=1930
+8	closure	closure	NOUN	NN	Number=Sing	7	_	_	start_char=1931|end_char=1938
+9	or	or	CCONJ	CC	_	8	_	_	start_char=1939|end_char=1941
+10	shortening	shortening	NOUN	NN	Number=Sing	9	_	_	start_char=1942|end_char=1952
+11	of	of	ADP	IN	_	10	_	_	start_char=1953|end_char=1955
+12	hours	hour	NOUN	NNS	Number=Plur	11	_	_	start_char=1956|end_char=1961
+13	of	of	ADP	IN	_	12	_	_	start_char=1962|end_char=1964
+14	pars	par	NOUN	NNS	Number=Plur	13	_	_	start_char=1965|end_char=1969|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=1969|end_char=1970
+16	museums	museum	NOUN	NNS	Number=Plur	15	_	_	start_char=1971|end_char=1978|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=1978|end_char=1979
+18	zoos	zoo	NOUN	NNS	Number=Plur	17	_	_	start_char=1980|end_char=1984
+19	and	and	CCONJ	CC	_	18	_	_	start_char=1985|end_char=1988
+20	businesses	business	NOUN	NNS	Number=Plur	19	_	_	start_char=1989|end_char=1999|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=1999|end_char=2000|SpacesAfter=\n\n
+
+# text = Moreover, hospitals are also seeing cases related to heat.
+# sent_id = 18
+1	Moreover	moreover	ADV	RB	_	0	_	_	start_char=2002|end_char=2010|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=2010|end_char=2011
+3	hospitals	hospital	NOUN	NNS	Number=Plur	2	_	_	start_char=2012|end_char=2021
+4	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=2022|end_char=2025
+5	also	also	ADV	RB	_	4	_	_	start_char=2026|end_char=2030
+6	seeing	see	VERB	VBG	Tense=Pres|VerbForm=Part	5	_	_	start_char=2031|end_char=2037
+7	cases	case	NOUN	NNS	Number=Plur	6	_	_	start_char=2038|end_char=2043
+8	related	related	ADJ	JJ	Degree=Pos	7	_	_	start_char=2044|end_char=2051
+9	to	to	ADP	IN	_	8	_	_	start_char=2052|end_char=2054
+10	heat	heat	NOUN	NN	Number=Sing	9	_	_	start_char=2055|end_char=2059|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=2059|end_char=2060|SpacesAfter=\n\n
+
+# text = "We're getting a lot of heat-related illness now, a lot of dehydration, heat exhaustion," said Dr Ashan Morim, who wors at Dignity Health Siena Hospital, outside of Las Vegas.
+# sent_id = 19
+1	"	"	PUNCT	``	_	0	_	_	start_char=2062|end_char=2063|SpaceAfter=No
+2-3	We're	_	_	_	_	_	_	_	start_char=2063|end_char=2068
+2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	1	_	_	start_char=2063|end_char=2065
+3	're	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2065|end_char=2068
+4	getting	get	VERB	VBG	Tense=Pres|VerbForm=Part	3	_	_	start_char=2069|end_char=2076
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=2077|end_char=2078
+6	lot	lot	NOUN	NN	Number=Sing	5	_	_	start_char=2079|end_char=2082
+7	of	of	ADP	IN	_	6	_	_	start_char=2083|end_char=2085
+8	heat	heat	NOUN	NN	Number=Sing	7	_	_	start_char=2086|end_char=2090|SpaceAfter=No
+9	-	-	PUNCT	HYPH	_	8	_	_	start_char=2090|end_char=2091|SpaceAfter=No
+10	related	related	ADJ	JJ	Degree=Pos	9	_	_	start_char=2091|end_char=2098
+11	illness	illness	NOUN	NN	Number=Sing	10	_	_	start_char=2099|end_char=2106
+12	now	now	ADV	RB	_	11	_	_	start_char=2107|end_char=2110|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=2110|end_char=2111
+14	a	a	DET	DT	Definite=Ind|PronType=Art	13	_	_	start_char=2112|end_char=2113
+15	lot	lot	NOUN	NN	Number=Sing	14	_	_	start_char=2114|end_char=2117
+16	of	of	ADP	IN	_	15	_	_	start_char=2118|end_char=2120
+17	dehydration	dehydration	NOUN	NN	Number=Sing	16	_	_	start_char=2121|end_char=2132|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=2132|end_char=2133
+19	heat	heat	NOUN	NN	Number=Sing	18	_	_	start_char=2134|end_char=2138
+20	exhaustion	exhaustion	NOUN	NN	Number=Sing	19	_	_	start_char=2139|end_char=2149|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=2149|end_char=2150|SpaceAfter=No
+22	"	"	PUNCT	''	_	21	_	_	start_char=2150|end_char=2151
+23	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	_	_	start_char=2152|end_char=2156
+24	Dr	Dr	PROPN	NNP	Number=Sing	23	_	_	start_char=2157|end_char=2159
+25	Ashan	Ashan	PROPN	NNP	Number=Sing	24	_	_	start_char=2160|end_char=2165
+26	Morim	Morim	PROPN	NNP	Number=Sing	25	_	_	start_char=2166|end_char=2171|SpaceAfter=No
+27	,	,	PUNCT	,	_	26	_	_	start_char=2171|end_char=2172
+28	who	who	PRON	WP	PronType=Rel	27	_	_	start_char=2173|end_char=2176
+29	wors	wor	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	_	_	start_char=2177|end_char=2181
+30	at	at	ADP	IN	_	29	_	_	start_char=2182|end_char=2184
+31	Dignity	Dignity	PROPN	NNP	Number=Sing	30	_	_	start_char=2185|end_char=2192
+32	Health	Health	PROPN	NNP	Number=Sing	31	_	_	start_char=2193|end_char=2199
+33	Siena	Siena	PROPN	NNP	Number=Sing	32	_	_	start_char=2200|end_char=2205
+34	Hospital	Hospital	PROPN	NNP	Number=Sing	33	_	_	start_char=2206|end_char=2214|SpaceAfter=No
+35	,	,	PUNCT	,	_	34	_	_	start_char=2214|end_char=2215
+36	outside	outside	ADP	IN	_	35	_	_	start_char=2216|end_char=2223
+37	of	of	ADP	IN	_	36	_	_	start_char=2224|end_char=2226
+38	Las	Las	PROPN	NNP	Number=Sing	37	_	_	start_char=2227|end_char=2230
+39	Vegas	Vegas	PROPN	NNP	Number=Sing	38	_	_	start_char=2231|end_char=2236|SpaceAfter=No
+40	.	.	PUNCT	.	_	39	_	_	start_char=2236|end_char=2237|SpacesAfter=\n\n
+
+# text = Meanwhile, the heatwave has also grappled Europe which led to the closure of a major tourist attraction in Greece on Friday.
+# sent_id = 20
+1	Meanwhile	meanwhile	ADV	RB	_	0	_	_	start_char=2239|end_char=2248|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=2248|end_char=2249
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=2250|end_char=2253
+4	heatwave	heatwave	NOUN	NN	Number=Sing	3	_	_	start_char=2254|end_char=2262
+5	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=2263|end_char=2266
+6	also	also	ADV	RB	_	5	_	_	start_char=2267|end_char=2271
+7	grappled	grapple	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=2272|end_char=2280
+8	Europe	Europe	PROPN	NNP	Number=Sing	7	_	_	start_char=2281|end_char=2287
+9	which	which	PRON	WDT	PronType=Rel	8	_	_	start_char=2288|end_char=2293
+10	led	lead	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=2294|end_char=2297
+11	to	to	ADP	IN	_	10	_	_	start_char=2298|end_char=2300
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=2301|end_char=2304
+13	closure	closure	NOUN	NN	Number=Sing	12	_	_	start_char=2305|end_char=2312
+14	of	of	ADP	IN	_	13	_	_	start_char=2313|end_char=2315
+15	a	a	DET	DT	Definite=Ind|PronType=Art	14	_	_	start_char=2316|end_char=2317
+16	major	major	ADJ	JJ	Degree=Pos	15	_	_	start_char=2318|end_char=2323
+17	tourist	tourist	NOUN	NN	Number=Sing	16	_	_	start_char=2324|end_char=2331
+18	attraction	attraction	NOUN	NN	Number=Sing	17	_	_	start_char=2332|end_char=2342
+19	in	in	ADP	IN	_	18	_	_	start_char=2343|end_char=2345
+20	Greece	Greece	PROPN	NNP	Number=Sing	19	_	_	start_char=2346|end_char=2352
+21	on	on	ADP	IN	_	20	_	_	start_char=2353|end_char=2355
+22	Friday	Friday	PROPN	NNP	Number=Sing	21	_	_	start_char=2356|end_char=2362|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=2362|end_char=2363|SpacesAfter=\n\n
+
+# text = The high temperatures are a result of climate change and El Niño, say the scientists.
+# sent_id = 21
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2365|end_char=2368
+2	high	high	ADJ	JJ	Degree=Pos	1	_	_	start_char=2369|end_char=2373
+3	temperatures	temperature	NOUN	NNS	Number=Plur	2	_	_	start_char=2374|end_char=2386
+4	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=2387|end_char=2390
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=2391|end_char=2392
+6	result	result	NOUN	NN	Number=Sing	5	_	_	start_char=2393|end_char=2399
+7	of	of	ADP	IN	_	6	_	_	start_char=2400|end_char=2402
+8	climate	climate	NOUN	NN	Number=Sing	7	_	_	start_char=2403|end_char=2410
+9	change	change	NOUN	NN	Number=Sing	8	_	_	start_char=2411|end_char=2417
+10	and	and	CCONJ	CC	_	9	_	_	start_char=2418|end_char=2421
+11	El	El	PROPN	NNP	Number=Sing	10	_	_	start_char=2422|end_char=2424
+12	Niño	Niño	PROPN	NNP	Number=Sing	11	_	_	start_char=2425|end_char=2429|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=2429|end_char=2430
+14	say	say	VERB	VB	VerbForm=Fin	13	_	_	start_char=2431|end_char=2434
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=2435|end_char=2438
+16	scientists	scientist	NOUN	NNS	Number=Plur	15	_	_	start_char=2439|end_char=2449|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=2449|end_char=2450|SpaceAfter=No
+

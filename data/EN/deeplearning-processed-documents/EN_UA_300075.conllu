@@ -1,0 +1,631 @@
+# text = In Sign of Support, US Bombers Fly Over Dubrovni, Balans
+# sent_id = 0
+1	In	in	ADP	IN	_	0	_	_	start_char=0|end_char=2
+2	Sign	sign	NOUN	NN	Number=Sing	1	_	_	start_char=3|end_char=7
+3	of	of	ADP	IN	_	2	_	_	start_char=8|end_char=10
+4	Support	support	NOUN	NN	Number=Sing	3	_	_	start_char=11|end_char=18|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=18|end_char=19
+6	US	US	PROPN	NNP	Number=Sing	5	_	_	start_char=20|end_char=22
+7	Bombers	Bomber	PROPN	NNPS	Number=Plur	6	_	_	start_char=23|end_char=30
+8	Fly	fly	PROPN	NNP	Number=Sing	7	_	_	start_char=31|end_char=34
+9	Over	over	ADP	IN	_	8	_	_	start_char=35|end_char=39
+10	Dubrovni	Dubrovni	PROPN	NNP	Number=Sing	9	_	_	start_char=40|end_char=48|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=48|end_char=49
+12	Balans	Balans	PROPN	NNP	Number=Sing	11	_	_	start_char=50|end_char=56|SpacesAfter=\s\n\n\s
+
+# text = A pair of U.S. Air Force B52 strategic bombers on Monday flew low over the Croatian resort of Dubrovni and three other NATO-member states in the region as a sign of support amid the Russian aggression in Uraine.
+# sent_id = 1
+1	A	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=60|end_char=61
+2	pair	pair	NOUN	NN	Number=Sing	1	_	_	start_char=62|end_char=66
+3	of	of	ADP	IN	_	2	_	_	start_char=67|end_char=69
+4	U.S.	U.S.	PROPN	NNP	Number=Sing	3	_	_	start_char=70|end_char=74
+5	Air	Air	PROPN	NNP	Number=Sing	4	_	_	start_char=75|end_char=78
+6	Force	Force	PROPN	NNP	Number=Sing	5	_	_	start_char=79|end_char=84
+7	B52	B52	PROPN	NNP	Number=Sing	6	_	_	start_char=85|end_char=88
+8	strategic	strategic	ADJ	JJ	Degree=Pos	7	_	_	start_char=89|end_char=98
+9	bombers	bomber	NOUN	NNS	Number=Plur	8	_	_	start_char=99|end_char=106
+10	on	on	ADP	IN	_	9	_	_	start_char=107|end_char=109
+11	Monday	Monday	PROPN	NNP	Number=Sing	10	_	_	start_char=110|end_char=116
+12	flew	fly	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=117|end_char=121
+13	low	low	ADV	RB	Degree=Pos	12	_	_	start_char=122|end_char=125
+14	over	over	ADP	IN	_	13	_	_	start_char=126|end_char=130
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=131|end_char=134
+16	Croatian	Croatian	ADJ	JJ	Degree=Pos	15	_	_	start_char=135|end_char=143
+17	resort	resort	NOUN	NN	Number=Sing	16	_	_	start_char=144|end_char=150
+18	of	of	ADP	IN	_	17	_	_	start_char=151|end_char=153
+19	Dubrovni	Dubrovni	PROPN	NNP	Number=Sing	18	_	_	start_char=154|end_char=162
+20	and	and	CCONJ	CC	_	19	_	_	start_char=163|end_char=166
+21	three	three	NUM	CD	NumForm=Word|NumType=Card	20	_	_	start_char=167|end_char=172
+22	other	other	ADJ	JJ	Degree=Pos	21	_	_	start_char=173|end_char=178
+23	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	22	_	_	start_char=179|end_char=183|SpaceAfter=No
+24	-	-	PUNCT	HYPH	_	23	_	_	start_char=183|end_char=184|SpaceAfter=No
+25	member	member	NOUN	NN	Number=Sing	24	_	_	start_char=184|end_char=190
+26	states	state	NOUN	NNS	Number=Plur	25	_	_	start_char=191|end_char=197
+27	in	in	ADP	IN	_	26	_	_	start_char=198|end_char=200
+28	the	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=201|end_char=204
+29	region	region	NOUN	NN	Number=Sing	28	_	_	start_char=205|end_char=211
+30	as	as	ADP	IN	_	29	_	_	start_char=212|end_char=214
+31	a	a	DET	DT	Definite=Ind|PronType=Art	30	_	_	start_char=215|end_char=216
+32	sign	sign	NOUN	NN	Number=Sing	31	_	_	start_char=217|end_char=221
+33	of	of	ADP	IN	_	32	_	_	start_char=222|end_char=224
+34	support	support	NOUN	NN	Number=Sing	33	_	_	start_char=225|end_char=232
+35	amid	amid	ADP	IN	_	34	_	_	start_char=233|end_char=237
+36	the	the	DET	DT	Definite=Def|PronType=Art	35	_	_	start_char=238|end_char=241
+37	Russian	Russian	ADJ	JJ	Degree=Pos	36	_	_	start_char=242|end_char=249
+38	aggression	aggression	NOUN	NN	Number=Sing	37	_	_	start_char=250|end_char=260
+39	in	in	ADP	IN	_	38	_	_	start_char=261|end_char=263
+40	Uraine	Uraine	PROPN	NNP	Number=Sing	39	_	_	start_char=264|end_char=270|SpaceAfter=No
+41	.	.	PUNCT	.	_	40	_	_	start_char=270|end_char=271|SpacesAfter=\n\n
+
+# text = In addition to the walled Croatian tourist resort of Dubrovni, the aircraft flew over the government headquarters in Sopje, North Macedonia, the downtown Sanderbeg Square in the Albanian capital, Tirana, and up the Adriatic coast of Montenegro.
+# sent_id = 2
+1	In	in	ADP	IN	_	0	_	_	start_char=273|end_char=275
+2	addition	addition	NOUN	NN	Number=Sing	1	_	_	start_char=276|end_char=284
+3	to	to	ADP	IN	_	2	_	_	start_char=285|end_char=287
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=288|end_char=291
+5	walled	walled	ADJ	JJ	Degree=Pos	4	_	_	start_char=292|end_char=298
+6	Croatian	Croatian	ADJ	JJ	Degree=Pos	5	_	_	start_char=299|end_char=307
+7	tourist	tourist	NOUN	NN	Number=Sing	6	_	_	start_char=308|end_char=315
+8	resort	resort	NOUN	NN	Number=Sing	7	_	_	start_char=316|end_char=322
+9	of	of	ADP	IN	_	8	_	_	start_char=323|end_char=325
+10	Dubrovni	Dubrovni	PROPN	NNP	Number=Sing	9	_	_	start_char=326|end_char=334|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=334|end_char=335
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=336|end_char=339
+13	aircraft	aircraft	NOUN	NN	Number=Sing	12	_	_	start_char=340|end_char=348
+14	flew	fly	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	_	_	start_char=349|end_char=353
+15	over	over	ADP	IN	_	14	_	_	start_char=354|end_char=358
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=359|end_char=362
+17	government	government	NOUN	NN	Number=Sing	16	_	_	start_char=363|end_char=373
+18	headquarters	headquarters	NOUN	NNS	Number=Plur	17	_	_	start_char=374|end_char=386
+19	in	in	ADP	IN	_	18	_	_	start_char=387|end_char=389
+20	Sopje	Sopje	PROPN	NNP	Number=Sing	19	_	_	start_char=390|end_char=395|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=395|end_char=396
+22	North	North	PROPN	NNP	Number=Sing	21	_	_	start_char=397|end_char=402
+23	Macedonia	Macedonia	PROPN	NNP	Number=Sing	22	_	_	start_char=403|end_char=412|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=412|end_char=413
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=414|end_char=417
+26	downtown	downtown	NOUN	NN	Number=Sing	25	_	_	start_char=418|end_char=426
+27	Sanderbeg	Sanderbeg	PROPN	NNP	Number=Sing	26	_	_	start_char=427|end_char=436
+28	Square	Square	PROPN	NNP	Number=Sing	27	_	_	start_char=437|end_char=443
+29	in	in	ADP	IN	_	28	_	_	start_char=444|end_char=446
+30	the	the	DET	DT	Definite=Def|PronType=Art	29	_	_	start_char=447|end_char=450
+31	Albanian	Albanian	ADJ	JJ	Degree=Pos	30	_	_	start_char=451|end_char=459
+32	capital	capital	NOUN	NN	Number=Sing	31	_	_	start_char=460|end_char=467|SpaceAfter=No
+33	,	,	PUNCT	,	_	32	_	_	start_char=467|end_char=468
+34	Tirana	Tirana	PROPN	NNP	Number=Sing	33	_	_	start_char=469|end_char=475|SpaceAfter=No
+35	,	,	PUNCT	,	_	34	_	_	start_char=475|end_char=476
+36	and	and	CCONJ	CC	_	35	_	_	start_char=477|end_char=480
+37	up	up	ADP	IN	_	36	_	_	start_char=481|end_char=483
+38	the	the	DET	DT	Definite=Def|PronType=Art	37	_	_	start_char=484|end_char=487
+39	Adriatic	Adriatic	ADJ	JJ	Degree=Pos	38	_	_	start_char=488|end_char=496
+40	coast	coast	NOUN	NN	Number=Sing	39	_	_	start_char=497|end_char=502
+41	of	of	ADP	IN	_	40	_	_	start_char=503|end_char=505
+42	Montenegro	Montenegro	PROPN	NNP	Number=Sing	41	_	_	start_char=506|end_char=516|SpaceAfter=No
+43	.	.	PUNCT	.	_	42	_	_	start_char=516|end_char=517|SpacesAfter=\n\n
+
+# text = The Balans and the Adriatic Sea have lately seen increased military, intelligence and propaganda activity by Moscow, which considers the region of its strategic interest because of its access to the Mediterranean.
+# sent_id = 3
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=519|end_char=522
+2	Balans	Balans	PROPN	NNP	Number=Sing	1	_	_	start_char=523|end_char=529
+3	and	and	CCONJ	CC	_	2	_	_	start_char=530|end_char=533
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=534|end_char=537
+5	Adriatic	Adriatic	ADJ	NNP	Degree=Pos	4	_	_	start_char=538|end_char=546
+6	Sea	Sea	PROPN	NNP	Number=Sing	5	_	_	start_char=547|end_char=550
+7	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=551|end_char=555
+8	lately	lately	ADV	RB	_	7	_	_	start_char=556|end_char=562
+9	seen	see	VERB	VBN	Tense=Past|VerbForm=Part	8	_	_	start_char=563|end_char=567
+10	increased	increase	VERB	VBN	Tense=Past|VerbForm=Part	9	_	_	start_char=568|end_char=577
+11	military	military	ADJ	JJ	Degree=Pos	10	_	_	start_char=578|end_char=586|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=586|end_char=587
+13	intelligence	intelligence	NOUN	NN	Number=Sing	12	_	_	start_char=588|end_char=600
+14	and	and	CCONJ	CC	_	13	_	_	start_char=601|end_char=604
+15	propaganda	propaganda	NOUN	NN	Number=Sing	14	_	_	start_char=605|end_char=615
+16	activity	activity	NOUN	NN	Number=Sing	15	_	_	start_char=616|end_char=624
+17	by	by	ADP	IN	_	16	_	_	start_char=625|end_char=627
+18	Moscow	Moscow	PROPN	NNP	Number=Sing	17	_	_	start_char=628|end_char=634|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=634|end_char=635
+20	which	which	PRON	WDT	PronType=Rel	19	_	_	start_char=636|end_char=641
+21	considers	consider	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	_	_	start_char=642|end_char=651
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=652|end_char=655
+23	region	region	NOUN	NN	Number=Sing	22	_	_	start_char=656|end_char=662
+24	of	of	ADP	IN	_	23	_	_	start_char=663|end_char=665
+25	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	24	_	_	start_char=666|end_char=669
+26	strategic	strategic	ADJ	JJ	Degree=Pos	25	_	_	start_char=670|end_char=679
+27	interest	interest	NOUN	NN	Number=Sing	26	_	_	start_char=680|end_char=688
+28	because	because	ADP	IN	_	27	_	_	start_char=689|end_char=696
+29	of	of	ADP	IN	_	28	_	_	start_char=697|end_char=699
+30	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	29	_	_	start_char=700|end_char=703
+31	access	access	NOUN	NN	Number=Sing	30	_	_	start_char=704|end_char=710
+32	to	to	ADP	IN	_	31	_	_	start_char=711|end_char=713
+33	the	the	DET	DT	Definite=Def|PronType=Art	32	_	_	start_char=714|end_char=717
+34	Mediterranean	Mediterranean	PROPN	NNP	Number=Sing	33	_	_	start_char=718|end_char=731|SpaceAfter=No
+35	.	.	PUNCT	.	_	34	_	_	start_char=731|end_char=732|SpacesAfter=\n\n
+
+# text = “The purpose of each flyover is to demonstrate U.S. commitment and assurance to NATO allies and partners located in southeastern Europe,” the U.S. Air Force said in a statement.
+# sent_id = 4
+1	“	''	PUNCT	``	_	0	_	_	start_char=734|end_char=735|SpaceAfter=No
+2	The	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=735|end_char=738
+3	purpose	purpose	NOUN	NN	Number=Sing	2	_	_	start_char=739|end_char=746
+4	of	of	ADP	IN	_	3	_	_	start_char=747|end_char=749
+5	each	each	DET	DT	_	4	_	_	start_char=750|end_char=754
+6	flyover	flyover	NOUN	NN	Number=Sing	5	_	_	start_char=755|end_char=762
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=763|end_char=765
+8	to	to	PART	TO	_	7	_	_	start_char=766|end_char=768
+9	demonstrate	demonstrate	VERB	VB	VerbForm=Inf	8	_	_	start_char=769|end_char=780
+10	U.S.	U.S.	PROPN	NNP	Number=Sing	9	_	_	start_char=781|end_char=785
+11	commitment	commitment	NOUN	NN	Number=Sing	10	_	_	start_char=786|end_char=796
+12	and	and	CCONJ	CC	_	11	_	_	start_char=797|end_char=800
+13	assurance	assurance	NOUN	NN	Number=Sing	12	_	_	start_char=801|end_char=810
+14	to	to	ADP	IN	_	13	_	_	start_char=811|end_char=813
+15	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	14	_	_	start_char=814|end_char=818
+16	allies	ally	NOUN	NNS	Number=Plur	15	_	_	start_char=819|end_char=825
+17	and	and	CCONJ	CC	_	16	_	_	start_char=826|end_char=829
+18	partners	partner	NOUN	NNS	Number=Plur	17	_	_	start_char=830|end_char=838
+19	located	locate	VERB	VBN	Tense=Past|VerbForm=Part	18	_	_	start_char=839|end_char=846
+20	in	in	ADP	IN	_	19	_	_	start_char=847|end_char=849
+21	southeastern	southeastern	ADJ	JJ	Degree=Pos	20	_	_	start_char=850|end_char=862
+22	Europe	Europe	PROPN	NNP	Number=Sing	21	_	_	start_char=863|end_char=869|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=869|end_char=870|SpaceAfter=No
+24	”	''	PUNCT	''	_	23	_	_	start_char=870|end_char=871
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=872|end_char=875
+26	U.S.	U.S.	PROPN	NNP	Number=Sing	25	_	_	start_char=876|end_char=880
+27	Air	Air	PROPN	NNP	Number=Sing	26	_	_	start_char=881|end_char=884
+28	Force	Force	PROPN	NNP	Number=Sing	27	_	_	start_char=885|end_char=890
+29	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	_	_	start_char=891|end_char=895
+30	in	in	ADP	IN	_	29	_	_	start_char=896|end_char=898
+31	a	a	DET	DT	Definite=Ind|PronType=Art	30	_	_	start_char=899|end_char=900
+32	statement	statement	NOUN	NN	Number=Sing	31	_	_	start_char=901|end_char=910|SpaceAfter=No
+33	.	.	PUNCT	.	_	32	_	_	start_char=910|end_char=911
+
+# text = “Additionally, this will provide citizens an opportunity to tae photos, videos, and enjoy the aircraft flying overhead.”
+# sent_id = 5
+1	“	''	PUNCT	``	_	0	_	_	start_char=912|end_char=913|SpaceAfter=No
+2	Additionally	additionally	ADV	RB	_	1	_	_	start_char=913|end_char=925|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=925|end_char=926
+4	this	this	PRON	DT	Number=Sing|PronType=Dem	3	_	_	start_char=927|end_char=931
+5	will	will	AUX	MD	VerbForm=Fin	4	_	_	start_char=932|end_char=936
+6	provide	provide	VERB	VB	VerbForm=Inf	5	_	_	start_char=937|end_char=944
+7	citizens	citizen	NOUN	NNS	Number=Plur	6	_	_	start_char=945|end_char=953
+8	an	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=954|end_char=956
+9	opportunity	opportunity	NOUN	NN	Number=Sing	8	_	_	start_char=957|end_char=968
+10	to	to	PART	TO	_	9	_	_	start_char=969|end_char=971
+11	tae	tae	VERB	VB	VerbForm=Inf	10	_	_	start_char=972|end_char=975
+12	photos	photo	NOUN	NNS	Number=Plur	11	_	_	start_char=976|end_char=982|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=982|end_char=983
+14	videos	video	NOUN	NNS	Number=Plur	13	_	_	start_char=984|end_char=990|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=990|end_char=991
+16	and	and	CCONJ	CC	_	15	_	_	start_char=992|end_char=995
+17	enjoy	enjoy	VERB	VB	VerbForm=Inf	16	_	_	start_char=996|end_char=1001
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=1002|end_char=1005
+19	aircraft	aircraft	NOUN	NN	Number=Sing	18	_	_	start_char=1006|end_char=1014
+20	flying	fly	VERB	VBG	VerbForm=Ger	19	_	_	start_char=1015|end_char=1021
+21	overhead	overhead	ADV	RB	_	20	_	_	start_char=1022|end_char=1030|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=1030|end_char=1031|SpaceAfter=No
+23	”	''	PUNCT	''	_	22	_	_	start_char=1031|end_char=1032|SpacesAfter=\n\n
+
+# text = Crowds gathered on the squares in Sopje and Tirana, and tourists watched in Dubrovni and Montenegro as the giant bombers thundered overhead.
+# sent_id = 6
+1	Crowds	crowd	NOUN	NNS	Number=Plur	0	_	_	start_char=1034|end_char=1040
+2	gathered	gather	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1041|end_char=1049
+3	on	on	ADP	IN	_	2	_	_	start_char=1050|end_char=1052
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1053|end_char=1056
+5	squares	square	NOUN	NNS	Number=Plur	4	_	_	start_char=1057|end_char=1064
+6	in	in	ADP	IN	_	5	_	_	start_char=1065|end_char=1067
+7	Sopje	Sopje	PROPN	NNP	Number=Sing	6	_	_	start_char=1068|end_char=1073
+8	and	and	CCONJ	CC	_	7	_	_	start_char=1074|end_char=1077
+9	Tirana	Tirana	PROPN	NNP	Number=Sing	8	_	_	start_char=1078|end_char=1084|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=1084|end_char=1085
+11	and	and	CCONJ	CC	_	10	_	_	start_char=1086|end_char=1089
+12	tourists	tourist	NOUN	NNS	Number=Plur	11	_	_	start_char=1090|end_char=1098
+13	watched	watch	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=1099|end_char=1106
+14	in	in	ADP	IN	_	13	_	_	start_char=1107|end_char=1109
+15	Dubrovni	Dubrovni	PROPN	NNP	Number=Sing	14	_	_	start_char=1110|end_char=1118
+16	and	and	CCONJ	CC	_	15	_	_	start_char=1119|end_char=1122
+17	Montenegro	Montenegro	PROPN	NNP	Number=Sing	16	_	_	start_char=1123|end_char=1133
+18	as	as	SCONJ	IN	_	17	_	_	start_char=1134|end_char=1136
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=1137|end_char=1140
+20	giant	giant	ADJ	JJ	Degree=Pos	19	_	_	start_char=1141|end_char=1146
+21	bombers	bomber	NOUN	NNS	Number=Plur	20	_	_	start_char=1147|end_char=1154
+22	thundered	thunder	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	21	_	_	start_char=1155|end_char=1164
+23	overhead	overhead	ADV	RB	_	22	_	_	start_char=1165|end_char=1173|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=1173|end_char=1174
+
+# text = Some onlooers waved American flags.
+# sent_id = 7
+1	Some	some	DET	DT	_	0	_	_	start_char=1175|end_char=1179
+2	onlooers	onlooer	NOUN	NNS	Number=Plur	1	_	_	start_char=1180|end_char=1188
+3	waved	wave	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1189|end_char=1194
+4	American	American	ADJ	JJ	Degree=Pos	3	_	_	start_char=1195|end_char=1203
+5	flags	flag	NOUN	NNS	Number=Plur	4	_	_	start_char=1204|end_char=1209|SpaceAfter=No
+6	.	.	PUNCT	.	_	5	_	_	start_char=1209|end_char=1210|SpacesAfter=\n\n
+
+# text = North Macedonia was the last nation to join NATO in 2020 and Montenegro did it in 2017, both despite strong opposition from Russia.
+# sent_id = 8
+1	North	North	PROPN	NNP	Number=Sing	0	_	_	start_char=1212|end_char=1217
+2	Macedonia	Macedonia	PROPN	NNP	Number=Sing	1	_	_	start_char=1218|end_char=1227
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1228|end_char=1231
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1232|end_char=1235
+5	last	last	ADJ	JJ	Degree=Pos	4	_	_	start_char=1236|end_char=1240
+6	nation	nation	NOUN	NN	Number=Sing	5	_	_	start_char=1241|end_char=1247
+7	to	to	PART	TO	_	6	_	_	start_char=1248|end_char=1250
+8	join	join	VERB	VB	VerbForm=Inf	7	_	_	start_char=1251|end_char=1255
+9	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	8	_	_	start_char=1256|end_char=1260
+10	in	in	ADP	IN	_	9	_	_	start_char=1261|end_char=1263
+11	2020	2020	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=1264|end_char=1268
+12	and	and	CCONJ	CC	_	11	_	_	start_char=1269|end_char=1272
+13	Montenegro	Montenegro	PROPN	NNP	Number=Sing	12	_	_	start_char=1273|end_char=1283
+14	did	do	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	_	_	start_char=1284|end_char=1287
+15	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	_	_	start_char=1288|end_char=1290
+16	in	in	ADP	IN	_	15	_	_	start_char=1291|end_char=1293
+17	2017	2017	NUM	CD	NumForm=Digit|NumType=Card	16	_	_	start_char=1294|end_char=1298|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=1298|end_char=1299
+19	both	both	CCONJ	CC	_	18	_	_	start_char=1300|end_char=1304
+20	despite	despite	ADP	IN	_	19	_	_	start_char=1305|end_char=1312
+21	strong	strong	ADJ	JJ	Degree=Pos	20	_	_	start_char=1313|end_char=1319
+22	opposition	opposition	NOUN	NN	Number=Sing	21	_	_	start_char=1320|end_char=1330
+23	from	from	ADP	IN	_	22	_	_	start_char=1331|end_char=1335
+24	Russia	Russia	PROPN	NNP	Number=Sing	23	_	_	start_char=1336|end_char=1342|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=1342|end_char=1343|SpacesAfter=\n\n
+
+# text = North Macedonia’s Army Chief of Stuff, Lt. Colonel Jovan Azmanovsi, told TV broadcaster anal 5 that the bombers’ flights were symbolic proof that “our sies are safe.”
+# sent_id = 9
+1	North	North	PROPN	NNP	Number=Sing	0	_	_	start_char=1345|end_char=1350
+2-3	Macedonia’s	_	_	_	_	_	_	_	start_char=1351|end_char=1362
+2	Macedonia	Macedonia	PROPN	NNP	Number=Sing	1	_	_	start_char=1351|end_char=1360
+3	’s	's	PART	POS	_	2	_	_	start_char=1360|end_char=1362
+4	Army	Army	PROPN	NNP	Number=Sing	3	_	_	start_char=1363|end_char=1367
+5	Chief	Chief	PROPN	NNP	Number=Sing	4	_	_	start_char=1368|end_char=1373
+6	of	of	ADP	IN	_	5	_	_	start_char=1374|end_char=1376
+7	Stuff	stuff	PROPN	NNP	Number=Sing	6	_	_	start_char=1377|end_char=1382|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=1382|end_char=1383
+9	Lt.	Lt.	PROPN	NNP	Number=Sing	8	_	_	start_char=1384|end_char=1387
+10	Colonel	Colonel	PROPN	NNP	Number=Sing	9	_	_	start_char=1388|end_char=1395
+11	Jovan	Jovan	PROPN	NNP	Number=Sing	10	_	_	start_char=1396|end_char=1401
+12	Azmanovsi	Azmanovsi	PROPN	NNP	Number=Sing	11	_	_	start_char=1402|end_char=1411|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=1411|end_char=1412
+14	told	tell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	_	_	start_char=1413|end_char=1417
+15	TV	TV	NOUN	NN	Number=Sing	14	_	_	start_char=1418|end_char=1420
+16	broadcaster	broadcaster	NOUN	NN	Number=Sing	15	_	_	start_char=1421|end_char=1432
+17	anal	anal	NOUN	NN	Number=Sing	16	_	_	start_char=1433|end_char=1437
+18	5	5	NUM	CD	NumForm=Digit|NumType=Card	17	_	_	start_char=1438|end_char=1439
+19	that	that	SCONJ	IN	_	18	_	_	start_char=1440|end_char=1444
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=1445|end_char=1448
+21-22	bombers’	_	_	_	_	_	_	_	start_char=1449|end_char=1457
+21	bombers	bomber	NOUN	NNS	Number=Plur	20	_	_	start_char=1449|end_char=1456
+22	’	's	PART	POS	_	21	_	_	start_char=1456|end_char=1457
+23	flights	flight	NOUN	NNS	Number=Plur	22	_	_	start_char=1458|end_char=1465
+24	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	23	_	_	start_char=1466|end_char=1470
+25	symbolic	symbolic	ADJ	JJ	Degree=Pos	24	_	_	start_char=1471|end_char=1479
+26	proof	proof	NOUN	NN	Number=Sing	25	_	_	start_char=1480|end_char=1485
+27	that	that	SCONJ	IN	_	26	_	_	start_char=1486|end_char=1490
+28	“	''	PUNCT	``	_	27	_	_	start_char=1491|end_char=1492|SpaceAfter=No
+29	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	28	_	_	start_char=1492|end_char=1495
+30	sies	sies	NOUN	NNS	Number=Plur	29	_	_	start_char=1496|end_char=1500
+31	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	30	_	_	start_char=1501|end_char=1504
+32	safe	safe	ADJ	JJ	Degree=Pos	31	_	_	start_char=1505|end_char=1509|SpaceAfter=No
+33	.	.	PUNCT	.	_	32	_	_	start_char=1509|end_char=1510|SpaceAfter=No
+34	”	''	PUNCT	''	_	33	_	_	start_char=1510|end_char=1511|SpacesAfter=\n\n
+
+# text = “People in North Macedonia were able to see a flights of USAF B52 two strategic bombers over Sopje, which demonstrate our NATO membership and the safety and security of our and sies of entire alliance.
+# sent_id = 10
+1	“	''	PUNCT	``	_	0	_	_	start_char=1513|end_char=1514|SpaceAfter=No
+2	People	person	NOUN	NNS	Number=Plur	1	_	_	start_char=1514|end_char=1520
+3	in	in	ADP	IN	_	2	_	_	start_char=1521|end_char=1523
+4	North	North	PROPN	NNP	Number=Sing	3	_	_	start_char=1524|end_char=1529
+5	Macedonia	Macedonia	PROPN	NNP	Number=Sing	4	_	_	start_char=1530|end_char=1539
+6	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=1540|end_char=1544
+7	able	able	ADJ	JJ	Degree=Pos	6	_	_	start_char=1545|end_char=1549
+8	to	to	PART	TO	_	7	_	_	start_char=1550|end_char=1552
+9	see	see	VERB	VB	VerbForm=Inf	8	_	_	start_char=1553|end_char=1556
+10	a	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=1557|end_char=1558
+11	flights	flight	NOUN	NNS	Number=Plur	10	_	_	start_char=1559|end_char=1566
+12	of	of	ADP	IN	_	11	_	_	start_char=1567|end_char=1569
+13	USAF	USAF	PROPN	NNP	Number=Sing	12	_	_	start_char=1570|end_char=1574
+14	B52	b52	NOUN	NN	Number=Sing	13	_	_	start_char=1575|end_char=1578
+15	two	two	NUM	CD	NumForm=Word|NumType=Card	14	_	_	start_char=1579|end_char=1582
+16	strategic	strategic	ADJ	JJ	Degree=Pos	15	_	_	start_char=1583|end_char=1592
+17	bombers	bomber	NOUN	NNS	Number=Plur	16	_	_	start_char=1593|end_char=1600
+18	over	over	ADP	IN	_	17	_	_	start_char=1601|end_char=1605
+19	Sopje	Sopje	PROPN	NNP	Number=Sing	18	_	_	start_char=1606|end_char=1611|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=1611|end_char=1612
+21	which	which	PRON	WDT	PronType=Rel	20	_	_	start_char=1613|end_char=1618
+22	demonstrate	demonstrate	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	_	_	start_char=1619|end_char=1630
+23	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	22	_	_	start_char=1631|end_char=1634
+24	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	23	_	_	start_char=1635|end_char=1639
+25	membership	membership	NOUN	NN	Number=Sing	24	_	_	start_char=1640|end_char=1650
+26	and	and	CCONJ	CC	_	25	_	_	start_char=1651|end_char=1654
+27	the	the	DET	DT	Definite=Def|PronType=Art	26	_	_	start_char=1655|end_char=1658
+28	safety	safety	NOUN	NN	Number=Sing	27	_	_	start_char=1659|end_char=1665
+29	and	and	CCONJ	CC	_	28	_	_	start_char=1666|end_char=1669
+30	security	security	NOUN	NN	Number=Sing	29	_	_	start_char=1670|end_char=1678
+31	of	of	ADP	IN	_	30	_	_	start_char=1679|end_char=1681
+32	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	31	_	_	start_char=1682|end_char=1685
+33	and	and	CCONJ	CC	_	32	_	_	start_char=1686|end_char=1689
+34	sies	sies	NOUN	NNS	Number=Plur	33	_	_	start_char=1690|end_char=1694
+35	of	of	ADP	IN	_	34	_	_	start_char=1695|end_char=1697
+36	entire	entire	ADJ	JJ	Degree=Pos	35	_	_	start_char=1698|end_char=1704
+37	alliance	alliance	NOUN	NN	Number=Sing	36	_	_	start_char=1705|end_char=1713|SpaceAfter=No
+38	.	.	PUNCT	.	_	37	_	_	start_char=1713|end_char=1714
+
+# text = Our sies are safe and our (NATO) membership is more than visible,” Azmanovsi said.
+# sent_id = 11
+1	Our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	0	_	_	start_char=1715|end_char=1718
+2	sies	sies	NOUN	NNS	Number=Plur	1	_	_	start_char=1719|end_char=1723
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1724|end_char=1727
+4	safe	safe	ADJ	JJ	Degree=Pos	3	_	_	start_char=1728|end_char=1732
+5	and	and	CCONJ	CC	_	4	_	_	start_char=1733|end_char=1736
+6	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	5	_	_	start_char=1737|end_char=1740
+7	(	(	PUNCT	-LRB-	_	6	_	_	start_char=1741|end_char=1742|SpaceAfter=No
+8	NATO	NATO	PROPN	NNP	Number=Sing	7	_	_	start_char=1742|end_char=1746|SpaceAfter=No
+9	)	)	PUNCT	-RRB-	_	8	_	_	start_char=1746|end_char=1747
+10	membership	membership	NOUN	NN	Number=Sing	9	_	_	start_char=1748|end_char=1758
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=1759|end_char=1761
+12	more	more	ADJ	JJR	Degree=Cmp	11	_	_	start_char=1762|end_char=1766
+13	than	than	ADP	IN	_	12	_	_	start_char=1767|end_char=1771
+14	visible	visible	ADJ	JJ	Degree=Pos	13	_	_	start_char=1772|end_char=1779|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=1779|end_char=1780|SpaceAfter=No
+16	”	''	PUNCT	''	_	15	_	_	start_char=1780|end_char=1781
+17	Azmanovsi	Azmanovsi	PROPN	NNP	Number=Sing	16	_	_	start_char=1782|end_char=1791
+18	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	_	_	start_char=1792|end_char=1796|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=1796|end_char=1797|SpacesAfter=\n\n
+
+# text = In Tirana, Albanian Army Chief of Staff Arben ingji said “we are witnessing a strategic military demonstration."
+# sent_id = 12
+1	In	in	ADP	IN	_	0	_	_	start_char=1799|end_char=1801
+2	Tirana	Tirana	PROPN	NNP	Number=Sing	1	_	_	start_char=1802|end_char=1808|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=1808|end_char=1809
+4	Albanian	Albanian	ADJ	NNP	Degree=Pos	3	_	_	start_char=1810|end_char=1818
+5	Army	Army	PROPN	NNP	Number=Sing	4	_	_	start_char=1819|end_char=1823
+6	Chief	Chief	PROPN	NNP	Number=Sing	5	_	_	start_char=1824|end_char=1829
+7	of	of	ADP	IN	_	6	_	_	start_char=1830|end_char=1832
+8	Staff	Staff	PROPN	NNP	Number=Sing	7	_	_	start_char=1833|end_char=1838
+9	Arben	Arben	PROPN	NNP	Number=Sing	8	_	_	start_char=1839|end_char=1844
+10	ingji	ingji	PROPN	NNP	Number=Sing	9	_	_	start_char=1845|end_char=1850
+11	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=1851|end_char=1855
+12	“	''	PUNCT	``	_	11	_	_	start_char=1856|end_char=1857|SpaceAfter=No
+13	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	12	_	_	start_char=1857|end_char=1859
+14	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	13	_	_	start_char=1860|end_char=1863
+15	witnessing	witness	VERB	VBG	Tense=Pres|VerbForm=Part	14	_	_	start_char=1864|end_char=1874
+16	a	a	DET	DT	Definite=Ind|PronType=Art	15	_	_	start_char=1875|end_char=1876
+17	strategic	strategic	ADJ	JJ	Degree=Pos	16	_	_	start_char=1877|end_char=1886
+18	military	military	ADJ	JJ	Degree=Pos	17	_	_	start_char=1887|end_char=1895
+19	demonstration	demonstration	NOUN	NN	Number=Sing	18	_	_	start_char=1896|end_char=1909|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=1909|end_char=1910|SpaceAfter=No
+21	"	"	PUNCT	''	_	20	_	_	start_char=1910|end_char=1911|SpacesAfter=\n\n
+
+# text = “Our strategic partners are hand to hand with us, it’s a message of unity," he said at the square where people gathered.
+# sent_id = 13
+1	“	''	PUNCT	``	_	0	_	_	start_char=1913|end_char=1914|SpaceAfter=No
+2	Our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	1	_	_	start_char=1914|end_char=1917
+3	strategic	strategic	ADJ	JJ	Degree=Pos	2	_	_	start_char=1918|end_char=1927
+4	partners	partner	NOUN	NNS	Number=Plur	3	_	_	start_char=1928|end_char=1936
+5	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1937|end_char=1940
+6	hand	hand	NOUN	NN	Number=Sing	5	_	_	start_char=1941|end_char=1945
+7	to	to	PART	TO	_	6	_	_	start_char=1946|end_char=1948
+8	hand	hand	VERB	VB	VerbForm=Inf	7	_	_	start_char=1949|end_char=1953
+9	with	with	ADP	IN	_	8	_	_	start_char=1954|end_char=1958
+10	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	9	_	_	start_char=1959|end_char=1961|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=1961|end_char=1962
+12-13	it’s	_	_	_	_	_	_	_	start_char=1963|end_char=1967
+12	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	_	_	start_char=1963|end_char=1965
+13	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=1965|end_char=1967
+14	a	a	DET	DT	Definite=Ind|PronType=Art	13	_	_	start_char=1968|end_char=1969
+15	message	message	NOUN	NN	Number=Sing	14	_	_	start_char=1970|end_char=1977
+16	of	of	ADP	IN	_	15	_	_	start_char=1978|end_char=1980
+17	unity	unity	NOUN	NN	Number=Sing	16	_	_	start_char=1981|end_char=1986|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=1986|end_char=1987|SpaceAfter=No
+19	"	"	PUNCT	''	_	18	_	_	start_char=1987|end_char=1988
+20	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	_	_	start_char=1989|end_char=1991
+21	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	_	_	start_char=1992|end_char=1996
+22	at	at	ADP	IN	_	21	_	_	start_char=1997|end_char=1999
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=2000|end_char=2003
+24	square	square	NOUN	NN	Number=Sing	23	_	_	start_char=2004|end_char=2010
+25	where	where	ADV	WRB	PronType=Rel	24	_	_	start_char=2011|end_char=2016
+26	people	person	NOUN	NNS	Number=Plur	25	_	_	start_char=2017|end_char=2023
+27	gathered	gather	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	26	_	_	start_char=2024|end_char=2032|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=2032|end_char=2033|SpacesAfter=\n\n
+
+# text = The two B-52 Stratofortress aircraft are assigned to the 23rd Bomb Squadron currently operating out of RAF Fairford, United ingdom.
+# sent_id = 14
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2035|end_char=2038
+2	two	two	NUM	CD	NumForm=Word|NumType=Card	1	_	_	start_char=2039|end_char=2042
+3	B	B	NOUN	NN	Number=Sing	2	_	_	start_char=2043|end_char=2044|SpaceAfter=No
+4	-	-	PUNCT	HYPH	_	3	_	_	start_char=2044|end_char=2045|SpaceAfter=No
+5	52	52	NUM	CD	NumForm=Digit|NumType=Card	4	_	_	start_char=2045|end_char=2047
+6	Stratofortress	Stratofortress	PROPN	NNP	Number=Sing	5	_	_	start_char=2048|end_char=2062
+7	aircraft	aircraft	NOUN	NN	Number=Sing	6	_	_	start_char=2063|end_char=2071
+8	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=2072|end_char=2075
+9	assigned	assign	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	_	_	start_char=2076|end_char=2084
+10	to	to	ADP	IN	_	9	_	_	start_char=2085|end_char=2087
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=2088|end_char=2091
+12	23rd	23rd	ADJ	JJ	Degree=Pos|NumType=Ord	11	_	_	start_char=2092|end_char=2096
+13	Bomb	Bomb	PROPN	NNP	Number=Sing	12	_	_	start_char=2097|end_char=2101
+14	Squadron	Squadron	PROPN	NNP	Number=Sing	13	_	_	start_char=2102|end_char=2110
+15	currently	currently	ADV	RB	_	14	_	_	start_char=2111|end_char=2120
+16	operating	operate	VERB	VBG	VerbForm=Ger	15	_	_	start_char=2121|end_char=2130
+17	out	out	ADP	IN	_	16	_	_	start_char=2131|end_char=2134
+18	of	of	ADP	IN	_	17	_	_	start_char=2135|end_char=2137
+19	RAF	RAF	PROPN	NNP	Number=Sing	18	_	_	start_char=2138|end_char=2141
+20	Fairford	Fairford	PROPN	NNP	Number=Sing	19	_	_	start_char=2142|end_char=2150|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=2150|end_char=2151
+22	United	United	ADJ	NNP	Degree=Pos	21	_	_	start_char=2152|end_char=2158
+23	ingdom	Ingdom	PROPN	NNP	Number=Sing	22	_	_	start_char=2159|end_char=2165|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=2165|end_char=2166|SpacesAfter=\n\n
+
+# text = Since 2018, the U.S. has conducted more than 200 Bomber Tas Force sorties with allies and partners.
+# sent_id = 15
+1	Since	since	ADP	IN	_	0	_	_	start_char=2168|end_char=2173
+2	2018	2018	NUM	CD	NumForm=Digit|NumType=Card	1	_	_	start_char=2174|end_char=2178|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=2178|end_char=2179
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=2180|end_char=2183
+5	U.S.	U.S.	PROPN	NNP	Number=Sing	4	_	_	start_char=2184|end_char=2188
+6	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=2189|end_char=2192
+7	conducted	conduct	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=2193|end_char=2202
+8	more	more	ADJ	JJR	Degree=Cmp	7	_	_	start_char=2203|end_char=2207
+9	than	than	ADP	IN	_	8	_	_	start_char=2208|end_char=2212
+10	200	200	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=2213|end_char=2216
+11	Bomber	Bomber	PROPN	NNP	Number=Sing	10	_	_	start_char=2217|end_char=2223
+12	Tas	Tas	PROPN	NNP	Number=Sing	11	_	_	start_char=2224|end_char=2227
+13	Force	Force	PROPN	NNP	Number=Sing	12	_	_	start_char=2228|end_char=2233
+14	sorties	sorties	NOUN	NNS	Number=Plur	13	_	_	start_char=2234|end_char=2241
+15	with	with	ADP	IN	_	14	_	_	start_char=2242|end_char=2246
+16	allies	ally	NOUN	NNS	Number=Plur	15	_	_	start_char=2247|end_char=2253
+17	and	and	CCONJ	CC	_	16	_	_	start_char=2254|end_char=2257
+18	partners	partner	NOUN	NNS	Number=Plur	17	_	_	start_char=2258|end_char=2266|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=2266|end_char=2267|SpacesAfter=\n\n
+
+# text = Most recently, this involved B-1B Lancer flights over the Nordic, Baltic, and Blac Sea regions in May, as well as an air policing overflight of North Macedonia in June.
+# sent_id = 16
+1	Most	most	ADV	RBS	Degree=Sup	0	_	_	start_char=2269|end_char=2273
+2	recently	recently	ADV	RB	_	1	_	_	start_char=2274|end_char=2282|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=2282|end_char=2283
+4	this	this	PRON	DT	Number=Sing|PronType=Dem	3	_	_	start_char=2284|end_char=2288
+5	involved	involve	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=2289|end_char=2297
+6	B	B	PROPN	NNP	Number=Sing	5	_	_	start_char=2298|end_char=2299|SpaceAfter=No
+7	-	-	PUNCT	HYPH	_	6	_	_	start_char=2299|end_char=2300|SpaceAfter=No
+8	1B	1B	PROPN	NNP	Number=Sing	7	_	_	start_char=2300|end_char=2302
+9	Lancer	Lancer	PROPN	NNP	Number=Sing	8	_	_	start_char=2303|end_char=2309
+10	flights	flight	NOUN	NNS	Number=Plur	9	_	_	start_char=2310|end_char=2317
+11	over	over	ADP	IN	_	10	_	_	start_char=2318|end_char=2322
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=2323|end_char=2326
+13	Nordic	Nordic	PROPN	NNP	Number=Sing	12	_	_	start_char=2327|end_char=2333|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=2333|end_char=2334
+15	Baltic	Baltic	PROPN	NNP	Number=Sing	14	_	_	start_char=2335|end_char=2341|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=2341|end_char=2342
+17	and	and	CCONJ	CC	_	16	_	_	start_char=2343|end_char=2346
+18	Blac	Blac	PROPN	NNP	Number=Sing	17	_	_	start_char=2347|end_char=2351
+19	Sea	Sea	PROPN	NNP	Number=Sing	18	_	_	start_char=2352|end_char=2355
+20	regions	region	NOUN	NNS	Number=Plur	19	_	_	start_char=2356|end_char=2363
+21	in	in	ADP	IN	_	20	_	_	start_char=2364|end_char=2366
+22	May	May	PROPN	NNP	Number=Sing	21	_	_	start_char=2367|end_char=2370|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=2370|end_char=2371
+24	as	as	ADV	RB	_	23	_	_	start_char=2372|end_char=2374
+25	well	well	ADV	RB	Degree=Pos	24	_	_	start_char=2375|end_char=2379
+26	as	as	ADP	IN	_	25	_	_	start_char=2380|end_char=2382
+27	an	a	DET	DT	Definite=Ind|PronType=Art	26	_	_	start_char=2383|end_char=2385
+28	air	air	NOUN	NN	Number=Sing	27	_	_	start_char=2386|end_char=2389
+29	policing	policing	NOUN	NN	Number=Sing	28	_	_	start_char=2390|end_char=2398
+30	overflight	overflight	NOUN	NN	Number=Sing	29	_	_	start_char=2399|end_char=2409
+31	of	of	ADP	IN	_	30	_	_	start_char=2410|end_char=2412
+32	North	North	PROPN	NNP	Number=Sing	31	_	_	start_char=2413|end_char=2418
+33	Macedonia	Macedonia	PROPN	NNP	Number=Sing	32	_	_	start_char=2419|end_char=2428
+34	in	in	ADP	IN	_	33	_	_	start_char=2429|end_char=2431
+35	June	June	PROPN	NNP	Number=Sing	34	_	_	start_char=2432|end_char=2436|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=2436|end_char=2437
+
+# text = In June, Stratofortresses conducted flights over the Arctic Ocean, and later too part in BALTOPS, the largest annual exercise in the Baltic Sea.
+# sent_id = 17
+1	In	in	ADP	IN	_	0	_	_	start_char=2438|end_char=2440
+2	June	June	PROPN	NNP	Number=Sing	1	_	_	start_char=2441|end_char=2445|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=2445|end_char=2446
+4	Stratofortresses	Stratofortresses	PROPN	NNP	Number=Sing	3	_	_	start_char=2447|end_char=2463
+5	conducted	conduct	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=2464|end_char=2473
+6	flights	flight	NOUN	NNS	Number=Plur	5	_	_	start_char=2474|end_char=2481
+7	over	over	ADP	IN	_	6	_	_	start_char=2482|end_char=2486
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=2487|end_char=2490
+9	Arctic	Arctic	ADJ	NNP	Degree=Pos	8	_	_	start_char=2491|end_char=2497
+10	Ocean	Ocean	PROPN	NNP	Number=Sing	9	_	_	start_char=2498|end_char=2503|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=2503|end_char=2504
+12	and	and	CCONJ	CC	_	11	_	_	start_char=2505|end_char=2508
+13	later	late	ADV	RBR	Degree=Cmp	12	_	_	start_char=2509|end_char=2514
+14	too	too	ADV	RB	_	13	_	_	start_char=2515|end_char=2518
+15	part	part	NOUN	NN	Number=Sing	14	_	_	start_char=2519|end_char=2523
+16	in	in	ADP	IN	_	15	_	_	start_char=2524|end_char=2526
+17	BALTOPS	Baltop	PROPN	NNP	Number=Sing	16	_	_	start_char=2527|end_char=2534|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=2534|end_char=2535
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=2536|end_char=2539
+20	largest	large	ADJ	JJS	Degree=Sup	19	_	_	start_char=2540|end_char=2547
+21	annual	annual	ADJ	JJ	Degree=Pos	20	_	_	start_char=2548|end_char=2554
+22	exercise	exercise	NOUN	NN	Number=Sing	21	_	_	start_char=2555|end_char=2563
+23	in	in	ADP	IN	_	22	_	_	start_char=2564|end_char=2566
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=2567|end_char=2570
+25	Baltic	Baltic	ADJ	NNP	Degree=Pos	24	_	_	start_char=2571|end_char=2577
+26	Sea	Sea	PROPN	NNP	Number=Sing	25	_	_	start_char=2578|end_char=2581|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=2581|end_char=2582|SpacesAfter=\n\n
+
+# text = In the Baltic Sea, the amphibious warship USS earsarge -- the largest warship ever to visit Lithuania — was officially welcomed Monday.
+# sent_id = 18
+1	In	in	ADP	IN	_	0	_	_	start_char=2584|end_char=2586
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=2587|end_char=2590
+3	Baltic	Baltic	ADJ	NNP	Degree=Pos	2	_	_	start_char=2591|end_char=2597
+4	Sea	Sea	PROPN	NNP	Number=Sing	3	_	_	start_char=2598|end_char=2601|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=2601|end_char=2602
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=2603|end_char=2606
+7	amphibious	amphibious	ADJ	JJ	Degree=Pos	6	_	_	start_char=2607|end_char=2617
+8	warship	warship	NOUN	NN	Number=Sing	7	_	_	start_char=2618|end_char=2625
+9	USS	USS	PROPN	NNP	Number=Sing	8	_	_	start_char=2626|end_char=2629
+10	earsarge	earsarge	NOUN	NN	Number=Sing	9	_	_	start_char=2630|end_char=2638
+11	--	--	PUNCT	,	_	10	_	_	start_char=2639|end_char=2641
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=2642|end_char=2645
+13	largest	large	ADJ	JJS	Degree=Sup	12	_	_	start_char=2646|end_char=2653
+14	warship	warship	NOUN	NN	Number=Sing	13	_	_	start_char=2654|end_char=2661
+15	ever	ever	ADV	RB	_	14	_	_	start_char=2662|end_char=2666
+16	to	to	PART	TO	_	15	_	_	start_char=2667|end_char=2669
+17	visit	visit	VERB	VB	VerbForm=Inf	16	_	_	start_char=2670|end_char=2675
+18	Lithuania	Lithuania	PROPN	NNP	Number=Sing	17	_	_	start_char=2676|end_char=2685
+19	—	—	PUNCT	:	_	18	_	_	start_char=2686|end_char=2687
+20	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	_	_	start_char=2688|end_char=2691
+21	officially	officially	ADV	RB	_	20	_	_	start_char=2692|end_char=2702
+22	welcomed	welcome	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	21	_	_	start_char=2703|end_char=2711
+23	Monday	Monday	PROPN	NNP	Number=Sing	22	_	_	start_char=2712|end_char=2718|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=2718|end_char=2719
+
+# text = The country borders fellow NATO member Poland and Belarus, a Moscow ally.
+# sent_id = 19
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=2720|end_char=2723
+2	country	country	NOUN	NN	Number=Sing	1	_	_	start_char=2724|end_char=2731
+3	borders	border	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2732|end_char=2739
+4	fellow	fellow	ADJ	JJ	Degree=Pos	3	_	_	start_char=2740|end_char=2746
+5	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	4	_	_	start_char=2747|end_char=2751
+6	member	member	NOUN	NN	Number=Sing	5	_	_	start_char=2752|end_char=2758
+7	Poland	Poland	PROPN	NNP	Number=Sing	6	_	_	start_char=2759|end_char=2765
+8	and	and	CCONJ	CC	_	7	_	_	start_char=2766|end_char=2769
+9	Belarus	Belarus	PROPN	NNP	Number=Sing	8	_	_	start_char=2770|end_char=2777|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=2777|end_char=2778
+11	a	a	DET	DT	Definite=Ind|PronType=Art	10	_	_	start_char=2779|end_char=2780
+12	Moscow	Moscow	PROPN	NNP	Number=Sing	11	_	_	start_char=2781|end_char=2787
+13	ally	ally	NOUN	NN	Number=Sing	12	_	_	start_char=2788|end_char=2792|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=2792|end_char=2793|SpacesAfter=\n\n
+
+# text = On Monday, the NATO air police mission in Lithuania reported that jets were scrambled four times last wee to identify and escort Russian war planes, which violated rules of international airspace.
+# sent_id = 20
+1	On	on	ADP	IN	_	0	_	_	start_char=2795|end_char=2797
+2	Monday	Monday	PROPN	NNP	Number=Sing	1	_	_	start_char=2798|end_char=2804|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=2804|end_char=2805
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=2806|end_char=2809
+5	NATO	NATO	PROPN	NNP	Abbr=Yes|Number=Sing	4	_	_	start_char=2810|end_char=2814
+6	air	air	NOUN	NN	Number=Sing	5	_	_	start_char=2815|end_char=2818
+7	police	police	NOUN	NN	Number=Sing	6	_	_	start_char=2819|end_char=2825
+8	mission	mission	NOUN	NN	Number=Sing	7	_	_	start_char=2826|end_char=2833
+9	in	in	ADP	IN	_	8	_	_	start_char=2834|end_char=2836
+10	Lithuania	Lithuania	PROPN	NNP	Number=Sing	9	_	_	start_char=2837|end_char=2846
+11	reported	report	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=2847|end_char=2855
+12	that	that	SCONJ	IN	_	11	_	_	start_char=2856|end_char=2860
+13	jets	jet	NOUN	NNS	Number=Plur	12	_	_	start_char=2861|end_char=2865
+14	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	13	_	_	start_char=2866|end_char=2870
+15	scrambled	scramble	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	_	_	start_char=2871|end_char=2880
+16	four	four	NUM	CD	NumForm=Word|NumType=Card	15	_	_	start_char=2881|end_char=2885
+17	times	time	NOUN	NNS	Number=Plur	16	_	_	start_char=2886|end_char=2891
+18	last	last	ADJ	JJ	Degree=Pos	17	_	_	start_char=2892|end_char=2896
+19	wee	wee	NOUN	NN	Number=Sing	18	_	_	start_char=2897|end_char=2900
+20	to	to	PART	TO	_	19	_	_	start_char=2901|end_char=2903
+21	identify	identify	VERB	VB	VerbForm=Inf	20	_	_	start_char=2904|end_char=2912
+22	and	and	CCONJ	CC	_	21	_	_	start_char=2913|end_char=2916
+23	escort	escort	VERB	VB	VerbForm=Inf	22	_	_	start_char=2917|end_char=2923
+24	Russian	Russian	ADJ	JJ	Degree=Pos	23	_	_	start_char=2924|end_char=2931
+25	war	war	NOUN	NN	Number=Sing	24	_	_	start_char=2932|end_char=2935
+26	planes	plane	NOUN	NNS	Number=Plur	25	_	_	start_char=2936|end_char=2942|SpaceAfter=No
+27	,	,	PUNCT	,	_	26	_	_	start_char=2942|end_char=2943
+28	which	which	PRON	WDT	PronType=Rel	27	_	_	start_char=2944|end_char=2949
+29	violated	violate	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	_	_	start_char=2950|end_char=2958
+30	rules	rule	NOUN	NNS	Number=Plur	29	_	_	start_char=2959|end_char=2964
+31	of	of	ADP	IN	_	30	_	_	start_char=2965|end_char=2967
+32	international	international	ADJ	JJ	Degree=Pos	31	_	_	start_char=2968|end_char=2981
+33	airspace	airspace	NOUN	NN	Number=Sing	32	_	_	start_char=2982|end_char=2990|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=2990|end_char=2991|SpacesAfter=\n
+
+# text = ibuted.
+# sent_id = 21
+1	ibuted	ibut	VERB	VBN	Tense=Past|VerbForm=Part	0	_	_	start_char=2992|end_char=2998|SpaceAfter=No
+2	.	.	PUNCT	.	_	1	_	_	start_char=2998|end_char=2999|SpaceAfter=No
+
