@@ -61,6 +61,7 @@ The project follows the following structure in order to facilitate data preproce
   - `lstm.py`: Implementation of the LSTM model.
   - `svm.py`: Implementation of the SVM model.
   - `transformer.py`: Implementation of the Transformer model.
+  - `bert.py`: Implementation of Bert.
 
 - **`notebooks/`**: Exploratory notebooks for data analysis and visualization.
 
