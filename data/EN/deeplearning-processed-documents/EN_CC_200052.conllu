@@ -1,0 +1,507 @@
+# text = Alarmist U.N. Chief Guterres Decries ‘Climate-Related Carnage’ from ‘Apocalyptic Flooding’
+# sent_id = 0
+1	Alarmist	Alarmist	ADJ	JJ	Degree=Pos	0	_	_	start_char=0|end_char=8
+2	U.N.	U.N.	PROPN	NNP	Number=Sing	1	_	_	start_char=9|end_char=13
+3	Chief	Chief	PROPN	NNP	Number=Sing	2	_	_	start_char=14|end_char=19
+4	Guterres	Guterres	PROPN	NNP	Number=Sing	3	_	_	start_char=20|end_char=28
+5	Decries	Decries	PROPN	NNPS	Number=Plur	4	_	_	start_char=29|end_char=36
+6	‘	'	PUNCT	``	_	5	_	_	start_char=37|end_char=38|SpaceAfter=No
+7	Climate	Climate	PROPN	NNP	Number=Sing	6	_	_	start_char=38|end_char=45|SpaceAfter=No
+8	-	-	PUNCT	HYPH	_	7	_	_	start_char=45|end_char=46|SpaceAfter=No
+9	Related	related	ADJ	NNP	Degree=Pos	8	_	_	start_char=46|end_char=53
+10	Carnage	carnage	PROPN	NNP	Number=Sing	9	_	_	start_char=54|end_char=61|SpaceAfter=No
+11	’	'	PUNCT	''	_	10	_	_	start_char=61|end_char=62
+12	from	from	ADP	IN	_	11	_	_	start_char=63|end_char=67
+13	‘	'	PUNCT	``	_	12	_	_	start_char=68|end_char=69|SpaceAfter=No
+14	Apocalyptic	apocalyptic	ADJ	NNP	Degree=Pos	13	_	_	start_char=69|end_char=80
+15	Flooding	flooding	PROPN	NNP	Number=Sing	14	_	_	start_char=81|end_char=89|SpaceAfter=No
+16	’	'	PUNCT	''	_	15	_	_	start_char=89|end_char=90|SpacesAfter=\s\n\n\s
+
+# text = The United Nations alarmist-in-chief António Guterres has denounced “climate-related carnage” in Paistan caused by “apocalyptic flooding.”
+# sent_id = 1
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=94|end_char=97
+2	United	United	ADJ	NNP	Degree=Pos	1	_	_	start_char=98|end_char=104
+3	Nations	Nation	PROPN	NNPS	Number=Plur	2	_	_	start_char=105|end_char=112
+4	alarmist	alarmist	ADJ	JJ	Degree=Pos	3	_	_	start_char=113|end_char=121|SpaceAfter=No
+5	-	-	PUNCT	HYPH	_	4	_	_	start_char=121|end_char=122|SpaceAfter=No
+6	in	in	ADP	IN	_	5	_	_	start_char=122|end_char=124|SpaceAfter=No
+7	-	-	PUNCT	HYPH	_	6	_	_	start_char=124|end_char=125|SpaceAfter=No
+8	chief	chief	NOUN	NN	Number=Sing	7	_	_	start_char=125|end_char=130
+9	António	António	PROPN	NNP	Number=Sing	8	_	_	start_char=131|end_char=138
+10	Guterres	Guterres	PROPN	NNP	Number=Sing	9	_	_	start_char=139|end_char=147
+11	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=148|end_char=151
+12	denounced	denounce	VERB	VBN	Tense=Past|VerbForm=Part	11	_	_	start_char=152|end_char=161
+13	“	''	PUNCT	``	_	12	_	_	start_char=162|end_char=163|SpaceAfter=No
+14	climate	climate	NOUN	NN	Number=Sing	13	_	_	start_char=163|end_char=170|SpaceAfter=No
+15	-	-	PUNCT	HYPH	_	14	_	_	start_char=170|end_char=171|SpaceAfter=No
+16	related	related	ADJ	JJ	Degree=Pos	15	_	_	start_char=171|end_char=178
+17	carnage	carnage	NOUN	NN	Number=Sing	16	_	_	start_char=179|end_char=186|SpaceAfter=No
+18	”	''	PUNCT	''	_	17	_	_	start_char=186|end_char=187
+19	in	in	ADP	IN	_	18	_	_	start_char=188|end_char=190
+20	Paistan	Paistan	PROPN	NNP	Number=Sing	19	_	_	start_char=191|end_char=198
+21	caused	cause	VERB	VBN	Tense=Past|VerbForm=Part	20	_	_	start_char=199|end_char=205
+22	by	by	ADP	IN	_	21	_	_	start_char=206|end_char=208
+23	“	''	PUNCT	``	_	22	_	_	start_char=209|end_char=210|SpaceAfter=No
+24	apocalyptic	apocalyptic	ADJ	JJ	Degree=Pos	23	_	_	start_char=210|end_char=221
+25	flooding	flooding	NOUN	NN	Number=Sing	24	_	_	start_char=222|end_char=230|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=230|end_char=231|SpaceAfter=No
+27	”	''	PUNCT	''	_	26	_	_	start_char=231|end_char=232|SpacesAfter=\n\n
+
+# text = Apparently unable to sympathize with those in need without invoing the bogeyman of global warming, Guterres too advantage of Paistan’s flooding plight to advance his crusade against the “climate crisis.”
+# sent_id = 2
+1	Apparently	apparently	ADV	RB	_	0	_	_	start_char=234|end_char=244
+2	unable	unable	ADJ	JJ	Degree=Pos	1	_	_	start_char=245|end_char=251
+3	to	to	PART	TO	_	2	_	_	start_char=252|end_char=254
+4	sympathize	sympathize	VERB	VB	VerbForm=Inf	3	_	_	start_char=255|end_char=265
+5	with	with	ADP	IN	_	4	_	_	start_char=266|end_char=270
+6	those	that	PRON	DT	Number=Plur|PronType=Dem	5	_	_	start_char=271|end_char=276
+7	in	in	ADP	IN	_	6	_	_	start_char=277|end_char=279
+8	need	need	NOUN	NN	Number=Sing	7	_	_	start_char=280|end_char=284
+9	without	without	SCONJ	IN	_	8	_	_	start_char=285|end_char=292
+10	invoing	invo	VERB	VBG	VerbForm=Ger	9	_	_	start_char=293|end_char=300
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=301|end_char=304
+12	bogeyman	bogeyman	NOUN	NN	Number=Sing	11	_	_	start_char=305|end_char=313
+13	of	of	ADP	IN	_	12	_	_	start_char=314|end_char=316
+14	global	global	ADJ	JJ	Degree=Pos	13	_	_	start_char=317|end_char=323
+15	warming	warming	NOUN	NN	Number=Sing	14	_	_	start_char=324|end_char=331|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=331|end_char=332
+17	Guterres	Guterres	PROPN	NNP	Number=Sing	16	_	_	start_char=333|end_char=341
+18	too	too	ADV	RB	_	17	_	_	start_char=342|end_char=345
+19	advantage	advantage	NOUN	NN	Number=Sing	18	_	_	start_char=346|end_char=355
+20	of	of	ADP	IN	_	19	_	_	start_char=356|end_char=358
+21-22	Paistan’s	_	_	_	_	_	_	_	start_char=359|end_char=368
+21	Paistan	Paistan	PROPN	NNP	Number=Sing	20	_	_	start_char=359|end_char=366
+22	’s	's	PART	POS	_	21	_	_	start_char=366|end_char=368
+23	flooding	flooding	NOUN	NN	Number=Sing	22	_	_	start_char=369|end_char=377
+24	plight	plight	NOUN	NN	Number=Sing	23	_	_	start_char=378|end_char=384
+25	to	to	PART	TO	_	24	_	_	start_char=385|end_char=387
+26	advance	advance	VERB	VB	VerbForm=Inf	25	_	_	start_char=388|end_char=395
+27	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	26	_	_	start_char=396|end_char=399
+28	crusade	crusade	NOUN	NN	Number=Sing	27	_	_	start_char=400|end_char=407
+29	against	against	ADP	IN	_	28	_	_	start_char=408|end_char=415
+30	the	the	DET	DT	Definite=Def|PronType=Art	29	_	_	start_char=416|end_char=419
+31	“	''	PUNCT	``	_	30	_	_	start_char=420|end_char=421|SpaceAfter=No
+32	climate	climate	NOUN	NN	Number=Sing	31	_	_	start_char=421|end_char=428
+33	crisis	crisis	NOUN	NN	Number=Sing	32	_	_	start_char=429|end_char=435|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=435|end_char=436|SpaceAfter=No
+35	”	''	PUNCT	''	_	34	_	_	start_char=436|end_char=437|SpacesAfter=\n\n
+
+# text = “I will never forget the climate-related carnage I saw after apocalyptic flooding submerged a third of Paistan,” the U.N. chief declared Wednesday on Twitter (now X).
+# sent_id = 3
+1	“	''	PUNCT	``	_	0	_	_	start_char=439|end_char=440|SpaceAfter=No
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	_	_	start_char=440|end_char=441
+3	will	will	AUX	MD	VerbForm=Fin	2	_	_	start_char=442|end_char=446
+4	never	never	ADV	RB	_	3	_	_	start_char=447|end_char=452
+5	forget	forget	VERB	VB	VerbForm=Inf	4	_	_	start_char=453|end_char=459
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=460|end_char=463
+7	climate	climate	NOUN	NN	Number=Sing	6	_	_	start_char=464|end_char=471|SpaceAfter=No
+8	-	-	PUNCT	HYPH	_	7	_	_	start_char=471|end_char=472|SpaceAfter=No
+9	related	related	ADJ	JJ	Degree=Pos	8	_	_	start_char=472|end_char=479
+10	carnage	carnage	NOUN	NN	Number=Sing	9	_	_	start_char=480|end_char=487
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	_	_	start_char=488|end_char=489
+12	saw	see	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	11	_	_	start_char=490|end_char=493
+13	after	after	SCONJ	IN	_	12	_	_	start_char=494|end_char=499
+14	apocalyptic	apocalyptic	ADJ	JJ	Degree=Pos	13	_	_	start_char=500|end_char=511
+15	flooding	flooding	NOUN	NN	Number=Sing	14	_	_	start_char=512|end_char=520
+16	submerged	submerge	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	_	_	start_char=521|end_char=530
+17	a	a	DET	DT	Definite=Ind|PronType=Art	16	_	_	start_char=531|end_char=532
+18	third	third	NOUN	NN	NumForm=Word|NumType=Frac|Number=Sing	17	_	_	start_char=533|end_char=538
+19	of	of	ADP	IN	_	18	_	_	start_char=539|end_char=541
+20	Paistan	Paistan	PROPN	NNP	Number=Sing	19	_	_	start_char=542|end_char=549|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=549|end_char=550|SpaceAfter=No
+22	”	''	PUNCT	''	_	21	_	_	start_char=550|end_char=551
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=552|end_char=555
+24	U.N.	U.N.	PROPN	NNP	Number=Sing	23	_	_	start_char=556|end_char=560
+25	chief	chief	NOUN	NN	Number=Sing	24	_	_	start_char=561|end_char=566
+26	declared	declare	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	_	_	start_char=567|end_char=575
+27	Wednesday	Wednesday	PROPN	NNP	Number=Sing	26	_	_	start_char=576|end_char=585
+28	on	on	ADP	IN	_	27	_	_	start_char=586|end_char=588
+29	Twitter	Twitter	PROPN	NNP	Number=Sing	28	_	_	start_char=589|end_char=596
+30	(	(	PUNCT	-LRB-	_	29	_	_	start_char=597|end_char=598|SpaceAfter=No
+31	now	now	ADV	RB	_	30	_	_	start_char=598|end_char=601
+32	X	x	NOUN	NN	Number=Sing	31	_	_	start_char=602|end_char=603|SpaceAfter=No
+33	)	)	PUNCT	-RRB-	_	32	_	_	start_char=603|end_char=604|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=604|end_char=605
+
+# text = “I call on donors & international financial institutions to mae good on their funding pledges in support of recovery efforts as soon as possible.”
+# sent_id = 4
+1	“	''	PUNCT	``	_	0	_	_	start_char=606|end_char=607|SpaceAfter=No
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	_	_	start_char=607|end_char=608
+3	call	call	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=609|end_char=613
+4	on	on	ADP	IN	_	3	_	_	start_char=614|end_char=616
+5	donors	donor	NOUN	NNS	Number=Plur	4	_	_	start_char=617|end_char=623
+6	&	&	CCONJ	CC	_	5	_	_	start_char=624|end_char=625
+7	international	international	ADJ	JJ	Degree=Pos	6	_	_	start_char=626|end_char=639
+8	financial	financial	ADJ	JJ	Degree=Pos	7	_	_	start_char=640|end_char=649
+9	institutions	institution	NOUN	NNS	Number=Plur	8	_	_	start_char=650|end_char=662
+10	to	to	PART	TO	_	9	_	_	start_char=663|end_char=665
+11	mae	marr	VERB	VB	VerbForm=Inf	10	_	_	start_char=666|end_char=669
+12	good	good	ADJ	JJ	Degree=Pos	11	_	_	start_char=670|end_char=674
+13	on	on	ADP	IN	_	12	_	_	start_char=675|end_char=677
+14	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	13	_	_	start_char=678|end_char=683
+15	funding	funding	NOUN	NN	Number=Sing	14	_	_	start_char=684|end_char=691
+16	pledges	pledge	NOUN	NNS	Number=Plur	15	_	_	start_char=692|end_char=699
+17	in	in	ADP	IN	_	16	_	_	start_char=700|end_char=702
+18	support	support	NOUN	NN	Number=Sing	17	_	_	start_char=703|end_char=710
+19	of	of	ADP	IN	_	18	_	_	start_char=711|end_char=713
+20	recovery	recovery	NOUN	NN	Number=Sing	19	_	_	start_char=714|end_char=722
+21	efforts	effort	NOUN	NNS	Number=Plur	20	_	_	start_char=723|end_char=730
+22	as	as	ADV	RB	_	21	_	_	start_char=731|end_char=733
+23	soon	soon	ADV	RB	Degree=Pos	22	_	_	start_char=734|end_char=738
+24	as	as	SCONJ	IN	_	23	_	_	start_char=739|end_char=741
+25	possible	possible	ADJ	JJ	Degree=Pos	24	_	_	start_char=742|end_char=750|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=750|end_char=751|SpaceAfter=No
+27	”	''	PUNCT	''	_	26	_	_	start_char=751|end_char=752|SpacesAfter=\n\n
+
+# text = In a separate Tweet Wednesday, the veteran Portuguese socialist asserted that the “climate emergency is threatening the very survival of communities & economies that depend on tourism,” before touting “green investments” as well as “investing in sustainable tourism.”
+# sent_id = 5
+1	In	in	ADP	IN	_	0	_	_	start_char=754|end_char=756
+2	a	a	DET	DT	Definite=Ind|PronType=Art	1	_	_	start_char=757|end_char=758
+3	separate	separate	ADJ	JJ	Degree=Pos	2	_	_	start_char=759|end_char=767
+4	Tweet	tweet	NOUN	NN	Number=Sing	3	_	_	start_char=768|end_char=773
+5	Wednesday	Wednesday	PROPN	NNP	Number=Sing	4	_	_	start_char=774|end_char=783|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=783|end_char=784
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=785|end_char=788
+8	veteran	veteran	ADJ	JJ	Degree=Pos	7	_	_	start_char=789|end_char=796
+9	Portuguese	Portuguese	ADJ	JJ	Degree=Pos	8	_	_	start_char=797|end_char=807
+10	socialist	socialist	NOUN	NN	Number=Sing	9	_	_	start_char=808|end_char=817
+11	asserted	assert	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=818|end_char=826
+12	that	that	SCONJ	IN	_	11	_	_	start_char=827|end_char=831
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=832|end_char=835
+14	“	''	PUNCT	``	_	13	_	_	start_char=836|end_char=837|SpaceAfter=No
+15	climate	climate	NOUN	NN	Number=Sing	14	_	_	start_char=837|end_char=844
+16	emergency	emergency	NOUN	NN	Number=Sing	15	_	_	start_char=845|end_char=854
+17	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=855|end_char=857
+18	threatening	threaten	VERB	VBG	Tense=Pres|VerbForm=Part	17	_	_	start_char=858|end_char=869
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=870|end_char=873
+20	very	very	ADJ	JJ	Degree=Pos	19	_	_	start_char=874|end_char=878
+21	survival	survival	NOUN	NN	Number=Sing	20	_	_	start_char=879|end_char=887
+22	of	of	ADP	IN	_	21	_	_	start_char=888|end_char=890
+23	communities	community	NOUN	NNS	Number=Plur	22	_	_	start_char=891|end_char=902
+24	&	&	CCONJ	CC	_	23	_	_	start_char=903|end_char=904
+25	economies	economy	NOUN	NNS	Number=Plur	24	_	_	start_char=905|end_char=914
+26	that	that	PRON	WDT	PronType=Rel	25	_	_	start_char=915|end_char=919
+27	depend	depend	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	_	_	start_char=920|end_char=926
+28	on	on	ADP	IN	_	27	_	_	start_char=927|end_char=929
+29	tourism	tourism	NOUN	NN	Number=Sing	28	_	_	start_char=930|end_char=937|SpaceAfter=No
+30	,	,	PUNCT	,	_	29	_	_	start_char=937|end_char=938|SpaceAfter=No
+31	”	''	PUNCT	''	_	30	_	_	start_char=938|end_char=939
+32	before	before	SCONJ	IN	_	31	_	_	start_char=940|end_char=946
+33	touting	tout	VERB	VBG	VerbForm=Ger	32	_	_	start_char=947|end_char=954
+34	“	''	PUNCT	``	_	33	_	_	start_char=955|end_char=956|SpaceAfter=No
+35	green	green	ADJ	JJ	Degree=Pos	34	_	_	start_char=956|end_char=961
+36	investments	investment	NOUN	NNS	Number=Plur	35	_	_	start_char=962|end_char=973|SpaceAfter=No
+37	”	''	PUNCT	''	_	36	_	_	start_char=973|end_char=974
+38	as	as	ADV	RB	_	37	_	_	start_char=975|end_char=977
+39	well	well	ADV	RB	Degree=Pos	38	_	_	start_char=978|end_char=982
+40	as	as	ADP	IN	_	39	_	_	start_char=983|end_char=985
+41	“	''	PUNCT	``	_	40	_	_	start_char=986|end_char=987|SpaceAfter=No
+42	investing	invest	VERB	VBG	VerbForm=Ger	41	_	_	start_char=987|end_char=996
+43	in	in	ADP	IN	_	42	_	_	start_char=997|end_char=999
+44	sustainable	sustainable	ADJ	JJ	Degree=Pos	43	_	_	start_char=1000|end_char=1011
+45	tourism	tourism	NOUN	NN	Number=Sing	44	_	_	start_char=1012|end_char=1019|SpaceAfter=No
+46	.	.	PUNCT	.	_	45	_	_	start_char=1019|end_char=1020|SpaceAfter=No
+47	”	''	PUNCT	''	_	46	_	_	start_char=1020|end_char=1021|SpacesAfter=\n\n
+
+# text = According to the U.N. Secretary-General, those woring for real Climate Action are “on the right side of history” since the battle to stop global warming constitutes the “fight of our lives.”
+# sent_id = 6
+1	According	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	0	_	_	start_char=1023|end_char=1032
+2	to	to	ADP	IN	_	1	_	_	start_char=1033|end_char=1035
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1036|end_char=1039
+4	U.N.	U.N.	PROPN	NNP	Number=Sing	3	_	_	start_char=1040|end_char=1044
+5	Secretary	Secretary	PROPN	NNP	Number=Sing	4	_	_	start_char=1045|end_char=1054|SpaceAfter=No
+6	-	-	PUNCT	HYPH	_	5	_	_	start_char=1054|end_char=1055|SpaceAfter=No
+7	General	General	PROPN	NNP	Number=Sing	6	_	_	start_char=1055|end_char=1062|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=1062|end_char=1063
+9	those	that	DET	DT	Number=Plur|PronType=Dem	8	_	_	start_char=1064|end_char=1069
+10	woring	wore	VERB	VBG	VerbForm=Ger	9	_	_	start_char=1070|end_char=1076
+11	for	for	ADP	IN	_	10	_	_	start_char=1077|end_char=1080
+12	real	real	ADJ	JJ	Degree=Pos	11	_	_	start_char=1081|end_char=1085
+13	Climate	Climate	PROPN	NNP	Number=Sing	12	_	_	start_char=1086|end_char=1093
+14	Action	Action	PROPN	NNP	Number=Sing	13	_	_	start_char=1094|end_char=1100
+15	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=1101|end_char=1104
+16	“	''	PUNCT	``	_	15	_	_	start_char=1105|end_char=1106|SpaceAfter=No
+17	on	on	ADP	IN	_	16	_	_	start_char=1106|end_char=1108
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=1109|end_char=1112
+19	right	right	ADJ	JJ	Degree=Pos	18	_	_	start_char=1113|end_char=1118
+20	side	side	NOUN	NN	Number=Sing	19	_	_	start_char=1119|end_char=1123
+21	of	of	ADP	IN	_	20	_	_	start_char=1124|end_char=1126
+22	history	history	NOUN	NN	Number=Sing	21	_	_	start_char=1127|end_char=1134|SpaceAfter=No
+23	”	''	PUNCT	''	_	22	_	_	start_char=1134|end_char=1135
+24	since	since	SCONJ	IN	_	23	_	_	start_char=1136|end_char=1141
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=1142|end_char=1145
+26	battle	battle	NOUN	NN	Number=Sing	25	_	_	start_char=1146|end_char=1152
+27	to	to	PART	TO	_	26	_	_	start_char=1153|end_char=1155
+28	stop	stop	VERB	VB	VerbForm=Inf	27	_	_	start_char=1156|end_char=1160
+29	global	global	ADJ	JJ	Degree=Pos	28	_	_	start_char=1161|end_char=1167
+30	warming	warming	NOUN	NN	Number=Sing	29	_	_	start_char=1168|end_char=1175
+31	constitutes	constitute	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	_	_	start_char=1176|end_char=1187
+32	the	the	DET	DT	Definite=Def|PronType=Art	31	_	_	start_char=1188|end_char=1191
+33	“	''	PUNCT	``	_	32	_	_	start_char=1192|end_char=1193|SpaceAfter=No
+34	fight	fight	NOUN	NN	Number=Sing	33	_	_	start_char=1193|end_char=1198
+35	of	of	ADP	IN	_	34	_	_	start_char=1199|end_char=1201
+36	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	35	_	_	start_char=1202|end_char=1205
+37	lives	life	NOUN	NNS	Number=Plur	36	_	_	start_char=1206|end_char=1211|SpaceAfter=No
+38	.	.	PUNCT	.	_	37	_	_	start_char=1211|end_char=1212|SpaceAfter=No
+39	”	''	PUNCT	''	_	38	_	_	start_char=1212|end_char=1213|SpacesAfter=\n\n
+
+# text = Guterres’ bombast has been heating up much faster than the environment.
+# sent_id = 7
+1-2	Guterres’	_	_	_	_	_	_	_	start_char=1215|end_char=1224
+1	Guterres	Guterres	PROPN	NNP	Number=Sing	0	_	_	start_char=1215|end_char=1223
+2	’	's	PART	POS	_	1	_	_	start_char=1223|end_char=1224
+3	bombast	bombast	NOUN	NN	Number=Sing	2	_	_	start_char=1225|end_char=1232
+4	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1233|end_char=1236
+5	been	be	AUX	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=1237|end_char=1241
+6	heating	heat	VERB	VBG	Tense=Pres|VerbForm=Part	5	_	_	start_char=1242|end_char=1249
+7	up	up	ADP	RP	_	6	_	_	start_char=1250|end_char=1252
+8	much	much	ADV	RB	_	7	_	_	start_char=1253|end_char=1257
+9	faster	fast	ADJ	JJR	Degree=Cmp	8	_	_	start_char=1258|end_char=1264
+10	than	than	ADP	IN	_	9	_	_	start_char=1265|end_char=1269
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=1270|end_char=1273
+12	environment	environment	NOUN	NN	Number=Sing	11	_	_	start_char=1274|end_char=1285|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=1285|end_char=1286|SpacesAfter=\n\n
+
+# text = Just this month, Guterres said that humanity must urgently find solutions to climate change because it “has opened the gates of hell.”
+# sent_id = 8
+1	Just	just	ADV	RB	_	0	_	_	start_char=1288|end_char=1292
+2	this	this	DET	DT	Number=Sing|PronType=Dem	1	_	_	start_char=1293|end_char=1297
+3	month	month	NOUN	NN	Number=Sing	2	_	_	start_char=1298|end_char=1303|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1303|end_char=1304
+5	Guterres	Guterres	PROPN	NNP	Number=Sing	4	_	_	start_char=1305|end_char=1313
+6	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=1314|end_char=1318
+7	that	that	SCONJ	IN	_	6	_	_	start_char=1319|end_char=1323
+8	humanity	humanity	NOUN	NN	Number=Sing	7	_	_	start_char=1324|end_char=1332
+9	must	must	AUX	MD	VerbForm=Fin	8	_	_	start_char=1333|end_char=1337
+10	urgently	urgently	ADV	RB	_	9	_	_	start_char=1338|end_char=1346
+11	find	find	VERB	VB	VerbForm=Inf	10	_	_	start_char=1347|end_char=1351
+12	solutions	solution	NOUN	NNS	Number=Plur	11	_	_	start_char=1352|end_char=1361
+13	to	to	ADP	IN	_	12	_	_	start_char=1362|end_char=1364
+14	climate	climate	NOUN	NN	Number=Sing	13	_	_	start_char=1365|end_char=1372
+15	change	change	NOUN	NN	Number=Sing	14	_	_	start_char=1373|end_char=1379
+16	because	because	SCONJ	IN	_	15	_	_	start_char=1380|end_char=1387
+17	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	_	_	start_char=1388|end_char=1390
+18	“	''	PUNCT	''	_	17	_	_	start_char=1391|end_char=1392|SpaceAfter=No
+19	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=1392|end_char=1395
+20	opened	open	VERB	VBN	Tense=Past|VerbForm=Part	19	_	_	start_char=1396|end_char=1402
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=1403|end_char=1406
+22	gates	gate	NOUN	NNS	Number=Plur	21	_	_	start_char=1407|end_char=1412
+23	of	of	ADP	IN	_	22	_	_	start_char=1413|end_char=1415
+24	hell	hell	NOUN	NN	Number=Sing	23	_	_	start_char=1416|end_char=1420|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=1420|end_char=1421|SpaceAfter=No
+26	”	''	PUNCT	''	_	25	_	_	start_char=1421|end_char=1422|SpacesAfter=\n\n
+
+# text = “Horrendous heat is having horrendous effects,” Guterres warned in his opening remars at the U.N. Climate Ambition Summit in New Yor.
+# sent_id = 9
+1	“	''	PUNCT	``	_	0	_	_	start_char=1424|end_char=1425|SpaceAfter=No
+2	Horrendous	horrendous	ADJ	JJ	Degree=Pos	1	_	_	start_char=1425|end_char=1435
+3	heat	heat	NOUN	NN	Number=Sing	2	_	_	start_char=1436|end_char=1440
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1441|end_char=1443
+5	having	have	VERB	VBG	Tense=Pres|VerbForm=Part	4	_	_	start_char=1444|end_char=1450
+6	horrendous	horrendous	ADJ	JJ	Degree=Pos	5	_	_	start_char=1451|end_char=1461
+7	effects	effect	NOUN	NNS	Number=Plur	6	_	_	start_char=1462|end_char=1469|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=1469|end_char=1470|SpaceAfter=No
+9	”	''	PUNCT	''	_	8	_	_	start_char=1470|end_char=1471
+10	Guterres	Guterres	PROPN	NNP	Number=Sing	9	_	_	start_char=1472|end_char=1480
+11	warned	warn	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=1481|end_char=1487
+12	in	in	ADP	IN	_	11	_	_	start_char=1488|end_char=1490
+13	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	_	_	start_char=1491|end_char=1494
+14	opening	open	VERB	VBG	VerbForm=Ger	13	_	_	start_char=1495|end_char=1502
+15	remars	remar	NOUN	NNS	Number=Plur	14	_	_	start_char=1503|end_char=1509
+16	at	at	ADP	IN	_	15	_	_	start_char=1510|end_char=1512
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=1513|end_char=1516
+18	U.N.	U.N.	PROPN	NNP	Number=Sing	17	_	_	start_char=1517|end_char=1521
+19	Climate	Climate	PROPN	NNP	Number=Sing	18	_	_	start_char=1522|end_char=1529
+20	Ambition	Ambition	PROPN	NNP	Number=Sing	19	_	_	start_char=1530|end_char=1538
+21	Summit	Summit	PROPN	NNP	Number=Sing	20	_	_	start_char=1539|end_char=1545
+22	in	in	ADP	IN	_	21	_	_	start_char=1546|end_char=1548
+23	New	New	ADJ	NNP	Degree=Pos	22	_	_	start_char=1549|end_char=1552
+24	Yor	Yor	PROPN	NNP	Number=Sing	23	_	_	start_char=1553|end_char=1556|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=1556|end_char=1557
+
+# text = “Distraught farmers watching crops carried away by floods; sweltering temperatures spawning disease; and thousands fleeing in fear as historic fires rage.”
+# sent_id = 10
+1	“	''	PUNCT	``	_	0	_	_	start_char=1558|end_char=1559|SpaceAfter=No
+2	Distraught	Distraught	ADJ	JJ	Degree=Pos	1	_	_	start_char=1559|end_char=1569
+3	farmers	farmer	NOUN	NNS	Number=Plur	2	_	_	start_char=1570|end_char=1577
+4	watching	watch	VERB	VBG	VerbForm=Ger	3	_	_	start_char=1578|end_char=1586
+5	crops	crop	NOUN	NNS	Number=Plur	4	_	_	start_char=1587|end_char=1592
+6	carried	carry	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=1593|end_char=1600
+7	away	away	ADV	RB	_	6	_	_	start_char=1601|end_char=1605
+8	by	by	ADP	IN	_	7	_	_	start_char=1606|end_char=1608
+9	floods	flood	NOUN	NNS	Number=Plur	8	_	_	start_char=1609|end_char=1615|SpaceAfter=No
+10	;	;	PUNCT	:	_	9	_	_	start_char=1615|end_char=1616
+11	sweltering	swelter	VERB	VBG	VerbForm=Ger	10	_	_	start_char=1617|end_char=1627
+12	temperatures	temperature	NOUN	NNS	Number=Plur	11	_	_	start_char=1628|end_char=1640
+13	spawning	spawn	VERB	VBG	VerbForm=Ger	12	_	_	start_char=1641|end_char=1649
+14	disease	disease	NOUN	NN	Number=Sing	13	_	_	start_char=1650|end_char=1657|SpaceAfter=No
+15	;	;	PUNCT	:	_	14	_	_	start_char=1657|end_char=1658
+16	and	and	CCONJ	CC	_	15	_	_	start_char=1659|end_char=1662
+17	thousands	thousand	NOUN	NNS	Number=Plur	16	_	_	start_char=1663|end_char=1672
+18	fleeing	flee	VERB	VBG	VerbForm=Ger	17	_	_	start_char=1673|end_char=1680
+19	in	in	ADP	IN	_	18	_	_	start_char=1681|end_char=1683
+20	fear	fear	NOUN	NN	Number=Sing	19	_	_	start_char=1684|end_char=1688
+21	as	as	ADP	IN	_	20	_	_	start_char=1689|end_char=1691
+22	historic	historic	ADJ	JJ	Degree=Pos	21	_	_	start_char=1692|end_char=1700
+23	fires	fire	NOUN	NNS	Number=Plur	22	_	_	start_char=1701|end_char=1706
+24	rage	rage	VERB	VBP	VerbForm=Fin	23	_	_	start_char=1707|end_char=1711|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=1711|end_char=1712|SpaceAfter=No
+26	”	''	PUNCT	''	_	25	_	_	start_char=1712|end_char=1713|SpacesAfter=\n\n
+
+# text = This summer, he said that “the era of global warming has ended, the era of global boiling has arrived” (emphasis added).
+# sent_id = 11
+1	This	this	DET	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1715|end_char=1719
+2	summer	summer	NOUN	NN	Number=Sing	1	_	_	start_char=1720|end_char=1726|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=1726|end_char=1727
+4	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	_	_	start_char=1728|end_char=1730
+5	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=1731|end_char=1735
+6	that	that	SCONJ	IN	_	5	_	_	start_char=1736|end_char=1740
+7	“	''	PUNCT	``	_	6	_	_	start_char=1741|end_char=1742|SpaceAfter=No
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=1742|end_char=1745
+9	era	era	NOUN	NN	Number=Sing	8	_	_	start_char=1746|end_char=1749
+10	of	of	ADP	IN	_	9	_	_	start_char=1750|end_char=1752
+11	global	global	ADJ	JJ	Degree=Pos	10	_	_	start_char=1753|end_char=1759
+12	warming	warming	NOUN	NN	Number=Sing	11	_	_	start_char=1760|end_char=1767
+13	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=1768|end_char=1771
+14	ended	end	VERB	VBN	Tense=Past|VerbForm=Part	13	_	_	start_char=1772|end_char=1777|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=1777|end_char=1778
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=1779|end_char=1782
+17	era	era	NOUN	NN	Number=Sing	16	_	_	start_char=1783|end_char=1786
+18	of	of	ADP	IN	_	17	_	_	start_char=1787|end_char=1789
+19	global	global	ADJ	JJ	Degree=Pos	18	_	_	start_char=1790|end_char=1796
+20	boiling	boil	NOUN	NN	Number=Sing	19	_	_	start_char=1797|end_char=1804
+21	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	_	_	start_char=1805|end_char=1808
+22	arrived	arrive	VERB	VBN	Tense=Past|VerbForm=Part	21	_	_	start_char=1809|end_char=1816|SpaceAfter=No
+23	”	''	PUNCT	''	_	22	_	_	start_char=1816|end_char=1817
+24	(	(	PUNCT	-LRB-	_	23	_	_	start_char=1818|end_char=1819|SpaceAfter=No
+25	emphasis	emphasis	NOUN	NN	Number=Sing	24	_	_	start_char=1819|end_char=1827
+26	added	add	VERB	VBN	Tense=Past|VerbForm=Part	25	_	_	start_char=1828|end_char=1833|SpaceAfter=No
+27	)	)	PUNCT	-RRB-	_	26	_	_	start_char=1833|end_char=1834|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=1834|end_char=1835|SpacesAfter=\n\n
+
+# text = He also claimed that the “dog days of summer are not just baring, they are biting,” adding that the “climate breadown has begun.”
+# sent_id = 12
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1837|end_char=1839
+2	also	also	ADV	RB	_	1	_	_	start_char=1840|end_char=1844
+3	claimed	claim	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1845|end_char=1852
+4	that	that	SCONJ	IN	_	3	_	_	start_char=1853|end_char=1857
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1858|end_char=1861
+6	“	''	PUNCT	``	_	5	_	_	start_char=1862|end_char=1863|SpaceAfter=No
+7	dog	dog	NOUN	NN	Number=Sing	6	_	_	start_char=1863|end_char=1866
+8	days	day	NOUN	NNS	Number=Plur	7	_	_	start_char=1867|end_char=1871
+9	of	of	ADP	IN	_	8	_	_	start_char=1872|end_char=1874
+10	summer	summer	NOUN	NN	Number=Sing	9	_	_	start_char=1875|end_char=1881
+11	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=1882|end_char=1885
+12	not	not	PART	RB	_	11	_	_	start_char=1886|end_char=1889
+13	just	just	ADV	RB	_	12	_	_	start_char=1890|end_char=1894
+14	baring	bare	VERB	VBG	Tense=Pres|VerbForm=Part	13	_	_	start_char=1895|end_char=1901|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=1901|end_char=1902
+16	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	_	_	start_char=1903|end_char=1907
+17	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=1908|end_char=1911
+18	biting	bite	VERB	VBG	Tense=Pres|VerbForm=Part	17	_	_	start_char=1912|end_char=1918|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=1918|end_char=1919|SpaceAfter=No
+20	”	''	PUNCT	''	_	19	_	_	start_char=1919|end_char=1920
+21	adding	add	VERB	VBG	VerbForm=Ger	20	_	_	start_char=1921|end_char=1927
+22	that	that	SCONJ	IN	_	21	_	_	start_char=1928|end_char=1932
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=1933|end_char=1936
+24	“	''	PUNCT	``	_	23	_	_	start_char=1937|end_char=1938|SpaceAfter=No
+25	climate	climate	NOUN	NN	Number=Sing	24	_	_	start_char=1938|end_char=1945
+26	breadown	breadown	NOUN	NN	Number=Sing	25	_	_	start_char=1946|end_char=1954
+27	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	_	_	start_char=1955|end_char=1958
+28	begun	begin	VERB	VBN	Tense=Past|VerbForm=Part	27	_	_	start_char=1959|end_char=1964|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=1964|end_char=1965|SpaceAfter=No
+30	”	''	PUNCT	''	_	29	_	_	start_char=1965|end_char=1966|SpacesAfter=\n\n
+
+# text = Guterres has placed the blame for the climate crisis on “our fossil fuel addiction,” insisting that “climate is imploding faster than we can cope.”
+# sent_id = 13
+1	Guterres	Guterres	PROPN	NNP	Number=Sing	0	_	_	start_char=1968|end_char=1976
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1977|end_char=1980
+3	placed	place	VERB	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=1981|end_char=1987
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1988|end_char=1991
+5	blame	blame	NOUN	NN	Number=Sing	4	_	_	start_char=1992|end_char=1997
+6	for	for	ADP	IN	_	5	_	_	start_char=1998|end_char=2001
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=2002|end_char=2005
+8	climate	climate	NOUN	NN	Number=Sing	7	_	_	start_char=2006|end_char=2013
+9	crisis	crisis	NOUN	NN	Number=Sing	8	_	_	start_char=2014|end_char=2020
+10	on	on	ADP	IN	_	9	_	_	start_char=2021|end_char=2023
+11	“	''	PUNCT	``	_	10	_	_	start_char=2024|end_char=2025|SpaceAfter=No
+12	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	11	_	_	start_char=2025|end_char=2028
+13	fossil	fossil	NOUN	NN	Number=Sing	12	_	_	start_char=2029|end_char=2035
+14	fuel	fuel	NOUN	NN	Number=Sing	13	_	_	start_char=2036|end_char=2040
+15	addiction	addiction	NOUN	NN	Number=Sing	14	_	_	start_char=2041|end_char=2050|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=2050|end_char=2051|SpaceAfter=No
+17	”	''	PUNCT	''	_	16	_	_	start_char=2051|end_char=2052
+18	insisting	insist	VERB	VBG	VerbForm=Ger	17	_	_	start_char=2053|end_char=2062
+19	that	that	SCONJ	IN	_	18	_	_	start_char=2063|end_char=2067
+20	“	''	PUNCT	``	_	19	_	_	start_char=2068|end_char=2069|SpaceAfter=No
+21	climate	climate	NOUN	NN	Number=Sing	20	_	_	start_char=2069|end_char=2076
+22	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	_	_	start_char=2077|end_char=2079
+23	imploding	implode	VERB	VBG	Tense=Pres|VerbForm=Part	22	_	_	start_char=2080|end_char=2089
+24	faster	fast	ADJ	JJR	Degree=Cmp	23	_	_	start_char=2090|end_char=2096
+25	than	than	SCONJ	IN	_	24	_	_	start_char=2097|end_char=2101
+26	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	25	_	_	start_char=2102|end_char=2104
+27	can	can	AUX	MD	VerbForm=Fin	26	_	_	start_char=2105|end_char=2108
+28	cope	cope	VERB	VB	VerbForm=Inf	27	_	_	start_char=2109|end_char=2113|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=2113|end_char=2114|SpaceAfter=No
+30	”	''	PUNCT	''	_	29	_	_	start_char=2114|end_char=2115|SpacesAfter=\n\n
+
+# text = While wild hyperbole and theatrical rhetoric may wor in advertising, one cannot help but wonder whether they do not diminish the seriousness of Mr. Guterres’ case and indeed of his office.
+# sent_id = 14
+1	While	while	SCONJ	IN	_	0	_	_	start_char=2117|end_char=2122
+2	wild	wild	ADJ	JJ	Degree=Pos	1	_	_	start_char=2123|end_char=2127
+3	hyperbole	hyperbole	NOUN	NN	Number=Sing	2	_	_	start_char=2128|end_char=2137
+4	and	and	CCONJ	CC	_	3	_	_	start_char=2138|end_char=2141
+5	theatrical	theatrical	ADJ	JJ	Degree=Pos	4	_	_	start_char=2142|end_char=2152
+6	rhetoric	rhetoric	NOUN	NN	Number=Sing	5	_	_	start_char=2153|end_char=2161
+7	may	may	AUX	MD	VerbForm=Fin	6	_	_	start_char=2162|end_char=2165
+8	wor	wor	VERB	VB	VerbForm=Inf	7	_	_	start_char=2166|end_char=2169
+9	in	in	ADP	IN	_	8	_	_	start_char=2170|end_char=2172
+10	advertising	advertising	NOUN	NN	Number=Sing	9	_	_	start_char=2173|end_char=2184|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=2184|end_char=2185
+12	one	one	PRON	PRP	Number=Sing|Person=3|PronType=Prs	11	_	_	start_char=2186|end_char=2189
+13-14	cannot	_	_	_	_	_	_	_	start_char=2190|end_char=2196
+13	can	can	AUX	MD	VerbForm=Fin	12	_	_	start_char=2190|end_char=2193
+14	not	not	PART	RB	_	13	_	_	start_char=2193|end_char=2196
+15	help	help	VERB	VB	VerbForm=Inf	14	_	_	start_char=2197|end_char=2201
+16	but	but	CCONJ	CC	_	15	_	_	start_char=2202|end_char=2205
+17	wonder	wonder	VERB	VB	VerbForm=Inf	16	_	_	start_char=2206|end_char=2212
+18	whether	whether	SCONJ	IN	_	17	_	_	start_char=2213|end_char=2220
+19	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	_	_	start_char=2221|end_char=2225
+20	do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	_	_	start_char=2226|end_char=2228
+21	not	not	PART	RB	_	20	_	_	start_char=2229|end_char=2232
+22	diminish	diminish	VERB	VB	VerbForm=Inf	21	_	_	start_char=2233|end_char=2241
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=2242|end_char=2245
+24	seriousness	seriousness	NOUN	NN	Number=Sing	23	_	_	start_char=2246|end_char=2257
+25	of	of	ADP	IN	_	24	_	_	start_char=2258|end_char=2260
+26	Mr.	Mr.	PROPN	NNP	Number=Sing	25	_	_	start_char=2261|end_char=2264
+27-28	Guterres’	_	_	_	_	_	_	_	start_char=2265|end_char=2274
+27	Guterres	Guterres	PROPN	NNP	Number=Sing	26	_	_	start_char=2265|end_char=2273
+28	’	's	PART	POS	_	27	_	_	start_char=2273|end_char=2274
+29	case	case	NOUN	NN	Number=Sing	28	_	_	start_char=2275|end_char=2279
+30	and	and	CCONJ	CC	_	29	_	_	start_char=2280|end_char=2283
+31	indeed	indeed	ADV	RB	_	30	_	_	start_char=2284|end_char=2290
+32	of	of	ADP	IN	_	31	_	_	start_char=2291|end_char=2293
+33	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	32	_	_	start_char=2294|end_char=2297
+34	office	office	NOUN	NN	Number=Sing	33	_	_	start_char=2298|end_char=2304|SpaceAfter=No
+35	.	.	PUNCT	.	_	34	_	_	start_char=2304|end_char=2305|SpacesAfter=\n\n
+
+# text = COMMENTS
+# sent_id = 15
+1	COMMENTS	commenter	NOUN	NNS	Number=Plur	0	_	_	start_char=2307|end_char=2315|SpacesAfter=\n\n
+
+# text = Please let us now if you're having issues with commenting.
+# sent_id = 16
+1	Please	please	INTJ	UH	_	0	_	_	start_char=2317|end_char=2323
+2	let	let	VERB	VB	Mood=Imp|VerbForm=Fin	1	_	_	start_char=2324|end_char=2327
+3	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	2	_	_	start_char=2328|end_char=2330
+4	now	now	ADV	RB	_	3	_	_	start_char=2331|end_char=2334
+5	if	if	SCONJ	IN	_	4	_	_	start_char=2335|end_char=2337
+6-7	you're	_	_	_	_	_	_	_	start_char=2338|end_char=2344
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	_	_	start_char=2338|end_char=2341
+7	're	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	_	_	start_char=2341|end_char=2344
+8	having	have	VERB	VBG	Tense=Pres|VerbForm=Part	7	_	_	start_char=2345|end_char=2351
+9	issues	issue	NOUN	NNS	Number=Plur	8	_	_	start_char=2352|end_char=2358
+10	with	with	ADP	IN	_	9	_	_	start_char=2359|end_char=2363
+11	commenting	commenting	NOUN	NN	Number=Sing	10	_	_	start_char=2364|end_char=2374|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=2374|end_char=2375|SpaceAfter=No
+

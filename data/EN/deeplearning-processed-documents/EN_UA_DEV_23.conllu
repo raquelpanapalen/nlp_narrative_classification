@@ -1,0 +1,515 @@
+# text = What is the current trajectory of the evil empire?
+# sent_id = 0
+1	What	what	PRON	WP	PronType=Int	0	_	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=5|end_char=7
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=8|end_char=11
+4	current	current	ADJ	JJ	Degree=Pos	3	_	_	start_char=12|end_char=19
+5	trajectory	trajectory	NOUN	NN	Number=Sing	4	_	_	start_char=20|end_char=30
+6	of	of	ADP	IN	_	5	_	_	start_char=31|end_char=33
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=34|end_char=37
+8	evil	evil	ADJ	JJ	Degree=Pos	7	_	_	start_char=38|end_char=42
+9	empire	empire	NOUN	NN	Number=Sing	8	_	_	start_char=43|end_char=49|SpaceAfter=No
+10	?	?	PUNCT	.	_	9	_	_	start_char=49|end_char=50
+
+# text = Answer: WWIII.
+# sent_id = 1
+1	Answer	answer	NOUN	NN	Number=Sing	0	_	_	start_char=51|end_char=57|SpaceAfter=No
+2	:	:	PUNCT	:	_	1	_	_	start_char=57|end_char=58
+3	WWIII	WWIII	PROPN	NNP	Number=Sing	2	_	_	start_char=59|end_char=64|SpaceAfter=No
+4	.	.	PUNCT	.	_	3	_	_	start_char=64|end_char=65|SpacesAfter=\s\n\n
+
+# text = What is the current trajectory of the evil empire?
+# sent_id = 2
+1	What	what	PRON	WP	PronType=Int	0	_	_	start_char=68|end_char=72
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=73|end_char=75
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=76|end_char=79
+4	current	current	ADJ	JJ	Degree=Pos	3	_	_	start_char=80|end_char=87
+5	trajectory	trajectory	NOUN	NN	Number=Sing	4	_	_	start_char=88|end_char=98
+6	of	of	ADP	IN	_	5	_	_	start_char=99|end_char=101
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=102|end_char=105
+8	evil	evil	ADJ	JJ	Degree=Pos	7	_	_	start_char=106|end_char=110
+9	empire	empire	NOUN	NN	Number=Sing	8	_	_	start_char=111|end_char=117|SpaceAfter=No
+10	?	?	PUNCT	.	_	9	_	_	start_char=117|end_char=118
+
+# text = Answer: WWIII.
+# sent_id = 3
+1	Answer	answer	NOUN	NN	Number=Sing	0	_	_	start_char=119|end_char=125|SpaceAfter=No
+2	:	:	PUNCT	:	_	1	_	_	start_char=125|end_char=126
+3	WWIII	WWIII	PROPN	NNP	Number=Sing	2	_	_	start_char=127|end_char=132|SpaceAfter=No
+4	.	.	PUNCT	.	_	3	_	_	start_char=132|end_char=133|SpacesAfter=\n
+
+# text = You might not now it.
+# sent_id = 4
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	0	_	_	start_char=134|end_char=137
+2	might	might	AUX	MD	VerbForm=Fin	1	_	_	start_char=138|end_char=143
+3	not	not	PART	RB	_	2	_	_	start_char=144|end_char=147
+4	now	now	ADV	RB	_	3	_	_	start_char=148|end_char=151
+5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	_	_	start_char=152|end_char=154|SpaceAfter=No
+6	.	.	PUNCT	.	_	5	_	_	start_char=154|end_char=155|SpacesAfter=\n
+
+# text = But Russia does.
+# sent_id = 5
+1	But	but	CCONJ	CC	_	0	_	_	start_char=156|end_char=159
+2	Russia	Russia	PROPN	NNP	Number=Sing	1	_	_	start_char=160|end_char=166
+3	does	do	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=167|end_char=171|SpaceAfter=No
+4	.	.	PUNCT	.	_	3	_	_	start_char=171|end_char=172|SpacesAfter=\n
+
+# text = That’s why it is delaying its offensive in Uraine.
+# sent_id = 6
+1-2	That’s	_	_	_	_	_	_	_	start_char=173|end_char=179
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=173|end_char=177
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=177|end_char=179
+3	why	why	ADV	WRB	PronType=Rel	2	_	_	start_char=180|end_char=183
+4	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	_	_	start_char=184|end_char=186
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=187|end_char=189
+6	delaying	delay	VERB	VBG	Tense=Pres|VerbForm=Part	5	_	_	start_char=190|end_char=198
+7	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	_	_	start_char=199|end_char=202
+8	offensive	offensive	NOUN	NN	Number=Sing	7	_	_	start_char=203|end_char=212
+9	in	in	ADP	IN	_	8	_	_	start_char=213|end_char=215
+10	Uraine	Uraine	PROPN	NNP	Number=Sing	9	_	_	start_char=216|end_char=222|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=222|end_char=223|SpacesAfter=\n
+
+# text = To give it time to prepare for the worst.
+# sent_id = 7
+1	To	to	PART	TO	_	0	_	_	start_char=224|end_char=226
+2	give	give	VERB	VB	VerbForm=Inf	1	_	_	start_char=227|end_char=231
+3	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	_	_	start_char=232|end_char=234
+4	time	time	NOUN	NN	Number=Sing	3	_	_	start_char=235|end_char=239
+5	to	to	PART	TO	_	4	_	_	start_char=240|end_char=242
+6	prepare	prepare	VERB	VB	VerbForm=Inf	5	_	_	start_char=243|end_char=250
+7	for	for	ADP	IN	_	6	_	_	start_char=251|end_char=254
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=255|end_char=258
+9	worst	bad	ADJ	JJS	Degree=Sup	8	_	_	start_char=259|end_char=264|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=264|end_char=265|SpacesAfter=\n
+
+# text = It could easily overun Uraine and end the war in its favour but that will result in all out war from the West.
+# sent_id = 8
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=266|end_char=268
+2	could	could	AUX	MD	VerbForm=Fin	1	_	_	start_char=269|end_char=274
+3	easily	easily	ADV	RB	_	2	_	_	start_char=275|end_char=281
+4	overun	overun	VERB	VB	VerbForm=Inf	3	_	_	start_char=282|end_char=288
+5	Uraine	Uraine	PROPN	NNP	Number=Sing	4	_	_	start_char=289|end_char=295
+6	and	and	CCONJ	CC	_	5	_	_	start_char=296|end_char=299
+7	end	end	VERB	VB	VerbForm=Inf	6	_	_	start_char=300|end_char=303
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=304|end_char=307
+9	war	war	NOUN	NN	Number=Sing	8	_	_	start_char=308|end_char=311
+10	in	in	ADP	IN	_	9	_	_	start_char=312|end_char=314
+11	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	_	_	start_char=315|end_char=318
+12	favour	favour	NOUN	NN	Number=Sing	11	_	_	start_char=319|end_char=325
+13	but	but	CCONJ	CC	_	12	_	_	start_char=326|end_char=329
+14	that	that	PRON	DT	Number=Sing|PronType=Dem	13	_	_	start_char=330|end_char=334
+15	will	will	AUX	MD	VerbForm=Fin	14	_	_	start_char=335|end_char=339
+16	result	result	VERB	VB	VerbForm=Inf	15	_	_	start_char=340|end_char=346
+17	in	in	ADP	IN	_	16	_	_	start_char=347|end_char=349
+18	all	all	DET	DT	_	17	_	_	start_char=350|end_char=353
+19	out	out	ADP	RP	_	18	_	_	start_char=354|end_char=357
+20	war	war	NOUN	NN	Number=Sing	19	_	_	start_char=358|end_char=361
+21	from	from	ADP	IN	_	20	_	_	start_char=362|end_char=366
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=367|end_char=370
+23	West	West	PROPN	NNP	Number=Sing	22	_	_	start_char=371|end_char=375|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=375|end_char=376|SpacesAfter=\n
+
+# text = That’s the only explanation.
+# sent_id = 9
+1-2	That’s	_	_	_	_	_	_	_	start_char=377|end_char=383
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=377|end_char=381
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=381|end_char=383
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=384|end_char=387
+4	only	only	ADJ	JJ	Degree=Pos	3	_	_	start_char=388|end_char=392
+5	explanation	explanation	NOUN	NN	Number=Sing	4	_	_	start_char=393|end_char=404|SpaceAfter=No
+6	.	.	PUNCT	.	_	5	_	_	start_char=404|end_char=405|SpacesAfter=\n\n
+
+# text = The evil empire wants the phoenix from the ashes.
+# sent_id = 10
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=407|end_char=410
+2	evil	evil	ADJ	JJ	Degree=Pos	1	_	_	start_char=411|end_char=415
+3	empire	empire	NOUN	NN	Number=Sing	2	_	_	start_char=416|end_char=422
+4	wants	want	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=423|end_char=428
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=429|end_char=432
+6	phoenix	phoenix	NOUN	NN	Number=Sing	5	_	_	start_char=433|end_char=440
+7	from	from	ADP	IN	_	6	_	_	start_char=441|end_char=445
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=446|end_char=449
+9	ashes	ash	NOUN	NNS	Number=Plur	8	_	_	start_char=450|end_char=455|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=455|end_char=456|SpacesAfter=\n
+
+# text = They now, or they at least thin they will be the only ones capable of taing power once it is all over.
+# sent_id = 11
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=457|end_char=461
+2	now	now	ADV	RB	_	1	_	_	start_char=462|end_char=465|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=465|end_char=466
+4	or	or	CCONJ	CC	_	3	_	_	start_char=467|end_char=469
+5	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	_	_	start_char=470|end_char=474
+6	at	at	ADP	IN	ExtPos=ADV	5	_	_	start_char=475|end_char=477
+7	least	least	ADJ	JJS	Degree=Sup	6	_	_	start_char=478|end_char=483
+8	thin	thin	ADJ	JJ	Degree=Pos	7	_	_	start_char=484|end_char=488
+9	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	_	_	start_char=489|end_char=493
+10	will	will	AUX	MD	VerbForm=Fin	9	_	_	start_char=494|end_char=498
+11	be	be	AUX	VB	VerbForm=Inf	10	_	_	start_char=499|end_char=501
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=502|end_char=505
+13	only	only	ADJ	JJ	Degree=Pos	12	_	_	start_char=506|end_char=510
+14	ones	one	NOUN	NNS	Number=Plur	13	_	_	start_char=511|end_char=515
+15	capable	capable	ADJ	JJ	Degree=Pos	14	_	_	start_char=516|end_char=523
+16	of	of	ADP	IN	_	15	_	_	start_char=524|end_char=526
+17	taing	tay	VERB	VBG	VerbForm=Ger	16	_	_	start_char=527|end_char=532
+18	power	power	NOUN	NN	Number=Sing	17	_	_	start_char=533|end_char=538
+19	once	once	SCONJ	IN	_	18	_	_	start_char=539|end_char=543
+20	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	19	_	_	start_char=544|end_char=546
+21	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	_	_	start_char=547|end_char=549
+22	all	all	ADV	RB	_	21	_	_	start_char=550|end_char=553
+23	over	over	ADV	RB	_	22	_	_	start_char=554|end_char=558|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=558|end_char=559|SpacesAfter=\n
+
+# text = They do not care about human life except their own.
+# sent_id = 12
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=560|end_char=564
+2	do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=565|end_char=567
+3	not	not	PART	RB	_	2	_	_	start_char=568|end_char=571
+4	care	care	VERB	VB	VerbForm=Inf	3	_	_	start_char=572|end_char=576
+5	about	about	ADP	IN	_	4	_	_	start_char=577|end_char=582
+6	human	human	ADJ	JJ	Degree=Pos	5	_	_	start_char=583|end_char=588
+7	life	life	NOUN	NN	Number=Sing	6	_	_	start_char=589|end_char=593
+8	except	except	ADP	IN	_	7	_	_	start_char=594|end_char=600
+9	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	8	_	_	start_char=601|end_char=606
+10	own	own	ADJ	JJ	Degree=Pos	9	_	_	start_char=607|end_char=610|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=610|end_char=611|SpacesAfter=\n
+
+# text = They have the means to exterminate all life on earth and that is what they will do to aquire the god status promised them by their god.
+# sent_id = 13
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=612|end_char=616
+2	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=617|end_char=621
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=622|end_char=625
+4	means	means	NOUN	NNS	Number=Plur	3	_	_	start_char=626|end_char=631
+5	to	to	PART	TO	_	4	_	_	start_char=632|end_char=634
+6	exterminate	exterminate	VERB	VB	VerbForm=Inf	5	_	_	start_char=635|end_char=646
+7	all	all	DET	DT	_	6	_	_	start_char=647|end_char=650
+8	life	life	NOUN	NN	Number=Sing	7	_	_	start_char=651|end_char=655
+9	on	on	ADP	IN	_	8	_	_	start_char=656|end_char=658
+10	earth	earth	NOUN	NN	Number=Sing	9	_	_	start_char=659|end_char=664
+11	and	and	CCONJ	CC	_	10	_	_	start_char=665|end_char=668
+12	that	that	PRON	DT	Number=Sing|PronType=Dem	11	_	_	start_char=669|end_char=673
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=674|end_char=676
+14	what	what	PRON	WP	PronType=Rel	13	_	_	start_char=677|end_char=681
+15	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	_	_	start_char=682|end_char=686
+16	will	will	AUX	MD	VerbForm=Fin	15	_	_	start_char=687|end_char=691
+17	do	do	VERB	VB	VerbForm=Inf	16	_	_	start_char=692|end_char=694
+18	to	to	PART	TO	_	17	_	_	start_char=695|end_char=697
+19	aquire	aquire	VERB	VB	VerbForm=Inf	18	_	_	start_char=698|end_char=704
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=705|end_char=708
+21	god	god	NOUN	NN	Number=Sing	20	_	_	start_char=709|end_char=712
+22	status	status	NOUN	NN	Number=Sing	21	_	_	start_char=713|end_char=719
+23	promised	promise	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	_	_	start_char=720|end_char=728
+24	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	23	_	_	start_char=729|end_char=733
+25	by	by	ADP	IN	_	24	_	_	start_char=734|end_char=736
+26	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	25	_	_	start_char=737|end_char=742
+27	god	god	NOUN	NN	Number=Sing	26	_	_	start_char=743|end_char=746|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=746|end_char=747|SpacesAfter=\n
+
+# text = They have no reason to disbelieve him.
+# sent_id = 14
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=748|end_char=752
+2	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=753|end_char=757
+3	no	no	DET	DT	_	2	_	_	start_char=758|end_char=760
+4	reason	reason	NOUN	NN	Number=Sing	3	_	_	start_char=761|end_char=767
+5	to	to	PART	TO	_	4	_	_	start_char=768|end_char=770
+6	disbelieve	disbelieve	VERB	VB	VerbForm=Inf	5	_	_	start_char=771|end_char=781
+7	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	_	_	start_char=782|end_char=785|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	_	_	start_char=785|end_char=786|SpacesAfter=\n\n
+
+# text = Loo at the power and wealth they already have.
+# sent_id = 15
+1	Loo	loo	NOUN	NN	Number=Sing	0	_	_	start_char=788|end_char=791
+2	at	at	ADP	IN	_	1	_	_	start_char=792|end_char=794
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=795|end_char=798
+4	power	power	NOUN	NN	Number=Sing	3	_	_	start_char=799|end_char=804
+5	and	and	CCONJ	CC	_	4	_	_	start_char=805|end_char=808
+6	wealth	wealth	NOUN	NN	Number=Sing	5	_	_	start_char=809|end_char=815
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	_	_	start_char=816|end_char=820
+8	already	already	ADV	RB	_	7	_	_	start_char=821|end_char=828
+9	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=829|end_char=833|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=833|end_char=834
+
+# text = It was promised them and he delivered.
+# sent_id = 16
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=835|end_char=837
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=838|end_char=841
+3	promised	promise	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	_	_	start_char=842|end_char=850
+4	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	_	_	start_char=851|end_char=855
+5	and	and	CCONJ	CC	_	4	_	_	start_char=856|end_char=859
+6	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	_	_	start_char=860|end_char=862
+7	delivered	deliver	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=863|end_char=872|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	_	_	start_char=872|end_char=873
+
+# text = What more needs to be said.
+# sent_id = 17
+1	What	what	PRON	WP	PronType=Int	0	_	_	start_char=874|end_char=878
+2	more	more	ADJ	JJR	Degree=Cmp	1	_	_	start_char=879|end_char=883
+3	needs	need	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=884|end_char=889
+4	to	to	PART	TO	_	3	_	_	start_char=890|end_char=892
+5	be	be	AUX	VB	VerbForm=Inf	4	_	_	start_char=893|end_char=895
+6	said	say	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	_	_	start_char=896|end_char=900|SpaceAfter=No
+7	.	.	PUNCT	.	_	6	_	_	start_char=900|end_char=901|SpacesAfter=\n
+
+# text = They forget they are still of this world and once they die all bets are off.
+# sent_id = 18
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=902|end_char=906
+2	forget	forget	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=907|end_char=913
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	_	_	start_char=914|end_char=918
+4	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=919|end_char=922
+5	still	still	ADV	RB	_	4	_	_	start_char=923|end_char=928
+6	of	of	ADP	IN	_	5	_	_	start_char=929|end_char=931
+7	this	this	DET	DT	Number=Sing|PronType=Dem	6	_	_	start_char=932|end_char=936
+8	world	world	NOUN	NN	Number=Sing	7	_	_	start_char=937|end_char=942
+9	and	and	CCONJ	CC	_	8	_	_	start_char=943|end_char=946
+10	once	once	SCONJ	IN	_	9	_	_	start_char=947|end_char=951
+11	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	_	_	start_char=952|end_char=956
+12	die	die	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=957|end_char=960
+13	all	all	DET	DT	_	12	_	_	start_char=961|end_char=964
+14	bets	bet	NOUN	NNS	Number=Plur	13	_	_	start_char=965|end_char=969
+15	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=970|end_char=973
+16	off	off	ADV	RB	_	15	_	_	start_char=974|end_char=977|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=977|end_char=978|SpacesAfter=\n
+
+# text = Evil = stupid.
+# sent_id = 19
+1	Evil	evil	NOUN	NN	Number=Sing	0	_	_	start_char=979|end_char=983
+2	=	=	SYM	SYM	_	1	_	_	start_char=984|end_char=985
+3	stupid	stupid	ADJ	JJ	Degree=Pos	2	_	_	start_char=986|end_char=992|SpaceAfter=No
+4	.	.	PUNCT	.	_	3	_	_	start_char=992|end_char=993|SpacesAfter=\n
+
+# text = Satan himself is evil therefore stupid.
+# sent_id = 20
+1	Satan	Satan	PROPN	NNP	Number=Sing	0	_	_	start_char=994|end_char=999
+2	himself	himself	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Emp|Reflex=Yes	1	_	_	start_char=1000|end_char=1007
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1008|end_char=1010
+4	evil	evil	ADJ	JJ	Degree=Pos	3	_	_	start_char=1011|end_char=1015
+5	therefore	therefore	ADV	RB	_	4	_	_	start_char=1016|end_char=1025
+6	stupid	stupid	ADJ	JJ	Degree=Pos	5	_	_	start_char=1026|end_char=1032|SpaceAfter=No
+7	.	.	PUNCT	.	_	6	_	_	start_char=1032|end_char=1033|SpacesAfter=\n
+
+# text = It’s a case of the blind deceiving the blind.
+# sent_id = 21
+1-2	It’s	_	_	_	_	_	_	_	start_char=1034|end_char=1038
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1034|end_char=1036
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1036|end_char=1038
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=1039|end_char=1040
+4	case	case	NOUN	NN	Number=Sing	3	_	_	start_char=1041|end_char=1045
+5	of	of	ADP	IN	_	4	_	_	start_char=1046|end_char=1048
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1049|end_char=1052
+7	blind	blind	ADJ	JJ	Degree=Pos	6	_	_	start_char=1053|end_char=1058
+8	deceiving	deceive	VERB	VBG	VerbForm=Ger	7	_	_	start_char=1059|end_char=1068
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1069|end_char=1072
+10	blind	blind	ADJ	JJ	Degree=Pos	9	_	_	start_char=1073|end_char=1078|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=1078|end_char=1079|SpacesAfter=\n\n
+
+# text = None of it matters to us.
+# sent_id = 22
+1	None	none	NOUN	NN	Number=Sing	0	_	_	start_char=1081|end_char=1085
+2	of	of	ADP	IN	_	1	_	_	start_char=1086|end_char=1088
+3	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	_	_	start_char=1089|end_char=1091
+4	matters	matter	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1092|end_char=1099
+5	to	to	ADP	IN	_	4	_	_	start_char=1100|end_char=1102
+6	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	5	_	_	start_char=1103|end_char=1105|SpaceAfter=No
+7	.	.	PUNCT	.	_	6	_	_	start_char=1105|end_char=1106|SpacesAfter=\n
+
+# text = Not as long as we are not suced into the evil which is what they are trying to do through the mass media, normalising evil, presenting it as the only available option.
+# sent_id = 23
+1	Not	not	PART	RB	_	0	_	_	start_char=1107|end_char=1110
+2	as	as	ADV	RB	_	1	_	_	start_char=1111|end_char=1113
+3	long	long	ADV	RB	Degree=Pos	2	_	_	start_char=1114|end_char=1118
+4	as	as	SCONJ	IN	_	3	_	_	start_char=1119|end_char=1121
+5	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	_	_	start_char=1122|end_char=1124
+6	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1125|end_char=1128
+7	not	not	PART	RB	_	6	_	_	start_char=1129|end_char=1132
+8	suced	suce	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	_	_	start_char=1133|end_char=1138
+9	into	into	ADP	IN	_	8	_	_	start_char=1139|end_char=1143
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=1144|end_char=1147
+11	evil	evil	NOUN	NN	Number=Sing	10	_	_	start_char=1148|end_char=1152
+12	which	which	PRON	WDT	PronType=Rel	11	_	_	start_char=1153|end_char=1158
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=1159|end_char=1161
+14	what	what	PRON	WP	PronType=Rel	13	_	_	start_char=1162|end_char=1166
+15	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	_	_	start_char=1167|end_char=1171
+16	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=1172|end_char=1175
+17	trying	try	VERB	VBG	Tense=Pres|VerbForm=Part	16	_	_	start_char=1176|end_char=1182
+18	to	to	PART	TO	_	17	_	_	start_char=1183|end_char=1185
+19	do	do	VERB	VB	VerbForm=Inf	18	_	_	start_char=1186|end_char=1188
+20	through	through	ADP	IN	_	19	_	_	start_char=1189|end_char=1196
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=1197|end_char=1200
+22	mass	mass	ADJ	JJ	Degree=Pos	21	_	_	start_char=1201|end_char=1205
+23	media	media	NOUN	NN	Number=Sing	22	_	_	start_char=1206|end_char=1211|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=1211|end_char=1212
+25	normalising	normalise	VERB	VBG	VerbForm=Ger	24	_	_	start_char=1213|end_char=1224
+26	evil	evil	NOUN	NN	Number=Sing	25	_	_	start_char=1225|end_char=1229|SpaceAfter=No
+27	,	,	PUNCT	,	_	26	_	_	start_char=1229|end_char=1230
+28	presenting	present	VERB	VBG	VerbForm=Ger	27	_	_	start_char=1231|end_char=1241
+29	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	28	_	_	start_char=1242|end_char=1244
+30	as	as	ADP	IN	_	29	_	_	start_char=1245|end_char=1247
+31	the	the	DET	DT	Definite=Def|PronType=Art	30	_	_	start_char=1248|end_char=1251
+32	only	only	ADJ	JJ	Degree=Pos	31	_	_	start_char=1252|end_char=1256
+33	available	available	ADJ	JJ	Degree=Pos	32	_	_	start_char=1257|end_char=1266
+34	option	option	NOUN	NN	Number=Sing	33	_	_	start_char=1267|end_char=1273|SpaceAfter=No
+35	.	.	PUNCT	.	_	34	_	_	start_char=1273|end_char=1274|SpacesAfter=\n
+
+# text = This taes many forms and part of it is to force you to accept nowing lies so that you become a willing subservient slave of the lie, a willing, nowing slave of the lie.
+# sent_id = 24
+1	This	this	DET	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1275|end_char=1279
+2	taes	taes	NOUN	NN	Number=Sing	1	_	_	start_char=1280|end_char=1284
+3	many	many	ADJ	JJ	Degree=Pos	2	_	_	start_char=1285|end_char=1289
+4	forms	form	NOUN	NNS	Number=Plur	3	_	_	start_char=1290|end_char=1295
+5	and	and	CCONJ	CC	_	4	_	_	start_char=1296|end_char=1299
+6	part	part	NOUN	NN	Number=Sing	5	_	_	start_char=1300|end_char=1304
+7	of	of	ADP	IN	_	6	_	_	start_char=1305|end_char=1307
+8	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	_	_	start_char=1308|end_char=1310
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=1311|end_char=1313
+10	to	to	PART	TO	_	9	_	_	start_char=1314|end_char=1316
+11	force	force	VERB	VB	VerbForm=Inf	10	_	_	start_char=1317|end_char=1322
+12	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	11	_	_	start_char=1323|end_char=1326
+13	to	to	PART	TO	_	12	_	_	start_char=1327|end_char=1329
+14	accept	accept	VERB	VB	VerbForm=Inf	13	_	_	start_char=1330|end_char=1336
+15	nowing	now	VERB	VBG	VerbForm=Ger	14	_	_	start_char=1337|end_char=1343
+16	lies	lie	NOUN	NNS	Number=Plur	15	_	_	start_char=1344|end_char=1348
+17	so	so	SCONJ	IN	_	16	_	_	start_char=1349|end_char=1351
+18	that	that	SCONJ	IN	_	17	_	_	start_char=1352|end_char=1356
+19	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	18	_	_	start_char=1357|end_char=1360
+20	become	become	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	19	_	_	start_char=1361|end_char=1367
+21	a	a	DET	DT	Definite=Ind|PronType=Art	20	_	_	start_char=1368|end_char=1369
+22	willing	willing	ADJ	JJ	Degree=Pos	21	_	_	start_char=1370|end_char=1377
+23	subservient	subservient	ADJ	JJ	Degree=Pos	22	_	_	start_char=1378|end_char=1389
+24	slave	slave	NOUN	NN	Number=Sing	23	_	_	start_char=1390|end_char=1395
+25	of	of	ADP	IN	_	24	_	_	start_char=1396|end_char=1398
+26	the	the	DET	DT	Definite=Def|PronType=Art	25	_	_	start_char=1399|end_char=1402
+27	lie	lie	NOUN	NN	Number=Sing	26	_	_	start_char=1403|end_char=1406|SpaceAfter=No
+28	,	,	PUNCT	,	_	27	_	_	start_char=1406|end_char=1407
+29	a	a	DET	DT	Definite=Ind|PronType=Art	28	_	_	start_char=1408|end_char=1409
+30	willing	willing	ADJ	JJ	Degree=Pos	29	_	_	start_char=1410|end_char=1417|SpaceAfter=No
+31	,	,	PUNCT	,	_	30	_	_	start_char=1417|end_char=1418
+32	nowing	now	VERB	VBG	VerbForm=Ger	31	_	_	start_char=1419|end_char=1425
+33	slave	slave	NOUN	NN	Number=Sing	32	_	_	start_char=1426|end_char=1431
+34	of	of	ADP	IN	_	33	_	_	start_char=1432|end_char=1434
+35	the	the	DET	DT	Definite=Def|PronType=Art	34	_	_	start_char=1435|end_char=1438
+36	lie	lie	NOUN	NN	Number=Sing	35	_	_	start_char=1439|end_char=1442|SpaceAfter=No
+37	.	.	PUNCT	.	_	36	_	_	start_char=1442|end_char=1443
+
+# text = A laughable person, by any standard.
+# sent_id = 25
+1	A	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=1444|end_char=1445
+2	laughable	laughable	ADJ	JJ	Degree=Pos	1	_	_	start_char=1446|end_char=1455
+3	person	person	NOUN	NN	Number=Sing	2	_	_	start_char=1456|end_char=1462|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1462|end_char=1463
+5	by	by	ADP	IN	_	4	_	_	start_char=1464|end_char=1466
+6	any	any	DET	DT	_	5	_	_	start_char=1467|end_char=1470
+7	standard	standard	NOUN	NN	Number=Sing	6	_	_	start_char=1471|end_char=1479|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	_	_	start_char=1479|end_char=1480|SpacesAfter=\n
+
+# text = With all this going on is it any wonder the Bible says people will all be microchipped willingly.
+# sent_id = 26
+1	With	with	SCONJ	IN	_	0	_	_	start_char=1481|end_char=1485
+2	all	all	DET	PDT	_	1	_	_	start_char=1486|end_char=1489
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	2	_	_	start_char=1490|end_char=1494
+4	going	go	VERB	VBG	VerbForm=Ger	3	_	_	start_char=1495|end_char=1500
+5	on	on	ADP	RP	_	4	_	_	start_char=1501|end_char=1503
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1504|end_char=1506
+7	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	_	_	start_char=1507|end_char=1509
+8	any	any	DET	DT	_	7	_	_	start_char=1510|end_char=1513
+9	wonder	wonder	NOUN	NN	Number=Sing	8	_	_	start_char=1514|end_char=1520
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=1521|end_char=1524
+11	Bible	Bible	PROPN	NNP	Number=Sing	10	_	_	start_char=1525|end_char=1530
+12	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=1531|end_char=1535
+13	people	person	NOUN	NNS	Number=Plur	12	_	_	start_char=1536|end_char=1542
+14	will	will	AUX	MD	VerbForm=Fin	13	_	_	start_char=1543|end_char=1547
+15	all	all	ADV	RB	_	14	_	_	start_char=1548|end_char=1551
+16	be	be	AUX	VB	VerbForm=Inf	15	_	_	start_char=1552|end_char=1554
+17	microchipped	microchip	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	16	_	_	start_char=1555|end_char=1567
+18	willingly	willingly	ADV	RB	_	17	_	_	start_char=1568|end_char=1577|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=1577|end_char=1578|SpacesAfter=\n
+
+# text = All but the few.
+# sent_id = 27
+1	All	all	DET	DT	_	0	_	_	start_char=1579|end_char=1582
+2	but	but	ADP	IN	_	1	_	_	start_char=1583|end_char=1586
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1587|end_char=1590
+4	few	few	ADJ	JJ	Degree=Pos	3	_	_	start_char=1591|end_char=1594|SpaceAfter=No
+5	.	.	PUNCT	.	_	4	_	_	start_char=1594|end_char=1595|SpacesAfter=\n
+
+# text = This is troublesome
+# sent_id = 28
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=1596|end_char=1600
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1601|end_char=1603
+3	troublesome	troublesome	ADJ	JJ	Degree=Pos	2	_	_	start_char=1604|end_char=1615|SpacesAfter=\n\n
+
+# text = The few will be guillotined but is it possible many more will be raptured away beforehand?
+# sent_id = 29
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1617|end_char=1620
+2	few	few	ADJ	JJ	Degree=Pos	1	_	_	start_char=1621|end_char=1624
+3	will	will	AUX	MD	VerbForm=Fin	2	_	_	start_char=1625|end_char=1629
+4	be	be	AUX	VB	VerbForm=Inf	3	_	_	start_char=1630|end_char=1632
+5	guillotined	guillotine	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	_	_	start_char=1633|end_char=1644
+6	but	but	CCONJ	CC	_	5	_	_	start_char=1645|end_char=1648
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=1649|end_char=1651
+8	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	_	_	start_char=1652|end_char=1654
+9	possible	possible	ADJ	JJ	Degree=Pos	8	_	_	start_char=1655|end_char=1663
+10	many	many	ADJ	JJ	Degree=Pos	9	_	_	start_char=1664|end_char=1668
+11	more	more	ADJ	JJR	Degree=Cmp	10	_	_	start_char=1669|end_char=1673
+12	will	will	AUX	MD	VerbForm=Fin	11	_	_	start_char=1674|end_char=1678
+13	be	be	AUX	VB	VerbForm=Inf	12	_	_	start_char=1679|end_char=1681
+14	raptured	rapture	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	13	_	_	start_char=1682|end_char=1690
+15	away	away	ADV	RB	_	14	_	_	start_char=1691|end_char=1695
+16	beforehand	beforehand	ADV	RB	_	15	_	_	start_char=1696|end_char=1706|SpaceAfter=No
+17	?	?	PUNCT	.	_	16	_	_	start_char=1706|end_char=1707|SpacesAfter=\n
+
+# text = There are indications of this in the Bible.
+# sent_id = 30
+1	There	there	PRON	EX	_	0	_	_	start_char=1708|end_char=1713
+2	are	be	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1714|end_char=1717
+3	indications	indication	NOUN	NNS	Number=Plur	2	_	_	start_char=1718|end_char=1729
+4	of	of	ADP	IN	_	3	_	_	start_char=1730|end_char=1732
+5	this	this	PRON	DT	Number=Sing|PronType=Dem	4	_	_	start_char=1733|end_char=1737
+6	in	in	ADP	IN	_	5	_	_	start_char=1738|end_char=1740
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1741|end_char=1744
+8	Bible	Bible	PROPN	NNP	Number=Sing	7	_	_	start_char=1745|end_char=1750|SpaceAfter=No
+9	.	.	PUNCT	.	_	8	_	_	start_char=1750|end_char=1751|SpacesAfter=\n
+
+# text = The fire and thunder preachers of the past, the righteous ones, it is clear, we’re right after all, from current events where it will tae all our efforts in that regard to avoid eternal hellfire.
+# sent_id = 31
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1752|end_char=1755
+2	fire	fire	NOUN	NN	Number=Sing	1	_	_	start_char=1756|end_char=1760
+3	and	and	CCONJ	CC	_	2	_	_	start_char=1761|end_char=1764
+4	thunder	thunder	NOUN	NN	Number=Sing	3	_	_	start_char=1765|end_char=1772
+5	preachers	preacher	NOUN	NNS	Number=Plur	4	_	_	start_char=1773|end_char=1782
+6	of	of	ADP	IN	_	5	_	_	start_char=1783|end_char=1785
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1786|end_char=1789
+8	past	past	NOUN	NN	Number=Sing	7	_	_	start_char=1790|end_char=1794|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1794|end_char=1795
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=1796|end_char=1799
+11	righteous	righteous	ADJ	JJ	Degree=Pos	10	_	_	start_char=1800|end_char=1809
+12	ones	one	NOUN	NNS	Number=Plur	11	_	_	start_char=1810|end_char=1814|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=1814|end_char=1815
+14	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	_	_	start_char=1816|end_char=1818
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=1819|end_char=1821
+16	clear	clear	ADJ	JJ	Degree=Pos	15	_	_	start_char=1822|end_char=1827|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=1827|end_char=1828
+18-19	we’re	_	_	_	_	_	_	_	start_char=1829|end_char=1834
+18	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	17	_	_	start_char=1829|end_char=1831
+19	’re	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	18	_	_	start_char=1831|end_char=1834
+20	right	right	ADJ	JJ	Degree=Pos	19	_	_	start_char=1835|end_char=1840
+21	after	after	ADP	IN	_	20	_	_	start_char=1841|end_char=1846
+22	all	all	DET	DT	_	21	_	_	start_char=1847|end_char=1850|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=1850|end_char=1851
+24	from	from	ADP	IN	_	23	_	_	start_char=1852|end_char=1856
+25	current	current	ADJ	JJ	Degree=Pos	24	_	_	start_char=1857|end_char=1864
+26	events	event	NOUN	NNS	Number=Plur	25	_	_	start_char=1865|end_char=1871
+27	where	where	ADV	WRB	PronType=Rel	26	_	_	start_char=1872|end_char=1877
+28	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	27	_	_	start_char=1878|end_char=1880
+29	will	will	AUX	MD	VerbForm=Fin	28	_	_	start_char=1881|end_char=1885
+30	tae	tae	VERB	VB	VerbForm=Inf	29	_	_	start_char=1886|end_char=1889
+31	all	all	DET	PDT	_	30	_	_	start_char=1890|end_char=1893
+32	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	31	_	_	start_char=1894|end_char=1897
+33	efforts	effort	NOUN	NNS	Number=Plur	32	_	_	start_char=1898|end_char=1905
+34	in	in	ADP	IN	_	33	_	_	start_char=1906|end_char=1908
+35	that	that	DET	DT	Number=Sing|PronType=Dem	34	_	_	start_char=1909|end_char=1913
+36	regard	regard	NOUN	NN	Number=Sing	35	_	_	start_char=1914|end_char=1920
+37	to	to	PART	TO	_	36	_	_	start_char=1921|end_char=1923
+38	avoid	avoid	VERB	VB	VerbForm=Inf	37	_	_	start_char=1924|end_char=1929
+39	eternal	eternal	ADJ	JJ	Degree=Pos	38	_	_	start_char=1930|end_char=1937
+40	hellfire	hellfire	NOUN	NN	Number=Sing	39	_	_	start_char=1938|end_char=1946|SpaceAfter=No
+41	.	.	PUNCT	.	_	40	_	_	start_char=1946|end_char=1947|SpaceAfter=No
+

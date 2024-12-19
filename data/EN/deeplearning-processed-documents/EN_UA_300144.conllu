@@ -1,0 +1,839 @@
+# text = US Viewed More Favorably Than China: Survey
+# sent_id = 0
+1	US	US	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=2
+2	Viewed	View	VERB	VBN	Tense=Past|VerbForm=Part	1	_	_	start_char=3|end_char=9
+3	More	more	ADV	RBR	Degree=Cmp	2	_	_	start_char=10|end_char=14
+4	Favorably	favorably	ADV	RB	_	3	_	_	start_char=15|end_char=24
+5	Than	then	ADP	IN	_	4	_	_	start_char=25|end_char=29
+6	China	China	PROPN	NNP	Number=Sing	5	_	_	start_char=30|end_char=35|SpaceAfter=No
+7	:	:	PUNCT	:	_	6	_	_	start_char=35|end_char=36
+8	Survey	Survey	PROPN	NNP	Number=Sing	7	_	_	start_char=37|end_char=43|SpacesAfter=\s\n\n\s
+
+# text = The United States is viewed much more favorably than China in 24 countries, most of which are high-income nations, amid growing competition between the two nations, according to the Pew Research Center.
+# sent_id = 1
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=47|end_char=50
+2	United	United	ADJ	NNP	Degree=Pos	1	_	_	start_char=51|end_char=57
+3	States	State	PROPN	NNPS	Number=Plur	2	_	_	start_char=58|end_char=64
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=65|end_char=67
+5	viewed	view	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	_	_	start_char=68|end_char=74
+6	much	much	ADV	RB	_	5	_	_	start_char=75|end_char=79
+7	more	more	ADV	RBR	Degree=Cmp	6	_	_	start_char=80|end_char=84
+8	favorably	favorably	ADV	RB	_	7	_	_	start_char=85|end_char=94
+9	than	than	ADP	IN	_	8	_	_	start_char=95|end_char=99
+10	China	China	PROPN	NNP	Number=Sing	9	_	_	start_char=100|end_char=105
+11	in	in	ADP	IN	_	10	_	_	start_char=106|end_char=108
+12	24	24	NUM	CD	NumForm=Digit|NumType=Card	11	_	_	start_char=109|end_char=111
+13	countries	country	NOUN	NNS	Number=Plur	12	_	_	start_char=112|end_char=121|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=121|end_char=122
+15	most	most	ADJ	JJS	Degree=Sup	14	_	_	start_char=123|end_char=127
+16	of	of	ADP	IN	_	15	_	_	start_char=128|end_char=130
+17	which	which	PRON	WDT	PronType=Rel	16	_	_	start_char=131|end_char=136
+18	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=137|end_char=140
+19	high	high	ADJ	JJ	Degree=Pos	18	_	_	start_char=141|end_char=145|SpaceAfter=No
+20	-	-	PUNCT	HYPH	_	19	_	_	start_char=145|end_char=146|SpaceAfter=No
+21	income	income	NOUN	NN	Number=Sing	20	_	_	start_char=146|end_char=152
+22	nations	nation	NOUN	NNS	Number=Plur	21	_	_	start_char=153|end_char=160|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=160|end_char=161
+24	amid	amid	ADP	IN	_	23	_	_	start_char=162|end_char=166
+25	growing	grow	VERB	VBG	VerbForm=Ger	24	_	_	start_char=167|end_char=174
+26	competition	competition	NOUN	NN	Number=Sing	25	_	_	start_char=175|end_char=186
+27	between	between	ADP	IN	_	26	_	_	start_char=187|end_char=194
+28	the	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=195|end_char=198
+29	two	two	NUM	CD	NumForm=Word|NumType=Card	28	_	_	start_char=199|end_char=202
+30	nations	nation	NOUN	NNS	Number=Plur	29	_	_	start_char=203|end_char=210|SpaceAfter=No
+31	,	,	PUNCT	,	_	30	_	_	start_char=210|end_char=211
+32	according	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	31	_	_	start_char=212|end_char=221
+33	to	to	ADP	IN	_	32	_	_	start_char=222|end_char=224
+34	the	the	DET	DT	Definite=Def|PronType=Art	33	_	_	start_char=225|end_char=228
+35	Pew	Pew	PROPN	NNP	Number=Sing	34	_	_	start_char=229|end_char=232
+36	Research	Research	PROPN	NNP	Number=Sing	35	_	_	start_char=233|end_char=241
+37	Center	Center	PROPN	NNP	Number=Sing	36	_	_	start_char=242|end_char=248|SpaceAfter=No
+38	.	.	PUNCT	.	_	37	_	_	start_char=248|end_char=249|SpacesAfter=\n\n
+
+# text = “This year, overall views of the United States are much more positive than views of China in most places surveyed,” Pew Research noted.
+# sent_id = 2
+1	“	''	PUNCT	``	_	0	_	_	start_char=251|end_char=252|SpaceAfter=No
+2	This	this	DET	DT	Number=Sing|PronType=Dem	1	_	_	start_char=252|end_char=256
+3	year	year	NOUN	NN	Number=Sing	2	_	_	start_char=257|end_char=261|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=261|end_char=262
+5	overall	overall	ADJ	JJ	Degree=Pos	4	_	_	start_char=263|end_char=270
+6	views	view	NOUN	NNS	Number=Plur	5	_	_	start_char=271|end_char=276
+7	of	of	ADP	IN	_	6	_	_	start_char=277|end_char=279
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=280|end_char=283
+9	United	United	ADJ	NNP	Degree=Pos	8	_	_	start_char=284|end_char=290
+10	States	State	PROPN	NNPS	Number=Plur	9	_	_	start_char=291|end_char=297
+11	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=298|end_char=301
+12	much	much	ADV	RB	_	11	_	_	start_char=302|end_char=306
+13	more	more	ADV	RBR	Degree=Cmp	12	_	_	start_char=307|end_char=311
+14	positive	positive	ADJ	JJ	Degree=Pos	13	_	_	start_char=312|end_char=320
+15	than	than	ADP	IN	_	14	_	_	start_char=321|end_char=325
+16	views	view	NOUN	NNS	Number=Plur	15	_	_	start_char=326|end_char=331
+17	of	of	ADP	IN	_	16	_	_	start_char=332|end_char=334
+18	China	China	PROPN	NNP	Number=Sing	17	_	_	start_char=335|end_char=340
+19	in	in	ADP	IN	_	18	_	_	start_char=341|end_char=343
+20	most	most	ADJ	JJS	Degree=Sup	19	_	_	start_char=344|end_char=348
+21	places	place	NOUN	NNS	Number=Plur	20	_	_	start_char=349|end_char=355
+22	surveyed	survey	VERB	VBN	Tense=Past|VerbForm=Part	21	_	_	start_char=356|end_char=364|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=364|end_char=365|SpaceAfter=No
+24	”	''	PUNCT	''	_	23	_	_	start_char=365|end_char=366
+25	Pew	Pew	PROPN	NNP	Number=Sing	24	_	_	start_char=367|end_char=370
+26	Research	Research	PROPN	NNP	Number=Sing	25	_	_	start_char=371|end_char=379
+27	noted	note	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	26	_	_	start_char=380|end_char=385|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=385|end_char=386
+
+# text = “But this has not always been the case in our nearly two decades of favorability polling, and views of the countries have fluctuated alongside views of their leaders.”
+# sent_id = 3
+1	“	''	PUNCT	``	_	0	_	_	start_char=387|end_char=388|SpaceAfter=No
+2	But	but	CCONJ	CC	_	1	_	_	start_char=388|end_char=391
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	2	_	_	start_char=392|end_char=396
+4	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=397|end_char=400
+5	not	not	PART	RB	_	4	_	_	start_char=401|end_char=404
+6	always	always	ADV	RB	_	5	_	_	start_char=405|end_char=411
+7	been	be	AUX	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=412|end_char=416
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=417|end_char=420
+9	case	case	NOUN	NN	Number=Sing	8	_	_	start_char=421|end_char=425
+10	in	in	ADP	IN	_	9	_	_	start_char=426|end_char=428
+11	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	10	_	_	start_char=429|end_char=432
+12	nearly	nearly	ADV	RB	_	11	_	_	start_char=433|end_char=439
+13	two	two	NUM	CD	NumForm=Word|NumType=Card	12	_	_	start_char=440|end_char=443
+14	decades	decade	NOUN	NNS	Number=Plur	13	_	_	start_char=444|end_char=451
+15	of	of	ADP	IN	_	14	_	_	start_char=452|end_char=454
+16	favorability	favorability	NOUN	NN	Number=Sing	15	_	_	start_char=455|end_char=467
+17	polling	polling	NOUN	NN	Number=Sing	16	_	_	start_char=468|end_char=475|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=475|end_char=476
+19	and	and	CCONJ	CC	_	18	_	_	start_char=477|end_char=480
+20	views	view	NOUN	NNS	Number=Plur	19	_	_	start_char=481|end_char=486
+21	of	of	ADP	IN	_	20	_	_	start_char=487|end_char=489
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=490|end_char=493
+23	countries	country	NOUN	NNS	Number=Plur	22	_	_	start_char=494|end_char=503
+24	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	_	_	start_char=504|end_char=508
+25	fluctuated	fluctuate	VERB	VBN	Tense=Past|VerbForm=Part	24	_	_	start_char=509|end_char=519
+26	alongside	alongside	ADP	IN	_	25	_	_	start_char=520|end_char=529
+27	views	view	NOUN	NNS	Number=Plur	26	_	_	start_char=530|end_char=535
+28	of	of	ADP	IN	_	27	_	_	start_char=536|end_char=538
+29	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	28	_	_	start_char=539|end_char=544
+30	leaders	leader	NOUN	NNS	Number=Plur	29	_	_	start_char=545|end_char=552|SpaceAfter=No
+31	.	.	PUNCT	.	_	30	_	_	start_char=552|end_char=553|SpaceAfter=No
+32	”	''	PUNCT	''	_	31	_	_	start_char=553|end_char=554|SpacesAfter=\n\n
+
+# text = The poll found that 59 percent have a favorable view of the United States, while 28 percent hold a positive view of China.
+# sent_id = 4
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=556|end_char=559
+2	poll	poll	NOUN	NN	Number=Sing	1	_	_	start_char=560|end_char=564
+3	found	find	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=565|end_char=570
+4	that	that	SCONJ	IN	_	3	_	_	start_char=571|end_char=575
+5	59	59	NUM	CD	NumForm=Digit|NumType=Card	4	_	_	start_char=576|end_char=578
+6	percent	percent	NOUN	NN	Number=Sing	5	_	_	start_char=579|end_char=586
+7	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=587|end_char=591
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=592|end_char=593
+9	favorable	favorable	ADJ	JJ	Degree=Pos	8	_	_	start_char=594|end_char=603
+10	view	view	NOUN	NN	Number=Sing	9	_	_	start_char=604|end_char=608
+11	of	of	ADP	IN	_	10	_	_	start_char=609|end_char=611
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=612|end_char=615
+13	United	United	ADJ	NNP	Degree=Pos	12	_	_	start_char=616|end_char=622
+14	States	State	PROPN	NNPS	Number=Plur	13	_	_	start_char=623|end_char=629|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=629|end_char=630
+16	while	while	SCONJ	IN	_	15	_	_	start_char=631|end_char=636
+17	28	28	NUM	CD	NumForm=Digit|NumType=Card	16	_	_	start_char=637|end_char=639
+18	percent	percent	NOUN	NN	Number=Sing	17	_	_	start_char=640|end_char=647
+19	hold	hold	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=648|end_char=652
+20	a	a	DET	DT	Definite=Ind|PronType=Art	19	_	_	start_char=653|end_char=654
+21	positive	positive	ADJ	JJ	Degree=Pos	20	_	_	start_char=655|end_char=663
+22	view	view	NOUN	NN	Number=Sing	21	_	_	start_char=664|end_char=668
+23	of	of	ADP	IN	_	22	_	_	start_char=669|end_char=671
+24	China	China	PROPN	NNP	Number=Sing	23	_	_	start_char=672|end_char=677|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=677|end_char=678
+
+# text = Regarding the leadership of both nations, 54 percent approve of President Joe Biden, while 19 percent feel the same way about Chinese leader Xi Jinping.
+# sent_id = 5
+1	Regarding	regard	VERB	VBG	VerbForm=Ger	0	_	_	start_char=679|end_char=688
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=689|end_char=692
+3	leadership	leadership	NOUN	NN	Number=Sing	2	_	_	start_char=693|end_char=703
+4	of	of	ADP	IN	_	3	_	_	start_char=704|end_char=706
+5	both	both	DET	DT	_	4	_	_	start_char=707|end_char=711
+6	nations	nation	NOUN	NNS	Number=Plur	5	_	_	start_char=712|end_char=719|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=719|end_char=720
+8	54	54	NUM	CD	NumForm=Digit|NumType=Card	7	_	_	start_char=721|end_char=723
+9	percent	percent	NOUN	NN	Number=Sing	8	_	_	start_char=724|end_char=731
+10	approve	approve	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=732|end_char=739
+11	of	of	ADP	IN	_	10	_	_	start_char=740|end_char=742
+12	President	President	PROPN	NNP	Number=Sing	11	_	_	start_char=743|end_char=752
+13	Joe	Joe	PROPN	NNP	Number=Sing	12	_	_	start_char=753|end_char=756
+14	Biden	Biden	PROPN	NNP	Number=Sing	13	_	_	start_char=757|end_char=762|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=762|end_char=763
+16	while	while	SCONJ	IN	_	15	_	_	start_char=764|end_char=769
+17	19	19	NUM	CD	NumForm=Digit|NumType=Card	16	_	_	start_char=770|end_char=772
+18	percent	percent	NOUN	NN	Number=Sing	17	_	_	start_char=773|end_char=780
+19	feel	feel	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=781|end_char=785
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=786|end_char=789
+21	same	same	ADJ	JJ	Degree=Pos	20	_	_	start_char=790|end_char=794
+22	way	way	NOUN	NN	Number=Sing	21	_	_	start_char=795|end_char=798
+23	about	about	ADP	IN	_	22	_	_	start_char=799|end_char=804
+24	Chinese	Chinese	ADJ	JJ	Degree=Pos	23	_	_	start_char=805|end_char=812
+25	leader	leader	NOUN	NN	Number=Sing	24	_	_	start_char=813|end_char=819
+26	Xi	Xi	PROPN	NNP	Number=Sing	25	_	_	start_char=820|end_char=822
+27	Jinping	Jinping	PROPN	NNP	Number=Sing	26	_	_	start_char=823|end_char=830|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=830|end_char=831|SpacesAfter=\n\n
+
+# text = A total of 30,861 adults were surveyed from Feb. 20 to May 22, 2023.
+# sent_id = 6
+1	A	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=833|end_char=834
+2	total	total	NOUN	NN	Number=Sing	1	_	_	start_char=835|end_char=840
+3	of	of	ADP	IN	_	2	_	_	start_char=841|end_char=843
+4	30,861	30861	NUM	CD	NumForm=Digit|NumType=Card	3	_	_	start_char=844|end_char=850
+5	adults	adult	NOUN	NNS	Number=Plur	4	_	_	start_char=851|end_char=857
+6	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=858|end_char=862
+7	surveyed	survey	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	_	_	start_char=863|end_char=871
+8	from	from	ADP	IN	_	7	_	_	start_char=872|end_char=876
+9	Feb.	February	PROPN	NNP	Abbr=Yes|Number=Sing	8	_	_	start_char=877|end_char=881
+10	20	20	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=882|end_char=884
+11	to	to	ADP	IN	_	10	_	_	start_char=885|end_char=887
+12	May	May	PROPN	NNP	Number=Sing	11	_	_	start_char=888|end_char=891
+13	22	22	NUM	CD	NumForm=Digit|NumType=Card	12	_	_	start_char=892|end_char=894|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=894|end_char=895
+15	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	14	_	_	start_char=896|end_char=900|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=900|end_char=901|SpacesAfter=\n\n
+
+# text = Across countries surveyed, enya and Nigeria hold more favorable views of China than the United States.
+# sent_id = 7
+1	Across	across	ADP	IN	_	0	_	_	start_char=903|end_char=909
+2	countries	country	NOUN	NNS	Number=Plur	1	_	_	start_char=910|end_char=919
+3	surveyed	survey	VERB	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=920|end_char=928|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=928|end_char=929
+5	enya	enya	PROPN	NNP	Number=Sing	4	_	_	start_char=930|end_char=934
+6	and	and	CCONJ	CC	_	5	_	_	start_char=935|end_char=938
+7	Nigeria	Nigeria	PROPN	NNP	Number=Sing	6	_	_	start_char=939|end_char=946
+8	hold	hold	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=947|end_char=951
+9	more	more	ADV	RBR	Degree=Cmp	8	_	_	start_char=952|end_char=956
+10	favorable	favorable	ADJ	JJ	Degree=Pos	9	_	_	start_char=957|end_char=966
+11	views	view	NOUN	NNS	Number=Plur	10	_	_	start_char=967|end_char=972
+12	of	of	ADP	IN	_	11	_	_	start_char=973|end_char=975
+13	China	China	PROPN	NNP	Number=Sing	12	_	_	start_char=976|end_char=981
+14	than	than	ADP	IN	_	13	_	_	start_char=982|end_char=986
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=987|end_char=990
+16	United	United	ADJ	NNP	Degree=Pos	15	_	_	start_char=991|end_char=997
+17	States	State	PROPN	NNPS	Number=Plur	16	_	_	start_char=998|end_char=1004|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=1004|end_char=1005
+
+# text = But their ratings for Washington and Beijing are positive, with a favorable view of over 70 percent.
+# sent_id = 8
+1	But	but	CCONJ	CC	_	0	_	_	start_char=1006|end_char=1009
+2	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	1	_	_	start_char=1010|end_char=1015
+3	ratings	rating	NOUN	NNS	Number=Plur	2	_	_	start_char=1016|end_char=1023
+4	for	for	ADP	IN	_	3	_	_	start_char=1024|end_char=1027
+5	Washington	Washington	PROPN	NNP	Number=Sing	4	_	_	start_char=1028|end_char=1038
+6	and	and	CCONJ	CC	_	5	_	_	start_char=1039|end_char=1042
+7	Beijing	Beijing	PROPN	NNP	Number=Sing	6	_	_	start_char=1043|end_char=1050
+8	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=1051|end_char=1054
+9	positive	positive	ADJ	JJ	Degree=Pos	8	_	_	start_char=1055|end_char=1063|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=1063|end_char=1064
+11	with	with	ADP	IN	_	10	_	_	start_char=1065|end_char=1069
+12	a	a	DET	DT	Definite=Ind|PronType=Art	11	_	_	start_char=1070|end_char=1071
+13	favorable	favorable	ADJ	JJ	Degree=Pos	12	_	_	start_char=1072|end_char=1081
+14	view	view	NOUN	NN	Number=Sing	13	_	_	start_char=1082|end_char=1086
+15	of	of	ADP	IN	_	14	_	_	start_char=1087|end_char=1089
+16	over	over	ADV	RB	_	15	_	_	start_char=1090|end_char=1094
+17	70	70	NUM	CD	NumForm=Digit|NumType=Card	16	_	_	start_char=1095|end_char=1097
+18	percent	percent	NOUN	NN	Number=Sing	17	_	_	start_char=1098|end_char=1105|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=1105|end_char=1106|SpacesAfter=\n\n
+
+# text = The survey also showed that public opinions for the United States and China vary across the countries surveyed.
+# sent_id = 9
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1108|end_char=1111
+2	survey	survey	NOUN	NN	Number=Sing	1	_	_	start_char=1112|end_char=1118
+3	also	also	ADV	RB	_	2	_	_	start_char=1119|end_char=1123
+4	showed	show	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=1124|end_char=1130
+5	that	that	SCONJ	IN	_	4	_	_	start_char=1131|end_char=1135
+6	public	public	ADJ	JJ	Degree=Pos	5	_	_	start_char=1136|end_char=1142
+7	opinions	opinion	NOUN	NNS	Number=Plur	6	_	_	start_char=1143|end_char=1151
+8	for	for	ADP	IN	_	7	_	_	start_char=1152|end_char=1155
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=1156|end_char=1159
+10	United	United	ADJ	NNP	Degree=Pos	9	_	_	start_char=1160|end_char=1166
+11	States	State	PROPN	NNPS	Number=Plur	10	_	_	start_char=1167|end_char=1173
+12	and	and	CCONJ	CC	_	11	_	_	start_char=1174|end_char=1177
+13	China	China	PROPN	NNP	Number=Sing	12	_	_	start_char=1178|end_char=1183
+14	vary	vary	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=1184|end_char=1188
+15	across	across	ADP	IN	_	14	_	_	start_char=1189|end_char=1195
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=1196|end_char=1199
+17	countries	country	NOUN	NNS	Number=Plur	16	_	_	start_char=1200|end_char=1209
+18	surveyed	survey	VERB	VBN	Tense=Past|VerbForm=Part	17	_	_	start_char=1210|end_char=1218|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=1218|end_char=1219|SpacesAfter=\n\n
+
+# text = In high-income countries, the differences in favor of the United States compared to China are much larger than in middle-income nations, with Poland and Japan having a gap of over 60 percentage points.
+# sent_id = 10
+1	In	in	ADP	IN	_	0	_	_	start_char=1221|end_char=1223
+2	high	high	ADJ	JJ	Degree=Pos	1	_	_	start_char=1224|end_char=1228|SpaceAfter=No
+3	-	-	PUNCT	HYPH	_	2	_	_	start_char=1228|end_char=1229|SpaceAfter=No
+4	income	income	NOUN	NN	Number=Sing	3	_	_	start_char=1229|end_char=1235
+5	countries	country	NOUN	NNS	Number=Plur	4	_	_	start_char=1236|end_char=1245|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=1245|end_char=1246
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1247|end_char=1250
+8	differences	difference	NOUN	NNS	Number=Plur	7	_	_	start_char=1251|end_char=1262
+9	in	in	ADP	IN	_	8	_	_	start_char=1263|end_char=1265
+10	favor	favor	NOUN	NN	Number=Sing	9	_	_	start_char=1266|end_char=1271
+11	of	of	ADP	IN	_	10	_	_	start_char=1272|end_char=1274
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=1275|end_char=1278
+13	United	United	ADJ	NNP	Degree=Pos	12	_	_	start_char=1279|end_char=1285
+14	States	State	PROPN	NNPS	Number=Plur	13	_	_	start_char=1286|end_char=1292
+15	compared	compare	VERB	VBN	Tense=Past|VerbForm=Part	14	_	_	start_char=1293|end_char=1301
+16	to	to	ADP	IN	_	15	_	_	start_char=1302|end_char=1304
+17	China	China	PROPN	NNP	Number=Sing	16	_	_	start_char=1305|end_char=1310
+18	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=1311|end_char=1314
+19	much	much	ADV	RB	_	18	_	_	start_char=1315|end_char=1319
+20	larger	large	ADJ	JJR	Degree=Cmp	19	_	_	start_char=1320|end_char=1326
+21	than	than	ADP	IN	_	20	_	_	start_char=1327|end_char=1331
+22	in	in	ADP	IN	_	21	_	_	start_char=1332|end_char=1334
+23	middle	middle	ADJ	JJ	Degree=Pos	22	_	_	start_char=1335|end_char=1341|SpaceAfter=No
+24	-	-	PUNCT	HYPH	_	23	_	_	start_char=1341|end_char=1342|SpaceAfter=No
+25	income	income	NOUN	NN	Number=Sing	24	_	_	start_char=1342|end_char=1348
+26	nations	nation	NOUN	NNS	Number=Plur	25	_	_	start_char=1349|end_char=1356|SpaceAfter=No
+27	,	,	PUNCT	,	_	26	_	_	start_char=1356|end_char=1357
+28	with	with	ADP	IN	_	27	_	_	start_char=1358|end_char=1362
+29	Poland	Poland	PROPN	NNP	Number=Sing	28	_	_	start_char=1363|end_char=1369
+30	and	and	CCONJ	CC	_	29	_	_	start_char=1370|end_char=1373
+31	Japan	Japan	PROPN	NNP	Number=Sing	30	_	_	start_char=1374|end_char=1379
+32	having	have	VERB	VBG	VerbForm=Ger	31	_	_	start_char=1380|end_char=1386
+33	a	a	DET	DT	Definite=Ind|PronType=Art	32	_	_	start_char=1387|end_char=1388
+34	gap	gap	NOUN	NN	Number=Sing	33	_	_	start_char=1389|end_char=1392
+35	of	of	ADP	IN	_	34	_	_	start_char=1393|end_char=1395
+36	over	over	ADV	RB	_	35	_	_	start_char=1396|end_char=1400
+37	60	60	NUM	CD	NumForm=Digit|NumType=Card	36	_	_	start_char=1401|end_char=1403
+38	percentage	percentage	NOUN	NN	Number=Sing	37	_	_	start_char=1404|end_char=1414
+39	points	point	NOUN	NNS	Number=Plur	38	_	_	start_char=1415|end_char=1421|SpaceAfter=No
+40	.	.	PUNCT	.	_	39	_	_	start_char=1421|end_char=1422|SpacesAfter=\n\n
+
+# text = But in middle-income nations, positive ratings are seen for both countries, leading to a smaller public opinion gap.
+# sent_id = 11
+1	But	but	CCONJ	CC	_	0	_	_	start_char=1424|end_char=1427
+2	in	in	ADP	IN	_	1	_	_	start_char=1428|end_char=1430
+3	middle	middle	ADJ	JJ	Degree=Pos	2	_	_	start_char=1431|end_char=1437|SpaceAfter=No
+4	-	-	PUNCT	HYPH	_	3	_	_	start_char=1437|end_char=1438|SpaceAfter=No
+5	income	income	NOUN	NN	Number=Sing	4	_	_	start_char=1438|end_char=1444
+6	nations	nation	NOUN	NNS	Number=Plur	5	_	_	start_char=1445|end_char=1452|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=1452|end_char=1453
+8	positive	positive	ADJ	JJ	Degree=Pos	7	_	_	start_char=1454|end_char=1462
+9	ratings	rating	NOUN	NNS	Number=Plur	8	_	_	start_char=1463|end_char=1470
+10	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=1471|end_char=1474
+11	seen	see	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10	_	_	start_char=1475|end_char=1479
+12	for	for	ADP	IN	_	11	_	_	start_char=1480|end_char=1483
+13	both	both	DET	DT	_	12	_	_	start_char=1484|end_char=1488
+14	countries	country	NOUN	NNS	Number=Plur	13	_	_	start_char=1489|end_char=1498|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=1498|end_char=1499
+16	leading	lead	VERB	VBG	VerbForm=Ger	15	_	_	start_char=1500|end_char=1507
+17	to	to	ADP	IN	_	16	_	_	start_char=1508|end_char=1510
+18	a	a	DET	DT	Definite=Ind|PronType=Art	17	_	_	start_char=1511|end_char=1512
+19	smaller	small	ADJ	JJR	Degree=Cmp	18	_	_	start_char=1513|end_char=1520
+20	public	public	ADJ	JJ	Degree=Pos	19	_	_	start_char=1521|end_char=1527
+21	opinion	opinion	NOUN	NN	Number=Sing	20	_	_	start_char=1528|end_char=1535
+22	gap	gap	NOUN	NN	Number=Sing	21	_	_	start_char=1536|end_char=1539|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=1539|end_char=1540|SpacesAfter=\n\n
+
+# text = The United States gets the lowest ratings in Hungary, where 44 percent hold a favorable view, compared with 55 percent in 2022.
+# sent_id = 12
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1542|end_char=1545
+2	United	United	ADJ	NNP	Degree=Pos	1	_	_	start_char=1546|end_char=1552
+3	States	State	PROPN	NNPS	Number=Plur	2	_	_	start_char=1553|end_char=1559
+4	gets	get	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1560|end_char=1564
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1565|end_char=1568
+6	lowest	low	ADJ	JJS	Degree=Sup	5	_	_	start_char=1569|end_char=1575
+7	ratings	rating	NOUN	NNS	Number=Plur	6	_	_	start_char=1576|end_char=1583
+8	in	in	ADP	IN	_	7	_	_	start_char=1584|end_char=1586
+9	Hungary	Hungary	PROPN	NNP	Number=Sing	8	_	_	start_char=1587|end_char=1594|SpaceAfter=No
+10	,	,	PUNCT	,	_	9	_	_	start_char=1594|end_char=1595
+11	where	where	ADV	WRB	PronType=Rel	10	_	_	start_char=1596|end_char=1601
+12	44	44	NUM	CD	NumForm=Digit|NumType=Card	11	_	_	start_char=1602|end_char=1604
+13	percent	percent	NOUN	NN	Number=Sing	12	_	_	start_char=1605|end_char=1612
+14	hold	hold	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=1613|end_char=1617
+15	a	a	DET	DT	Definite=Ind|PronType=Art	14	_	_	start_char=1618|end_char=1619
+16	favorable	favorable	ADJ	JJ	Degree=Pos	15	_	_	start_char=1620|end_char=1629
+17	view	view	NOUN	NN	Number=Sing	16	_	_	start_char=1630|end_char=1634|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=1634|end_char=1635
+19	compared	compare	VERB	VBN	Tense=Past|VerbForm=Part	18	_	_	start_char=1636|end_char=1644
+20	with	with	ADP	IN	_	19	_	_	start_char=1645|end_char=1649
+21	55	55	NUM	CD	NumForm=Digit|NumType=Card	20	_	_	start_char=1650|end_char=1652
+22	percent	percent	NOUN	NN	Number=Sing	21	_	_	start_char=1653|end_char=1660
+23	in	in	ADP	IN	_	22	_	_	start_char=1661|end_char=1663
+24	2022	2022	NUM	CD	NumForm=Digit|NumType=Card	23	_	_	start_char=1664|end_char=1668|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=1668|end_char=1669|SpacesAfter=\n\n
+
+# text = The survey found that “a majority or plurality has favorable views of the United States but not China” in nine countries, such as Poland and Japan, where 63 percent hold a positive view of the United States but a negative view of China.
+# sent_id = 13
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1671|end_char=1674
+2	survey	survey	NOUN	NN	Number=Sing	1	_	_	start_char=1675|end_char=1681
+3	found	find	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1682|end_char=1687
+4	that	that	SCONJ	IN	_	3	_	_	start_char=1688|end_char=1692
+5	“	''	PUNCT	``	_	4	_	_	start_char=1693|end_char=1694|SpaceAfter=No
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=1694|end_char=1695
+7	majority	majority	NOUN	NN	Number=Sing	6	_	_	start_char=1696|end_char=1704
+8	or	or	CCONJ	CC	_	7	_	_	start_char=1705|end_char=1707
+9	plurality	plurality	NOUN	NN	Number=Sing	8	_	_	start_char=1708|end_char=1717
+10	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=1718|end_char=1721
+11	favorable	favorable	ADJ	JJ	Degree=Pos	10	_	_	start_char=1722|end_char=1731
+12	views	view	NOUN	NNS	Number=Plur	11	_	_	start_char=1732|end_char=1737
+13	of	of	ADP	IN	_	12	_	_	start_char=1738|end_char=1740
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=1741|end_char=1744
+15	United	United	ADJ	NNP	Degree=Pos	14	_	_	start_char=1745|end_char=1751
+16	States	State	PROPN	NNPS	Number=Plur	15	_	_	start_char=1752|end_char=1758
+17	but	but	CCONJ	CC	_	16	_	_	start_char=1759|end_char=1762
+18	not	not	PART	RB	_	17	_	_	start_char=1763|end_char=1766
+19	China	China	PROPN	NNP	Number=Sing	18	_	_	start_char=1767|end_char=1772|SpaceAfter=No
+20	”	''	PUNCT	''	_	19	_	_	start_char=1772|end_char=1773
+21	in	in	ADP	IN	_	20	_	_	start_char=1774|end_char=1776
+22	nine	nine	NUM	CD	NumForm=Word|NumType=Card	21	_	_	start_char=1777|end_char=1781
+23	countries	country	NOUN	NNS	Number=Plur	22	_	_	start_char=1782|end_char=1791|SpaceAfter=No
+24	,	,	PUNCT	,	_	23	_	_	start_char=1791|end_char=1792
+25	such	such	ADJ	JJ	Degree=Pos	24	_	_	start_char=1793|end_char=1797
+26	as	as	ADP	IN	_	25	_	_	start_char=1798|end_char=1800
+27	Poland	Poland	PROPN	NNP	Number=Sing	26	_	_	start_char=1801|end_char=1807
+28	and	and	CCONJ	CC	_	27	_	_	start_char=1808|end_char=1811
+29	Japan	Japan	PROPN	NNP	Number=Sing	28	_	_	start_char=1812|end_char=1817|SpaceAfter=No
+30	,	,	PUNCT	,	_	29	_	_	start_char=1817|end_char=1818
+31	where	where	ADV	WRB	PronType=Rel	30	_	_	start_char=1819|end_char=1824
+32	63	63	NUM	CD	NumForm=Digit|NumType=Card	31	_	_	start_char=1825|end_char=1827
+33	percent	percent	NOUN	NN	Number=Sing	32	_	_	start_char=1828|end_char=1835
+34	hold	hold	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	33	_	_	start_char=1836|end_char=1840
+35	a	a	DET	DT	Definite=Ind|PronType=Art	34	_	_	start_char=1841|end_char=1842
+36	positive	positive	ADJ	JJ	Degree=Pos	35	_	_	start_char=1843|end_char=1851
+37	view	view	NOUN	NN	Number=Sing	36	_	_	start_char=1852|end_char=1856
+38	of	of	ADP	IN	_	37	_	_	start_char=1857|end_char=1859
+39	the	the	DET	DT	Definite=Def|PronType=Art	38	_	_	start_char=1860|end_char=1863
+40	United	United	ADJ	NNP	Degree=Pos	39	_	_	start_char=1864|end_char=1870
+41	States	State	PROPN	NNPS	Number=Plur	40	_	_	start_char=1871|end_char=1877
+42	but	but	CCONJ	CC	_	41	_	_	start_char=1878|end_char=1881
+43	a	a	DET	DT	Definite=Ind|PronType=Art	42	_	_	start_char=1882|end_char=1883
+44	negative	negative	ADJ	JJ	Degree=Pos	43	_	_	start_char=1884|end_char=1892
+45	view	view	NOUN	NN	Number=Sing	44	_	_	start_char=1893|end_char=1897
+46	of	of	ADP	IN	_	45	_	_	start_char=1898|end_char=1900
+47	China	China	PROPN	NNP	Number=Sing	46	_	_	start_char=1901|end_char=1906|SpaceAfter=No
+48	.	.	PUNCT	.	_	47	_	_	start_char=1906|end_char=1907|SpacesAfter=\n\n
+
+# text = Most respondents said the United States interferes in other countries’ affairs but contributes to peace and stability worldwide.
+# sent_id = 14
+1	Most	most	ADJ	JJS	Degree=Sup	0	_	_	start_char=1909|end_char=1913
+2	respondents	respondent	NOUN	NNS	Number=Plur	1	_	_	start_char=1914|end_char=1925
+3	said	say	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1926|end_char=1930
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=1931|end_char=1934
+5	United	United	ADJ	NNP	Degree=Pos	4	_	_	start_char=1935|end_char=1941
+6	States	State	PROPN	NNPS	Number=Plur	5	_	_	start_char=1942|end_char=1948
+7	interferes	interfere	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=1949|end_char=1959
+8	in	in	ADP	IN	_	7	_	_	start_char=1960|end_char=1962
+9	other	other	ADJ	JJ	Degree=Pos	8	_	_	start_char=1963|end_char=1968
+10-11	countries’	_	_	_	_	_	_	_	start_char=1969|end_char=1979
+10	countries	country	NOUN	NNS	Number=Plur	9	_	_	start_char=1969|end_char=1978
+11	’	's	PART	POS	_	10	_	_	start_char=1978|end_char=1979
+12	affairs	affair	NOUN	NNS	Number=Plur	11	_	_	start_char=1980|end_char=1987
+13	but	but	CCONJ	CC	_	12	_	_	start_char=1988|end_char=1991
+14	contributes	contribute	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=1992|end_char=2003
+15	to	to	ADP	IN	_	14	_	_	start_char=2004|end_char=2006
+16	peace	peace	NOUN	NN	Number=Sing	15	_	_	start_char=2007|end_char=2012
+17	and	and	CCONJ	CC	_	16	_	_	start_char=2013|end_char=2016
+18	stability	stability	NOUN	NN	Number=Sing	17	_	_	start_char=2017|end_char=2026
+19	worldwide	worldwide	ADV	RB	_	18	_	_	start_char=2027|end_char=2036|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=2036|end_char=2037
+
+# text = In Japan, 79 percent said the United States contributes a “fair amount” to global stability, while only 14 percent have the same view as China.
+# sent_id = 15
+1	In	in	ADP	IN	_	0	_	_	start_char=2038|end_char=2040
+2	Japan	Japan	PROPN	NNP	Number=Sing	1	_	_	start_char=2041|end_char=2046|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=2046|end_char=2047
+4	79	79	NUM	CD	NumForm=Digit|NumType=Card	3	_	_	start_char=2048|end_char=2050
+5	percent	percent	NOUN	NN	Number=Sing	4	_	_	start_char=2051|end_char=2058
+6	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=2059|end_char=2063
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=2064|end_char=2067
+8	United	United	ADJ	NNP	Degree=Pos	7	_	_	start_char=2068|end_char=2074
+9	States	State	PROPN	NNPS	Number=Plur	8	_	_	start_char=2075|end_char=2081
+10	contributes	contribute	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=2082|end_char=2093
+11	a	a	DET	DT	Definite=Ind|PronType=Art	10	_	_	start_char=2094|end_char=2095
+12	“	''	PUNCT	``	_	11	_	_	start_char=2096|end_char=2097|SpaceAfter=No
+13	fair	fair	ADJ	JJ	Degree=Pos	12	_	_	start_char=2097|end_char=2101
+14	amount	amount	NOUN	NN	Number=Sing	13	_	_	start_char=2102|end_char=2108|SpaceAfter=No
+15	”	''	PUNCT	''	_	14	_	_	start_char=2108|end_char=2109
+16	to	to	ADP	IN	_	15	_	_	start_char=2110|end_char=2112
+17	global	global	ADJ	JJ	Degree=Pos	16	_	_	start_char=2113|end_char=2119
+18	stability	stability	NOUN	NN	Number=Sing	17	_	_	start_char=2120|end_char=2129|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=2129|end_char=2130
+20	while	while	SCONJ	IN	_	19	_	_	start_char=2131|end_char=2136
+21	only	only	ADV	RB	_	20	_	_	start_char=2137|end_char=2141
+22	14	14	NUM	CD	NumForm=Digit|NumType=Card	21	_	_	start_char=2142|end_char=2144
+23	percent	percent	NOUN	NN	Number=Sing	22	_	_	start_char=2145|end_char=2152
+24	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	_	_	start_char=2153|end_char=2157
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=2158|end_char=2161
+26	same	same	ADJ	JJ	Degree=Pos	25	_	_	start_char=2162|end_char=2166
+27	view	view	NOUN	NN	Number=Sing	26	_	_	start_char=2167|end_char=2171
+28	as	as	ADP	IN	_	27	_	_	start_char=2172|end_char=2174
+29	China	China	PROPN	NNP	Number=Sing	28	_	_	start_char=2175|end_char=2180|SpaceAfter=No
+30	.	.	PUNCT	.	_	29	_	_	start_char=2180|end_char=2181
+
+# text = Only respondents in Hungary consider that China contributes to world peace more than the United States.
+# sent_id = 16
+1	Only	only	ADV	RB	_	0	_	_	start_char=2182|end_char=2186
+2	respondents	respondent	NOUN	NNS	Number=Plur	1	_	_	start_char=2187|end_char=2198
+3	in	in	ADP	IN	_	2	_	_	start_char=2199|end_char=2201
+4	Hungary	Hungary	PROPN	NNP	Number=Sing	3	_	_	start_char=2202|end_char=2209
+5	consider	consider	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=2210|end_char=2218
+6	that	that	SCONJ	IN	_	5	_	_	start_char=2219|end_char=2223
+7	China	China	PROPN	NNP	Number=Sing	6	_	_	start_char=2224|end_char=2229
+8	contributes	contribute	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=2230|end_char=2241
+9	to	to	ADP	IN	_	8	_	_	start_char=2242|end_char=2244
+10	world	world	NOUN	NN	Number=Sing	9	_	_	start_char=2245|end_char=2250
+11	peace	peace	NOUN	NN	Number=Sing	10	_	_	start_char=2251|end_char=2256
+12	more	more	ADJ	JJR	Degree=Cmp	11	_	_	start_char=2257|end_char=2261
+13	than	than	ADP	IN	_	12	_	_	start_char=2262|end_char=2266
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=2267|end_char=2270
+15	United	United	ADJ	NNP	Degree=Pos	14	_	_	start_char=2271|end_char=2277
+16	States	State	PROPN	NNPS	Number=Plur	15	_	_	start_char=2278|end_char=2284|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=2284|end_char=2285|SpacesAfter=\n\n
+
+# text = Americans’ Views on ChinaIn May, another survey by the Pew Research Center found that over eight in ten Americans (83 percent) had unfavorable views of China, and the number of people who saw communist China as an enemy surged as the tensions between Washington and Beijing escalated in recent years.
+# sent_id = 17
+1-2	Americans’	_	_	_	_	_	_	_	start_char=2287|end_char=2297
+1	Americans	American	PROPN	NNPS	Number=Plur	0	_	_	start_char=2287|end_char=2296
+2	’	's	PART	POS	_	1	_	_	start_char=2296|end_char=2297
+3	Views	view	NOUN	NNS	Number=Plur	2	_	_	start_char=2298|end_char=2303
+4	on	on	ADP	IN	_	3	_	_	start_char=2304|end_char=2306
+5	ChinaIn	ChinaIn	PROPN	NNP	Number=Sing	4	_	_	start_char=2307|end_char=2314
+6	May	May	PROPN	NNP	Number=Sing	5	_	_	start_char=2315|end_char=2318|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=2318|end_char=2319
+8	another	another	DET	DT	_	7	_	_	start_char=2320|end_char=2327
+9	survey	survey	NOUN	NN	Number=Sing	8	_	_	start_char=2328|end_char=2334
+10	by	by	ADP	IN	_	9	_	_	start_char=2335|end_char=2337
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=2338|end_char=2341
+12	Pew	Pew	PROPN	NNP	Number=Sing	11	_	_	start_char=2342|end_char=2345
+13	Research	Research	PROPN	NNP	Number=Sing	12	_	_	start_char=2346|end_char=2354
+14	Center	Center	PROPN	NNP	Number=Sing	13	_	_	start_char=2355|end_char=2361
+15	found	find	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=2362|end_char=2367
+16	that	that	SCONJ	IN	_	15	_	_	start_char=2368|end_char=2372
+17	over	over	ADV	RB	_	16	_	_	start_char=2373|end_char=2377
+18	eight	eight	NUM	CD	NumForm=Word|NumType=Card	17	_	_	start_char=2378|end_char=2383
+19	in	in	ADP	IN	_	18	_	_	start_char=2384|end_char=2386
+20	ten	ten	NUM	CD	NumForm=Word|NumType=Card	19	_	_	start_char=2387|end_char=2390
+21	Americans	American	PROPN	NNPS	Number=Plur	20	_	_	start_char=2391|end_char=2400
+22	(	(	PUNCT	-LRB-	_	21	_	_	start_char=2401|end_char=2402|SpaceAfter=No
+23	83	83	NUM	CD	NumForm=Digit|NumType=Card	22	_	_	start_char=2402|end_char=2404
+24	percent	percent	NOUN	NN	Number=Sing	23	_	_	start_char=2405|end_char=2412|SpaceAfter=No
+25	)	)	PUNCT	-RRB-	_	24	_	_	start_char=2412|end_char=2413
+26	had	have	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	25	_	_	start_char=2414|end_char=2417
+27	unfavorable	unfavorable	ADJ	JJ	Degree=Pos	26	_	_	start_char=2418|end_char=2429
+28	views	view	NOUN	NNS	Number=Plur	27	_	_	start_char=2430|end_char=2435
+29	of	of	ADP	IN	_	28	_	_	start_char=2436|end_char=2438
+30	China	China	PROPN	NNP	Number=Sing	29	_	_	start_char=2439|end_char=2444|SpaceAfter=No
+31	,	,	PUNCT	,	_	30	_	_	start_char=2444|end_char=2445
+32	and	and	CCONJ	CC	_	31	_	_	start_char=2446|end_char=2449
+33	the	the	DET	DT	Definite=Def|PronType=Art	32	_	_	start_char=2450|end_char=2453
+34	number	number	NOUN	NN	Number=Sing	33	_	_	start_char=2454|end_char=2460
+35	of	of	ADP	IN	_	34	_	_	start_char=2461|end_char=2463
+36	people	person	NOUN	NNS	Number=Plur	35	_	_	start_char=2464|end_char=2470
+37	who	who	PRON	WP	PronType=Rel	36	_	_	start_char=2471|end_char=2474
+38	saw	see	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	37	_	_	start_char=2475|end_char=2478
+39	communist	communist	ADJ	JJ	Degree=Pos	38	_	_	start_char=2479|end_char=2488
+40	China	China	PROPN	NNP	Number=Sing	39	_	_	start_char=2489|end_char=2494
+41	as	as	ADP	IN	_	40	_	_	start_char=2495|end_char=2497
+42	an	a	DET	DT	Definite=Ind|PronType=Art	41	_	_	start_char=2498|end_char=2500
+43	enemy	enemy	NOUN	NN	Number=Sing	42	_	_	start_char=2501|end_char=2506
+44	surged	surge	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	43	_	_	start_char=2507|end_char=2513
+45	as	as	SCONJ	IN	_	44	_	_	start_char=2514|end_char=2516
+46	the	the	DET	DT	Definite=Def|PronType=Art	45	_	_	start_char=2517|end_char=2520
+47	tensions	tension	NOUN	NNS	Number=Plur	46	_	_	start_char=2521|end_char=2529
+48	between	between	ADP	IN	_	47	_	_	start_char=2530|end_char=2537
+49	Washington	Washington	PROPN	NNP	Number=Sing	48	_	_	start_char=2538|end_char=2548
+50	and	and	CCONJ	CC	_	49	_	_	start_char=2549|end_char=2552
+51	Beijing	Beijing	PROPN	NNP	Number=Sing	50	_	_	start_char=2553|end_char=2560
+52	escalated	escalate	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	51	_	_	start_char=2561|end_char=2570
+53	in	in	ADP	IN	_	52	_	_	start_char=2571|end_char=2573
+54	recent	recent	ADJ	JJ	Degree=Pos	53	_	_	start_char=2574|end_char=2580
+55	years	year	NOUN	NNS	Number=Plur	54	_	_	start_char=2581|end_char=2586|SpaceAfter=No
+56	.	.	PUNCT	.	_	55	_	_	start_char=2586|end_char=2587|SpacesAfter=\n\n
+
+# text = Among 83 percent of Americans with unfavorable views of China, 44 percent said they had very negative views about China.
+# sent_id = 18
+1	Among	among	ADP	IN	_	0	_	_	start_char=2589|end_char=2594
+2	83	83	NUM	CD	NumForm=Digit|NumType=Card	1	_	_	start_char=2595|end_char=2597
+3	percent	percent	NOUN	NN	Number=Sing	2	_	_	start_char=2598|end_char=2605
+4	of	of	ADP	IN	_	3	_	_	start_char=2606|end_char=2608
+5	Americans	American	PROPN	NNPS	Number=Plur	4	_	_	start_char=2609|end_char=2618
+6	with	with	ADP	IN	_	5	_	_	start_char=2619|end_char=2623
+7	unfavorable	unfavorable	ADJ	JJ	Degree=Pos	6	_	_	start_char=2624|end_char=2635
+8	views	view	NOUN	NNS	Number=Plur	7	_	_	start_char=2636|end_char=2641
+9	of	of	ADP	IN	_	8	_	_	start_char=2642|end_char=2644
+10	China	China	PROPN	NNP	Number=Sing	9	_	_	start_char=2645|end_char=2650|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	_	_	start_char=2650|end_char=2651
+12	44	44	NUM	CD	NumForm=Digit|NumType=Card	11	_	_	start_char=2652|end_char=2654
+13	percent	percent	NOUN	NN	Number=Sing	12	_	_	start_char=2655|end_char=2662
+14	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	_	_	start_char=2663|end_char=2667
+15	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	_	_	start_char=2668|end_char=2672
+16	had	have	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	15	_	_	start_char=2673|end_char=2676
+17	very	very	ADV	RB	_	16	_	_	start_char=2677|end_char=2681
+18	negative	negative	ADJ	JJ	Degree=Pos	17	_	_	start_char=2682|end_char=2690
+19	views	view	NOUN	NNS	Number=Plur	18	_	_	start_char=2691|end_char=2696
+20	about	about	ADP	IN	_	19	_	_	start_char=2697|end_char=2702
+21	China	China	PROPN	NNP	Number=Sing	20	_	_	start_char=2703|end_char=2708|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=2708|end_char=2709|SpacesAfter=\n\n
+
+# text = Around three-quarters of Americans (77 percent) had little or no confidence in Mr. Xi.
+# sent_id = 19
+1	Around	around	ADV	RB	_	0	_	_	start_char=2711|end_char=2717
+2	three	three	NUM	CD	NumForm=Word|NumType=Card	1	_	_	start_char=2718|end_char=2723|SpaceAfter=No
+3	-	-	PUNCT	HYPH	_	2	_	_	start_char=2723|end_char=2724|SpaceAfter=No
+4	quarters	quarter	NOUN	NNS	NumForm=Word|NumType=Frac|Number=Plur	3	_	_	start_char=2724|end_char=2732
+5	of	of	ADP	IN	_	4	_	_	start_char=2733|end_char=2735
+6	Americans	American	PROPN	NNPS	Number=Plur	5	_	_	start_char=2736|end_char=2745
+7	(	(	PUNCT	-LRB-	_	6	_	_	start_char=2746|end_char=2747|SpaceAfter=No
+8	77	77	NUM	CD	NumForm=Digit|NumType=Card	7	_	_	start_char=2747|end_char=2749
+9	percent	percent	NOUN	NN	Number=Sing	8	_	_	start_char=2750|end_char=2757|SpaceAfter=No
+10	)	)	PUNCT	-RRB-	_	9	_	_	start_char=2757|end_char=2758
+11	had	have	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=2759|end_char=2762
+12	little	little	ADJ	JJ	Degree=Pos	11	_	_	start_char=2763|end_char=2769
+13	or	or	CCONJ	CC	_	12	_	_	start_char=2770|end_char=2772
+14	no	no	DET	DT	_	13	_	_	start_char=2773|end_char=2775
+15	confidence	confidence	NOUN	NN	Number=Sing	14	_	_	start_char=2776|end_char=2786
+16	in	in	ADP	IN	_	15	_	_	start_char=2787|end_char=2789
+17	Mr.	Mr.	PROPN	NNP	Number=Sing	16	_	_	start_char=2790|end_char=2793
+18	Xi	Xi	PROPN	NNP	Number=Sing	17	_	_	start_char=2794|end_char=2796|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=2796|end_char=2797|SpacesAfter=\n\n
+
+# text = A rising number of Americans (38 percent) viewed China as an enemy compared to 25 percent in the January 2022 survey.
+# sent_id = 20
+1	A	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=2799|end_char=2800
+2	rising	rise	VERB	VBG	VerbForm=Ger	1	_	_	start_char=2801|end_char=2807
+3	number	number	NOUN	NN	Number=Sing	2	_	_	start_char=2808|end_char=2814
+4	of	of	ADP	IN	_	3	_	_	start_char=2815|end_char=2817
+5	Americans	American	PROPN	NNPS	Number=Plur	4	_	_	start_char=2818|end_char=2827
+6	(	(	PUNCT	-LRB-	_	5	_	_	start_char=2828|end_char=2829|SpaceAfter=No
+7	38	38	NUM	CD	NumForm=Digit|NumType=Card	6	_	_	start_char=2829|end_char=2831
+8	percent	percent	NOUN	NN	Number=Sing	7	_	_	start_char=2832|end_char=2839|SpaceAfter=No
+9	)	)	PUNCT	-RRB-	_	8	_	_	start_char=2839|end_char=2840
+10	viewed	view	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=2841|end_char=2847
+11	China	China	PROPN	NNP	Number=Sing	10	_	_	start_char=2848|end_char=2853
+12	as	as	ADP	IN	_	11	_	_	start_char=2854|end_char=2856
+13	an	a	DET	DT	Definite=Ind|PronType=Art	12	_	_	start_char=2857|end_char=2859
+14	enemy	enemy	NOUN	NN	Number=Sing	13	_	_	start_char=2860|end_char=2865
+15	compared	compare	VERB	VBN	Tense=Past|VerbForm=Part	14	_	_	start_char=2866|end_char=2874
+16	to	to	ADP	IN	_	15	_	_	start_char=2875|end_char=2877
+17	25	25	NUM	CD	NumForm=Digit|NumType=Card	16	_	_	start_char=2878|end_char=2880
+18	percent	percent	NOUN	NN	Number=Sing	17	_	_	start_char=2881|end_char=2888
+19	in	in	ADP	IN	_	18	_	_	start_char=2889|end_char=2891
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=2892|end_char=2895
+21	January	January	PROPN	NNP	Number=Sing	20	_	_	start_char=2896|end_char=2903
+22	2022	2022	NUM	CD	NumForm=Digit|NumType=Card	21	_	_	start_char=2904|end_char=2908
+23	survey	survey	NOUN	NN	Number=Sing	22	_	_	start_char=2909|end_char=2915|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=2915|end_char=2916|SpacesAfter=\n\n
+
+# text = About half of American adults (52 percent) viewed China as a competitor, while only 6 percent considered it a partner.
+# sent_id = 21
+1	About	about	ADV	RB	_	0	_	_	start_char=2918|end_char=2923
+2	half	half	NOUN	NN	NumForm=Word|NumType=Frac|Number=Sing	1	_	_	start_char=2924|end_char=2928
+3	of	of	ADP	IN	_	2	_	_	start_char=2929|end_char=2931
+4	American	American	ADJ	JJ	Degree=Pos	3	_	_	start_char=2932|end_char=2940
+5	adults	adult	NOUN	NNS	Number=Plur	4	_	_	start_char=2941|end_char=2947
+6	(	(	PUNCT	-LRB-	_	5	_	_	start_char=2948|end_char=2949|SpaceAfter=No
+7	52	52	NUM	CD	NumForm=Digit|NumType=Card	6	_	_	start_char=2949|end_char=2951
+8	percent	percent	NOUN	NN	Number=Sing	7	_	_	start_char=2952|end_char=2959|SpaceAfter=No
+9	)	)	PUNCT	-RRB-	_	8	_	_	start_char=2959|end_char=2960
+10	viewed	view	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=2961|end_char=2967
+11	China	China	PROPN	NNP	Number=Sing	10	_	_	start_char=2968|end_char=2973
+12	as	as	ADP	IN	_	11	_	_	start_char=2974|end_char=2976
+13	a	a	DET	DT	Definite=Ind|PronType=Art	12	_	_	start_char=2977|end_char=2978
+14	competitor	competitor	NOUN	NN	Number=Sing	13	_	_	start_char=2979|end_char=2989|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=2989|end_char=2990
+16	while	while	SCONJ	IN	_	15	_	_	start_char=2991|end_char=2996
+17	only	only	ADV	RB	_	16	_	_	start_char=2997|end_char=3001
+18	6	6	NUM	CD	NumForm=Digit|NumType=Card	17	_	_	start_char=3002|end_char=3003
+19	percent	percent	NOUN	NN	Number=Sing	18	_	_	start_char=3004|end_char=3011
+20	considered	consider	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	_	_	start_char=3012|end_char=3022
+21	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	20	_	_	start_char=3023|end_char=3025
+22	a	a	DET	DT	Definite=Ind|PronType=Art	21	_	_	start_char=3026|end_char=3027
+23	partner	partner	NOUN	NN	Number=Sing	22	_	_	start_char=3028|end_char=3035|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=3035|end_char=3036|SpacesAfter=\n\n
+
+# text = The relationship between Washington and Beijing has deteriorated over the past few years.
+# sent_id = 22
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=3038|end_char=3041
+2	relationship	relationship	NOUN	NN	Number=Sing	1	_	_	start_char=3042|end_char=3054
+3	between	between	ADP	IN	_	2	_	_	start_char=3055|end_char=3062
+4	Washington	Washington	PROPN	NNP	Number=Sing	3	_	_	start_char=3063|end_char=3073
+5	and	and	CCONJ	CC	_	4	_	_	start_char=3074|end_char=3077
+6	Beijing	Beijing	PROPN	NNP	Number=Sing	5	_	_	start_char=3078|end_char=3085
+7	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=3086|end_char=3089
+8	deteriorated	deteriorate	VERB	VBN	Tense=Past|VerbForm=Part	7	_	_	start_char=3090|end_char=3102
+9	over	over	ADP	IN	_	8	_	_	start_char=3103|end_char=3107
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=3108|end_char=3111
+11	past	past	ADJ	JJ	Degree=Pos	10	_	_	start_char=3112|end_char=3116
+12	few	few	ADJ	JJ	Degree=Pos	11	_	_	start_char=3117|end_char=3120
+13	years	year	NOUN	NNS	Number=Plur	12	_	_	start_char=3121|end_char=3126|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=3126|end_char=3127
+
+# text = The two countries have clashed over various issues, such as Taiwan, trade, human rights, and the origins of the COVID-19 pandemic.
+# sent_id = 23
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=3128|end_char=3131
+2	two	two	NUM	CD	NumForm=Word|NumType=Card	1	_	_	start_char=3132|end_char=3135
+3	countries	country	NOUN	NNS	Number=Plur	2	_	_	start_char=3136|end_char=3145
+4	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=3146|end_char=3150
+5	clashed	clash	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=3151|end_char=3158
+6	over	over	ADP	IN	_	5	_	_	start_char=3159|end_char=3163
+7	various	various	ADJ	JJ	Degree=Pos	6	_	_	start_char=3164|end_char=3171
+8	issues	issue	NOUN	NNS	Number=Plur	7	_	_	start_char=3172|end_char=3178|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=3178|end_char=3179
+10	such	such	ADJ	JJ	Degree=Pos	9	_	_	start_char=3180|end_char=3184
+11	as	as	ADP	IN	_	10	_	_	start_char=3185|end_char=3187
+12	Taiwan	Taiwan	PROPN	NNP	Number=Sing	11	_	_	start_char=3188|end_char=3194|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=3194|end_char=3195
+14	trade	trade	NOUN	NN	Number=Sing	13	_	_	start_char=3196|end_char=3201|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=3201|end_char=3202
+16	human	human	ADJ	JJ	Degree=Pos	15	_	_	start_char=3203|end_char=3208
+17	rights	right	NOUN	NNS	Number=Plur	16	_	_	start_char=3209|end_char=3215|SpaceAfter=No
+18	,	,	PUNCT	,	_	17	_	_	start_char=3215|end_char=3216
+19	and	and	CCONJ	CC	_	18	_	_	start_char=3217|end_char=3220
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=3221|end_char=3224
+21	origins	origin	NOUN	NNS	Number=Plur	20	_	_	start_char=3225|end_char=3232
+22	of	of	ADP	IN	_	21	_	_	start_char=3233|end_char=3235
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=3236|end_char=3239
+24	COVID	COVID	PROPN	NNP	Number=Sing	23	_	_	start_char=3240|end_char=3245|SpaceAfter=No
+25	-	-	PUNCT	HYPH	_	24	_	_	start_char=3245|end_char=3246|SpaceAfter=No
+26	19	19	NUM	CD	NumForm=Digit|NumType=Card	25	_	_	start_char=3246|end_char=3248
+27	pandemic	pandemic	NOUN	NN	Number=Sing	26	_	_	start_char=3249|end_char=3257|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=3257|end_char=3258|SpacesAfter=\n\n
+
+# text = The Beijing-Moscow relations were also a significant concern for Americans, particularly amid Russia’s invasion of Uraine.
+# sent_id = 24
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=3260|end_char=3263
+2	Beijing	Beijing	PROPN	NNP	Number=Sing	1	_	_	start_char=3264|end_char=3271|SpaceAfter=No
+3	-	-	PUNCT	HYPH	_	2	_	_	start_char=3271|end_char=3272|SpaceAfter=No
+4	Moscow	Moscow	PROPN	NNP	Number=Sing	3	_	_	start_char=3272|end_char=3278
+5	relations	relation	NOUN	NNS	Number=Plur	4	_	_	start_char=3279|end_char=3288
+6	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=3289|end_char=3293
+7	also	also	ADV	RB	_	6	_	_	start_char=3294|end_char=3298
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=3299|end_char=3300
+9	significant	significant	ADJ	JJ	Degree=Pos	8	_	_	start_char=3301|end_char=3312
+10	concern	concern	NOUN	NN	Number=Sing	9	_	_	start_char=3313|end_char=3320
+11	for	for	ADP	IN	_	10	_	_	start_char=3321|end_char=3324
+12	Americans	American	PROPN	NNPS	Number=Plur	11	_	_	start_char=3325|end_char=3334|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=3334|end_char=3335
+14	particularly	particularly	ADV	RB	_	13	_	_	start_char=3336|end_char=3348
+15	amid	amid	ADP	IN	_	14	_	_	start_char=3349|end_char=3353
+16-17	Russia’s	_	_	_	_	_	_	_	start_char=3354|end_char=3362
+16	Russia	Russia	PROPN	NNP	Number=Sing	15	_	_	start_char=3354|end_char=3360
+17	’s	's	PART	POS	_	16	_	_	start_char=3360|end_char=3362
+18	invasion	invasion	NOUN	NN	Number=Sing	17	_	_	start_char=3363|end_char=3371
+19	of	of	ADP	IN	_	18	_	_	start_char=3372|end_char=3374
+20	Uraine	Uraine	PROPN	NNP	Number=Sing	19	_	_	start_char=3375|end_char=3381|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=3381|end_char=3382
+
+# text = This issue concerned Americans more than any other issues in the U.S.-China relationship, including trade, Taiwan, or human rights.
+# sent_id = 25
+1	This	this	DET	DT	Number=Sing|PronType=Dem	0	_	_	start_char=3383|end_char=3387
+2	issue	issue	NOUN	NN	Number=Sing	1	_	_	start_char=3388|end_char=3393
+3	concerned	concern	VERB	VBN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=3394|end_char=3403
+4	Americans	American	PROPN	NNPS	Number=Plur	3	_	_	start_char=3404|end_char=3413
+5	more	more	ADJ	JJR	Degree=Cmp	4	_	_	start_char=3414|end_char=3418
+6	than	than	ADP	IN	_	5	_	_	start_char=3419|end_char=3423
+7	any	any	DET	DT	_	6	_	_	start_char=3424|end_char=3427
+8	other	other	ADJ	JJ	Degree=Pos	7	_	_	start_char=3428|end_char=3433
+9	issues	issue	NOUN	NNS	Number=Plur	8	_	_	start_char=3434|end_char=3440
+10	in	in	ADP	IN	_	9	_	_	start_char=3441|end_char=3443
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=3444|end_char=3447
+12	U.S.	U.S.	PROPN	NNP	Number=Sing	11	_	_	start_char=3448|end_char=3452|SpaceAfter=No
+13	-	-	PUNCT	HYPH	_	12	_	_	start_char=3452|end_char=3453|SpaceAfter=No
+14	China	China	PROPN	NNP	Number=Sing	13	_	_	start_char=3453|end_char=3458
+15	relationship	relationship	NOUN	NN	Number=Sing	14	_	_	start_char=3459|end_char=3471|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=3471|end_char=3472
+17	including	include	VERB	VBG	VerbForm=Ger	16	_	_	start_char=3473|end_char=3482
+18	trade	trade	NOUN	NN	Number=Sing	17	_	_	start_char=3483|end_char=3488|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=3488|end_char=3489
+20	Taiwan	Taiwan	PROPN	NNP	Number=Sing	19	_	_	start_char=3490|end_char=3496|SpaceAfter=No
+21	,	,	PUNCT	,	_	20	_	_	start_char=3496|end_char=3497
+22	or	or	CCONJ	CC	_	21	_	_	start_char=3498|end_char=3500
+23	human	human	ADJ	JJ	Degree=Pos	22	_	_	start_char=3501|end_char=3506
+24	rights	right	NOUN	NNS	Number=Plur	23	_	_	start_char=3507|end_char=3513|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=3513|end_char=3514|SpacesAfter=\n\n
+
+# text = Following Mr. Xi’s meeting with Russian counterpart Vladimir Putin during his Moscow visit in March, 62 percent of Americans see the China-Russia alliance as a severe problem for the United States.
+# sent_id = 26
+1	Following	follow	VERB	VBG	VerbForm=Ger	0	_	_	start_char=3516|end_char=3525
+2	Mr.	Mr.	PROPN	NNP	Number=Sing	1	_	_	start_char=3526|end_char=3529
+3-4	Xi’s	_	_	_	_	_	_	_	start_char=3530|end_char=3534
+3	Xi	Xi	PROPN	NNP	Number=Sing	2	_	_	start_char=3530|end_char=3532
+4	’s	's	PART	POS	_	3	_	_	start_char=3532|end_char=3534
+5	meeting	meeting	NOUN	NN	Number=Sing	4	_	_	start_char=3535|end_char=3542
+6	with	with	ADP	IN	_	5	_	_	start_char=3543|end_char=3547
+7	Russian	Russian	ADJ	JJ	Degree=Pos	6	_	_	start_char=3548|end_char=3555
+8	counterpart	counterpart	NOUN	NN	Number=Sing	7	_	_	start_char=3556|end_char=3567
+9	Vladimir	Vladimir	PROPN	NNP	Number=Sing	8	_	_	start_char=3568|end_char=3576
+10	Putin	Putin	PROPN	NNP	Number=Sing	9	_	_	start_char=3577|end_char=3582
+11	during	during	ADP	IN	_	10	_	_	start_char=3583|end_char=3589
+12	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	_	_	start_char=3590|end_char=3593
+13	Moscow	Moscow	PROPN	NNP	Number=Sing	12	_	_	start_char=3594|end_char=3600
+14	visit	visit	NOUN	NN	Number=Sing	13	_	_	start_char=3601|end_char=3606
+15	in	in	ADP	IN	_	14	_	_	start_char=3607|end_char=3609
+16	March	March	PROPN	NNP	Number=Sing	15	_	_	start_char=3610|end_char=3615|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=3615|end_char=3616
+18	62	62	NUM	CD	NumForm=Digit|NumType=Card	17	_	_	start_char=3617|end_char=3619
+19	percent	percent	NOUN	NN	Number=Sing	18	_	_	start_char=3620|end_char=3627
+20	of	of	ADP	IN	_	19	_	_	start_char=3628|end_char=3630
+21	Americans	American	PROPN	NNPS	Number=Plur	20	_	_	start_char=3631|end_char=3640
+22	see	see	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	_	_	start_char=3641|end_char=3644
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=3645|end_char=3648
+24	China	China	PROPN	NNP	Number=Sing	23	_	_	start_char=3649|end_char=3654|SpaceAfter=No
+25	-	-	PUNCT	HYPH	_	24	_	_	start_char=3654|end_char=3655|SpaceAfter=No
+26	Russia	Russia	PROPN	NNP	Number=Sing	25	_	_	start_char=3655|end_char=3661
+27	alliance	alliance	NOUN	NN	Number=Sing	26	_	_	start_char=3662|end_char=3670
+28	as	as	ADP	IN	_	27	_	_	start_char=3671|end_char=3673
+29	a	a	DET	DT	Definite=Ind|PronType=Art	28	_	_	start_char=3674|end_char=3675
+30	severe	severe	ADJ	JJ	Degree=Pos	29	_	_	start_char=3676|end_char=3682
+31	problem	problem	NOUN	NN	Number=Sing	30	_	_	start_char=3683|end_char=3690
+32	for	for	ADP	IN	_	31	_	_	start_char=3691|end_char=3694
+33	the	the	DET	DT	Definite=Def|PronType=Art	32	_	_	start_char=3695|end_char=3698
+34	United	United	ADJ	NNP	Degree=Pos	33	_	_	start_char=3699|end_char=3705
+35	States	State	PROPN	NNPS	Number=Plur	34	_	_	start_char=3706|end_char=3712|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=3712|end_char=3713|SpacesAfter=\n\n
+
+# text = For the Taiwan issue, poll respondents also see correlations between Russia’s treatment of Uraine and the Chinese regime’s treatment of Taiwan, as many Americans hold much more favorable views of Taiwan (65 percent) than China (14 percent).
+# sent_id = 27
+1	For	for	ADP	IN	_	0	_	_	start_char=3715|end_char=3718
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=3719|end_char=3722
+3	Taiwan	Taiwan	PROPN	NNP	Number=Sing	2	_	_	start_char=3723|end_char=3729
+4	issue	issue	NOUN	NN	Number=Sing	3	_	_	start_char=3730|end_char=3735|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=3735|end_char=3736
+6	poll	poll	NOUN	NN	Number=Sing	5	_	_	start_char=3737|end_char=3741
+7	respondents	respondent	NOUN	NNS	Number=Plur	6	_	_	start_char=3742|end_char=3753
+8	also	also	ADV	RB	_	7	_	_	start_char=3754|end_char=3758
+9	see	see	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=3759|end_char=3762
+10	correlations	correlation	NOUN	NNS	Number=Plur	9	_	_	start_char=3763|end_char=3775
+11	between	between	ADP	IN	_	10	_	_	start_char=3776|end_char=3783
+12-13	Russia’s	_	_	_	_	_	_	_	start_char=3784|end_char=3792
+12	Russia	Russia	PROPN	NNP	Number=Sing	11	_	_	start_char=3784|end_char=3790
+13	’s	's	PART	POS	_	12	_	_	start_char=3790|end_char=3792
+14	treatment	treatment	NOUN	NN	Number=Sing	13	_	_	start_char=3793|end_char=3802
+15	of	of	ADP	IN	_	14	_	_	start_char=3803|end_char=3805
+16	Uraine	Uraine	PROPN	NNP	Number=Sing	15	_	_	start_char=3806|end_char=3812
+17	and	and	CCONJ	CC	_	16	_	_	start_char=3813|end_char=3816
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=3817|end_char=3820
+19	Chinese	Chinese	ADJ	JJ	Degree=Pos	18	_	_	start_char=3821|end_char=3828
+20-21	regime’s	_	_	_	_	_	_	_	start_char=3829|end_char=3837
+20	regime	regime	NOUN	NN	Number=Sing	19	_	_	start_char=3829|end_char=3835
+21	’s	's	PART	POS	_	20	_	_	start_char=3835|end_char=3837
+22	treatment	treatment	NOUN	NN	Number=Sing	21	_	_	start_char=3838|end_char=3847
+23	of	of	ADP	IN	_	22	_	_	start_char=3848|end_char=3850
+24	Taiwan	Taiwan	PROPN	NNP	Number=Sing	23	_	_	start_char=3851|end_char=3857|SpaceAfter=No
+25	,	,	PUNCT	,	_	24	_	_	start_char=3857|end_char=3858
+26	as	as	SCONJ	IN	_	25	_	_	start_char=3859|end_char=3861
+27	many	many	ADJ	JJ	Degree=Pos	26	_	_	start_char=3862|end_char=3866
+28	Americans	American	PROPN	NNPS	Number=Plur	27	_	_	start_char=3867|end_char=3876
+29	hold	hold	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	28	_	_	start_char=3877|end_char=3881
+30	much	much	ADV	RB	_	29	_	_	start_char=3882|end_char=3886
+31	more	more	ADV	RBR	Degree=Cmp	30	_	_	start_char=3887|end_char=3891
+32	favorable	favorable	ADJ	JJ	Degree=Pos	31	_	_	start_char=3892|end_char=3901
+33	views	view	NOUN	NNS	Number=Plur	32	_	_	start_char=3902|end_char=3907
+34	of	of	ADP	IN	_	33	_	_	start_char=3908|end_char=3910
+35	Taiwan	Taiwan	PROPN	NNP	Number=Sing	34	_	_	start_char=3911|end_char=3917
+36	(	(	PUNCT	-LRB-	_	35	_	_	start_char=3918|end_char=3919|SpaceAfter=No
+37	65	65	NUM	CD	NumForm=Digit|NumType=Card	36	_	_	start_char=3919|end_char=3921
+38	percent	percent	NOUN	NN	Number=Sing	37	_	_	start_char=3922|end_char=3929|SpaceAfter=No
+39	)	)	PUNCT	-RRB-	_	38	_	_	start_char=3929|end_char=3930
+40	than	than	ADP	IN	_	39	_	_	start_char=3931|end_char=3935
+41	China	China	PROPN	NNP	Number=Sing	40	_	_	start_char=3936|end_char=3941
+42	(	(	PUNCT	-LRB-	_	41	_	_	start_char=3942|end_char=3943|SpaceAfter=No
+43	14	14	NUM	CD	NumForm=Digit|NumType=Card	42	_	_	start_char=3943|end_char=3945
+44	percent	percent	NOUN	NN	Number=Sing	43	_	_	start_char=3946|end_char=3953|SpaceAfter=No
+45	)	)	PUNCT	-RRB-	_	44	_	_	start_char=3953|end_char=3954|SpaceAfter=No
+46	.	.	PUNCT	.	_	45	_	_	start_char=3954|end_char=3955|SpaceAfter=No
+

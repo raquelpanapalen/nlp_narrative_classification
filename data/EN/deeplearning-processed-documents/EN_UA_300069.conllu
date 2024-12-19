@@ -1,0 +1,617 @@
+# text = Uraine War Has Boosted Demand for Missile Defenses, Locheed Says
+# sent_id = 0
+1	Uraine	Uraine	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=6
+2	War	War	PROPN	NNP	Number=Sing	1	_	_	start_char=7|end_char=10
+3	Has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=11|end_char=14
+4	Boosted	boost	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=15|end_char=22
+5	Demand	demand	NOUN	NN	Number=Sing	4	_	_	start_char=23|end_char=29
+6	for	for	ADP	IN	_	5	_	_	start_char=30|end_char=33
+7	Missile	missile	NOUN	NN	Number=Sing	6	_	_	start_char=34|end_char=41
+8	Defenses	defens	NOUN	NNS	Number=Plur	7	_	_	start_char=42|end_char=50|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=50|end_char=51
+10	Locheed	locheed	NOUN	NN	Number=Sing	9	_	_	start_char=52|end_char=59
+11	Says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=60|end_char=64|SpacesAfter=\s\n\n\s
+
+# text = Russia’s attac on Uraine, including regular barrages of rocets, has boosted demand for Locheed Martin missile defense systems, the No. 1 U.S. weapons maer said on Tuesday.
+# sent_id = 1
+1-2	Russia’s	_	_	_	_	_	_	_	start_char=68|end_char=76
+1	Russia	Russia	PROPN	NNP	Number=Sing	0	_	_	start_char=68|end_char=74
+2	’s	's	PART	POS	_	1	_	_	start_char=74|end_char=76
+3	attac	attac	NOUN	NN	Number=Sing	2	_	_	start_char=77|end_char=82
+4	on	on	ADP	IN	_	3	_	_	start_char=83|end_char=85
+5	Uraine	Uraine	PROPN	NNP	Number=Sing	4	_	_	start_char=86|end_char=92|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=92|end_char=93
+7	including	include	VERB	VBG	VerbForm=Ger	6	_	_	start_char=94|end_char=103
+8	regular	regular	ADJ	JJ	Degree=Pos	7	_	_	start_char=104|end_char=111
+9	barrages	barrage	NOUN	NNS	Number=Plur	8	_	_	start_char=112|end_char=120
+10	of	of	ADP	IN	_	9	_	_	start_char=121|end_char=123
+11	rocets	rocet	NOUN	NNS	Number=Plur	10	_	_	start_char=124|end_char=130|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=130|end_char=131
+13	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=132|end_char=135
+14	boosted	boost	VERB	VBN	Tense=Past|VerbForm=Part	13	_	_	start_char=136|end_char=143
+15	demand	demand	NOUN	NN	Number=Sing	14	_	_	start_char=144|end_char=150
+16	for	for	ADP	IN	_	15	_	_	start_char=151|end_char=154
+17	Locheed	Locheed	PROPN	NNP	Number=Sing	16	_	_	start_char=155|end_char=162
+18	Martin	Martin	PROPN	NNP	Number=Sing	17	_	_	start_char=163|end_char=169
+19	missile	missile	NOUN	NN	Number=Sing	18	_	_	start_char=170|end_char=177
+20	defense	defense	NOUN	NN	Number=Sing	19	_	_	start_char=178|end_char=185
+21	systems	system	NOUN	NNS	Number=Plur	20	_	_	start_char=186|end_char=193|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	_	_	start_char=193|end_char=194
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=195|end_char=198
+24	No.	no.	NOUN	NN	Number=Sing	23	_	_	start_char=199|end_char=202
+25	1	1	NUM	CD	NumForm=Digit|NumType=Card	24	_	_	start_char=203|end_char=204
+26	U.S.	U.S.	PROPN	NNP	Number=Sing	25	_	_	start_char=205|end_char=209
+27	weapons	weapon	NOUN	NNS	Number=Plur	26	_	_	start_char=210|end_char=217
+28	maer	maer	NOUN	NN	Number=Sing	27	_	_	start_char=218|end_char=222
+29	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	_	_	start_char=223|end_char=227
+30	on	on	ADP	IN	_	29	_	_	start_char=228|end_char=230
+31	Tuesday	Tuesday	PROPN	NNP	Number=Sing	30	_	_	start_char=231|end_char=238|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=238|end_char=239|SpacesAfter=\n\n
+
+# text = “We’ve got demand signals for THAAD and PAC-3 from around the world,” Chief Executive Jim Taiclet said after Locheed reported a drop in quarterly sales and profits.
+# sent_id = 2
+1	“	''	PUNCT	``	_	0	_	_	start_char=241|end_char=242|SpaceAfter=No
+2-3	We’ve	_	_	_	_	_	_	_	start_char=242|end_char=247
+2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	1	_	_	start_char=242|end_char=244
+3	’ve	have	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=244|end_char=247
+4	got	get	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=248|end_char=251
+5	demand	demand	NOUN	NN	Number=Sing	4	_	_	start_char=252|end_char=258
+6	signals	signal	NOUN	NNS	Number=Plur	5	_	_	start_char=259|end_char=266
+7	for	for	ADP	IN	_	6	_	_	start_char=267|end_char=270
+8	THAAD	THAAD	PROPN	NNP	Number=Sing	7	_	_	start_char=271|end_char=276
+9	and	and	CCONJ	CC	_	8	_	_	start_char=277|end_char=280
+10	PAC	PAC	PROPN	NNP	Number=Sing	9	_	_	start_char=281|end_char=284|SpaceAfter=No
+11	-	-	PUNCT	HYPH	_	10	_	_	start_char=284|end_char=285|SpaceAfter=No
+12	3	3	NUM	CD	NumForm=Digit|NumType=Card	11	_	_	start_char=285|end_char=286
+13	from	from	ADP	IN	_	12	_	_	start_char=287|end_char=291
+14	around	around	ADP	IN	_	13	_	_	start_char=292|end_char=298
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=299|end_char=302
+16	world	world	NOUN	NN	Number=Sing	15	_	_	start_char=303|end_char=308|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=308|end_char=309|SpaceAfter=No
+18	”	''	PUNCT	''	_	17	_	_	start_char=309|end_char=310
+19	Chief	Chief	ADJ	JJ	Degree=Pos	18	_	_	start_char=311|end_char=316
+20	Executive	executive	NOUN	NN	Number=Sing	19	_	_	start_char=317|end_char=326
+21	Jim	Jim	PROPN	NNP	Number=Sing	20	_	_	start_char=327|end_char=330
+22	Taiclet	Taiclet	PROPN	NNP	Number=Sing	21	_	_	start_char=331|end_char=338
+23	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	_	_	start_char=339|end_char=343
+24	after	after	SCONJ	IN	_	23	_	_	start_char=344|end_char=349
+25	Locheed	Locheed	PROPN	NNP	Number=Sing	24	_	_	start_char=350|end_char=357
+26	reported	report	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	_	_	start_char=358|end_char=366
+27	a	a	DET	DT	Definite=Ind|PronType=Art	26	_	_	start_char=367|end_char=368
+28	drop	drop	NOUN	NN	Number=Sing	27	_	_	start_char=369|end_char=373
+29	in	in	ADP	IN	_	28	_	_	start_char=374|end_char=376
+30	quarterly	quarterly	ADJ	JJ	Degree=Pos	29	_	_	start_char=377|end_char=386
+31	sales	sale	NOUN	NNS	Number=Plur	30	_	_	start_char=387|end_char=392
+32	and	and	CCONJ	CC	_	31	_	_	start_char=393|end_char=396
+33	profits	profit	NOUN	NNS	Number=Plur	32	_	_	start_char=397|end_char=404|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=404|end_char=405
+
+# text = THAAD and PAC-3 refers to the Terminal High Altitude Area Defense (THAAD) missile defense system and the interceptors for Patriot missile systems.
+# sent_id = 3
+1	THAAD	THAAD	PROPN	NNP	Number=Sing	0	_	_	start_char=406|end_char=411
+2	and	and	CCONJ	CC	_	1	_	_	start_char=412|end_char=415
+3	PAC	PAC	PROPN	NNP	Number=Sing	2	_	_	start_char=416|end_char=419|SpaceAfter=No
+4	-	-	PUNCT	HYPH	_	3	_	_	start_char=419|end_char=420|SpaceAfter=No
+5	3	3	NUM	CD	NumForm=Digit|NumType=Card	4	_	_	start_char=420|end_char=421
+6	refers	refer	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=422|end_char=428
+7	to	to	ADP	IN	_	6	_	_	start_char=429|end_char=431
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=432|end_char=435
+9	Terminal	Terminal	PROPN	NNP	Number=Sing	8	_	_	start_char=436|end_char=444
+10	High	high	ADJ	NNP	Degree=Pos	9	_	_	start_char=445|end_char=449
+11	Altitude	Altitude	PROPN	NNP	Number=Sing	10	_	_	start_char=450|end_char=458
+12	Area	Area	PROPN	NNP	Number=Sing	11	_	_	start_char=459|end_char=463
+13	Defense	Defense	PROPN	NNP	Number=Sing	12	_	_	start_char=464|end_char=471
+14	(	(	PUNCT	-LRB-	_	13	_	_	start_char=472|end_char=473|SpaceAfter=No
+15	THAAD	THAAD	PROPN	NNP	Number=Sing	14	_	_	start_char=473|end_char=478|SpaceAfter=No
+16	)	)	PUNCT	-RRB-	_	15	_	_	start_char=478|end_char=479
+17	missile	missile	NOUN	NN	Number=Sing	16	_	_	start_char=480|end_char=487
+18	defense	defense	NOUN	NN	Number=Sing	17	_	_	start_char=488|end_char=495
+19	system	system	NOUN	NN	Number=Sing	18	_	_	start_char=496|end_char=502
+20	and	and	CCONJ	CC	_	19	_	_	start_char=503|end_char=506
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=507|end_char=510
+22	interceptors	interceptor	NOUN	NNS	Number=Plur	21	_	_	start_char=511|end_char=523
+23	for	for	ADP	IN	_	22	_	_	start_char=524|end_char=527
+24	Patriot	Patriot	ADJ	JJ	Degree=Pos	23	_	_	start_char=528|end_char=535
+25	missile	missile	NOUN	NN	Number=Sing	24	_	_	start_char=536|end_char=543
+26	systems	system	NOUN	NNS	Number=Plur	25	_	_	start_char=544|end_char=551|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	_	_	start_char=551|end_char=552|SpacesAfter=\n\n
+
+# text = “Especially when you see missiles hitting hospitals and situations lie that, and train stations in Uraine,” Taiclet said in explaining the demand, adding that governments were now thining “that it’s worthwhile to have an effective missile defense capacity in your country.”
+# sent_id = 4
+1	“	''	PUNCT	``	_	0	_	_	start_char=554|end_char=555|SpaceAfter=No
+2	Especially	especially	ADV	RB	_	1	_	_	start_char=555|end_char=565
+3	when	when	ADV	WRB	PronType=Int	2	_	_	start_char=566|end_char=570
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	_	_	start_char=571|end_char=574
+5	see	see	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	_	_	start_char=575|end_char=578
+6	missiles	missile	NOUN	NNS	Number=Plur	5	_	_	start_char=579|end_char=587
+7	hitting	hit	VERB	VBG	VerbForm=Ger	6	_	_	start_char=588|end_char=595
+8	hospitals	hospital	NOUN	NNS	Number=Plur	7	_	_	start_char=596|end_char=605
+9	and	and	CCONJ	CC	_	8	_	_	start_char=606|end_char=609
+10	situations	situation	NOUN	NNS	Number=Plur	9	_	_	start_char=610|end_char=620
+11	lie	lie	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=621|end_char=624
+12	that	that	PRON	DT	Number=Sing|PronType=Dem	11	_	_	start_char=625|end_char=629|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=629|end_char=630
+14	and	and	CCONJ	CC	_	13	_	_	start_char=631|end_char=634
+15	train	train	NOUN	NN	Number=Sing	14	_	_	start_char=635|end_char=640
+16	stations	station	NOUN	NNS	Number=Plur	15	_	_	start_char=641|end_char=649
+17	in	in	ADP	IN	_	16	_	_	start_char=650|end_char=652
+18	Uraine	Uraine	PROPN	NNP	Number=Sing	17	_	_	start_char=653|end_char=659|SpaceAfter=No
+19	,	,	PUNCT	,	_	18	_	_	start_char=659|end_char=660|SpaceAfter=No
+20	”	''	PUNCT	''	_	19	_	_	start_char=660|end_char=661
+21	Taiclet	Taiclet	PROPN	NNP	Number=Sing	20	_	_	start_char=662|end_char=669
+22	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	_	_	start_char=670|end_char=674
+23	in	in	SCONJ	IN	_	22	_	_	start_char=675|end_char=677
+24	explaining	explain	VERB	VBG	VerbForm=Ger	23	_	_	start_char=678|end_char=688
+25	the	the	DET	DT	Definite=Def|PronType=Art	24	_	_	start_char=689|end_char=692
+26	demand	demand	NOUN	NN	Number=Sing	25	_	_	start_char=693|end_char=699|SpaceAfter=No
+27	,	,	PUNCT	,	_	26	_	_	start_char=699|end_char=700
+28	adding	add	VERB	VBG	VerbForm=Ger	27	_	_	start_char=701|end_char=707
+29	that	that	SCONJ	IN	_	28	_	_	start_char=708|end_char=712
+30	governments	government	NOUN	NNS	Number=Plur	29	_	_	start_char=713|end_char=724
+31	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	30	_	_	start_char=725|end_char=729
+32	now	now	ADV	RB	_	31	_	_	start_char=730|end_char=733
+33	thining	thine	VERB	VBG	Tense=Pres|VerbForm=Part	32	_	_	start_char=734|end_char=741
+34	“	''	PUNCT	``	_	33	_	_	start_char=742|end_char=743|SpaceAfter=No
+35	that	that	SCONJ	IN	_	34	_	_	start_char=743|end_char=747
+36-37	it’s	_	_	_	_	_	_	_	start_char=748|end_char=752
+36	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	35	_	_	start_char=748|end_char=750
+37	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	_	_	start_char=750|end_char=752
+38	worthwhile	worthwhile	ADJ	JJ	Degree=Pos	37	_	_	start_char=753|end_char=763
+39	to	to	PART	TO	_	38	_	_	start_char=764|end_char=766
+40	have	have	VERB	VB	VerbForm=Inf	39	_	_	start_char=767|end_char=771
+41	an	a	DET	DT	Definite=Ind|PronType=Art	40	_	_	start_char=772|end_char=774
+42	effective	effective	ADJ	JJ	Degree=Pos	41	_	_	start_char=775|end_char=784
+43	missile	missile	NOUN	NN	Number=Sing	42	_	_	start_char=785|end_char=792
+44	defense	defense	NOUN	NN	Number=Sing	43	_	_	start_char=793|end_char=800
+45	capacity	capacity	NOUN	NN	Number=Sing	44	_	_	start_char=801|end_char=809
+46	in	in	ADP	IN	_	45	_	_	start_char=810|end_char=812
+47	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	46	_	_	start_char=813|end_char=817
+48	country	country	NOUN	NN	Number=Sing	47	_	_	start_char=818|end_char=825|SpaceAfter=No
+49	.	.	PUNCT	.	_	48	_	_	start_char=825|end_char=826|SpaceAfter=No
+50	”	''	PUNCT	''	_	49	_	_	start_char=826|end_char=827|SpacesAfter=\n\n
+
+# text = Locheed said its quarterly revenue fell while quarterly profits dropped 5.7 percent as supply chain woes triggered by the COVID-19 pandemic were compounded by inflation pressure.
+# sent_id = 5
+1	Locheed	Locheed	PROPN	NNP	Number=Sing	0	_	_	start_char=829|end_char=836
+2	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=837|end_char=841
+3	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	_	_	start_char=842|end_char=845
+4	quarterly	quarterly	ADJ	JJ	Degree=Pos	3	_	_	start_char=846|end_char=855
+5	revenue	revenue	NOUN	NN	Number=Sing	4	_	_	start_char=856|end_char=863
+6	fell	fall	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=864|end_char=868
+7	while	while	SCONJ	IN	_	6	_	_	start_char=869|end_char=874
+8	quarterly	quarterly	ADJ	JJ	Degree=Pos	7	_	_	start_char=875|end_char=884
+9	profits	profit	NOUN	NNS	Number=Plur	8	_	_	start_char=885|end_char=892
+10	dropped	drop	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=893|end_char=900
+11	5.7	5.7	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=901|end_char=904
+12	percent	percent	NOUN	NN	Number=Sing	11	_	_	start_char=905|end_char=912
+13	as	as	SCONJ	IN	_	12	_	_	start_char=913|end_char=915
+14	supply	supply	NOUN	NN	Number=Sing	13	_	_	start_char=916|end_char=922
+15	chain	chain	NOUN	NN	Number=Sing	14	_	_	start_char=923|end_char=928
+16	woes	woe	NOUN	NNS	Number=Plur	15	_	_	start_char=929|end_char=933
+17	triggered	trigger	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	16	_	_	start_char=934|end_char=943
+18	by	by	ADP	IN	_	17	_	_	start_char=944|end_char=946
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=947|end_char=950
+20	COVID	COVID	PROPN	NNP	Number=Sing	19	_	_	start_char=951|end_char=956|SpaceAfter=No
+21	-	-	PUNCT	HYPH	_	20	_	_	start_char=956|end_char=957|SpaceAfter=No
+22	19	19	NUM	CD	NumForm=Digit|NumType=Card	21	_	_	start_char=957|end_char=959
+23	pandemic	pandemic	NOUN	NN	Number=Sing	22	_	_	start_char=960|end_char=968
+24	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	23	_	_	start_char=969|end_char=973
+25	compounded	compound	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	24	_	_	start_char=974|end_char=984
+26	by	by	ADP	IN	_	25	_	_	start_char=985|end_char=987
+27	inflation	inflation	NOUN	NN	Number=Sing	26	_	_	start_char=988|end_char=997
+28	pressure	pressure	NOUN	NN	Number=Sing	27	_	_	start_char=998|end_char=1006|SpaceAfter=No
+29	.	.	PUNCT	.	_	28	_	_	start_char=1006|end_char=1007|SpacesAfter=\n\n
+
+# text = The company reaffirmed its full-year revenue outloo of about $66 billion, which is in line with analysts estimates.
+# sent_id = 6
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1009|end_char=1012
+2	company	company	NOUN	NN	Number=Sing	1	_	_	start_char=1013|end_char=1020
+3	reaffirmed	reaffirm	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1021|end_char=1031
+4	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	_	_	start_char=1032|end_char=1035
+5	full	full	ADJ	JJ	Degree=Pos	4	_	_	start_char=1036|end_char=1040|SpaceAfter=No
+6	-	-	PUNCT	HYPH	_	5	_	_	start_char=1040|end_char=1041|SpaceAfter=No
+7	year	year	NOUN	NN	Number=Sing	6	_	_	start_char=1041|end_char=1045
+8	revenue	revenue	NOUN	NN	Number=Sing	7	_	_	start_char=1046|end_char=1053
+9	outloo	outloo	NOUN	NN	Number=Sing	8	_	_	start_char=1054|end_char=1060
+10	of	of	ADP	IN	_	9	_	_	start_char=1061|end_char=1063
+11	about	about	ADV	RB	_	10	_	_	start_char=1064|end_char=1069
+12	$	$	SYM	$	_	11	_	_	start_char=1070|end_char=1071|SpaceAfter=No
+13	66	66	NUM	CD	NumForm=Digit|NumType=Card	12	_	_	start_char=1071|end_char=1073
+14	billion	billion	NUM	CD	NumForm=Word|NumType=Card	13	_	_	start_char=1074|end_char=1081|SpaceAfter=No
+15	,	,	PUNCT	,	_	14	_	_	start_char=1081|end_char=1082
+16	which	which	PRON	WDT	PronType=Rel	15	_	_	start_char=1083|end_char=1088
+17	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=1089|end_char=1091
+18	in	in	ADP	IN	_	17	_	_	start_char=1092|end_char=1094
+19	line	line	NOUN	NN	Number=Sing	18	_	_	start_char=1095|end_char=1099
+20	with	with	ADP	IN	_	19	_	_	start_char=1100|end_char=1104
+21	analysts	analyst	NOUN	NNS	Number=Plur	20	_	_	start_char=1105|end_char=1113
+22	estimates	estimate	NOUN	NNS	Number=Plur	21	_	_	start_char=1114|end_char=1123|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=1123|end_char=1124|SpacesAfter=\n\n
+
+# text = U.S. President Joe Biden’s record peacetime national defense budget request of $813 billion was unveiled in March as Russia’s invasion of Uraine has spurred demand for more military spending globally.
+# sent_id = 7
+1	U.S.	U.S.	PROPN	NNP	Number=Sing	0	_	_	start_char=1126|end_char=1130
+2	President	President	PROPN	NNP	Number=Sing	1	_	_	start_char=1131|end_char=1140
+3	Joe	Joe	PROPN	NNP	Number=Sing	2	_	_	start_char=1141|end_char=1144
+4-5	Biden’s	_	_	_	_	_	_	_	start_char=1145|end_char=1152
+4	Biden	Biden	PROPN	NNP	Number=Sing	3	_	_	start_char=1145|end_char=1150
+5	’s	's	PART	POS	_	4	_	_	start_char=1150|end_char=1152
+6	record	record	NOUN	NN	Number=Sing	5	_	_	start_char=1153|end_char=1159
+7	peacetime	peacetime	ADJ	JJ	Degree=Pos	6	_	_	start_char=1160|end_char=1169
+8	national	national	ADJ	JJ	Degree=Pos	7	_	_	start_char=1170|end_char=1178
+9	defense	defense	NOUN	NN	Number=Sing	8	_	_	start_char=1179|end_char=1186
+10	budget	budget	NOUN	NN	Number=Sing	9	_	_	start_char=1187|end_char=1193
+11	request	request	NOUN	NN	Number=Sing	10	_	_	start_char=1194|end_char=1201
+12	of	of	ADP	IN	_	11	_	_	start_char=1202|end_char=1204
+13	$	$	SYM	$	_	12	_	_	start_char=1205|end_char=1206|SpaceAfter=No
+14	813	813	NUM	CD	NumForm=Digit|NumType=Card	13	_	_	start_char=1206|end_char=1209
+15	billion	billion	NUM	CD	NumForm=Word|NumType=Card	14	_	_	start_char=1210|end_char=1217
+16	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	_	_	start_char=1218|end_char=1221
+17	unveiled	unveil	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	16	_	_	start_char=1222|end_char=1230
+18	in	in	ADP	IN	_	17	_	_	start_char=1231|end_char=1233
+19	March	March	PROPN	NNP	Number=Sing	18	_	_	start_char=1234|end_char=1239
+20	as	as	SCONJ	IN	_	19	_	_	start_char=1240|end_char=1242
+21-22	Russia’s	_	_	_	_	_	_	_	start_char=1243|end_char=1251
+21	Russia	Russia	PROPN	NNP	Number=Sing	20	_	_	start_char=1243|end_char=1249
+22	’s	's	PART	POS	_	21	_	_	start_char=1249|end_char=1251
+23	invasion	invasion	NOUN	NN	Number=Sing	22	_	_	start_char=1252|end_char=1260
+24	of	of	ADP	IN	_	23	_	_	start_char=1261|end_char=1263
+25	Uraine	Uraine	PROPN	NNP	Number=Sing	24	_	_	start_char=1264|end_char=1270
+26	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	_	_	start_char=1271|end_char=1274
+27	spurred	spur	VERB	VBN	Tense=Past|VerbForm=Part	26	_	_	start_char=1275|end_char=1282
+28	demand	demand	NOUN	NN	Number=Sing	27	_	_	start_char=1283|end_char=1289
+29	for	for	ADP	IN	_	28	_	_	start_char=1290|end_char=1293
+30	more	more	ADJ	JJR	Degree=Cmp	29	_	_	start_char=1294|end_char=1298
+31	military	military	ADJ	JJ	Degree=Pos	30	_	_	start_char=1299|end_char=1307
+32	spending	spending	NOUN	NN	Number=Sing	31	_	_	start_char=1308|end_char=1316
+33	globally	globally	ADV	RB	_	32	_	_	start_char=1317|end_char=1325|SpaceAfter=No
+34	.	.	PUNCT	.	_	33	_	_	start_char=1325|end_char=1326|SpacesAfter=\n\n
+
+# text = The pandemic crippled many aerospace companies’ ability to procure as well as supply parts needed to produce products, creating shortages, reducing inventories and hammering profits amid a period of rising inflation.
+# sent_id = 8
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1328|end_char=1331
+2	pandemic	pandemic	NOUN	NN	Number=Sing	1	_	_	start_char=1332|end_char=1340
+3	crippled	crippled	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1341|end_char=1349
+4	many	many	ADJ	JJ	Degree=Pos	3	_	_	start_char=1350|end_char=1354
+5	aerospace	aerospace	NOUN	NN	Number=Sing	4	_	_	start_char=1355|end_char=1364
+6-7	companies’	_	_	_	_	_	_	_	start_char=1365|end_char=1375
+6	companies	company	NOUN	NNS	Number=Plur	5	_	_	start_char=1365|end_char=1374
+7	’	's	PART	POS	_	6	_	_	start_char=1374|end_char=1375
+8	ability	ability	NOUN	NN	Number=Sing	7	_	_	start_char=1376|end_char=1383
+9	to	to	PART	TO	_	8	_	_	start_char=1384|end_char=1386
+10	procure	procure	VERB	VB	VerbForm=Inf	9	_	_	start_char=1387|end_char=1394
+11	as	as	ADV	RB	_	10	_	_	start_char=1395|end_char=1397
+12	well	well	ADV	RB	Degree=Pos	11	_	_	start_char=1398|end_char=1402
+13	as	as	ADP	IN	_	12	_	_	start_char=1403|end_char=1405
+14	supply	supply	NOUN	NN	Number=Sing	13	_	_	start_char=1406|end_char=1412
+15	parts	part	NOUN	NNS	Number=Plur	14	_	_	start_char=1413|end_char=1418
+16	needed	need	VERB	VBN	Tense=Past|VerbForm=Part	15	_	_	start_char=1419|end_char=1425
+17	to	to	PART	TO	_	16	_	_	start_char=1426|end_char=1428
+18	produce	produce	VERB	VB	VerbForm=Inf	17	_	_	start_char=1429|end_char=1436
+19	products	product	NOUN	NNS	Number=Plur	18	_	_	start_char=1437|end_char=1445|SpaceAfter=No
+20	,	,	PUNCT	,	_	19	_	_	start_char=1445|end_char=1446
+21	creating	create	VERB	VBG	VerbForm=Ger	20	_	_	start_char=1447|end_char=1455
+22	shortages	shortage	NOUN	NNS	Number=Plur	21	_	_	start_char=1456|end_char=1465|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=1465|end_char=1466
+24	reducing	reduce	VERB	VBG	VerbForm=Ger	23	_	_	start_char=1467|end_char=1475
+25	inventories	inventory	NOUN	NNS	Number=Plur	24	_	_	start_char=1476|end_char=1487
+26	and	and	CCONJ	CC	_	25	_	_	start_char=1488|end_char=1491
+27	hammering	hammer	VERB	VBG	VerbForm=Ger	26	_	_	start_char=1492|end_char=1501
+28	profits	profit	NOUN	NNS	Number=Plur	27	_	_	start_char=1502|end_char=1509
+29	amid	amid	ADP	IN	_	28	_	_	start_char=1510|end_char=1514
+30	a	a	DET	DT	Definite=Ind|PronType=Art	29	_	_	start_char=1515|end_char=1516
+31	period	period	NOUN	NN	Number=Sing	30	_	_	start_char=1517|end_char=1523
+32	of	of	ADP	IN	_	31	_	_	start_char=1524|end_char=1526
+33	rising	rise	VERB	VBG	VerbForm=Ger	32	_	_	start_char=1527|end_char=1533
+34	inflation	inflation	NOUN	NN	Number=Sing	33	_	_	start_char=1534|end_char=1543|SpaceAfter=No
+35	.	.	PUNCT	.	_	34	_	_	start_char=1543|end_char=1544
+
+# text = Locheed’s dual-use suppliers that cater to both commercial aviation and defense marets have also been impacted.
+# sent_id = 9
+1-2	Locheed’s	_	_	_	_	_	_	_	start_char=1545|end_char=1554
+1	Locheed	Locheed	PROPN	NNP	Number=Sing	0	_	_	start_char=1545|end_char=1552
+2	’s	's	PART	POS	_	1	_	_	start_char=1552|end_char=1554
+3	dual	dual	ADJ	JJ	Degree=Pos	2	_	_	start_char=1555|end_char=1559|SpaceAfter=No
+4	-	-	PUNCT	HYPH	_	3	_	_	start_char=1559|end_char=1560|SpaceAfter=No
+5	use	use	NOUN	NN	Number=Sing	4	_	_	start_char=1560|end_char=1563
+6	suppliers	supplier	NOUN	NNS	Number=Plur	5	_	_	start_char=1564|end_char=1573
+7	that	that	PRON	WDT	PronType=Rel	6	_	_	start_char=1574|end_char=1578
+8	cater	cater	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=1579|end_char=1584
+9	to	to	ADP	IN	_	8	_	_	start_char=1585|end_char=1587
+10	both	both	DET	DT	_	9	_	_	start_char=1588|end_char=1592
+11	commercial	commercial	ADJ	JJ	Degree=Pos	10	_	_	start_char=1593|end_char=1603
+12	aviation	aviation	NOUN	NN	Number=Sing	11	_	_	start_char=1604|end_char=1612
+13	and	and	CCONJ	CC	_	12	_	_	start_char=1613|end_char=1616
+14	defense	defense	NOUN	NN	Number=Sing	13	_	_	start_char=1617|end_char=1624
+15	marets	maret	NOUN	NNS	Number=Plur	14	_	_	start_char=1625|end_char=1631
+16	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=1632|end_char=1636
+17	also	also	ADV	RB	_	16	_	_	start_char=1637|end_char=1641
+18	been	be	AUX	VBN	Tense=Past|VerbForm=Part	17	_	_	start_char=1642|end_char=1646
+19	impacted	impact	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	18	_	_	start_char=1647|end_char=1655|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=1655|end_char=1656
+
+# text = Taiclet said inflation had hurt the company’s performance.
+# sent_id = 10
+1	Taiclet	Taiclet	PROPN	NNP	Number=Sing	0	_	_	start_char=1657|end_char=1664
+2	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1665|end_char=1669
+3	inflation	inflation	NOUN	NN	Number=Sing	2	_	_	start_char=1670|end_char=1679
+4	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=1680|end_char=1683
+5	hurt	hurt	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=1684|end_char=1688
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=1689|end_char=1692
+7-8	company’s	_	_	_	_	_	_	_	start_char=1693|end_char=1702
+7	company	company	NOUN	NN	Number=Sing	6	_	_	start_char=1693|end_char=1700
+8	’s	's	PART	POS	_	7	_	_	start_char=1700|end_char=1702
+9	performance	performance	NOUN	NN	Number=Sing	8	_	_	start_char=1703|end_char=1714|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=1714|end_char=1715|SpacesAfter=\n\n
+
+# text = “The result should bring a focus to defense supply chain concerns, which may be evident elsewhere this quarter as well, though there did not seem to be major issues.
+# sent_id = 11
+1	“	''	PUNCT	``	_	0	_	_	start_char=1717|end_char=1718|SpaceAfter=No
+2	The	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=1718|end_char=1721
+3	result	result	NOUN	NN	Number=Sing	2	_	_	start_char=1722|end_char=1728
+4	should	should	AUX	MD	VerbForm=Fin	3	_	_	start_char=1729|end_char=1735
+5	bring	bring	VERB	VB	VerbForm=Inf	4	_	_	start_char=1736|end_char=1741
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=1742|end_char=1743
+7	focus	focus	NOUN	NN	Number=Sing	6	_	_	start_char=1744|end_char=1749
+8	to	to	ADP	IN	_	7	_	_	start_char=1750|end_char=1752
+9	defense	defense	NOUN	NN	Number=Sing	8	_	_	start_char=1753|end_char=1760
+10	supply	supply	NOUN	NN	Number=Sing	9	_	_	start_char=1761|end_char=1767
+11	chain	chain	NOUN	NN	Number=Sing	10	_	_	start_char=1768|end_char=1773
+12	concerns	concern	NOUN	NNS	Number=Plur	11	_	_	start_char=1774|end_char=1782|SpaceAfter=No
+13	,	,	PUNCT	,	_	12	_	_	start_char=1782|end_char=1783
+14	which	which	PRON	WDT	PronType=Rel	13	_	_	start_char=1784|end_char=1789
+15	may	may	AUX	MD	VerbForm=Fin	14	_	_	start_char=1790|end_char=1793
+16	be	be	AUX	VB	VerbForm=Inf	15	_	_	start_char=1794|end_char=1796
+17	evident	evident	ADJ	JJ	Degree=Pos	16	_	_	start_char=1797|end_char=1804
+18	elsewhere	elsewhere	ADV	RB	_	17	_	_	start_char=1805|end_char=1814
+19	this	this	DET	DT	Number=Sing|PronType=Dem	18	_	_	start_char=1815|end_char=1819
+20	quarter	quarter	NOUN	NN	NumForm=Word|NumType=Frac|Number=Sing	19	_	_	start_char=1820|end_char=1827
+21	as	as	ADV	RB	_	20	_	_	start_char=1828|end_char=1830
+22	well	well	ADV	RB	Degree=Pos	21	_	_	start_char=1831|end_char=1835|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=1835|end_char=1836
+24	though	though	SCONJ	IN	_	23	_	_	start_char=1837|end_char=1843
+25	there	there	PRON	EX	_	24	_	_	start_char=1844|end_char=1849
+26	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	_	_	start_char=1850|end_char=1853
+27	not	not	PART	RB	_	26	_	_	start_char=1854|end_char=1857
+28	seem	seem	VERB	VB	VerbForm=Inf	27	_	_	start_char=1858|end_char=1862
+29	to	to	PART	TO	_	28	_	_	start_char=1863|end_char=1865
+30	be	be	VERB	VB	VerbForm=Inf	29	_	_	start_char=1866|end_char=1868
+31	major	major	ADJ	JJ	Degree=Pos	30	_	_	start_char=1869|end_char=1874
+32	issues	issue	NOUN	NNS	Number=Plur	31	_	_	start_char=1875|end_char=1881|SpaceAfter=No
+33	.	.	PUNCT	.	_	32	_	_	start_char=1881|end_char=1882
+
+# text = In addition, management did not change 2022 guidance and with defense budget support and the war in Uraine” raising defense spending appetites, temporary challenges could be limited, JP Morgan analyst Seth Seifman said in a note.
+# sent_id = 12
+1	In	in	ADP	IN	_	0	_	_	start_char=1883|end_char=1885
+2	addition	addition	NOUN	NN	Number=Sing	1	_	_	start_char=1886|end_char=1894|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=1894|end_char=1895
+4	management	management	NOUN	NN	Number=Sing	3	_	_	start_char=1896|end_char=1906
+5	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=1907|end_char=1910
+6	not	not	PART	RB	_	5	_	_	start_char=1911|end_char=1914
+7	change	change	VERB	VB	VerbForm=Inf	6	_	_	start_char=1915|end_char=1921
+8	2022	2022	NUM	CD	NumForm=Digit|NumType=Card	7	_	_	start_char=1922|end_char=1926
+9	guidance	guidance	NOUN	NN	Number=Sing	8	_	_	start_char=1927|end_char=1935
+10	and	and	CCONJ	CC	_	9	_	_	start_char=1936|end_char=1939
+11	with	with	ADP	IN	_	10	_	_	start_char=1940|end_char=1944
+12	defense	defense	NOUN	NN	Number=Sing	11	_	_	start_char=1945|end_char=1952
+13	budget	budget	NOUN	NN	Number=Sing	12	_	_	start_char=1953|end_char=1959
+14	support	support	NOUN	NN	Number=Sing	13	_	_	start_char=1960|end_char=1967
+15	and	and	CCONJ	CC	_	14	_	_	start_char=1968|end_char=1971
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=1972|end_char=1975
+17	war	war	NOUN	NN	Number=Sing	16	_	_	start_char=1976|end_char=1979
+18	in	in	ADP	IN	_	17	_	_	start_char=1980|end_char=1982
+19	Uraine	Uraine	PROPN	NNP	Number=Sing	18	_	_	start_char=1983|end_char=1989|SpaceAfter=No
+20	”	''	PUNCT	''	_	19	_	_	start_char=1989|end_char=1990
+21	raising	raise	VERB	VBG	VerbForm=Ger	20	_	_	start_char=1991|end_char=1998
+22	defense	defense	NOUN	NN	Number=Sing	21	_	_	start_char=1999|end_char=2006
+23	spending	spending	NOUN	NN	Number=Sing	22	_	_	start_char=2007|end_char=2015
+24	appetites	appetite	NOUN	NNS	Number=Plur	23	_	_	start_char=2016|end_char=2025|SpaceAfter=No
+25	,	,	PUNCT	,	_	24	_	_	start_char=2025|end_char=2026
+26	temporary	temporary	ADJ	JJ	Degree=Pos	25	_	_	start_char=2027|end_char=2036
+27	challenges	challenge	NOUN	NNS	Number=Plur	26	_	_	start_char=2037|end_char=2047
+28	could	could	AUX	MD	VerbForm=Fin	27	_	_	start_char=2048|end_char=2053
+29	be	be	AUX	VB	VerbForm=Inf	28	_	_	start_char=2054|end_char=2056
+30	limited	limit	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	29	_	_	start_char=2057|end_char=2064|SpaceAfter=No
+31	,	,	PUNCT	,	_	30	_	_	start_char=2064|end_char=2065
+32	JP	JP	PROPN	NNP	Number=Sing	31	_	_	start_char=2066|end_char=2068
+33	Morgan	Morgan	PROPN	NNP	Number=Sing	32	_	_	start_char=2069|end_char=2075
+34	analyst	analyst	NOUN	NN	Number=Sing	33	_	_	start_char=2076|end_char=2083
+35	Seth	Seth	PROPN	NNP	Number=Sing	34	_	_	start_char=2084|end_char=2088
+36	Seifman	Seifman	PROPN	NNP	Number=Sing	35	_	_	start_char=2089|end_char=2096
+37	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	36	_	_	start_char=2097|end_char=2101
+38	in	in	ADP	IN	_	37	_	_	start_char=2102|end_char=2104
+39	a	a	DET	DT	Definite=Ind|PronType=Art	38	_	_	start_char=2105|end_char=2106
+40	note	note	NOUN	NN	Number=Sing	39	_	_	start_char=2107|end_char=2111|SpaceAfter=No
+41	.	.	PUNCT	.	_	40	_	_	start_char=2111|end_char=2112|SpacesAfter=\n\n
+
+# text = Shares in Locheed were down $5.33, or 1.1 percent, at $462.21 at midday.
+# sent_id = 13
+1	Shares	share	NOUN	NNS	Number=Plur	0	_	_	start_char=2114|end_char=2120
+2	in	in	ADP	IN	_	1	_	_	start_char=2121|end_char=2123
+3	Locheed	Locheed	PROPN	NNP	Number=Sing	2	_	_	start_char=2124|end_char=2131
+4	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=2132|end_char=2136
+5	down	down	ADV	RB	_	4	_	_	start_char=2137|end_char=2141
+6	$	$	SYM	$	_	5	_	_	start_char=2142|end_char=2143|SpaceAfter=No
+7	5.33	5.33	NUM	CD	NumForm=Digit|NumType=Card	6	_	_	start_char=2143|end_char=2147|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=2147|end_char=2148
+9	or	or	CCONJ	CC	_	8	_	_	start_char=2149|end_char=2151
+10	1.1	1.1	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=2152|end_char=2155
+11	percent	percent	NOUN	NN	Number=Sing	10	_	_	start_char=2156|end_char=2163|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=2163|end_char=2164
+13	at	at	ADP	IN	_	12	_	_	start_char=2165|end_char=2167
+14	$	$	SYM	$	_	13	_	_	start_char=2168|end_char=2169|SpaceAfter=No
+15	462.21	462.21	NUM	CD	NumForm=Digit|NumType=Card	14	_	_	start_char=2169|end_char=2175
+16	at	at	ADP	IN	_	15	_	_	start_char=2176|end_char=2178
+17	midday	midday	NOUN	NN	Number=Sing	16	_	_	start_char=2179|end_char=2185|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=2185|end_char=2186|SpacesAfter=\n\n
+
+# text = Locheed’s Aeronautics unit, its biggest, which maes F-35 fighter jets saw its revenue rise 2 percent compared to the same quarter a year ago, but profits fell by 2 percent to $697 million.
+# sent_id = 14
+1-2	Locheed’s	_	_	_	_	_	_	_	start_char=2188|end_char=2197
+1	Locheed	Locheed	PROPN	NNP	Number=Sing	0	_	_	start_char=2188|end_char=2195
+2	’s	's	PART	POS	_	1	_	_	start_char=2195|end_char=2197
+3	Aeronautics	Aeronautics	PROPN	NNP	Number=Sing	2	_	_	start_char=2198|end_char=2209
+4	unit	unit	NOUN	NN	Number=Sing	3	_	_	start_char=2210|end_char=2214|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=2214|end_char=2215
+6	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	_	_	start_char=2216|end_char=2219
+7	biggest	big	ADJ	JJS	Degree=Sup	6	_	_	start_char=2220|end_char=2227|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=2227|end_char=2228
+9	which	which	PRON	WDT	PronType=Rel	8	_	_	start_char=2229|end_char=2234
+10	maes	Maes	PROPN	NNP	Number=Sing	9	_	_	start_char=2235|end_char=2239
+11	F	F	PROPN	NNP	Number=Sing	10	_	_	start_char=2240|end_char=2241|SpaceAfter=No
+12	-	-	PUNCT	HYPH	_	11	_	_	start_char=2241|end_char=2242|SpaceAfter=No
+13	35	35	NUM	CD	NumForm=Digit|NumType=Card	12	_	_	start_char=2242|end_char=2244
+14	fighter	fighter	NOUN	NN	Number=Sing	13	_	_	start_char=2245|end_char=2252
+15	jets	jet	NOUN	NNS	Number=Plur	14	_	_	start_char=2253|end_char=2257
+16	saw	see	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	15	_	_	start_char=2258|end_char=2261
+17	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	_	_	start_char=2262|end_char=2265
+18	revenue	revenue	NOUN	NN	Number=Sing	17	_	_	start_char=2266|end_char=2273
+19	rise	rise	VERB	VB	VerbForm=Inf	18	_	_	start_char=2274|end_char=2278
+20	2	2	NUM	CD	NumForm=Digit|NumType=Card	19	_	_	start_char=2279|end_char=2280
+21	percent	percent	NOUN	NN	Number=Sing	20	_	_	start_char=2281|end_char=2288
+22	compared	compare	VERB	VBN	Tense=Past|VerbForm=Part	21	_	_	start_char=2289|end_char=2297
+23	to	to	ADP	IN	_	22	_	_	start_char=2298|end_char=2300
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=2301|end_char=2304
+25	same	same	ADJ	JJ	Degree=Pos	24	_	_	start_char=2305|end_char=2309
+26	quarter	quarter	NOUN	NN	NumForm=Word|NumType=Frac|Number=Sing	25	_	_	start_char=2310|end_char=2317
+27	a	a	DET	DT	Definite=Ind|PronType=Art	26	_	_	start_char=2318|end_char=2319
+28	year	year	NOUN	NN	Number=Sing	27	_	_	start_char=2320|end_char=2324
+29	ago	ago	ADV	RB	_	28	_	_	start_char=2325|end_char=2328|SpaceAfter=No
+30	,	,	PUNCT	,	_	29	_	_	start_char=2328|end_char=2329
+31	but	but	CCONJ	CC	_	30	_	_	start_char=2330|end_char=2333
+32	profits	profit	NOUN	NNS	Number=Plur	31	_	_	start_char=2334|end_char=2341
+33	fell	fall	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	32	_	_	start_char=2342|end_char=2346
+34	by	by	ADP	IN	_	33	_	_	start_char=2347|end_char=2349
+35	2	2	NUM	CD	NumForm=Digit|NumType=Card	34	_	_	start_char=2350|end_char=2351
+36	percent	percent	NOUN	NN	Number=Sing	35	_	_	start_char=2352|end_char=2359
+37	to	to	ADP	IN	_	36	_	_	start_char=2360|end_char=2362
+38	$	$	SYM	$	_	37	_	_	start_char=2363|end_char=2364|SpaceAfter=No
+39	697	697	NUM	CD	NumForm=Digit|NumType=Card	38	_	_	start_char=2364|end_char=2367
+40	million	million	NUM	CD	NumForm=Word|NumType=Card	39	_	_	start_char=2368|end_char=2375|SpaceAfter=No
+41	.	.	PUNCT	.	_	40	_	_	start_char=2375|end_char=2376|SpacesAfter=\n\n
+
+# text = Locheed reported 26 F-35 jet deliveries in the quarter compared with 17 a year earlier.
+# sent_id = 15
+1	Locheed	Locheed	PROPN	NNP	Number=Sing	0	_	_	start_char=2378|end_char=2385
+2	reported	report	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=2386|end_char=2394
+3	26	26	NUM	CD	NumForm=Digit|NumType=Card	2	_	_	start_char=2395|end_char=2397
+4	F	F	PROPN	NNP	Number=Sing	3	_	_	start_char=2398|end_char=2399|SpaceAfter=No
+5	-	-	SYM	SYM	_	4	_	_	start_char=2399|end_char=2400|SpaceAfter=No
+6	35	35	NUM	CD	NumForm=Digit|NumType=Card	5	_	_	start_char=2400|end_char=2402
+7	jet	jet	NOUN	NN	Number=Sing	6	_	_	start_char=2403|end_char=2406
+8	deliveries	delivery	NOUN	NNS	Number=Plur	7	_	_	start_char=2407|end_char=2417
+9	in	in	ADP	IN	_	8	_	_	start_char=2418|end_char=2420
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=2421|end_char=2424
+11	quarter	quarter	NOUN	NN	NumForm=Word|NumType=Frac|Number=Sing	10	_	_	start_char=2425|end_char=2432
+12	compared	compare	VERB	VBN	Tense=Past|VerbForm=Part	11	_	_	start_char=2433|end_char=2441
+13	with	with	ADP	IN	_	12	_	_	start_char=2442|end_char=2446
+14	17	17	NUM	CD	NumForm=Digit|NumType=Card	13	_	_	start_char=2447|end_char=2449
+15	a	a	DET	DT	Definite=Ind|PronType=Art	14	_	_	start_char=2450|end_char=2451
+16	year	year	NOUN	NN	Number=Sing	15	_	_	start_char=2452|end_char=2456
+17	earlier	early	ADV	RBR	Degree=Cmp	16	_	_	start_char=2457|end_char=2464|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=2464|end_char=2465
+
+# text = Taiclet said Locheed was woring to increase F-35 sales for 2023.
+# sent_id = 16
+1	Taiclet	Taiclet	PROPN	NNP	Number=Sing	0	_	_	start_char=2466|end_char=2473
+2	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=2474|end_char=2478
+3	Locheed	Locheed	PROPN	NNP	Number=Sing	2	_	_	start_char=2479|end_char=2486
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=2487|end_char=2490
+5	woring	wore	VERB	VBG	Tense=Pres|VerbForm=Part	4	_	_	start_char=2491|end_char=2497
+6	to	to	PART	TO	_	5	_	_	start_char=2498|end_char=2500
+7	increase	increase	VERB	VB	VerbForm=Inf	6	_	_	start_char=2501|end_char=2509
+8	F	F	PROPN	NNP	Number=Sing	7	_	_	start_char=2510|end_char=2511|SpaceAfter=No
+9	-	-	PUNCT	HYPH	_	8	_	_	start_char=2511|end_char=2512|SpaceAfter=No
+10	35	35	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=2512|end_char=2514
+11	sales	sale	NOUN	NNS	Number=Plur	10	_	_	start_char=2515|end_char=2520
+12	for	for	ADP	IN	_	11	_	_	start_char=2521|end_char=2524
+13	2023	2023	NUM	CD	NumForm=Digit|NumType=Card	12	_	_	start_char=2525|end_char=2529|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=2529|end_char=2530|SpacesAfter=\n\n
+
+# text = Net earnings fell to $1.73 billion, or $6.44 per share, in the first quarter ended March 27 from $1.84 billion, or $6.56 per share, a year earlier.
+# sent_id = 17
+1	Net	net	ADJ	JJ	Degree=Pos	0	_	_	start_char=2532|end_char=2535
+2	earnings	earnings	NOUN	NNS	Number=Plur	1	_	_	start_char=2536|end_char=2544
+3	fell	fall	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=2545|end_char=2549
+4	to	to	ADP	IN	_	3	_	_	start_char=2550|end_char=2552
+5	$	$	SYM	$	_	4	_	_	start_char=2553|end_char=2554|SpaceAfter=No
+6	1.73	1.73	NUM	CD	NumForm=Digit|NumType=Card	5	_	_	start_char=2554|end_char=2558
+7	billion	billion	NUM	CD	NumForm=Word|NumType=Card	6	_	_	start_char=2559|end_char=2566|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=2566|end_char=2567
+9	or	or	CCONJ	CC	_	8	_	_	start_char=2568|end_char=2570
+10	$	$	SYM	$	_	9	_	_	start_char=2571|end_char=2572|SpaceAfter=No
+11	6.44	6.44	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=2572|end_char=2576
+12	per	per	ADP	IN	_	11	_	_	start_char=2577|end_char=2580
+13	share	share	NOUN	NN	Number=Sing	12	_	_	start_char=2581|end_char=2586|SpaceAfter=No
+14	,	,	PUNCT	,	_	13	_	_	start_char=2586|end_char=2587
+15	in	in	ADP	IN	_	14	_	_	start_char=2588|end_char=2590
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=2591|end_char=2594
+17	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	16	_	_	start_char=2595|end_char=2600
+18	quarter	quarter	NOUN	NN	NumForm=Word|NumType=Frac|Number=Sing	17	_	_	start_char=2601|end_char=2608
+19	ended	end	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	_	_	start_char=2609|end_char=2614
+20	March	March	PROPN	NNP	Number=Sing	19	_	_	start_char=2615|end_char=2620
+21	27	27	NUM	CD	NumForm=Digit|NumType=Card	20	_	_	start_char=2621|end_char=2623
+22	from	from	ADP	IN	_	21	_	_	start_char=2624|end_char=2628
+23	$	$	SYM	$	_	22	_	_	start_char=2629|end_char=2630|SpaceAfter=No
+24	1.84	1.84	NUM	CD	NumForm=Digit|NumType=Card	23	_	_	start_char=2630|end_char=2634
+25	billion	billion	NUM	CD	NumForm=Word|NumType=Card	24	_	_	start_char=2635|end_char=2642|SpaceAfter=No
+26	,	,	PUNCT	,	_	25	_	_	start_char=2642|end_char=2643
+27	or	or	CCONJ	CC	_	26	_	_	start_char=2644|end_char=2646
+28	$	$	SYM	$	_	27	_	_	start_char=2647|end_char=2648|SpaceAfter=No
+29	6.56	6.56	NUM	CD	NumForm=Digit|NumType=Card	28	_	_	start_char=2648|end_char=2652
+30	per	per	ADP	IN	_	29	_	_	start_char=2653|end_char=2656
+31	share	share	NOUN	NN	Number=Sing	30	_	_	start_char=2657|end_char=2662|SpaceAfter=No
+32	,	,	PUNCT	,	_	31	_	_	start_char=2662|end_char=2663
+33	a	a	DET	DT	Definite=Ind|PronType=Art	32	_	_	start_char=2664|end_char=2665
+34	year	year	NOUN	NN	Number=Sing	33	_	_	start_char=2666|end_char=2670
+35	earlier	early	ADV	RBR	Degree=Cmp	34	_	_	start_char=2671|end_char=2678|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=2678|end_char=2679|SpacesAfter=\n\n
+
+# text = Net sales fell about 8 percent to $14.96 billion in the quarter.
+# sent_id = 18
+1	Net	net	ADJ	JJ	Degree=Pos	0	_	_	start_char=2681|end_char=2684
+2	sales	sale	NOUN	NNS	Number=Plur	1	_	_	start_char=2685|end_char=2690
+3	fell	fall	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=2691|end_char=2695
+4	about	about	ADV	RB	_	3	_	_	start_char=2696|end_char=2701
+5	8	8	NUM	CD	NumForm=Digit|NumType=Card	4	_	_	start_char=2702|end_char=2703
+6	percent	percent	NOUN	NN	Number=Sing	5	_	_	start_char=2704|end_char=2711
+7	to	to	ADP	IN	_	6	_	_	start_char=2712|end_char=2714
+8	$	$	SYM	$	_	7	_	_	start_char=2715|end_char=2716|SpaceAfter=No
+9	14.96	14.96	NUM	CD	NumForm=Digit|NumType=Card	8	_	_	start_char=2716|end_char=2721
+10	billion	billion	NUM	CD	NumForm=Word|NumType=Card	9	_	_	start_char=2722|end_char=2729
+11	in	in	ADP	IN	_	10	_	_	start_char=2730|end_char=2732
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=2733|end_char=2736
+13	quarter	quarter	NOUN	NN	NumForm=Word|NumType=Frac|Number=Sing	12	_	_	start_char=2737|end_char=2744|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=2744|end_char=2745|SpacesAfter=\n\n
+
+# text = During the quarter Locheed abandoned its proposed $4.4 billion purchase of rocet engine maer Aerojet Rocetdyne Holdings Inc after antitrust regulators sued to bloc the deal.
+# sent_id = 19
+1	During	during	ADP	IN	_	0	_	_	start_char=2747|end_char=2753
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=2754|end_char=2757
+3	quarter	quarter	NOUN	NN	NumForm=Word|NumType=Frac|Number=Sing	2	_	_	start_char=2758|end_char=2765
+4	Locheed	Locheed	PROPN	NNP	Number=Sing	3	_	_	start_char=2766|end_char=2773
+5	abandoned	abandon	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=2774|end_char=2783
+6	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	_	_	start_char=2784|end_char=2787
+7	proposed	propose	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=2788|end_char=2796
+8	$	$	SYM	$	_	7	_	_	start_char=2797|end_char=2798|SpaceAfter=No
+9	4.4	4.4	NUM	CD	NumForm=Digit|NumType=Card	8	_	_	start_char=2798|end_char=2801
+10	billion	billion	NUM	CD	NumForm=Word|NumType=Card	9	_	_	start_char=2802|end_char=2809
+11	purchase	purchase	NOUN	NN	Number=Sing	10	_	_	start_char=2810|end_char=2818
+12	of	of	ADP	IN	_	11	_	_	start_char=2819|end_char=2821
+13	rocet	rocet	NOUN	NN	Number=Sing	12	_	_	start_char=2822|end_char=2827
+14	engine	engine	NOUN	NN	Number=Sing	13	_	_	start_char=2828|end_char=2834
+15	maer	maer	NOUN	NN	Number=Sing	14	_	_	start_char=2835|end_char=2839
+16	Aerojet	Aerojet	PROPN	NNP	Number=Sing	15	_	_	start_char=2840|end_char=2847
+17	Rocetdyne	Rocetdyne	PROPN	NNP	Number=Sing	16	_	_	start_char=2848|end_char=2857
+18	Holdings	Holding	PROPN	NNPS	Number=Plur	17	_	_	start_char=2858|end_char=2866
+19	Inc	Inc	PROPN	NNP	Number=Sing	18	_	_	start_char=2867|end_char=2870
+20	after	after	SCONJ	IN	_	19	_	_	start_char=2871|end_char=2876
+21	antitrust	antitrust	NOUN	NN	Number=Sing	20	_	_	start_char=2877|end_char=2886
+22	regulators	regulator	NOUN	NNS	Number=Plur	21	_	_	start_char=2887|end_char=2897
+23	sued	sue	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	22	_	_	start_char=2898|end_char=2902
+24	to	to	PART	TO	_	23	_	_	start_char=2903|end_char=2905
+25	bloc	bloc	VERB	VB	VerbForm=Inf	24	_	_	start_char=2906|end_char=2910
+26	the	the	DET	DT	Definite=Def|PronType=Art	25	_	_	start_char=2911|end_char=2914
+27	deal	deal	NOUN	NN	Number=Sing	26	_	_	start_char=2915|end_char=2919|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=2919|end_char=2920|SpaceAfter=No
+

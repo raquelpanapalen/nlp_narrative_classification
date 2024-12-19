@@ -32,7 +32,7 @@ class Trainer:
         self.criterion = nn.BCEWithLogitsLoss(pos_weight=class_weights)
         self.num_classes = num_classes
         self.device = device
-        self.threshold = 0.22
+        self.threshold = 0.20 if topic == "UA" else 0.30
 
         # Metrics
         self.metrics = {
@@ -114,11 +114,8 @@ class Trainer:
         predictions = {}
         with torch.no_grad():
             for batch in val_loader:
-                inputs, labels, doc_names = (
-                    batch[0].to(self.device),
-                    batch[1].to(self.device),
-                    batch[2],
-                )
+                inputs, labels = self._prepare_batch(batch)
+                doc_names = batch[2]
                 outputs = self.model(inputs)
                 outputs = torch.sigmoid(outputs)
 
@@ -148,7 +145,13 @@ class Trainer:
         # multi-label classification
         with torch.no_grad():
             for batch in test_loader:
-                inputs, doc_names = batch[0].to(self.device), batch[1]
+
+                if isinstance(batch[0], dict):
+                    inputs = {k: v.to(self.device) for k, v in batch[0].items()}
+                else:
+                    inputs = batch[0].to(self.device)
+
+                doc_names = batch[1]
                 outputs = self.model(inputs)
                 outputs = torch.sigmoid(outputs).cpu().numpy()
                 outputs = outputs > self.threshold
@@ -163,6 +166,17 @@ class Trainer:
         out[f"{split}/loss"] = loss / loader_len
         wandb.log(out, step=epoch)
 
+    def _prepare_batch(self, batch):
+        inputs, labels, _ = batch
+        if isinstance(inputs, dict):
+            inputs = {k: v.to(self.device) for k, v in inputs.items()}
+        else:
+            inputs = inputs.to(self.device)
+
+        labels = labels.to(self.device)
+
+        return inputs, labels
+
     def train_validate_epoch(self, loader, epoch, split):
         # Reset metrics
         total_loss = 0
@@ -171,10 +185,7 @@ class Trainer:
 
         for batch in tqdm(loader, total=len(loader)):
             # Forward pass
-            inputs, labels = (
-                batch[0].to(self.device),
-                batch[1].to(self.device),
-            )
+            inputs, labels = self._prepare_batch(batch)
             output = self.model(inputs)
 
             # Compute metrics

@@ -1,0 +1,618 @@
+# text = INSPIRED BY WASHINGTON IEV INCREASES TERRORIST ATTACS IN RUSSIA
+# sent_id = 0
+1	INSPIRED	inspired	ADJ	JJ	Degree=Pos	0	_	_	start_char=0|end_char=8
+2	BY	by	ADP	IN	_	1	_	_	start_char=9|end_char=11
+3	WASHINGTON	WASHINGTON	PROPN	NNP	Number=Sing	2	_	_	start_char=12|end_char=22
+4	IEV	IEV	PROPN	NNP	Number=Sing	3	_	_	start_char=23|end_char=26
+5	INCREASES	increase	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=27|end_char=36
+6	TERRORIST	terrorist	ADJ	JJ	Degree=Pos	5	_	_	start_char=37|end_char=46
+7	ATTACS	attacs	NOUN	NNS	Number=Plur	6	_	_	start_char=47|end_char=53
+8	IN	in	ADP	IN	_	7	_	_	start_char=54|end_char=56
+9	RUSSIA	RUSSIA	PROPN	NNP	Number=Sing	8	_	_	start_char=57|end_char=63|SpacesAfter=\s\n\n
+
+# text = The Washington Post has recently revealed the long-nown fact that the Urainian special services are behind the terrorist attacs on Russian territory.
+# sent_id = 1
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=66|end_char=69
+2	Washington	Washington	PROPN	NNP	Number=Sing	1	_	_	start_char=70|end_char=80
+3	Post	Post	PROPN	NNP	Number=Sing	2	_	_	start_char=81|end_char=85
+4	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=86|end_char=89
+5	recently	recently	ADV	RB	_	4	_	_	start_char=90|end_char=98
+6	revealed	reveal	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=99|end_char=107
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=108|end_char=111
+8	long	long	ADJ	JJ	Degree=Pos	7	_	_	start_char=112|end_char=116|SpaceAfter=No
+9	-	-	PUNCT	HYPH	_	8	_	_	start_char=116|end_char=117|SpaceAfter=No
+10	nown	nown	ADJ	JJ	Degree=Pos	9	_	_	start_char=117|end_char=121
+11	fact	fact	NOUN	NN	Number=Sing	10	_	_	start_char=122|end_char=126
+12	that	that	SCONJ	IN	_	11	_	_	start_char=127|end_char=131
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=132|end_char=135
+14	Urainian	Urainian	ADJ	JJ	Degree=Pos	13	_	_	start_char=136|end_char=144
+15	special	special	ADJ	JJ	Degree=Pos	14	_	_	start_char=145|end_char=152
+16	services	service	NOUN	NNS	Number=Plur	15	_	_	start_char=153|end_char=161
+17	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=162|end_char=165
+18	behind	behind	ADP	IN	_	17	_	_	start_char=166|end_char=172
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=173|end_char=176
+20	terrorist	terrorist	ADJ	JJ	Degree=Pos	19	_	_	start_char=177|end_char=186
+21	attacs	attac	NOUN	NNS	Number=Plur	20	_	_	start_char=187|end_char=193
+22	on	on	ADP	IN	_	21	_	_	start_char=194|end_char=196
+23	Russian	Russian	ADJ	JJ	Degree=Pos	22	_	_	start_char=197|end_char=204
+24	territory	territory	NOUN	NN	Number=Sing	23	_	_	start_char=205|end_char=214|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	_	_	start_char=214|end_char=215
+
+# text = Moreover, Urainian terrorists were praised for progress they made during the years-long cooperation with their partners in the US.
+# sent_id = 2
+1	Moreover	moreover	ADV	RB	_	0	_	_	start_char=216|end_char=224|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=224|end_char=225
+3	Urainian	Urainian	ADJ	JJ	Degree=Pos	2	_	_	start_char=226|end_char=234
+4	terrorists	terrorist	NOUN	NNS	Number=Plur	3	_	_	start_char=235|end_char=245
+5	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=246|end_char=250
+6	praised	praise	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	_	_	start_char=251|end_char=258
+7	for	for	ADP	IN	_	6	_	_	start_char=259|end_char=262
+8	progress	progress	NOUN	NN	Number=Sing	7	_	_	start_char=263|end_char=271
+9	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	_	_	start_char=272|end_char=276
+10	made	make	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=277|end_char=281
+11	during	during	ADP	IN	_	10	_	_	start_char=282|end_char=288
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=289|end_char=292
+13	years	year	NOUN	NNS	Number=Plur	12	_	_	start_char=293|end_char=298|SpaceAfter=No
+14	-	-	PUNCT	HYPH	_	13	_	_	start_char=298|end_char=299|SpaceAfter=No
+15	long	long	ADJ	JJ	Degree=Pos	14	_	_	start_char=299|end_char=303
+16	cooperation	cooperation	NOUN	NN	Number=Sing	15	_	_	start_char=304|end_char=315
+17	with	with	ADP	IN	_	16	_	_	start_char=316|end_char=320
+18	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	17	_	_	start_char=321|end_char=326
+19	partners	partner	NOUN	NNS	Number=Plur	18	_	_	start_char=327|end_char=335
+20	in	in	ADP	IN	_	19	_	_	start_char=336|end_char=338
+21	the	the	DET	DT	Definite=Def|PronType=Art	20	_	_	start_char=339|end_char=342
+22	US	US	PROPN	NNP	Number=Sing	21	_	_	start_char=343|end_char=345|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	_	_	start_char=345|end_char=346
+
+# text = Inspired by fame, the iev regime doubled its efforts to launch more attacs against the Russians.
+# sent_id = 3
+1	Inspired	inspire	VERB	VBN	Tense=Past|VerbForm=Part	0	_	_	start_char=347|end_char=355
+2	by	by	ADP	IN	_	1	_	_	start_char=356|end_char=358
+3	fame	fame	NOUN	NN	Number=Sing	2	_	_	start_char=359|end_char=363|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=363|end_char=364
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=365|end_char=368
+6	iev	iev	NOUN	NN	Number=Sing	5	_	_	start_char=369|end_char=372
+7	regime	regime	NOUN	NN	Number=Sing	6	_	_	start_char=373|end_char=379
+8	doubled	double	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=380|end_char=387
+9	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	_	_	start_char=388|end_char=391
+10	efforts	effort	NOUN	NNS	Number=Plur	9	_	_	start_char=392|end_char=399
+11	to	to	PART	TO	_	10	_	_	start_char=400|end_char=402
+12	launch	launch	VERB	VB	VerbForm=Inf	11	_	_	start_char=403|end_char=409
+13	more	more	ADJ	JJR	Degree=Cmp	12	_	_	start_char=410|end_char=414
+14	attacs	attac	NOUN	NN	Number=Sing	13	_	_	start_char=415|end_char=421
+15	against	against	ADP	IN	_	14	_	_	start_char=422|end_char=429
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=430|end_char=433
+17	Russians	Russian	PROPN	NNPS	Number=Plur	16	_	_	start_char=434|end_char=442|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=442|end_char=443
+
+# text = In recent days alone, a lot of the attacs failed but some were partially successful.
+# sent_id = 4
+1	In	in	ADP	IN	_	0	_	_	start_char=444|end_char=446
+2	recent	recent	ADJ	JJ	Degree=Pos	1	_	_	start_char=447|end_char=453
+3	days	day	NOUN	NNS	Number=Plur	2	_	_	start_char=454|end_char=458
+4	alone	alone	ADV	RB	_	3	_	_	start_char=459|end_char=464|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=464|end_char=465
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=466|end_char=467
+7	lot	lot	NOUN	NN	Number=Sing	6	_	_	start_char=468|end_char=471
+8	of	of	ADP	IN	_	7	_	_	start_char=472|end_char=474
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=475|end_char=478
+10	attacs	attac	NOUN	NN	Number=Sing	9	_	_	start_char=479|end_char=485
+11	failed	fail	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=486|end_char=492
+12	but	but	CCONJ	CC	_	11	_	_	start_char=493|end_char=496
+13	some	some	DET	DT	_	12	_	_	start_char=497|end_char=501
+14	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	13	_	_	start_char=502|end_char=506
+15	partially	partially	ADV	RB	_	14	_	_	start_char=507|end_char=516
+16	successful	successful	ADJ	JJ	Degree=Pos	15	_	_	start_char=517|end_char=527|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	_	_	start_char=527|end_char=528|SpacesAfter=\n\n
+
+# text = On the morning of October 27, pro-Russian politician Oleg Tsarev was targeted with an assassination attempt in Crimea.
+# sent_id = 5
+1	On	on	ADP	IN	_	0	_	_	start_char=530|end_char=532
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=533|end_char=536
+3	morning	morning	NOUN	NN	Number=Sing	2	_	_	start_char=537|end_char=544
+4	of	of	ADP	IN	_	3	_	_	start_char=545|end_char=547
+5	October	October	PROPN	NNP	Number=Sing	4	_	_	start_char=548|end_char=555
+6	27	27	NUM	CD	NumForm=Digit|NumType=Card	5	_	_	start_char=556|end_char=558|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=558|end_char=559
+8	pro-Russian	pro-Russian	ADJ	JJ	Degree=Pos	7	_	_	start_char=560|end_char=571
+9	politician	politician	NOUN	NN	Number=Sing	8	_	_	start_char=572|end_char=582
+10	Oleg	Oleg	PROPN	NNP	Number=Sing	9	_	_	start_char=583|end_char=587
+11	Tsarev	Tsarev	PROPN	NNP	Number=Sing	10	_	_	start_char=588|end_char=594
+12	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	_	_	start_char=595|end_char=598
+13	targeted	target	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	12	_	_	start_char=599|end_char=607
+14	with	with	ADP	IN	_	13	_	_	start_char=608|end_char=612
+15	an	a	DET	DT	Definite=Ind|PronType=Art	14	_	_	start_char=613|end_char=615
+16	assassination	assassination	NOUN	NN	Number=Sing	15	_	_	start_char=616|end_char=629
+17	attempt	attempt	NOUN	NN	Number=Sing	16	_	_	start_char=630|end_char=637
+18	in	in	ADP	IN	_	17	_	_	start_char=638|end_char=640
+19	Crimea	Crimea	PROPN	NNP	Number=Sing	18	_	_	start_char=641|end_char=647|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	_	_	start_char=647|end_char=648
+
+# text = He was shot and hospitalized with heavy wounds.
+# sent_id = 6
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=649|end_char=651
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=652|end_char=655
+3	shot	shoot	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	_	_	start_char=656|end_char=660
+4	and	and	CCONJ	CC	_	3	_	_	start_char=661|end_char=664
+5	hospitalized	hospitalize	VERB	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=665|end_char=677
+6	with	with	ADP	IN	_	5	_	_	start_char=678|end_char=682
+7	heavy	heavy	ADJ	JJ	Degree=Pos	6	_	_	start_char=683|end_char=688
+8	wounds	wound	NOUN	NNS	Number=Plur	7	_	_	start_char=689|end_char=695|SpaceAfter=No
+9	.	.	PUNCT	.	_	8	_	_	start_char=695|end_char=696
+
+# text = The victim has been a deputy of the Verhovna Rada of Uraine since 2002.
+# sent_id = 7
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=697|end_char=700
+2	victim	victim	NOUN	NN	Number=Sing	1	_	_	start_char=701|end_char=707
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=708|end_char=711
+4	been	be	AUX	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=712|end_char=716
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=717|end_char=718
+6	deputy	deputy	NOUN	NN	Number=Sing	5	_	_	start_char=719|end_char=725
+7	of	of	ADP	IN	_	6	_	_	start_char=726|end_char=728
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=729|end_char=732
+9	Verhovna	Verhovna	PROPN	NNP	Number=Sing	8	_	_	start_char=733|end_char=741
+10	Rada	Rada	PROPN	NNP	Number=Sing	9	_	_	start_char=742|end_char=746
+11	of	of	ADP	IN	_	10	_	_	start_char=747|end_char=749
+12	Uraine	Uraine	PROPN	NNP	Number=Sing	11	_	_	start_char=750|end_char=756
+13	since	since	ADP	IN	_	12	_	_	start_char=757|end_char=762
+14	2002	2002	NUM	CD	NumForm=Digit|NumType=Card	13	_	_	start_char=763|end_char=767|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=767|end_char=768
+
+# text = In 2014, he supported the referendum on independence in Donbass and served as the speaer of the Parliament of Novorossiya.
+# sent_id = 8
+1	In	in	ADP	IN	_	0	_	_	start_char=769|end_char=771
+2	2014	2014	NUM	CD	NumForm=Digit|NumType=Card	1	_	_	start_char=772|end_char=776|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=776|end_char=777
+4	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	_	_	start_char=778|end_char=780
+5	supported	support	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=781|end_char=790
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=791|end_char=794
+7	referendum	referendum	NOUN	NN	Number=Sing	6	_	_	start_char=795|end_char=805
+8	on	on	ADP	IN	_	7	_	_	start_char=806|end_char=808
+9	independence	independence	NOUN	NN	Number=Sing	8	_	_	start_char=809|end_char=821
+10	in	in	ADP	IN	_	9	_	_	start_char=822|end_char=824
+11	Donbass	Donbass	PROPN	NNP	Number=Sing	10	_	_	start_char=825|end_char=832
+12	and	and	CCONJ	CC	_	11	_	_	start_char=833|end_char=836
+13	served	serve	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	_	_	start_char=837|end_char=843
+14	as	as	ADP	IN	_	13	_	_	start_char=844|end_char=846
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=847|end_char=850
+16	speaer	speaer	NOUN	NN	Number=Sing	15	_	_	start_char=851|end_char=857
+17	of	of	ADP	IN	_	16	_	_	start_char=858|end_char=860
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=861|end_char=864
+19	Parliament	Parliament	PROPN	NNP	Number=Sing	18	_	_	start_char=865|end_char=875
+20	of	of	ADP	IN	_	19	_	_	start_char=876|end_char=878
+21	Novorossiya	Novorossiya	PROPN	NNP	Number=Sing	20	_	_	start_char=879|end_char=890|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=890|end_char=891|SpacesAfter=\n\n
+
+# text = Unfortunately, Oleg Tsarev was far from the first victim of the Nazi iev regime, which has been hunting for politicians, journalists and public figures because of their positions for more than a decade.
+# sent_id = 9
+1	Unfortunately	unfortunately	ADV	RB	_	0	_	_	start_char=893|end_char=906|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=906|end_char=907
+3	Oleg	Oleg	PROPN	NNP	Number=Sing	2	_	_	start_char=908|end_char=912
+4	Tsarev	Tsarev	PROPN	NNP	Number=Sing	3	_	_	start_char=913|end_char=919
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=920|end_char=923
+6	far	far	ADV	RB	Degree=Pos	5	_	_	start_char=924|end_char=927
+7	from	from	ADP	IN	_	6	_	_	start_char=928|end_char=932
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=933|end_char=936
+9	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	8	_	_	start_char=937|end_char=942
+10	victim	victim	NOUN	NN	Number=Sing	9	_	_	start_char=943|end_char=949
+11	of	of	ADP	IN	_	10	_	_	start_char=950|end_char=952
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=953|end_char=956
+13	Nazi	Nazi	PROPN	NNP	Number=Sing	12	_	_	start_char=957|end_char=961
+14	iev	iev	NOUN	NN	Number=Sing	13	_	_	start_char=962|end_char=965
+15	regime	regime	NOUN	NN	Number=Sing	14	_	_	start_char=966|end_char=972|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	_	_	start_char=972|end_char=973
+17	which	which	PRON	WDT	PronType=Rel	16	_	_	start_char=974|end_char=979
+18	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	start_char=980|end_char=983
+19	been	be	AUX	VBN	Tense=Past|VerbForm=Part	18	_	_	start_char=984|end_char=988
+20	hunting	hunt	VERB	VBG	Tense=Pres|VerbForm=Part	19	_	_	start_char=989|end_char=996
+21	for	for	ADP	IN	_	20	_	_	start_char=997|end_char=1000
+22	politicians	politician	NOUN	NNS	Number=Plur	21	_	_	start_char=1001|end_char=1012|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	_	_	start_char=1012|end_char=1013
+24	journalists	journalist	NOUN	NNS	Number=Plur	23	_	_	start_char=1014|end_char=1025
+25	and	and	CCONJ	CC	_	24	_	_	start_char=1026|end_char=1029
+26	public	public	ADJ	JJ	Degree=Pos	25	_	_	start_char=1030|end_char=1036
+27	figures	figure	NOUN	NNS	Number=Plur	26	_	_	start_char=1037|end_char=1044
+28	because	because	ADP	IN	_	27	_	_	start_char=1045|end_char=1052
+29	of	of	ADP	IN	_	28	_	_	start_char=1053|end_char=1055
+30	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	29	_	_	start_char=1056|end_char=1061
+31	positions	position	NOUN	NNS	Number=Plur	30	_	_	start_char=1062|end_char=1071
+32	for	for	ADP	IN	_	31	_	_	start_char=1072|end_char=1075
+33	more	more	ADJ	JJR	Degree=Cmp	32	_	_	start_char=1076|end_char=1080
+34	than	than	ADP	IN	_	33	_	_	start_char=1081|end_char=1085
+35	a	a	DET	DT	Definite=Ind|PronType=Art	34	_	_	start_char=1086|end_char=1087
+36	decade	decade	NOUN	NN	Number=Sing	35	_	_	start_char=1088|end_char=1094|SpaceAfter=No
+37	.	.	PUNCT	.	_	36	_	_	start_char=1094|end_char=1095|SpacesAfter=\n\n
+
+# text = iev also continues attempts to launch terrorist attacs in various cities of Russia.
+# sent_id = 10
+1	iev	iev	PROPN	NNP	Number=Sing	0	_	_	start_char=1097|end_char=1100
+2	also	also	ADV	RB	_	1	_	_	start_char=1101|end_char=1105
+3	continues	continue	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1106|end_char=1115
+4	attempts	attempt	NOUN	NNS	Number=Plur	3	_	_	start_char=1116|end_char=1124
+5	to	to	PART	TO	_	4	_	_	start_char=1125|end_char=1127
+6	launch	launch	VERB	VB	VerbForm=Inf	5	_	_	start_char=1128|end_char=1134
+7	terrorist	terrorist	ADJ	JJ	Degree=Pos	6	_	_	start_char=1135|end_char=1144
+8	attacs	attac	NOUN	NNS	Number=Plur	7	_	_	start_char=1145|end_char=1151
+9	in	in	ADP	IN	_	8	_	_	start_char=1152|end_char=1154
+10	various	various	ADJ	JJ	Degree=Pos	9	_	_	start_char=1155|end_char=1162
+11	cities	city	NOUN	NNS	Number=Plur	10	_	_	start_char=1163|end_char=1169
+12	of	of	ADP	IN	_	11	_	_	start_char=1170|end_char=1172
+13	Russia	Russia	PROPN	NNP	Number=Sing	12	_	_	start_char=1173|end_char=1179|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=1179|end_char=1180
+
+# text = Their goals are to inflict civilian casualties and threaten the population, as well as to discredit the Russian authorities and create the appearance of a national resistance against the remlin.
+# sent_id = 11
+1	Their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	0	_	_	start_char=1181|end_char=1186
+2	goals	goal	NOUN	NNS	Number=Plur	1	_	_	start_char=1187|end_char=1192
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=1193|end_char=1196
+4	to	to	PART	TO	_	3	_	_	start_char=1197|end_char=1199
+5	inflict	inflict	VERB	VB	VerbForm=Inf	4	_	_	start_char=1200|end_char=1207
+6	civilian	civilian	ADJ	JJ	Degree=Pos	5	_	_	start_char=1208|end_char=1216
+7	casualties	casualty	NOUN	NNS	Number=Plur	6	_	_	start_char=1217|end_char=1227
+8	and	and	CCONJ	CC	_	7	_	_	start_char=1228|end_char=1231
+9	threaten	threaten	VERB	VB	VerbForm=Inf	8	_	_	start_char=1232|end_char=1240
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=1241|end_char=1244
+11	population	population	NOUN	NN	Number=Sing	10	_	_	start_char=1245|end_char=1255|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	_	_	start_char=1255|end_char=1256
+13	as	as	ADV	RB	_	12	_	_	start_char=1257|end_char=1259
+14	well	well	ADV	RB	Degree=Pos	13	_	_	start_char=1260|end_char=1264
+15	as	as	ADP	IN	_	14	_	_	start_char=1265|end_char=1267
+16	to	to	PART	TO	_	15	_	_	start_char=1268|end_char=1270
+17	discredit	discredit	VERB	VB	VerbForm=Inf	16	_	_	start_char=1271|end_char=1280
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=1281|end_char=1284
+19	Russian	Russian	ADJ	JJ	Degree=Pos	18	_	_	start_char=1285|end_char=1292
+20	authorities	authority	NOUN	NNS	Number=Plur	19	_	_	start_char=1293|end_char=1304
+21	and	and	CCONJ	CC	_	20	_	_	start_char=1305|end_char=1308
+22	create	create	VERB	VB	VerbForm=Inf	21	_	_	start_char=1309|end_char=1315
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=1316|end_char=1319
+24	appearance	appearance	NOUN	NN	Number=Sing	23	_	_	start_char=1320|end_char=1330
+25	of	of	ADP	IN	_	24	_	_	start_char=1331|end_char=1333
+26	a	a	DET	DT	Definite=Ind|PronType=Art	25	_	_	start_char=1334|end_char=1335
+27	national	national	ADJ	JJ	Degree=Pos	26	_	_	start_char=1336|end_char=1344
+28	resistance	resistance	NOUN	NN	Number=Sing	27	_	_	start_char=1345|end_char=1355
+29	against	against	ADP	IN	_	28	_	_	start_char=1356|end_char=1363
+30	the	the	DET	DT	Definite=Def|PronType=Art	29	_	_	start_char=1364|end_char=1367
+31	remlin	remlin	NOUN	NN	Number=Sing	30	_	_	start_char=1368|end_char=1374|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=1374|end_char=1375
+
+# text = To do this, iev recruits naive men, often Urainians who have moved to Russia, who for monetary rewards go to a life of crime and sacrifice their lives.
+# sent_id = 12
+1	To	to	PART	TO	_	0	_	_	start_char=1376|end_char=1378
+2	do	do	VERB	VB	VerbForm=Inf	1	_	_	start_char=1379|end_char=1381
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	2	_	_	start_char=1382|end_char=1386|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1386|end_char=1387
+5	iev	iev	PROPN	NNP	Number=Sing	4	_	_	start_char=1388|end_char=1391
+6	recruits	recruit	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=1392|end_char=1400
+7	naive	naive	ADJ	JJ	Degree=Pos	6	_	_	start_char=1401|end_char=1406
+8	men	man	NOUN	NNS	Number=Plur	7	_	_	start_char=1407|end_char=1410|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1410|end_char=1411
+10	often	often	ADV	RB	_	9	_	_	start_char=1412|end_char=1417
+11	Urainians	Urainian	PROPN	NNPS	Number=Plur	10	_	_	start_char=1418|end_char=1427
+12	who	who	PRON	WP	PronType=Rel	11	_	_	start_char=1428|end_char=1431
+13	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=1432|end_char=1436
+14	moved	move	VERB	VBN	Tense=Past|VerbForm=Part	13	_	_	start_char=1437|end_char=1442
+15	to	to	ADP	IN	_	14	_	_	start_char=1443|end_char=1445
+16	Russia	Russia	PROPN	NNP	Number=Sing	15	_	_	start_char=1446|end_char=1452|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	_	_	start_char=1452|end_char=1453
+18	who	who	PRON	WP	PronType=Rel	17	_	_	start_char=1454|end_char=1457
+19	for	for	ADP	IN	_	18	_	_	start_char=1458|end_char=1461
+20	monetary	monetary	ADJ	JJ	Degree=Pos	19	_	_	start_char=1462|end_char=1470
+21	rewards	reward	NOUN	NNS	Number=Plur	20	_	_	start_char=1471|end_char=1478
+22	go	go	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	_	_	start_char=1479|end_char=1481
+23	to	to	ADP	IN	_	22	_	_	start_char=1482|end_char=1484
+24	a	a	DET	DT	Definite=Ind|PronType=Art	23	_	_	start_char=1485|end_char=1486
+25	life	life	NOUN	NN	Number=Sing	24	_	_	start_char=1487|end_char=1491
+26	of	of	ADP	IN	_	25	_	_	start_char=1492|end_char=1494
+27	crime	crime	NOUN	NN	Number=Sing	26	_	_	start_char=1495|end_char=1500
+28	and	and	CCONJ	CC	_	27	_	_	start_char=1501|end_char=1504
+29	sacrifice	sacrifice	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	28	_	_	start_char=1505|end_char=1514
+30	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	29	_	_	start_char=1515|end_char=1520
+31	lives	life	NOUN	NNS	Number=Plur	30	_	_	start_char=1521|end_char=1526|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	_	_	start_char=1526|end_char=1527|SpacesAfter=\n\n
+
+# text = On October 26, the FSB announced the elimination of a Urainian agent who wanted to stage a terrorist attac on one of the military enlistment offices in Tver.
+# sent_id = 13
+1	On	on	ADP	IN	_	0	_	_	start_char=1529|end_char=1531
+2	October	October	PROPN	NNP	Number=Sing	1	_	_	start_char=1532|end_char=1539
+3	26	26	NUM	CD	NumForm=Digit|NumType=Card	2	_	_	start_char=1540|end_char=1542|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1542|end_char=1543
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1544|end_char=1547
+6	FSB	FSB	PROPN	NNP	Number=Sing	5	_	_	start_char=1548|end_char=1551
+7	announced	announce	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=1552|end_char=1561
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=1562|end_char=1565
+9	elimination	elimination	NOUN	NN	Number=Sing	8	_	_	start_char=1566|end_char=1577
+10	of	of	ADP	IN	_	9	_	_	start_char=1578|end_char=1580
+11	a	a	DET	DT	Definite=Ind|PronType=Art	10	_	_	start_char=1581|end_char=1582
+12	Urainian	Urainian	ADJ	JJ	Degree=Pos	11	_	_	start_char=1583|end_char=1591
+13	agent	agent	NOUN	NN	Number=Sing	12	_	_	start_char=1592|end_char=1597
+14	who	who	PRON	WP	PronType=Rel	13	_	_	start_char=1598|end_char=1601
+15	wanted	want	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=1602|end_char=1608
+16	to	to	PART	TO	_	15	_	_	start_char=1609|end_char=1611
+17	stage	stage	VERB	VB	VerbForm=Inf	16	_	_	start_char=1612|end_char=1617
+18	a	a	DET	DT	Definite=Ind|PronType=Art	17	_	_	start_char=1618|end_char=1619
+19	terrorist	terrorist	ADJ	JJ	Degree=Pos	18	_	_	start_char=1620|end_char=1629
+20	attac	attac	NOUN	NN	Number=Sing	19	_	_	start_char=1630|end_char=1635
+21	on	on	ADP	IN	_	20	_	_	start_char=1636|end_char=1638
+22	one	one	NUM	CD	NumForm=Word|NumType=Card	21	_	_	start_char=1639|end_char=1642
+23	of	of	ADP	IN	_	22	_	_	start_char=1643|end_char=1645
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=1646|end_char=1649
+25	military	military	ADJ	JJ	Degree=Pos	24	_	_	start_char=1650|end_char=1658
+26	enlistment	enlistment	NOUN	NN	Number=Sing	25	_	_	start_char=1659|end_char=1669
+27	offices	office	NOUN	NNS	Number=Plur	26	_	_	start_char=1670|end_char=1677
+28	in	in	ADP	IN	_	27	_	_	start_char=1678|end_char=1680
+29	Tver	Tver	PROPN	NNP	Number=Sing	28	_	_	start_char=1681|end_char=1685|SpaceAfter=No
+30	.	.	PUNCT	.	_	29	_	_	start_char=1685|end_char=1686|SpacesAfter=\n\n
+
+# text = The man was a member of some “Urainian nationalist formation”.
+# sent_id = 14
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1688|end_char=1691
+2	man	man	NOUN	NN	Number=Sing	1	_	_	start_char=1692|end_char=1695
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1696|end_char=1699
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=1700|end_char=1701
+5	member	member	NOUN	NN	Number=Sing	4	_	_	start_char=1702|end_char=1708
+6	of	of	ADP	IN	_	5	_	_	start_char=1709|end_char=1711
+7	some	some	DET	DT	_	6	_	_	start_char=1712|end_char=1716
+8	“	''	PUNCT	``	_	7	_	_	start_char=1717|end_char=1718|SpaceAfter=No
+9	Urainian	Urainian	ADJ	JJ	Degree=Pos	8	_	_	start_char=1718|end_char=1726
+10	nationalist	nationalist	ADJ	JJ	Degree=Pos	9	_	_	start_char=1727|end_char=1738
+11	formation	formation	NOUN	NN	Number=Sing	10	_	_	start_char=1739|end_char=1748|SpaceAfter=No
+12	”	''	PUNCT	''	_	11	_	_	start_char=1748|end_char=1749|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	_	_	start_char=1749|end_char=1750
+
+# text = He provided iev with data on military, fuel and energy facilities in the region.
+# sent_id = 15
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1751|end_char=1753
+2	provided	provide	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1754|end_char=1762
+3	iev	iev	NOUN	NN	Number=Sing	2	_	_	start_char=1763|end_char=1766
+4	with	with	ADP	IN	_	3	_	_	start_char=1767|end_char=1771
+5	data	datum	NOUN	NNS	Number=Plur	4	_	_	start_char=1772|end_char=1776
+6	on	on	ADP	IN	_	5	_	_	start_char=1777|end_char=1779
+7	military	military	ADJ	JJ	Degree=Pos	6	_	_	start_char=1780|end_char=1788|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	_	_	start_char=1788|end_char=1789
+9	fuel	fuel	NOUN	NN	Number=Sing	8	_	_	start_char=1790|end_char=1794
+10	and	and	CCONJ	CC	_	9	_	_	start_char=1795|end_char=1798
+11	energy	energy	NOUN	NN	Number=Sing	10	_	_	start_char=1799|end_char=1805
+12	facilities	facility	NOUN	NNS	Number=Plur	11	_	_	start_char=1806|end_char=1816
+13	in	in	ADP	IN	_	12	_	_	start_char=1817|end_char=1819
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=1820|end_char=1823
+15	region	region	NOUN	NN	Number=Sing	14	_	_	start_char=1824|end_char=1830|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	_	_	start_char=1830|end_char=1831
+
+# text = During the arrest, the man resisted and was illed.
+# sent_id = 16
+1	During	during	ADP	IN	_	0	_	_	start_char=1832|end_char=1838
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=1839|end_char=1842
+3	arrest	arrest	NOUN	NN	Number=Sing	2	_	_	start_char=1843|end_char=1849|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=1849|end_char=1850
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=1851|end_char=1854
+6	man	man	NOUN	NN	Number=Sing	5	_	_	start_char=1855|end_char=1858
+7	resisted	resist	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=1859|end_char=1867
+8	and	and	CCONJ	CC	_	7	_	_	start_char=1868|end_char=1871
+9	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	_	_	start_char=1872|end_char=1875
+10	illed	ill	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	9	_	_	start_char=1876|end_char=1881|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=1881|end_char=1882
+
+# text = The FSB seized homemade explosives and an RGD-5 grenade on the spot.
+# sent_id = 17
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=1883|end_char=1886
+2	FSB	FSB	PROPN	NNP	Number=Sing	1	_	_	start_char=1887|end_char=1890
+3	seized	seize	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=1891|end_char=1897
+4	homemade	homemade	ADJ	JJ	Degree=Pos	3	_	_	start_char=1898|end_char=1906
+5	explosives	explosive	NOUN	NNS	Number=Plur	4	_	_	start_char=1907|end_char=1917
+6	and	and	CCONJ	CC	_	5	_	_	start_char=1918|end_char=1921
+7	an	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=1922|end_char=1924
+8	RGD	rgd	NOUN	NN	Number=Sing	7	_	_	start_char=1925|end_char=1928|SpaceAfter=No
+9	-	-	PUNCT	HYPH	_	8	_	_	start_char=1928|end_char=1929|SpaceAfter=No
+10	5	5	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=1929|end_char=1930
+11	grenade	grenade	NOUN	NN	Number=Sing	10	_	_	start_char=1931|end_char=1938
+12	on	on	ADP	IN	_	11	_	_	start_char=1939|end_char=1941
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=1942|end_char=1945
+14	spot	spot	NOUN	NN	Number=Sing	13	_	_	start_char=1946|end_char=1950|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	_	_	start_char=1950|end_char=1951|SpacesAfter=\n\n
+
+# text = Military enlistment offices are frequently targeted by the Urainian special services.
+# sent_id = 18
+1	Military	military	ADJ	JJ	Degree=Pos	0	_	_	start_char=1953|end_char=1961
+2	enlistment	enlistment	NOUN	NN	Number=Sing	1	_	_	start_char=1962|end_char=1972
+3	offices	office	NOUN	NNS	Number=Plur	2	_	_	start_char=1973|end_char=1980
+4	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=1981|end_char=1984
+5	frequently	frequently	ADV	RB	_	4	_	_	start_char=1985|end_char=1995
+6	targeted	target	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	_	_	start_char=1996|end_char=2004
+7	by	by	ADP	IN	_	6	_	_	start_char=2005|end_char=2007
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=2008|end_char=2011
+9	Urainian	Urainian	ADJ	JJ	Degree=Pos	8	_	_	start_char=2012|end_char=2020
+10	special	special	ADJ	JJ	Degree=Pos	9	_	_	start_char=2021|end_char=2028
+11	services	service	NOUN	NNS	Number=Plur	10	_	_	start_char=2029|end_char=2037|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	_	_	start_char=2037|end_char=2038
+
+# text = iev is trying to create the appearance that Russian men do not want to fight and resist the remlin’s policies.
+# sent_id = 19
+1	iev	iev	PROPN	NNP	Number=Sing	0	_	_	start_char=2039|end_char=2042
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2043|end_char=2045
+3	trying	try	VERB	VBG	Tense=Pres|VerbForm=Part	2	_	_	start_char=2046|end_char=2052
+4	to	to	PART	TO	_	3	_	_	start_char=2053|end_char=2055
+5	create	create	VERB	VB	VerbForm=Inf	4	_	_	start_char=2056|end_char=2062
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=2063|end_char=2066
+7	appearance	appearance	NOUN	NN	Number=Sing	6	_	_	start_char=2067|end_char=2077
+8	that	that	SCONJ	IN	_	7	_	_	start_char=2078|end_char=2082
+9	Russian	Russian	ADJ	JJ	Degree=Pos	8	_	_	start_char=2083|end_char=2090
+10	men	man	NOUN	NNS	Number=Plur	9	_	_	start_char=2091|end_char=2094
+11	do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=2095|end_char=2097
+12	not	not	PART	RB	_	11	_	_	start_char=2098|end_char=2101
+13	want	want	VERB	VB	VerbForm=Inf	12	_	_	start_char=2102|end_char=2106
+14	to	to	PART	TO	_	13	_	_	start_char=2107|end_char=2109
+15	fight	fight	VERB	VB	VerbForm=Inf	14	_	_	start_char=2110|end_char=2115
+16	and	and	CCONJ	CC	_	15	_	_	start_char=2116|end_char=2119
+17	resist	resist	VERB	VB	VerbForm=Inf	16	_	_	start_char=2120|end_char=2126
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=2127|end_char=2130
+19-20	remlin’s	_	_	_	_	_	_	_	start_char=2131|end_char=2139
+19	remlin	remlin	NOUN	NN	Number=Sing	18	_	_	start_char=2131|end_char=2137
+20	’s	's	PART	POS	_	19	_	_	start_char=2137|end_char=2139
+21	policies	policy	NOUN	NNS	Number=Plur	20	_	_	start_char=2140|end_char=2148|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	_	_	start_char=2148|end_char=2149|SpacesAfter=\n\n
+
+# text = Cases have become frequent when Urainian scammers under various pretexts forced women to set fire to military enlistment offices in different Russian cities.
+# sent_id = 20
+1	Cases	case	NOUN	NNS	Number=Plur	0	_	_	start_char=2151|end_char=2156
+2	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2157|end_char=2161
+3	become	become	VERB	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=2162|end_char=2168
+4	frequent	frequent	ADJ	JJ	Degree=Pos	3	_	_	start_char=2169|end_char=2177
+5	when	when	ADV	WRB	PronType=Int	4	_	_	start_char=2178|end_char=2182
+6	Urainian	Urainian	ADJ	JJ	Degree=Pos	5	_	_	start_char=2183|end_char=2191
+7	scammers	scammer	NOUN	NNS	Number=Plur	6	_	_	start_char=2192|end_char=2200
+8	under	under	ADP	IN	_	7	_	_	start_char=2201|end_char=2206
+9	various	various	ADJ	JJ	Degree=Pos	8	_	_	start_char=2207|end_char=2214
+10	pretexts	pretext	NOUN	NNS	Number=Plur	9	_	_	start_char=2215|end_char=2223
+11	forced	force	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=2224|end_char=2230
+12	women	woman	NOUN	NNS	Number=Plur	11	_	_	start_char=2231|end_char=2236
+13	to	to	PART	TO	_	12	_	_	start_char=2237|end_char=2239
+14	set	set	VERB	VB	VerbForm=Inf	13	_	_	start_char=2240|end_char=2243
+15	fire	fire	NOUN	NN	Number=Sing	14	_	_	start_char=2244|end_char=2248
+16	to	to	ADP	IN	_	15	_	_	start_char=2249|end_char=2251
+17	military	military	ADJ	JJ	Degree=Pos	16	_	_	start_char=2252|end_char=2260
+18	enlistment	enlistment	NOUN	NN	Number=Sing	17	_	_	start_char=2261|end_char=2271
+19	offices	office	NOUN	NNS	Number=Plur	18	_	_	start_char=2272|end_char=2279
+20	in	in	ADP	IN	_	19	_	_	start_char=2280|end_char=2282
+21	different	different	ADJ	JJ	Degree=Pos	20	_	_	start_char=2283|end_char=2292
+22	Russian	Russian	ADJ	JJ	Degree=Pos	21	_	_	start_char=2293|end_char=2300
+23	cities	city	NOUN	NNS	Number=Plur	22	_	_	start_char=2301|end_char=2307|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=2307|end_char=2308
+
+# text = For example, victims were assured that they should stage the attac to chec the effectiveness of local emergency services and so on.
+# sent_id = 21
+1	For	for	ADP	IN	_	0	_	_	start_char=2309|end_char=2312
+2	example	example	NOUN	NN	Number=Sing	1	_	_	start_char=2313|end_char=2320|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=2320|end_char=2321
+4	victims	victim	NOUN	NNS	Number=Plur	3	_	_	start_char=2322|end_char=2329
+5	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=2330|end_char=2334
+6	assured	assure	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	_	_	start_char=2335|end_char=2342
+7	that	that	SCONJ	IN	_	6	_	_	start_char=2343|end_char=2347
+8	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	_	_	start_char=2348|end_char=2352
+9	should	should	AUX	MD	VerbForm=Fin	8	_	_	start_char=2353|end_char=2359
+10	stage	stage	VERB	VB	VerbForm=Inf	9	_	_	start_char=2360|end_char=2365
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=2366|end_char=2369
+12	attac	attac	NOUN	NN	Number=Sing	11	_	_	start_char=2370|end_char=2375
+13	to	to	PART	TO	_	12	_	_	start_char=2376|end_char=2378
+14	chec	chec	VERB	VB	VerbForm=Inf	13	_	_	start_char=2379|end_char=2383
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=2384|end_char=2387
+16	effectiveness	effectiveness	NOUN	NN	Number=Sing	15	_	_	start_char=2388|end_char=2401
+17	of	of	ADP	IN	_	16	_	_	start_char=2402|end_char=2404
+18	local	local	ADJ	JJ	Degree=Pos	17	_	_	start_char=2405|end_char=2410
+19	emergency	emergency	NOUN	NN	Number=Sing	18	_	_	start_char=2411|end_char=2420
+20	services	service	NOUN	NNS	Number=Plur	19	_	_	start_char=2421|end_char=2429
+21	and	and	CCONJ	CC	_	20	_	_	start_char=2430|end_char=2433
+22	so	so	ADV	RB	_	21	_	_	start_char=2434|end_char=2436
+23	on	on	ADV	RB	_	22	_	_	start_char=2437|end_char=2439|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=2439|end_char=2440|SpacesAfter=\n\n
+
+# text = Sometimes iev shows more ingenuity to assure Washington that the years of training and funding have not passed for nothing.
+# sent_id = 22
+1	Sometimes	sometimes	ADV	RB	_	0	_	_	start_char=2442|end_char=2451
+2	iev	iev	NOUN	NN	Number=Sing	1	_	_	start_char=2452|end_char=2455
+3	shows	show	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=2456|end_char=2461
+4	more	more	ADJ	JJR	Degree=Cmp	3	_	_	start_char=2462|end_char=2466
+5	ingenuity	ingenuity	NOUN	NN	Number=Sing	4	_	_	start_char=2467|end_char=2476
+6	to	to	PART	TO	_	5	_	_	start_char=2477|end_char=2479
+7	assure	assure	VERB	VB	VerbForm=Inf	6	_	_	start_char=2480|end_char=2486
+8	Washington	Washington	PROPN	NNP	Number=Sing	7	_	_	start_char=2487|end_char=2497
+9	that	that	SCONJ	IN	_	8	_	_	start_char=2498|end_char=2502
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=2503|end_char=2506
+11	years	year	NOUN	NNS	Number=Plur	10	_	_	start_char=2507|end_char=2512
+12	of	of	ADP	IN	_	11	_	_	start_char=2513|end_char=2515
+13	training	training	NOUN	NN	Number=Sing	12	_	_	start_char=2516|end_char=2524
+14	and	and	CCONJ	CC	_	13	_	_	start_char=2525|end_char=2528
+15	funding	funding	NOUN	NN	Number=Sing	14	_	_	start_char=2529|end_char=2536
+16	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=2537|end_char=2541
+17	not	not	PART	RB	_	16	_	_	start_char=2542|end_char=2545
+18	passed	pass	VERB	VBN	Tense=Past|VerbForm=Part	17	_	_	start_char=2546|end_char=2552
+19	for	for	ADP	IN	_	18	_	_	start_char=2553|end_char=2556
+20	nothing	nothing	PRON	NN	Number=Sing|PronType=Neg	19	_	_	start_char=2557|end_char=2564|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	_	_	start_char=2564|end_char=2565|SpacesAfter=\n\n
+
+# text = For example, a Urainian who has been living with his family in Moscow for many years recently tried to poison Russian pilots.
+# sent_id = 23
+1	For	for	ADP	IN	_	0	_	_	start_char=2567|end_char=2570
+2	example	example	NOUN	NN	Number=Sing	1	_	_	start_char=2571|end_char=2578|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=2578|end_char=2579
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=2580|end_char=2581
+5	Urainian	Urainian	PROPN	NNP	Number=Sing	4	_	_	start_char=2582|end_char=2590
+6	who	who	PRON	WP	PronType=Rel	5	_	_	start_char=2591|end_char=2594
+7	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=2595|end_char=2598
+8	been	be	AUX	VBN	Tense=Past|VerbForm=Part	7	_	_	start_char=2599|end_char=2603
+9	living	live	VERB	VBG	Tense=Pres|VerbForm=Part	8	_	_	start_char=2604|end_char=2610
+10	with	with	ADP	IN	_	9	_	_	start_char=2611|end_char=2615
+11	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	_	_	start_char=2616|end_char=2619
+12	family	family	NOUN	NN	Number=Sing	11	_	_	start_char=2620|end_char=2626
+13	in	in	ADP	IN	_	12	_	_	start_char=2627|end_char=2629
+14	Moscow	Moscow	PROPN	NNP	Number=Sing	13	_	_	start_char=2630|end_char=2636
+15	for	for	ADP	IN	_	14	_	_	start_char=2637|end_char=2640
+16	many	many	ADJ	JJ	Degree=Pos	15	_	_	start_char=2641|end_char=2645
+17	years	year	NOUN	NNS	Number=Plur	16	_	_	start_char=2646|end_char=2651
+18	recently	recently	ADV	RB	_	17	_	_	start_char=2652|end_char=2660
+19	tried	try	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	_	_	start_char=2661|end_char=2666
+20	to	to	PART	TO	_	19	_	_	start_char=2667|end_char=2669
+21	poison	poison	VERB	VB	VerbForm=Inf	20	_	_	start_char=2670|end_char=2676
+22	Russian	Russian	ADJ	JJ	Degree=Pos	21	_	_	start_char=2677|end_char=2684
+23	pilots	pilot	NOUN	NNS	Number=Plur	22	_	_	start_char=2685|end_char=2691|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	_	_	start_char=2691|end_char=2692
+
+# text = Disguised as a courier, he delivered a poisoned cae to their holiday.
+# sent_id = 24
+1	Disguised	disguise	VERB	VBN	Tense=Past|VerbForm=Part	0	_	_	start_char=2693|end_char=2702
+2	as	as	ADP	IN	_	1	_	_	start_char=2703|end_char=2705
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=2706|end_char=2707
+4	courier	courier	NOUN	NN	Number=Sing	3	_	_	start_char=2708|end_char=2715|SpaceAfter=No
+5	,	,	PUNCT	,	_	4	_	_	start_char=2715|end_char=2716
+6	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	_	_	start_char=2717|end_char=2719
+7	delivered	deliver	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=2720|end_char=2729
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=2730|end_char=2731
+9	poisoned	poison	VERB	VBN	Tense=Past|VerbForm=Part	8	_	_	start_char=2732|end_char=2740
+10	cae	cae	NOUN	NN	Number=Sing	9	_	_	start_char=2741|end_char=2744
+11	to	to	ADP	IN	_	10	_	_	start_char=2745|end_char=2747
+12	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	_	_	start_char=2748|end_char=2753
+13	holiday	holiday	NOUN	NN	Number=Sing	12	_	_	start_char=2754|end_char=2761|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	_	_	start_char=2761|end_char=2762
+
+# text = However, the operation failed, and now the Urainian agent will be arrested in a criminal case.
+# sent_id = 25
+1	However	however	ADV	RB	_	0	_	_	start_char=2763|end_char=2770|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=2770|end_char=2771
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=2772|end_char=2775
+4	operation	operation	NOUN	NN	Number=Sing	3	_	_	start_char=2776|end_char=2785
+5	failed	fail	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=2786|end_char=2792|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	_	_	start_char=2792|end_char=2793
+7	and	and	CCONJ	CC	_	6	_	_	start_char=2794|end_char=2797
+8	now	now	ADV	RB	_	7	_	_	start_char=2798|end_char=2801
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=2802|end_char=2805
+10	Urainian	Urainian	ADJ	JJ	Degree=Pos	9	_	_	start_char=2806|end_char=2814
+11	agent	agent	NOUN	NN	Number=Sing	10	_	_	start_char=2815|end_char=2820
+12	will	will	AUX	MD	VerbForm=Fin	11	_	_	start_char=2821|end_char=2825
+13	be	be	AUX	VB	VerbForm=Inf	12	_	_	start_char=2826|end_char=2828
+14	arrested	arrest	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	13	_	_	start_char=2829|end_char=2837
+15	in	in	ADP	IN	_	14	_	_	start_char=2838|end_char=2840
+16	a	a	DET	DT	Definite=Ind|PronType=Art	15	_	_	start_char=2841|end_char=2842
+17	criminal	criminal	ADJ	JJ	Degree=Pos	16	_	_	start_char=2843|end_char=2851
+18	case	case	NOUN	NN	Number=Sing	17	_	_	start_char=2852|end_char=2856|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	_	_	start_char=2856|end_char=2857
+
+# text = Meanwhile, his Urainian and American curators will have to search for more naive victims in Russia.
+# sent_id = 26
+1	Meanwhile	meanwhile	ADV	RB	_	0	_	_	start_char=2858|end_char=2867|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	_	_	start_char=2867|end_char=2868
+3	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	_	_	start_char=2869|end_char=2872
+4	Urainian	Urainian	ADJ	JJ	Degree=Pos	3	_	_	start_char=2873|end_char=2881
+5	and	and	CCONJ	CC	_	4	_	_	start_char=2882|end_char=2885
+6	American	American	ADJ	JJ	Degree=Pos	5	_	_	start_char=2886|end_char=2894
+7	curators	curator	NOUN	NNS	Number=Plur	6	_	_	start_char=2895|end_char=2903
+8	will	will	AUX	MD	VerbForm=Fin	7	_	_	start_char=2904|end_char=2908
+9	have	have	VERB	VB	VerbForm=Inf	8	_	_	start_char=2909|end_char=2913
+10	to	to	PART	TO	_	9	_	_	start_char=2914|end_char=2916
+11	search	search	VERB	VB	VerbForm=Inf	10	_	_	start_char=2917|end_char=2923
+12	for	for	ADP	IN	_	11	_	_	start_char=2924|end_char=2927
+13	more	more	ADJ	JJR	Degree=Cmp	12	_	_	start_char=2928|end_char=2932
+14	naive	naive	ADJ	JJ	Degree=Pos	13	_	_	start_char=2933|end_char=2938
+15	victims	victim	NOUN	NNS	Number=Plur	14	_	_	start_char=2939|end_char=2946
+16	in	in	ADP	IN	_	15	_	_	start_char=2947|end_char=2949
+17	Russia	Russia	PROPN	NNP	Number=Sing	16	_	_	start_char=2950|end_char=2956|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	_	_	start_char=2956|end_char=2957|SpaceAfter=No
+

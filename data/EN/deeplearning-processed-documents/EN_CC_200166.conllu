@@ -1,0 +1,320 @@
+# text = Greta Thunberg is arrested at London protest.
+# sent_id = 0
+1	Greta	Greta	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=5
+2	Thunberg	Thunberg	PROPN	NNP	Number=Sing	1	_	_	start_char=6|end_char=14
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=15|end_char=17
+4	arrested	arrest	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=18|end_char=26
+5	at	at	ADP	IN	_	4	_	_	start_char=27|end_char=29
+6	London	London	PROPN	NNP	Number=Sing	5	_	_	start_char=30|end_char=36
+7	protest	protest	NOUN	NN	Number=Sing	6	_	_	start_char=37|end_char=44|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	_	_	start_char=44|end_char=45
+
+# text = Of course she is - that's her script.
+# sent_id = 1
+1	Of	of	ADV	IN	_	0	_	_	start_char=46|end_char=48
+2	course	course	NOUN	NN	Number=Sing	1	_	_	start_char=49|end_char=55
+3	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	_	_	start_char=56|end_char=59
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=60|end_char=62
+5	-	-	PUNCT	,	_	4	_	_	start_char=63|end_char=64
+6-7	that's	_	_	_	_	_	_	_	start_char=65|end_char=71
+6	that	that	PRON	DT	Number=Sing|PronType=Dem	5	_	_	start_char=65|end_char=69
+7	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=69|end_char=71
+8	her	her	PRON	PRP$	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	_	_	start_char=72|end_char=75
+9	script	script	NOUN	NN	Number=Sing	8	_	_	start_char=76|end_char=82|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	_	_	start_char=82|end_char=83
+
+# text = Attend protest, get arrested.
+# sent_id = 2
+1	Attend	attend	VERB	VB	Mood=Imp|VerbForm=Fin	0	_	_	start_char=84|end_char=90
+2	protest	protest	NOUN	NN	Number=Sing	1	_	_	start_char=91|end_char=98|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	_	_	start_char=98|end_char=99
+4	get	get	AUX	VB	Mood=Imp|VerbForm=Fin	3	_	_	start_char=100|end_char=103
+5	arrested	arrest	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	_	_	start_char=104|end_char=112|SpaceAfter=No
+6	.	.	PUNCT	.	_	5	_	_	start_char=112|end_char=113
+
+# text = She is a sad and pathetic figure serving the agenda of the elite while claiming to oppose it
+# sent_id = 3
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=114|end_char=117
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=118|end_char=120
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=121|end_char=122
+4	sad	sad	ADJ	JJ	Degree=Pos	3	_	_	start_char=123|end_char=126
+5	and	and	CCONJ	CC	_	4	_	_	start_char=127|end_char=130
+6	pathetic	pathetic	ADJ	JJ	Degree=Pos	5	_	_	start_char=131|end_char=139
+7	figure	figure	NOUN	NN	Number=Sing	6	_	_	start_char=140|end_char=146
+8	serving	serve	VERB	VBG	VerbForm=Ger	7	_	_	start_char=147|end_char=154
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=155|end_char=158
+10	agenda	agenda	NOUN	NN	Number=Sing	9	_	_	start_char=159|end_char=165
+11	of	of	ADP	IN	_	10	_	_	start_char=166|end_char=168
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=169|end_char=172
+13	elite	elite	NOUN	NN	Number=Sing	12	_	_	start_char=173|end_char=178
+14	while	while	SCONJ	IN	_	13	_	_	start_char=179|end_char=184
+15	claiming	claim	VERB	VBG	VerbForm=Ger	14	_	_	start_char=185|end_char=193
+16	to	to	PART	TO	_	15	_	_	start_char=194|end_char=196
+17	oppose	oppose	VERB	VB	VerbForm=Inf	16	_	_	start_char=197|end_char=203
+18	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	_	_	start_char=204|end_char=206|SpacesAfter=\s\n\n\s
+
+# text = Greta Thunberg was arrested by the Metropolitan Police for ‘refusing to move’ when told to by police officers during a protest against an oil and gas conference in central London, according to eyewitnesses.
+# sent_id = 4
+1	Greta	Greta	PROPN	NNP	Number=Sing	0	_	_	start_char=210|end_char=215
+2	Thunberg	Thunberg	PROPN	NNP	Number=Sing	1	_	_	start_char=216|end_char=224
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=225|end_char=228
+4	arrested	arrest	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=229|end_char=237
+5	by	by	ADP	IN	_	4	_	_	start_char=238|end_char=240
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=241|end_char=244
+7	Metropolitan	Metropolitan	ADJ	NNP	Degree=Pos	6	_	_	start_char=245|end_char=257
+8	Police	Police	PROPN	NNP	Number=Sing	7	_	_	start_char=258|end_char=264
+9	for	for	SCONJ	IN	_	8	_	_	start_char=265|end_char=268
+10	‘	'	PUNCT	``	_	9	_	_	start_char=269|end_char=270|SpaceAfter=No
+11	refusing	refuse	VERB	VBG	VerbForm=Ger	10	_	_	start_char=270|end_char=278
+12	to	to	PART	TO	_	11	_	_	start_char=279|end_char=281
+13	move	move	VERB	VB	VerbForm=Inf	12	_	_	start_char=282|end_char=286|SpaceAfter=No
+14	’	'	PUNCT	''	_	13	_	_	start_char=286|end_char=287
+15	when	when	ADV	WRB	PronType=Int	14	_	_	start_char=288|end_char=292
+16	told	tell	VERB	VBN	Tense=Past|VerbForm=Part	15	_	_	start_char=293|end_char=297
+17	to	to	ADP	IN	_	16	_	_	start_char=298|end_char=300
+18	by	by	ADP	IN	_	17	_	_	start_char=301|end_char=303
+19	police	police	NOUN	NN	Number=Sing	18	_	_	start_char=304|end_char=310
+20	officers	officer	NOUN	NNS	Number=Plur	19	_	_	start_char=311|end_char=319
+21	during	during	ADP	IN	_	20	_	_	start_char=320|end_char=326
+22	a	a	DET	DT	Definite=Ind|PronType=Art	21	_	_	start_char=327|end_char=328
+23	protest	protest	NOUN	NN	Number=Sing	22	_	_	start_char=329|end_char=336
+24	against	against	ADP	IN	_	23	_	_	start_char=337|end_char=344
+25	an	a	DET	DT	Definite=Ind|PronType=Art	24	_	_	start_char=345|end_char=347
+26	oil	oil	NOUN	NN	Number=Sing	25	_	_	start_char=348|end_char=351
+27	and	and	CCONJ	CC	_	26	_	_	start_char=352|end_char=355
+28	gas	gas	NOUN	NN	Number=Sing	27	_	_	start_char=356|end_char=359
+29	conference	conference	NOUN	NN	Number=Sing	28	_	_	start_char=360|end_char=370
+30	in	in	ADP	IN	_	29	_	_	start_char=371|end_char=373
+31	central	central	ADJ	JJ	Degree=Pos	30	_	_	start_char=374|end_char=381
+32	London	London	PROPN	NNP	Number=Sing	31	_	_	start_char=382|end_char=388|SpaceAfter=No
+33	,	,	PUNCT	,	_	32	_	_	start_char=388|end_char=389
+34	according	accord	VERB	VBG	ExtPos=ADP|VerbForm=Ger	33	_	_	start_char=390|end_char=399
+35	to	to	ADP	IN	_	34	_	_	start_char=400|end_char=402
+36	eyewitnesses	eyewitness	NOUN	NNS	Number=Plur	35	_	_	start_char=403|end_char=415|SpaceAfter=No
+37	.	.	PUNCT	.	_	36	_	_	start_char=415|end_char=416|SpacesAfter=\n\n
+
+# text = The 20-year-old Swedish activist could be seen smiling as she was detained by officers and led to a waiting police van after joining a protest outside the Energy Intelligence Forum (EIF) – formerly the Oil and Money conference – at the Intercontinental Hotel Par Lane.
+# sent_id = 5
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=418|end_char=421
+2	20	20	NUM	CD	NumForm=Digit|NumType=Card	1	_	_	start_char=422|end_char=424|SpaceAfter=No
+3	-	-	PUNCT	HYPH	_	2	_	_	start_char=424|end_char=425|SpaceAfter=No
+4	year	year	NOUN	NN	Number=Sing	3	_	_	start_char=425|end_char=429|SpaceAfter=No
+5	-	-	PUNCT	HYPH	_	4	_	_	start_char=429|end_char=430|SpaceAfter=No
+6	old	old	ADJ	JJ	Degree=Pos	5	_	_	start_char=430|end_char=433
+7	Swedish	Swedish	ADJ	JJ	Degree=Pos	6	_	_	start_char=434|end_char=441
+8	activist	activist	NOUN	NN	Number=Sing	7	_	_	start_char=442|end_char=450
+9	could	could	AUX	MD	VerbForm=Fin	8	_	_	start_char=451|end_char=456
+10	be	be	AUX	VB	VerbForm=Inf	9	_	_	start_char=457|end_char=459
+11	seen	see	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10	_	_	start_char=460|end_char=464
+12	smiling	smile	VERB	VBG	VerbForm=Ger	11	_	_	start_char=465|end_char=472
+13	as	as	SCONJ	IN	_	12	_	_	start_char=473|end_char=475
+14	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	_	_	start_char=476|end_char=479
+15	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	_	_	start_char=480|end_char=483
+16	detained	detain	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	15	_	_	start_char=484|end_char=492
+17	by	by	ADP	IN	_	16	_	_	start_char=493|end_char=495
+18	officers	officer	NOUN	NNS	Number=Plur	17	_	_	start_char=496|end_char=504
+19	and	and	CCONJ	CC	_	18	_	_	start_char=505|end_char=508
+20	led	lead	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	_	_	start_char=509|end_char=512
+21	to	to	ADP	IN	_	20	_	_	start_char=513|end_char=515
+22	a	a	DET	DT	Definite=Ind|PronType=Art	21	_	_	start_char=516|end_char=517
+23	waiting	waiting	NOUN	NN	Number=Sing	22	_	_	start_char=518|end_char=525
+24	police	police	NOUN	NN	Number=Sing	23	_	_	start_char=526|end_char=532
+25	van	van	NOUN	NN	Number=Sing	24	_	_	start_char=533|end_char=536
+26	after	after	SCONJ	IN	_	25	_	_	start_char=537|end_char=542
+27	joining	join	VERB	VBG	VerbForm=Ger	26	_	_	start_char=543|end_char=550
+28	a	a	DET	DT	Definite=Ind|PronType=Art	27	_	_	start_char=551|end_char=552
+29	protest	protest	NOUN	NN	Number=Sing	28	_	_	start_char=553|end_char=560
+30	outside	outside	ADP	IN	_	29	_	_	start_char=561|end_char=568
+31	the	the	DET	DT	Definite=Def|PronType=Art	30	_	_	start_char=569|end_char=572
+32	Energy	Energy	PROPN	NNP	Number=Sing	31	_	_	start_char=573|end_char=579
+33	Intelligence	Intelligence	PROPN	NNP	Number=Sing	32	_	_	start_char=580|end_char=592
+34	Forum	Forum	PROPN	NNP	Number=Sing	33	_	_	start_char=593|end_char=598
+35	(	(	PUNCT	-LRB-	_	34	_	_	start_char=599|end_char=600|SpaceAfter=No
+36	EIF	EIF	PROPN	NNP	Number=Sing	35	_	_	start_char=600|end_char=603|SpaceAfter=No
+37	)	)	PUNCT	-RRB-	_	36	_	_	start_char=603|end_char=604
+38	–	-	PUNCT	:	_	37	_	_	start_char=605|end_char=606
+39	formerly	formerly	ADV	RB	_	38	_	_	start_char=607|end_char=615
+40	the	the	DET	DT	Definite=Def|PronType=Art	39	_	_	start_char=616|end_char=619
+41	Oil	Oil	PROPN	NNP	Number=Sing	40	_	_	start_char=620|end_char=623
+42	and	and	CCONJ	CC	_	41	_	_	start_char=624|end_char=627
+43	Money	money	PROPN	NNP	Number=Sing	42	_	_	start_char=628|end_char=633
+44	conference	conference	NOUN	NN	Number=Sing	43	_	_	start_char=634|end_char=644
+45	–	-	PUNCT	:	_	44	_	_	start_char=645|end_char=646
+46	at	at	ADP	IN	_	45	_	_	start_char=647|end_char=649
+47	the	the	DET	DT	Definite=Def|PronType=Art	46	_	_	start_char=650|end_char=653
+48	Intercontinental	Intercontinental	PROPN	NNP	Number=Sing	47	_	_	start_char=654|end_char=670
+49	Hotel	Hotel	PROPN	NNP	Number=Sing	48	_	_	start_char=671|end_char=676
+50	Par	Par	PROPN	NNP	Number=Sing	49	_	_	start_char=677|end_char=680
+51	Lane	Lane	PROPN	NNP	Number=Sing	50	_	_	start_char=681|end_char=685|SpaceAfter=No
+52	.	.	PUNCT	.	_	51	_	_	start_char=685|end_char=686|SpacesAfter=\n\n
+
+# text = In footage shared on social media, officers could be seen frogmarching the campaigner to the van as other protesters were told to stand bac.
+# sent_id = 6
+1	In	in	ADP	IN	_	0	_	_	start_char=688|end_char=690
+2	footage	footage	NOUN	NN	Number=Sing	1	_	_	start_char=691|end_char=698
+3	shared	share	VERB	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=699|end_char=705
+4	on	on	ADP	IN	_	3	_	_	start_char=706|end_char=708
+5	social	social	ADJ	JJ	Degree=Pos	4	_	_	start_char=709|end_char=715
+6	media	media	NOUN	NN	Number=Sing	5	_	_	start_char=716|end_char=721|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	_	_	start_char=721|end_char=722
+8	officers	officer	NOUN	NNS	Number=Plur	7	_	_	start_char=723|end_char=731
+9	could	could	AUX	MD	VerbForm=Fin	8	_	_	start_char=732|end_char=737
+10	be	be	AUX	VB	VerbForm=Inf	9	_	_	start_char=738|end_char=740
+11	seen	see	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10	_	_	start_char=741|end_char=745
+12	frogmarching	frogmarch	VERB	VBG	VerbForm=Ger	11	_	_	start_char=746|end_char=758
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=759|end_char=762
+14	campaigner	campaigner	NOUN	NN	Number=Sing	13	_	_	start_char=763|end_char=773
+15	to	to	ADP	IN	_	14	_	_	start_char=774|end_char=776
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=777|end_char=780
+17	van	van	NOUN	NN	Number=Sing	16	_	_	start_char=781|end_char=784
+18	as	as	SCONJ	IN	_	17	_	_	start_char=785|end_char=787
+19	other	other	ADJ	JJ	Degree=Pos	18	_	_	start_char=788|end_char=793
+20	protesters	protester	NOUN	NNS	Number=Plur	19	_	_	start_char=794|end_char=804
+21	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	20	_	_	start_char=805|end_char=809
+22	told	tell	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	21	_	_	start_char=810|end_char=814
+23	to	to	PART	TO	_	22	_	_	start_char=815|end_char=817
+24	stand	stand	VERB	VB	VerbForm=Inf	23	_	_	start_char=818|end_char=823
+25	bac	bac	NOUN	NN	Number=Sing	24	_	_	start_char=824|end_char=827|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	_	_	start_char=827|end_char=828
+
+# text = The Met Police said it had arrested 21 protesters today.
+# sent_id = 7
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=829|end_char=832
+2	Met	Met	PROPN	NNP	Number=Sing	1	_	_	start_char=833|end_char=836
+3	Police	Police	PROPN	NNP	Number=Plur	2	_	_	start_char=837|end_char=843
+4	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	_	_	start_char=844|end_char=848
+5	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	_	_	start_char=849|end_char=851
+6	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=852|end_char=855
+7	arrested	arrest	VERB	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=856|end_char=864
+8	21	21	NUM	CD	NumForm=Digit|NumType=Card	7	_	_	start_char=865|end_char=867
+9	protesters	protester	NOUN	NNS	Number=Plur	8	_	_	start_char=868|end_char=878
+10	today	today	NOUN	NN	Number=Sing	9	_	_	start_char=879|end_char=884|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	_	_	start_char=884|end_char=885|SpacesAfter=\n\n
+
+# text = Fossil Free London, which organised the demo, told the PA news agency that Thunberg was arrested while lining arms and changing with other activists; she was reportedly taen to Wandsworth police station.
+# sent_id = 8
+1	Fossil	Fossil	PROPN	NNP	Number=Sing	0	_	_	start_char=887|end_char=893
+2	Free	free	ADJ	NNP	Degree=Pos	1	_	_	start_char=894|end_char=898
+3	London	London	PROPN	NNP	Number=Sing	2	_	_	start_char=899|end_char=905|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	_	_	start_char=905|end_char=906
+5	which	which	PRON	WDT	PronType=Rel	4	_	_	start_char=907|end_char=912
+6	organised	organised	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=913|end_char=922
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=923|end_char=926
+8	demo	demo	NOUN	NN	Number=Sing	7	_	_	start_char=927|end_char=931|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=931|end_char=932
+10	told	tell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	_	_	start_char=933|end_char=937
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=938|end_char=941
+12	PA	PA	PROPN	NNP	Number=Sing	11	_	_	start_char=942|end_char=944
+13	news	news	NOUN	NN	Number=Sing	12	_	_	start_char=945|end_char=949
+14	agency	agency	NOUN	NN	Number=Sing	13	_	_	start_char=950|end_char=956
+15	that	that	SCONJ	IN	_	14	_	_	start_char=957|end_char=961
+16	Thunberg	Thunberg	PROPN	NNP	Number=Sing	15	_	_	start_char=962|end_char=970
+17	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	_	_	start_char=971|end_char=974
+18	arrested	arrest	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	17	_	_	start_char=975|end_char=983
+19	while	while	SCONJ	IN	_	18	_	_	start_char=984|end_char=989
+20	lining	lining	VERB	VBG	VerbForm=Ger	19	_	_	start_char=990|end_char=996
+21	arms	arm	NOUN	NNS	Number=Plur	20	_	_	start_char=997|end_char=1001
+22	and	and	CCONJ	CC	_	21	_	_	start_char=1002|end_char=1005
+23	changing	change	VERB	VBG	VerbForm=Ger	22	_	_	start_char=1006|end_char=1014
+24	with	with	ADP	IN	_	23	_	_	start_char=1015|end_char=1019
+25	other	other	ADJ	JJ	Degree=Pos	24	_	_	start_char=1020|end_char=1025
+26	activists	activist	NOUN	NNS	Number=Plur	25	_	_	start_char=1026|end_char=1035|SpaceAfter=No
+27	;	;	PUNCT	:	_	26	_	_	start_char=1035|end_char=1036
+28	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	27	_	_	start_char=1037|end_char=1040
+29	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	_	_	start_char=1041|end_char=1044
+30	reportedly	reportedly	ADV	RB	_	29	_	_	start_char=1045|end_char=1055
+31	taen	taen	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	30	_	_	start_char=1056|end_char=1060
+32	to	to	ADP	IN	_	31	_	_	start_char=1061|end_char=1063
+33	Wandsworth	Wandsworth	PROPN	NNP	Number=Sing	32	_	_	start_char=1064|end_char=1074
+34	police	police	NOUN	NN	Number=Sing	33	_	_	start_char=1075|end_char=1081
+35	station	station	NOUN	NN	Number=Sing	34	_	_	start_char=1082|end_char=1089|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=1089|end_char=1090|SpacesAfter=\n\n
+
+# text = It’s the latest arrest for the campaigner, who rose to fame after she began ‘striing’ from school in 2018 over what she said was inaction by world governments to tacle climate change.
+# sent_id = 9
+1-2	It’s	_	_	_	_	_	_	_	start_char=1092|end_char=1096
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1092|end_char=1094
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=1094|end_char=1096
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=1097|end_char=1100
+4	latest	late	ADJ	JJS	Degree=Sup	3	_	_	start_char=1101|end_char=1107
+5	arrest	arrest	NOUN	NN	Number=Sing	4	_	_	start_char=1108|end_char=1114
+6	for	for	ADP	IN	_	5	_	_	start_char=1115|end_char=1118
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=1119|end_char=1122
+8	campaigner	campaigner	NOUN	NN	Number=Sing	7	_	_	start_char=1123|end_char=1133|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	_	_	start_char=1133|end_char=1134
+10	who	who	PRON	WP	PronType=Rel	9	_	_	start_char=1135|end_char=1138
+11	rose	rise	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	_	_	start_char=1139|end_char=1143
+12	to	to	ADP	IN	_	11	_	_	start_char=1144|end_char=1146
+13	fame	fame	NOUN	NN	Number=Sing	12	_	_	start_char=1147|end_char=1151
+14	after	after	SCONJ	IN	_	13	_	_	start_char=1152|end_char=1157
+15	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	_	_	start_char=1158|end_char=1161
+16	began	begin	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	_	_	start_char=1162|end_char=1167
+17	‘	'	PUNCT	``	_	16	_	_	start_char=1168|end_char=1169|SpaceAfter=No
+18	striing’	striing’	NOUN	NN	Number=Sing	17	_	_	start_char=1169|end_char=1177
+19	from	from	ADP	IN	_	18	_	_	start_char=1178|end_char=1182
+20	school	school	NOUN	NN	Number=Sing	19	_	_	start_char=1183|end_char=1189
+21	in	in	ADP	IN	_	20	_	_	start_char=1190|end_char=1192
+22	2018	2018	NUM	CD	NumForm=Digit|NumType=Card	21	_	_	start_char=1193|end_char=1197
+23	over	over	ADP	IN	_	22	_	_	start_char=1198|end_char=1202
+24	what	what	PRON	WP	PronType=Rel	23	_	_	start_char=1203|end_char=1207
+25	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	24	_	_	start_char=1208|end_char=1211
+26	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	_	_	start_char=1212|end_char=1216
+27	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	26	_	_	start_char=1217|end_char=1220
+28	inaction	inaction	NOUN	NN	Number=Sing	27	_	_	start_char=1221|end_char=1229
+29	by	by	ADP	IN	_	28	_	_	start_char=1230|end_char=1232
+30	world	world	NOUN	NN	Number=Sing	29	_	_	start_char=1233|end_char=1238
+31	governments	government	NOUN	NNS	Number=Plur	30	_	_	start_char=1239|end_char=1250
+32	to	to	PART	TO	_	31	_	_	start_char=1251|end_char=1253
+33	tacle	tacle	VERB	VB	VerbForm=Inf	32	_	_	start_char=1254|end_char=1259
+34	climate	climate	NOUN	NN	Number=Sing	33	_	_	start_char=1260|end_char=1267
+35	change	change	NOUN	NN	Number=Sing	34	_	_	start_char=1268|end_char=1274|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=1274|end_char=1275|SpacesAfter=\n\n
+
+# text = Breaing: @GretaThunberg has just been arrested protesting in London
+# sent_id = 10
+1	Breaing	breaing	NOUN	NN	Number=Sing	0	_	_	start_char=1277|end_char=1284|SpaceAfter=No
+2	:	:	PUNCT	:	_	1	_	_	start_char=1284|end_char=1285
+3	@	@	PUNCT	NFP	_	2	_	_	start_char=1286|end_char=1287|SpaceAfter=No
+4	GretaThunberg	GretaThunberg	PROPN	NNP	Number=Sing	3	_	_	start_char=1287|end_char=1300
+5	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=1301|end_char=1304
+6	just	just	ADV	RB	_	5	_	_	start_char=1305|end_char=1309
+7	been	be	AUX	VBN	Tense=Past|VerbForm=Part	6	_	_	start_char=1310|end_char=1314
+8	arrested	arrest	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	_	_	start_char=1315|end_char=1323
+9	protesting	protest	VERB	VBG	VerbForm=Ger	8	_	_	start_char=1324|end_char=1334
+10	in	in	ADP	IN	_	9	_	_	start_char=1335|end_char=1337
+11	London	London	PROPN	NNP	Number=Sing	10	_	_	start_char=1338|end_char=1344|SpacesAfter=\n\n
+
+# text = She was among hundreds of protesters outside the Energy Intelligence Forum (a conference formerly nown as Oil & Money) where many senior oil and gas execs are speaing today
+# sent_id = 11
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1346|end_char=1349
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=1350|end_char=1353
+3	among	among	ADP	IN	_	2	_	_	start_char=1354|end_char=1359
+4	hundreds	hundred	NOUN	NNS	Number=Plur	3	_	_	start_char=1360|end_char=1368
+5	of	of	ADP	IN	_	4	_	_	start_char=1369|end_char=1371
+6	protesters	protester	NOUN	NNS	Number=Plur	5	_	_	start_char=1372|end_char=1382
+7	outside	outside	ADP	IN	_	6	_	_	start_char=1383|end_char=1390
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=1391|end_char=1394
+9	Energy	Energy	PROPN	NNP	Number=Sing	8	_	_	start_char=1395|end_char=1401
+10	Intelligence	Intelligence	PROPN	NNP	Number=Sing	9	_	_	start_char=1402|end_char=1414
+11	Forum	Forum	PROPN	NNP	Number=Sing	10	_	_	start_char=1415|end_char=1420
+12	(	(	PUNCT	-LRB-	_	11	_	_	start_char=1421|end_char=1422|SpaceAfter=No
+13	a	a	DET	DT	Definite=Ind|PronType=Art	12	_	_	start_char=1422|end_char=1423
+14	conference	conference	NOUN	NN	Number=Sing	13	_	_	start_char=1424|end_char=1434
+15	formerly	formerly	ADV	RB	_	14	_	_	start_char=1435|end_char=1443
+16	nown	nown	ADJ	JJ	Degree=Pos	15	_	_	start_char=1444|end_char=1448
+17	as	as	ADP	IN	_	16	_	_	start_char=1449|end_char=1451
+18	Oil	Oil	PROPN	NNP	Number=Sing	17	_	_	start_char=1452|end_char=1455
+19	&	&	CCONJ	CC	_	18	_	_	start_char=1456|end_char=1457
+20	Money	money	PROPN	NNP	Number=Sing	19	_	_	start_char=1458|end_char=1463|SpaceAfter=No
+21	)	)	PUNCT	-RRB-	_	20	_	_	start_char=1463|end_char=1464
+22	where	where	ADV	WRB	PronType=Rel	21	_	_	start_char=1465|end_char=1470
+23	many	many	ADJ	JJ	Degree=Pos	22	_	_	start_char=1471|end_char=1475
+24	senior	senior	ADJ	JJ	Degree=Pos	23	_	_	start_char=1476|end_char=1482
+25	oil	oil	NOUN	NN	Number=Sing	24	_	_	start_char=1483|end_char=1486
+26	and	and	CCONJ	CC	_	25	_	_	start_char=1487|end_char=1490
+27	gas	gas	NOUN	NN	Number=Sing	26	_	_	start_char=1491|end_char=1494
+28	execs	exec	NOUN	NNS	Number=Plur	27	_	_	start_char=1495|end_char=1500
+29	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	28	_	_	start_char=1501|end_char=1504
+30	speaing	speae	VERB	VBG	Tense=Pres|VerbForm=Part	29	_	_	start_char=1505|end_char=1512
+31	today	today	NOUN	NN	Number=Sing	30	_	_	start_char=1513|end_char=1518|SpaceAfter=No
+
