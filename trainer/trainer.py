@@ -116,10 +116,15 @@ class Trainer:
             for batch in val_loader:
                 inputs, labels = self._prepare_batch(batch)
                 doc_names = batch[2]
-                outputs = self.model(inputs)
+                if self.cfg.model == "bert":
+                    outputs = self.model(
+                        inputs["input_ids"],
+                        attention_mask=inputs["attention_mask"],
+                        token_type_ids=inputs["token_type_ids"],
+                    )
+                else:
+                    outputs = self.model(inputs)
                 outputs = torch.sigmoid(outputs)
-
-                print(outputs, labels)
 
                 outputs = outputs > self.threshold
 
@@ -146,13 +151,18 @@ class Trainer:
         with torch.no_grad():
             for batch in test_loader:
 
-                if isinstance(batch[0], dict):
-                    inputs = {k: v.to(self.device) for k, v in batch[0].items()}
+                inputs = batch[0].to(self.device)
+                if self.cfg.model == "bert":
+                    outputs = self.model(
+                        inputs["input_ids"],
+                        attention_mask=inputs["attention_mask"],
+                        token_type_ids=inputs["token_type_ids"],
+                    )
                 else:
-                    inputs = batch[0].to(self.device)
+                    outputs = self.model(inputs)
 
                 doc_names = batch[1]
-                outputs = self.model(inputs)
+
                 outputs = torch.sigmoid(outputs).cpu().numpy()
                 outputs = outputs > self.threshold
 
@@ -168,13 +178,8 @@ class Trainer:
 
     def _prepare_batch(self, batch):
         inputs, labels, _ = batch
-        if isinstance(inputs, dict):
-            inputs = {k: v.to(self.device) for k, v in inputs.items()}
-        else:
-            inputs = inputs.to(self.device)
-
+        inputs = inputs.to(self.device)
         labels = labels.to(self.device)
-
         return inputs, labels
 
     def train_validate_epoch(self, loader, epoch, split):
@@ -186,7 +191,14 @@ class Trainer:
         for batch in tqdm(loader, total=len(loader)):
             # Forward pass
             inputs, labels = self._prepare_batch(batch)
-            output = self.model(inputs)
+            if self.cfg.model == "bert":
+                output = self.model(
+                    inputs["input_ids"],
+                    attention_mask=inputs["attention_mask"],
+                    token_type_ids=inputs["token_type_ids"],
+                )
+            else:
+                output = self.model(inputs)
 
             # Compute metrics
             for metric in self.metrics.values():
