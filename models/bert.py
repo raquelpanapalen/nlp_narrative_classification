@@ -22,25 +22,26 @@ class BERT(nn.Module):
 
         self.finetune = finetune
 
-    def forward(self, data):
-        x = data["input_ids"]
-        x = x.reshape(x.shape[0], -1)
+    def forward(self, input_ids=None, attention_mask=None, token_type_ids=None):
+        x = input_ids.reshape(input_ids.shape[0], -1)
 
-        mask = data["attention_mask"]
-        mask = mask.reshape(mask.shape[0], -1)
+        if attention_mask is not None:
+            attention_mask = attention_mask.reshape(attention_mask.shape[0], -1)
 
-        type_ids = data["token_type_ids"]
-        type_ids = type_ids.reshape(type_ids.shape[0], -1)
+        if token_type_ids is not None:
+            token_type_ids = token_type_ids.reshape(token_type_ids.shape[0], -1)
 
         if self.finetune:
-            out = self.model(x, attention_mask=mask, token_type_ids=type_ids).logits
+            out = self.model(
+                x, attention_mask=attention_mask, token_type_ids=token_type_ids
+            ).logits
 
         else:
             with torch.no_grad():
                 out = self.model(
                     x,
-                    attention_mask=mask,
-                    token_type_ids=type_ids,
+                    attention_mask=attention_mask,
+                    token_type_ids=token_type_ids,
                     output_hidden_states=True,
                 ).hidden_states[-1][:, 0, :]
 
