@@ -60,10 +60,36 @@ class TransformerClassifier(nn.Module):
         self.linear = nn.Linear(embed_dim, output_dim)
         self.dropout = nn.Dropout(dropout)
 
+        # Create learnable [CLS] token
+        self.cls_token = nn.Parameter(
+            torch.randn(1, 1, embed_dim)
+        )  # Shape: [1, 1, embed_dim]
+
     def forward(self, x):
-        emb = self.emb(x)
-        x = self.pos_encoder(emb)
-        x = self.dropout(x)
-        x = x.max(dim=1)[0]  # check this
-        out = self.linear(x)
+        # Step 1: Get embeddings of input tokens
+        emb = self.emb(x)  # Shape: [batch_size, seq_len, embed_dim]
+
+        # Step 2: Add positional encoding (if needed)
+        x = self.pos_encoder(emb)  # Shape: [batch_size, seq_len, embed_dim]
+
+        # Step 3: Add the [CLS] token at the beginning of the sequence
+        cls_token_expanded = self.cls_token.expand(
+            x.size(0), -1, -1
+        )  # Expand [1, 1, embed_dim] to [batch_size, 1, embed_dim]
+        x_with_cls = torch.cat(
+            (cls_token_expanded, x), dim=1
+        )  # Concatenate the [CLS] token to the input sequence
+
+        # Step 4: Apply Transformer Encoder
+        x = self.encoder(x_with_cls)  # Shape: [batch_size, seq_len + 1, embed_dim]
+
+        # Step 5: Take the embedding of the [CLS] token (first token)
+        cls_embedding = x[:, 0, :]  # Shape: [batch_size, embed_dim]
+
+        # Step 6: Apply dropout
+        cls_embedding = self.dropout(cls_embedding)
+
+        # Step 7: Pass the [CLS] token embedding through the final output layer
+        out = self.linear(cls_embedding)  # Shape: [batch_size, output_dim]
+
         return out
