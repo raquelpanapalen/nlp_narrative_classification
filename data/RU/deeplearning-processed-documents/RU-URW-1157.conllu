@@ -1,0 +1,596 @@
+# text = Чешский наемник признался суду своей страны в своем участии в убийствах жителей Бучи в составе ВСУ (Про Россию) "Вовсю разоткровенничался во время суда чешский наёмник, побывавший в Буче.
+# sent_id = 0
+1	Чешский	чешский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	_	_	start_char=0|end_char=7
+2	наемник	наемник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=8|end_char=15
+3	признался	признаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	_	_	start_char=16|end_char=25
+4	суду	суд	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	3	_	_	start_char=26|end_char=30
+5	своей	свой	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	4	_	_	start_char=31|end_char=36
+6	страны	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	_	_	start_char=37|end_char=43
+7	в	в	ADP	_	_	6	_	_	start_char=44|end_char=45
+8	своем	свой	DET	_	Case=Loc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	7	_	_	start_char=46|end_char=51
+9	участии	участие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	8	_	_	start_char=52|end_char=59
+10	в	в	ADP	_	_	9	_	_	start_char=60|end_char=61
+11	убийствах	убийство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	10	_	_	start_char=62|end_char=71
+12	жителей	житель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	11	_	_	start_char=72|end_char=79
+13	Бучи	Бучи	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	_	_	start_char=80|end_char=84
+14	в	в	ADP	_	_	13	_	_	start_char=85|end_char=86
+15	составе	состав	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	14	_	_	start_char=87|end_char=94
+16	ВСУ	ВСУ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	_	_	start_char=95|end_char=98
+17	(	(	PUNCT	_	_	16	_	_	start_char=99|end_char=100|SpaceAfter=No
+18	Про	про	ADP	_	_	17	_	_	start_char=100|end_char=103
+19	Россию	Россия	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	18	_	_	start_char=104|end_char=110|SpaceAfter=No
+20	)	)	PUNCT	_	_	19	_	_	start_char=110|end_char=111
+21	"	"	PUNCT	_	_	20	_	_	start_char=112|end_char=113|SpaceAfter=No
+22	Вовсю	вовсю	ADV	_	Degree=Pos	21	_	_	start_char=113|end_char=118
+23	разоткровенничался	разоткровенничься	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	22	_	_	start_char=119|end_char=137
+24	во	в	ADP	_	_	23	_	_	start_char=138|end_char=140
+25	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	24	_	_	start_char=141|end_char=146
+26	суда	суд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	25	_	_	start_char=147|end_char=151
+27	чешский	чешский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	26	_	_	start_char=152|end_char=159
+28	наёмник	наемник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	27	_	_	start_char=160|end_char=167|SpaceAfter=No
+29	,	,	PUNCT	_	_	28	_	_	start_char=167|end_char=168
+30	побывавший	побывать	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	29	_	_	start_char=169|end_char=179
+31	в	в	ADP	_	_	30	_	_	start_char=180|end_char=181
+32	Буче	Буча	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	31	_	_	start_char=182|end_char=186|SpaceAfter=No
+33	.	.	PUNCT	_	_	32	_	_	start_char=186|end_char=187
+
+# text = Воюя на стороне врага России, признался он, наёмник и его сослуживцы были ""и полицией, и судом"".
+# sent_id = 1
+1	Воюя	воють	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	0	_	_	start_char=188|end_char=192
+2	на	на	ADP	_	_	1	_	_	start_char=193|end_char=195
+3	стороне	сторона	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	_	_	start_char=196|end_char=203
+4	врага	враг	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=204|end_char=209
+5	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	_	_	start_char=210|end_char=216|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=216|end_char=217
+7	признался	признаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	6	_	_	start_char=218|end_char=227
+8	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	_	_	start_char=228|end_char=230|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=230|end_char=231
+10	наёмник	наемник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	_	_	start_char=232|end_char=239
+11	и	и	CCONJ	_	_	10	_	_	start_char=240|end_char=241
+12	его	его	DET	_	Poss=Yes|PronType=Prs	11	_	_	start_char=242|end_char=245
+13	сослуживцы	сослуживец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	12	_	_	start_char=246|end_char=256
+14	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	13	_	_	start_char=257|end_char=261
+15	"	"	PUNCT	_	_	14	_	_	start_char=262|end_char=263|SpaceAfter=No
+16	"	"	PUNCT	_	_	15	_	_	start_char=263|end_char=264|SpaceAfter=No
+17	и	и	CCONJ	_	_	16	_	_	start_char=264|end_char=265
+18	полицией	полиция	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	17	_	_	start_char=266|end_char=274|SpaceAfter=No
+19	,	,	PUNCT	_	_	18	_	_	start_char=274|end_char=275
+20	и	и	CCONJ	_	_	19	_	_	start_char=276|end_char=277
+21	судом	суд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	20	_	_	start_char=278|end_char=283|SpaceAfter=No
+22	"	"	PUNCT	_	_	21	_	_	start_char=283|end_char=284|SpaceAfter=No
+23	"	"	PUNCT	_	_	22	_	_	start_char=284|end_char=285|SpaceAfter=No
+24	.	.	PUNCT	_	_	23	_	_	start_char=285|end_char=286
+
+# text = Он грабил и убивал людей, потому что ""так делали все"".
+# sent_id = 2
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=287|end_char=289
+2	грабил	грабить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=290|end_char=296
+3	и	и	CCONJ	_	_	2	_	_	start_char=297|end_char=298
+4	убивал	убивать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	_	_	start_char=299|end_char=305
+5	людей	человек	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	4	_	_	start_char=306|end_char=311|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=311|end_char=312
+7	потому	потому	ADV	_	Degree=Pos	6	_	_	start_char=313|end_char=319
+8	что	что	SCONJ	_	_	7	_	_	start_char=320|end_char=323
+9	"	"	PUNCT	_	_	8	_	_	start_char=324|end_char=325|SpaceAfter=No
+10	"	"	PUNCT	_	_	9	_	_	start_char=325|end_char=326|SpaceAfter=No
+11	так	так	ADV	_	Degree=Pos	10	_	_	start_char=326|end_char=329
+12	делали	делать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	11	_	_	start_char=330|end_char=336
+13	все	все	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|PronType=Tot	12	_	_	start_char=337|end_char=340|SpaceAfter=No
+14	"	"	PUNCT	_	_	13	_	_	start_char=340|end_char=341|SpaceAfter=No
+15	"	"	PUNCT	_	_	14	_	_	start_char=341|end_char=342|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	_	_	start_char=342|end_char=343
+
+# text = Нет, чеха Филиппа Симана судят не в России.
+# sent_id = 3
+1	Нет	нет	PART	_	_	0	_	_	start_char=344|end_char=347|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	_	_	start_char=347|end_char=348
+3	чеха	чех	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	2	_	_	start_char=349|end_char=353
+4	Филиппа	Филипп	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=354|end_char=361
+5	Симана	Симан	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	4	_	_	start_char=362|end_char=368
+6	судят	судить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	_	_	start_char=369|end_char=374
+7	не	не	PART	_	_	6	_	_	start_char=375|end_char=377
+8	в	в	ADP	_	_	7	_	_	start_char=378|end_char=379
+9	России	Россия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	_	_	start_char=380|end_char=386|SpaceAfter=No
+10	.	.	PUNCT	_	_	9	_	_	start_char=386|end_char=387
+
+# text = Откровения полились из него в ходе судебных заседаний в родной Чехии, пишет украинский блогер Анатолий Шарий.
+# sent_id = 4
+1	Откровения	откровение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	0	_	_	start_char=388|end_char=398
+2	полились	литься	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	1	_	_	start_char=399|end_char=407
+3	из	из	ADP	_	_	2	_	_	start_char=408|end_char=410
+4	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	_	_	start_char=411|end_char=415
+5	в	в	ADP	_	_	4	_	_	start_char=416|end_char=417
+6	ходе	ход	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	_	_	start_char=418|end_char=422
+7	судебных	судебный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	_	_	start_char=423|end_char=431
+8	заседаний	заседание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	7	_	_	start_char=432|end_char=441
+9	в	в	ADP	_	_	8	_	_	start_char=442|end_char=443
+10	родной	родной	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	9	_	_	start_char=444|end_char=450
+11	Чехии	Чехия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	_	_	start_char=451|end_char=456|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	_	_	start_char=456|end_char=457
+13	пишет	писать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	_	_	start_char=458|end_char=463
+14	украинский	украинский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	13	_	_	start_char=464|end_char=474
+15	блогер	блоггер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	_	_	start_char=475|end_char=481
+16	Анатолий	Анатолий	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	15	_	_	start_char=482|end_char=490
+17	Шарий	Шарий	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	_	_	start_char=491|end_char=496|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	_	_	start_char=496|end_char=497
+
+# text = ""Мы были полицией, мы были судом, мы были и расстрельным отрядом, раз уж на то пошло"", - заявил Симан.
+# sent_id = 5
+1	"	"	PUNCT	_	_	0	_	_	start_char=498|end_char=499|SpaceAfter=No
+2	"	"	PUNCT	_	_	1	_	_	start_char=499|end_char=500|SpaceAfter=No
+3	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	_	_	start_char=500|end_char=502
+4	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	_	_	start_char=503|end_char=507
+5	полицией	полиция	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	4	_	_	start_char=508|end_char=516|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=516|end_char=517
+7	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	_	_	start_char=518|end_char=520
+8	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	7	_	_	start_char=521|end_char=525
+9	судом	суд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	8	_	_	start_char=526|end_char=531|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=531|end_char=532
+11	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	10	_	_	start_char=533|end_char=535
+12	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	11	_	_	start_char=536|end_char=540
+13	и	и	CCONJ	_	_	12	_	_	start_char=541|end_char=542
+14	расстрельным	расстрельный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	13	_	_	start_char=543|end_char=555
+15	отрядом	отряд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	14	_	_	start_char=556|end_char=563|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	_	_	start_char=563|end_char=564
+17	раз	раз	SCONJ	_	_	16	_	_	start_char=565|end_char=568
+18	уж	уж	PART	_	_	17	_	_	start_char=569|end_char=571
+19	на	на	ADP	_	_	18	_	_	start_char=572|end_char=574
+20	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	19	_	_	start_char=575|end_char=577
+21	пошло	пойти	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	20	_	_	start_char=578|end_char=583|SpaceAfter=No
+22	"	"	PUNCT	_	_	21	_	_	start_char=583|end_char=584|SpaceAfter=No
+23	"	"	PUNCT	_	_	22	_	_	start_char=584|end_char=585|SpaceAfter=No
+24	,	,	PUNCT	_	_	23	_	_	start_char=585|end_char=586
+25	-	-	PUNCT	_	_	24	_	_	start_char=587|end_char=588
+26	заявил	заявить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	25	_	_	start_char=589|end_char=595
+27	Симан	Симан	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	26	_	_	start_char=596|end_char=601|SpaceAfter=No
+28	.	.	PUNCT	_	_	27	_	_	start_char=601|end_char=602
+
+# text = СКРИНШОТ: ТЕЛЕГРАМ-КАНАЛ ЦАРЬГРАДА.
+# sent_id = 6
+1	СКРИНШОТ	скриншот	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=603|end_char=611|SpaceAfter=No
+2	:	:	PUNCT	_	_	1	_	_	start_char=611|end_char=612
+3	ТЕЛЕГРАМ-КАНАЛ	телеграмнканал	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	_	_	start_char=613|end_char=627
+4	ЦАРЬГРАДА	ЦАРЬГРАД	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	_	_	start_char=628|end_char=637|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	_	_	start_char=637|end_char=638
+
+# text = В Буче наёмник был в 2022 году.
+# sent_id = 7
+1	В	в	ADP	_	_	0	_	_	start_char=639|end_char=640
+2	Буче	Буча	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	_	_	start_char=641|end_char=645
+3	наёмник	наемник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	_	_	start_char=646|end_char=653
+4	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	_	_	start_char=654|end_char=657
+5	в	в	ADP	_	_	4	_	_	start_char=658|end_char=659
+6	2022	2022	ADJ	_	Degree=Pos	5	_	_	start_char=660|end_char=664
+7	году	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	_	_	start_char=665|end_char=669|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	_	_	start_char=669|end_char=670
+
+# text = Как раз тогда, когда русская армия оставила Киевскую область, в Бучу зашли иностранные наёмники и националисты.
+# sent_id = 8
+1	Как	как	SCONJ	_	_	0	_	_	start_char=671|end_char=674
+2	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	_	_	start_char=675|end_char=678
+3	тогда	тогда	ADV	_	Degree=Pos	2	_	_	start_char=679|end_char=684|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=684|end_char=685
+5	когда	когда	SCONJ	_	_	4	_	_	start_char=686|end_char=691
+6	русская	русский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	_	_	start_char=692|end_char=699
+7	армия	армия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	_	_	start_char=700|end_char=705
+8	оставила	оставить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	_	_	start_char=706|end_char=714
+9	Киевскую	киевский	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	8	_	_	start_char=715|end_char=723
+10	область	область	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	_	_	start_char=724|end_char=731|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=731|end_char=732
+12	в	в	ADP	_	_	11	_	_	start_char=733|end_char=734
+13	Бучу	Буча	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	_	_	start_char=735|end_char=739
+14	зашли	зайти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	13	_	_	start_char=740|end_char=745
+15	иностранные	иностранный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	14	_	_	start_char=746|end_char=757
+16	наёмники	наемник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	15	_	_	start_char=758|end_char=766
+17	и	и	CCONJ	_	_	16	_	_	start_char=767|end_char=768
+18	националисты	националист	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	17	_	_	start_char=769|end_char=781|SpaceAfter=No
+19	.	.	PUNCT	_	_	18	_	_	start_char=781|end_char=782
+
+# text = Последовала страшная бойня мирного населения, в которой Зеленский и его прислужники в рамках замысла западных спецслужб обвинили русскую армию.
+# sent_id = 9
+1	Последовала	последовать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	_	_	start_char=783|end_char=794
+2	страшная	страшный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	1	_	_	start_char=795|end_char=803
+3	бойня	бойня	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	_	_	start_char=804|end_char=809
+4	мирного	мирный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	_	_	start_char=810|end_char=817
+5	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	_	_	start_char=818|end_char=827|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=827|end_char=828
+7	в	в	ADP	_	_	6	_	_	start_char=829|end_char=830
+8	которой	который	PRON	_	Case=Loc|PronType=Int,Rel	7	_	_	start_char=831|end_char=838
+9	Зеленский	Зеленский	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	_	_	start_char=839|end_char=848
+10	и	и	CCONJ	_	_	9	_	_	start_char=849|end_char=850
+11	его	его	DET	_	Poss=Yes|PronType=Prs	10	_	_	start_char=851|end_char=854
+12	прислужники	прислужник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	11	_	_	start_char=855|end_char=866
+13	в	в	ADP	_	_	12	_	_	start_char=867|end_char=868
+14	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	13	_	_	start_char=869|end_char=875
+15	замысла	замысел	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	_	_	start_char=876|end_char=883
+16	западных	западный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	_	_	start_char=884|end_char=892
+17	спецслужб	спецслужба	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	16	_	_	start_char=893|end_char=902
+18	обвинили	обвинить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	17	_	_	start_char=903|end_char=911
+19	русскую	русский	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	18	_	_	start_char=912|end_char=919
+20	армию	армия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	19	_	_	start_char=920|end_char=925|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	_	_	start_char=925|end_char=926
+
+# text = Ложь о Буче продолжает всплывать до сих пор.
+# sent_id = 10
+1	Ложь	ложь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	_	_	start_char=927|end_char=931
+2	о	о	ADP	_	_	1	_	_	start_char=932|end_char=933
+3	Буче	Буча	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	_	_	start_char=934|end_char=938
+4	продолжает	продолжать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	_	_	start_char=939|end_char=949
+5	всплывать	всплывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	_	_	start_char=950|end_char=959
+6	до	до	ADP	_	_	5	_	_	start_char=960|end_char=962
+7	сих	сей	DET	_	Case=Gen|Number=Plur|PronType=Dem	6	_	_	start_char=963|end_char=966
+8	пор	пора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	_	_	start_char=967|end_char=970|SpaceAfter=No
+9	.	.	PUNCT	_	_	8	_	_	start_char=970|end_char=971
+
+# text = Теперь же подробности преступления стали известны из уст чешского наёмника в русофобской, казалось бы, Чехии.
+# sent_id = 11
+1	Теперь	теперь	ADV	_	Degree=Pos	0	_	_	start_char=972|end_char=978
+2	же	же	PART	_	_	1	_	_	start_char=979|end_char=981
+3	подробности	подробность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	2	_	_	start_char=982|end_char=993
+4	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	_	_	start_char=994|end_char=1006
+5	стали	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	4	_	_	start_char=1007|end_char=1012
+6	известны	известный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	5	_	_	start_char=1013|end_char=1021
+7	из	из	ADP	_	_	6	_	_	start_char=1022|end_char=1024
+8	уст	уста	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	7	_	_	start_char=1025|end_char=1028
+9	чешского	чешский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	_	_	start_char=1029|end_char=1037
+10	наёмника	наемник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	_	_	start_char=1038|end_char=1046
+11	в	в	ADP	_	_	10	_	_	start_char=1047|end_char=1048
+12	русофобской	русофобский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	11	_	_	start_char=1049|end_char=1060|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=1060|end_char=1061
+14	казалось	казаться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	13	_	_	start_char=1062|end_char=1070
+15	бы	бы	AUX	_	_	14	_	_	start_char=1071|end_char=1073|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	_	_	start_char=1073|end_char=1074
+17	Чехии	Чехия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	_	_	start_char=1075|end_char=1080|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	_	_	start_char=1080|end_char=1081
+
+# text = В Чехии, пишет aif.ru , Филиппа Симана обвиняют пока только в наёмничестве.
+# sent_id = 12
+1	В	в	ADP	_	_	0	_	_	start_char=1082|end_char=1083
+2	Чехии	Чехия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	_	_	start_char=1084|end_char=1089|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=1089|end_char=1090
+4	пишет	писать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	_	_	start_char=1091|end_char=1096
+5	aif.ru	aif.ru	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=1097|end_char=1103
+6	,	,	PUNCT	_	_	5	_	_	start_char=1104|end_char=1105
+7	Филиппа	Филипп	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	6	_	_	start_char=1106|end_char=1113
+8	Симана	Симан	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	7	_	_	start_char=1114|end_char=1120
+9	обвиняют	обвинять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	_	_	start_char=1121|end_char=1129
+10	пока	пока	ADV	_	Degree=Pos	9	_	_	start_char=1130|end_char=1134
+11	только	только	PART	_	_	10	_	_	start_char=1135|end_char=1141
+12	в	в	ADP	_	_	11	_	_	start_char=1142|end_char=1143
+13	наёмничестве	наемничество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	12	_	_	start_char=1144|end_char=1156|SpaceAfter=No
+14	.	.	PUNCT	_	_	13	_	_	start_char=1156|end_char=1157
+
+# text = А это максимум пять лет тюрьмы по чешским законам.
+# sent_id = 13
+1	А	а	CCONJ	_	_	0	_	_	start_char=1158|end_char=1159
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=1160|end_char=1163
+3	максимум	максимум	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	_	_	start_char=1164|end_char=1172
+4	пять	пять	NUM	_	Case=Nom|NumType=Card	3	_	_	start_char=1173|end_char=1177
+5	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	_	_	start_char=1178|end_char=1181
+6	тюрьмы	тюрьма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	_	_	start_char=1182|end_char=1188
+7	по	по	ADP	_	_	6	_	_	start_char=1189|end_char=1191
+8	чешским	чешский	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	7	_	_	start_char=1192|end_char=1199
+9	законам	закон	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	8	_	_	start_char=1200|end_char=1207|SpaceAfter=No
+10	.	.	PUNCT	_	_	9	_	_	start_char=1207|end_char=1208
+
+# text = Несмотря на все свои признания, он не признаёт вину в конкретных убийствах и мародёрстве.
+# sent_id = 14
+1	Несмотря	несмотря	ADV	_	Polarity=Neg	0	_	_	start_char=1209|end_char=1217
+2	на	на	ADP	_	_	1	_	_	start_char=1218|end_char=1220
+3	все	весь	DET	_	Case=Acc|Number=Plur|PronType=Tot	2	_	_	start_char=1221|end_char=1224
+4	свои	свой	DET	_	Case=Acc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	3	_	_	start_char=1225|end_char=1229
+5	признания	признание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	4	_	_	start_char=1230|end_char=1239|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=1239|end_char=1240
+7	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	_	_	start_char=1241|end_char=1243
+8	не	не	PART	_	_	7	_	_	start_char=1244|end_char=1246
+9	признаёт	признавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	_	_	start_char=1247|end_char=1255
+10	вину	вина	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	_	_	start_char=1256|end_char=1260
+11	в	в	ADP	_	_	10	_	_	start_char=1261|end_char=1262
+12	конкретных	конкретный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	11	_	_	start_char=1263|end_char=1273
+13	убийствах	убийство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	12	_	_	start_char=1274|end_char=1283
+14	и	и	CCONJ	_	_	13	_	_	start_char=1284|end_char=1285
+15	мародёрстве	мародерство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	14	_	_	start_char=1286|end_char=1297|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	_	_	start_char=1297|end_char=1298
+
+# text = И это учитывая тот факт, что в Чехию Симан вернулся со слитками золота и серебра в багаже.
+# sent_id = 15
+1	И	и	CCONJ	_	_	0	_	_	start_char=1299|end_char=1300
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=1301|end_char=1304
+3	учитывая	учитывать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	2	_	_	start_char=1305|end_char=1313
+4	тот	тот	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	3	_	_	start_char=1314|end_char=1317
+5	факт	факт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	_	_	start_char=1318|end_char=1322|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=1322|end_char=1323
+7	что	что	SCONJ	_	_	6	_	_	start_char=1324|end_char=1327
+8	в	в	ADP	_	_	7	_	_	start_char=1328|end_char=1329
+9	Чехию	Чехия	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	_	_	start_char=1330|end_char=1335
+10	Симан	Симан	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	_	_	start_char=1336|end_char=1341
+11	вернулся	вернуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	10	_	_	start_char=1342|end_char=1350
+12	со	с	ADP	_	_	11	_	_	start_char=1351|end_char=1353
+13	слитками	слитки	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	12	_	_	start_char=1354|end_char=1362
+14	золота	золото	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	_	_	start_char=1363|end_char=1369
+15	и	и	CCONJ	_	_	14	_	_	start_char=1370|end_char=1371
+16	серебра	серебро	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	_	_	start_char=1372|end_char=1379
+17	в	в	ADP	_	_	16	_	_	start_char=1380|end_char=1381
+18	багаже	багаж	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	17	_	_	start_char=1382|end_char=1388|SpaceAfter=No
+19	.	.	PUNCT	_	_	18	_	_	start_char=1388|end_char=1389
+
+# text = За мародёрство ему грозит до 30 лет - совсем другой срок.
+# sent_id = 16
+1	За	за	ADP	_	_	0	_	_	start_char=1390|end_char=1392
+2	мародёрство	мародерство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	_	_	start_char=1393|end_char=1404
+3	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	_	_	start_char=1405|end_char=1408
+4	грозит	грозить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	_	_	start_char=1409|end_char=1415
+5	до	до	ADP	_	_	4	_	_	start_char=1416|end_char=1418
+6	30	30	NUM	_	NumType=Card	5	_	_	start_char=1419|end_char=1421
+7	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	_	_	start_char=1422|end_char=1425
+8	-	-	PUNCT	_	_	7	_	_	start_char=1426|end_char=1427
+9	совсем	совсем	ADV	_	Degree=Pos	8	_	_	start_char=1428|end_char=1434
+10	другой	другой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	_	_	start_char=1435|end_char=1441
+11	срок	срок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	_	_	start_char=1442|end_char=1446|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	_	_	start_char=1446|end_char=1447
+
+# text = КОЛЛАЖ ЦАРЬГРАДА.
+# sent_id = 17
+1	КОЛЛАЖ	коллаж	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=1448|end_char=1454
+2	ЦАРЬГРАДА	ЦАРЬГРАД	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	1	_	_	start_char=1455|end_char=1464|SpaceAfter=No
+3	.	.	PUNCT	_	_	2	_	_	start_char=1464|end_char=1465
+
+# text = Симан признал, что поехал воевать без разрешения властей Чехии, но догадался привести заявление чешского же премьера Петра Фиалы.
+# sent_id = 18
+1	Симан	Симан	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=1466|end_char=1471
+2	признал	признать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=1472|end_char=1479|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=1479|end_char=1480
+4	что	что	SCONJ	_	_	3	_	_	start_char=1481|end_char=1484
+5	поехал	поехать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	_	_	start_char=1485|end_char=1491
+6	воевать	воевать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	_	_	start_char=1492|end_char=1499
+7	без	без	ADP	_	_	6	_	_	start_char=1500|end_char=1503
+8	разрешения	разрешение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	_	_	start_char=1504|end_char=1514
+9	властей	власть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	_	_	start_char=1515|end_char=1522
+10	Чехии	Чехия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	_	_	start_char=1523|end_char=1528|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=1528|end_char=1529
+12	но	но	CCONJ	_	_	11	_	_	start_char=1530|end_char=1532
+13	догадался	догадаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	12	_	_	start_char=1533|end_char=1542
+14	привести	привести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	13	_	_	start_char=1543|end_char=1551
+15	заявление	заявление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	14	_	_	start_char=1552|end_char=1561
+16	чешского	чешский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	15	_	_	start_char=1562|end_char=1570
+17	же	же	PART	_	_	16	_	_	start_char=1571|end_char=1573
+18	премьера	премьер	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	17	_	_	start_char=1574|end_char=1582
+19	Петра	Петр	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	18	_	_	start_char=1583|end_char=1588
+20	Фиалы	Фиал	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	19	_	_	start_char=1589|end_char=1594|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	_	_	start_char=1594|end_char=1595
+
+# text = ""Мы можем гарантировать безнаказанность этим людям в случае, если им будет угрожать уголовное преследование"", - заявил Фиала, имея в виду чешских наёмников в зоне конфликта с русскими ещё в марте 2022 года.
+# sent_id = 19
+1	"	"	PUNCT	_	_	0	_	_	start_char=1596|end_char=1597|SpaceAfter=No
+2	"	"	PUNCT	_	_	1	_	_	start_char=1597|end_char=1598|SpaceAfter=No
+3	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	_	_	start_char=1598|end_char=1600
+4	можем	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	_	_	start_char=1601|end_char=1606
+5	гарантировать	гарантировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	_	_	start_char=1607|end_char=1620
+6	безнаказанность	безнаказанность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	_	_	start_char=1621|end_char=1636
+7	этим	этот	DET	_	Case=Dat|Number=Plur|PronType=Dem	6	_	_	start_char=1637|end_char=1641
+8	людям	человек	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	7	_	_	start_char=1642|end_char=1647
+9	в	в	ADP	_	_	8	_	_	start_char=1648|end_char=1649
+10	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	_	_	start_char=1650|end_char=1656|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=1656|end_char=1657
+12	если	если	SCONJ	_	_	11	_	_	start_char=1658|end_char=1662
+13	им	они	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	12	_	_	start_char=1663|end_char=1665
+14	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	_	_	start_char=1666|end_char=1671
+15	угрожать	угрожать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	14	_	_	start_char=1672|end_char=1680
+16	уголовное	уголовный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	15	_	_	start_char=1681|end_char=1690
+17	преследование	преследование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	16	_	_	start_char=1691|end_char=1704|SpaceAfter=No
+18	"	"	PUNCT	_	_	17	_	_	start_char=1704|end_char=1705|SpaceAfter=No
+19	"	"	PUNCT	_	_	18	_	_	start_char=1705|end_char=1706|SpaceAfter=No
+20	,	,	PUNCT	_	_	19	_	_	start_char=1706|end_char=1707
+21	-	-	PUNCT	_	_	20	_	_	start_char=1708|end_char=1709
+22	заявил	заявить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	21	_	_	start_char=1710|end_char=1716
+23	Фиала	Фиал	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	22	_	_	start_char=1717|end_char=1722|SpaceAfter=No
+24	,	,	PUNCT	_	_	23	_	_	start_char=1722|end_char=1723
+25	имея	иметь	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	24	_	_	start_char=1724|end_char=1728
+26	в	в	ADP	_	_	25	_	_	start_char=1729|end_char=1730
+27	виду	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	26	_	_	start_char=1731|end_char=1735
+28	чешских	чешский	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Number=Plur	27	_	_	start_char=1736|end_char=1743
+29	наёмников	наемник	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	28	_	_	start_char=1744|end_char=1753
+30	в	в	ADP	_	_	29	_	_	start_char=1754|end_char=1755
+31	зоне	зона	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	30	_	_	start_char=1756|end_char=1760
+32	конфликта	конфликт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	31	_	_	start_char=1761|end_char=1770
+33	с	с	ADP	_	_	32	_	_	start_char=1771|end_char=1772
+34	русскими	русский	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	33	_	_	start_char=1773|end_char=1781
+35	ещё	еще	ADV	_	Degree=Pos	34	_	_	start_char=1782|end_char=1785
+36	в	в	ADP	_	_	35	_	_	start_char=1786|end_char=1787
+37	марте	март	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	36	_	_	start_char=1788|end_char=1793
+38	2022	2022	ADJ	_	Degree=Pos	37	_	_	start_char=1794|end_char=1798
+39	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	38	_	_	start_char=1799|end_char=1803|SpaceAfter=No
+40	.	.	PUNCT	_	_	39	_	_	start_char=1803|end_char=1804
+
+# text = Далеко не всем наёмникам везёт так же, как Филиппу Симану.
+# sent_id = 20
+1	Далеко	далеко	ADV	_	Degree=Pos	0	_	_	start_char=1805|end_char=1811
+2	не	не	PART	_	_	1	_	_	start_char=1812|end_char=1814
+3	всем	весь	DET	_	Case=Dat|Number=Plur|PronType=Tot	2	_	_	start_char=1815|end_char=1819
+4	наёмникам	наемник	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	3	_	_	start_char=1820|end_char=1829
+5	везёт	везти	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	_	_	start_char=1830|end_char=1835
+6	так	так	ADV	_	Degree=Pos	5	_	_	start_char=1836|end_char=1839
+7	же	же	PART	_	_	6	_	_	start_char=1840|end_char=1842|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=1842|end_char=1843
+9	как	как	SCONJ	_	_	8	_	_	start_char=1844|end_char=1847
+10	Филиппу	Филипп	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	9	_	_	start_char=1848|end_char=1855
+11	Симану	Симан	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	10	_	_	start_char=1856|end_char=1862|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	_	_	start_char=1862|end_char=1863
+
+# text = Тот хотя бы смог вернуться на родину.
+# sent_id = 21
+1	Тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	0	_	_	start_char=1864|end_char=1867
+2	хотя	хотя	PART	_	_	1	_	_	start_char=1868|end_char=1872
+3	бы	бы	PART	_	_	2	_	_	start_char=1873|end_char=1875
+4	смог	мочь	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	_	_	start_char=1876|end_char=1880
+5	вернуться	вернуться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	4	_	_	start_char=1881|end_char=1890
+6	на	на	ADP	_	_	5	_	_	start_char=1891|end_char=1893
+7	родину	родина	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	_	_	start_char=1894|end_char=1900|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	_	_	start_char=1900|end_char=1901
+
+# text = Правда, чтобы предстать перед судом.
+# sent_id = 22
+1	Правда	правда	ADV	_	Degree=Pos	0	_	_	start_char=1902|end_char=1908|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	_	_	start_char=1908|end_char=1909
+3	чтобы	чтобы	SCONJ	_	Mood=Cnd	2	_	_	start_char=1910|end_char=1915
+4	предстать	предстать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	_	_	start_char=1916|end_char=1925
+5	перед	перед	ADP	_	_	4	_	_	start_char=1926|end_char=1931
+6	судом	суд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	_	_	start_char=1932|end_char=1937|SpaceAfter=No
+7	.	.	PUNCT	_	_	6	_	_	start_char=1937|end_char=1938
+
+# text = В июне группа литовских наёмников попала под обстрел в Покровске .
+# sent_id = 23
+1	В	в	ADP	_	_	0	_	_	start_char=1939|end_char=1940
+2	июне	июнь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	_	_	start_char=1941|end_char=1945
+3	группа	группа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	_	_	start_char=1946|end_char=1952
+4	литовских	литовский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	_	_	start_char=1953|end_char=1962
+5	наёмников	наемник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	_	_	start_char=1963|end_char=1972
+6	попала	попасть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	_	_	start_char=1973|end_char=1979
+7	под	под	ADP	_	_	6	_	_	start_char=1980|end_char=1983
+8	обстрел	обстрел	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	_	_	start_char=1984|end_char=1991
+9	в	в	ADP	_	_	8	_	_	start_char=1992|end_char=1993
+10	Покровске	Покровск	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	_	_	start_char=1994|end_char=2003
+11	.	.	PUNCT	_	_	10	_	_	start_char=2004|end_char=2005
+
+# text = В результате огненного шквала, обрушившегося на них, боевики получили ранения.
+# sent_id = 24
+1	В	в	ADP	_	_	0	_	_	start_char=2006|end_char=2007
+2	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	_	_	start_char=2008|end_char=2018
+3	огненного	огненный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	2	_	_	start_char=2019|end_char=2028
+4	шквала	шквало	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=2029|end_char=2035|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=2035|end_char=2036
+6	обрушившегося	обрушиться	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	5	_	_	start_char=2037|end_char=2050
+7	на	на	ADP	_	_	6	_	_	start_char=2051|end_char=2053
+8	них	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	7	_	_	start_char=2054|end_char=2057|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=2057|end_char=2058
+10	боевики	боевик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	9	_	_	start_char=2059|end_char=2066
+11	получили	получить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	10	_	_	start_char=2067|end_char=2075
+12	ранения	ранение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	11	_	_	start_char=2076|end_char=2083|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=2083|end_char=2084
+
+# text = Одному серьёзно повредило ногу - её пришлось ампутировать.
+# sent_id = 25
+1	Одному	один	NUM	_	Case=Dat|Gender=Masc|NumType=Card	0	_	_	start_char=2085|end_char=2091
+2	серьёзно	серьезно	ADV	_	Degree=Pos	1	_	_	start_char=2092|end_char=2100
+3	повредило	повредить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=2101|end_char=2110
+4	ногу	нога	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	_	_	start_char=2111|end_char=2115
+5	-	-	PUNCT	_	_	4	_	_	start_char=2116|end_char=2117
+6	её	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	_	_	start_char=2118|end_char=2120
+7	пришлось	прийтись	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	6	_	_	start_char=2121|end_char=2129
+8	ампутировать	ампутировать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	_	_	start_char=2130|end_char=2142|SpaceAfter=No
+9	.	.	PUNCT	_	_	8	_	_	start_char=2142|end_char=2143
+
+# text = Домой литовец вернулся калекой.
+# sent_id = 26
+1	Домой	домой	ADV	_	Degree=Pos	0	_	_	start_char=2144|end_char=2149
+2	литовец	литовец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=2150|end_char=2157
+3	вернулся	вернуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	_	_	start_char=2158|end_char=2166
+4	калекой	калеко	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	3	_	_	start_char=2167|end_char=2174|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	_	_	start_char=2174|end_char=2175
+
+# text = Ещё один получил ранение в руку, остальных сильно контузило.
+# sent_id = 27
+1	Ещё	еще	ADV	_	Degree=Pos	0	_	_	start_char=2176|end_char=2179
+2	один	один	NUM	_	Case=Nom|Gender=Masc|NumType=Card	1	_	_	start_char=2180|end_char=2184
+3	получил	получить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=2185|end_char=2192
+4	ранение	ранение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	_	_	start_char=2193|end_char=2200
+5	в	в	ADP	_	_	4	_	_	start_char=2201|end_char=2202
+6	руку	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	_	_	start_char=2203|end_char=2207|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	_	_	start_char=2207|end_char=2208
+8	остальных	остальной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	_	_	start_char=2209|end_char=2218
+9	сильно	сильно	ADV	_	Degree=Pos	8	_	_	start_char=2219|end_char=2225
+10	контузило	контузить	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	_	_	start_char=2226|end_char=2235|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	_	_	start_char=2235|end_char=2236
+
+# text = И таких примеров - тысячи.
+# sent_id = 28
+1	И	и	CCONJ	_	_	0	_	_	start_char=2237|end_char=2238
+2	таких	такой	DET	_	Case=Gen|Number=Plur|PronType=Dem	1	_	_	start_char=2239|end_char=2244
+3	примеров	пример	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	_	_	start_char=2245|end_char=2253
+4	-	-	PUNCT	_	_	3	_	_	start_char=2254|end_char=2255
+5	тысячи	тысяча	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	4	_	_	start_char=2256|end_char=2262|SpaceAfter=No
+6	.	.	PUNCT	_	_	5	_	_	start_char=2262|end_char=2263
+
+# text = Наёмников на стороне неприятеля остаётся всё меньше.
+# sent_id = 29
+1	Наёмников	наемник	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	0	_	_	start_char=2264|end_char=2273
+2	на	на	ADP	_	_	1	_	_	start_char=2274|end_char=2276
+3	стороне	сторона	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	_	_	start_char=2277|end_char=2284
+4	неприятеля	неприятель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=2285|end_char=2295
+5	остаётся	оставаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	_	_	start_char=2296|end_char=2304
+6	всё	все	PART	_	_	5	_	_	start_char=2305|end_char=2308
+7	меньше	мало	ADV	_	Degree=Cmp	6	_	_	start_char=2309|end_char=2315|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	_	_	start_char=2315|end_char=2316
+
+# text = Украинско-западная и российская версии событий в Буче в начале апреля 2022 года в течение всего периода до настоящего времени оставались противоположными.
+# sent_id = 30
+1	Украинско	украинско	ADJ	_	Degree=Pos	0	_	_	start_char=2317|end_char=2326|SpaceAfter=No
+2	-	-	PUNCT	_	_	1	_	_	start_char=2326|end_char=2327|SpaceAfter=No
+3	западная	западный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	_	_	start_char=2327|end_char=2335
+4	и	и	CCONJ	_	_	3	_	_	start_char=2336|end_char=2337
+5	российская	российский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	_	_	start_char=2338|end_char=2348
+6	версии	версия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	5	_	_	start_char=2349|end_char=2355
+7	событий	событие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	6	_	_	start_char=2356|end_char=2363
+8	в	в	ADP	_	_	7	_	_	start_char=2364|end_char=2365
+9	Буче	Буча	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	_	_	start_char=2366|end_char=2370
+10	в	в	ADP	_	_	9	_	_	start_char=2371|end_char=2372
+11	начале	начало	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	10	_	_	start_char=2373|end_char=2379
+12	апреля	апрель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	_	_	start_char=2380|end_char=2386
+13	2022	2022	ADJ	_	Degree=Pos	12	_	_	start_char=2387|end_char=2391
+14	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	_	_	start_char=2392|end_char=2396
+15	в	в	ADP	_	_	14	_	_	start_char=2397|end_char=2398
+16	течение	течение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	15	_	_	start_char=2399|end_char=2406
+17	всего	весь	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Tot	16	_	_	start_char=2407|end_char=2412
+18	периода	период	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	_	_	start_char=2413|end_char=2420
+19	до	до	ADP	_	_	18	_	_	start_char=2421|end_char=2423
+20	настоящего	настоящий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	19	_	_	start_char=2424|end_char=2434
+21	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	_	_	start_char=2435|end_char=2442
+22	оставались	оставаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	21	_	_	start_char=2443|end_char=2453
+23	противоположными	противоположный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	22	_	_	start_char=2454|end_char=2470|SpaceAfter=No
+24	.	.	PUNCT	_	_	23	_	_	start_char=2470|end_char=2471
+
+# text = Подборка видео с обеими версиями - Пару дней погудят, потом создадут отвлекающий инфоповод ( или два) и переключат внимание на что-то другое, какая-нибудь Буча2.0.
+# sent_id = 31
+1	Подборка	подборка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	_	_	start_char=2472|end_char=2480
+2	видео	видео	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	_	_	start_char=2481|end_char=2486
+3	с	с	ADP	_	_	2	_	_	start_char=2487|end_char=2488
+4	обеими	оба	NUM	_	Case=Ins|NumType=Card	3	_	_	start_char=2489|end_char=2495
+5	версиями	версия	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	4	_	_	start_char=2496|end_char=2504
+6	-	-	PUNCT	_	_	5	_	_	start_char=2505|end_char=2506
+7	Пару	пара	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	_	_	start_char=2507|end_char=2511
+8	дней	день	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	_	_	start_char=2512|end_char=2516
+9	погудят	погудеть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	8	_	_	start_char=2517|end_char=2524|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=2524|end_char=2525
+11	потом	потом	ADV	_	Degree=Pos	10	_	_	start_char=2526|end_char=2531
+12	создадут	создать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	11	_	_	start_char=2532|end_char=2540
+13	отвлекающий	отвлекать	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	12	_	_	start_char=2541|end_char=2552
+14	инфоповод	инфоповод	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	_	_	start_char=2553|end_char=2562
+15	(	(	PUNCT	_	_	14	_	_	start_char=2563|end_char=2564
+16	или	или	CCONJ	_	_	15	_	_	start_char=2565|end_char=2568
+17	два	два	NUM	_	Case=Nom|Gender=Masc|NumType=Card	16	_	_	start_char=2569|end_char=2572|SpaceAfter=No
+18	)	)	PUNCT	_	_	17	_	_	start_char=2572|end_char=2573
+19	и	и	CCONJ	_	_	18	_	_	start_char=2574|end_char=2575
+20	переключат	переключить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	_	_	start_char=2576|end_char=2586
+21	внимание	внимание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	20	_	_	start_char=2587|end_char=2595
+22	на	на	ADP	_	_	21	_	_	start_char=2596|end_char=2598
+23	что-то	что-то	PRON	_	Case=Acc|PronType=Ind	22	_	_	start_char=2599|end_char=2605
+24	другое	другой	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	23	_	_	start_char=2606|end_char=2612|SpaceAfter=No
+25	,	,	PUNCT	_	_	24	_	_	start_char=2612|end_char=2613
+26	какая-нибудь	какой-нибудь	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	25	_	_	start_char=2614|end_char=2626
+27	Буча2.0	Буча2.0	PROPN	_	_	26	_	_	start_char=2627|end_char=2634|SpaceAfter=No
+28	.	.	PUNCT	_	_	27	_	_	start_char=2634|end_char=2635
+
+# text = Первый раз что ли.
+# sent_id = 32
+1	Первый	первый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	0	_	_	start_char=2636|end_char=2642
+2	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	_	_	start_char=2643|end_char=2646
+3	что	что	PRON	_	Case=Nom|PronType=Int,Rel	2	_	_	start_char=2647|end_char=2650
+4	ли	ли	PART	_	_	3	_	_	start_char=2651|end_char=2653|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	_	_	start_char=2653|end_char=2654
+
+# text = Уроды."
+# sent_id = 33
+1	Уроды	урод	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	0	_	_	start_char=2655|end_char=2660|SpaceAfter=No
+2	.	.	PUNCT	_	_	1	_	_	start_char=2660|end_char=2661|SpaceAfter=No
+3	"	"	PUNCT	_	_	2	_	_	start_char=2661|end_char=2662|SpaceAfter=No
+

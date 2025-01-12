@@ -1,0 +1,325 @@
+# text = "Одномоментно": Путин рассказал, как остановить боевые действия на Украине и сохранить жизни людей.
+# sent_id = 0
+1	"	"	PUNCT	_	_	0	_	_	start_char=0|end_char=1|SpaceAfter=No
+2	Одномоментно	одномоментный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	1	_	_	start_char=1|end_char=13|SpaceAfter=No
+3	"	"	PUNCT	_	_	2	_	_	start_char=13|end_char=14|SpaceAfter=No
+4	:	:	PUNCT	_	_	3	_	_	start_char=14|end_char=15
+5	Путин	Путин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=16|end_char=21
+6	рассказал	рассказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	_	_	start_char=22|end_char=31|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	_	_	start_char=31|end_char=32
+8	как	как	ADV	_	Degree=Pos	7	_	_	start_char=33|end_char=36
+9	остановить	остановить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	_	_	start_char=37|end_char=47
+10	боевые	боевой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	9	_	_	start_char=48|end_char=54
+11	действия	действие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	10	_	_	start_char=55|end_char=63
+12	на	на	ADP	_	_	11	_	_	start_char=64|end_char=66
+13	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	_	_	start_char=67|end_char=74
+14	и	и	CCONJ	_	_	13	_	_	start_char=75|end_char=76
+15	сохранить	сохранить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	14	_	_	start_char=77|end_char=86
+16	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	15	_	_	start_char=87|end_char=92
+17	людей	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	16	_	_	start_char=93|end_char=98|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	_	_	start_char=98|end_char=99
+
+# text = Путин: согласие Киева и Запада на мирный план РФ может остановить конфликт Согласие Киева и его западных кураторов на предложения России по урегулированию конфликта на Украине позволит немедленно прекратить боевые действия и начать мирные переговоры.
+# sent_id = 1
+1	Путин	Путин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=100|end_char=105|SpaceAfter=No
+2	:	:	PUNCT	_	_	1	_	_	start_char=105|end_char=106
+3	согласие	согласие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	_	_	start_char=107|end_char=115
+4	Киева	Киев	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=116|end_char=121
+5	и	и	CCONJ	_	_	4	_	_	start_char=122|end_char=123
+6	Запада	Запад	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	_	_	start_char=124|end_char=130
+7	на	на	ADP	_	_	6	_	_	start_char=131|end_char=133
+8	мирный	мирный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	_	_	start_char=134|end_char=140
+9	план	план	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	_	_	start_char=141|end_char=145
+10	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	_	_	start_char=146|end_char=148
+11	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	_	_	start_char=149|end_char=154
+12	остановить	остановить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	11	_	_	start_char=155|end_char=165
+13	конфликт	конфликт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	_	_	start_char=166|end_char=174
+14	Согласие	Согласие	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	13	_	_	start_char=175|end_char=183
+15	Киева	Киев	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	_	_	start_char=184|end_char=189
+16	и	и	CCONJ	_	_	15	_	_	start_char=190|end_char=191
+17	его	его	DET	_	Poss=Yes|PronType=Prs	16	_	_	start_char=192|end_char=195
+18	западных	западный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	17	_	_	start_char=196|end_char=204
+19	кураторов	куратор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	18	_	_	start_char=205|end_char=214
+20	на	на	ADP	_	_	19	_	_	start_char=215|end_char=217
+21	предложения	предложение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	20	_	_	start_char=218|end_char=229
+22	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	_	_	start_char=230|end_char=236
+23	по	по	ADP	_	_	22	_	_	start_char=237|end_char=239
+24	урегулированию	урегулирование	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	23	_	_	start_char=240|end_char=254
+25	конфликта	конфликт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	24	_	_	start_char=255|end_char=264
+26	на	на	ADP	_	_	25	_	_	start_char=265|end_char=267
+27	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	26	_	_	start_char=268|end_char=275
+28	позволит	позволить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	27	_	_	start_char=276|end_char=284
+29	немедленно	немедленно	ADV	_	Degree=Pos	28	_	_	start_char=285|end_char=295
+30	прекратить	прекратить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	29	_	_	start_char=296|end_char=306
+31	боевые	боевой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	30	_	_	start_char=307|end_char=313
+32	действия	действие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	31	_	_	start_char=314|end_char=322
+33	и	и	CCONJ	_	_	32	_	_	start_char=323|end_char=324
+34	начать	начать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	33	_	_	start_char=325|end_char=331
+35	мирные	мирный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	34	_	_	start_char=332|end_char=338
+36	переговоры	переговоры	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	35	_	_	start_char=339|end_char=349|SpaceAfter=No
+37	.	.	PUNCT	_	_	36	_	_	start_char=349|end_char=350
+
+# text = Такое заявление президент РФ Владимир Путин сделал на заседании совета глав государств-членов Шанхайской организации сотрудничества (ШОС) в Астане.
+# sent_id = 2
+1	Такое	такой	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	0	_	_	start_char=351|end_char=356
+2	заявление	заявление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	_	_	start_char=357|end_char=366
+3	президент	президент	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	_	_	start_char=367|end_char=376
+4	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	_	_	start_char=377|end_char=379
+5	Владимир	Владимир	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=380|end_char=388
+6	Путин	Путин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	_	_	start_char=389|end_char=394
+7	сделал	делать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	_	_	start_char=395|end_char=401
+8	на	на	ADP	_	_	7	_	_	start_char=402|end_char=404
+9	заседании	заседание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	8	_	_	start_char=405|end_char=414
+10	совета	совет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	_	_	start_char=415|end_char=421
+11	глав	глава	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	10	_	_	start_char=422|end_char=426
+12	государств	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	11	_	_	start_char=427|end_char=437|SpaceAfter=No
+13	-	-	PUNCT	_	_	12	_	_	start_char=437|end_char=438|SpaceAfter=No
+14	членов	член	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	13	_	_	start_char=438|end_char=444
+15	Шанхайской	шанхайский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	14	_	_	start_char=445|end_char=455
+16	организации	организация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	_	_	start_char=456|end_char=467
+17	сотрудничества	сотрудничество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	_	_	start_char=468|end_char=482
+18	(	(	PUNCT	_	_	17	_	_	start_char=483|end_char=484|SpaceAfter=No
+19	ШОС	ШОС	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	18	_	_	start_char=484|end_char=487|SpaceAfter=No
+20	)	)	PUNCT	_	_	19	_	_	start_char=487|end_char=488
+21	в	в	ADP	_	_	20	_	_	start_char=489|end_char=490
+22	Астане	Астана	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	21	_	_	start_char=491|end_char=497|SpaceAfter=No
+23	.	.	PUNCT	_	_	22	_	_	start_char=497|end_char=498
+
+# text = Российский лидер подчеркнул, что Москва неоднократно выдвигала инициативы по разрешению украинского вопроса.
+# sent_id = 3
+1	Российский	российский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	_	_	start_char=499|end_char=509
+2	лидер	лидер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=510|end_char=515
+3	подчеркнул	подчеркнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=516|end_char=526|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=526|end_char=527
+5	что	что	SCONJ	_	_	4	_	_	start_char=528|end_char=531
+6	Москва	Москва	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	_	_	start_char=532|end_char=538
+7	неоднократно	неоднократно	ADV	_	Degree=Pos	6	_	_	start_char=539|end_char=551
+8	выдвигала	выдвигать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	_	_	start_char=552|end_char=561
+9	инициативы	инициатива	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	8	_	_	start_char=562|end_char=572
+10	по	по	ADP	_	_	9	_	_	start_char=573|end_char=575
+11	разрешению	разрешение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	10	_	_	start_char=576|end_char=586
+12	украинского	украинский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	11	_	_	start_char=587|end_char=598
+13	вопроса	вопрос	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	_	_	start_char=599|end_char=606|SpaceAfter=No
+14	.	.	PUNCT	_	_	13	_	_	start_char=606|end_char=607
+
+# text = Последний раз Кремль выступил с мирными предложениями в середине июня, отметил Путин.
+# sent_id = 4
+1	Последний	последний	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	0	_	_	start_char=608|end_char=617
+2	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	_	_	start_char=618|end_char=621
+3	Кремль	Кремль	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	_	_	start_char=622|end_char=628
+4	выступил	выступить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	_	_	start_char=629|end_char=637
+5	с	с	ADP	_	_	4	_	_	start_char=638|end_char=639
+6	мирными	мирный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	5	_	_	start_char=640|end_char=647
+7	предложениями	предложение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	6	_	_	start_char=648|end_char=661
+8	в	в	ADP	_	_	7	_	_	start_char=662|end_char=663
+9	середине	середина	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	_	_	start_char=664|end_char=672
+10	июня	июнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	_	_	start_char=673|end_char=677|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=677|end_char=678
+12	отметил	отметить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	_	_	start_char=679|end_char=686
+13	Путин	Путин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	_	_	start_char=687|end_char=692|SpaceAfter=No
+14	.	.	PUNCT	_	_	13	_	_	start_char=692|end_char=693
+
+# text = "Напомню, что в середине июня нами представлен еще один вариант урегулирования, который, в случае готовности украинской стороны, а главное — её западных спонсоров принять его, позволило бы буквально одномоментно, немедленно прекратить боевые действия, сохранить человеческие жизни и начать переговоры", — сказал российский лидер во время выступления.
+# sent_id = 5
+1	"	"	PUNCT	_	_	0	_	_	start_char=694|end_char=695|SpaceAfter=No
+2	Напомню	напомнить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	1	_	_	start_char=695|end_char=702|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=702|end_char=703
+4	что	что	SCONJ	_	_	3	_	_	start_char=704|end_char=707
+5	в	в	ADP	_	_	4	_	_	start_char=708|end_char=709
+6	середине	середина	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	_	_	start_char=710|end_char=718
+7	июня	июнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	_	_	start_char=719|end_char=723
+8	нами	мы	PRON	_	Case=Ins|Number=Plur|Person=1|PronType=Prs	7	_	_	start_char=724|end_char=728
+9	представлен	представить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	8	_	_	start_char=729|end_char=740
+10	еще	еще	ADV	_	Degree=Pos	9	_	_	start_char=741|end_char=744
+11	один	один	NUM	_	Case=Nom|Gender=Masc|NumType=Card	10	_	_	start_char=745|end_char=749
+12	вариант	вариант	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	_	_	start_char=750|end_char=757
+13	урегулирования	урегулирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	_	_	start_char=758|end_char=772|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	_	_	start_char=772|end_char=773
+15	который	который	PRON	_	Case=Nom|PronType=Int,Rel	14	_	_	start_char=774|end_char=781|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	_	_	start_char=781|end_char=782
+17	в	в	ADP	_	_	16	_	_	start_char=783|end_char=784
+18	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	17	_	_	start_char=785|end_char=791
+19	готовности	готовность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	_	_	start_char=792|end_char=802
+20	украинской	украинский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	19	_	_	start_char=803|end_char=813
+21	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	_	_	start_char=814|end_char=821|SpaceAfter=No
+22	,	,	PUNCT	_	_	21	_	_	start_char=821|end_char=822
+23	а	а	CCONJ	_	_	22	_	_	start_char=823|end_char=824
+24	главное	главное	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	23	_	_	start_char=825|end_char=832
+25	—	—	PUNCT	_	_	24	_	_	start_char=833|end_char=834
+26	её	ее	DET	_	Poss=Yes|PronType=Prs	25	_	_	start_char=835|end_char=837
+27	западных	западный	ADJ	_	Animacy=Anim|Case=Gen|Degree=Pos|Number=Plur	26	_	_	start_char=838|end_char=846
+28	спонсоров	спонсор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	27	_	_	start_char=847|end_char=856
+29	принять	принять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	28	_	_	start_char=857|end_char=864
+30	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	_	_	start_char=865|end_char=868|SpaceAfter=No
+31	,	,	PUNCT	_	_	30	_	_	start_char=868|end_char=869
+32	позволило	позволить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	31	_	_	start_char=870|end_char=879
+33	бы	бы	AUX	_	_	32	_	_	start_char=880|end_char=882
+34	буквально	буквально	ADV	_	Degree=Pos	33	_	_	start_char=883|end_char=892
+35	одномоментно	одномоментно	ADV	_	Degree=Pos	34	_	_	start_char=893|end_char=905|SpaceAfter=No
+36	,	,	PUNCT	_	_	35	_	_	start_char=905|end_char=906
+37	немедленно	немедленно	ADV	_	Degree=Pos	36	_	_	start_char=907|end_char=917
+38	прекратить	прекратить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	37	_	_	start_char=918|end_char=928
+39	боевые	боевой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	38	_	_	start_char=929|end_char=935
+40	действия	действие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	39	_	_	start_char=936|end_char=944|SpaceAfter=No
+41	,	,	PUNCT	_	_	40	_	_	start_char=944|end_char=945
+42	сохранить	сохранить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	41	_	_	start_char=946|end_char=955
+43	человеческие	человеческий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	42	_	_	start_char=956|end_char=968
+44	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	43	_	_	start_char=969|end_char=974
+45	и	и	CCONJ	_	_	44	_	_	start_char=975|end_char=976
+46	начать	начать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	45	_	_	start_char=977|end_char=983
+47	переговоры	переговоры	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	46	_	_	start_char=984|end_char=994|SpaceAfter=No
+48	"	"	PUNCT	_	_	47	_	_	start_char=994|end_char=995|SpaceAfter=No
+49	,	,	PUNCT	_	_	48	_	_	start_char=995|end_char=996
+50	—	—	PUNCT	_	_	49	_	_	start_char=997|end_char=998
+51	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	50	_	_	start_char=999|end_char=1005
+52	российский	российский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	51	_	_	start_char=1006|end_char=1016
+53	лидер	лидер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	52	_	_	start_char=1017|end_char=1022
+54	во	в	ADP	_	_	53	_	_	start_char=1023|end_char=1025
+55	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	54	_	_	start_char=1026|end_char=1031
+56	выступления	выступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	55	_	_	start_char=1032|end_char=1043|SpaceAfter=No
+57	.	.	PUNCT	_	_	56	_	_	start_char=1043|end_char=1044
+
+# text = Путин также выразил признательность главам стран ШОС за предложения по урегулированию конфликта и отметил, что Россия готова их учитывать.
+# sent_id = 6
+1	Путин	Путин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=1045|end_char=1050
+2	также	также	ADV	_	Degree=Pos	1	_	_	start_char=1051|end_char=1056
+3	выразил	выразить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=1057|end_char=1064
+4	признательность	признательность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	_	_	start_char=1065|end_char=1080
+5	главам	глава	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	4	_	_	start_char=1081|end_char=1087
+6	стран	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	_	_	start_char=1088|end_char=1093
+7	ШОС	ШОС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	_	_	start_char=1094|end_char=1097
+8	за	за	ADP	_	_	7	_	_	start_char=1098|end_char=1100
+9	предложения	предложение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	8	_	_	start_char=1101|end_char=1112
+10	по	по	ADP	_	_	9	_	_	start_char=1113|end_char=1115
+11	урегулированию	урегулирование	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	10	_	_	start_char=1116|end_char=1130
+12	конфликта	конфликт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	_	_	start_char=1131|end_char=1140
+13	и	и	CCONJ	_	_	12	_	_	start_char=1141|end_char=1142
+14	отметил	отметить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	_	_	start_char=1143|end_char=1150|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=1150|end_char=1151
+16	что	что	SCONJ	_	_	15	_	_	start_char=1152|end_char=1155
+17	Россия	Россия	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	16	_	_	start_char=1156|end_char=1162
+18	готова	готовый	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	17	_	_	start_char=1163|end_char=1169
+19	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	18	_	_	start_char=1170|end_char=1172
+20	учитывать	учитывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	19	_	_	start_char=1173|end_char=1182|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	_	_	start_char=1182|end_char=1183
+
+# text = По словам президента РФ, Москва, как и ранее, выступает за "мирное, политико-дипломатическое разрешение ситуации".
+# sent_id = 7
+1	По	по	ADP	_	_	0	_	_	start_char=1184|end_char=1186
+2	словам	слово	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	1	_	_	start_char=1187|end_char=1193
+3	президента	президент	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	_	_	start_char=1194|end_char=1204
+4	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	_	_	start_char=1205|end_char=1207|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=1207|end_char=1208
+6	Москва	Москва	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	_	_	start_char=1209|end_char=1215|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	_	_	start_char=1215|end_char=1216
+8	как	как	SCONJ	_	_	7	_	_	start_char=1217|end_char=1220
+9	и	и	PART	_	_	8	_	_	start_char=1221|end_char=1222
+10	ранее	ранее	ADV	_	Degree=Pos	9	_	_	start_char=1223|end_char=1228|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=1228|end_char=1229
+12	выступает	выступать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	_	_	start_char=1230|end_char=1239
+13	за	за	ADP	_	_	12	_	_	start_char=1240|end_char=1242
+14	"	"	PUNCT	_	_	13	_	_	start_char=1243|end_char=1244|SpaceAfter=No
+15	мирное	мирный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	14	_	_	start_char=1244|end_char=1250|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	_	_	start_char=1250|end_char=1251
+17	политико	политико	ADJ	_	Degree=Pos	16	_	_	start_char=1252|end_char=1260|SpaceAfter=No
+18	-	-	PUNCT	_	_	17	_	_	start_char=1260|end_char=1261|SpaceAfter=No
+19	дипломатическое	дипломатический	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	18	_	_	start_char=1261|end_char=1276
+20	разрешение	разрешение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	19	_	_	start_char=1277|end_char=1287
+21	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	_	_	start_char=1288|end_char=1296|SpaceAfter=No
+22	"	"	PUNCT	_	_	21	_	_	start_char=1296|end_char=1297|SpaceAfter=No
+23	.	.	PUNCT	_	_	22	_	_	start_char=1297|end_char=1298
+
+# text = Напомним, что предложенные в июне мирные инициативы России включают нейтральный, внеблоковый и безъядерный статус Украины, демилитаризацию и денацификацию государства, закрепление на международном уровне статуса Крыма и Севастополя, ДНР и ЛНР, Запорожской и Херсонской областей как российских регионов, а также закрепление международными договорами базовых соглашений по мирному урегулированию и снятие с России западных санкций.
+# sent_id = 8
+1	Напомним	напомнить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	_	_	start_char=1299|end_char=1307|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	_	_	start_char=1307|end_char=1308
+3	что	что	SCONJ	_	_	2	_	_	start_char=1309|end_char=1312
+4	предложенные	предложить	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=1313|end_char=1325
+5	в	в	ADP	_	_	4	_	_	start_char=1326|end_char=1327
+6	июне	июнь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	_	_	start_char=1328|end_char=1332
+7	мирные	мирный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	_	_	start_char=1333|end_char=1339
+8	инициативы	инициатива	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	7	_	_	start_char=1340|end_char=1350
+9	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	_	_	start_char=1351|end_char=1357
+10	включают	включать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	_	_	start_char=1358|end_char=1366
+11	нейтральный	нейтральный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	10	_	_	start_char=1367|end_char=1378|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	_	_	start_char=1378|end_char=1379
+13	внеблоковый	внеблоковый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	12	_	_	start_char=1380|end_char=1391
+14	и	и	CCONJ	_	_	13	_	_	start_char=1392|end_char=1393
+15	безъядерный	безъядерный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	14	_	_	start_char=1394|end_char=1405
+16	статус	статус	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	_	_	start_char=1406|end_char=1412
+17	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	_	_	start_char=1413|end_char=1420|SpaceAfter=No
+18	,	,	PUNCT	_	_	17	_	_	start_char=1420|end_char=1421
+19	демилитаризацию	демилитаризация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	18	_	_	start_char=1422|end_char=1437
+20	и	и	CCONJ	_	_	19	_	_	start_char=1438|end_char=1439
+21	денацификацию	денацификация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	20	_	_	start_char=1440|end_char=1453
+22	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	_	_	start_char=1454|end_char=1465|SpaceAfter=No
+23	,	,	PUNCT	_	_	22	_	_	start_char=1465|end_char=1466
+24	закрепление	закрепление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	23	_	_	start_char=1467|end_char=1478
+25	на	на	ADP	_	_	24	_	_	start_char=1479|end_char=1481
+26	международном	международный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	25	_	_	start_char=1482|end_char=1495
+27	уровне	уровень	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	26	_	_	start_char=1496|end_char=1502
+28	статуса	статус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	27	_	_	start_char=1503|end_char=1510
+29	Крыма	Крым	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	28	_	_	start_char=1511|end_char=1516
+30	и	и	CCONJ	_	_	29	_	_	start_char=1517|end_char=1518
+31	Севастополя	Севастополь	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	30	_	_	start_char=1519|end_char=1530|SpaceAfter=No
+32	,	,	PUNCT	_	_	31	_	_	start_char=1530|end_char=1531
+33	ДНР	ДНР	PROPN	_	Animacy=Inan|Case=Gen|Number=Sing	32	_	_	start_char=1532|end_char=1535
+34	и	и	CCONJ	_	_	33	_	_	start_char=1536|end_char=1537
+35	ЛНР	ЛНР	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	34	_	_	start_char=1538|end_char=1541|SpaceAfter=No
+36	,	,	PUNCT	_	_	35	_	_	start_char=1541|end_char=1542
+37	Запорожской	запорожский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	36	_	_	start_char=1543|end_char=1554
+38	и	и	CCONJ	_	_	37	_	_	start_char=1555|end_char=1556
+39	Херсонской	херсонский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	38	_	_	start_char=1557|end_char=1567
+40	областей	область	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	39	_	_	start_char=1568|end_char=1576
+41	как	как	SCONJ	_	_	40	_	_	start_char=1577|end_char=1580
+42	российских	российский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	41	_	_	start_char=1581|end_char=1591
+43	регионов	регион	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	42	_	_	start_char=1592|end_char=1600|SpaceAfter=No
+44	,	,	PUNCT	_	_	43	_	_	start_char=1600|end_char=1601
+45	а	а	CCONJ	_	_	44	_	_	start_char=1602|end_char=1603
+46	также	также	PART	_	_	45	_	_	start_char=1604|end_char=1609
+47	закрепление	закрепление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	46	_	_	start_char=1610|end_char=1621
+48	международными	международный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	47	_	_	start_char=1622|end_char=1636
+49	договорами	договор	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	48	_	_	start_char=1637|end_char=1647
+50	базовых	базовый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	49	_	_	start_char=1648|end_char=1655
+51	соглашений	соглашение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	50	_	_	start_char=1656|end_char=1666
+52	по	по	ADP	_	_	51	_	_	start_char=1667|end_char=1669
+53	мирному	мирный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	52	_	_	start_char=1670|end_char=1677
+54	урегулированию	урегулирование	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	53	_	_	start_char=1678|end_char=1692
+55	и	и	CCONJ	_	_	54	_	_	start_char=1693|end_char=1694
+56	снятие	снятие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	55	_	_	start_char=1695|end_char=1701
+57	с	с	ADP	_	_	56	_	_	start_char=1702|end_char=1703
+58	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	57	_	_	start_char=1704|end_char=1710
+59	западных	западный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	58	_	_	start_char=1711|end_char=1719
+60	санкций	санкция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	59	_	_	start_char=1720|end_char=1727|SpaceAfter=No
+61	.	.	PUNCT	_	_	60	_	_	start_char=1727|end_char=1728
+
+# text = Ранее лидеры стран ШОС подписали Астанинскую декларацию объединения.
+# sent_id = 9
+1	Ранее	ранее	ADV	_	Degree=Pos	0	_	_	start_char=1729|end_char=1734
+2	лидеры	лидер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	1	_	_	start_char=1735|end_char=1741
+3	стран	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	_	_	start_char=1742|end_char=1747
+4	ШОС	ШОС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=1748|end_char=1751
+5	подписали	подписать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	_	_	start_char=1752|end_char=1761
+6	Астанинскую	астанинский	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	5	_	_	start_char=1762|end_char=1773
+7	декларацию	декларация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	_	_	start_char=1774|end_char=1784
+8	объединения	объединение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	_	_	start_char=1785|end_char=1796|SpaceAfter=No
+9	.	.	PUNCT	_	_	8	_	_	start_char=1796|end_char=1797
+
+# text = Фото: Управление по печати и информации Президента (Creative Commons Attribution 4.0).
+# sent_id = 10
+1	Фото	фото	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	_	_	start_char=1798|end_char=1802|SpaceAfter=No
+2	:	:	PUNCT	_	_	1	_	_	start_char=1802|end_char=1803
+3	Управление	Управление	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	_	_	start_char=1804|end_char=1814
+4	по	по	ADP	_	_	3	_	_	start_char=1815|end_char=1817
+5	печати	печать	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	4	_	_	start_char=1818|end_char=1824
+6	и	и	CCONJ	_	_	5	_	_	start_char=1825|end_char=1826
+7	информации	информация	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	6	_	_	start_char=1827|end_char=1837
+8	Президента	Президент	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	7	_	_	start_char=1838|end_char=1848
+9	(	(	PUNCT	_	_	8	_	_	start_char=1849|end_char=1850|SpaceAfter=No
+10	Creative	Creative	PROPN	_	Foreign=Yes	9	_	_	start_char=1850|end_char=1858
+11	Commons	Commons	PROPN	_	Foreign=Yes	10	_	_	start_char=1859|end_char=1866
+12	Attribution	Attribution	PROPN	_	Foreign=Yes	11	_	_	start_char=1867|end_char=1878
+13	4.0	4.0	NUM	_	NumType=Card	12	_	_	start_char=1879|end_char=1882|SpaceAfter=No
+14	)	)	PUNCT	_	_	13	_	_	start_char=1882|end_char=1883|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	_	_	start_char=1883|end_char=1884|SpaceAfter=No
+

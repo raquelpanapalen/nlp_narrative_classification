@@ -1,0 +1,150 @@
+# text = ВС РФ поразили цех предприятия по изготовлению танковых орудий ВСУ Российские военнослужащие в ходе проведения спецоперации поразили цех украинского предприятия по изготовлению танковых орудий и крупнокалиберных боеприпасов.
+# sent_id = 0
+1	ВС	ВС	PROPN	_	Abbr=Yes	0	_	_	start_char=0|end_char=2
+2	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	_	_	start_char=3|end_char=5
+3	поразили	поразить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=6|end_char=14
+4	цех	цех	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	_	_	start_char=15|end_char=18
+5	предприятия	предприятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	_	_	start_char=19|end_char=30
+6	по	по	ADP	_	_	5	_	_	start_char=31|end_char=33
+7	изготовлению	изготовление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	6	_	_	start_char=34|end_char=46
+8	танковых	танковый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	_	_	start_char=47|end_char=55
+9	орудий	орудие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	8	_	_	start_char=56|end_char=62
+10	ВСУ	ВСУ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	_	_	start_char=63|end_char=66
+11	Российские	российский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	10	_	_	start_char=67|end_char=77
+12	военнослужащие	военнослужащий	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	11	_	_	start_char=78|end_char=92
+13	в	в	ADP	_	_	12	_	_	start_char=93|end_char=94
+14	ходе	ход	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	13	_	_	start_char=95|end_char=99
+15	проведения	проведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	_	_	start_char=100|end_char=110
+16	спецоперации	спецоперация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	_	_	start_char=111|end_char=123
+17	поразили	поразить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	16	_	_	start_char=124|end_char=132
+18	цех	цех	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	17	_	_	start_char=133|end_char=136
+19	украинского	украинский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	18	_	_	start_char=137|end_char=148
+20	предприятия	предприятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	_	_	start_char=149|end_char=160
+21	по	по	ADP	_	_	20	_	_	start_char=161|end_char=163
+22	изготовлению	изготовление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	21	_	_	start_char=164|end_char=176
+23	танковых	танковый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	22	_	_	start_char=177|end_char=185
+24	орудий	орудие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	23	_	_	start_char=186|end_char=192
+25	и	и	CCONJ	_	_	24	_	_	start_char=193|end_char=194
+26	крупнокалиберных	крупнокалиберный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	25	_	_	start_char=195|end_char=211
+27	боеприпасов	боеприпас	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	26	_	_	start_char=212|end_char=223|SpaceAfter=No
+28	.	.	PUNCT	_	_	27	_	_	start_char=223|end_char=224
+
+# text = Об этом сообщили в министерстве обороны России во время брифинга 3 июля.
+# sent_id = 1
+1	Об	о	ADP	_	_	0	_	_	start_char=225|end_char=227
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=228|end_char=232
+3	сообщили	сообщить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=233|end_char=241
+4	в	в	ADP	_	_	3	_	_	start_char=242|end_char=243
+5	министерстве	министерство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	_	_	start_char=244|end_char=256
+6	обороны	оборона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	_	_	start_char=257|end_char=264
+7	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	_	_	start_char=265|end_char=271
+8	во	в	ADP	_	_	7	_	_	start_char=272|end_char=274
+9	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	_	_	start_char=275|end_char=280
+10	брифинга	брифинг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	_	_	start_char=281|end_char=289
+11	3	3	NUM	_	NumType=Card	10	_	_	start_char=290|end_char=291
+12	июля	июль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	_	_	start_char=292|end_char=296|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=296|end_char=297
+
+# text = Уточняется, что удары наносились оперативно-тактической авиацией, беспилотниками, ракетными войсками и артиллерией.
+# sent_id = 2
+1	Уточняется	уточняться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	_	_	start_char=298|end_char=308|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	_	_	start_char=308|end_char=309
+3	что	что	SCONJ	_	_	2	_	_	start_char=310|end_char=313
+4	удары	удар	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	_	_	start_char=314|end_char=319
+5	наносились	наносить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Pass	4	_	_	start_char=320|end_char=330
+6	оперативно	оперативный	ADJ	_	Degree=Pos	5	_	_	start_char=331|end_char=341|SpaceAfter=No
+7	-	-	PUNCT	_	_	6	_	_	start_char=341|end_char=342|SpaceAfter=No
+8	тактической	тактический	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	7	_	_	start_char=342|end_char=353
+9	авиацией	авиация	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	8	_	_	start_char=354|end_char=362|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=362|end_char=363
+11	беспилотниками	беспилотник	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	10	_	_	start_char=364|end_char=378|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	_	_	start_char=378|end_char=379
+13	ракетными	ракетный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	12	_	_	start_char=380|end_char=389
+14	войсками	войска	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	13	_	_	start_char=390|end_char=398
+15	и	и	CCONJ	_	_	14	_	_	start_char=399|end_char=400
+16	артиллерией	артиллерия	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	15	_	_	start_char=401|end_char=412|SpaceAfter=No
+17	.	.	PUNCT	_	_	16	_	_	start_char=412|end_char=413
+
+# text = Поражены цех предприятия по изготовлению танковых орудий и крупнокалиберных боеприпасов, а также скопления живой силы противника в 125 районах ", - рассказали в ведомстве.
+# sent_id = 3
+1	Поражены	поразить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	_	_	start_char=414|end_char=422
+2	цех	цех	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=423|end_char=426
+3	предприятия	предприятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	_	_	start_char=427|end_char=438
+4	по	по	ADP	_	_	3	_	_	start_char=439|end_char=441
+5	изготовлению	изготовление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	4	_	_	start_char=442|end_char=454
+6	танковых	танковый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	_	_	start_char=455|end_char=463
+7	орудий	орудие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	6	_	_	start_char=464|end_char=470
+8	и	и	CCONJ	_	_	7	_	_	start_char=471|end_char=472
+9	крупнокалиберных	крупнокалиберный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	_	_	start_char=473|end_char=489
+10	боеприпасов	боеприпас	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	_	_	start_char=490|end_char=501|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=501|end_char=502
+12	а	а	CCONJ	_	_	11	_	_	start_char=503|end_char=504
+13	также	также	PART	_	_	12	_	_	start_char=505|end_char=510
+14	скопления	скопление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	_	_	start_char=511|end_char=520
+15	живой	живой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	14	_	_	start_char=521|end_char=526
+16	силы	сила	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	_	_	start_char=527|end_char=531
+17	противника	противник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	16	_	_	start_char=532|end_char=542
+18	в	в	ADP	_	_	17	_	_	start_char=543|end_char=544
+19	125	125	NUM	_	NumType=Card	18	_	_	start_char=545|end_char=548
+20	районах	район	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	19	_	_	start_char=549|end_char=556
+21	"	"	PUNCT	_	_	20	_	_	start_char=557|end_char=558|SpaceAfter=No
+22	,	,	PUNCT	_	_	21	_	_	start_char=558|end_char=559
+23	-	-	PUNCT	_	_	22	_	_	start_char=560|end_char=561
+24	рассказали	рассказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	23	_	_	start_char=562|end_char=572
+25	в	в	ADP	_	_	24	_	_	start_char=573|end_char=574
+26	ведомстве	ведомство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	25	_	_	start_char=575|end_char=584|SpaceAfter=No
+27	.	.	PUNCT	_	_	26	_	_	start_char=584|end_char=585
+
+# text = В Минобороны добавили, что также был уничтожен вертолет Ми-24 воздушных сил Украины, находившийся на аэродроме базирования.
+# sent_id = 4
+1	В	в	ADP	_	_	0	_	_	start_char=586|end_char=587
+2	Минобороны	Минобороны	PROPN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1	_	_	start_char=588|end_char=598
+3	добавили	добавить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=599|end_char=607|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=607|end_char=608
+5	что	что	SCONJ	_	_	4	_	_	start_char=609|end_char=612
+6	также	также	ADV	_	Degree=Pos	5	_	_	start_char=613|end_char=618
+7	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	_	_	start_char=619|end_char=622
+8	уничтожен	уничтожить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	7	_	_	start_char=623|end_char=632
+9	вертолет	вертолет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	_	_	start_char=633|end_char=641
+10	Ми	Ми	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	_	_	start_char=642|end_char=644|SpaceAfter=No
+11	-	-	PUNCT	_	_	10	_	_	start_char=644|end_char=645|SpaceAfter=No
+12	24	24	NUM	_	NumType=Card	11	_	_	start_char=645|end_char=647
+13	воздушных	воздушный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	_	_	start_char=648|end_char=657
+14	сил	сила	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	13	_	_	start_char=658|end_char=661
+15	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	_	_	start_char=662|end_char=669|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	_	_	start_char=669|end_char=670
+17	находившийся	находиться	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	16	_	_	start_char=671|end_char=683
+18	на	на	ADP	_	_	17	_	_	start_char=684|end_char=686
+19	аэродроме	аэродром	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	18	_	_	start_char=687|end_char=696
+20	базирования	базирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	_	_	start_char=697|end_char=708|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	_	_	start_char=708|end_char=709
+
+# text = Ранее стало известно, что экипаж оперативно-тактического ракетного комплекса "Искандер-М" ударил по аэродрому военно-воздушных сил ВСУ в Полтаве.
+# sent_id = 5
+1	Ранее	ранее	ADV	_	Degree=Pos	0	_	_	start_char=710|end_char=715
+2	стало	стать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	1	_	_	start_char=716|end_char=721
+3	известно	известный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	_	_	start_char=722|end_char=730|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=730|end_char=731
+5	что	что	SCONJ	_	_	4	_	_	start_char=732|end_char=735
+6	экипаж	экипаж	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	_	_	start_char=736|end_char=742
+7	оперативно	оперативный	ADJ	_	Degree=Pos	6	_	_	start_char=743|end_char=753|SpaceAfter=No
+8	-	-	PUNCT	_	_	7	_	_	start_char=753|end_char=754|SpaceAfter=No
+9	тактического	тактический	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	_	_	start_char=754|end_char=766
+10	ракетного	ракетный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	_	_	start_char=767|end_char=776
+11	комплекса	комплекс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	_	_	start_char=777|end_char=786
+12	"	"	PUNCT	_	_	11	_	_	start_char=787|end_char=788|SpaceAfter=No
+13	Искандер	Искандер	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	_	_	start_char=788|end_char=796|SpaceAfter=No
+14	-	-	PUNCT	_	_	13	_	_	start_char=796|end_char=797|SpaceAfter=No
+15	М	М	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	_	_	start_char=797|end_char=798|SpaceAfter=No
+16	"	"	PUNCT	_	_	15	_	_	start_char=798|end_char=799
+17	ударил	ударить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	16	_	_	start_char=800|end_char=806
+18	по	по	ADP	_	_	17	_	_	start_char=807|end_char=809
+19	аэродрому	аэродром	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	18	_	_	start_char=810|end_char=819
+20	военно-	военно-	ADJ	_	Degree=Pos	19	_	_	start_char=820|end_char=827|SpaceAfter=No
+21	воздушных	воздушный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	20	_	_	start_char=827|end_char=836
+22	сил	сила	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	21	_	_	start_char=837|end_char=840
+23	ВСУ	ВСУ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	22	_	_	start_char=841|end_char=844
+24	в	в	ADP	_	_	23	_	_	start_char=845|end_char=846
+25	Полтаве	Полтав	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	24	_	_	start_char=847|end_char=854|SpaceAfter=No
+26	.	.	PUNCT	_	_	25	_	_	start_char=854|end_char=855|SpaceAfter=No
+

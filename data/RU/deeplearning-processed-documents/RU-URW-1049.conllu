@@ -1,0 +1,131 @@
+# text = ﻿В США заявили о нападении на Россию из-за атаки ВСУ 20:19 на Россию.
+# sent_id = 0
+1	﻿В	св	ADP	_	_	0	_	_	start_char=0|end_char=2
+2	США	США	PROPN	_	Animacy=Inan|Case=Loc|Number=Plur	1	_	_	start_char=3|end_char=6
+3	заявили	заявить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=7|end_char=14
+4	о	о	ADP	_	_	3	_	_	start_char=15|end_char=16
+5	нападении	нападение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	_	_	start_char=17|end_char=26
+6	на	на	ADP	_	_	5	_	_	start_char=27|end_char=29
+7	Россию	Россия	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	_	_	start_char=30|end_char=36
+8	из-за	из-за	ADP	_	_	7	_	_	start_char=37|end_char=42
+9	атаки	атака	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	_	_	start_char=43|end_char=48
+10	ВСУ	ВСУ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	_	_	start_char=49|end_char=52
+11	20	20	NUM	_	NumType=Card	10	_	_	start_char=53|end_char=55|SpaceAfter=No
+12	:	:	PUNCT	_	_	11	_	_	start_char=55|end_char=56|SpaceAfter=No
+13	19	19	NUM	_	NumType=Card	12	_	_	start_char=56|end_char=58
+14	на	на	ADP	_	_	13	_	_	start_char=59|end_char=61
+15	Россию	Россия	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	_	_	start_char=62|end_char=68|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	_	_	start_char=68|end_char=69
+
+# text = Об этом заявил бывший офицер американской разведки морской пехоты Скотт Риттер на Youtube-канале Judging Freedom.
+# sent_id = 1
+1	Об	о	ADP	_	_	0	_	_	start_char=70|end_char=72
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=73|end_char=77
+3	заявил	заявить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=78|end_char=84
+4	бывший	бывший	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	_	_	start_char=85|end_char=91
+5	офицер	офицер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=92|end_char=98
+6	американской	американский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	_	_	start_char=99|end_char=111
+7	разведки	разведка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	_	_	start_char=112|end_char=120
+8	морской	морской	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	_	_	start_char=121|end_char=128
+9	пехоты	пехота	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	_	_	start_char=129|end_char=135
+10	Скотт	Скотт	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	_	_	start_char=136|end_char=141
+11	Риттер	Риттер	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	_	_	start_char=142|end_char=148
+12	на	на	ADP	_	_	11	_	_	start_char=149|end_char=151
+13	Youtube	Youtube	PROPN	_	_	12	_	_	start_char=152|end_char=159|SpaceAfter=No
+14	-канале	-канал	PROPN	_	Foreign=Yes	13	_	_	start_char=159|end_char=166
+15	Judging	Judging	PROPN	_	Foreign=Yes	14	_	_	start_char=167|end_char=174
+16	Freedom	Freedom	PROPN	_	Foreign=Yes	15	_	_	start_char=175|end_char=182|SpaceAfter=No
+17	.	.	PUNCT	_	_	16	_	_	start_char=182|end_char=183
+
+# text = «США разрешили ВСУ наносить удары и тем самым атаковали Россию — это главное, о чем нужно сейчас говорить», — рассказал эксперт.
+# sent_id = 2
+1	«	"	PUNCT	_	_	0	_	_	start_char=184|end_char=185|SpaceAfter=No
+2	США	США	PROPN	_	Number=Plur	1	_	_	start_char=185|end_char=188
+3	разрешили	разрешить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=189|end_char=198
+4	ВСУ	ВСУ	PROPN	_	Animacy=Inan|Number=Sing	3	_	_	start_char=199|end_char=202
+5	наносить	наносить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	_	_	start_char=203|end_char=211
+6	удары	удар	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	5	_	_	start_char=212|end_char=217
+7	и	и	CCONJ	_	_	6	_	_	start_char=218|end_char=219
+8	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	7	_	_	start_char=220|end_char=223
+9	самым	самый	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	8	_	_	start_char=224|end_char=229
+10	атаковали	атаковать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	9	_	_	start_char=230|end_char=239
+11	Россию	Россия	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	_	_	start_char=240|end_char=246
+12	—	—	PUNCT	_	_	11	_	_	start_char=247|end_char=248
+13	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	12	_	_	start_char=249|end_char=252
+14	главное	главное	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	13	_	_	start_char=253|end_char=260|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=260|end_char=261
+16	о	о	ADP	_	_	15	_	_	start_char=262|end_char=263
+17	чем	что	PRON	_	Case=Loc|PronType=Int,Rel	16	_	_	start_char=264|end_char=267
+18	нужно	нужный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	17	_	_	start_char=268|end_char=273
+19	сейчас	сейчас	ADV	_	Degree=Pos	18	_	_	start_char=274|end_char=280
+20	говорить	говорить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	19	_	_	start_char=281|end_char=289|SpaceAfter=No
+21	»	"	PUNCT	_	_	20	_	_	start_char=289|end_char=290|SpaceAfter=No
+22	,	,	PUNCT	_	_	21	_	_	start_char=290|end_char=291
+23	—	—	PUNCT	_	_	22	_	_	start_char=292|end_char=293
+24	рассказал	рассказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	23	_	_	start_char=294|end_char=303
+25	эксперт	эксперт	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	24	_	_	start_char=304|end_char=311|SpaceAfter=No
+26	.	.	PUNCT	_	_	25	_	_	start_char=311|end_char=312
+
+# text = Риттер добавил, что именно «уполномочил Киев нанести удар по Севастополю», используя при этом американское оружие.
+# sent_id = 3
+1	Риттер	Риттер	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=313|end_char=319
+2	добавил	добавить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=320|end_char=327|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=327|end_char=328
+4	что	что	SCONJ	_	_	3	_	_	start_char=329|end_char=332
+5	именно	именно	PART	_	_	4	_	_	start_char=333|end_char=339
+6	«	"	PUNCT	_	_	5	_	_	start_char=340|end_char=341|SpaceAfter=No
+7	уполномочил	уполномочить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	_	_	start_char=341|end_char=352
+8	Киев	Киев	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	_	_	start_char=353|end_char=357
+9	нанести	нанести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	_	_	start_char=358|end_char=365
+10	удар	удар	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	_	_	start_char=366|end_char=370
+11	по	по	ADP	_	_	10	_	_	start_char=371|end_char=373
+12	Севастополю	Севастополь	PROPN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	11	_	_	start_char=374|end_char=385|SpaceAfter=No
+13	»	"	PUNCT	_	_	12	_	_	start_char=385|end_char=386|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	_	_	start_char=386|end_char=387
+15	используя	использовать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	14	_	_	start_char=388|end_char=397
+16	при	при	ADP	_	_	15	_	_	start_char=398|end_char=401
+17	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	16	_	_	start_char=402|end_char=406
+18	американское	американский	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	17	_	_	start_char=407|end_char=419
+19	оружие	оружие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	18	_	_	start_char=420|end_char=426|SpaceAfter=No
+20	.	.	PUNCT	_	_	19	_	_	start_char=426|end_char=427
+
+# text = 26 июня Скотт Риттер назвал украинский удар по Севастополю актом войны США против России, совершенным ради провокации.
+# sent_id = 4
+1	26	26	ADJ	_	_	0	_	_	start_char=428|end_char=430
+2	июня	июнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	_	_	start_char=431|end_char=435
+3	Скотт	Скотт	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	_	_	start_char=436|end_char=441
+4	Риттер	Риттер	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	_	_	start_char=442|end_char=448
+5	назвал	назвать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	_	_	start_char=449|end_char=455
+6	украинский	украинский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	_	_	start_char=456|end_char=466
+7	удар	удар	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	_	_	start_char=467|end_char=471
+8	по	по	ADP	_	_	7	_	_	start_char=472|end_char=474
+9	Севастополю	Севастополь	PROPN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	8	_	_	start_char=475|end_char=486
+10	актом	акт	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	9	_	_	start_char=487|end_char=492
+11	войны	война	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	_	_	start_char=493|end_char=498
+12	США	США	PROPN	_	Animacy=Inan|Case=Gen|Number=Plur	11	_	_	start_char=499|end_char=502
+13	против	против	ADP	_	_	12	_	_	start_char=503|end_char=509
+14	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	_	_	start_char=510|end_char=516|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=516|end_char=517
+16	совершенным	совершить	VERB	_	Aspect=Perf|Case=Ins|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	15	_	_	start_char=518|end_char=529
+17	ради	ради	ADP	_	_	16	_	_	start_char=530|end_char=534
+18	провокации	провокация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	_	_	start_char=535|end_char=545|SpaceAfter=No
+19	.	.	PUNCT	_	_	18	_	_	start_char=545|end_char=546
+
+# text = Экс-разведчик отметил, что американское руководство рассчитывало вызвать жесткие ответные действия с российской стороны.
+# sent_id = 5
+1	Экс-разведчик	экс-разведчик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=547|end_char=560
+2	отметил	отметить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=561|end_char=568|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=568|end_char=569
+4	что	что	SCONJ	_	_	3	_	_	start_char=570|end_char=573
+5	американское	американский	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	_	_	start_char=574|end_char=586
+6	руководство	руководство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	_	_	start_char=587|end_char=598
+7	рассчитывало	рассчитывать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	_	_	start_char=599|end_char=611
+8	вызвать	вызвать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	_	_	start_char=612|end_char=619
+9	жесткие	жесткий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	8	_	_	start_char=620|end_char=627
+10	ответные	ответный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	9	_	_	start_char=628|end_char=636
+11	действия	действие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	10	_	_	start_char=637|end_char=645
+12	с	с	ADP	_	_	11	_	_	start_char=646|end_char=647
+13	российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	_	_	start_char=648|end_char=658
+14	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	_	_	start_char=659|end_char=666|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	_	_	start_char=666|end_char=667|SpaceAfter=No
+

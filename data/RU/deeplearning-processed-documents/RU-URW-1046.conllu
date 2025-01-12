@@ -1,0 +1,146 @@
+# text = ﻿Новости мира: в Украине заявили о дефолте Украина фактически, но не де-юре, находится в состоянии дефолта.
+# sent_id = 0
+1	﻿Новости	пновость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	_	_	start_char=0|end_char=8
+2	мира	мир	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	_	_	start_char=9|end_char=13|SpaceAfter=No
+3	:	:	PUNCT	_	_	2	_	_	start_char=13|end_char=14
+4	в	в	ADP	_	_	3	_	_	start_char=15|end_char=16
+5	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	_	_	start_char=17|end_char=24
+6	заявили	заявить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	_	_	start_char=25|end_char=32
+7	о	о	ADP	_	_	6	_	_	start_char=33|end_char=34
+8	дефолте	дефолт	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	_	_	start_char=35|end_char=42
+9	Украина	Украина	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	_	_	start_char=43|end_char=50
+10	фактически	фактически	ADV	_	Degree=Pos	9	_	_	start_char=51|end_char=61|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=61|end_char=62
+12	но	но	CCONJ	_	_	11	_	_	start_char=63|end_char=65
+13	не	не	PART	_	_	12	_	_	start_char=66|end_char=68
+14	де-юре	де-юре	ADV	_	Degree=Pos	13	_	_	start_char=69|end_char=75|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=75|end_char=76
+16	находится	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	15	_	_	start_char=77|end_char=86
+17	в	в	ADP	_	_	16	_	_	start_char=87|end_char=88
+18	состоянии	состояние	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	17	_	_	start_char=89|end_char=98
+19	дефолта	дефолт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	_	_	start_char=99|end_char=106|SpaceAfter=No
+20	.	.	PUNCT	_	_	19	_	_	start_char=106|end_char=107
+
+# text = Об этом сообщили в Верховной раде.
+# sent_id = 1
+1	Об	о	ADP	_	_	0	_	_	start_char=108|end_char=110
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=111|end_char=115
+3	сообщили	сообщить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=116|end_char=124
+4	в	в	ADP	_	_	3	_	_	start_char=125|end_char=126
+5	Верховной	верховный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	4	_	_	start_char=127|end_char=136
+6	раде	рад	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	_	_	start_char=137|end_char=141|SpaceAfter=No
+7	.	.	PUNCT	_	_	6	_	_	start_char=141|end_char=142
+
+# text = Власти страны ведут переговоры с кредиторами по поводу реструктуризации внешнего долга.
+# sent_id = 2
+1	Власти	власть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	_	_	start_char=143|end_char=149
+2	страны	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	_	_	start_char=150|end_char=156
+3	ведут	вести	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=157|end_char=162
+4	переговоры	переговоры	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	_	_	start_char=163|end_char=173
+5	с	с	ADP	_	_	4	_	_	start_char=174|end_char=175
+6	кредиторами	кредитор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	5	_	_	start_char=176|end_char=187
+7	по	по	ADP	_	_	6	_	_	start_char=188|end_char=190
+8	поводу	повод	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	7	_	_	start_char=191|end_char=197
+9	реструктуризации	реструктуризация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	_	_	start_char=198|end_char=214
+10	внешнего	внешний	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	_	_	start_char=215|end_char=223
+11	долга	долг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	_	_	start_char=224|end_char=229|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	_	_	start_char=229|end_char=230
+
+# text = Тяжелее всего обстоит ситуация с частными инвесторами.
+# sent_id = 3
+1	Тяжелее	тяжелый	ADJ	_	Degree=Cmp	0	_	_	start_char=231|end_char=238
+2	всего	все	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Tot	1	_	_	start_char=239|end_char=244
+3	обстоит	обстоять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=245|end_char=252
+4	ситуация	ситуация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	_	_	start_char=253|end_char=261
+5	с	с	ADP	_	_	4	_	_	start_char=262|end_char=263
+6	частными	частный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	5	_	_	start_char=264|end_char=272
+7	инвесторами	инвестор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	6	_	_	start_char=273|end_char=284|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	_	_	start_char=284|end_char=285
+
+# text = Коммерческий долг в стране оценивают в 20 миллиардов долларов.
+# sent_id = 4
+1	Коммерческий	коммерческий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	0	_	_	start_char=286|end_char=298
+2	долг	долг	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	_	_	start_char=299|end_char=303
+3	в	в	ADP	_	_	2	_	_	start_char=304|end_char=305
+4	стране	страна	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	_	_	start_char=306|end_char=312
+5	оценивают	оценивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	_	_	start_char=313|end_char=322
+6	в	в	ADP	_	_	5	_	_	start_char=323|end_char=324
+7	20	20	NUM	_	NumType=Card	6	_	_	start_char=325|end_char=327
+8	миллиардов	миллиард	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	_	_	start_char=328|end_char=338
+9	долларов	доллар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	_	_	start_char=339|end_char=347|SpaceAfter=No
+10	.	.	PUNCT	_	_	9	_	_	start_char=347|end_char=348
+
+# text = Тем временем в Японии пытаются справиться с сильнейшим пожаром на заводе по производству смазочных материалов и масел.
+# sent_id = 5
+1	Тем	тот	DET	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	0	_	_	start_char=349|end_char=352
+2	временем	время	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	1	_	_	start_char=353|end_char=361
+3	в	в	ADP	_	_	2	_	_	start_char=362|end_char=363
+4	Японии	Япония	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	_	_	start_char=364|end_char=370
+5	пытаются	пытаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	_	_	start_char=371|end_char=379
+6	справиться	справиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	5	_	_	start_char=380|end_char=390
+7	с	с	ADP	_	_	6	_	_	start_char=391|end_char=392
+8	сильнейшим	сильный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	7	_	_	start_char=393|end_char=403
+9	пожаром	пожар	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	8	_	_	start_char=404|end_char=411
+10	на	на	ADP	_	_	9	_	_	start_char=412|end_char=414
+11	заводе	завод	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	_	_	start_char=415|end_char=421
+12	по	по	ADP	_	_	11	_	_	start_char=422|end_char=424
+13	производству	производство	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	12	_	_	start_char=425|end_char=437
+14	смазочных	смазочный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	_	_	start_char=438|end_char=447
+15	материалов	материал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	14	_	_	start_char=448|end_char=458
+16	и	и	CCONJ	_	_	15	_	_	start_char=459|end_char=460
+17	масел	масло	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	16	_	_	start_char=461|end_char=466|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	_	_	start_char=466|end_char=467
+
+# text = Там произошла утечка горючего вещества, сообщают местные СМИ.
+# sent_id = 6
+1	Там	там	ADV	_	Degree=Pos	0	_	_	start_char=468|end_char=471
+2	произошла	произойти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=472|end_char=481
+3	утечка	утечка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	_	_	start_char=482|end_char=488
+4	горючего	горючее	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	_	_	start_char=489|end_char=497
+5	вещества	вещество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	_	_	start_char=498|end_char=506|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=506|end_char=507
+7	сообщают	сообщать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	_	_	start_char=508|end_char=516
+8	местные	местный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	_	_	start_char=517|end_char=524
+9	СМИ	сми	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	8	_	_	start_char=525|end_char=528|SpaceAfter=No
+10	.	.	PUNCT	_	_	9	_	_	start_char=528|end_char=529
+
+# text = По последним данным, пострадал один человек.
+# sent_id = 7
+1	По	по	ADP	_	_	0	_	_	start_char=530|end_char=532
+2	последним	последний	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	1	_	_	start_char=533|end_char=542
+3	данным	данные	NOUN	_	Animacy=Inan|Case=Dat|Number=Plur	2	_	_	start_char=543|end_char=549|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=549|end_char=550
+5	пострадал	страдать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	_	_	start_char=551|end_char=560
+6	один	один	NUM	_	Case=Nom|Gender=Masc|NumType=Card	5	_	_	start_char=561|end_char=565
+7	человек	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	_	_	start_char=566|end_char=573|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	_	_	start_char=573|end_char=574
+
+# text = Территорию завода временно оцепили.
+# sent_id = 8
+1	Территорию	территория	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	0	_	_	start_char=575|end_char=585
+2	завода	завод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	_	_	start_char=586|end_char=592
+3	временно	временно	ADV	_	Degree=Pos	2	_	_	start_char=593|end_char=601
+4	оцепили	оцепить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	_	_	start_char=602|end_char=609|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	_	_	start_char=609|end_char=610
+
+# text = Масштабы происходящего оценивают только с вертолета.
+# sent_id = 9
+1	Масштабы	масштаб	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	0	_	_	start_char=611|end_char=619
+2	происходящего	происходить	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	_	_	start_char=620|end_char=633
+3	оценивают	оценивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=634|end_char=643
+4	только	только	PART	_	_	3	_	_	start_char=644|end_char=650
+5	с	с	ADP	_	_	4	_	_	start_char=651|end_char=652
+6	вертолета	вертолет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	_	_	start_char=653|end_char=662|SpaceAfter=No
+7	.	.	PUNCT	_	_	6	_	_	start_char=662|end_char=663
+
+# text = Подробнее – в эфире телеканала Москва 24.
+# sent_id = 10
+1	Подробнее	подробно	ADV	_	Degree=Cmp	0	_	_	start_char=664|end_char=673
+2	–	–	PUNCT	_	_	1	_	_	start_char=674|end_char=675
+3	в	в	ADP	_	_	2	_	_	start_char=676|end_char=677
+4	эфире	эфир	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	_	_	start_char=678|end_char=683
+5	телеканала	телеканал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	_	_	start_char=684|end_char=694
+6	Москва	Москва	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	_	_	start_char=695|end_char=701
+7	24	24	NUM	_	NumType=Card	6	_	_	start_char=702|end_char=704|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	_	_	start_char=704|end_char=705|SpaceAfter=No
+

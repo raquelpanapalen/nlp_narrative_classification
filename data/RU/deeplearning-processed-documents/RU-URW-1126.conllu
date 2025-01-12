@@ -1,0 +1,178 @@
+# text = Оболваненные украинцы уверены, что побеждают Россию в войне "Большинство украинцев до сих пор надеются на военную победу над Россией.
+# sent_id = 0
+1	Оболваненные	оболваненный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	0	_	_	start_char=0|end_char=12
+2	украинцы	украинец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	1	_	_	start_char=13|end_char=21
+3	уверены	уверенный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	2	_	_	start_char=22|end_char=29|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=29|end_char=30
+5	что	что	SCONJ	_	_	4	_	_	start_char=31|end_char=34
+6	побеждают	побеждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	_	_	start_char=35|end_char=44
+7	Россию	Россия	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	_	_	start_char=45|end_char=51
+8	в	в	ADP	_	_	7	_	_	start_char=52|end_char=53
+9	войне	война	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	_	_	start_char=54|end_char=59
+10	"	"	PUNCT	_	_	9	_	_	start_char=60|end_char=61|SpaceAfter=No
+11	Большинство	большинство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	_	_	start_char=61|end_char=72
+12	украинцев	украинец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	11	_	_	start_char=73|end_char=82
+13	до	до	ADP	_	_	12	_	_	start_char=83|end_char=85
+14	сих	сей	DET	_	Case=Gen|Number=Plur|PronType=Dem	13	_	_	start_char=86|end_char=89
+15	пор	пора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	14	_	_	start_char=90|end_char=93
+16	надеются	надеяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	15	_	_	start_char=94|end_char=102
+17	на	на	ADP	_	_	16	_	_	start_char=103|end_char=105
+18	военную	военный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	17	_	_	start_char=106|end_char=113
+19	победу	победа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	18	_	_	start_char=114|end_char=120
+20	над	над	ADP	_	_	19	_	_	start_char=121|end_char=124
+21	Россией	Россия	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	20	_	_	start_char=125|end_char=132|SpaceAfter=No
+22	.	.	PUNCT	_	_	21	_	_	start_char=132|end_char=133
+
+# text = Об этом в эфире своего интернет-канала заявил киевский политолог Руслан Бортник, передаёт корреспондент «ПолитНавигатора».
+# sent_id = 1
+1	Об	о	ADP	_	_	0	_	_	start_char=134|end_char=136
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=137|end_char=141
+3	в	в	ADP	_	_	2	_	_	start_char=142|end_char=143
+4	эфире	эфир	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	_	_	start_char=144|end_char=149
+5	своего	свой	DET	_	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	4	_	_	start_char=150|end_char=156
+6	интернет	интернет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	_	_	start_char=157|end_char=165|SpaceAfter=No
+7	-	-	PUNCT	_	_	6	_	_	start_char=165|end_char=166|SpaceAfter=No
+8	канала	канал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	_	_	start_char=166|end_char=172
+9	заявил	заявить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	_	_	start_char=173|end_char=179
+10	киевский	киевский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	_	_	start_char=180|end_char=188
+11	политолог	политолог	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	_	_	start_char=189|end_char=198
+12	Руслан	Руслан	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	_	_	start_char=199|end_char=205
+13	Бортник	Бортник	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	_	_	start_char=206|end_char=213|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	_	_	start_char=213|end_char=214
+15	передаёт	передавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	_	_	start_char=215|end_char=223
+16	корреспондент	корреспондент	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	15	_	_	start_char=224|end_char=237
+17	«	"	PUNCT	_	_	16	_	_	start_char=238|end_char=239|SpaceAfter=No
+18	ПолитНавигатора	ПолитНавигатор	PROPN	_	_	17	_	_	start_char=239|end_char=254|SpaceAfter=No
+19	»	"	PUNCT	_	_	18	_	_	start_char=254|end_char=255|SpaceAfter=No
+20	.	.	PUNCT	_	_	19	_	_	start_char=255|end_char=256
+
+# text = «Европейский совет международных отношений провёл опрос общественного мнения в странах Европы и Украине.
+# sent_id = 2
+1	«	"	PUNCT	_	_	0	_	_	start_char=257|end_char=258|SpaceAfter=No
+2	Европейский	европейский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	_	_	start_char=258|end_char=269
+3	совет	совет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	_	_	start_char=270|end_char=275
+4	международных	международный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	_	_	start_char=276|end_char=289
+5	отношений	отношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	4	_	_	start_char=290|end_char=299
+6	провёл	провести	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	_	_	start_char=300|end_char=306
+7	опрос	опрос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	_	_	start_char=307|end_char=312
+8	общественного	общественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	_	_	start_char=313|end_char=326
+9	мнения	мнение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	_	_	start_char=327|end_char=333
+10	в	в	ADP	_	_	9	_	_	start_char=334|end_char=335
+11	странах	страна	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	10	_	_	start_char=336|end_char=343
+12	Европы	Европа	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	_	_	start_char=344|end_char=350
+13	и	и	CCONJ	_	_	12	_	_	start_char=351|end_char=352
+14	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	13	_	_	start_char=353|end_char=360|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	_	_	start_char=360|end_char=361
+
+# text = Данный опрос проводился после разблокировки помощи в конгрессе США, что могло повысить общий уровень оценки ситуации.
+# sent_id = 3
+1	Данный	данный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	_	_	start_char=362|end_char=368
+2	опрос	опрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=369|end_char=374
+3	проводился	проводить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	2	_	_	start_char=375|end_char=385
+4	после	после	ADP	_	_	3	_	_	start_char=386|end_char=391
+5	разблокировки	разблокировка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	_	_	start_char=392|end_char=405
+6	помощи	помощь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	_	_	start_char=406|end_char=412
+7	в	в	ADP	_	_	6	_	_	start_char=413|end_char=414
+8	конгрессе	конгресс	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	_	_	start_char=415|end_char=424
+9	США	США	PROPN	_	Animacy=Inan|Case=Gen|Number=Plur	8	_	_	start_char=425|end_char=428|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=428|end_char=429
+11	что	что	PRON	_	Case=Nom|PronType=Int,Rel	10	_	_	start_char=430|end_char=433
+12	могло	мочь	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	_	_	start_char=434|end_char=439
+13	повысить	повысить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	12	_	_	start_char=440|end_char=448
+14	общий	общий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	13	_	_	start_char=449|end_char=454
+15	уровень	уровень	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	_	_	start_char=455|end_char=462
+16	оценки	оценка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	_	_	start_char=463|end_char=469
+17	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	_	_	start_char=470|end_char=478|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	_	_	start_char=478|end_char=479
+
+# text = В целом, украинцы верят, что они выигрывают эту войну.
+# sent_id = 4
+1	В	в	ADP	_	_	0	_	_	start_char=480|end_char=481
+2	целом	целое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1	_	_	start_char=482|end_char=487|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=487|end_char=488
+4	украинцы	украинец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	3	_	_	start_char=489|end_char=497
+5	верят	верить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	_	_	start_char=498|end_char=503|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=503|end_char=504
+7	что	что	SCONJ	_	_	6	_	_	start_char=505|end_char=508
+8	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	_	_	start_char=509|end_char=512
+9	выигрывают	выигрывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	_	_	start_char=513|end_char=523
+10	эту	этот	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	9	_	_	start_char=524|end_char=527
+11	войну	война	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	_	_	start_char=528|end_char=533|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	_	_	start_char=533|end_char=534
+
+# text = На вопрос о наиболее вероятном исходе войны 58% считают, что будет победа Украины, 30% считают, что она закончится урегулированием, 1% – что РФ победит.
+# sent_id = 5
+1	На	на	ADP	_	_	0	_	_	start_char=535|end_char=537
+2	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	_	_	start_char=538|end_char=544
+3	о	о	ADP	_	_	2	_	_	start_char=545|end_char=546
+4	наиболее	наиболее	ADV	_	Degree=Pos	3	_	_	start_char=547|end_char=555
+5	вероятном	вероятный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	4	_	_	start_char=556|end_char=565
+6	исходе	исход	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	_	_	start_char=566|end_char=572
+7	войны	война	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	_	_	start_char=573|end_char=578
+8	58	58	NUM	_	NumType=Card	7	_	_	start_char=579|end_char=581|SpaceAfter=No
+9	%	%	SYM	_	_	8	_	_	start_char=581|end_char=582
+10	считают	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	_	_	start_char=583|end_char=590|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=590|end_char=591
+12	что	что	SCONJ	_	_	11	_	_	start_char=592|end_char=595
+13	будет	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	_	_	start_char=596|end_char=601
+14	победа	победа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	_	_	start_char=602|end_char=608
+15	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	_	_	start_char=609|end_char=616|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	_	_	start_char=616|end_char=617
+17	30	30	NUM	_	NumType=Card	16	_	_	start_char=618|end_char=620|SpaceAfter=No
+18	%	%	SYM	_	_	17	_	_	start_char=620|end_char=621
+19	считают	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	_	_	start_char=622|end_char=629|SpaceAfter=No
+20	,	,	PUNCT	_	_	19	_	_	start_char=629|end_char=630
+21	что	что	SCONJ	_	_	20	_	_	start_char=631|end_char=634
+22	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	21	_	_	start_char=635|end_char=638
+23	закончится	закончиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	22	_	_	start_char=639|end_char=649
+24	урегулированием	урегулирование	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	23	_	_	start_char=650|end_char=665|SpaceAfter=No
+25	,	,	PUNCT	_	_	24	_	_	start_char=665|end_char=666
+26	1	1	NUM	_	NumType=Card	25	_	_	start_char=667|end_char=668|SpaceAfter=No
+27	%	%	SYM	_	_	26	_	_	start_char=668|end_char=669
+28	–	–	PUNCT	_	_	27	_	_	start_char=670|end_char=671
+29	что	что	SCONJ	_	_	28	_	_	start_char=672|end_char=675
+30	РФ	РФ	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	29	_	_	start_char=676|end_char=678
+31	победит	победить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	30	_	_	start_char=679|end_char=686|SpaceAfter=No
+32	.	.	PUNCT	_	_	31	_	_	start_char=686|end_char=687
+
+# text = Около трети украинцев верят, что война закончится в течение ближайшего года.
+# sent_id = 6
+1	Около	около	ADP	_	_	0	_	_	start_char=688|end_char=693
+2	трети	треть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	_	_	start_char=694|end_char=699
+3	украинцев	украинец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	_	_	start_char=700|end_char=709
+4	верят	верить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	_	_	start_char=710|end_char=715|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=715|end_char=716
+6	что	что	SCONJ	_	_	5	_	_	start_char=717|end_char=720
+7	война	война	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	_	_	start_char=721|end_char=726
+8	закончится	закончиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	7	_	_	start_char=727|end_char=737
+9	в	в	ADP	_	_	8	_	_	start_char=738|end_char=739
+10	течение	течение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	_	_	start_char=740|end_char=747
+11	ближайшего	ближайший	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	_	_	start_char=748|end_char=758
+12	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	_	_	start_char=759|end_char=763|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=763|end_char=764
+
+# text = 25% украинцев считают, что эта война закончится победой Украины в течение этого года », – подчеркнул политолог."
+# sent_id = 7
+1	25	25	NUM	_	NumType=Card	0	_	_	start_char=765|end_char=767|SpaceAfter=No
+2	%	%	SYM	_	_	1	_	_	start_char=767|end_char=768
+3	украинцев	украинец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	_	_	start_char=769|end_char=778
+4	считают	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	_	_	start_char=779|end_char=786|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=786|end_char=787
+6	что	что	SCONJ	_	_	5	_	_	start_char=788|end_char=791
+7	эта	этот	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	6	_	_	start_char=792|end_char=795
+8	война	война	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	_	_	start_char=796|end_char=801
+9	закончится	закончиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	8	_	_	start_char=802|end_char=812
+10	победой	победа	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	9	_	_	start_char=813|end_char=820
+11	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	_	_	start_char=821|end_char=828
+12	в	в	ADP	_	_	11	_	_	start_char=829|end_char=830
+13	течение	течение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	12	_	_	start_char=831|end_char=838
+14	этого	этот	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	13	_	_	start_char=839|end_char=844
+15	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	_	_	start_char=845|end_char=849
+16	»	"	PUNCT	_	_	15	_	_	start_char=850|end_char=851|SpaceAfter=No
+17	,	,	PUNCT	_	_	16	_	_	start_char=851|end_char=852
+18	–	–	PUNCT	_	_	17	_	_	start_char=853|end_char=854
+19	подчеркнул	подчеркнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	18	_	_	start_char=855|end_char=865
+20	политолог	политолог	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	19	_	_	start_char=866|end_char=875|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	_	_	start_char=875|end_char=876|SpaceAfter=No
+22	"	"	PUNCT	_	_	21	_	_	start_char=876|end_char=877|SpaceAfter=No
+

@@ -1,0 +1,476 @@
+# text = Алексей Текслер: «Подбитые «Абрамсы» и БТР наглядно показывают, что будет со всей западной техникой в зоне СВО» "Губернатор Челябинской области посетил выставку трофейной техники стран НАТО и их союзников.
+# sent_id = 0
+1	Алексей	Алексей	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=0|end_char=7
+2	Текслер	Текслер	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=8|end_char=15|SpaceAfter=No
+3	:	:	PUNCT	_	_	2	_	_	start_char=15|end_char=16
+4	«	"	PUNCT	_	_	3	_	_	start_char=17|end_char=18|SpaceAfter=No
+5	Подбитые	подбитый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	_	_	start_char=18|end_char=26
+6	«	"	PUNCT	_	_	5	_	_	start_char=27|end_char=28|SpaceAfter=No
+7	Абрамсы	Абрамса	PROPN	_	_	6	_	_	start_char=28|end_char=35|SpaceAfter=No
+8	»	"	PUNCT	_	_	7	_	_	start_char=35|end_char=36
+9	и	и	CCONJ	_	_	8	_	_	start_char=37|end_char=38
+10	БТР	БТР	PROPN	_	Animacy=Inan|Number=Sing	9	_	_	start_char=39|end_char=42
+11	наглядно	наглядно	ADV	_	Degree=Pos	10	_	_	start_char=43|end_char=51
+12	показывают	показывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	_	_	start_char=52|end_char=62|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=62|end_char=63
+14	что	что	PRON	_	Case=Nom|PronType=Int,Rel	13	_	_	start_char=64|end_char=67
+15	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	_	_	start_char=68|end_char=73
+16	со	с	ADP	_	_	15	_	_	start_char=74|end_char=76
+17	всей	весь	DET	_	Case=Ins|Gender=Fem|Number=Sing|PronType=Tot	16	_	_	start_char=77|end_char=81
+18	западной	западный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	17	_	_	start_char=82|end_char=90
+19	техникой	техника	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	18	_	_	start_char=91|end_char=99
+20	в	в	ADP	_	_	19	_	_	start_char=100|end_char=101
+21	зоне	зона	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	20	_	_	start_char=102|end_char=106
+22	СВО	СВО	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	_	_	start_char=107|end_char=110|SpaceAfter=No
+23	»	"	PUNCT	_	_	22	_	_	start_char=110|end_char=111
+24	"	"	PUNCT	_	_	23	_	_	start_char=112|end_char=113|SpaceAfter=No
+25	Губернатор	губернатор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	24	_	_	start_char=113|end_char=123
+26	Челябинской	челябинский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	25	_	_	start_char=124|end_char=135
+27	области	область	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	26	_	_	start_char=136|end_char=143
+28	посетил	посетить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	27	_	_	start_char=144|end_char=151
+29	выставку	выставка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	28	_	_	start_char=152|end_char=160
+30	трофейной	трофейный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	29	_	_	start_char=161|end_char=170
+31	техники	техника	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	30	_	_	start_char=171|end_char=178
+32	стран	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	31	_	_	start_char=179|end_char=184
+33	НАТО	НАТО	PROPN	_	Animacy=Inan|Case=Gen|Number=Sing	32	_	_	start_char=185|end_char=189
+34	и	и	CCONJ	_	_	33	_	_	start_char=190|end_char=191
+35	их	их	DET	_	Poss=Yes|PronType=Prs	34	_	_	start_char=192|end_char=194
+36	союзников	союзник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	35	_	_	start_char=195|end_char=204|SpaceAfter=No
+37	.	.	PUNCT	_	_	36	_	_	start_char=204|end_char=205
+
+# text = Экспозиция работает всего несколько дней, но ее уже посетили более 23 тысяч жителей региона.
+# sent_id = 1
+1	Экспозиция	экспозиция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	_	_	start_char=206|end_char=216
+2	работает	работать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	_	_	start_char=217|end_char=225
+3	всего	всего	PART	_	_	2	_	_	start_char=226|end_char=231
+4	несколько	несколько	NUM	_	Animacy=Inan|Case=Acc|NumType=Card	3	_	_	start_char=232|end_char=241
+5	дней	день	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	_	_	start_char=242|end_char=246|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=246|end_char=247
+7	но	но	CCONJ	_	_	6	_	_	start_char=248|end_char=250
+8	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	_	_	start_char=251|end_char=253
+9	уже	уже	ADV	_	Degree=Pos	8	_	_	start_char=254|end_char=257
+10	посетили	посетить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	9	_	_	start_char=258|end_char=266
+11	более	более	ADV	_	Degree=Cmp	10	_	_	start_char=267|end_char=272
+12	23	23	NUM	_	NumType=Card	11	_	_	start_char=273|end_char=275
+13	тысяч	тысяча	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	12	_	_	start_char=276|end_char=281
+14	жителей	житель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	13	_	_	start_char=282|end_char=289
+15	региона	регион	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	_	_	start_char=290|end_char=297|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	_	_	start_char=297|end_char=298
+
+# text = Кстати, выставка приехала из Свердловской области, где интерес к выставке был чуть меньше.
+# sent_id = 2
+1	Кстати	кстати	ADV	_	Degree=Pos	0	_	_	start_char=299|end_char=305|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	_	_	start_char=305|end_char=306
+3	выставка	выставка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	_	_	start_char=307|end_char=315
+4	приехала	приехать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	_	_	start_char=316|end_char=324
+5	из	из	ADP	_	_	4	_	_	start_char=325|end_char=327
+6	Свердловской	свердловский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	_	_	start_char=328|end_char=340
+7	области	область	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	_	_	start_char=341|end_char=348|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=348|end_char=349
+9	где	где	ADV	_	Degree=Pos	8	_	_	start_char=350|end_char=353
+10	интерес	интерес	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	_	_	start_char=354|end_char=361
+11	к	к	ADP	_	_	10	_	_	start_char=362|end_char=363
+12	выставке	выставка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	11	_	_	start_char=364|end_char=372
+13	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	_	_	start_char=373|end_char=376
+14	чуть	чуть	ADV	_	Degree=Pos	13	_	_	start_char=377|end_char=381
+15	меньше	малый	ADJ	_	Degree=Cmp	14	_	_	start_char=382|end_char=388|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	_	_	start_char=388|end_char=389
+
+# text = С 8 июля в Челябинске у ледовой арены «Трактор» работает передвижная выставка трофейной техники стран НАТО и их союзников.
+# sent_id = 3
+1	С	с	ADP	_	_	0	_	_	start_char=390|end_char=391
+2	8	8	NUM	_	NumType=Card	1	_	_	start_char=392|end_char=393
+3	июля	июль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	_	_	start_char=394|end_char=398
+4	в	в	ADP	_	_	3	_	_	start_char=399|end_char=400
+5	Челябинске	Челябинск	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	_	_	start_char=401|end_char=411
+6	у	у	ADP	_	_	5	_	_	start_char=412|end_char=413
+7	ледовой	ледовый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	_	_	start_char=414|end_char=421
+8	арены	арена	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	_	_	start_char=422|end_char=427
+9	«	"	PUNCT	_	_	8	_	_	start_char=428|end_char=429|SpaceAfter=No
+10	Трактор	трактор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	_	_	start_char=429|end_char=436|SpaceAfter=No
+11	»	"	PUNCT	_	_	10	_	_	start_char=436|end_char=437
+12	работает	работать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	_	_	start_char=438|end_char=446
+13	передвижная	передвижной	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	12	_	_	start_char=447|end_char=458
+14	выставка	выставка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	_	_	start_char=459|end_char=467
+15	трофейной	трофейный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	14	_	_	start_char=468|end_char=477
+16	техники	техника	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	_	_	start_char=478|end_char=485
+17	стран	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	16	_	_	start_char=486|end_char=491
+18	НАТО	НАТО	PROPN	_	Case=Gen|Number=Sing	17	_	_	start_char=492|end_char=496
+19	и	и	CCONJ	_	_	18	_	_	start_char=497|end_char=498
+20	их	их	DET	_	Poss=Yes|PronType=Prs	19	_	_	start_char=499|end_char=501
+21	союзников	союзник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	20	_	_	start_char=502|end_char=511|SpaceAfter=No
+22	.	.	PUNCT	_	_	21	_	_	start_char=511|end_char=512
+
+# text = Как ранее сообщала «Губерния», на площадке представлены подбитые в зоне СВО боевые машины пехоты, танки, бронетранспортеры, разведывательные и ударные беспилотники, стрелковое оружие, которое производят в Америке, Британии, Украине, Турции, Германии и в других странах.
+# sent_id = 4
+1	Как	как	SCONJ	_	_	0	_	_	start_char=513|end_char=516
+2	ранее	ранее	ADV	_	Degree=Pos	1	_	_	start_char=517|end_char=522
+3	сообщала	сообщать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=523|end_char=531
+4	«	"	PUNCT	_	_	3	_	_	start_char=532|end_char=533|SpaceAfter=No
+5	Губерния	губерния	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	_	_	start_char=533|end_char=541|SpaceAfter=No
+6	»	"	PUNCT	_	_	5	_	_	start_char=541|end_char=542|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	_	_	start_char=542|end_char=543
+8	на	на	ADP	_	_	7	_	_	start_char=544|end_char=546
+9	площадке	площадка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	_	_	start_char=547|end_char=555
+10	представлены	представить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	9	_	_	start_char=556|end_char=568
+11	подбитые	подбить	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	10	_	_	start_char=569|end_char=577
+12	в	в	ADP	_	_	11	_	_	start_char=578|end_char=579
+13	зоне	зона	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	_	_	start_char=580|end_char=584
+14	СВО	СВО	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	_	_	start_char=585|end_char=588
+15	боевые	боевой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	14	_	_	start_char=589|end_char=595
+16	машины	машина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	15	_	_	start_char=596|end_char=602
+17	пехоты	пехота	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	_	_	start_char=603|end_char=609|SpaceAfter=No
+18	,	,	PUNCT	_	_	17	_	_	start_char=609|end_char=610
+19	танки	танк	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	18	_	_	start_char=611|end_char=616|SpaceAfter=No
+20	,	,	PUNCT	_	_	19	_	_	start_char=616|end_char=617
+21	бронетранспортеры	бронетранспортер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	20	_	_	start_char=618|end_char=635|SpaceAfter=No
+22	,	,	PUNCT	_	_	21	_	_	start_char=635|end_char=636
+23	разведывательные	разведывательный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	22	_	_	start_char=637|end_char=653
+24	и	и	CCONJ	_	_	23	_	_	start_char=654|end_char=655
+25	ударные	ударный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	24	_	_	start_char=656|end_char=663
+26	беспилотники	беспилотник	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	25	_	_	start_char=664|end_char=676|SpaceAfter=No
+27	,	,	PUNCT	_	_	26	_	_	start_char=676|end_char=677
+28	стрелковое	стрелковый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	27	_	_	start_char=678|end_char=688
+29	оружие	оружие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	28	_	_	start_char=689|end_char=695|SpaceAfter=No
+30	,	,	PUNCT	_	_	29	_	_	start_char=695|end_char=696
+31	которое	который	PRON	_	Case=Acc|PronType=Int,Rel	30	_	_	start_char=697|end_char=704
+32	производят	производить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	31	_	_	start_char=705|end_char=715
+33	в	в	ADP	_	_	32	_	_	start_char=716|end_char=717
+34	Америке	Америка	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	33	_	_	start_char=718|end_char=725|SpaceAfter=No
+35	,	,	PUNCT	_	_	34	_	_	start_char=725|end_char=726
+36	Британии	Британия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	35	_	_	start_char=727|end_char=735|SpaceAfter=No
+37	,	,	PUNCT	_	_	36	_	_	start_char=735|end_char=736
+38	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	37	_	_	start_char=737|end_char=744|SpaceAfter=No
+39	,	,	PUNCT	_	_	38	_	_	start_char=744|end_char=745
+40	Турции	Турция	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	39	_	_	start_char=746|end_char=752|SpaceAfter=No
+41	,	,	PUNCT	_	_	40	_	_	start_char=752|end_char=753
+42	Германии	Германия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	41	_	_	start_char=754|end_char=762
+43	и	и	CCONJ	_	_	42	_	_	start_char=763|end_char=764
+44	в	в	ADP	_	_	43	_	_	start_char=765|end_char=766
+45	других	другой	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	44	_	_	start_char=767|end_char=773
+46	странах	страна	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	45	_	_	start_char=774|end_char=781|SpaceAfter=No
+47	.	.	PUNCT	_	_	46	_	_	start_char=781|end_char=782
+
+# text = Вся эта техника поставляется Украине и отлично горит на поле боя, что выставка и демонстрирует.
+# sent_id = 5
+1	Вся	весь	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Tot	0	_	_	start_char=783|end_char=786
+2	эта	этот	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	1	_	_	start_char=787|end_char=790
+3	техника	техника	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	_	_	start_char=791|end_char=798
+4	поставляется	поставлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	_	_	start_char=799|end_char=811
+5	Украине	Украина	PROPN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	4	_	_	start_char=812|end_char=819
+6	и	и	CCONJ	_	_	5	_	_	start_char=820|end_char=821
+7	отлично	отлично	ADV	_	Degree=Pos	6	_	_	start_char=822|end_char=829
+8	горит	гореть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	_	_	start_char=830|end_char=835
+9	на	на	ADP	_	_	8	_	_	start_char=836|end_char=838
+10	поле	поле	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	_	_	start_char=839|end_char=843
+11	боя	бой	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	_	_	start_char=844|end_char=847|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	_	_	start_char=847|end_char=848
+13	что	что	SCONJ	_	_	12	_	_	start_char=849|end_char=852
+14	выставка	выставка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	_	_	start_char=853|end_char=861
+15	и	и	PART	_	_	14	_	_	start_char=862|end_char=863
+16	демонстрирует	демонстрировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	_	_	start_char=864|end_char=877|SpaceAfter=No
+17	.	.	PUNCT	_	_	16	_	_	start_char=877|end_char=878
+
+# text = В первый день работы выставки ее посетили 12 тысяч южноуральцев, а за несколько дней количество гостей выросло до 23 тысяч.
+# sent_id = 6
+1	В	в	ADP	_	_	0	_	_	start_char=879|end_char=880
+2	первый	первый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	1	_	_	start_char=881|end_char=887
+3	день	день	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	_	_	start_char=888|end_char=892
+4	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	_	_	start_char=893|end_char=899
+5	выставки	выставка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	_	_	start_char=900|end_char=908
+6	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	_	_	start_char=909|end_char=911
+7	посетили	посетить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	6	_	_	start_char=912|end_char=920
+8	12	12	NUM	_	NumType=Card	7	_	_	start_char=921|end_char=923
+9	тысяч	тысяча	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	_	_	start_char=924|end_char=929
+10	южноуральцев	южноуралец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	9	_	_	start_char=930|end_char=942|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=942|end_char=943
+12	а	а	CCONJ	_	_	11	_	_	start_char=944|end_char=945
+13	за	за	ADP	_	_	12	_	_	start_char=946|end_char=948
+14	несколько	несколько	NUM	_	Animacy=Inan|Case=Acc|NumType=Card	13	_	_	start_char=949|end_char=958
+15	дней	день	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	14	_	_	start_char=959|end_char=963
+16	количество	количество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	15	_	_	start_char=964|end_char=974
+17	гостей	гость	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	16	_	_	start_char=975|end_char=981
+18	выросло	вырасти	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	17	_	_	start_char=982|end_char=989
+19	до	до	ADP	_	_	18	_	_	start_char=990|end_char=992
+20	23	23	NUM	_	NumType=Card	19	_	_	start_char=993|end_char=995
+21	тысяч	тысяча	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	20	_	_	start_char=996|end_char=1001|SpaceAfter=No
+22	.	.	PUNCT	_	_	21	_	_	start_char=1001|end_char=1002
+
+# text = Организаторы отмечают, что в Челябинске интерес к раскуроченным НАТОвским «легендам» куда выше, чем в Свердловской области, откуда выставка и приехала, — там в праздничный День России выставка собрала максимум девять тысяч посещений.
+# sent_id = 7
+1	Организаторы	организатор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	0	_	_	start_char=1003|end_char=1015
+2	отмечают	отмечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	_	_	start_char=1016|end_char=1024|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=1024|end_char=1025
+4	что	что	SCONJ	_	_	3	_	_	start_char=1026|end_char=1029
+5	в	в	ADP	_	_	4	_	_	start_char=1030|end_char=1031
+6	Челябинске	Челябинск	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	_	_	start_char=1032|end_char=1042
+7	интерес	интерес	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	_	_	start_char=1043|end_char=1050
+8	к	к	ADP	_	_	7	_	_	start_char=1051|end_char=1052
+9	раскуроченным	раскуротить	VERB	_	Aspect=Perf|Case=Dat|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	8	_	_	start_char=1053|end_char=1066
+10	НАТОвским	натовский	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	9	_	_	start_char=1067|end_char=1076
+11	«	"	PUNCT	_	_	10	_	_	start_char=1077|end_char=1078|SpaceAfter=No
+12	легендам	легенда	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	11	_	_	start_char=1078|end_char=1086|SpaceAfter=No
+13	»	"	PUNCT	_	_	12	_	_	start_char=1086|end_char=1087
+14	куда	куда	ADV	_	Degree=Pos	13	_	_	start_char=1088|end_char=1092
+15	выше	высокий	ADJ	_	Degree=Cmp	14	_	_	start_char=1093|end_char=1097|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	_	_	start_char=1097|end_char=1098
+17	чем	чем	SCONJ	_	_	16	_	_	start_char=1099|end_char=1102
+18	в	в	ADP	_	_	17	_	_	start_char=1103|end_char=1104
+19	Свердловской	свердловский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	18	_	_	start_char=1105|end_char=1117
+20	области	область	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	19	_	_	start_char=1118|end_char=1125|SpaceAfter=No
+21	,	,	PUNCT	_	_	20	_	_	start_char=1125|end_char=1126
+22	откуда	откуда	ADV	_	Degree=Pos	21	_	_	start_char=1127|end_char=1133
+23	выставка	выставка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	22	_	_	start_char=1134|end_char=1142
+24	и	и	PART	_	_	23	_	_	start_char=1143|end_char=1144
+25	приехала	приехать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	24	_	_	start_char=1145|end_char=1153|SpaceAfter=No
+26	,	,	PUNCT	_	_	25	_	_	start_char=1153|end_char=1154
+27	—	—	PUNCT	_	_	26	_	_	start_char=1155|end_char=1156
+28	там	там	ADV	_	Degree=Pos	27	_	_	start_char=1157|end_char=1160
+29	в	в	ADP	_	_	28	_	_	start_char=1161|end_char=1162
+30	праздничный	праздничный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	29	_	_	start_char=1163|end_char=1174
+31	День	День	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	30	_	_	start_char=1175|end_char=1179
+32	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	31	_	_	start_char=1180|end_char=1186
+33	выставка	выставка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	32	_	_	start_char=1187|end_char=1195
+34	собрала	собрать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	33	_	_	start_char=1196|end_char=1203
+35	максимум	максимум	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	34	_	_	start_char=1204|end_char=1212
+36	девять	девять	NUM	_	Case=Acc|NumType=Card	35	_	_	start_char=1213|end_char=1219
+37	тысяч	тысяча	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	36	_	_	start_char=1220|end_char=1225
+38	посещений	посещение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	37	_	_	start_char=1226|end_char=1235|SpaceAfter=No
+39	.	.	PUNCT	_	_	38	_	_	start_char=1235|end_char=1236
+
+# text = Сегодня в числе посетителей выставки оказался и губернатор Челябинской области Алексей Текслер.
+# sent_id = 8
+1	Сегодня	сегодня	ADV	_	Degree=Pos	0	_	_	start_char=1237|end_char=1244
+2	в	в	ADP	_	_	1	_	_	start_char=1245|end_char=1246
+3	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	2	_	_	start_char=1247|end_char=1252
+4	посетителей	посетитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	3	_	_	start_char=1253|end_char=1264
+5	выставки	выставка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	_	_	start_char=1265|end_char=1273
+6	оказался	оказаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	5	_	_	start_char=1274|end_char=1282
+7	и	и	PART	_	_	6	_	_	start_char=1283|end_char=1284
+8	губернатор	губернатор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	_	_	start_char=1285|end_char=1295
+9	Челябинской	челябинский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	_	_	start_char=1296|end_char=1307
+10	области	область	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	_	_	start_char=1308|end_char=1315
+11	Алексей	Алексей	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	_	_	start_char=1316|end_char=1323
+12	Текслер	Текслер	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	_	_	start_char=1324|end_char=1331|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=1331|end_char=1332
+
+# text = Он лично ознакомился со всеми экземплярами и отметил, что эта выставка отлично демонстрирует успехи нашей армии на поле боя.
+# sent_id = 9
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1333|end_char=1335
+2	лично	лично	ADV	_	Degree=Pos	1	_	_	start_char=1336|end_char=1341
+3	ознакомился	ознакомиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	_	_	start_char=1342|end_char=1353
+4	со	с	ADP	_	_	3	_	_	start_char=1354|end_char=1356
+5	всеми	весь	DET	_	Case=Ins|Number=Plur|PronType=Tot	4	_	_	start_char=1357|end_char=1362
+6	экземплярами	экземпляр	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	5	_	_	start_char=1363|end_char=1375
+7	и	и	CCONJ	_	_	6	_	_	start_char=1376|end_char=1377
+8	отметил	отметить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	_	_	start_char=1378|end_char=1385|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=1385|end_char=1386
+10	что	что	SCONJ	_	_	9	_	_	start_char=1387|end_char=1390
+11	эта	этот	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	10	_	_	start_char=1391|end_char=1394
+12	выставка	выставка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	_	_	start_char=1395|end_char=1403
+13	отлично	отлично	ADV	_	Degree=Pos	12	_	_	start_char=1404|end_char=1411
+14	демонстрирует	демонстрировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	_	_	start_char=1412|end_char=1425
+15	успехи	успех	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	14	_	_	start_char=1426|end_char=1432
+16	нашей	наш	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	15	_	_	start_char=1433|end_char=1438
+17	армии	армия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	_	_	start_char=1439|end_char=1444
+18	на	на	ADP	_	_	17	_	_	start_char=1445|end_char=1447
+19	поле	поле	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	18	_	_	start_char=1448|end_char=1452
+20	боя	бой	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	_	_	start_char=1453|end_char=1456|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	_	_	start_char=1456|end_char=1457
+
+# text = — Благодаря мужеству наших ребят и силе нашего оружия вся эта техника была подбита и в итоге затрофеена, и находится у нас в Челябинске, в знаменитом Танкограде.
+# sent_id = 10
+1	—	—	PUNCT	_	_	0	_	_	start_char=1458|end_char=1459
+2	Благодаря	благодаря	ADP	_	_	1	_	_	start_char=1460|end_char=1469
+3	мужеству	мужество	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	2	_	_	start_char=1470|end_char=1478
+4	наших	наш	DET	_	Case=Gen|Number=Plur|Poss=Yes|PronType=Prs	3	_	_	start_char=1479|end_char=1484
+5	ребят	ребята	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur	4	_	_	start_char=1485|end_char=1490
+6	и	и	CCONJ	_	_	5	_	_	start_char=1491|end_char=1492
+7	силе	сила	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	6	_	_	start_char=1493|end_char=1497
+8	нашего	наш	DET	_	Case=Gen|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	7	_	_	start_char=1498|end_char=1504
+9	оружия	оружие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	_	_	start_char=1505|end_char=1511
+10	вся	весь	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Tot	9	_	_	start_char=1512|end_char=1515
+11	эта	этот	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	10	_	_	start_char=1516|end_char=1519
+12	техника	техника	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	_	_	start_char=1520|end_char=1527
+13	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	_	_	start_char=1528|end_char=1532
+14	подбита	подбить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	13	_	_	start_char=1533|end_char=1540
+15	и	и	CCONJ	_	_	14	_	_	start_char=1541|end_char=1542
+16	в	в	ADP	_	_	15	_	_	start_char=1543|end_char=1544
+17	итоге	итог	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	16	_	_	start_char=1545|end_char=1550
+18	затрофеена	затрофеть	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	17	_	_	start_char=1551|end_char=1561|SpaceAfter=No
+19	,	,	PUNCT	_	_	18	_	_	start_char=1561|end_char=1562
+20	и	и	CCONJ	_	_	19	_	_	start_char=1563|end_char=1564
+21	находится	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	20	_	_	start_char=1565|end_char=1574
+22	у	у	ADP	_	_	21	_	_	start_char=1575|end_char=1576
+23	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	22	_	_	start_char=1577|end_char=1580
+24	в	в	ADP	_	_	23	_	_	start_char=1581|end_char=1582
+25	Челябинске	Челябинск	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	24	_	_	start_char=1583|end_char=1593|SpaceAfter=No
+26	,	,	PUNCT	_	_	25	_	_	start_char=1593|end_char=1594
+27	в	в	ADP	_	_	26	_	_	start_char=1595|end_char=1596
+28	знаменитом	знаменитый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	27	_	_	start_char=1597|end_char=1607
+29	Танкограде	Танкоград	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	28	_	_	start_char=1608|end_char=1618|SpaceAfter=No
+30	.	.	PUNCT	_	_	29	_	_	start_char=1618|end_char=1619
+
+# text = Наш регион делает много для победы, и, скорее всего, некоторая техника была подбита в том числе из оружия, которое производится здесь, на Южном Урале, — подчеркнул губернатор.
+# sent_id = 11
+1	Наш	наш	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	0	_	_	start_char=1620|end_char=1623
+2	регион	регион	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=1624|end_char=1630
+3	делает	делать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=1631|end_char=1637
+4	много	много	ADV	_	Degree=Pos	3	_	_	start_char=1638|end_char=1643
+5	для	для	ADP	_	_	4	_	_	start_char=1644|end_char=1647
+6	победы	победа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	_	_	start_char=1648|end_char=1654|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	_	_	start_char=1654|end_char=1655
+8	и	и	CCONJ	_	_	7	_	_	start_char=1656|end_char=1657|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=1657|end_char=1658
+10	скорее	скорее	ADV	_	Degree=Pos	9	_	_	start_char=1659|end_char=1665
+11	всего	все	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Tot	10	_	_	start_char=1666|end_char=1671|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	_	_	start_char=1671|end_char=1672
+13	некоторая	некоторый	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	12	_	_	start_char=1673|end_char=1682
+14	техника	техника	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	_	_	start_char=1683|end_char=1690
+15	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	_	_	start_char=1691|end_char=1695
+16	подбита	подбить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	15	_	_	start_char=1696|end_char=1703
+17	в	в	ADP	_	_	16	_	_	start_char=1704|end_char=1705
+18	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	17	_	_	start_char=1706|end_char=1709
+19	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	18	_	_	start_char=1710|end_char=1715
+20	из	из	ADP	_	_	19	_	_	start_char=1716|end_char=1718
+21	оружия	оружие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	_	_	start_char=1719|end_char=1725|SpaceAfter=No
+22	,	,	PUNCT	_	_	21	_	_	start_char=1725|end_char=1726
+23	которое	который	PRON	_	Case=Nom|PronType=Int,Rel	22	_	_	start_char=1727|end_char=1734
+24	производится	производить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	23	_	_	start_char=1735|end_char=1747
+25	здесь	здесь	ADV	_	Degree=Pos	24	_	_	start_char=1748|end_char=1753|SpaceAfter=No
+26	,	,	PUNCT	_	_	25	_	_	start_char=1753|end_char=1754
+27	на	на	ADP	_	_	26	_	_	start_char=1755|end_char=1757
+28	Южном	Южный	PROPN	_	_	27	_	_	start_char=1758|end_char=1763
+29	Урале	Урал	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	28	_	_	start_char=1764|end_char=1769|SpaceAfter=No
+30	,	,	PUNCT	_	_	29	_	_	start_char=1769|end_char=1770
+31	—	—	PUNCT	_	_	30	_	_	start_char=1771|end_char=1772
+32	подчеркнул	подчеркнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	31	_	_	start_char=1773|end_char=1783
+33	губернатор	губернатор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	32	_	_	start_char=1784|end_char=1794|SpaceAfter=No
+34	.	.	PUNCT	_	_	33	_	_	start_char=1794|end_char=1795
+
+# text = — На выставке наши южноуральцы, герои, ребята из 90-й танковой дивизии экскурсоводами работают, поэтому берет гордость – наша армия выполняет задачу.
+# sent_id = 12
+1	—	—	PUNCT	_	_	0	_	_	start_char=1796|end_char=1797
+2	На	на	ADP	_	_	1	_	_	start_char=1798|end_char=1800
+3	выставке	выставка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	_	_	start_char=1801|end_char=1809
+4	наши	наш	DET	_	Case=Nom|Number=Plur|Poss=Yes|PronType=Prs	3	_	_	start_char=1810|end_char=1814
+5	южноуральцы	южноуралец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	_	_	start_char=1815|end_char=1826|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=1826|end_char=1827
+7	герои	герой	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	6	_	_	start_char=1828|end_char=1833|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=1833|end_char=1834
+9	ребята	ребята	NOUN	_	Animacy=Anim|Case=Nom|Gender=Neut|Number=Plur	8	_	_	start_char=1835|end_char=1841
+10	из	из	ADP	_	_	9	_	_	start_char=1842|end_char=1844
+11	90-й	90-й	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	_	_	start_char=1845|end_char=1849
+12	танковой	танковый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	_	_	start_char=1850|end_char=1858
+13	дивизии	дивизия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	_	_	start_char=1859|end_char=1866
+14	экскурсоводами	экскурсовод	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	13	_	_	start_char=1867|end_char=1881
+15	работают	работать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	_	_	start_char=1882|end_char=1890|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	_	_	start_char=1890|end_char=1891
+17	поэтому	поэтому	ADV	_	Degree=Pos	16	_	_	start_char=1892|end_char=1899
+18	берет	брать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	_	_	start_char=1900|end_char=1905
+19	гордость	гордость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	18	_	_	start_char=1906|end_char=1914
+20	–	–	PUNCT	_	_	19	_	_	start_char=1915|end_char=1916
+21	наша	наш	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	20	_	_	start_char=1917|end_char=1921
+22	армия	армия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	21	_	_	start_char=1922|end_char=1927
+23	выполняет	выполнять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	_	_	start_char=1928|end_char=1937
+24	задачу	задача	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	23	_	_	start_char=1938|end_char=1944|SpaceAfter=No
+25	.	.	PUNCT	_	_	24	_	_	start_char=1944|end_char=1945
+
+# text = Та техника, которая здесь представлена, и хваленый Abrams и БТР, боевые машины пехоты, стрелковое оружие, что поставляют на Украину, наглядно показывает, что с этой техникой будет благодаря нашей армии и мужеству наших ребят.
+# sent_id = 13
+1	Та	тот	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	0	_	_	start_char=1946|end_char=1948
+2	техника	техника	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	_	_	start_char=1949|end_char=1956|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=1956|end_char=1957
+4	которая	который	PRON	_	Case=Nom|PronType=Int,Rel	3	_	_	start_char=1958|end_char=1965
+5	здесь	здесь	ADV	_	Degree=Pos	4	_	_	start_char=1966|end_char=1971
+6	представлена	представить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	5	_	_	start_char=1972|end_char=1984|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	_	_	start_char=1984|end_char=1985
+8	и	и	CCONJ	_	_	7	_	_	start_char=1986|end_char=1987
+9	хваленый	хваленый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	_	_	start_char=1988|end_char=1996
+10	Abrams	Abrams	PROPN	_	Foreign=Yes	9	_	_	start_char=1997|end_char=2003
+11	и	и	CCONJ	_	_	10	_	_	start_char=2004|end_char=2005
+12	БТР	БТР	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	_	_	start_char=2006|end_char=2009|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=2009|end_char=2010
+14	боевые	боевой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	13	_	_	start_char=2011|end_char=2017
+15	машины	машина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	14	_	_	start_char=2018|end_char=2024
+16	пехоты	пехота	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	_	_	start_char=2025|end_char=2031|SpaceAfter=No
+17	,	,	PUNCT	_	_	16	_	_	start_char=2031|end_char=2032
+18	стрелковое	стрелковый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	17	_	_	start_char=2033|end_char=2043
+19	оружие	оружие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	18	_	_	start_char=2044|end_char=2050|SpaceAfter=No
+20	,	,	PUNCT	_	_	19	_	_	start_char=2050|end_char=2051
+21	что	что	PRON	_	Case=Acc|PronType=Int,Rel	20	_	_	start_char=2052|end_char=2055
+22	поставляют	поставлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	_	_	start_char=2056|end_char=2066
+23	на	на	ADP	_	_	22	_	_	start_char=2067|end_char=2069
+24	Украину	Украина	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	23	_	_	start_char=2070|end_char=2077|SpaceAfter=No
+25	,	,	PUNCT	_	_	24	_	_	start_char=2077|end_char=2078
+26	наглядно	наглядно	ADV	_	Degree=Pos	25	_	_	start_char=2079|end_char=2087
+27	показывает	показывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	26	_	_	start_char=2088|end_char=2098|SpaceAfter=No
+28	,	,	PUNCT	_	_	27	_	_	start_char=2098|end_char=2099
+29	что	что	SCONJ	_	_	28	_	_	start_char=2100|end_char=2103
+30	с	с	ADP	_	_	29	_	_	start_char=2104|end_char=2105
+31	этой	этот	DET	_	Case=Ins|Gender=Fem|Number=Sing|PronType=Dem	30	_	_	start_char=2106|end_char=2110
+32	техникой	техника	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	31	_	_	start_char=2111|end_char=2119
+33	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	32	_	_	start_char=2120|end_char=2125
+34	благодаря	благодаря	ADP	_	_	33	_	_	start_char=2126|end_char=2135
+35	нашей	наш	DET	_	Case=Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	34	_	_	start_char=2136|end_char=2141
+36	армии	армия	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	35	_	_	start_char=2142|end_char=2147
+37	и	и	CCONJ	_	_	36	_	_	start_char=2148|end_char=2149
+38	мужеству	мужество	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	37	_	_	start_char=2150|end_char=2158
+39	наших	наш	DET	_	Case=Gen|Number=Plur|Poss=Yes|PronType=Prs	38	_	_	start_char=2159|end_char=2164
+40	ребят	ребята	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur	39	_	_	start_char=2165|end_char=2170|SpaceAfter=No
+41	.	.	PUNCT	_	_	40	_	_	start_char=2170|end_char=2171
+
+# text = Выставка трофейной техники НАТО, напомним, будет работать в Челябинске до 20 июля.
+# sent_id = 14
+1	Выставка	выставка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	_	_	start_char=2172|end_char=2180
+2	трофейной	трофейный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	1	_	_	start_char=2181|end_char=2190
+3	техники	техника	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	_	_	start_char=2191|end_char=2198
+4	НАТО	НАТО	PROPN	_	_	3	_	_	start_char=2199|end_char=2203|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=2203|end_char=2204
+6	напомним	напомнить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	5	_	_	start_char=2205|end_char=2213|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	_	_	start_char=2213|end_char=2214
+8	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	_	_	start_char=2215|end_char=2220
+9	работать	работать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	8	_	_	start_char=2221|end_char=2229
+10	в	в	ADP	_	_	9	_	_	start_char=2230|end_char=2231
+11	Челябинске	Челябинск	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	_	_	start_char=2232|end_char=2242
+12	до	до	ADP	_	_	11	_	_	start_char=2243|end_char=2245
+13	20	20	NUM	_	NumType=Card	12	_	_	start_char=2246|end_char=2248
+14	июля	июль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	_	_	start_char=2249|end_char=2253|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	_	_	start_char=2253|end_char=2254
+
+# text = Вход свободный.
+# sent_id = 15
+1	Вход	вход	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=2255|end_char=2259
+2	свободный	свободный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	_	_	start_char=2260|end_char=2269|SpaceAfter=No
+3	.	.	PUNCT	_	_	2	_	_	start_char=2269|end_char=2270
+
+# text = Известно, что организаторы подготовили для гостей интересные мероприятия — здесь будут проводить мастер-классы по рукопашному бою, встречи с участниками СВО и многое другое."
+# sent_id = 16
+1	Известно	известный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	_	_	start_char=2271|end_char=2279|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	_	_	start_char=2279|end_char=2280
+3	что	что	SCONJ	_	_	2	_	_	start_char=2281|end_char=2284
+4	организаторы	организатор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	3	_	_	start_char=2285|end_char=2297
+5	подготовили	подготовить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	_	_	start_char=2298|end_char=2309
+6	для	для	ADP	_	_	5	_	_	start_char=2310|end_char=2313
+7	гостей	гость	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	_	_	start_char=2314|end_char=2320
+8	интересные	интересный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	7	_	_	start_char=2321|end_char=2331
+9	мероприятия	мероприятие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	8	_	_	start_char=2332|end_char=2343
+10	—	—	PUNCT	_	_	9	_	_	start_char=2344|end_char=2345
+11	здесь	здесь	ADV	_	Degree=Pos	10	_	_	start_char=2346|end_char=2351
+12	будут	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	_	_	start_char=2352|end_char=2357
+13	проводить	проводить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	12	_	_	start_char=2358|end_char=2367
+14	мастер-классы	мастер-класса	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	13	_	_	start_char=2368|end_char=2381
+15	по	по	ADP	_	_	14	_	_	start_char=2382|end_char=2384
+16	рукопашному	рукопашный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	15	_	_	start_char=2385|end_char=2396
+17	бою	бой	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	16	_	_	start_char=2397|end_char=2400|SpaceAfter=No
+18	,	,	PUNCT	_	_	17	_	_	start_char=2400|end_char=2401
+19	встречи	встреча	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	18	_	_	start_char=2402|end_char=2409
+20	с	с	ADP	_	_	19	_	_	start_char=2410|end_char=2411
+21	участниками	участник	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	20	_	_	start_char=2412|end_char=2423
+22	СВО	СВО	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	_	_	start_char=2424|end_char=2427
+23	и	и	CCONJ	_	_	22	_	_	start_char=2428|end_char=2429
+24	многое	многое	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	23	_	_	start_char=2430|end_char=2436
+25	другое	другой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	24	_	_	start_char=2437|end_char=2443|SpaceAfter=No
+26	.	.	PUNCT	_	_	25	_	_	start_char=2443|end_char=2444|SpaceAfter=No
+27	"	"	PUNCT	_	_	26	_	_	start_char=2444|end_char=2445|SpaceAfter=No
+

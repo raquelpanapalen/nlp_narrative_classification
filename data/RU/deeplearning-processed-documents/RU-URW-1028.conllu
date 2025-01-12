@@ -1,0 +1,194 @@
+# text = Украинская певица пожаловалась на травлю со стороны киевских властей 12:23 Переехавшая в Россию украинская певица Таисия Повалий пожаловалась на травлю со стороны киевских властей.
+# sent_id = 0
+1	Украинская	украинский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	_	_	start_char=0|end_char=10
+2	певица	певица	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	_	_	start_char=11|end_char=17
+3	пожаловалась	жаловаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	_	_	start_char=18|end_char=30
+4	на	на	ADP	_	_	3	_	_	start_char=31|end_char=33
+5	травлю	травля	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	_	_	start_char=34|end_char=40
+6	со	с	ADP	_	_	5	_	_	start_char=41|end_char=43
+7	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	_	_	start_char=44|end_char=51
+8	киевских	киевский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	_	_	start_char=52|end_char=60
+9	властей	власть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	_	_	start_char=61|end_char=68
+10	12	12	NUM	_	NumType=Card	9	_	_	start_char=69|end_char=71|SpaceAfter=No
+11	:	:	PUNCT	_	_	10	_	_	start_char=71|end_char=72|SpaceAfter=No
+12	23	23	NUM	_	NumType=Card	11	_	_	start_char=72|end_char=74
+13	Переехавшая	переехать	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	12	_	_	start_char=75|end_char=86
+14	в	в	ADP	_	_	13	_	_	start_char=87|end_char=88
+15	Россию	Россия	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	_	_	start_char=89|end_char=95
+16	украинская	украинский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	15	_	_	start_char=96|end_char=106
+17	певица	певица	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	16	_	_	start_char=107|end_char=113
+18	Таисия	Таисия	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	17	_	_	start_char=114|end_char=120
+19	Повалий	Повалий	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	18	_	_	start_char=121|end_char=128
+20	пожаловалась	жаловаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	19	_	_	start_char=129|end_char=141
+21	на	на	ADP	_	_	20	_	_	start_char=142|end_char=144
+22	травлю	травля	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	21	_	_	start_char=145|end_char=151
+23	со	с	ADP	_	_	22	_	_	start_char=152|end_char=154
+24	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	_	_	start_char=155|end_char=162
+25	киевских	киевский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	24	_	_	start_char=163|end_char=171
+26	властей	власть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	25	_	_	start_char=172|end_char=179|SpaceAfter=No
+27	.	.	PUNCT	_	_	26	_	_	start_char=179|end_char=180
+
+# text = Об этом она рассказала в YouTube-шоу «Откровенно с Татаркой».
+# sent_id = 1
+1	Об	о	ADP	_	_	0	_	_	start_char=181|end_char=183
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=184|end_char=188
+3	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	_	_	start_char=189|end_char=192
+4	рассказала	рассказать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	_	_	start_char=193|end_char=203
+5	в	в	ADP	_	_	4	_	_	start_char=204|end_char=205
+6	YouTube-шоу	Youfube-шоу	PROPN	_	_	5	_	_	start_char=206|end_char=217
+7	«	"	PUNCT	_	_	6	_	_	start_char=218|end_char=219|SpaceAfter=No
+8	Откровенно	откровенно	ADV	_	Degree=Pos	7	_	_	start_char=219|end_char=229
+9	с	с	ADP	_	_	8	_	_	start_char=230|end_char=231
+10	Татаркой	Татаркий	PROPN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	9	_	_	start_char=232|end_char=240|SpaceAfter=No
+11	»	"	PUNCT	_	_	10	_	_	start_char=240|end_char=241|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	_	_	start_char=241|end_char=242
+
+# text = Повалий вспомнила, что в 2004 году ей пришлось нанять охрану из-за поступающих угроз в связи с тем, что она не поддержала Оранжевую революцию.
+# sent_id = 2
+1	Повалий	Повалий	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	_	_	start_char=243|end_char=250
+2	вспомнила	вспомянуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=251|end_char=260|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=260|end_char=261
+4	что	что	SCONJ	_	_	3	_	_	start_char=262|end_char=265
+5	в	в	ADP	_	_	4	_	_	start_char=266|end_char=267
+6	2004	2004	ADJ	_	Degree=Pos	5	_	_	start_char=268|end_char=272
+7	году	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	_	_	start_char=273|end_char=277
+8	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	_	_	start_char=278|end_char=280
+9	пришлось	прийтись	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	8	_	_	start_char=281|end_char=289
+10	нанять	нанять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	9	_	_	start_char=290|end_char=296
+11	охрану	охрана	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	_	_	start_char=297|end_char=303
+12	из-за	из-за	ADP	_	_	11	_	_	start_char=304|end_char=309
+13	поступающих	поступать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	12	_	_	start_char=310|end_char=321
+14	угроз	угроза	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	13	_	_	start_char=322|end_char=327
+15	в	в	ADP	_	_	14	_	_	start_char=328|end_char=329
+16	связи	связь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	15	_	_	start_char=330|end_char=335
+17	с	с	ADP	_	_	16	_	_	start_char=336|end_char=337
+18	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	17	_	_	start_char=338|end_char=341|SpaceAfter=No
+19	,	,	PUNCT	_	_	18	_	_	start_char=341|end_char=342
+20	что	что	SCONJ	_	_	19	_	_	start_char=343|end_char=346
+21	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	20	_	_	start_char=347|end_char=350
+22	не	не	PART	_	_	21	_	_	start_char=351|end_char=353
+23	поддержала	поддержать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	22	_	_	start_char=354|end_char=364
+24	Оранжевую	оранжевый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	23	_	_	start_char=365|end_char=374
+25	революцию	революция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	24	_	_	start_char=375|end_char=384|SpaceAfter=No
+26	.	.	PUNCT	_	_	25	_	_	start_char=384|end_char=385
+
+# text = Артистка отметила, что травле также подверглись члены ее семьи.
+# sent_id = 3
+1	Артистка	артистка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	_	_	start_char=386|end_char=394
+2	отметила	отметить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=395|end_char=403|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=403|end_char=404
+4	что	что	SCONJ	_	_	3	_	_	start_char=405|end_char=408
+5	травле	травля	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	4	_	_	start_char=409|end_char=415
+6	также	также	ADV	_	Degree=Pos	5	_	_	start_char=416|end_char=421
+7	подверглись	подвергнуться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	6	_	_	start_char=422|end_char=433
+8	члены	член	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	7	_	_	start_char=434|end_char=439
+9	ее	ее	DET	_	Poss=Yes|PronType=Prs	8	_	_	start_char=440|end_char=442
+10	семьи	семья	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	_	_	start_char=443|end_char=448|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	_	_	start_char=448|end_char=449
+
+# text = После начала вооруженного конфликта в Донбассе Повалий встала на сторону жителей восточного региона страны.
+# sent_id = 4
+1	После	после	ADP	_	_	0	_	_	start_char=450|end_char=455
+2	начала	начало	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	_	_	start_char=456|end_char=462
+3	вооруженного	вооружить	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	_	_	start_char=463|end_char=475
+4	конфликта	конфликт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=476|end_char=485
+5	в	в	ADP	_	_	4	_	_	start_char=486|end_char=487
+6	Донбассе	Донбасс	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	_	_	start_char=488|end_char=496
+7	Повалий	Повалий	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	6	_	_	start_char=497|end_char=504
+8	встала	встать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	_	_	start_char=505|end_char=511
+9	на	на	ADP	_	_	8	_	_	start_char=512|end_char=514
+10	сторону	сторона	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	_	_	start_char=515|end_char=522
+11	жителей	житель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	10	_	_	start_char=523|end_char=530
+12	восточного	восточный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	11	_	_	start_char=531|end_char=541
+13	региона	регион	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	_	_	start_char=542|end_char=549
+14	страны	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	_	_	start_char=550|end_char=556|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	_	_	start_char=556|end_char=557
+
+# text = Певица заявила, что власти Киева обманывают народ.
+# sent_id = 5
+1	Певица	певица	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	_	_	start_char=558|end_char=564
+2	заявила	заявить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=565|end_char=572|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=572|end_char=573
+4	что	что	SCONJ	_	_	3	_	_	start_char=574|end_char=577
+5	власти	власть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	4	_	_	start_char=578|end_char=584
+6	Киева	Киев	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	_	_	start_char=585|end_char=590
+7	обманывают	обманывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	_	_	start_char=591|end_char=601
+8	народ	народ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	_	_	start_char=602|end_char=607|SpaceAfter=No
+9	.	.	PUNCT	_	_	8	_	_	start_char=607|end_char=608
+
+# text = «Я думаю, что на Украине люди запуганы.
+# sent_id = 6
+1	«	"	PUNCT	_	_	0	_	_	start_char=609|end_char=610|SpaceAfter=No
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	_	_	start_char=610|end_char=611
+3	думаю	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=612|end_char=617|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=617|end_char=618
+5	что	что	SCONJ	_	_	4	_	_	start_char=619|end_char=622
+6	на	на	ADP	_	_	5	_	_	start_char=623|end_char=625
+7	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	_	_	start_char=626|end_char=633
+8	люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	7	_	_	start_char=634|end_char=638
+9	запуганы	запуганный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	8	_	_	start_char=639|end_char=647|SpaceAfter=No
+10	.	.	PUNCT	_	_	9	_	_	start_char=647|end_char=648
+
+# text = Они не понимают, что происходит.
+# sent_id = 7
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=649|end_char=652
+2	не	не	PART	_	_	1	_	_	start_char=653|end_char=655
+3	понимают	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=656|end_char=664|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=664|end_char=665
+5	что	что	PRON	_	Case=Nom|PronType=Int,Rel	4	_	_	start_char=666|end_char=669
+6	происходит	происходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	_	_	start_char=670|end_char=680|SpaceAfter=No
+7	.	.	PUNCT	_	_	6	_	_	start_char=680|end_char=681
+
+# text = Они [власти] обещали в своих предвыборных речах, что закончат войну на Донбассе, и никто ничего не собирался делать.
+# sent_id = 8
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=682|end_char=685
+2	[	[	PUNCT	_	_	1	_	_	start_char=686|end_char=687|SpaceAfter=No
+3	власти	власть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	2	_	_	start_char=687|end_char=693|SpaceAfter=No
+4	]	]	PUNCT	_	_	3	_	_	start_char=693|end_char=694
+5	обещали	обещать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	_	_	start_char=695|end_char=702
+6	в	в	ADP	_	_	5	_	_	start_char=703|end_char=704
+7	своих	свой	DET	_	Case=Loc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	6	_	_	start_char=705|end_char=710
+8	предвыборных	предвыборный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	7	_	_	start_char=711|end_char=723
+9	речах	речь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	8	_	_	start_char=724|end_char=729|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=729|end_char=730
+11	что	что	SCONJ	_	_	10	_	_	start_char=731|end_char=734
+12	закончат	закончить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	11	_	_	start_char=735|end_char=743
+13	войну	война	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	_	_	start_char=744|end_char=749
+14	на	на	ADP	_	_	13	_	_	start_char=750|end_char=752
+15	Донбассе	Донбасс	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	14	_	_	start_char=753|end_char=761|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	_	_	start_char=761|end_char=762
+17	и	и	CCONJ	_	_	16	_	_	start_char=763|end_char=764
+18	никто	никто	PRON	_	Case=Nom|PronType=Neg	17	_	_	start_char=765|end_char=770
+19	ничего	ничто	PRON	_	Case=Gen|PronType=Neg	18	_	_	start_char=771|end_char=777
+20	не	не	PART	_	_	19	_	_	start_char=778|end_char=780
+21	собирался	собираться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	20	_	_	start_char=781|end_char=790
+22	делать	делать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	21	_	_	start_char=791|end_char=797|SpaceAfter=No
+23	.	.	PUNCT	_	_	22	_	_	start_char=797|end_char=798
+
+# text = Они врут», — заключила она.
+# sent_id = 9
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=799|end_char=802
+2	врут	врать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	_	_	start_char=803|end_char=807|SpaceAfter=No
+3	»	"	PUNCT	_	_	2	_	_	start_char=807|end_char=808|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=808|end_char=809
+5	—	—	PUNCT	_	_	4	_	_	start_char=810|end_char=811
+6	заключила	заключить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	_	_	start_char=812|end_char=821
+7	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	_	_	start_char=822|end_char=825|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	_	_	start_char=825|end_char=826
+
+# text = Ранее Повалий заявила, что специальная военная операция стала спасением для украинцев.
+# sent_id = 10
+1	Ранее	ранее	ADV	_	Degree=Pos	0	_	_	start_char=827|end_char=832
+2	Повалий	Повалий	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	_	_	start_char=833|end_char=840
+3	заявила	заявить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=841|end_char=848|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=848|end_char=849
+5	что	что	SCONJ	_	_	4	_	_	start_char=850|end_char=853
+6	специальная	специальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	_	_	start_char=854|end_char=865
+7	военная	военный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	_	_	start_char=866|end_char=873
+8	операция	операция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	_	_	start_char=874|end_char=882
+9	стала	стать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	8	_	_	start_char=883|end_char=888
+10	спасением	спасение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	9	_	_	start_char=889|end_char=898
+11	для	для	ADP	_	_	10	_	_	start_char=899|end_char=902
+12	украинцев	украинец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	11	_	_	start_char=903|end_char=912|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=912|end_char=913|SpaceAfter=No
+

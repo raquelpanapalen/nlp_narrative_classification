@@ -1,0 +1,205 @@
+# text = Алексей Романов: Сегодня встретился с ребятами из подшефного Волновахского района Донецкой Народной Республики Сегодня встретился с ребятами из подшефного Волновахского района Донецкой Народной Республики.
+# sent_id = 0
+1	Алексей	Алексей	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=0|end_char=7
+2	Романов	Романов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=8|end_char=15|SpaceAfter=No
+3	:	:	PUNCT	_	_	2	_	_	start_char=15|end_char=16
+4	Сегодня	сегодня	ADV	_	Degree=Pos	3	_	_	start_char=17|end_char=24
+5	встретился	встретиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	_	_	start_char=25|end_char=35
+6	с	с	ADP	_	_	5	_	_	start_char=36|end_char=37
+7	ребятами	ребята	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	6	_	_	start_char=38|end_char=46
+8	из	из	ADP	_	_	7	_	_	start_char=47|end_char=49
+9	подшефного	подшефный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	_	_	start_char=50|end_char=60
+10	Волновахского	волновахский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	_	_	start_char=61|end_char=74
+11	района	район	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	_	_	start_char=75|end_char=81
+12	Донецкой	донецкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	_	_	start_char=82|end_char=90
+13	Народной	народный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	_	_	start_char=91|end_char=99
+14	Республики	Республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	_	_	start_char=100|end_char=110
+15	Сегодня	сегодня	ADV	_	Degree=Pos	14	_	_	start_char=111|end_char=118
+16	встретился	встретиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	15	_	_	start_char=119|end_char=129
+17	с	с	ADP	_	_	16	_	_	start_char=130|end_char=131
+18	ребятами	ребята	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	17	_	_	start_char=132|end_char=140
+19	из	из	ADP	_	_	18	_	_	start_char=141|end_char=143
+20	подшефного	подшефный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	19	_	_	start_char=144|end_char=154
+21	Волновахского	волновахский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	20	_	_	start_char=155|end_char=168
+22	района	район	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	_	_	start_char=169|end_char=175
+23	Донецкой	донецкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	22	_	_	start_char=176|end_char=184
+24	Народной	народный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	23	_	_	start_char=185|end_char=193
+25	Республики	Республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	24	_	_	start_char=194|end_char=204|SpaceAfter=No
+26	.	.	PUNCT	_	_	25	_	_	start_char=204|end_char=205
+
+# text = Они гостили у нас несколько дней.
+# sent_id = 1
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=206|end_char=209
+2	гостили	гостить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=210|end_char=217
+3	у	у	ADP	_	_	2	_	_	start_char=218|end_char=219
+4	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	3	_	_	start_char=220|end_char=223
+5	несколько	несколько	NUM	_	Animacy=Inan|Case=Acc|NumType=Card	4	_	_	start_char=224|end_char=233
+6	дней	день	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	_	_	start_char=234|end_char=238|SpaceAfter=No
+7	.	.	PUNCT	_	_	6	_	_	start_char=238|end_char=239
+
+# text = Мои коллеги подготовили для них насыщенную программу, чтобы парни и девушки окунулись в мирную жизнь, ощутили домашнюю атмосферу.
+# sent_id = 2
+1	Мои	мой	DET	_	Case=Nom|Number=Plur|Poss=Yes|PronType=Prs	0	_	_	start_char=240|end_char=243
+2	коллеги	коллега	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	1	_	_	start_char=244|end_char=251
+3	подготовили	подготовить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=252|end_char=263
+4	для	для	ADP	_	_	3	_	_	start_char=264|end_char=267
+5	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	4	_	_	start_char=268|end_char=271
+6	насыщенную	насыщенный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	5	_	_	start_char=272|end_char=282
+7	программу	программа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	_	_	start_char=283|end_char=292|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=292|end_char=293
+9	чтобы	чтобы	SCONJ	_	Mood=Cnd	8	_	_	start_char=294|end_char=299
+10	парни	парень	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	9	_	_	start_char=300|end_char=305
+11	и	и	CCONJ	_	_	10	_	_	start_char=306|end_char=307
+12	девушки	девушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	11	_	_	start_char=308|end_char=315
+13	окунулись	окунуться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	12	_	_	start_char=316|end_char=325
+14	в	в	ADP	_	_	13	_	_	start_char=326|end_char=327
+15	мирную	мирный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	14	_	_	start_char=328|end_char=334
+16	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	_	_	start_char=335|end_char=340|SpaceAfter=No
+17	,	,	PUNCT	_	_	16	_	_	start_char=340|end_char=341
+18	ощутили	ощутить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	17	_	_	start_char=342|end_char=349
+19	домашнюю	домашний	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	18	_	_	start_char=350|end_char=358
+20	атмосферу	атмосфера	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	19	_	_	start_char=359|end_char=368|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	_	_	start_char=368|end_char=369
+
+# text = Каждый день был наполнен: ребята побывали в этнокомплексе «Нум», на Дне молодежи, в наших подростково-молодежных клубах, в кванториуме, арт-резиденции «Миксер», центре «Кадет».
+# sent_id = 3
+1	Каждый	каждый	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Tot	0	_	_	start_char=370|end_char=376
+2	день	день	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=377|end_char=381
+3	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=382|end_char=385
+4	наполнен	наполнить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	3	_	_	start_char=386|end_char=394|SpaceAfter=No
+5	:	:	PUNCT	_	_	4	_	_	start_char=394|end_char=395
+6	ребята	ребята	NOUN	_	Animacy=Anim|Case=Nom|Gender=Neut|Number=Plur	5	_	_	start_char=396|end_char=402
+7	побывали	побывать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	6	_	_	start_char=403|end_char=411
+8	в	в	ADP	_	_	7	_	_	start_char=412|end_char=413
+9	этнокомплексе	этнокомплекс	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	_	_	start_char=414|end_char=427
+10	«	"	PUNCT	_	_	9	_	_	start_char=428|end_char=429|SpaceAfter=No
+11	Нум	Нум	PROPN	_	_	10	_	_	start_char=429|end_char=432|SpaceAfter=No
+12	»	"	PUNCT	_	_	11	_	_	start_char=432|end_char=433|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=433|end_char=434
+14	на	на	ADP	_	_	13	_	_	start_char=435|end_char=437
+15	Дне	Ден	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	14	_	_	start_char=438|end_char=441
+16	молодежи	молодежь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	_	_	start_char=442|end_char=450|SpaceAfter=No
+17	,	,	PUNCT	_	_	16	_	_	start_char=450|end_char=451
+18	в	в	ADP	_	_	17	_	_	start_char=452|end_char=453
+19	наших	наш	DET	_	Case=Loc|Number=Plur|Poss=Yes|PronType=Prs	18	_	_	start_char=454|end_char=459
+20	подростково	подростковый	ADJ	_	Degree=Pos	19	_	_	start_char=460|end_char=471|SpaceAfter=No
+21	-	-	PUNCT	_	_	20	_	_	start_char=471|end_char=472|SpaceAfter=No
+22	молодежных	молодежный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	21	_	_	start_char=472|end_char=482
+23	клубах	клуб	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	22	_	_	start_char=483|end_char=489|SpaceAfter=No
+24	,	,	PUNCT	_	_	23	_	_	start_char=489|end_char=490
+25	в	в	ADP	_	_	24	_	_	start_char=491|end_char=492
+26	кванториуме	кванториум	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	25	_	_	start_char=493|end_char=504|SpaceAfter=No
+27	,	,	PUNCT	_	_	26	_	_	start_char=504|end_char=505
+28	арт-резиденции	арт-резиденция	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	27	_	_	start_char=506|end_char=520
+29	«	"	PUNCT	_	_	28	_	_	start_char=521|end_char=522|SpaceAfter=No
+30	Миксер	миксер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	29	_	_	start_char=522|end_char=528|SpaceAfter=No
+31	»	"	PUNCT	_	_	30	_	_	start_char=528|end_char=529|SpaceAfter=No
+32	,	,	PUNCT	_	_	31	_	_	start_char=529|end_char=530
+33	центре	центр	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	32	_	_	start_char=531|end_char=537
+34	«	"	PUNCT	_	_	33	_	_	start_char=538|end_char=539|SpaceAfter=No
+35	Кадет	Кадет	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	34	_	_	start_char=539|end_char=544|SpaceAfter=No
+36	»	"	PUNCT	_	_	35	_	_	start_char=544|end_char=545|SpaceAfter=No
+37	.	.	PUNCT	_	_	36	_	_	start_char=545|end_char=546
+
+# text = А еще они ездили на Спорышевское месторождение общества «Газпромнефть - Ноябрьскнефтегаз», были в музее компании «Газпром добыча Ноябрьск», пожарно-спасательной части, увидели городские достопримечательности и разные выставки, участвовали в мастер-классах.
+# sent_id = 4
+1	А	а	CCONJ	_	_	0	_	_	start_char=547|end_char=548
+2	еще	еще	ADV	_	Degree=Pos	1	_	_	start_char=549|end_char=552
+3	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	_	_	start_char=553|end_char=556
+4	ездили	ездить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	_	_	start_char=557|end_char=563
+5	на	на	ADP	_	_	4	_	_	start_char=564|end_char=566
+6	Спорышевское	спорышевский	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	5	_	_	start_char=567|end_char=579
+7	месторождение	месторождение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	_	_	start_char=580|end_char=593
+8	общества	общество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	_	_	start_char=594|end_char=602
+9	«	"	PUNCT	_	_	8	_	_	start_char=603|end_char=604|SpaceAfter=No
+10	Газпромнефть	Газпромнефть	PROPN	_	_	9	_	_	start_char=604|end_char=616
+11	-	-	PUNCT	_	_	10	_	_	start_char=617|end_char=618
+12	Ноябрьскнефтегаз	Ноябрьскнефтегаз	PROPN	_	Gender=Masc|Number=Sing	11	_	_	start_char=619|end_char=635|SpaceAfter=No
+13	»	"	PUNCT	_	_	12	_	_	start_char=635|end_char=636|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	_	_	start_char=636|end_char=637
+15	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	14	_	_	start_char=638|end_char=642
+16	в	в	ADP	_	_	15	_	_	start_char=643|end_char=644
+17	музее	музей	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	16	_	_	start_char=645|end_char=650
+18	компании	компания	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	_	_	start_char=651|end_char=659
+19	«	"	PUNCT	_	_	18	_	_	start_char=660|end_char=661|SpaceAfter=No
+20	Газпром	Газпром	PROPN	_	_	19	_	_	start_char=661|end_char=668
+21	добыча	добыча	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	20	_	_	start_char=669|end_char=675
+22	Ноябрьск	Ноябрьск	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	21	_	_	start_char=676|end_char=684|SpaceAfter=No
+23	»	"	PUNCT	_	_	22	_	_	start_char=684|end_char=685|SpaceAfter=No
+24	,	,	PUNCT	_	_	23	_	_	start_char=685|end_char=686
+25	пожарно	пожарный	ADJ	_	Degree=Pos	24	_	_	start_char=687|end_char=694|SpaceAfter=No
+26	-	-	PUNCT	_	_	25	_	_	start_char=694|end_char=695|SpaceAfter=No
+27	спасательной	спасательный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	26	_	_	start_char=695|end_char=707
+28	части	часть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	27	_	_	start_char=708|end_char=713|SpaceAfter=No
+29	,	,	PUNCT	_	_	28	_	_	start_char=713|end_char=714
+30	увидели	видеть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	29	_	_	start_char=715|end_char=722
+31	городские	городской	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	30	_	_	start_char=723|end_char=732
+32	достопримечательности	достопримечательность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	31	_	_	start_char=733|end_char=754
+33	и	и	CCONJ	_	_	32	_	_	start_char=755|end_char=756
+34	разные	разный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	33	_	_	start_char=757|end_char=763
+35	выставки	выставка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	34	_	_	start_char=764|end_char=772|SpaceAfter=No
+36	,	,	PUNCT	_	_	35	_	_	start_char=772|end_char=773
+37	участвовали	участвовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	36	_	_	start_char=774|end_char=785
+38	в	в	ADP	_	_	37	_	_	start_char=786|end_char=787
+39	мастер-	мастерный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	38	_	_	start_char=788|end_char=795|SpaceAfter=No
+40	классах	класс	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	39	_	_	start_char=795|end_char=802|SpaceAfter=No
+41	.	.	PUNCT	_	_	40	_	_	start_char=802|end_char=803
+
+# text = Скучать им не пришлось.
+# sent_id = 5
+1	Скучать	скучать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	_	_	start_char=804|end_char=811
+2	им	они	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	1	_	_	start_char=812|end_char=814
+3	не	не	PART	_	_	2	_	_	start_char=815|end_char=817
+4	пришлось	прийтись	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	_	_	start_char=818|end_char=826|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	_	_	start_char=826|end_char=827
+
+# text = Было важно услышать их впечатления о поездке в Ноябрьск.
+# sent_id = 6
+1	Было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	_	_	start_char=828|end_char=832
+2	важно	важный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	1	_	_	start_char=833|end_char=838
+3	услышать	слышать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	_	_	start_char=839|end_char=847
+4	их	их	DET	_	Poss=Yes|PronType=Prs	3	_	_	start_char=848|end_char=850
+5	впечатления	впечатление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	4	_	_	start_char=851|end_char=862
+6	о	о	ADP	_	_	5	_	_	start_char=863|end_char=864
+7	поездке	поездка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	_	_	start_char=865|end_char=872
+8	в	в	ADP	_	_	7	_	_	start_char=873|end_char=874
+9	Ноябрьск	Ноябрьск	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	_	_	start_char=875|end_char=883|SpaceAfter=No
+10	.	.	PUNCT	_	_	9	_	_	start_char=883|end_char=884
+
+# text = Много слов благодарности они сказали в адрес губернатора Дмитрия Андреевича Артюхова за поддержку и возможность познакомиться с Севером.
+# sent_id = 7
+1	Много	много	NUM	_	_	0	_	_	start_char=885|end_char=890
+2	слов	слово	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	1	_	_	start_char=891|end_char=895
+3	благодарности	благодарность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	_	_	start_char=896|end_char=909
+4	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	_	_	start_char=910|end_char=913
+5	сказали	сказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	_	_	start_char=914|end_char=921
+6	в	в	ADP	_	_	5	_	_	start_char=922|end_char=923
+7	адрес	адрес	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	_	_	start_char=924|end_char=929
+8	губернатора	губернатор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	7	_	_	start_char=930|end_char=941
+9	Дмитрия	Дмитрий	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	8	_	_	start_char=942|end_char=949
+10	Андреевича	Андреевич	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	_	_	start_char=950|end_char=960
+11	Артюхова	Артюхов	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	10	_	_	start_char=961|end_char=969
+12	за	за	ADP	_	_	11	_	_	start_char=970|end_char=972
+13	поддержку	поддержка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	_	_	start_char=973|end_char=982
+14	и	и	CCONJ	_	_	13	_	_	start_char=983|end_char=984
+15	возможность	возможность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	_	_	start_char=985|end_char=996
+16	познакомиться	знакомиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	15	_	_	start_char=997|end_char=1010
+17	с	с	ADP	_	_	16	_	_	start_char=1011|end_char=1012
+18	Севером	Север	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	17	_	_	start_char=1013|end_char=1020|SpaceAfter=No
+19	.	.	PUNCT	_	_	18	_	_	start_char=1020|end_char=1021
+
+# text = Было приятно слышать, что ребята хотят приехать к нам еще.
+# sent_id = 8
+1	Было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	_	_	start_char=1022|end_char=1026
+2	приятно	приятный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	1	_	_	start_char=1027|end_char=1034
+3	слышать	слышать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	_	_	start_char=1035|end_char=1042|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=1042|end_char=1043
+5	что	что	SCONJ	_	_	4	_	_	start_char=1044|end_char=1047
+6	ребята	ребята	NOUN	_	Animacy=Anim|Case=Nom|Gender=Neut|Number=Plur	5	_	_	start_char=1048|end_char=1054
+7	хотят	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	_	_	start_char=1055|end_char=1060
+8	приехать	приехать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	_	_	start_char=1061|end_char=1069
+9	к	к	ADP	_	_	8	_	_	start_char=1070|end_char=1071
+10	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	9	_	_	start_char=1072|end_char=1075
+11	еще	еще	ADV	_	Degree=Pos	10	_	_	start_char=1076|end_char=1079|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	_	_	start_char=1079|end_char=1080|SpaceAfter=No
+

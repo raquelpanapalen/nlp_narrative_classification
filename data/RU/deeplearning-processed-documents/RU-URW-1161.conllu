@@ -1,0 +1,574 @@
+# text = В ближайшие два месяца США будут стремиться к эскалации конфликта на Украине – политолог СИМФЕРОПОЛЬ, 11 июл – РИА Новости Крым.
+# sent_id = 0
+1	В	в	ADP	_	_	0	_	_	start_char=0|end_char=1
+2	ближайшие	ближайший	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	1	_	_	start_char=2|end_char=11
+3	два	два	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc|NumType=Card	2	_	_	start_char=12|end_char=15
+4	месяца	месяц	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=16|end_char=22
+5	США	США	PROPN	_	Animacy=Inan|Number=Plur	4	_	_	start_char=23|end_char=26
+6	будут	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	_	_	start_char=27|end_char=32
+7	стремиться	стремиться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	6	_	_	start_char=33|end_char=43
+8	к	к	ADP	_	_	7	_	_	start_char=44|end_char=45
+9	эскалации	эскалация	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	8	_	_	start_char=46|end_char=55
+10	конфликта	конфликт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	_	_	start_char=56|end_char=65
+11	на	на	ADP	_	_	10	_	_	start_char=66|end_char=68
+12	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	_	_	start_char=69|end_char=76
+13	–	–	PUNCT	_	_	12	_	_	start_char=77|end_char=78
+14	политолог	политолог	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	_	_	start_char=79|end_char=88
+15	СИМФЕРОПОЛЬ	СИМФЕРОПОЛЬ	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	_	_	start_char=89|end_char=100|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	_	_	start_char=100|end_char=101
+17	11	11	NUM	_	NumType=Card	16	_	_	start_char=102|end_char=104
+18	июл	июль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	17	_	_	start_char=105|end_char=108
+19	–	–	PUNCT	_	_	18	_	_	start_char=109|end_char=110
+20	РИА	РИА	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	19	_	_	start_char=111|end_char=114
+21	Новости	Новость	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	20	_	_	start_char=115|end_char=122
+22	Крым	Крым	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	21	_	_	start_char=123|end_char=127|SpaceAfter=No
+23	.	.	PUNCT	_	_	22	_	_	start_char=127|end_char=128
+
+# text = Ближайшие два месяца после 75-го саммита НАТО ознаменуются эскалацией разного рода конфликтов, поддерживаемых США, в частности на Украине.
+# sent_id = 1
+1	Ближайшие	ближайший	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	0	_	_	start_char=129|end_char=138
+2	два	два	NUM	_	Case=Nom|Gender=Masc|NumType=Card	1	_	_	start_char=139|end_char=142
+3	месяца	месяц	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	_	_	start_char=143|end_char=149
+4	после	после	ADP	_	_	3	_	_	start_char=150|end_char=155
+5	75-го	75-й	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	_	_	start_char=156|end_char=161
+6	саммита	саммит	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	_	_	start_char=162|end_char=169
+7	НАТО	НАТО	PROPN	_	_	6	_	_	start_char=170|end_char=174
+8	ознаменуются	ознаменоваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	7	_	_	start_char=175|end_char=187
+9	эскалацией	эскалация	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	8	_	_	start_char=188|end_char=198
+10	разного	разный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	_	_	start_char=199|end_char=206
+11	рода	род	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	_	_	start_char=207|end_char=211
+12	конфликтов	конфликт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	11	_	_	start_char=212|end_char=222|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=222|end_char=223
+14	поддерживаемых	поддерживать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	13	_	_	start_char=224|end_char=238
+15	США	США	PROPN	_	Animacy=Inan|Number=Plur	14	_	_	start_char=239|end_char=242|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	_	_	start_char=242|end_char=243
+17	в	в	ADP	_	_	16	_	_	start_char=244|end_char=245
+18	частности	частность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	17	_	_	start_char=246|end_char=255
+19	на	на	ADP	_	_	18	_	_	start_char=256|end_char=258
+20	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	19	_	_	start_char=259|end_char=266|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	_	_	start_char=266|end_char=267
+
+# text = Такое мнение в эфире радио "Спутник в Крыму" высказал политолог, зампредседателя президиума Международного совета российских соотечественников Вадим Колесниченко.
+# sent_id = 2
+1	Такое	такой	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	0	_	_	start_char=268|end_char=273
+2	мнение	мнение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	_	_	start_char=274|end_char=280
+3	в	в	ADP	_	_	2	_	_	start_char=281|end_char=282
+4	эфире	эфир	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	_	_	start_char=283|end_char=288
+5	радио	радио	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	_	_	start_char=289|end_char=294
+6	"	"	PUNCT	_	_	5	_	_	start_char=295|end_char=296|SpaceAfter=No
+7	Спутник	спутник	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	_	_	start_char=296|end_char=303
+8	в	в	ADP	_	_	7	_	_	start_char=304|end_char=305
+9	Крыму	Крым	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	_	_	start_char=306|end_char=311|SpaceAfter=No
+10	"	"	PUNCT	_	_	9	_	_	start_char=311|end_char=312
+11	высказал	высказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	_	_	start_char=313|end_char=321
+12	политолог	политолог	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	_	_	start_char=322|end_char=331|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=331|end_char=332
+14	зампредседателя	зампредседателя	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	_	_	start_char=333|end_char=348
+15	президиума	президиум	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	_	_	start_char=349|end_char=359
+16	Международного	международный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	15	_	_	start_char=360|end_char=374
+17	совета	совет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	_	_	start_char=375|end_char=381
+18	российских	российский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	17	_	_	start_char=382|end_char=392
+19	соотечественников	соотечественник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	18	_	_	start_char=393|end_char=410
+20	Вадим	Вадим	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	19	_	_	start_char=411|end_char=416
+21	Колесниченко	Колесниченко	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	20	_	_	start_char=417|end_char=429|SpaceAfter=No
+22	.	.	PUNCT	_	_	21	_	_	start_char=429|end_char=430
+
+# text = По его словам, на фоне множества новостей из Европы, заявлений из Белого дома, Пентагона и НАТО, а также сообщений о международной "миссии мира" венгерского премьер-министра Виктор Орбана несколько затерялось одно очень важное событие.
+# sent_id = 3
+1	По	по	ADP	_	_	0	_	_	start_char=431|end_char=433
+2	его	его	DET	_	Poss=Yes|PronType=Prs	1	_	_	start_char=434|end_char=437
+3	словам	слово	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	2	_	_	start_char=438|end_char=444|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=444|end_char=445
+5	на	на	ADP	_	_	4	_	_	start_char=446|end_char=448
+6	фоне	фон	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	_	_	start_char=449|end_char=453
+7	множества	множество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	_	_	start_char=454|end_char=463
+8	новостей	новость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	_	_	start_char=464|end_char=472
+9	из	из	ADP	_	_	8	_	_	start_char=473|end_char=475
+10	Европы	Европа	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	_	_	start_char=476|end_char=482|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=482|end_char=483
+12	заявлений	заявление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	11	_	_	start_char=484|end_char=493
+13	из	из	ADP	_	_	12	_	_	start_char=494|end_char=496
+14	Белого	белый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	13	_	_	start_char=497|end_char=503
+15	дома	дом	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	_	_	start_char=504|end_char=508|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	_	_	start_char=508|end_char=509
+17	Пентагона	Пентагон	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	_	_	start_char=510|end_char=519
+18	и	и	CCONJ	_	_	17	_	_	start_char=520|end_char=521
+19	НАТО	НАТО	PROPN	_	Animacy=Inan|Case=Gen|Number=Sing	18	_	_	start_char=522|end_char=526|SpaceAfter=No
+20	,	,	PUNCT	_	_	19	_	_	start_char=526|end_char=527
+21	а	а	CCONJ	_	_	20	_	_	start_char=528|end_char=529
+22	также	также	PART	_	_	21	_	_	start_char=530|end_char=535
+23	сообщений	сообщение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	22	_	_	start_char=536|end_char=545
+24	о	о	ADP	_	_	23	_	_	start_char=546|end_char=547
+25	международной	международный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	24	_	_	start_char=548|end_char=561
+26	"	"	PUNCT	_	_	25	_	_	start_char=562|end_char=563|SpaceAfter=No
+27	миссии	миссия	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	26	_	_	start_char=563|end_char=569
+28	мира	мир	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	27	_	_	start_char=570|end_char=574|SpaceAfter=No
+29	"	"	PUNCT	_	_	28	_	_	start_char=574|end_char=575
+30	венгерского	венгерский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	29	_	_	start_char=576|end_char=587
+31	премьер-министра	премьер-министр	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	30	_	_	start_char=588|end_char=604
+32	Виктор	Виктор	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	31	_	_	start_char=605|end_char=611
+33	Орбана	Орбан	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	32	_	_	start_char=612|end_char=618
+34	несколько	несколько	ADV	_	Degree=Pos	33	_	_	start_char=619|end_char=628
+35	затерялось	затеряться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	34	_	_	start_char=629|end_char=639
+36	одно	один	NUM	_	Case=Nom|Gender=Neut|NumType=Card	35	_	_	start_char=640|end_char=644
+37	очень	очень	ADV	_	Degree=Pos	36	_	_	start_char=645|end_char=650
+38	важное	важный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	37	_	_	start_char=651|end_char=657
+39	событие	событие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	38	_	_	start_char=658|end_char=665|SpaceAfter=No
+40	.	.	PUNCT	_	_	39	_	_	start_char=665|end_char=666
+
+# text = "Три дня назад руководитель федерального резерва США (Джером Пауэлл – ред.) сделал заявление для конгрессменов о том, что долг США, внешний и внутренний, достиг критической точки – более 35 триллионов долларов, после которой они не имеют права наращивать его и нужно что-то делать, иначе экономика разрушается.
+# sent_id = 4
+1	"	"	PUNCT	_	_	0	_	_	start_char=667|end_char=668|SpaceAfter=No
+2	Три	три	NUM	_	Animacy=Inan|Case=Acc|NumType=Card	1	_	_	start_char=668|end_char=671
+3	дня	день	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	_	_	start_char=672|end_char=675
+4	назад	назад	ADV	_	Degree=Pos	3	_	_	start_char=676|end_char=681
+5	руководитель	руководитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=682|end_char=694
+6	федерального	федеральный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	5	_	_	start_char=695|end_char=707
+7	резерва	резерв	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	_	_	start_char=708|end_char=715
+8	США	США	PROPN	_	Animacy=Inan|Case=Gen|Number=Plur	7	_	_	start_char=716|end_char=719
+9	(	(	PUNCT	_	_	8	_	_	start_char=720|end_char=721|SpaceAfter=No
+10	Джером	Джер	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	_	_	start_char=721|end_char=727
+11	Пауэлл	Пауэлл	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	_	_	start_char=728|end_char=734
+12	–	–	PUNCT	_	_	11	_	_	start_char=735|end_char=736
+13	ред.	редактор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	_	_	start_char=737|end_char=741|SpaceAfter=No
+14	)	)	PUNCT	_	_	13	_	_	start_char=741|end_char=742
+15	сделал	делать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	_	_	start_char=743|end_char=749
+16	заявление	заявление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	15	_	_	start_char=750|end_char=759
+17	для	для	ADP	_	_	16	_	_	start_char=760|end_char=763
+18	конгрессменов	конгрессмен	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	17	_	_	start_char=764|end_char=777
+19	о	о	ADP	_	_	18	_	_	start_char=778|end_char=779
+20	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	19	_	_	start_char=780|end_char=783|SpaceAfter=No
+21	,	,	PUNCT	_	_	20	_	_	start_char=783|end_char=784
+22	что	что	SCONJ	_	_	21	_	_	start_char=785|end_char=788
+23	долг	долг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	22	_	_	start_char=789|end_char=793
+24	США	США	PROPN	_	Animacy=Inan|Case=Gen|Number=Plur	23	_	_	start_char=794|end_char=797|SpaceAfter=No
+25	,	,	PUNCT	_	_	24	_	_	start_char=797|end_char=798
+26	внешний	внешний	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	25	_	_	start_char=799|end_char=806
+27	и	и	CCONJ	_	_	26	_	_	start_char=807|end_char=808
+28	внутренний	внутренний	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	27	_	_	start_char=809|end_char=819|SpaceAfter=No
+29	,	,	PUNCT	_	_	28	_	_	start_char=819|end_char=820
+30	достиг	достичь	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	29	_	_	start_char=821|end_char=827
+31	критической	критический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	30	_	_	start_char=828|end_char=839
+32	точки	точка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	31	_	_	start_char=840|end_char=845
+33	–	–	PUNCT	_	_	32	_	_	start_char=846|end_char=847
+34	более	более	ADV	_	Degree=Cmp	33	_	_	start_char=848|end_char=853
+35	35	35	NUM	_	NumType=Card	34	_	_	start_char=854|end_char=856
+36	триллионов	триллион	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	35	_	_	start_char=857|end_char=867
+37	долларов	доллар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	36	_	_	start_char=868|end_char=876|SpaceAfter=No
+38	,	,	PUNCT	_	_	37	_	_	start_char=876|end_char=877
+39	после	после	ADP	_	_	38	_	_	start_char=878|end_char=883
+40	которой	который	PRON	_	Case=Gen|PronType=Int,Rel	39	_	_	start_char=884|end_char=891
+41	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	40	_	_	start_char=892|end_char=895
+42	не	не	PART	_	_	41	_	_	start_char=896|end_char=898
+43	имеют	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	42	_	_	start_char=899|end_char=904
+44	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	43	_	_	start_char=905|end_char=910
+45	наращивать	наращивать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	44	_	_	start_char=911|end_char=921
+46	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	45	_	_	start_char=922|end_char=925
+47	и	и	CCONJ	_	_	46	_	_	start_char=926|end_char=927
+48	нужно	нужный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	47	_	_	start_char=928|end_char=933
+49	что-то	что-то	PRON	_	Case=Acc|PronType=Ind	48	_	_	start_char=934|end_char=940
+50	делать	делать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	49	_	_	start_char=941|end_char=947|SpaceAfter=No
+51	,	,	PUNCT	_	_	50	_	_	start_char=947|end_char=948
+52	иначе	иначе	CCONJ	_	_	51	_	_	start_char=949|end_char=954
+53	экономика	экономика	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	52	_	_	start_char=955|end_char=964
+54	разрушается	разрушать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	53	_	_	start_char=965|end_char=976|SpaceAfter=No
+55	.	.	PUNCT	_	_	54	_	_	start_char=976|end_char=977
+
+# text = За последние 1,5 года долг вырос более чем на 7 триллионов долларов", – сказал Колесниченко.
+# sent_id = 5
+1	За	за	ADP	_	_	0	_	_	start_char=978|end_char=980
+2	последние	последний	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	1	_	_	start_char=981|end_char=990
+3	1,5	1,5	NUM	_	NumType=Card	2	_	_	start_char=991|end_char=994
+4	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=995|end_char=999
+5	долг	долг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=1000|end_char=1004
+6	вырос	вырасти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	_	_	start_char=1005|end_char=1010
+7	более	более	ADV	_	Degree=Cmp	6	_	_	start_char=1011|end_char=1016
+8	чем	чем	SCONJ	_	_	7	_	_	start_char=1017|end_char=1020
+9	на	на	ADP	_	_	8	_	_	start_char=1021|end_char=1023
+10	7	7	NUM	_	NumType=Card	9	_	_	start_char=1024|end_char=1025
+11	триллионов	триллион	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	_	_	start_char=1026|end_char=1036
+12	долларов	доллар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	11	_	_	start_char=1037|end_char=1045|SpaceAfter=No
+13	"	"	PUNCT	_	_	12	_	_	start_char=1045|end_char=1046|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	_	_	start_char=1046|end_char=1047
+15	–	–	PUNCT	_	_	14	_	_	start_char=1048|end_char=1049
+16	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	15	_	_	start_char=1050|end_char=1056
+17	Колесниченко	Колесниченко	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	_	_	start_char=1057|end_char=1069|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	_	_	start_char=1069|end_char=1070
+
+# text = А это значит, что у США нет иного выхода, кроме как глобальная дестабилизация в мире, которую, где это возможно, усилит НАТО, делает вывод эксперт.
+# sent_id = 6
+1	А	а	CCONJ	_	_	0	_	_	start_char=1071|end_char=1072
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=1073|end_char=1076
+3	значит	значить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=1077|end_char=1083|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=1083|end_char=1084
+5	что	что	SCONJ	_	_	4	_	_	start_char=1085|end_char=1088
+6	у	у	ADP	_	_	5	_	_	start_char=1089|end_char=1090
+7	США	США	PROPN	_	Animacy=Inan|Case=Gen|Number=Plur	6	_	_	start_char=1091|end_char=1094
+8	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	_	_	start_char=1095|end_char=1098
+9	иного	иной	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	_	_	start_char=1099|end_char=1104
+10	выхода	выход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	_	_	start_char=1105|end_char=1111|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=1111|end_char=1112
+12	кроме	кроме	ADP	_	_	11	_	_	start_char=1113|end_char=1118
+13	как	как	SCONJ	_	_	12	_	_	start_char=1119|end_char=1122
+14	глобальная	глобальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	13	_	_	start_char=1123|end_char=1133
+15	дестабилизация	дестабилизация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	_	_	start_char=1134|end_char=1148
+16	в	в	ADP	_	_	15	_	_	start_char=1149|end_char=1150
+17	мире	мир	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	16	_	_	start_char=1151|end_char=1155|SpaceAfter=No
+18	,	,	PUNCT	_	_	17	_	_	start_char=1155|end_char=1156
+19	которую	который	PRON	_	Case=Acc|PronType=Int,Rel	18	_	_	start_char=1157|end_char=1164|SpaceAfter=No
+20	,	,	PUNCT	_	_	19	_	_	start_char=1164|end_char=1165
+21	где	где	ADV	_	Degree=Pos	20	_	_	start_char=1166|end_char=1169
+22	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	21	_	_	start_char=1170|end_char=1173
+23	возможно	возможный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	22	_	_	start_char=1174|end_char=1182|SpaceAfter=No
+24	,	,	PUNCT	_	_	23	_	_	start_char=1182|end_char=1183
+25	усилит	усилить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	24	_	_	start_char=1184|end_char=1190
+26	НАТО	НАТО	PROPN	_	_	25	_	_	start_char=1191|end_char=1195|SpaceAfter=No
+27	,	,	PUNCT	_	_	26	_	_	start_char=1195|end_char=1196
+28	делает	делать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	27	_	_	start_char=1197|end_char=1203
+29	вывод	вывод	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	28	_	_	start_char=1204|end_char=1209
+30	эксперт	эксперт	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	29	_	_	start_char=1210|end_char=1217|SpaceAfter=No
+31	.	.	PUNCT	_	_	30	_	_	start_char=1217|end_char=1218
+
+# text = "Ведь что такое блок НАТО – это базы США вокруг СССР, а теперь вокруг России.
+# sent_id = 7
+1	"	"	PUNCT	_	_	0	_	_	start_char=1219|end_char=1220|SpaceAfter=No
+2	Ведь	ведь	PART	_	_	1	_	_	start_char=1220|end_char=1224
+3	что	что	PRON	_	Case=Nom|PronType=Int,Rel	2	_	_	start_char=1225|end_char=1228
+4	такое	такой	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	_	_	start_char=1229|end_char=1234
+5	блок	блок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=1235|end_char=1239
+6	НАТО	НАТО	PROPN	_	_	5	_	_	start_char=1240|end_char=1244
+7	–	–	PUNCT	_	_	6	_	_	start_char=1245|end_char=1246
+8	это	это	PRON	_	PronType=Dem	7	_	_	start_char=1247|end_char=1250
+9	базы	база	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	8	_	_	start_char=1251|end_char=1255
+10	США	США	PROPN	_	Animacy=Inan|Case=Gen|Number=Plur	9	_	_	start_char=1256|end_char=1259
+11	вокруг	вокруг	ADP	_	_	10	_	_	start_char=1260|end_char=1266
+12	СССР	СССР	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	_	_	start_char=1267|end_char=1271|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=1271|end_char=1272
+14	а	а	CCONJ	_	_	13	_	_	start_char=1273|end_char=1274
+15	теперь	теперь	ADV	_	Degree=Pos	14	_	_	start_char=1275|end_char=1281
+16	вокруг	вокруг	ADP	_	_	15	_	_	start_char=1282|end_char=1288
+17	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	_	_	start_char=1289|end_char=1295|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	_	_	start_char=1295|end_char=1296
+
+# text = И это не интересы блока НАТО, а интересы США.
+# sent_id = 8
+1	И	и	CCONJ	_	_	0	_	_	start_char=1297|end_char=1298
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=1299|end_char=1302
+3	не	не	PART	_	_	2	_	_	start_char=1303|end_char=1305
+4	интересы	интерес	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	_	_	start_char=1306|end_char=1314
+5	блока	блок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	_	_	start_char=1315|end_char=1320
+6	НАТО	НАТО	PROPN	_	Case=Gen|Number=Sing	5	_	_	start_char=1321|end_char=1325|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	_	_	start_char=1325|end_char=1326
+8	а	а	CCONJ	_	_	7	_	_	start_char=1327|end_char=1328
+9	интересы	интерес	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	8	_	_	start_char=1329|end_char=1337
+10	США	США	PROPN	_	Animacy=Inan|Case=Gen|Number=Plur	9	_	_	start_char=1338|end_char=1341|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	_	_	start_char=1341|end_char=1342
+
+# text = А цель Америки – сохранить свое финансовое могущество, которое разрушается на глазах", – прокомментировал свою позицию Колесниченко.
+# sent_id = 9
+1	А	а	CCONJ	_	_	0	_	_	start_char=1343|end_char=1344
+2	цель	цель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	_	_	start_char=1345|end_char=1349
+3	Америки	Америка	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	_	_	start_char=1350|end_char=1357
+4	–	–	PUNCT	_	_	3	_	_	start_char=1358|end_char=1359
+5	сохранить	сохранить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	_	_	start_char=1360|end_char=1369
+6	свое	свой	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	5	_	_	start_char=1370|end_char=1374
+7	финансовое	финансовый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	6	_	_	start_char=1375|end_char=1385
+8	могущество	могущество	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	_	_	start_char=1386|end_char=1396|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=1396|end_char=1397
+10	которое	который	PRON	_	Case=Nom|PronType=Int,Rel	9	_	_	start_char=1398|end_char=1405
+11	разрушается	разрушать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	10	_	_	start_char=1406|end_char=1417
+12	на	на	ADP	_	_	11	_	_	start_char=1418|end_char=1420
+13	глазах	глаз	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	12	_	_	start_char=1421|end_char=1427|SpaceAfter=No
+14	"	"	PUNCT	_	_	13	_	_	start_char=1427|end_char=1428|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=1428|end_char=1429
+16	–	–	PUNCT	_	_	15	_	_	start_char=1430|end_char=1431
+17	прокомментировал	комментировать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	16	_	_	start_char=1432|end_char=1448
+18	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	17	_	_	start_char=1449|end_char=1453
+19	позицию	позиция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	18	_	_	start_char=1454|end_char=1461
+20	Колесниченко	Колесниченко	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	19	_	_	start_char=1462|end_char=1474|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	_	_	start_char=1474|end_char=1475
+
+# text = Эксперт отмечает, что финансовое "благополучие" США существенно пошатнуло продвижение Америкой "темы кражи денег России".
+# sent_id = 10
+1	Эксперт	эксперт	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=1476|end_char=1483
+2	отмечает	отмечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	_	_	start_char=1484|end_char=1492|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=1492|end_char=1493
+4	что	что	SCONJ	_	_	3	_	_	start_char=1494|end_char=1497
+5	финансовое	финансовый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	_	_	start_char=1498|end_char=1508
+6	"	"	PUNCT	_	_	5	_	_	start_char=1509|end_char=1510|SpaceAfter=No
+7	благополучие	благополучие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	_	_	start_char=1510|end_char=1522|SpaceAfter=No
+8	"	"	PUNCT	_	_	7	_	_	start_char=1522|end_char=1523
+9	США	США	PROPN	_	Animacy=Inan|Case=Gen|Number=Plur	8	_	_	start_char=1524|end_char=1527
+10	существенно	существенно	ADV	_	Degree=Pos	9	_	_	start_char=1528|end_char=1539
+11	пошатнуло	пошатнуть	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	_	_	start_char=1540|end_char=1549
+12	продвижение	продвижение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	_	_	start_char=1550|end_char=1561
+13	Америкой	Америка	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	12	_	_	start_char=1562|end_char=1570
+14	"	"	PUNCT	_	_	13	_	_	start_char=1571|end_char=1572|SpaceAfter=No
+15	темы	тема	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	_	_	start_char=1572|end_char=1576
+16	кражи	кража	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	_	_	start_char=1577|end_char=1582
+17	денег	деньги	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	16	_	_	start_char=1583|end_char=1588
+18	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	_	_	start_char=1589|end_char=1595|SpaceAfter=No
+19	"	"	PUNCT	_	_	18	_	_	start_char=1595|end_char=1596|SpaceAfter=No
+20	.	.	PUNCT	_	_	19	_	_	start_char=1596|end_char=1597
+
+# text = Более 300 млрд долларов замороженных из-за санкций золотовалютных резервов РФ намерены преступно использовать, что не могло пройти незамеченным, отмечает Колесниченко.
+# sent_id = 11
+1	Более	более	ADV	_	Degree=Cmp	0	_	_	start_char=1598|end_char=1603
+2	300	300	NUM	_	NumType=Card	1	_	_	start_char=1604|end_char=1607
+3	млрд	миллиард	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	_	_	start_char=1608|end_char=1612
+4	долларов	доллар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	_	_	start_char=1613|end_char=1621
+5	замороженных	заморозить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	4	_	_	start_char=1622|end_char=1634
+6	из-за	из-за	ADP	_	_	5	_	_	start_char=1635|end_char=1640
+7	санкций	санкция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	_	_	start_char=1641|end_char=1648
+8	золотовалютных	золотовалютный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	_	_	start_char=1649|end_char=1663
+9	резервов	резерв	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	_	_	start_char=1664|end_char=1672
+10	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	_	_	start_char=1673|end_char=1675
+11	намерены	намерен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	10	_	_	start_char=1676|end_char=1684
+12	преступно	преступно	ADV	_	Degree=Pos	11	_	_	start_char=1685|end_char=1694
+13	использовать	использовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	12	_	_	start_char=1695|end_char=1707|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	_	_	start_char=1707|end_char=1708
+15	что	что	PRON	_	Case=Nom|PronType=Int,Rel	14	_	_	start_char=1709|end_char=1712
+16	не	не	PART	_	_	15	_	_	start_char=1713|end_char=1715
+17	могло	мочь	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	16	_	_	start_char=1716|end_char=1721
+18	пройти	пройти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	17	_	_	start_char=1722|end_char=1728
+19	незамеченным	незамеченный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	18	_	_	start_char=1729|end_char=1741|SpaceAfter=No
+20	,	,	PUNCT	_	_	19	_	_	start_char=1741|end_char=1742
+21	отмечает	отмечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	_	_	start_char=1743|end_char=1751
+22	Колесниченко	Колесниченко	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	21	_	_	start_char=1752|end_char=1764|SpaceAfter=No
+23	.	.	PUNCT	_	_	22	_	_	start_char=1764|end_char=1765
+
+# text = "Страны начали потихоньку выводить золотые резервы из США и сбрасывать долговые расписки.
+# sent_id = 12
+1	"	"	PUNCT	_	_	0	_	_	start_char=1766|end_char=1767|SpaceAfter=No
+2	Страны	страна	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1	_	_	start_char=1767|end_char=1773
+3	начали	начать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=1774|end_char=1780
+4	потихоньку	потихоньку	ADV	_	Degree=Pos	3	_	_	start_char=1781|end_char=1791
+5	выводить	выводить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	_	_	start_char=1792|end_char=1800
+6	золотые	золотой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	5	_	_	start_char=1801|end_char=1808
+7	резервы	резерв	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	6	_	_	start_char=1809|end_char=1816
+8	из	из	ADP	_	_	7	_	_	start_char=1817|end_char=1819
+9	США	США	PROPN	_	Animacy=Inan|Case=Gen|Number=Plur	8	_	_	start_char=1820|end_char=1823
+10	и	и	CCONJ	_	_	9	_	_	start_char=1824|end_char=1825
+11	сбрасывать	сбрасывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	_	_	start_char=1826|end_char=1836
+12	долговые	долговой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	11	_	_	start_char=1837|end_char=1845
+13	расписки	расписка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	12	_	_	start_char=1846|end_char=1854|SpaceAfter=No
+14	.	.	PUNCT	_	_	13	_	_	start_char=1854|end_char=1855
+
+# text = И возникает проблема, которую все осознают – король голый", – отметил политолог.
+# sent_id = 13
+1	И	и	CCONJ	_	_	0	_	_	start_char=1856|end_char=1857
+2	возникает	возникать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	_	_	start_char=1858|end_char=1867
+3	проблема	проблема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	_	_	start_char=1868|end_char=1876|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=1876|end_char=1877
+5	которую	который	PRON	_	Case=Acc|PronType=Int,Rel	4	_	_	start_char=1878|end_char=1885
+6	все	все	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|PronType=Tot	5	_	_	start_char=1886|end_char=1889
+7	осознают	осознавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	_	_	start_char=1890|end_char=1898
+8	–	–	PUNCT	_	_	7	_	_	start_char=1899|end_char=1900
+9	король	король	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	_	_	start_char=1901|end_char=1907
+10	голый	голый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	_	_	start_char=1908|end_char=1913|SpaceAfter=No
+11	"	"	PUNCT	_	_	10	_	_	start_char=1913|end_char=1914|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	_	_	start_char=1914|end_char=1915
+13	–	–	PUNCT	_	_	12	_	_	start_char=1916|end_char=1917
+14	отметил	отметить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	_	_	start_char=1918|end_char=1925
+15	политолог	политолог	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	_	_	start_char=1926|end_char=1935|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	_	_	start_char=1935|end_char=1936
+
+# text = Смириться с новой реальностью США не могут, что видно по тому, как агрессивно американцы для своей защиты уничтожают рынок Европы, добавил он.
+# sent_id = 14
+1	Смириться	смириться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	0	_	_	start_char=1937|end_char=1946
+2	с	с	ADP	_	_	1	_	_	start_char=1947|end_char=1948
+3	новой	новый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	2	_	_	start_char=1949|end_char=1954
+4	реальностью	реальность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	3	_	_	start_char=1955|end_char=1966
+5	США	США	PROPN	_	Animacy=Inan|Case=Gen|Number=Plur	4	_	_	start_char=1967|end_char=1970
+6	не	не	PART	_	_	5	_	_	start_char=1971|end_char=1973
+7	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	_	_	start_char=1974|end_char=1979|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=1979|end_char=1980
+9	что	что	PRON	_	Case=Nom|PronType=Int,Rel	8	_	_	start_char=1981|end_char=1984
+10	видно	видный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	9	_	_	start_char=1985|end_char=1990
+11	по	по	ADP	_	_	10	_	_	start_char=1991|end_char=1993
+12	тому	то	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	11	_	_	start_char=1994|end_char=1998|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=1998|end_char=1999
+14	как	как	ADV	_	Degree=Pos	13	_	_	start_char=2000|end_char=2003
+15	агрессивно	агрессивно	ADV	_	Degree=Pos	14	_	_	start_char=2004|end_char=2014
+16	американцы	американец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	15	_	_	start_char=2015|end_char=2025
+17	для	для	ADP	_	_	16	_	_	start_char=2026|end_char=2029
+18	своей	свой	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	17	_	_	start_char=2030|end_char=2035
+19	защиты	защита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	_	_	start_char=2036|end_char=2042
+20	уничтожают	уничтожать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	_	_	start_char=2043|end_char=2053
+21	рынок	рынок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	20	_	_	start_char=2054|end_char=2059
+22	Европы	Европа	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	_	_	start_char=2060|end_char=2066|SpaceAfter=No
+23	,	,	PUNCT	_	_	22	_	_	start_char=2066|end_char=2067
+24	добавил	добавить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	23	_	_	start_char=2068|end_char=2075
+25	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	_	_	start_char=2076|end_char=2078|SpaceAfter=No
+26	.	.	PUNCT	_	_	25	_	_	start_char=2078|end_char=2079
+
+# text = А учитывая последние данные о своих финансах, сделают все, чтобы заработать на эскалации конфликтов там, где это возможно, в частности на Украине, считает Колесниченко.
+# sent_id = 15
+1	А	а	CCONJ	_	_	0	_	_	start_char=2080|end_char=2081
+2	учитывая	учитывать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	1	_	_	start_char=2082|end_char=2090
+3	последние	последний	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	2	_	_	start_char=2091|end_char=2100
+4	данные	данные	NOUN	_	Animacy=Inan|Case=Acc|Number=Plur	3	_	_	start_char=2101|end_char=2107
+5	о	о	ADP	_	_	4	_	_	start_char=2108|end_char=2109
+6	своих	свой	DET	_	Case=Loc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	5	_	_	start_char=2110|end_char=2115
+7	финансах	финансы	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	6	_	_	start_char=2116|end_char=2124|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=2124|end_char=2125
+9	сделают	делать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	8	_	_	start_char=2126|end_char=2133
+10	все	все	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	9	_	_	start_char=2134|end_char=2137|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=2137|end_char=2138
+12	чтобы	чтобы	SCONJ	_	Mood=Cnd	11	_	_	start_char=2139|end_char=2144
+13	заработать	заработать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	12	_	_	start_char=2145|end_char=2155
+14	на	на	ADP	_	_	13	_	_	start_char=2156|end_char=2158
+15	эскалации	эскалация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	14	_	_	start_char=2159|end_char=2168
+16	конфликтов	конфликт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	15	_	_	start_char=2169|end_char=2179
+17	там	там	ADV	_	Degree=Pos	16	_	_	start_char=2180|end_char=2183|SpaceAfter=No
+18	,	,	PUNCT	_	_	17	_	_	start_char=2183|end_char=2184
+19	где	где	ADV	_	Degree=Pos	18	_	_	start_char=2185|end_char=2188
+20	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	19	_	_	start_char=2189|end_char=2192
+21	возможно	возможный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	20	_	_	start_char=2193|end_char=2201|SpaceAfter=No
+22	,	,	PUNCT	_	_	21	_	_	start_char=2201|end_char=2202
+23	в	в	ADP	_	_	22	_	_	start_char=2203|end_char=2204
+24	частности	частность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	23	_	_	start_char=2205|end_char=2214
+25	на	на	ADP	_	_	24	_	_	start_char=2215|end_char=2217
+26	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	25	_	_	start_char=2218|end_char=2225|SpaceAfter=No
+27	,	,	PUNCT	_	_	26	_	_	start_char=2225|end_char=2226
+28	считает	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	27	_	_	start_char=2227|end_char=2234
+29	Колесниченко	Колесниченко	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	28	_	_	start_char=2235|end_char=2247|SpaceAfter=No
+30	.	.	PUNCT	_	_	29	_	_	start_char=2247|end_char=2248
+
+# text = "В ближайшие два месяца будет эскалация.
+# sent_id = 16
+1	"	"	PUNCT	_	_	0	_	_	start_char=2249|end_char=2250|SpaceAfter=No
+2	В	в	ADP	_	_	1	_	_	start_char=2250|end_char=2251
+3	ближайшие	ближайший	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	2	_	_	start_char=2252|end_char=2261
+4	два	два	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc|NumType=Card	3	_	_	start_char=2262|end_char=2265
+5	месяца	месяц	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	_	_	start_char=2266|end_char=2272
+6	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	_	_	start_char=2273|end_char=2278
+7	эскалация	эскалация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	_	_	start_char=2279|end_char=2288|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	_	_	start_char=2288|end_char=2289
+
+# text = Украина – это уже галочка в истории, прошедшая тема, которую американцы выбирали для войны против России.
+# sent_id = 17
+1	Украина	Украина	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	_	_	start_char=2290|end_char=2297
+2	–	–	PUNCT	_	_	1	_	_	start_char=2298|end_char=2299
+3	это	это	PRON	_	PronType=Dem	2	_	_	start_char=2300|end_char=2303
+4	уже	уже	ADV	_	Degree=Pos	3	_	_	start_char=2304|end_char=2307
+5	галочка	галочка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	_	_	start_char=2308|end_char=2315
+6	в	в	ADP	_	_	5	_	_	start_char=2316|end_char=2317
+7	истории	история	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	_	_	start_char=2318|end_char=2325|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=2325|end_char=2326
+9	прошедшая	пройти	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	8	_	_	start_char=2327|end_char=2336
+10	тема	тема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	_	_	start_char=2337|end_char=2341|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=2341|end_char=2342
+12	которую	который	PRON	_	Case=Acc|PronType=Int,Rel	11	_	_	start_char=2343|end_char=2350
+13	американцы	американец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	12	_	_	start_char=2351|end_char=2361
+14	выбирали	выбирать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	13	_	_	start_char=2362|end_char=2370
+15	для	для	ADP	_	_	14	_	_	start_char=2371|end_char=2374
+16	войны	война	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	_	_	start_char=2375|end_char=2380
+17	против	против	ADP	_	_	16	_	_	start_char=2381|end_char=2387
+18	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	_	_	start_char=2388|end_char=2394|SpaceAfter=No
+19	.	.	PUNCT	_	_	18	_	_	start_char=2394|end_char=2395
+
+# text = И это трагедия для украинцев, которые стали заложниками безумной политики группы негодяев бандеро-фашистов", – заключил Колесниченко.
+# sent_id = 18
+1	И	и	CCONJ	_	_	0	_	_	start_char=2396|end_char=2397
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=2398|end_char=2401
+3	трагедия	трагедия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	_	_	start_char=2402|end_char=2410
+4	для	для	ADP	_	_	3	_	_	start_char=2411|end_char=2414
+5	украинцев	украинец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	_	_	start_char=2415|end_char=2424|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=2424|end_char=2425
+7	которые	который	PRON	_	Case=Nom|PronType=Int,Rel	6	_	_	start_char=2426|end_char=2433
+8	стали	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	7	_	_	start_char=2434|end_char=2439
+9	заложниками	заложник	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	8	_	_	start_char=2440|end_char=2451
+10	безумной	безумный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	_	_	start_char=2452|end_char=2460
+11	политики	политика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	_	_	start_char=2461|end_char=2469
+12	группы	группа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	_	_	start_char=2470|end_char=2476
+13	негодяев	негодяй	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	12	_	_	start_char=2477|end_char=2485
+14	бандеро	бандеро	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	13	_	_	start_char=2486|end_char=2493|SpaceAfter=No
+15	-	-	PUNCT	_	_	14	_	_	start_char=2493|end_char=2494|SpaceAfter=No
+16	фашистов	фашист	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	15	_	_	start_char=2494|end_char=2502|SpaceAfter=No
+17	"	"	PUNCT	_	_	16	_	_	start_char=2502|end_char=2503|SpaceAfter=No
+18	,	,	PUNCT	_	_	17	_	_	start_char=2503|end_char=2504
+19	–	–	PUNCT	_	_	18	_	_	start_char=2505|end_char=2506
+20	заключил	заключить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	19	_	_	start_char=2507|end_char=2515
+21	Колесниченко	Колесниченко	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	20	_	_	start_char=2516|end_char=2528|SpaceAfter=No
+22	.	.	PUNCT	_	_	21	_	_	start_char=2528|end_char=2529
+
+# text = Ранее председатель Госдумы Вячеслав Володин заявил, что за 15 лет существования БРИКС превратился в один из крупнейших экономических центров, а участники объединения, несмотря на все вызовы и санкции, улучшили позиции, о чем свидетельствуют данным Всемирного банка.
+# sent_id = 19
+1	Ранее	ранее	ADV	_	Degree=Pos	0	_	_	start_char=2530|end_char=2535
+2	председатель	председатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=2536|end_char=2548
+3	Госдумы	Госдума	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	_	_	start_char=2549|end_char=2556
+4	Вячеслав	Вячеслав	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	_	_	start_char=2557|end_char=2565
+5	Володин	Володин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=2566|end_char=2573
+6	заявил	заявить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	_	_	start_char=2574|end_char=2580|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	_	_	start_char=2580|end_char=2581
+8	что	что	SCONJ	_	_	7	_	_	start_char=2582|end_char=2585
+9	за	за	ADP	_	_	8	_	_	start_char=2586|end_char=2588
+10	15	15	NUM	_	NumType=Card	9	_	_	start_char=2589|end_char=2591
+11	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	_	_	start_char=2592|end_char=2595
+12	существования	существование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	_	_	start_char=2596|end_char=2609
+13	БРИКС	БРИКС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	_	_	start_char=2610|end_char=2615
+14	превратился	превратиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	13	_	_	start_char=2616|end_char=2627
+15	в	в	ADP	_	_	14	_	_	start_char=2628|end_char=2629
+16	один	один	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc|NumType=Card	15	_	_	start_char=2630|end_char=2634
+17	из	из	ADP	_	_	16	_	_	start_char=2635|end_char=2637
+18	крупнейших	крупный	ADJ	_	Case=Gen|Degree=Sup|Number=Plur	17	_	_	start_char=2638|end_char=2648
+19	экономических	экономический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	18	_	_	start_char=2649|end_char=2662
+20	центров	центр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	19	_	_	start_char=2663|end_char=2670|SpaceAfter=No
+21	,	,	PUNCT	_	_	20	_	_	start_char=2670|end_char=2671
+22	а	а	CCONJ	_	_	21	_	_	start_char=2672|end_char=2673
+23	участники	участник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	22	_	_	start_char=2674|end_char=2683
+24	объединения	объединение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	23	_	_	start_char=2684|end_char=2695|SpaceAfter=No
+25	,	,	PUNCT	_	_	24	_	_	start_char=2695|end_char=2696
+26	несмотря	несмотря	ADV	_	Polarity=Neg	25	_	_	start_char=2697|end_char=2705
+27	на	на	ADP	_	_	26	_	_	start_char=2706|end_char=2708
+28	все	весь	DET	_	Case=Acc|Number=Plur|PronType=Tot	27	_	_	start_char=2709|end_char=2712
+29	вызовы	вызов	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	28	_	_	start_char=2713|end_char=2719
+30	и	и	CCONJ	_	_	29	_	_	start_char=2720|end_char=2721
+31	санкции	санкция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	30	_	_	start_char=2722|end_char=2729|SpaceAfter=No
+32	,	,	PUNCT	_	_	31	_	_	start_char=2729|end_char=2730
+33	улучшили	улучшить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	32	_	_	start_char=2731|end_char=2739
+34	позиции	позиция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	33	_	_	start_char=2740|end_char=2747|SpaceAfter=No
+35	,	,	PUNCT	_	_	34	_	_	start_char=2747|end_char=2748
+36	о	о	ADP	_	_	35	_	_	start_char=2749|end_char=2750
+37	чем	что	PRON	_	Case=Loc|PronType=Int,Rel	36	_	_	start_char=2751|end_char=2754
+38	свидетельствуют	свидетельствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	37	_	_	start_char=2755|end_char=2770
+39	данным	данные	NOUN	_	Animacy=Inan|Case=Dat|Number=Plur	38	_	_	start_char=2771|end_char=2777
+40	Всемирного	всемирный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	39	_	_	start_char=2778|end_char=2788
+41	банка	банк	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	40	_	_	start_char=2789|end_char=2794|SpaceAfter=No
+42	.	.	PUNCT	_	_	41	_	_	start_char=2794|end_char=2795
+
+# text = Читайте также на РИА Новости Крым: НАТО расширится в Черном море: главные заявления по итогам саммита.
+# sent_id = 20
+1	Читайте	читать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	_	_	start_char=2796|end_char=2803
+2	также	также	ADV	_	Degree=Pos	1	_	_	start_char=2804|end_char=2809
+3	на	на	ADP	_	_	2	_	_	start_char=2810|end_char=2812
+4	РИА	РИА	PROPN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	_	_	start_char=2813|end_char=2816
+5	Новости	Новость	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	_	_	start_char=2817|end_char=2824
+6	Крым	Крым	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	_	_	start_char=2825|end_char=2829|SpaceAfter=No
+7	:	:	PUNCT	_	_	6	_	_	start_char=2829|end_char=2830
+8	НАТО	НАТО	PROPN	_	_	7	_	_	start_char=2831|end_char=2835
+9	расширится	расшириться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	8	_	_	start_char=2836|end_char=2846
+10	в	в	ADP	_	_	9	_	_	start_char=2847|end_char=2848
+11	Черном	черный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	10	_	_	start_char=2849|end_char=2855
+12	море	море	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	11	_	_	start_char=2856|end_char=2860|SpaceAfter=No
+13	:	:	PUNCT	_	_	12	_	_	start_char=2860|end_char=2861
+14	главные	главный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	13	_	_	start_char=2862|end_char=2869
+15	заявления	заявление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	14	_	_	start_char=2870|end_char=2879
+16	по	по	ADP	_	_	15	_	_	start_char=2880|end_char=2882
+17	итогам	итог	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	16	_	_	start_char=2883|end_char=2889
+18	саммита	саммит	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	_	_	start_char=2890|end_char=2897|SpaceAfter=No
+19	.	.	PUNCT	_	_	18	_	_	start_char=2897|end_char=2898
+
+# text = США активно ищут замену Зеленскому – данные разведки.
+# sent_id = 21
+1	США	США	PROPN	_	Number=Plur	0	_	_	start_char=2899|end_char=2902
+2	активно	активно	ADV	_	Degree=Pos	1	_	_	start_char=2903|end_char=2910
+3	ищут	искать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=2911|end_char=2915
+4	замену	замена	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	_	_	start_char=2916|end_char=2922
+5	Зеленскому	Зеленский	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	4	_	_	start_char=2923|end_char=2933
+6	–	–	PUNCT	_	_	5	_	_	start_char=2934|end_char=2935
+7	данные	данные	NOUN	_	Animacy=Inan|Case=Nom|Number=Plur	6	_	_	start_char=2936|end_char=2942
+8	разведки	разведка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	_	_	start_char=2943|end_char=2951|SpaceAfter=No
+9	.	.	PUNCT	_	_	8	_	_	start_char=2951|end_char=2952|SpaceAfter=No
+

@@ -1,0 +1,515 @@
+# text = Александр Коц: Украинские ЛОМы вломили сторонникам безнадёжной войны Украинские ЛОМы вломили сторонникам безнадёжной войны.
+# sent_id = 0
+1	Александр	Александр	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=0|end_char=9
+2	Коц	Коц	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=10|end_char=13|SpaceAfter=No
+3	:	:	PUNCT	_	_	2	_	_	start_char=13|end_char=14
+4	Украинские	украинский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	_	_	start_char=15|end_char=25
+5	ЛОМы	лом	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	4	_	_	start_char=26|end_char=30
+6	вломили	вломить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	_	_	start_char=31|end_char=38
+7	сторонникам	сторонник	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	6	_	_	start_char=39|end_char=50
+8	безнадёжной	безнадежный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	_	_	start_char=51|end_char=62
+9	войны	война	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	_	_	start_char=63|end_char=68
+10	Украинские	украинский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	9	_	_	start_char=69|end_char=79
+11	ЛОМы	лом	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	10	_	_	start_char=80|end_char=84
+12	вломили	вломить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	11	_	_	start_char=85|end_char=92
+13	сторонникам	сторонник	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	12	_	_	start_char=93|end_char=104
+14	безнадёжной	безнадежный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	_	_	start_char=105|end_char=116
+15	войны	война	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	_	_	start_char=117|end_char=122|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	_	_	start_char=122|end_char=123
+
+# text = Похоже, в мозгах украинцев наступает перелом.
+# sent_id = 1
+1	Похоже	похоже	ADV	_	Degree=Pos	0	_	_	start_char=124|end_char=130|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	_	_	start_char=130|end_char=131
+3	в	в	ADP	_	_	2	_	_	start_char=132|end_char=133
+4	мозгах	мозг	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	3	_	_	start_char=134|end_char=140
+5	украинцев	украинец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	_	_	start_char=141|end_char=150
+6	наступает	наступать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	_	_	start_char=151|end_char=160
+7	перелом	перелом	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	_	_	start_char=161|end_char=168|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	_	_	start_char=168|end_char=169
+
+# text = После последних ударов российской авиации по Киеву многие популярные украинские блогеры и лидеры общественного мнения начали высказываться за скорейшее прекращение войны.
+# sent_id = 2
+1	После	после	ADP	_	_	0	_	_	start_char=170|end_char=175
+2	последних	последний	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	1	_	_	start_char=176|end_char=185
+3	ударов	удар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	_	_	start_char=186|end_char=192
+4	российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	3	_	_	start_char=193|end_char=203
+5	авиации	авиация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	_	_	start_char=204|end_char=211
+6	по	по	ADP	_	_	5	_	_	start_char=212|end_char=214
+7	Киеву	Киев	PROPN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	6	_	_	start_char=215|end_char=220
+8	многие	много	NUM	_	NumType=Card	7	_	_	start_char=221|end_char=227
+9	популярные	популярный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	8	_	_	start_char=228|end_char=238
+10	украинские	украинский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	9	_	_	start_char=239|end_char=249
+11	блогеры	блоггер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	10	_	_	start_char=250|end_char=257
+12	и	и	CCONJ	_	_	11	_	_	start_char=258|end_char=259
+13	лидеры	лидер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	12	_	_	start_char=260|end_char=266
+14	общественного	общественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	13	_	_	start_char=267|end_char=280
+15	мнения	мнение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	_	_	start_char=281|end_char=287
+16	начали	начать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	15	_	_	start_char=288|end_char=294
+17	высказываться	высказываться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	16	_	_	start_char=295|end_char=308
+18	за	за	ADP	_	_	17	_	_	start_char=309|end_char=311
+19	скорейшее	скорый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	18	_	_	start_char=312|end_char=321
+20	прекращение	прекращение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	19	_	_	start_char=322|end_char=333
+21	войны	война	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	_	_	start_char=334|end_char=339|SpaceAfter=No
+22	.	.	PUNCT	_	_	21	_	_	start_char=339|end_char=340
+
+# text = Так участница реалити-шоу Владислава Роговенко назвала Зеленского клоуном и призвала его ехать договариваться с Россией.
+# sent_id = 3
+1	Так	так	ADV	_	Degree=Pos	0	_	_	start_char=341|end_char=344
+2	участница	участница	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	_	_	start_char=345|end_char=354
+3	реалити	реалить	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	_	_	start_char=355|end_char=362|SpaceAfter=No
+4	-	-	PUNCT	_	_	3	_	_	start_char=362|end_char=363|SpaceAfter=No
+5	шоу	шоу	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	_	_	start_char=363|end_char=366
+6	Владислава	Владислав	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	_	_	start_char=367|end_char=377
+7	Роговенко	Роговенко	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	_	_	start_char=378|end_char=387
+8	назвала	назвать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	_	_	start_char=388|end_char=395
+9	Зеленского	Зеленский	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	8	_	_	start_char=396|end_char=406
+10	клоуном	клоун	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	9	_	_	start_char=407|end_char=414
+11	и	и	CCONJ	_	_	10	_	_	start_char=415|end_char=416
+12	призвала	призвать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	_	_	start_char=417|end_char=425
+13	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	_	_	start_char=426|end_char=429
+14	ехать	ехать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	13	_	_	start_char=430|end_char=435
+15	договариваться	договариваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	14	_	_	start_char=436|end_char=450
+16	с	с	ADP	_	_	15	_	_	start_char=451|end_char=452
+17	Россией	Россия	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	16	_	_	start_char=453|end_char=460|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	_	_	start_char=460|end_char=461
+
+# text = Гламурная Юлия Верба (полтора миллиона подписчиков в соцсетях) обвинила украинскую власть в воровстве и попытках нажиться на людском горе.
+# sent_id = 4
+1	Гламурная	гламурный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	_	_	start_char=462|end_char=471
+2	Юлия	Юлия	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	_	_	start_char=472|end_char=476
+3	Верба	Верба	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	2	_	_	start_char=477|end_char=482
+4	(	(	PUNCT	_	_	3	_	_	start_char=483|end_char=484|SpaceAfter=No
+5	полтора	полтора	NUM	_	Case=Nom|Gender=Masc|NumType=Card	4	_	_	start_char=484|end_char=491
+6	миллиона	миллион	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	_	_	start_char=492|end_char=500
+7	подписчиков	подписчик	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	_	_	start_char=501|end_char=512
+8	в	в	ADP	_	_	7	_	_	start_char=513|end_char=514
+9	соцсетях	соцсеть	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	8	_	_	start_char=515|end_char=523|SpaceAfter=No
+10	)	)	PUNCT	_	_	9	_	_	start_char=523|end_char=524
+11	обвинила	обвинить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	_	_	start_char=525|end_char=533
+12	украинскую	украинский	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	11	_	_	start_char=534|end_char=544
+13	власть	власть	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	_	_	start_char=545|end_char=551
+14	в	в	ADP	_	_	13	_	_	start_char=552|end_char=553
+15	воровстве	воровство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	14	_	_	start_char=554|end_char=563
+16	и	и	CCONJ	_	_	15	_	_	start_char=564|end_char=565
+17	попытках	попытка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	16	_	_	start_char=566|end_char=574
+18	нажиться	нажиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	17	_	_	start_char=575|end_char=583
+19	на	на	ADP	_	_	18	_	_	start_char=584|end_char=586
+20	людском	людской	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	19	_	_	start_char=587|end_char=594
+21	горе	гора	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	20	_	_	start_char=595|end_char=599|SpaceAfter=No
+22	.	.	PUNCT	_	_	21	_	_	start_char=599|end_char=600
+
+# text = Популярный контент-мейкер Александр Волошин признал, что Киев "не вывозит" эту войну.
+# sent_id = 5
+1	Популярный	популярный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	_	_	start_char=601|end_char=611
+2	контент	контент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=612|end_char=619|SpaceAfter=No
+3	-	-	PUNCT	_	_	2	_	_	start_char=619|end_char=620|SpaceAfter=No
+4	мейкер	мейкер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	_	_	start_char=620|end_char=626
+5	Александр	Александр	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=627|end_char=636
+6	Волошин	Волошин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	_	_	start_char=637|end_char=644
+7	признал	признать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	_	_	start_char=645|end_char=652|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=652|end_char=653
+9	что	что	SCONJ	_	_	8	_	_	start_char=654|end_char=657
+10	Киев	Киев	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	_	_	start_char=658|end_char=662
+11	"	"	PUNCT	_	_	10	_	_	start_char=663|end_char=664|SpaceAfter=No
+12	не	не	PART	_	_	11	_	_	start_char=664|end_char=666
+13	вывозит	вывозить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	_	_	start_char=667|end_char=674|SpaceAfter=No
+14	"	"	PUNCT	_	_	13	_	_	start_char=674|end_char=675
+15	эту	этот	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	14	_	_	start_char=676|end_char=679
+16	войну	война	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	_	_	start_char=680|end_char=685|SpaceAfter=No
+17	.	.	PUNCT	_	_	16	_	_	start_char=685|end_char=686
+
+# text = А бизнес-вумен Мила Бараева призвала остановить кровопролитие любой ценой.
+# sent_id = 6
+1	А	а	CCONJ	_	_	0	_	_	start_char=687|end_char=688
+2	бизнес	бизнес	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=689|end_char=695|SpaceAfter=No
+3	-	-	PUNCT	_	_	2	_	_	start_char=695|end_char=696|SpaceAfter=No
+4	вумен	вумен	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	_	_	start_char=696|end_char=701
+5	Мила	Мила	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	4	_	_	start_char=702|end_char=706
+6	Бараева	Бараев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	_	_	start_char=707|end_char=714
+7	призвала	призвать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	_	_	start_char=715|end_char=723
+8	остановить	остановить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	_	_	start_char=724|end_char=734
+9	кровопролитие	кровопролитие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	_	_	start_char=735|end_char=748
+10	любой	любой	DET	_	Case=Ins|Gender=Fem|Number=Sing|PronType=Ind	9	_	_	start_char=749|end_char=754
+11	ценой	цена	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	10	_	_	start_char=755|end_char=760|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	_	_	start_char=760|end_char=761
+
+# text = Украинские власти попробовали организовать антикриз.
+# sent_id = 7
+1	Украинские	украинский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	0	_	_	start_char=762|end_char=772
+2	власти	власть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1	_	_	start_char=773|end_char=779
+3	попробовали	пробовать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=780|end_char=791
+4	организовать	организовывать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	_	_	start_char=792|end_char=804
+5	антикриз	антикриз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	_	_	start_char=805|end_char=813|SpaceAfter=No
+6	.	.	PUNCT	_	_	5	_	_	start_char=813|end_char=814
+
+# text = Популярный Instagram-паблик "Новости здорового человека" опубликовал пост, в котором собрал все посты и высказывания блогеров по теме и призвал аудиторию "пересмотреть свои подписки" с косвенным посылом отписаться от них.
+# sent_id = 8
+1	Популярный	популярный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	_	_	start_char=815|end_char=825
+2	Instagram	Instagram	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=826|end_char=835|SpaceAfter=No
+3	-	-	PUNCT	_	_	2	_	_	start_char=835|end_char=836|SpaceAfter=No
+4	паблик	паблик	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	_	_	start_char=836|end_char=842
+5	"	"	PUNCT	_	_	4	_	_	start_char=843|end_char=844|SpaceAfter=No
+6	Новости	новость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	5	_	_	start_char=844|end_char=851
+7	здорового	здоровый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	6	_	_	start_char=852|end_char=861
+8	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	7	_	_	start_char=862|end_char=870|SpaceAfter=No
+9	"	"	PUNCT	_	_	8	_	_	start_char=870|end_char=871
+10	опубликовал	опубликовать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	_	_	start_char=872|end_char=883
+11	пост	пост	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	_	_	start_char=884|end_char=888|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	_	_	start_char=888|end_char=889
+13	в	в	ADP	_	_	12	_	_	start_char=890|end_char=891
+14	котором	который	PRON	_	Case=Loc|PronType=Int,Rel	13	_	_	start_char=892|end_char=899
+15	собрал	собрать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	_	_	start_char=900|end_char=906
+16	все	весь	DET	_	Case=Acc|Number=Plur|PronType=Tot	15	_	_	start_char=907|end_char=910
+17	посты	пост	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	16	_	_	start_char=911|end_char=916
+18	и	и	CCONJ	_	_	17	_	_	start_char=917|end_char=918
+19	высказывания	высказывание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	18	_	_	start_char=919|end_char=931
+20	блогеров	блоггер	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	19	_	_	start_char=932|end_char=940
+21	по	по	ADP	_	_	20	_	_	start_char=941|end_char=943
+22	теме	тема	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	21	_	_	start_char=944|end_char=948
+23	и	и	CCONJ	_	_	22	_	_	start_char=949|end_char=950
+24	призвал	призвать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	23	_	_	start_char=951|end_char=958
+25	аудиторию	аудитория	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	24	_	_	start_char=959|end_char=968
+26	"	"	PUNCT	_	_	25	_	_	start_char=969|end_char=970|SpaceAfter=No
+27	пересмотреть	пересмотреть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	26	_	_	start_char=970|end_char=982
+28	свои	свой	DET	_	Case=Acc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	27	_	_	start_char=983|end_char=987
+29	подписки	подписка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	28	_	_	start_char=988|end_char=996|SpaceAfter=No
+30	"	"	PUNCT	_	_	29	_	_	start_char=996|end_char=997
+31	с	с	ADP	_	_	30	_	_	start_char=998|end_char=999
+32	косвенным	косвенный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	31	_	_	start_char=1000|end_char=1009
+33	посылом	посыл	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	32	_	_	start_char=1010|end_char=1017
+34	отписаться	отписаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	33	_	_	start_char=1018|end_char=1028
+35	от	от	ADP	_	_	34	_	_	start_char=1029|end_char=1031
+36	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	35	_	_	start_char=1032|end_char=1035|SpaceAfter=No
+37	.	.	PUNCT	_	_	36	_	_	start_char=1035|end_char=1036
+
+# text = Однако благодарные читатели в комментариях напихали авторам сообщения полную панамку, поддержав внезапно ставших нелояльными ЛОМов.
+# sent_id = 9
+1	Однако	однако	ADV	_	Degree=Pos	0	_	_	start_char=1037|end_char=1043
+2	благодарные	благодарный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	1	_	_	start_char=1044|end_char=1055
+3	читатели	читатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	_	_	start_char=1056|end_char=1064
+4	в	в	ADP	_	_	3	_	_	start_char=1065|end_char=1066
+5	комментариях	комментарий	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	4	_	_	start_char=1067|end_char=1079
+6	напихали	напихать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	_	_	start_char=1080|end_char=1088
+7	авторам	автор	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	6	_	_	start_char=1089|end_char=1096
+8	сообщения	сообщение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	7	_	_	start_char=1097|end_char=1106
+9	полную	полный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	8	_	_	start_char=1107|end_char=1113
+10	панамку	панамка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	_	_	start_char=1114|end_char=1121|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=1121|end_char=1122
+12	поддержав	поддержать	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	11	_	_	start_char=1123|end_char=1132
+13	внезапно	внезапно	ADV	_	Degree=Pos	12	_	_	start_char=1133|end_char=1141
+14	ставших	стать	VERB	_	Animacy=Anim|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	13	_	_	start_char=1142|end_char=1149
+15	нелояльными	нелояльный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	14	_	_	start_char=1150|end_char=1161
+16	ЛОМов	ЛОМов	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	15	_	_	start_char=1162|end_char=1167|SpaceAfter=No
+17	.	.	PUNCT	_	_	16	_	_	start_char=1167|end_char=1168
+
+# text = Их общий посыл - войну нужно заканчивать.
+# sent_id = 10
+1	Их	их	DET	_	Poss=Yes|PronType=Prs	0	_	_	start_char=1169|end_char=1171
+2	общий	общий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	1	_	_	start_char=1172|end_char=1177
+3	посыл	посыл	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	_	_	start_char=1178|end_char=1183
+4	-	-	PUNCT	_	_	3	_	_	start_char=1184|end_char=1185
+5	войну	война	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	_	_	start_char=1186|end_char=1191
+6	нужно	нужный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	5	_	_	start_char=1192|end_char=1197
+7	заканчивать	заканчивать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	_	_	start_char=1198|end_char=1209|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	_	_	start_char=1209|end_char=1210
+
+# text = "Готовы ли вы обменять жизнь своих детей, своих родных на границы.
+# sent_id = 11
+1	"	"	PUNCT	_	_	0	_	_	start_char=1211|end_char=1212|SpaceAfter=No
+2	Готовы	готовый	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	1	_	_	start_char=1212|end_char=1218
+3	ли	ли	PART	_	_	2	_	_	start_char=1219|end_char=1221
+4	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	3	_	_	start_char=1222|end_char=1224
+5	обменять	обменять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	_	_	start_char=1225|end_char=1233
+6	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	_	_	start_char=1234|end_char=1239
+7	своих	свой	DET	_	Case=Gen|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	6	_	_	start_char=1240|end_char=1245
+8	детей	ребенок	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	7	_	_	start_char=1246|end_char=1251|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=1251|end_char=1252
+10	своих	свой	DET	_	Case=Gen|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	9	_	_	start_char=1253|end_char=1258
+11	родных	родные	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	10	_	_	start_char=1259|end_char=1265
+12	на	на	ADP	_	_	11	_	_	start_char=1266|end_char=1268
+13	границы	граница	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	12	_	_	start_char=1269|end_char=1276|SpaceAfter=No
+14	.	.	PUNCT	_	_	13	_	_	start_char=1276|end_char=1277
+
+# text = 91-го года?
+# sent_id = 12
+1	91-го	91-й	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	0	_	_	start_char=1278|end_char=1283
+2	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	_	_	start_char=1284|end_char=1288|SpaceAfter=No
+3	?	?	PUNCT	_	_	2	_	_	start_char=1288|end_char=1289
+
+# text = Вот и все.
+# sent_id = 13
+1	Вот	вот	PART	_	_	0	_	_	start_char=1290|end_char=1293
+2	и	и	PART	_	_	1	_	_	start_char=1294|end_char=1295
+3	все	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	2	_	_	start_char=1296|end_char=1299|SpaceAfter=No
+4	.	.	PUNCT	_	_	3	_	_	start_char=1299|end_char=1300
+
+# text = Если вы не готовы, то почему другие должны?", - выразил общее мнение один из комментаторов.
+# sent_id = 14
+1	Если	если	SCONJ	_	_	0	_	_	start_char=1301|end_char=1305
+2	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	1	_	_	start_char=1306|end_char=1308
+3	не	не	PART	_	_	2	_	_	start_char=1309|end_char=1311
+4	готовы	готовый	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	3	_	_	start_char=1312|end_char=1318|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=1318|end_char=1319
+6	то	то	SCONJ	_	_	5	_	_	start_char=1320|end_char=1322
+7	почему	почему	ADV	_	Degree=Pos	6	_	_	start_char=1323|end_char=1329
+8	другие	другой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	_	_	start_char=1330|end_char=1336
+9	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	8	_	_	start_char=1337|end_char=1343|SpaceAfter=No
+10	?	?	PUNCT	_	_	9	_	_	start_char=1343|end_char=1344|SpaceAfter=No
+11	"	"	PUNCT	_	_	10	_	_	start_char=1344|end_char=1345|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	_	_	start_char=1345|end_char=1346
+13	-	-	PUNCT	_	_	12	_	_	start_char=1347|end_char=1348
+14	выразил	выразить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	_	_	start_char=1349|end_char=1356
+15	общее	общий	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	14	_	_	start_char=1357|end_char=1362
+16	мнение	мнение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	15	_	_	start_char=1363|end_char=1369
+17	один	один	NUM	_	Case=Nom|Gender=Masc|NumType=Card	16	_	_	start_char=1370|end_char=1374
+18	из	из	ADP	_	_	17	_	_	start_char=1375|end_char=1377
+19	комментаторов	комментатор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	18	_	_	start_char=1378|end_char=1391|SpaceAfter=No
+20	.	.	PUNCT	_	_	19	_	_	start_char=1391|end_char=1392
+
+# text = На Украине уже мало кто верит в то, что ВСУ удастся выйти на границы 1991-го.
+# sent_id = 15
+1	На	на	ADP	_	_	0	_	_	start_char=1393|end_char=1395
+2	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	_	_	start_char=1396|end_char=1403
+3	уже	уже	ADV	_	Degree=Pos	2	_	_	start_char=1404|end_char=1407
+4	мало	мало	ADV	_	Degree=Pos	3	_	_	start_char=1408|end_char=1412
+5	кто	кто	PRON	_	Case=Nom|PronType=Int,Rel	4	_	_	start_char=1413|end_char=1416
+6	верит	верить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	_	_	start_char=1417|end_char=1422
+7	в	в	ADP	_	_	6	_	_	start_char=1423|end_char=1424
+8	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	7	_	_	start_char=1425|end_char=1427|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=1427|end_char=1428
+10	что	что	SCONJ	_	_	9	_	_	start_char=1429|end_char=1432
+11	ВСУ	ВСУ	PROPN	_	Animacy=Inan|Gender=Masc|Number=Sing	10	_	_	start_char=1433|end_char=1436
+12	удастся	удаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	11	_	_	start_char=1437|end_char=1444
+13	выйти	выйти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	12	_	_	start_char=1445|end_char=1450
+14	на	на	ADP	_	_	13	_	_	start_char=1451|end_char=1453
+15	границы	граница	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	14	_	_	start_char=1454|end_char=1461
+16	1991-го	1991-й	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	15	_	_	start_char=1462|end_char=1469|SpaceAfter=No
+17	.	.	PUNCT	_	_	16	_	_	start_char=1469|end_char=1470
+
+# text = И это несмотря на мощнейшую обработку населения подконтрольными Киеву средствами массовой информации, убеждающими электорат в скорой и неизбежной перемоге.
+# sent_id = 16
+1	И	и	CCONJ	_	_	0	_	_	start_char=1471|end_char=1472
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=1473|end_char=1476
+3	несмотря	несмотря	ADV	_	Polarity=Neg	2	_	_	start_char=1477|end_char=1485
+4	на	на	ADP	_	_	3	_	_	start_char=1486|end_char=1488
+5	мощнейшую	мощный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	_	_	start_char=1489|end_char=1498
+6	обработку	обработка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	_	_	start_char=1499|end_char=1508
+7	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	_	_	start_char=1509|end_char=1518
+8	подконтрольными	подконтрольнуть	VERB	_	Aspect=Perf|Case=Ins|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	7	_	_	start_char=1519|end_char=1534
+9	Киеву	Киев	PROPN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	8	_	_	start_char=1535|end_char=1540
+10	средствами	средство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	9	_	_	start_char=1541|end_char=1551
+11	массовой	массовый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	_	_	start_char=1552|end_char=1560
+12	информации	информация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	_	_	start_char=1561|end_char=1571|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=1571|end_char=1572
+14	убеждающими	убеждать	VERB	_	Aspect=Imp|Case=Ins|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	13	_	_	start_char=1573|end_char=1584
+15	электорат	электорат	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	_	_	start_char=1585|end_char=1594
+16	в	в	ADP	_	_	15	_	_	start_char=1595|end_char=1596
+17	скорой	скорый	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	16	_	_	start_char=1597|end_char=1603
+18	и	и	CCONJ	_	_	17	_	_	start_char=1604|end_char=1605
+19	неизбежной	неизбежный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	18	_	_	start_char=1606|end_char=1616
+20	перемоге	перемог	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	19	_	_	start_char=1617|end_char=1625|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	_	_	start_char=1625|end_char=1626
+
+# text = Телевизору уже не удается перебить объективную реальность: отключения света по графику, беспредел ТЦК-шников, постоянно растущие кладбища с жовто-блакитными флагами, рост цен на коммуналку и продукты питания, увеличивающийся госдолг и ежедневные удары российских ракет, которые все никак не заканчиваются.
+# sent_id = 17
+1	Телевизору	телевизор	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	0	_	_	start_char=1627|end_char=1637
+2	уже	уже	ADV	_	Degree=Pos	1	_	_	start_char=1638|end_char=1641
+3	не	не	PART	_	_	2	_	_	start_char=1642|end_char=1644
+4	удается	удаваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	3	_	_	start_char=1645|end_char=1652
+5	перебить	перебить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	_	_	start_char=1653|end_char=1661
+6	объективную	объективный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	5	_	_	start_char=1662|end_char=1673
+7	реальность	реальность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	_	_	start_char=1674|end_char=1684|SpaceAfter=No
+8	:	:	PUNCT	_	_	7	_	_	start_char=1684|end_char=1685
+9	отключения	отключение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	8	_	_	start_char=1686|end_char=1696
+10	света	свет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	_	_	start_char=1697|end_char=1702
+11	по	по	ADP	_	_	10	_	_	start_char=1703|end_char=1705
+12	графику	график	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	11	_	_	start_char=1706|end_char=1713|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=1713|end_char=1714
+14	беспредел	беспредел	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	_	_	start_char=1715|end_char=1724
+15	ТЦК	ТЦК	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	_	_	start_char=1725|end_char=1728|SpaceAfter=No
+16	-	-	PUNCT	_	_	15	_	_	start_char=1728|end_char=1729|SpaceAfter=No
+17	шников	шник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	16	_	_	start_char=1729|end_char=1735|SpaceAfter=No
+18	,	,	PUNCT	_	_	17	_	_	start_char=1735|end_char=1736
+19	постоянно	постоянно	ADV	_	Degree=Pos	18	_	_	start_char=1737|end_char=1746
+20	растущие	расти	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	19	_	_	start_char=1747|end_char=1755
+21	кладбища	кладбище	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	20	_	_	start_char=1756|end_char=1764
+22	с	с	ADP	_	_	21	_	_	start_char=1765|end_char=1766
+23	жовто	жовто	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	22	_	_	start_char=1767|end_char=1772|SpaceAfter=No
+24	-	-	PUNCT	_	_	23	_	_	start_char=1772|end_char=1773|SpaceAfter=No
+25	блакитными	блакитный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	24	_	_	start_char=1773|end_char=1783
+26	флагами	флаг	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	25	_	_	start_char=1784|end_char=1791|SpaceAfter=No
+27	,	,	PUNCT	_	_	26	_	_	start_char=1791|end_char=1792
+28	рост	рост	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	27	_	_	start_char=1793|end_char=1797
+29	цен	цена	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	28	_	_	start_char=1798|end_char=1801
+30	на	на	ADP	_	_	29	_	_	start_char=1802|end_char=1804
+31	коммуналку	коммуналка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	30	_	_	start_char=1805|end_char=1815
+32	и	и	CCONJ	_	_	31	_	_	start_char=1816|end_char=1817
+33	продукты	продукт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	32	_	_	start_char=1818|end_char=1826
+34	питания	питание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	33	_	_	start_char=1827|end_char=1834|SpaceAfter=No
+35	,	,	PUNCT	_	_	34	_	_	start_char=1834|end_char=1835
+36	увеличивающийся	увеличиваться	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	35	_	_	start_char=1836|end_char=1851
+37	госдолг	госдолг	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	36	_	_	start_char=1852|end_char=1859
+38	и	и	CCONJ	_	_	37	_	_	start_char=1860|end_char=1861
+39	ежедневные	ежедневный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	38	_	_	start_char=1862|end_char=1872
+40	удары	удар	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	39	_	_	start_char=1873|end_char=1878
+41	российских	российский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	40	_	_	start_char=1879|end_char=1889
+42	ракет	ракета	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	41	_	_	start_char=1890|end_char=1895|SpaceAfter=No
+43	,	,	PUNCT	_	_	42	_	_	start_char=1895|end_char=1896
+44	которые	который	PRON	_	Case=Nom|PronType=Int,Rel	43	_	_	start_char=1897|end_char=1904
+45	все	все	PART	_	_	44	_	_	start_char=1905|end_char=1908
+46	никак	никак	ADV	_	Degree=Pos	45	_	_	start_char=1909|end_char=1914
+47	не	не	PART	_	_	46	_	_	start_char=1915|end_char=1917
+48	заканчиваются	заканчиваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	47	_	_	start_char=1918|end_char=1931|SpaceAfter=No
+49	.	.	PUNCT	_	_	48	_	_	start_char=1931|end_char=1932
+
+# text = Эмоциональные "качели", на которые СМИ подсадили украинское общество, скоро остановятся.
+# sent_id = 18
+1	Эмоциональные	эмоциональный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	0	_	_	start_char=1933|end_char=1946
+2	"	"	PUNCT	_	_	1	_	_	start_char=1947|end_char=1948|SpaceAfter=No
+3	качели	качели	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	2	_	_	start_char=1948|end_char=1954|SpaceAfter=No
+4	"	"	PUNCT	_	_	3	_	_	start_char=1954|end_char=1955|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=1955|end_char=1956
+6	на	на	ADP	_	_	5	_	_	start_char=1957|end_char=1959
+7	которые	который	PRON	_	Case=Acc|PronType=Int,Rel	6	_	_	start_char=1960|end_char=1967
+8	СМИ	сми	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	7	_	_	start_char=1968|end_char=1971
+9	подсадили	подсадить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	8	_	_	start_char=1972|end_char=1981
+10	украинское	украинский	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	9	_	_	start_char=1982|end_char=1992
+11	общество	общество	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	_	_	start_char=1993|end_char=2001|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	_	_	start_char=2001|end_char=2002
+13	скоро	скоро	ADV	_	Degree=Pos	12	_	_	start_char=2003|end_char=2008
+14	остановятся	остановиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	13	_	_	start_char=2009|end_char=2020|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	_	_	start_char=2020|end_char=2021
+
+# text = Уже не работают обещания сжечь Кремль, вступить в НАТО и ЕС, разгромить российскую армию очередным западным "вундерваффе".
+# sent_id = 19
+1	Уже	уже	ADV	_	Degree=Pos	0	_	_	start_char=2022|end_char=2025
+2	не	не	PART	_	_	1	_	_	start_char=2026|end_char=2028
+3	работают	работать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=2029|end_char=2037
+4	обещания	обещание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	3	_	_	start_char=2038|end_char=2046
+5	сжечь	сжечь	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	_	_	start_char=2047|end_char=2052
+6	Кремль	Кремль	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	_	_	start_char=2053|end_char=2059|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	_	_	start_char=2059|end_char=2060
+8	вступить	вступить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	_	_	start_char=2061|end_char=2069
+9	в	в	ADP	_	_	8	_	_	start_char=2070|end_char=2071
+10	НАТО	НАТО	PROPN	_	Number=Sing	9	_	_	start_char=2072|end_char=2076
+11	и	и	CCONJ	_	_	10	_	_	start_char=2077|end_char=2078
+12	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	11	_	_	start_char=2079|end_char=2081|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=2081|end_char=2082
+14	разгромить	разгромить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	13	_	_	start_char=2083|end_char=2093
+15	российскую	российский	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	14	_	_	start_char=2094|end_char=2104
+16	армию	армия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	_	_	start_char=2105|end_char=2110
+17	очередным	очередной	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	16	_	_	start_char=2111|end_char=2120
+18	западным	западный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	17	_	_	start_char=2121|end_char=2129
+19	"	"	PUNCT	_	_	18	_	_	start_char=2130|end_char=2131|SpaceAfter=No
+20	вундерваффе	вундерваффа	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	19	_	_	start_char=2131|end_char=2142|SpaceAfter=No
+21	"	"	PUNCT	_	_	20	_	_	start_char=2142|end_char=2143|SpaceAfter=No
+22	.	.	PUNCT	_	_	21	_	_	start_char=2143|end_char=2144
+
+# text = А эпизодические "перемоги", навроде ракетного удара по пляжу в Севастополе, вызывают радость разве что только у самых упоротых.
+# sent_id = 20
+1	А	а	CCONJ	_	_	0	_	_	start_char=2145|end_char=2146
+2	эпизодические	эпизодический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	1	_	_	start_char=2147|end_char=2160
+3	"	"	PUNCT	_	_	2	_	_	start_char=2161|end_char=2162|SpaceAfter=No
+4	перемоги	перемог	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	_	_	start_char=2162|end_char=2170|SpaceAfter=No
+5	"	"	PUNCT	_	_	4	_	_	start_char=2170|end_char=2171|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=2171|end_char=2172
+7	навроде	навроде	ADV	_	Degree=Pos	6	_	_	start_char=2173|end_char=2180
+8	ракетного	ракетный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	_	_	start_char=2181|end_char=2190
+9	удара	удар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	_	_	start_char=2191|end_char=2196
+10	по	по	ADP	_	_	9	_	_	start_char=2197|end_char=2199
+11	пляжу	пляж	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	10	_	_	start_char=2200|end_char=2205
+12	в	в	ADP	_	_	11	_	_	start_char=2206|end_char=2207
+13	Севастополе	Севастополь	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	_	_	start_char=2208|end_char=2219|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	_	_	start_char=2219|end_char=2220
+15	вызывают	вызывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	_	_	start_char=2221|end_char=2229
+16	радость	радость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	_	_	start_char=2230|end_char=2237
+17	разве	разве	PART	_	_	16	_	_	start_char=2238|end_char=2243
+18	что	что	SCONJ	_	_	17	_	_	start_char=2244|end_char=2247
+19	только	только	PART	_	_	18	_	_	start_char=2248|end_char=2254
+20	у	у	ADP	_	_	19	_	_	start_char=2255|end_char=2256
+21	самых	самый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	20	_	_	start_char=2257|end_char=2262
+22	упоротых	упоротый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	21	_	_	start_char=2263|end_char=2271|SpaceAfter=No
+23	.	.	PUNCT	_	_	22	_	_	start_char=2271|end_char=2272
+
+# text = За два с половиной года украинцы "выгорели".
+# sent_id = 21
+1	За	за	ADP	_	_	0	_	_	start_char=2273|end_char=2275
+2	два	два	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc|NumType=Card	1	_	_	start_char=2276|end_char=2279
+3	с	с	ADP	_	_	2	_	_	start_char=2280|end_char=2281
+4	половиной	половина	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	3	_	_	start_char=2282|end_char=2291
+5	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	_	_	start_char=2292|end_char=2296
+6	украинцы	украинец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	5	_	_	start_char=2297|end_char=2305
+7	"	"	PUNCT	_	_	6	_	_	start_char=2306|end_char=2307|SpaceAfter=No
+8	выгорели	выгореть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	7	_	_	start_char=2307|end_char=2315|SpaceAfter=No
+9	"	"	PUNCT	_	_	8	_	_	start_char=2315|end_char=2316|SpaceAfter=No
+10	.	.	PUNCT	_	_	9	_	_	start_char=2316|end_char=2317
+
+# text = И мечтают о том, чтобы это все поскорее закончилось.
+# sent_id = 22
+1	И	и	CCONJ	_	_	0	_	_	start_char=2318|end_char=2319
+2	мечтают	мечтать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	_	_	start_char=2320|end_char=2327
+3	о	о	ADP	_	_	2	_	_	start_char=2328|end_char=2329
+4	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	3	_	_	start_char=2330|end_char=2333|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=2333|end_char=2334
+6	чтобы	чтобы	SCONJ	_	Mood=Cnd	5	_	_	start_char=2335|end_char=2340
+7	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	_	_	start_char=2341|end_char=2344
+8	все	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	7	_	_	start_char=2345|end_char=2348
+9	поскорее	скоро	ADV	_	Degree=Cmp	8	_	_	start_char=2349|end_char=2357
+10	закончилось	закончиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	9	_	_	start_char=2358|end_char=2369|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	_	_	start_char=2369|end_char=2370
+
+# text = Впрочем, решают не они.
+# sent_id = 23
+1	Впрочем	впрочем	ADV	_	Degree=Pos	0	_	_	start_char=2371|end_char=2378|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	_	_	start_char=2378|end_char=2379
+3	решают	решать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=2380|end_char=2386
+4	не	не	PART	_	_	3	_	_	start_char=2387|end_char=2389
+5	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	_	_	start_char=2390|end_char=2393|SpaceAfter=No
+6	.	.	PUNCT	_	_	5	_	_	start_char=2393|end_char=2394
+
+# text = На саммите НАТО уже пообещали выделить Киеву 40 миллиардов долларов в 2025-м, а значит война будет продолжаться.
+# sent_id = 24
+1	На	на	ADP	_	_	0	_	_	start_char=2395|end_char=2397
+2	саммите	саммит	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	_	_	start_char=2398|end_char=2405
+3	НАТО	НАТО	PROPN	_	Number=Sing	2	_	_	start_char=2406|end_char=2410
+4	уже	уже	ADV	_	Degree=Pos	3	_	_	start_char=2411|end_char=2414
+5	пообещали	пообещать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	_	_	start_char=2415|end_char=2424
+6	выделить	выделить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	_	_	start_char=2425|end_char=2433
+7	Киеву	Киев	PROPN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	6	_	_	start_char=2434|end_char=2439
+8	40	40	NUM	_	NumType=Card	7	_	_	start_char=2440|end_char=2442
+9	миллиардов	миллиард	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	_	_	start_char=2443|end_char=2453
+10	долларов	доллар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	_	_	start_char=2454|end_char=2462
+11	в	в	ADP	_	_	10	_	_	start_char=2463|end_char=2464
+12	2025-м	2025-й	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	11	_	_	start_char=2465|end_char=2471|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=2471|end_char=2472
+14	а	а	CCONJ	_	_	13	_	_	start_char=2473|end_char=2474
+15	значит	значит	ADV	_	Degree=Pos	14	_	_	start_char=2475|end_char=2481
+16	война	война	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	_	_	start_char=2482|end_char=2487
+17	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	_	_	start_char=2488|end_char=2493
+18	продолжаться	продолжаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	17	_	_	start_char=2494|end_char=2506|SpaceAfter=No
+19	.	.	PUNCT	_	_	18	_	_	start_char=2506|end_char=2507
+
+# text = И волелюбный украинский народ, совсем недавно гордившийся тем, что снес на майдане Януковича, продолжит безропотно умирать.
+# sent_id = 25
+1	И	и	CCONJ	_	_	0	_	_	start_char=2508|end_char=2509
+2	волелюбный	волелюбный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	_	_	start_char=2510|end_char=2520
+3	украинский	украинский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	_	_	start_char=2521|end_char=2531
+4	народ	народ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	_	_	start_char=2532|end_char=2537|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=2537|end_char=2538
+6	совсем	совсем	ADV	_	Degree=Pos	5	_	_	start_char=2539|end_char=2545
+7	недавно	недавно	ADV	_	Degree=Pos	6	_	_	start_char=2546|end_char=2553
+8	гордившийся	гордиться	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	7	_	_	start_char=2554|end_char=2565
+9	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	8	_	_	start_char=2566|end_char=2569|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=2569|end_char=2570
+11	что	что	PRON	_	Case=Acc|PronType=Int,Rel	10	_	_	start_char=2571|end_char=2574
+12	снес	снести	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	_	_	start_char=2575|end_char=2579
+13	на	на	ADP	_	_	12	_	_	start_char=2580|end_char=2582
+14	майдане	майдан	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	13	_	_	start_char=2583|end_char=2590
+15	Януковича	Янукович	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	14	_	_	start_char=2591|end_char=2600|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	_	_	start_char=2600|end_char=2601
+17	продолжит	продолжить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	16	_	_	start_char=2602|end_char=2611
+18	безропотно	безропотно	ADV	_	Degree=Pos	17	_	_	start_char=2612|end_char=2622
+19	умирать	умирать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	18	_	_	start_char=2623|end_char=2630|SpaceAfter=No
+20	.	.	PUNCT	_	_	19	_	_	start_char=2630|end_char=2631|SpaceAfter=No
+

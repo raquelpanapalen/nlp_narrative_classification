@@ -1,0 +1,405 @@
+# text = Гладков: ВСУ за сутки выпустили по территории Белгородской области 90 снарядов БЕЛГОРОД, 3 июл - РИА Новости.
+# sent_id = 0
+1	Гладков	Гладков	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=0|end_char=7|SpaceAfter=No
+2	:	:	PUNCT	_	_	1	_	_	start_char=7|end_char=8
+3	ВСУ	ВСУ	PROPN	_	_	2	_	_	start_char=9|end_char=12
+4	за	за	ADP	_	_	3	_	_	start_char=13|end_char=15
+5	сутки	сутки	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	4	_	_	start_char=16|end_char=21
+6	выпустили	выпустить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	_	_	start_char=22|end_char=31
+7	по	по	ADP	_	_	6	_	_	start_char=32|end_char=34
+8	территории	территория	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	7	_	_	start_char=35|end_char=45
+9	Белгородской	Белгородский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	_	_	start_char=46|end_char=58
+10	области	область	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	_	_	start_char=59|end_char=66
+11	90	90	NUM	_	NumType=Card	10	_	_	start_char=67|end_char=69
+12	снарядов	снаряд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	11	_	_	start_char=70|end_char=78
+13	БЕЛГОРОД	БЕЛГОРОД	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	_	_	start_char=79|end_char=87|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	_	_	start_char=87|end_char=88
+15	3	3	NUM	_	NumType=Card	14	_	_	start_char=89|end_char=90
+16	июл	июль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	15	_	_	start_char=91|end_char=94
+17	-	-	PUNCT	_	_	16	_	_	start_char=95|end_char=96
+18	РИА	РИА	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	17	_	_	start_char=97|end_char=100
+19	Новости	Новость	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	18	_	_	start_char=101|end_char=108|SpaceAfter=No
+20	.	.	PUNCT	_	_	19	_	_	start_char=108|end_char=109
+
+# text = Украинские военные за прошедшие сутки обстреляли территорию Белгородской области порядка 90 снарядами, 4 человека пострадали, сообщил глава региона Вячеслав Гладков в Telegram-канале.
+# sent_id = 1
+1	Украинские	украинский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	0	_	_	start_char=110|end_char=120
+2	военные	военный	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	1	_	_	start_char=121|end_char=128
+3	за	за	ADP	_	_	2	_	_	start_char=129|end_char=131
+4	прошедшие	пройти	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=132|end_char=141
+5	сутки	сутки	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	4	_	_	start_char=142|end_char=147
+6	обстреляли	обстрелять	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	_	_	start_char=148|end_char=158
+7	территорию	территория	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	_	_	start_char=159|end_char=169
+8	Белгородской	Белгородский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	_	_	start_char=170|end_char=182
+9	области	область	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	_	_	start_char=183|end_char=190
+10	порядка	порядка	ADP	_	_	9	_	_	start_char=191|end_char=198
+11	90	90	NUM	_	NumType=Card	10	_	_	start_char=199|end_char=201
+12	снарядами	снаряд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	11	_	_	start_char=202|end_char=211|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=211|end_char=212
+14	4	4	NUM	_	NumType=Card	13	_	_	start_char=213|end_char=214
+15	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	14	_	_	start_char=215|end_char=223
+16	пострадали	страдать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	15	_	_	start_char=224|end_char=234|SpaceAfter=No
+17	,	,	PUNCT	_	_	16	_	_	start_char=234|end_char=235
+18	сообщил	сообщить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	17	_	_	start_char=236|end_char=243
+19	глава	глава	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	18	_	_	start_char=244|end_char=249
+20	региона	регион	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	_	_	start_char=250|end_char=257
+21	Вячеслав	Вячеслав	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	20	_	_	start_char=258|end_char=266
+22	Гладков	Гладков	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	21	_	_	start_char=267|end_char=274
+23	в	в	ADP	_	_	22	_	_	start_char=275|end_char=276
+24	Telegram	Telegram	PROPN	_	_	23	_	_	start_char=277|end_char=285|SpaceAfter=No
+25	-	-	PUNCT	_	_	24	_	_	start_char=285|end_char=286|SpaceAfter=No
+26	канале	канал	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	25	_	_	start_char=286|end_char=292|SpaceAfter=No
+27	.	.	PUNCT	_	_	26	_	_	start_char=292|end_char=293
+
+# text = По информации губернатора, 2 июля по 7 приграничным районам был выпущен 91 снаряд, также были зафиксированы атаки с использованием 50 беспилотников и сброс 42 взрывных устройств.
+# sent_id = 2
+1	По	по	ADP	_	_	0	_	_	start_char=294|end_char=296
+2	информации	информация	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	1	_	_	start_char=297|end_char=307
+3	губернатора	губернатор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	_	_	start_char=308|end_char=319|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=319|end_char=320
+5	2	2	NUM	_	NumType=Card	4	_	_	start_char=321|end_char=322
+6	июля	июль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	_	_	start_char=323|end_char=327
+7	по	по	ADP	_	_	6	_	_	start_char=328|end_char=330
+8	7	7	NUM	_	NumType=Card	7	_	_	start_char=331|end_char=332
+9	приграничным	приграничный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	8	_	_	start_char=333|end_char=345
+10	районам	район	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	9	_	_	start_char=346|end_char=353
+11	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	_	_	start_char=354|end_char=357
+12	выпущен	выпустить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	11	_	_	start_char=358|end_char=365
+13	91	91	NUM	_	NumType=Card	12	_	_	start_char=366|end_char=368
+14	снаряд	снаряд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	13	_	_	start_char=369|end_char=375|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=375|end_char=376
+16	также	также	ADV	_	Degree=Pos	15	_	_	start_char=377|end_char=382
+17	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	16	_	_	start_char=383|end_char=387
+18	зафиксированы	фиксировать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	17	_	_	start_char=388|end_char=401
+19	атаки	атака	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	18	_	_	start_char=402|end_char=407
+20	с	с	ADP	_	_	19	_	_	start_char=408|end_char=409
+21	использованием	использование	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	20	_	_	start_char=410|end_char=424
+22	50	50	NUM	_	NumType=Card	21	_	_	start_char=425|end_char=427
+23	беспилотников	беспилотник	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	22	_	_	start_char=428|end_char=441
+24	и	и	CCONJ	_	_	23	_	_	start_char=442|end_char=443
+25	сброс	сброс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	24	_	_	start_char=444|end_char=449
+26	42	42	NUM	_	NumType=Card	25	_	_	start_char=450|end_char=452
+27	взрывных	взрывной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	26	_	_	start_char=453|end_char=461
+28	устройств	устройство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	27	_	_	start_char=462|end_char=471|SpaceAfter=No
+29	.	.	PUNCT	_	_	28	_	_	start_char=471|end_char=472
+
+# text = Различные разрушения выявлены в двух многоквартирных домах, 44 частных домовладениях, двух соцобъектах, двух объектах связи, 17 транспортных средствах и на территории предприятия.
+# sent_id = 3
+1	Различные	различный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	0	_	_	start_char=473|end_char=482
+2	разрушения	разрушение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	1	_	_	start_char=483|end_char=493
+3	выявлены	выявить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	2	_	_	start_char=494|end_char=502
+4	в	в	ADP	_	_	3	_	_	start_char=503|end_char=504
+5	двух	два	NUM	_	Case=Loc|NumType=Card	4	_	_	start_char=505|end_char=509
+6	многоквартирных	многоквартирный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	5	_	_	start_char=510|end_char=525
+7	домах	дом	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	6	_	_	start_char=526|end_char=531|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=531|end_char=532
+9	44	44	NUM	_	NumType=Card	8	_	_	start_char=533|end_char=535
+10	частных	частный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	9	_	_	start_char=536|end_char=543
+11	домовладениях	домовладение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	10	_	_	start_char=544|end_char=557|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	_	_	start_char=557|end_char=558
+13	двух	два	NUM	_	Case=Loc|NumType=Card	12	_	_	start_char=559|end_char=563
+14	соцобъектах	соцобъект	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	13	_	_	start_char=564|end_char=575|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=575|end_char=576
+16	двух	два	NUM	_	Case=Loc|NumType=Card	15	_	_	start_char=577|end_char=581
+17	объектах	объект	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	16	_	_	start_char=582|end_char=590
+18	связи	связь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	_	_	start_char=591|end_char=596|SpaceAfter=No
+19	,	,	PUNCT	_	_	18	_	_	start_char=596|end_char=597
+20	17	17	NUM	_	NumType=Card	19	_	_	start_char=598|end_char=600
+21	транспортных	транспортный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	20	_	_	start_char=601|end_char=613
+22	средствах	средство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	21	_	_	start_char=614|end_char=623
+23	и	и	CCONJ	_	_	22	_	_	start_char=624|end_char=625
+24	на	на	ADP	_	_	23	_	_	start_char=626|end_char=628
+25	территории	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	24	_	_	start_char=629|end_char=639
+26	предприятия	предприятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	25	_	_	start_char=640|end_char=651|SpaceAfter=No
+27	.	.	PUNCT	_	_	26	_	_	start_char=651|end_char=652
+
+# text = «"В Борисовском районе за прошедшие сутки по селу Богун-Городок был выпущен один БПЛА.
+# sent_id = 4
+1	«	"	PUNCT	_	_	0	_	_	start_char=653|end_char=654|SpaceAfter=No
+2	"	"	PUNCT	_	_	1	_	_	start_char=654|end_char=655|SpaceAfter=No
+3	В	в	ADP	_	_	2	_	_	start_char=655|end_char=656
+4	Борисовском	борисовский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	3	_	_	start_char=657|end_char=668
+5	районе	район	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	_	_	start_char=669|end_char=675
+6	за	за	ADP	_	_	5	_	_	start_char=676|end_char=678
+7	прошедшие	пройти	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	6	_	_	start_char=679|end_char=688
+8	сутки	сутки	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	7	_	_	start_char=689|end_char=694
+9	по	по	ADP	_	_	8	_	_	start_char=695|end_char=697
+10	селу	село	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	9	_	_	start_char=698|end_char=702
+11	Богун-Городок	Богун-Городок	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	_	_	start_char=703|end_char=716
+12	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	_	_	start_char=717|end_char=720
+13	выпущен	выпустить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	12	_	_	start_char=721|end_char=728
+14	один	один	NUM	_	Case=Nom|Gender=Masc|NumType=Card	13	_	_	start_char=729|end_char=733
+15	БПЛА	бпла	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	_	_	start_char=734|end_char=738|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	_	_	start_char=738|end_char=739
+
+# text = Повреждено одно домовладение.
+# sent_id = 5
+1	Повреждено	повредить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	_	_	start_char=740|end_char=750
+2	одно	один	NUM	_	Case=Nom|Gender=Neut|NumType=Card	1	_	_	start_char=751|end_char=755
+3	домовладение	домовладение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	_	_	start_char=756|end_char=768|SpaceAfter=No
+4	.	.	PUNCT	_	_	3	_	_	start_char=768|end_char=769
+
+# text = В Валуйском городском округе по городу Валуйки и селу Казинка совершены атаки с помощью 3 БПЛА...
+# sent_id = 6
+1	В	в	ADP	_	_	0	_	_	start_char=770|end_char=771
+2	Валуйском	валуйский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	1	_	_	start_char=772|end_char=781
+3	городском	городской	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	2	_	_	start_char=782|end_char=791
+4	округе	округ	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	_	_	start_char=792|end_char=798
+5	по	по	ADP	_	_	4	_	_	start_char=799|end_char=801
+6	городу	город	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	5	_	_	start_char=802|end_char=808
+7	Валуйки	Валуйки	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	_	_	start_char=809|end_char=816
+8	и	и	CCONJ	_	_	7	_	_	start_char=817|end_char=818
+9	селу	село	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	8	_	_	start_char=819|end_char=823
+10	Казинка	Казинка	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	_	_	start_char=824|end_char=831
+11	совершены	совершить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	10	_	_	start_char=832|end_char=841
+12	атаки	атака	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	11	_	_	start_char=842|end_char=847
+13	с	с	ADP	_	_	12	_	_	start_char=848|end_char=849
+14	помощью	помощь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	13	_	_	start_char=850|end_char=857
+15	3	3	NUM	_	NumType=Card	14	_	_	start_char=858|end_char=859
+16	БПЛА	бпла	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	_	_	start_char=860|end_char=864|SpaceAfter=No
+17	.	.	PUNCT	_	_	16	_	_	start_char=864|end_char=865|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	_	_	start_char=865|end_char=866|SpaceAfter=No
+19	.	.	PUNCT	_	_	18	_	_	start_char=866|end_char=867
+
+# text = В Волоконовском районе село Коновалово и хутор Старый атакованы одним БПЛА и 3 снарядами в ходе одного обстрела", - написал Гладков.
+# sent_id = 7
+1	В	в	ADP	_	_	0	_	_	start_char=868|end_char=869
+2	Волоконовском	волоконовский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	1	_	_	start_char=870|end_char=883
+3	районе	район	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	_	_	start_char=884|end_char=890
+4	село	село	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	_	_	start_char=891|end_char=895
+5	Коновалово	Коновалово	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	_	_	start_char=896|end_char=906
+6	и	и	CCONJ	_	_	5	_	_	start_char=907|end_char=908
+7	хутор	хутор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	_	_	start_char=909|end_char=914
+8	Старый	старый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	_	_	start_char=915|end_char=921
+9	атакованы	атаковать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	8	_	_	start_char=922|end_char=931
+10	одним	один	NUM	_	Case=Ins|Gender=Masc|NumType=Card	9	_	_	start_char=932|end_char=937
+11	БПЛА	БПЛА	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	10	_	_	start_char=938|end_char=942
+12	и	и	CCONJ	_	_	11	_	_	start_char=943|end_char=944
+13	3	3	NUM	_	NumType=Card	12	_	_	start_char=945|end_char=946
+14	снарядами	снаряд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	13	_	_	start_char=947|end_char=956
+15	в	в	ADP	_	_	14	_	_	start_char=957|end_char=958
+16	ходе	ход	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	_	_	start_char=959|end_char=963
+17	одного	один	NUM	_	Case=Gen|Gender=Masc|NumType=Card	16	_	_	start_char=964|end_char=970
+18	обстрела	обстрел	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	_	_	start_char=971|end_char=979|SpaceAfter=No
+19	"	"	PUNCT	_	_	18	_	_	start_char=979|end_char=980|SpaceAfter=No
+20	,	,	PUNCT	_	_	19	_	_	start_char=980|end_char=981
+21	-	-	PUNCT	_	_	20	_	_	start_char=982|end_char=983
+22	написал	написать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	21	_	_	start_char=984|end_char=991
+23	Гладков	Гладков	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	22	_	_	start_char=992|end_char=999|SpaceAfter=No
+24	.	.	PUNCT	_	_	23	_	_	start_char=999|end_char=1000
+
+# text = По данным губернатора, в Белгородском районе по 13 населенным пунктам было выпущено 19 боеприпасов и 14 беспилотников, ранены два мирных жителя.
+# sent_id = 8
+1	По	по	ADP	_	_	0	_	_	start_char=1001|end_char=1003
+2	данным	данные	NOUN	_	Animacy=Inan|Case=Dat|Number=Plur	1	_	_	start_char=1004|end_char=1010
+3	губернатора	губернатор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	_	_	start_char=1011|end_char=1022|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=1022|end_char=1023
+5	в	в	ADP	_	_	4	_	_	start_char=1024|end_char=1025
+6	Белгородском	белгородский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	5	_	_	start_char=1026|end_char=1038
+7	районе	район	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	_	_	start_char=1039|end_char=1045
+8	по	по	ADP	_	_	7	_	_	start_char=1046|end_char=1048
+9	13	13	NUM	_	NumType=Card	8	_	_	start_char=1049|end_char=1051
+10	населенным	населенный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	9	_	_	start_char=1052|end_char=1062
+11	пунктам	пункт	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	10	_	_	start_char=1063|end_char=1070
+12	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	_	_	start_char=1071|end_char=1075
+13	выпущено	выпустить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	12	_	_	start_char=1076|end_char=1084
+14	19	19	NUM	_	NumType=Card	13	_	_	start_char=1085|end_char=1087
+15	боеприпасов	боеприпас	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	14	_	_	start_char=1088|end_char=1099
+16	и	и	CCONJ	_	_	15	_	_	start_char=1100|end_char=1101
+17	14	14	NUM	_	NumType=Card	16	_	_	start_char=1102|end_char=1104
+18	беспилотников	беспилотник	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	17	_	_	start_char=1105|end_char=1118|SpaceAfter=No
+19	,	,	PUNCT	_	_	18	_	_	start_char=1118|end_char=1119
+20	ранены	ранить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	19	_	_	start_char=1120|end_char=1126
+21	два	два	NUM	_	Case=Nom|Gender=Masc|NumType=Card	20	_	_	start_char=1127|end_char=1130
+22	мирных	мирный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	21	_	_	start_char=1131|end_char=1137
+23	жителя	житель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	22	_	_	start_char=1138|end_char=1144|SpaceAfter=No
+24	.	.	PUNCT	_	_	23	_	_	start_char=1144|end_char=1145
+
+# text = В Грайворонском городском округе по городу Грайворон и 8 населенным пунктам было выпущено 50 боеприпасов и 14 БПЛА, которые ударили 42 взрывными устройствами.
+# sent_id = 9
+1	В	в	ADP	_	_	0	_	_	start_char=1146|end_char=1147
+2	Грайворонском	грайворонский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	1	_	_	start_char=1148|end_char=1161
+3	городском	городской	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	2	_	_	start_char=1162|end_char=1171
+4	округе	округ	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	_	_	start_char=1172|end_char=1178
+5	по	по	ADP	_	_	4	_	_	start_char=1179|end_char=1181
+6	городу	город	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	5	_	_	start_char=1182|end_char=1188
+7	Грайворон	Грайворон	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	_	_	start_char=1189|end_char=1198
+8	и	и	CCONJ	_	_	7	_	_	start_char=1199|end_char=1200
+9	8	8	NUM	_	NumType=Card	8	_	_	start_char=1201|end_char=1202
+10	населенным	населить	VERB	_	Aspect=Perf|Case=Dat|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	9	_	_	start_char=1203|end_char=1213
+11	пунктам	пункт	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	10	_	_	start_char=1214|end_char=1221
+12	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	_	_	start_char=1222|end_char=1226
+13	выпущено	выпустить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	12	_	_	start_char=1227|end_char=1235
+14	50	50	NUM	_	NumType=Card	13	_	_	start_char=1236|end_char=1238
+15	боеприпасов	боеприпас	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	14	_	_	start_char=1239|end_char=1250
+16	и	и	CCONJ	_	_	15	_	_	start_char=1251|end_char=1252
+17	14	14	NUM	_	NumType=Card	16	_	_	start_char=1253|end_char=1255
+18	БПЛА	бпла	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	_	_	start_char=1256|end_char=1260|SpaceAfter=No
+19	,	,	PUNCT	_	_	18	_	_	start_char=1260|end_char=1261
+20	которые	который	PRON	_	Case=Nom|PronType=Int,Rel	19	_	_	start_char=1262|end_char=1269
+21	ударили	ударить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	20	_	_	start_char=1270|end_char=1277
+22	42	42	NUM	_	NumType=Card	21	_	_	start_char=1278|end_char=1280
+23	взрывными	взрывной	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	22	_	_	start_char=1281|end_char=1290
+24	устройствами	устройство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	23	_	_	start_char=1291|end_char=1303|SpaceAfter=No
+25	.	.	PUNCT	_	_	24	_	_	start_char=1303|end_char=1304
+
+# text = В результате атаки дрона в селе Безымено ранен мужчина.
+# sent_id = 10
+1	В	в	ADP	_	_	0	_	_	start_char=1305|end_char=1306
+2	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	_	_	start_char=1307|end_char=1317
+3	атаки	атака	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	_	_	start_char=1318|end_char=1323
+4	дрона	дрона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=1324|end_char=1329
+5	в	в	ADP	_	_	4	_	_	start_char=1330|end_char=1331
+6	селе	село	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	_	_	start_char=1332|end_char=1336
+7	Безымено	Безымено	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	_	_	start_char=1337|end_char=1345
+8	ранен	ранить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	7	_	_	start_char=1346|end_char=1351
+9	мужчина	мужчина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	_	_	start_char=1352|end_char=1359|SpaceAfter=No
+10	.	.	PUNCT	_	_	9	_	_	start_char=1359|end_char=1360
+
+# text = В Краснояружском районе атакам со стороны Украины подверглись три села, было выпущено 4 боеприпаса и произведены атаки с помощью 2 дронов.
+# sent_id = 11
+1	В	в	ADP	_	_	0	_	_	start_char=1361|end_char=1362
+2	Краснояружском	краснояружский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	1	_	_	start_char=1363|end_char=1377
+3	районе	район	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	_	_	start_char=1378|end_char=1384
+4	атакам	атака	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	3	_	_	start_char=1385|end_char=1391
+5	со	с	ADP	_	_	4	_	_	start_char=1392|end_char=1394
+6	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	_	_	start_char=1395|end_char=1402
+7	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	_	_	start_char=1403|end_char=1410
+8	подверглись	подвергнуться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	7	_	_	start_char=1411|end_char=1422
+9	три	три	NUM	_	Case=Nom|NumType=Card	8	_	_	start_char=1423|end_char=1426
+10	села	село	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	_	_	start_char=1427|end_char=1431|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=1431|end_char=1432
+12	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	_	_	start_char=1433|end_char=1437
+13	выпущено	выпустить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	12	_	_	start_char=1438|end_char=1446
+14	4	4	NUM	_	NumType=Card	13	_	_	start_char=1447|end_char=1448
+15	боеприпаса	боеприпас	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	_	_	start_char=1449|end_char=1459
+16	и	и	CCONJ	_	_	15	_	_	start_char=1460|end_char=1461
+17	произведены	произвести	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	16	_	_	start_char=1462|end_char=1473
+18	атаки	атака	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	17	_	_	start_char=1474|end_char=1479
+19	с	с	ADP	_	_	18	_	_	start_char=1480|end_char=1481
+20	помощью	помощь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	19	_	_	start_char=1482|end_char=1489
+21	2	2	NUM	_	NumType=Card	20	_	_	start_char=1490|end_char=1491
+22	дронов	дрон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	21	_	_	start_char=1492|end_char=1498|SpaceAfter=No
+23	.	.	PUNCT	_	_	22	_	_	start_char=1498|end_char=1499
+
+# text = «"В Шебекинском городском округе по городу Шебекино, селам Безлюдовка, Графовка, Муром, Новая Таволжанка, хуторам Марьино и Панков выпущено 15 беспилотников, 4 из которых сбиты системой ПВО и 15 боеприпасов в ходе 6 обстрелов.
+# sent_id = 12
+1	«	"	PUNCT	_	_	0	_	_	start_char=1500|end_char=1501|SpaceAfter=No
+2	"	"	PUNCT	_	_	1	_	_	start_char=1501|end_char=1502|SpaceAfter=No
+3	В	в	ADP	_	_	2	_	_	start_char=1502|end_char=1503
+4	Шебекинском	шебекинский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	3	_	_	start_char=1504|end_char=1515
+5	городском	городской	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	4	_	_	start_char=1516|end_char=1525
+6	округе	округ	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	_	_	start_char=1526|end_char=1532
+7	по	по	ADP	_	_	6	_	_	start_char=1533|end_char=1535
+8	городу	город	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	7	_	_	start_char=1536|end_char=1542
+9	Шебекино	Шебекино	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	_	_	start_char=1543|end_char=1551|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=1551|end_char=1552
+11	селам	село	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	10	_	_	start_char=1553|end_char=1558
+12	Безлюдовка	Безлюдовка	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	_	_	start_char=1559|end_char=1569|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=1569|end_char=1570
+14	Графовка	Графовка	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	_	_	start_char=1571|end_char=1579|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=1579|end_char=1580
+16	Муром	Мур	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	15	_	_	start_char=1581|end_char=1586|SpaceAfter=No
+17	,	,	PUNCT	_	_	16	_	_	start_char=1586|end_char=1587
+18	Новая	новый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	17	_	_	start_char=1588|end_char=1593
+19	Таволжанка	Таволжанка	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	18	_	_	start_char=1594|end_char=1604|SpaceAfter=No
+20	,	,	PUNCT	_	_	19	_	_	start_char=1604|end_char=1605
+21	хуторам	хутор	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	20	_	_	start_char=1606|end_char=1613
+22	Марьино	Марьино	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	21	_	_	start_char=1614|end_char=1621
+23	и	и	CCONJ	_	_	22	_	_	start_char=1622|end_char=1623
+24	Панков	Панков	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	23	_	_	start_char=1624|end_char=1630
+25	выпущено	выпустить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	24	_	_	start_char=1631|end_char=1639
+26	15	15	NUM	_	NumType=Card	25	_	_	start_char=1640|end_char=1642
+27	беспилотников	беспилотник	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	26	_	_	start_char=1643|end_char=1656|SpaceAfter=No
+28	,	,	PUNCT	_	_	27	_	_	start_char=1656|end_char=1657
+29	4	4	NUM	_	NumType=Card	28	_	_	start_char=1658|end_char=1659
+30	из	из	ADP	_	_	29	_	_	start_char=1660|end_char=1662
+31	которых	который	PRON	_	Case=Gen|PronType=Int,Rel	30	_	_	start_char=1663|end_char=1670
+32	сбиты	сбить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	31	_	_	start_char=1671|end_char=1676
+33	системой	система	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	32	_	_	start_char=1677|end_char=1685
+34	ПВО	пво	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	33	_	_	start_char=1686|end_char=1689
+35	и	и	CCONJ	_	_	34	_	_	start_char=1690|end_char=1691
+36	15	15	NUM	_	NumType=Card	35	_	_	start_char=1692|end_char=1694
+37	боеприпасов	боеприпас	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	36	_	_	start_char=1695|end_char=1706
+38	в	в	ADP	_	_	37	_	_	start_char=1707|end_char=1708
+39	ходе	ход	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	38	_	_	start_char=1709|end_char=1713
+40	6	6	NUM	_	NumType=Card	39	_	_	start_char=1714|end_char=1715
+41	обстрелов	обстрел	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	40	_	_	start_char=1716|end_char=1725|SpaceAfter=No
+42	.	.	PUNCT	_	_	41	_	_	start_char=1725|end_char=1726
+
+# text = В результате обстрела села Новая Таволжанка пострадал мирный житель", - уточнил Гладков.
+# sent_id = 13
+1	В	в	ADP	_	_	0	_	_	start_char=1727|end_char=1728
+2	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	_	_	start_char=1729|end_char=1739
+3	обстрела	обстрел	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	_	_	start_char=1740|end_char=1748
+4	села	село	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	_	_	start_char=1749|end_char=1753
+5	Новая	новый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	_	_	start_char=1754|end_char=1759
+6	Таволжанка	Таволжанка	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	_	_	start_char=1760|end_char=1770
+7	пострадал	страдать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	_	_	start_char=1771|end_char=1780
+8	мирный	мирный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	_	_	start_char=1781|end_char=1787
+9	житель	житель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	_	_	start_char=1788|end_char=1794|SpaceAfter=No
+10	"	"	PUNCT	_	_	9	_	_	start_char=1794|end_char=1795|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=1795|end_char=1796
+12	-	-	PUNCT	_	_	11	_	_	start_char=1797|end_char=1798
+13	уточнил	уточнить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	_	_	start_char=1799|end_char=1806
+14	Гладков	Гладков	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	_	_	start_char=1807|end_char=1814|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	_	_	start_char=1814|end_char=1815
+
+# text = На всей территории Белгородской области с 11 апреля 2022 года установлен высокий (желтый) уровень террористической опасности.
+# sent_id = 14
+1	На	на	ADP	_	_	0	_	_	start_char=1816|end_char=1818
+2	всей	весь	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Tot	1	_	_	start_char=1819|end_char=1823
+3	территории	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	_	_	start_char=1824|end_char=1834
+4	Белгородской	Белгородский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	3	_	_	start_char=1835|end_char=1847
+5	области	область	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	_	_	start_char=1848|end_char=1855
+6	с	с	ADP	_	_	5	_	_	start_char=1856|end_char=1857
+7	11	11	NUM	_	NumType=Card	6	_	_	start_char=1858|end_char=1860
+8	апреля	апрель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	_	_	start_char=1861|end_char=1867
+9	2022	2022	ADJ	_	Degree=Pos	8	_	_	start_char=1868|end_char=1872
+10	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	_	_	start_char=1873|end_char=1877
+11	установлен	установить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	10	_	_	start_char=1878|end_char=1888
+12	высокий	высокий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	_	_	start_char=1889|end_char=1896
+13	(	(	PUNCT	_	_	12	_	_	start_char=1897|end_char=1898|SpaceAfter=No
+14	желтый	желтый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	13	_	_	start_char=1898|end_char=1904|SpaceAfter=No
+15	)	)	PUNCT	_	_	14	_	_	start_char=1904|end_char=1905
+16	уровень	уровень	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	15	_	_	start_char=1906|end_char=1913
+17	террористической	террористический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	16	_	_	start_char=1914|end_char=1930
+18	опасности	опасность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	_	_	start_char=1931|end_char=1940|SpaceAfter=No
+19	.	.	PUNCT	_	_	18	_	_	start_char=1940|end_char=1941
+
+# text = Необходимость введения режима вызвана обострением ситуации на украинско-российской границе и повышением активности украинских военных в приграничных районах.
+# sent_id = 15
+1	Необходимость	необходимость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	_	_	start_char=1942|end_char=1955
+2	введения	введение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	_	_	start_char=1956|end_char=1964
+3	режима	режим	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	_	_	start_char=1965|end_char=1971
+4	вызвана	вызвать	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	3	_	_	start_char=1972|end_char=1979
+5	обострением	обострение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	4	_	_	start_char=1980|end_char=1991
+6	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	_	_	start_char=1992|end_char=2000
+7	на	на	ADP	_	_	6	_	_	start_char=2001|end_char=2003
+8	украинско	украинско	ADJ	_	Degree=Pos	7	_	_	start_char=2004|end_char=2013|SpaceAfter=No
+9	-	-	PUNCT	_	_	8	_	_	start_char=2013|end_char=2014|SpaceAfter=No
+10	российской	российский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	9	_	_	start_char=2014|end_char=2024
+11	границе	граница	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	_	_	start_char=2025|end_char=2032
+12	и	и	CCONJ	_	_	11	_	_	start_char=2033|end_char=2034
+13	повышением	повышение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	12	_	_	start_char=2035|end_char=2045
+14	активности	активность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	_	_	start_char=2046|end_char=2056
+15	украинских	украинский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	14	_	_	start_char=2057|end_char=2067
+16	военных	военный	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	15	_	_	start_char=2068|end_char=2075
+17	в	в	ADP	_	_	16	_	_	start_char=2076|end_char=2077
+18	приграничных	приграничный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	17	_	_	start_char=2078|end_char=2090
+19	районах	район	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	18	_	_	start_char=2091|end_char=2098|SpaceAfter=No
+20	.	.	PUNCT	_	_	19	_	_	start_char=2098|end_char=2099
+
+# text = Протяженность украинской границы с Белгородской областью составляет 350 километров.
+# sent_id = 16
+1	Протяженность	протяженность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	_	_	start_char=2100|end_char=2113
+2	украинской	украинский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	1	_	_	start_char=2114|end_char=2124
+3	границы	граница	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	_	_	start_char=2125|end_char=2132
+4	с	с	ADP	_	_	3	_	_	start_char=2133|end_char=2134
+5	Белгородской	Белгородский	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	4	_	_	start_char=2135|end_char=2147
+6	областью	область	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	_	_	start_char=2148|end_char=2156
+7	составляет	составлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	_	_	start_char=2157|end_char=2167
+8	350	350	NUM	_	NumType=Card	7	_	_	start_char=2168|end_char=2171
+9	километров	километр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	_	_	start_char=2172|end_char=2182|SpaceAfter=No
+10	.	.	PUNCT	_	_	9	_	_	start_char=2182|end_char=2183|SpaceAfter=No
+

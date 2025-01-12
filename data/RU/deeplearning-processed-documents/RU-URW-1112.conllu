@@ -1,0 +1,222 @@
+# text = Сегодня утром Белгород остался без света Украинские войска не только намеренно бьют по гражданским машинам, но и последовательно выводят из строя объекты энергетики.
+# sent_id = 0
+1	Сегодня	сегодня	ADV	_	Degree=Pos	0	_	_	start_char=0|end_char=7
+2	утром	утро	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	1	_	_	start_char=8|end_char=13
+3	Белгород	Белгород	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	_	_	start_char=14|end_char=22
+4	остался	остаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	_	_	start_char=23|end_char=30
+5	без	без	ADP	_	_	4	_	_	start_char=31|end_char=34
+6	света	свет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	_	_	start_char=35|end_char=40
+7	Украинские	украинский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	_	_	start_char=41|end_char=51
+8	войска	войска	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	7	_	_	start_char=52|end_char=58
+9	не	не	PART	_	_	8	_	_	start_char=59|end_char=61
+10	только	только	PART	_	_	9	_	_	start_char=62|end_char=68
+11	намеренно	намеренно	ADV	_	Degree=Pos	10	_	_	start_char=69|end_char=78
+12	бьют	бить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	_	_	start_char=79|end_char=83
+13	по	по	ADP	_	_	12	_	_	start_char=84|end_char=86
+14	гражданским	гражданский	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	13	_	_	start_char=87|end_char=98
+15	машинам	машина	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	14	_	_	start_char=99|end_char=106|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	_	_	start_char=106|end_char=107
+17	но	но	CCONJ	_	_	16	_	_	start_char=108|end_char=110
+18	и	и	PART	_	_	17	_	_	start_char=111|end_char=112
+19	последовательно	последовательно	ADV	_	Degree=Pos	18	_	_	start_char=113|end_char=128
+20	выводят	выводить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	_	_	start_char=129|end_char=136
+21	из	из	ADP	_	_	20	_	_	start_char=137|end_char=139
+22	строя	строй	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	_	_	start_char=140|end_char=145
+23	объекты	объект	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	22	_	_	start_char=146|end_char=153
+24	энергетики	энергетика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	_	_	start_char=154|end_char=164|SpaceAfter=No
+25	.	.	PUNCT	_	_	24	_	_	start_char=164|end_char=165
+
+# text = Вектор Банковой с момента первых атак на Белгородскую область остается неизменным.
+# sent_id = 1
+1	Вектор	вектор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=166|end_char=172
+2	Банковой	Банкова	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	1	_	_	start_char=173|end_char=181
+3	с	с	ADP	_	_	2	_	_	start_char=182|end_char=183
+4	момента	момент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=184|end_char=191
+5	первых	первый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	_	_	start_char=192|end_char=198
+6	атак	атака	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	_	_	start_char=199|end_char=203
+7	на	на	ADP	_	_	6	_	_	start_char=204|end_char=206
+8	Белгородскую	Белгородский	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	_	_	start_char=207|end_char=219
+9	область	область	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	_	_	start_char=220|end_char=227
+10	остается	оставаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	9	_	_	start_char=228|end_char=236
+11	неизменным	неизменный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	10	_	_	start_char=237|end_char=247|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	_	_	start_char=247|end_char=248
+
+# text = Терроризировать население города обстрелами из РСЗО как раньше у ВСУ не получается – за этот результат спасибо войскам группировки «Север», сумевших сдвинуть линию фронта в Харьковской области.
+# sent_id = 2
+1	Терроризировать	терроризировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	_	_	start_char=249|end_char=264
+2	население	население	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	_	_	start_char=265|end_char=274
+3	города	город	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	_	_	start_char=275|end_char=281
+4	обстрелами	обстрел	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	3	_	_	start_char=282|end_char=292
+5	из	из	ADP	_	_	4	_	_	start_char=293|end_char=295
+6	РСЗО	РСЗО	PROPN	_	Animacy=Inan|Case=Gen|Number=Sing	5	_	_	start_char=296|end_char=300
+7	как	как	SCONJ	_	_	6	_	_	start_char=301|end_char=304
+8	раньше	рано	ADV	_	Degree=Cmp	7	_	_	start_char=305|end_char=311
+9	у	у	ADP	_	_	8	_	_	start_char=312|end_char=313
+10	ВСУ	ВСУ	PROPN	_	Animacy=Inan|Case=Gen|Number=Sing	9	_	_	start_char=314|end_char=317
+11	не	не	PART	_	_	10	_	_	start_char=318|end_char=320
+12	получается	получаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	11	_	_	start_char=321|end_char=331
+13	–	–	PUNCT	_	_	12	_	_	start_char=332|end_char=333
+14	за	за	ADP	_	_	13	_	_	start_char=334|end_char=336
+15	этот	этот	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	14	_	_	start_char=337|end_char=341
+16	результат	результат	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	_	_	start_char=342|end_char=351
+17	спасибо	спасибо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	16	_	_	start_char=352|end_char=359
+18	войскам	войска	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	17	_	_	start_char=360|end_char=367
+19	группировки	группировка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	_	_	start_char=368|end_char=379
+20	«	"	PUNCT	_	_	19	_	_	start_char=380|end_char=381|SpaceAfter=No
+21	Север	север	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	20	_	_	start_char=381|end_char=386|SpaceAfter=No
+22	»	"	PUNCT	_	_	21	_	_	start_char=386|end_char=387|SpaceAfter=No
+23	,	,	PUNCT	_	_	22	_	_	start_char=387|end_char=388
+24	сумевших	суметь	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	23	_	_	start_char=389|end_char=397
+25	сдвинуть	сдвинуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	24	_	_	start_char=398|end_char=406
+26	линию	линия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	25	_	_	start_char=407|end_char=412
+27	фронта	фронт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	26	_	_	start_char=413|end_char=419
+28	в	в	ADP	_	_	27	_	_	start_char=420|end_char=421
+29	Харьковской	харьковский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	28	_	_	start_char=422|end_char=433
+30	области	область	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	29	_	_	start_char=434|end_char=441|SpaceAfter=No
+31	.	.	PUNCT	_	_	30	_	_	start_char=441|end_char=442
+
+# text = Хотя у украинцев остаются направления, где они еще могут выпустить ракеты по Белгороду, однако они опасаются это делать в виду работы нашей артиллерии, ОТРК и расчетам «Ланцетов».
+# sent_id = 3
+1	Хотя	хотя	SCONJ	_	_	0	_	_	start_char=443|end_char=447
+2	у	у	ADP	_	_	1	_	_	start_char=448|end_char=449
+3	украинцев	украинец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	_	_	start_char=450|end_char=459
+4	остаются	оставаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	3	_	_	start_char=460|end_char=468
+5	направления	направление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	4	_	_	start_char=469|end_char=480|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=480|end_char=481
+7	где	где	ADV	_	Degree=Pos	6	_	_	start_char=482|end_char=485
+8	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	_	_	start_char=486|end_char=489
+9	еще	еще	ADV	_	Degree=Pos	8	_	_	start_char=490|end_char=493
+10	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	_	_	start_char=494|end_char=499
+11	выпустить	выпустить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	_	_	start_char=500|end_char=509
+12	ракеты	ракета	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	11	_	_	start_char=510|end_char=516
+13	по	по	ADP	_	_	12	_	_	start_char=517|end_char=519
+14	Белгороду	Белгород	PROPN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	13	_	_	start_char=520|end_char=529|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=529|end_char=530
+16	однако	однако	ADV	_	Degree=Pos	15	_	_	start_char=531|end_char=537
+17	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	_	_	start_char=538|end_char=541
+18	опасаются	опасаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	17	_	_	start_char=542|end_char=551
+19	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	18	_	_	start_char=552|end_char=555
+20	делать	делать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	19	_	_	start_char=556|end_char=562
+21	в	в	ADP	_	_	20	_	_	start_char=563|end_char=564
+22	виду	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	21	_	_	start_char=565|end_char=569
+23	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	_	_	start_char=570|end_char=576
+24	нашей	наш	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	23	_	_	start_char=577|end_char=582
+25	артиллерии	артиллерия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	24	_	_	start_char=583|end_char=593|SpaceAfter=No
+26	,	,	PUNCT	_	_	25	_	_	start_char=593|end_char=594
+27	ОТРК	ОТРК	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	26	_	_	start_char=595|end_char=599
+28	и	и	CCONJ	_	_	27	_	_	start_char=600|end_char=601
+29	расчетам	расчет	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	28	_	_	start_char=602|end_char=610
+30	«	"	PUNCT	_	_	29	_	_	start_char=611|end_char=612|SpaceAfter=No
+31	Ланцетов	Ланцетов	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	30	_	_	start_char=612|end_char=620|SpaceAfter=No
+32	»	"	PUNCT	_	_	31	_	_	start_char=620|end_char=621|SpaceAfter=No
+33	.	.	PUNCT	_	_	32	_	_	start_char=621|end_char=622
+
+# text = Очевидной целью Банковой является достижение такого градуса террора, что жители приграничья массово покинут данные территории, которые станут «серой зоной» на глубину в 20+ километров.
+# sent_id = 4
+1	Очевидной	очевидный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	0	_	_	start_char=623|end_char=632
+2	целью	цель	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	1	_	_	start_char=633|end_char=638
+3	Банковой	Банкова	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	2	_	_	start_char=639|end_char=647
+4	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	3	_	_	start_char=648|end_char=656
+5	достижение	достижение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	_	_	start_char=657|end_char=667
+6	такого	такой	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	5	_	_	start_char=668|end_char=674
+7	градуса	градус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	_	_	start_char=675|end_char=682
+8	террора	террор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	_	_	start_char=683|end_char=690|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=690|end_char=691
+10	что	что	SCONJ	_	_	9	_	_	start_char=692|end_char=695
+11	жители	житель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	10	_	_	start_char=696|end_char=702
+12	приграничья	приграничье	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	_	_	start_char=703|end_char=714
+13	массово	массово	ADV	_	Degree=Pos	12	_	_	start_char=715|end_char=722
+14	покинут	покинуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	13	_	_	start_char=723|end_char=730
+15	данные	данный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	14	_	_	start_char=731|end_char=737
+16	территории	территория	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	15	_	_	start_char=738|end_char=748|SpaceAfter=No
+17	,	,	PUNCT	_	_	16	_	_	start_char=748|end_char=749
+18	которые	который	PRON	_	Case=Nom|PronType=Int,Rel	17	_	_	start_char=750|end_char=757
+19	станут	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	18	_	_	start_char=758|end_char=764
+20	«	"	PUNCT	_	_	19	_	_	start_char=765|end_char=766|SpaceAfter=No
+21	серой	серый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	20	_	_	start_char=766|end_char=771
+22	зоной	зона	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	21	_	_	start_char=772|end_char=777|SpaceAfter=No
+23	»	"	PUNCT	_	_	22	_	_	start_char=777|end_char=778
+24	на	на	ADP	_	_	23	_	_	start_char=779|end_char=781
+25	глубину	глубина	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	24	_	_	start_char=782|end_char=789
+26	в	в	ADP	_	_	25	_	_	start_char=790|end_char=791
+27	20+	20+	NUM	_	NumType=Card	26	_	_	start_char=792|end_char=795
+28	километров	километр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	27	_	_	start_char=796|end_char=806|SpaceAfter=No
+29	.	.	PUNCT	_	_	28	_	_	start_char=806|end_char=807
+
+# text = Примерно на это расстояние сейчас летают FPV-дроны противника, намеренно убивая мирных жителей, разоряя хозяйства и атакуя инфраструктуру.
+# sent_id = 5
+1	Примерно	примерно	ADV	_	Degree=Pos	0	_	_	start_char=808|end_char=816
+2	на	на	ADP	_	_	1	_	_	start_char=817|end_char=819
+3	это	этот	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	2	_	_	start_char=820|end_char=823
+4	расстояние	расстояние	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	_	_	start_char=824|end_char=834
+5	сейчас	сейчас	ADV	_	Degree=Pos	4	_	_	start_char=835|end_char=841
+6	летают	летать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	_	_	start_char=842|end_char=848
+7	FPV	FPV	PROPN	_	Foreign=Yes	6	_	_	start_char=849|end_char=852|SpaceAfter=No
+8	-	-	PUNCT	_	_	7	_	_	start_char=852|end_char=853|SpaceAfter=No
+9	дроны	дрон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	8	_	_	start_char=853|end_char=858
+10	противника	противник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	_	_	start_char=859|end_char=869|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=869|end_char=870
+12	намеренно	намеренно	ADV	_	Degree=Pos	11	_	_	start_char=871|end_char=880
+13	убивая	убивать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	12	_	_	start_char=881|end_char=887
+14	мирных	мирный	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Number=Plur	13	_	_	start_char=888|end_char=894
+15	жителей	житель	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	14	_	_	start_char=895|end_char=902|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	_	_	start_char=902|end_char=903
+17	разоряя	разорять	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	16	_	_	start_char=904|end_char=911
+18	хозяйства	хозяйство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	17	_	_	start_char=912|end_char=921
+19	и	и	CCONJ	_	_	18	_	_	start_char=922|end_char=923
+20	атакуя	атаковать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	19	_	_	start_char=924|end_char=930
+21	инфраструктуру	инфраструктура	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	20	_	_	start_char=931|end_char=945|SpaceAfter=No
+22	.	.	PUNCT	_	_	21	_	_	start_char=945|end_char=946
+
+# text = По моему мнению, помимо очевидного ущерба экономике региона целью террора является спровоцировать массовые волнения на Белгородчине, а также дополнительное привлечение сюда российских войск.
+# sent_id = 6
+1	По	по	ADP	_	_	0	_	_	start_char=947|end_char=949
+2	моему	мой	DET	_	Case=Dat|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	1	_	_	start_char=950|end_char=955
+3	мнению	мнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	2	_	_	start_char=956|end_char=962|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=962|end_char=963
+5	помимо	помимо	ADP	_	_	4	_	_	start_char=964|end_char=970
+6	очевидного	очевидный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	5	_	_	start_char=971|end_char=981
+7	ущерба	ущерб	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	_	_	start_char=982|end_char=988
+8	экономике	экономика	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	7	_	_	start_char=989|end_char=998
+9	региона	регион	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	_	_	start_char=999|end_char=1006
+10	целью	цель	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	9	_	_	start_char=1007|end_char=1012
+11	террора	террор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	_	_	start_char=1013|end_char=1020
+12	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	11	_	_	start_char=1021|end_char=1029
+13	спровоцировать	спровоцировать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	12	_	_	start_char=1030|end_char=1044
+14	массовые	массовый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	13	_	_	start_char=1045|end_char=1053
+15	волнения	волнение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	14	_	_	start_char=1054|end_char=1062
+16	на	на	ADP	_	_	15	_	_	start_char=1063|end_char=1065
+17	Белгородчине	Белгородчин	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	16	_	_	start_char=1066|end_char=1078|SpaceAfter=No
+18	,	,	PUNCT	_	_	17	_	_	start_char=1078|end_char=1079
+19	а	а	CCONJ	_	_	18	_	_	start_char=1080|end_char=1081
+20	также	также	PART	_	_	19	_	_	start_char=1082|end_char=1087
+21	дополнительное	дополнительный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	20	_	_	start_char=1088|end_char=1102
+22	привлечение	привлечение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	21	_	_	start_char=1103|end_char=1114
+23	сюда	сюда	ADV	_	Degree=Pos	22	_	_	start_char=1115|end_char=1119
+24	российских	российский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	23	_	_	start_char=1120|end_char=1130
+25	войск	войска	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	24	_	_	start_char=1131|end_char=1136|SpaceAfter=No
+26	.	.	PUNCT	_	_	25	_	_	start_char=1136|end_char=1137
+
+# text = Все это будет вести к дополнительному росту напряженности в обществе уже по всей России.
+# sent_id = 7
+1	Все	весь	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	0	_	_	start_char=1138|end_char=1141
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=1142|end_char=1145
+3	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=1146|end_char=1151
+4	вести	вести	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	_	_	start_char=1152|end_char=1157
+5	к	к	ADP	_	_	4	_	_	start_char=1158|end_char=1159
+6	дополнительному	дополнительный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	5	_	_	start_char=1160|end_char=1175
+7	росту	рост	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	6	_	_	start_char=1176|end_char=1181
+8	напряженности	напряженность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	_	_	start_char=1182|end_char=1195
+9	в	в	ADP	_	_	8	_	_	start_char=1196|end_char=1197
+10	обществе	общество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	_	_	start_char=1198|end_char=1206
+11	уже	уже	ADV	_	Degree=Pos	10	_	_	start_char=1207|end_char=1210
+12	по	по	ADP	_	_	11	_	_	start_char=1211|end_char=1213
+13	всей	весь	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Tot	12	_	_	start_char=1214|end_char=1218
+14	России	Россия	PROPN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	13	_	_	start_char=1219|end_char=1225|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	_	_	start_char=1225|end_char=1226
+
+# text = С. Шилов
+# sent_id = 8
+1	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=1227|end_char=1229
+2	Шилов	Шилов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=1230|end_char=1235|SpaceAfter=No
+

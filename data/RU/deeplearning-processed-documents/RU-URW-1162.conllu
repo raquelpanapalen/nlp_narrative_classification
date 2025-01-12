@@ -1,0 +1,538 @@
+# text = Страны Запада начнут разрабатывать проект по ракетам для Украины: главное об СВО к вечеру 11 июля Германия, Польша, Италия и Франция преступят к разработке плана по поставке дальнобойных ракет Украине, дальность их полета составит 500 километров.
+# sent_id = 0
+1	Страны	страна	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	_	_	start_char=0|end_char=6
+2	Запада	Запад	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	_	_	start_char=7|end_char=13
+3	начнут	начать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	2	_	_	start_char=14|end_char=20
+4	разрабатывать	разрабатывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	_	_	start_char=21|end_char=34
+5	проект	проект	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	_	_	start_char=35|end_char=41
+6	по	по	ADP	_	_	5	_	_	start_char=42|end_char=44
+7	ракетам	ракета	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	6	_	_	start_char=45|end_char=52
+8	для	для	ADP	_	_	7	_	_	start_char=53|end_char=56
+9	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	_	_	start_char=57|end_char=64|SpaceAfter=No
+10	:	:	PUNCT	_	_	9	_	_	start_char=64|end_char=65
+11	главное	главное	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	_	_	start_char=66|end_char=73
+12	об	о	ADP	_	_	11	_	_	start_char=74|end_char=76
+13	СВО	СВО	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	12	_	_	start_char=77|end_char=80
+14	к	к	ADP	_	_	13	_	_	start_char=81|end_char=82
+15	вечеру	вечер	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	14	_	_	start_char=83|end_char=89
+16	11	11	NUM	_	NumType=Card	15	_	_	start_char=90|end_char=92
+17	июля	июль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	_	_	start_char=93|end_char=97
+18	Германия	Германия	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	17	_	_	start_char=98|end_char=106|SpaceAfter=No
+19	,	,	PUNCT	_	_	18	_	_	start_char=106|end_char=107
+20	Польша	Польша	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	19	_	_	start_char=108|end_char=114|SpaceAfter=No
+21	,	,	PUNCT	_	_	20	_	_	start_char=114|end_char=115
+22	Италия	Италия	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	21	_	_	start_char=116|end_char=122
+23	и	и	CCONJ	_	_	22	_	_	start_char=123|end_char=124
+24	Франция	Франция	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	23	_	_	start_char=125|end_char=132
+25	преступят	преступить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	24	_	_	start_char=133|end_char=142
+26	к	к	ADP	_	_	25	_	_	start_char=143|end_char=144
+27	разработке	разработка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	26	_	_	start_char=145|end_char=155
+28	плана	план	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	27	_	_	start_char=156|end_char=161
+29	по	по	ADP	_	_	28	_	_	start_char=162|end_char=164
+30	поставке	поставка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	29	_	_	start_char=165|end_char=173
+31	дальнобойных	дальнобойный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	30	_	_	start_char=174|end_char=186
+32	ракет	ракета	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	31	_	_	start_char=187|end_char=192
+33	Украине	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	32	_	_	start_char=193|end_char=200|SpaceAfter=No
+34	,	,	PUNCT	_	_	33	_	_	start_char=200|end_char=201
+35	дальность	дальность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	34	_	_	start_char=202|end_char=211
+36	их	их	DET	_	Poss=Yes|PronType=Prs	35	_	_	start_char=212|end_char=214
+37	полета	полет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	36	_	_	start_char=215|end_char=221
+38	составит	составить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	37	_	_	start_char=222|end_char=230
+39	500	500	NUM	_	NumType=Card	38	_	_	start_char=231|end_char=234
+40	километров	километр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	39	_	_	start_char=235|end_char=245|SpaceAfter=No
+41	.	.	PUNCT	_	_	40	_	_	start_char=245|end_char=246
+
+# text = Кроме того, в ЛНР были найдены зажигательные контейнеры, которыми ВСУ пытались поджечь леса.
+# sent_id = 1
+1	Кроме	кроме	ADP	_	_	0	_	_	start_char=247|end_char=252
+2	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=253|end_char=257|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=257|end_char=258
+4	в	в	ADP	_	_	3	_	_	start_char=259|end_char=260
+5	ЛНР	ЛНР	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	_	_	start_char=261|end_char=264
+6	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	_	_	start_char=265|end_char=269
+7	найдены	найти	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	6	_	_	start_char=270|end_char=277
+8	зажигательные	зажигательный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	_	_	start_char=278|end_char=291
+9	контейнеры	контейнер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	8	_	_	start_char=292|end_char=302|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=302|end_char=303
+11	которыми	который	PRON	_	Case=Ins|PronType=Int,Rel	10	_	_	start_char=304|end_char=312
+12	ВСУ	ВСУ	PROPN	_	Animacy=Inan|Number=Sing	11	_	_	start_char=313|end_char=316
+13	пытались	пытаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	12	_	_	start_char=317|end_char=325
+14	поджечь	поджечь	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	13	_	_	start_char=326|end_char=333
+15	леса	лес	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	14	_	_	start_char=334|end_char=338|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	_	_	start_char=338|end_char=339
+
+# text = Главные новости спецоперации к вечеру 11 июля — в материале URA.RU.
+# sent_id = 2
+1	Главные	главный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	0	_	_	start_char=340|end_char=347
+2	новости	новость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1	_	_	start_char=348|end_char=355
+3	спецоперации	спецоперация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	_	_	start_char=356|end_char=368
+4	к	к	ADP	_	_	3	_	_	start_char=369|end_char=370
+5	вечеру	вечер	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	4	_	_	start_char=371|end_char=377
+6	11	11	NUM	_	NumType=Card	5	_	_	start_char=378|end_char=380
+7	июля	июль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	_	_	start_char=381|end_char=385
+8	—	—	PUNCT	_	_	7	_	_	start_char=386|end_char=387
+9	в	в	ADP	_	_	8	_	_	start_char=388|end_char=389
+10	материале	материал	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	_	_	start_char=390|end_char=399
+11	URA.RU	URA.RU	PROPN	_	Foreign=Yes	10	_	_	start_char=400|end_char=406|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	_	_	start_char=406|end_char=407
+
+# text = Разработка дальнобойных ракет.
+# sent_id = 3
+1	Разработка	разработка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	_	_	start_char=408|end_char=418
+2	дальнобойных	дальнобойный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	1	_	_	start_char=419|end_char=431
+3	ракет	ракета	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	_	_	start_char=432|end_char=437|SpaceAfter=No
+4	.	.	PUNCT	_	_	3	_	_	start_char=437|end_char=438
+
+# text = Франция, Германия, Италия и Польша предложили совместный проект по разработке и поставке Украине дальнобойных ракет с дальностью полета 500 километров.
+# sent_id = 4
+1	Франция	Франция	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	_	_	start_char=439|end_char=446|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	_	_	start_char=446|end_char=447
+3	Германия	Германия	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	_	_	start_char=448|end_char=456|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=456|end_char=457
+5	Италия	Италия	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	_	_	start_char=458|end_char=464
+6	и	и	CCONJ	_	_	5	_	_	start_char=465|end_char=466
+7	Польша	Польша	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	_	_	start_char=467|end_char=473
+8	предложили	предложить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	7	_	_	start_char=474|end_char=484
+9	совместный	совместный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	_	_	start_char=485|end_char=495
+10	проект	проект	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	_	_	start_char=496|end_char=502
+11	по	по	ADP	_	_	10	_	_	start_char=503|end_char=505
+12	разработке	разработка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	11	_	_	start_char=506|end_char=516
+13	и	и	CCONJ	_	_	12	_	_	start_char=517|end_char=518
+14	поставке	поставка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	13	_	_	start_char=519|end_char=527
+15	Украине	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	_	_	start_char=528|end_char=535
+16	дальнобойных	дальнобойный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	_	_	start_char=536|end_char=548
+17	ракет	ракета	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	16	_	_	start_char=549|end_char=554
+18	с	с	ADP	_	_	17	_	_	start_char=555|end_char=556
+19	дальностью	дальность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	18	_	_	start_char=557|end_char=567
+20	полета	полет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	_	_	start_char=568|end_char=574
+21	500	500	NUM	_	NumType=Card	20	_	_	start_char=575|end_char=578
+22	километров	километр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	21	_	_	start_char=579|end_char=589|SpaceAfter=No
+23	.	.	PUNCT	_	_	22	_	_	start_char=589|end_char=590
+
+# text = Это оружие может усилить способность Киева наносить удары на большие расстояния, в том числе потенциально и по территории РФ, сообщает Reuters.
+# sent_id = 5
+1	Это	этот	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	_	_	start_char=591|end_char=594
+2	оружие	оружие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	_	_	start_char=595|end_char=601
+3	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=602|end_char=607
+4	усилить	усилить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	_	_	start_char=608|end_char=615
+5	способность	способность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	_	_	start_char=616|end_char=627
+6	Киева	Киев	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	_	_	start_char=628|end_char=633
+7	наносить	наносить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	_	_	start_char=634|end_char=642
+8	удары	удар	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	_	_	start_char=643|end_char=648
+9	на	на	ADP	_	_	8	_	_	start_char=649|end_char=651
+10	большие	большой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	9	_	_	start_char=652|end_char=659
+11	расстояния	расстояние	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	10	_	_	start_char=660|end_char=670|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	_	_	start_char=670|end_char=671
+13	в	в	ADP	_	_	12	_	_	start_char=672|end_char=673
+14	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	13	_	_	start_char=674|end_char=677
+15	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	14	_	_	start_char=678|end_char=683
+16	потенциально	потенциально	ADV	_	Degree=Pos	15	_	_	start_char=684|end_char=696
+17	и	и	CCONJ	_	_	16	_	_	start_char=697|end_char=698
+18	по	по	ADP	_	_	17	_	_	start_char=699|end_char=701
+19	территории	территория	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	18	_	_	start_char=702|end_char=712
+20	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	_	_	start_char=713|end_char=715|SpaceAfter=No
+21	,	,	PUNCT	_	_	20	_	_	start_char=715|end_char=716
+22	сообщает	сообщать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	_	_	start_char=717|end_char=725
+23	Reuters	Reuters	PROPN	_	_	22	_	_	start_char=726|end_char=733|SpaceAfter=No
+24	.	.	PUNCT	_	_	23	_	_	start_char=733|end_char=734
+
+# text = На саммите НАТО в Вашингтоне был подписан меморандум о передаче вооружения в ряды ВСУ.
+# sent_id = 6
+1	На	на	ADP	_	_	0	_	_	start_char=735|end_char=737
+2	саммите	саммит	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	_	_	start_char=738|end_char=745
+3	НАТО	НАТО	PROPN	_	Case=Gen|Number=Sing	2	_	_	start_char=746|end_char=750
+4	в	в	ADP	_	_	3	_	_	start_char=751|end_char=752
+5	Вашингтоне	Вашингтон	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	_	_	start_char=753|end_char=763
+6	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	_	_	start_char=764|end_char=767
+7	подписан	подписать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	6	_	_	start_char=768|end_char=776
+8	меморандум	меморандум	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	_	_	start_char=777|end_char=787
+9	о	о	ADP	_	_	8	_	_	start_char=788|end_char=789
+10	передаче	передача	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	9	_	_	start_char=790|end_char=798
+11	вооружения	вооружение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	_	_	start_char=799|end_char=809
+12	в	в	ADP	_	_	11	_	_	start_char=810|end_char=811
+13	ряды	ряд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	12	_	_	start_char=812|end_char=816
+14	ВСУ	ВСУ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	_	_	start_char=817|end_char=820|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	_	_	start_char=820|end_char=821
+
+# text = Именно он подтверждает планы Запада по передаче Киеву именно тех видов вооружения, которых ему не хватает для продолжения конфликта.
+# sent_id = 7
+1	Именно	именно	PART	_	_	0	_	_	start_char=822|end_char=828
+2	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	_	_	start_char=829|end_char=831
+3	подтверждает	подтверждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=832|end_char=844
+4	планы	план	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	_	_	start_char=845|end_char=850
+5	Запада	Запад	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	_	_	start_char=851|end_char=857
+6	по	по	ADP	_	_	5	_	_	start_char=858|end_char=860
+7	передаче	передача	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	6	_	_	start_char=861|end_char=869
+8	Киеву	Киев	PROPN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	7	_	_	start_char=870|end_char=875
+9	именно	именно	PART	_	_	8	_	_	start_char=876|end_char=882
+10	тех	тот	DET	_	Case=Gen|Number=Plur|PronType=Dem	9	_	_	start_char=883|end_char=886
+11	видов	вид	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	_	_	start_char=887|end_char=892
+12	вооружения	вооружение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	_	_	start_char=893|end_char=903|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=903|end_char=904
+14	которых	который	PRON	_	Case=Gen|PronType=Int,Rel	13	_	_	start_char=905|end_char=912
+15	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	_	_	start_char=913|end_char=916
+16	не	не	PART	_	_	15	_	_	start_char=917|end_char=919
+17	хватает	хватать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	_	_	start_char=920|end_char=927
+18	для	для	ADP	_	_	17	_	_	start_char=928|end_char=931
+19	продолжения	продолжение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	_	_	start_char=932|end_char=943
+20	конфликта	конфликт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	_	_	start_char=944|end_char=953|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	_	_	start_char=953|end_char=954
+
+# text = ВСУ пытаются поджигать леса в ЛНР.
+# sent_id = 8
+1	ВСУ	ВСУ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=955|end_char=958
+2	пытаются	пытаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	1	_	_	start_char=959|end_char=967
+3	поджигать	поджигать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	_	_	start_char=968|end_char=977
+4	леса	лес	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	_	_	start_char=978|end_char=982
+5	в	в	ADP	_	_	4	_	_	start_char=983|end_char=984
+6	ЛНР	ЛНР	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	_	_	start_char=985|end_char=988|SpaceAfter=No
+7	.	.	PUNCT	_	_	6	_	_	start_char=988|end_char=989
+
+# text = Во время патрулирования лесных массивов унитарного предприятия «Северодонецкое лесоохотничье хозяйство» были найдены зажигательные контейнеры ВСУ, которыми они пытались поджечь леса в ЛНР.
+# sent_id = 9
+1	Во	в	ADP	_	_	0	_	_	start_char=990|end_char=992
+2	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	_	_	start_char=993|end_char=998
+3	патрулирования	патрулирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	_	_	start_char=999|end_char=1013
+4	лесных	лесной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	_	_	start_char=1014|end_char=1020
+5	массивов	массив	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	_	_	start_char=1021|end_char=1029
+6	унитарного	унитарный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	5	_	_	start_char=1030|end_char=1040
+7	предприятия	предприятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	_	_	start_char=1041|end_char=1052
+8	«	"	PUNCT	_	_	7	_	_	start_char=1053|end_char=1054|SpaceAfter=No
+9	Северодонецкое	северодонецкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	8	_	_	start_char=1054|end_char=1068
+10	лесоохотничье	лесоохотничий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	9	_	_	start_char=1069|end_char=1082
+11	хозяйство	хозяйство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	_	_	start_char=1083|end_char=1092|SpaceAfter=No
+12	»	"	PUNCT	_	_	11	_	_	start_char=1092|end_char=1093
+13	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	12	_	_	start_char=1094|end_char=1098
+14	найдены	найти	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	13	_	_	start_char=1099|end_char=1106
+15	зажигательные	зажигательный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	14	_	_	start_char=1107|end_char=1120
+16	контейнеры	контейнер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	15	_	_	start_char=1121|end_char=1131
+17	ВСУ	ВСУ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	_	_	start_char=1132|end_char=1135|SpaceAfter=No
+18	,	,	PUNCT	_	_	17	_	_	start_char=1135|end_char=1136
+19	которыми	который	PRON	_	Case=Ins|PronType=Int,Rel	18	_	_	start_char=1137|end_char=1145
+20	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	19	_	_	start_char=1146|end_char=1149
+21	пытались	пытаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	20	_	_	start_char=1150|end_char=1158
+22	поджечь	поджечь	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	21	_	_	start_char=1159|end_char=1166
+23	леса	лес	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	22	_	_	start_char=1167|end_char=1171
+24	в	в	ADP	_	_	23	_	_	start_char=1172|end_char=1173
+25	ЛНР	ЛНР	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	24	_	_	start_char=1174|end_char=1177|SpaceAfter=No
+26	.	.	PUNCT	_	_	25	_	_	start_char=1177|end_char=1178
+
+# text = В сообщении Минприроды региона указали, что эти контейнеры доставляются с помощью беспилотников.
+# sent_id = 10
+1	В	в	ADP	_	_	0	_	_	start_char=1179|end_char=1180
+2	сообщении	сообщение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1	_	_	start_char=1181|end_char=1190
+3	Минприроды	Минприрода	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	_	_	start_char=1191|end_char=1201
+4	региона	регион	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=1202|end_char=1209
+5	указали	указать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	_	_	start_char=1210|end_char=1217|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=1217|end_char=1218
+7	что	что	SCONJ	_	_	6	_	_	start_char=1219|end_char=1222
+8	эти	этот	DET	_	Case=Nom|Number=Plur|PronType=Dem	7	_	_	start_char=1223|end_char=1226
+9	контейнеры	контейнер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	8	_	_	start_char=1227|end_char=1237
+10	доставляются	доставлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	9	_	_	start_char=1238|end_char=1250
+11	с	с	ADP	_	_	10	_	_	start_char=1251|end_char=1252
+12	помощью	помощь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	11	_	_	start_char=1253|end_char=1260
+13	беспилотников	беспилотник	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	_	_	start_char=1261|end_char=1274|SpaceAfter=No
+14	.	.	PUNCT	_	_	13	_	_	start_char=1274|end_char=1275
+
+# text = Их детонация происходит после нагрева на солнце.
+# sent_id = 11
+1	Их	их	DET	_	Poss=Yes|PronType=Prs	0	_	_	start_char=1276|end_char=1278
+2	детонация	детонация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	_	_	start_char=1279|end_char=1288
+3	происходит	происходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=1289|end_char=1299
+4	после	после	ADP	_	_	3	_	_	start_char=1300|end_char=1305
+5	нагрева	нагрев	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	_	_	start_char=1306|end_char=1313
+6	на	на	ADP	_	_	5	_	_	start_char=1314|end_char=1316
+7	солнце	солнце	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	_	_	start_char=1317|end_char=1323|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	_	_	start_char=1323|end_char=1324
+
+# text = Новость по теме Страны НАТО отправили Киеву истребители F-16: чем они опасны для РФ ВС РФ освободили населенный пункт Восход в ДНР.
+# sent_id = 12
+1	Новость	новость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	_	_	start_char=1325|end_char=1332
+2	по	по	ADP	_	_	1	_	_	start_char=1333|end_char=1335
+3	теме	тема	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	2	_	_	start_char=1336|end_char=1340
+4	Страны	Страна	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	_	_	start_char=1341|end_char=1347
+5	НАТО	НАТО	PROPN	_	_	4	_	_	start_char=1348|end_char=1352
+6	отправили	отправить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	_	_	start_char=1353|end_char=1362
+7	Киеву	Киев	PROPN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	6	_	_	start_char=1363|end_char=1368
+8	истребители	истребитель	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	_	_	start_char=1369|end_char=1380
+9	F-16	F-16	PROPN	_	_	8	_	_	start_char=1381|end_char=1385|SpaceAfter=No
+10	:	:	PUNCT	_	_	9	_	_	start_char=1385|end_char=1386
+11	чем	что	PRON	_	Case=Ins|PronType=Int,Rel	10	_	_	start_char=1387|end_char=1390
+12	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	_	_	start_char=1391|end_char=1394
+13	опасны	опасный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	12	_	_	start_char=1395|end_char=1401
+14	для	для	ADP	_	_	13	_	_	start_char=1402|end_char=1405
+15	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	_	_	start_char=1406|end_char=1408
+16	ВС	ВС	PROPN	_	Abbr=Yes	15	_	_	start_char=1409|end_char=1411
+17	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	_	_	start_char=1412|end_char=1414
+18	освободили	освободить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	17	_	_	start_char=1415|end_char=1425
+19	населенный	населенный	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	18	_	_	start_char=1426|end_char=1436
+20	пункт	пункт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	19	_	_	start_char=1437|end_char=1442
+21	Восход	восход	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	20	_	_	start_char=1443|end_char=1449
+22	в	в	ADP	_	_	21	_	_	start_char=1450|end_char=1451
+23	ДНР	ДНР	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	22	_	_	start_char=1452|end_char=1455|SpaceAfter=No
+24	.	.	PUNCT	_	_	23	_	_	start_char=1455|end_char=1456
+
+# text = Российская армия взяла под контроль Восход в Донецкой Народной Республике.
+# sent_id = 13
+1	Российская	российский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	_	_	start_char=1457|end_char=1467
+2	армия	армия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	_	_	start_char=1468|end_char=1473
+3	взяла	брать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=1474|end_char=1479
+4	под	под	ADP	_	_	3	_	_	start_char=1480|end_char=1483
+5	контроль	контроль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	_	_	start_char=1484|end_char=1492
+6	Восход	восход	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	_	_	start_char=1493|end_char=1499
+7	в	в	ADP	_	_	6	_	_	start_char=1500|end_char=1501
+8	Донецкой	донецкий	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	7	_	_	start_char=1502|end_char=1510
+9	Народной	народный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	8	_	_	start_char=1511|end_char=1519
+10	Республике	Республика	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	9	_	_	start_char=1520|end_char=1530|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	_	_	start_char=1530|end_char=1531
+
+# text = Также подразделения группировки войск «Центр» улучшили свое тактическое положение.
+# sent_id = 14
+1	Также	также	ADV	_	Degree=Pos	0	_	_	start_char=1532|end_char=1537
+2	подразделения	подразделение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	1	_	_	start_char=1538|end_char=1551
+3	группировки	группировка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	_	_	start_char=1552|end_char=1563
+4	войск	войска	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	3	_	_	start_char=1564|end_char=1569
+5	«	"	PUNCT	_	_	4	_	_	start_char=1570|end_char=1571|SpaceAfter=No
+6	Центр	центр	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	_	_	start_char=1571|end_char=1576|SpaceAfter=No
+7	»	"	PUNCT	_	_	6	_	_	start_char=1576|end_char=1577
+8	улучшили	улучшить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	7	_	_	start_char=1578|end_char=1586
+9	свое	свой	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	8	_	_	start_char=1587|end_char=1591
+10	тактическое	тактический	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	9	_	_	start_char=1592|end_char=1603
+11	положение	положение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	_	_	start_char=1604|end_char=1613|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	_	_	start_char=1613|end_char=1614
+
+# text = Кроме того, было нанесено поражение нескольким бригадам ВСУ и были отражены пять атак, в результате чего армия Украины потеряла порядка 335 военных, пишет «Пятый канал».
+# sent_id = 15
+1	Кроме	кроме	ADP	_	_	0	_	_	start_char=1615|end_char=1620
+2	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=1621|end_char=1625|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=1625|end_char=1626
+4	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	_	_	start_char=1627|end_char=1631
+5	нанесено	нанести	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	4	_	_	start_char=1632|end_char=1640
+6	поражение	поражение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	_	_	start_char=1641|end_char=1650
+7	нескольким	несколько	NUM	_	Case=Dat|NumType=Card	6	_	_	start_char=1651|end_char=1661
+8	бригадам	бригада	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	7	_	_	start_char=1662|end_char=1670
+9	ВСУ	ВСУ	PROPN	_	Animacy=Inan|Case=Gen|Number=Sing	8	_	_	start_char=1671|end_char=1674
+10	и	и	CCONJ	_	_	9	_	_	start_char=1675|end_char=1676
+11	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	10	_	_	start_char=1677|end_char=1681
+12	отражены	отразить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	11	_	_	start_char=1682|end_char=1690
+13	пять	пять	NUM	_	Case=Nom|NumType=Card	12	_	_	start_char=1691|end_char=1695
+14	атак	атака	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	13	_	_	start_char=1696|end_char=1700|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=1700|end_char=1701
+16	в	в	ADP	_	_	15	_	_	start_char=1702|end_char=1703
+17	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	16	_	_	start_char=1704|end_char=1714
+18	чего	что	PRON	_	Case=Gen|PronType=Int,Rel	17	_	_	start_char=1715|end_char=1719
+19	армия	армия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	18	_	_	start_char=1720|end_char=1725
+20	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	_	_	start_char=1726|end_char=1733
+21	потеряла	терять	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	20	_	_	start_char=1734|end_char=1742
+22	порядка	порядка	ADP	_	_	21	_	_	start_char=1743|end_char=1750
+23	335	335	NUM	_	NumType=Card	22	_	_	start_char=1751|end_char=1754
+24	военных	военный	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	23	_	_	start_char=1755|end_char=1762|SpaceAfter=No
+25	,	,	PUNCT	_	_	24	_	_	start_char=1762|end_char=1763
+26	пишет	писать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	_	_	start_char=1764|end_char=1769
+27	«	"	PUNCT	_	_	26	_	_	start_char=1770|end_char=1771|SpaceAfter=No
+28	Пятый	пятый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	27	_	_	start_char=1771|end_char=1776
+29	канал	канал	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	28	_	_	start_char=1777|end_char=1782|SpaceAfter=No
+30	»	"	PUNCT	_	_	29	_	_	start_char=1782|end_char=1783|SpaceAfter=No
+31	.	.	PUNCT	_	_	30	_	_	start_char=1783|end_char=1784
+
+# text = Армия РФ сбила беспилотник, летевший на Москву.
+# sent_id = 16
+1	Армия	армия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	_	_	start_char=1785|end_char=1790
+2	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	_	_	start_char=1791|end_char=1793
+3	сбила	сбить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=1794|end_char=1799
+4	беспилотник	беспилотник	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	_	_	start_char=1800|end_char=1811|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=1811|end_char=1812
+6	летевший	лететь	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	5	_	_	start_char=1813|end_char=1821
+7	на	на	ADP	_	_	6	_	_	start_char=1822|end_char=1824
+8	Москву	Москва	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	_	_	start_char=1825|end_char=1831|SpaceAfter=No
+9	.	.	PUNCT	_	_	8	_	_	start_char=1831|end_char=1832
+
+# text = В Ступинском городском округе ВС РФ отразили атаку БПЛА, который летел на Москву.
+# sent_id = 17
+1	В	в	ADP	_	_	0	_	_	start_char=1833|end_char=1834
+2	Ступинском	ступинский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	1	_	_	start_char=1835|end_char=1845
+3	городском	городской	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	2	_	_	start_char=1846|end_char=1855
+4	округе	округ	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	_	_	start_char=1856|end_char=1862
+5	ВС	ВС	PROPN	_	Abbr=Yes	4	_	_	start_char=1863|end_char=1865
+6	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	_	_	start_char=1866|end_char=1868
+7	отразили	отразить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	6	_	_	start_char=1869|end_char=1877
+8	атаку	атака	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	_	_	start_char=1878|end_char=1883
+9	БПЛА	БПЛА	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	_	_	start_char=1884|end_char=1888|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=1888|end_char=1889
+11	который	который	PRON	_	Case=Nom|PronType=Int,Rel	10	_	_	start_char=1890|end_char=1897
+12	летел	лететь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	_	_	start_char=1898|end_char=1903
+13	на	на	ADP	_	_	12	_	_	start_char=1904|end_char=1906
+14	Москву	Москва	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	_	_	start_char=1907|end_char=1913|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	_	_	start_char=1913|end_char=1914
+
+# text = Мэр столицы Сергей Собянин сообщил, что на месте работают экстренные службы.
+# sent_id = 18
+1	Мэр	мэр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=1915|end_char=1918
+2	столицы	столица	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	_	_	start_char=1919|end_char=1926
+3	Сергей	Сергей	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	_	_	start_char=1927|end_char=1933
+4	Собянин	Собянин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	_	_	start_char=1934|end_char=1941
+5	сообщил	сообщить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	_	_	start_char=1942|end_char=1949|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=1949|end_char=1950
+7	что	что	SCONJ	_	_	6	_	_	start_char=1951|end_char=1954
+8	на	на	ADP	_	_	7	_	_	start_char=1955|end_char=1957
+9	месте	место	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	8	_	_	start_char=1958|end_char=1963
+10	работают	работать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	_	_	start_char=1964|end_char=1972
+11	экстренные	экстренный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	10	_	_	start_char=1973|end_char=1983
+12	службы	служба	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	11	_	_	start_char=1984|end_char=1990|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=1990|end_char=1991
+
+# text = По предварительным данным, никто не пострадал, разрушений также не было обнаружено.
+# sent_id = 19
+1	По	по	ADP	_	_	0	_	_	start_char=1992|end_char=1994
+2	предварительным	предварительный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	1	_	_	start_char=1995|end_char=2010
+3	данным	данные	NOUN	_	Animacy=Inan|Case=Dat|Number=Plur	2	_	_	start_char=2011|end_char=2017|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=2017|end_char=2018
+5	никто	никто	PRON	_	Case=Nom|PronType=Neg	4	_	_	start_char=2019|end_char=2024
+6	не	не	PART	_	_	5	_	_	start_char=2025|end_char=2027
+7	пострадал	страдать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	_	_	start_char=2028|end_char=2037|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=2037|end_char=2038
+9	разрушений	разрушение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	8	_	_	start_char=2039|end_char=2049
+10	также	также	ADV	_	Degree=Pos	9	_	_	start_char=2050|end_char=2055
+11	не	не	PART	_	_	10	_	_	start_char=2056|end_char=2058
+12	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	_	_	start_char=2059|end_char=2063
+13	обнаружено	обнаружить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	12	_	_	start_char=2064|end_char=2074|SpaceAfter=No
+14	.	.	PUNCT	_	_	13	_	_	start_char=2074|end_char=2075
+
+# text = Атаки ВСУ по регионам России.
+# sent_id = 20
+1	Атаки	атака	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	_	_	start_char=2076|end_char=2081
+2	ВСУ	ВСУ	PROPN	_	Animacy=Inan|Case=Gen|Number=Sing	1	_	_	start_char=2082|end_char=2085
+3	по	по	ADP	_	_	2	_	_	start_char=2086|end_char=2088
+4	регионам	регион	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	3	_	_	start_char=2089|end_char=2097
+5	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	_	_	start_char=2098|end_char=2104|SpaceAfter=No
+6	.	.	PUNCT	_	_	5	_	_	start_char=2104|end_char=2105
+
+# text = Системы ПВО России успешно отразили атаки беспилотников украинской армии в четырех регионах страны.
+# sent_id = 21
+1	Системы	система	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	_	_	start_char=2106|end_char=2113
+2	ПВО	пво	PROPN	_	Animacy=Inan|Case=Gen|Number=Sing	1	_	_	start_char=2114|end_char=2117
+3	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	_	_	start_char=2118|end_char=2124
+4	успешно	успешно	ADV	_	Degree=Pos	3	_	_	start_char=2125|end_char=2132
+5	отразили	отразить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	_	_	start_char=2133|end_char=2141
+6	атаки	атака	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	5	_	_	start_char=2142|end_char=2147
+7	беспилотников	беспилотник	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	_	_	start_char=2148|end_char=2161
+8	украинской	украинский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	_	_	start_char=2162|end_char=2172
+9	армии	армия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	_	_	start_char=2173|end_char=2178
+10	в	в	ADP	_	_	9	_	_	start_char=2179|end_char=2180
+11	четырех	четыре	NUM	_	Case=Loc|NumType=Card	10	_	_	start_char=2181|end_char=2188
+12	регионах	регион	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	11	_	_	start_char=2189|end_char=2197
+13	страны	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	_	_	start_char=2198|end_char=2204|SpaceAfter=No
+14	.	.	PUNCT	_	_	13	_	_	start_char=2204|end_char=2205
+
+# text = В сообщении Минобороны РФ указано, что было уничтожено и перехвачено пять беспилотников: два — в Брянской области, по одному — в Тамбовской, Тульской и Московской областях.
+# sent_id = 22
+1	В	в	ADP	_	_	0	_	_	start_char=2206|end_char=2207
+2	сообщении	сообщение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1	_	_	start_char=2208|end_char=2217
+3	Минобороны	Минобороны	PROPN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	_	_	start_char=2218|end_char=2228
+4	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	_	_	start_char=2229|end_char=2231
+5	указано	указать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	4	_	_	start_char=2232|end_char=2239|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=2239|end_char=2240
+7	что	что	SCONJ	_	_	6	_	_	start_char=2241|end_char=2244
+8	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	_	_	start_char=2245|end_char=2249
+9	уничтожено	уничтожить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	8	_	_	start_char=2250|end_char=2260
+10	и	и	CCONJ	_	_	9	_	_	start_char=2261|end_char=2262
+11	перехвачено	перехватить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	10	_	_	start_char=2263|end_char=2274
+12	пять	пять	NUM	_	Case=Nom|NumType=Card	11	_	_	start_char=2275|end_char=2279
+13	беспилотников	беспилотник	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	_	_	start_char=2280|end_char=2293|SpaceAfter=No
+14	:	:	PUNCT	_	_	13	_	_	start_char=2293|end_char=2294
+15	два	два	NUM	_	Case=Nom|Gender=Masc|NumType=Card	14	_	_	start_char=2295|end_char=2298
+16	—	—	PUNCT	_	_	15	_	_	start_char=2299|end_char=2300
+17	в	в	ADP	_	_	16	_	_	start_char=2301|end_char=2302
+18	Брянской	брянский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	17	_	_	start_char=2303|end_char=2311
+19	области	область	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	18	_	_	start_char=2312|end_char=2319|SpaceAfter=No
+20	,	,	PUNCT	_	_	19	_	_	start_char=2319|end_char=2320
+21	по	по	ADP	_	_	20	_	_	start_char=2321|end_char=2323
+22	одному	один	NUM	_	Case=Dat|Gender=Masc|NumType=Card	21	_	_	start_char=2324|end_char=2330
+23	—	—	PUNCT	_	_	22	_	_	start_char=2331|end_char=2332
+24	в	в	ADP	_	_	23	_	_	start_char=2333|end_char=2334
+25	Тамбовской	тамбовский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	24	_	_	start_char=2335|end_char=2345|SpaceAfter=No
+26	,	,	PUNCT	_	_	25	_	_	start_char=2345|end_char=2346
+27	Тульской	тульский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	26	_	_	start_char=2347|end_char=2355
+28	и	и	CCONJ	_	_	27	_	_	start_char=2356|end_char=2357
+29	Московской	московский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	28	_	_	start_char=2358|end_char=2368
+30	областях	область	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	29	_	_	start_char=2369|end_char=2377|SpaceAfter=No
+31	.	.	PUNCT	_	_	30	_	_	start_char=2377|end_char=2378
+
+# text = Киев применил химическое оружие на харьковском направлении.
+# sent_id = 23
+1	Киев	Киев	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=2379|end_char=2383
+2	применил	применить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=2384|end_char=2392
+3	химическое	химический	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	2	_	_	start_char=2393|end_char=2403
+4	оружие	оружие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	_	_	start_char=2404|end_char=2410
+5	на	на	ADP	_	_	4	_	_	start_char=2411|end_char=2413
+6	харьковском	харьковский	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	5	_	_	start_char=2414|end_char=2425
+7	направлении	направление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	_	_	start_char=2426|end_char=2437|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	_	_	start_char=2437|end_char=2438
+
+# text = ВСУ в зоне СВО в Харьковской области применили химическое вооружение.
+# sent_id = 24
+1	ВСУ	ВСУ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=2439|end_char=2442
+2	в	в	ADP	_	_	1	_	_	start_char=2443|end_char=2444
+3	зоне	зона	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	_	_	start_char=2445|end_char=2449
+4	СВО	СВО	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=2450|end_char=2453
+5	в	в	ADP	_	_	4	_	_	start_char=2454|end_char=2455
+6	Харьковской	харьковский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	5	_	_	start_char=2456|end_char=2467
+7	области	область	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	_	_	start_char=2468|end_char=2475
+8	применили	применить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	7	_	_	start_char=2476|end_char=2485
+9	химическое	химический	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	8	_	_	start_char=2486|end_char=2496
+10	вооружение	вооружение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	_	_	start_char=2497|end_char=2507|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	_	_	start_char=2507|end_char=2508
+
+# text = В частности, его использовали на липцевском и волчанском направлениях.
+# sent_id = 25
+1	В	в	ADP	_	_	0	_	_	start_char=2509|end_char=2510
+2	частности	частность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	_	_	start_char=2511|end_char=2520|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=2520|end_char=2521
+4	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	_	_	start_char=2522|end_char=2525
+5	использовали	использовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	_	_	start_char=2526|end_char=2538
+6	на	на	ADP	_	_	5	_	_	start_char=2539|end_char=2541
+7	липцевском	липцевский	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	6	_	_	start_char=2542|end_char=2552
+8	и	и	CCONJ	_	_	7	_	_	start_char=2553|end_char=2554
+9	волчанском	волчанский	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	8	_	_	start_char=2555|end_char=2565
+10	направлениях	направление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	9	_	_	start_char=2566|end_char=2578|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	_	_	start_char=2578|end_char=2579
+
+# text = Глава российской администрации региона Виталий Ганчев сообщил, что украинская армия сбрасывала химикаты с беспилотников, после чего местные жители получали ожоги.
+# sent_id = 26
+1	Глава	глава	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=2580|end_char=2585
+2	российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	1	_	_	start_char=2586|end_char=2596
+3	администрации	администрация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	_	_	start_char=2597|end_char=2610
+4	региона	регион	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=2611|end_char=2618
+5	Виталий	Виталий	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=2619|end_char=2626
+6	Ганчев	Ганчев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	_	_	start_char=2627|end_char=2633
+7	сообщил	сообщить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	_	_	start_char=2634|end_char=2641|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=2641|end_char=2642
+9	что	что	SCONJ	_	_	8	_	_	start_char=2643|end_char=2646
+10	украинская	украинский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	9	_	_	start_char=2647|end_char=2657
+11	армия	армия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	_	_	start_char=2658|end_char=2663
+12	сбрасывала	сбрасывать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	_	_	start_char=2664|end_char=2674
+13	химикаты	химикат	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	12	_	_	start_char=2675|end_char=2683
+14	с	с	ADP	_	_	13	_	_	start_char=2684|end_char=2685
+15	беспилотников	беспилотник	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	14	_	_	start_char=2686|end_char=2699|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	_	_	start_char=2699|end_char=2700
+17	после	после	ADP	_	_	16	_	_	start_char=2701|end_char=2706
+18	чего	что	PRON	_	Case=Gen|PronType=Int,Rel	17	_	_	start_char=2707|end_char=2711
+19	местные	местный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	18	_	_	start_char=2712|end_char=2719
+20	жители	житель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	19	_	_	start_char=2720|end_char=2726
+21	получали	получать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	20	_	_	start_char=2727|end_char=2735
+22	ожоги	ожог	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	21	_	_	start_char=2736|end_char=2741|SpaceAfter=No
+23	.	.	PUNCT	_	_	22	_	_	start_char=2741|end_char=2742
+
+# text = По предварительной информации, летальных случаев не было зафиксировано.
+# sent_id = 27
+1	По	по	ADP	_	_	0	_	_	start_char=2743|end_char=2745
+2	предварительной	предварительный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	1	_	_	start_char=2746|end_char=2761
+3	информации	информация	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	2	_	_	start_char=2762|end_char=2772|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=2772|end_char=2773
+5	летальных	летальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	_	_	start_char=2774|end_char=2783
+6	случаев	случай	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	_	_	start_char=2784|end_char=2791
+7	не	не	PART	_	_	6	_	_	start_char=2792|end_char=2794
+8	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	_	_	start_char=2795|end_char=2799
+9	зафиксировано	фиксировать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	8	_	_	start_char=2800|end_char=2813|SpaceAfter=No
+10	.	.	PUNCT	_	_	9	_	_	start_char=2813|end_char=2814|SpaceAfter=No
+

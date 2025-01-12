@@ -1,0 +1,125 @@
+# text = ﻿При обстреле Белгорода вчера пострадали 94 машины Также повреждены девять частных домов, четыре торговых объекта и квартира в МКД.
+# sent_id = 0
+1	﻿При	﻿при	ADP	_	_	0	_	_	start_char=0|end_char=4
+2	обстреле	обстрел	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	_	_	start_char=5|end_char=13
+3	Белгорода	Белгород	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	_	_	start_char=14|end_char=23
+4	вчера	вчера	ADV	_	Degree=Pos	3	_	_	start_char=24|end_char=29
+5	пострадали	страдать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	_	_	start_char=30|end_char=40
+6	94	94	NUM	_	NumType=Card	5	_	_	start_char=41|end_char=43
+7	машины	машина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	_	_	start_char=44|end_char=50
+8	Также	также	ADV	_	Degree=Pos	7	_	_	start_char=51|end_char=56
+9	повреждены	повредить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	8	_	_	start_char=57|end_char=67
+10	девять	девять	NUM	_	Case=Nom|NumType=Card	9	_	_	start_char=68|end_char=74
+11	частных	частный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	_	_	start_char=75|end_char=82
+12	домов	дом	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	11	_	_	start_char=83|end_char=88|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=88|end_char=89
+14	четыре	четыре	NUM	_	Case=Nom|NumType=Card	13	_	_	start_char=90|end_char=96
+15	торговых	торговый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	14	_	_	start_char=97|end_char=105
+16	объекта	объект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	_	_	start_char=106|end_char=113
+17	и	и	CCONJ	_	_	16	_	_	start_char=114|end_char=115
+18	квартира	квартира	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	17	_	_	start_char=116|end_char=124
+19	в	в	ADP	_	_	18	_	_	start_char=125|end_char=126
+20	МКД	МКД	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	19	_	_	start_char=127|end_char=130|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	_	_	start_char=130|end_char=131
+
+# text = Уточнённые данные последствий атаки ВСУ на город сегодня обнародовал Вячеслав Гладков.
+# sent_id = 1
+1	Уточнённые	уточнить	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	start_char=132|end_char=142
+2	данные	данные	NOUN	_	Animacy=Inan|Case=Acc|Number=Plur	1	_	_	start_char=143|end_char=149
+3	последствий	последствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	2	_	_	start_char=150|end_char=161
+4	атаки	атака	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	_	_	start_char=162|end_char=167
+5	ВСУ	ВСУ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	_	_	start_char=168|end_char=171
+6	на	на	ADP	_	_	5	_	_	start_char=172|end_char=174
+7	город	город	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	_	_	start_char=175|end_char=180
+8	сегодня	сегодня	ADV	_	Degree=Pos	7	_	_	start_char=181|end_char=188
+9	обнародовал	обнародовать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	_	_	start_char=189|end_char=200
+10	Вячеслав	Вячеслав	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	_	_	start_char=201|end_char=209
+11	Гладков	Гладков	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	_	_	start_char=210|end_char=217|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	_	_	start_char=217|end_char=218
+
+# text = 11:00 ВСУ с помощью дрона сбросили взрывное устройство на два автомобиля на трассе Борисовка — Байцуры Белгородской области.
+# sent_id = 2
+1	11:00	11:00	NUM	_	NumType=Card	0	_	_	start_char=219|end_char=224
+2	ВСУ	ВСУ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	_	_	start_char=225|end_char=228
+3	с	с	ADP	_	_	2	_	_	start_char=229|end_char=230
+4	помощью	помощь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	3	_	_	start_char=231|end_char=238
+5	дрона	дрона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	_	_	start_char=239|end_char=244
+6	сбросили	сбросить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	_	_	start_char=245|end_char=253
+7	взрывное	взрывной	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	6	_	_	start_char=254|end_char=262
+8	устройство	устройство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	_	_	start_char=263|end_char=273
+9	на	на	ADP	_	_	8	_	_	start_char=274|end_char=276
+10	два	два	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc|NumType=Card	9	_	_	start_char=277|end_char=280
+11	автомобиля	автомобиль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	_	_	start_char=281|end_char=291
+12	на	на	ADP	_	_	11	_	_	start_char=292|end_char=294
+13	трассе	трасса	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	_	_	start_char=295|end_char=301
+14	Борисовка	Борисовка	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	_	_	start_char=302|end_char=311
+15	—	—	PUNCT	_	_	14	_	_	start_char=312|end_char=313
+16	Байцуры	Байцура	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	15	_	_	start_char=314|end_char=321
+17	Белгородской	Белгородский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	16	_	_	start_char=322|end_char=334
+18	области	область	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	_	_	start_char=335|end_char=342|SpaceAfter=No
+19	.	.	PUNCT	_	_	18	_	_	start_char=342|end_char=343
+
+# text = Пострадали четыре человека, включая 12-летнюю девочку, сообщил губернатор региона Вячеслав Гладков.
+# sent_id = 3
+1	Пострадали	страдать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	_	_	start_char=344|end_char=354
+2	четыре	четыре	NUM	_	Case=Nom|NumType=Card	1	_	_	start_char=355|end_char=361
+3	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	_	_	start_char=362|end_char=370|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=370|end_char=371
+5	включая	включая	ADV	_	Degree=Pos	4	_	_	start_char=372|end_char=379
+6	12-летнюю	12-летний	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	5	_	_	start_char=380|end_char=389
+7	девочку	девочка	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	6	_	_	start_char=390|end_char=397|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=397|end_char=398
+9	сообщил	сообщить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	_	_	start_char=399|end_char=406
+10	губернатор	губернатор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	_	_	start_char=407|end_char=417
+11	региона	регион	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	_	_	start_char=418|end_char=425
+12	Вячеслав	Вячеслав	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	_	_	start_char=426|end_char=434
+13	Гладков	Гладков	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	_	_	start_char=435|end_char=442|SpaceAfter=No
+14	.	.	PUNCT	_	_	13	_	_	start_char=442|end_char=443|SpaceAfter=No
+
+# text = // ТАСС 11:00 ВСУ атаковали с помощью двух беспилотников три гражданских автомобиля в Белгородской области, — губернатор Гладков Пострадали 4 человека, в том числе 12-летний ребёнок.
+# sent_id = 4
+1	//	//	PUNCT	_	_	0	_	_	start_char=443|end_char=445
+2	ТАСС	ТАСС	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=446|end_char=450
+3	11:00	11:00	NUM	_	NumType=Card	2	_	_	start_char=451|end_char=456
+4	ВСУ	ВСУ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=457|end_char=460
+5	атаковали	атаковать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	_	_	start_char=461|end_char=470
+6	с	с	ADP	_	_	5	_	_	start_char=471|end_char=472
+7	помощью	помощь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	6	_	_	start_char=473|end_char=480
+8	двух	два	NUM	_	Case=Gen|NumType=Card	7	_	_	start_char=481|end_char=485
+9	беспилотников	беспилотник	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	_	_	start_char=486|end_char=499
+10	три	три	NUM	_	Animacy=Inan|Case=Acc|NumType=Card	9	_	_	start_char=500|end_char=503
+11	гражданских	гражданский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	_	_	start_char=504|end_char=515
+12	автомобиля	автомобиль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	_	_	start_char=516|end_char=526
+13	в	в	ADP	_	_	12	_	_	start_char=527|end_char=528
+14	Белгородской	Белгородский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	13	_	_	start_char=529|end_char=541
+15	области	область	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	14	_	_	start_char=542|end_char=549|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	_	_	start_char=549|end_char=550
+17	—	—	PUNCT	_	_	16	_	_	start_char=551|end_char=552
+18	губернатор	губернатор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	17	_	_	start_char=553|end_char=563
+19	Гладков	Гладков	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	18	_	_	start_char=564|end_char=571
+20	Пострадали	страдать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	19	_	_	start_char=572|end_char=582
+21	4	4	NUM	_	NumType=Card	20	_	_	start_char=583|end_char=584
+22	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	21	_	_	start_char=585|end_char=593|SpaceAfter=No
+23	,	,	PUNCT	_	_	22	_	_	start_char=593|end_char=594
+24	в	в	ADP	_	_	23	_	_	start_char=595|end_char=596
+25	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	24	_	_	start_char=597|end_char=600
+26	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	25	_	_	start_char=601|end_char=606
+27	12-летний	12-летний	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	26	_	_	start_char=607|end_char=616
+28	ребёнок	ребенок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	27	_	_	start_char=617|end_char=624|SpaceAfter=No
+29	.	.	PUNCT	_	_	28	_	_	start_char=624|end_char=625
+
+# text = Всем им оказывается необходимая помощь.
+# sent_id = 5
+1	Всем	весь	DET	_	Case=Dat|Number=Plur|PronType=Tot	0	_	_	start_char=626|end_char=630
+2	им	они	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	1	_	_	start_char=631|end_char=633
+3	оказывается	оказываться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	2	_	_	start_char=634|end_char=645
+4	необходимая	необходимый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	_	_	start_char=646|end_char=657
+5	помощь	помощь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	_	_	start_char=658|end_char=664|SpaceAfter=No
+6	.	.	PUNCT	_	_	5	_	_	start_char=664|end_char=665|SpaceAfter=No
+
+# text = // Украина.ру
+# sent_id = 6
+1	//	//	PUNCT	_	_	0	_	_	start_char=665|end_char=667
+2	Украина	Украина	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	_	_	start_char=668|end_char=675|SpaceAfter=No
+3	.ру	.ру	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	_	_	start_char=675|end_char=678|SpaceAfter=No
+

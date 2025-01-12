@@ -1,0 +1,127 @@
+# text = Зеленский отказался от интервью с Такером Карлсоном Накануне американский журналист анонсировал интервью с утратившим легитимность президентом Украины Владимиром Зеленским.
+# sent_id = 0
+1	Зеленский	Зеленский	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=0|end_char=9
+2	отказался	отказаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	1	_	_	start_char=10|end_char=19
+3	от	от	ADP	_	_	2	_	_	start_char=20|end_char=22
+4	интервью	интервью	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	_	_	start_char=23|end_char=31
+5	с	с	ADP	_	_	4	_	_	start_char=32|end_char=33
+6	Такером	Такер	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	5	_	_	start_char=34|end_char=41
+7	Карлсоном	Карлсон	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	6	_	_	start_char=42|end_char=51
+8	Накануне	накануне	ADV	_	Degree=Pos	7	_	_	start_char=52|end_char=60
+9	американский	американский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	_	_	start_char=61|end_char=73
+10	журналист	журналист	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	_	_	start_char=74|end_char=83
+11	анонсировал	анонсировать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	_	_	start_char=84|end_char=95
+12	интервью	интервью	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	_	_	start_char=96|end_char=104
+13	с	с	ADP	_	_	12	_	_	start_char=105|end_char=106
+14	утратившим	утратить	VERB	_	Aspect=Perf|Case=Ins|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	13	_	_	start_char=107|end_char=117
+15	легитимность	легитимность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	_	_	start_char=118|end_char=130
+16	президентом	президент	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	15	_	_	start_char=131|end_char=142
+17	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	_	_	start_char=143|end_char=150
+18	Владимиром	Владимир	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	17	_	_	start_char=151|end_char=161
+19	Зеленским	Зеленский	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	18	_	_	start_char=162|end_char=171|SpaceAfter=No
+20	.	.	PUNCT	_	_	19	_	_	start_char=171|end_char=172
+
+# text = Такер Карлсон на своей странице в соцсети Х [бывшая Twitter, заблокированная на территории Российской Федерации] заявил, что его команда два года добивалась интервью с украинским лидером, и, наконец, администрация Офиса президента дала согласие.
+# sent_id = 1
+1	Такер	Такер	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=173|end_char=178
+2	Карлсон	Карлсон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=179|end_char=186
+3	на	на	ADP	_	_	2	_	_	start_char=187|end_char=189
+4	своей	свой	DET	_	Case=Loc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	3	_	_	start_char=190|end_char=195
+5	странице	страница	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	_	_	start_char=196|end_char=204
+6	в	в	ADP	_	_	5	_	_	start_char=205|end_char=206
+7	соцсети	соцсеть	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	_	_	start_char=207|end_char=214
+8	Х	Х	PROPN	_	Foreign=Yes	7	_	_	start_char=215|end_char=216
+9	[	[	PUNCT	_	_	8	_	_	start_char=217|end_char=218|SpaceAfter=No
+10	бывшая	бывший	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	9	_	_	start_char=218|end_char=224
+11	Twitter	Twitter	PROPN	_	Foreign=Yes	10	_	_	start_char=225|end_char=232|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	_	_	start_char=232|end_char=233
+13	заблокированная	заблокировать	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	12	_	_	start_char=234|end_char=249
+14	на	на	ADP	_	_	13	_	_	start_char=250|end_char=252
+15	территории	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	14	_	_	start_char=253|end_char=263
+16	Российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	15	_	_	start_char=264|end_char=274
+17	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	_	_	start_char=275|end_char=284|SpaceAfter=No
+18	]	]	PUNCT	_	_	17	_	_	start_char=284|end_char=285
+19	заявил	заявить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	18	_	_	start_char=286|end_char=292|SpaceAfter=No
+20	,	,	PUNCT	_	_	19	_	_	start_char=292|end_char=293
+21	что	что	SCONJ	_	_	20	_	_	start_char=294|end_char=297
+22	его	его	DET	_	Poss=Yes|PronType=Prs	21	_	_	start_char=298|end_char=301
+23	команда	команда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	22	_	_	start_char=302|end_char=309
+24	два	два	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc|NumType=Card	23	_	_	start_char=310|end_char=313
+25	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	24	_	_	start_char=314|end_char=318
+26	добивалась	добиваться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	25	_	_	start_char=319|end_char=329
+27	интервью	интервью	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	26	_	_	start_char=330|end_char=338
+28	с	с	ADP	_	_	27	_	_	start_char=339|end_char=340
+29	украинским	украинский	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	28	_	_	start_char=341|end_char=351
+30	лидером	лидер	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	29	_	_	start_char=352|end_char=359|SpaceAfter=No
+31	,	,	PUNCT	_	_	30	_	_	start_char=359|end_char=360
+32	и	и	CCONJ	_	_	31	_	_	start_char=361|end_char=362|SpaceAfter=No
+33	,	,	PUNCT	_	_	32	_	_	start_char=362|end_char=363
+34	наконец	наконец	ADV	_	Degree=Pos	33	_	_	start_char=364|end_char=371|SpaceAfter=No
+35	,	,	PUNCT	_	_	34	_	_	start_char=371|end_char=372
+36	администрация	администрация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	35	_	_	start_char=373|end_char=386
+37	Офиса	офис	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	36	_	_	start_char=387|end_char=392
+38	президента	президент	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	37	_	_	start_char=393|end_char=403
+39	дала	дать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	38	_	_	start_char=404|end_char=408
+40	согласие	согласие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	39	_	_	start_char=409|end_char=417|SpaceAfter=No
+41	.	.	PUNCT	_	_	40	_	_	start_char=417|end_char=418
+
+# text = Однако сейчас Киев опубликовал опровержение.
+# sent_id = 2
+1	Однако	однако	ADV	_	Degree=Pos	0	_	_	start_char=419|end_char=425
+2	сейчас	сейчас	ADV	_	Degree=Pos	1	_	_	start_char=426|end_char=432
+3	Киев	Киев	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	_	_	start_char=433|end_char=437
+4	опубликовал	опубликовать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	_	_	start_char=438|end_char=449
+5	опровержение	опровержение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	_	_	start_char=450|end_char=462|SpaceAfter=No
+6	.	.	PUNCT	_	_	5	_	_	start_char=462|end_char=463
+
+# text = В в выше упомянутом офисе заявили, что у главы Украины совсем другой график и Карлсона там нет.
+# sent_id = 3
+1	В	в	ADP	_	_	0	_	_	start_char=464|end_char=465
+2	в	в	ADP	_	_	1	_	_	start_char=466|end_char=467
+3	выше	высоко	ADV	_	Degree=Pos	2	_	_	start_char=468|end_char=472
+4	упомянутом	упомянуть	VERB	_	Aspect=Perf|Case=Loc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=473|end_char=483
+5	офисе	офис	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	_	_	start_char=484|end_char=489
+6	заявили	заявить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	_	_	start_char=490|end_char=497|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	_	_	start_char=497|end_char=498
+8	что	что	SCONJ	_	_	7	_	_	start_char=499|end_char=502
+9	у	у	ADP	_	_	8	_	_	start_char=503|end_char=504
+10	главы	глава	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	_	_	start_char=505|end_char=510
+11	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	_	_	start_char=511|end_char=518
+12	совсем	совсем	ADV	_	Degree=Pos	11	_	_	start_char=519|end_char=525
+13	другой	другой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	_	_	start_char=526|end_char=532
+14	график	график	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	13	_	_	start_char=533|end_char=539
+15	и	и	CCONJ	_	_	14	_	_	start_char=540|end_char=541
+16	Карлсона	Карлсон	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	15	_	_	start_char=542|end_char=550
+17	там	там	ADV	_	Degree=Pos	16	_	_	start_char=551|end_char=554
+18	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	_	_	start_char=555|end_char=558|SpaceAfter=No
+19	.	.	PUNCT	_	_	18	_	_	start_char=558|end_char=559
+
+# text = Ранее сообщалось, что Владимир Зеленский потребовал от кандидата в президенты Соединенных Штатов Америки республиканца Дональда Трампа озвучить его план мирного урегулирования конфликта на Украине.
+# sent_id = 4
+1	Ранее	ранее	ADV	_	Degree=Pos	0	_	_	start_char=560|end_char=565
+2	сообщалось	сообщать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	1	_	_	start_char=566|end_char=576|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=576|end_char=577
+4	что	что	SCONJ	_	_	3	_	_	start_char=578|end_char=581
+5	Владимир	Владимир	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=582|end_char=590
+6	Зеленский	Зеленский	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	_	_	start_char=591|end_char=600
+7	потребовал	требовать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	_	_	start_char=601|end_char=611
+8	от	от	ADP	_	_	7	_	_	start_char=612|end_char=614
+9	кандидата	кандидат	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	8	_	_	start_char=615|end_char=624
+10	в	в	ADP	_	_	9	_	_	start_char=625|end_char=626
+11	президенты	президент	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	10	_	_	start_char=627|end_char=637
+12	Соединенных	соединить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	11	_	_	start_char=638|end_char=649
+13	Штатов	Штат	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	_	_	start_char=650|end_char=656
+14	Америки	Америка	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	_	_	start_char=657|end_char=664
+15	республиканца	республиканец	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	14	_	_	start_char=665|end_char=678
+16	Дональда	Дональд	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	15	_	_	start_char=679|end_char=687
+17	Трампа	Трамп	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	16	_	_	start_char=688|end_char=694
+18	озвучить	озвучить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	17	_	_	start_char=695|end_char=703
+19	его	его	DET	_	Poss=Yes|PronType=Prs	18	_	_	start_char=704|end_char=707
+20	план	план	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	19	_	_	start_char=708|end_char=712
+21	мирного	мирный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	20	_	_	start_char=713|end_char=720
+22	урегулирования	урегулирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	_	_	start_char=721|end_char=735
+23	конфликта	конфликт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	22	_	_	start_char=736|end_char=745
+24	на	на	ADP	_	_	23	_	_	start_char=746|end_char=748
+25	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	24	_	_	start_char=749|end_char=756|SpaceAfter=No
+26	.	.	PUNCT	_	_	25	_	_	start_char=756|end_char=757|SpaceAfter=No
+

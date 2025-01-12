@@ -1,0 +1,163 @@
+# text = Глава МИД ФРГ заявила, что Путин хочет пошатнуть европейскую безопасность Глава МИД Германии Анналена Бербок заявила, что Владимир Путин якобы хочет пошатнуть безопасность в Европе.
+# sent_id = 0
+1	Глава	глава	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=0|end_char=5
+2	МИД	МИД	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	_	_	start_char=6|end_char=9
+3	ФРГ	ФРГ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	_	_	start_char=10|end_char=13
+4	заявила	заявить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	_	_	start_char=14|end_char=21|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=21|end_char=22
+6	что	что	SCONJ	_	_	5	_	_	start_char=23|end_char=26
+7	Путин	Путин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	_	_	start_char=27|end_char=32
+8	хочет	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	_	_	start_char=33|end_char=38
+9	пошатнуть	пошатнуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	_	_	start_char=39|end_char=48
+10	европейскую	европейский	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	9	_	_	start_char=49|end_char=60
+11	безопасность	безопасность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	_	_	start_char=61|end_char=73
+12	Глава	Глава	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	_	_	start_char=74|end_char=79
+13	МИД	МИД	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	_	_	start_char=80|end_char=83
+14	Германии	Германия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	_	_	start_char=84|end_char=92
+15	Анналена	Аннален	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	14	_	_	start_char=93|end_char=101
+16	Бербок	Бербок	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	15	_	_	start_char=102|end_char=108
+17	заявила	заявить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	16	_	_	start_char=109|end_char=116|SpaceAfter=No
+18	,	,	PUNCT	_	_	17	_	_	start_char=116|end_char=117
+19	что	что	SCONJ	_	_	18	_	_	start_char=118|end_char=121
+20	Владимир	Владимир	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	19	_	_	start_char=122|end_char=130
+21	Путин	Путин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	20	_	_	start_char=131|end_char=136
+22	якобы	якобы	ADV	_	Degree=Pos	21	_	_	start_char=137|end_char=142
+23	хочет	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	_	_	start_char=143|end_char=148
+24	пошатнуть	пошатнуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	23	_	_	start_char=149|end_char=158
+25	безопасность	безопасность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	24	_	_	start_char=159|end_char=171
+26	в	в	ADP	_	_	25	_	_	start_char=172|end_char=173
+27	Европе	Европа	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	26	_	_	start_char=174|end_char=180|SpaceAfter=No
+28	.	.	PUNCT	_	_	27	_	_	start_char=180|end_char=181
+
+# text = Об этом пишет РИА Новости со ссылкой на выступление немецкого дипломата.
+# sent_id = 1
+1	Об	о	ADP	_	_	0	_	_	start_char=182|end_char=184
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=185|end_char=189
+3	пишет	писать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=190|end_char=195
+4	РИА	РИА	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	_	_	start_char=196|end_char=199
+5	Новости	Новость	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	4	_	_	start_char=200|end_char=207
+6	со	с	ADP	_	_	5	_	_	start_char=208|end_char=210
+7	ссылкой	ссылка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	6	_	_	start_char=211|end_char=218
+8	на	на	ADP	_	_	7	_	_	start_char=219|end_char=221
+9	выступление	выступление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	_	_	start_char=222|end_char=233
+10	немецкого	немецкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	_	_	start_char=234|end_char=243
+11	дипломата	дипломат	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	10	_	_	start_char=244|end_char=253|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	_	_	start_char=253|end_char=254
+
+# text = "Мы видим, что цель Путина – бросить вызов безопасности в Европе.
+# sent_id = 2
+1	"	"	PUNCT	_	_	0	_	_	start_char=255|end_char=256|SpaceAfter=No
+2	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	1	_	_	start_char=256|end_char=258
+3	видим	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=259|end_char=264|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=264|end_char=265
+5	что	что	SCONJ	_	_	4	_	_	start_char=266|end_char=269
+6	цель	цель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	_	_	start_char=270|end_char=274
+7	Путина	Путин	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	_	_	start_char=275|end_char=281
+8	–	–	PUNCT	_	_	7	_	_	start_char=282|end_char=283
+9	бросить	бросить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	_	_	start_char=284|end_char=291
+10	вызов	вызов	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	_	_	start_char=292|end_char=297
+11	безопасности	безопасность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	_	_	start_char=298|end_char=310
+12	в	в	ADP	_	_	11	_	_	start_char=311|end_char=312
+13	Европе	Европа	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	_	_	start_char=313|end_char=319|SpaceAfter=No
+14	.	.	PUNCT	_	_	13	_	_	start_char=319|end_char=320
+
+# text = Россия в обозримом будущем будет самой большой угрозой для Европы", – заявила Бербок.
+# sent_id = 3
+1	Россия	Россия	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	_	_	start_char=321|end_char=327
+2	в	в	ADP	_	_	1	_	_	start_char=328|end_char=329
+3	обозримом	обозримый	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	2	_	_	start_char=330|end_char=339
+4	будущем	будущее	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	_	_	start_char=340|end_char=347
+5	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	_	_	start_char=348|end_char=353
+6	самой	самый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	5	_	_	start_char=354|end_char=359
+7	большой	большой	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	6	_	_	start_char=360|end_char=367
+8	угрозой	угроза	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	7	_	_	start_char=368|end_char=375
+9	для	для	ADP	_	_	8	_	_	start_char=376|end_char=379
+10	Европы	Европа	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	_	_	start_char=380|end_char=386|SpaceAfter=No
+11	"	"	PUNCT	_	_	10	_	_	start_char=386|end_char=387|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	_	_	start_char=387|end_char=388
+13	–	–	PUNCT	_	_	12	_	_	start_char=389|end_char=390
+14	заявила	заявить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	_	_	start_char=391|end_char=398
+15	Бербок	Бербок	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	14	_	_	start_char=399|end_char=405|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	_	_	start_char=405|end_char=406
+
+# text = Министр призвала европейские страны защищать каждый "квадратный сантиметр", а также усилить поддержку Украины.
+# sent_id = 4
+1	Министр	министр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=407|end_char=414
+2	призвала	призвать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=415|end_char=423
+3	европейские	европейский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	2	_	_	start_char=424|end_char=435
+4	страны	страна	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	3	_	_	start_char=436|end_char=442
+5	защищать	защищать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	_	_	start_char=443|end_char=451
+6	каждый	каждый	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	5	_	_	start_char=452|end_char=458
+7	"	"	PUNCT	_	_	6	_	_	start_char=459|end_char=460|SpaceAfter=No
+8	квадратный	квадратный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	_	_	start_char=460|end_char=470
+9	сантиметр	сантиметр	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	_	_	start_char=471|end_char=480|SpaceAfter=No
+10	"	"	PUNCT	_	_	9	_	_	start_char=480|end_char=481|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=481|end_char=482
+12	а	а	CCONJ	_	_	11	_	_	start_char=483|end_char=484
+13	также	также	PART	_	_	12	_	_	start_char=485|end_char=490
+14	усилить	усилить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	13	_	_	start_char=491|end_char=498
+15	поддержку	поддержка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	_	_	start_char=499|end_char=508
+16	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	_	_	start_char=509|end_char=516|SpaceAfter=No
+17	.	.	PUNCT	_	_	16	_	_	start_char=516|end_char=517
+
+# text = В мае этого года Бербок утверждала , что Владимир Путин якобы отказывается от диалога по мирному урегулированию конфликта на Украине.
+# sent_id = 5
+1	В	в	ADP	_	_	0	_	_	start_char=518|end_char=519
+2	мае	май	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	_	_	start_char=520|end_char=523
+3	этого	этот	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	2	_	_	start_char=524|end_char=529
+4	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=530|end_char=534
+5	Бербок	Бербок	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	4	_	_	start_char=535|end_char=541
+6	утверждала	утверждать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	_	_	start_char=542|end_char=552
+7	,	,	PUNCT	_	_	6	_	_	start_char=553|end_char=554
+8	что	что	SCONJ	_	_	7	_	_	start_char=555|end_char=558
+9	Владимир	Владимир	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	_	_	start_char=559|end_char=567
+10	Путин	Путин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	_	_	start_char=568|end_char=573
+11	якобы	якобы	ADV	_	Degree=Pos	10	_	_	start_char=574|end_char=579
+12	отказывается	отказываться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	11	_	_	start_char=580|end_char=592
+13	от	от	ADP	_	_	12	_	_	start_char=593|end_char=595
+14	диалога	диалог	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	_	_	start_char=596|end_char=603
+15	по	по	ADP	_	_	14	_	_	start_char=604|end_char=606
+16	мирному	мирный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	15	_	_	start_char=607|end_char=614
+17	урегулированию	урегулирование	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	16	_	_	start_char=615|end_char=629
+18	конфликта	конфликт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	_	_	start_char=630|end_char=639
+19	на	на	ADP	_	_	18	_	_	start_char=640|end_char=642
+20	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	19	_	_	start_char=643|end_char=650|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	_	_	start_char=650|end_char=651
+
+# text = До этого глава МИД Германии призывала западные страны активнее помогать Киеву, чтобы российские войска не оказались на пороге стран Европы.
+# sent_id = 6
+1	До	до	ADP	_	_	0	_	_	start_char=652|end_char=654
+2	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=655|end_char=660
+3	глава	глава	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	_	_	start_char=661|end_char=666
+4	МИД	МИД	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=667|end_char=670
+5	Германии	Германия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	_	_	start_char=671|end_char=679
+6	призывала	призывать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	_	_	start_char=680|end_char=689
+7	западные	западный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	6	_	_	start_char=690|end_char=698
+8	страны	страна	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	7	_	_	start_char=699|end_char=705
+9	активнее	активно	ADV	_	Degree=Cmp	8	_	_	start_char=706|end_char=714
+10	помогать	помогать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	_	_	start_char=715|end_char=723
+11	Киеву	Киев	PROPN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	10	_	_	start_char=724|end_char=729|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	_	_	start_char=729|end_char=730
+13	чтобы	чтобы	SCONJ	_	Mood=Cnd	12	_	_	start_char=731|end_char=736
+14	российские	российский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	13	_	_	start_char=737|end_char=747
+15	войска	войска	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	14	_	_	start_char=748|end_char=754
+16	не	не	PART	_	_	15	_	_	start_char=755|end_char=757
+17	оказались	оказаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	16	_	_	start_char=758|end_char=767
+18	на	на	ADP	_	_	17	_	_	start_char=768|end_char=770
+19	пороге	порог	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	18	_	_	start_char=771|end_char=777
+20	стран	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	19	_	_	start_char=778|end_char=783
+21	Европы	Европа	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	_	_	start_char=784|end_char=790|SpaceAfter=No
+22	.	.	PUNCT	_	_	21	_	_	start_char=790|end_char=791
+
+# text = Бербок также поддержала потенциальное вступление Украины в Евросоюз.
+# sent_id = 7
+1	Бербок	Бербок	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=792|end_char=798
+2	также	также	ADV	_	Degree=Pos	1	_	_	start_char=799|end_char=804
+3	поддержала	поддержать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=805|end_char=815
+4	потенциальное	потенциальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	3	_	_	start_char=816|end_char=829
+5	вступление	вступление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	_	_	start_char=830|end_char=840
+6	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	_	_	start_char=841|end_char=848
+7	в	в	ADP	_	_	6	_	_	start_char=849|end_char=850
+8	Евросоюз	Евросоюз	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	_	_	start_char=851|end_char=859|SpaceAfter=No
+9	.	.	PUNCT	_	_	8	_	_	start_char=859|end_char=860|SpaceAfter=No
+

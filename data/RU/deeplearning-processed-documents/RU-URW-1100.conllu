@@ -1,0 +1,180 @@
+# text = В Челябинской области усилят антитеррористическую безопасность Особое внимание в регионе будут уделять охране ключевых объектов инфраструктуры и топливно-энергетического комплекса.
+# sent_id = 0
+1	В	в	ADP	_	_	0	_	_	start_char=0|end_char=1
+2	Челябинской	челябинский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	1	_	_	start_char=2|end_char=13
+3	области	область	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	_	_	start_char=14|end_char=21
+4	усилят	усилить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	3	_	_	start_char=22|end_char=28
+5	антитеррористическую	антитеррористический	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	_	_	start_char=29|end_char=49
+6	безопасность	безопасность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	_	_	start_char=50|end_char=62
+7	Особое	особый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	6	_	_	start_char=63|end_char=69
+8	внимание	внимание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	_	_	start_char=70|end_char=78
+9	в	в	ADP	_	_	8	_	_	start_char=79|end_char=80
+10	регионе	регион	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	_	_	start_char=81|end_char=88
+11	будут	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	_	_	start_char=89|end_char=94
+12	уделять	уделять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	11	_	_	start_char=95|end_char=102
+13	охране	охрана	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	12	_	_	start_char=103|end_char=109
+14	ключевых	ключевой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	_	_	start_char=110|end_char=118
+15	объектов	объект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	14	_	_	start_char=119|end_char=127
+16	инфраструктуры	инфраструктура	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	_	_	start_char=128|end_char=142
+17	и	и	CCONJ	_	_	16	_	_	start_char=143|end_char=144
+18	топливно	топливный	ADJ	_	Degree=Pos	17	_	_	start_char=145|end_char=153|SpaceAfter=No
+19	-	-	PUNCT	_	_	18	_	_	start_char=153|end_char=154|SpaceAfter=No
+20	энергетического	энергетический	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	19	_	_	start_char=154|end_char=169
+21	комплекса	комплекс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	20	_	_	start_char=170|end_char=179|SpaceAfter=No
+22	.	.	PUNCT	_	_	21	_	_	start_char=179|end_char=180
+
+# text = В Челябинской области усилят охрану объектов инфраструктуры и топливно-энергетического комплекса.
+# sent_id = 1
+1	В	в	ADP	_	_	0	_	_	start_char=181|end_char=182
+2	Челябинской	челябинский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	1	_	_	start_char=183|end_char=194
+3	области	область	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	_	_	start_char=195|end_char=202
+4	усилят	усилить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	3	_	_	start_char=203|end_char=209
+5	охрану	охрана	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	_	_	start_char=210|end_char=216
+6	объектов	объект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	_	_	start_char=217|end_char=225
+7	инфраструктуры	инфраструктура	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	_	_	start_char=226|end_char=240
+8	и	и	CCONJ	_	_	7	_	_	start_char=241|end_char=242
+9	топливно	топливный	ADJ	_	Degree=Pos	8	_	_	start_char=243|end_char=251|SpaceAfter=No
+10	-	-	PUNCT	_	_	9	_	_	start_char=251|end_char=252|SpaceAfter=No
+11	энергетического	энергетический	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	_	_	start_char=252|end_char=267
+12	комплекса	комплекс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	_	_	start_char=268|end_char=277|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=277|end_char=278
+
+# text = Такую задачу поставил губернатор Алексей Текслер на заседании оперативного штаба.
+# sent_id = 2
+1	Такую	такой	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	0	_	_	start_char=279|end_char=284
+2	задачу	задача	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1	_	_	start_char=285|end_char=291
+3	поставил	ставить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=292|end_char=300
+4	губернатор	губернатор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	_	_	start_char=301|end_char=311
+5	Алексей	Алексей	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=312|end_char=319
+6	Текслер	Текслер	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	_	_	start_char=320|end_char=327
+7	на	на	ADP	_	_	6	_	_	start_char=328|end_char=330
+8	заседании	заседание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	_	_	start_char=331|end_char=340
+9	оперативного	оперативный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	_	_	start_char=341|end_char=353
+10	штаба	штаб	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	_	_	start_char=354|end_char=359|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	_	_	start_char=359|end_char=360
+
+# text = Как обратил внимание глава региона, это необходимо сделать, чтобы обезопасить ключевые объекты Южного Урала от терактов и обеспечить их устойчивую работу.
+# sent_id = 3
+1	Как	как	SCONJ	_	_	0	_	_	start_char=361|end_char=364
+2	обратил	обратить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=365|end_char=372
+3	внимание	внимание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	_	_	start_char=373|end_char=381
+4	глава	глава	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	_	_	start_char=382|end_char=387
+5	региона	регион	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	_	_	start_char=388|end_char=395|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=395|end_char=396
+7	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	6	_	_	start_char=397|end_char=400
+8	необходимо	необходимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	7	_	_	start_char=401|end_char=411
+9	сделать	делать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	_	_	start_char=412|end_char=419|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=419|end_char=420
+11	чтобы	чтобы	SCONJ	_	Mood=Cnd	10	_	_	start_char=421|end_char=426
+12	обезопасить	обезопасить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	11	_	_	start_char=427|end_char=438
+13	ключевые	ключевой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	12	_	_	start_char=439|end_char=447
+14	объекты	объект	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	13	_	_	start_char=448|end_char=455
+15	Южного	Южный	PROPN	_	_	14	_	_	start_char=456|end_char=462
+16	Урала	Урал	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	_	_	start_char=463|end_char=468
+17	от	от	ADP	_	_	16	_	_	start_char=469|end_char=471
+18	терактов	теракт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	17	_	_	start_char=472|end_char=480
+19	и	и	CCONJ	_	_	18	_	_	start_char=481|end_char=482
+20	обеспечить	обеспечить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	19	_	_	start_char=483|end_char=493
+21	их	их	DET	_	Poss=Yes|PronType=Prs	20	_	_	start_char=494|end_char=496
+22	устойчивую	устойчивый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	21	_	_	start_char=497|end_char=507
+23	работу	работа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	22	_	_	start_char=508|end_char=514|SpaceAfter=No
+24	.	.	PUNCT	_	_	23	_	_	start_char=514|end_char=515
+
+# text = Говоря о необходимости усиления антитеррористической работы, глава региона отметил, что со стороны Украины почти ежедневно российские регионы атакуют дроны.
+# sent_id = 4
+1	Говоря	говорить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	0	_	_	start_char=516|end_char=522
+2	о	о	ADP	_	_	1	_	_	start_char=523|end_char=524
+3	необходимости	необходимость	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	_	_	start_char=525|end_char=538
+4	усиления	усиление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	_	_	start_char=539|end_char=547
+5	антитеррористической	антитеррористический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	_	_	start_char=548|end_char=568
+6	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	_	_	start_char=569|end_char=575|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	_	_	start_char=575|end_char=576
+8	глава	глава	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	_	_	start_char=577|end_char=582
+9	региона	регион	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	_	_	start_char=583|end_char=590
+10	отметил	отметить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	_	_	start_char=591|end_char=598|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=598|end_char=599
+12	что	что	SCONJ	_	_	11	_	_	start_char=600|end_char=603
+13	со	с	ADP	_	_	12	_	_	start_char=604|end_char=606
+14	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	_	_	start_char=607|end_char=614
+15	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	_	_	start_char=615|end_char=622
+16	почти	почти	ADV	_	Degree=Pos	15	_	_	start_char=623|end_char=628
+17	ежедневно	ежедневно	ADV	_	Degree=Pos	16	_	_	start_char=629|end_char=638
+18	российские	российский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	17	_	_	start_char=639|end_char=649
+19	регионы	регион	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	18	_	_	start_char=650|end_char=657
+20	атакуют	атаковать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	_	_	start_char=658|end_char=665
+21	дроны	дрон	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	20	_	_	start_char=666|end_char=671|SpaceAfter=No
+22	.	.	PUNCT	_	_	21	_	_	start_char=671|end_char=672
+
+# text = – География террористических атак расширяется, – добавил Алексей Текслер.
+# sent_id = 5
+1	–	–	PUNCT	_	_	0	_	_	start_char=673|end_char=674
+2	География	география	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	_	_	start_char=675|end_char=684
+3	террористических	террористический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	2	_	_	start_char=685|end_char=701
+4	атак	атака	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	_	_	start_char=702|end_char=706
+5	расширяется	расширяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	_	_	start_char=707|end_char=718|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=718|end_char=719
+7	–	–	PUNCT	_	_	6	_	_	start_char=720|end_char=721
+8	добавил	добавить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	_	_	start_char=722|end_char=729
+9	Алексей	Алексей	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	_	_	start_char=730|end_char=737
+10	Текслер	Текслер	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	_	_	start_char=738|end_char=745|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	_	_	start_char=745|end_char=746
+
+# text = – Еще недавно от ударов страдали в первую очередь новые и приграничные регионы России, а сейчас под обстрелы попадают и объекты в соседних с Челябинской областью территориях.
+# sent_id = 6
+1	–	–	PUNCT	_	_	0	_	_	start_char=747|end_char=748
+2	Еще	еще	ADV	_	Degree=Pos	1	_	_	start_char=749|end_char=752
+3	недавно	недавно	ADV	_	Degree=Pos	2	_	_	start_char=753|end_char=760
+4	от	от	ADP	_	_	3	_	_	start_char=761|end_char=763
+5	ударов	удар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	_	_	start_char=764|end_char=770
+6	страдали	страдать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	_	_	start_char=771|end_char=779
+7	в	в	ADP	_	_	6	_	_	start_char=780|end_char=781
+8	первую	первый	ADJ	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	_	_	start_char=782|end_char=788
+9	очередь	очередь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	_	_	start_char=789|end_char=796
+10	новые	новый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	9	_	_	start_char=797|end_char=802
+11	и	и	CCONJ	_	_	10	_	_	start_char=803|end_char=804
+12	приграничные	приграничный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	11	_	_	start_char=805|end_char=817
+13	регионы	регион	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	12	_	_	start_char=818|end_char=825
+14	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	_	_	start_char=826|end_char=832|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=832|end_char=833
+16	а	а	CCONJ	_	_	15	_	_	start_char=834|end_char=835
+17	сейчас	сейчас	ADV	_	Degree=Pos	16	_	_	start_char=836|end_char=842
+18	под	под	ADP	_	_	17	_	_	start_char=843|end_char=846
+19	обстрелы	обстрел	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	18	_	_	start_char=847|end_char=855
+20	попадают	попадать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	_	_	start_char=856|end_char=864
+21	и	и	PART	_	_	20	_	_	start_char=865|end_char=866
+22	объекты	объект	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	21	_	_	start_char=867|end_char=874
+23	в	в	ADP	_	_	22	_	_	start_char=875|end_char=876
+24	соседних	соседний	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	23	_	_	start_char=877|end_char=885
+25	с	с	ADP	_	_	24	_	_	start_char=886|end_char=887
+26	Челябинской	челябинский	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	25	_	_	start_char=888|end_char=899
+27	областью	область	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	26	_	_	start_char=900|end_char=908
+28	территориях	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	27	_	_	start_char=909|end_char=920|SpaceAfter=No
+29	.	.	PUNCT	_	_	28	_	_	start_char=920|end_char=921
+
+# text = Это говорит о том, что Украина пытается поразить цели, которые находятся далеко от российско-украинской границы и зоны боевого столкновения.
+# sent_id = 7
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	_	_	start_char=922|end_char=925
+2	говорит	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	_	_	start_char=926|end_char=933
+3	о	о	ADP	_	_	2	_	_	start_char=934|end_char=935
+4	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	3	_	_	start_char=936|end_char=939|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=939|end_char=940
+6	что	что	SCONJ	_	_	5	_	_	start_char=941|end_char=944
+7	Украина	Украина	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	_	_	start_char=945|end_char=952
+8	пытается	пытаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	7	_	_	start_char=953|end_char=961
+9	поразить	поразить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	_	_	start_char=962|end_char=970
+10	цели	цель	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	9	_	_	start_char=971|end_char=975|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=975|end_char=976
+12	которые	который	PRON	_	Case=Nom|PronType=Int,Rel	11	_	_	start_char=977|end_char=984
+13	находятся	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	12	_	_	start_char=985|end_char=994
+14	далеко	далеко	ADV	_	Degree=Pos	13	_	_	start_char=995|end_char=1001
+15	от	от	ADP	_	_	14	_	_	start_char=1002|end_char=1004
+16	российско	российский	ADJ	_	Degree=Pos	15	_	_	start_char=1005|end_char=1014|SpaceAfter=No
+17	-	-	PUNCT	_	_	16	_	_	start_char=1014|end_char=1015|SpaceAfter=No
+18	украинской	украинский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	17	_	_	start_char=1015|end_char=1025
+19	границы	граница	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	_	_	start_char=1026|end_char=1033
+20	и	и	CCONJ	_	_	19	_	_	start_char=1034|end_char=1035
+21	зоны	зона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	_	_	start_char=1036|end_char=1040
+22	боевого	боевой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	21	_	_	start_char=1041|end_char=1048
+23	столкновения	столкновение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	_	_	start_char=1049|end_char=1061|SpaceAfter=No
+24	.	.	PUNCT	_	_	23	_	_	start_char=1061|end_char=1062|SpaceAfter=No
+

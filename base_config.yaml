@@ -1,5 +1,6 @@
-model: 'bert'
-epochs: 20
-batch_size: 8
+model: 'bertru'
+epochs: 10
+batch_size: 2
 lr: 5e-5
 val_split: 0.2
+num_workers: 1 

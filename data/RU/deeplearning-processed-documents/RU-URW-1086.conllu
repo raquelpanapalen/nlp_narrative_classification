@@ -1,0 +1,391 @@
+# text = В Киеве прогремели взрывы после объявления воздушной тревоги В ночь на 4 июля в столице Украины прогремела серия взрывов, а рядом с Киевом работает система противовоздушной обороны.
+# sent_id = 0
+1	В	в	ADP	_	_	0	_	_	start_char=0|end_char=1
+2	Киеве	Киев	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	_	_	start_char=2|end_char=7
+3	прогремели	прогреметь	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=8|end_char=18
+4	взрывы	взрыв	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	_	_	start_char=19|end_char=25
+5	после	после	ADP	_	_	4	_	_	start_char=26|end_char=31
+6	объявления	объявление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	_	_	start_char=32|end_char=42
+7	воздушной	воздушный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	_	_	start_char=43|end_char=52
+8	тревоги	тревога	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	_	_	start_char=53|end_char=60
+9	В	в	ADP	_	_	8	_	_	start_char=61|end_char=62
+10	ночь	ночь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	_	_	start_char=63|end_char=67
+11	на	на	ADP	_	_	10	_	_	start_char=68|end_char=70
+12	4	4	NUM	_	NumType=Card	11	_	_	start_char=71|end_char=72
+13	июля	июль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	_	_	start_char=73|end_char=77
+14	в	в	ADP	_	_	13	_	_	start_char=78|end_char=79
+15	столице	столица	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	14	_	_	start_char=80|end_char=87
+16	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	_	_	start_char=88|end_char=95
+17	прогремела	прогреметь	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	16	_	_	start_char=96|end_char=106
+18	серия	серия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	17	_	_	start_char=107|end_char=112
+19	взрывов	взрыв	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	18	_	_	start_char=113|end_char=120|SpaceAfter=No
+20	,	,	PUNCT	_	_	19	_	_	start_char=120|end_char=121
+21	а	а	CCONJ	_	_	20	_	_	start_char=122|end_char=123
+22	рядом	рядом	ADV	_	Degree=Pos	21	_	_	start_char=124|end_char=129
+23	с	с	ADP	_	_	22	_	_	start_char=130|end_char=131
+24	Киевом	Киев	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	23	_	_	start_char=132|end_char=138
+25	работает	работать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	_	_	start_char=139|end_char=147
+26	система	система	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	25	_	_	start_char=148|end_char=155
+27	противовоздушной	противовоздушный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	26	_	_	start_char=156|end_char=172
+28	обороны	оборона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	27	_	_	start_char=173|end_char=180|SpaceAfter=No
+29	.	.	PUNCT	_	_	28	_	_	start_char=180|end_char=181
+
+# text = Об этом сообщает издание «Зеркало недели».
+# sent_id = 1
+1	Об	о	ADP	_	_	0	_	_	start_char=182|end_char=184
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=185|end_char=189
+3	сообщает	сообщать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=190|end_char=198
+4	издание	издание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	_	_	start_char=199|end_char=206
+5	«	"	PUNCT	_	_	4	_	_	start_char=207|end_char=208|SpaceAfter=No
+6	Зеркало	зеркало	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	_	_	start_char=208|end_char=215
+7	недели	неделя	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	_	_	start_char=216|end_char=222|SpaceAfter=No
+8	»	"	PUNCT	_	_	7	_	_	start_char=222|end_char=223|SpaceAfter=No
+9	.	.	PUNCT	_	_	8	_	_	start_char=223|end_char=224
+
+# text = Отмечается также, что за некоторое время до поступления сообщений о взрывах в города объявлялась воздушная тревога.
+# sent_id = 2
+1	Отмечается	отмечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	_	_	start_char=225|end_char=235
+2	также	также	ADV	_	Degree=Pos	1	_	_	start_char=236|end_char=241|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=241|end_char=242
+4	что	что	SCONJ	_	_	3	_	_	start_char=243|end_char=246
+5	за	за	ADP	_	_	4	_	_	start_char=247|end_char=249
+6	некоторое	некоторый	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	5	_	_	start_char=250|end_char=259
+7	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	_	_	start_char=260|end_char=265
+8	до	до	ADP	_	_	7	_	_	start_char=266|end_char=268
+9	поступления	поступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	_	_	start_char=269|end_char=280
+10	сообщений	сообщение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	9	_	_	start_char=281|end_char=290
+11	о	о	ADP	_	_	10	_	_	start_char=291|end_char=292
+12	взрывах	взрыв	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	11	_	_	start_char=293|end_char=300
+13	в	в	ADP	_	_	12	_	_	start_char=301|end_char=302
+14	города	город	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	13	_	_	start_char=303|end_char=309
+15	объявлялась	объявлять	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	14	_	_	start_char=310|end_char=321
+16	воздушная	воздушный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	15	_	_	start_char=322|end_char=331
+17	тревога	тревога	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	16	_	_	start_char=332|end_char=339|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	_	_	start_char=339|end_char=340
+
+# text = Примерно в это же время мощные взрывы звучали в четырех украинских регионах.
+# sent_id = 3
+1	Примерно	примерно	ADV	_	Degree=Pos	0	_	_	start_char=341|end_char=349
+2	в	в	ADP	_	_	1	_	_	start_char=350|end_char=351
+3	это	этот	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	2	_	_	start_char=352|end_char=355
+4	же	же	PART	_	_	3	_	_	start_char=356|end_char=358
+5	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	_	_	start_char=359|end_char=364
+6	мощные	мощный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	_	_	start_char=365|end_char=371
+7	взрывы	взрыв	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	6	_	_	start_char=372|end_char=378
+8	звучали	звучать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	7	_	_	start_char=379|end_char=386
+9	в	в	ADP	_	_	8	_	_	start_char=387|end_char=388
+10	четырех	четыре	NUM	_	Case=Loc|NumType=Card	9	_	_	start_char=389|end_char=396
+11	украинских	украинский	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	10	_	_	start_char=397|end_char=407
+12	регионах	регион	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	11	_	_	start_char=408|end_char=416|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=416|end_char=417
+
+# text = Речь идет о Киевской области, Звягельском районе Житомирской области, а также в Черниговской и Сумской областях Незалежной.
+# sent_id = 4
+1	Речь	речь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	_	_	start_char=418|end_char=422
+2	идет	идти	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	_	_	start_char=423|end_char=427
+3	о	о	ADP	_	_	2	_	_	start_char=428|end_char=429
+4	Киевской	Киевский	PROPN	_	_	3	_	_	start_char=430|end_char=438
+5	области	область	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	_	_	start_char=439|end_char=446|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=446|end_char=447
+7	Звягельском	звягельский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	6	_	_	start_char=448|end_char=459
+8	районе	район	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	_	_	start_char=460|end_char=466
+9	Житомирской	житомирский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	_	_	start_char=467|end_char=478
+10	области	область	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	_	_	start_char=479|end_char=486|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=486|end_char=487
+12	а	а	CCONJ	_	_	11	_	_	start_char=488|end_char=489
+13	также	также	PART	_	_	12	_	_	start_char=490|end_char=495
+14	в	в	ADP	_	_	13	_	_	start_char=496|end_char=497
+15	Черниговской	черниговский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	14	_	_	start_char=498|end_char=510
+16	и	и	CCONJ	_	_	15	_	_	start_char=511|end_char=512
+17	Сумской	сумский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	16	_	_	start_char=513|end_char=520
+18	областях	область	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	17	_	_	start_char=521|end_char=529
+19	Незалежной	незалежный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	18	_	_	start_char=530|end_char=540|SpaceAfter=No
+20	.	.	PUNCT	_	_	19	_	_	start_char=540|end_char=541
+
+# text = Кроме того, в ночь на 4 июля российский ракетный комплекс С-350 «Витязь» одномоментно поразил 12 ракет РСЗО HIMARS в зоне спецоперации.
+# sent_id = 5
+1	Кроме	кроме	ADP	_	_	0	_	_	start_char=542|end_char=547
+2	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=548|end_char=552|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=552|end_char=553
+4	в	в	ADP	_	_	3	_	_	start_char=554|end_char=555
+5	ночь	ночь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	_	_	start_char=556|end_char=560
+6	на	на	ADP	_	_	5	_	_	start_char=561|end_char=563
+7	4	4	NUM	_	NumType=Card	6	_	_	start_char=564|end_char=565
+8	июля	июль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	_	_	start_char=566|end_char=570
+9	российский	российский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	_	_	start_char=571|end_char=581
+10	ракетный	ракетный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	_	_	start_char=582|end_char=590
+11	комплекс	комплекс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	_	_	start_char=591|end_char=599
+12	С-350	С-350	PROPN	_	Number=Sing	11	_	_	start_char=600|end_char=605
+13	«	"	PUNCT	_	_	12	_	_	start_char=606|end_char=607|SpaceAfter=No
+14	Витязь	Витязь	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	13	_	_	start_char=607|end_char=613|SpaceAfter=No
+15	»	"	PUNCT	_	_	14	_	_	start_char=613|end_char=614
+16	одномоментно	одномоментно	ADV	_	Degree=Pos	15	_	_	start_char=615|end_char=627
+17	поразил	поразить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	16	_	_	start_char=628|end_char=635
+18	12	12	NUM	_	NumType=Card	17	_	_	start_char=636|end_char=638
+19	ракет	ракета	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	18	_	_	start_char=639|end_char=644
+20	РСЗО	РСЗО	PROPN	_	Animacy=Inan|Case=Gen|Number=Sing	19	_	_	start_char=645|end_char=649
+21	HIMARS	HIMARS	PROPN	_	Foreign=Yes	20	_	_	start_char=650|end_char=656
+22	в	в	ADP	_	_	21	_	_	start_char=657|end_char=658
+23	зоне	зона	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	22	_	_	start_char=659|end_char=663
+24	спецоперации	спецоперация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	_	_	start_char=664|end_char=676|SpaceAfter=No
+25	.	.	PUNCT	_	_	24	_	_	start_char=676|end_char=677
+
+# text = По словам военнослужащего с позывным «Лев», ни одна из американских ракет не достигла своей цели.
+# sent_id = 6
+1	По	по	ADP	_	_	0	_	_	start_char=678|end_char=680
+2	словам	слово	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	1	_	_	start_char=681|end_char=687
+3	военнослужащего	военнослужащий	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	_	_	start_char=688|end_char=703
+4	с	с	ADP	_	_	3	_	_	start_char=704|end_char=705
+5	позывным	позывные	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	_	_	start_char=706|end_char=714
+6	«	"	PUNCT	_	_	5	_	_	start_char=715|end_char=716|SpaceAfter=No
+7	Лев	Лев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	_	_	start_char=716|end_char=719|SpaceAfter=No
+8	»	"	PUNCT	_	_	7	_	_	start_char=719|end_char=720|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=720|end_char=721
+10	ни	ни	PART	_	_	9	_	_	start_char=722|end_char=724
+11	одна	один	NUM	_	Case=Nom|Gender=Fem|NumType=Card	10	_	_	start_char=725|end_char=729
+12	из	из	ADP	_	_	11	_	_	start_char=730|end_char=732
+13	американских	американский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	_	_	start_char=733|end_char=745
+14	ракет	ракета	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	13	_	_	start_char=746|end_char=751
+15	не	не	PART	_	_	14	_	_	start_char=752|end_char=754
+16	достигла	достичь	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	15	_	_	start_char=755|end_char=763
+17	своей	свой	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	16	_	_	start_char=764|end_char=769
+18	цели	цель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	_	_	start_char=770|end_char=774|SpaceAfter=No
+19	.	.	PUNCT	_	_	18	_	_	start_char=774|end_char=775
+
+# text = Соответственно, комплексу не составило труда как разобрать, так и поразить пачку.
+# sent_id = 7
+1	Соответственно	соответственно	ADV	_	Degree=Pos	0	_	_	start_char=776|end_char=790|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	_	_	start_char=790|end_char=791
+3	комплексу	комплекс	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	2	_	_	start_char=792|end_char=801
+4	не	не	PART	_	_	3	_	_	start_char=802|end_char=804
+5	составило	составить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	_	_	start_char=805|end_char=814
+6	труда	труд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	_	_	start_char=815|end_char=820
+7	как	как	ADV	_	Degree=Pos	6	_	_	start_char=821|end_char=824
+8	разобрать	разобрать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	_	_	start_char=825|end_char=834|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=834|end_char=835
+10	так	так	ADV	_	Degree=Pos	9	_	_	start_char=836|end_char=839
+11	и	и	PART	_	_	10	_	_	start_char=840|end_char=841
+12	поразить	поразить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	11	_	_	start_char=842|end_char=850
+13	пачку	пачка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	_	_	start_char=851|end_char=856|SpaceAfter=No
+14	.	.	PUNCT	_	_	13	_	_	start_char=856|end_char=857
+
+# text = Между тем, 4 июля стало известно, что для удара по супермаркету в Киевском районе Донецка вооруженные силы Украины использовали РСЗО HIMARS.
+# sent_id = 8
+1	Между	между	ADP	_	_	0	_	_	start_char=858|end_char=863
+2	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=864|end_char=867|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=867|end_char=868
+4	4	4	NUM	_	NumType=Card	3	_	_	start_char=869|end_char=870
+5	июля	июль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	_	_	start_char=871|end_char=875
+6	стало	стать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	5	_	_	start_char=876|end_char=881
+7	известно	известный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	6	_	_	start_char=882|end_char=890|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=890|end_char=891
+9	что	что	SCONJ	_	_	8	_	_	start_char=892|end_char=895
+10	для	для	ADP	_	_	9	_	_	start_char=896|end_char=899
+11	удара	удар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	_	_	start_char=900|end_char=905
+12	по	по	ADP	_	_	11	_	_	start_char=906|end_char=908
+13	супермаркету	супермаркет	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	12	_	_	start_char=909|end_char=921
+14	в	в	ADP	_	_	13	_	_	start_char=922|end_char=923
+15	Киевском	Киевский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	14	_	_	start_char=924|end_char=932
+16	районе	район	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	_	_	start_char=933|end_char=939
+17	Донецка	Донецк	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	_	_	start_char=940|end_char=947
+18	вооруженные	вооруженный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	17	_	_	start_char=948|end_char=959
+19	силы	сила	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	18	_	_	start_char=960|end_char=964
+20	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	_	_	start_char=965|end_char=972
+21	использовали	использовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	20	_	_	start_char=973|end_char=985
+22	РСЗО	РСЗО	PROPN	_	Animacy=Inan|Case=Acc|Number=Sing	21	_	_	start_char=986|end_char=990
+23	HIMARS	HIMARS	PROPN	_	Foreign=Yes	22	_	_	start_char=991|end_char=997|SpaceAfter=No
+24	.	.	PUNCT	_	_	23	_	_	start_char=997|end_char=998
+
+# text = При этом использовались ракеты М-31 (осколочная), три из которых были сбиты силами ПВО.
+# sent_id = 9
+1	При	при	ADP	_	_	0	_	_	start_char=999|end_char=1002
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=1003|end_char=1007
+3	использовались	использовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Pass	2	_	_	start_char=1008|end_char=1022
+4	ракеты	ракета	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	_	_	start_char=1023|end_char=1029
+5	М-31	М-31	PROPN	_	_	4	_	_	start_char=1030|end_char=1034
+6	(	(	PUNCT	_	_	5	_	_	start_char=1035|end_char=1036|SpaceAfter=No
+7	осколочная	осколочный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	_	_	start_char=1036|end_char=1046|SpaceAfter=No
+8	)	)	PUNCT	_	_	7	_	_	start_char=1046|end_char=1047|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=1047|end_char=1048
+10	три	три	NUM	_	Case=Nom|NumType=Card	9	_	_	start_char=1049|end_char=1052
+11	из	из	ADP	_	_	10	_	_	start_char=1053|end_char=1055
+12	которых	который	PRON	_	Case=Gen|PronType=Int,Rel	11	_	_	start_char=1056|end_char=1063
+13	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	12	_	_	start_char=1064|end_char=1068
+14	сбиты	сбить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	13	_	_	start_char=1069|end_char=1074
+15	силами	сила	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	14	_	_	start_char=1075|end_char=1081
+16	ПВО	пво	PROPN	_	Animacy=Inan|Case=Gen|Number=Sing	15	_	_	start_char=1082|end_char=1085|SpaceAfter=No
+17	.	.	PUNCT	_	_	16	_	_	start_char=1085|end_char=1086
+
+# text = Из-за вертикального попадания одной ракеты определить локацию пуска не представляется возможным.
+# sent_id = 10
+1	Из-за	из-за	ADP	_	_	0	_	_	start_char=1087|end_char=1092
+2	вертикального	вертикальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	1	_	_	start_char=1093|end_char=1106
+3	попадания	попадание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	_	_	start_char=1107|end_char=1116
+4	одной	один	NUM	_	Case=Gen|Gender=Fem|NumType=Card	3	_	_	start_char=1117|end_char=1122
+5	ракеты	ракета	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	_	_	start_char=1123|end_char=1129
+6	определить	определить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	_	_	start_char=1130|end_char=1140
+7	локацию	локация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	_	_	start_char=1141|end_char=1148
+8	пуска	пуск	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	_	_	start_char=1149|end_char=1154
+9	не	не	PART	_	_	8	_	_	start_char=1155|end_char=1157
+10	представляется	представляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	9	_	_	start_char=1158|end_char=1172
+11	возможным	возможный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	10	_	_	start_char=1173|end_char=1182|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	_	_	start_char=1182|end_char=1183
+
+# text = Минувшим днем взрывы прогремели в подконтрольном Киеву Херсоне и Днепре.
+# sent_id = 11
+1	Минувшим	минувший	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	0	_	_	start_char=1184|end_char=1192
+2	днем	день	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	1	_	_	start_char=1193|end_char=1197
+3	взрывы	взрыв	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	2	_	_	start_char=1198|end_char=1204
+4	прогремели	прогреметь	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	_	_	start_char=1205|end_char=1215
+5	в	в	ADP	_	_	4	_	_	start_char=1216|end_char=1217
+6	подконтрольном	подконтролить	VERB	_	Aspect=Perf|Case=Loc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	_	_	start_char=1218|end_char=1232
+7	Киеву	Киев	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	_	_	start_char=1233|end_char=1238
+8	Херсоне	Херсона	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	_	_	start_char=1239|end_char=1246
+9	и	и	CCONJ	_	_	8	_	_	start_char=1247|end_char=1248
+10	Днепре	Днепр	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	_	_	start_char=1249|end_char=1255|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	_	_	start_char=1255|end_char=1256
+
+# text = Отмечается, что во время взрывов в Днепре увидели следы работы средств противовоздушной обороны (ПВО).
+# sent_id = 12
+1	Отмечается	отмечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	_	_	start_char=1257|end_char=1267|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	_	_	start_char=1267|end_char=1268
+3	что	что	SCONJ	_	_	2	_	_	start_char=1269|end_char=1272
+4	во	в	ADP	_	_	3	_	_	start_char=1273|end_char=1275
+5	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	_	_	start_char=1276|end_char=1281
+6	взрывов	взрыв	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	_	_	start_char=1282|end_char=1289
+7	в	в	ADP	_	_	6	_	_	start_char=1290|end_char=1291
+8	Днепре	Днепр	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	_	_	start_char=1292|end_char=1298
+9	увидели	видеть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	8	_	_	start_char=1299|end_char=1306
+10	следы	след	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	9	_	_	start_char=1307|end_char=1312
+11	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	_	_	start_char=1313|end_char=1319
+12	средств	средства	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	11	_	_	start_char=1320|end_char=1327
+13	противовоздушной	противовоздушный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	_	_	start_char=1328|end_char=1344
+14	обороны	оборона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	_	_	start_char=1345|end_char=1352
+15	(	(	PUNCT	_	_	14	_	_	start_char=1353|end_char=1354|SpaceAfter=No
+16	ПВО	пво	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	_	_	start_char=1354|end_char=1357|SpaceAfter=No
+17	)	)	PUNCT	_	_	16	_	_	start_char=1357|end_char=1358|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	_	_	start_char=1358|end_char=1359
+
+# text = А ранее взрывы слышали жители Одессы.
+# sent_id = 13
+1	А	а	CCONJ	_	_	0	_	_	start_char=1360|end_char=1361
+2	ранее	ранее	ADV	_	Degree=Pos	1	_	_	start_char=1362|end_char=1367
+3	взрывы	взрыв	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	2	_	_	start_char=1368|end_char=1374
+4	слышали	слышать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	_	_	start_char=1375|end_char=1382
+5	жители	житель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	_	_	start_char=1383|end_char=1389
+6	Одессы	Одесса	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	_	_	start_char=1390|end_char=1396|SpaceAfter=No
+7	.	.	PUNCT	_	_	6	_	_	start_char=1396|end_char=1397
+
+# text = Отмечалось, что это может быть связано с работой средств противовоздушной обороны.
+# sent_id = 14
+1	Отмечалось	отмечать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	0	_	_	start_char=1398|end_char=1408|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	_	_	start_char=1408|end_char=1409
+3	что	что	SCONJ	_	_	2	_	_	start_char=1410|end_char=1413
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	_	_	start_char=1414|end_char=1417
+5	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	_	_	start_char=1418|end_char=1423
+6	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	_	_	start_char=1424|end_char=1428
+7	связано	связать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	6	_	_	start_char=1429|end_char=1436
+8	с	с	ADP	_	_	7	_	_	start_char=1437|end_char=1438
+9	работой	работа	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	8	_	_	start_char=1439|end_char=1446
+10	средств	средства	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	9	_	_	start_char=1447|end_char=1454
+11	противовоздушной	противовоздушный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	_	_	start_char=1455|end_char=1471
+12	обороны	оборона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	_	_	start_char=1472|end_char=1479|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=1479|end_char=1480
+
+# text = Одновременно с этим сигналы воздушной тревоги раздавались в Кировоградской, Днепропетровской, Николаевской и Харьковской областях, а также в подконтрольных вооруженным силам Украины районах Донецкой Народной Республике (ДНР), Запорожской и Херсонской областей.
+# sent_id = 15
+1	Одновременно	одновременно	ADV	_	Degree=Pos	0	_	_	start_char=1481|end_char=1493
+2	с	с	ADP	_	_	1	_	_	start_char=1494|end_char=1495
+3	этим	это	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	2	_	_	start_char=1496|end_char=1500
+4	сигналы	сигнал	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	_	_	start_char=1501|end_char=1508
+5	воздушной	воздушный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	_	_	start_char=1509|end_char=1518
+6	тревоги	тревога	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	_	_	start_char=1519|end_char=1526
+7	раздавались	раздаваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Pass	6	_	_	start_char=1527|end_char=1538
+8	в	в	ADP	_	_	7	_	_	start_char=1539|end_char=1540
+9	Кировоградской	кировоградский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	8	_	_	start_char=1541|end_char=1555|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=1555|end_char=1556
+11	Днепропетровской	днепропетровский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	10	_	_	start_char=1557|end_char=1573|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	_	_	start_char=1573|end_char=1574
+13	Николаевской	николаевский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	12	_	_	start_char=1575|end_char=1587
+14	и	и	CCONJ	_	_	13	_	_	start_char=1588|end_char=1589
+15	Харьковской	харьковский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	14	_	_	start_char=1590|end_char=1601
+16	областях	область	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	15	_	_	start_char=1602|end_char=1610|SpaceAfter=No
+17	,	,	PUNCT	_	_	16	_	_	start_char=1610|end_char=1611
+18	а	а	CCONJ	_	_	17	_	_	start_char=1612|end_char=1613
+19	также	также	PART	_	_	18	_	_	start_char=1614|end_char=1619
+20	в	в	ADP	_	_	19	_	_	start_char=1620|end_char=1621
+21	подконтрольных	подконтрольный	VERB	_	Aspect=Perf|Case=Loc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	20	_	_	start_char=1622|end_char=1636
+22	вооруженным	вооружить	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	21	_	_	start_char=1637|end_char=1648
+23	силам	сила	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	22	_	_	start_char=1649|end_char=1654
+24	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	_	_	start_char=1655|end_char=1662
+25	районах	район	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	24	_	_	start_char=1663|end_char=1670
+26	Донецкой	донецкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	25	_	_	start_char=1671|end_char=1679
+27	Народной	народный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	26	_	_	start_char=1680|end_char=1688
+28	Республике	Республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	27	_	_	start_char=1689|end_char=1699
+29	(	(	PUNCT	_	_	28	_	_	start_char=1700|end_char=1701|SpaceAfter=No
+30	ДНР	ДНР	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	29	_	_	start_char=1701|end_char=1704|SpaceAfter=No
+31	)	)	PUNCT	_	_	30	_	_	start_char=1704|end_char=1705|SpaceAfter=No
+32	,	,	PUNCT	_	_	31	_	_	start_char=1705|end_char=1706
+33	Запорожской	запорожский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	32	_	_	start_char=1707|end_char=1718
+34	и	и	CCONJ	_	_	33	_	_	start_char=1719|end_char=1720
+35	Херсонской	херсонский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	34	_	_	start_char=1721|end_char=1731
+36	областей	область	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	35	_	_	start_char=1732|end_char=1740|SpaceAfter=No
+37	.	.	PUNCT	_	_	36	_	_	start_char=1740|end_char=1741
+
+# text = Координатор николаевского подполья Сергей Лебедев заявил 3 июля о том, что вооруженные силы (ВС) России нанесли несколько ударов в район железнодорожной станции в селе Малая Токмачка около подконтрольного Киеву Запорожья, где находятся склады украинской армии.
+# sent_id = 16
+1	Координатор	координатор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=1742|end_char=1753
+2	николаевского	николаевский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	1	_	_	start_char=1754|end_char=1767
+3	подполья	подполье	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	_	_	start_char=1768|end_char=1776
+4	Сергей	Сергей	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	_	_	start_char=1777|end_char=1783
+5	Лебедев	Лебедев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=1784|end_char=1791
+6	заявил	заявить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	_	_	start_char=1792|end_char=1798
+7	3	3	NUM	_	NumType=Card	6	_	_	start_char=1799|end_char=1800
+8	июля	июль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	_	_	start_char=1801|end_char=1805
+9	о	о	ADP	_	_	8	_	_	start_char=1806|end_char=1807
+10	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	9	_	_	start_char=1808|end_char=1811|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=1811|end_char=1812
+12	что	что	SCONJ	_	_	11	_	_	start_char=1813|end_char=1816
+13	вооруженные	вооруженный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	12	_	_	start_char=1817|end_char=1828
+14	силы	сила	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	13	_	_	start_char=1829|end_char=1833
+15	(	(	PUNCT	_	_	14	_	_	start_char=1834|end_char=1835|SpaceAfter=No
+16	ВС	ВС	PROPN	_	Abbr=Yes	15	_	_	start_char=1835|end_char=1837|SpaceAfter=No
+17	)	)	PUNCT	_	_	16	_	_	start_char=1837|end_char=1838
+18	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	_	_	start_char=1839|end_char=1845
+19	нанесли	нанести	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	18	_	_	start_char=1846|end_char=1853
+20	несколько	несколько	NUM	_	Animacy=Inan|Case=Acc|NumType=Card	19	_	_	start_char=1854|end_char=1863
+21	ударов	удар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	20	_	_	start_char=1864|end_char=1870
+22	в	в	ADP	_	_	21	_	_	start_char=1871|end_char=1872
+23	район	район	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	22	_	_	start_char=1873|end_char=1878
+24	железнодорожной	железнодорожный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	23	_	_	start_char=1879|end_char=1894
+25	станции	станция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	24	_	_	start_char=1895|end_char=1902
+26	в	в	ADP	_	_	25	_	_	start_char=1903|end_char=1904
+27	селе	село	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	26	_	_	start_char=1905|end_char=1909
+28	Малая	малый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	27	_	_	start_char=1910|end_char=1915
+29	Токмачка	Токмачка	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	28	_	_	start_char=1916|end_char=1924
+30	около	около	ADP	_	_	29	_	_	start_char=1925|end_char=1930
+31	подконтрольного	подконтрольти	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	30	_	_	start_char=1931|end_char=1946
+32	Киеву	Киев	PROPN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	31	_	_	start_char=1947|end_char=1952
+33	Запорожья	Запорожье	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	32	_	_	start_char=1953|end_char=1962|SpaceAfter=No
+34	,	,	PUNCT	_	_	33	_	_	start_char=1962|end_char=1963
+35	где	где	ADV	_	Degree=Pos	34	_	_	start_char=1964|end_char=1967
+36	находятся	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	35	_	_	start_char=1968|end_char=1977
+37	склады	склад	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	36	_	_	start_char=1978|end_char=1984
+38	украинской	украинский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	37	_	_	start_char=1985|end_char=1995
+39	армии	армия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	38	_	_	start_char=1996|end_char=2001|SpaceAfter=No
+40	.	.	PUNCT	_	_	39	_	_	start_char=2001|end_char=2002
+
+# text = Били российские военные по движущимся целям и небольшим группам бандеровцев.
+# sent_id = 17
+1	Били	бить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	_	_	start_char=2003|end_char=2007
+2	российские	российский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	1	_	_	start_char=2008|end_char=2018
+3	военные	военный	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	_	_	start_char=2019|end_char=2026
+4	по	по	ADP	_	_	3	_	_	start_char=2027|end_char=2029
+5	движущимся	двигаться	VERB	_	Aspect=Imp|Case=Dat|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	4	_	_	start_char=2030|end_char=2040
+6	целям	цель	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	5	_	_	start_char=2041|end_char=2046
+7	и	и	CCONJ	_	_	6	_	_	start_char=2047|end_char=2048
+8	небольшим	небольшой	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	7	_	_	start_char=2049|end_char=2058
+9	группам	группа	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	8	_	_	start_char=2059|end_char=2066
+10	бандеровцев	бандеровец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	9	_	_	start_char=2067|end_char=2078|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	_	_	start_char=2078|end_char=2079|SpaceAfter=No
+

@@ -1,0 +1,200 @@
+# text = Польша ограничит доходы Белоруссии от транзита, пишут СМИ Отмечается, что по этому пути на Запад проходит "львиная доля перевозок" с Востока, в том числе основные сухопутные поставки из Китая.
+# sent_id = 0
+1	Польша	Польша	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	_	_	start_char=0|end_char=6
+2	ограничит	ограничить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	1	_	_	start_char=7|end_char=16
+3	доходы	доход	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	2	_	_	start_char=17|end_char=23
+4	Белоруссии	Белоруссия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	_	_	start_char=24|end_char=34
+5	от	от	ADP	_	_	4	_	_	start_char=35|end_char=37
+6	транзита	транзит	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	_	_	start_char=38|end_char=46|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	_	_	start_char=46|end_char=47
+8	пишут	писать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	_	_	start_char=48|end_char=53
+9	СМИ	сми	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	8	_	_	start_char=54|end_char=57
+10	Отмечается	отмечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	9	_	_	start_char=58|end_char=68|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=68|end_char=69
+12	что	что	SCONJ	_	_	11	_	_	start_char=70|end_char=73
+13	по	по	ADP	_	_	12	_	_	start_char=74|end_char=76
+14	этому	этот	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	13	_	_	start_char=77|end_char=82
+15	пути	путь	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	14	_	_	start_char=83|end_char=87
+16	на	на	ADP	_	_	15	_	_	start_char=88|end_char=90
+17	Запад	Запад	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	_	_	start_char=91|end_char=96
+18	проходит	проходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	_	_	start_char=97|end_char=105
+19	"	"	PUNCT	_	_	18	_	_	start_char=106|end_char=107|SpaceAfter=No
+20	львиная	львиный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	19	_	_	start_char=107|end_char=114
+21	доля	доля	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	20	_	_	start_char=115|end_char=119
+22	перевозок	перевозка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	21	_	_	start_char=120|end_char=129|SpaceAfter=No
+23	"	"	PUNCT	_	_	22	_	_	start_char=129|end_char=130
+24	с	с	ADP	_	_	23	_	_	start_char=131|end_char=132
+25	Востока	Восток	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	24	_	_	start_char=133|end_char=140|SpaceAfter=No
+26	,	,	PUNCT	_	_	25	_	_	start_char=140|end_char=141
+27	в	в	ADP	_	_	26	_	_	start_char=142|end_char=143
+28	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	27	_	_	start_char=144|end_char=147
+29	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	28	_	_	start_char=148|end_char=153
+30	основные	основной	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	29	_	_	start_char=154|end_char=162
+31	сухопутные	сухопутный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	30	_	_	start_char=163|end_char=173
+32	поставки	поставка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	31	_	_	start_char=174|end_char=182
+33	из	из	ADP	_	_	32	_	_	start_char=183|end_char=185
+34	Китая	Китай	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	33	_	_	start_char=186|end_char=191|SpaceAfter=No
+35	.	.	PUNCT	_	_	34	_	_	start_char=191|end_char=192
+
+# text = По железной дороге они едут в страны Евросоюза и отправляются другим получателям.
+# sent_id = 1
+1	По	по	ADP	_	_	0	_	_	start_char=193|end_char=195
+2	железной	железный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	1	_	_	start_char=196|end_char=204
+3	дороге	дорога	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	2	_	_	start_char=205|end_char=211
+4	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	_	_	start_char=212|end_char=215
+5	едут	ехать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	_	_	start_char=216|end_char=220
+6	в	в	ADP	_	_	5	_	_	start_char=221|end_char=222
+7	страны	страна	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	6	_	_	start_char=223|end_char=229
+8	Евросоюза	Евросоюз	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	_	_	start_char=230|end_char=239
+9	и	и	CCONJ	_	_	8	_	_	start_char=240|end_char=241
+10	отправляются	отправлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	9	_	_	start_char=242|end_char=254
+11	другим	другой	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	10	_	_	start_char=255|end_char=261
+12	получателям	получатель	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	11	_	_	start_char=262|end_char=273|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=273|end_char=274
+
+# text = Автор публикации утверждает, что транзит через таможенный терминал в Малашевичах является для Минска значительным источником дохода, а его ограничение может вызвать "множество последствий".
+# sent_id = 2
+1	Автор	автор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=275|end_char=280
+2	публикации	публикация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	_	_	start_char=281|end_char=291
+3	утверждает	утверждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=292|end_char=302|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=302|end_char=303
+5	что	что	SCONJ	_	_	4	_	_	start_char=304|end_char=307
+6	транзит	транзит	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	_	_	start_char=308|end_char=315
+7	через	через	ADP	_	_	6	_	_	start_char=316|end_char=321
+8	таможенный	таможенный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	_	_	start_char=322|end_char=332
+9	терминал	терминал	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	_	_	start_char=333|end_char=341
+10	в	в	ADP	_	_	9	_	_	start_char=342|end_char=343
+11	Малашевичах	Малашевич	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	10	_	_	start_char=344|end_char=355
+12	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	11	_	_	start_char=356|end_char=364
+13	для	для	ADP	_	_	12	_	_	start_char=365|end_char=368
+14	Минска	Минск	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	_	_	start_char=369|end_char=375
+15	значительным	значительный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	14	_	_	start_char=376|end_char=388
+16	источником	источник	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	15	_	_	start_char=389|end_char=399
+17	дохода	доход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	_	_	start_char=400|end_char=406|SpaceAfter=No
+18	,	,	PUNCT	_	_	17	_	_	start_char=406|end_char=407
+19	а	а	CCONJ	_	_	18	_	_	start_char=408|end_char=409
+20	его	его	DET	_	Poss=Yes|PronType=Prs	19	_	_	start_char=410|end_char=413
+21	ограничение	ограничение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	20	_	_	start_char=414|end_char=425
+22	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	_	_	start_char=426|end_char=431
+23	вызвать	вызвать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	22	_	_	start_char=432|end_char=439
+24	"	"	PUNCT	_	_	23	_	_	start_char=440|end_char=441|SpaceAfter=No
+25	множество	множество	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	24	_	_	start_char=441|end_char=450
+26	последствий	последствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	25	_	_	start_char=451|end_char=462|SpaceAfter=No
+27	"	"	PUNCT	_	_	26	_	_	start_char=462|end_char=463|SpaceAfter=No
+28	.	.	PUNCT	_	_	27	_	_	start_char=463|end_char=464
+
+# text = Польская сторона приняла такое решение якобы в связи с "миграционным давлением" со стороны Белоруссии.
+# sent_id = 3
+1	Польская	польский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	_	_	start_char=465|end_char=473
+2	сторона	сторона	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	_	_	start_char=474|end_char=481
+3	приняла	принять	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=482|end_char=489
+4	такое	такой	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	3	_	_	start_char=490|end_char=495
+5	решение	решение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	_	_	start_char=496|end_char=503
+6	якобы	якобы	ADV	_	Degree=Pos	5	_	_	start_char=504|end_char=509
+7	в	в	ADP	_	_	6	_	_	start_char=510|end_char=511
+8	связи	связь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	_	_	start_char=512|end_char=517
+9	с	с	ADP	_	_	8	_	_	start_char=518|end_char=519
+10	"	"	PUNCT	_	_	9	_	_	start_char=520|end_char=521|SpaceAfter=No
+11	миграционным	миграционный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	10	_	_	start_char=521|end_char=533
+12	давлением	давление	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	11	_	_	start_char=534|end_char=543|SpaceAfter=No
+13	"	"	PUNCT	_	_	12	_	_	start_char=543|end_char=544
+14	со	с	ADP	_	_	13	_	_	start_char=545|end_char=547
+15	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	_	_	start_char=548|end_char=555
+16	Белоруссии	Белоруссия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	_	_	start_char=556|end_char=566|SpaceAfter=No
+17	.	.	PUNCT	_	_	16	_	_	start_char=566|end_char=567
+
+# text = Кроме этого, в Варшаве недовольны задержанием польского журналиста и общественного активиста Анджея Почобута.
+# sent_id = 4
+1	Кроме	кроме	ADP	_	_	0	_	_	start_char=568|end_char=573
+2	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=574|end_char=579|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=579|end_char=580
+4	в	в	ADP	_	_	3	_	_	start_char=581|end_char=582
+5	Варшаве	Варшава	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	_	_	start_char=583|end_char=590
+6	недовольны	недовольный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	5	_	_	start_char=591|end_char=601
+7	задержанием	задержание	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	6	_	_	start_char=602|end_char=613
+8	польского	польский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	_	_	start_char=614|end_char=623
+9	журналиста	журналист	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	8	_	_	start_char=624|end_char=634
+10	и	и	CCONJ	_	_	9	_	_	start_char=635|end_char=636
+11	общественного	общественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	_	_	start_char=637|end_char=650
+12	активиста	активист	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	11	_	_	start_char=651|end_char=660
+13	Анджея	Анджей	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	12	_	_	start_char=661|end_char=667
+14	Почобута	Почобут	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	13	_	_	start_char=668|end_char=676|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	_	_	start_char=676|end_char=677
+
+# text = Напомним, его в Белоруссии приговорили к восьми годам колонии усиленного режима за призывы к действиям, направленным на причинение вреда национальной безопасности Белоруссии.
+# sent_id = 5
+1	Напомним	напомнить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	_	_	start_char=678|end_char=686|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	_	_	start_char=686|end_char=687
+3	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	_	_	start_char=688|end_char=691
+4	в	в	ADP	_	_	3	_	_	start_char=692|end_char=693
+5	Белоруссии	Белоруссия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	_	_	start_char=694|end_char=704
+6	приговорили	приговорить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	_	_	start_char=705|end_char=716
+7	к	к	ADP	_	_	6	_	_	start_char=717|end_char=718
+8	восьми	восемь	NUM	_	Case=Dat|NumType=Card	7	_	_	start_char=719|end_char=725
+9	годам	год	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	8	_	_	start_char=726|end_char=731
+10	колонии	колония	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	_	_	start_char=732|end_char=739
+11	усиленного	усилить	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	10	_	_	start_char=740|end_char=750
+12	режима	режим	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	_	_	start_char=751|end_char=757
+13	за	за	ADP	_	_	12	_	_	start_char=758|end_char=760
+14	призывы	призыв	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	13	_	_	start_char=761|end_char=768
+15	к	к	ADP	_	_	14	_	_	start_char=769|end_char=770
+16	действиям	действие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	15	_	_	start_char=771|end_char=780|SpaceAfter=No
+17	,	,	PUNCT	_	_	16	_	_	start_char=780|end_char=781
+18	направленным	направить	VERB	_	Aspect=Perf|Case=Dat|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	17	_	_	start_char=782|end_char=794
+19	на	на	ADP	_	_	18	_	_	start_char=795|end_char=797
+20	причинение	причинение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	19	_	_	start_char=798|end_char=808
+21	вреда	вред	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	20	_	_	start_char=809|end_char=814
+22	национальной	национальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	21	_	_	start_char=815|end_char=827
+23	безопасности	безопасность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	_	_	start_char=828|end_char=840
+24	Белоруссии	Белоруссия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	_	_	start_char=841|end_char=851|SpaceAfter=No
+25	.	.	PUNCT	_	_	24	_	_	start_char=851|end_char=852
+
+# text = Почобута также признали виновным в разжигании вражды.
+# sent_id = 6
+1	Почобута	почобута	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	0	_	_	start_char=853|end_char=861
+2	также	также	ADV	_	Degree=Pos	1	_	_	start_char=862|end_char=867
+3	признали	признать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=868|end_char=876
+4	виновным	виновный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	3	_	_	start_char=877|end_char=885
+5	в	в	ADP	_	_	4	_	_	start_char=886|end_char=887
+6	разжигании	разжигание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	_	_	start_char=888|end_char=898
+7	вражды	вражда	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	_	_	start_char=899|end_char=905|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	_	_	start_char=905|end_char=906
+
+# text = Примечательно, что он находился под стражей в СИЗО с 25 марта 2021 года, однако польская сторона вспомнила об этом именно сейчас.
+# sent_id = 7
+1	Примечательно	примечательный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	_	_	start_char=907|end_char=920|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	_	_	start_char=920|end_char=921
+3	что	что	SCONJ	_	_	2	_	_	start_char=922|end_char=925
+4	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	_	_	start_char=926|end_char=928
+5	находился	находиться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	_	_	start_char=929|end_char=938
+6	под	под	ADP	_	_	5	_	_	start_char=939|end_char=942
+7	стражей	стража	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	6	_	_	start_char=943|end_char=950
+8	в	в	ADP	_	_	7	_	_	start_char=951|end_char=952
+9	СИЗО	СИЗО	NOUN	_	Abbr=Yes	8	_	_	start_char=953|end_char=957
+10	с	с	ADP	_	_	9	_	_	start_char=958|end_char=959
+11	25	25	NUM	_	NumType=Card	10	_	_	start_char=960|end_char=962
+12	марта	март	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	_	_	start_char=963|end_char=968
+13	2021	2021	ADJ	_	Degree=Pos	12	_	_	start_char=969|end_char=973
+14	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	_	_	start_char=974|end_char=978|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=978|end_char=979
+16	однако	однако	ADV	_	Degree=Pos	15	_	_	start_char=980|end_char=986
+17	польская	польский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	16	_	_	start_char=987|end_char=995
+18	сторона	сторона	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	17	_	_	start_char=996|end_char=1003
+19	вспомнила	вспомянуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	18	_	_	start_char=1004|end_char=1013
+20	об	о	ADP	_	_	19	_	_	start_char=1014|end_char=1016
+21	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	20	_	_	start_char=1017|end_char=1021
+22	именно	именно	PART	_	_	21	_	_	start_char=1022|end_char=1028
+23	сейчас	сейчас	ADV	_	Degree=Pos	22	_	_	start_char=1029|end_char=1035|SpaceAfter=No
+24	.	.	PUNCT	_	_	23	_	_	start_char=1035|end_char=1036
+
+# text = Ранее Польша усилила границу с Белоруссией жандармерией.
+# sent_id = 8
+1	Ранее	ранее	ADV	_	Degree=Pos	0	_	_	start_char=1037|end_char=1042
+2	Польша	Польша	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	_	_	start_char=1043|end_char=1049
+3	усилила	усилить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=1050|end_char=1057
+4	границу	граница	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	_	_	start_char=1058|end_char=1065
+5	с	с	ADP	_	_	4	_	_	start_char=1066|end_char=1067
+6	Белоруссией	Белоруссия	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	_	_	start_char=1068|end_char=1079
+7	жандармерией	жандармерия	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	6	_	_	start_char=1080|end_char=1092|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	_	_	start_char=1092|end_char=1093|SpaceAfter=No
+

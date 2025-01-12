@@ -1,0 +1,541 @@
+# text = ﻿Украинские войска ведут обстрелы ДНР, Белгородской и Курской области.
+# sent_id = 0
+1	﻿Украинские	тУкраинский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	0	_	_	start_char=0|end_char=11
+2	войска	войска	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	1	_	_	start_char=12|end_char=18
+3	ведут	вести	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=19|end_char=24
+4	обстрелы	обстрел	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	_	_	start_char=25|end_char=33
+5	ДНР	ДНР	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	_	_	start_char=34|end_char=37|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=37|end_char=38
+7	Белгородской	Белгородский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	_	_	start_char=39|end_char=51
+8	и	и	CCONJ	_	_	7	_	_	start_char=52|end_char=53
+9	Курской	курский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	_	_	start_char=54|end_char=61
+10	области	область	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	_	_	start_char=62|end_char=69|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	_	_	start_char=69|end_char=70
+
+# text = Обзор ситуации в прифронтовых регионах России на вечер 6 июля ВСУ в течение минувших суток вели обстрелы ДНР, Белгородской и Курской областей.
+# sent_id = 1
+1	Обзор	обзор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	0	_	_	start_char=71|end_char=76
+2	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	_	_	start_char=77|end_char=85
+3	в	в	ADP	_	_	2	_	_	start_char=86|end_char=87
+4	прифронтовых	прифронтовой	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	3	_	_	start_char=88|end_char=100
+5	регионах	регион	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	4	_	_	start_char=101|end_char=109
+6	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	_	_	start_char=110|end_char=116
+7	на	на	ADP	_	_	6	_	_	start_char=117|end_char=119
+8	вечер	вечер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	_	_	start_char=120|end_char=125
+9	6	6	NUM	_	NumType=Card	8	_	_	start_char=126|end_char=127
+10	июля	июль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	_	_	start_char=128|end_char=132
+11	ВСУ	ВСУ	PROPN	_	Animacy=Inan|Number=Sing	10	_	_	start_char=133|end_char=136
+12	в	в	ADP	_	_	11	_	_	start_char=137|end_char=138
+13	течение	течение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	12	_	_	start_char=139|end_char=146
+14	минувших	минувший	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	_	_	start_char=147|end_char=155
+15	суток	сутки	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	14	_	_	start_char=156|end_char=161
+16	вели	вести	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	15	_	_	start_char=162|end_char=166
+17	обстрелы	обстрел	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	16	_	_	start_char=167|end_char=175
+18	ДНР	ДНР	PROPN	_	Animacy=Inan|Case=Gen|Number=Sing	17	_	_	start_char=176|end_char=179|SpaceAfter=No
+19	,	,	PUNCT	_	_	18	_	_	start_char=179|end_char=180
+20	Белгородской	Белгородский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	19	_	_	start_char=181|end_char=193
+21	и	и	CCONJ	_	_	20	_	_	start_char=194|end_char=195
+22	Курской	курский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	21	_	_	start_char=196|end_char=203
+23	областей	область	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	22	_	_	start_char=204|end_char=212|SpaceAfter=No
+24	.	.	PUNCT	_	_	23	_	_	start_char=212|end_char=213
+
+# text = В результате погиб один человек, ранения различной степени тяжести получили 5 мирных жителя.
+# sent_id = 2
+1	В	в	ADP	_	_	0	_	_	start_char=214|end_char=215
+2	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	_	_	start_char=216|end_char=226
+3	погиб	погибнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=227|end_char=232
+4	один	один	NUM	_	Case=Nom|Gender=Masc|NumType=Card	3	_	_	start_char=233|end_char=237
+5	человек	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=238|end_char=245|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=245|end_char=246
+7	ранения	ранение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	6	_	_	start_char=247|end_char=254
+8	различной	различный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	_	_	start_char=255|end_char=264
+9	степени	степень	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	_	_	start_char=265|end_char=272
+10	тяжести	тяжесть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	_	_	start_char=273|end_char=280
+11	получили	получить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	10	_	_	start_char=281|end_char=289
+12	5	5	NUM	_	NumType=Card	11	_	_	start_char=290|end_char=291
+13	мирных	мирный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	_	_	start_char=292|end_char=298
+14	жителя	житель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	13	_	_	start_char=299|end_char=305|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	_	_	start_char=305|end_char=306
+
+# text = Кроме того, повреждены жилые дома, административные здания и объекты инфраструктуры.
+# sent_id = 3
+1	Кроме	кроме	ADP	_	_	0	_	_	start_char=307|end_char=312
+2	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=313|end_char=317|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=317|end_char=318
+4	повреждены	повредить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	3	_	_	start_char=319|end_char=329
+5	жилые	жилой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	_	_	start_char=330|end_char=335
+6	дома	дом	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	5	_	_	start_char=336|end_char=340|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	_	_	start_char=340|end_char=341
+8	административные	административный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	_	_	start_char=342|end_char=358
+9	здания	здание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	8	_	_	start_char=359|end_char=365
+10	и	и	CCONJ	_	_	9	_	_	start_char=366|end_char=367
+11	объекты	объект	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	10	_	_	start_char=368|end_char=375
+12	инфраструктуры	инфраструктура	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	_	_	start_char=376|end_char=390|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=390|end_char=391
+
+# text = Наиболее интенсивным обстрелам подвергался Донецк.
+# sent_id = 4
+1	Наиболее	наиболее	ADV	_	Degree=Pos	0	_	_	start_char=392|end_char=400
+2	интенсивным	интенсивный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	1	_	_	start_char=401|end_char=412
+3	обстрелам	обстрел	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	2	_	_	start_char=413|end_char=422
+4	подвергался	подвергаться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	3	_	_	start_char=423|end_char=434
+5	Донецк	Донецк	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=435|end_char=441|SpaceAfter=No
+6	.	.	PUNCT	_	_	5	_	_	start_char=441|end_char=442
+
+# text = Донецкое направление На протяжении дня украинские войска вели обстрелы Киевского и Петровского районов Донецка, а также Горловки.
+# sent_id = 5
+1	Донецкое	донецкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	_	_	start_char=443|end_char=451
+2	направление	направление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	_	_	start_char=452|end_char=463
+3	На	на	ADP	_	_	2	_	_	start_char=464|end_char=466
+4	протяжении	протяжение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	_	_	start_char=467|end_char=477
+5	дня	день	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	_	_	start_char=478|end_char=481
+6	украинские	украинский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	_	_	start_char=482|end_char=492
+7	войска	войска	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	6	_	_	start_char=493|end_char=499
+8	вели	вести	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	7	_	_	start_char=500|end_char=504
+9	обстрелы	обстрел	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	8	_	_	start_char=505|end_char=513
+10	Киевского	киевский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	_	_	start_char=514|end_char=523
+11	и	и	CCONJ	_	_	10	_	_	start_char=524|end_char=525
+12	Петровского	петровский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	11	_	_	start_char=526|end_char=537
+13	районов	район	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	_	_	start_char=538|end_char=545
+14	Донецка	Донецк	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	_	_	start_char=546|end_char=553|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=553|end_char=554
+16	а	а	CCONJ	_	_	15	_	_	start_char=555|end_char=556
+17	также	также	PART	_	_	16	_	_	start_char=557|end_char=562
+18	Горловки	Горловка	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	_	_	start_char=563|end_char=571|SpaceAfter=No
+19	.	.	PUNCT	_	_	18	_	_	start_char=571|end_char=572
+
+# text = В Киевском районе по улице Сормовской погиб мужчина.
+# sent_id = 6
+1	В	в	ADP	_	_	0	_	_	start_char=573|end_char=574
+2	Киевском	Киевский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	1	_	_	start_char=575|end_char=583
+3	районе	район	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	_	_	start_char=584|end_char=590
+4	по	по	ADP	_	_	3	_	_	start_char=591|end_char=593
+5	улице	улица	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	4	_	_	start_char=594|end_char=599
+6	Сормовской	Сормовский	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	5	_	_	start_char=600|end_char=610
+7	погиб	погибнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	_	_	start_char=611|end_char=616
+8	мужчина	мужчина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	_	_	start_char=617|end_char=624|SpaceAfter=No
+9	.	.	PUNCT	_	_	8	_	_	start_char=624|end_char=625
+
+# text = Также была ранена девушка 2003 года рождения.
+# sent_id = 7
+1	Также	также	ADV	_	Degree=Pos	0	_	_	start_char=626|end_char=631
+2	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=632|end_char=636
+3	ранена	ранить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	2	_	_	start_char=637|end_char=643
+4	девушка	девушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	3	_	_	start_char=644|end_char=651
+5	2003	2003	ADJ	_	Degree=Pos	4	_	_	start_char=652|end_char=656
+6	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	_	_	start_char=657|end_char=661
+7	рождения	рождение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	_	_	start_char=662|end_char=670|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	_	_	start_char=670|end_char=671
+
+# text = Во второй половине дня во время сброса взрывоопасного предмета с беспилотного летательного аппарата в Кировском районе по улице Абакумова осколочные ранения получила женщина 1953 г. р. Белгородское направление По данным губернатора Вячеслава Гладкова, ВСУ в течение суток неоднократно обстреливали территорию области.
+# sent_id = 8
+1	Во	в	ADP	_	_	0	_	_	start_char=672|end_char=674
+2	второй	второй	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	1	_	_	start_char=675|end_char=681
+3	половине	половина	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	_	_	start_char=682|end_char=690
+4	дня	день	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=691|end_char=694
+5	во	в	ADP	_	_	4	_	_	start_char=695|end_char=697
+6	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	_	_	start_char=698|end_char=703
+7	сброса	сброс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	_	_	start_char=704|end_char=710
+8	взрывоопасного	взрывоопасный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	_	_	start_char=711|end_char=725
+9	предмета	предмет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	_	_	start_char=726|end_char=734
+10	с	с	ADP	_	_	9	_	_	start_char=735|end_char=736
+11	беспилотного	беспилотный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	_	_	start_char=737|end_char=749
+12	летательного	летательный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	11	_	_	start_char=750|end_char=762
+13	аппарата	аппарат	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	_	_	start_char=763|end_char=771
+14	в	в	ADP	_	_	13	_	_	start_char=772|end_char=773
+15	Кировском	кировский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	14	_	_	start_char=774|end_char=783
+16	районе	район	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	_	_	start_char=784|end_char=790
+17	по	по	ADP	_	_	16	_	_	start_char=791|end_char=793
+18	улице	улица	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	17	_	_	start_char=794|end_char=799
+19	Абакумова	Абакумов	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	18	_	_	start_char=800|end_char=809
+20	осколочные	осколочный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	19	_	_	start_char=810|end_char=820
+21	ранения	ранение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	20	_	_	start_char=821|end_char=828
+22	получила	получить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	21	_	_	start_char=829|end_char=837
+23	женщина	женщина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	22	_	_	start_char=838|end_char=845
+24	1953	1953	ADJ	_	Degree=Pos	23	_	_	start_char=846|end_char=850
+25	г.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	24	_	_	start_char=851|end_char=853
+26	р.	рождение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	25	_	_	start_char=854|end_char=856
+27	Белгородское	белгородский	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	26	_	_	start_char=857|end_char=869
+28	направление	направление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	27	_	_	start_char=870|end_char=881
+29	По	по	ADP	_	_	28	_	_	start_char=882|end_char=884
+30	данным	данные	NOUN	_	Animacy=Inan|Case=Dat|Number=Plur	29	_	_	start_char=885|end_char=891
+31	губернатора	губернатор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	30	_	_	start_char=892|end_char=903
+32	Вячеслава	Вячеслав	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	31	_	_	start_char=904|end_char=913
+33	Гладкова	Гладков	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	32	_	_	start_char=914|end_char=922|SpaceAfter=No
+34	,	,	PUNCT	_	_	33	_	_	start_char=922|end_char=923
+35	ВСУ	ВСУ	PROPN	_	Animacy=Inan|Number=Sing	34	_	_	start_char=924|end_char=927
+36	в	в	ADP	_	_	35	_	_	start_char=928|end_char=929
+37	течение	течение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	36	_	_	start_char=930|end_char=937
+38	суток	сутки	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	37	_	_	start_char=938|end_char=943
+39	неоднократно	неоднократно	ADV	_	Degree=Pos	38	_	_	start_char=944|end_char=956
+40	обстреливали	обстреливать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	39	_	_	start_char=957|end_char=969
+41	территорию	территория	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	40	_	_	start_char=970|end_char=980
+42	области	область	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	41	_	_	start_char=981|end_char=988|SpaceAfter=No
+43	.	.	PUNCT	_	_	42	_	_	start_char=988|end_char=989
+
+# text = В Белгородском районе обстрелы велись по поселкам Малиновка, Октябрьский, селам Петровка, Черемошное, Солнцевка и Щетиновка.
+# sent_id = 9
+1	В	в	ADP	_	_	0	_	_	start_char=990|end_char=991
+2	Белгородском	белгородский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	1	_	_	start_char=992|end_char=1004
+3	районе	район	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	_	_	start_char=1005|end_char=1011
+4	обстрелы	обстрел	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	_	_	start_char=1012|end_char=1020
+5	велись	вести	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Pass	4	_	_	start_char=1021|end_char=1027
+6	по	по	ADP	_	_	5	_	_	start_char=1028|end_char=1030
+7	поселкам	поселок	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	6	_	_	start_char=1031|end_char=1039
+8	Малиновка	Малиновка	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	_	_	start_char=1040|end_char=1049|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=1049|end_char=1050
+10	Октябрьский	октябрьский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	_	_	start_char=1051|end_char=1062|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=1062|end_char=1063
+12	селам	село	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	11	_	_	start_char=1064|end_char=1069
+13	Петровка	Петровка	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	_	_	start_char=1070|end_char=1078|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	_	_	start_char=1078|end_char=1079
+15	Черемошное	Черемошное	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	_	_	start_char=1080|end_char=1090|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	_	_	start_char=1090|end_char=1091
+17	Солнцевка	Солнцевка	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	16	_	_	start_char=1092|end_char=1101
+18	и	и	CCONJ	_	_	17	_	_	start_char=1102|end_char=1103
+19	Щетиновка	Щетиновка	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	18	_	_	start_char=1104|end_char=1113|SpaceAfter=No
+20	.	.	PUNCT	_	_	19	_	_	start_char=1113|end_char=1114
+
+# text = В результате повреждено 2 автомобиля и инфраструктурный объект связи.
+# sent_id = 10
+1	В	в	ADP	_	_	0	_	_	start_char=1115|end_char=1116
+2	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	_	_	start_char=1117|end_char=1127
+3	повреждено	повредить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	2	_	_	start_char=1128|end_char=1138
+4	2	2	NUM	_	NumType=Card	3	_	_	start_char=1139|end_char=1140
+5	автомобиля	автомобиль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	_	_	start_char=1141|end_char=1151
+6	и	и	CCONJ	_	_	5	_	_	start_char=1152|end_char=1153
+7	инфраструктурный	инфраструктурный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	_	_	start_char=1154|end_char=1170
+8	объект	объект	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	_	_	start_char=1171|end_char=1177
+9	связи	связь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	_	_	start_char=1178|end_char=1183|SpaceAfter=No
+10	.	.	PUNCT	_	_	9	_	_	start_char=1183|end_char=1184
+
+# text = В Шебекинском городском округе атакам подверглись город Шебекино, села Зиборовка, Муром, хутора Марьино, Мухин и Панков.
+# sent_id = 11
+1	В	в	ADP	_	_	0	_	_	start_char=1185|end_char=1186
+2	Шебекинском	шебекинский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	1	_	_	start_char=1187|end_char=1198
+3	городском	городской	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	2	_	_	start_char=1199|end_char=1208
+4	округе	округ	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	_	_	start_char=1209|end_char=1215
+5	атакам	атака	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	4	_	_	start_char=1216|end_char=1222
+6	подверглись	подвергнуться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	5	_	_	start_char=1223|end_char=1234
+7	город	город	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	_	_	start_char=1235|end_char=1240
+8	Шебекино	Шебекино	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	_	_	start_char=1241|end_char=1249|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=1249|end_char=1250
+10	села	село	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	_	_	start_char=1251|end_char=1255
+11	Зиборовка	Зиборовка	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	_	_	start_char=1256|end_char=1265|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	_	_	start_char=1265|end_char=1266
+13	Муром	Мур	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	12	_	_	start_char=1267|end_char=1272|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	_	_	start_char=1272|end_char=1273
+15	хутора	хутор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	_	_	start_char=1274|end_char=1280
+16	Марьино	Марьино	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	15	_	_	start_char=1281|end_char=1288|SpaceAfter=No
+17	,	,	PUNCT	_	_	16	_	_	start_char=1288|end_char=1289
+18	Мухин	Мухин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	17	_	_	start_char=1290|end_char=1295
+19	и	и	CCONJ	_	_	18	_	_	start_char=1296|end_char=1297
+20	Панков	Панков	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	19	_	_	start_char=1298|end_char=1304|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	_	_	start_char=1304|end_char=1305
+
+# text = В результате обстрела города Шебекино один из снарядов прилетел на территорию предприятия: осколочные ранения получил охранник.
+# sent_id = 12
+1	В	в	ADP	_	_	0	_	_	start_char=1306|end_char=1307
+2	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	_	_	start_char=1308|end_char=1318
+3	обстрела	обстрел	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	_	_	start_char=1319|end_char=1327
+4	города	город	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=1328|end_char=1334
+5	Шебекино	Шебекино	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=1335|end_char=1343
+6	один	один	NUM	_	Case=Nom|Gender=Masc|NumType=Card	5	_	_	start_char=1344|end_char=1348
+7	из	из	ADP	_	_	6	_	_	start_char=1349|end_char=1351
+8	снарядов	снаряд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	_	_	start_char=1352|end_char=1360
+9	прилетел	прилететь	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	_	_	start_char=1361|end_char=1369
+10	на	на	ADP	_	_	9	_	_	start_char=1370|end_char=1372
+11	территорию	территория	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	_	_	start_char=1373|end_char=1383
+12	предприятия	предприятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	_	_	start_char=1384|end_char=1395|SpaceAfter=No
+13	:	:	PUNCT	_	_	12	_	_	start_char=1395|end_char=1396
+14	осколочные	осколочный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	13	_	_	start_char=1397|end_char=1407
+15	ранения	ранение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	14	_	_	start_char=1408|end_char=1415
+16	получил	получить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	15	_	_	start_char=1416|end_char=1423
+17	охранник	охранник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	_	_	start_char=1424|end_char=1432|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	_	_	start_char=1432|end_char=1433
+
+# text = Бойцы территориальной самообороны доставили пострадавшего в Шебекинскую ЦРБ.
+# sent_id = 13
+1	Бойцы	боец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	0	_	_	start_char=1434|end_char=1439
+2	территориальной	территориальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	1	_	_	start_char=1440|end_char=1455
+3	самообороны	самооборона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	_	_	start_char=1456|end_char=1467
+4	доставили	доставить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	_	_	start_char=1468|end_char=1477
+5	пострадавшего	пострадавший	VERB	_	Animacy=Anim|Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	4	_	_	start_char=1478|end_char=1491
+6	в	в	ADP	_	_	5	_	_	start_char=1492|end_char=1493
+7	Шебекинскую	шебекинский	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	6	_	_	start_char=1494|end_char=1505
+8	ЦРБ	ЦРБ	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	_	_	start_char=1506|end_char=1509|SpaceAfter=No
+9	.	.	PUNCT	_	_	8	_	_	start_char=1509|end_char=1510
+
+# text = Еще одному мужчине с ушибом кисти и ссадинами лица оказана амбулаторная помощь.
+# sent_id = 14
+1	Еще	еще	ADV	_	Degree=Pos	0	_	_	start_char=1511|end_char=1514
+2	одному	один	NUM	_	Case=Dat|Gender=Masc|NumType=Card	1	_	_	start_char=1515|end_char=1521
+3	мужчине	мужчина	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	2	_	_	start_char=1522|end_char=1529
+4	с	с	ADP	_	_	3	_	_	start_char=1530|end_char=1531
+5	ушибом	ушиб	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	_	_	start_char=1532|end_char=1538
+6	кисти	кисть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	_	_	start_char=1539|end_char=1544
+7	и	и	CCONJ	_	_	6	_	_	start_char=1545|end_char=1546
+8	ссадинами	ссадина	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	7	_	_	start_char=1547|end_char=1556
+9	лица	лицо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	_	_	start_char=1557|end_char=1561
+10	оказана	оказать	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	9	_	_	start_char=1562|end_char=1569
+11	амбулаторная	амбулаторный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	_	_	start_char=1570|end_char=1582
+12	помощь	помощь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	_	_	start_char=1583|end_char=1589|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=1589|end_char=1590
+
+# text = Различные повреждения зафиксированы в 11 частных домовладениях: выбиты окна, посечены фасады, кровли, надворные постройки и заборы.
+# sent_id = 15
+1	Различные	различный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	0	_	_	start_char=1591|end_char=1600
+2	повреждения	повреждение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	1	_	_	start_char=1601|end_char=1612
+3	зафиксированы	фиксировать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	2	_	_	start_char=1613|end_char=1626
+4	в	в	ADP	_	_	3	_	_	start_char=1627|end_char=1628
+5	11	11	NUM	_	NumType=Card	4	_	_	start_char=1629|end_char=1631
+6	частных	частный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	5	_	_	start_char=1632|end_char=1639
+7	домовладениях	домовладение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	6	_	_	start_char=1640|end_char=1653|SpaceAfter=No
+8	:	:	PUNCT	_	_	7	_	_	start_char=1653|end_char=1654
+9	выбиты	выбить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	8	_	_	start_char=1655|end_char=1661
+10	окна	окно	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	9	_	_	start_char=1662|end_char=1666|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=1666|end_char=1667
+12	посечены	посечь	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	11	_	_	start_char=1668|end_char=1676
+13	фасады	фасад	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	12	_	_	start_char=1677|end_char=1683|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	_	_	start_char=1683|end_char=1684
+15	кровли	кровля	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	14	_	_	start_char=1685|end_char=1691|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	_	_	start_char=1691|end_char=1692
+17	надворные	надворный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	16	_	_	start_char=1693|end_char=1702
+18	постройки	постройка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	17	_	_	start_char=1703|end_char=1712
+19	и	и	CCONJ	_	_	18	_	_	start_char=1713|end_char=1714
+20	заборы	забор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	19	_	_	start_char=1715|end_char=1721|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	_	_	start_char=1721|end_char=1722
+
+# text = В результате прямого попадания снаряда один из домов получил серьезные повреждения.
+# sent_id = 16
+1	В	в	ADP	_	_	0	_	_	start_char=1723|end_char=1724
+2	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	_	_	start_char=1725|end_char=1735
+3	прямого	прямой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	2	_	_	start_char=1736|end_char=1743
+4	попадания	попадание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	_	_	start_char=1744|end_char=1753
+5	снаряда	снаряд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	_	_	start_char=1754|end_char=1761
+6	один	один	NUM	_	Case=Nom|Gender=Masc|NumType=Card	5	_	_	start_char=1762|end_char=1766
+7	из	из	ADP	_	_	6	_	_	start_char=1767|end_char=1769
+8	домов	дом	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	_	_	start_char=1770|end_char=1775
+9	получил	получить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	_	_	start_char=1776|end_char=1783
+10	серьезные	серьезный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	9	_	_	start_char=1784|end_char=1793
+11	повреждения	повреждение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	10	_	_	start_char=1794|end_char=1805|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	_	_	start_char=1805|end_char=1806
+
+# text = В одном социальном объекте и одном производственном предприятии повреждены остекление и фасад.
+# sent_id = 17
+1	В	в	ADP	_	_	0	_	_	start_char=1807|end_char=1808
+2	одном	один	NUM	_	Case=Loc|Gender=Masc|NumType=Card	1	_	_	start_char=1809|end_char=1814
+3	социальном	социальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	2	_	_	start_char=1815|end_char=1825
+4	объекте	объект	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	_	_	start_char=1826|end_char=1833
+5	и	и	CCONJ	_	_	4	_	_	start_char=1834|end_char=1835
+6	одном	один	NUM	_	Case=Loc|Gender=Neut|NumType=Card	5	_	_	start_char=1836|end_char=1841
+7	производственном	производственный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	6	_	_	start_char=1842|end_char=1858
+8	предприятии	предприятие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	_	_	start_char=1859|end_char=1870
+9	повреждены	повредить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	8	_	_	start_char=1871|end_char=1881
+10	остекление	остекление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	_	_	start_char=1882|end_char=1892
+11	и	и	CCONJ	_	_	10	_	_	start_char=1893|end_char=1894
+12	фасад	фасад	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	_	_	start_char=1895|end_char=1900|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=1900|end_char=1901
+
+# text = Также осколками посечены 4 автомобиля и имеются повреждения на линии электропередачи.
+# sent_id = 18
+1	Также	также	ADV	_	Degree=Pos	0	_	_	start_char=1902|end_char=1907
+2	осколками	осколок	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	1	_	_	start_char=1908|end_char=1917
+3	посечены	посечь	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	2	_	_	start_char=1918|end_char=1926
+4	4	4	NUM	_	NumType=Card	3	_	_	start_char=1927|end_char=1928
+5	автомобиля	автомобиль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	_	_	start_char=1929|end_char=1939
+6	и	и	CCONJ	_	_	5	_	_	start_char=1940|end_char=1941
+7	имеются	иметься	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	6	_	_	start_char=1942|end_char=1949
+8	повреждения	повреждение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	7	_	_	start_char=1950|end_char=1961
+9	на	на	ADP	_	_	8	_	_	start_char=1962|end_char=1964
+10	линии	линия	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	9	_	_	start_char=1965|end_char=1970
+11	электропередачи	электропередача	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	_	_	start_char=1971|end_char=1986|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	_	_	start_char=1986|end_char=1987
+
+# text = В Краснояружском районе атакам подверглись три населенных пункта – поселок Прилесье и села Демидовка и Теребрено.
+# sent_id = 19
+1	В	в	ADP	_	_	0	_	_	start_char=1988|end_char=1989
+2	Краснояружском	краснояружский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	1	_	_	start_char=1990|end_char=2004
+3	районе	район	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	_	_	start_char=2005|end_char=2011
+4	атакам	атака	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	3	_	_	start_char=2012|end_char=2018
+5	подверглись	подвергнуться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	4	_	_	start_char=2019|end_char=2030
+6	три	три	NUM	_	Case=Nom|NumType=Card	5	_	_	start_char=2031|end_char=2034
+7	населенных	населить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	6	_	_	start_char=2035|end_char=2045
+8	пункта	пункт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	_	_	start_char=2046|end_char=2052
+9	–	–	PUNCT	_	_	8	_	_	start_char=2053|end_char=2054
+10	поселок	поселок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	_	_	start_char=2055|end_char=2062
+11	Прилесье	Прилесье	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	_	_	start_char=2063|end_char=2071
+12	и	и	CCONJ	_	_	11	_	_	start_char=2072|end_char=2073
+13	села	село	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	_	_	start_char=2074|end_char=2078
+14	Демидовка	Демидовка	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	_	_	start_char=2079|end_char=2088
+15	и	и	CCONJ	_	_	14	_	_	start_char=2089|end_char=2090
+16	Теребрено	Теребрено	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	15	_	_	start_char=2091|end_char=2100|SpaceAfter=No
+17	.	.	PUNCT	_	_	16	_	_	start_char=2100|end_char=2101
+
+# text = В результате обстрела села Демидовка на территории трех частных домовладений выявлены различные повреждения: выбиты окна, разбиты стены, посечены кровли и фасады жилых домов, повреждены надворные постройки и заборы.
+# sent_id = 20
+1	В	в	ADP	_	_	0	_	_	start_char=2102|end_char=2103
+2	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	_	_	start_char=2104|end_char=2114
+3	обстрела	обстрел	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	_	_	start_char=2115|end_char=2123
+4	села	село	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	_	_	start_char=2124|end_char=2128
+5	Демидовка	Демидовка	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	_	_	start_char=2129|end_char=2138
+6	на	на	ADP	_	_	5	_	_	start_char=2139|end_char=2141
+7	территории	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	_	_	start_char=2142|end_char=2152
+8	трех	три	NUM	_	Case=Gen|NumType=Card	7	_	_	start_char=2153|end_char=2157
+9	частных	частный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	_	_	start_char=2158|end_char=2165
+10	домовладений	домовладение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	9	_	_	start_char=2166|end_char=2178
+11	выявлены	выявить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	10	_	_	start_char=2179|end_char=2187
+12	различные	различный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	11	_	_	start_char=2188|end_char=2197
+13	повреждения	повреждение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	12	_	_	start_char=2198|end_char=2209|SpaceAfter=No
+14	:	:	PUNCT	_	_	13	_	_	start_char=2209|end_char=2210
+15	выбиты	выбить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	14	_	_	start_char=2211|end_char=2217
+16	окна	окно	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	15	_	_	start_char=2218|end_char=2222|SpaceAfter=No
+17	,	,	PUNCT	_	_	16	_	_	start_char=2222|end_char=2223
+18	разбиты	разбить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	17	_	_	start_char=2224|end_char=2231
+19	стены	стена	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	18	_	_	start_char=2232|end_char=2237|SpaceAfter=No
+20	,	,	PUNCT	_	_	19	_	_	start_char=2237|end_char=2238
+21	посечены	посечь	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	20	_	_	start_char=2239|end_char=2247
+22	кровли	кровля	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	21	_	_	start_char=2248|end_char=2254
+23	и	и	CCONJ	_	_	22	_	_	start_char=2255|end_char=2256
+24	фасады	фасад	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	23	_	_	start_char=2257|end_char=2263
+25	жилых	жилой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	24	_	_	start_char=2264|end_char=2269
+26	домов	дом	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	25	_	_	start_char=2270|end_char=2275|SpaceAfter=No
+27	,	,	PUNCT	_	_	26	_	_	start_char=2275|end_char=2276
+28	повреждены	повредить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	27	_	_	start_char=2277|end_char=2287
+29	надворные	надворный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	28	_	_	start_char=2288|end_char=2297
+30	постройки	постройка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	29	_	_	start_char=2298|end_char=2307
+31	и	и	CCONJ	_	_	30	_	_	start_char=2308|end_char=2309
+32	заборы	забор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	31	_	_	start_char=2310|end_char=2316|SpaceAfter=No
+33	.	.	PUNCT	_	_	32	_	_	start_char=2316|end_char=2317
+
+# text = Также в селе осколками посечены два автомобиля.
+# sent_id = 21
+1	Также	также	ADV	_	Degree=Pos	0	_	_	start_char=2318|end_char=2323
+2	в	в	ADP	_	_	1	_	_	start_char=2324|end_char=2325
+3	селе	село	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	2	_	_	start_char=2326|end_char=2330
+4	осколками	осколок	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	3	_	_	start_char=2331|end_char=2340
+5	посечены	посечь	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	4	_	_	start_char=2341|end_char=2349
+6	два	два	NUM	_	Case=Nom|Gender=Masc|NumType=Card	5	_	_	start_char=2350|end_char=2353
+7	автомобиля	автомобиль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	_	_	start_char=2354|end_char=2364|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	_	_	start_char=2364|end_char=2365
+
+# text = В поселке Прилесье FPV-дрон сдетонировал на парковке коммерческого объекта в результате один автомобиль сгорел полностью, один получил повреждения.
+# sent_id = 22
+1	В	в	ADP	_	_	0	_	_	start_char=2366|end_char=2367
+2	поселке	поселок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	_	_	start_char=2368|end_char=2375
+3	Прилесье	Прилесье	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	_	_	start_char=2376|end_char=2384
+4	FPV	FPV	PROPN	_	Foreign=Yes	3	_	_	start_char=2385|end_char=2388|SpaceAfter=No
+5	-	-	PUNCT	_	_	4	_	_	start_char=2388|end_char=2389|SpaceAfter=No
+6	дрон	дрон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	_	_	start_char=2389|end_char=2393
+7	сдетонировал	детонировать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	_	_	start_char=2394|end_char=2406
+8	на	на	ADP	_	_	7	_	_	start_char=2407|end_char=2409
+9	парковке	парковка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	_	_	start_char=2410|end_char=2418
+10	коммерческого	коммерческий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	_	_	start_char=2419|end_char=2432
+11	объекта	объект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	_	_	start_char=2433|end_char=2440
+12	в	в	ADP	_	_	11	_	_	start_char=2441|end_char=2442
+13	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	_	_	start_char=2443|end_char=2453
+14	один	один	NUM	_	Case=Nom|Gender=Masc|NumType=Card	13	_	_	start_char=2454|end_char=2458
+15	автомобиль	автомобиль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	_	_	start_char=2459|end_char=2469
+16	сгорел	сгореть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	15	_	_	start_char=2470|end_char=2476
+17	полностью	полностью	ADV	_	Degree=Pos	16	_	_	start_char=2477|end_char=2486|SpaceAfter=No
+18	,	,	PUNCT	_	_	17	_	_	start_char=2486|end_char=2487
+19	один	один	NUM	_	Case=Nom|Gender=Masc|NumType=Card	18	_	_	start_char=2488|end_char=2492
+20	получил	получить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	19	_	_	start_char=2493|end_char=2500
+21	повреждения	повреждение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	20	_	_	start_char=2501|end_char=2512|SpaceAfter=No
+22	.	.	PUNCT	_	_	21	_	_	start_char=2512|end_char=2513
+
+# text = Еще один FPV-дрон взорвался возле частного домовладения в селе Теребрено.
+# sent_id = 23
+1	Еще	еще	ADV	_	Degree=Pos	0	_	_	start_char=2514|end_char=2517
+2	один	один	NUM	_	Case=Nom|Gender=Masc|NumType=Card	1	_	_	start_char=2518|end_char=2522
+3	FPV	FPV	PROPN	_	Foreign=Yes	2	_	_	start_char=2523|end_char=2526|SpaceAfter=No
+4	-	-	PUNCT	_	_	3	_	_	start_char=2526|end_char=2527|SpaceAfter=No
+5	дрон	дрон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=2527|end_char=2531
+6	взорвался	взорваться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	5	_	_	start_char=2532|end_char=2541
+7	возле	возле	ADP	_	_	6	_	_	start_char=2542|end_char=2547
+8	частного	частный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	_	_	start_char=2548|end_char=2556
+9	домовладения	домовладение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	_	_	start_char=2557|end_char=2569
+10	в	в	ADP	_	_	9	_	_	start_char=2570|end_char=2571
+11	селе	село	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	10	_	_	start_char=2572|end_char=2576
+12	Теребрено	Теребрено	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	_	_	start_char=2577|end_char=2586|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=2586|end_char=2587
+
+# text = Осколками посечены крыша нежилого дома и забор.
+# sent_id = 24
+1	Осколками	осколок	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	0	_	_	start_char=2588|end_char=2597
+2	посечены	посечь	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	1	_	_	start_char=2598|end_char=2606
+3	крыша	крыша	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	_	_	start_char=2607|end_char=2612
+4	нежилого	нежилой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	3	_	_	start_char=2613|end_char=2621
+5	дома	дом	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	_	_	start_char=2622|end_char=2626
+6	и	и	CCONJ	_	_	5	_	_	start_char=2627|end_char=2628
+7	забор	забор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	_	_	start_char=2629|end_char=2634|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	_	_	start_char=2634|end_char=2635
+
+# text = Кроме того, на участке дороги Шебекино – Короча дрон-камикадзе сдетонировал на дорожном полотне.
+# sent_id = 25
+1	Кроме	кроме	ADP	_	_	0	_	_	start_char=2636|end_char=2641
+2	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=2642|end_char=2646|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=2646|end_char=2647
+4	на	на	ADP	_	_	3	_	_	start_char=2648|end_char=2650
+5	участке	участок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	_	_	start_char=2651|end_char=2658
+6	дороги	дорога	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	_	_	start_char=2659|end_char=2665
+7	Шебекино	Шебекино	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	_	_	start_char=2666|end_char=2674
+8	–	–	PUNCT	_	_	7	_	_	start_char=2675|end_char=2676
+9	Короча	Короча	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	_	_	start_char=2677|end_char=2683
+10	дрон-камикадзе	дрон-камикадзе	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	_	_	start_char=2684|end_char=2698
+11	сдетонировал	детонировать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	_	_	start_char=2699|end_char=2711
+12	на	на	ADP	_	_	11	_	_	start_char=2712|end_char=2714
+13	дорожном	дорожный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	12	_	_	start_char=2715|end_char=2723
+14	полотне	полотно	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	13	_	_	start_char=2724|end_char=2731|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	_	_	start_char=2731|end_char=2732
+
+# text = У одного автомобиля повреждены фары и багажник.
+# sent_id = 26
+1	У	у	ADP	_	_	0	_	_	start_char=2733|end_char=2734
+2	одного	один	NUM	_	Case=Gen|Gender=Masc|NumType=Card	1	_	_	start_char=2735|end_char=2741
+3	автомобиля	автомобиль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	_	_	start_char=2742|end_char=2752
+4	повреждены	повредить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	3	_	_	start_char=2753|end_char=2763
+5	фары	фара	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	4	_	_	start_char=2764|end_char=2768
+6	и	и	CCONJ	_	_	5	_	_	start_char=2769|end_char=2770
+7	багажник	багажник	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	_	_	start_char=2771|end_char=2779|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	_	_	start_char=2779|end_char=2780
+
+# text = Курское направление Сегодня недалеко от села Гончаровка Суджанского района украинский коптер атаковал грузовой автомобиль.
+# sent_id = 27
+1	Курское	курский	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	_	_	start_char=2781|end_char=2788
+2	направление	направление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	_	_	start_char=2789|end_char=2800
+3	Сегодня	сегодня	ADV	_	Degree=Pos	2	_	_	start_char=2801|end_char=2808
+4	недалеко	недалеко	ADV	_	Degree=Pos	3	_	_	start_char=2809|end_char=2817
+5	от	от	ADP	_	_	4	_	_	start_char=2818|end_char=2820
+6	села	село	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	_	_	start_char=2821|end_char=2825
+7	Гончаровка	Гончаровка	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	_	_	start_char=2826|end_char=2836
+8	Суджанского	суджанский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	_	_	start_char=2837|end_char=2848
+9	района	район	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	_	_	start_char=2849|end_char=2855
+10	украинский	украинский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	_	_	start_char=2856|end_char=2866
+11	коптер	коптер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	_	_	start_char=2867|end_char=2873
+12	атаковал	атаковать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	_	_	start_char=2874|end_char=2882
+13	грузовой	грузовой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	12	_	_	start_char=2883|end_char=2891
+14	автомобиль	автомобиль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	_	_	start_char=2892|end_char=2902|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	_	_	start_char=2902|end_char=2903
+
+# text = В результате ранение получил водитель машины.
+# sent_id = 28
+1	В	в	ADP	_	_	0	_	_	start_char=2904|end_char=2905
+2	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	_	_	start_char=2906|end_char=2916
+3	ранение	ранение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	_	_	start_char=2917|end_char=2924
+4	получил	получить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	_	_	start_char=2925|end_char=2932
+5	водитель	водитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=2933|end_char=2941
+6	машины	машина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	_	_	start_char=2942|end_char=2948|SpaceAfter=No
+7	.	.	PUNCT	_	_	6	_	_	start_char=2948|end_char=2949
+
+# text = Он был доставлен в Курскую областную больницу.
+# sent_id = 29
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=2950|end_char=2952
+2	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=2953|end_char=2956
+3	доставлен	доставить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	2	_	_	start_char=2957|end_char=2966
+4	в	в	ADP	_	_	3	_	_	start_char=2967|end_char=2968
+5	Курскую	курский	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	_	_	start_char=2969|end_char=2976
+6	областную	областной	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	5	_	_	start_char=2977|end_char=2986
+7	больницу	больница	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	_	_	start_char=2987|end_char=2995|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	_	_	start_char=2995|end_char=2996|SpaceAfter=No
+

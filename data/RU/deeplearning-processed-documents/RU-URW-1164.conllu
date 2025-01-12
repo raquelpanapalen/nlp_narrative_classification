@@ -1,0 +1,505 @@
+# text = В РАН заявили об отсутствии у Киева системы борьбы с холерой МОСКВА, 9 июля.
+# sent_id = 0
+1	В	в	ADP	_	_	0	_	_	start_char=0|end_char=1
+2	РАН	РАН	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	_	_	start_char=2|end_char=5
+3	заявили	заявить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=6|end_char=13
+4	об	о	ADP	_	_	3	_	_	start_char=14|end_char=16
+5	отсутствии	отсутствие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	_	_	start_char=17|end_char=27
+6	у	у	ADP	_	_	5	_	_	start_char=28|end_char=29
+7	Киева	Киев	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	_	_	start_char=30|end_char=35
+8	системы	система	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	_	_	start_char=36|end_char=43
+9	борьбы	борьба	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	_	_	start_char=44|end_char=50
+10	с	с	ADP	_	_	9	_	_	start_char=51|end_char=52
+11	холерой	холера	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	10	_	_	start_char=53|end_char=60
+12	МОСКВА	МОСКВА	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	_	_	start_char=61|end_char=67|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=67|end_char=68
+14	9	9	NUM	_	NumType=Card	13	_	_	start_char=69|end_char=70
+15	июля	июль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	_	_	start_char=71|end_char=75|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	_	_	start_char=75|end_char=76
+
+# text = /ТАСС/.
+# sent_id = 1
+1	/	/	PUNCT	_	_	0	_	_	start_char=77|end_char=78|SpaceAfter=No
+2	ТАСС	ТАСС	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=78|end_char=82|SpaceAfter=No
+3	/	/	PUNCT	_	_	2	_	_	start_char=82|end_char=83|SpaceAfter=No
+4	.	.	PUNCT	_	_	3	_	_	start_char=83|end_char=84
+
+# text = Система борьбы с холерой на правом берегу Херсонской области отсутствует, что ведет к распространению инфекции.
+# sent_id = 2
+1	Система	система	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	_	_	start_char=85|end_char=92
+2	борьбы	борьба	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	_	_	start_char=93|end_char=99
+3	с	с	ADP	_	_	2	_	_	start_char=100|end_char=101
+4	холерой	холера	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	3	_	_	start_char=102|end_char=109
+5	на	на	ADP	_	_	4	_	_	start_char=110|end_char=112
+6	правом	правый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	5	_	_	start_char=113|end_char=119
+7	берегу	берег	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	_	_	start_char=120|end_char=126
+8	Херсонской	херсонский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	_	_	start_char=127|end_char=137
+9	области	область	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	_	_	start_char=138|end_char=145
+10	отсутствует	отсутствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	_	_	start_char=146|end_char=157|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=157|end_char=158
+12	что	что	PRON	_	Case=Nom|PronType=Int,Rel	11	_	_	start_char=159|end_char=162
+13	ведет	вести	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	_	_	start_char=163|end_char=168
+14	к	к	ADP	_	_	13	_	_	start_char=169|end_char=170
+15	распространению	распространение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	14	_	_	start_char=171|end_char=186
+16	инфекции	инфекция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	_	_	start_char=187|end_char=195|SpaceAfter=No
+17	.	.	PUNCT	_	_	16	_	_	start_char=195|end_char=196
+
+# text = Об этом сообщил эпидемиолог, заместитель президента Российской академии образования, академик РАН Геннадий Онищенко.
+# sent_id = 3
+1	Об	о	ADP	_	_	0	_	_	start_char=197|end_char=199
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=200|end_char=204
+3	сообщил	сообщить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=205|end_char=212
+4	эпидемиолог	эпидемиолог	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	_	_	start_char=213|end_char=224|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=224|end_char=225
+6	заместитель	заместитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	_	_	start_char=226|end_char=237
+7	президента	президент	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	_	_	start_char=238|end_char=248
+8	Российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	_	_	start_char=249|end_char=259
+9	академии	академия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	_	_	start_char=260|end_char=268
+10	образования	образование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	_	_	start_char=269|end_char=280|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=280|end_char=281
+12	академик	академик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	_	_	start_char=282|end_char=290
+13	РАН	РАН	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	_	_	start_char=291|end_char=294
+14	Геннадий	Геннадий	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	_	_	start_char=295|end_char=303
+15	Онищенко	Онищенко	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	_	_	start_char=304|end_char=312|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	_	_	start_char=312|end_char=313
+
+# text = Ранее глава администрации Каховского муниципального округа Павел Филипчук сообщил, что эпидемия холеры распространяется среди бойцов Вооруженных сил Украины на правом берегу Днепра в Херсонской области, умерли по меньшей мере 12 военнослужащих.
+# sent_id = 4
+1	Ранее	ранее	ADV	_	Degree=Pos	0	_	_	start_char=314|end_char=319
+2	глава	глава	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=320|end_char=325
+3	администрации	администрация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	_	_	start_char=326|end_char=339
+4	Каховского	каховский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	3	_	_	start_char=340|end_char=350
+5	муниципального	муниципальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	_	_	start_char=351|end_char=365
+6	округа	округ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	_	_	start_char=366|end_char=372
+7	Павел	Павел	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	_	_	start_char=373|end_char=378
+8	Филипчук	Филипчук	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	_	_	start_char=379|end_char=387
+9	сообщил	сообщить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	_	_	start_char=388|end_char=395|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=395|end_char=396
+11	что	что	SCONJ	_	_	10	_	_	start_char=397|end_char=400
+12	эпидемия	эпидемия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	_	_	start_char=401|end_char=409
+13	холеры	холер	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	_	_	start_char=410|end_char=416
+14	распространяется	распространяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	13	_	_	start_char=417|end_char=433
+15	среди	среди	ADP	_	_	14	_	_	start_char=434|end_char=439
+16	бойцов	боец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	15	_	_	start_char=440|end_char=446
+17	Вооруженных	вооружить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	16	_	_	start_char=447|end_char=458
+18	сил	сила	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	17	_	_	start_char=459|end_char=462
+19	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	_	_	start_char=463|end_char=470
+20	на	на	ADP	_	_	19	_	_	start_char=471|end_char=473
+21	правом	правый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	20	_	_	start_char=474|end_char=480
+22	берегу	берег	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	21	_	_	start_char=481|end_char=487
+23	Днепра	Днепр	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	22	_	_	start_char=488|end_char=494
+24	в	в	ADP	_	_	23	_	_	start_char=495|end_char=496
+25	Херсонской	херсонский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	24	_	_	start_char=497|end_char=507
+26	области	область	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	25	_	_	start_char=508|end_char=515|SpaceAfter=No
+27	,	,	PUNCT	_	_	26	_	_	start_char=515|end_char=516
+28	умерли	умереть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	27	_	_	start_char=517|end_char=523
+29	по	по	ADP	_	_	28	_	_	start_char=524|end_char=526
+30	меньшей	меньший	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	29	_	_	start_char=527|end_char=534
+31	мере	мера	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	30	_	_	start_char=535|end_char=539
+32	12	12	NUM	_	NumType=Card	31	_	_	start_char=540|end_char=542
+33	военнослужащих	военнослужащий	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	32	_	_	start_char=543|end_char=557|SpaceAfter=No
+34	.	.	PUNCT	_	_	33	_	_	start_char=557|end_char=558
+
+# text = Роспотребнадзор информировал о дополнительном мониторинге безопасности моря в Крыму и в районе впадения реки Днепр в Черное море, а также о созданном в Херсонской области резерве вакцины, который будет применен при необходимости.
+# sent_id = 5
+1	Роспотребнадзор	Роспотребнадзор	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=559|end_char=574
+2	информировал	информировать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=575|end_char=587
+3	о	о	ADP	_	_	2	_	_	start_char=588|end_char=589
+4	дополнительном	дополнительный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	3	_	_	start_char=590|end_char=604
+5	мониторинге	мониторинг	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	_	_	start_char=605|end_char=616
+6	безопасности	безопасность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	_	_	start_char=617|end_char=629
+7	моря	море	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	_	_	start_char=630|end_char=634
+8	в	в	ADP	_	_	7	_	_	start_char=635|end_char=636
+9	Крыму	Крым	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	_	_	start_char=637|end_char=642
+10	и	и	CCONJ	_	_	9	_	_	start_char=643|end_char=644
+11	в	в	ADP	_	_	10	_	_	start_char=645|end_char=646
+12	районе	район	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	11	_	_	start_char=647|end_char=653
+13	впадения	впадение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	_	_	start_char=654|end_char=662
+14	реки	река	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	_	_	start_char=663|end_char=667
+15	Днепр	Днепр	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	_	_	start_char=668|end_char=673
+16	в	в	ADP	_	_	15	_	_	start_char=674|end_char=675
+17	Черное	черный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	16	_	_	start_char=676|end_char=682
+18	море	море	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	17	_	_	start_char=683|end_char=687|SpaceAfter=No
+19	,	,	PUNCT	_	_	18	_	_	start_char=687|end_char=688
+20	а	а	CCONJ	_	_	19	_	_	start_char=689|end_char=690
+21	также	также	PART	_	_	20	_	_	start_char=691|end_char=696
+22	о	о	ADP	_	_	21	_	_	start_char=697|end_char=698
+23	созданном	создать	VERB	_	Aspect=Perf|Case=Loc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	22	_	_	start_char=699|end_char=708
+24	в	в	ADP	_	_	23	_	_	start_char=709|end_char=710
+25	Херсонской	херсонский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	24	_	_	start_char=711|end_char=721
+26	области	область	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	25	_	_	start_char=722|end_char=729
+27	резерве	резерв	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	26	_	_	start_char=730|end_char=737
+28	вакцины	вакцина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	27	_	_	start_char=738|end_char=745|SpaceAfter=No
+29	,	,	PUNCT	_	_	28	_	_	start_char=745|end_char=746
+30	который	который	PRON	_	Case=Nom|PronType=Int,Rel	29	_	_	start_char=747|end_char=754
+31	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	30	_	_	start_char=755|end_char=760
+32	применен	применить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	31	_	_	start_char=761|end_char=769
+33	при	при	ADP	_	_	32	_	_	start_char=770|end_char=773
+34	необходимости	необходимость	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	33	_	_	start_char=774|end_char=787|SpaceAfter=No
+35	.	.	PUNCT	_	_	34	_	_	start_char=787|end_char=788
+
+# text = "По тем данным, которыми мы располагаем, Киев отрицает наличие холеры: это привычная и понятная ситуация.
+# sent_id = 6
+1	"	"	PUNCT	_	_	0	_	_	start_char=789|end_char=790|SpaceAfter=No
+2	По	по	ADP	_	_	1	_	_	start_char=790|end_char=792
+3	тем	тот	DET	_	Case=Dat|Number=Plur|PronType=Dem	2	_	_	start_char=793|end_char=796
+4	данным	данные	NOUN	_	Animacy=Inan|Case=Dat|Number=Plur	3	_	_	start_char=797|end_char=803|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=803|end_char=804
+6	которыми	который	PRON	_	Case=Ins|PronType=Int,Rel	5	_	_	start_char=805|end_char=813
+7	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	_	_	start_char=814|end_char=816
+8	располагаем	располагать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	_	_	start_char=817|end_char=828|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=828|end_char=829
+10	Киев	Киев	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	_	_	start_char=830|end_char=834
+11	отрицает	отрицать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	_	_	start_char=835|end_char=843
+12	наличие	наличие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	_	_	start_char=844|end_char=851
+13	холеры	холер	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	_	_	start_char=852|end_char=858|SpaceAfter=No
+14	:	:	PUNCT	_	_	13	_	_	start_char=858|end_char=859
+15	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	14	_	_	start_char=860|end_char=863
+16	привычная	привычный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	15	_	_	start_char=864|end_char=873
+17	и	и	CCONJ	_	_	16	_	_	start_char=874|end_char=875
+18	понятная	понятный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	17	_	_	start_char=876|end_char=884
+19	ситуация	ситуация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	18	_	_	start_char=885|end_char=893|SpaceAfter=No
+20	.	.	PUNCT	_	_	19	_	_	start_char=893|end_char=894
+
+# text = Почему она там развивается?
+# sent_id = 7
+1	Почему	почему	ADV	_	Degree=Pos	0	_	_	start_char=895|end_char=901
+2	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	_	_	start_char=902|end_char=905
+3	там	там	ADV	_	Degree=Pos	2	_	_	start_char=906|end_char=909
+4	развивается	развиваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	3	_	_	start_char=910|end_char=921|SpaceAfter=No
+5	?	?	PUNCT	_	_	4	_	_	start_char=921|end_char=922
+
+# text = Потому что там нет элементарного медицинского обеспечения, как среди гражданского населения, так и среди воинских подразделений.
+# sent_id = 8
+1	Потому	потому	ADV	_	Degree=Pos	0	_	_	start_char=923|end_char=929
+2	что	что	SCONJ	_	_	1	_	_	start_char=930|end_char=933
+3	там	там	ADV	_	Degree=Pos	2	_	_	start_char=934|end_char=937
+4	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	_	_	start_char=938|end_char=941
+5	элементарного	элементарный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	4	_	_	start_char=942|end_char=955
+6	медицинского	медицинский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	5	_	_	start_char=956|end_char=968
+7	обеспечения	обеспечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	_	_	start_char=969|end_char=980|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=980|end_char=981
+9	как	как	SCONJ	_	_	8	_	_	start_char=982|end_char=985
+10	среди	среди	ADP	_	_	9	_	_	start_char=986|end_char=991
+11	гражданского	гражданский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	10	_	_	start_char=992|end_char=1004
+12	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	_	_	start_char=1005|end_char=1014|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=1014|end_char=1015
+14	так	так	ADV	_	Degree=Pos	13	_	_	start_char=1016|end_char=1019
+15	и	и	PART	_	_	14	_	_	start_char=1020|end_char=1021
+16	среди	среди	ADP	_	_	15	_	_	start_char=1022|end_char=1027
+17	воинских	воинский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	_	_	start_char=1028|end_char=1036
+18	подразделений	подразделение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	17	_	_	start_char=1037|end_char=1050|SpaceAfter=No
+19	.	.	PUNCT	_	_	18	_	_	start_char=1050|end_char=1051
+
+# text = Что касается нашей стороны, мы предлагали свою помощь", - сказал он во время пресс-конференции в Москве на тему: "Биобезопасность стран ЕАЭС".
+# sent_id = 9
+1	Что	что	PRON	_	Case=Nom|PronType=Int,Rel	0	_	_	start_char=1052|end_char=1055
+2	касается	касаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	1	_	_	start_char=1056|end_char=1064
+3	нашей	наш	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	2	_	_	start_char=1065|end_char=1070
+4	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	_	_	start_char=1071|end_char=1078|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=1078|end_char=1079
+6	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	_	_	start_char=1080|end_char=1082
+7	предлагали	предлагать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	6	_	_	start_char=1083|end_char=1093
+8	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	7	_	_	start_char=1094|end_char=1098
+9	помощь	помощь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	_	_	start_char=1099|end_char=1105|SpaceAfter=No
+10	"	"	PUNCT	_	_	9	_	_	start_char=1105|end_char=1106|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=1106|end_char=1107
+12	-	-	PUNCT	_	_	11	_	_	start_char=1108|end_char=1109
+13	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	_	_	start_char=1110|end_char=1116
+14	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	_	_	start_char=1117|end_char=1119
+15	во	в	ADP	_	_	14	_	_	start_char=1120|end_char=1122
+16	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	15	_	_	start_char=1123|end_char=1128
+17	пресс-конференции	пресс-конференция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	_	_	start_char=1129|end_char=1146
+18	в	в	ADP	_	_	17	_	_	start_char=1147|end_char=1148
+19	Москве	Москва	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	18	_	_	start_char=1149|end_char=1155
+20	на	на	ADP	_	_	19	_	_	start_char=1156|end_char=1158
+21	тему	тема	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	20	_	_	start_char=1159|end_char=1163|SpaceAfter=No
+22	:	:	PUNCT	_	_	21	_	_	start_char=1163|end_char=1164
+23	"	"	PUNCT	_	_	22	_	_	start_char=1165|end_char=1166|SpaceAfter=No
+24	Биобезопасность	биобезопасность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	23	_	_	start_char=1166|end_char=1181
+25	стран	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	24	_	_	start_char=1182|end_char=1187
+26	ЕАЭС	ЕАЭС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	25	_	_	start_char=1188|end_char=1192|SpaceAfter=No
+27	"	"	PUNCT	_	_	26	_	_	start_char=1192|end_char=1193|SpaceAfter=No
+28	.	.	PUNCT	_	_	27	_	_	start_char=1193|end_char=1194
+
+# text = Он уточнил, что на текущий момент существуют водно-солевые растворы и антибиотики, благодаря которым можно вылечить заболевание холерой.
+# sent_id = 10
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1195|end_char=1197
+2	уточнил	уточнить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=1198|end_char=1205|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=1205|end_char=1206
+4	что	что	SCONJ	_	_	3	_	_	start_char=1207|end_char=1210
+5	на	на	ADP	_	_	4	_	_	start_char=1211|end_char=1213
+6	текущий	текущий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	_	_	start_char=1214|end_char=1221
+7	момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	_	_	start_char=1222|end_char=1228
+8	существуют	существовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	_	_	start_char=1229|end_char=1239
+9	водно	водный	ADJ	_	Degree=Pos	8	_	_	start_char=1240|end_char=1245|SpaceAfter=No
+10	-солевые	-солевой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	9	_	_	start_char=1245|end_char=1253
+11	растворы	раствор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	10	_	_	start_char=1254|end_char=1262
+12	и	и	CCONJ	_	_	11	_	_	start_char=1263|end_char=1264
+13	антибиотики	антибиотик	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	12	_	_	start_char=1265|end_char=1276|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	_	_	start_char=1276|end_char=1277
+15	благодаря	благодаря	ADP	_	_	14	_	_	start_char=1278|end_char=1287
+16	которым	который	PRON	_	Case=Dat|PronType=Int,Rel	15	_	_	start_char=1288|end_char=1295
+17	можно	можно	ADV	_	Degree=Pos	16	_	_	start_char=1296|end_char=1301
+18	вылечить	вылечить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	17	_	_	start_char=1302|end_char=1310
+19	заболевание	заболевание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	18	_	_	start_char=1311|end_char=1322
+20	холерой	холера	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	19	_	_	start_char=1323|end_char=1330|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	_	_	start_char=1330|end_char=1331
+
+# text = Пик заболеваемости холерой обычно отмечается в августе-сентябре.
+# sent_id = 11
+1	Пик	пик	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=1332|end_char=1335
+2	заболеваемости	заболеваемость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	_	_	start_char=1336|end_char=1350
+3	холерой	холера	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	2	_	_	start_char=1351|end_char=1358
+4	обычно	обычно	ADV	_	Degree=Pos	3	_	_	start_char=1359|end_char=1365
+5	отмечается	отмечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	_	_	start_char=1366|end_char=1376
+6	в	в	ADP	_	_	5	_	_	start_char=1377|end_char=1378
+7	августе	август	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	_	_	start_char=1379|end_char=1386|SpaceAfter=No
+8	-	-	PUNCT	_	_	7	_	_	start_char=1386|end_char=1387|SpaceAfter=No
+9	сентябре	сентябрь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	_	_	start_char=1387|end_char=1395|SpaceAfter=No
+10	.	.	PUNCT	_	_	9	_	_	start_char=1395|end_char=1396
+
+# text = По мнению Онищенко, самое главное - быть бдительным, чувствуя любое нарушение организма, обращаться к врачам.
+# sent_id = 12
+1	По	по	ADP	_	_	0	_	_	start_char=1397|end_char=1399
+2	мнению	мнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	1	_	_	start_char=1400|end_char=1406
+3	Онищенко	Онищенко	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	_	_	start_char=1407|end_char=1415|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=1415|end_char=1416
+5	самое	самый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	_	_	start_char=1417|end_char=1422
+6	главное	главное	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	_	_	start_char=1423|end_char=1430
+7	-	-	PUNCT	_	_	6	_	_	start_char=1431|end_char=1432
+8	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	_	_	start_char=1433|end_char=1437
+9	бдительным	бдительный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	8	_	_	start_char=1438|end_char=1448|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=1448|end_char=1449
+11	чувствуя	чувствовать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	10	_	_	start_char=1450|end_char=1458
+12	любое	любой	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	11	_	_	start_char=1459|end_char=1464
+13	нарушение	нарушение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	12	_	_	start_char=1465|end_char=1474
+14	организма	организм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	_	_	start_char=1475|end_char=1484|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=1484|end_char=1485
+16	обращаться	обращаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	15	_	_	start_char=1486|end_char=1496
+17	к	к	ADP	_	_	16	_	_	start_char=1497|end_char=1498
+18	врачам	врач	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	17	_	_	start_char=1499|end_char=1505|SpaceAfter=No
+19	.	.	PUNCT	_	_	18	_	_	start_char=1505|end_char=1506
+
+# text = Если выявить холеру на самых ранних стадиях, то никаких последствий, связанных с серьезными осложнениями, не будет.
+# sent_id = 13
+1	Если	если	SCONJ	_	_	0	_	_	start_char=1507|end_char=1511
+2	выявить	выявить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	_	_	start_char=1512|end_char=1519
+3	холеру	холер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	_	_	start_char=1520|end_char=1526
+4	на	на	ADP	_	_	3	_	_	start_char=1527|end_char=1529
+5	самых	самый	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	4	_	_	start_char=1530|end_char=1535
+6	ранних	ранний	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	5	_	_	start_char=1536|end_char=1542
+7	стадиях	стадия	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	6	_	_	start_char=1543|end_char=1550|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=1550|end_char=1551
+9	то	то	SCONJ	_	_	8	_	_	start_char=1552|end_char=1554
+10	никаких	никакой	DET	_	Case=Gen|Number=Plur|PronType=Neg	9	_	_	start_char=1555|end_char=1562
+11	последствий	последствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	10	_	_	start_char=1563|end_char=1574|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	_	_	start_char=1574|end_char=1575
+13	связанных	связать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	12	_	_	start_char=1576|end_char=1585
+14	с	с	ADP	_	_	13	_	_	start_char=1586|end_char=1587
+15	серьезными	серьезный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	14	_	_	start_char=1588|end_char=1598
+16	осложнениями	осложнение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	15	_	_	start_char=1599|end_char=1611|SpaceAfter=No
+17	,	,	PUNCT	_	_	16	_	_	start_char=1611|end_char=1612
+18	не	не	PART	_	_	17	_	_	start_char=1613|end_char=1615
+19	будет	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	_	_	start_char=1616|end_char=1621|SpaceAfter=No
+20	.	.	PUNCT	_	_	19	_	_	start_char=1621|end_char=1622
+
+# text = Он также выразил уверенность в том, российские специалисты справятся с ситуацией в случае регистрирования случаев заболевания холерой.
+# sent_id = 14
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1623|end_char=1625
+2	также	также	ADV	_	Degree=Pos	1	_	_	start_char=1626|end_char=1631
+3	выразил	выразить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=1632|end_char=1639
+4	уверенность	уверенность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	_	_	start_char=1640|end_char=1651
+5	в	в	ADP	_	_	4	_	_	start_char=1652|end_char=1653
+6	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	5	_	_	start_char=1654|end_char=1657|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	_	_	start_char=1657|end_char=1658
+8	российские	российский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	_	_	start_char=1659|end_char=1669
+9	специалисты	специалист	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	8	_	_	start_char=1670|end_char=1681
+10	справятся	справиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	9	_	_	start_char=1682|end_char=1691
+11	с	с	ADP	_	_	10	_	_	start_char=1692|end_char=1693
+12	ситуацией	ситуация	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	11	_	_	start_char=1694|end_char=1703
+13	в	в	ADP	_	_	12	_	_	start_char=1704|end_char=1705
+14	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	13	_	_	start_char=1706|end_char=1712
+15	регистрирования	регистрирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	_	_	start_char=1713|end_char=1728
+16	случаев	случай	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	15	_	_	start_char=1729|end_char=1736
+17	заболевания	заболевание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	_	_	start_char=1737|end_char=1748
+18	холерой	холера	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	17	_	_	start_char=1749|end_char=1756|SpaceAfter=No
+19	.	.	PUNCT	_	_	18	_	_	start_char=1756|end_char=1757
+
+# text = "Седьмая пандемия [холеры] началась в 60-е годы.
+# sent_id = 15
+1	"	"	PUNCT	_	_	0	_	_	start_char=1758|end_char=1759|SpaceAfter=No
+2	Седьмая	седьмой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	1	_	_	start_char=1759|end_char=1766
+3	пандемия	пандемия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	_	_	start_char=1767|end_char=1775
+4	[	[	PUNCT	_	_	3	_	_	start_char=1776|end_char=1777|SpaceAfter=No
+5	холеры	холер	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	_	_	start_char=1777|end_char=1783|SpaceAfter=No
+6	]	]	PUNCT	_	_	5	_	_	start_char=1783|end_char=1784
+7	началась	начаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	6	_	_	start_char=1785|end_char=1793
+8	в	в	ADP	_	_	7	_	_	start_char=1794|end_char=1795
+9	60-е	60-й	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	8	_	_	start_char=1796|end_char=1800
+10	годы	год	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	9	_	_	start_char=1801|end_char=1805|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	_	_	start_char=1805|end_char=1806
+
+# text = <...>
+# sent_id = 16
+1	<.	<.	PUNCT	_	_	0	_	_	start_char=1807|end_char=1809|SpaceAfter=No
+2	.	.	PUNCT	_	_	1	_	_	start_char=1809|end_char=1810|SpaceAfter=No
+3	.	.	PUNCT	_	_	2	_	_	start_char=1810|end_char=1811|SpaceAfter=No
+4	>	>	PUNCT	_	_	3	_	_	start_char=1811|end_char=1812
+
+# text = Она продолжается в Сирии, в зоне, где идут боевые действия, здесь [в Херсонской области, подконтрольной Украине] тоже этим можно объяснить это наличие.
+# sent_id = 17
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1813|end_char=1816
+2	продолжается	продолжаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	1	_	_	start_char=1817|end_char=1829
+3	в	в	ADP	_	_	2	_	_	start_char=1830|end_char=1831
+4	Сирии	Сирия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	_	_	start_char=1832|end_char=1837|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=1837|end_char=1838
+6	в	в	ADP	_	_	5	_	_	start_char=1839|end_char=1840
+7	зоне	зона	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	_	_	start_char=1841|end_char=1845|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=1845|end_char=1846
+9	где	где	ADV	_	Degree=Pos	8	_	_	start_char=1847|end_char=1850
+10	идут	идти	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	_	_	start_char=1851|end_char=1855
+11	боевые	боевой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	10	_	_	start_char=1856|end_char=1862
+12	действия	действие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	11	_	_	start_char=1863|end_char=1871|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=1871|end_char=1872
+14	здесь	здесь	ADV	_	Degree=Pos	13	_	_	start_char=1873|end_char=1878
+15	[	[	PUNCT	_	_	14	_	_	start_char=1879|end_char=1880|SpaceAfter=No
+16	в	в	ADP	_	_	15	_	_	start_char=1880|end_char=1881
+17	Херсонской	херсонский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	16	_	_	start_char=1882|end_char=1892
+18	области	область	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	17	_	_	start_char=1893|end_char=1900|SpaceAfter=No
+19	,	,	PUNCT	_	_	18	_	_	start_char=1900|end_char=1901
+20	подконтрольной	подконтрольный	VERB	_	Aspect=Perf|Case=Loc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	19	_	_	start_char=1902|end_char=1916
+21	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	20	_	_	start_char=1917|end_char=1924|SpaceAfter=No
+22	]	]	PUNCT	_	_	21	_	_	start_char=1924|end_char=1925
+23	тоже	тоже	PART	_	_	22	_	_	start_char=1926|end_char=1930
+24	этим	это	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	23	_	_	start_char=1931|end_char=1935
+25	можно	можно	ADV	_	Degree=Pos	24	_	_	start_char=1936|end_char=1941
+26	объяснить	объяснить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	25	_	_	start_char=1942|end_char=1951
+27	это	этот	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	26	_	_	start_char=1952|end_char=1955
+28	наличие	наличие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	27	_	_	start_char=1956|end_char=1963|SpaceAfter=No
+29	.	.	PUNCT	_	_	28	_	_	start_char=1963|end_char=1964
+
+# text = В прошлом году, по данным Всемирной организации здравоохранения, в Юго-Восточной Азии, в Европе, в ряде стран были завозы, там были порядка 40 тыс. случаев только зарегистрированных заболеваний", - сообщил Онищенко.
+# sent_id = 18
+1	В	в	ADP	_	_	0	_	_	start_char=1965|end_char=1966
+2	прошлом	прошлый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	1	_	_	start_char=1967|end_char=1974
+3	году	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	_	_	start_char=1975|end_char=1979|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=1979|end_char=1980
+5	по	по	ADP	_	_	4	_	_	start_char=1981|end_char=1983
+6	данным	данные	NOUN	_	Animacy=Inan|Case=Dat|Number=Plur	5	_	_	start_char=1984|end_char=1990
+7	Всемирной	всемирный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	_	_	start_char=1991|end_char=2000
+8	организации	организация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	_	_	start_char=2001|end_char=2012
+9	здравоохранения	здравоохранение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	_	_	start_char=2013|end_char=2028|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=2028|end_char=2029
+11	в	в	ADP	_	_	10	_	_	start_char=2030|end_char=2031
+12	Юго-Восточной	Юго-Восточный	PROPN	_	_	11	_	_	start_char=2032|end_char=2045
+13	Азии	Азия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	_	_	start_char=2046|end_char=2050|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	_	_	start_char=2050|end_char=2051
+15	в	в	ADP	_	_	14	_	_	start_char=2052|end_char=2053
+16	Европе	Европа	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	15	_	_	start_char=2054|end_char=2060|SpaceAfter=No
+17	,	,	PUNCT	_	_	16	_	_	start_char=2060|end_char=2061
+18	в	в	ADP	_	_	17	_	_	start_char=2062|end_char=2063
+19	ряде	ряд	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	18	_	_	start_char=2064|end_char=2068
+20	стран	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	19	_	_	start_char=2069|end_char=2074
+21	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	20	_	_	start_char=2075|end_char=2079
+22	завозы	завоз	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	21	_	_	start_char=2080|end_char=2086|SpaceAfter=No
+23	,	,	PUNCT	_	_	22	_	_	start_char=2086|end_char=2087
+24	там	там	ADV	_	Degree=Pos	23	_	_	start_char=2088|end_char=2091
+25	были	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	24	_	_	start_char=2092|end_char=2096
+26	порядка	порядка	ADP	_	_	25	_	_	start_char=2097|end_char=2104
+27	40	40	NUM	_	NumType=Card	26	_	_	start_char=2105|end_char=2107
+28	тыс.	тысяча	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	27	_	_	start_char=2108|end_char=2112
+29	случаев	случай	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	28	_	_	start_char=2113|end_char=2120
+30	только	только	PART	_	_	29	_	_	start_char=2121|end_char=2127
+31	зарегистрированных	регистрировать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	30	_	_	start_char=2128|end_char=2146
+32	заболеваний	заболевание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	31	_	_	start_char=2147|end_char=2158|SpaceAfter=No
+33	"	"	PUNCT	_	_	32	_	_	start_char=2158|end_char=2159|SpaceAfter=No
+34	,	,	PUNCT	_	_	33	_	_	start_char=2159|end_char=2160
+35	-	-	PUNCT	_	_	34	_	_	start_char=2161|end_char=2162
+36	сообщил	сообщить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	35	_	_	start_char=2163|end_char=2170
+37	Онищенко	Онищенко	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	36	_	_	start_char=2171|end_char=2179|SpaceAfter=No
+38	.	.	PUNCT	_	_	37	_	_	start_char=2179|end_char=2180
+
+# text = По данным Роспотребнадзора, в 1961 году началась седьмая по счету пандемия холеры, максимума распространения инфекция достигла к 1970 году и была отмечена в Южной Азии, Африке и Америке.
+# sent_id = 19
+1	По	по	ADP	_	_	0	_	_	start_char=2181|end_char=2183
+2	данным	данные	NOUN	_	Animacy=Inan|Case=Dat|Number=Plur	1	_	_	start_char=2184|end_char=2190
+3	Роспотребнадзора	Роспотребнадзор	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	_	_	start_char=2191|end_char=2207|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=2207|end_char=2208
+5	в	в	ADP	_	_	4	_	_	start_char=2209|end_char=2210
+6	1961	1961	ADJ	_	Degree=Pos	5	_	_	start_char=2211|end_char=2215
+7	году	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	_	_	start_char=2216|end_char=2220
+8	началась	начаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	7	_	_	start_char=2221|end_char=2229
+9	седьмая	седьмой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	_	_	start_char=2230|end_char=2237
+10	по	по	ADP	_	_	9	_	_	start_char=2238|end_char=2240
+11	счету	счет	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	10	_	_	start_char=2241|end_char=2246
+12	пандемия	пандемия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	_	_	start_char=2247|end_char=2255
+13	холеры	холер	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	_	_	start_char=2256|end_char=2262|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	_	_	start_char=2262|end_char=2263
+15	максимума	максимум	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	_	_	start_char=2264|end_char=2273
+16	распространения	распространение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	_	_	start_char=2274|end_char=2289
+17	инфекция	инфекция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	16	_	_	start_char=2290|end_char=2298
+18	достигла	достичь	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	17	_	_	start_char=2299|end_char=2307
+19	к	к	ADP	_	_	18	_	_	start_char=2308|end_char=2309
+20	1970	1970	ADJ	_	Degree=Pos	19	_	_	start_char=2310|end_char=2314
+21	году	год	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	20	_	_	start_char=2315|end_char=2319
+22	и	и	CCONJ	_	_	21	_	_	start_char=2320|end_char=2321
+23	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	22	_	_	start_char=2322|end_char=2326
+24	отмечена	отметить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	23	_	_	start_char=2327|end_char=2335
+25	в	в	ADP	_	_	24	_	_	start_char=2336|end_char=2337
+26	Южной	Южный	PROPN	_	_	25	_	_	start_char=2338|end_char=2343
+27	Азии	Азия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	26	_	_	start_char=2344|end_char=2348|SpaceAfter=No
+28	,	,	PUNCT	_	_	27	_	_	start_char=2348|end_char=2349
+29	Африке	Африка	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	28	_	_	start_char=2350|end_char=2356
+30	и	и	CCONJ	_	_	29	_	_	start_char=2357|end_char=2358
+31	Америке	Америка	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	30	_	_	start_char=2359|end_char=2366|SpaceAfter=No
+32	.	.	PUNCT	_	_	31	_	_	start_char=2366|end_char=2367
+
+# text = С 1926 года эпидемии холеры на территории Российской Федерации отсутствовали.
+# sent_id = 20
+1	С	с	ADP	_	_	0	_	_	start_char=2368|end_char=2369
+2	1926	1926	ADJ	_	Degree=Pos	1	_	_	start_char=2370|end_char=2374
+3	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	_	_	start_char=2375|end_char=2379
+4	эпидемии	эпидемия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	_	_	start_char=2380|end_char=2388
+5	холеры	холер	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	_	_	start_char=2389|end_char=2395
+6	на	на	ADP	_	_	5	_	_	start_char=2396|end_char=2398
+7	территории	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	_	_	start_char=2399|end_char=2409
+8	Российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	_	_	start_char=2410|end_char=2420
+9	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	_	_	start_char=2421|end_char=2430
+10	отсутствовали	отсутствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	9	_	_	start_char=2431|end_char=2444|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	_	_	start_char=2444|end_char=2445
+
+# text = Заболевание регистрировалось только в виде вспышек.
+# sent_id = 21
+1	Заболевание	заболевание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	_	_	start_char=2446|end_char=2457
+2	регистрировалось	регистрироваться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	1	_	_	start_char=2458|end_char=2474
+3	только	только	PART	_	_	2	_	_	start_char=2475|end_char=2481
+4	в	в	ADP	_	_	3	_	_	start_char=2482|end_char=2483
+5	виде	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	_	_	start_char=2484|end_char=2488
+6	вспышек	вспышка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	_	_	start_char=2489|end_char=2496|SpaceAfter=No
+7	.	.	PUNCT	_	_	6	_	_	start_char=2496|end_char=2497
+
+# text = Всемирная организация здравоохранения в 2019 г. сообщала о 923 037 случаях в 31 стране, 1911 из которых закончились смертельным исходом.
+# sent_id = 22
+1	Всемирная	всемирный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	_	_	start_char=2498|end_char=2507
+2	организация	организация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	_	_	start_char=2508|end_char=2519
+3	здравоохранения	здравоохранение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	_	_	start_char=2520|end_char=2535
+4	в	в	ADP	_	_	3	_	_	start_char=2536|end_char=2537
+5	2019	2019	ADJ	_	Degree=Pos	4	_	_	start_char=2538|end_char=2542
+6	г.	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	_	_	start_char=2543|end_char=2545
+7	сообщала	сообщать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	_	_	start_char=2546|end_char=2554
+8	о	о	ADP	_	_	7	_	_	start_char=2555|end_char=2556
+9	923 037	923 037	NUM	_	NumType=Card	8	_	_	start_char=2557|end_char=2564
+10	случаях	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	9	_	_	start_char=2565|end_char=2572
+11	в	в	ADP	_	_	10	_	_	start_char=2573|end_char=2574
+12	31	31	NUM	_	NumType=Card	11	_	_	start_char=2575|end_char=2577
+13	стране	страна	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	_	_	start_char=2578|end_char=2584|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	_	_	start_char=2584|end_char=2585
+15	1911	1911	NUM	_	NumType=Card	14	_	_	start_char=2586|end_char=2590
+16	из	из	ADP	_	_	15	_	_	start_char=2591|end_char=2593
+17	которых	который	PRON	_	Case=Gen|PronType=Int,Rel	16	_	_	start_char=2594|end_char=2601
+18	закончились	закончиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	17	_	_	start_char=2602|end_char=2613
+19	смертельным	смертельный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	18	_	_	start_char=2614|end_char=2625
+20	исходом	исход	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	19	_	_	start_char=2626|end_char=2633|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	_	_	start_char=2633|end_char=2634|SpaceAfter=No
+

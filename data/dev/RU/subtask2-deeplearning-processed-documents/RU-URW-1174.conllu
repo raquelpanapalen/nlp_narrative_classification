@@ -1,0 +1,513 @@
+# text = Других сценариев нет.
+# sent_id = 0
+1	Других	другой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	0	_	_	start_char=0|end_char=6
+2	сценариев	сценарий	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	_	_	start_char=7|end_char=16
+3	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=17|end_char=20|SpaceAfter=No
+4	.	.	PUNCT	_	_	3	_	_	start_char=20|end_char=21
+
+# text = Никаких переговоров на Украине не будет.
+# sent_id = 1
+1	Никаких	никакой	DET	_	Case=Gen|Number=Plur|PronType=Neg	0	_	_	start_char=22|end_char=29
+2	переговоров	переговоры	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	_	_	start_char=30|end_char=41
+3	на	на	ADP	_	_	2	_	_	start_char=42|end_char=44
+4	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	_	_	start_char=45|end_char=52
+5	не	не	PART	_	_	4	_	_	start_char=53|end_char=55
+6	будет	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	_	_	start_char=56|end_char=61|SpaceAfter=No
+7	.	.	PUNCT	_	_	6	_	_	start_char=61|end_char=62
+
+# text = Экс-сотрудник Пентагона объяснил, как закончится конфликт Никакого урегулирования посредством соглашения на Украине не будет, конфликт закончится капитуляцией Киева, пишет экс-сотрудник Пентагона Стивен Брайен в статье для AT.
+# sent_id = 2
+1	Экс-сотрудник	экс-сотрудник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=63|end_char=76
+2	Пентагона	Пентагон	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	_	_	start_char=77|end_char=86
+3	объяснил	объяснить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=87|end_char=95|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=95|end_char=96
+5	как	как	ADV	_	Degree=Pos	4	_	_	start_char=97|end_char=100
+6	закончится	закончиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	5	_	_	start_char=101|end_char=111
+7	конфликт	конфликт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	_	_	start_char=112|end_char=120
+8	Никакого	никакой	DET	_	Case=Gen|Gender=Neut|Number=Sing	7	_	_	start_char=121|end_char=129
+9	урегулирования	урегулирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	_	_	start_char=130|end_char=144
+10	посредством	посредством	ADP	_	_	9	_	_	start_char=145|end_char=156
+11	соглашения	соглашение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	_	_	start_char=157|end_char=167
+12	на	на	ADP	_	_	11	_	_	start_char=168|end_char=170
+13	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	_	_	start_char=171|end_char=178
+14	не	не	PART	_	_	13	_	_	start_char=179|end_char=181
+15	будет	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	_	_	start_char=182|end_char=187|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	_	_	start_char=187|end_char=188
+17	конфликт	конфликт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	16	_	_	start_char=189|end_char=197
+18	закончится	закончиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	17	_	_	start_char=198|end_char=208
+19	капитуляцией	капитуляция	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	18	_	_	start_char=209|end_char=221
+20	Киева	Киев	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	_	_	start_char=222|end_char=227|SpaceAfter=No
+21	,	,	PUNCT	_	_	20	_	_	start_char=227|end_char=228
+22	пишет	писать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	_	_	start_char=229|end_char=234
+23	экс-сотрудник	экс-сотрудник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	22	_	_	start_char=235|end_char=248
+24	Пентагона	Пентагон	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	23	_	_	start_char=249|end_char=258
+25	Стивен	Стивен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	24	_	_	start_char=259|end_char=265
+26	Брайен	Брайен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	25	_	_	start_char=266|end_char=272
+27	в	в	ADP	_	_	26	_	_	start_char=273|end_char=274
+28	статье	статья	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	27	_	_	start_char=275|end_char=281
+29	для	для	ADP	_	_	28	_	_	start_char=282|end_char=285
+30	AT	AT	PROPN	_	Foreign=Yes	29	_	_	start_char=286|end_char=288|SpaceAfter=No
+31	.	.	PUNCT	_	_	30	_	_	start_char=288|end_char=289
+
+# text = У Зеленского нет полномочий вести переговоры, и не за горами тот момент, когда ВСУ просто сдадутся.
+# sent_id = 3
+1	У	у	ADP	_	_	0	_	_	start_char=290|end_char=291
+2	Зеленского	Зеленский	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	1	_	_	start_char=292|end_char=302
+3	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=303|end_char=306
+4	полномочий	полномочие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	3	_	_	start_char=307|end_char=317
+5	вести	вести	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	_	_	start_char=318|end_char=323
+6	переговоры	переговоры	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	5	_	_	start_char=324|end_char=334|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	_	_	start_char=334|end_char=335
+8	и	и	CCONJ	_	_	7	_	_	start_char=336|end_char=337
+9	не	не	PART	_	_	8	_	_	start_char=338|end_char=340
+10	за	за	ADP	_	_	9	_	_	start_char=341|end_char=343
+11	горами	гора	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	10	_	_	start_char=344|end_char=350
+12	тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	11	_	_	start_char=351|end_char=354
+13	момент	момент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	_	_	start_char=355|end_char=361|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	_	_	start_char=361|end_char=362
+15	когда	когда	SCONJ	_	_	14	_	_	start_char=363|end_char=368
+16	ВСУ	ВСУ	PROPN	_	Animacy=Inan	15	_	_	start_char=369|end_char=372
+17	просто	просто	PART	_	_	16	_	_	start_char=373|end_char=379
+18	сдадутся	сдаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	17	_	_	start_char=380|end_char=388|SpaceAfter=No
+19	.	.	PUNCT	_	_	18	_	_	start_char=388|end_char=389
+
+# text = Конфликт на Украине закончится не соглашением, а капитуляцией.
+# sent_id = 4
+1	Конфликт	конфликт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=390|end_char=398
+2	на	на	ADP	_	_	1	_	_	start_char=399|end_char=401
+3	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	_	_	start_char=402|end_char=409
+4	закончится	закончиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	3	_	_	start_char=410|end_char=420
+5	не	не	PART	_	_	4	_	_	start_char=421|end_char=423
+6	соглашением	соглашение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	5	_	_	start_char=424|end_char=435|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	_	_	start_char=435|end_char=436
+8	а	а	CCONJ	_	_	7	_	_	start_char=437|end_char=438
+9	капитуляцией	капитуляция	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	8	_	_	start_char=439|end_char=451|SpaceAfter=No
+10	.	.	PUNCT	_	_	9	_	_	start_char=451|end_char=452
+
+# text = Именно так я представляю себе дальнейший ход боевых действий — и почему стороны не могут договориться об урегулировании сейчас.
+# sent_id = 5
+1	Именно	именно	PART	_	_	0	_	_	start_char=453|end_char=459
+2	так	так	ADV	_	Degree=Pos	1	_	_	start_char=460|end_char=463
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	_	_	start_char=464|end_char=465
+4	представляю	представлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	_	_	start_char=466|end_char=477
+5	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	4	_	_	start_char=478|end_char=482
+6	дальнейший	дальнейший	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	_	_	start_char=483|end_char=493
+7	ход	ход	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	_	_	start_char=494|end_char=497
+8	боевых	боевой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	_	_	start_char=498|end_char=504
+9	действий	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	8	_	_	start_char=505|end_char=513
+10	—	—	PUNCT	_	_	9	_	_	start_char=514|end_char=515
+11	и	и	CCONJ	_	_	10	_	_	start_char=516|end_char=517
+12	почему	почему	ADV	_	Degree=Pos	11	_	_	start_char=518|end_char=524
+13	стороны	сторона	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	12	_	_	start_char=525|end_char=532
+14	не	не	PART	_	_	13	_	_	start_char=533|end_char=535
+15	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	_	_	start_char=536|end_char=541
+16	договориться	договориться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	15	_	_	start_char=542|end_char=554
+17	об	о	ADP	_	_	16	_	_	start_char=555|end_char=557
+18	урегулировании	урегулирование	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	17	_	_	start_char=558|end_char=572
+19	сейчас	сейчас	ADV	_	Degree=Pos	18	_	_	start_char=573|end_char=579|SpaceAfter=No
+20	.	.	PUNCT	_	_	19	_	_	start_char=579|end_char=580
+
+# text = Последней вехой в эпопее о несостоявшихся переговорах стали заявления президента Украины Владимира Зеленского в интервью газете "Филадельфия инкуайрер".
+# sent_id = 6
+1	Последней	последний	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	0	_	_	start_char=581|end_char=590
+2	вехой	веха	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	1	_	_	start_char=591|end_char=596
+3	в	в	ADP	_	_	2	_	_	start_char=597|end_char=598
+4	эпопее	эпопея	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	_	_	start_char=599|end_char=605
+5	о	о	ADP	_	_	4	_	_	start_char=606|end_char=607
+6	несостоявшихся	несостояться	VERB	_	Aspect=Imp|Case=Loc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	5	_	_	start_char=608|end_char=622
+7	переговорах	переговоры	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	6	_	_	start_char=623|end_char=634
+8	стали	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	7	_	_	start_char=635|end_char=640
+9	заявления	заявление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	8	_	_	start_char=641|end_char=650
+10	президента	президент	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	_	_	start_char=651|end_char=661
+11	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	_	_	start_char=662|end_char=669
+12	Владимира	Владимир	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	11	_	_	start_char=670|end_char=679
+13	Зеленского	Зеленский	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	12	_	_	start_char=680|end_char=690
+14	в	в	ADP	_	_	13	_	_	start_char=691|end_char=692
+15	интервью	интервью	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	14	_	_	start_char=693|end_char=701
+16	газете	газета	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	15	_	_	start_char=702|end_char=708
+17	"	"	PUNCT	_	_	16	_	_	start_char=709|end_char=710|SpaceAfter=No
+18	Филадельфия	Филадельфия	PROPN	_	_	17	_	_	start_char=710|end_char=721
+19	инкуайрер	инкуайрер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	18	_	_	start_char=722|end_char=731|SpaceAfter=No
+20	"	"	PUNCT	_	_	19	_	_	start_char=731|end_char=732|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	_	_	start_char=732|end_char=733
+
+# text = Зеленский отрезал, что прямых переговоров между Украиной и Россией быть не может, но допустил непрямые — через третью сторону.
+# sent_id = 7
+1	Зеленский	Зеленский	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=734|end_char=743
+2	отрезал	отрезать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=744|end_char=751|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=751|end_char=752
+4	что	что	SCONJ	_	_	3	_	_	start_char=753|end_char=756
+5	прямых	прямой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	_	_	start_char=757|end_char=763
+6	переговоров	переговоры	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	_	_	start_char=764|end_char=775
+7	между	между	ADP	_	_	6	_	_	start_char=776|end_char=781
+8	Украиной	Украина	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	7	_	_	start_char=782|end_char=790
+9	и	и	CCONJ	_	_	8	_	_	start_char=791|end_char=792
+10	Россией	Россия	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	9	_	_	start_char=793|end_char=800
+11	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	_	_	start_char=801|end_char=805
+12	не	не	PART	_	_	11	_	_	start_char=806|end_char=808
+13	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	_	_	start_char=809|end_char=814|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	_	_	start_char=814|end_char=815
+15	но	но	CCONJ	_	_	14	_	_	start_char=816|end_char=818
+16	допустил	допустить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	15	_	_	start_char=819|end_char=827
+17	непрямые	непрямой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	16	_	_	start_char=828|end_char=836
+18	—	—	PUNCT	_	_	17	_	_	start_char=837|end_char=838
+19	через	через	ADP	_	_	18	_	_	start_char=839|end_char=844
+20	третью	третий	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	19	_	_	start_char=845|end_char=851
+21	сторону	сторона	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	20	_	_	start_char=852|end_char=859|SpaceAfter=No
+22	.	.	PUNCT	_	_	21	_	_	start_char=859|end_char=860
+
+# text = В предложенном Зеленским сценарии третья сторона выступит в роли посредника, и любая сделка будет заключаться сугубо с посредником, а не между Россией или Украиной.
+# sent_id = 8
+1	В	в	ADP	_	_	0	_	_	start_char=861|end_char=862
+2	предложенном	предложить	VERB	_	Aspect=Perf|Case=Loc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	_	_	start_char=863|end_char=875
+3	Зеленским	зеленский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	2	_	_	start_char=876|end_char=885
+4	сценарии	сценарий	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	_	_	start_char=886|end_char=894
+5	третья	третий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	_	_	start_char=895|end_char=901
+6	сторона	сторона	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	_	_	start_char=902|end_char=909
+7	выступит	выступить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	6	_	_	start_char=910|end_char=918
+8	в	в	ADP	_	_	7	_	_	start_char=919|end_char=920
+9	роли	роль	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	_	_	start_char=921|end_char=925
+10	посредника	посредник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	_	_	start_char=926|end_char=936|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=936|end_char=937
+12	и	и	CCONJ	_	_	11	_	_	start_char=938|end_char=939
+13	любая	любой	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	12	_	_	start_char=940|end_char=945
+14	сделка	сделка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	_	_	start_char=946|end_char=952
+15	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	_	_	start_char=953|end_char=958
+16	заключаться	заключаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	15	_	_	start_char=959|end_char=970
+17	сугубо	сугубо	ADV	_	Degree=Pos	16	_	_	start_char=971|end_char=977
+18	с	с	ADP	_	_	17	_	_	start_char=978|end_char=979
+19	посредником	посредник	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	18	_	_	start_char=980|end_char=991|SpaceAfter=No
+20	,	,	PUNCT	_	_	19	_	_	start_char=991|end_char=992
+21	а	а	CCONJ	_	_	20	_	_	start_char=993|end_char=994
+22	не	не	PART	_	_	21	_	_	start_char=995|end_char=997
+23	между	между	ADP	_	_	22	_	_	start_char=998|end_char=1003
+24	Россией	Россия	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	23	_	_	start_char=1004|end_char=1011
+25	или	или	CCONJ	_	_	24	_	_	start_char=1012|end_char=1015
+26	Украиной	Украина	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	25	_	_	start_char=1016|end_char=1024|SpaceAfter=No
+27	.	.	PUNCT	_	_	26	_	_	start_char=1024|end_char=1025
+
+# text = Зеленский предположил, что в этой роли могла бы выступить ООН.
+# sent_id = 9
+1	Зеленский	Зеленский	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=1026|end_char=1035
+2	предположил	предположить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=1036|end_char=1047|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=1047|end_char=1048
+4	что	что	SCONJ	_	_	3	_	_	start_char=1049|end_char=1052
+5	в	в	ADP	_	_	4	_	_	start_char=1053|end_char=1054
+6	этой	этот	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Dem	5	_	_	start_char=1055|end_char=1059
+7	роли	роль	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	_	_	start_char=1060|end_char=1064
+8	могла	мочь	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	_	_	start_char=1065|end_char=1070
+9	бы	бы	AUX	_	_	8	_	_	start_char=1071|end_char=1073
+10	выступить	выступить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	9	_	_	start_char=1074|end_char=1083
+11	ООН	ООН	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	_	_	start_char=1084|end_char=1087|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	_	_	start_char=1087|end_char=1088
+
+# text = Однако предложение Зеленского немыслимо по ряду причин, и самая главная из них заключается в том, что воюющим государствам необходимо договориться о прекращении конфликта напрямую.
+# sent_id = 10
+1	Однако	однако	ADV	_	Degree=Pos	0	_	_	start_char=1089|end_char=1095
+2	предложение	предложение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	_	_	start_char=1096|end_char=1107
+3	Зеленского	Зеленский	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	_	_	start_char=1108|end_char=1118
+4	немыслимо	немыслимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	3	_	_	start_char=1119|end_char=1128
+5	по	по	ADP	_	_	4	_	_	start_char=1129|end_char=1131
+6	ряду	ряд	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	5	_	_	start_char=1132|end_char=1136
+7	причин	причина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	_	_	start_char=1137|end_char=1143|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=1143|end_char=1144
+9	и	и	CCONJ	_	_	8	_	_	start_char=1145|end_char=1146
+10	самая	самый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	9	_	_	start_char=1147|end_char=1152
+11	главная	главный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	_	_	start_char=1153|end_char=1160
+12	из	из	ADP	_	_	11	_	_	start_char=1161|end_char=1163
+13	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	12	_	_	start_char=1164|end_char=1167
+14	заключается	заключаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	13	_	_	start_char=1168|end_char=1179
+15	в	в	ADP	_	_	14	_	_	start_char=1180|end_char=1181
+16	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	15	_	_	start_char=1182|end_char=1185|SpaceAfter=No
+17	,	,	PUNCT	_	_	16	_	_	start_char=1185|end_char=1186
+18	что	что	SCONJ	_	_	17	_	_	start_char=1187|end_char=1190
+19	воюющим	воевать	VERB	_	Aspect=Imp|Case=Dat|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	18	_	_	start_char=1191|end_char=1198
+20	государствам	государство	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	19	_	_	start_char=1199|end_char=1211
+21	необходимо	необходимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	20	_	_	start_char=1212|end_char=1222
+22	договориться	договориться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	21	_	_	start_char=1223|end_char=1235
+23	о	о	ADP	_	_	22	_	_	start_char=1236|end_char=1237
+24	прекращении	прекращение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	23	_	_	start_char=1238|end_char=1249
+25	конфликта	конфликт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	24	_	_	start_char=1250|end_char=1259
+26	напрямую	напрямую	ADV	_	Degree=Pos	25	_	_	start_char=1260|end_char=1268|SpaceAfter=No
+27	.	.	PUNCT	_	_	26	_	_	start_char=1268|end_char=1269
+
+# text = Надежды на реализацию сделки через третью сторону несбыточны, как показали провальные Минские соглашения (2014 и 2015 годов).
+# sent_id = 11
+1	Надежды	Надежда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	_	_	start_char=1270|end_char=1277
+2	на	на	ADP	_	_	1	_	_	start_char=1278|end_char=1280
+3	реализацию	реализация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	_	_	start_char=1281|end_char=1291
+4	сделки	сделка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	_	_	start_char=1292|end_char=1298
+5	через	через	ADP	_	_	4	_	_	start_char=1299|end_char=1304
+6	третью	третий	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	5	_	_	start_char=1305|end_char=1311
+7	сторону	сторона	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	_	_	start_char=1312|end_char=1319
+8	несбыточны	несбыточный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	7	_	_	start_char=1320|end_char=1330|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=1330|end_char=1331
+10	как	как	SCONJ	_	_	9	_	_	start_char=1332|end_char=1335
+11	показали	показать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	10	_	_	start_char=1336|end_char=1344
+12	провальные	провальный	ADJ	_	Animacy=Inan|Case=Nom|Degree=Pos|Number=Plur	11	_	_	start_char=1345|end_char=1355
+13	Минские	минский	ADJ	_	Animacy=Inan|Case=Nom|Degree=Pos|Number=Plur	12	_	_	start_char=1356|end_char=1363
+14	соглашения	соглашение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	13	_	_	start_char=1364|end_char=1374
+15	(	(	PUNCT	_	_	14	_	_	start_char=1375|end_char=1376|SpaceAfter=No
+16	2014	2014	NUM	_	NumType=Card	15	_	_	start_char=1376|end_char=1380
+17	и	и	CCONJ	_	_	16	_	_	start_char=1381|end_char=1382
+18	2015	2015	NUM	_	NumType=Card	17	_	_	start_char=1383|end_char=1387
+19	годов	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	18	_	_	start_char=1388|end_char=1393|SpaceAfter=No
+20	)	)	PUNCT	_	_	19	_	_	start_char=1393|end_char=1394|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	_	_	start_char=1394|end_char=1395
+
+# text = Минские соглашения представляли собой гибридный случай и были подписаны Россией, Украиной и Организацией по безопасности и сотрудничеству в Европе (ОБСЕ).
+# sent_id = 12
+1	Минские	минский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	0	_	_	start_char=1396|end_char=1403
+2	соглашения	соглашение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	1	_	_	start_char=1404|end_char=1414
+3	представляли	представлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=1415|end_char=1427
+4	собой	себя	PRON	_	Case=Ins|PronType=Prs|Reflex=Yes	3	_	_	start_char=1428|end_char=1433
+5	гибридный	гибридный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	4	_	_	start_char=1434|end_char=1443
+6	случай	случай	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	_	_	start_char=1444|end_char=1450
+7	и	и	CCONJ	_	_	6	_	_	start_char=1451|end_char=1452
+8	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	7	_	_	start_char=1453|end_char=1457
+9	подписаны	подписать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	8	_	_	start_char=1458|end_char=1467
+10	Россией	Россия	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	9	_	_	start_char=1468|end_char=1475|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=1475|end_char=1476
+12	Украиной	Украина	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	11	_	_	start_char=1477|end_char=1485
+13	и	и	CCONJ	_	_	12	_	_	start_char=1486|end_char=1487
+14	Организацией	Организация	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	13	_	_	start_char=1488|end_char=1500
+15	по	по	ADP	_	_	14	_	_	start_char=1501|end_char=1503
+16	безопасности	безопасность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	15	_	_	start_char=1504|end_char=1516
+17	и	и	CCONJ	_	_	16	_	_	start_char=1517|end_char=1518
+18	сотрудничеству	сотрудничество	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	17	_	_	start_char=1519|end_char=1533
+19	в	в	ADP	_	_	18	_	_	start_char=1534|end_char=1535
+20	Европе	Европа	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	19	_	_	start_char=1536|end_char=1542
+21	(	(	PUNCT	_	_	20	_	_	start_char=1543|end_char=1544|SpaceAfter=No
+22	ОБСЕ	ОБСЕ	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	21	_	_	start_char=1544|end_char=1548|SpaceAfter=No
+23	)	)	PUNCT	_	_	22	_	_	start_char=1548|end_char=1549|SpaceAfter=No
+24	.	.	PUNCT	_	_	23	_	_	start_char=1549|end_char=1550
+
+# text = Украина отказалась выполнять его условия, а ОБСЕ показала себя беззубой и не пожелала добиваться его соблюдения.
+# sent_id = 13
+1	Украина	Украина	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	_	_	start_char=1551|end_char=1558
+2	отказалась	отказаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	1	_	_	start_char=1559|end_char=1569
+3	выполнять	выполнять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	_	_	start_char=1570|end_char=1579
+4	его	его	DET	_	Poss=Yes|PronType=Prs	3	_	_	start_char=1580|end_char=1583
+5	условия	условие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	4	_	_	start_char=1584|end_char=1591|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=1591|end_char=1592
+7	а	а	CCONJ	_	_	6	_	_	start_char=1593|end_char=1594
+8	ОБСЕ	ОБСЕ	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	_	_	start_char=1595|end_char=1599
+9	показала	показать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	_	_	start_char=1600|end_char=1608
+10	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	9	_	_	start_char=1609|end_char=1613
+11	беззубой	беззубой	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	10	_	_	start_char=1614|end_char=1622
+12	и	и	CCONJ	_	_	11	_	_	start_char=1623|end_char=1624
+13	не	не	PART	_	_	12	_	_	start_char=1625|end_char=1627
+14	пожелала	желать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	_	_	start_char=1628|end_char=1636
+15	добиваться	добиваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	14	_	_	start_char=1637|end_char=1647
+16	его	его	DET	_	Poss=Yes|PronType=Prs	15	_	_	start_char=1648|end_char=1651
+17	соблюдения	соблюдение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	_	_	start_char=1652|end_char=1662|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	_	_	start_char=1662|end_char=1663
+
+# text = Договоренность получила политическую поддержку Германии и Франции, хотя ни одна из них ее не подписала и не была юридически обязана так или иначе ей способствовать.
+# sent_id = 14
+1	Договоренность	договоренность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	_	_	start_char=1664|end_char=1678
+2	получила	получить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=1679|end_char=1687
+3	политическую	политический	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	2	_	_	start_char=1688|end_char=1700
+4	поддержку	поддержка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	_	_	start_char=1701|end_char=1710
+5	Германии	Германия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	_	_	start_char=1711|end_char=1719
+6	и	и	CCONJ	_	_	5	_	_	start_char=1720|end_char=1721
+7	Франции	Франция	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	_	_	start_char=1722|end_char=1729|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=1729|end_char=1730
+9	хотя	хотя	SCONJ	_	_	8	_	_	start_char=1731|end_char=1735
+10	ни	ни	PART	_	_	9	_	_	start_char=1736|end_char=1738
+11	одна	один	NUM	_	Case=Nom|Gender=Fem|NumType=Card	10	_	_	start_char=1739|end_char=1743
+12	из	из	ADP	_	_	11	_	_	start_char=1744|end_char=1746
+13	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	12	_	_	start_char=1747|end_char=1750
+14	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	_	_	start_char=1751|end_char=1753
+15	не	не	PART	_	_	14	_	_	start_char=1754|end_char=1756
+16	подписала	подписать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	15	_	_	start_char=1757|end_char=1766
+17	и	и	CCONJ	_	_	16	_	_	start_char=1767|end_char=1768
+18	не	не	PART	_	_	17	_	_	start_char=1769|end_char=1771
+19	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	18	_	_	start_char=1772|end_char=1776
+20	юридически	юридически	ADV	_	Degree=Pos	19	_	_	start_char=1777|end_char=1787
+21	обязана	обязать	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	20	_	_	start_char=1788|end_char=1795
+22	так	так	ADV	_	Degree=Pos	21	_	_	start_char=1796|end_char=1799
+23	или	или	CCONJ	_	_	22	_	_	start_char=1800|end_char=1803
+24	иначе	иначе	ADV	_	Degree=Pos	23	_	_	start_char=1804|end_char=1809
+25	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	24	_	_	start_char=1810|end_char=1812
+26	способствовать	способствовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	25	_	_	start_char=1813|end_char=1827|SpaceAfter=No
+27	.	.	PUNCT	_	_	26	_	_	start_char=1827|end_char=1828
+
+# text = “Предложение” Зеленского на самом деле — очередная дымовая завеса, призванная отвести от Украины критику за отказ от мирного урегулирования.
+# sent_id = 15
+1	“	"	PUNCT	_	_	0	_	_	start_char=1829|end_char=1830|SpaceAfter=No
+2	Предложение	предложение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	_	_	start_char=1830|end_char=1841|SpaceAfter=No
+3	”	"	PUNCT	_	_	2	_	_	start_char=1841|end_char=1842
+4	Зеленского	Зеленский	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=1843|end_char=1853
+5	на	на	ADP	_	_	4	_	_	start_char=1854|end_char=1856
+6	самом	самый	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	5	_	_	start_char=1857|end_char=1862
+7	деле	дело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	_	_	start_char=1863|end_char=1867
+8	—	—	PUNCT	_	_	7	_	_	start_char=1868|end_char=1869
+9	очередная	очередной	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	_	_	start_char=1870|end_char=1879
+10	дымовая	дымовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	9	_	_	start_char=1880|end_char=1887
+11	завеса	завеса	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	_	_	start_char=1888|end_char=1894|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	_	_	start_char=1894|end_char=1895
+13	призванная	призванный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	12	_	_	start_char=1896|end_char=1906
+14	отвести	отвести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	13	_	_	start_char=1907|end_char=1914
+15	от	от	ADP	_	_	14	_	_	start_char=1915|end_char=1917
+16	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	_	_	start_char=1918|end_char=1925
+17	критику	критика	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	16	_	_	start_char=1926|end_char=1933
+18	за	за	ADP	_	_	17	_	_	start_char=1934|end_char=1936
+19	отказ	отказ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	18	_	_	start_char=1937|end_char=1942
+20	от	от	ADP	_	_	19	_	_	start_char=1943|end_char=1945
+21	мирного	мирный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	20	_	_	start_char=1946|end_char=1953
+22	урегулирования	урегулирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	_	_	start_char=1954|end_char=1968|SpaceAfter=No
+23	.	.	PUNCT	_	_	22	_	_	start_char=1968|end_char=1969
+
+# text = К столу переговоров Зеленского не пускают три мощные силы.
+# sent_id = 16
+1	К	к	ADP	_	_	0	_	_	start_char=1970|end_char=1971
+2	столу	стол	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	1	_	_	start_char=1972|end_char=1977
+3	переговоров	переговоры	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	_	_	start_char=1978|end_char=1989
+4	Зеленского	Зеленский	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=1990|end_char=2000
+5	не	не	PART	_	_	4	_	_	start_char=2001|end_char=2003
+6	пускают	пускать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	_	_	start_char=2004|end_char=2011
+7	три	три	NUM	_	Case=Nom|NumType=Card	6	_	_	start_char=2012|end_char=2015
+8	мощные	мощный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	_	_	start_char=2016|end_char=2022
+9	силы	сила	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	_	_	start_char=2023|end_char=2027|SpaceAfter=No
+10	.	.	PUNCT	_	_	9	_	_	start_char=2027|end_char=2028
+
+# text = Самое главное — что против любых переговоров с Россией решительно выступают главные англосаксонские игроки НАТО: США и Великобритания.
+# sent_id = 17
+1	Самое	самый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	_	_	start_char=2029|end_char=2034
+2	главное	главное	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	_	_	start_char=2035|end_char=2042
+3	—	—	PUNCT	_	_	2	_	_	start_char=2043|end_char=2044
+4	что	что	SCONJ	_	_	3	_	_	start_char=2045|end_char=2048
+5	против	против	ADP	_	_	4	_	_	start_char=2049|end_char=2055
+6	любых	любой	DET	_	Case=Gen|Number=Plur|PronType=Ind	5	_	_	start_char=2056|end_char=2061
+7	переговоров	переговоры	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	_	_	start_char=2062|end_char=2073
+8	с	с	ADP	_	_	7	_	_	start_char=2074|end_char=2075
+9	Россией	Россия	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	8	_	_	start_char=2076|end_char=2083
+10	решительно	решительно	ADV	_	Degree=Pos	9	_	_	start_char=2084|end_char=2094
+11	выступают	выступать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	_	_	start_char=2095|end_char=2104
+12	главные	главный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	11	_	_	start_char=2105|end_char=2112
+13	англосаксонские	англосаксонский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	12	_	_	start_char=2113|end_char=2128
+14	игроки	игрок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	13	_	_	start_char=2129|end_char=2135
+15	НАТО	НАТО	PROPN	_	Case=Gen|Number=Sing	14	_	_	start_char=2136|end_char=2140|SpaceAfter=No
+16	:	:	PUNCT	_	_	15	_	_	start_char=2140|end_char=2141
+17	США	США	PROPN	_	Animacy=Inan	16	_	_	start_char=2142|end_char=2145
+18	и	и	CCONJ	_	_	17	_	_	start_char=2146|end_char=2147
+19	Великобритания	Великобритания	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	18	_	_	start_char=2148|end_char=2162|SpaceAfter=No
+20	.	.	PUNCT	_	_	19	_	_	start_char=2162|end_char=2163
+
+# text = США сделали все возможное, в том числе с помощью санкций и дипломатических мер, чтобы предотвратить диалог с Россией по любым вопросам (кроме, разве что, обмена пленными).
+# sent_id = 18
+1	США	США	PROPN	_	Number=Plur	0	_	_	start_char=2164|end_char=2167
+2	сделали	делать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=2168|end_char=2175
+3	все	все	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	2	_	_	start_char=2176|end_char=2179
+4	возможное	возможный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	3	_	_	start_char=2180|end_char=2189|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=2189|end_char=2190
+6	в	в	ADP	_	_	5	_	_	start_char=2191|end_char=2192
+7	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	6	_	_	start_char=2193|end_char=2196
+8	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	_	_	start_char=2197|end_char=2202
+9	с	с	ADP	_	_	8	_	_	start_char=2203|end_char=2204
+10	помощью	помощь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	9	_	_	start_char=2205|end_char=2212
+11	санкций	санкция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	_	_	start_char=2213|end_char=2220
+12	и	и	CCONJ	_	_	11	_	_	start_char=2221|end_char=2222
+13	дипломатических	дипломатический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	_	_	start_char=2223|end_char=2238
+14	мер	мера	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	13	_	_	start_char=2239|end_char=2242|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=2242|end_char=2243
+16	чтобы	чтобы	SCONJ	_	Mood=Cnd	15	_	_	start_char=2244|end_char=2249
+17	предотвратить	предотвратить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	16	_	_	start_char=2250|end_char=2263
+18	диалог	диалог	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	17	_	_	start_char=2264|end_char=2270
+19	с	с	ADP	_	_	18	_	_	start_char=2271|end_char=2272
+20	Россией	Россия	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	19	_	_	start_char=2273|end_char=2280
+21	по	по	ADP	_	_	20	_	_	start_char=2281|end_char=2283
+22	любым	любой	DET	_	Case=Dat|Number=Plur|PronType=Ind	21	_	_	start_char=2284|end_char=2289
+23	вопросам	вопрос	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	22	_	_	start_char=2290|end_char=2298
+24	(	(	PUNCT	_	_	23	_	_	start_char=2299|end_char=2300|SpaceAfter=No
+25	кроме	кроме	ADP	_	_	24	_	_	start_char=2300|end_char=2305|SpaceAfter=No
+26	,	,	PUNCT	_	_	25	_	_	start_char=2305|end_char=2306
+27	разве	разве	PART	_	_	26	_	_	start_char=2307|end_char=2312
+28	что	что	SCONJ	_	_	27	_	_	start_char=2313|end_char=2316|SpaceAfter=No
+29	,	,	PUNCT	_	_	28	_	_	start_char=2316|end_char=2317
+30	обмена	обмен	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	29	_	_	start_char=2318|end_char=2324
+31	пленными	пленный	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	30	_	_	start_char=2325|end_char=2333|SpaceAfter=No
+32	)	)	PUNCT	_	_	31	_	_	start_char=2333|end_char=2334|SpaceAfter=No
+33	.	.	PUNCT	_	_	32	_	_	start_char=2334|end_char=2335
+
+# text = Вторая причина — это продавленный Зеленским закон, запрещающий Киеву переговоры с Россией.
+# sent_id = 19
+1	Вторая	второй	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	_	_	start_char=2336|end_char=2342
+2	причина	причина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	_	_	start_char=2343|end_char=2350
+3	—	—	PUNCT	_	_	2	_	_	start_char=2351|end_char=2352
+4	это	это	PRON	_	PronType=Dem	3	_	_	start_char=2353|end_char=2356
+5	продавленный	продавить	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	_	_	start_char=2357|end_char=2369
+6	Зеленским	Зеленский	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	5	_	_	start_char=2370|end_char=2379
+7	закон	закон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	_	_	start_char=2380|end_char=2385|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=2385|end_char=2386
+9	запрещающий	запрещать	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	8	_	_	start_char=2387|end_char=2398
+10	Киеву	Киев	PROPN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	9	_	_	start_char=2399|end_char=2404
+11	переговоры	переговоры	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	10	_	_	start_char=2405|end_char=2415
+12	с	с	ADP	_	_	11	_	_	start_char=2416|end_char=2417
+13	Россией	Россия	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	12	_	_	start_char=2418|end_char=2425|SpaceAfter=No
+14	.	.	PUNCT	_	_	13	_	_	start_char=2425|end_char=2426
+
+# text = Верховная Рада могла бы отменить его за наносекунду, стоит только Зеленскому попросить, но он наверняка этого не сделает.
+# sent_id = 20
+1	Верховная	верховный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	_	_	start_char=2427|end_char=2436
+2	Рада	Рад	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	_	_	start_char=2437|end_char=2441
+3	могла	мочь	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=2442|end_char=2447
+4	бы	бы	AUX	_	_	3	_	_	start_char=2448|end_char=2450
+5	отменить	отменить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	_	_	start_char=2451|end_char=2459
+6	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	_	_	start_char=2460|end_char=2463
+7	за	за	ADP	_	_	6	_	_	start_char=2464|end_char=2466
+8	наносекунду	наносекунда	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	_	_	start_char=2467|end_char=2478|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=2478|end_char=2479
+10	стоит	стоить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	_	_	start_char=2480|end_char=2485
+11	только	только	PART	_	_	10	_	_	start_char=2486|end_char=2492
+12	Зеленскому	Зеленский	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	11	_	_	start_char=2493|end_char=2503
+13	попросить	просить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	12	_	_	start_char=2504|end_char=2513|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	_	_	start_char=2513|end_char=2514
+15	но	но	CCONJ	_	_	14	_	_	start_char=2515|end_char=2517
+16	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	_	_	start_char=2518|end_char=2520
+17	наверняка	наверняка	ADV	_	Degree=Pos	16	_	_	start_char=2521|end_char=2530
+18	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	17	_	_	start_char=2531|end_char=2536
+19	не	не	PART	_	_	18	_	_	start_char=2537|end_char=2539
+20	сделает	делать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	19	_	_	start_char=2540|end_char=2547|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	_	_	start_char=2547|end_char=2548
+
+# text = Зеленский полностью контролирует украинский парламент, арестовывает или ссылает оппозиционных политиков и наступает на глотку прессе и другим СМИ.
+# sent_id = 21
+1	Зеленский	Зеленский	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=2549|end_char=2558
+2	полностью	полностью	ADV	_	Degree=Pos	1	_	_	start_char=2559|end_char=2568
+3	контролирует	контролировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=2569|end_char=2581
+4	украинский	украинский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	3	_	_	start_char=2582|end_char=2592
+5	парламент	парламент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	_	_	start_char=2593|end_char=2602|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=2602|end_char=2603
+7	арестовывает	арестовывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	_	_	start_char=2604|end_char=2616
+8	или	или	CCONJ	_	_	7	_	_	start_char=2617|end_char=2620
+9	ссылает	ссылать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	_	_	start_char=2621|end_char=2628
+10	оппозиционных	оппозиционный	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Number=Plur	9	_	_	start_char=2629|end_char=2642
+11	политиков	политик	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	10	_	_	start_char=2643|end_char=2652
+12	и	и	CCONJ	_	_	11	_	_	start_char=2653|end_char=2654
+13	наступает	наступать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	_	_	start_char=2655|end_char=2664
+14	на	на	ADP	_	_	13	_	_	start_char=2665|end_char=2667
+15	глотку	глотка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	_	_	start_char=2668|end_char=2674
+16	прессе	пресса	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	_	_	start_char=2675|end_char=2681
+17	и	и	CCONJ	_	_	16	_	_	start_char=2682|end_char=2683
+18	другим	другой	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	17	_	_	start_char=2684|end_char=2690
+19	СМИ	сми	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	18	_	_	start_char=2691|end_char=2694|SpaceAfter=No
+20	.	.	PUNCT	_	_	19	_	_	start_char=2694|end_char=2695
+
+# text = Зеленский держит ситуацию в ежовых рукавицах и лично не допустит прямых переговоров.
+# sent_id = 22
+1	Зеленский	Зеленский	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=2696|end_char=2705
+2	держит	держать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	_	_	start_char=2706|end_char=2712
+3	ситуацию	ситуация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	_	_	start_char=2713|end_char=2721
+4	в	в	ADP	_	_	3	_	_	start_char=2722|end_char=2723
+5	ежовых	ежовый	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	4	_	_	start_char=2724|end_char=2730
+6	рукавицах	рукавица	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	5	_	_	start_char=2731|end_char=2740
+7	и	и	CCONJ	_	_	6	_	_	start_char=2741|end_char=2742
+8	лично	лично	ADV	_	Degree=Pos	7	_	_	start_char=2743|end_char=2748
+9	не	не	PART	_	_	8	_	_	start_char=2749|end_char=2751
+10	допустит	допустить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	9	_	_	start_char=2752|end_char=2760
+11	прямых	прямой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	_	_	start_char=2761|end_char=2767
+12	переговоров	переговоры	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	11	_	_	start_char=2768|end_char=2779|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=2779|end_char=2780|SpaceAfter=No
+

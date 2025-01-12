@@ -1,0 +1,485 @@
+# text = НАТО обрушилось на Китай за поддержку России "Лидеры НАТО выступили с самой жёсткой в истории альянса риторикой, осудив поддержку Китаем России.
+# sent_id = 0
+1	НАТО	НАТО	PROPN	_	_	0	_	_	start_char=0|end_char=4
+2	обрушилось	обрушиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	1	_	_	start_char=5|end_char=15
+3	на	на	ADP	_	_	2	_	_	start_char=16|end_char=18
+4	Китай	Китай	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	_	_	start_char=19|end_char=24
+5	за	за	ADP	_	_	4	_	_	start_char=25|end_char=27
+6	поддержку	поддержка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	_	_	start_char=28|end_char=37
+7	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	_	_	start_char=38|end_char=44
+8	"	"	PUNCT	_	_	7	_	_	start_char=45|end_char=46|SpaceAfter=No
+9	Лидеры	лидер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	8	_	_	start_char=46|end_char=52
+10	НАТО	НАТО	PROPN	_	Case=Gen|Number=Sing	9	_	_	start_char=53|end_char=57
+11	выступили	выступить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	10	_	_	start_char=58|end_char=67
+12	с	с	ADP	_	_	11	_	_	start_char=68|end_char=69
+13	самой	самый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	12	_	_	start_char=70|end_char=75
+14	жёсткой	жесткий	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	13	_	_	start_char=76|end_char=83
+15	в	в	ADP	_	_	14	_	_	start_char=84|end_char=85
+16	истории	история	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	15	_	_	start_char=86|end_char=93
+17	альянса	альянс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	_	_	start_char=94|end_char=101
+18	риторикой	риторика	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	17	_	_	start_char=102|end_char=111|SpaceAfter=No
+19	,	,	PUNCT	_	_	18	_	_	start_char=111|end_char=112
+20	осудив	осудить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	19	_	_	start_char=113|end_char=119
+21	поддержку	поддержка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	20	_	_	start_char=120|end_char=129
+22	Китаем	Китай	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	21	_	_	start_char=130|end_char=136
+23	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	_	_	start_char=137|end_char=143|SpaceAfter=No
+24	.	.	PUNCT	_	_	23	_	_	start_char=143|end_char=144
+
+# text = Это произошло на фоне сообщений, что Пекин разрабатывает для России ударный беспилотник, который может появиться на украинских фронтах.
+# sent_id = 1
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	_	_	start_char=145|end_char=148
+2	произошло	произойти	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=149|end_char=158
+3	на	на	ADP	_	_	2	_	_	start_char=159|end_char=161
+4	фоне	фон	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	_	_	start_char=162|end_char=166
+5	сообщений	сообщение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	4	_	_	start_char=167|end_char=176|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=176|end_char=177
+7	что	что	SCONJ	_	_	6	_	_	start_char=178|end_char=181
+8	Пекин	Пекин	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	_	_	start_char=182|end_char=187
+9	разрабатывает	разрабатывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	_	_	start_char=188|end_char=201
+10	для	для	ADP	_	_	9	_	_	start_char=202|end_char=205
+11	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	_	_	start_char=206|end_char=212
+12	ударный	ударный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	11	_	_	start_char=213|end_char=220
+13	беспилотник	беспилотник	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	_	_	start_char=221|end_char=232|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	_	_	start_char=232|end_char=233
+15	который	который	PRON	_	Case=Nom|PronType=Int,Rel	14	_	_	start_char=234|end_char=241
+16	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	_	_	start_char=242|end_char=247
+17	появиться	появиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	16	_	_	start_char=248|end_char=257
+18	на	на	ADP	_	_	17	_	_	start_char=258|end_char=260
+19	украинских	украинский	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	18	_	_	start_char=261|end_char=271
+20	фронтах	фронт	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	19	_	_	start_char=272|end_char=279|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	_	_	start_char=279|end_char=280
+
+# text = Данную информацию приводит Bloomberg.
+# sent_id = 2
+1	Данную	данный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	0	_	_	start_char=281|end_char=287
+2	информацию	информация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1	_	_	start_char=288|end_char=298
+3	приводит	приводить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=299|end_char=307
+4	Bloomberg	Bloomberg	PROPN	_	Foreign=Yes	3	_	_	start_char=308|end_char=317|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	_	_	start_char=317|end_char=318
+
+# text = Только не помогайте России.
+# sent_id = 3
+1	Только	только	PART	_	_	0	_	_	start_char=319|end_char=325
+2	не	не	PART	_	_	1	_	_	start_char=326|end_char=328
+3	помогайте	помогать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	2	_	_	start_char=329|end_char=338
+4	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	_	_	start_char=339|end_char=345|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	_	_	start_char=345|end_char=346
+
+# text = В декларации саммита альянса в Вашингтоне члены НАТО характеризуют Китай как решающего пособника России в её конфликте с Украиной.
+# sent_id = 4
+1	В	в	ADP	_	_	0	_	_	start_char=347|end_char=348
+2	декларации	декларация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	_	_	start_char=349|end_char=359
+3	саммита	саммит	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	_	_	start_char=360|end_char=367
+4	альянса	альянс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=368|end_char=375
+5	в	в	ADP	_	_	4	_	_	start_char=376|end_char=377
+6	Вашингтоне	Вашингтон	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	_	_	start_char=378|end_char=388
+7	члены	член	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	6	_	_	start_char=389|end_char=394
+8	НАТО	НАТО	PROPN	_	Case=Gen|Number=Sing	7	_	_	start_char=395|end_char=399
+9	характеризуют	характеризовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	_	_	start_char=400|end_char=413
+10	Китай	Китай	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	_	_	start_char=414|end_char=419
+11	как	как	SCONJ	_	_	10	_	_	start_char=420|end_char=423
+12	решающего	решать	VERB	_	Animacy=Anim|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	11	_	_	start_char=424|end_char=433
+13	пособника	пособник	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	12	_	_	start_char=434|end_char=443
+14	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	_	_	start_char=444|end_char=450
+15	в	в	ADP	_	_	14	_	_	start_char=451|end_char=452
+16	её	ее	DET	_	Poss=Yes|PronType=Prs	15	_	_	start_char=453|end_char=455
+17	конфликте	конфликт	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	16	_	_	start_char=456|end_char=465
+18	с	с	ADP	_	_	17	_	_	start_char=466|end_char=467
+19	Украиной	Украина	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	18	_	_	start_char=468|end_char=476|SpaceAfter=No
+20	.	.	PUNCT	_	_	19	_	_	start_char=476|end_char=477
+
+# text = В коммюнике подробно описываются поставки Китаем материалов двойного назначения, включая компоненты оружия, оборудование и сырьё, используемые в качестве ресурсов для военного производства.
+# sent_id = 5
+1	В	в	ADP	_	_	0	_	_	start_char=478|end_char=479
+2	коммюнике	коммюника	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	_	_	start_char=480|end_char=489
+3	подробно	подробно	ADV	_	Degree=Pos	2	_	_	start_char=490|end_char=498
+4	описываются	описывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	_	_	start_char=499|end_char=510
+5	поставки	поставка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	4	_	_	start_char=511|end_char=519
+6	Китаем	Китай	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	_	_	start_char=520|end_char=526
+7	материалов	материал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	_	_	start_char=527|end_char=537
+8	двойного	двойной	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	_	_	start_char=538|end_char=546
+9	назначения	назначение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	_	_	start_char=547|end_char=557|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=557|end_char=558
+11	включая	включая	ADV	_	Degree=Pos	10	_	_	start_char=559|end_char=566
+12	компоненты	компонент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	11	_	_	start_char=567|end_char=577
+13	оружия	оружие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	_	_	start_char=578|end_char=584|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	_	_	start_char=584|end_char=585
+15	оборудование	оборудование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	14	_	_	start_char=586|end_char=598
+16	и	и	CCONJ	_	_	15	_	_	start_char=599|end_char=600
+17	сырьё	сырье	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	16	_	_	start_char=601|end_char=606|SpaceAfter=No
+18	,	,	PUNCT	_	_	17	_	_	start_char=606|end_char=607
+19	используемые	использовать	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	18	_	_	start_char=608|end_char=620
+20	в	в	ADP	_	_	19	_	_	start_char=621|end_char=622
+21	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	20	_	_	start_char=623|end_char=631
+22	ресурсов	ресурс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	21	_	_	start_char=632|end_char=640
+23	для	для	ADP	_	_	22	_	_	start_char=641|end_char=644
+24	военного	военный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	23	_	_	start_char=645|end_char=653
+25	производства	производство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	_	_	start_char=654|end_char=666|SpaceAfter=No
+26	.	.	PUNCT	_	_	25	_	_	start_char=666|end_char=667
+
+# text = При этом в декларации говорится, что Китай создаёт системные вызовы евроатлантической безопасности, в том числе посредством киберактивности, дезинформации и разработки противокосмических систем.
+# sent_id = 6
+1	При	при	ADP	_	_	0	_	_	start_char=668|end_char=671
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=672|end_char=676
+3	в	в	ADP	_	_	2	_	_	start_char=677|end_char=678
+4	декларации	декларация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	_	_	start_char=679|end_char=689
+5	говорится	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	_	_	start_char=690|end_char=699|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=699|end_char=700
+7	что	что	SCONJ	_	_	6	_	_	start_char=701|end_char=704
+8	Китай	Китай	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	_	_	start_char=705|end_char=710
+9	создаёт	создавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	_	_	start_char=711|end_char=718
+10	системные	системный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	9	_	_	start_char=719|end_char=728
+11	вызовы	вызов	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	10	_	_	start_char=729|end_char=735
+12	евроатлантической	евроатлантический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	_	_	start_char=736|end_char=753
+13	безопасности	безопасность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	_	_	start_char=754|end_char=766|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	_	_	start_char=766|end_char=767
+15	в	в	ADP	_	_	14	_	_	start_char=768|end_char=769
+16	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	15	_	_	start_char=770|end_char=773
+17	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	16	_	_	start_char=774|end_char=779
+18	посредством	посредством	ADP	_	_	17	_	_	start_char=780|end_char=791
+19	киберактивности	киберактивность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	_	_	start_char=792|end_char=807|SpaceAfter=No
+20	,	,	PUNCT	_	_	19	_	_	start_char=807|end_char=808
+21	дезинформации	дезинформация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	_	_	start_char=809|end_char=822
+22	и	и	CCONJ	_	_	21	_	_	start_char=823|end_char=824
+23	разработки	разработка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	_	_	start_char=825|end_char=835
+24	противокосмических	противокосмический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	23	_	_	start_char=836|end_char=854
+25	систем	система	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	24	_	_	start_char=855|end_char=861|SpaceAfter=No
+26	.	.	PUNCT	_	_	25	_	_	start_char=861|end_char=862
+
+# text = Сближение.
+# sent_id = 7
+1	Сближение	сближение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	_	_	start_char=863|end_char=872|SpaceAfter=No
+2	.	.	PUNCT	_	_	1	_	_	start_char=872|end_char=873
+
+# text = Союзники по НАТО отмечают, что Китай и Россия тесно сотрудничают в сфере обороны, в том числе с помощью дополнительных совместных военных учений и поставок Пекином большого количества оборудования двойного назначения.
+# sent_id = 8
+1	Союзники	союзник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	0	_	_	start_char=874|end_char=882
+2	по	по	ADP	_	_	1	_	_	start_char=883|end_char=885
+3	НАТО	НАТО	PROPN	_	Number=Sing	2	_	_	start_char=886|end_char=890
+4	отмечают	отмечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	_	_	start_char=891|end_char=899|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=899|end_char=900
+6	что	что	SCONJ	_	_	5	_	_	start_char=901|end_char=904
+7	Китай	Китай	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	_	_	start_char=905|end_char=910
+8	и	и	CCONJ	_	_	7	_	_	start_char=911|end_char=912
+9	Россия	Россия	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	_	_	start_char=913|end_char=919
+10	тесно	тесно	ADV	_	Degree=Pos	9	_	_	start_char=920|end_char=925
+11	сотрудничают	сотрудничать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	_	_	start_char=926|end_char=938
+12	в	в	ADP	_	_	11	_	_	start_char=939|end_char=940
+13	сфере	сфера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	_	_	start_char=941|end_char=946
+14	обороны	оборона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	_	_	start_char=947|end_char=954|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=954|end_char=955
+16	в	в	ADP	_	_	15	_	_	start_char=956|end_char=957
+17	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	16	_	_	start_char=958|end_char=961
+18	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	17	_	_	start_char=962|end_char=967
+19	с	с	ADP	_	_	18	_	_	start_char=968|end_char=969
+20	помощью	помощь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	19	_	_	start_char=970|end_char=977
+21	дополнительных	дополнительный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	20	_	_	start_char=978|end_char=992
+22	совместных	совместный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	21	_	_	start_char=993|end_char=1003
+23	военных	военный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	22	_	_	start_char=1004|end_char=1011
+24	учений	учение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	23	_	_	start_char=1012|end_char=1018
+25	и	и	CCONJ	_	_	24	_	_	start_char=1019|end_char=1020
+26	поставок	поставка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	25	_	_	start_char=1021|end_char=1029
+27	Пекином	Пекин	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	26	_	_	start_char=1030|end_char=1037
+28	большого	большой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	27	_	_	start_char=1038|end_char=1046
+29	количества	количество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	28	_	_	start_char=1047|end_char=1057
+30	оборудования	оборудование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	29	_	_	start_char=1058|end_char=1070
+31	двойного	двойной	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	30	_	_	start_char=1071|end_char=1079
+32	назначения	назначение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	31	_	_	start_char=1080|end_char=1090|SpaceAfter=No
+33	.	.	PUNCT	_	_	32	_	_	start_char=1090|end_char=1091
+
+# text = Ещё в апреле Bloomberg сообщал, что Пекин поставляет России спутниковые снимки военного назначения, микроэлектронику и станки для танков, а также ряд технологий, используемых в оружии или необходимых для его производства.
+# sent_id = 9
+1	Ещё	еще	ADV	_	Degree=Pos	0	_	_	start_char=1092|end_char=1095
+2	в	в	ADP	_	_	1	_	_	start_char=1096|end_char=1097
+3	апреле	апрель	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	_	_	start_char=1098|end_char=1104
+4	Bloomberg	Bloomberg	PROPN	_	_	3	_	_	start_char=1105|end_char=1114
+5	сообщал	сообщать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	_	_	start_char=1115|end_char=1122|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=1122|end_char=1123
+7	что	что	SCONJ	_	_	6	_	_	start_char=1124|end_char=1127
+8	Пекин	Пекин	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	_	_	start_char=1128|end_char=1133
+9	поставляет	поставлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	_	_	start_char=1134|end_char=1144
+10	России	Россия	PROPN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	9	_	_	start_char=1145|end_char=1151
+11	спутниковые	спутниковый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	10	_	_	start_char=1152|end_char=1163
+12	снимки	снимок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	11	_	_	start_char=1164|end_char=1170
+13	военного	военный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	12	_	_	start_char=1171|end_char=1179
+14	назначения	назначение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	_	_	start_char=1180|end_char=1190|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=1190|end_char=1191
+16	микроэлектронику	микроэлектроника	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	_	_	start_char=1192|end_char=1208
+17	и	и	CCONJ	_	_	16	_	_	start_char=1209|end_char=1210
+18	станки	станок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	17	_	_	start_char=1211|end_char=1217
+19	для	для	ADP	_	_	18	_	_	start_char=1218|end_char=1221
+20	танков	танк	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	19	_	_	start_char=1222|end_char=1228|SpaceAfter=No
+21	,	,	PUNCT	_	_	20	_	_	start_char=1228|end_char=1229
+22	а	а	CCONJ	_	_	21	_	_	start_char=1230|end_char=1231
+23	также	также	PART	_	_	22	_	_	start_char=1232|end_char=1237
+24	ряд	ряд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	23	_	_	start_char=1238|end_char=1241
+25	технологий	технология	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	24	_	_	start_char=1242|end_char=1252|SpaceAfter=No
+26	,	,	PUNCT	_	_	25	_	_	start_char=1252|end_char=1253
+27	используемых	использовать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	26	_	_	start_char=1254|end_char=1266
+28	в	в	ADP	_	_	27	_	_	start_char=1267|end_char=1268
+29	оружии	оружие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	28	_	_	start_char=1269|end_char=1275
+30	или	или	CCONJ	_	_	29	_	_	start_char=1276|end_char=1279
+31	необходимых	необходимый	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	30	_	_	start_char=1280|end_char=1291
+32	для	для	ADP	_	_	31	_	_	start_char=1292|end_char=1295
+33	его	его	DET	_	Poss=Yes|PronType=Prs	32	_	_	start_char=1296|end_char=1299
+34	производства	производство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	33	_	_	start_char=1300|end_char=1312|SpaceAfter=No
+35	.	.	PUNCT	_	_	34	_	_	start_char=1312|end_char=1313
+
+# text = При этом члены альянса фиксируют, что Китай воздерживается от прямых поставок оружия и военной амуниции.
+# sent_id = 10
+1	При	при	ADP	_	_	0	_	_	start_char=1314|end_char=1317
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=1318|end_char=1322
+3	члены	член	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	_	_	start_char=1323|end_char=1328
+4	альянса	альянс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=1329|end_char=1336
+5	фиксируют	фиксировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	_	_	start_char=1337|end_char=1346|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=1346|end_char=1347
+7	что	что	SCONJ	_	_	6	_	_	start_char=1348|end_char=1351
+8	Китай	Китай	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	_	_	start_char=1352|end_char=1357
+9	воздерживается	воздерживать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	8	_	_	start_char=1358|end_char=1372
+10	от	от	ADP	_	_	9	_	_	start_char=1373|end_char=1375
+11	прямых	прямой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	_	_	start_char=1376|end_char=1382
+12	поставок	поставка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	_	_	start_char=1383|end_char=1391
+13	оружия	оружие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	_	_	start_char=1392|end_char=1398
+14	и	и	CCONJ	_	_	13	_	_	start_char=1399|end_char=1400
+15	военной	военный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	14	_	_	start_char=1401|end_char=1408
+16	амуниции	амуниция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	_	_	start_char=1409|end_char=1417|SpaceAfter=No
+17	.	.	PUNCT	_	_	16	_	_	start_char=1417|end_char=1418
+
+# text = Как отмечают представители США, это будет означать беспрецедентную эскалацию и почти наверняка повлечёт более жёсткие меры например, санкции против второй по величине экономики мира.
+# sent_id = 11
+1	Как	как	SCONJ	_	_	0	_	_	start_char=1419|end_char=1422
+2	отмечают	отмечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	_	_	start_char=1423|end_char=1431
+3	представители	представитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	_	_	start_char=1432|end_char=1445
+4	США	США	PROPN	_	Animacy=Inan|Case=Gen|Number=Plur	3	_	_	start_char=1446|end_char=1449|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=1449|end_char=1450
+6	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	_	_	start_char=1451|end_char=1454
+7	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	_	_	start_char=1455|end_char=1460
+8	означать	означать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	_	_	start_char=1461|end_char=1469
+9	беспрецедентную	беспрецедентный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	8	_	_	start_char=1470|end_char=1485
+10	эскалацию	эскалация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	_	_	start_char=1486|end_char=1495
+11	и	и	CCONJ	_	_	10	_	_	start_char=1496|end_char=1497
+12	почти	почти	ADV	_	Degree=Pos	11	_	_	start_char=1498|end_char=1503
+13	наверняка	наверняка	ADV	_	Degree=Pos	12	_	_	start_char=1504|end_char=1513
+14	повлечёт	повать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	_	_	start_char=1514|end_char=1522
+15	более	более	ADV	_	Degree=Cmp	14	_	_	start_char=1523|end_char=1528
+16	жёсткие	жесткий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	15	_	_	start_char=1529|end_char=1536
+17	меры	мера	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	16	_	_	start_char=1537|end_char=1541
+18	например	например	ADV	_	Degree=Pos	17	_	_	start_char=1542|end_char=1550|SpaceAfter=No
+19	,	,	PUNCT	_	_	18	_	_	start_char=1550|end_char=1551
+20	санкции	санкция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	19	_	_	start_char=1552|end_char=1559
+21	против	против	ADP	_	_	20	_	_	start_char=1560|end_char=1566
+22	второй	второй	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	21	_	_	start_char=1567|end_char=1573
+23	по	по	ADP	_	_	22	_	_	start_char=1574|end_char=1576
+24	величине	величина	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	23	_	_	start_char=1577|end_char=1585
+25	экономики	экономика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	24	_	_	start_char=1586|end_char=1595
+26	мира	мир	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	25	_	_	start_char=1596|end_char=1600|SpaceAfter=No
+27	.	.	PUNCT	_	_	26	_	_	start_char=1600|end_char=1601
+
+# text = Однако такая умиротворённость американцев не успокаивает их европейских союзников.
+# sent_id = 12
+1	Однако	однако	ADV	_	Degree=Pos	0	_	_	start_char=1602|end_char=1608
+2	такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	1	_	_	start_char=1609|end_char=1614
+3	умиротворённость	умиротворенность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	_	_	start_char=1615|end_char=1631
+4	американцев	американец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	3	_	_	start_char=1632|end_char=1643
+5	не	не	PART	_	_	4	_	_	start_char=1644|end_char=1646
+6	успокаивает	успокаивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	_	_	start_char=1647|end_char=1658
+7	их	их	DET	_	Poss=Yes|PronType=Prs	6	_	_	start_char=1659|end_char=1661
+8	европейских	европейский	ADJ	_	Animacy=Anim|Case=Gen|Degree=Pos|Number=Plur	7	_	_	start_char=1662|end_char=1673
+9	союзников	союзник	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	8	_	_	start_char=1674|end_char=1683|SpaceAfter=No
+10	.	.	PUNCT	_	_	9	_	_	start_char=1683|end_char=1684
+
+# text = В Европе крайне обеспокоены последними сообщениями о российско-китайской разработке ударного БПЛА, аналогичного используемой на Украине иранской модели.
+# sent_id = 13
+1	В	в	ADP	_	_	0	_	_	start_char=1685|end_char=1686
+2	Европе	Европа	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	_	_	start_char=1687|end_char=1693
+3	крайне	крайне	ADV	_	Degree=Pos	2	_	_	start_char=1694|end_char=1700
+4	обеспокоены	обеспокоить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	3	_	_	start_char=1701|end_char=1712
+5	последними	последний	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	4	_	_	start_char=1713|end_char=1723
+6	сообщениями	сообщение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	5	_	_	start_char=1724|end_char=1735
+7	о	о	ADP	_	_	6	_	_	start_char=1736|end_char=1737
+8	российско	российский	ADJ	_	Degree=Pos	7	_	_	start_char=1738|end_char=1747|SpaceAfter=No
+9	-	-	PUNCT	_	_	8	_	_	start_char=1747|end_char=1748|SpaceAfter=No
+10	китайской	китайский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	9	_	_	start_char=1748|end_char=1757
+11	разработке	разработка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	_	_	start_char=1758|end_char=1768
+12	ударного	ударный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	11	_	_	start_char=1769|end_char=1777
+13	БПЛА	бпла	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	_	_	start_char=1778|end_char=1782|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	_	_	start_char=1782|end_char=1783
+15	аналогичного	аналогичный	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	14	_	_	start_char=1784|end_char=1796
+16	используемой	использовать	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	15	_	_	start_char=1797|end_char=1809
+17	на	на	ADP	_	_	16	_	_	start_char=1810|end_char=1812
+18	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	17	_	_	start_char=1813|end_char=1820
+19	иранской	иранский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	18	_	_	start_char=1821|end_char=1829
+20	модели	модель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	_	_	start_char=1830|end_char=1836|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	_	_	start_char=1836|end_char=1837
+
+# text = Китайский военный БПЛА.
+# sent_id = 14
+1	Китайский	китайский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	_	_	start_char=1838|end_char=1847
+2	военный	военный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	_	_	start_char=1848|end_char=1855
+3	БПЛА	бпла	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	_	_	start_char=1856|end_char=1860|SpaceAfter=No
+4	.	.	PUNCT	_	_	3	_	_	start_char=1860|end_char=1861
+
+# text = © militarydrones.org.
+# sent_id = 15
+1	©	©	PROPN	_	Foreign=Yes	0	_	_	start_char=1862|end_char=1863
+2	militarydrones.org	militarydrones.org	X	_	Foreign=Yes	1	_	_	start_char=1864|end_char=1882|SpaceAfter=No
+3	.	.	PUNCT	_	_	2	_	_	start_char=1882|end_char=1883
+
+# text = Ещё в мае бывший министр обороны Великобритании Грант Шэппс спровоцировал размолвку с Вашингтоном, когда предположил, что Китай работает над предоставлением России летальной помощи.
+# sent_id = 16
+1	Ещё	еще	ADV	_	Degree=Pos	0	_	_	start_char=1884|end_char=1887
+2	в	в	ADP	_	_	1	_	_	start_char=1888|end_char=1889
+3	мае	май	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	_	_	start_char=1890|end_char=1893
+4	бывший	бывший	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	_	_	start_char=1894|end_char=1900
+5	министр	министр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=1901|end_char=1908
+6	обороны	оборона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	_	_	start_char=1909|end_char=1916
+7	Великобритании	Великобритания	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	_	_	start_char=1917|end_char=1931
+8	Грант	Грант	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	_	_	start_char=1932|end_char=1937
+9	Шэппс	Шэппс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	_	_	start_char=1938|end_char=1943
+10	спровоцировал	провоцировать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	_	_	start_char=1944|end_char=1957
+11	размолвку	размолвка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	_	_	start_char=1958|end_char=1967
+12	с	с	ADP	_	_	11	_	_	start_char=1968|end_char=1969
+13	Вашингтоном	Вашингтон	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	12	_	_	start_char=1970|end_char=1981|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	_	_	start_char=1981|end_char=1982
+15	когда	когда	SCONJ	_	_	14	_	_	start_char=1983|end_char=1988
+16	предположил	предположить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	15	_	_	start_char=1989|end_char=2000|SpaceAfter=No
+17	,	,	PUNCT	_	_	16	_	_	start_char=2000|end_char=2001
+18	что	что	SCONJ	_	_	17	_	_	start_char=2002|end_char=2005
+19	Китай	Китай	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	18	_	_	start_char=2006|end_char=2011
+20	работает	работать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	_	_	start_char=2012|end_char=2020
+21	над	над	ADP	_	_	20	_	_	start_char=2021|end_char=2024
+22	предоставлением	предоставление	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	21	_	_	start_char=2025|end_char=2040
+23	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	_	_	start_char=2041|end_char=2047
+24	летальной	летальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	23	_	_	start_char=2048|end_char=2057
+25	помощи	помощь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	24	_	_	start_char=2058|end_char=2064|SpaceAfter=No
+26	.	.	PUNCT	_	_	25	_	_	start_char=2064|end_char=2065
+
+# text = Советник по национальной безопасности США Джейк Салливан буквально на следующий день заявил, что США не сталкивались с тем, чтобы Китай поставлял оружие напрямую России.
+# sent_id = 17
+1	Советник	советник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=2066|end_char=2074
+2	по	по	ADP	_	_	1	_	_	start_char=2075|end_char=2077
+3	национальной	национальный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	2	_	_	start_char=2078|end_char=2090
+4	безопасности	безопасность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	3	_	_	start_char=2091|end_char=2103
+5	США	США	PROPN	_	Animacy=Inan|Case=Gen|Number=Plur	4	_	_	start_char=2104|end_char=2107
+6	Джейк	Джейк	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	_	_	start_char=2108|end_char=2113
+7	Салливан	Салливан	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	_	_	start_char=2114|end_char=2122
+8	буквально	буквально	ADV	_	Degree=Pos	7	_	_	start_char=2123|end_char=2132
+9	на	на	ADP	_	_	8	_	_	start_char=2133|end_char=2135
+10	следующий	следующий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	_	_	start_char=2136|end_char=2145
+11	день	день	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	_	_	start_char=2146|end_char=2150
+12	заявил	заявить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	_	_	start_char=2151|end_char=2157|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=2157|end_char=2158
+14	что	что	SCONJ	_	_	13	_	_	start_char=2159|end_char=2162
+15	США	США	PROPN	_	Number=Plur	14	_	_	start_char=2163|end_char=2166
+16	не	не	PART	_	_	15	_	_	start_char=2167|end_char=2169
+17	сталкивались	сталкиваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	16	_	_	start_char=2170|end_char=2182
+18	с	с	ADP	_	_	17	_	_	start_char=2183|end_char=2184
+19	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	18	_	_	start_char=2185|end_char=2188|SpaceAfter=No
+20	,	,	PUNCT	_	_	19	_	_	start_char=2188|end_char=2189
+21	чтобы	чтобы	SCONJ	_	Mood=Cnd	20	_	_	start_char=2190|end_char=2195
+22	Китай	Китай	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	21	_	_	start_char=2196|end_char=2201
+23	поставлял	поставлять	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	22	_	_	start_char=2202|end_char=2211
+24	оружие	оружие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	23	_	_	start_char=2212|end_char=2218
+25	напрямую	напрямую	ADV	_	Degree=Pos	24	_	_	start_char=2219|end_char=2227
+26	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	_	_	start_char=2228|end_char=2234|SpaceAfter=No
+27	.	.	PUNCT	_	_	26	_	_	start_char=2234|end_char=2235
+
+# text = Глобальные изменения.
+# sent_id = 18
+1	Глобальные	глобальный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	0	_	_	start_char=2236|end_char=2246
+2	изменения	изменение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	1	_	_	start_char=2247|end_char=2256|SpaceAfter=No
+3	.	.	PUNCT	_	_	2	_	_	start_char=2256|end_char=2257
+
+# text = И всё же натиск НАТО демонстрирует растущий консенсус между США и их партнёрами в том, что Пекин представляет угрозу не только в Азии, но и для европейской безопасности.
+# sent_id = 19
+1	И	и	CCONJ	_	_	0	_	_	start_char=2258|end_char=2259
+2	всё	все	PART	_	_	1	_	_	start_char=2260|end_char=2263
+3	же	же	PART	_	_	2	_	_	start_char=2264|end_char=2266
+4	натиск	натиск	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	_	_	start_char=2267|end_char=2273
+5	НАТО	НАТО	PROPN	_	_	4	_	_	start_char=2274|end_char=2278
+6	демонстрирует	демонстрировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	_	_	start_char=2279|end_char=2292
+7	растущий	расти	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	_	_	start_char=2293|end_char=2301
+8	консенсус	консенсус	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	_	_	start_char=2302|end_char=2311
+9	между	между	ADP	_	_	8	_	_	start_char=2312|end_char=2317
+10	США	США	PROPN	_	Animacy=Inan|Case=Ins|Number=Plur	9	_	_	start_char=2318|end_char=2321
+11	и	и	CCONJ	_	_	10	_	_	start_char=2322|end_char=2323
+12	их	их	DET	_	Poss=Yes|PronType=Prs	11	_	_	start_char=2324|end_char=2326
+13	партнёрами	партнер	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	12	_	_	start_char=2327|end_char=2337
+14	в	в	ADP	_	_	13	_	_	start_char=2338|end_char=2339
+15	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	14	_	_	start_char=2340|end_char=2343|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	_	_	start_char=2343|end_char=2344
+17	что	что	SCONJ	_	_	16	_	_	start_char=2345|end_char=2348
+18	Пекин	Пекин	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	17	_	_	start_char=2349|end_char=2354
+19	представляет	представлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	_	_	start_char=2355|end_char=2367
+20	угрозу	угроза	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	19	_	_	start_char=2368|end_char=2374
+21	не	не	PART	_	_	20	_	_	start_char=2375|end_char=2377
+22	только	только	PART	_	_	21	_	_	start_char=2378|end_char=2384
+23	в	в	ADP	_	_	22	_	_	start_char=2385|end_char=2386
+24	Азии	Азия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	23	_	_	start_char=2387|end_char=2391|SpaceAfter=No
+25	,	,	PUNCT	_	_	24	_	_	start_char=2391|end_char=2392
+26	но	но	CCONJ	_	_	25	_	_	start_char=2393|end_char=2395
+27	и	и	PART	_	_	26	_	_	start_char=2396|end_char=2397
+28	для	для	ADP	_	_	27	_	_	start_char=2398|end_char=2401
+29	европейской	европейский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	28	_	_	start_char=2402|end_char=2413
+30	безопасности	безопасность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	29	_	_	start_char=2414|end_char=2426|SpaceAfter=No
+31	.	.	PUNCT	_	_	30	_	_	start_char=2426|end_char=2427
+
+# text = В последние годы европейские столицы по примеру Берлина, Лондона, Праги и Вильнюса ужесточают свою позицию по Китаю.
+# sent_id = 20
+1	В	в	ADP	_	_	0	_	_	start_char=2428|end_char=2429
+2	последние	последний	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	1	_	_	start_char=2430|end_char=2439
+3	годы	год	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	2	_	_	start_char=2440|end_char=2444
+4	европейские	европейский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	_	_	start_char=2445|end_char=2456
+5	столицы	столица	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	4	_	_	start_char=2457|end_char=2464
+6	по	по	ADP	_	_	5	_	_	start_char=2465|end_char=2467
+7	примеру	пример	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	6	_	_	start_char=2468|end_char=2475
+8	Берлина	Берлин	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	_	_	start_char=2476|end_char=2483|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=2483|end_char=2484
+10	Лондона	Лондон	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	_	_	start_char=2485|end_char=2492|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=2492|end_char=2493
+12	Праги	Прага	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	_	_	start_char=2494|end_char=2499
+13	и	и	CCONJ	_	_	12	_	_	start_char=2500|end_char=2501
+14	Вильнюса	Вильнюс	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	_	_	start_char=2502|end_char=2510
+15	ужесточают	ужесточать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	_	_	start_char=2511|end_char=2521
+16	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	15	_	_	start_char=2522|end_char=2526
+17	позицию	позиция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	16	_	_	start_char=2527|end_char=2534
+18	по	по	ADP	_	_	17	_	_	start_char=2535|end_char=2537
+19	Китаю	Китай	PROPN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	18	_	_	start_char=2538|end_char=2543|SpaceAfter=No
+20	.	.	PUNCT	_	_	19	_	_	start_char=2543|end_char=2544
+
+# text = Причины тому лежат далеко за пределами военного конфликта на Украине.
+# sent_id = 21
+1	Причины	причина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	_	_	start_char=2545|end_char=2552
+2	тому	то	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=2553|end_char=2557
+3	лежат	лежать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=2558|end_char=2563
+4	далеко	далеко	ADV	_	Degree=Pos	3	_	_	start_char=2564|end_char=2570
+5	за	за	ADP	_	_	4	_	_	start_char=2571|end_char=2573
+6	пределами	предел	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	5	_	_	start_char=2574|end_char=2583
+7	военного	военный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	6	_	_	start_char=2584|end_char=2592
+8	конфликта	конфликт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	_	_	start_char=2593|end_char=2602
+9	на	на	ADP	_	_	8	_	_	start_char=2603|end_char=2605
+10	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	9	_	_	start_char=2606|end_char=2613|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	_	_	start_char=2613|end_char=2614
+
+# text = Речь идёт о постепенном осознании Западом неизбежности столкновения цивилизационного плана, последствия которого будут иметь глобальный характер."
+# sent_id = 22
+1	Речь	речь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	_	_	start_char=2615|end_char=2619
+2	идёт	идти	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	_	_	start_char=2620|end_char=2624
+3	о	о	ADP	_	_	2	_	_	start_char=2625|end_char=2626
+4	постепенном	постепенный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	3	_	_	start_char=2627|end_char=2638
+5	осознании	осознание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	_	_	start_char=2639|end_char=2648
+6	Западом	Запад	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	_	_	start_char=2649|end_char=2656
+7	неизбежности	неизбежность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	_	_	start_char=2657|end_char=2669
+8	столкновения	столкновение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	_	_	start_char=2670|end_char=2682
+9	цивилизационного	цивилизационный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	_	_	start_char=2683|end_char=2699
+10	плана	план	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	_	_	start_char=2700|end_char=2705|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=2705|end_char=2706
+12	последствия	последствие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	11	_	_	start_char=2707|end_char=2718
+13	которого	который	PRON	_	Case=Gen|PronType=Int,Rel	12	_	_	start_char=2719|end_char=2727
+14	будут	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	_	_	start_char=2728|end_char=2733
+15	иметь	иметь	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	14	_	_	start_char=2734|end_char=2739
+16	глобальный	глобальный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	15	_	_	start_char=2740|end_char=2750
+17	характер	характер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	_	_	start_char=2751|end_char=2759|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	_	_	start_char=2759|end_char=2760|SpaceAfter=No
+19	"	"	PUNCT	_	_	18	_	_	start_char=2760|end_char=2761|SpaceAfter=No
+

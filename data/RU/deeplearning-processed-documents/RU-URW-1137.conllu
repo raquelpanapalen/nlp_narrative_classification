@@ -1,0 +1,587 @@
+# text = В деле о покушении на Собчак и Симоньян появились новые подозреваемые.
+# sent_id = 0
+1	В	в	ADP	_	_	0	_	_	start_char=0|end_char=1
+2	деле	дело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1	_	_	start_char=2|end_char=6
+3	о	о	ADP	_	_	2	_	_	start_char=7|end_char=8
+4	покушении	покушение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	_	_	start_char=9|end_char=18
+5	на	на	ADP	_	_	4	_	_	start_char=19|end_char=21
+6	Собчак	Собчак	PROPN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	5	_	_	start_char=22|end_char=28
+7	и	и	CCONJ	_	_	6	_	_	start_char=29|end_char=30
+8	Симоньян	Симоньян	PROPN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	7	_	_	start_char=31|end_char=39
+9	появились	появиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	8	_	_	start_char=40|end_char=49
+10	новые	новый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	9	_	_	start_char=50|end_char=55
+11	подозреваемые	подозреваемый	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	10	_	_	start_char=56|end_char=69|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	_	_	start_char=69|end_char=70
+
+# text = Среди них студент, восьмиклассник и монтажник 16:30 В уголовном деле о покушении на главного редактора RT Маргариту Симоньян и журналистку Ксению Собчак появились три новых фигуранта.
+# sent_id = 1
+1	Среди	среди	ADP	_	_	0	_	_	start_char=71|end_char=76
+2	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	1	_	_	start_char=77|end_char=80
+3	студент	студент	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	_	_	start_char=81|end_char=88|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=88|end_char=89
+5	восьмиклассник	восьмиклассник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=90|end_char=104
+6	и	и	CCONJ	_	_	5	_	_	start_char=105|end_char=106
+7	монтажник	монтажник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	_	_	start_char=107|end_char=116
+8	16	16	NUM	_	NumType=Card	7	_	_	start_char=117|end_char=119|SpaceAfter=No
+9	:	:	PUNCT	_	_	8	_	_	start_char=119|end_char=120|SpaceAfter=No
+10	30	30	NUM	_	NumType=Card	9	_	_	start_char=120|end_char=122
+11	В	в	ADP	_	_	10	_	_	start_char=123|end_char=124
+12	уголовном	уголовный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	11	_	_	start_char=125|end_char=134
+13	деле	дело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	12	_	_	start_char=135|end_char=139
+14	о	о	ADP	_	_	13	_	_	start_char=140|end_char=141
+15	покушении	покушение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	14	_	_	start_char=142|end_char=151
+16	на	на	ADP	_	_	15	_	_	start_char=152|end_char=154
+17	главного	главный	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	16	_	_	start_char=155|end_char=163
+18	редактора	редактор	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	17	_	_	start_char=164|end_char=173
+19	RT	RT	PROPN	_	Foreign=Yes	18	_	_	start_char=174|end_char=176
+20	Маргариту	Маргарита	PROPN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	19	_	_	start_char=177|end_char=186
+21	Симоньян	Симоньян	PROPN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	20	_	_	start_char=187|end_char=195
+22	и	и	CCONJ	_	_	21	_	_	start_char=196|end_char=197
+23	журналистку	журналистка	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	22	_	_	start_char=198|end_char=209
+24	Ксению	Ксения	PROPN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	23	_	_	start_char=210|end_char=216
+25	Собчак	Собчак	PROPN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	24	_	_	start_char=217|end_char=223
+26	появились	появиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	25	_	_	start_char=224|end_char=233
+27	три	три	NUM	_	Case=Nom|NumType=Card	26	_	_	start_char=234|end_char=237
+28	новых	новый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	27	_	_	start_char=238|end_char=243
+29	фигуранта	фигурант	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	28	_	_	start_char=244|end_char=253|SpaceAfter=No
+30	.	.	PUNCT	_	_	29	_	_	start_char=253|end_char=254
+
+# text = Один из задержанных — ученик восьмого класса.
+# sent_id = 2
+1	Один	один	NUM	_	Case=Nom|Gender=Masc|NumType=Card	0	_	_	start_char=255|end_char=259
+2	из	из	ADP	_	_	1	_	_	start_char=260|end_char=262
+3	задержанных	задержать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	2	_	_	start_char=263|end_char=274
+4	—	—	PUNCT	_	_	3	_	_	start_char=275|end_char=276
+5	ученик	ученик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=277|end_char=283
+6	восьмого	восьмой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	5	_	_	start_char=284|end_char=292
+7	класса	класс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	_	_	start_char=293|end_char=299|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	_	_	start_char=299|end_char=300
+
+# text = В деле также фигурируют студент колледжа и монтажник.
+# sent_id = 3
+1	В	в	ADP	_	_	0	_	_	start_char=301|end_char=302
+2	деле	дело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1	_	_	start_char=303|end_char=307
+3	также	также	ADV	_	Degree=Pos	2	_	_	start_char=308|end_char=313
+4	фигурируют	фигурировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	_	_	start_char=314|end_char=324
+5	студент	студент	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=325|end_char=332
+6	колледжа	колледж	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	_	_	start_char=333|end_char=341
+7	и	и	CCONJ	_	_	6	_	_	start_char=342|end_char=343
+8	монтажник	монтажник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	_	_	start_char=344|end_char=353|SpaceAfter=No
+9	.	.	PUNCT	_	_	8	_	_	start_char=353|end_char=354
+
+# text = Молодых людей задержали 7 мая по делу о хулиганстве, им избрали меру пресечения в виде запрета определенных действий, в частности, запретив выходить из дома по ночам.
+# sent_id = 4
+1	Молодых	молодой	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Number=Plur	0	_	_	start_char=355|end_char=362
+2	людей	человек	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	1	_	_	start_char=363|end_char=368
+3	задержали	задержать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=369|end_char=378
+4	7	7	ADJ	_	_	3	_	_	start_char=379|end_char=380
+5	мая	май	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	_	_	start_char=381|end_char=384
+6	по	по	ADP	_	_	5	_	_	start_char=385|end_char=387
+7	делу	дело	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	6	_	_	start_char=388|end_char=392
+8	о	о	ADP	_	_	7	_	_	start_char=393|end_char=394
+9	хулиганстве	хулиганство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	8	_	_	start_char=395|end_char=406|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=406|end_char=407
+11	им	они	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	10	_	_	start_char=408|end_char=410
+12	избрали	избрать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	11	_	_	start_char=411|end_char=418
+13	меру	мера	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	_	_	start_char=419|end_char=423
+14	пресечения	пресечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	_	_	start_char=424|end_char=434
+15	в	в	ADP	_	_	14	_	_	start_char=435|end_char=436
+16	виде	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	_	_	start_char=437|end_char=441
+17	запрета	запрет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	_	_	start_char=442|end_char=449
+18	определенных	определенный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	17	_	_	start_char=450|end_char=462
+19	действий	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	18	_	_	start_char=463|end_char=471|SpaceAfter=No
+20	,	,	PUNCT	_	_	19	_	_	start_char=471|end_char=472
+21	в	в	ADP	_	_	20	_	_	start_char=473|end_char=474
+22	частности	частность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	21	_	_	start_char=475|end_char=484|SpaceAfter=No
+23	,	,	PUNCT	_	_	22	_	_	start_char=484|end_char=485
+24	запретив	запретить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	23	_	_	start_char=486|end_char=494
+25	выходить	выходить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	24	_	_	start_char=495|end_char=503
+26	из	из	ADP	_	_	25	_	_	start_char=504|end_char=506
+27	дома	дом	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	26	_	_	start_char=507|end_char=511
+28	по	по	ADP	_	_	27	_	_	start_char=512|end_char=514
+29	ночам	ночь	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	28	_	_	start_char=515|end_char=520|SpaceAfter=No
+30	.	.	PUNCT	_	_	29	_	_	start_char=520|end_char=521
+
+# text = В Следственном комитете России задержание связали с деятельностью неонацистской группы «Параграф-88».
+# sent_id = 5
+1	В	в	ADP	_	_	0	_	_	start_char=522|end_char=523
+2	Следственном	следственный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	1	_	_	start_char=524|end_char=536
+3	комитете	комитет	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	_	_	start_char=537|end_char=545
+4	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	_	_	start_char=546|end_char=552
+5	задержание	задержание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	_	_	start_char=553|end_char=563
+6	связали	связать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	_	_	start_char=564|end_char=571
+7	с	с	ADP	_	_	6	_	_	start_char=572|end_char=573
+8	деятельностью	деятельность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	7	_	_	start_char=574|end_char=587
+9	неонацистской	неонацистский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	_	_	start_char=588|end_char=601
+10	группы	группа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	_	_	start_char=602|end_char=608
+11	«	"	PUNCT	_	_	10	_	_	start_char=609|end_char=610|SpaceAfter=No
+12	Параграф	параграф	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	_	_	start_char=610|end_char=618|SpaceAfter=No
+13	-	-	PUNCT	_	_	12	_	_	start_char=618|end_char=619|SpaceAfter=No
+14	88	88	NUM	_	NumType=Card	13	_	_	start_char=619|end_char=621|SpaceAfter=No
+15	»	"	PUNCT	_	_	14	_	_	start_char=621|end_char=622|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	_	_	start_char=622|end_char=623
+
+# text = ФСБ предотвратила покушение летом 2023 года.
+# sent_id = 6
+1	ФСБ	фсб	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	_	_	start_char=624|end_char=627
+2	предотвратила	предотвратить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=628|end_char=641
+3	покушение	покушение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	_	_	start_char=642|end_char=651
+4	летом	лето	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	3	_	_	start_char=652|end_char=657
+5	2023	2023	ADJ	_	Degree=Pos	4	_	_	start_char=658|end_char=662
+6	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	_	_	start_char=663|end_char=667|SpaceAfter=No
+7	.	.	PUNCT	_	_	6	_	_	start_char=667|end_char=668
+
+# text = Сотрудники Федеральной службы безопасности (ФСБ) России предотвратили покушение на Симоньян и Собчак в июле 2023 года.
+# sent_id = 7
+1	Сотрудники	сотрудник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	0	_	_	start_char=669|end_char=679
+2	Федеральной	федеральный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	1	_	_	start_char=680|end_char=691
+3	службы	служба	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	_	_	start_char=692|end_char=698
+4	безопасности	безопасность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	_	_	start_char=699|end_char=711
+5	(	(	PUNCT	_	_	4	_	_	start_char=712|end_char=713|SpaceAfter=No
+6	ФСБ	ФСБ	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	_	_	start_char=713|end_char=716|SpaceAfter=No
+7	)	)	PUNCT	_	_	6	_	_	start_char=716|end_char=717
+8	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	_	_	start_char=718|end_char=724
+9	предотвратили	предотвратить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	8	_	_	start_char=725|end_char=738
+10	покушение	покушение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	_	_	start_char=739|end_char=748
+11	на	на	ADP	_	_	10	_	_	start_char=749|end_char=751
+12	Симоньян	Симоньян	PROPN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	11	_	_	start_char=752|end_char=760
+13	и	и	CCONJ	_	_	12	_	_	start_char=761|end_char=762
+14	Собчак	Собчак	PROPN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	13	_	_	start_char=763|end_char=769
+15	в	в	ADP	_	_	14	_	_	start_char=770|end_char=771
+16	июле	июль	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	_	_	start_char=772|end_char=776
+17	2023	2023	ADJ	_	Degree=Pos	16	_	_	start_char=777|end_char=781
+18	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	_	_	start_char=782|end_char=786|SpaceAfter=No
+19	.	.	PUNCT	_	_	18	_	_	start_char=786|end_char=787
+
+# text = По данным ведомства, преступление готовили украинские спецслужбы.
+# sent_id = 8
+1	По	по	ADP	_	_	0	_	_	start_char=788|end_char=790
+2	данным	данные	NOUN	_	Animacy=Inan|Case=Dat|Number=Plur	1	_	_	start_char=791|end_char=797
+3	ведомства	ведомство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	_	_	start_char=798|end_char=807|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=807|end_char=808
+5	преступление	преступление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	_	_	start_char=809|end_char=821
+6	готовили	готовить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	_	_	start_char=822|end_char=830
+7	украинские	украинский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	_	_	start_char=831|end_char=841
+8	спецслужбы	спецслужба	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	7	_	_	start_char=842|end_char=852|SpaceAfter=No
+9	.	.	PUNCT	_	_	8	_	_	start_char=852|end_char=853
+
+# text = При этом разведку по адресам работы и проживания журналисток вели члены группировки «Параграф-88», их задержали в Москве и Рязанской области.
+# sent_id = 9
+1	При	при	ADP	_	_	0	_	_	start_char=854|end_char=857
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=858|end_char=862
+3	разведку	разведка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	_	_	start_char=863|end_char=871
+4	по	по	ADP	_	_	3	_	_	start_char=872|end_char=874
+5	адресам	адрес	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	4	_	_	start_char=875|end_char=882
+6	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	_	_	start_char=883|end_char=889
+7	и	и	CCONJ	_	_	6	_	_	start_char=890|end_char=891
+8	проживания	проживание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	_	_	start_char=892|end_char=902
+9	журналисток	журналистка	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	8	_	_	start_char=903|end_char=914
+10	вели	вести	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	9	_	_	start_char=915|end_char=919
+11	члены	член	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	10	_	_	start_char=920|end_char=925
+12	группировки	группировка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	_	_	start_char=926|end_char=937
+13	«	"	PUNCT	_	_	12	_	_	start_char=938|end_char=939|SpaceAfter=No
+14	Параграф	параграф	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	13	_	_	start_char=939|end_char=947|SpaceAfter=No
+15	-	-	PUNCT	_	_	14	_	_	start_char=947|end_char=948|SpaceAfter=No
+16	88	88	NUM	_	NumType=Card	15	_	_	start_char=948|end_char=950|SpaceAfter=No
+17	»	"	PUNCT	_	_	16	_	_	start_char=950|end_char=951|SpaceAfter=No
+18	,	,	PUNCT	_	_	17	_	_	start_char=951|end_char=952
+19	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	18	_	_	start_char=953|end_char=955
+20	задержали	задержать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	19	_	_	start_char=956|end_char=965
+21	в	в	ADP	_	_	20	_	_	start_char=966|end_char=967
+22	Москве	Москва	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	21	_	_	start_char=968|end_char=974
+23	и	и	CCONJ	_	_	22	_	_	start_char=975|end_char=976
+24	Рязанской	рязанский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	23	_	_	start_char=977|end_char=986
+25	области	область	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	24	_	_	start_char=987|end_char=994|SpaceAfter=No
+26	.	.	PUNCT	_	_	25	_	_	start_char=994|end_char=995
+
+# text = Среди них также были несовершеннолетние.
+# sent_id = 10
+1	Среди	среди	ADP	_	_	0	_	_	start_char=996|end_char=1001
+2	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	1	_	_	start_char=1002|end_char=1005
+3	также	также	ADV	_	Degree=Pos	2	_	_	start_char=1006|end_char=1011
+4	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	_	_	start_char=1012|end_char=1016
+5	несовершеннолетние	несовершеннолетний	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	_	_	start_char=1017|end_char=1035|SpaceAfter=No
+6	.	.	PUNCT	_	_	5	_	_	start_char=1035|end_char=1036
+
+# text = На допросах они заявили, что за каждое преступление им обещали вознаграждение в размере 1,5 миллиона рублей.
+# sent_id = 11
+1	На	на	ADP	_	_	0	_	_	start_char=1037|end_char=1039
+2	допросах	допрос	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	1	_	_	start_char=1040|end_char=1048
+3	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	_	_	start_char=1049|end_char=1052
+4	заявили	заявить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	_	_	start_char=1053|end_char=1060|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=1060|end_char=1061
+6	что	что	SCONJ	_	_	5	_	_	start_char=1062|end_char=1065
+7	за	за	ADP	_	_	6	_	_	start_char=1066|end_char=1068
+8	каждое	каждый	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	7	_	_	start_char=1069|end_char=1075
+9	преступление	преступление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	_	_	start_char=1076|end_char=1088
+10	им	они	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	9	_	_	start_char=1089|end_char=1091
+11	обещали	обещать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	10	_	_	start_char=1092|end_char=1099
+12	вознаграждение	вознаграждение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	_	_	start_char=1100|end_char=1114
+13	в	в	ADP	_	_	12	_	_	start_char=1115|end_char=1116
+14	размере	размер	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	13	_	_	start_char=1117|end_char=1124
+15	1,5	1,5	NUM	_	NumType=Card	14	_	_	start_char=1125|end_char=1128
+16	миллиона	миллион	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	_	_	start_char=1129|end_char=1137
+17	рублей	рубль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	16	_	_	start_char=1138|end_char=1144|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	_	_	start_char=1144|end_char=1145
+
+# text = У задержанных изъяли автомат Калашникова, ножи, кастеты, резиновые дубинки и наручники.
+# sent_id = 12
+1	У	у	ADP	_	_	0	_	_	start_char=1146|end_char=1147
+2	задержанных	задержать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	1	_	_	start_char=1148|end_char=1159
+3	изъяли	изъять	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=1160|end_char=1166
+4	автомат	автомат	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	_	_	start_char=1167|end_char=1174
+5	Калашникова	Калашников	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	_	_	start_char=1175|end_char=1186|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=1186|end_char=1187
+7	ножи	нож	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	6	_	_	start_char=1188|end_char=1192|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=1192|end_char=1193
+9	кастеты	кастет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	8	_	_	start_char=1194|end_char=1201|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=1201|end_char=1202
+11	резиновые	резиновый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	10	_	_	start_char=1203|end_char=1212
+12	дубинки	дубинка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	11	_	_	start_char=1213|end_char=1220
+13	и	и	CCONJ	_	_	12	_	_	start_char=1221|end_char=1222
+14	наручники	наручники	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	13	_	_	start_char=1223|end_char=1232|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	_	_	start_char=1232|end_char=1233
+
+# text = Также были изъяты шевроны и флаги с символикой нацистов, нацистская литература, средства связи и компьютеры с информацией, подтверждающей преступные намерения подозреваемых.
+# sent_id = 13
+1	Также	также	ADV	_	Degree=Pos	0	_	_	start_char=1234|end_char=1239
+2	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=1240|end_char=1244
+3	изъяты	изъять	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	2	_	_	start_char=1245|end_char=1251
+4	шевроны	шеврон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	_	_	start_char=1252|end_char=1259
+5	и	и	CCONJ	_	_	4	_	_	start_char=1260|end_char=1261
+6	флаги	флаг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	5	_	_	start_char=1262|end_char=1267
+7	с	с	ADP	_	_	6	_	_	start_char=1268|end_char=1269
+8	символикой	символика	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	7	_	_	start_char=1270|end_char=1280
+9	нацистов	нацист	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	8	_	_	start_char=1281|end_char=1289|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=1289|end_char=1290
+11	нацистская	нацистский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	_	_	start_char=1291|end_char=1301
+12	литература	литература	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	_	_	start_char=1302|end_char=1312|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=1312|end_char=1313
+14	средства	средства	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	13	_	_	start_char=1314|end_char=1322
+15	связи	связь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	_	_	start_char=1323|end_char=1328
+16	и	и	CCONJ	_	_	15	_	_	start_char=1329|end_char=1330
+17	компьютеры	компьютер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	16	_	_	start_char=1331|end_char=1341
+18	с	с	ADP	_	_	17	_	_	start_char=1342|end_char=1343
+19	информацией	информация	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	18	_	_	start_char=1344|end_char=1355|SpaceAfter=No
+20	,	,	PUNCT	_	_	19	_	_	start_char=1355|end_char=1356
+21	подтверждающей	подтверждать	VERB	_	Aspect=Imp|Case=Ins|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	20	_	_	start_char=1357|end_char=1371
+22	преступные	преступный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	21	_	_	start_char=1372|end_char=1382
+23	намерения	намерение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	22	_	_	start_char=1383|end_char=1392
+24	подозреваемых	подозреваемый	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	23	_	_	start_char=1393|end_char=1406|SpaceAfter=No
+25	.	.	PUNCT	_	_	24	_	_	start_char=1406|end_char=1407
+
+# text = Симоньян, комментируя произошедшее, отмечала , что это не первое готовившееся на нее покушение.
+# sent_id = 14
+1	Симоньян	Симоньян	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	_	_	start_char=1408|end_char=1416|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	_	_	start_char=1416|end_char=1417
+3	комментируя	комментировать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	2	_	_	start_char=1418|end_char=1429
+4	произошедшее	произойти	VERB	_	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	3	_	_	start_char=1430|end_char=1442|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=1442|end_char=1443
+6	отмечала	отмечать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	_	_	start_char=1444|end_char=1452
+7	,	,	PUNCT	_	_	6	_	_	start_char=1453|end_char=1454
+8	что	что	SCONJ	_	_	7	_	_	start_char=1455|end_char=1458
+9	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	_	_	start_char=1459|end_char=1462
+10	не	не	PART	_	_	9	_	_	start_char=1463|end_char=1465
+11	первое	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	10	_	_	start_char=1466|end_char=1472
+12	готовившееся	готовить	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	11	_	_	start_char=1473|end_char=1485
+13	на	на	ADP	_	_	12	_	_	start_char=1486|end_char=1488
+14	нее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	_	_	start_char=1489|end_char=1492
+15	покушение	покушение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	_	_	start_char=1493|end_char=1502|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	_	_	start_char=1502|end_char=1503
+
+# text = «Сейчас я уже за этот год привыкла жить с ощущением зайца в поле, знаете, за которым кто-то бежит с ружьем», — призналась она.
+# sent_id = 15
+1	«	"	PUNCT	_	_	0	_	_	start_char=1504|end_char=1505|SpaceAfter=No
+2	Сейчас	сейчас	ADV	_	Degree=Pos	1	_	_	start_char=1505|end_char=1511
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	_	_	start_char=1512|end_char=1513
+4	уже	уже	ADV	_	Degree=Pos	3	_	_	start_char=1514|end_char=1517
+5	за	за	ADP	_	_	4	_	_	start_char=1518|end_char=1520
+6	этот	этот	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	5	_	_	start_char=1521|end_char=1525
+7	год	год	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	_	_	start_char=1526|end_char=1529
+8	привыкла	привыкнуть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	_	_	start_char=1530|end_char=1538
+9	жить	жить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	8	_	_	start_char=1539|end_char=1543
+10	с	с	ADP	_	_	9	_	_	start_char=1544|end_char=1545
+11	ощущением	ощущение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	10	_	_	start_char=1546|end_char=1555
+12	зайца	заяц	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	11	_	_	start_char=1556|end_char=1561
+13	в	в	ADP	_	_	12	_	_	start_char=1562|end_char=1563
+14	поле	поле	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	13	_	_	start_char=1564|end_char=1568|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=1568|end_char=1569
+16	знаете	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	15	_	_	start_char=1570|end_char=1576|SpaceAfter=No
+17	,	,	PUNCT	_	_	16	_	_	start_char=1576|end_char=1577
+18	за	за	ADP	_	_	17	_	_	start_char=1578|end_char=1580
+19	которым	который	PRON	_	Case=Ins|PronType=Int,Rel	18	_	_	start_char=1581|end_char=1588
+20	кто-то	кто-то	PRON	_	Case=Nom|PronType=Ind	19	_	_	start_char=1589|end_char=1595
+21	бежит	бежать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	_	_	start_char=1596|end_char=1601
+22	с	с	ADP	_	_	21	_	_	start_char=1602|end_char=1603
+23	ружьем	ружье	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	22	_	_	start_char=1604|end_char=1610|SpaceAfter=No
+24	»	"	PUNCT	_	_	23	_	_	start_char=1610|end_char=1611|SpaceAfter=No
+25	,	,	PUNCT	_	_	24	_	_	start_char=1611|end_char=1612
+26	—	—	PUNCT	_	_	25	_	_	start_char=1613|end_char=1614
+27	призналась	признаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	26	_	_	start_char=1615|end_char=1625
+28	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	27	_	_	start_char=1626|end_char=1629|SpaceAfter=No
+29	.	.	PUNCT	_	_	28	_	_	start_char=1629|end_char=1630
+
+# text = По словам Симоньян, она к этому относится так: двух смертей не бывать, одной не миновать.
+# sent_id = 16
+1	По	по	ADP	_	_	0	_	_	start_char=1631|end_char=1633
+2	словам	слово	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	1	_	_	start_char=1634|end_char=1640
+3	Симоньян	Симоньян	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	2	_	_	start_char=1641|end_char=1649|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=1649|end_char=1650
+5	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	_	_	start_char=1651|end_char=1654
+6	к	к	ADP	_	_	5	_	_	start_char=1655|end_char=1656
+7	этому	это	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	6	_	_	start_char=1657|end_char=1662
+8	относится	относиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	7	_	_	start_char=1663|end_char=1672
+9	так	так	ADV	_	Degree=Pos	8	_	_	start_char=1673|end_char=1676|SpaceAfter=No
+10	:	:	PUNCT	_	_	9	_	_	start_char=1676|end_char=1677
+11	двух	два	NUM	_	Case=Gen|NumType=Card	10	_	_	start_char=1678|end_char=1682
+12	смертей	смерть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	_	_	start_char=1683|end_char=1690
+13	не	не	PART	_	_	12	_	_	start_char=1691|end_char=1693
+14	бывать	бывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	13	_	_	start_char=1694|end_char=1700|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=1700|end_char=1701
+16	одной	один	NUM	_	Case=Gen|Gender=Fem|NumType=Card	15	_	_	start_char=1702|end_char=1707
+17	не	не	PART	_	_	16	_	_	start_char=1708|end_char=1710
+18	миновать	миновать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	17	_	_	start_char=1711|end_char=1719|SpaceAfter=No
+19	.	.	PUNCT	_	_	18	_	_	start_char=1719|end_char=1720
+
+# text = Она также выразила сожаление из-за попытки 18-летнего юноши организовать покушение на нее.
+# sent_id = 17
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1721|end_char=1724
+2	также	также	ADV	_	Degree=Pos	1	_	_	start_char=1725|end_char=1730
+3	выразила	выразить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=1731|end_char=1739
+4	сожаление	сожаление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	_	_	start_char=1740|end_char=1749
+5	из-за	из-за	ADP	_	_	4	_	_	start_char=1750|end_char=1755
+6	попытки	попытка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	_	_	start_char=1756|end_char=1763
+7	18-летнего	18-летний	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	6	_	_	start_char=1764|end_char=1774
+8	юноши	юноша	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	7	_	_	start_char=1775|end_char=1780
+9	организовать	организовывать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	_	_	start_char=1781|end_char=1793
+10	покушение	покушение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	_	_	start_char=1794|end_char=1803
+11	на	на	ADP	_	_	10	_	_	start_char=1804|end_char=1806
+12	нее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	_	_	start_char=1807|end_char=1810|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=1810|end_char=1811
+
+# text = Собчак, в свою очередь, поблагодарила правоохранителей за предотвращение попытки покушения на нее, добавив, что «любой террор — зло, без всяких но».
+# sent_id = 18
+1	Собчак	Собчак	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	_	_	start_char=1812|end_char=1818|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	_	_	start_char=1818|end_char=1819
+3	в	в	ADP	_	_	2	_	_	start_char=1820|end_char=1821
+4	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	3	_	_	start_char=1822|end_char=1826
+5	очередь	очередь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	_	_	start_char=1827|end_char=1834|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=1834|end_char=1835
+7	поблагодарила	поблагодарить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	_	_	start_char=1836|end_char=1849
+8	правоохранителей	правоохранитель	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	7	_	_	start_char=1850|end_char=1866
+9	за	за	ADP	_	_	8	_	_	start_char=1867|end_char=1869
+10	предотвращение	предотвращение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	_	_	start_char=1870|end_char=1884
+11	попытки	попытка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	_	_	start_char=1885|end_char=1892
+12	покушения	покушение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	_	_	start_char=1893|end_char=1902
+13	на	на	ADP	_	_	12	_	_	start_char=1903|end_char=1905
+14	нее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	_	_	start_char=1906|end_char=1909|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=1909|end_char=1910
+16	добавив	добавить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	15	_	_	start_char=1911|end_char=1918|SpaceAfter=No
+17	,	,	PUNCT	_	_	16	_	_	start_char=1918|end_char=1919
+18	что	что	SCONJ	_	_	17	_	_	start_char=1920|end_char=1923
+19	«	"	PUNCT	_	_	18	_	_	start_char=1924|end_char=1925|SpaceAfter=No
+20	любой	любой	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	19	_	_	start_char=1925|end_char=1930
+21	террор	террор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	20	_	_	start_char=1931|end_char=1937
+22	—	—	PUNCT	_	_	21	_	_	start_char=1938|end_char=1939
+23	зло	зло	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	22	_	_	start_char=1940|end_char=1943|SpaceAfter=No
+24	,	,	PUNCT	_	_	23	_	_	start_char=1943|end_char=1944
+25	без	без	ADP	_	_	24	_	_	start_char=1945|end_char=1948
+26	всяких	всякий	DET	_	Case=Gen|Number=Plur|PronType=Tot	25	_	_	start_char=1949|end_char=1955
+27	но	но	CCONJ	_	_	26	_	_	start_char=1956|end_char=1958|SpaceAfter=No
+28	»	"	PUNCT	_	_	27	_	_	start_char=1958|end_char=1959|SpaceAfter=No
+29	.	.	PUNCT	_	_	28	_	_	start_char=1959|end_char=1960
+
+# text = Киев заявил об отсутствии интереса к покушению на Собчак и Симоньян.
+# sent_id = 19
+1	Киев	Киев	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=1961|end_char=1965
+2	заявил	заявить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=1966|end_char=1972
+3	об	о	ADP	_	_	2	_	_	start_char=1973|end_char=1975
+4	отсутствии	отсутствие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	_	_	start_char=1976|end_char=1986
+5	интереса	интерес	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	_	_	start_char=1987|end_char=1995
+6	к	к	ADP	_	_	5	_	_	start_char=1996|end_char=1997
+7	покушению	покушение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	6	_	_	start_char=1998|end_char=2007
+8	на	на	ADP	_	_	7	_	_	start_char=2008|end_char=2010
+9	Собчак	Собчак	PROPN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	8	_	_	start_char=2011|end_char=2017
+10	и	и	CCONJ	_	_	9	_	_	start_char=2018|end_char=2019
+11	Симоньян	Симоньян	PROPN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	10	_	_	start_char=2020|end_char=2028|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	_	_	start_char=2028|end_char=2029
+
+# text = Советник главы офиса президента Украины Михаил Подоляк заявил , что Киев непричастен к подготовке покушений на журналисток.
+# sent_id = 20
+1	Советник	советник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=2030|end_char=2038
+2	главы	глава	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	1	_	_	start_char=2039|end_char=2044
+3	офиса	офис	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	_	_	start_char=2045|end_char=2050
+4	президента	президент	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=2051|end_char=2061
+5	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	_	_	start_char=2062|end_char=2069
+6	Михаил	Михаил	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	_	_	start_char=2070|end_char=2076
+7	Подоляк	Подоляк	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	_	_	start_char=2077|end_char=2084
+8	заявил	заявить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	_	_	start_char=2085|end_char=2091
+9	,	,	PUNCT	_	_	8	_	_	start_char=2092|end_char=2093
+10	что	что	SCONJ	_	_	9	_	_	start_char=2094|end_char=2097
+11	Киев	Киев	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	_	_	start_char=2098|end_char=2102
+12	непричастен	непричастный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	11	_	_	start_char=2103|end_char=2114
+13	к	к	ADP	_	_	12	_	_	start_char=2115|end_char=2116
+14	подготовке	подготовка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	13	_	_	start_char=2117|end_char=2127
+15	покушений	покушение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	14	_	_	start_char=2128|end_char=2137
+16	на	на	ADP	_	_	15	_	_	start_char=2138|end_char=2140
+17	журналисток	журналистка	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	16	_	_	start_char=2141|end_char=2152|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	_	_	start_char=2152|end_char=2153
+
+# text = По его словам, украинским властям невыгодно нападение на Симоньян и Собчак, поскольку «они ни на что не влияют».
+# sent_id = 21
+1	По	по	ADP	_	_	0	_	_	start_char=2154|end_char=2156
+2	его	его	DET	_	Poss=Yes|PronType=Prs	1	_	_	start_char=2157|end_char=2160
+3	словам	слово	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	2	_	_	start_char=2161|end_char=2167|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=2167|end_char=2168
+5	украинским	украинский	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	4	_	_	start_char=2169|end_char=2179
+6	властям	власть	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	5	_	_	start_char=2180|end_char=2187
+7	невыгодно	невыгодный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	6	_	_	start_char=2188|end_char=2197
+8	нападение	нападение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	_	_	start_char=2198|end_char=2207
+9	на	на	ADP	_	_	8	_	_	start_char=2208|end_char=2210
+10	Симоньян	Симоньян	PROPN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	9	_	_	start_char=2211|end_char=2219
+11	и	и	CCONJ	_	_	10	_	_	start_char=2220|end_char=2221
+12	Собчак	Собчак	PROPN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	11	_	_	start_char=2222|end_char=2228|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=2228|end_char=2229
+14	поскольку	поскольку	SCONJ	_	_	13	_	_	start_char=2230|end_char=2239
+15	«	"	PUNCT	_	_	14	_	_	start_char=2240|end_char=2241|SpaceAfter=No
+16	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	_	_	start_char=2241|end_char=2244
+17	ни	ни	PART	_	_	16	_	_	start_char=2245|end_char=2247
+18	на	на	ADP	_	_	17	_	_	start_char=2248|end_char=2250
+19	что	что	PRON	_	Case=Acc|PronType=Int,Rel	18	_	_	start_char=2251|end_char=2254
+20	не	не	PART	_	_	19	_	_	start_char=2255|end_char=2257
+21	влияют	влиять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	_	_	start_char=2258|end_char=2264|SpaceAfter=No
+22	»	"	PUNCT	_	_	21	_	_	start_char=2264|end_char=2265|SpaceAfter=No
+23	.	.	PUNCT	_	_	22	_	_	start_char=2265|end_char=2266
+
+# text = «Они нам совершенно точно не нужны.
+# sent_id = 22
+1	«	"	PUNCT	_	_	0	_	_	start_char=2267|end_char=2268|SpaceAfter=No
+2	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	1	_	_	start_char=2268|end_char=2271
+3	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	2	_	_	start_char=2272|end_char=2275
+4	совершенно	совершенно	ADV	_	Degree=Pos	3	_	_	start_char=2276|end_char=2286
+5	точно	точно	ADV	_	Degree=Pos	4	_	_	start_char=2287|end_char=2292
+6	не	не	PART	_	_	5	_	_	start_char=2293|end_char=2295
+7	нужны	нужный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	6	_	_	start_char=2296|end_char=2301|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	_	_	start_char=2301|end_char=2302
+
+# text = Они не играют сегодня какую-то важную роль в происходящем и в рамках [российской спецоперации на Украине] в целом, и в рамках потери Россией позиций в глобальном смысле», — отметил он.
+# sent_id = 23
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=2303|end_char=2306
+2	не	не	PART	_	_	1	_	_	start_char=2307|end_char=2309
+3	играют	играть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=2310|end_char=2316
+4	сегодня	сегодня	ADV	_	Degree=Pos	3	_	_	start_char=2317|end_char=2324
+5	какую-то	какой-то	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	4	_	_	start_char=2325|end_char=2333
+6	важную	важный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	5	_	_	start_char=2334|end_char=2340
+7	роль	роль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	_	_	start_char=2341|end_char=2345
+8	в	в	ADP	_	_	7	_	_	start_char=2346|end_char=2347
+9	происходящем	происходить	VERB	_	Aspect=Imp|Case=Loc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	8	_	_	start_char=2348|end_char=2360
+10	и	и	CCONJ	_	_	9	_	_	start_char=2361|end_char=2362
+11	в	в	ADP	_	_	10	_	_	start_char=2363|end_char=2364
+12	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	11	_	_	start_char=2365|end_char=2371
+13	[	[	PUNCT	_	_	12	_	_	start_char=2372|end_char=2373|SpaceAfter=No
+14	российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	_	_	start_char=2373|end_char=2383
+15	спецоперации	спецоперация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	_	_	start_char=2384|end_char=2396
+16	на	на	ADP	_	_	15	_	_	start_char=2397|end_char=2399
+17	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	16	_	_	start_char=2400|end_char=2407|SpaceAfter=No
+18	]	]	PUNCT	_	_	17	_	_	start_char=2407|end_char=2408
+19	в	в	ADP	_	_	18	_	_	start_char=2409|end_char=2410
+20	целом	целое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	19	_	_	start_char=2411|end_char=2416|SpaceAfter=No
+21	,	,	PUNCT	_	_	20	_	_	start_char=2416|end_char=2417
+22	и	и	CCONJ	_	_	21	_	_	start_char=2418|end_char=2419
+23	в	в	ADP	_	_	22	_	_	start_char=2420|end_char=2421
+24	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	23	_	_	start_char=2422|end_char=2428
+25	потери	потеря	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	24	_	_	start_char=2429|end_char=2435
+26	Россией	Россия	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	25	_	_	start_char=2436|end_char=2443
+27	позиций	позиция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	26	_	_	start_char=2444|end_char=2451
+28	в	в	ADP	_	_	27	_	_	start_char=2452|end_char=2453
+29	глобальном	глобальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	28	_	_	start_char=2454|end_char=2464
+30	смысле	смысл	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	29	_	_	start_char=2465|end_char=2471|SpaceAfter=No
+31	»	"	PUNCT	_	_	30	_	_	start_char=2471|end_char=2472|SpaceAfter=No
+32	,	,	PUNCT	_	_	31	_	_	start_char=2472|end_char=2473
+33	—	—	PUNCT	_	_	32	_	_	start_char=2474|end_char=2475
+34	отметил	отметить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	33	_	_	start_char=2476|end_char=2483
+35	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	34	_	_	start_char=2484|end_char=2486|SpaceAfter=No
+36	.	.	PUNCT	_	_	35	_	_	start_char=2486|end_char=2487
+
+# text = Официальный представитель МИД России Мария Захарова, в свою очередь, назвала покушение на журналисток очередным подтверждением террористической сущности режима президента Украины Владимира Зеленского.
+# sent_id = 24
+1	Официальный	официальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	_	_	start_char=2488|end_char=2499
+2	представитель	представитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=2500|end_char=2513
+3	МИД	МИД	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	_	_	start_char=2514|end_char=2517
+4	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	_	_	start_char=2518|end_char=2524
+5	Мария	Мария	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	4	_	_	start_char=2525|end_char=2530
+6	Захарова	Захарова	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	_	_	start_char=2531|end_char=2539|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	_	_	start_char=2539|end_char=2540
+8	в	в	ADP	_	_	7	_	_	start_char=2541|end_char=2542
+9	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	8	_	_	start_char=2543|end_char=2547
+10	очередь	очередь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	_	_	start_char=2548|end_char=2555|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=2555|end_char=2556
+12	назвала	назвать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	_	_	start_char=2557|end_char=2564
+13	покушение	покушение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	12	_	_	start_char=2565|end_char=2574
+14	на	на	ADP	_	_	13	_	_	start_char=2575|end_char=2577
+15	журналисток	журналистка	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	14	_	_	start_char=2578|end_char=2589
+16	очередным	очередной	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	15	_	_	start_char=2590|end_char=2599
+17	подтверждением	подтверждение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	16	_	_	start_char=2600|end_char=2614
+18	террористической	террористический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	17	_	_	start_char=2615|end_char=2631
+19	сущности	сущность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	_	_	start_char=2632|end_char=2640
+20	режима	режим	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	_	_	start_char=2641|end_char=2647
+21	президента	президент	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	20	_	_	start_char=2648|end_char=2658
+22	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	_	_	start_char=2659|end_char=2666
+23	Владимира	Владимир	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	22	_	_	start_char=2667|end_char=2676
+24	Зеленского	Зеленский	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	23	_	_	start_char=2677|end_char=2687|SpaceAfter=No
+25	.	.	PUNCT	_	_	24	_	_	start_char=2687|end_char=2688
+
+# text = В качестве других примеров она привела теракт против журналистки Дарьи Дугиной в августе 2022 года, покушение на основателя телеканала «Царьград» Константина Малофеева в марте 2023-го, взрыв статуэтки, унесший жизнь военкора Владлена Татарского в апреле 2023-го, и тяжелое ранение писателя и общественного деятеля Захара Прилепина.
+# sent_id = 25
+1	В	в	ADP	_	_	0	_	_	start_char=2689|end_char=2690
+2	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1	_	_	start_char=2691|end_char=2699
+3	других	другой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	2	_	_	start_char=2700|end_char=2706
+4	примеров	пример	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	_	_	start_char=2707|end_char=2715
+5	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	_	_	start_char=2716|end_char=2719
+6	привела	привести	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	_	_	start_char=2720|end_char=2727
+7	теракт	теракт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	_	_	start_char=2728|end_char=2734
+8	против	против	ADP	_	_	7	_	_	start_char=2735|end_char=2741
+9	журналистки	журналистка	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	8	_	_	start_char=2742|end_char=2753
+10	Дарьи	Дарья	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	9	_	_	start_char=2754|end_char=2759
+11	Дугиной	Дугина	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	10	_	_	start_char=2760|end_char=2767
+12	в	в	ADP	_	_	11	_	_	start_char=2768|end_char=2769
+13	августе	август	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	_	_	start_char=2770|end_char=2777
+14	2022	2022	ADJ	_	Degree=Pos	13	_	_	start_char=2778|end_char=2782
+15	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	_	_	start_char=2783|end_char=2787|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	_	_	start_char=2787|end_char=2788
+17	покушение	покушение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	16	_	_	start_char=2789|end_char=2798
+18	на	на	ADP	_	_	17	_	_	start_char=2799|end_char=2801
+19	основателя	основатель	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	18	_	_	start_char=2802|end_char=2812
+20	телеканала	телеканал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	_	_	start_char=2813|end_char=2823
+21	«	"	PUNCT	_	_	20	_	_	start_char=2824|end_char=2825|SpaceAfter=No
+22	Царьград	царьград	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	21	_	_	start_char=2825|end_char=2833|SpaceAfter=No
+23	»	"	PUNCT	_	_	22	_	_	start_char=2833|end_char=2834
+24	Константина	Константин	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	23	_	_	start_char=2835|end_char=2846
+25	Малофеева	Малофеев	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	24	_	_	start_char=2847|end_char=2856
+26	в	в	ADP	_	_	25	_	_	start_char=2857|end_char=2858
+27	марте	март	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	26	_	_	start_char=2859|end_char=2864
+28	2023-го	2023-й	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	27	_	_	start_char=2865|end_char=2872|SpaceAfter=No
+29	,	,	PUNCT	_	_	28	_	_	start_char=2872|end_char=2873
+30	взрыв	взрыв	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	29	_	_	start_char=2874|end_char=2879
+31	статуэтки	статуэтка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	30	_	_	start_char=2880|end_char=2889|SpaceAfter=No
+32	,	,	PUNCT	_	_	31	_	_	start_char=2889|end_char=2890
+33	унесший	унести	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	32	_	_	start_char=2891|end_char=2898
+34	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	33	_	_	start_char=2899|end_char=2904
+35	военкора	военкор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	34	_	_	start_char=2905|end_char=2913
+36	Владлена	Владлен	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	35	_	_	start_char=2914|end_char=2922
+37	Татарского	Татарский	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	36	_	_	start_char=2923|end_char=2933
+38	в	в	ADP	_	_	37	_	_	start_char=2934|end_char=2935
+39	апреле	апрель	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	38	_	_	start_char=2936|end_char=2942
+40	2023-го	2023-й	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	39	_	_	start_char=2943|end_char=2950|SpaceAfter=No
+41	,	,	PUNCT	_	_	40	_	_	start_char=2950|end_char=2951
+42	и	и	CCONJ	_	_	41	_	_	start_char=2952|end_char=2953
+43	тяжелое	тяжелый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	42	_	_	start_char=2954|end_char=2961
+44	ранение	ранение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	43	_	_	start_char=2962|end_char=2969
+45	писателя	писатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	44	_	_	start_char=2970|end_char=2978
+46	и	и	CCONJ	_	_	45	_	_	start_char=2979|end_char=2980
+47	общественного	общественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	46	_	_	start_char=2981|end_char=2994
+48	деятеля	деятель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	47	_	_	start_char=2995|end_char=3002
+49	Захара	Захара	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	48	_	_	start_char=3003|end_char=3009
+50	Прилепина	Прилепин	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	49	_	_	start_char=3010|end_char=3019|SpaceAfter=No
+51	.	.	PUNCT	_	_	50	_	_	start_char=3019|end_char=3020|SpaceAfter=No
+

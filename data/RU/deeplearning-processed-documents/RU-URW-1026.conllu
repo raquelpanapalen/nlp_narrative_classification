@@ -1,0 +1,107 @@
+# text = «Прославившийся» идеей о ядерном ударе по России американский сенатор посетит Армению Указывается, что делегацию должен принять глава парламентской комиссии по внешним связям Саргис Ханданян.
+# sent_id = 0
+1	«	"	PUNCT	_	_	0	_	_	start_char=0|end_char=1|SpaceAfter=No
+2	Прославившийся	прославиться	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	1	_	_	start_char=1|end_char=15|SpaceAfter=No
+3	»	"	PUNCT	_	_	2	_	_	start_char=15|end_char=16
+4	идеей	идея	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	3	_	_	start_char=17|end_char=22
+5	о	о	ADP	_	_	4	_	_	start_char=23|end_char=24
+6	ядерном	ядерный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	5	_	_	start_char=25|end_char=32
+7	ударе	удар	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	_	_	start_char=33|end_char=38
+8	по	по	ADP	_	_	7	_	_	start_char=39|end_char=41
+9	России	Россия	PROPN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	8	_	_	start_char=42|end_char=48
+10	американский	американский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	_	_	start_char=49|end_char=61
+11	сенатор	сенатор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	_	_	start_char=62|end_char=69
+12	посетит	посетить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	11	_	_	start_char=70|end_char=77
+13	Армению	Армения	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	_	_	start_char=78|end_char=85
+14	Указывается	указывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	13	_	_	start_char=86|end_char=97|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=97|end_char=98
+16	что	что	SCONJ	_	_	15	_	_	start_char=99|end_char=102
+17	делегацию	делегация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	16	_	_	start_char=103|end_char=112
+18	должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	17	_	_	start_char=113|end_char=119
+19	принять	принять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	18	_	_	start_char=120|end_char=127
+20	глава	глава	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	19	_	_	start_char=128|end_char=133
+21	парламентской	парламентский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	20	_	_	start_char=134|end_char=147
+22	комиссии	комиссия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	_	_	start_char=148|end_char=156
+23	по	по	ADP	_	_	22	_	_	start_char=157|end_char=159
+24	внешним	внешний	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	23	_	_	start_char=160|end_char=167
+25	связям	связь	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	24	_	_	start_char=168|end_char=174
+26	Саргис	Саргис	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	25	_	_	start_char=175|end_char=181
+27	Ханданян	Ханданян	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	26	_	_	start_char=182|end_char=190|SpaceAfter=No
+28	.	.	PUNCT	_	_	27	_	_	start_char=190|end_char=191
+
+# text = Другие подробности не приводятся.
+# sent_id = 1
+1	Другие	другой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	0	_	_	start_char=192|end_char=198
+2	подробности	подробность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1	_	_	start_char=199|end_char=210
+3	не	не	PART	_	_	2	_	_	start_char=211|end_char=213
+4	приводятся	приводить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	_	_	start_char=214|end_char=224|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	_	_	start_char=224|end_char=225
+
+# text = Сенатор-республиканец Роджер Уикер «прославился» озвученным им ещё до начала специальной военной операции на Украине призывом нанести упреждающий ядерный удар по России, напоминают армянские СМИ.
+# sent_id = 2
+1	Сенатор	сенатор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=226|end_char=233|SpaceAfter=No
+2	-	-	PUNCT	_	_	1	_	_	start_char=233|end_char=234|SpaceAfter=No
+3	республиканец	республиканец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	_	_	start_char=234|end_char=247
+4	Роджер	Роджер	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	_	_	start_char=248|end_char=254
+5	Уикер	Уикер	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=255|end_char=260
+6	«	"	PUNCT	_	_	5	_	_	start_char=261|end_char=262|SpaceAfter=No
+7	прославился	прославиться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	6	_	_	start_char=262|end_char=273|SpaceAfter=No
+8	»	"	PUNCT	_	_	7	_	_	start_char=273|end_char=274
+9	озвученным	озвучить	VERB	_	Aspect=Perf|Case=Ins|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	8	_	_	start_char=275|end_char=285
+10	им	они	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	_	_	start_char=286|end_char=288
+11	ещё	еще	ADV	_	Degree=Pos	10	_	_	start_char=289|end_char=292
+12	до	до	ADP	_	_	11	_	_	start_char=293|end_char=295
+13	начала	начало	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	_	_	start_char=296|end_char=302
+14	специальной	специальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	_	_	start_char=303|end_char=314
+15	военной	военный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	14	_	_	start_char=315|end_char=322
+16	операции	операция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	_	_	start_char=323|end_char=331
+17	на	на	ADP	_	_	16	_	_	start_char=332|end_char=334
+18	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	17	_	_	start_char=335|end_char=342
+19	призывом	призыв	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	18	_	_	start_char=343|end_char=351
+20	нанести	нанести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	19	_	_	start_char=352|end_char=359
+21	упреждающий	упреждать	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	20	_	_	start_char=360|end_char=371
+22	ядерный	ядерный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	21	_	_	start_char=372|end_char=379
+23	удар	удар	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	22	_	_	start_char=380|end_char=384
+24	по	по	ADP	_	_	23	_	_	start_char=385|end_char=387
+25	России	Россия	PROPN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	24	_	_	start_char=388|end_char=394|SpaceAfter=No
+26	,	,	PUNCT	_	_	25	_	_	start_char=394|end_char=395
+27	напоминают	напоминать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	26	_	_	start_char=396|end_char=406
+28	армянские	армянский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	27	_	_	start_char=407|end_char=416
+29	СМИ	сми	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	28	_	_	start_char=417|end_char=420|SpaceAfter=No
+30	.	.	PUNCT	_	_	29	_	_	start_char=420|end_char=421
+
+# text = Уикер заявил в декабре 2021 года в эфире Fox News, что президенту Джо Байдену следует задуматься над использованием ядерного оружия первым при «враждебных действиях России в отношении Украины».
+# sent_id = 3
+1	Уикер	Уикер	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=422|end_char=427
+2	заявил	заявить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=428|end_char=434
+3	в	в	ADP	_	_	2	_	_	start_char=435|end_char=436
+4	декабре	декабрь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	_	_	start_char=437|end_char=444
+5	2021	2021	ADJ	_	Degree=Pos	4	_	_	start_char=445|end_char=449
+6	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	_	_	start_char=450|end_char=454
+7	в	в	ADP	_	_	6	_	_	start_char=455|end_char=456
+8	эфире	эфир	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	_	_	start_char=457|end_char=462
+9	Fox	Fox	PROPN	_	Foreign=Yes	8	_	_	start_char=463|end_char=466
+10	News	News	PROPN	_	Foreign=Yes	9	_	_	start_char=467|end_char=471|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=471|end_char=472
+12	что	что	SCONJ	_	_	11	_	_	start_char=473|end_char=476
+13	президенту	президент	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	12	_	_	start_char=477|end_char=487
+14	Джо	Джо	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	13	_	_	start_char=488|end_char=491
+15	Байдену	Байден	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	14	_	_	start_char=492|end_char=499
+16	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	_	_	start_char=500|end_char=507
+17	задуматься	задуматься	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	16	_	_	start_char=508|end_char=518
+18	над	над	ADP	_	_	17	_	_	start_char=519|end_char=522
+19	использованием	использование	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	18	_	_	start_char=523|end_char=537
+20	ядерного	ядерный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	19	_	_	start_char=538|end_char=546
+21	оружия	оружие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	_	_	start_char=547|end_char=553
+22	первым	первый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	21	_	_	start_char=554|end_char=560
+23	при	при	ADP	_	_	22	_	_	start_char=561|end_char=564
+24	«	"	PUNCT	_	_	23	_	_	start_char=565|end_char=566|SpaceAfter=No
+25	враждебных	враждебный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	24	_	_	start_char=566|end_char=576
+26	действиях	действие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	25	_	_	start_char=577|end_char=586
+27	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	26	_	_	start_char=587|end_char=593
+28	в	в	ADP	_	_	27	_	_	start_char=594|end_char=595
+29	отношении	отношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	28	_	_	start_char=596|end_char=605
+30	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	29	_	_	start_char=606|end_char=613|SpaceAfter=No
+31	»	"	PUNCT	_	_	30	_	_	start_char=613|end_char=614|SpaceAfter=No
+32	.	.	PUNCT	_	_	31	_	_	start_char=614|end_char=615|SpaceAfter=No
+

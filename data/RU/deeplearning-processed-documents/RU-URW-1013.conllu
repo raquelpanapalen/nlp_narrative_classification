@@ -1,0 +1,341 @@
+# text = Опрос: в Германии считают вступление Украины в ЕС плохой идеей Больше половины немцев считают вступление Украины в ЕС плохой идеей.
+# sent_id = 0
+1	Опрос	опрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=0|end_char=5|SpaceAfter=No
+2	:	:	PUNCT	_	_	1	_	_	start_char=5|end_char=6
+3	в	в	ADP	_	_	2	_	_	start_char=7|end_char=8
+4	Германии	Германия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	_	_	start_char=9|end_char=17
+5	считают	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	_	_	start_char=18|end_char=25
+6	вступление	вступление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	_	_	start_char=26|end_char=36
+7	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	_	_	start_char=37|end_char=44
+8	в	в	ADP	_	_	7	_	_	start_char=45|end_char=46
+9	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	_	_	start_char=47|end_char=49
+10	плохой	плохой	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	9	_	_	start_char=50|end_char=56
+11	идеей	идея	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	10	_	_	start_char=57|end_char=62
+12	Больше	больше	ADV	_	Degree=Cmp	11	_	_	start_char=63|end_char=69
+13	половины	половина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	_	_	start_char=70|end_char=78
+14	немцев	немец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	13	_	_	start_char=79|end_char=85
+15	считают	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	_	_	start_char=86|end_char=93
+16	вступление	вступление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	15	_	_	start_char=94|end_char=104
+17	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	_	_	start_char=105|end_char=112
+18	в	в	ADP	_	_	17	_	_	start_char=113|end_char=114
+19	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	18	_	_	start_char=115|end_char=117
+20	плохой	плохой	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	19	_	_	start_char=118|end_char=124
+21	идеей	идея	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	20	_	_	start_char=125|end_char=130|SpaceAfter=No
+22	.	.	PUNCT	_	_	21	_	_	start_char=130|end_char=131
+
+# text = Это следует из из опроса, проведенного аналитическим центром "Европейский совет по международным отношениям"
+# sent_id = 1
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	_	_	start_char=132|end_char=135
+2	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	_	_	start_char=136|end_char=143
+3	из	из	ADP	_	_	2	_	_	start_char=144|end_char=146
+4	из	из	ADP	_	_	3	_	_	start_char=147|end_char=149
+5	опроса	опрос	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	_	_	start_char=150|end_char=156|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=156|end_char=157
+7	проведенного	провести	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	_	_	start_char=158|end_char=170
+8	аналитическим	аналитический	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	7	_	_	start_char=171|end_char=184
+9	центром	центр	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	8	_	_	start_char=185|end_char=192
+10	"	"	PUNCT	_	_	9	_	_	start_char=193|end_char=194|SpaceAfter=No
+11	Европейский	европейский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	_	_	start_char=194|end_char=205
+12	совет	совет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	_	_	start_char=206|end_char=211
+13	по	по	ADP	_	_	12	_	_	start_char=212|end_char=214
+14	международным	международный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	13	_	_	start_char=215|end_char=228
+15	отношениям	отношение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	14	_	_	start_char=229|end_char=239|SpaceAfter=No
+16	"	"	PUNCT	_	_	15	_	_	start_char=239|end_char=240
+
+# text = Опрос показал, что 54% населения Германии не приветствуют вступление Украины в Европейский союз.
+# sent_id = 2
+1	Опрос	опрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=241|end_char=246
+2	показал	показать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=247|end_char=254|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=254|end_char=255
+4	что	что	SCONJ	_	_	3	_	_	start_char=256|end_char=259
+5	54	54	NUM	_	NumType=Card	4	_	_	start_char=260|end_char=262|SpaceAfter=No
+6	%	%	SYM	_	_	5	_	_	start_char=262|end_char=263
+7	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	_	_	start_char=264|end_char=273
+8	Германии	Германия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	_	_	start_char=274|end_char=282
+9	не	не	PART	_	_	8	_	_	start_char=283|end_char=285
+10	приветствуют	приветствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	_	_	start_char=286|end_char=298
+11	вступление	вступление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	_	_	start_char=299|end_char=309
+12	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	_	_	start_char=310|end_char=317
+13	в	в	ADP	_	_	12	_	_	start_char=318|end_char=319
+14	Европейский	европейский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	13	_	_	start_char=320|end_char=331
+15	союз	союз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	_	_	start_char=332|end_char=336|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	_	_	start_char=336|end_char=337
+
+# text = В Болгарии этого мнения придерживается 50% опрошенных, в Чехии – 48%, во Франции – 40%, в Греции – 39%, в Италии – 38%, в Нидерландах - 36%, в Польше - 31%, в Швеции - 28%, в Эстонии - 27%, в Испании - 24%, в Португалии - 20%.
+# sent_id = 3
+1	В	в	ADP	_	_	0	_	_	start_char=338|end_char=339
+2	Болгарии	Болгария	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	_	_	start_char=340|end_char=348
+3	этого	этот	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	2	_	_	start_char=349|end_char=354
+4	мнения	мнение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	_	_	start_char=355|end_char=361
+5	придерживается	придерживаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	_	_	start_char=362|end_char=376
+6	50	50	NUM	_	NumType=Card	5	_	_	start_char=377|end_char=379|SpaceAfter=No
+7	%	%	SYM	_	_	6	_	_	start_char=379|end_char=380
+8	опрошенных	опросить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	7	_	_	start_char=381|end_char=391|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=391|end_char=392
+10	в	в	ADP	_	_	9	_	_	start_char=393|end_char=394
+11	Чехии	Чехия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	_	_	start_char=395|end_char=400
+12	–	–	PUNCT	_	_	11	_	_	start_char=401|end_char=402
+13	48	48	NUM	_	NumType=Card	12	_	_	start_char=403|end_char=405|SpaceAfter=No
+14	%	%	SYM	_	_	13	_	_	start_char=405|end_char=406|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=406|end_char=407
+16	во	в	ADP	_	_	15	_	_	start_char=408|end_char=410
+17	Франции	Франция	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	16	_	_	start_char=411|end_char=418
+18	–	–	PUNCT	_	_	17	_	_	start_char=419|end_char=420
+19	40	40	NUM	_	NumType=Card	18	_	_	start_char=421|end_char=423|SpaceAfter=No
+20	%	%	SYM	_	_	19	_	_	start_char=423|end_char=424|SpaceAfter=No
+21	,	,	PUNCT	_	_	20	_	_	start_char=424|end_char=425
+22	в	в	ADP	_	_	21	_	_	start_char=426|end_char=427
+23	Греции	Греция	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	22	_	_	start_char=428|end_char=434
+24	–	–	PUNCT	_	_	23	_	_	start_char=435|end_char=436
+25	39	39	NUM	_	NumType=Card	24	_	_	start_char=437|end_char=439|SpaceAfter=No
+26	%	%	SYM	_	_	25	_	_	start_char=439|end_char=440|SpaceAfter=No
+27	,	,	PUNCT	_	_	26	_	_	start_char=440|end_char=441
+28	в	в	ADP	_	_	27	_	_	start_char=442|end_char=443
+29	Италии	Италия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	28	_	_	start_char=444|end_char=450
+30	–	–	PUNCT	_	_	29	_	_	start_char=451|end_char=452
+31	38	38	NUM	_	NumType=Card	30	_	_	start_char=453|end_char=455|SpaceAfter=No
+32	%	%	SYM	_	_	31	_	_	start_char=455|end_char=456|SpaceAfter=No
+33	,	,	PUNCT	_	_	32	_	_	start_char=456|end_char=457
+34	в	в	ADP	_	_	33	_	_	start_char=458|end_char=459
+35	Нидерландах	Нидерланды	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	34	_	_	start_char=460|end_char=471
+36	-	-	PUNCT	_	_	35	_	_	start_char=472|end_char=473
+37	36	36	NUM	_	NumType=Card	36	_	_	start_char=474|end_char=476|SpaceAfter=No
+38	%	%	SYM	_	_	37	_	_	start_char=476|end_char=477|SpaceAfter=No
+39	,	,	PUNCT	_	_	38	_	_	start_char=477|end_char=478
+40	в	в	ADP	_	_	39	_	_	start_char=479|end_char=480
+41	Польше	Польша	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	40	_	_	start_char=481|end_char=487
+42	-	-	PUNCT	_	_	41	_	_	start_char=488|end_char=489
+43	31	31	NUM	_	NumType=Card	42	_	_	start_char=490|end_char=492|SpaceAfter=No
+44	%	%	SYM	_	_	43	_	_	start_char=492|end_char=493|SpaceAfter=No
+45	,	,	PUNCT	_	_	44	_	_	start_char=493|end_char=494
+46	в	в	ADP	_	_	45	_	_	start_char=495|end_char=496
+47	Швеции	Швеция	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	46	_	_	start_char=497|end_char=503
+48	-	-	PUNCT	_	_	47	_	_	start_char=504|end_char=505
+49	28	28	NUM	_	NumType=Card	48	_	_	start_char=506|end_char=508|SpaceAfter=No
+50	%	%	SYM	_	_	49	_	_	start_char=508|end_char=509|SpaceAfter=No
+51	,	,	PUNCT	_	_	50	_	_	start_char=509|end_char=510
+52	в	в	ADP	_	_	51	_	_	start_char=511|end_char=512
+53	Эстонии	Эстония	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	52	_	_	start_char=513|end_char=520
+54	-	-	PUNCT	_	_	53	_	_	start_char=521|end_char=522
+55	27	27	NUM	_	NumType=Card	54	_	_	start_char=523|end_char=525|SpaceAfter=No
+56	%	%	SYM	_	_	55	_	_	start_char=525|end_char=526|SpaceAfter=No
+57	,	,	PUNCT	_	_	56	_	_	start_char=526|end_char=527
+58	в	в	ADP	_	_	57	_	_	start_char=528|end_char=529
+59	Испании	Испания	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	58	_	_	start_char=530|end_char=537
+60	-	-	PUNCT	_	_	59	_	_	start_char=538|end_char=539
+61	24	24	NUM	_	NumType=Card	60	_	_	start_char=540|end_char=542|SpaceAfter=No
+62	%	%	SYM	_	_	61	_	_	start_char=542|end_char=543|SpaceAfter=No
+63	,	,	PUNCT	_	_	62	_	_	start_char=543|end_char=544
+64	в	в	ADP	_	_	63	_	_	start_char=545|end_char=546
+65	Португалии	Португалия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	64	_	_	start_char=547|end_char=557
+66	-	-	PUNCT	_	_	65	_	_	start_char=558|end_char=559
+67	20	20	NUM	_	NumType=Card	66	_	_	start_char=560|end_char=562|SpaceAfter=No
+68	%	%	SYM	_	_	67	_	_	start_char=562|end_char=563|SpaceAfter=No
+69	.	.	PUNCT	_	_	68	_	_	start_char=563|end_char=564
+
+# text = Население Италии, Болгарии и Греции в большинстве считает, что Европейский союз должен подталкивать Украину к переговорам с Россией.
+# sent_id = 4
+1	Население	население	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	_	_	start_char=565|end_char=574
+2	Италии	Италия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	_	_	start_char=575|end_char=581|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=581|end_char=582
+4	Болгарии	Болгария	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	_	_	start_char=583|end_char=591
+5	и	и	CCONJ	_	_	4	_	_	start_char=592|end_char=593
+6	Греции	Греция	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	_	_	start_char=594|end_char=600
+7	в	в	ADP	_	_	6	_	_	start_char=601|end_char=602
+8	большинстве	большинство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	_	_	start_char=603|end_char=614
+9	считает	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	_	_	start_char=615|end_char=622|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=622|end_char=623
+11	что	что	SCONJ	_	_	10	_	_	start_char=624|end_char=627
+12	Европейский	европейский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	_	_	start_char=628|end_char=639
+13	союз	союз	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	_	_	start_char=640|end_char=644
+14	должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	13	_	_	start_char=645|end_char=651
+15	подталкивать	подталкивать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	14	_	_	start_char=652|end_char=664
+16	Украину	Украина	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	_	_	start_char=665|end_char=672
+17	к	к	ADP	_	_	16	_	_	start_char=673|end_char=674
+18	переговорам	переговоры	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	17	_	_	start_char=675|end_char=686
+19	с	с	ADP	_	_	18	_	_	start_char=687|end_char=688
+20	Россией	Россия	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	19	_	_	start_char=689|end_char=696|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	_	_	start_char=696|end_char=697
+
+# text = Такую же позицию занимают жители Франции, Германии, Чехии и Швейцарии.
+# sent_id = 5
+1	Такую	такой	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	0	_	_	start_char=698|end_char=703
+2	же	же	PART	_	_	1	_	_	start_char=704|end_char=706
+3	позицию	позиция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	_	_	start_char=707|end_char=714
+4	занимают	занимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	_	_	start_char=715|end_char=723
+5	жители	житель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	_	_	start_char=724|end_char=730
+6	Франции	Франция	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	_	_	start_char=731|end_char=738|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	_	_	start_char=738|end_char=739
+8	Германии	Германия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	_	_	start_char=740|end_char=748|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=748|end_char=749
+10	Чехии	Чехия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	_	_	start_char=750|end_char=755
+11	и	и	CCONJ	_	_	10	_	_	start_char=756|end_char=757
+12	Швейцарии	Швейцария	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	_	_	start_char=758|end_char=767|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=767|end_char=768
+
+# text = О том, что конфликт закончится заключением компромиссной сделки между Россией и Украиной, считает большинство населения практически всех стран-членов Евросоюза.
+# sent_id = 6
+1	О	о	ADP	_	_	0	_	_	start_char=769|end_char=770
+2	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=771|end_char=774|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=774|end_char=775
+4	что	что	SCONJ	_	_	3	_	_	start_char=776|end_char=779
+5	конфликт	конфликт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=780|end_char=788
+6	закончится	закончиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	5	_	_	start_char=789|end_char=799
+7	заключением	заключение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	6	_	_	start_char=800|end_char=811
+8	компромиссной	компромиссный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	_	_	start_char=812|end_char=825
+9	сделки	сделка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	_	_	start_char=826|end_char=832
+10	между	между	ADP	_	_	9	_	_	start_char=833|end_char=838
+11	Россией	Россия	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	10	_	_	start_char=839|end_char=846
+12	и	и	CCONJ	_	_	11	_	_	start_char=847|end_char=848
+13	Украиной	Украина	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	12	_	_	start_char=849|end_char=857|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	_	_	start_char=857|end_char=858
+15	считает	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	_	_	start_char=859|end_char=866
+16	большинство	большинство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	15	_	_	start_char=867|end_char=878
+17	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	_	_	start_char=879|end_char=888
+18	практически	практически	ADV	_	Degree=Pos	17	_	_	start_char=889|end_char=900
+19	всех	весь	DET	_	Case=Gen|Number=Plur|PronType=Tot	18	_	_	start_char=901|end_char=905
+20	стран	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	19	_	_	start_char=906|end_char=911|SpaceAfter=No
+21	-	-	PUNCT	_	_	20	_	_	start_char=911|end_char=912|SpaceAfter=No
+22	членов	член	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	21	_	_	start_char=912|end_char=918
+23	Евросоюза	Евросоюз	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	22	_	_	start_char=919|end_char=928|SpaceAfter=No
+24	.	.	PUNCT	_	_	23	_	_	start_char=928|end_char=929
+
+# text = Опрос провели среди 19 566 человек в первой половине мая 2024 года в 15 странах, в том числе на Украине Два года назад, 23 июня 2022 года Европарламент принял резолюцию в поддержку статуса кандидата в ЕС для Украины.
+# sent_id = 7
+1	Опрос	опрос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	0	_	_	start_char=930|end_char=935
+2	провели	провести	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=936|end_char=943
+3	среди	среди	ADP	_	_	2	_	_	start_char=944|end_char=949
+4	19 566	19 566	NUM	_	NumType=Card	3	_	_	start_char=950|end_char=956
+5	человек	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	_	_	start_char=957|end_char=964
+6	в	в	ADP	_	_	5	_	_	start_char=965|end_char=966
+7	первой	первый	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	6	_	_	start_char=967|end_char=973
+8	половине	половина	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	_	_	start_char=974|end_char=982
+9	мая	май	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	_	_	start_char=983|end_char=986
+10	2024	2024	ADJ	_	Degree=Pos	9	_	_	start_char=987|end_char=991
+11	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	_	_	start_char=992|end_char=996
+12	в	в	ADP	_	_	11	_	_	start_char=997|end_char=998
+13	15	15	NUM	_	NumType=Card	12	_	_	start_char=999|end_char=1001
+14	странах	страна	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	13	_	_	start_char=1002|end_char=1009|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=1009|end_char=1010
+16	в	в	ADP	_	_	15	_	_	start_char=1011|end_char=1012
+17	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	16	_	_	start_char=1013|end_char=1016
+18	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	17	_	_	start_char=1017|end_char=1022
+19	на	на	ADP	_	_	18	_	_	start_char=1023|end_char=1025
+20	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	19	_	_	start_char=1026|end_char=1033
+21	Два	два	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc|NumType=Card	20	_	_	start_char=1034|end_char=1037
+22	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	_	_	start_char=1038|end_char=1042
+23	назад	назад	ADV	_	Degree=Pos	22	_	_	start_char=1043|end_char=1048|SpaceAfter=No
+24	,	,	PUNCT	_	_	23	_	_	start_char=1048|end_char=1049
+25	23	23	NUM	_	NumType=Card	24	_	_	start_char=1050|end_char=1052
+26	июня	июнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	25	_	_	start_char=1053|end_char=1057
+27	2022	2022	ADJ	_	Degree=Pos	26	_	_	start_char=1058|end_char=1062
+28	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	27	_	_	start_char=1063|end_char=1067
+29	Европарламент	Европарламент	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	28	_	_	start_char=1068|end_char=1081
+30	принял	принять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	29	_	_	start_char=1082|end_char=1088
+31	резолюцию	резолюция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	30	_	_	start_char=1089|end_char=1098
+32	в	в	ADP	_	_	31	_	_	start_char=1099|end_char=1100
+33	поддержку	поддержка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	32	_	_	start_char=1101|end_char=1110
+34	статуса	статус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	33	_	_	start_char=1111|end_char=1118
+35	кандидата	кандидат	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	34	_	_	start_char=1119|end_char=1128
+36	в	в	ADP	_	_	35	_	_	start_char=1129|end_char=1130
+37	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	36	_	_	start_char=1131|end_char=1133
+38	для	для	ADP	_	_	37	_	_	start_char=1134|end_char=1137
+39	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	38	_	_	start_char=1138|end_char=1145|SpaceAfter=No
+40	.	.	PUNCT	_	_	39	_	_	start_char=1145|end_char=1146
+
+# text = При этом в Еврокомиссии заявили, что Украине предстоит выполнить семь требований, чтобы не лишиться этого статуса.
+# sent_id = 8
+1	При	при	ADP	_	_	0	_	_	start_char=1147|end_char=1150
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=1151|end_char=1155
+3	в	в	ADP	_	_	2	_	_	start_char=1156|end_char=1157
+4	Еврокомиссии	Еврокомиссия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	_	_	start_char=1158|end_char=1170
+5	заявили	заявить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	_	_	start_char=1171|end_char=1178|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=1178|end_char=1179
+7	что	что	SCONJ	_	_	6	_	_	start_char=1180|end_char=1183
+8	Украине	Украина	PROPN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	7	_	_	start_char=1184|end_char=1191
+9	предстоит	предстоять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	_	_	start_char=1192|end_char=1201
+10	выполнить	выполнить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	9	_	_	start_char=1202|end_char=1211
+11	семь	семь	NUM	_	Case=Acc|NumType=Card	10	_	_	start_char=1212|end_char=1216
+12	требований	требование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	11	_	_	start_char=1217|end_char=1227|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=1227|end_char=1228
+14	чтобы	чтобы	SCONJ	_	Mood=Cnd	13	_	_	start_char=1229|end_char=1234
+15	не	не	PART	_	_	14	_	_	start_char=1235|end_char=1237
+16	лишиться	лишиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	15	_	_	start_char=1238|end_char=1246
+17	этого	этот	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	16	_	_	start_char=1247|end_char=1252
+18	статуса	статус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	_	_	start_char=1253|end_char=1260|SpaceAfter=No
+19	.	.	PUNCT	_	_	18	_	_	start_char=1260|end_char=1261
+
+# text = Украине необходимо реформировать судебную систему, усилить меры по борьбе с коррупцией, гарантировать свободу СМИ, а также обеспечить права национальных меньшинств.
+# sent_id = 9
+1	Украине	Украина	PROPN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	0	_	_	start_char=1262|end_char=1269
+2	необходимо	необходимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	1	_	_	start_char=1270|end_char=1280
+3	реформировать	реформировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	_	_	start_char=1281|end_char=1294
+4	судебную	судебный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	3	_	_	start_char=1295|end_char=1303
+5	систему	система	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	_	_	start_char=1304|end_char=1311|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=1311|end_char=1312
+7	усилить	усилить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	_	_	start_char=1313|end_char=1320
+8	меры	мера	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	7	_	_	start_char=1321|end_char=1325
+9	по	по	ADP	_	_	8	_	_	start_char=1326|end_char=1328
+10	борьбе	борьба	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	9	_	_	start_char=1329|end_char=1335
+11	с	с	ADP	_	_	10	_	_	start_char=1336|end_char=1337
+12	коррупцией	коррупция	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	11	_	_	start_char=1338|end_char=1348|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=1348|end_char=1349
+14	гарантировать	гарантировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	13	_	_	start_char=1350|end_char=1363
+15	свободу	свобода	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	_	_	start_char=1364|end_char=1371
+16	СМИ	сми	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	15	_	_	start_char=1372|end_char=1375|SpaceAfter=No
+17	,	,	PUNCT	_	_	16	_	_	start_char=1375|end_char=1376
+18	а	а	CCONJ	_	_	17	_	_	start_char=1377|end_char=1378
+19	также	также	PART	_	_	18	_	_	start_char=1379|end_char=1384
+20	обеспечить	обеспечить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	19	_	_	start_char=1385|end_char=1395
+21	права	право	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	20	_	_	start_char=1396|end_char=1401
+22	национальных	национальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	21	_	_	start_char=1402|end_char=1414
+23	меньшинств	меньшинство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	22	_	_	start_char=1415|end_char=1425|SpaceAfter=No
+24	.	.	PUNCT	_	_	23	_	_	start_char=1425|end_char=1426
+
+# text = Саммит ЕС 14 декабря 2023 года принял решение о начале переговоров о членстве Украины и Молдавии в Евросоюзе.
+# sent_id = 10
+1	Саммит	саммит	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=1427|end_char=1433
+2	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	_	_	start_char=1434|end_char=1436
+3	14	14	NUM	_	NumType=Card	2	_	_	start_char=1437|end_char=1439
+4	декабря	декабрь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=1440|end_char=1447
+5	2023	2023	ADJ	_	Degree=Pos	4	_	_	start_char=1448|end_char=1452
+6	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	_	_	start_char=1453|end_char=1457
+7	принял	принять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	_	_	start_char=1458|end_char=1464
+8	решение	решение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	_	_	start_char=1465|end_char=1472
+9	о	о	ADP	_	_	8	_	_	start_char=1473|end_char=1474
+10	начале	начало	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	_	_	start_char=1475|end_char=1481
+11	переговоров	переговоры	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	_	_	start_char=1482|end_char=1493
+12	о	о	ADP	_	_	11	_	_	start_char=1494|end_char=1495
+13	членстве	членство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	12	_	_	start_char=1496|end_char=1504
+14	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	_	_	start_char=1505|end_char=1512
+15	и	и	CCONJ	_	_	14	_	_	start_char=1513|end_char=1514
+16	Молдавии	Молдавия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	_	_	start_char=1515|end_char=1523
+17	в	в	ADP	_	_	16	_	_	start_char=1524|end_char=1525
+18	Евросоюзе	Евросоюз	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	17	_	_	start_char=1526|end_char=1535|SpaceAfter=No
+19	.	.	PUNCT	_	_	18	_	_	start_char=1535|end_char=1536
+
+# text = Подробнее в статье Олега Хавича Как ЕС "проглотил" почти всю Восточную Европу, и слегка подавился на сайте Украина.ру.
+# sent_id = 11
+1	Подробнее	подробно	ADV	_	Degree=Cmp	0	_	_	start_char=1537|end_char=1546
+2	в	в	ADP	_	_	1	_	_	start_char=1547|end_char=1548
+3	статье	статья	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	_	_	start_char=1549|end_char=1555
+4	Олега	Олег	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=1556|end_char=1561
+5	Хавича	Хавич	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	_	_	start_char=1562|end_char=1568
+6	Как	как	ADV	_	Degree=Pos	5	_	_	start_char=1569|end_char=1572
+7	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	_	_	start_char=1573|end_char=1575
+8	"	"	PUNCT	_	_	7	_	_	start_char=1576|end_char=1577|SpaceAfter=No
+9	проглотил	проглотить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	_	_	start_char=1577|end_char=1586|SpaceAfter=No
+10	"	"	PUNCT	_	_	9	_	_	start_char=1586|end_char=1587
+11	почти	почти	ADV	_	Degree=Pos	10	_	_	start_char=1588|end_char=1593
+12	всю	весь	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Tot	11	_	_	start_char=1594|end_char=1597
+13	Восточную	восточный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	12	_	_	start_char=1598|end_char=1607
+14	Европу	Европа	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	_	_	start_char=1608|end_char=1614|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=1614|end_char=1615
+16	и	и	CCONJ	_	_	15	_	_	start_char=1616|end_char=1617
+17	слегка	слегка	ADV	_	Degree=Pos	16	_	_	start_char=1618|end_char=1624
+18	подавился	подавиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	17	_	_	start_char=1625|end_char=1634
+19	на	на	ADP	_	_	18	_	_	start_char=1635|end_char=1637
+20	сайте	сайт	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	19	_	_	start_char=1638|end_char=1643
+21	Украина.ру	Украина.р	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	20	_	_	start_char=1644|end_char=1654|SpaceAfter=No
+22	.	.	PUNCT	_	_	21	_	_	start_char=1654|end_char=1655|SpaceAfter=No
+

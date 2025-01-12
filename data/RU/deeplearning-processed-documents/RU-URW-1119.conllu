@@ -1,0 +1,156 @@
+# text = Депутат Картаполов заявил, что передача Украине F-16 не повлияет на СВО "Передача Украине американских истребителей F-16 никак не повлияет на ход специальной военной операции, заявил глава комитета Госдумы по обороне Андрей Картаполов.
+# sent_id = 0
+1	Депутат	депутат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=0|end_char=7
+2	Картаполов	Картаполов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=8|end_char=18
+3	заявил	заявить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=19|end_char=25|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=25|end_char=26
+5	что	что	SCONJ	_	_	4	_	_	start_char=27|end_char=30
+6	передача	передача	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	_	_	start_char=31|end_char=39
+7	Украине	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	_	_	start_char=40|end_char=47
+8	F-16	F-16	PROPN	_	Foreign=Yes	7	_	_	start_char=48|end_char=52
+9	не	не	PART	_	_	8	_	_	start_char=53|end_char=55
+10	повлияет	влиять	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	9	_	_	start_char=56|end_char=64
+11	на	на	ADP	_	_	10	_	_	start_char=65|end_char=67
+12	СВО	СВО	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	_	_	start_char=68|end_char=71
+13	"	"	PUNCT	_	_	12	_	_	start_char=72|end_char=73|SpaceAfter=No
+14	Передача	передача	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	_	_	start_char=73|end_char=81
+15	Украине	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	_	_	start_char=82|end_char=89
+16	американских	американский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	_	_	start_char=90|end_char=102
+17	истребителей	истребитель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	16	_	_	start_char=103|end_char=115
+18	F-	F-	PROPN	_	Foreign=Yes	17	_	_	start_char=116|end_char=118|SpaceAfter=No
+19	16	16	NUM	_	NumType=Card	18	_	_	start_char=118|end_char=120
+20	никак	никак	ADV	_	Degree=Pos	19	_	_	start_char=121|end_char=126
+21	не	не	PART	_	_	20	_	_	start_char=127|end_char=129
+22	повлияет	влиять	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	21	_	_	start_char=130|end_char=138
+23	на	на	ADP	_	_	22	_	_	start_char=139|end_char=141
+24	ход	ход	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	23	_	_	start_char=142|end_char=145
+25	специальной	специальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	24	_	_	start_char=146|end_char=157
+26	военной	военный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	25	_	_	start_char=158|end_char=165
+27	операции	операция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	26	_	_	start_char=166|end_char=174|SpaceAfter=No
+28	,	,	PUNCT	_	_	27	_	_	start_char=174|end_char=175
+29	заявил	заявить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	28	_	_	start_char=176|end_char=182
+30	глава	глава	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	29	_	_	start_char=183|end_char=188
+31	комитета	комитет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	30	_	_	start_char=189|end_char=197
+32	Госдумы	Госдума	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	31	_	_	start_char=198|end_char=205
+33	по	по	ADP	_	_	32	_	_	start_char=206|end_char=208
+34	обороне	оборона	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	33	_	_	start_char=209|end_char=216
+35	Андрей	Андрей	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	34	_	_	start_char=217|end_char=223
+36	Картаполов	Картаполов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	35	_	_	start_char=224|end_char=234|SpaceAfter=No
+37	.	.	PUNCT	_	_	36	_	_	start_char=234|end_char=235
+
+# text = По его словам, Россия давно готовилась к тому, что летом ВСУ получат F-16 от союзников.
+# sent_id = 1
+1	По	по	ADP	_	_	0	_	_	start_char=236|end_char=238
+2	его	его	DET	_	Poss=Yes|PronType=Prs	1	_	_	start_char=239|end_char=242
+3	словам	слово	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	2	_	_	start_char=243|end_char=249|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=249|end_char=250
+5	Россия	Россия	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	_	_	start_char=251|end_char=257
+6	давно	давно	ADV	_	Degree=Pos	5	_	_	start_char=258|end_char=263
+7	готовилась	готовиться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	6	_	_	start_char=264|end_char=274
+8	к	к	ADP	_	_	7	_	_	start_char=275|end_char=276
+9	тому	то	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	8	_	_	start_char=277|end_char=281|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=281|end_char=282
+11	что	что	SCONJ	_	_	10	_	_	start_char=283|end_char=286
+12	летом	лето	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	11	_	_	start_char=287|end_char=292
+13	ВСУ	ВСУ	PROPN	_	Animacy=Inan|Number=Sing	12	_	_	start_char=293|end_char=296
+14	получат	получить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	13	_	_	start_char=297|end_char=304
+15	F-16	F-16	PROPN	_	_	14	_	_	start_char=305|end_char=309
+16	от	от	ADP	_	_	15	_	_	start_char=310|end_char=312
+17	союзников	союзник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	16	_	_	start_char=313|end_char=322|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	_	_	start_char=322|end_char=323
+
+# text = Картаполов добавил, что после передачи F-16 Украине у российских летчиков и зенитчиков появятся новые ордена на груди, сообщает РИА Новости.
+# sent_id = 2
+1	Картаполов	Картаполов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=324|end_char=334
+2	добавил	добавить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=335|end_char=342|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=342|end_char=343
+4	что	что	SCONJ	_	_	3	_	_	start_char=344|end_char=347
+5	после	после	ADP	_	_	4	_	_	start_char=348|end_char=353
+6	передачи	передача	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	_	_	start_char=354|end_char=362
+7	F-16	F-16	PROPN	_	_	6	_	_	start_char=363|end_char=367
+8	Украине	Украина	PROPN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	7	_	_	start_char=368|end_char=375
+9	у	у	ADP	_	_	8	_	_	start_char=376|end_char=377
+10	российских	российский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	_	_	start_char=378|end_char=388
+11	летчиков	летчик	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	10	_	_	start_char=389|end_char=397
+12	и	и	CCONJ	_	_	11	_	_	start_char=398|end_char=399
+13	зенитчиков	зенитчик	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	12	_	_	start_char=400|end_char=410
+14	появятся	появиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	13	_	_	start_char=411|end_char=419
+15	новые	новый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	14	_	_	start_char=420|end_char=425
+16	ордена	орден	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	15	_	_	start_char=426|end_char=432
+17	на	на	ADP	_	_	16	_	_	start_char=433|end_char=435
+18	груди	грудь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	17	_	_	start_char=436|end_char=441|SpaceAfter=No
+19	,	,	PUNCT	_	_	18	_	_	start_char=441|end_char=442
+20	сообщает	сообщать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	_	_	start_char=443|end_char=451
+21	РИА	РИА	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	20	_	_	start_char=452|end_char=455
+22	Новости	Новость	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	21	_	_	start_char=456|end_char=463|SpaceAfter=No
+23	.	.	PUNCT	_	_	22	_	_	start_char=463|end_char=464
+
+# text = Ранее стало известно, что Дания и Нидерланды начали процесс передачи Украине истребителей F-16, об этом заявил госсекретарь США Энтони Блинкен на форуме, который проходит в рамках саммита НАТО в Вашингтоне.
+# sent_id = 3
+1	Ранее	ранее	ADV	_	Degree=Pos	0	_	_	start_char=465|end_char=470
+2	стало	стать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	1	_	_	start_char=471|end_char=476
+3	известно	известный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	_	_	start_char=477|end_char=485|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=485|end_char=486
+5	что	что	SCONJ	_	_	4	_	_	start_char=487|end_char=490
+6	Дания	Дания	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	_	_	start_char=491|end_char=496
+7	и	и	CCONJ	_	_	6	_	_	start_char=497|end_char=498
+8	Нидерланды	Нидерланды	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	_	_	start_char=499|end_char=509
+9	начали	начать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	8	_	_	start_char=510|end_char=516
+10	процесс	процесс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	_	_	start_char=517|end_char=524
+11	передачи	передача	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	_	_	start_char=525|end_char=533
+12	Украине	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	_	_	start_char=534|end_char=541
+13	истребителей	истребитель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	_	_	start_char=542|end_char=554
+14	F-	F-	PROPN	_	Foreign=Yes	13	_	_	start_char=555|end_char=557|SpaceAfter=No
+15	16	16	NUM	_	NumType=Card	14	_	_	start_char=557|end_char=559|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	_	_	start_char=559|end_char=560
+17	об	о	ADP	_	_	16	_	_	start_char=561|end_char=563
+18	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	17	_	_	start_char=564|end_char=568
+19	заявил	заявить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	18	_	_	start_char=569|end_char=575
+20	госсекретарь	госсекретарь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	19	_	_	start_char=576|end_char=588
+21	США	США	PROPN	_	Animacy=Inan|Case=Gen|Number=Plur	20	_	_	start_char=589|end_char=592
+22	Энтони	Энтони	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	21	_	_	start_char=593|end_char=599
+23	Блинкен	Блинкен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	22	_	_	start_char=600|end_char=607
+24	на	на	ADP	_	_	23	_	_	start_char=608|end_char=610
+25	форуме	форум	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	24	_	_	start_char=611|end_char=617|SpaceAfter=No
+26	,	,	PUNCT	_	_	25	_	_	start_char=617|end_char=618
+27	который	который	PRON	_	Case=Nom|PronType=Int,Rel	26	_	_	start_char=619|end_char=626
+28	проходит	проходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	27	_	_	start_char=627|end_char=635
+29	в	в	ADP	_	_	28	_	_	start_char=636|end_char=637
+30	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	29	_	_	start_char=638|end_char=644
+31	саммита	саммит	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	30	_	_	start_char=645|end_char=652
+32	НАТО	НАТО	PROPN	_	Case=Gen|Number=Sing	31	_	_	start_char=653|end_char=657
+33	в	в	ADP	_	_	32	_	_	start_char=658|end_char=659
+34	Вашингтоне	Вашингтон	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	33	_	_	start_char=660|end_char=670|SpaceAfter=No
+35	.	.	PUNCT	_	_	34	_	_	start_char=670|end_char=671
+
+# text = Он не уточнил, сколько именно самолетов будет передано Украине.
+# sent_id = 4
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=672|end_char=674
+2	не	не	PART	_	_	1	_	_	start_char=675|end_char=677
+3	уточнил	уточнить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=678|end_char=685|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=685|end_char=686
+5	сколько	сколько	NUM	_	NumType=Card	4	_	_	start_char=687|end_char=694
+6	именно	именно	PART	_	_	5	_	_	start_char=695|end_char=701
+7	самолетов	самолет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	_	_	start_char=702|end_char=711
+8	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	_	_	start_char=712|end_char=717
+9	передано	передать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	8	_	_	start_char=718|end_char=726
+10	Украине	Украина	PROPN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	9	_	_	start_char=727|end_char=734|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	_	_	start_char=734|end_char=735
+
+# text = Нидерланды и Дания ранее обещали передать Украине несколько десятков истребителей F-16."
+# sent_id = 5
+1	Нидерланды	Нидерланды	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	_	_	start_char=736|end_char=746
+2	и	и	CCONJ	_	_	1	_	_	start_char=747|end_char=748
+3	Дания	Дания	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	_	_	start_char=749|end_char=754
+4	ранее	ранее	ADV	_	Degree=Pos	3	_	_	start_char=755|end_char=760
+5	обещали	обещать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	_	_	start_char=761|end_char=768
+6	передать	передать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	_	_	start_char=769|end_char=777
+7	Украине	Украина	PROPN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	6	_	_	start_char=778|end_char=785
+8	несколько	несколько	NUM	_	Animacy=Inan|Case=Acc|NumType=Card	7	_	_	start_char=786|end_char=795
+9	десятков	десяток	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	_	_	start_char=796|end_char=804
+10	истребителей	истребитель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	_	_	start_char=805|end_char=817
+11	F-	F-	PROPN	_	Foreign=Yes	10	_	_	start_char=818|end_char=820|SpaceAfter=No
+12	16	16	NUM	_	NumType=Card	11	_	_	start_char=820|end_char=822|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=822|end_char=823|SpaceAfter=No
+14	"	"	PUNCT	_	_	13	_	_	start_char=823|end_char=824|SpaceAfter=No
+

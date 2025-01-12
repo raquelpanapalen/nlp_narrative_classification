@@ -1,0 +1,343 @@
+# text = Китай ответил на идею Финляндии закончить конфликт на Украине одним звонком.
+# sent_id = 0
+1	Китай	Китай	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=0|end_char=5
+2	ответил	ответить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=6|end_char=13
+3	на	на	ADP	_	_	2	_	_	start_char=14|end_char=16
+4	идею	идея	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	_	_	start_char=17|end_char=21
+5	Финляндии	Финляндия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	_	_	start_char=22|end_char=31
+6	закончить	закончить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	_	_	start_char=32|end_char=41
+7	конфликт	конфликт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	_	_	start_char=42|end_char=50
+8	на	на	ADP	_	_	7	_	_	start_char=51|end_char=53
+9	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	_	_	start_char=54|end_char=61
+10	одним	один	NUM	_	Case=Ins|Gender=Masc|NumType=Card	9	_	_	start_char=62|end_char=67
+11	звонком	звонок	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	10	_	_	start_char=68|end_char=75|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	_	_	start_char=75|end_char=76
+
+# text = Готов ли Пекин пойти на это?
+# sent_id = 1
+1	Готов	готовый	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	_	_	start_char=77|end_char=82
+2	ли	ли	PART	_	_	1	_	_	start_char=83|end_char=85
+3	Пекин	Пекин	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	_	_	start_char=86|end_char=91
+4	пойти	пойти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	_	_	start_char=92|end_char=97
+5	на	на	ADP	_	_	4	_	_	start_char=98|end_char=100
+6	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	5	_	_	start_char=101|end_char=104|SpaceAfter=No
+7	?	?	PUNCT	_	_	6	_	_	start_char=104|end_char=105
+
+# text = 14:11 Она добавила, что КНР всегда будет выступать за мир и диалог и поддерживать взаимодействие со всеми сторонами конфликта на Украине.
+# sent_id = 2
+1	14	14	NUM	_	NumType=Card	0	_	_	start_char=106|end_char=108|SpaceAfter=No
+2	:	:	PUNCT	_	_	1	_	_	start_char=108|end_char=109|SpaceAfter=No
+3	11	11	NUM	_	NumType=Card	2	_	_	start_char=109|end_char=111
+4	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	_	_	start_char=112|end_char=115
+5	добавила	добавить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	_	_	start_char=116|end_char=124|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=124|end_char=125
+7	что	что	SCONJ	_	_	6	_	_	start_char=126|end_char=129
+8	КНР	КНР	PROPN	_	Animacy=Inan|Number=Sing	7	_	_	start_char=130|end_char=133
+9	всегда	всегда	ADV	_	Degree=Pos	8	_	_	start_char=134|end_char=140
+10	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	_	_	start_char=141|end_char=146
+11	выступать	выступать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	_	_	start_char=147|end_char=156
+12	за	за	ADP	_	_	11	_	_	start_char=157|end_char=159
+13	мир	мир	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	_	_	start_char=160|end_char=163
+14	и	и	CCONJ	_	_	13	_	_	start_char=164|end_char=165
+15	диалог	диалог	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	_	_	start_char=166|end_char=172
+16	и	и	CCONJ	_	_	15	_	_	start_char=173|end_char=174
+17	поддерживать	поддерживать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	16	_	_	start_char=175|end_char=187
+18	взаимодействие	взаимодействие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	17	_	_	start_char=188|end_char=202
+19	со	с	ADP	_	_	18	_	_	start_char=203|end_char=205
+20	всеми	весь	DET	_	Case=Ins|Number=Plur|PronType=Tot	19	_	_	start_char=206|end_char=211
+21	сторонами	сторона	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	20	_	_	start_char=212|end_char=221
+22	конфликта	конфликт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	_	_	start_char=222|end_char=231
+23	на	на	ADP	_	_	22	_	_	start_char=232|end_char=234
+24	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	23	_	_	start_char=235|end_char=242|SpaceAfter=No
+25	.	.	PUNCT	_	_	24	_	_	start_char=242|end_char=243
+
+# text = «Продолжим играть конструктивную роль в содействии политическому разрешению украинского кризиса», — заключила дипломат.
+# sent_id = 3
+1	«	"	PUNCT	_	_	0	_	_	start_char=244|end_char=245|SpaceAfter=No
+2	Продолжим	продолжить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	1	_	_	start_char=245|end_char=254
+3	играть	играть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	_	_	start_char=255|end_char=261
+4	конструктивную	конструктивный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	3	_	_	start_char=262|end_char=276
+5	роль	роль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	_	_	start_char=277|end_char=281
+6	в	в	ADP	_	_	5	_	_	start_char=282|end_char=283
+7	содействии	содействие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	_	_	start_char=284|end_char=294
+8	политическому	политический	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	7	_	_	start_char=295|end_char=308
+9	разрешению	разрешение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	8	_	_	start_char=309|end_char=319
+10	украинского	украинский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	_	_	start_char=320|end_char=331
+11	кризиса	кризис	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	_	_	start_char=332|end_char=339|SpaceAfter=No
+12	»	"	PUNCT	_	_	11	_	_	start_char=339|end_char=340|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=340|end_char=341
+14	—	—	PUNCT	_	_	13	_	_	start_char=342|end_char=343
+15	заключила	заключить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	_	_	start_char=344|end_char=353
+16	дипломат	дипломат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	15	_	_	start_char=354|end_char=362|SpaceAfter=No
+17	.	.	PUNCT	_	_	16	_	_	start_char=362|end_char=363
+
+# text = Стубб заявил, что Китай может завершить конфликт на Украине одним звонком.
+# sent_id = 4
+1	Стубб	Стубб	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=364|end_char=369
+2	заявил	заявить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=370|end_char=376|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=376|end_char=377
+4	что	что	SCONJ	_	_	3	_	_	start_char=378|end_char=381
+5	Китай	Китай	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=382|end_char=387
+6	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	_	_	start_char=388|end_char=393
+7	завершить	завершить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	_	_	start_char=394|end_char=403
+8	конфликт	конфликт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	_	_	start_char=404|end_char=412
+9	на	на	ADP	_	_	8	_	_	start_char=413|end_char=415
+10	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	9	_	_	start_char=416|end_char=423
+11	одним	один	NUM	_	Case=Ins|Gender=Masc|NumType=Card	10	_	_	start_char=424|end_char=429
+12	звонком	звонок	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	11	_	_	start_char=430|end_char=437|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=437|end_char=438
+
+# text = Ранее 3 июля Стубб сказал , что конфликт на Украине можно завершить с помощью одного телефонного звонка — председателя КНР президенту России .
+# sent_id = 5
+1	Ранее	ранее	ADV	_	Degree=Pos	0	_	_	start_char=439|end_char=444
+2	3	3	NUM	_	NumType=Card	1	_	_	start_char=445|end_char=446
+3	июля	июль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	_	_	start_char=447|end_char=451
+4	Стубб	Стубб	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	_	_	start_char=452|end_char=457
+5	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	_	_	start_char=458|end_char=464
+6	,	,	PUNCT	_	_	5	_	_	start_char=465|end_char=466
+7	что	что	SCONJ	_	_	6	_	_	start_char=467|end_char=470
+8	конфликт	конфликт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	_	_	start_char=471|end_char=479
+9	на	на	ADP	_	_	8	_	_	start_char=480|end_char=482
+10	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	9	_	_	start_char=483|end_char=490
+11	можно	можно	ADV	_	Degree=Pos	10	_	_	start_char=491|end_char=496
+12	завершить	завершить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	11	_	_	start_char=497|end_char=506
+13	с	с	ADP	_	_	12	_	_	start_char=507|end_char=508
+14	помощью	помощь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	13	_	_	start_char=509|end_char=516
+15	одного	один	NUM	_	Case=Gen|Gender=Masc|NumType=Card	14	_	_	start_char=517|end_char=523
+16	телефонного	телефонный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	15	_	_	start_char=524|end_char=535
+17	звонка	звонок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	_	_	start_char=536|end_char=542
+18	—	—	PUNCT	_	_	17	_	_	start_char=543|end_char=544
+19	председателя	председатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	18	_	_	start_char=545|end_char=557
+20	КНР	КНР	PROPN	_	Animacy=Inan|Case=Gen|Number=Sing	19	_	_	start_char=558|end_char=561
+21	президенту	президент	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	20	_	_	start_char=562|end_char=572
+22	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	_	_	start_char=573|end_char=579
+23	.	.	PUNCT	_	_	22	_	_	start_char=580|end_char=581
+
+# text = По его мнению, Москва сейчас зависит от Пекина.
+# sent_id = 6
+1	По	по	ADP	_	_	0	_	_	start_char=582|end_char=584
+2	его	его	DET	_	Poss=Yes|PronType=Prs	1	_	_	start_char=585|end_char=588
+3	мнению	мнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	2	_	_	start_char=589|end_char=595|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=595|end_char=596
+5	Москва	Москва	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	_	_	start_char=597|end_char=603
+6	сейчас	сейчас	ADV	_	Degree=Pos	5	_	_	start_char=604|end_char=610
+7	зависит	зависеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	_	_	start_char=611|end_char=618
+8	от	от	ADP	_	_	7	_	_	start_char=619|end_char=621
+9	Пекина	Пекин	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	_	_	start_char=622|end_char=628|SpaceAfter=No
+10	.	.	PUNCT	_	_	9	_	_	start_char=628|end_char=629
+
+# text = «Один телефонный звонок председателя Си Цзиньпина разрешил бы этот кризис», — подчеркнул президент Финляндии.
+# sent_id = 7
+1	«	"	PUNCT	_	_	0	_	_	start_char=630|end_char=631|SpaceAfter=No
+2	Один	один	NUM	_	Case=Nom|Gender=Masc|NumType=Card	1	_	_	start_char=631|end_char=635
+3	телефонный	телефонный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	_	_	start_char=636|end_char=646
+4	звонок	звонок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	_	_	start_char=647|end_char=653
+5	председателя	председатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	_	_	start_char=654|end_char=666
+6	Си	Си	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	_	_	start_char=667|end_char=669
+7	Цзиньпина	Цзиньпин	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	_	_	start_char=670|end_char=679
+8	разрешил	разрешить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	_	_	start_char=680|end_char=688
+9	бы	бы	AUX	_	_	8	_	_	start_char=689|end_char=691
+10	этот	этот	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	9	_	_	start_char=692|end_char=696
+11	кризис	кризис	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	_	_	start_char=697|end_char=703|SpaceAfter=No
+12	»	"	PUNCT	_	_	11	_	_	start_char=703|end_char=704|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=704|end_char=705
+14	—	—	PUNCT	_	_	13	_	_	start_char=706|end_char=707
+15	подчеркнул	подчеркнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	_	_	start_char=708|end_char=718
+16	президент	президент	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	15	_	_	start_char=719|end_char=728
+17	Финляндии	Финляндия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	_	_	start_char=729|end_char=738|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	_	_	start_char=738|end_char=739
+
+# text = Ранее, в июне, Стубб уже говорил о роли Китая в конфликте на Украине.
+# sent_id = 8
+1	Ранее	ранее	ADV	_	Degree=Pos	0	_	_	start_char=740|end_char=745|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	_	_	start_char=745|end_char=746
+3	в	в	ADP	_	_	2	_	_	start_char=747|end_char=748
+4	июне	июнь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	_	_	start_char=749|end_char=753|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=753|end_char=754
+6	Стубб	Стубб	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	_	_	start_char=755|end_char=760
+7	уже	уже	ADV	_	Degree=Pos	6	_	_	start_char=761|end_char=764
+8	говорил	говорить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	_	_	start_char=765|end_char=772
+9	о	о	ADP	_	_	8	_	_	start_char=773|end_char=774
+10	роли	роль	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	9	_	_	start_char=775|end_char=779
+11	Китая	Китай	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	_	_	start_char=780|end_char=785
+12	в	в	ADP	_	_	11	_	_	start_char=786|end_char=787
+13	конфликте	конфликт	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	_	_	start_char=788|end_char=797
+14	на	на	ADP	_	_	13	_	_	start_char=798|end_char=800
+15	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	14	_	_	start_char=801|end_char=808|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	_	_	start_char=808|end_char=809
+
+# text = Тогда, ходе конференции в Швейцарии , он заявил, что Пекин должен повлиять на Москву для установления мира.
+# sent_id = 9
+1	Тогда	тогда	ADV	_	Degree=Pos	0	_	_	start_char=810|end_char=815|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	_	_	start_char=815|end_char=816
+3	ходе	ход	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	_	_	start_char=817|end_char=821
+4	конференции	конференция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	_	_	start_char=822|end_char=833
+5	в	в	ADP	_	_	4	_	_	start_char=834|end_char=835
+6	Швейцарии	Швейцария	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	_	_	start_char=836|end_char=845
+7	,	,	PUNCT	_	_	6	_	_	start_char=846|end_char=847
+8	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	_	_	start_char=848|end_char=850
+9	заявил	заявить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	_	_	start_char=851|end_char=857|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=857|end_char=858
+11	что	что	SCONJ	_	_	10	_	_	start_char=859|end_char=862
+12	Пекин	Пекин	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	_	_	start_char=863|end_char=868
+13	должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	12	_	_	start_char=869|end_char=875
+14	повлиять	влиять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	13	_	_	start_char=876|end_char=884
+15	на	на	ADP	_	_	14	_	_	start_char=885|end_char=887
+16	Москву	Москва	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	_	_	start_char=888|end_char=894
+17	для	для	ADP	_	_	16	_	_	start_char=895|end_char=898
+18	установления	установление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	_	_	start_char=899|end_char=911
+19	мира	мир	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	_	_	start_char=912|end_char=916|SpaceAfter=No
+20	.	.	PUNCT	_	_	19	_	_	start_char=916|end_char=917
+
+# text = Александр Стубб.
+# sent_id = 10
+1	Александр	Александр	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=918|end_char=927
+2	Стубб	Стубб	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=928|end_char=933|SpaceAfter=No
+3	.	.	PUNCT	_	_	2	_	_	start_char=933|end_char=934
+
+# text = Фото: Pool / Ukrainian Presidentia / Globallookpress.com В Госдуме предложили свою идею о завершении украинского кризиса.
+# sent_id = 11
+1	Фото	фото	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	_	_	start_char=935|end_char=939|SpaceAfter=No
+2	:	:	PUNCT	_	_	1	_	_	start_char=939|end_char=940
+3	Pool	Pool	PROPN	_	Foreign=Yes	2	_	_	start_char=941|end_char=945
+4	/	/	PUNCT	_	_	3	_	_	start_char=946|end_char=947
+5	Ukrainian	Ukrainian	PROPN	_	Foreign=Yes	4	_	_	start_char=948|end_char=957
+6	Presidentia	Presidentia	PROPN	_	Foreign=Yes	5	_	_	start_char=958|end_char=969
+7	/	/	PUNCT	_	_	6	_	_	start_char=970|end_char=971
+8	Globallookpress.com	Globallookpress.com	PROPN	_	Foreign=Yes	7	_	_	start_char=972|end_char=991
+9	В	в	ADP	_	_	8	_	_	start_char=992|end_char=993
+10	Госдуме	Госдума	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	9	_	_	start_char=994|end_char=1001
+11	предложили	предложить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	10	_	_	start_char=1002|end_char=1012
+12	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	11	_	_	start_char=1013|end_char=1017
+13	идею	идея	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	_	_	start_char=1018|end_char=1022
+14	о	о	ADP	_	_	13	_	_	start_char=1023|end_char=1024
+15	завершении	завершение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	14	_	_	start_char=1025|end_char=1035
+16	украинского	украинский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	15	_	_	start_char=1036|end_char=1047
+17	кризиса	кризис	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	_	_	start_char=1048|end_char=1055|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	_	_	start_char=1055|end_char=1056
+
+# text = Первый заместитель председателя , что для завершения специальной военной операции (СВО) президент должен позвонить украинскому лидеру Владимиру Зеленскому .
+# sent_id = 12
+1	Первый	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	_	_	start_char=1057|end_char=1063
+2	заместитель	заместитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=1064|end_char=1075
+3	председателя	председатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	_	_	start_char=1076|end_char=1088
+4	,	,	PUNCT	_	_	3	_	_	start_char=1089|end_char=1090
+5	что	что	SCONJ	_	_	4	_	_	start_char=1091|end_char=1094
+6	для	для	ADP	_	_	5	_	_	start_char=1095|end_char=1098
+7	завершения	завершение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	_	_	start_char=1099|end_char=1109
+8	специальной	специальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	_	_	start_char=1110|end_char=1121
+9	военной	военный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	_	_	start_char=1122|end_char=1129
+10	операции	операция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	_	_	start_char=1130|end_char=1138
+11	(	(	PUNCT	_	_	10	_	_	start_char=1139|end_char=1140|SpaceAfter=No
+12	СВО	СВО	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	_	_	start_char=1140|end_char=1143|SpaceAfter=No
+13	)	)	PUNCT	_	_	12	_	_	start_char=1143|end_char=1144
+14	президент	президент	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	_	_	start_char=1145|end_char=1154
+15	должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	14	_	_	start_char=1155|end_char=1161
+16	позвонить	позвонить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	15	_	_	start_char=1162|end_char=1171
+17	украинскому	украинский	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	16	_	_	start_char=1172|end_char=1183
+18	лидеру	лидер	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	17	_	_	start_char=1184|end_char=1190
+19	Владимиру	Владимир	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	18	_	_	start_char=1191|end_char=1200
+20	Зеленскому	Зеленский	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	19	_	_	start_char=1201|end_char=1211
+21	.	.	PUNCT	_	_	20	_	_	start_char=1212|end_char=1213
+
+# text = Он также напомнил, что Путин недавно говорил об условиях проведения мирных переговоров.
+# sent_id = 13
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=1214|end_char=1216
+2	также	также	ADV	_	Degree=Pos	1	_	_	start_char=1217|end_char=1222
+3	напомнил	напомнить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=1223|end_char=1231|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=1231|end_char=1232
+5	что	что	SCONJ	_	_	4	_	_	start_char=1233|end_char=1236
+6	Путин	Путин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	_	_	start_char=1237|end_char=1242
+7	недавно	недавно	ADV	_	Degree=Pos	6	_	_	start_char=1243|end_char=1250
+8	говорил	говорить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	_	_	start_char=1251|end_char=1258
+9	об	о	ADP	_	_	8	_	_	start_char=1259|end_char=1261
+10	условиях	условие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	9	_	_	start_char=1262|end_char=1270
+11	проведения	проведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	_	_	start_char=1271|end_char=1281
+12	мирных	мирный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	_	_	start_char=1282|end_char=1288
+13	переговоров	переговоры	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	_	_	start_char=1289|end_char=1300|SpaceAfter=No
+14	.	.	PUNCT	_	_	13	_	_	start_char=1300|end_char=1301
+
+# text = «Если какой-то из руководителей или какой-то политический деятель будет готов подтвердить и гарантировать исполнение этих требований, это будет возможностью для начала переговоров, к которым мы всегда готовы», — сказал депутат.
+# sent_id = 14
+1	«	"	PUNCT	_	_	0	_	_	start_char=1302|end_char=1303|SpaceAfter=No
+2	Если	если	SCONJ	_	_	1	_	_	start_char=1303|end_char=1307
+3	какой-то	какой-то	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	2	_	_	start_char=1308|end_char=1316
+4	из	из	ADP	_	_	3	_	_	start_char=1317|end_char=1319
+5	руководителей	руководитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	_	_	start_char=1320|end_char=1333
+6	или	или	CCONJ	_	_	5	_	_	start_char=1334|end_char=1337
+7	какой-то	какой-то	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	6	_	_	start_char=1338|end_char=1346
+8	политический	политический	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	_	_	start_char=1347|end_char=1359
+9	деятель	деятель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	_	_	start_char=1360|end_char=1367
+10	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	_	_	start_char=1368|end_char=1373
+11	готов	готовый	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	10	_	_	start_char=1374|end_char=1379
+12	подтвердить	подтвердить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	11	_	_	start_char=1380|end_char=1391
+13	и	и	CCONJ	_	_	12	_	_	start_char=1392|end_char=1393
+14	гарантировать	гарантировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	13	_	_	start_char=1394|end_char=1407
+15	исполнение	исполнение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	14	_	_	start_char=1408|end_char=1418
+16	этих	этот	DET	_	Case=Gen|Number=Plur|PronType=Dem	15	_	_	start_char=1419|end_char=1423
+17	требований	требование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	16	_	_	start_char=1424|end_char=1434|SpaceAfter=No
+18	,	,	PUNCT	_	_	17	_	_	start_char=1434|end_char=1435
+19	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	18	_	_	start_char=1436|end_char=1439
+20	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	_	_	start_char=1440|end_char=1445
+21	возможностью	возможность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	20	_	_	start_char=1446|end_char=1458
+22	для	для	ADP	_	_	21	_	_	start_char=1459|end_char=1462
+23	начала	начало	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	_	_	start_char=1463|end_char=1469
+24	переговоров	переговоры	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	23	_	_	start_char=1470|end_char=1481|SpaceAfter=No
+25	,	,	PUNCT	_	_	24	_	_	start_char=1481|end_char=1482
+26	к	к	ADP	_	_	25	_	_	start_char=1483|end_char=1484
+27	которым	который	PRON	_	Case=Dat|PronType=Int,Rel	26	_	_	start_char=1485|end_char=1492
+28	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	27	_	_	start_char=1493|end_char=1495
+29	всегда	всегда	ADV	_	Degree=Pos	28	_	_	start_char=1496|end_char=1502
+30	готовы	готовый	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	29	_	_	start_char=1503|end_char=1509|SpaceAfter=No
+31	»	"	PUNCT	_	_	30	_	_	start_char=1509|end_char=1510|SpaceAfter=No
+32	,	,	PUNCT	_	_	31	_	_	start_char=1510|end_char=1511
+33	—	—	PUNCT	_	_	32	_	_	start_char=1512|end_char=1513
+34	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	33	_	_	start_char=1514|end_char=1520
+35	депутат	депутат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	34	_	_	start_char=1521|end_char=1528|SpaceAfter=No
+36	.	.	PUNCT	_	_	35	_	_	start_char=1528|end_char=1529
+
+# text = В середине июня президент России сообщил , что готов к переговорам с Украиной, если Зеленский выполнит несколько условий: выведет украинские войска из Херсонской и Запорожской областей, Луганской и Донецкой народных республик, а также оставит идею вступления страны в
+# sent_id = 15
+1	В	в	ADP	_	_	0	_	_	start_char=1530|end_char=1531
+2	середине	середина	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	_	_	start_char=1532|end_char=1540
+3	июня	июнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	_	_	start_char=1541|end_char=1545
+4	президент	президент	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	_	_	start_char=1546|end_char=1555
+5	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	_	_	start_char=1556|end_char=1562
+6	сообщил	сообщить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	_	_	start_char=1563|end_char=1570
+7	,	,	PUNCT	_	_	6	_	_	start_char=1571|end_char=1572
+8	что	что	SCONJ	_	_	7	_	_	start_char=1573|end_char=1576
+9	готов	готовый	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	8	_	_	start_char=1577|end_char=1582
+10	к	к	ADP	_	_	9	_	_	start_char=1583|end_char=1584
+11	переговорам	переговоры	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	10	_	_	start_char=1585|end_char=1596
+12	с	с	ADP	_	_	11	_	_	start_char=1597|end_char=1598
+13	Украиной	Украина	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	12	_	_	start_char=1599|end_char=1607|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	_	_	start_char=1607|end_char=1608
+15	если	если	SCONJ	_	_	14	_	_	start_char=1609|end_char=1613
+16	Зеленский	Зеленский	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	15	_	_	start_char=1614|end_char=1623
+17	выполнит	выполнить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	16	_	_	start_char=1624|end_char=1632
+18	несколько	несколько	NUM	_	Animacy=Inan|Case=Acc|NumType=Card	17	_	_	start_char=1633|end_char=1642
+19	условий	условие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	18	_	_	start_char=1643|end_char=1650|SpaceAfter=No
+20	:	:	PUNCT	_	_	19	_	_	start_char=1650|end_char=1651
+21	выведет	вывести	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	20	_	_	start_char=1652|end_char=1659
+22	украинские	украинский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	21	_	_	start_char=1660|end_char=1670
+23	войска	войска	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	22	_	_	start_char=1671|end_char=1677
+24	из	из	ADP	_	_	23	_	_	start_char=1678|end_char=1680
+25	Херсонской	херсонский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	24	_	_	start_char=1681|end_char=1691
+26	и	и	CCONJ	_	_	25	_	_	start_char=1692|end_char=1693
+27	Запорожской	запорожский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	26	_	_	start_char=1694|end_char=1705
+28	областей	область	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	27	_	_	start_char=1706|end_char=1714|SpaceAfter=No
+29	,	,	PUNCT	_	_	28	_	_	start_char=1714|end_char=1715
+30	Луганской	луганский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	29	_	_	start_char=1716|end_char=1725
+31	и	и	CCONJ	_	_	30	_	_	start_char=1726|end_char=1727
+32	Донецкой	донецкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	31	_	_	start_char=1728|end_char=1736
+33	народных	народный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	32	_	_	start_char=1737|end_char=1745
+34	республик	республика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	33	_	_	start_char=1746|end_char=1755|SpaceAfter=No
+35	,	,	PUNCT	_	_	34	_	_	start_char=1755|end_char=1756
+36	а	а	CCONJ	_	_	35	_	_	start_char=1757|end_char=1758
+37	также	также	PART	_	_	36	_	_	start_char=1759|end_char=1764
+38	оставит	оставить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	37	_	_	start_char=1765|end_char=1772
+39	идею	идея	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	38	_	_	start_char=1773|end_char=1777
+40	вступления	вступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	39	_	_	start_char=1778|end_char=1788
+41	страны	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	40	_	_	start_char=1789|end_char=1795
+42	в	в	ADP	_	_	41	_	_	start_char=1796|end_char=1797|SpaceAfter=No
+

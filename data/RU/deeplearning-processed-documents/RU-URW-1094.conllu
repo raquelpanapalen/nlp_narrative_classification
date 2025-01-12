@@ -1,0 +1,290 @@
+# text = Полпред президента по ДФО оценил восстановление в шести населенных пунктах ДНР Донецк, 4 июл — ДАН.
+# sent_id = 0
+1	Полпред	полпред	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=0|end_char=7
+2	президента	президент	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	1	_	_	start_char=8|end_char=18
+3	по	по	ADP	_	_	2	_	_	start_char=19|end_char=21
+4	ДФО	ДФО	PROPN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	3	_	_	start_char=22|end_char=25
+5	оценил	оценить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	_	_	start_char=26|end_char=32
+6	восстановление	восстановление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	_	_	start_char=33|end_char=47
+7	в	в	ADP	_	_	6	_	_	start_char=48|end_char=49
+8	шести	шесть	NUM	_	Case=Loc|NumType=Card	7	_	_	start_char=50|end_char=55
+9	населенных	населить	VERB	_	Aspect=Perf|Case=Loc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	8	_	_	start_char=56|end_char=66
+10	пунктах	пункт	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	9	_	_	start_char=67|end_char=74
+11	ДНР	ДНР	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	_	_	start_char=75|end_char=78
+12	Донецк	Донецк	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	_	_	start_char=79|end_char=85|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=85|end_char=86
+14	4	4	NUM	_	NumType=Card	13	_	_	start_char=87|end_char=88
+15	июл	июль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	14	_	_	start_char=89|end_char=92
+16	—	—	PUNCT	_	_	15	_	_	start_char=93|end_char=94
+17	ДАН	ДАН	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	16	_	_	start_char=95|end_char=98|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	_	_	start_char=98|end_char=99
+
+# text = Вице-премьер России, полномочный представитель президента в Дальневосточном федеральном округе Юрий Трутнев посетил ДНР с рабочей поездкой.
+# sent_id = 1
+1	Вице-премьер	вице-премьер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=100|end_char=112
+2	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	_	_	start_char=113|end_char=119|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=119|end_char=120
+4	полномочный	полномочный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	_	_	start_char=121|end_char=132
+5	представитель	представитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=133|end_char=146
+6	президента	президент	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	_	_	start_char=147|end_char=157
+7	в	в	ADP	_	_	6	_	_	start_char=158|end_char=159
+8	Дальневосточном	дальневосточный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	7	_	_	start_char=160|end_char=175
+9	федеральном	федеральный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	8	_	_	start_char=176|end_char=187
+10	округе	округ	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	_	_	start_char=188|end_char=194
+11	Юрий	Юрий	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	_	_	start_char=195|end_char=199
+12	Трутнев	Трутнев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	_	_	start_char=200|end_char=207
+13	посетил	посетить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	_	_	start_char=208|end_char=215
+14	ДНР	ДНР	PROPN	_	Animacy=Inan|Number=Sing	13	_	_	start_char=216|end_char=219
+15	с	с	ADP	_	_	14	_	_	start_char=220|end_char=221
+16	рабочей	рабочий	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	15	_	_	start_char=222|end_char=229
+17	поездкой	поездка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	16	_	_	start_char=230|end_char=238|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	_	_	start_char=238|end_char=239
+
+# text = Об этом сообщили в Правительстве РФ.
+# sent_id = 2
+1	Об	о	ADP	_	_	0	_	_	start_char=240|end_char=242
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=243|end_char=247
+3	сообщили	сообщить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=248|end_char=256
+4	в	в	ADP	_	_	3	_	_	start_char=257|end_char=258
+5	Правительстве	Правительство	PROPN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	_	_	start_char=259|end_char=272
+6	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	_	_	start_char=273|end_char=275|SpaceAfter=No
+7	.	.	PUNCT	_	_	6	_	_	start_char=275|end_char=276
+
+# text = Отмечается, что полпред президента побывал в городах и поселках, которые восстанавливаются при поддержке регионов ДФО.
+# sent_id = 3
+1	Отмечается	отмечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	_	_	start_char=277|end_char=287|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	_	_	start_char=287|end_char=288
+3	что	что	SCONJ	_	_	2	_	_	start_char=289|end_char=292
+4	полпред	полпред	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	_	_	start_char=293|end_char=300
+5	президента	президент	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	_	_	start_char=301|end_char=311
+6	побывал	побывать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	_	_	start_char=312|end_char=319
+7	в	в	ADP	_	_	6	_	_	start_char=320|end_char=321
+8	городах	город	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	7	_	_	start_char=322|end_char=329
+9	и	и	CCONJ	_	_	8	_	_	start_char=330|end_char=331
+10	поселках	поселок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	9	_	_	start_char=332|end_char=340|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=340|end_char=341
+12	которые	который	PRON	_	Case=Nom|PronType=Int,Rel	11	_	_	start_char=342|end_char=349
+13	восстанавливаются	восстанавливать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	12	_	_	start_char=350|end_char=367
+14	при	при	ADP	_	_	13	_	_	start_char=368|end_char=371
+15	поддержке	поддержка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	14	_	_	start_char=372|end_char=381
+16	регионов	регион	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	15	_	_	start_char=382|end_char=390
+17	ДФО	ДФО	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	_	_	start_char=391|end_char=394|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	_	_	start_char=394|end_char=395
+
+# text = Это Докучаевск, Еленовка, Торез, Дебальцево, Светлодарск и Мироновский.
+# sent_id = 4
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	_	_	start_char=396|end_char=399
+2	Докучаевск	Докучаевск	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=400|end_char=410|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=410|end_char=411
+4	Еленовка	Еленовка	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	_	_	start_char=412|end_char=420|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=420|end_char=421
+6	Торез	Торез	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	_	_	start_char=422|end_char=427|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	_	_	start_char=427|end_char=428
+8	Дебальцево	Дебальцево	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	_	_	start_char=429|end_char=439|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=439|end_char=440
+10	Светлодарск	Светлодарск	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	_	_	start_char=441|end_char=452
+11	и	и	CCONJ	_	_	10	_	_	start_char=453|end_char=454
+12	Мироновский	Мироновский	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	_	_	start_char=455|end_char=466|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=466|end_char=467
+
+# text = На сегодняшний день там ведутся работы на более 100 соцобъектах.
+# sent_id = 5
+1	На	на	ADP	_	_	0	_	_	start_char=468|end_char=470
+2	сегодняшний	сегодняшний	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	1	_	_	start_char=471|end_char=482
+3	день	день	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	_	_	start_char=483|end_char=487
+4	там	там	ADV	_	Degree=Pos	3	_	_	start_char=488|end_char=491
+5	ведутся	вести	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	_	_	start_char=492|end_char=499
+6	работы	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	5	_	_	start_char=500|end_char=506
+7	на	на	ADP	_	_	6	_	_	start_char=507|end_char=509
+8	более	более	ADV	_	Degree=Cmp	7	_	_	start_char=510|end_char=515
+9	100	100	NUM	_	NumType=Card	8	_	_	start_char=516|end_char=519
+10	соцобъектах	соцобъект	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	9	_	_	start_char=520|end_char=531|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	_	_	start_char=531|end_char=532
+
+# text = За этими населенными пунктами закреплены Якутия, Приморье, Камчатка и Чукотка.
+# sent_id = 6
+1	За	за	ADP	_	_	0	_	_	start_char=533|end_char=535
+2	этими	этот	DET	_	Case=Ins|Number=Plur|PronType=Dem	1	_	_	start_char=536|end_char=541
+3	населенными	населенный	VERB	_	Aspect=Perf|Case=Ins|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	2	_	_	start_char=542|end_char=553
+4	пунктами	пункт	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	3	_	_	start_char=554|end_char=562
+5	закреплены	закрепить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	4	_	_	start_char=563|end_char=573
+6	Якутия	Якутия	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	_	_	start_char=574|end_char=580|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	_	_	start_char=580|end_char=581
+8	Приморье	Приморье	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	_	_	start_char=582|end_char=590|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=590|end_char=591
+10	Камчатка	Камчатка	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	_	_	start_char=592|end_char=600
+11	и	и	CCONJ	_	_	10	_	_	start_char=601|end_char=602
+12	Чукотка	Чукотка	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	_	_	start_char=603|end_char=610|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=610|end_char=611
+
+# text = «За время шефской работы регионы Дальнего Востока не сорвали ни одного срока.
+# sent_id = 7
+1	«	"	PUNCT	_	_	0	_	_	start_char=612|end_char=613|SpaceAfter=No
+2	За	за	ADP	_	_	1	_	_	start_char=613|end_char=615
+3	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	_	_	start_char=616|end_char=621
+4	шефской	шефский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	3	_	_	start_char=622|end_char=629
+5	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	_	_	start_char=630|end_char=636
+6	регионы	регион	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	5	_	_	start_char=637|end_char=644
+7	Дальнего	дальний	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	6	_	_	start_char=645|end_char=653
+8	Востока	Восток	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	_	_	start_char=654|end_char=661
+9	не	не	PART	_	_	8	_	_	start_char=662|end_char=664
+10	сорвали	срыть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	9	_	_	start_char=665|end_char=672
+11	ни	ни	PART	_	_	10	_	_	start_char=673|end_char=675
+12	одного	один	NUM	_	Case=Gen|Gender=Masc|NumType=Card	11	_	_	start_char=676|end_char=682
+13	срока	срок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	_	_	start_char=683|end_char=688|SpaceAfter=No
+14	.	.	PUNCT	_	_	13	_	_	start_char=688|end_char=689
+
+# text = Все региональные группы ДФО работают на территории ДНР ответственно.
+# sent_id = 8
+1	Все	весь	DET	_	Case=Nom|Number=Plur|PronType=Tot	0	_	_	start_char=690|end_char=693
+2	региональные	региональный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	1	_	_	start_char=694|end_char=706
+3	группы	группа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	2	_	_	start_char=707|end_char=713
+4	ДФО	ДФО	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=714|end_char=717
+5	работают	работать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	_	_	start_char=718|end_char=726
+6	на	на	ADP	_	_	5	_	_	start_char=727|end_char=729
+7	территории	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	_	_	start_char=730|end_char=740
+8	ДНР	ДНР	PROPN	_	Animacy=Inan|Case=Gen|Number=Sing	7	_	_	start_char=741|end_char=744
+9	ответственно	ответственно	ADV	_	Degree=Pos	8	_	_	start_char=745|end_char=757|SpaceAfter=No
+10	.	.	PUNCT	_	_	9	_	_	start_char=757|end_char=758
+
+# text = Все главы дальневосточных регионов и руководители региональных групп понимают, как важно, чтобы жизнь на новых российских территориях вошла в мирное русло, чтобы люди видели помощь и заботу со стороны России, как меняется социальная инфраструктура — проводится ремонт школ, детских садов, больниц, спортивных и культурных объектов, восстанавливаются дороги», — цитируют Трутнева в пресс-службе кабмина.
+# sent_id = 9
+1	Все	весь	DET	_	Case=Nom|Number=Plur|PronType=Tot	0	_	_	start_char=759|end_char=762
+2	главы	глава	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	1	_	_	start_char=763|end_char=768
+3	дальневосточных	дальневосточный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	2	_	_	start_char=769|end_char=784
+4	регионов	регион	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	_	_	start_char=785|end_char=793
+5	и	и	CCONJ	_	_	4	_	_	start_char=794|end_char=795
+6	руководители	руководитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	5	_	_	start_char=796|end_char=808
+7	региональных	региональный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	_	_	start_char=809|end_char=821
+8	групп	группа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	_	_	start_char=822|end_char=827
+9	понимают	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	_	_	start_char=828|end_char=836|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=836|end_char=837
+11	как	как	ADV	_	Degree=Pos	10	_	_	start_char=838|end_char=841
+12	важно	важный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	11	_	_	start_char=842|end_char=847|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=847|end_char=848
+14	чтобы	чтобы	SCONJ	_	Mood=Cnd	13	_	_	start_char=849|end_char=854
+15	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	_	_	start_char=855|end_char=860
+16	на	на	ADP	_	_	15	_	_	start_char=861|end_char=863
+17	новых	новый	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	16	_	_	start_char=864|end_char=869
+18	российских	российский	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	17	_	_	start_char=870|end_char=880
+19	территориях	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	18	_	_	start_char=881|end_char=892
+20	вошла	войти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	19	_	_	start_char=893|end_char=898
+21	в	в	ADP	_	_	20	_	_	start_char=899|end_char=900
+22	мирное	мирный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	21	_	_	start_char=901|end_char=907
+23	русло	русло	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	22	_	_	start_char=908|end_char=913|SpaceAfter=No
+24	,	,	PUNCT	_	_	23	_	_	start_char=913|end_char=914
+25	чтобы	чтобы	SCONJ	_	Mood=Cnd	24	_	_	start_char=915|end_char=920
+26	люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	25	_	_	start_char=921|end_char=925
+27	видели	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	26	_	_	start_char=926|end_char=932
+28	помощь	помощь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	27	_	_	start_char=933|end_char=939
+29	и	и	CCONJ	_	_	28	_	_	start_char=940|end_char=941
+30	заботу	забота	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	29	_	_	start_char=942|end_char=948
+31	со	с	ADP	_	_	30	_	_	start_char=949|end_char=951
+32	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	31	_	_	start_char=952|end_char=959
+33	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	32	_	_	start_char=960|end_char=966|SpaceAfter=No
+34	,	,	PUNCT	_	_	33	_	_	start_char=966|end_char=967
+35	как	как	ADV	_	Degree=Pos	34	_	_	start_char=968|end_char=971
+36	меняется	меняться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	35	_	_	start_char=972|end_char=980
+37	социальная	социальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	36	_	_	start_char=981|end_char=991
+38	инфраструктура	инфраструктура	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	37	_	_	start_char=992|end_char=1006
+39	—	—	PUNCT	_	_	38	_	_	start_char=1007|end_char=1008
+40	проводится	проводить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	39	_	_	start_char=1009|end_char=1019
+41	ремонт	ремонт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	40	_	_	start_char=1020|end_char=1026
+42	школ	школа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	41	_	_	start_char=1027|end_char=1031|SpaceAfter=No
+43	,	,	PUNCT	_	_	42	_	_	start_char=1031|end_char=1032
+44	детских	детский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	43	_	_	start_char=1033|end_char=1040
+45	садов	сад	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	44	_	_	start_char=1041|end_char=1046|SpaceAfter=No
+46	,	,	PUNCT	_	_	45	_	_	start_char=1046|end_char=1047
+47	больниц	больница	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	46	_	_	start_char=1048|end_char=1055|SpaceAfter=No
+48	,	,	PUNCT	_	_	47	_	_	start_char=1055|end_char=1056
+49	спортивных	спортивный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	48	_	_	start_char=1057|end_char=1067
+50	и	и	CCONJ	_	_	49	_	_	start_char=1068|end_char=1069
+51	культурных	культурный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	50	_	_	start_char=1070|end_char=1080
+52	объектов	объект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	51	_	_	start_char=1081|end_char=1089|SpaceAfter=No
+53	,	,	PUNCT	_	_	52	_	_	start_char=1089|end_char=1090
+54	восстанавливаются	восстанавливать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	53	_	_	start_char=1091|end_char=1108
+55	дороги	дорога	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	54	_	_	start_char=1109|end_char=1115|SpaceAfter=No
+56	»	"	PUNCT	_	_	55	_	_	start_char=1115|end_char=1116|SpaceAfter=No
+57	,	,	PUNCT	_	_	56	_	_	start_char=1116|end_char=1117
+58	—	—	PUNCT	_	_	57	_	_	start_char=1118|end_char=1119
+59	цитируют	цитировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	58	_	_	start_char=1120|end_char=1128
+60	Трутнева	Трутнев	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	59	_	_	start_char=1129|end_char=1137
+61	в	в	ADP	_	_	60	_	_	start_char=1138|end_char=1139
+62	пресс-службе	пресс-служба	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	61	_	_	start_char=1140|end_char=1152
+63	кабмина	кабмин	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	62	_	_	start_char=1153|end_char=1160|SpaceAfter=No
+64	.	.	PUNCT	_	_	63	_	_	start_char=1160|end_char=1161
+
+# text = Добавим, что Юрий Трутнев довольно часто бывает в ДНР и лично следит за ходом восстановления объектов в подшефных регионам Дальневосточного округа муниципалитетах нашей Республики.
+# sent_id = 10
+1	Добавим	добавить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	_	_	start_char=1162|end_char=1169|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	_	_	start_char=1169|end_char=1170
+3	что	что	SCONJ	_	_	2	_	_	start_char=1171|end_char=1174
+4	Юрий	Юрий	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	_	_	start_char=1175|end_char=1179
+5	Трутнев	Трутнев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=1180|end_char=1187
+6	довольно	довольно	ADV	_	Degree=Pos	5	_	_	start_char=1188|end_char=1196
+7	часто	часто	ADV	_	Degree=Pos	6	_	_	start_char=1197|end_char=1202
+8	бывает	бывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	_	_	start_char=1203|end_char=1209
+9	в	в	ADP	_	_	8	_	_	start_char=1210|end_char=1211
+10	ДНР	ДНР	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	9	_	_	start_char=1212|end_char=1215
+11	и	и	CCONJ	_	_	10	_	_	start_char=1216|end_char=1217
+12	лично	лично	ADV	_	Degree=Pos	11	_	_	start_char=1218|end_char=1223
+13	следит	следить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	_	_	start_char=1224|end_char=1230
+14	за	за	ADP	_	_	13	_	_	start_char=1231|end_char=1233
+15	ходом	ход	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	14	_	_	start_char=1234|end_char=1239
+16	восстановления	восстановление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	_	_	start_char=1240|end_char=1254
+17	объектов	объект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	16	_	_	start_char=1255|end_char=1263
+18	в	в	ADP	_	_	17	_	_	start_char=1264|end_char=1265
+19	подшефных	подшефный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	18	_	_	start_char=1266|end_char=1275
+20	регионам	регион	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	19	_	_	start_char=1276|end_char=1284
+21	Дальневосточного	дальневосточный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	20	_	_	start_char=1285|end_char=1301
+22	округа	округ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	_	_	start_char=1302|end_char=1308
+23	муниципалитетах	муниципалитет	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	22	_	_	start_char=1309|end_char=1324
+24	нашей	наш	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	23	_	_	start_char=1325|end_char=1330
+25	Республики	Республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	24	_	_	start_char=1331|end_char=1341|SpaceAfter=No
+26	.	.	PUNCT	_	_	25	_	_	start_char=1341|end_char=1342
+
+# text = В частности, до этого полпред президента приезжал в конце апреля.
+# sent_id = 11
+1	В	в	ADP	_	_	0	_	_	start_char=1343|end_char=1344
+2	частности	частность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	_	_	start_char=1345|end_char=1354|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=1354|end_char=1355
+4	до	до	ADP	_	_	3	_	_	start_char=1356|end_char=1358
+5	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	4	_	_	start_char=1359|end_char=1364
+6	полпред	полпред	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	_	_	start_char=1365|end_char=1372
+7	президента	президент	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	_	_	start_char=1373|end_char=1383
+8	приезжал	приезжать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	_	_	start_char=1384|end_char=1392
+9	в	в	ADP	_	_	8	_	_	start_char=1393|end_char=1394
+10	конце	конец	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	_	_	start_char=1395|end_char=1400
+11	апреля	апрель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	_	_	start_char=1401|end_char=1407|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	_	_	start_char=1407|end_char=1408
+
+# text = Тогда он заявил, что Дальний Восток планирует возвести и восстановить в регионе 222 социальных объекта.
+# sent_id = 12
+1	Тогда	тогда	ADV	_	Degree=Pos	0	_	_	start_char=1409|end_char=1414
+2	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	_	_	start_char=1415|end_char=1417
+3	заявил	заявить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=1418|end_char=1424|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=1424|end_char=1425
+5	что	что	SCONJ	_	_	4	_	_	start_char=1426|end_char=1429
+6	Дальний	дальний	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	_	_	start_char=1430|end_char=1437
+7	Восток	Восток	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	_	_	start_char=1438|end_char=1444
+8	планирует	планировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	_	_	start_char=1445|end_char=1454
+9	возвести	возвести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	_	_	start_char=1455|end_char=1463
+10	и	и	CCONJ	_	_	9	_	_	start_char=1464|end_char=1465
+11	восстановить	восстановить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	_	_	start_char=1466|end_char=1478
+12	в	в	ADP	_	_	11	_	_	start_char=1479|end_char=1480
+13	регионе	регион	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	_	_	start_char=1481|end_char=1488
+14	222	222	NUM	_	NumType=Card	13	_	_	start_char=1489|end_char=1492
+15	социальных	социальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	14	_	_	start_char=1493|end_char=1503
+16	объекта	объект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	_	_	start_char=1504|end_char=1511|SpaceAfter=No
+17	.	.	PUNCT	_	_	16	_	_	start_char=1511|end_char=1512
+
+# text = Подписывайтесь на наш телеграм-канал!
+# sent_id = 13
+1	Подписывайтесь	подписывать	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Mid	0	_	_	start_char=1513|end_char=1527
+2	на	на	ADP	_	_	1	_	_	start_char=1528|end_char=1530
+3	наш	наш	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	2	_	_	start_char=1531|end_char=1534
+4	телеграм	телегр	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	_	_	start_char=1535|end_char=1543|SpaceAfter=No
+5	-	-	PUNCT	_	_	4	_	_	start_char=1543|end_char=1544|SpaceAfter=No
+6	канал	канал	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	_	_	start_char=1544|end_char=1549|SpaceAfter=No
+7	!	!	PUNCT	_	_	6	_	_	start_char=1549|end_char=1550|SpaceAfter=No
+

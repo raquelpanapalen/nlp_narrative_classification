@@ -1,0 +1,502 @@
+# text = Вмешалось посольство США.
+# sent_id = 0
+1	Вмешалось	вмешаться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	_	_	start_char=0|end_char=9
+2	посольство	посольство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	_	_	start_char=10|end_char=20
+3	США	США	PROPN	_	Animacy=Inan|Case=Gen|Number=Plur	2	_	_	start_char=21|end_char=24|SpaceAfter=No
+4	.	.	PUNCT	_	_	3	_	_	start_char=24|end_char=25
+
+# text = ОП опровергает интервью Зеленского Карлсону После анонса американского журналиста Такера Карлсона о его интервью с Владимиром Зеленским в Офисе президента Украины поспешили заявить, что Зеленский не планирует давать ему интервью.
+# sent_id = 1
+1	ОП	оп	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=26|end_char=28
+2	опровергает	опровергать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	_	_	start_char=29|end_char=40
+3	интервью	интервью	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	_	_	start_char=41|end_char=49
+4	Зеленского	Зеленский	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=50|end_char=60
+5	Карлсону	Карлсон	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	4	_	_	start_char=61|end_char=69
+6	После	после	ADP	_	_	5	_	_	start_char=70|end_char=75
+7	анонса	анонс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	_	_	start_char=76|end_char=82
+8	американского	американский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	_	_	start_char=83|end_char=96
+9	журналиста	журналист	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	8	_	_	start_char=97|end_char=107
+10	Такера	Такер	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	_	_	start_char=108|end_char=114
+11	Карлсона	Карлсон	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	10	_	_	start_char=115|end_char=123
+12	о	о	ADP	_	_	11	_	_	start_char=124|end_char=125
+13	его	его	DET	_	Poss=Yes|PronType=Prs	12	_	_	start_char=126|end_char=129
+14	интервью	интервью	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	13	_	_	start_char=130|end_char=138
+15	с	с	ADP	_	_	14	_	_	start_char=139|end_char=140
+16	Владимиром	Владимир	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	15	_	_	start_char=141|end_char=151
+17	Зеленским	Зеленский	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	16	_	_	start_char=152|end_char=161
+18	в	в	ADP	_	_	17	_	_	start_char=162|end_char=163
+19	Офисе	Офис	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	18	_	_	start_char=164|end_char=169
+20	президента	президент	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	19	_	_	start_char=170|end_char=180
+21	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	_	_	start_char=181|end_char=188
+22	поспешили	поспешить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	21	_	_	start_char=189|end_char=198
+23	заявить	заявить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	22	_	_	start_char=199|end_char=206|SpaceAfter=No
+24	,	,	PUNCT	_	_	23	_	_	start_char=206|end_char=207
+25	что	что	SCONJ	_	_	24	_	_	start_char=208|end_char=211
+26	Зеленский	Зеленский	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	25	_	_	start_char=212|end_char=221
+27	не	не	PART	_	_	26	_	_	start_char=222|end_char=224
+28	планирует	планировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	27	_	_	start_char=225|end_char=234
+29	давать	давать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	28	_	_	start_char=235|end_char=241
+30	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	_	_	start_char=242|end_char=245
+31	интервью	интервью	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	30	_	_	start_char=246|end_char=254|SpaceAfter=No
+32	.	.	PUNCT	_	_	31	_	_	start_char=254|end_char=255
+
+# text = «Господину Такеру Карлсону стоит внимательнее проверять свои источники в ФСБ.
+# sent_id = 2
+1	«	"	PUNCT	_	_	0	_	_	start_char=256|end_char=257|SpaceAfter=No
+2	Господину	господин	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	1	_	_	start_char=257|end_char=266
+3	Такеру	Такер	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	2	_	_	start_char=267|end_char=273
+4	Карлсону	Карлсон	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	3	_	_	start_char=274|end_char=282
+5	стоит	стоить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	_	_	start_char=283|end_char=288
+6	внимательнее	внимательно	ADV	_	Degree=Cmp	5	_	_	start_char=289|end_char=301
+7	проверять	проверять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	_	_	start_char=302|end_char=311
+8	свои	свой	DET	_	Case=Acc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	7	_	_	start_char=312|end_char=316
+9	источники	источник	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	8	_	_	start_char=317|end_char=326
+10	в	в	ADP	_	_	9	_	_	start_char=327|end_char=328
+11	ФСБ	ФСБ	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	_	_	start_char=329|end_char=332|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	_	_	start_char=332|end_char=333
+
+# text = У президента Украины совсем другой график, и Такера Карлсона там нет» — написал спикер Зеленского Сергей Никифоров в соцсетях.
+# sent_id = 3
+1	У	у	ADP	_	_	0	_	_	start_char=334|end_char=335
+2	президента	президент	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	1	_	_	start_char=336|end_char=346
+3	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	_	_	start_char=347|end_char=354
+4	совсем	совсем	ADV	_	Degree=Pos	3	_	_	start_char=355|end_char=361
+5	другой	другой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	_	_	start_char=362|end_char=368
+6	график	график	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	_	_	start_char=369|end_char=375|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	_	_	start_char=375|end_char=376
+8	и	и	CCONJ	_	_	7	_	_	start_char=377|end_char=378
+9	Такера	Такер	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	8	_	_	start_char=379|end_char=385
+10	Карлсона	Карлсон	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	_	_	start_char=386|end_char=394
+11	там	там	ADV	_	Degree=Pos	10	_	_	start_char=395|end_char=398
+12	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	_	_	start_char=399|end_char=402|SpaceAfter=No
+13	»	"	PUNCT	_	_	12	_	_	start_char=402|end_char=403
+14	—	—	PUNCT	_	_	13	_	_	start_char=404|end_char=405
+15	написал	написать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	_	_	start_char=406|end_char=413
+16	спикер	спикер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	15	_	_	start_char=414|end_char=420
+17	Зеленского	Зеленский	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	16	_	_	start_char=421|end_char=431
+18	Сергей	Сергей	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	17	_	_	start_char=432|end_char=438
+19	Никифоров	Никифоров	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	18	_	_	start_char=439|end_char=448
+20	в	в	ADP	_	_	19	_	_	start_char=449|end_char=450
+21	соцсетях	соцсеть	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	20	_	_	start_char=451|end_char=459|SpaceAfter=No
+22	.	.	PUNCT	_	_	21	_	_	start_char=459|end_char=460
+
+# text = «Смешная история вышла с Такером Карлсоном и Зеленским.
+# sent_id = 4
+1	«	"	PUNCT	_	_	0	_	_	start_char=461|end_char=462|SpaceAfter=No
+2	Смешная	смешной	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	1	_	_	start_char=462|end_char=469
+3	история	история	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	_	_	start_char=470|end_char=477
+4	вышла	выйти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	_	_	start_char=478|end_char=483
+5	с	с	ADP	_	_	4	_	_	start_char=484|end_char=485
+6	Такером	Такер	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	5	_	_	start_char=486|end_char=493
+7	Карлсоном	Карлсон	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	6	_	_	start_char=494|end_char=503
+8	и	и	CCONJ	_	_	7	_	_	start_char=504|end_char=505
+9	Зеленским	Зеленский	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	8	_	_	start_char=506|end_char=515|SpaceAfter=No
+10	.	.	PUNCT	_	_	9	_	_	start_char=515|end_char=516
+
+# text = Интервью-то Зеленский запросил сам.
+# sent_id = 5
+1	Интервью-	интервью-	PUNCT	_	_	0	_	_	start_char=517|end_char=526|SpaceAfter=No
+2	то	то	PART	_	_	1	_	_	start_char=526|end_char=528
+3	Зеленский	Зеленский	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	_	_	start_char=529|end_char=538
+4	запросил	запросить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	_	_	start_char=539|end_char=547
+5	сам	сам	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	_	_	start_char=548|end_char=551|SpaceAfter=No
+6	.	.	PUNCT	_	_	5	_	_	start_char=551|end_char=552
+
+# text = Через третьи руки Андрей Ермак прислал Карлсону запрос на интервью и готовность обсуждать самые разные темы.
+# sent_id = 6
+1	Через	через	ADP	_	_	0	_	_	start_char=553|end_char=558
+2	третьи	третий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	1	_	_	start_char=559|end_char=565
+3	руки	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	2	_	_	start_char=566|end_char=570
+4	Андрей	Андрей	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	_	_	start_char=571|end_char=577
+5	Ермак	Ермак	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=578|end_char=583
+6	прислал	прислать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	_	_	start_char=584|end_char=591
+7	Карлсону	Карлсон	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	6	_	_	start_char=592|end_char=600
+8	запрос	запрос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	_	_	start_char=601|end_char=607
+9	на	на	ADP	_	_	8	_	_	start_char=608|end_char=610
+10	интервью	интервью	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	_	_	start_char=611|end_char=619
+11	и	и	CCONJ	_	_	10	_	_	start_char=620|end_char=621
+12	готовность	готовность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	_	_	start_char=622|end_char=632
+13	обсуждать	обсуждать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	12	_	_	start_char=633|end_char=642
+14	самые	самый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	13	_	_	start_char=643|end_char=648
+15	разные	разный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	14	_	_	start_char=649|end_char=655
+16	темы	тема	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	15	_	_	start_char=656|end_char=660|SpaceAfter=No
+17	.	.	PUNCT	_	_	16	_	_	start_char=660|end_char=661
+
+# text = Долго согласовывали приезд в Киев и гарантии безопасности.
+# sent_id = 7
+1	Долго	долго	ADV	_	Degree=Pos	0	_	_	start_char=662|end_char=667
+2	согласовывали	согласовывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=668|end_char=681
+3	приезд	приезд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	_	_	start_char=682|end_char=688
+4	в	в	ADP	_	_	3	_	_	start_char=689|end_char=690
+5	Киев	Киев	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	_	_	start_char=691|end_char=695
+6	и	и	CCONJ	_	_	5	_	_	start_char=696|end_char=697
+7	гарантии	гарантия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	6	_	_	start_char=698|end_char=706
+8	безопасности	безопасность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	_	_	start_char=707|end_char=719|SpaceAfter=No
+9	.	.	PUNCT	_	_	8	_	_	start_char=719|end_char=720
+
+# text = Утрясали вопросы.
+# sent_id = 8
+1	Утрясали	утрясать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	_	_	start_char=721|end_char=729
+2	вопросы	вопрос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	1	_	_	start_char=730|end_char=737|SpaceAfter=No
+3	.	.	PUNCT	_	_	2	_	_	start_char=737|end_char=738
+
+# text = Обсуждали фильм про Киев и Украину.
+# sent_id = 9
+1	Обсуждали	обсуждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	_	_	start_char=739|end_char=748
+2	фильм	фильм	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	_	_	start_char=749|end_char=754
+3	про	про	ADP	_	_	2	_	_	start_char=755|end_char=758
+4	Киев	Киев	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	_	_	start_char=759|end_char=763
+5	и	и	CCONJ	_	_	4	_	_	start_char=764|end_char=765
+6	Украину	Украина	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	_	_	start_char=766|end_char=773|SpaceAfter=No
+7	.	.	PUNCT	_	_	6	_	_	start_char=773|end_char=774
+
+# text = Потом что-то пошло не так.
+# sent_id = 10
+1	Потом	потом	ADV	_	Degree=Pos	0	_	_	start_char=775|end_char=780
+2	что-то	что-то	PRON	_	Case=Nom|PronType=Ind	1	_	_	start_char=781|end_char=787
+3	пошло	пойти	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=788|end_char=793
+4	не	не	PART	_	_	3	_	_	start_char=794|end_char=796
+5	так	так	ADV	_	Degree=Pos	4	_	_	start_char=797|end_char=800|SpaceAfter=No
+6	.	.	PUNCT	_	_	5	_	_	start_char=800|end_char=801
+
+# text = Скорее всего вмешалось посольство США.
+# sent_id = 11
+1	Скорее	скорее	ADV	_	Degree=Pos	0	_	_	start_char=802|end_char=808
+2	всего	все	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Tot	1	_	_	start_char=809|end_char=814
+3	вмешалось	вмешаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	_	_	start_char=815|end_char=824
+4	посольство	посольство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	_	_	start_char=825|end_char=835
+5	США	США	PROPN	_	Animacy=Inan|Case=Gen|Number=Plur	4	_	_	start_char=836|end_char=839|SpaceAfter=No
+6	.	.	PUNCT	_	_	5	_	_	start_char=839|end_char=840
+
+# text = Начали изворачиваться: Ермак решил опровергнуть саму попытку организовать интервью.
+# sent_id = 12
+1	Начали	начать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	_	_	start_char=841|end_char=847
+2	изворачиваться	изворачиваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	1	_	_	start_char=848|end_char=862|SpaceAfter=No
+3	:	:	PUNCT	_	_	2	_	_	start_char=862|end_char=863
+4	Ермак	Ермак	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	_	_	start_char=864|end_char=869
+5	решил	решить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	_	_	start_char=870|end_char=875
+6	опровергнуть	опровергнуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	_	_	start_char=876|end_char=888
+7	саму	сам	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	6	_	_	start_char=889|end_char=893
+8	попытку	попытка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	_	_	start_char=894|end_char=901
+9	организовать	организовывать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	_	_	start_char=902|end_char=914
+10	интервью	интервью	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	_	_	start_char=915|end_char=923|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	_	_	start_char=923|end_char=924
+
+# text = Когда все в США про него знали.
+# sent_id = 13
+1	Когда	когда	SCONJ	_	_	0	_	_	start_char=925|end_char=930
+2	все	все	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|PronType=Tot	1	_	_	start_char=931|end_char=934
+3	в	в	ADP	_	_	2	_	_	start_char=935|end_char=936
+4	США	США	PROPN	_	Animacy=Inan|Case=Loc|Number=Plur	3	_	_	start_char=937|end_char=940
+5	про	про	ADP	_	_	4	_	_	start_char=941|end_char=944
+6	него	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	_	_	start_char=945|end_char=949
+7	знали	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	6	_	_	start_char=950|end_char=955|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	_	_	start_char=955|end_char=956
+
+# text = В итоге все американское сообщество журналистов-республиканцев теперь настроено против Зеленского», — комментирует телеграм-канал «Win/Win».
+# sent_id = 14
+1	В	в	ADP	_	_	0	_	_	start_char=957|end_char=958
+2	итоге	итог	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	_	_	start_char=959|end_char=964
+3	все	весь	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	2	_	_	start_char=965|end_char=968
+4	американское	американский	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	_	_	start_char=969|end_char=981
+5	сообщество	сообщество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	_	_	start_char=982|end_char=992
+6	журналистов	журналист	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	5	_	_	start_char=993|end_char=1004|SpaceAfter=No
+7	-	-	PUNCT	_	_	6	_	_	start_char=1004|end_char=1005|SpaceAfter=No
+8	республиканцев	республиканец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	7	_	_	start_char=1005|end_char=1019
+9	теперь	теперь	ADV	_	Degree=Pos	8	_	_	start_char=1020|end_char=1026
+10	настроено	настроить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	9	_	_	start_char=1027|end_char=1036
+11	против	против	ADP	_	_	10	_	_	start_char=1037|end_char=1043
+12	Зеленского	Зеленский	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	11	_	_	start_char=1044|end_char=1054|SpaceAfter=No
+13	»	"	PUNCT	_	_	12	_	_	start_char=1054|end_char=1055|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	_	_	start_char=1055|end_char=1056
+15	—	—	PUNCT	_	_	14	_	_	start_char=1057|end_char=1058
+16	комментирует	комментировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	_	_	start_char=1059|end_char=1071
+17	телеграм	телегр	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	16	_	_	start_char=1072|end_char=1080|SpaceAfter=No
+18	-	-	PUNCT	_	_	17	_	_	start_char=1080|end_char=1081|SpaceAfter=No
+19	канал	канал	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	18	_	_	start_char=1081|end_char=1086
+20	«	"	PUNCT	_	_	19	_	_	start_char=1087|end_char=1088|SpaceAfter=No
+21	Win/Win	Win/Win	PROPN	_	Foreign=Yes	20	_	_	start_char=1088|end_char=1095|SpaceAfter=No
+22	»	"	PUNCT	_	_	21	_	_	start_char=1095|end_char=1096|SpaceAfter=No
+23	.	.	PUNCT	_	_	22	_	_	start_char=1096|end_char=1097
+
+# text = «А вообще, конечно, было бы очень правильно разбить все эти штампы, которые звучат из уст Карлсона, ткнуть в эту чудовищную агрессивную пропаганду, рассказать правдивую историю, навязать правильные, справедливые нарративы.
+# sent_id = 15
+1	«	"	PUNCT	_	_	0	_	_	start_char=1098|end_char=1099|SpaceAfter=No
+2	А	а	CCONJ	_	_	1	_	_	start_char=1099|end_char=1100
+3	вообще	вообще	ADV	_	Degree=Pos	2	_	_	start_char=1101|end_char=1107|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=1107|end_char=1108
+5	конечно	конечно	ADV	_	Degree=Pos	4	_	_	start_char=1109|end_char=1116|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=1116|end_char=1117
+7	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	_	_	start_char=1118|end_char=1122
+8	бы	бы	AUX	_	_	7	_	_	start_char=1123|end_char=1125
+9	очень	очень	ADV	_	Degree=Pos	8	_	_	start_char=1126|end_char=1131
+10	правильно	правильный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	9	_	_	start_char=1132|end_char=1141
+11	разбить	разбить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	_	_	start_char=1142|end_char=1149
+12	все	весь	DET	_	Case=Acc|Number=Plur|PronType=Tot	11	_	_	start_char=1150|end_char=1153
+13	эти	этот	DET	_	Case=Acc|Number=Plur|PronType=Dem	12	_	_	start_char=1154|end_char=1157
+14	штампы	штамп	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	13	_	_	start_char=1158|end_char=1164|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=1164|end_char=1165
+16	которые	который	PRON	_	Case=Nom|PronType=Int,Rel	15	_	_	start_char=1166|end_char=1173
+17	звучат	звучать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	_	_	start_char=1174|end_char=1180
+18	из	из	ADP	_	_	17	_	_	start_char=1181|end_char=1183
+19	уст	уста	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	18	_	_	start_char=1184|end_char=1187
+20	Карлсона	Карлсон	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	19	_	_	start_char=1188|end_char=1196|SpaceAfter=No
+21	,	,	PUNCT	_	_	20	_	_	start_char=1196|end_char=1197
+22	ткнуть	ткнуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	21	_	_	start_char=1198|end_char=1204
+23	в	в	ADP	_	_	22	_	_	start_char=1205|end_char=1206
+24	эту	этот	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	23	_	_	start_char=1207|end_char=1210
+25	чудовищную	чудовищный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	24	_	_	start_char=1211|end_char=1221
+26	агрессивную	агрессивный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	25	_	_	start_char=1222|end_char=1233
+27	пропаганду	пропаганда	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	26	_	_	start_char=1234|end_char=1244|SpaceAfter=No
+28	,	,	PUNCT	_	_	27	_	_	start_char=1244|end_char=1245
+29	рассказать	рассказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	28	_	_	start_char=1246|end_char=1256
+30	правдивую	правдивый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	29	_	_	start_char=1257|end_char=1266
+31	историю	история	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	30	_	_	start_char=1267|end_char=1274|SpaceAfter=No
+32	,	,	PUNCT	_	_	31	_	_	start_char=1274|end_char=1275
+33	навязать	навязать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	32	_	_	start_char=1276|end_char=1284
+34	правильные	правильный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	33	_	_	start_char=1285|end_char=1295|SpaceAfter=No
+35	,	,	PUNCT	_	_	34	_	_	start_char=1295|end_char=1296
+36	справедливые	справедливый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	35	_	_	start_char=1297|end_char=1309
+37	нарративы	нарратив	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	36	_	_	start_char=1310|end_char=1319|SpaceAfter=No
+38	.	.	PUNCT	_	_	37	_	_	start_char=1319|end_char=1320
+
+# text = Нам же не Карлсон нужен, нам его миллионы зрителей нужны.
+# sent_id = 16
+1	Нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	0	_	_	start_char=1321|end_char=1324
+2	же	же	PART	_	_	1	_	_	start_char=1325|end_char=1327
+3	не	не	PART	_	_	2	_	_	start_char=1328|end_char=1330
+4	Карлсон	Карлсон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	_	_	start_char=1331|end_char=1338
+5	нужен	нужный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	4	_	_	start_char=1339|end_char=1344|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=1344|end_char=1345
+7	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	6	_	_	start_char=1346|end_char=1349
+8	его	его	DET	_	Poss=Yes|PronType=Prs	7	_	_	start_char=1350|end_char=1353
+9	миллионы	миллион	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	8	_	_	start_char=1354|end_char=1362
+10	зрителей	зритель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	9	_	_	start_char=1363|end_char=1371
+11	нужны	нужный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	10	_	_	start_char=1372|end_char=1377|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	_	_	start_char=1377|end_char=1378|SpaceAfter=No
+
+# text = ..да?
+# sent_id = 17
+1	.	.	PUNCT	_	_	0	_	_	start_char=1378|end_char=1379|SpaceAfter=No
+2	.да	.да	PART	_	_	1	_	_	start_char=1379|end_char=1382|SpaceAfter=No
+3	?	?	PUNCT	_	_	2	_	_	start_char=1382|end_char=1383
+
+# text = На виду три варианта: — либо нам не нужна его аудитория и влияние; — либо нам нечего ему сказать и нечем парировать; — либо мы все идиоты и ничего не понимаем», — пишет украинский блогер Анатолий Шарий в соцсетях.
+# sent_id = 18
+1	На	на	ADP	_	_	0	_	_	start_char=1384|end_char=1386
+2	виду	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	_	_	start_char=1387|end_char=1391
+3	три	три	NUM	_	Case=Nom|NumType=Card	2	_	_	start_char=1392|end_char=1395
+4	варианта	вариант	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=1396|end_char=1404|SpaceAfter=No
+5	:	:	PUNCT	_	_	4	_	_	start_char=1404|end_char=1405
+6	—	—	PUNCT	_	_	5	_	_	start_char=1406|end_char=1407
+7	либо	либо	CCONJ	_	_	6	_	_	start_char=1408|end_char=1412
+8	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	7	_	_	start_char=1413|end_char=1416
+9	не	не	PART	_	_	8	_	_	start_char=1417|end_char=1419
+10	нужна	нужный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	9	_	_	start_char=1420|end_char=1425
+11	его	его	DET	_	Poss=Yes|PronType=Prs	10	_	_	start_char=1426|end_char=1429
+12	аудитория	аудитория	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	_	_	start_char=1430|end_char=1439
+13	и	и	CCONJ	_	_	12	_	_	start_char=1440|end_char=1441
+14	влияние	влияние	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	13	_	_	start_char=1442|end_char=1449|SpaceAfter=No
+15	;	;	PUNCT	_	_	14	_	_	start_char=1449|end_char=1450
+16	—	—	PUNCT	_	_	15	_	_	start_char=1451|end_char=1452
+17	либо	либо	CCONJ	_	_	16	_	_	start_char=1453|end_char=1457
+18	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	17	_	_	start_char=1458|end_char=1461
+19	нечего	нечего	PRON	_	Case=Gen|PronType=Neg	18	_	_	start_char=1462|end_char=1468
+20	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	_	_	start_char=1469|end_char=1472
+21	сказать	сказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	20	_	_	start_char=1473|end_char=1480
+22	и	и	CCONJ	_	_	21	_	_	start_char=1481|end_char=1482
+23	нечем	нечего	PRON	_	Case=Ins|PronType=Neg	22	_	_	start_char=1483|end_char=1488
+24	парировать	парировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	23	_	_	start_char=1489|end_char=1499|SpaceAfter=No
+25	;	;	PUNCT	_	_	24	_	_	start_char=1499|end_char=1500
+26	—	—	PUNCT	_	_	25	_	_	start_char=1501|end_char=1502
+27	либо	либо	CCONJ	_	_	26	_	_	start_char=1503|end_char=1507
+28	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	27	_	_	start_char=1508|end_char=1510
+29	все	весь	DET	_	Case=Nom|Number=Plur|PronType=Tot	28	_	_	start_char=1511|end_char=1514
+30	идиоты	идиот	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	29	_	_	start_char=1515|end_char=1521
+31	и	и	CCONJ	_	_	30	_	_	start_char=1522|end_char=1523
+32	ничего	ничто	PRON	_	Case=Gen|PronType=Neg	31	_	_	start_char=1524|end_char=1530
+33	не	не	PART	_	_	32	_	_	start_char=1531|end_char=1533
+34	понимаем	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	33	_	_	start_char=1534|end_char=1542|SpaceAfter=No
+35	»	"	PUNCT	_	_	34	_	_	start_char=1542|end_char=1543|SpaceAfter=No
+36	,	,	PUNCT	_	_	35	_	_	start_char=1543|end_char=1544
+37	—	—	PUNCT	_	_	36	_	_	start_char=1545|end_char=1546
+38	пишет	писать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	37	_	_	start_char=1547|end_char=1552
+39	украинский	украинский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	38	_	_	start_char=1553|end_char=1563
+40	блогер	блоггер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	39	_	_	start_char=1564|end_char=1570
+41	Анатолий	Анатолий	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	40	_	_	start_char=1571|end_char=1579
+42	Шарий	Шарий	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	41	_	_	start_char=1580|end_char=1585
+43	в	в	ADP	_	_	42	_	_	start_char=1586|end_char=1587
+44	соцсетях	соцсеть	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	43	_	_	start_char=1588|end_char=1596|SpaceAfter=No
+45	.	.	PUNCT	_	_	44	_	_	start_char=1596|end_char=1597
+
+# text = «Почему интервью с президентом России Владимиром Путиным имело такой колоссальный успех?
+# sent_id = 19
+1	«	"	PUNCT	_	_	0	_	_	start_char=1598|end_char=1599|SpaceAfter=No
+2	Почему	почему	ADV	_	Degree=Pos	1	_	_	start_char=1599|end_char=1605
+3	интервью	интервью	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	_	_	start_char=1606|end_char=1614
+4	с	с	ADP	_	_	3	_	_	start_char=1615|end_char=1616
+5	президентом	президент	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	4	_	_	start_char=1617|end_char=1628
+6	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	_	_	start_char=1629|end_char=1635
+7	Владимиром	Владимир	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	6	_	_	start_char=1636|end_char=1646
+8	Путиным	Путин	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	7	_	_	start_char=1647|end_char=1654
+9	имело	иметь	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	_	_	start_char=1655|end_char=1660
+10	такой	такой	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	9	_	_	start_char=1661|end_char=1666
+11	колоссальный	колоссальный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	10	_	_	start_char=1667|end_char=1679
+12	успех	успех	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	_	_	start_char=1680|end_char=1685|SpaceAfter=No
+13	?	?	PUNCT	_	_	12	_	_	start_char=1685|end_char=1686
+
+# text = Потому что глубина его рассуждений, мыслей и посылов мировому обществу заставила задуматься и осознать ситуацию, которая всех окружает.
+# sent_id = 20
+1	Потому	потому	ADV	_	Degree=Pos	0	_	_	start_char=1687|end_char=1693
+2	что	что	SCONJ	_	_	1	_	_	start_char=1694|end_char=1697
+3	глубина	глубина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	_	_	start_char=1698|end_char=1705
+4	его	его	DET	_	Poss=Yes|PronType=Prs	3	_	_	start_char=1706|end_char=1709
+5	рассуждений	рассуждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	4	_	_	start_char=1710|end_char=1721|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=1721|end_char=1722
+7	мыслей	мысль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	_	_	start_char=1723|end_char=1729
+8	и	и	CCONJ	_	_	7	_	_	start_char=1730|end_char=1731
+9	посылов	посыл	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	_	_	start_char=1732|end_char=1739
+10	мировому	мировой	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	9	_	_	start_char=1740|end_char=1748
+11	обществу	общество	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	10	_	_	start_char=1749|end_char=1757
+12	заставила	заставить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	_	_	start_char=1758|end_char=1767
+13	задуматься	задуматься	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	12	_	_	start_char=1768|end_char=1778
+14	и	и	CCONJ	_	_	13	_	_	start_char=1779|end_char=1780
+15	осознать	осознать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	14	_	_	start_char=1781|end_char=1789
+16	ситуацию	ситуация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	_	_	start_char=1790|end_char=1798|SpaceAfter=No
+17	,	,	PUNCT	_	_	16	_	_	start_char=1798|end_char=1799
+18	которая	который	PRON	_	Case=Nom|PronType=Int,Rel	17	_	_	start_char=1800|end_char=1807
+19	всех	все	PRON	_	Animacy=Anim|Case=Acc|Number=Plur|PronType=Tot	18	_	_	start_char=1808|end_char=1812
+20	окружает	окружать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	_	_	start_char=1813|end_char=1821|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	_	_	start_char=1821|end_char=1822
+
+# text = А что может сказать карлик кроме того, что он стоит во главе борьбы за демократию и защищает США на территории Украины против России?
+# sent_id = 21
+1	А	а	CCONJ	_	_	0	_	_	start_char=1823|end_char=1824
+2	что	что	PRON	_	Case=Nom|PronType=Int,Rel	1	_	_	start_char=1825|end_char=1828
+3	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=1829|end_char=1834
+4	сказать	сказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	_	_	start_char=1835|end_char=1842
+5	карлик	карлик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=1843|end_char=1849
+6	кроме	кроме	ADP	_	_	5	_	_	start_char=1850|end_char=1855
+7	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	6	_	_	start_char=1856|end_char=1860|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=1860|end_char=1861
+9	что	что	SCONJ	_	_	8	_	_	start_char=1862|end_char=1865
+10	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	_	_	start_char=1866|end_char=1868
+11	стоит	стоить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	_	_	start_char=1869|end_char=1874
+12	во	в	ADP	_	_	11	_	_	start_char=1875|end_char=1877
+13	главе	глава	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	_	_	start_char=1878|end_char=1883
+14	борьбы	борьба	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	_	_	start_char=1884|end_char=1890
+15	за	за	ADP	_	_	14	_	_	start_char=1891|end_char=1893
+16	демократию	демократия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	_	_	start_char=1894|end_char=1904
+17	и	и	CCONJ	_	_	16	_	_	start_char=1905|end_char=1906
+18	защищает	защищать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	_	_	start_char=1907|end_char=1915
+19	США	США	PROPN	_	Animacy=Inan|Case=Acc|Number=Plur	18	_	_	start_char=1916|end_char=1919
+20	на	на	ADP	_	_	19	_	_	start_char=1920|end_char=1922
+21	территории	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	20	_	_	start_char=1923|end_char=1933
+22	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	_	_	start_char=1934|end_char=1941
+23	против	против	ADP	_	_	22	_	_	start_char=1942|end_char=1948
+24	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	_	_	start_char=1949|end_char=1955|SpaceAfter=No
+25	?	?	PUNCT	_	_	24	_	_	start_char=1955|end_char=1956
+
+# text = Тем более, его роли расписываются в Великобритании и Вашингтоне», — высказал своё мнение политолог зампредседателя президиума Международного совета российских соотечественников Вадим Колесниченко в эфире радио «Спутник в Крыму».
+# sent_id = 22
+1	Тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	0	_	_	start_char=1957|end_char=1960
+2	более	более	ADV	_	Degree=Cmp	1	_	_	start_char=1961|end_char=1966|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=1966|end_char=1967
+4	его	его	DET	_	Poss=Yes|PronType=Prs	3	_	_	start_char=1968|end_char=1971
+5	роли	роль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	4	_	_	start_char=1972|end_char=1976
+6	расписываются	расписываться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	5	_	_	start_char=1977|end_char=1990
+7	в	в	ADP	_	_	6	_	_	start_char=1991|end_char=1992
+8	Великобритании	Великобритания	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	_	_	start_char=1993|end_char=2007
+9	и	и	CCONJ	_	_	8	_	_	start_char=2008|end_char=2009
+10	Вашингтоне	Вашингтон	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	_	_	start_char=2010|end_char=2020|SpaceAfter=No
+11	»	"	PUNCT	_	_	10	_	_	start_char=2020|end_char=2021|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	_	_	start_char=2021|end_char=2022
+13	—	—	PUNCT	_	_	12	_	_	start_char=2023|end_char=2024
+14	высказал	высказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	_	_	start_char=2025|end_char=2033
+15	своё	свой	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	14	_	_	start_char=2034|end_char=2038
+16	мнение	мнение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	15	_	_	start_char=2039|end_char=2045
+17	политолог	политолог	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	_	_	start_char=2046|end_char=2055
+18	зампредседателя	зампредседателя	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	17	_	_	start_char=2056|end_char=2071
+19	президиума	президиум	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	_	_	start_char=2072|end_char=2082
+20	Международного	международный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	19	_	_	start_char=2083|end_char=2097
+21	совета	совет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	20	_	_	start_char=2098|end_char=2104
+22	российских	российский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	21	_	_	start_char=2105|end_char=2115
+23	соотечественников	соотечественник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	22	_	_	start_char=2116|end_char=2133
+24	Вадим	Вадим	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	23	_	_	start_char=2134|end_char=2139
+25	Колесниченко	Колесниченко	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	24	_	_	start_char=2140|end_char=2152
+26	в	в	ADP	_	_	25	_	_	start_char=2153|end_char=2154
+27	эфире	эфир	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	26	_	_	start_char=2155|end_char=2160
+28	радио	радио	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	27	_	_	start_char=2161|end_char=2166
+29	«	"	PUNCT	_	_	28	_	_	start_char=2167|end_char=2168|SpaceAfter=No
+30	Спутник	спутник	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	29	_	_	start_char=2168|end_char=2175
+31	в	в	ADP	_	_	30	_	_	start_char=2176|end_char=2177
+32	Крыму	Крым	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	31	_	_	start_char=2178|end_char=2183|SpaceAfter=No
+33	»	"	PUNCT	_	_	32	_	_	start_char=2183|end_char=2184|SpaceAfter=No
+34	.	.	PUNCT	_	_	33	_	_	start_char=2184|end_char=2185
+
+# text = В феврале текущего года Карлсон взял двухчасовое интервью у президента России Владимира Путина в Москве.
+# sent_id = 23
+1	В	в	ADP	_	_	0	_	_	start_char=2186|end_char=2187
+2	феврале	февраль	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	_	_	start_char=2188|end_char=2195
+3	текущего	текущий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	2	_	_	start_char=2196|end_char=2204
+4	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=2205|end_char=2209
+5	Карлсон	Карлсон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=2210|end_char=2217
+6	взял	брать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	_	_	start_char=2218|end_char=2222
+7	двухчасовое	двухчасовой	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	6	_	_	start_char=2223|end_char=2234
+8	интервью	интервью	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	_	_	start_char=2235|end_char=2243
+9	у	у	ADP	_	_	8	_	_	start_char=2244|end_char=2245
+10	президента	президент	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	_	_	start_char=2246|end_char=2256
+11	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	_	_	start_char=2257|end_char=2263
+12	Владимира	Владимир	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	11	_	_	start_char=2264|end_char=2273
+13	Путина	Путин	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	12	_	_	start_char=2274|end_char=2280
+14	в	в	ADP	_	_	13	_	_	start_char=2281|end_char=2282
+15	Москве	Москва	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	14	_	_	start_char=2283|end_char=2289|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	_	_	start_char=2289|end_char=2290
+
+# text = За несколько часов запись с видео набрала десятки миллионов просмотров, само интервью разошлось на цитаты в мировых медиа.
+# sent_id = 24
+1	За	за	ADP	_	_	0	_	_	start_char=2291|end_char=2293
+2	несколько	несколько	NUM	_	Animacy=Inan|Case=Acc|NumType=Card	1	_	_	start_char=2294|end_char=2303
+3	часов	час	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	_	_	start_char=2304|end_char=2309
+4	запись	запись	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	_	_	start_char=2310|end_char=2316
+5	с	с	ADP	_	_	4	_	_	start_char=2317|end_char=2318
+6	видео	видео	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	_	_	start_char=2319|end_char=2324
+7	набрала	набрать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	_	_	start_char=2325|end_char=2332
+8	десятки	десяток	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	_	_	start_char=2333|end_char=2340
+9	миллионов	миллион	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	_	_	start_char=2341|end_char=2350
+10	просмотров	просмотр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	_	_	start_char=2351|end_char=2361|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=2361|end_char=2362
+12	само	сам	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	11	_	_	start_char=2363|end_char=2367
+13	интервью	интервью	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	_	_	start_char=2368|end_char=2376
+14	разошлось	разойтись	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	13	_	_	start_char=2377|end_char=2386
+15	на	на	ADP	_	_	14	_	_	start_char=2387|end_char=2389
+16	цитаты	цитата	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	15	_	_	start_char=2390|end_char=2396
+17	в	в	ADP	_	_	16	_	_	start_char=2397|end_char=2398
+18	мировых	мировой	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	17	_	_	start_char=2399|end_char=2406
+19	медиа	медиа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	18	_	_	start_char=2407|end_char=2412|SpaceAfter=No
+20	.	.	PUNCT	_	_	19	_	_	start_char=2412|end_char=2413
+
+# text = В Кремле назвали Такера Карлсона «зеркалом американского общественного мнения», а Владимир Путин — «опасным человеком».
+# sent_id = 25
+1	В	в	ADP	_	_	0	_	_	start_char=2414|end_char=2415
+2	Кремле	Кремль	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	_	_	start_char=2416|end_char=2422
+3	назвали	назвать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=2423|end_char=2430
+4	Такера	Такер	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	3	_	_	start_char=2431|end_char=2437
+5	Карлсона	Карлсон	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	4	_	_	start_char=2438|end_char=2446
+6	«	"	PUNCT	_	_	5	_	_	start_char=2447|end_char=2448|SpaceAfter=No
+7	зеркалом	зеркало	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	6	_	_	start_char=2448|end_char=2456
+8	американского	американский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	_	_	start_char=2457|end_char=2470
+9	общественного	общественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	8	_	_	start_char=2471|end_char=2484
+10	мнения	мнение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	_	_	start_char=2485|end_char=2491|SpaceAfter=No
+11	»	"	PUNCT	_	_	10	_	_	start_char=2491|end_char=2492|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	_	_	start_char=2492|end_char=2493
+13	а	а	CCONJ	_	_	12	_	_	start_char=2494|end_char=2495
+14	Владимир	Владимир	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	_	_	start_char=2496|end_char=2504
+15	Путин	Путин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	_	_	start_char=2505|end_char=2510
+16	—	—	PUNCT	_	_	15	_	_	start_char=2511|end_char=2512
+17	«	"	PUNCT	_	_	16	_	_	start_char=2513|end_char=2514|SpaceAfter=No
+18	опасным	опасный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	17	_	_	start_char=2514|end_char=2521
+19	человеком	человек	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	18	_	_	start_char=2522|end_char=2531|SpaceAfter=No
+20	»	"	PUNCT	_	_	19	_	_	start_char=2531|end_char=2532|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	_	_	start_char=2532|end_char=2533|SpaceAfter=No
+

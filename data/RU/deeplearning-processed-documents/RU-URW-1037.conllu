@@ -1,0 +1,155 @@
+# text = ﻿
+# sent_id = 0
+1	﻿	﻿	PUNCT	_	_	0	_	_	start_char=0|end_char=1
+
+# text = Вооруженные силы России и Белоруссии приведены в высокую боевую готовность, на позиции выведены ракетные комплексы "Полонез" и "Искандер"
+# sent_id = 1
+1	Вооруженные	вооружить	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	start_char=2|end_char=13
+2	силы	сила	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1	_	_	start_char=14|end_char=18
+3	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	_	_	start_char=19|end_char=25
+4	и	и	CCONJ	_	_	3	_	_	start_char=26|end_char=27
+5	Белоруссии	Белоруссия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	_	_	start_char=28|end_char=38
+6	приведены	привести	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	5	_	_	start_char=39|end_char=48
+7	в	в	ADP	_	_	6	_	_	start_char=49|end_char=50
+8	высокую	высокий	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	_	_	start_char=51|end_char=58
+9	боевую	боевой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	8	_	_	start_char=59|end_char=65
+10	готовность	готовность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	_	_	start_char=66|end_char=76|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=76|end_char=77
+12	на	на	ADP	_	_	11	_	_	start_char=78|end_char=80
+13	позиции	позиция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	12	_	_	start_char=81|end_char=88
+14	выведены	вывести	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	13	_	_	start_char=89|end_char=97
+15	ракетные	ракетный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	14	_	_	start_char=98|end_char=106
+16	комплексы	комплекс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	15	_	_	start_char=107|end_char=116
+17	"	"	PUNCT	_	_	16	_	_	start_char=117|end_char=118|SpaceAfter=No
+18	Полонез	полонез	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	17	_	_	start_char=118|end_char=125|SpaceAfter=No
+19	"	"	PUNCT	_	_	18	_	_	start_char=125|end_char=126
+20	и	и	CCONJ	_	_	19	_	_	start_char=127|end_char=128
+21	"	"	PUNCT	_	_	20	_	_	start_char=129|end_char=130|SpaceAfter=No
+22	Искандер	Искандер	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	21	_	_	start_char=130|end_char=138|SpaceAfter=No
+23	"	"	PUNCT	_	_	22	_	_	start_char=138|end_char=139
+
+# text = С чем это связано?
+# sent_id = 2
+1	С	с	ADP	_	_	0	_	_	start_char=140|end_char=141
+2	чем	что	PRON	_	Case=Ins|PronType=Int,Rel	1	_	_	start_char=142|end_char=145
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	_	_	start_char=146|end_char=149
+4	связано	связать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	3	_	_	start_char=150|end_char=157|SpaceAfter=No
+5	?	?	PUNCT	_	_	4	_	_	start_char=157|end_char=158
+
+# text = Данные решения связаны с парадом в Белоруссии, участие в котором примут и представители России.
+# sent_id = 3
+1	Данные	данный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	0	_	_	start_char=159|end_char=165
+2	решения	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	1	_	_	start_char=166|end_char=173
+3	связаны	связать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	2	_	_	start_char=174|end_char=181
+4	с	с	ADP	_	_	3	_	_	start_char=182|end_char=183
+5	парадом	парад	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	_	_	start_char=184|end_char=191
+6	в	в	ADP	_	_	5	_	_	start_char=192|end_char=193
+7	Белоруссии	Белоруссия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	_	_	start_char=194|end_char=204|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=204|end_char=205
+9	участие	участие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	_	_	start_char=206|end_char=213
+10	в	в	ADP	_	_	9	_	_	start_char=214|end_char=215
+11	котором	который	PRON	_	Case=Loc|PronType=Int,Rel	10	_	_	start_char=216|end_char=223
+12	примут	принять	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	11	_	_	start_char=224|end_char=230
+13	и	и	PART	_	_	12	_	_	start_char=231|end_char=232
+14	представители	представитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	13	_	_	start_char=233|end_char=246
+15	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	_	_	start_char=247|end_char=253|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	_	_	start_char=253|end_char=254
+
+# text = Возможны провокации со стороны Украины.
+# sent_id = 4
+1	Возможны	возможный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	_	_	start_char=255|end_char=263
+2	провокации	провокация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1	_	_	start_char=264|end_char=274
+3	со	с	ADP	_	_	2	_	_	start_char=275|end_char=277
+4	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	_	_	start_char=278|end_char=285
+5	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	_	_	start_char=286|end_char=293|SpaceAfter=No
+6	.	.	PUNCT	_	_	5	_	_	start_char=293|end_char=294
+
+# text = Об этом заявил Лукашенко.
+# sent_id = 5
+1	Об	о	ADP	_	_	0	_	_	start_char=295|end_char=297
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=298|end_char=302
+3	заявил	заявить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=303|end_char=309
+4	Лукашенко	Лукашенко	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	_	_	start_char=310|end_char=319|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	_	_	start_char=319|end_char=320
+
+# text = Еще заявления: - Ситуация на белорусско-украинской границе нагнетается из-за прибытия в Беларусь российского контингента для участия в параде; - Украина понимает, что Минск жестко ответит в случае провокации на границе;
+# sent_id = 6
+1	Еще	еще	ADV	_	Degree=Pos	0	_	_	start_char=321|end_char=324
+2	заявления	заявление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	1	_	_	start_char=325|end_char=334|SpaceAfter=No
+3	:	:	PUNCT	_	_	2	_	_	start_char=334|end_char=335
+4	-	-	PUNCT	_	_	3	_	_	start_char=336|end_char=337
+5	Ситуация	ситуация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	_	_	start_char=338|end_char=346
+6	на	на	ADP	_	_	5	_	_	start_char=347|end_char=349
+7	белорусско	белорусско	ADJ	_	Degree=Pos	6	_	_	start_char=350|end_char=360|SpaceAfter=No
+8	-	-	PUNCT	_	_	7	_	_	start_char=360|end_char=361|SpaceAfter=No
+9	украинской	украинский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	8	_	_	start_char=361|end_char=371
+10	границе	граница	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	9	_	_	start_char=372|end_char=379
+11	нагнетается	нагнетать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	10	_	_	start_char=380|end_char=391
+12	из-за	из-за	ADP	_	_	11	_	_	start_char=392|end_char=397
+13	прибытия	прибытие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	_	_	start_char=398|end_char=406
+14	в	в	ADP	_	_	13	_	_	start_char=407|end_char=408
+15	Беларусь	Беларусь	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	_	_	start_char=409|end_char=417
+16	российского	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	15	_	_	start_char=418|end_char=429
+17	контингента	контингент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	_	_	start_char=430|end_char=441
+18	для	для	ADP	_	_	17	_	_	start_char=442|end_char=445
+19	участия	участие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	_	_	start_char=446|end_char=453
+20	в	в	ADP	_	_	19	_	_	start_char=454|end_char=455
+21	параде	парад	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	20	_	_	start_char=456|end_char=462|SpaceAfter=No
+22	;	;	PUNCT	_	_	21	_	_	start_char=462|end_char=463
+23	-	-	PUNCT	_	_	22	_	_	start_char=464|end_char=465
+24	Украина	Украина	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	23	_	_	start_char=466|end_char=473
+25	понимает	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	_	_	start_char=474|end_char=482|SpaceAfter=No
+26	,	,	PUNCT	_	_	25	_	_	start_char=482|end_char=483
+27	что	что	SCONJ	_	_	26	_	_	start_char=484|end_char=487
+28	Минск	Минск	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	27	_	_	start_char=488|end_char=493
+29	жестко	жестко	ADV	_	Degree=Pos	28	_	_	start_char=494|end_char=500
+30	ответит	ответить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	29	_	_	start_char=501|end_char=508
+31	в	в	ADP	_	_	30	_	_	start_char=509|end_char=510
+32	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	31	_	_	start_char=511|end_char=517
+33	провокации	провокация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	32	_	_	start_char=518|end_char=528
+34	на	на	ADP	_	_	33	_	_	start_char=529|end_char=531
+35	границе	граница	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	34	_	_	start_char=532|end_char=539|SpaceAfter=No
+36	;	;	PUNCT	_	_	35	_	_	start_char=539|end_char=540
+
+# text = - Минск не будет защищать ЕС на границе с Польшей от наплыва мигрантов, главным для Беларуси является безопасность внутри страны;
+# sent_id = 7
+1	-	-	PUNCT	_	_	0	_	_	start_char=541|end_char=542
+2	Минск	Минск	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=543|end_char=548
+3	не	не	PART	_	_	2	_	_	start_char=549|end_char=551
+4	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	_	_	start_char=552|end_char=557
+5	защищать	защищать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	_	_	start_char=558|end_char=566
+6	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	_	_	start_char=567|end_char=569
+7	на	на	ADP	_	_	6	_	_	start_char=570|end_char=572
+8	границе	граница	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	_	_	start_char=573|end_char=580
+9	с	с	ADP	_	_	8	_	_	start_char=581|end_char=582
+10	Польшей	Польша	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	9	_	_	start_char=583|end_char=590
+11	от	от	ADP	_	_	10	_	_	start_char=591|end_char=593
+12	наплыва	наплыв	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	_	_	start_char=594|end_char=601
+13	мигрантов	мигрант	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	12	_	_	start_char=602|end_char=611|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	_	_	start_char=611|end_char=612
+15	главным	главный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	14	_	_	start_char=613|end_char=620
+16	для	для	ADP	_	_	15	_	_	start_char=621|end_char=624
+17	Беларуси	Беларусь	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	_	_	start_char=625|end_char=633
+18	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	17	_	_	start_char=634|end_char=642
+19	безопасность	безопасность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	18	_	_	start_char=643|end_char=655
+20	внутри	внутри	ADP	_	_	19	_	_	start_char=656|end_char=662
+21	страны	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	_	_	start_char=663|end_char=669|SpaceAfter=No
+22	;	;	PUNCT	_	_	21	_	_	start_char=669|end_char=670
+
+# text = - Белорусские силовики перекрыли направления вероятного движения противника на южной и западной границах.
+# sent_id = 8
+1	-	-	PUNCT	_	_	0	_	_	start_char=671|end_char=672
+2	Белорусские	белорусский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	1	_	_	start_char=673|end_char=684
+3	силовики	силовик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	_	_	start_char=685|end_char=693
+4	перекрыли	перекрыть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	_	_	start_char=694|end_char=703
+5	направления	направление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	4	_	_	start_char=704|end_char=715
+6	вероятного	вероятный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	5	_	_	start_char=716|end_char=726
+7	движения	движение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	_	_	start_char=727|end_char=735
+8	противника	противник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	7	_	_	start_char=736|end_char=746
+9	на	на	ADP	_	_	8	_	_	start_char=747|end_char=749
+10	южной	южный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	9	_	_	start_char=750|end_char=755
+11	и	и	CCONJ	_	_	10	_	_	start_char=756|end_char=757
+12	западной	западный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	11	_	_	start_char=758|end_char=766
+13	границах	граница	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	12	_	_	start_char=767|end_char=775|SpaceAfter=No
+14	.	.	PUNCT	_	_	13	_	_	start_char=775|end_char=776|SpaceAfter=No
+

@@ -1,0 +1,501 @@
+# text = В Киеве анонсировали появление «оружия нового типа» против российских КАБов «Есть одно определённое техническое решение, которое додумались здесь, на Украине.
+# sent_id = 0
+1	В	в	ADP	_	_	0	_	_	start_char=0|end_char=1
+2	Киеве	Киев	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	_	_	start_char=2|end_char=7
+3	анонсировали	анонсировать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=8|end_char=20
+4	появление	появление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	_	_	start_char=21|end_char=30
+5	«	"	PUNCT	_	_	4	_	_	start_char=31|end_char=32|SpaceAfter=No
+6	оружия	оружие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	_	_	start_char=32|end_char=38
+7	нового	новый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	6	_	_	start_char=39|end_char=45
+8	типа	тип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	_	_	start_char=46|end_char=50|SpaceAfter=No
+9	»	"	PUNCT	_	_	8	_	_	start_char=50|end_char=51
+10	против	против	ADP	_	_	9	_	_	start_char=52|end_char=58
+11	российских	российский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	_	_	start_char=59|end_char=69
+12	КАБов	КАБов	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	11	_	_	start_char=70|end_char=75
+13	«	"	PUNCT	_	_	12	_	_	start_char=76|end_char=77|SpaceAfter=No
+14	Есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	_	_	start_char=77|end_char=81
+15	одно	один	NUM	_	Case=Nom|Gender=Neut|NumType=Card	14	_	_	start_char=82|end_char=86
+16	определённое	определенный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	15	_	_	start_char=87|end_char=99
+17	техническое	технический	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	16	_	_	start_char=100|end_char=111
+18	решение	решение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	17	_	_	start_char=112|end_char=119|SpaceAfter=No
+19	,	,	PUNCT	_	_	18	_	_	start_char=119|end_char=120
+20	которое	который	PRON	_	Case=Nom|PronType=Int,Rel	19	_	_	start_char=121|end_char=128
+21	додумались	додуматься	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	20	_	_	start_char=129|end_char=139
+22	здесь	здесь	ADV	_	Degree=Pos	21	_	_	start_char=140|end_char=145|SpaceAfter=No
+23	,	,	PUNCT	_	_	22	_	_	start_char=145|end_char=146
+24	на	на	ADP	_	_	23	_	_	start_char=147|end_char=149
+25	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	24	_	_	start_char=150|end_char=157|SpaceAfter=No
+26	.	.	PUNCT	_	_	25	_	_	start_char=157|end_char=158
+
+# text = Сейчас идут испытания этого нового типа оружия и если они будут успешны, то дело поставят на конвейер», — сообщил Притула в опубликованном накануне, 2 июля, интервью «Украинской правде».
+# sent_id = 1
+1	Сейчас	сейчас	ADV	_	Degree=Pos	0	_	_	start_char=159|end_char=165
+2	идут	идти	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	_	_	start_char=166|end_char=170
+3	испытания	испытание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	2	_	_	start_char=171|end_char=180
+4	этого	этот	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	3	_	_	start_char=181|end_char=186
+5	нового	новый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	_	_	start_char=187|end_char=193
+6	типа	тип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	_	_	start_char=194|end_char=198
+7	оружия	оружие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	_	_	start_char=199|end_char=205
+8	и	и	CCONJ	_	_	7	_	_	start_char=206|end_char=207
+9	если	если	SCONJ	_	_	8	_	_	start_char=208|end_char=212
+10	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	_	_	start_char=213|end_char=216
+11	будут	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	_	_	start_char=217|end_char=222
+12	успешны	успешный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	11	_	_	start_char=223|end_char=230|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=230|end_char=231
+14	то	то	SCONJ	_	_	13	_	_	start_char=232|end_char=234
+15	дело	дело	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	14	_	_	start_char=235|end_char=239
+16	поставят	поставить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	15	_	_	start_char=240|end_char=248
+17	на	на	ADP	_	_	16	_	_	start_char=249|end_char=251
+18	конвейер	конвейер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	17	_	_	start_char=252|end_char=260|SpaceAfter=No
+19	»	"	PUNCT	_	_	18	_	_	start_char=260|end_char=261|SpaceAfter=No
+20	,	,	PUNCT	_	_	19	_	_	start_char=261|end_char=262
+21	—	—	PUNCT	_	_	20	_	_	start_char=263|end_char=264
+22	сообщил	сообщить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	21	_	_	start_char=265|end_char=272
+23	Притула	Притула	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	22	_	_	start_char=273|end_char=280
+24	в	в	ADP	_	_	23	_	_	start_char=281|end_char=282
+25	опубликованном	опубликовать	VERB	_	Aspect=Perf|Case=Loc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	24	_	_	start_char=283|end_char=297
+26	накануне	накануне	ADV	_	Degree=Pos	25	_	_	start_char=298|end_char=306|SpaceAfter=No
+27	,	,	PUNCT	_	_	26	_	_	start_char=306|end_char=307
+28	2	2	NUM	_	NumType=Card	27	_	_	start_char=308|end_char=309
+29	июля	июль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	28	_	_	start_char=310|end_char=314|SpaceAfter=No
+30	,	,	PUNCT	_	_	29	_	_	start_char=314|end_char=315
+31	интервью	интервью	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	30	_	_	start_char=316|end_char=324
+32	«	"	PUNCT	_	_	31	_	_	start_char=325|end_char=326|SpaceAfter=No
+33	Украинской	украинский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	32	_	_	start_char=326|end_char=336
+34	правде	правда	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	33	_	_	start_char=337|end_char=343|SpaceAfter=No
+35	»	"	PUNCT	_	_	34	_	_	start_char=343|end_char=344|SpaceAfter=No
+36	.	.	PUNCT	_	_	35	_	_	start_char=344|end_char=345
+
+# text = Каких-либо других деталей относительно «нового вида оружия» против российских КАБов он не назвал.
+# sent_id = 2
+1	Каких-либо	какой-либо	DET	_	Case=Gen|Number=Plur|PronType=Ind	0	_	_	start_char=346|end_char=356
+2	других	другой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	1	_	_	start_char=357|end_char=363
+3	деталей	деталь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	_	_	start_char=364|end_char=371
+4	относительно	относительно	ADP	_	_	3	_	_	start_char=372|end_char=384
+5	«	"	PUNCT	_	_	4	_	_	start_char=385|end_char=386|SpaceAfter=No
+6	нового	новый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	5	_	_	start_char=386|end_char=392
+7	вида	вид	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	_	_	start_char=393|end_char=397
+8	оружия	оружие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	_	_	start_char=398|end_char=404|SpaceAfter=No
+9	»	"	PUNCT	_	_	8	_	_	start_char=404|end_char=405
+10	против	против	ADP	_	_	9	_	_	start_char=406|end_char=412
+11	российских	российский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	_	_	start_char=413|end_char=423
+12	КАБов	каб	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	11	_	_	start_char=424|end_char=429
+13	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	_	_	start_char=430|end_char=432
+14	не	не	PART	_	_	13	_	_	start_char=433|end_char=435
+15	назвал	назвать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	_	_	start_char=436|end_char=442|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	_	_	start_char=442|end_char=443
+
+# text = Комментируя «оружейный анонс» украинского волонтёра, тамошнее издание Defense Express, которое специализируется на военной тематике, отмечает, что в настоящее время существует лишь несколько видов возможного нейтрализующего влияния на российские планирующие бомбы.
+# sent_id = 3
+1	Комментируя	комментировать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	0	_	_	start_char=444|end_char=455
+2	«	"	PUNCT	_	_	1	_	_	start_char=456|end_char=457|SpaceAfter=No
+3	оружейный	оружейный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	2	_	_	start_char=457|end_char=466
+4	анонс	анонс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	_	_	start_char=467|end_char=472|SpaceAfter=No
+5	»	"	PUNCT	_	_	4	_	_	start_char=472|end_char=473
+6	украинского	украинский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	5	_	_	start_char=474|end_char=485
+7	волонтёра	волонтера	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	_	_	start_char=486|end_char=495|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=495|end_char=496
+9	тамошнее	тамошный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	8	_	_	start_char=497|end_char=505
+10	издание	издание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	_	_	start_char=506|end_char=513
+11	Defense	Defense	PROPN	_	Foreign=Yes	10	_	_	start_char=514|end_char=521
+12	Express	Express	PROPN	_	Foreign=Yes	11	_	_	start_char=522|end_char=529|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=529|end_char=530
+14	которое	который	PRON	_	Case=Nom|PronType=Int,Rel	13	_	_	start_char=531|end_char=538
+15	специализируется	специализироваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	14	_	_	start_char=539|end_char=555
+16	на	на	ADP	_	_	15	_	_	start_char=556|end_char=558
+17	военной	военный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	16	_	_	start_char=559|end_char=566
+18	тематике	тематика	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	17	_	_	start_char=567|end_char=575|SpaceAfter=No
+19	,	,	PUNCT	_	_	18	_	_	start_char=575|end_char=576
+20	отмечает	отмечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	_	_	start_char=577|end_char=585|SpaceAfter=No
+21	,	,	PUNCT	_	_	20	_	_	start_char=585|end_char=586
+22	что	что	SCONJ	_	_	21	_	_	start_char=587|end_char=590
+23	в	в	ADP	_	_	22	_	_	start_char=591|end_char=592
+24	настоящее	настоящий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	23	_	_	start_char=593|end_char=602
+25	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	24	_	_	start_char=603|end_char=608
+26	существует	существовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	_	_	start_char=609|end_char=619
+27	лишь	лишь	PART	_	_	26	_	_	start_char=620|end_char=624
+28	несколько	несколько	NUM	_	Case=Nom|NumType=Card	27	_	_	start_char=625|end_char=634
+29	видов	вид	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	28	_	_	start_char=635|end_char=640
+30	возможного	возможный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	29	_	_	start_char=641|end_char=651
+31	нейтрализующего	нейтрализующий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	30	_	_	start_char=652|end_char=667
+32	влияния	влияние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	31	_	_	start_char=668|end_char=675
+33	на	на	ADP	_	_	32	_	_	start_char=676|end_char=678
+34	российские	российский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	33	_	_	start_char=679|end_char=689
+35	планирующие	планировать	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	34	_	_	start_char=690|end_char=701
+36	бомбы	бомба	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	35	_	_	start_char=702|end_char=707|SpaceAfter=No
+37	.	.	PUNCT	_	_	36	_	_	start_char=707|end_char=708
+
+# text = «Первый — их уничтожение, для чего, конечно, можно использовать зенитные ракетные комплексы (ЗРК), но назвать это эффективным способом — невозможно.
+# sent_id = 4
+1	«	"	PUNCT	_	_	0	_	_	start_char=709|end_char=710|SpaceAfter=No
+2	Первый	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	_	_	start_char=710|end_char=716
+3	—	—	PUNCT	_	_	2	_	_	start_char=717|end_char=718
+4	их	их	DET	_	Poss=Yes|PronType=Prs	3	_	_	start_char=719|end_char=721
+5	уничтожение	уничтожение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	_	_	start_char=722|end_char=733|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=733|end_char=734
+7	для	для	ADP	_	_	6	_	_	start_char=735|end_char=738
+8	чего	что	PRON	_	Case=Gen|PronType=Int,Rel	7	_	_	start_char=739|end_char=743|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=743|end_char=744
+10	конечно	конечно	ADV	_	Degree=Pos	9	_	_	start_char=745|end_char=752|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=752|end_char=753
+12	можно	можно	ADV	_	Degree=Pos	11	_	_	start_char=754|end_char=759
+13	использовать	использовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	12	_	_	start_char=760|end_char=772
+14	зенитные	зенитный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	13	_	_	start_char=773|end_char=781
+15	ракетные	ракетный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	14	_	_	start_char=782|end_char=790
+16	комплексы	комплекс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	15	_	_	start_char=791|end_char=800
+17	(	(	PUNCT	_	_	16	_	_	start_char=801|end_char=802|SpaceAfter=No
+18	ЗРК	зрк	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	17	_	_	start_char=802|end_char=805|SpaceAfter=No
+19	)	)	PUNCT	_	_	18	_	_	start_char=805|end_char=806|SpaceAfter=No
+20	,	,	PUNCT	_	_	19	_	_	start_char=806|end_char=807
+21	но	но	CCONJ	_	_	20	_	_	start_char=808|end_char=810
+22	назвать	назвать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	21	_	_	start_char=811|end_char=818
+23	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	22	_	_	start_char=819|end_char=822
+24	эффективным	эффективный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	23	_	_	start_char=823|end_char=834
+25	способом	способ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	24	_	_	start_char=835|end_char=843
+26	—	—	PUNCT	_	_	25	_	_	start_char=844|end_char=845
+27	невозможно	невозможный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	26	_	_	start_char=846|end_char=856|SpaceAfter=No
+28	.	.	PUNCT	_	_	27	_	_	start_char=856|end_char=857
+
+# text = Тем более, появление украинского ЗРК, очевидно, было бы анонсировано несколько иначе.
+# sent_id = 5
+1	Тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	0	_	_	start_char=858|end_char=861
+2	более	более	ADV	_	Degree=Cmp	1	_	_	start_char=862|end_char=867|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=867|end_char=868
+4	появление	появление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	_	_	start_char=869|end_char=878
+5	украинского	украинский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	_	_	start_char=879|end_char=890
+6	ЗРК	зрк	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	_	_	start_char=891|end_char=894|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	_	_	start_char=894|end_char=895
+8	очевидно	очевидно	ADV	_	Degree=Pos	7	_	_	start_char=896|end_char=904|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=904|end_char=905
+10	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	_	_	start_char=906|end_char=910
+11	бы	бы	AUX	_	_	10	_	_	start_char=911|end_char=913
+12	анонсировано	анонсировать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	11	_	_	start_char=914|end_char=926
+13	несколько	несколько	ADV	_	Degree=Pos	12	_	_	start_char=927|end_char=936
+14	иначе	иначе	ADV	_	Degree=Pos	13	_	_	start_char=937|end_char=942|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	_	_	start_char=942|end_char=943
+
+# text = Если не ЗРК, то следующим кандидатом для уничтожения КАБов могут быть автоматизированные зенитные установки типа корабельной Phalanx CIWS или её наземного варианта Centurion C-RAM, которые, кстати, неоднократно просила Украина.
+# sent_id = 6
+1	Если	если	SCONJ	_	_	0	_	_	start_char=944|end_char=948
+2	не	не	PART	_	_	1	_	_	start_char=949|end_char=951
+3	ЗРК	ЗРК	PROPN	_	Animacy=Inan|Number=Sing	2	_	_	start_char=952|end_char=955|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=955|end_char=956
+5	то	то	SCONJ	_	_	4	_	_	start_char=957|end_char=959
+6	следующим	следующий	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	5	_	_	start_char=960|end_char=969
+7	кандидатом	кандидат	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	6	_	_	start_char=970|end_char=980
+8	для	для	ADP	_	_	7	_	_	start_char=981|end_char=984
+9	уничтожения	уничтожение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	_	_	start_char=985|end_char=996
+10	КАБов	КАБов	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	_	_	start_char=997|end_char=1002
+11	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	_	_	start_char=1003|end_char=1008
+12	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	11	_	_	start_char=1009|end_char=1013
+13	автоматизированные	автоматизировать	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	12	_	_	start_char=1014|end_char=1032
+14	зенитные	зенитный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	13	_	_	start_char=1033|end_char=1041
+15	установки	установка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	14	_	_	start_char=1042|end_char=1051
+16	типа	тип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	_	_	start_char=1052|end_char=1056
+17	корабельной	корабельный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	16	_	_	start_char=1057|end_char=1068
+18	Phalanx	Phalanx	PROPN	_	Foreign=Yes	17	_	_	start_char=1069|end_char=1076
+19	CIWS	CIWS	PROPN	_	Foreign=Yes	18	_	_	start_char=1077|end_char=1081
+20	или	или	CCONJ	_	_	19	_	_	start_char=1082|end_char=1085
+21	её	ее	DET	_	Poss=Yes|PronType=Prs	20	_	_	start_char=1086|end_char=1088
+22	наземного	наземный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	21	_	_	start_char=1089|end_char=1098
+23	варианта	вариант	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	22	_	_	start_char=1099|end_char=1107
+24	Centurion	Centurion	PROPN	_	Foreign=Yes	23	_	_	start_char=1108|end_char=1117
+25	C-RAM	C-RAM	PROPN	_	Foreign=Yes	24	_	_	start_char=1118|end_char=1123|SpaceAfter=No
+26	,	,	PUNCT	_	_	25	_	_	start_char=1123|end_char=1124
+27	которые	который	PRON	_	Case=Acc|PronType=Int,Rel	26	_	_	start_char=1125|end_char=1132|SpaceAfter=No
+28	,	,	PUNCT	_	_	27	_	_	start_char=1132|end_char=1133
+29	кстати	кстати	ADV	_	Degree=Pos	28	_	_	start_char=1134|end_char=1140|SpaceAfter=No
+30	,	,	PUNCT	_	_	29	_	_	start_char=1140|end_char=1141
+31	неоднократно	неоднократно	ADV	_	Degree=Pos	30	_	_	start_char=1142|end_char=1154
+32	просила	просить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	31	_	_	start_char=1155|end_char=1162
+33	Украина	Украина	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	32	_	_	start_char=1163|end_char=1170|SpaceAfter=No
+34	.	.	PUNCT	_	_	33	_	_	start_char=1170|end_char=1171
+
+# text = Но, как и в случае с ЗРК, это полноценная разработка, которая занимает годы и стоит сотни миллионов долларов, о чём прямо говорит опыт Южной Кореи.
+# sent_id = 7
+1	Но	но	CCONJ	_	_	0	_	_	start_char=1172|end_char=1174|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	_	_	start_char=1174|end_char=1175
+3	как	как	SCONJ	_	_	2	_	_	start_char=1176|end_char=1179
+4	и	и	PART	_	_	3	_	_	start_char=1180|end_char=1181
+5	в	в	ADP	_	_	4	_	_	start_char=1182|end_char=1183
+6	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	_	_	start_char=1184|end_char=1190
+7	с	с	ADP	_	_	6	_	_	start_char=1191|end_char=1192
+8	ЗРК	зрк	NOUN	_	Animacy=Inan|Gender=Masc|Number=Sing	7	_	_	start_char=1193|end_char=1196|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=1196|end_char=1197
+10	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	_	_	start_char=1198|end_char=1201
+11	полноценная	полноценный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	_	_	start_char=1202|end_char=1213
+12	разработка	разработка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	_	_	start_char=1214|end_char=1224|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=1224|end_char=1225
+14	которая	который	PRON	_	Case=Nom|PronType=Int,Rel	13	_	_	start_char=1226|end_char=1233
+15	занимает	занимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	_	_	start_char=1234|end_char=1242
+16	годы	год	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	15	_	_	start_char=1243|end_char=1247
+17	и	и	CCONJ	_	_	16	_	_	start_char=1248|end_char=1249
+18	стоит	стоить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	_	_	start_char=1250|end_char=1255
+19	сотни	сотня	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	18	_	_	start_char=1256|end_char=1261
+20	миллионов	миллион	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	19	_	_	start_char=1262|end_char=1271
+21	долларов	доллар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	20	_	_	start_char=1272|end_char=1280|SpaceAfter=No
+22	,	,	PUNCT	_	_	21	_	_	start_char=1280|end_char=1281
+23	о	о	ADP	_	_	22	_	_	start_char=1282|end_char=1283
+24	чём	что	PRON	_	Case=Loc|PronType=Int,Rel	23	_	_	start_char=1284|end_char=1287
+25	прямо	прямо	ADV	_	Degree=Pos	24	_	_	start_char=1288|end_char=1293
+26	говорит	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	_	_	start_char=1294|end_char=1301
+27	опыт	опыт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	26	_	_	start_char=1302|end_char=1306
+28	Южной	Южный	PROPN	_	_	27	_	_	start_char=1307|end_char=1312
+29	Кореи	Корея	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	28	_	_	start_char=1313|end_char=1318|SpaceAfter=No
+30	.	.	PUNCT	_	_	29	_	_	start_char=1318|end_char=1319
+
+# text = Также существуют альтернативные методы обезвреживания: боевые лазеры или направленное микроволновое излучение.
+# sent_id = 8
+1	Также	также	ADV	_	Degree=Pos	0	_	_	start_char=1320|end_char=1325
+2	существуют	существовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	_	_	start_char=1326|end_char=1336
+3	альтернативные	альтернативный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	_	_	start_char=1337|end_char=1351
+4	методы	метод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	_	_	start_char=1352|end_char=1358
+5	обезвреживания	обезвреживание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	_	_	start_char=1359|end_char=1373|SpaceAfter=No
+6	:	:	PUNCT	_	_	5	_	_	start_char=1373|end_char=1374
+7	боевые	боевой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	_	_	start_char=1375|end_char=1381
+8	лазеры	лазер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	7	_	_	start_char=1382|end_char=1388
+9	или	или	CCONJ	_	_	8	_	_	start_char=1389|end_char=1392
+10	направленное	направить	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	9	_	_	start_char=1393|end_char=1405
+11	микроволновое	микроволновый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	10	_	_	start_char=1406|end_char=1419
+12	излучение	излучение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	_	_	start_char=1420|end_char=1429|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=1429|end_char=1430
+
+# text = Но всё это даже в западных странах с их гигантскими бюджетами не вышло на стадии опытных образцов, чему отличный пример британский Dragon Fire (технология лазерного оружия направленной энергии.
+# sent_id = 9
+1	Но	но	CCONJ	_	_	0	_	_	start_char=1431|end_char=1433
+2	всё	весь	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	1	_	_	start_char=1434|end_char=1437
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	_	_	start_char=1438|end_char=1441
+4	даже	даже	PART	_	_	3	_	_	start_char=1442|end_char=1446
+5	в	в	ADP	_	_	4	_	_	start_char=1447|end_char=1448
+6	западных	западный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	5	_	_	start_char=1449|end_char=1457
+7	странах	страна	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	6	_	_	start_char=1458|end_char=1465
+8	с	с	ADP	_	_	7	_	_	start_char=1466|end_char=1467
+9	их	их	DET	_	Poss=Yes|PronType=Prs	8	_	_	start_char=1468|end_char=1470
+10	гигантскими	гигантский	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	9	_	_	start_char=1471|end_char=1482
+11	бюджетами	бюджет	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	10	_	_	start_char=1483|end_char=1492
+12	не	не	PART	_	_	11	_	_	start_char=1493|end_char=1495
+13	вышло	выйти	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	_	_	start_char=1496|end_char=1501
+14	на	на	ADP	_	_	13	_	_	start_char=1502|end_char=1504
+15	стадии	стадия	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	14	_	_	start_char=1505|end_char=1511
+16	опытных	опытный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	_	_	start_char=1512|end_char=1519
+17	образцов	образец	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	16	_	_	start_char=1520|end_char=1528|SpaceAfter=No
+18	,	,	PUNCT	_	_	17	_	_	start_char=1528|end_char=1529
+19	чему	что	PRON	_	Case=Dat|PronType=Int,Rel	18	_	_	start_char=1530|end_char=1534
+20	отличный	отличный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	19	_	_	start_char=1535|end_char=1543
+21	пример	пример	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	20	_	_	start_char=1544|end_char=1550
+22	британский	британский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	21	_	_	start_char=1551|end_char=1561
+23	Dragon	Dragon	PROPN	_	Foreign=Yes	22	_	_	start_char=1562|end_char=1568
+24	Fire	Fire	PROPN	_	Foreign=Yes	23	_	_	start_char=1569|end_char=1573
+25	(	(	PUNCT	_	_	24	_	_	start_char=1574|end_char=1575|SpaceAfter=No
+26	технология	технология	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	25	_	_	start_char=1575|end_char=1585
+27	лазерного	лазерный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	26	_	_	start_char=1586|end_char=1595
+28	оружия	оружие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	27	_	_	start_char=1596|end_char=1602
+29	направленной	направить	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	28	_	_	start_char=1603|end_char=1615
+30	энергии	энергия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	29	_	_	start_char=1616|end_char=1623|SpaceAfter=No
+31	.	.	PUNCT	_	_	30	_	_	start_char=1623|end_char=1624
+
+# text = — Ред — говорится в публикации.
+# sent_id = 10
+1	—	—	PUNCT	_	_	0	_	_	start_char=1625|end_char=1626
+2	Ред	Ред	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=1627|end_char=1630
+3	—	—	PUNCT	_	_	2	_	_	start_char=1631|end_char=1632
+4	говорится	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	_	_	start_char=1633|end_char=1642
+5	в	в	ADP	_	_	4	_	_	start_char=1643|end_char=1644
+6	публикации	публикация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	_	_	start_char=1645|end_char=1655|SpaceAfter=No
+7	.	.	PUNCT	_	_	6	_	_	start_char=1655|end_char=1656
+
+# text = Киевские аналитики далее пустились в рассуждения о том, что российским КАБам «также можно противодействовать путём постановки помех на их спутниковую навигацию».
+# sent_id = 11
+1	Киевские	киевский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	0	_	_	start_char=1657|end_char=1665
+2	аналитики	аналитик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	1	_	_	start_char=1666|end_char=1675
+3	далее	далее	ADV	_	Degree=Pos	2	_	_	start_char=1676|end_char=1681
+4	пустились	пуститься	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	3	_	_	start_char=1682|end_char=1691
+5	в	в	ADP	_	_	4	_	_	start_char=1692|end_char=1693
+6	рассуждения	рассуждение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	5	_	_	start_char=1694|end_char=1705
+7	о	о	ADP	_	_	6	_	_	start_char=1706|end_char=1707
+8	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	7	_	_	start_char=1708|end_char=1711|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=1711|end_char=1712
+10	что	что	SCONJ	_	_	9	_	_	start_char=1713|end_char=1716
+11	российским	российский	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	10	_	_	start_char=1717|end_char=1727
+12	КАБам	КАБам	PROPN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	11	_	_	start_char=1728|end_char=1733
+13	«	"	PUNCT	_	_	12	_	_	start_char=1734|end_char=1735|SpaceAfter=No
+14	также	также	ADV	_	Degree=Pos	13	_	_	start_char=1735|end_char=1740
+15	можно	можно	ADV	_	Degree=Pos	14	_	_	start_char=1741|end_char=1746
+16	противодействовать	противодействовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	15	_	_	start_char=1747|end_char=1765
+17	путём	путем	ADP	_	_	16	_	_	start_char=1766|end_char=1771
+18	постановки	постановка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	_	_	start_char=1772|end_char=1782
+19	помех	помеха	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	18	_	_	start_char=1783|end_char=1788
+20	на	на	ADP	_	_	19	_	_	start_char=1789|end_char=1791
+21	их	их	DET	_	Poss=Yes|PronType=Prs	20	_	_	start_char=1792|end_char=1794
+22	спутниковую	спутниковый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	21	_	_	start_char=1795|end_char=1806
+23	навигацию	навигация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	22	_	_	start_char=1807|end_char=1816|SpaceAfter=No
+24	»	"	PUNCT	_	_	23	_	_	start_char=1816|end_char=1817|SpaceAfter=No
+25	.	.	PUNCT	_	_	24	_	_	start_char=1817|end_char=1818
+
+# text = «Это не новость, но проблема в том, что противник применяет в них модули навигации типа „Комета-М“, которые имеют высокую помехоустойчивость.
+# sent_id = 12
+1	«	"	PUNCT	_	_	0	_	_	start_char=1819|end_char=1820|SpaceAfter=No
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=1820|end_char=1823
+3	не	не	PART	_	_	2	_	_	start_char=1824|end_char=1826
+4	новость	новость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	_	_	start_char=1827|end_char=1834|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=1834|end_char=1835
+6	но	но	CCONJ	_	_	5	_	_	start_char=1836|end_char=1838
+7	проблема	проблема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	_	_	start_char=1839|end_char=1847
+8	в	в	ADP	_	_	7	_	_	start_char=1848|end_char=1849
+9	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	8	_	_	start_char=1850|end_char=1853|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=1853|end_char=1854
+11	что	что	SCONJ	_	_	10	_	_	start_char=1855|end_char=1858
+12	противник	противник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	_	_	start_char=1859|end_char=1868
+13	применяет	применять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	_	_	start_char=1869|end_char=1878
+14	в	в	ADP	_	_	13	_	_	start_char=1879|end_char=1880
+15	них	они	PRON	_	Case=Loc|Number=Plur|Person=3|PronType=Prs	14	_	_	start_char=1881|end_char=1884
+16	модули	модуль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	15	_	_	start_char=1885|end_char=1891
+17	навигации	навигация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	_	_	start_char=1892|end_char=1901
+18	типа	тип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	_	_	start_char=1902|end_char=1906
+19	„	"	PUNCT	_	_	18	_	_	start_char=1907|end_char=1908|SpaceAfter=No
+20	Комета-	Комета-	PROPN	_	_	19	_	_	start_char=1908|end_char=1915|SpaceAfter=No
+21	М	М	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	20	_	_	start_char=1915|end_char=1916|SpaceAfter=No
+22	“	"	PUNCT	_	_	21	_	_	start_char=1916|end_char=1917|SpaceAfter=No
+23	,	,	PUNCT	_	_	22	_	_	start_char=1917|end_char=1918
+24	которые	который	PRON	_	Case=Nom|PronType=Int,Rel	23	_	_	start_char=1919|end_char=1926
+25	имеют	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	_	_	start_char=1927|end_char=1932
+26	высокую	высокий	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	25	_	_	start_char=1933|end_char=1940
+27	помехоустойчивость	помехоустойчивость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	26	_	_	start_char=1941|end_char=1959|SpaceAfter=No
+28	.	.	PUNCT	_	_	27	_	_	start_char=1959|end_char=1960
+
+# text = Именно поэтому назвать радиоэлектронную борьбу окончательным решением сложно.
+# sent_id = 13
+1	Именно	именно	PART	_	_	0	_	_	start_char=1961|end_char=1967
+2	поэтому	поэтому	ADV	_	Degree=Pos	1	_	_	start_char=1968|end_char=1975
+3	назвать	назвать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	_	_	start_char=1976|end_char=1983
+4	радиоэлектронную	радиоэлектронный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	3	_	_	start_char=1984|end_char=2000
+5	борьбу	борьба	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	_	_	start_char=2001|end_char=2007
+6	окончательным	окончательный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	5	_	_	start_char=2008|end_char=2021
+7	решением	решение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	6	_	_	start_char=2022|end_char=2030
+8	сложно	сложный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	7	_	_	start_char=2031|end_char=2037|SpaceAfter=No
+9	.	.	PUNCT	_	_	8	_	_	start_char=2037|end_char=2038
+
+# text = Поэтому вполне возможно, что речь идёт о других методах противодействия, принцип которых не находится на поверхности», — заключает Defense Express.
+# sent_id = 14
+1	Поэтому	поэтому	ADV	_	Degree=Pos	0	_	_	start_char=2039|end_char=2046
+2	вполне	вполне	ADV	_	Degree=Pos	1	_	_	start_char=2047|end_char=2053
+3	возможно	возможный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	_	_	start_char=2054|end_char=2062|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=2062|end_char=2063
+5	что	что	SCONJ	_	_	4	_	_	start_char=2064|end_char=2067
+6	речь	речь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	_	_	start_char=2068|end_char=2072
+7	идёт	идти	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	_	_	start_char=2073|end_char=2077
+8	о	о	ADP	_	_	7	_	_	start_char=2078|end_char=2079
+9	других	другой	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	8	_	_	start_char=2080|end_char=2086
+10	методах	метод	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	9	_	_	start_char=2087|end_char=2094
+11	противодействия	противодействие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	_	_	start_char=2095|end_char=2110|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	_	_	start_char=2110|end_char=2111
+13	принцип	принцип	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	_	_	start_char=2112|end_char=2119
+14	которых	который	PRON	_	Case=Gen|PronType=Int,Rel	13	_	_	start_char=2120|end_char=2127
+15	не	не	PART	_	_	14	_	_	start_char=2128|end_char=2130
+16	находится	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	15	_	_	start_char=2131|end_char=2140
+17	на	на	ADP	_	_	16	_	_	start_char=2141|end_char=2143
+18	поверхности	поверхность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	17	_	_	start_char=2144|end_char=2155|SpaceAfter=No
+19	»	"	PUNCT	_	_	18	_	_	start_char=2155|end_char=2156|SpaceAfter=No
+20	,	,	PUNCT	_	_	19	_	_	start_char=2156|end_char=2157
+21	—	—	PUNCT	_	_	20	_	_	start_char=2158|end_char=2159
+22	заключает	заключать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	_	_	start_char=2160|end_char=2169
+23	Defense	Defense	PROPN	_	Foreign=Yes	22	_	_	start_char=2170|end_char=2177
+24	Express	Express	PROPN	_	Foreign=Yes	23	_	_	start_char=2178|end_char=2185|SpaceAfter=No
+25	.	.	PUNCT	_	_	24	_	_	start_char=2185|end_char=2186
+
+# text = Следует отметить, что комичность ситуации придаёт сам факт объявления о разработке «эффективного нового оружия» со стороны некоего украинского волонтёра.
+# sent_id = 15
+1	Следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	_	_	start_char=2187|end_char=2194
+2	отметить	отметить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	_	_	start_char=2195|end_char=2203|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=2203|end_char=2204
+4	что	что	SCONJ	_	_	3	_	_	start_char=2205|end_char=2208
+5	комичность	комичность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	_	_	start_char=2209|end_char=2219
+6	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	_	_	start_char=2220|end_char=2228
+7	придаёт	придавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	_	_	start_char=2229|end_char=2236
+8	сам	сам	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	_	_	start_char=2237|end_char=2240
+9	факт	факт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	_	_	start_char=2241|end_char=2245
+10	объявления	объявление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	_	_	start_char=2246|end_char=2256
+11	о	о	ADP	_	_	10	_	_	start_char=2257|end_char=2258
+12	разработке	разработка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	_	_	start_char=2259|end_char=2269
+13	«	"	PUNCT	_	_	12	_	_	start_char=2270|end_char=2271|SpaceAfter=No
+14	эффективного	эффективный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	13	_	_	start_char=2271|end_char=2283
+15	нового	новый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	14	_	_	start_char=2284|end_char=2290
+16	оружия	оружие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	_	_	start_char=2291|end_char=2297|SpaceAfter=No
+17	»	"	PUNCT	_	_	16	_	_	start_char=2297|end_char=2298
+18	со	с	ADP	_	_	17	_	_	start_char=2299|end_char=2301
+19	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	_	_	start_char=2302|end_char=2309
+20	некоего	некий	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Ind	19	_	_	start_char=2310|end_char=2317
+21	украинского	украинский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	20	_	_	start_char=2318|end_char=2329
+22	волонтёра	волонтера	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	21	_	_	start_char=2330|end_char=2339|SpaceAfter=No
+23	.	.	PUNCT	_	_	22	_	_	start_char=2339|end_char=2340
+
+# text = По всей видимости, это очередной самопиар на фоне усиливающихся брожений в военно-политическом руководстве киевского режима.
+# sent_id = 16
+1	По	по	ADP	_	_	0	_	_	start_char=2341|end_char=2343
+2	всей	весь	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Tot	1	_	_	start_char=2344|end_char=2348
+3	видимости	видимость	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	2	_	_	start_char=2349|end_char=2358|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=2358|end_char=2359
+5	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	_	_	start_char=2360|end_char=2363
+6	очередной	очередной	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	_	_	start_char=2364|end_char=2373
+7	самопиар	самопиар	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	_	_	start_char=2374|end_char=2382
+8	на	на	ADP	_	_	7	_	_	start_char=2383|end_char=2385
+9	фоне	фон	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	_	_	start_char=2386|end_char=2390
+10	усиливающихся	усиливаться	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	9	_	_	start_char=2391|end_char=2404
+11	брожений	брожение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	10	_	_	start_char=2405|end_char=2413
+12	в	в	ADP	_	_	11	_	_	start_char=2414|end_char=2415
+13	военно-	военно-	ADJ	_	Degree=Pos	12	_	_	start_char=2416|end_char=2423|SpaceAfter=No
+14	политическом	политический	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	13	_	_	start_char=2423|end_char=2435
+15	руководстве	руководство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	14	_	_	start_char=2436|end_char=2447
+16	киевского	киевский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	15	_	_	start_char=2448|end_char=2457
+17	режима	режим	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	_	_	start_char=2458|end_char=2464|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	_	_	start_char=2464|end_char=2465
+
+# text = Ранее военные эксперты в Киеве, жалуясь на тотальное превосходство Российской армии в применении планирующих или корректируемых авиабомб, продемонстрировавших свою сверхэффективность в зоне специальной военной операции, предположили, что модернизированная зенитная ракета SM-6 «может решить проблему с ВКС РФ».
+# sent_id = 17
+1	Ранее	ранее	ADV	_	Degree=Pos	0	_	_	start_char=2466|end_char=2471
+2	военные	военный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	1	_	_	start_char=2472|end_char=2479
+3	эксперты	эксперт	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	_	_	start_char=2480|end_char=2488
+4	в	в	ADP	_	_	3	_	_	start_char=2489|end_char=2490
+5	Киеве	Киев	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	_	_	start_char=2491|end_char=2496|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=2496|end_char=2497
+7	жалуясь	жаловаться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	6	_	_	start_char=2498|end_char=2505
+8	на	на	ADP	_	_	7	_	_	start_char=2506|end_char=2508
+9	тотальное	тотальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	8	_	_	start_char=2509|end_char=2518
+10	превосходство	превосходство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	_	_	start_char=2519|end_char=2532
+11	Российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	_	_	start_char=2533|end_char=2543
+12	армии	армия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	_	_	start_char=2544|end_char=2549
+13	в	в	ADP	_	_	12	_	_	start_char=2550|end_char=2551
+14	применении	применение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	13	_	_	start_char=2552|end_char=2562
+15	планирующих	планировать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	14	_	_	start_char=2563|end_char=2574
+16	или	или	CCONJ	_	_	15	_	_	start_char=2575|end_char=2578
+17	корректируемых	корректировать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	16	_	_	start_char=2579|end_char=2593
+18	авиабомб	авиабомб	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	17	_	_	start_char=2594|end_char=2602|SpaceAfter=No
+19	,	,	PUNCT	_	_	18	_	_	start_char=2602|end_char=2603
+20	продемонстрировавших	демонстрировать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	19	_	_	start_char=2604|end_char=2624
+21	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	20	_	_	start_char=2625|end_char=2629
+22	сверхэффективность	сверхэффективность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	21	_	_	start_char=2630|end_char=2648
+23	в	в	ADP	_	_	22	_	_	start_char=2649|end_char=2650
+24	зоне	зона	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	23	_	_	start_char=2651|end_char=2655
+25	специальной	специальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	24	_	_	start_char=2656|end_char=2667
+26	военной	военный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	25	_	_	start_char=2668|end_char=2675
+27	операции	операция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	26	_	_	start_char=2676|end_char=2684|SpaceAfter=No
+28	,	,	PUNCT	_	_	27	_	_	start_char=2684|end_char=2685
+29	предположили	предположить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	28	_	_	start_char=2686|end_char=2698|SpaceAfter=No
+30	,	,	PUNCT	_	_	29	_	_	start_char=2698|end_char=2699
+31	что	что	SCONJ	_	_	30	_	_	start_char=2700|end_char=2703
+32	модернизированная	модернизировать	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	31	_	_	start_char=2704|end_char=2721
+33	зенитная	зенитный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	32	_	_	start_char=2722|end_char=2730
+34	ракета	ракета	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	33	_	_	start_char=2731|end_char=2737
+35	SM	SM	PROPN	_	Foreign=Yes	34	_	_	start_char=2738|end_char=2740|SpaceAfter=No
+36	-	-	PUNCT	_	_	35	_	_	start_char=2740|end_char=2741|SpaceAfter=No
+37	6	6	NUM	_	NumType=Card	36	_	_	start_char=2741|end_char=2742
+38	«	"	PUNCT	_	_	37	_	_	start_char=2743|end_char=2744|SpaceAfter=No
+39	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	38	_	_	start_char=2744|end_char=2749
+40	решить	решить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	39	_	_	start_char=2750|end_char=2756
+41	проблему	проблема	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	40	_	_	start_char=2757|end_char=2765
+42	с	с	ADP	_	_	41	_	_	start_char=2766|end_char=2767
+43	ВКС	ВКС	PROPN	_	Animacy=Inan|Number=Sing	42	_	_	start_char=2768|end_char=2771
+44	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	43	_	_	start_char=2772|end_char=2774|SpaceAfter=No
+45	»	"	PUNCT	_	_	44	_	_	start_char=2774|end_char=2775|SpaceAfter=No
+46	.	.	PUNCT	_	_	45	_	_	start_char=2775|end_char=2776|SpaceAfter=No
+

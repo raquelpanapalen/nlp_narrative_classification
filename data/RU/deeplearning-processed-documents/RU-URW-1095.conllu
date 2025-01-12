@@ -1,0 +1,193 @@
+# text = В США рассказали о потере Украиной территории с венгерским населением , что Киев может потерять территорию, на которой живут венгры.
+# sent_id = 0
+1	В	в	ADP	_	_	0	_	_	start_char=0|end_char=1
+2	США	США	PROPN	_	Animacy=Inan|Case=Loc|Number=Plur	1	_	_	start_char=2|end_char=5
+3	рассказали	рассказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=6|end_char=16
+4	о	о	ADP	_	_	3	_	_	start_char=17|end_char=18
+5	потере	потеря	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	_	_	start_char=19|end_char=25
+6	Украиной	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	_	_	start_char=26|end_char=34
+7	территории	территория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	_	_	start_char=35|end_char=45
+8	с	с	ADP	_	_	7	_	_	start_char=46|end_char=47
+9	венгерским	венгерский	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	8	_	_	start_char=48|end_char=58
+10	населением	население	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	9	_	_	start_char=59|end_char=69
+11	,	,	PUNCT	_	_	10	_	_	start_char=70|end_char=71
+12	что	что	SCONJ	_	_	11	_	_	start_char=72|end_char=75
+13	Киев	Киев	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	_	_	start_char=76|end_char=80
+14	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	_	_	start_char=81|end_char=86
+15	потерять	потерять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	14	_	_	start_char=87|end_char=95
+16	территорию	территория	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	_	_	start_char=96|end_char=106|SpaceAfter=No
+17	,	,	PUNCT	_	_	16	_	_	start_char=106|end_char=107
+18	на	на	ADP	_	_	17	_	_	start_char=108|end_char=110
+19	которой	который	PRON	_	Case=Loc|PronType=Int,Rel	18	_	_	start_char=111|end_char=118
+20	живут	жить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	_	_	start_char=119|end_char=124
+21	венгры	венгр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	20	_	_	start_char=125|end_char=131|SpaceAfter=No
+22	.	.	PUNCT	_	_	21	_	_	start_char=131|end_char=132
+
+# text = Об этом заявил бывший американский разведчик -канала «Judging Freedom».
+# sent_id = 1
+1	Об	о	ADP	_	_	0	_	_	start_char=133|end_char=135
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=136|end_char=140
+3	заявил	заявить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=141|end_char=147
+4	бывший	бывший	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	_	_	start_char=148|end_char=154
+5	американский	американский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	_	_	start_char=155|end_char=167
+6	разведчик	разведчик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	_	_	start_char=168|end_char=177
+7	-	-	PUNCT	_	_	6	_	_	start_char=178|end_char=179|SpaceAfter=No
+8	канала	канал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	_	_	start_char=179|end_char=185
+9	«	"	PUNCT	_	_	8	_	_	start_char=186|end_char=187|SpaceAfter=No
+10	Judging	Judging	PROPN	_	Foreign=Yes	9	_	_	start_char=187|end_char=194
+11	Freedom	Freedom	PROPN	_	Foreign=Yes	10	_	_	start_char=195|end_char=202|SpaceAfter=No
+12	»	"	PUNCT	_	_	11	_	_	start_char=202|end_char=203|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=203|end_char=204
+
+# text = По его словам, на Украине проживает значительное количество венгров, которых затрагивает мобилизация, проводимая «И я думаю, что Орбан сейчас, глядя на изменение политической ситуации, чувствует себя вправе прийти и требовать от Зеленского прекратить эти действия [мобилизацию] там, а не то эта часть Украины может перестать быть частью Украины, когда все пойдет наперекосяк», — отметил эксперт.
+# sent_id = 2
+1	По	по	ADP	_	_	0	_	_	start_char=205|end_char=207
+2	его	его	DET	_	Poss=Yes|PronType=Prs	1	_	_	start_char=208|end_char=211
+3	словам	слово	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	2	_	_	start_char=212|end_char=218|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=218|end_char=219
+5	на	на	ADP	_	_	4	_	_	start_char=220|end_char=222
+6	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	_	_	start_char=223|end_char=230
+7	проживает	проживать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	_	_	start_char=231|end_char=240
+8	значительное	значительный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	7	_	_	start_char=241|end_char=253
+9	количество	количество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	_	_	start_char=254|end_char=264
+10	венгров	венгр	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	9	_	_	start_char=265|end_char=272|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=272|end_char=273
+12	которых	который	PRON	_	Case=Acc|PronType=Int,Rel	11	_	_	start_char=274|end_char=281
+13	затрагивает	затрагивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	_	_	start_char=282|end_char=293
+14	мобилизация	мобилизация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	_	_	start_char=294|end_char=305|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=305|end_char=306
+16	проводимая	проводить	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	15	_	_	start_char=307|end_char=317
+17	«	"	PUNCT	_	_	16	_	_	start_char=318|end_char=319|SpaceAfter=No
+18	И	и	CCONJ	_	_	17	_	_	start_char=319|end_char=320
+19	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	18	_	_	start_char=321|end_char=322
+20	думаю	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	19	_	_	start_char=323|end_char=328|SpaceAfter=No
+21	,	,	PUNCT	_	_	20	_	_	start_char=328|end_char=329
+22	что	что	SCONJ	_	_	21	_	_	start_char=330|end_char=333
+23	Орбан	Орбан	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	22	_	_	start_char=334|end_char=339
+24	сейчас	сейчас	ADV	_	Degree=Pos	23	_	_	start_char=340|end_char=346|SpaceAfter=No
+25	,	,	PUNCT	_	_	24	_	_	start_char=346|end_char=347
+26	глядя	глядеть	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	25	_	_	start_char=348|end_char=353
+27	на	на	ADP	_	_	26	_	_	start_char=354|end_char=356
+28	изменение	изменение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	27	_	_	start_char=357|end_char=366
+29	политической	политический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	28	_	_	start_char=367|end_char=379
+30	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	29	_	_	start_char=380|end_char=388|SpaceAfter=No
+31	,	,	PUNCT	_	_	30	_	_	start_char=388|end_char=389
+32	чувствует	чувствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	31	_	_	start_char=390|end_char=399
+33	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	32	_	_	start_char=400|end_char=404
+34	вправе	вправе	ADV	_	Degree=Pos	33	_	_	start_char=405|end_char=411
+35	прийти	прийти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	34	_	_	start_char=412|end_char=418
+36	и	и	CCONJ	_	_	35	_	_	start_char=419|end_char=420
+37	требовать	требовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	36	_	_	start_char=421|end_char=430
+38	от	от	ADP	_	_	37	_	_	start_char=431|end_char=433
+39	Зеленского	Зеленский	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	38	_	_	start_char=434|end_char=444
+40	прекратить	прекратить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	39	_	_	start_char=445|end_char=455
+41	эти	этот	DET	_	Case=Acc|Number=Plur|PronType=Dem	40	_	_	start_char=456|end_char=459
+42	действия	действие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	41	_	_	start_char=460|end_char=468
+43	[	[	PUNCT	_	_	42	_	_	start_char=469|end_char=470|SpaceAfter=No
+44	мобилизацию	мобилизация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	43	_	_	start_char=470|end_char=481|SpaceAfter=No
+45	]	]	PUNCT	_	_	44	_	_	start_char=481|end_char=482
+46	там	там	ADV	_	Degree=Pos	45	_	_	start_char=483|end_char=486|SpaceAfter=No
+47	,	,	PUNCT	_	_	46	_	_	start_char=486|end_char=487
+48	а	а	CCONJ	_	_	47	_	_	start_char=488|end_char=489
+49	не	не	PART	_	_	48	_	_	start_char=490|end_char=492
+50	то	то	SCONJ	_	_	49	_	_	start_char=493|end_char=495
+51	эта	этот	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	50	_	_	start_char=496|end_char=499
+52	часть	часть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	51	_	_	start_char=500|end_char=505
+53	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	52	_	_	start_char=506|end_char=513
+54	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	53	_	_	start_char=514|end_char=519
+55	перестать	перестать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	54	_	_	start_char=520|end_char=529
+56	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	55	_	_	start_char=530|end_char=534
+57	частью	часть	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	56	_	_	start_char=535|end_char=541
+58	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	57	_	_	start_char=542|end_char=549|SpaceAfter=No
+59	,	,	PUNCT	_	_	58	_	_	start_char=549|end_char=550
+60	когда	когда	SCONJ	_	_	59	_	_	start_char=551|end_char=556
+61	все	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	60	_	_	start_char=557|end_char=560
+62	пойдет	пойти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	61	_	_	start_char=561|end_char=567
+63	наперекосяк	наперекосяк	ADV	_	Degree=Pos	62	_	_	start_char=568|end_char=579|SpaceAfter=No
+64	»	"	PUNCT	_	_	63	_	_	start_char=579|end_char=580|SpaceAfter=No
+65	,	,	PUNCT	_	_	64	_	_	start_char=580|end_char=581
+66	—	—	PUNCT	_	_	65	_	_	start_char=582|end_char=583
+67	отметил	отметить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	66	_	_	start_char=584|end_char=591
+68	эксперт	эксперт	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	67	_	_	start_char=592|end_char=599|SpaceAfter=No
+69	.	.	PUNCT	_	_	68	_	_	start_char=599|end_char=600
+
+# text = Экс-разведчик подчеркнул, что глава венгерского правительства намекнул Зеленскому, что если Киев не может позаботиться об этом народе, то это может сделать Будапешт .
+# sent_id = 3
+1	Экс-разведчик	экс-разведчик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=601|end_char=614
+2	подчеркнул	подчеркнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=615|end_char=625|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=625|end_char=626
+4	что	что	SCONJ	_	_	3	_	_	start_char=627|end_char=630
+5	глава	глава	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=631|end_char=636
+6	венгерского	венгерский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	5	_	_	start_char=637|end_char=648
+7	правительства	правительство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	_	_	start_char=649|end_char=662
+8	намекнул	намекнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	_	_	start_char=663|end_char=671
+9	Зеленскому	Зеленский	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	8	_	_	start_char=672|end_char=682|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=682|end_char=683
+11	что	что	SCONJ	_	_	10	_	_	start_char=684|end_char=687
+12	если	если	SCONJ	_	_	11	_	_	start_char=688|end_char=692
+13	Киев	Киев	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	_	_	start_char=693|end_char=697
+14	не	не	PART	_	_	13	_	_	start_char=698|end_char=700
+15	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	_	_	start_char=701|end_char=706
+16	позаботиться	заботиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	15	_	_	start_char=707|end_char=719
+17	об	о	ADP	_	_	16	_	_	start_char=720|end_char=722
+18	этом	этот	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Dem	17	_	_	start_char=723|end_char=727
+19	народе	народ	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	18	_	_	start_char=728|end_char=734|SpaceAfter=No
+20	,	,	PUNCT	_	_	19	_	_	start_char=734|end_char=735
+21	то	то	SCONJ	_	_	20	_	_	start_char=736|end_char=738
+22	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	21	_	_	start_char=739|end_char=742
+23	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	_	_	start_char=743|end_char=748
+24	сделать	делать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	23	_	_	start_char=749|end_char=756
+25	Будапешт	Будапешт	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	24	_	_	start_char=757|end_char=765
+26	.	.	PUNCT	_	_	25	_	_	start_char=766|end_char=767
+
+# text = Он выразил мнение, что внутриполитические проблемы в Евросоюзе позволяют Орбану диктовать Зеленскому свои условия.
+# sent_id = 4
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=768|end_char=770
+2	выразил	выразить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=771|end_char=778
+3	мнение	мнение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	_	_	start_char=779|end_char=785|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=785|end_char=786
+5	что	что	SCONJ	_	_	4	_	_	start_char=787|end_char=790
+6	внутриполитические	внутриполитический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	_	_	start_char=791|end_char=809
+7	проблемы	проблема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	6	_	_	start_char=810|end_char=818
+8	в	в	ADP	_	_	7	_	_	start_char=819|end_char=820
+9	Евросоюзе	Евросоюз	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	_	_	start_char=821|end_char=830
+10	позволяют	позволять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	_	_	start_char=831|end_char=840
+11	Орбану	Орбан	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	10	_	_	start_char=841|end_char=847
+12	диктовать	диктовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	11	_	_	start_char=848|end_char=857
+13	Зеленскому	Зеленский	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	12	_	_	start_char=858|end_char=868
+14	свои	свой	DET	_	Case=Acc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	13	_	_	start_char=869|end_char=873
+15	условия	условие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	14	_	_	start_char=874|end_char=881|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	_	_	start_char=881|end_char=882
+
+# text = Ранее Риттер на Россию.
+# sent_id = 5
+1	Ранее	ранее	ADV	_	Degree=Pos	0	_	_	start_char=883|end_char=888
+2	Риттер	Риттер	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=889|end_char=895
+3	на	на	ADP	_	_	2	_	_	start_char=896|end_char=898
+4	Россию	Россия	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	_	_	start_char=899|end_char=905|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	_	_	start_char=905|end_char=906
+
+# text = По его мнению, именно Вашингтон «уполномочил Киев нанести удар по Севастополю», используя при этом американское оружие.
+# sent_id = 6
+1	По	по	ADP	_	_	0	_	_	start_char=907|end_char=909
+2	его	его	DET	_	Poss=Yes|PronType=Prs	1	_	_	start_char=910|end_char=913
+3	мнению	мнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	2	_	_	start_char=914|end_char=920|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=920|end_char=921
+5	именно	именно	PART	_	_	4	_	_	start_char=922|end_char=928
+6	Вашингтон	Вашингтон	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	_	_	start_char=929|end_char=938
+7	«	"	PUNCT	_	_	6	_	_	start_char=939|end_char=940|SpaceAfter=No
+8	уполномочил	уполномочить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	_	_	start_char=940|end_char=951
+9	Киев	Киев	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	_	_	start_char=952|end_char=956
+10	нанести	нанести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	9	_	_	start_char=957|end_char=964
+11	удар	удар	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	_	_	start_char=965|end_char=969
+12	по	по	ADP	_	_	11	_	_	start_char=970|end_char=972
+13	Севастополю	Севастополь	PROPN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	12	_	_	start_char=973|end_char=984|SpaceAfter=No
+14	»	"	PUNCT	_	_	13	_	_	start_char=984|end_char=985|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=985|end_char=986
+16	используя	использовать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	15	_	_	start_char=987|end_char=996
+17	при	при	ADP	_	_	16	_	_	start_char=997|end_char=1000
+18	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	17	_	_	start_char=1001|end_char=1005
+19	американское	американский	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	18	_	_	start_char=1006|end_char=1018
+20	оружие	оружие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	19	_	_	start_char=1019|end_char=1025|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	_	_	start_char=1025|end_char=1026|SpaceAfter=No
+

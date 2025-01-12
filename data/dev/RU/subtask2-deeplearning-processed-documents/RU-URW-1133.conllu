@@ -1,0 +1,161 @@
+# text = РФ ударила ФАБами по промышленной зоне в Харькове.
+# sent_id = 0
+1	РФ	РФ	PROPN	_	Animacy=Inan|Gender=Fem|Number=Sing	0	_	_	start_char=0|end_char=2
+2	ударила	ударить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=3|end_char=10
+3	ФАБами	ФАБами	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	2	_	_	start_char=11|end_char=17
+4	по	по	ADP	_	_	3	_	_	start_char=18|end_char=20
+5	промышленной	промышленный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	4	_	_	start_char=21|end_char=33
+6	зоне	зона	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	5	_	_	start_char=34|end_char=38
+7	в	в	ADP	_	_	6	_	_	start_char=39|end_char=40
+8	Харькове	Харьков	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	_	_	start_char=41|end_char=49|SpaceAfter=No
+9	.	.	PUNCT	_	_	8	_	_	start_char=49|end_char=50
+
+# text = Войска РФ 2 июля около 16:00 ударили по промышленной зоне в Немышлянском и Индустриальном районах Харькова.
+# sent_id = 1
+1	Войска	войска	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	0	_	_	start_char=51|end_char=57
+2	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	_	_	start_char=58|end_char=60
+3	2	2	ADJ	_	_	2	_	_	start_char=61|end_char=62
+4	июля	июль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=63|end_char=67
+5	около	около	ADP	_	_	4	_	_	start_char=68|end_char=73
+6	16:	16:	NUM	_	NumType=Card	5	_	_	start_char=74|end_char=77|SpaceAfter=No
+7	00	00	NUM	_	NumType=Card	6	_	_	start_char=77|end_char=79
+8	ударили	ударить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	7	_	_	start_char=80|end_char=87
+9	по	по	ADP	_	_	8	_	_	start_char=88|end_char=90
+10	промышленной	промышленный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	9	_	_	start_char=91|end_char=103
+11	зоне	зона	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	10	_	_	start_char=104|end_char=108
+12	в	в	ADP	_	_	11	_	_	start_char=109|end_char=110
+13	Немышлянском	немышлянский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	12	_	_	start_char=111|end_char=123
+14	и	и	CCONJ	_	_	13	_	_	start_char=124|end_char=125
+15	Индустриальном	индустриальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	14	_	_	start_char=126|end_char=140
+16	районах	район	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	15	_	_	start_char=141|end_char=148
+17	Харькова	Харьков	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	_	_	start_char=149|end_char=157|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	_	_	start_char=157|end_char=158
+
+# text = Об этом сообщили в прокуратуре.
+# sent_id = 2
+1	Об	о	ADP	_	_	0	_	_	start_char=159|end_char=161
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=162|end_char=166
+3	сообщили	сообщить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=167|end_char=175
+4	в	в	ADP	_	_	3	_	_	start_char=176|end_char=177
+5	прокуратуре	прокуратура	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	_	_	start_char=178|end_char=189|SpaceAfter=No
+6	.	.	PUNCT	_	_	5	_	_	start_char=189|end_char=190
+
+# text = Повреждены здания предприятий.
+# sent_id = 3
+1	Повреждены	повредить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	_	_	start_char=191|end_char=201
+2	здания	здание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	1	_	_	start_char=202|end_char=208
+3	предприятий	предприятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	2	_	_	start_char=209|end_char=220|SpaceAfter=No
+4	.	.	PUNCT	_	_	3	_	_	start_char=220|end_char=221
+
+# text = По предварительным данным, россияне применили два ФАБ-500 с УМПК (500-килограмовая фугасная авиационная бомба с унифицированным модулем планирования и коррекции).
+# sent_id = 4
+1	По	по	ADP	_	_	0	_	_	start_char=222|end_char=224
+2	предварительным	предварительный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	1	_	_	start_char=225|end_char=240
+3	данным	данные	NOUN	_	Animacy=Inan|Case=Dat|Number=Plur	2	_	_	start_char=241|end_char=247|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=247|end_char=248
+5	россияне	россиянин	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	_	_	start_char=249|end_char=257
+6	применили	применить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	_	_	start_char=258|end_char=267
+7	два	два	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc|NumType=Card	6	_	_	start_char=268|end_char=271
+8	ФАБ	ФАБ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	_	_	start_char=272|end_char=275|SpaceAfter=No
+9	-	-	PUNCT	_	_	8	_	_	start_char=275|end_char=276|SpaceAfter=No
+10	500	500	NUM	_	NumType=Card	9	_	_	start_char=276|end_char=279
+11	с	с	ADP	_	_	10	_	_	start_char=280|end_char=281
+12	УМПК	УМПК	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	_	_	start_char=282|end_char=286
+13	(	(	PUNCT	_	_	12	_	_	start_char=287|end_char=288|SpaceAfter=No
+14	500-	500-	NUM	_	NumType=Card	13	_	_	start_char=288|end_char=292|SpaceAfter=No
+15	килограмовая	килограмовый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	14	_	_	start_char=292|end_char=304
+16	фугасная	фугасный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	15	_	_	start_char=305|end_char=313
+17	авиационная	авиационный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	16	_	_	start_char=314|end_char=325
+18	бомба	бомба	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	17	_	_	start_char=326|end_char=331
+19	с	с	ADP	_	_	18	_	_	start_char=332|end_char=333
+20	унифицированным	унифицировать	VERB	_	Aspect=Perf|Case=Ins|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	19	_	_	start_char=334|end_char=349
+21	модулем	модуль	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	20	_	_	start_char=350|end_char=357
+22	планирования	планирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	_	_	start_char=358|end_char=370
+23	и	и	CCONJ	_	_	22	_	_	start_char=371|end_char=372
+24	коррекции	коррекция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	_	_	start_char=373|end_char=382|SpaceAfter=No
+25	)	)	PUNCT	_	_	24	_	_	start_char=382|end_char=383|SpaceAfter=No
+26	.	.	PUNCT	_	_	25	_	_	start_char=383|end_char=384
+
+# text = Удар наносили с территории Белгородской области РФ.
+# sent_id = 5
+1	Удар	удар	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	0	_	_	start_char=385|end_char=389
+2	наносили	наносить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=390|end_char=398
+3	с	с	ADP	_	_	2	_	_	start_char=399|end_char=400
+4	территории	территория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	_	_	start_char=401|end_char=411
+5	Белгородской	Белгородский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	_	_	start_char=412|end_char=424
+6	области	область	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	_	_	start_char=425|end_char=432
+7	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	_	_	start_char=433|end_char=435|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	_	_	start_char=435|end_char=436
+
+# text = Пострадали четыре человека: 51-летняя сотрудница одного из предприятий (легкие телесные повреждения и острая реакция на стресс); 26-летняя женщина (ранение пальцев руки от стекла); 12-летняя девочка (контузия); 15-летний мальчик, брат пострадавшей девочки (контузия).
+# sent_id = 6
+1	Пострадали	страдать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	_	_	start_char=437|end_char=447
+2	четыре	четыре	NUM	_	Case=Nom|NumType=Card	1	_	_	start_char=448|end_char=454
+3	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	_	_	start_char=455|end_char=463|SpaceAfter=No
+4	:	:	PUNCT	_	_	3	_	_	start_char=463|end_char=464
+5	51-летняя	51-летний	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	_	_	start_char=465|end_char=474
+6	сотрудница	сотрудница	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	_	_	start_char=475|end_char=485
+7	одного	один	NUM	_	Case=Gen|Gender=Neut|NumType=Card	6	_	_	start_char=486|end_char=492
+8	из	из	ADP	_	_	7	_	_	start_char=493|end_char=495
+9	предприятий	предприятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	8	_	_	start_char=496|end_char=507
+10	(	(	PUNCT	_	_	9	_	_	start_char=508|end_char=509|SpaceAfter=No
+11	легкие	легкий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	10	_	_	start_char=509|end_char=515
+12	телесные	телесный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	11	_	_	start_char=516|end_char=524
+13	повреждения	повреждение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	12	_	_	start_char=525|end_char=536
+14	и	и	CCONJ	_	_	13	_	_	start_char=537|end_char=538
+15	острая	острый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	14	_	_	start_char=539|end_char=545
+16	реакция	реакция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	_	_	start_char=546|end_char=553
+17	на	на	ADP	_	_	16	_	_	start_char=554|end_char=556
+18	стресс	стресс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	17	_	_	start_char=557|end_char=563|SpaceAfter=No
+19	)	)	PUNCT	_	_	18	_	_	start_char=563|end_char=564|SpaceAfter=No
+20	;	;	PUNCT	_	_	19	_	_	start_char=564|end_char=565
+21	26-летняя	26-летний	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	20	_	_	start_char=566|end_char=575
+22	женщина	женщина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	21	_	_	start_char=576|end_char=583
+23	(	(	PUNCT	_	_	22	_	_	start_char=584|end_char=585|SpaceAfter=No
+24	ранение	ранение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	23	_	_	start_char=585|end_char=592
+25	пальцев	палец	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	24	_	_	start_char=593|end_char=600
+26	руки	рука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	_	_	start_char=601|end_char=605
+27	от	от	ADP	_	_	26	_	_	start_char=606|end_char=608
+28	стекла	стекло	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	27	_	_	start_char=609|end_char=615|SpaceAfter=No
+29	)	)	PUNCT	_	_	28	_	_	start_char=615|end_char=616|SpaceAfter=No
+30	;	;	PUNCT	_	_	29	_	_	start_char=616|end_char=617
+31	12-летняя	12-летний	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	30	_	_	start_char=618|end_char=627
+32	девочка	девочка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	31	_	_	start_char=628|end_char=635
+33	(	(	PUNCT	_	_	32	_	_	start_char=636|end_char=637|SpaceAfter=No
+34	контузия	контузия	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	33	_	_	start_char=637|end_char=645|SpaceAfter=No
+35	)	)	PUNCT	_	_	34	_	_	start_char=645|end_char=646|SpaceAfter=No
+36	;	;	PUNCT	_	_	35	_	_	start_char=646|end_char=647
+37	15-летний	15-летний	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	36	_	_	start_char=648|end_char=657
+38	мальчик	мальчик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	37	_	_	start_char=658|end_char=665|SpaceAfter=No
+39	,	,	PUNCT	_	_	38	_	_	start_char=665|end_char=666
+40	брат	брат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	39	_	_	start_char=667|end_char=671
+41	пострадавшей	пострадавшая	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	40	_	_	start_char=672|end_char=684
+42	девочки	девочка	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	41	_	_	start_char=685|end_char=692
+43	(	(	PUNCT	_	_	42	_	_	start_char=693|end_char=694|SpaceAfter=No
+44	контузия	контузия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	43	_	_	start_char=694|end_char=702|SpaceAfter=No
+45	)	)	PUNCT	_	_	44	_	_	start_char=702|end_char=703|SpaceAfter=No
+46	.	.	PUNCT	_	_	45	_	_	start_char=703|end_char=704
+
+# text = Правоохранители начали досудебное расследование по факту нарушения законов и обычаев войны (ч. 1 ст. 438 УК Украины).
+# sent_id = 7
+1	Правоохранители	правоохранитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	0	_	_	start_char=705|end_char=720
+2	начали	начать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=721|end_char=727
+3	досудебное	досудебный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	2	_	_	start_char=728|end_char=738
+4	расследование	расследование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	_	_	start_char=739|end_char=752
+5	по	по	ADP	_	_	4	_	_	start_char=753|end_char=755
+6	факту	факт	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	5	_	_	start_char=756|end_char=761
+7	нарушения	нарушение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	_	_	start_char=762|end_char=771
+8	законов	закон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	_	_	start_char=772|end_char=779
+9	и	и	CCONJ	_	_	8	_	_	start_char=780|end_char=781
+10	обычаев	обычай	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	_	_	start_char=782|end_char=789
+11	войны	война	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	_	_	start_char=790|end_char=795
+12	(	(	PUNCT	_	_	11	_	_	start_char=796|end_char=797|SpaceAfter=No
+13	ч.	час	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	_	_	start_char=797|end_char=799
+14	1	1	NUM	_	NumType=Card	13	_	_	start_char=800|end_char=801
+15	ст.	статья	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	_	_	start_char=802|end_char=805
+16	438	438	NUM	_	NumType=Card	15	_	_	start_char=806|end_char=809
+17	УК	ук	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	_	_	start_char=810|end_char=812
+18	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	_	_	start_char=813|end_char=820|SpaceAfter=No
+19	)	)	PUNCT	_	_	18	_	_	start_char=820|end_char=821|SpaceAfter=No
+20	.	.	PUNCT	_	_	19	_	_	start_char=821|end_char=822|SpaceAfter=No
+

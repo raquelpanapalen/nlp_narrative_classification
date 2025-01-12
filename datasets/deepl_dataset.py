@@ -10,7 +10,7 @@ from sklearn.model_selection import train_test_split
 from collections import Counter
 from sklearn.metrics import classification_report, accuracy_score
 from sklearn.preprocessing import MultiLabelBinarizer
-from transformers import BertTokenizer
+from transformers import BertTokenizer, AutoTokenizer
 
 """import skmultilearn
 import importlib
@@ -61,7 +61,11 @@ class DeepLNarrativeDataset(Dataset):
         - additional (optional): path to the additional translated train datasets
         """
         assert topic in ["CC", "UA"]
-        self.topic = topic
+        
+        # Handle topic mapping for special cases
+        topic_mapping = {"UA": "URW"}  # UA maps to URW for RU
+        self.original_topic = topic
+        self.topic = topic_mapping.get(topic, topic)  # Use mapped topic if available
         self.split = split
 
         main_data_path = Path(data_paths["main"])
@@ -74,24 +78,31 @@ class DeepLNarrativeDataset(Dataset):
             / main_data_path.name
             / "subtask2-deeplearning-processed-documents"
         )
-        self.dev_files = list(dev_set_path.glob(f"*{topic}*.conllu"))
+        
+        # Glob files for the topic, considering both the original and mapped topic names
+        self.dev_files = (
+            list(dev_set_path.glob(f"*{self.topic}*.conllu")) or 
+            list(dev_set_path.glob(f"*{self.original_topic}*.conllu"))
+        )
 
         # Define labels from JSON file
         narratives_path = main_data_path.parent / "labels" / "subtask2_narratives.json"
         with open(narratives_path, "r") as f:
-            self.label2index = json.load(f)[self.topic]
-
+            self.label2index = json.load(f).get(self.original_topic, {})
+        
         self.index2label = {i: label for label, i in self.label2index.items()}
+
+        # Read annotations, handling both the original and mapped topics
         main_annotations = self.read_annotations(main_annotation_path, main_files_path)
 
-        # Divide the dataset into train and validation sets (main dataset)
+        # Divide the dataset into train and validation sets
         self.train_annotations, self.val_annotations = train_test_split(
             main_annotations, test_size=val_split, random_state=42
         )
-        """labels = np.array([a["labels"] for a in main_annotations])
-        self.train_annotations, self.val_annotations = iterative_train_test_split(
-            main_annotations, labels, test_size=val_split
-        )"""
+
+        # Debug: Print dataset splits
+        #print(f"Number of training annotations: {len(self.train_annotations)}")
+        #print(f"Number of validation annotations: {len(self.val_annotations)}")
 
         labels = np.array(
             [annotation["labels"] for annotation in self.train_annotations]
@@ -130,7 +141,13 @@ class DeepLNarrativeDataset(Dataset):
                 if len(parts) == 3:
                     doc_name, labels, sublabels = parts
 
-                    if self.topic not in doc_name:
+                    # Handle cases for both the original topic and the mapped topic
+                    if (
+                        self.topic not in doc_name
+                        and self.original_topic not in labels
+                        and self.original_topic not in sublabels
+                    ):
+                    #    print(f"Skipping {doc_name} as it does not match topic {self.topic} or {self.original_topic}")
                         continue
 
                     labels = set(labels.split(";"))
@@ -364,6 +381,49 @@ class BERTDeepLNarrativeDataset(DeepLNarrativeDataset):
             )
             return encoding, doc_name
 
+class BERTRUDeepLNarrativeDataset(DeepLNarrativeDataset):
+    def __init__(self, data_paths, topic, split, val_split=0.1, max_length=512):
+        super().__init__(data_paths, topic, split, val_split, max_length)
+
+        self.tokenizer = AutoTokenizer.from_pretrained("DeepPavlov/rubert-base-cased")
+        self.max_length = max_length
+
+    def __getitem__(self, idx):
+        if self.split in ["train", "val"]:
+            annotation = (
+                self.train_annotations[idx]
+                if self.split == "train"
+                else self.val_annotations[idx]
+            )
+
+            text = self.get_conllu_data(annotation["doc_name"])
+            text = " ".join(text)
+
+            doc_name = f"{annotation['doc_name'].stem}.txt"
+            labels = annotation["labels"]
+
+            encoding = self.tokenizer(
+                text,
+                max_length=self.max_length,
+                truncation=True,
+                padding="max_length",
+                return_tensors="pt",
+            )
+            return encoding, labels, doc_name
+
+        else:
+            conllu_file = self.dev_files[idx]
+            text = self.get_conllu_data(conllu_file)
+            doc_name = f"{conllu_file.stem}.txt"
+
+            encoding = self.tokenizer(
+                text,
+                max_length=self.max_length,
+                truncation=True,
+                padding="max_length",
+                return_tensors="pt",
+            )
+            return encoding, doc_name
 
 def evaluate_baseline(y_true, y_pred, index2label):
     print("\nClassification Report:")

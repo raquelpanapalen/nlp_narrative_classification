@@ -1,0 +1,175 @@
+# text = ﻿Угнавший Т-64 танкист ВСУ получил гражданство России Бывший украинский военнослужащий Максим Лихачев, перешедший на сторону РФ на танке Т-64, получил паспорт гражданина Российской Федерации.
+# sent_id = 0
+1	﻿Угнавший	﻿угнуть	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	_	_	start_char=0|end_char=9
+2	Т-64	Т-64	PROPN	_	_	1	_	_	start_char=10|end_char=14
+3	танкист	танкист	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	_	_	start_char=15|end_char=22
+4	ВСУ	ВСУ	PROPN	_	Animacy=Inan|Gender=Masc|Number=Sing	3	_	_	start_char=23|end_char=26
+5	получил	получить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	_	_	start_char=27|end_char=34
+6	гражданство	гражданство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	_	_	start_char=35|end_char=46
+7	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	_	_	start_char=47|end_char=53
+8	Бывший	бывший	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	_	_	start_char=54|end_char=60
+9	украинский	украинский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	_	_	start_char=61|end_char=71
+10	военнослужащий	военнослужащий	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	_	_	start_char=72|end_char=86
+11	Максим	Максим	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	_	_	start_char=87|end_char=93
+12	Лихачев	Лихачев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	_	_	start_char=94|end_char=101|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=101|end_char=102
+14	перешедший	перейти	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	13	_	_	start_char=103|end_char=113
+15	на	на	ADP	_	_	14	_	_	start_char=114|end_char=116
+16	сторону	сторона	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	_	_	start_char=117|end_char=124
+17	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	_	_	start_char=125|end_char=127
+18	на	на	ADP	_	_	17	_	_	start_char=128|end_char=130
+19	танке	танк	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	18	_	_	start_char=131|end_char=136
+20	Т-64	Т-64	PROPN	_	Case=Gen|Number=Sing	19	_	_	start_char=137|end_char=141|SpaceAfter=No
+21	,	,	PUNCT	_	_	20	_	_	start_char=141|end_char=142
+22	получил	получить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	21	_	_	start_char=143|end_char=150
+23	паспорт	паспорт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	22	_	_	start_char=151|end_char=158
+24	гражданина	гражданин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	23	_	_	start_char=159|end_char=169
+25	Российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	24	_	_	start_char=170|end_char=180
+26	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	_	_	start_char=181|end_char=190|SpaceAfter=No
+27	.	.	PUNCT	_	_	26	_	_	start_char=190|end_char=191
+
+# text = Об этом ТАСС сообщили в силовых структурах ДНР.
+# sent_id = 1
+1	Об	о	ADP	_	_	0	_	_	start_char=192|end_char=194
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=195|end_char=199
+3	ТАСС	ТАСС	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	_	_	start_char=200|end_char=204
+4	сообщили	сообщить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	_	_	start_char=205|end_char=213
+5	в	в	ADP	_	_	4	_	_	start_char=214|end_char=215
+6	силовых	силовой	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	5	_	_	start_char=216|end_char=223
+7	структурах	структура	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	6	_	_	start_char=224|end_char=234
+8	ДНР	ДНР	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	_	_	start_char=235|end_char=238|SpaceAfter=No
+9	.	.	PUNCT	_	_	8	_	_	start_char=238|end_char=239
+
+# text = "Максим Лихачев получил российский паспорт и теперь является гражданином Российской Федерации", - сказал собеседник агентства.
+# sent_id = 2
+1	"	"	PUNCT	_	_	0	_	_	start_char=240|end_char=241|SpaceAfter=No
+2	Максим	Максим	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=241|end_char=247
+3	Лихачев	Лихачев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	_	_	start_char=248|end_char=255
+4	получил	получить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	_	_	start_char=256|end_char=263
+5	российский	российский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	4	_	_	start_char=264|end_char=274
+6	паспорт	паспорт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	_	_	start_char=275|end_char=282
+7	и	и	CCONJ	_	_	6	_	_	start_char=283|end_char=284
+8	теперь	теперь	ADV	_	Degree=Pos	7	_	_	start_char=285|end_char=291
+9	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	8	_	_	start_char=292|end_char=300
+10	гражданином	гражданин	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	9	_	_	start_char=301|end_char=312
+11	Российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	_	_	start_char=313|end_char=323
+12	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	_	_	start_char=324|end_char=333|SpaceAfter=No
+13	"	"	PUNCT	_	_	12	_	_	start_char=333|end_char=334|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	_	_	start_char=334|end_char=335
+15	-	-	PUNCT	_	_	14	_	_	start_char=336|end_char=337
+16	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	15	_	_	start_char=338|end_char=344
+17	собеседник	собеседник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	_	_	start_char=345|end_char=355
+18	агентства	агентство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	_	_	start_char=356|end_char=365|SpaceAfter=No
+19	.	.	PUNCT	_	_	18	_	_	start_char=365|end_char=366
+
+# text = Сам Лихачев в беседе с ТАСС подчеркнул, что с нетерпением ждал возможности получить "долгожданный документ" и дальше вести полноценный образ жизни, трудоустроиться.
+# sent_id = 3
+1	Сам	сам	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	_	_	start_char=367|end_char=370
+2	Лихачев	Лихачев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=371|end_char=378
+3	в	в	ADP	_	_	2	_	_	start_char=379|end_char=380
+4	беседе	беседа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	_	_	start_char=381|end_char=387
+5	с	с	ADP	_	_	4	_	_	start_char=388|end_char=389
+6	ТАСС	ТАСС	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	_	_	start_char=390|end_char=394
+7	подчеркнул	подчеркнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	_	_	start_char=395|end_char=405|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=405|end_char=406
+9	что	что	SCONJ	_	_	8	_	_	start_char=407|end_char=410
+10	с	с	ADP	_	_	9	_	_	start_char=411|end_char=412
+11	нетерпением	нетерпение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	10	_	_	start_char=413|end_char=424
+12	ждал	ждать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	_	_	start_char=425|end_char=429
+13	возможности	возможность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	_	_	start_char=430|end_char=441
+14	получить	получить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	13	_	_	start_char=442|end_char=450
+15	"	"	PUNCT	_	_	14	_	_	start_char=451|end_char=452|SpaceAfter=No
+16	долгожданный	долгожданный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	15	_	_	start_char=452|end_char=464
+17	документ	документ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	_	_	start_char=465|end_char=473|SpaceAfter=No
+18	"	"	PUNCT	_	_	17	_	_	start_char=473|end_char=474
+19	и	и	CCONJ	_	_	18	_	_	start_char=475|end_char=476
+20	дальше	далеко	ADV	_	Degree=Cmp	19	_	_	start_char=477|end_char=483
+21	вести	вести	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	20	_	_	start_char=484|end_char=489
+22	полноценный	полноценный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	21	_	_	start_char=490|end_char=501
+23	образ	образ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	22	_	_	start_char=502|end_char=507
+24	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	_	_	start_char=508|end_char=513|SpaceAfter=No
+25	,	,	PUNCT	_	_	24	_	_	start_char=513|end_char=514
+26	трудоустроиться	трудоустроиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	25	_	_	start_char=515|end_char=530|SpaceAfter=No
+27	.	.	PUNCT	_	_	26	_	_	start_char=530|end_char=531
+
+# text = "К этому я шел долгие годы.
+# sent_id = 4
+1	"	"	PUNCT	_	_	0	_	_	start_char=532|end_char=533|SpaceAfter=No
+2	К	к	ADP	_	_	1	_	_	start_char=533|end_char=534
+3	этому	это	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	2	_	_	start_char=535|end_char=540
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	_	_	start_char=541|end_char=542
+5	шел	идти	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	_	_	start_char=543|end_char=546
+6	долгие	долгий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	5	_	_	start_char=547|end_char=553
+7	годы	год	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	6	_	_	start_char=554|end_char=558|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	_	_	start_char=558|end_char=559
+
+# text = Очень волнительно и радостно понимать, что я стал частью общества свободной и сильной страны, где есть место помощи тем, кто в ней нуждается", - сказал Лихачев.
+# sent_id = 5
+1	Очень	очень	ADV	_	Degree=Pos	0	_	_	start_char=560|end_char=565
+2	волнительно	волнительный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	1	_	_	start_char=566|end_char=577
+3	и	и	CCONJ	_	_	2	_	_	start_char=578|end_char=579
+4	радостно	радостный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	3	_	_	start_char=580|end_char=588
+5	понимать	понимать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	_	_	start_char=589|end_char=597|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=597|end_char=598
+7	что	что	SCONJ	_	_	6	_	_	start_char=599|end_char=602
+8	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	_	_	start_char=603|end_char=604
+9	стал	стать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	8	_	_	start_char=605|end_char=609
+10	частью	часть	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	9	_	_	start_char=610|end_char=616
+11	общества	общество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	_	_	start_char=617|end_char=625
+12	свободной	свободный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	_	_	start_char=626|end_char=635
+13	и	и	CCONJ	_	_	12	_	_	start_char=636|end_char=637
+14	сильной	сильный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	_	_	start_char=638|end_char=645
+15	страны	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	_	_	start_char=646|end_char=652|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	_	_	start_char=652|end_char=653
+17	где	где	ADV	_	Degree=Pos	16	_	_	start_char=654|end_char=657
+18	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	_	_	start_char=658|end_char=662
+19	место	место	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	18	_	_	start_char=663|end_char=668
+20	помощи	помощь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	_	_	start_char=669|end_char=675
+21	тем	тот	DET	_	Case=Dat|Number=Plur|PronType=Dem	20	_	_	start_char=676|end_char=679|SpaceAfter=No
+22	,	,	PUNCT	_	_	21	_	_	start_char=679|end_char=680
+23	кто	кто	PRON	_	Case=Nom|PronType=Int,Rel	22	_	_	start_char=681|end_char=684
+24	в	в	ADP	_	_	23	_	_	start_char=685|end_char=686
+25	ней	она	PRON	_	Case=Loc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	24	_	_	start_char=687|end_char=690
+26	нуждается	нуждаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	25	_	_	start_char=691|end_char=700|SpaceAfter=No
+27	"	"	PUNCT	_	_	26	_	_	start_char=700|end_char=701|SpaceAfter=No
+28	,	,	PUNCT	_	_	27	_	_	start_char=701|end_char=702
+29	-	-	PUNCT	_	_	28	_	_	start_char=703|end_char=704
+30	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	29	_	_	start_char=705|end_char=711
+31	Лихачев	Лихачев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	30	_	_	start_char=712|end_char=719|SpaceAfter=No
+32	.	.	PUNCT	_	_	31	_	_	start_char=719|end_char=720
+
+# text = Лихачев сдался российским войскам в конце мая под Донецком, прибыв на указанное место на угнанном у ВСУ танке Т-64.
+# sent_id = 6
+1	Лихачев	Лихачев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=721|end_char=728
+2	сдался	сдаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	1	_	_	start_char=729|end_char=735
+3	российским	российский	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	2	_	_	start_char=736|end_char=746
+4	войскам	войска	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	3	_	_	start_char=747|end_char=754
+5	в	в	ADP	_	_	4	_	_	start_char=755|end_char=756
+6	конце	конец	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	_	_	start_char=757|end_char=762
+7	мая	май	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	_	_	start_char=763|end_char=766
+8	под	под	ADP	_	_	7	_	_	start_char=767|end_char=770
+9	Донецком	Донецк	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	8	_	_	start_char=771|end_char=779|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=779|end_char=780
+11	прибыв	прибыть	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	10	_	_	start_char=781|end_char=787
+12	на	на	ADP	_	_	11	_	_	start_char=788|end_char=790
+13	указанное	указать	VERB	_	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	12	_	_	start_char=791|end_char=800
+14	место	место	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	13	_	_	start_char=801|end_char=806
+15	на	на	ADP	_	_	14	_	_	start_char=807|end_char=809
+16	угнанном	угнать	VERB	_	Aspect=Perf|Case=Loc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	15	_	_	start_char=810|end_char=818
+17	у	у	ADP	_	_	16	_	_	start_char=819|end_char=820
+18	ВСУ	ВСУ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	_	_	start_char=821|end_char=824
+19	танке	танк	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	18	_	_	start_char=825|end_char=830
+20	Т-64	Т-64	PROPN	_	Number=Sing	19	_	_	start_char=831|end_char=835|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	_	_	start_char=835|end_char=836
+
+# text = Он уроженец города Краснодона Луганской Народной Республики.
+# sent_id = 7
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=837|end_char=839
+2	уроженец	уроженец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=840|end_char=848
+3	города	город	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	_	_	start_char=849|end_char=855
+4	Краснодона	Краснодон	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	_	_	start_char=856|end_char=866
+5	Луганской	луганский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	_	_	start_char=867|end_char=876
+6	Народной	народный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	_	_	start_char=877|end_char=885
+7	Республики	Республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	_	_	start_char=886|end_char=896|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	_	_	start_char=896|end_char=897|SpaceAfter=No
+

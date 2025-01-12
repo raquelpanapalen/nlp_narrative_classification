@@ -1,0 +1,251 @@
+# text = У Зеленского назвали "примитивнейшим" предложение Орбана по прекращению огня Накануне премьер-министр Венгрии Виктор Орбан попросил Владимира Зеленского рассмотреть возможность прекращения огня перед переговорами по урегулированию ситуации на Украине.
+# sent_id = 0
+1	У	у	ADP	_	_	0	_	_	start_char=0|end_char=1
+2	Зеленского	Зеленский	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	1	_	_	start_char=2|end_char=12
+3	назвали	назвать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=13|end_char=20
+4	"	"	PUNCT	_	_	3	_	_	start_char=21|end_char=22|SpaceAfter=No
+5	примитивнейшим	примитивный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	4	_	_	start_char=22|end_char=36|SpaceAfter=No
+6	"	"	PUNCT	_	_	5	_	_	start_char=36|end_char=37
+7	предложение	предложение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	_	_	start_char=38|end_char=49
+8	Орбана	Орбан	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	7	_	_	start_char=50|end_char=56
+9	по	по	ADP	_	_	8	_	_	start_char=57|end_char=59
+10	прекращению	прекращение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	9	_	_	start_char=60|end_char=71
+11	огня	огонь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	_	_	start_char=72|end_char=76
+12	Накануне	накануне	ADV	_	Degree=Pos	11	_	_	start_char=77|end_char=85
+13	премьер-министр	премьер-министр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	_	_	start_char=86|end_char=101
+14	Венгрии	Венгрия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	_	_	start_char=102|end_char=109
+15	Виктор	Виктор	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	_	_	start_char=110|end_char=116
+16	Орбан	Орбан	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	15	_	_	start_char=117|end_char=122
+17	попросил	просить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	16	_	_	start_char=123|end_char=131
+18	Владимира	Владимир	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	17	_	_	start_char=132|end_char=141
+19	Зеленского	Зеленский	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	18	_	_	start_char=142|end_char=152
+20	рассмотреть	рассмотреть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	19	_	_	start_char=153|end_char=164
+21	возможность	возможность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	20	_	_	start_char=165|end_char=176
+22	прекращения	прекращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	_	_	start_char=177|end_char=188
+23	огня	огонь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	22	_	_	start_char=189|end_char=193
+24	перед	перед	ADP	_	_	23	_	_	start_char=194|end_char=199
+25	переговорами	переговоры	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	24	_	_	start_char=200|end_char=212
+26	по	по	ADP	_	_	25	_	_	start_char=213|end_char=215
+27	урегулированию	урегулирование	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	26	_	_	start_char=216|end_char=230
+28	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	27	_	_	start_char=231|end_char=239
+29	на	на	ADP	_	_	28	_	_	start_char=240|end_char=242
+30	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	29	_	_	start_char=243|end_char=250|SpaceAfter=No
+31	.	.	PUNCT	_	_	30	_	_	start_char=250|end_char=251
+
+# text = "Крайне интересные предложения: Украина должна немедленно и в одностороннем порядке прекратить огонь (сарказм).
+# sent_id = 1
+1	"	"	PUNCT	_	_	0	_	_	start_char=252|end_char=253|SpaceAfter=No
+2	Крайне	крайне	ADV	_	Degree=Pos	1	_	_	start_char=253|end_char=259
+3	интересные	интересный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	_	_	start_char=260|end_char=270
+4	предложения	предложение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	3	_	_	start_char=271|end_char=282|SpaceAfter=No
+5	:	:	PUNCT	_	_	4	_	_	start_char=282|end_char=283
+6	Украина	Украина	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	_	_	start_char=284|end_char=291
+7	должна	должен	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	6	_	_	start_char=292|end_char=298
+8	немедленно	немедленно	ADV	_	Degree=Pos	7	_	_	start_char=299|end_char=309
+9	и	и	CCONJ	_	_	8	_	_	start_char=310|end_char=311
+10	в	в	ADP	_	_	9	_	_	start_char=312|end_char=313
+11	одностороннем	односторонний	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	10	_	_	start_char=314|end_char=327
+12	порядке	порядок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	11	_	_	start_char=328|end_char=335
+13	прекратить	прекратить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	12	_	_	start_char=336|end_char=346
+14	огонь	огонь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	_	_	start_char=347|end_char=352
+15	(	(	PUNCT	_	_	14	_	_	start_char=353|end_char=354|SpaceAfter=No
+16	сарказм	сарказм	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	_	_	start_char=354|end_char=361|SpaceAfter=No
+17	)	)	PUNCT	_	_	16	_	_	start_char=361|end_char=362|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	_	_	start_char=362|end_char=363
+
+# text = Особенно, конечно же, прекратить удары дальнобойными средствами (...).
+# sent_id = 2
+1	Особенно	особенно	ADV	_	Degree=Pos	0	_	_	start_char=364|end_char=372|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	_	_	start_char=372|end_char=373
+3	конечно	конечно	ADV	_	Degree=Pos	2	_	_	start_char=374|end_char=381
+4	же	же	PART	_	_	3	_	_	start_char=382|end_char=384|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=384|end_char=385
+6	прекратить	прекратить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	_	_	start_char=386|end_char=396
+7	удары	удар	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	6	_	_	start_char=397|end_char=402
+8	дальнобойными	дальнобойный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	7	_	_	start_char=403|end_char=416
+9	средствами	средство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	8	_	_	start_char=417|end_char=427
+10	(	(	PUNCT	_	_	9	_	_	start_char=428|end_char=429|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	_	_	start_char=429|end_char=430|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	_	_	start_char=430|end_char=431|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=431|end_char=432|SpaceAfter=No
+14	)	)	PUNCT	_	_	13	_	_	start_char=432|end_char=433|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	_	_	start_char=433|end_char=434
+
+# text = Проще простого.
+# sent_id = 3
+1	Проще	простой	ADJ	_	Degree=Cmp	0	_	_	start_char=435|end_char=440
+2	простого	простой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	1	_	_	start_char=441|end_char=449|SpaceAfter=No
+3	.	.	PUNCT	_	_	2	_	_	start_char=449|end_char=450
+
+# text = Россия буквально выпрашивает из-за странных посредников возвращение неформального решения о запрете... для Украины на оборонительные удары", – сказано в его телеграм-канале.
+# sent_id = 4
+1	Россия	Россия	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	_	_	start_char=451|end_char=457
+2	буквально	буквально	ADV	_	Degree=Pos	1	_	_	start_char=458|end_char=467
+3	выпрашивает	выпрашивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=468|end_char=479
+4	из-за	из-за	ADP	_	_	3	_	_	start_char=480|end_char=485
+5	странных	странный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	_	_	start_char=486|end_char=494
+6	посредников	посредник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	5	_	_	start_char=495|end_char=506
+7	возвращение	возвращение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	_	_	start_char=507|end_char=518
+8	неформального	неформальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	_	_	start_char=519|end_char=532
+9	решения	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	_	_	start_char=533|end_char=540
+10	о	о	ADP	_	_	9	_	_	start_char=541|end_char=542
+11	запрете	запрет	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	_	_	start_char=543|end_char=550|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	_	_	start_char=550|end_char=551|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=551|end_char=552|SpaceAfter=No
+14	.	.	PUNCT	_	_	13	_	_	start_char=552|end_char=553
+15	для	для	ADP	_	_	14	_	_	start_char=554|end_char=557
+16	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	_	_	start_char=558|end_char=565
+17	на	на	ADP	_	_	16	_	_	start_char=566|end_char=568
+18	оборонительные	оборонительный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	17	_	_	start_char=569|end_char=583
+19	удары	удар	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	18	_	_	start_char=584|end_char=589|SpaceAfter=No
+20	"	"	PUNCT	_	_	19	_	_	start_char=589|end_char=590|SpaceAfter=No
+21	,	,	PUNCT	_	_	20	_	_	start_char=590|end_char=591
+22	–	–	PUNCT	_	_	21	_	_	start_char=592|end_char=593
+23	сказано	сказать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	22	_	_	start_char=594|end_char=601
+24	в	в	ADP	_	_	23	_	_	start_char=602|end_char=603
+25	его	его	DET	_	Poss=Yes|PronType=Prs	24	_	_	start_char=604|end_char=607
+26	телеграм	телегр	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	25	_	_	start_char=608|end_char=616|SpaceAfter=No
+27	-	-	PUNCT	_	_	26	_	_	start_char=616|end_char=617|SpaceAfter=No
+28	канале	канал	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	27	_	_	start_char=617|end_char=623|SpaceAfter=No
+29	.	.	PUNCT	_	_	28	_	_	start_char=623|end_char=624
+
+# text = Так, российская армия продолжит атаковать военные объекты Украины, а ВСУ тем временем, будут соблюдать режим тишины - "еще проще и примитивнее", считает Подоляк.
+# sent_id = 5
+1	Так	так	ADV	_	Degree=Pos	0	_	_	start_char=625|end_char=628|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	_	_	start_char=628|end_char=629
+3	российская	российский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	_	_	start_char=630|end_char=640
+4	армия	армия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	_	_	start_char=641|end_char=646
+5	продолжит	продолжить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	4	_	_	start_char=647|end_char=656
+6	атаковать	атаковать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	_	_	start_char=657|end_char=666
+7	военные	военный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	6	_	_	start_char=667|end_char=674
+8	объекты	объект	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	_	_	start_char=675|end_char=682
+9	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	_	_	start_char=683|end_char=690|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=690|end_char=691
+11	а	а	CCONJ	_	_	10	_	_	start_char=692|end_char=693
+12	ВСУ	ВСУ	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	11	_	_	start_char=694|end_char=697
+13	тем	тот	DET	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	12	_	_	start_char=698|end_char=701
+14	временем	время	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	13	_	_	start_char=702|end_char=710|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=710|end_char=711
+16	будут	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	_	_	start_char=712|end_char=717
+17	соблюдать	соблюдать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	16	_	_	start_char=718|end_char=727
+18	режим	режим	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	17	_	_	start_char=728|end_char=733
+19	тишины	тишина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	_	_	start_char=734|end_char=740
+20	-	-	PUNCT	_	_	19	_	_	start_char=741|end_char=742
+21	"	"	PUNCT	_	_	20	_	_	start_char=743|end_char=744|SpaceAfter=No
+22	еще	еще	ADV	_	Degree=Pos	21	_	_	start_char=744|end_char=747
+23	проще	простой	ADJ	_	Degree=Cmp	22	_	_	start_char=748|end_char=753
+24	и	и	CCONJ	_	_	23	_	_	start_char=754|end_char=755
+25	примитивнее	примитивный	ADJ	_	Degree=Cmp	24	_	_	start_char=756|end_char=767|SpaceAfter=No
+26	"	"	PUNCT	_	_	25	_	_	start_char=767|end_char=768|SpaceAfter=No
+27	,	,	PUNCT	_	_	26	_	_	start_char=768|end_char=769
+28	считает	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	27	_	_	start_char=770|end_char=777
+29	Подоляк	Подоляк	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	28	_	_	start_char=778|end_char=785|SpaceAfter=No
+30	.	.	PUNCT	_	_	29	_	_	start_char=785|end_char=786
+
+# text = Он не верит, что такие предложения делаются всерьез и могут привести к завершению конфликта.
+# sent_id = 6
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=787|end_char=789
+2	не	не	PART	_	_	1	_	_	start_char=790|end_char=792
+3	верит	верить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=793|end_char=798|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=798|end_char=799
+5	что	что	SCONJ	_	_	4	_	_	start_char=800|end_char=803
+6	такие	такой	DET	_	Case=Nom|Number=Plur|PronType=Dem	5	_	_	start_char=804|end_char=809
+7	предложения	предложение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	6	_	_	start_char=810|end_char=821
+8	делаются	делать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	7	_	_	start_char=822|end_char=830
+9	всерьез	всерьез	ADV	_	Degree=Pos	8	_	_	start_char=831|end_char=838
+10	и	и	CCONJ	_	_	9	_	_	start_char=839|end_char=840
+11	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	_	_	start_char=841|end_char=846
+12	привести	привести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	11	_	_	start_char=847|end_char=855
+13	к	к	ADP	_	_	12	_	_	start_char=856|end_char=857
+14	завершению	завершение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	13	_	_	start_char=858|end_char=868
+15	конфликта	конфликт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	_	_	start_char=869|end_char=878|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	_	_	start_char=878|end_char=879
+
+# text = Ранее замглавы Офиса Зеленского Игорь Жовква заявил, что Киев будет добиваться урегулирования конфликта методами, отличными от предложения Виктора Орбана.
+# sent_id = 7
+1	Ранее	ранее	ADV	_	Degree=Pos	0	_	_	start_char=880|end_char=885
+2	замглавы	замглавы	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=886|end_char=894
+3	Офиса	офис	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	_	_	start_char=895|end_char=900
+4	Зеленского	Зеленский	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=901|end_char=911
+5	Игорь	Игорь	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=912|end_char=917
+6	Жовква	Жовква	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	_	_	start_char=918|end_char=924
+7	заявил	заявить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	_	_	start_char=925|end_char=931|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=931|end_char=932
+9	что	что	SCONJ	_	_	8	_	_	start_char=933|end_char=936
+10	Киев	Киев	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	_	_	start_char=937|end_char=941
+11	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	_	_	start_char=942|end_char=947
+12	добиваться	добиваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	11	_	_	start_char=948|end_char=958
+13	урегулирования	урегулирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	_	_	start_char=959|end_char=973
+14	конфликта	конфликт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	_	_	start_char=974|end_char=983
+15	методами	метод	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	14	_	_	start_char=984|end_char=992|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	_	_	start_char=992|end_char=993
+17	отличными	отличный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	16	_	_	start_char=994|end_char=1003
+18	от	от	ADP	_	_	17	_	_	start_char=1004|end_char=1006
+19	предложения	предложение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	_	_	start_char=1007|end_char=1018
+20	Виктора	Виктор	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	19	_	_	start_char=1019|end_char=1026
+21	Орбана	Орбан	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	20	_	_	start_char=1027|end_char=1033|SpaceAfter=No
+22	.	.	PUNCT	_	_	21	_	_	start_char=1033|end_char=1034
+
+# text = Официальный представитель МИД РФ Мария Захарова назвала такую реакцию ожидаемой, так как США избрали Украину своим инструментом, а "инструмент сам не определяет, что ему делать и как ему быть".
+# sent_id = 8
+1	Официальный	официальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	_	_	start_char=1035|end_char=1046
+2	представитель	представитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=1047|end_char=1060
+3	МИД	МИД	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	_	_	start_char=1061|end_char=1064
+4	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	_	_	start_char=1065|end_char=1067
+5	Мария	Мария	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	4	_	_	start_char=1068|end_char=1073
+6	Захарова	Захарова	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	_	_	start_char=1074|end_char=1082
+7	назвала	назвать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	_	_	start_char=1083|end_char=1090
+8	такую	такой	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	7	_	_	start_char=1091|end_char=1096
+9	реакцию	реакция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	_	_	start_char=1097|end_char=1104
+10	ожидаемой	ожидать	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	9	_	_	start_char=1105|end_char=1114|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=1114|end_char=1115
+12	так	так	ADV	_	Degree=Pos	11	_	_	start_char=1116|end_char=1119
+13	как	как	SCONJ	_	_	12	_	_	start_char=1120|end_char=1123
+14	США	США	PROPN	_	Number=Plur	13	_	_	start_char=1124|end_char=1127
+15	избрали	избрать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	14	_	_	start_char=1128|end_char=1135
+16	Украину	Украина	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	_	_	start_char=1136|end_char=1143
+17	своим	свой	DET	_	Case=Ins|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	16	_	_	start_char=1144|end_char=1149
+18	инструментом	инструмент	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	17	_	_	start_char=1150|end_char=1162|SpaceAfter=No
+19	,	,	PUNCT	_	_	18	_	_	start_char=1162|end_char=1163
+20	а	а	CCONJ	_	_	19	_	_	start_char=1164|end_char=1165
+21	"	"	PUNCT	_	_	20	_	_	start_char=1166|end_char=1167|SpaceAfter=No
+22	инструмент	инструмент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	21	_	_	start_char=1167|end_char=1177
+23	сам	сам	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	22	_	_	start_char=1178|end_char=1181
+24	не	не	PART	_	_	23	_	_	start_char=1182|end_char=1184
+25	определяет	определять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	_	_	start_char=1185|end_char=1195|SpaceAfter=No
+26	,	,	PUNCT	_	_	25	_	_	start_char=1195|end_char=1196
+27	что	что	PRON	_	Case=Acc|PronType=Int,Rel	26	_	_	start_char=1197|end_char=1200
+28	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	_	_	start_char=1201|end_char=1204
+29	делать	делать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	28	_	_	start_char=1205|end_char=1211
+30	и	и	CCONJ	_	_	29	_	_	start_char=1212|end_char=1213
+31	как	как	ADV	_	Degree=Pos	30	_	_	start_char=1214|end_char=1217
+32	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	31	_	_	start_char=1218|end_char=1221
+33	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	32	_	_	start_char=1222|end_char=1226|SpaceAfter=No
+34	"	"	PUNCT	_	_	33	_	_	start_char=1226|end_char=1227|SpaceAfter=No
+35	.	.	PUNCT	_	_	34	_	_	start_char=1227|end_char=1228
+
+# text = Как Орбан приручает Зеленского по заданию ЕС, но с оглядкой на Россию читайте в материале обозревателя издания Украина.ру Владимира Скачко.
+# sent_id = 9
+1	Как	как	SCONJ	_	_	0	_	_	start_char=1229|end_char=1232
+2	Орбан	Орбан	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=1233|end_char=1238
+3	приручает	приручать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	2	_	_	start_char=1239|end_char=1248
+4	Зеленского	Зеленский	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	3	_	_	start_char=1249|end_char=1259
+5	по	по	ADP	_	_	4	_	_	start_char=1260|end_char=1262
+6	заданию	задание	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	5	_	_	start_char=1263|end_char=1270
+7	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	_	_	start_char=1271|end_char=1273|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=1273|end_char=1274
+9	но	но	CCONJ	_	_	8	_	_	start_char=1275|end_char=1277
+10	с	с	ADP	_	_	9	_	_	start_char=1278|end_char=1279
+11	оглядкой	оглядка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	10	_	_	start_char=1280|end_char=1288
+12	на	на	ADP	_	_	11	_	_	start_char=1289|end_char=1291
+13	Россию	Россия	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	_	_	start_char=1292|end_char=1298
+14	читайте	читать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	13	_	_	start_char=1299|end_char=1306
+15	в	в	ADP	_	_	14	_	_	start_char=1307|end_char=1308
+16	материале	материал	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	_	_	start_char=1309|end_char=1318
+17	обозревателя	обозреватель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	16	_	_	start_char=1319|end_char=1331
+18	издания	издание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	_	_	start_char=1332|end_char=1339
+19	Украина.ру	Украина.р	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	_	_	start_char=1340|end_char=1350
+20	Владимира	Владимир	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	19	_	_	start_char=1351|end_char=1360
+21	Скачко	Скачко	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	20	_	_	start_char=1361|end_char=1367|SpaceAfter=No
+22	.	.	PUNCT	_	_	21	_	_	start_char=1367|end_char=1368|SpaceAfter=No
+

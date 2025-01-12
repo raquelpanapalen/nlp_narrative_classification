@@ -1,0 +1,707 @@
+# text = В ЕС испугались последствий популярности правых партий во Франции "Pravda.Ru публикует перевод материала ECFR.
+# sent_id = 0
+1	В	в	ADP	_	_	0	_	_	start_char=0|end_char=1
+2	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	_	_	start_char=2|end_char=4
+3	испугались	испугаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	2	_	_	start_char=5|end_char=15
+4	последствий	последствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	3	_	_	start_char=16|end_char=27
+5	популярности	популярность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	_	_	start_char=28|end_char=40
+6	правых	правый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	_	_	start_char=41|end_char=47
+7	партий	партия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	_	_	start_char=48|end_char=54
+8	во	в	ADP	_	_	7	_	_	start_char=55|end_char=57
+9	Франции	Франция	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	_	_	start_char=58|end_char=65
+10	"	"	PUNCT	_	_	9	_	_	start_char=66|end_char=67|SpaceAfter=No
+11	Pravda.Ru	Pravda.Ru	PROPN	_	Foreign=Yes	10	_	_	start_char=67|end_char=76
+12	публикует	публиковать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	_	_	start_char=77|end_char=86
+13	перевод	перевод	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	_	_	start_char=87|end_char=94
+14	материала	материал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	_	_	start_char=95|end_char=104
+15	ECFR	ECFR	PROPN	_	Foreign=Yes	14	_	_	start_char=105|end_char=109|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	_	_	start_char=109|end_char=110
+
+# text = Мнение автора может не совпадать с мнением редакции.
+# sent_id = 1
+1	Мнение	мнение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	_	_	start_char=111|end_char=117
+2	автора	автор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	1	_	_	start_char=118|end_char=124
+3	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=125|end_char=130
+4	не	не	PART	_	_	3	_	_	start_char=131|end_char=133
+5	совпадать	совпадать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	_	_	start_char=134|end_char=143
+6	с	с	ADP	_	_	5	_	_	start_char=144|end_char=145
+7	мнением	мнение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	6	_	_	start_char=146|end_char=153
+8	редакции	редакция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	_	_	start_char=154|end_char=162|SpaceAfter=No
+9	.	.	PUNCT	_	_	8	_	_	start_char=162|end_char=163
+
+# text = Франция находится на пороге серьезного политического сдвига, поскольку избиратели направляются на избирательные участки для участия во втором туре досрочных выборов в Национальное собрание.
+# sent_id = 2
+1	Франция	Франция	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	_	_	start_char=164|end_char=171
+2	находится	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	1	_	_	start_char=172|end_char=181
+3	на	на	ADP	_	_	2	_	_	start_char=182|end_char=184
+4	пороге	порог	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	_	_	start_char=185|end_char=191
+5	серьезного	серьезный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	_	_	start_char=192|end_char=202
+6	политического	политический	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	5	_	_	start_char=203|end_char=216
+7	сдвига	сдвиг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	_	_	start_char=217|end_char=223|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=223|end_char=224
+9	поскольку	поскольку	SCONJ	_	_	8	_	_	start_char=225|end_char=234
+10	избиратели	избиратель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	9	_	_	start_char=235|end_char=245
+11	направляются	направлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	10	_	_	start_char=246|end_char=258
+12	на	на	ADP	_	_	11	_	_	start_char=259|end_char=261
+13	избирательные	избирательный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	12	_	_	start_char=262|end_char=275
+14	участки	участок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	13	_	_	start_char=276|end_char=283
+15	для	для	ADP	_	_	14	_	_	start_char=284|end_char=287
+16	участия	участие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	_	_	start_char=288|end_char=295
+17	во	в	ADP	_	_	16	_	_	start_char=296|end_char=298
+18	втором	второй	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	17	_	_	start_char=299|end_char=305
+19	туре	тур	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	18	_	_	start_char=306|end_char=310
+20	досрочных	досрочный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	19	_	_	start_char=311|end_char=320
+21	выборов	выборы	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	20	_	_	start_char=321|end_char=328
+22	в	в	ADP	_	_	21	_	_	start_char=329|end_char=330
+23	Национальное	национальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	22	_	_	start_char=331|end_char=343
+24	собрание	собрание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	23	_	_	start_char=344|end_char=352|SpaceAfter=No
+25	.	.	PUNCT	_	_	24	_	_	start_char=352|end_char=353
+
+# text = Ультраправое ""Национальное объединение"" лидирует в опросах общественного мнения и может получить почти или абсолютное большинство в ассамблее, сделав своего лидера Жордана Барделлу премьер-министром в сотрудничестве с президентом Эммануэлем Макроном.
+# sent_id = 3
+1	Ультраправое	ультраправый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	_	_	start_char=354|end_char=366
+2	"	"	PUNCT	_	_	1	_	_	start_char=367|end_char=368|SpaceAfter=No
+3	"	"	PUNCT	_	_	2	_	_	start_char=368|end_char=369|SpaceAfter=No
+4	Национальное	национальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	_	_	start_char=369|end_char=381
+5	объединение	объединение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	_	_	start_char=382|end_char=393|SpaceAfter=No
+6	"	"	PUNCT	_	_	5	_	_	start_char=393|end_char=394|SpaceAfter=No
+7	"	"	PUNCT	_	_	6	_	_	start_char=394|end_char=395
+8	лидирует	лидировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	_	_	start_char=396|end_char=404
+9	в	в	ADP	_	_	8	_	_	start_char=405|end_char=406
+10	опросах	опрос	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	9	_	_	start_char=407|end_char=414
+11	общественного	общественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	10	_	_	start_char=415|end_char=428
+12	мнения	мнение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	_	_	start_char=429|end_char=435
+13	и	и	CCONJ	_	_	12	_	_	start_char=436|end_char=437
+14	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	_	_	start_char=438|end_char=443
+15	получить	получить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	14	_	_	start_char=444|end_char=452
+16	почти	почти	ADV	_	Degree=Pos	15	_	_	start_char=453|end_char=458
+17	или	или	CCONJ	_	_	16	_	_	start_char=459|end_char=462
+18	абсолютное	абсолютный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	17	_	_	start_char=463|end_char=473
+19	большинство	большинство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	18	_	_	start_char=474|end_char=485
+20	в	в	ADP	_	_	19	_	_	start_char=486|end_char=487
+21	ассамблее	ассамблея	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	20	_	_	start_char=488|end_char=497|SpaceAfter=No
+22	,	,	PUNCT	_	_	21	_	_	start_char=497|end_char=498
+23	сделав	делать	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	22	_	_	start_char=499|end_char=505
+24	своего	свой	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	23	_	_	start_char=506|end_char=512
+25	лидера	лидер	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	24	_	_	start_char=513|end_char=519
+26	Жордана	Жордан	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	25	_	_	start_char=520|end_char=527
+27	Барделлу	Барделла	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	26	_	_	start_char=528|end_char=536
+28	премьер-министром	премьер-министр	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	27	_	_	start_char=537|end_char=554
+29	в	в	ADP	_	_	28	_	_	start_char=555|end_char=556
+30	сотрудничестве	сотрудничество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	29	_	_	start_char=557|end_char=571
+31	с	с	ADP	_	_	30	_	_	start_char=572|end_char=573
+32	президентом	президент	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	31	_	_	start_char=574|end_char=585
+33	Эммануэлем	Эммануэль	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	32	_	_	start_char=586|end_char=596
+34	Макроном	Макрон	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	33	_	_	start_char=597|end_char=605|SpaceAfter=No
+35	.	.	PUNCT	_	_	34	_	_	start_char=605|end_char=606
+
+# text = В качестве альтернативы, она могла бы стать крупнейшей парламентской группой, хотя и без большинства, в результате чего Макрон возглавил бы правительство меньшинства.
+# sent_id = 4
+1	В	в	ADP	_	_	0	_	_	start_char=607|end_char=608
+2	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1	_	_	start_char=609|end_char=617
+3	альтернативы	альтернатива	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	_	_	start_char=618|end_char=630|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=630|end_char=631
+5	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	_	_	start_char=632|end_char=635
+6	могла	мочь	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	_	_	start_char=636|end_char=641
+7	бы	бы	AUX	_	_	6	_	_	start_char=642|end_char=644
+8	стать	стать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	7	_	_	start_char=645|end_char=650
+9	крупнейшей	крупный	ADJ	_	Case=Ins|Degree=Sup|Gender=Fem|Number=Sing	8	_	_	start_char=651|end_char=661
+10	парламентской	парламентский	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	9	_	_	start_char=662|end_char=675
+11	группой	группа	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	10	_	_	start_char=676|end_char=683|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	_	_	start_char=683|end_char=684
+13	хотя	хотя	SCONJ	_	_	12	_	_	start_char=685|end_char=689
+14	и	и	PART	_	_	13	_	_	start_char=690|end_char=691
+15	без	без	ADP	_	_	14	_	_	start_char=692|end_char=695
+16	большинства	большинство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	_	_	start_char=696|end_char=707|SpaceAfter=No
+17	,	,	PUNCT	_	_	16	_	_	start_char=707|end_char=708
+18	в	в	ADP	_	_	17	_	_	start_char=709|end_char=710
+19	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	18	_	_	start_char=711|end_char=721
+20	чего	что	PRON	_	Case=Gen|PronType=Int,Rel	19	_	_	start_char=722|end_char=726
+21	Макрон	Макрон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	20	_	_	start_char=727|end_char=733
+22	возглавил	возглавить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	21	_	_	start_char=734|end_char=743
+23	бы	бы	AUX	_	_	22	_	_	start_char=744|end_char=746
+24	правительство	правительство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	23	_	_	start_char=747|end_char=760
+25	меньшинства	меньшинство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	_	_	start_char=761|end_char=772|SpaceAfter=No
+26	.	.	PUNCT	_	_	25	_	_	start_char=772|end_char=773
+
+# text = Любой из этих исходов будет иметь серьезные последствия для внутренней и внешней политики Франции.
+# sent_id = 5
+1	Любой	любой	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	0	_	_	start_char=774|end_char=779
+2	из	из	ADP	_	_	1	_	_	start_char=780|end_char=782
+3	этих	этот	DET	_	Case=Gen|Number=Plur|PronType=Dem	2	_	_	start_char=783|end_char=787
+4	исходов	исход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	_	_	start_char=788|end_char=795
+5	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	_	_	start_char=796|end_char=801
+6	иметь	иметь	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	_	_	start_char=802|end_char=807
+7	серьезные	серьезный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	6	_	_	start_char=808|end_char=817
+8	последствия	последствие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	7	_	_	start_char=818|end_char=829
+9	для	для	ADP	_	_	8	_	_	start_char=830|end_char=833
+10	внутренней	внутренний	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	_	_	start_char=834|end_char=844
+11	и	и	CCONJ	_	_	10	_	_	start_char=845|end_char=846
+12	внешней	внешний	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	_	_	start_char=847|end_char=854
+13	политики	политика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	_	_	start_char=855|end_char=863
+14	Франции	Франция	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	_	_	start_char=864|end_char=871|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	_	_	start_char=871|end_char=872
+
+# text = После голосования.
+# sent_id = 6
+1	После	после	ADP	_	_	0	_	_	start_char=873|end_char=878
+2	голосования	голосование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	_	_	start_char=879|end_char=890|SpaceAfter=No
+3	.	.	PUNCT	_	_	2	_	_	start_char=890|end_char=891
+
+# text = В правительстве меньшинства Макрон сохранит лидерство во внешней политике, но, вероятно, столкнется с частыми законодательными тупиками.
+# sent_id = 7
+1	В	в	ADP	_	_	0	_	_	start_char=892|end_char=893
+2	правительстве	правительство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1	_	_	start_char=894|end_char=907
+3	меньшинства	меньшинство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	_	_	start_char=908|end_char=919
+4	Макрон	Макрон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	_	_	start_char=920|end_char=926
+5	сохранит	сохранить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	4	_	_	start_char=927|end_char=935
+6	лидерство	лидерство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	_	_	start_char=936|end_char=945
+7	во	в	ADP	_	_	6	_	_	start_char=946|end_char=948
+8	внешней	внешний	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	7	_	_	start_char=949|end_char=956
+9	политике	политика	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	_	_	start_char=957|end_char=965|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=965|end_char=966
+11	но	но	CCONJ	_	_	10	_	_	start_char=967|end_char=969|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	_	_	start_char=969|end_char=970
+13	вероятно	вероятно	ADV	_	Degree=Pos	12	_	_	start_char=971|end_char=979|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	_	_	start_char=979|end_char=980
+15	столкнется	столкнуться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	14	_	_	start_char=981|end_char=991
+16	с	с	ADP	_	_	15	_	_	start_char=992|end_char=993
+17	частыми	частый	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	16	_	_	start_char=994|end_char=1001
+18	законодательными	законодательный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	17	_	_	start_char=1002|end_char=1018
+19	тупиками	тупик	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	18	_	_	start_char=1019|end_char=1027|SpaceAfter=No
+20	.	.	PUNCT	_	_	19	_	_	start_char=1027|end_char=1028
+
+# text = Это сузило бы его поле для маневра, помешало бы эффективному управлению и ослабило бы голос Франции на европейской и международной арене.
+# sent_id = 8
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	_	_	start_char=1029|end_char=1032
+2	сузило	сузить	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=1033|end_char=1039
+3	бы	бы	AUX	_	_	2	_	_	start_char=1040|end_char=1042
+4	его	его	DET	_	Poss=Yes|PronType=Prs	3	_	_	start_char=1043|end_char=1046
+5	поле	поле	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	_	_	start_char=1047|end_char=1051
+6	для	для	ADP	_	_	5	_	_	start_char=1052|end_char=1055
+7	маневра	маневр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	_	_	start_char=1056|end_char=1063|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=1063|end_char=1064
+9	помешало	мешать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	_	_	start_char=1065|end_char=1073
+10	бы	бы	AUX	_	_	9	_	_	start_char=1074|end_char=1076
+11	эффективному	эффективный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	10	_	_	start_char=1077|end_char=1089
+12	управлению	управление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	11	_	_	start_char=1090|end_char=1100
+13	и	и	CCONJ	_	_	12	_	_	start_char=1101|end_char=1102
+14	ослабило	ослабить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	_	_	start_char=1103|end_char=1111
+15	бы	бы	AUX	_	_	14	_	_	start_char=1112|end_char=1114
+16	голос	голос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	_	_	start_char=1115|end_char=1120
+17	Франции	Франция	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	_	_	start_char=1121|end_char=1128
+18	на	на	ADP	_	_	17	_	_	start_char=1129|end_char=1131
+19	европейской	европейский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	18	_	_	start_char=1132|end_char=1143
+20	и	и	CCONJ	_	_	19	_	_	start_char=1144|end_char=1145
+21	международной	международный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	20	_	_	start_char=1146|end_char=1159
+22	арене	арена	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	21	_	_	start_char=1160|end_char=1165|SpaceAfter=No
+23	.	.	PUNCT	_	_	22	_	_	start_char=1165|end_char=1166
+
+# text = При совместном правлении Макрон по-прежнему сохранил бы за собой несколько ключевых полномочий, в том числе в качестве главнокомандующего вооруженными силами, а также в ведении переговоров и ратификации международных договоров.
+# sent_id = 9
+1	При	при	ADP	_	_	0	_	_	start_char=1167|end_char=1170
+2	совместном	совместный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	1	_	_	start_char=1171|end_char=1181
+3	правлении	правление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	2	_	_	start_char=1182|end_char=1191
+4	Макрон	Макрон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	_	_	start_char=1192|end_char=1198
+5	по-прежнему	по-прежнему	ADV	_	Degree=Pos	4	_	_	start_char=1199|end_char=1210
+6	сохранил	сохранить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	_	_	start_char=1211|end_char=1219
+7	бы	бы	AUX	_	_	6	_	_	start_char=1220|end_char=1222
+8	за	за	ADP	_	_	7	_	_	start_char=1223|end_char=1225
+9	собой	себя	PRON	_	Case=Ins|PronType=Prs|Reflex=Yes	8	_	_	start_char=1226|end_char=1231
+10	несколько	несколько	NUM	_	Animacy=Inan|Case=Acc|NumType=Card	9	_	_	start_char=1232|end_char=1241
+11	ключевых	ключевой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	_	_	start_char=1242|end_char=1250
+12	полномочий	полномочие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	11	_	_	start_char=1251|end_char=1261|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=1261|end_char=1262
+14	в	в	ADP	_	_	13	_	_	start_char=1263|end_char=1264
+15	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	14	_	_	start_char=1265|end_char=1268
+16	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	15	_	_	start_char=1269|end_char=1274
+17	в	в	ADP	_	_	16	_	_	start_char=1275|end_char=1276
+18	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	17	_	_	start_char=1277|end_char=1285
+19	главнокомандующего	главнокомандующий	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	18	_	_	start_char=1286|end_char=1304
+20	вооруженными	вооружить	VERB	_	Aspect=Perf|Case=Ins|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	19	_	_	start_char=1305|end_char=1317
+21	силами	сила	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	20	_	_	start_char=1318|end_char=1324|SpaceAfter=No
+22	,	,	PUNCT	_	_	21	_	_	start_char=1324|end_char=1325
+23	а	а	CCONJ	_	_	22	_	_	start_char=1326|end_char=1327
+24	также	также	PART	_	_	23	_	_	start_char=1328|end_char=1333
+25	в	в	ADP	_	_	24	_	_	start_char=1334|end_char=1335
+26	ведении	ведение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	25	_	_	start_char=1336|end_char=1343
+27	переговоров	переговоры	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	26	_	_	start_char=1344|end_char=1355
+28	и	и	CCONJ	_	_	27	_	_	start_char=1356|end_char=1357
+29	ратификации	ратификация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	28	_	_	start_char=1358|end_char=1369
+30	международных	международный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	29	_	_	start_char=1370|end_char=1383
+31	договоров	договор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	30	_	_	start_char=1384|end_char=1393|SpaceAfter=No
+32	.	.	PUNCT	_	_	31	_	_	start_char=1393|end_char=1394
+
+# text = Однако премьер-министр будет отвечать за национальную оборону, а также за контроль над бюджетом и администрацией.
+# sent_id = 10
+1	Однако	однако	ADV	_	Degree=Pos	0	_	_	start_char=1395|end_char=1401
+2	премьер-министр	премьер-министр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=1402|end_char=1417
+3	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=1418|end_char=1423
+4	отвечать	отвечать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	_	_	start_char=1424|end_char=1432
+5	за	за	ADP	_	_	4	_	_	start_char=1433|end_char=1435
+6	национальную	национальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	5	_	_	start_char=1436|end_char=1448
+7	оборону	оборона	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	_	_	start_char=1449|end_char=1456|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=1456|end_char=1457
+9	а	а	CCONJ	_	_	8	_	_	start_char=1458|end_char=1459
+10	также	также	PART	_	_	9	_	_	start_char=1460|end_char=1465
+11	за	за	ADP	_	_	10	_	_	start_char=1466|end_char=1468
+12	контроль	контроль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	_	_	start_char=1469|end_char=1477
+13	над	над	ADP	_	_	12	_	_	start_char=1478|end_char=1481
+14	бюджетом	бюджет	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	13	_	_	start_char=1482|end_char=1490
+15	и	и	CCONJ	_	_	14	_	_	start_char=1491|end_char=1492
+16	администрацией	администрация	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	15	_	_	start_char=1493|end_char=1507|SpaceAfter=No
+17	.	.	PUNCT	_	_	16	_	_	start_char=1507|end_char=1508
+
+# text = В то время как в предыдущих правительствах Франции, где царило сосуществование, президент сохранял жесткий контроль над внешней и оборонной политикой, радикальная позиция Национального правительства может бросить вызов этой традиции, что приведет к фрагментации или непоследовательности внешней политики и трениям в ее реализации.
+# sent_id = 11
+1	В	в	ADP	_	_	0	_	_	start_char=1509|end_char=1510
+2	то	тот	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=1511|end_char=1513
+3	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	_	_	start_char=1514|end_char=1519
+4	как	как	SCONJ	_	_	3	_	_	start_char=1520|end_char=1523
+5	в	в	ADP	_	_	4	_	_	start_char=1524|end_char=1525
+6	предыдущих	предыдущий	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	5	_	_	start_char=1526|end_char=1536
+7	правительствах	правительство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	6	_	_	start_char=1537|end_char=1551
+8	Франции	Франция	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	_	_	start_char=1552|end_char=1559|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=1559|end_char=1560
+10	где	где	ADV	_	Degree=Pos	9	_	_	start_char=1561|end_char=1564
+11	царило	царить	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	_	_	start_char=1565|end_char=1571
+12	сосуществование	сосуществование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	_	_	start_char=1572|end_char=1587|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=1587|end_char=1588
+14	президент	президент	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	_	_	start_char=1589|end_char=1598
+15	сохранял	сохранять	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	_	_	start_char=1599|end_char=1607
+16	жесткий	жесткий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	15	_	_	start_char=1608|end_char=1615
+17	контроль	контроль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	_	_	start_char=1616|end_char=1624
+18	над	над	ADP	_	_	17	_	_	start_char=1625|end_char=1628
+19	внешней	внешний	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	18	_	_	start_char=1629|end_char=1636
+20	и	и	CCONJ	_	_	19	_	_	start_char=1637|end_char=1638
+21	оборонной	оборонный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	20	_	_	start_char=1639|end_char=1648
+22	политикой	политика	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	21	_	_	start_char=1649|end_char=1658|SpaceAfter=No
+23	,	,	PUNCT	_	_	22	_	_	start_char=1658|end_char=1659
+24	радикальная	радикальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	23	_	_	start_char=1660|end_char=1671
+25	позиция	позиция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	24	_	_	start_char=1672|end_char=1679
+26	Национального	национальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	25	_	_	start_char=1680|end_char=1693
+27	правительства	правительство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	26	_	_	start_char=1694|end_char=1707
+28	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	27	_	_	start_char=1708|end_char=1713
+29	бросить	бросить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	28	_	_	start_char=1714|end_char=1721
+30	вызов	вызов	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	29	_	_	start_char=1722|end_char=1727
+31	этой	этот	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	30	_	_	start_char=1728|end_char=1732
+32	традиции	традиция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	31	_	_	start_char=1733|end_char=1741|SpaceAfter=No
+33	,	,	PUNCT	_	_	32	_	_	start_char=1741|end_char=1742
+34	что	что	PRON	_	Case=Nom|PronType=Int,Rel	33	_	_	start_char=1743|end_char=1746
+35	приведет	привести	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	34	_	_	start_char=1747|end_char=1755
+36	к	к	ADP	_	_	35	_	_	start_char=1756|end_char=1757
+37	фрагментации	фрагментация	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	36	_	_	start_char=1758|end_char=1770
+38	или	или	CCONJ	_	_	37	_	_	start_char=1771|end_char=1774
+39	непоследовательности	непоследовательность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	38	_	_	start_char=1775|end_char=1795
+40	внешней	внешний	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	39	_	_	start_char=1796|end_char=1803
+41	политики	политика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	40	_	_	start_char=1804|end_char=1812
+42	и	и	CCONJ	_	_	41	_	_	start_char=1813|end_char=1814
+43	трениям	трение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	42	_	_	start_char=1815|end_char=1822
+44	в	в	ADP	_	_	43	_	_	start_char=1823|end_char=1824
+45	ее	ее	DET	_	Poss=Yes|PronType=Prs	44	_	_	start_char=1825|end_char=1827
+46	реализации	реализация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	45	_	_	start_char=1828|end_char=1838|SpaceAfter=No
+47	.	.	PUNCT	_	_	46	_	_	start_char=1838|end_char=1839
+
+# text = Политические решения по Украине и назначение следующего французского еврокомиссара являются потенциальными первыми горячими точками.
+# sent_id = 12
+1	Политические	политический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	0	_	_	start_char=1840|end_char=1852
+2	решения	решение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	1	_	_	start_char=1853|end_char=1860
+3	по	по	ADP	_	_	2	_	_	start_char=1861|end_char=1863
+4	Украине	Украина	PROPN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	3	_	_	start_char=1864|end_char=1871
+5	и	и	CCONJ	_	_	4	_	_	start_char=1872|end_char=1873
+6	назначение	назначение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	_	_	start_char=1874|end_char=1884
+7	следующего	следующий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	6	_	_	start_char=1885|end_char=1895
+8	французского	французский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	_	_	start_char=1896|end_char=1908
+9	еврокомиссара	еврокомиссар	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	8	_	_	start_char=1909|end_char=1922
+10	являются	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	9	_	_	start_char=1923|end_char=1931
+11	потенциальными	потенциальный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	10	_	_	start_char=1932|end_char=1946
+12	первыми	первый	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	11	_	_	start_char=1947|end_char=1954
+13	горячими	горячий	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	12	_	_	start_char=1955|end_char=1963
+14	точками	точка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	13	_	_	start_char=1964|end_char=1971|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	_	_	start_char=1971|end_char=1972
+
+# text = Украина.
+# sent_id = 13
+1	Украина	Украина	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	_	_	start_char=1973|end_char=1980|SpaceAfter=No
+2	.	.	PUNCT	_	_	1	_	_	start_char=1980|end_char=1981
+
+# text = Недавние заявления Барделлы о защите Украины, сохранении в структуре командования НАТО ""до тех пор, пока длится конфликт"" и предотвращении вмешательства России предполагают, что на начальном этапе ""Национальное объединение"" может стремиться к минимальному консенсусу с Макроном, чтобы избежать прямого подрыва европейского единства и отчуждения международных союзников.
+# sent_id = 14
+1	Недавние	недавний	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	0	_	_	start_char=1982|end_char=1990
+2	заявления	заявление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	1	_	_	start_char=1991|end_char=2000
+3	Барделлы	Барделла	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	_	_	start_char=2001|end_char=2009
+4	о	о	ADP	_	_	3	_	_	start_char=2010|end_char=2011
+5	защите	защита	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	_	_	start_char=2012|end_char=2018
+6	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	_	_	start_char=2019|end_char=2026|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	_	_	start_char=2026|end_char=2027
+8	сохранении	сохранение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	_	_	start_char=2028|end_char=2038
+9	в	в	ADP	_	_	8	_	_	start_char=2039|end_char=2040
+10	структуре	структура	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	9	_	_	start_char=2041|end_char=2050
+11	командования	командование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	_	_	start_char=2051|end_char=2063
+12	НАТО	НАТО	PROPN	_	_	11	_	_	start_char=2064|end_char=2068
+13	"	"	PUNCT	_	_	12	_	_	start_char=2069|end_char=2070|SpaceAfter=No
+14	"	"	PUNCT	_	_	13	_	_	start_char=2070|end_char=2071|SpaceAfter=No
+15	до	до	ADP	_	_	14	_	_	start_char=2071|end_char=2073
+16	тех	тот	DET	_	Case=Gen|Number=Plur|PronType=Dem	15	_	_	start_char=2074|end_char=2077
+17	пор	пора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	16	_	_	start_char=2078|end_char=2081|SpaceAfter=No
+18	,	,	PUNCT	_	_	17	_	_	start_char=2081|end_char=2082
+19	пока	пока	SCONJ	_	_	18	_	_	start_char=2083|end_char=2087
+20	длится	длиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	19	_	_	start_char=2088|end_char=2094
+21	конфликт	конфликт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	20	_	_	start_char=2095|end_char=2103|SpaceAfter=No
+22	"	"	PUNCT	_	_	21	_	_	start_char=2103|end_char=2104|SpaceAfter=No
+23	"	"	PUNCT	_	_	22	_	_	start_char=2104|end_char=2105
+24	и	и	CCONJ	_	_	23	_	_	start_char=2106|end_char=2107
+25	предотвращении	предотвращение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	24	_	_	start_char=2108|end_char=2122
+26	вмешательства	вмешательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	25	_	_	start_char=2123|end_char=2136
+27	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	26	_	_	start_char=2137|end_char=2143
+28	предполагают	предполагать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	27	_	_	start_char=2144|end_char=2156|SpaceAfter=No
+29	,	,	PUNCT	_	_	28	_	_	start_char=2156|end_char=2157
+30	что	что	SCONJ	_	_	29	_	_	start_char=2158|end_char=2161
+31	на	на	ADP	_	_	30	_	_	start_char=2162|end_char=2164
+32	начальном	начальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	31	_	_	start_char=2165|end_char=2174
+33	этапе	этап	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	32	_	_	start_char=2175|end_char=2180
+34	"	"	PUNCT	_	_	33	_	_	start_char=2181|end_char=2182|SpaceAfter=No
+35	"	"	PUNCT	_	_	34	_	_	start_char=2182|end_char=2183|SpaceAfter=No
+36	Национальное	национальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	35	_	_	start_char=2183|end_char=2195
+37	объединение	объединение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	36	_	_	start_char=2196|end_char=2207|SpaceAfter=No
+38	"	"	PUNCT	_	_	37	_	_	start_char=2207|end_char=2208|SpaceAfter=No
+39	"	"	PUNCT	_	_	38	_	_	start_char=2208|end_char=2209
+40	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	39	_	_	start_char=2210|end_char=2215
+41	стремиться	стремиться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	40	_	_	start_char=2216|end_char=2226
+42	к	к	ADP	_	_	41	_	_	start_char=2227|end_char=2228
+43	минимальному	минимальный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	42	_	_	start_char=2229|end_char=2241
+44	консенсусу	консенсус	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	43	_	_	start_char=2242|end_char=2252
+45	с	с	ADP	_	_	44	_	_	start_char=2253|end_char=2254
+46	Макроном	Макрон	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	45	_	_	start_char=2255|end_char=2263|SpaceAfter=No
+47	,	,	PUNCT	_	_	46	_	_	start_char=2263|end_char=2264
+48	чтобы	чтобы	SCONJ	_	Mood=Cnd	47	_	_	start_char=2265|end_char=2270
+49	избежать	избегнуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	48	_	_	start_char=2271|end_char=2279
+50	прямого	прямой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	49	_	_	start_char=2280|end_char=2287
+51	подрыва	подрыв	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	50	_	_	start_char=2288|end_char=2295
+52	европейского	европейский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	51	_	_	start_char=2296|end_char=2308
+53	единства	единство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	52	_	_	start_char=2309|end_char=2317
+54	и	и	CCONJ	_	_	53	_	_	start_char=2318|end_char=2319
+55	отчуждения	отчуждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	54	_	_	start_char=2320|end_char=2330
+56	международных	международный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	55	_	_	start_char=2331|end_char=2344
+57	союзников	союзник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	56	_	_	start_char=2345|end_char=2354|SpaceAfter=No
+58	.	.	PUNCT	_	_	57	_	_	start_char=2354|end_char=2355
+
+# text = Однако основная идеология ""Национального объединения"", характеризующаяся национализмом, антиамериканизмом, скептицизмом по отношению к Европейскому Союзу и НАТО, восхищением Россией, может подтолкнуть Францию к более изоляционистской и враждебной внешней политике.
+# sent_id = 15
+1	Однако	однако	ADV	_	Degree=Pos	0	_	_	start_char=2356|end_char=2362
+2	основная	основной	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	1	_	_	start_char=2363|end_char=2371
+3	идеология	идеология	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	_	_	start_char=2372|end_char=2381
+4	"	"	PUNCT	_	_	3	_	_	start_char=2382|end_char=2383|SpaceAfter=No
+5	"	"	PUNCT	_	_	4	_	_	start_char=2383|end_char=2384|SpaceAfter=No
+6	Национального	национальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	5	_	_	start_char=2384|end_char=2397
+7	объединения	объединение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	_	_	start_char=2398|end_char=2409|SpaceAfter=No
+8	"	"	PUNCT	_	_	7	_	_	start_char=2409|end_char=2410|SpaceAfter=No
+9	"	"	PUNCT	_	_	8	_	_	start_char=2410|end_char=2411|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=2411|end_char=2412
+11	характеризующаяся	характеризоваться	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	10	_	_	start_char=2413|end_char=2430
+12	национализмом	национализм	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	11	_	_	start_char=2431|end_char=2444|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=2444|end_char=2445
+14	антиамериканизмом	антиамериканизм	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	13	_	_	start_char=2446|end_char=2463|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=2463|end_char=2464
+16	скептицизмом	скептицизм	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	15	_	_	start_char=2465|end_char=2477
+17	по	по	ADP	_	_	16	_	_	start_char=2478|end_char=2480
+18	отношению	отношение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	17	_	_	start_char=2481|end_char=2490
+19	к	к	ADP	_	_	18	_	_	start_char=2491|end_char=2492
+20	Европейскому	Европейский	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	19	_	_	start_char=2493|end_char=2505
+21	Союзу	Союз	PROPN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	20	_	_	start_char=2506|end_char=2511
+22	и	и	CCONJ	_	_	21	_	_	start_char=2512|end_char=2513
+23	НАТО	НАТО	PROPN	_	Number=Sing	22	_	_	start_char=2514|end_char=2518|SpaceAfter=No
+24	,	,	PUNCT	_	_	23	_	_	start_char=2518|end_char=2519
+25	восхищением	восхищение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	24	_	_	start_char=2520|end_char=2531
+26	Россией	Россия	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	25	_	_	start_char=2532|end_char=2539|SpaceAfter=No
+27	,	,	PUNCT	_	_	26	_	_	start_char=2539|end_char=2540
+28	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	27	_	_	start_char=2541|end_char=2546
+29	подтолкнуть	подтолкнуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	28	_	_	start_char=2547|end_char=2558
+30	Францию	Франция	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	29	_	_	start_char=2559|end_char=2566
+31	к	к	ADP	_	_	30	_	_	start_char=2567|end_char=2568
+32	более	более	ADV	_	Degree=Cmp	31	_	_	start_char=2569|end_char=2574
+33	изоляционистской	изоляционистский	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	32	_	_	start_char=2575|end_char=2591
+34	и	и	CCONJ	_	_	33	_	_	start_char=2592|end_char=2593
+35	враждебной	враждебный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	34	_	_	start_char=2594|end_char=2604
+36	внешней	внешний	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	35	_	_	start_char=2605|end_char=2612
+37	политике	политика	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	36	_	_	start_char=2613|end_char=2621|SpaceAfter=No
+38	.	.	PUNCT	_	_	37	_	_	start_char=2621|end_char=2622
+
+# text = Интеграция в ЕС.
+# sent_id = 16
+1	Интеграция	интеграция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	_	_	start_char=2623|end_char=2633
+2	в	в	ADP	_	_	1	_	_	start_char=2634|end_char=2635
+3	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	_	_	start_char=2636|end_char=2638|SpaceAfter=No
+4	.	.	PUNCT	_	_	3	_	_	start_char=2638|end_char=2639
+
+# text = Видение ""Национальное объединение"" о ""Европе наций"" находится в резком противоречии с более глубокой интеграцией в ЕС.
+# sent_id = 17
+1	Видение	видение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	_	_	start_char=2640|end_char=2647
+2	"	"	PUNCT	_	_	1	_	_	start_char=2648|end_char=2649|SpaceAfter=No
+3	"	"	PUNCT	_	_	2	_	_	start_char=2649|end_char=2650|SpaceAfter=No
+4	Национальное	национальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	_	_	start_char=2650|end_char=2662
+5	объединение	объединение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	_	_	start_char=2663|end_char=2674|SpaceAfter=No
+6	"	"	PUNCT	_	_	5	_	_	start_char=2674|end_char=2675|SpaceAfter=No
+7	"	"	PUNCT	_	_	6	_	_	start_char=2675|end_char=2676
+8	о	о	ADP	_	_	7	_	_	start_char=2677|end_char=2678
+9	"	"	PUNCT	_	_	8	_	_	start_char=2679|end_char=2680|SpaceAfter=No
+10	"	"	PUNCT	_	_	9	_	_	start_char=2680|end_char=2681|SpaceAfter=No
+11	Европе	Европа	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	_	_	start_char=2681|end_char=2687
+12	наций	нация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	_	_	start_char=2688|end_char=2693|SpaceAfter=No
+13	"	"	PUNCT	_	_	12	_	_	start_char=2693|end_char=2694|SpaceAfter=No
+14	"	"	PUNCT	_	_	13	_	_	start_char=2694|end_char=2695
+15	находится	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	14	_	_	start_char=2696|end_char=2705
+16	в	в	ADP	_	_	15	_	_	start_char=2706|end_char=2707
+17	резком	резкий	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	16	_	_	start_char=2708|end_char=2714
+18	противоречии	противоречие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	17	_	_	start_char=2715|end_char=2727
+19	с	с	ADP	_	_	18	_	_	start_char=2728|end_char=2729
+20	более	более	ADV	_	Degree=Cmp	19	_	_	start_char=2730|end_char=2735
+21	глубокой	глубокий	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	20	_	_	start_char=2736|end_char=2744
+22	интеграцией	интеграция	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	21	_	_	start_char=2745|end_char=2756
+23	в	в	ADP	_	_	22	_	_	start_char=2757|end_char=2758
+24	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	23	_	_	start_char=2759|end_char=2761|SpaceAfter=No
+25	.	.	PUNCT	_	_	24	_	_	start_char=2761|end_char=2762
+
+# text = Его предложения, включая восстановление внутренних границ, предоставление преимуществ французским компаниям в контрактах на закупки и изменение цен на энергоносители, противоречат правилам ЕС и могут вызвать значительную напряженность в отношениях с институтами ЕС.
+# sent_id = 18
+1	Его	его	DET	_	Poss=Yes|PronType=Prs	0	_	_	start_char=2763|end_char=2766
+2	предложения	предложение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	1	_	_	start_char=2767|end_char=2778|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=2778|end_char=2779
+4	включая	включая	ADV	_	Degree=Pos	3	_	_	start_char=2780|end_char=2787
+5	восстановление	восстановление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	_	_	start_char=2788|end_char=2802
+6	внутренних	внутренний	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	_	_	start_char=2803|end_char=2813
+7	границ	граница	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	_	_	start_char=2814|end_char=2820|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=2820|end_char=2821
+9	предоставление	предоставление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	_	_	start_char=2822|end_char=2836
+10	преимуществ	преимущество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	9	_	_	start_char=2837|end_char=2848
+11	французским	французский	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	10	_	_	start_char=2849|end_char=2860
+12	компаниям	компания	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	11	_	_	start_char=2861|end_char=2870
+13	в	в	ADP	_	_	12	_	_	start_char=2871|end_char=2872
+14	контрактах	контракт	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	13	_	_	start_char=2873|end_char=2883
+15	на	на	ADP	_	_	14	_	_	start_char=2884|end_char=2886
+16	закупки	закупка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	15	_	_	start_char=2887|end_char=2894
+17	и	и	CCONJ	_	_	16	_	_	start_char=2895|end_char=2896
+18	изменение	изменение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	17	_	_	start_char=2897|end_char=2906
+19	цен	цена	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	18	_	_	start_char=2907|end_char=2910
+20	на	на	ADP	_	_	19	_	_	start_char=2911|end_char=2913
+21	энергоносители	энергоноситель	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	20	_	_	start_char=2914|end_char=2928|SpaceAfter=No
+22	,	,	PUNCT	_	_	21	_	_	start_char=2928|end_char=2929
+23	противоречат	противоречить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	_	_	start_char=2930|end_char=2942
+24	правилам	правило	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	23	_	_	start_char=2943|end_char=2951
+25	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	24	_	_	start_char=2952|end_char=2954
+26	и	и	CCONJ	_	_	25	_	_	start_char=2955|end_char=2956
+27	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	26	_	_	start_char=2957|end_char=2962
+28	вызвать	вызвать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	27	_	_	start_char=2963|end_char=2970
+29	значительную	значительный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	28	_	_	start_char=2971|end_char=2983
+30	напряженность	напряженность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	29	_	_	start_char=2984|end_char=2997
+31	в	в	ADP	_	_	30	_	_	start_char=2998|end_char=2999
+32	отношениях	отношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	31	_	_	start_char=3000|end_char=3010
+33	с	с	ADP	_	_	32	_	_	start_char=3011|end_char=3012
+34	институтами	институт	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	33	_	_	start_char=3013|end_char=3024
+35	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	34	_	_	start_char=3025|end_char=3027|SpaceAfter=No
+36	.	.	PUNCT	_	_	35	_	_	start_char=3027|end_char=3028
+
+# text = Оппозиция ""Национальное объединение"" Европейскому ""зеленому соглашению"" и Пакту о миграции и предоставлении убежища, а также обещание Барделлы сократить ежегодные платежи Франции в ЕС еще больше подчеркивают ее евроскептическую повестку дня.
+# sent_id = 19
+1	Оппозиция	оппозиция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	_	_	start_char=3029|end_char=3038
+2	"	"	PUNCT	_	_	1	_	_	start_char=3039|end_char=3040|SpaceAfter=No
+3	"	"	PUNCT	_	_	2	_	_	start_char=3040|end_char=3041|SpaceAfter=No
+4	Национальное	национальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	_	_	start_char=3041|end_char=3053
+5	объединение	объединение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	_	_	start_char=3054|end_char=3065|SpaceAfter=No
+6	"	"	PUNCT	_	_	5	_	_	start_char=3065|end_char=3066|SpaceAfter=No
+7	"	"	PUNCT	_	_	6	_	_	start_char=3066|end_char=3067
+8	Европейскому	Европейский	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	7	_	_	start_char=3068|end_char=3080
+9	"	"	PUNCT	_	_	8	_	_	start_char=3081|end_char=3082|SpaceAfter=No
+10	"	"	PUNCT	_	_	9	_	_	start_char=3082|end_char=3083|SpaceAfter=No
+11	зеленому	зеленый	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	10	_	_	start_char=3083|end_char=3091
+12	соглашению	соглашение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	11	_	_	start_char=3092|end_char=3102|SpaceAfter=No
+13	"	"	PUNCT	_	_	12	_	_	start_char=3102|end_char=3103|SpaceAfter=No
+14	"	"	PUNCT	_	_	13	_	_	start_char=3103|end_char=3104
+15	и	и	CCONJ	_	_	14	_	_	start_char=3105|end_char=3106
+16	Пакту	пакт	PROPN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	15	_	_	start_char=3107|end_char=3112
+17	о	о	ADP	_	_	16	_	_	start_char=3113|end_char=3114
+18	миграции	миграция	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	17	_	_	start_char=3115|end_char=3123
+19	и	и	CCONJ	_	_	18	_	_	start_char=3124|end_char=3125
+20	предоставлении	предоставление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	19	_	_	start_char=3126|end_char=3140
+21	убежища	убежище	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	_	_	start_char=3141|end_char=3148|SpaceAfter=No
+22	,	,	PUNCT	_	_	21	_	_	start_char=3148|end_char=3149
+23	а	а	CCONJ	_	_	22	_	_	start_char=3150|end_char=3151
+24	также	также	PART	_	_	23	_	_	start_char=3152|end_char=3157
+25	обещание	обещание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	24	_	_	start_char=3158|end_char=3166
+26	Барделлы	Барделла	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	25	_	_	start_char=3167|end_char=3175
+27	сократить	сократить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	26	_	_	start_char=3176|end_char=3185
+28	ежегодные	ежегодный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	27	_	_	start_char=3186|end_char=3195
+29	платежи	платеж	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	28	_	_	start_char=3196|end_char=3203
+30	Франции	Франция	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	29	_	_	start_char=3204|end_char=3211
+31	в	в	ADP	_	_	30	_	_	start_char=3212|end_char=3213
+32	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	31	_	_	start_char=3214|end_char=3216
+33	еще	еще	ADV	_	Degree=Pos	32	_	_	start_char=3217|end_char=3220
+34	больше	больше	ADV	_	Degree=Cmp	33	_	_	start_char=3221|end_char=3227
+35	подчеркивают	подчеркивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	34	_	_	start_char=3228|end_char=3240
+36	ее	ее	DET	_	Poss=Yes|PronType=Prs	35	_	_	start_char=3241|end_char=3243
+37	евроскептическую	евроскептический	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	36	_	_	start_char=3244|end_char=3260
+38	повестку	повестка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	37	_	_	start_char=3261|end_char=3269
+39	дня	день	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	38	_	_	start_char=3270|end_char=3273|SpaceAfter=No
+40	.	.	PUNCT	_	_	39	_	_	start_char=3273|end_char=3274
+
+# text = Наконец, предпочтение, которое Франция отдает национальным решениям в области обороны, а не европейскому сотрудничеству, и критика усилий Макрона по ""европеизации”""французского сдерживания отражают более широкое нежелание участвовать в инициативах ЕС.
+# sent_id = 20
+1	Наконец	наконец	ADV	_	Degree=Pos	0	_	_	start_char=3275|end_char=3282|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	_	_	start_char=3282|end_char=3283
+3	предпочтение	предпочтение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	_	_	start_char=3284|end_char=3296|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=3296|end_char=3297
+5	которое	который	PRON	_	Case=Acc|PronType=Int,Rel	4	_	_	start_char=3298|end_char=3305
+6	Франция	Франция	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	_	_	start_char=3306|end_char=3313
+7	отдает	отдавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	_	_	start_char=3314|end_char=3320
+8	национальным	национальный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	7	_	_	start_char=3321|end_char=3333
+9	решениям	решение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	8	_	_	start_char=3334|end_char=3342
+10	в	в	ADP	_	_	9	_	_	start_char=3343|end_char=3344
+11	области	область	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	_	_	start_char=3345|end_char=3352
+12	обороны	оборона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	_	_	start_char=3353|end_char=3360|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=3360|end_char=3361
+14	а	а	CCONJ	_	_	13	_	_	start_char=3362|end_char=3363
+15	не	не	PART	_	_	14	_	_	start_char=3364|end_char=3366
+16	европейскому	европейский	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	15	_	_	start_char=3367|end_char=3379
+17	сотрудничеству	сотрудничество	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	16	_	_	start_char=3380|end_char=3394|SpaceAfter=No
+18	,	,	PUNCT	_	_	17	_	_	start_char=3394|end_char=3395
+19	и	и	CCONJ	_	_	18	_	_	start_char=3396|end_char=3397
+20	критика	критика	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	19	_	_	start_char=3398|end_char=3405
+21	усилий	усилие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	20	_	_	start_char=3406|end_char=3412
+22	Макрона	Макрон	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	21	_	_	start_char=3413|end_char=3420
+23	по	по	ADP	_	_	22	_	_	start_char=3421|end_char=3423
+24	"	"	PUNCT	_	_	23	_	_	start_char=3424|end_char=3425|SpaceAfter=No
+25	"	"	PUNCT	_	_	24	_	_	start_char=3425|end_char=3426|SpaceAfter=No
+26	европеизации	европеизация	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	25	_	_	start_char=3426|end_char=3438|SpaceAfter=No
+27	”	"	PUNCT	_	_	26	_	_	start_char=3438|end_char=3439|SpaceAfter=No
+28	"	"	PUNCT	_	_	27	_	_	start_char=3439|end_char=3440|SpaceAfter=No
+29	"	"	PUNCT	_	_	28	_	_	start_char=3440|end_char=3441|SpaceAfter=No
+30	французского	французский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	29	_	_	start_char=3441|end_char=3453
+31	сдерживания	сдерживание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	30	_	_	start_char=3454|end_char=3465
+32	отражают	отражать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	31	_	_	start_char=3466|end_char=3474
+33	более	более	ADV	_	Degree=Cmp	32	_	_	start_char=3475|end_char=3480
+34	широкое	широкий	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	33	_	_	start_char=3481|end_char=3488
+35	нежелание	нежелание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	34	_	_	start_char=3489|end_char=3498
+36	участвовать	участвовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	35	_	_	start_char=3499|end_char=3510
+37	в	в	ADP	_	_	36	_	_	start_char=3511|end_char=3512
+38	инициативах	инициатива	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	37	_	_	start_char=3513|end_char=3524
+39	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	38	_	_	start_char=3525|end_char=3527|SpaceAfter=No
+40	.	.	PUNCT	_	_	39	_	_	start_char=3527|end_char=3528
+
+# text = Маневры Макрона.
+# sent_id = 21
+1	Маневры	маневр	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	_	_	start_char=3529|end_char=3536
+2	Макрона	Макрон	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	1	_	_	start_char=3537|end_char=3544|SpaceAfter=No
+3	.	.	PUNCT	_	_	2	_	_	start_char=3544|end_char=3545
+
+# text = Большинство или почти большинство в парламенте после выборов ознаменовало бы поворотный момент во французской политике.
+# sent_id = 22
+1	Большинство	большинство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	_	_	start_char=3546|end_char=3557
+2	или	или	CCONJ	_	_	1	_	_	start_char=3558|end_char=3561
+3	почти	почти	ADV	_	Degree=Pos	2	_	_	start_char=3562|end_char=3567
+4	большинство	большинство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	_	_	start_char=3568|end_char=3579
+5	в	в	ADP	_	_	4	_	_	start_char=3580|end_char=3581
+6	парламенте	парламент	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	_	_	start_char=3582|end_char=3592
+7	после	после	ADP	_	_	6	_	_	start_char=3593|end_char=3598
+8	выборов	выборы	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	_	_	start_char=3599|end_char=3606
+9	ознаменовало	ознаменовать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	_	_	start_char=3607|end_char=3619
+10	бы	бы	AUX	_	_	9	_	_	start_char=3620|end_char=3622
+11	поворотный	поворотный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	10	_	_	start_char=3623|end_char=3633
+12	момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	_	_	start_char=3634|end_char=3640
+13	во	в	ADP	_	_	12	_	_	start_char=3641|end_char=3643
+14	французской	французский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	13	_	_	start_char=3644|end_char=3655
+15	политике	политика	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	14	_	_	start_char=3656|end_char=3664|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	_	_	start_char=3664|end_char=3665
+
+# text = Согласно конституции, Макрон может назначить новые выборы через год, чтобы попытаться восстановить контроль, в то время как республиканцы могут настаивать на его отставке.
+# sent_id = 23
+1	Согласно	согласно	ADP	_	_	0	_	_	start_char=3666|end_char=3674
+2	конституции	конституция	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	1	_	_	start_char=3675|end_char=3686|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=3686|end_char=3687
+4	Макрон	Макрон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	_	_	start_char=3688|end_char=3694
+5	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	_	_	start_char=3695|end_char=3700
+6	назначить	назначить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	_	_	start_char=3701|end_char=3710
+7	новые	новый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	6	_	_	start_char=3711|end_char=3716
+8	выборы	выборы	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	_	_	start_char=3717|end_char=3723
+9	через	через	ADP	_	_	8	_	_	start_char=3724|end_char=3729
+10	год	год	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	_	_	start_char=3730|end_char=3733|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=3733|end_char=3734
+12	чтобы	чтобы	SCONJ	_	Mood=Cnd	11	_	_	start_char=3735|end_char=3740
+13	попытаться	пытаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	12	_	_	start_char=3741|end_char=3751
+14	восстановить	восстановить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	13	_	_	start_char=3752|end_char=3764
+15	контроль	контроль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	_	_	start_char=3765|end_char=3773|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	_	_	start_char=3773|end_char=3774
+17	в	в	ADP	_	_	16	_	_	start_char=3775|end_char=3776
+18	то	тот	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	17	_	_	start_char=3777|end_char=3779
+19	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	18	_	_	start_char=3780|end_char=3785
+20	как	как	SCONJ	_	_	19	_	_	start_char=3786|end_char=3789
+21	республиканцы	республиканец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	20	_	_	start_char=3790|end_char=3803
+22	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	_	_	start_char=3804|end_char=3809
+23	настаивать	настаивать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	22	_	_	start_char=3810|end_char=3820
+24	на	на	ADP	_	_	23	_	_	start_char=3821|end_char=3823
+25	его	его	DET	_	Poss=Yes|PronType=Prs	24	_	_	start_char=3824|end_char=3827
+26	отставке	отставка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	25	_	_	start_char=3828|end_char=3836|SpaceAfter=No
+27	.	.	PUNCT	_	_	26	_	_	start_char=3836|end_char=3837
+
+# text = Возникший в результате этого тупик, вероятно, ослабит лидерство Франции в европейских делах и осложнит ее экономический и политический ландшафт.
+# sent_id = 24
+1	Возникший	возникнуть	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	_	_	start_char=3838|end_char=3847
+2	в	в	ADP	_	_	1	_	_	start_char=3848|end_char=3849
+3	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	_	_	start_char=3850|end_char=3860
+4	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	3	_	_	start_char=3861|end_char=3866
+5	тупик	тупик	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=3867|end_char=3872|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=3872|end_char=3873
+7	вероятно	вероятно	ADV	_	Degree=Pos	6	_	_	start_char=3874|end_char=3882|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=3882|end_char=3883
+9	ослабит	ослабить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	8	_	_	start_char=3884|end_char=3891
+10	лидерство	лидерство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	_	_	start_char=3892|end_char=3901
+11	Франции	Франция	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	_	_	start_char=3902|end_char=3909
+12	в	в	ADP	_	_	11	_	_	start_char=3910|end_char=3911
+13	европейских	европейский	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	12	_	_	start_char=3912|end_char=3923
+14	делах	дело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	13	_	_	start_char=3924|end_char=3929
+15	и	и	CCONJ	_	_	14	_	_	start_char=3930|end_char=3931
+16	осложнит	осложнуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	15	_	_	start_char=3932|end_char=3940
+17	ее	ее	DET	_	Poss=Yes|PronType=Prs	16	_	_	start_char=3941|end_char=3943
+18	экономический	экономический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	17	_	_	start_char=3944|end_char=3957
+19	и	и	CCONJ	_	_	18	_	_	start_char=3958|end_char=3959
+20	политический	политический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	19	_	_	start_char=3960|end_char=3972
+21	ландшафт	ландшафт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	20	_	_	start_char=3973|end_char=3981|SpaceAfter=No
+22	.	.	PUNCT	_	_	21	_	_	start_char=3981|end_char=3982
+
+# text = Хотя президентские выборы 2027 года могут дать шанс на восстановление стабильности, это будет зависеть от того, добьется ли ""Национальное объединение"" дальнейшего прогресса в своем восхождении к власти."
+# sent_id = 25
+1	Хотя	хотя	SCONJ	_	_	0	_	_	start_char=3983|end_char=3987
+2	президентские	президентский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	1	_	_	start_char=3988|end_char=4001
+3	выборы	выборы	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	2	_	_	start_char=4002|end_char=4008
+4	2027	2027	ADJ	_	Degree=Pos	3	_	_	start_char=4009|end_char=4013
+5	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	_	_	start_char=4014|end_char=4018
+6	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	_	_	start_char=4019|end_char=4024
+7	дать	дать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	_	_	start_char=4025|end_char=4029
+8	шанс	шанс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	_	_	start_char=4030|end_char=4034
+9	на	на	ADP	_	_	8	_	_	start_char=4035|end_char=4037
+10	восстановление	восстановление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	_	_	start_char=4038|end_char=4052
+11	стабильности	стабильность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	_	_	start_char=4053|end_char=4065|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	_	_	start_char=4065|end_char=4066
+13	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	12	_	_	start_char=4067|end_char=4070
+14	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	_	_	start_char=4071|end_char=4076
+15	зависеть	зависеть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	14	_	_	start_char=4077|end_char=4085
+16	от	от	ADP	_	_	15	_	_	start_char=4086|end_char=4088
+17	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	16	_	_	start_char=4089|end_char=4093|SpaceAfter=No
+18	,	,	PUNCT	_	_	17	_	_	start_char=4093|end_char=4094
+19	добьется	добиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	18	_	_	start_char=4095|end_char=4103
+20	ли	ли	PART	_	_	19	_	_	start_char=4104|end_char=4106
+21	"	"	PUNCT	_	_	20	_	_	start_char=4107|end_char=4108|SpaceAfter=No
+22	"	"	PUNCT	_	_	21	_	_	start_char=4108|end_char=4109|SpaceAfter=No
+23	Национальное	национальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	22	_	_	start_char=4109|end_char=4121
+24	объединение	объединение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	23	_	_	start_char=4122|end_char=4133|SpaceAfter=No
+25	"	"	PUNCT	_	_	24	_	_	start_char=4133|end_char=4134|SpaceAfter=No
+26	"	"	PUNCT	_	_	25	_	_	start_char=4134|end_char=4135
+27	дальнейшего	дальнейший	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	26	_	_	start_char=4136|end_char=4147
+28	прогресса	прогресс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	27	_	_	start_char=4148|end_char=4157
+29	в	в	ADP	_	_	28	_	_	start_char=4158|end_char=4159
+30	своем	свой	DET	_	Case=Loc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	29	_	_	start_char=4160|end_char=4165
+31	восхождении	восхождение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	30	_	_	start_char=4166|end_char=4177
+32	к	к	ADP	_	_	31	_	_	start_char=4178|end_char=4179
+33	власти	власть	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	32	_	_	start_char=4180|end_char=4186|SpaceAfter=No
+34	.	.	PUNCT	_	_	33	_	_	start_char=4186|end_char=4187|SpaceAfter=No
+35	"	"	PUNCT	_	_	34	_	_	start_char=4187|end_char=4188|SpaceAfter=No
+

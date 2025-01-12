@@ -1,0 +1,131 @@
+# text = Резонансные заявления Марин Ле Пен о России Первый тур парламентских выборов во Франции завершился победой партии Ле Пен.
+# sent_id = 0
+1	Резонансные	резонансный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	0	_	_	start_char=0|end_char=11
+2	заявления	заявление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	1	_	_	start_char=12|end_char=21
+3	Марин	Марин	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	_	_	start_char=22|end_char=27
+4	Ле	Ле	PROPN	_	Number=Sing	3	_	_	start_char=28|end_char=30
+5	Пен	Пен	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	_	_	start_char=31|end_char=34
+6	о	о	ADP	_	_	5	_	_	start_char=35|end_char=36
+7	России	Россия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	_	_	start_char=37|end_char=43
+8	Первый	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	_	_	start_char=44|end_char=50
+9	тур	тур	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	_	_	start_char=51|end_char=54
+10	парламентских	парламентский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	_	_	start_char=55|end_char=68
+11	выборов	выборы	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	_	_	start_char=69|end_char=76
+12	во	в	ADP	_	_	11	_	_	start_char=77|end_char=79
+13	Франции	Франция	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	_	_	start_char=80|end_char=87
+14	завершился	завершиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	13	_	_	start_char=88|end_char=98
+15	победой	победа	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	14	_	_	start_char=99|end_char=106
+16	партии	партия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	_	_	start_char=107|end_char=113
+17	Ле	Ле	PROPN	_	_	16	_	_	start_char=114|end_char=116
+18	Пен	Пен	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	17	_	_	start_char=117|end_char=120|SpaceAfter=No
+19	.	.	PUNCT	_	_	18	_	_	start_char=120|end_char=121
+
+# text = Глава французской партии «Национальное объединение», высказала свое мнение о России, антироссийских санкциях и конфликте на Украине.
+# sent_id = 1
+1	Глава	глава	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=122|end_char=127
+2	французской	французский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	1	_	_	start_char=128|end_char=139
+3	партии	партия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	_	_	start_char=140|end_char=146
+4	«	"	PUNCT	_	_	3	_	_	start_char=147|end_char=148|SpaceAfter=No
+5	Национальное	национальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	_	_	start_char=148|end_char=160
+6	объединение	объединение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	_	_	start_char=161|end_char=172|SpaceAfter=No
+7	»	"	PUNCT	_	_	6	_	_	start_char=172|end_char=173|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=173|end_char=174
+9	высказала	высказать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	_	_	start_char=175|end_char=184
+10	свое	свой	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	9	_	_	start_char=185|end_char=189
+11	мнение	мнение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	_	_	start_char=190|end_char=196
+12	о	о	ADP	_	_	11	_	_	start_char=197|end_char=198
+13	России	Россия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	_	_	start_char=199|end_char=205|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	_	_	start_char=205|end_char=206
+15	антироссийских	антироссийский	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	14	_	_	start_char=207|end_char=221
+16	санкциях	санкция	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	15	_	_	start_char=222|end_char=230
+17	и	и	CCONJ	_	_	16	_	_	start_char=231|end_char=232
+18	конфликте	конфликт	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	17	_	_	start_char=233|end_char=242
+19	на	на	ADP	_	_	18	_	_	start_char=243|end_char=245
+20	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	19	_	_	start_char=246|end_char=253|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	_	_	start_char=253|end_char=254
+
+# text = Ее заявления вызвали широкий резонанс.
+# sent_id = 2
+1	Ее	ее	DET	_	Poss=Yes|PronType=Prs	0	_	_	start_char=255|end_char=257
+2	заявления	заявление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	1	_	_	start_char=258|end_char=267
+3	вызвали	вызвать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=268|end_char=275
+4	широкий	широкий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	3	_	_	start_char=276|end_char=283
+5	резонанс	резонанс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	_	_	start_char=284|end_char=292|SpaceAfter=No
+6	.	.	PUNCT	_	_	5	_	_	start_char=292|end_char=293
+
+# text = Ле Пен утверждает, что санкции ЕС против нашей страны наносят больший ущерб европейцам, чем нам самим, и призывает к сближению Европы с Россией для обеспечения безопасности континента.
+# sent_id = 3
+1	Ле	Ле	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=294|end_char=296
+2	Пен	Пен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=297|end_char=300
+3	утверждает	утверждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=301|end_char=311|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=311|end_char=312
+5	что	что	SCONJ	_	_	4	_	_	start_char=313|end_char=316
+6	санкции	санкция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	5	_	_	start_char=317|end_char=324
+7	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	_	_	start_char=325|end_char=327
+8	против	против	ADP	_	_	7	_	_	start_char=328|end_char=334
+9	нашей	наш	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	8	_	_	start_char=335|end_char=340
+10	страны	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	_	_	start_char=341|end_char=347
+11	наносят	наносить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	_	_	start_char=348|end_char=355
+12	больший	больший	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	11	_	_	start_char=356|end_char=363
+13	ущерб	ущерб	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	_	_	start_char=364|end_char=369
+14	европейцам	европеец	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	13	_	_	start_char=370|end_char=380|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=380|end_char=381
+16	чем	чем	SCONJ	_	_	15	_	_	start_char=382|end_char=385
+17	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	16	_	_	start_char=386|end_char=389
+18	самим	сам	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	17	_	_	start_char=390|end_char=395|SpaceAfter=No
+19	,	,	PUNCT	_	_	18	_	_	start_char=395|end_char=396
+20	и	и	CCONJ	_	_	19	_	_	start_char=397|end_char=398
+21	призывает	призывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	_	_	start_char=399|end_char=408
+22	к	к	ADP	_	_	21	_	_	start_char=409|end_char=410
+23	сближению	сближение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	22	_	_	start_char=411|end_char=420
+24	Европы	Европа	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	_	_	start_char=421|end_char=427
+25	с	с	ADP	_	_	24	_	_	start_char=428|end_char=429
+26	Россией	Россия	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	25	_	_	start_char=430|end_char=437
+27	для	для	ADP	_	_	26	_	_	start_char=438|end_char=441
+28	обеспечения	обеспечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	27	_	_	start_char=442|end_char=453
+29	безопасности	безопасность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	28	_	_	start_char=454|end_char=466
+30	континента	континент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	29	_	_	start_char=467|end_char=477|SpaceAfter=No
+31	.	.	PUNCT	_	_	30	_	_	start_char=477|end_char=478
+
+# text = В преддверии второго тура внеочередных парламентских выборов во Франции, который состоится 7 июля, эти заявления приобретают особое значение.
+# sent_id = 4
+1	В	в	ADP	_	_	0	_	_	start_char=479|end_char=480
+2	преддверии	преддверие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1	_	_	start_char=481|end_char=491
+3	второго	второй	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	2	_	_	start_char=492|end_char=499
+4	тура	тур	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=500|end_char=504
+5	внеочередных	внеочередной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	_	_	start_char=505|end_char=517
+6	парламентских	парламентский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	_	_	start_char=518|end_char=531
+7	выборов	выборы	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	_	_	start_char=532|end_char=539
+8	во	в	ADP	_	_	7	_	_	start_char=540|end_char=542
+9	Франции	Франция	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	_	_	start_char=543|end_char=550|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=550|end_char=551
+11	который	который	PRON	_	Case=Nom|PronType=Int,Rel	10	_	_	start_char=552|end_char=559
+12	состоится	состояться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	11	_	_	start_char=560|end_char=569
+13	7	7	NUM	_	NumType=Card	12	_	_	start_char=570|end_char=571
+14	июля	июль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	_	_	start_char=572|end_char=576|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=576|end_char=577
+16	эти	этот	DET	_	Case=Nom|Number=Plur|PronType=Dem	15	_	_	start_char=578|end_char=581
+17	заявления	заявление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	16	_	_	start_char=582|end_char=591
+18	приобретают	приобретать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	_	_	start_char=592|end_char=603
+19	особое	особый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	18	_	_	start_char=604|end_char=610
+20	значение	значение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	19	_	_	start_char=611|end_char=619|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	_	_	start_char=619|end_char=620
+
+# text = Примеры заявлений и цитат читайте в карточках ниже!
+# sent_id = 5
+1	Примеры	пример	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	_	_	start_char=621|end_char=628
+2	заявлений	заявление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	1	_	_	start_char=629|end_char=638
+3	и	и	CCONJ	_	_	2	_	_	start_char=639|end_char=640
+4	цитат	цитата	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	_	_	start_char=641|end_char=646
+5	читайте	читать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	4	_	_	start_char=647|end_char=654
+6	в	в	ADP	_	_	5	_	_	start_char=655|end_char=656
+7	карточках	карточка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	6	_	_	start_char=657|end_char=666
+8	ниже	низко	ADV	_	Degree=Cmp	7	_	_	start_char=667|end_char=671|SpaceAfter=No
+9	!	!	PUNCT	_	_	8	_	_	start_char=671|end_char=672
+
+# text = #Чувашия.
+# sent_id = 6
+1	#	#	PUNCT	_	_	0	_	_	start_char=673|end_char=674|SpaceAfter=No
+2	Чувашия	Чувашия	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	_	_	start_char=674|end_char=681|SpaceAfter=No
+3	.	.	PUNCT	_	_	2	_	_	start_char=681|end_char=682|SpaceAfter=No
+

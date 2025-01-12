@@ -1,0 +1,119 @@
+# text = ﻿СКР взялся расследовать атаку ВСУ на Белгородскую область Следственный комитет России (СКР) будет расследовать новые преступления Вооруженных сил Украины (ВСУ) в Белгородской области.
+# sent_id = 0
+1	﻿СКР	﻿скр	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=0|end_char=4
+2	взялся	браться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	1	_	_	start_char=5|end_char=11
+3	расследовать	расследовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	_	_	start_char=12|end_char=24
+4	атаку	атака	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	_	_	start_char=25|end_char=30
+5	ВСУ	ВСУ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	_	_	start_char=31|end_char=34
+6	на	на	ADP	_	_	5	_	_	start_char=35|end_char=37
+7	Белгородскую	Белгородский	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	6	_	_	start_char=38|end_char=50
+8	область	область	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	_	_	start_char=51|end_char=58
+9	Следственный	следственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	_	_	start_char=59|end_char=71
+10	комитет	комитет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	_	_	start_char=72|end_char=79
+11	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	_	_	start_char=80|end_char=86
+12	(	(	PUNCT	_	_	11	_	_	start_char=87|end_char=88|SpaceAfter=No
+13	СКР	СКР	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	_	_	start_char=88|end_char=91|SpaceAfter=No
+14	)	)	PUNCT	_	_	13	_	_	start_char=91|end_char=92
+15	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	_	_	start_char=93|end_char=98
+16	расследовать	расследовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	15	_	_	start_char=99|end_char=111
+17	новые	новый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	16	_	_	start_char=112|end_char=117
+18	преступления	преступление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	17	_	_	start_char=118|end_char=130
+19	Вооруженных	вооружить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	18	_	_	start_char=131|end_char=142
+20	сил	сила	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	19	_	_	start_char=143|end_char=146
+21	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	_	_	start_char=147|end_char=154
+22	(	(	PUNCT	_	_	21	_	_	start_char=155|end_char=156|SpaceAfter=No
+23	ВСУ	ВСУ	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	22	_	_	start_char=156|end_char=159|SpaceAfter=No
+24	)	)	PUNCT	_	_	23	_	_	start_char=159|end_char=160
+25	в	в	ADP	_	_	24	_	_	start_char=161|end_char=162
+26	Белгородской	Белгородский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	25	_	_	start_char=163|end_char=175
+27	области	область	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	26	_	_	start_char=176|end_char=183|SpaceAfter=No
+28	.	.	PUNCT	_	_	27	_	_	start_char=183|end_char=184
+
+# text = Об этом «Ленте.ру» сообщили в ведомстве.
+# sent_id = 1
+1	Об	о	ADP	_	_	0	_	_	start_char=185|end_char=187
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=188|end_char=192
+3	«	"	PUNCT	_	_	2	_	_	start_char=193|end_char=194|SpaceAfter=No
+4	Ленте.ру	Ленте.ра	PROPN	_	_	3	_	_	start_char=194|end_char=202|SpaceAfter=No
+5	»	"	PUNCT	_	_	4	_	_	start_char=202|end_char=203
+6	сообщили	сообщить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	_	_	start_char=204|end_char=212
+7	в	в	ADP	_	_	6	_	_	start_char=213|end_char=214
+8	ведомстве	ведомство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	_	_	start_char=215|end_char=224|SpaceAfter=No
+9	.	.	PUNCT	_	_	8	_	_	start_char=224|end_char=225
+
+# text = По данным СКР, в селе Веселая Лопань в результате украинской вооруженной агрессии пострадал один человек.
+# sent_id = 2
+1	По	по	ADP	_	_	0	_	_	start_char=226|end_char=228
+2	данным	данные	NOUN	_	Animacy=Inan|Case=Dat|Number=Plur	1	_	_	start_char=229|end_char=235
+3	СКР	СКР	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	_	_	start_char=236|end_char=239|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=239|end_char=240
+5	в	в	ADP	_	_	4	_	_	start_char=241|end_char=242
+6	селе	село	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	_	_	start_char=243|end_char=247
+7	Веселая	веселый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	_	_	start_char=248|end_char=255
+8	Лопань	Лопань	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	_	_	start_char=256|end_char=262
+9	в	в	ADP	_	_	8	_	_	start_char=263|end_char=264
+10	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	_	_	start_char=265|end_char=275
+11	украинской	украинский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	_	_	start_char=276|end_char=286
+12	вооруженной	вооружить	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	11	_	_	start_char=287|end_char=298
+13	агрессии	агрессия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	_	_	start_char=299|end_char=307
+14	пострадал	страдать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	_	_	start_char=308|end_char=317
+15	один	один	NUM	_	Case=Nom|Gender=Masc|NumType=Card	14	_	_	start_char=318|end_char=322
+16	человек	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	15	_	_	start_char=323|end_char=330|SpaceAfter=No
+17	.	.	PUNCT	_	_	16	_	_	start_char=330|end_char=331
+
+# text = А из-за атаки беспилотника в селе Безымено был ранен мирный житель.
+# sent_id = 3
+1	А	а	CCONJ	_	_	0	_	_	start_char=332|end_char=333
+2	из-за	из-за	ADP	_	_	1	_	_	start_char=334|end_char=339
+3	атаки	атака	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	_	_	start_char=340|end_char=345
+4	беспилотника	беспилотник	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=346|end_char=358
+5	в	в	ADP	_	_	4	_	_	start_char=359|end_char=360
+6	селе	село	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	_	_	start_char=361|end_char=365
+7	Безымено	Безымено	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	_	_	start_char=366|end_char=374
+8	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	_	_	start_char=375|end_char=378
+9	ранен	ранить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	8	_	_	start_char=379|end_char=384
+10	мирный	мирный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	_	_	start_char=385|end_char=391
+11	житель	житель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	_	_	start_char=392|end_char=398|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	_	_	start_char=398|end_char=399
+
+# text = Следователи установят все обстоятельства произошедшего и дадут правовую оценку действиям причастных к атаке лиц.
+# sent_id = 4
+1	Следователи	следователь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	0	_	_	start_char=400|end_char=411
+2	установят	установить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	1	_	_	start_char=412|end_char=421
+3	все	весь	DET	_	Case=Acc|Number=Plur|PronType=Tot	2	_	_	start_char=422|end_char=425
+4	обстоятельства	обстоятельство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	3	_	_	start_char=426|end_char=440
+5	произошедшего	произойти	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	4	_	_	start_char=441|end_char=454
+6	и	и	CCONJ	_	_	5	_	_	start_char=455|end_char=456
+7	дадут	дать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	6	_	_	start_char=457|end_char=462
+8	правовую	правовой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	_	_	start_char=463|end_char=471
+9	оценку	оценка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	_	_	start_char=472|end_char=478
+10	действиям	действие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	9	_	_	start_char=479|end_char=488
+11	причастных	причастный	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	10	_	_	start_char=489|end_char=499
+12	к	к	ADP	_	_	11	_	_	start_char=500|end_char=501
+13	атаке	атака	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	12	_	_	start_char=502|end_char=507
+14	лиц	лицо	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur	13	_	_	start_char=508|end_char=511|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	_	_	start_char=511|end_char=512
+
+# text = Ранее стало известно, что СКР будет расследовать атаку дронов ВСУ на Краснодарский край и обстрел Горловки в ДНР.
+# sent_id = 5
+1	Ранее	ранее	ADV	_	Degree=Pos	0	_	_	start_char=513|end_char=518
+2	стало	стать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	1	_	_	start_char=519|end_char=524
+3	известно	известный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	_	_	start_char=525|end_char=533|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=533|end_char=534
+5	что	что	SCONJ	_	_	4	_	_	start_char=535|end_char=538
+6	СКР	СКР	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	5	_	_	start_char=539|end_char=542
+7	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	_	_	start_char=543|end_char=548
+8	расследовать	расследовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	_	_	start_char=549|end_char=561
+9	атаку	атака	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	_	_	start_char=562|end_char=567
+10	дронов	дрон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	_	_	start_char=568|end_char=574
+11	ВСУ	ВСУ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	_	_	start_char=575|end_char=578
+12	на	на	ADP	_	_	11	_	_	start_char=579|end_char=581
+13	Краснодарский	краснодарский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	12	_	_	start_char=582|end_char=595
+14	край	край	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	_	_	start_char=596|end_char=600
+15	и	и	CCONJ	_	_	14	_	_	start_char=601|end_char=602
+16	обстрел	обстрел	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	_	_	start_char=603|end_char=610
+17	Горловки	Горловка	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	_	_	start_char=611|end_char=619
+18	в	в	ADP	_	_	17	_	_	start_char=620|end_char=621
+19	ДНР	ДНР	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	18	_	_	start_char=622|end_char=625|SpaceAfter=No
+20	.	.	PUNCT	_	_	19	_	_	start_char=625|end_char=626|SpaceAfter=No
+

@@ -1,0 +1,169 @@
+# text = Российские военные уничтожили украинский МиГ-29 на аэродроме Долгинцево "МиГ-29 Вооруженных сил Украины (ВСУ) уничтожен на аэродроме Долгинцево в Днепропетровской области, сообщила пресс-служба Минобороны России 4 июля в Telegram-канале.
+# sent_id = 0
+1	Российские	российский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	0	_	_	start_char=0|end_char=10
+2	военные	военный	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	1	_	_	start_char=11|end_char=18
+3	уничтожили	уничтожить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=19|end_char=29
+4	украинский	украинский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	3	_	_	start_char=30|end_char=40
+5	МиГ	МиГ	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	_	_	start_char=41|end_char=44|SpaceAfter=No
+6	-	-	PUNCT	_	_	5	_	_	start_char=44|end_char=45|SpaceAfter=No
+7	29	29	NUM	_	NumType=Card	6	_	_	start_char=45|end_char=47
+8	на	на	ADP	_	_	7	_	_	start_char=48|end_char=50
+9	аэродроме	аэродром	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	_	_	start_char=51|end_char=60
+10	Долгинцево	Долгинцево	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	_	_	start_char=61|end_char=71
+11	"	"	PUNCT	_	_	10	_	_	start_char=72|end_char=73|SpaceAfter=No
+12	МиГ	миг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	_	_	start_char=73|end_char=76|SpaceAfter=No
+13	-	-	PUNCT	_	_	12	_	_	start_char=76|end_char=77|SpaceAfter=No
+14	29	29	NUM	_	NumType=Card	13	_	_	start_char=77|end_char=79
+15	Вооруженных	вооружить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	14	_	_	start_char=80|end_char=91
+16	сил	сила	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	15	_	_	start_char=92|end_char=95
+17	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	_	_	start_char=96|end_char=103
+18	(	(	PUNCT	_	_	17	_	_	start_char=104|end_char=105|SpaceAfter=No
+19	ВСУ	ВСУ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	_	_	start_char=105|end_char=108|SpaceAfter=No
+20	)	)	PUNCT	_	_	19	_	_	start_char=108|end_char=109
+21	уничтожен	уничтожить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	20	_	_	start_char=110|end_char=119
+22	на	на	ADP	_	_	21	_	_	start_char=120|end_char=122
+23	аэродроме	аэродром	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	22	_	_	start_char=123|end_char=132
+24	Долгинцево	Долгинцево	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	23	_	_	start_char=133|end_char=143
+25	в	в	ADP	_	_	24	_	_	start_char=144|end_char=145
+26	Днепропетровской	днепропетровский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	25	_	_	start_char=146|end_char=162
+27	области	область	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	26	_	_	start_char=163|end_char=170|SpaceAfter=No
+28	,	,	PUNCT	_	_	27	_	_	start_char=170|end_char=171
+29	сообщила	сообщить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	28	_	_	start_char=172|end_char=180
+30	пресс-служба	пресс-служба	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	29	_	_	start_char=181|end_char=193
+31	Минобороны	Минобороны	PROPN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	30	_	_	start_char=194|end_char=204
+32	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	31	_	_	start_char=205|end_char=211
+33	4	4	NUM	_	NumType=Card	32	_	_	start_char=212|end_char=213
+34	июля	июль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	33	_	_	start_char=214|end_char=218
+35	в	в	ADP	_	_	34	_	_	start_char=219|end_char=220
+36	Telegram	Telegram	PROPN	_	_	35	_	_	start_char=221|end_char=229|SpaceAfter=No
+37	-	-	PUNCT	_	_	36	_	_	start_char=229|end_char=230|SpaceAfter=No
+38	канале	канал	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	37	_	_	start_char=230|end_char=236|SpaceAfter=No
+39	.	.	PUNCT	_	_	38	_	_	start_char=236|end_char=237
+
+# text = «Расчет ОТРК „Искандер“ ВС РФ нанес ракетный удар по стоянке авиационной техники на аэродроме Долгинцево в Днепропетровской области.
+# sent_id = 1
+1	«	"	PUNCT	_	_	0	_	_	start_char=238|end_char=239|SpaceAfter=No
+2	Расчет	расчет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=239|end_char=245
+3	ОТРК	ОТРК	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	_	_	start_char=246|end_char=250
+4	„	"	PUNCT	_	_	3	_	_	start_char=251|end_char=252|SpaceAfter=No
+5	Искандер	Искандер	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=252|end_char=260|SpaceAfter=No
+6	“	"	PUNCT	_	_	5	_	_	start_char=260|end_char=261
+7	ВС	ВС	PROPN	_	Abbr=Yes	6	_	_	start_char=262|end_char=264
+8	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	_	_	start_char=265|end_char=267
+9	нанес	нанести	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	_	_	start_char=268|end_char=273
+10	ракетный	ракетный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	_	_	start_char=274|end_char=282
+11	удар	удар	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	_	_	start_char=283|end_char=287
+12	по	по	ADP	_	_	11	_	_	start_char=288|end_char=290
+13	стоянке	стоянка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	12	_	_	start_char=291|end_char=298
+14	авиационной	авиационный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	_	_	start_char=299|end_char=310
+15	техники	техника	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	_	_	start_char=311|end_char=318
+16	на	на	ADP	_	_	15	_	_	start_char=319|end_char=321
+17	аэродроме	аэродром	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	16	_	_	start_char=322|end_char=331
+18	Долгинцево	Долгинцево	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	17	_	_	start_char=332|end_char=342
+19	в	в	ADP	_	_	18	_	_	start_char=343|end_char=344
+20	Днепропетровской	днепропетровский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	19	_	_	start_char=345|end_char=361
+21	области	область	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	20	_	_	start_char=362|end_char=369|SpaceAfter=No
+22	.	.	PUNCT	_	_	21	_	_	start_char=369|end_char=370
+
+# text = Уничтожены боевой самолет Миг-29 ВСУ» , — говорится в сообщении.
+# sent_id = 2
+1	Уничтожены	уничтожить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	_	_	start_char=371|end_char=381
+2	боевой	боевой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	_	_	start_char=382|end_char=388
+3	самолет	самолет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	_	_	start_char=389|end_char=396
+4	Миг	Миг	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	_	_	start_char=397|end_char=400|SpaceAfter=No
+5	-	-	PUNCT	_	_	4	_	_	start_char=400|end_char=401|SpaceAfter=No
+6	29	29	NUM	_	NumType=Card	5	_	_	start_char=401|end_char=403
+7	ВСУ	ВСУ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	_	_	start_char=404|end_char=407|SpaceAfter=No
+8	»	"	PUNCT	_	_	7	_	_	start_char=407|end_char=408
+9	,	,	PUNCT	_	_	8	_	_	start_char=409|end_char=410
+10	—	—	PUNCT	_	_	9	_	_	start_char=411|end_char=412
+11	говорится	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	10	_	_	start_char=413|end_char=422
+12	в	в	ADP	_	_	11	_	_	start_char=423|end_char=424
+13	сообщении	сообщение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	12	_	_	start_char=425|end_char=434|SpaceAfter=No
+14	.	.	PUNCT	_	_	13	_	_	start_char=434|end_char=435
+
+# text = Также в ведомстве уточнили, что при ударе по аэродрому были также уничтожены средства авиационного поражения и автомобили инженерной авиационной службы.
+# sent_id = 3
+1	Также	также	ADV	_	Degree=Pos	0	_	_	start_char=436|end_char=441
+2	в	в	ADP	_	_	1	_	_	start_char=442|end_char=443
+3	ведомстве	ведомство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	2	_	_	start_char=444|end_char=453
+4	уточнили	уточнить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	_	_	start_char=454|end_char=462|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=462|end_char=463
+6	что	что	SCONJ	_	_	5	_	_	start_char=464|end_char=467
+7	при	при	ADP	_	_	6	_	_	start_char=468|end_char=471
+8	ударе	удар	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	_	_	start_char=472|end_char=477
+9	по	по	ADP	_	_	8	_	_	start_char=478|end_char=480
+10	аэродрому	аэродром	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	9	_	_	start_char=481|end_char=490
+11	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	10	_	_	start_char=491|end_char=495
+12	также	также	ADV	_	Degree=Pos	11	_	_	start_char=496|end_char=501
+13	уничтожены	уничтожить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	12	_	_	start_char=502|end_char=512
+14	средства	средства	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	13	_	_	start_char=513|end_char=521
+15	авиационного	авиационный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	14	_	_	start_char=522|end_char=534
+16	поражения	поражение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	_	_	start_char=535|end_char=544
+17	и	и	CCONJ	_	_	16	_	_	start_char=545|end_char=546
+18	автомобили	автомобиль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	17	_	_	start_char=547|end_char=557
+19	инженерной	инженерный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	18	_	_	start_char=558|end_char=568
+20	авиационной	авиационный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	19	_	_	start_char=569|end_char=580
+21	службы	служба	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	_	_	start_char=581|end_char=587|SpaceAfter=No
+22	.	.	PUNCT	_	_	21	_	_	start_char=587|end_char=588
+
+# text = Ранее, 2 июля, российские военные нанесли удар по аэродрому Миргород, в результате чего были уничтожены пять и повреждены два украинских истребителя Су-27.
+# sent_id = 4
+1	Ранее	ранее	ADV	_	Degree=Pos	0	_	_	start_char=589|end_char=594|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	_	_	start_char=594|end_char=595
+3	2	2	NUM	_	NumType=Card	2	_	_	start_char=596|end_char=597
+4	июля	июль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=598|end_char=602|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=602|end_char=603
+6	российские	российский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	_	_	start_char=604|end_char=614
+7	военные	военный	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	6	_	_	start_char=615|end_char=622
+8	нанесли	нанести	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	7	_	_	start_char=623|end_char=630
+9	удар	удар	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	_	_	start_char=631|end_char=635
+10	по	по	ADP	_	_	9	_	_	start_char=636|end_char=638
+11	аэродрому	аэродром	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	10	_	_	start_char=639|end_char=648
+12	Миргород	Миргород	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	_	_	start_char=649|end_char=657|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=657|end_char=658
+14	в	в	ADP	_	_	13	_	_	start_char=659|end_char=660
+15	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	14	_	_	start_char=661|end_char=671
+16	чего	что	PRON	_	Case=Gen|PronType=Int,Rel	15	_	_	start_char=672|end_char=676
+17	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	16	_	_	start_char=677|end_char=681
+18	уничтожены	уничтожить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	17	_	_	start_char=682|end_char=692
+19	пять	пять	NUM	_	Case=Nom|NumType=Card	18	_	_	start_char=693|end_char=697
+20	и	и	CCONJ	_	_	19	_	_	start_char=698|end_char=699
+21	повреждены	повредить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	20	_	_	start_char=700|end_char=710
+22	два	два	NUM	_	Case=Nom|Gender=Masc|NumType=Card	21	_	_	start_char=711|end_char=714
+23	украинских	украинский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	22	_	_	start_char=715|end_char=725
+24	истребителя	истребитель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	23	_	_	start_char=726|end_char=737
+25	Су	Су	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	24	_	_	start_char=738|end_char=740|SpaceAfter=No
+26	-	-	PUNCT	_	_	25	_	_	start_char=740|end_char=741|SpaceAfter=No
+27	27	27	NUM	_	NumType=Card	26	_	_	start_char=741|end_char=743|SpaceAfter=No
+28	.	.	PUNCT	_	_	27	_	_	start_char=743|end_char=744
+
+# text = На следующий день был нанесен удар по аэродрому Полтава, где были уничтожены боевой вертолет ВСУ Ми-24 и автомобили инженерной авиационной службы."
+# sent_id = 5
+1	На	на	ADP	_	_	0	_	_	start_char=745|end_char=747
+2	следующий	следующий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	1	_	_	start_char=748|end_char=757
+3	день	день	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	_	_	start_char=758|end_char=762
+4	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	_	_	start_char=763|end_char=766
+5	нанесен	нанести	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	4	_	_	start_char=767|end_char=774
+6	удар	удар	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	_	_	start_char=775|end_char=779
+7	по	по	ADP	_	_	6	_	_	start_char=780|end_char=782
+8	аэродрому	аэродром	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	7	_	_	start_char=783|end_char=792
+9	Полтава	Полтав	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	_	_	start_char=793|end_char=800|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=800|end_char=801
+11	где	где	ADV	_	Degree=Pos	10	_	_	start_char=802|end_char=805
+12	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	11	_	_	start_char=806|end_char=810
+13	уничтожены	уничтожить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	12	_	_	start_char=811|end_char=821
+14	боевой	боевой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	13	_	_	start_char=822|end_char=828
+15	вертолет	вертолет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	_	_	start_char=829|end_char=837
+16	ВСУ	ВСУ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	_	_	start_char=838|end_char=841
+17	Ми	Ми	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	16	_	_	start_char=842|end_char=844|SpaceAfter=No
+18	-	-	PUNCT	_	_	17	_	_	start_char=844|end_char=845|SpaceAfter=No
+19	24	24	NUM	_	NumType=Card	18	_	_	start_char=845|end_char=847
+20	и	и	CCONJ	_	_	19	_	_	start_char=848|end_char=849
+21	автомобили	автомобиль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	20	_	_	start_char=850|end_char=860
+22	инженерной	инженерный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	21	_	_	start_char=861|end_char=871
+23	авиационной	авиационный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	22	_	_	start_char=872|end_char=883
+24	службы	служба	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	_	_	start_char=884|end_char=890|SpaceAfter=No
+25	.	.	PUNCT	_	_	24	_	_	start_char=890|end_char=891|SpaceAfter=No
+26	"	"	PUNCT	_	_	25	_	_	start_char=891|end_char=892|SpaceAfter=No
+

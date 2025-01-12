@@ -1,0 +1,362 @@
+# text = Родион Мирошник:
+# sent_id = 0
+1	Родион	Родион	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=0|end_char=6
+2	Мирошник	Мирошник	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=7|end_char=15|SpaceAfter=No
+3	:	:	PUNCT	_	_	2	_	_	start_char=15|end_char=16
+
+# text = За минувшую неделю от обстрелов нацистами российских территорий пострадали 106 мирных жителей: ранены 90 человек, в том числе 8 несовершеннолетних, погибли 16 человек, в том числе 3 детей За минувшую неделю от обстрелов нацистами российских территорий пострадали 106 мирных жителей: ранены 90 человек, в том числе 8 несовершеннолетних, погибли 16 человек, в том числе 3 детей.
+# sent_id = 1
+1	За	за	ADP	_	_	0	_	_	start_char=17|end_char=19
+2	минувшую	минувший	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	1	_	_	start_char=20|end_char=28
+3	неделю	неделя	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	_	_	start_char=29|end_char=35
+4	от	от	ADP	_	_	3	_	_	start_char=36|end_char=38
+5	обстрелов	обстрел	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	_	_	start_char=39|end_char=48
+6	нацистами	нацист	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	5	_	_	start_char=49|end_char=58
+7	российских	российский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	_	_	start_char=59|end_char=69
+8	территорий	территория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	_	_	start_char=70|end_char=80
+9	пострадали	страдать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	8	_	_	start_char=81|end_char=91
+10	106	106	NUM	_	NumType=Card	9	_	_	start_char=92|end_char=95
+11	мирных	мирный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	_	_	start_char=96|end_char=102
+12	жителей	житель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	11	_	_	start_char=103|end_char=110|SpaceAfter=No
+13	:	:	PUNCT	_	_	12	_	_	start_char=110|end_char=111
+14	ранены	ранить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	13	_	_	start_char=112|end_char=118
+15	90	90	NUM	_	NumType=Card	14	_	_	start_char=119|end_char=121
+16	человек	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	15	_	_	start_char=122|end_char=129|SpaceAfter=No
+17	,	,	PUNCT	_	_	16	_	_	start_char=129|end_char=130
+18	в	в	ADP	_	_	17	_	_	start_char=131|end_char=132
+19	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	18	_	_	start_char=133|end_char=136
+20	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	19	_	_	start_char=137|end_char=142
+21	8	8	NUM	_	NumType=Card	20	_	_	start_char=143|end_char=144
+22	несовершеннолетних	несовершеннолетний	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	21	_	_	start_char=145|end_char=163|SpaceAfter=No
+23	,	,	PUNCT	_	_	22	_	_	start_char=163|end_char=164
+24	погибли	погибнуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	23	_	_	start_char=165|end_char=172
+25	16	16	NUM	_	NumType=Card	24	_	_	start_char=173|end_char=175
+26	человек	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	25	_	_	start_char=176|end_char=183|SpaceAfter=No
+27	,	,	PUNCT	_	_	26	_	_	start_char=183|end_char=184
+28	в	в	ADP	_	_	27	_	_	start_char=185|end_char=186
+29	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	28	_	_	start_char=187|end_char=190
+30	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	29	_	_	start_char=191|end_char=196
+31	3	3	NUM	_	NumType=Card	30	_	_	start_char=197|end_char=198
+32	детей	ребенок	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	31	_	_	start_char=199|end_char=204
+33	За	за	ADP	_	_	32	_	_	start_char=205|end_char=207
+34	минувшую	минувший	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	33	_	_	start_char=208|end_char=216
+35	неделю	неделя	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	34	_	_	start_char=217|end_char=223
+36	от	от	ADP	_	_	35	_	_	start_char=224|end_char=226
+37	обстрелов	обстрел	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	36	_	_	start_char=227|end_char=236
+38	нацистами	нацист	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	37	_	_	start_char=237|end_char=246
+39	российских	российский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	38	_	_	start_char=247|end_char=257
+40	территорий	территория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	39	_	_	start_char=258|end_char=268
+41	пострадали	страдать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	40	_	_	start_char=269|end_char=279
+42	106	106	NUM	_	NumType=Card	41	_	_	start_char=280|end_char=283
+43	мирных	мирный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	42	_	_	start_char=284|end_char=290
+44	жителей	житель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	43	_	_	start_char=291|end_char=298|SpaceAfter=No
+45	:	:	PUNCT	_	_	44	_	_	start_char=298|end_char=299
+46	ранены	ранить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	45	_	_	start_char=300|end_char=306
+47	90	90	NUM	_	NumType=Card	46	_	_	start_char=307|end_char=309
+48	человек	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	47	_	_	start_char=310|end_char=317|SpaceAfter=No
+49	,	,	PUNCT	_	_	48	_	_	start_char=317|end_char=318
+50	в	в	ADP	_	_	49	_	_	start_char=319|end_char=320
+51	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	50	_	_	start_char=321|end_char=324
+52	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	51	_	_	start_char=325|end_char=330
+53	8	8	NUM	_	NumType=Card	52	_	_	start_char=331|end_char=332
+54	несовершеннолетних	несовершеннолетний	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	53	_	_	start_char=333|end_char=351|SpaceAfter=No
+55	,	,	PUNCT	_	_	54	_	_	start_char=351|end_char=352
+56	погибли	погибнуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	55	_	_	start_char=353|end_char=360
+57	16	16	NUM	_	NumType=Card	56	_	_	start_char=361|end_char=363
+58	человек	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	57	_	_	start_char=364|end_char=371|SpaceAfter=No
+59	,	,	PUNCT	_	_	58	_	_	start_char=371|end_char=372
+60	в	в	ADP	_	_	59	_	_	start_char=373|end_char=374
+61	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	60	_	_	start_char=375|end_char=378
+62	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	61	_	_	start_char=379|end_char=384
+63	3	3	NUM	_	NumType=Card	62	_	_	start_char=385|end_char=386
+64	детей	ребенок	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	63	_	_	start_char=387|end_char=392|SpaceAfter=No
+65	.	.	PUNCT	_	_	64	_	_	start_char=392|end_char=393
+
+# text = Число прилетов по гражданским объектам за прошедшие семь дней достигло 2224 боеприпаса.
+# sent_id = 2
+1	Число	число	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	_	_	start_char=394|end_char=399
+2	прилетов	прилет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	_	_	start_char=400|end_char=408
+3	по	по	ADP	_	_	2	_	_	start_char=409|end_char=411
+4	гражданским	гражданский	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	3	_	_	start_char=412|end_char=423
+5	объектам	объект	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	4	_	_	start_char=424|end_char=432
+6	за	за	ADP	_	_	5	_	_	start_char=433|end_char=435
+7	прошедшие	пройти	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	6	_	_	start_char=436|end_char=445
+8	семь	семь	NUM	_	Case=Acc|NumType=Card	7	_	_	start_char=446|end_char=450
+9	дней	день	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	_	_	start_char=451|end_char=455
+10	достигло	достичь	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	_	_	start_char=456|end_char=464
+11	2224	2224	NUM	_	NumType=Card	10	_	_	start_char=465|end_char=469
+12	боеприпаса	боеприпас	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	_	_	start_char=470|end_char=480|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=480|end_char=481
+
+# text = По гражданской инфраструктуре украинскими нацистами наносились удары из артиллерии, РСЗО, в том числе HIMARS американского производства, ударных беспилотников.
+# sent_id = 3
+1	По	по	ADP	_	_	0	_	_	start_char=482|end_char=484
+2	гражданской	гражданский	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	1	_	_	start_char=485|end_char=496
+3	инфраструктуре	инфраструктура	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	2	_	_	start_char=497|end_char=511
+4	украинскими	украинский	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	3	_	_	start_char=512|end_char=523
+5	нацистами	нацист	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	4	_	_	start_char=524|end_char=533
+6	наносились	наносить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Pass	5	_	_	start_char=534|end_char=544
+7	удары	удар	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	6	_	_	start_char=545|end_char=550
+8	из	из	ADP	_	_	7	_	_	start_char=551|end_char=553
+9	артиллерии	артиллерия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	_	_	start_char=554|end_char=564|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=564|end_char=565
+11	РСЗО	РСЗО	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	_	_	start_char=566|end_char=570|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	_	_	start_char=570|end_char=571
+13	в	в	ADP	_	_	12	_	_	start_char=572|end_char=573
+14	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	13	_	_	start_char=574|end_char=577
+15	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	14	_	_	start_char=578|end_char=583
+16	HIMARS	HIMARS	PROPN	_	Foreign=Yes	15	_	_	start_char=584|end_char=590
+17	американского	американский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	16	_	_	start_char=591|end_char=604
+18	производства	производство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	_	_	start_char=605|end_char=617|SpaceAfter=No
+19	,	,	PUNCT	_	_	18	_	_	start_char=617|end_char=618
+20	ударных	ударный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	19	_	_	start_char=619|end_char=626
+21	беспилотников	беспилотник	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	20	_	_	start_char=627|end_char=640|SpaceAfter=No
+22	.	.	PUNCT	_	_	21	_	_	start_char=640|end_char=641
+
+# text = Над территорией Курской области в районе села Березовка была сбита баллистическая ракета.
+# sent_id = 4
+1	Над	над	ADP	_	_	0	_	_	start_char=642|end_char=645
+2	территорией	территория	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	1	_	_	start_char=646|end_char=657
+3	Курской	курский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	2	_	_	start_char=658|end_char=665
+4	области	область	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	_	_	start_char=666|end_char=673
+5	в	в	ADP	_	_	4	_	_	start_char=674|end_char=675
+6	районе	район	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	_	_	start_char=676|end_char=682
+7	села	село	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	_	_	start_char=683|end_char=687
+8	Березовка	Березовка	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	_	_	start_char=688|end_char=697
+9	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	_	_	start_char=698|end_char=702
+10	сбита	сбить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	9	_	_	start_char=703|end_char=708
+11	баллистическая	баллистический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	_	_	start_char=709|end_char=723
+12	ракета	ракета	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	_	_	start_char=724|end_char=730|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=730|end_char=731
+
+# text = Жертвами украинских ударов по гражданским становились целые семьи.
+# sent_id = 5
+1	Жертвами	жертва	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Plur	0	_	_	start_char=732|end_char=740
+2	украинских	украинский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	1	_	_	start_char=741|end_char=751
+3	ударов	удар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	_	_	start_char=752|end_char=758
+4	по	по	ADP	_	_	3	_	_	start_char=759|end_char=761
+5	гражданским	гражданский	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	4	_	_	start_char=762|end_char=773
+6	становились	становиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	5	_	_	start_char=774|end_char=785
+7	целые	целый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	_	_	start_char=786|end_char=791
+8	семьи	семья	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	7	_	_	start_char=792|end_char=797|SpaceAfter=No
+9	.	.	PUNCT	_	_	8	_	_	start_char=797|end_char=798
+
+# text = В Курской области от атаки украинского дрона на жилой дом погибли сразу пять человек, в том числе двое детей - двух и четырех лет.
+# sent_id = 6
+1	В	в	ADP	_	_	0	_	_	start_char=799|end_char=800
+2	Курской	курский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	1	_	_	start_char=801|end_char=808
+3	области	область	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	_	_	start_char=809|end_char=816
+4	от	от	ADP	_	_	3	_	_	start_char=817|end_char=819
+5	атаки	атака	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	_	_	start_char=820|end_char=825
+6	украинского	украинский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	5	_	_	start_char=826|end_char=837
+7	дрона	дрона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	_	_	start_char=838|end_char=843
+8	на	на	ADP	_	_	7	_	_	start_char=844|end_char=846
+9	жилой	жилой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	_	_	start_char=847|end_char=852
+10	дом	дом	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	_	_	start_char=853|end_char=856
+11	погибли	погибнуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	10	_	_	start_char=857|end_char=864
+12	сразу	сразу	ADV	_	Degree=Pos	11	_	_	start_char=865|end_char=870
+13	пять	пять	NUM	_	Case=Nom|NumType=Card	12	_	_	start_char=871|end_char=875
+14	человек	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	13	_	_	start_char=876|end_char=883|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=883|end_char=884
+16	в	в	ADP	_	_	15	_	_	start_char=885|end_char=886
+17	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	16	_	_	start_char=887|end_char=890
+18	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	17	_	_	start_char=891|end_char=896
+19	двое	двое	NUM	_	Case=Nom|NumType=Card	18	_	_	start_char=897|end_char=901
+20	детей	ребенок	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	19	_	_	start_char=902|end_char=907
+21	-	-	PUNCT	_	_	20	_	_	start_char=908|end_char=909
+22	двух	два	NUM	_	Case=Gen|NumType=Card	21	_	_	start_char=910|end_char=914
+23	и	и	CCONJ	_	_	22	_	_	start_char=915|end_char=916
+24	четырех	четыре	NUM	_	Case=Gen|NumType=Card	23	_	_	start_char=917|end_char=924
+25	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	24	_	_	start_char=925|end_char=928|SpaceAfter=No
+26	.	.	PUNCT	_	_	25	_	_	start_char=928|end_char=929
+
+# text = В Белгородской области ВСУ ударили с помощью дрона по гражданскому автомобилю, в котором ехала семья из пяти человек, погиб малолетний ребенок.
+# sent_id = 7
+1	В	в	ADP	_	_	0	_	_	start_char=930|end_char=931
+2	Белгородской	Белгородский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	1	_	_	start_char=932|end_char=944
+3	области	область	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	_	_	start_char=945|end_char=952
+4	ВСУ	ВСУ	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	3	_	_	start_char=953|end_char=956
+5	ударили	ударить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	_	_	start_char=957|end_char=964
+6	с	с	ADP	_	_	5	_	_	start_char=965|end_char=966
+7	помощью	помощь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	6	_	_	start_char=967|end_char=974
+8	дрона	дрона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	_	_	start_char=975|end_char=980
+9	по	по	ADP	_	_	8	_	_	start_char=981|end_char=983
+10	гражданскому	гражданский	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	9	_	_	start_char=984|end_char=996
+11	автомобилю	автомобиль	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	10	_	_	start_char=997|end_char=1007|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	_	_	start_char=1007|end_char=1008
+13	в	в	ADP	_	_	12	_	_	start_char=1009|end_char=1010
+14	котором	который	PRON	_	Case=Loc|PronType=Int,Rel	13	_	_	start_char=1011|end_char=1018
+15	ехала	ехать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	_	_	start_char=1019|end_char=1024
+16	семья	семья	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	_	_	start_char=1025|end_char=1030
+17	из	из	ADP	_	_	16	_	_	start_char=1031|end_char=1033
+18	пяти	пять	NUM	_	Case=Gen|NumType=Card	17	_	_	start_char=1034|end_char=1038
+19	человек	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	18	_	_	start_char=1039|end_char=1046|SpaceAfter=No
+20	,	,	PUNCT	_	_	19	_	_	start_char=1046|end_char=1047
+21	погиб	погибнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	20	_	_	start_char=1048|end_char=1053
+22	малолетний	малолетний	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	21	_	_	start_char=1054|end_char=1064
+23	ребенок	ребенок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	22	_	_	start_char=1065|end_char=1072|SpaceAfter=No
+24	.	.	PUNCT	_	_	23	_	_	start_char=1072|end_char=1073
+
+# text = В Донецке семья пострадала от удара из артиллерии по остановке общественного транспорта.
+# sent_id = 8
+1	В	в	ADP	_	_	0	_	_	start_char=1074|end_char=1075
+2	Донецке	Донецк	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	_	_	start_char=1076|end_char=1083
+3	семья	семья	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	_	_	start_char=1084|end_char=1089
+4	пострадала	страдать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	_	_	start_char=1090|end_char=1100
+5	от	от	ADP	_	_	4	_	_	start_char=1101|end_char=1103
+6	удара	удар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	_	_	start_char=1104|end_char=1109
+7	из	из	ADP	_	_	6	_	_	start_char=1110|end_char=1112
+8	артиллерии	артиллерия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	_	_	start_char=1113|end_char=1123
+9	по	по	ADP	_	_	8	_	_	start_char=1124|end_char=1126
+10	остановке	остановка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	9	_	_	start_char=1127|end_char=1136
+11	общественного	общественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	_	_	start_char=1137|end_char=1150
+12	транспорта	транспорт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	_	_	start_char=1151|end_char=1161|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=1161|end_char=1162
+
+# text = Число обстрелов гражданских объектов с использованием американского вооружения, существенно выросло в т.ч. с использованием РСЗО HIMARS.
+# sent_id = 9
+1	Число	число	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	_	_	start_char=1163|end_char=1168
+2	обстрелов	обстрел	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	_	_	start_char=1169|end_char=1178
+3	гражданских	гражданский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	2	_	_	start_char=1179|end_char=1190
+4	объектов	объект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	_	_	start_char=1191|end_char=1199
+5	с	с	ADP	_	_	4	_	_	start_char=1200|end_char=1201
+6	использованием	использование	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	5	_	_	start_char=1202|end_char=1216
+7	американского	американский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	6	_	_	start_char=1217|end_char=1230
+8	вооружения	вооружение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	_	_	start_char=1231|end_char=1241|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=1241|end_char=1242
+10	существенно	существенно	ADV	_	Degree=Pos	9	_	_	start_char=1243|end_char=1254
+11	выросло	вырасти	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	_	_	start_char=1255|end_char=1262
+12	в	в	ADP	_	_	11	_	_	start_char=1263|end_char=1264
+13	т.	то	PRON	_	Case=Acc|Number=Sing|PronType=Dem	12	_	_	start_char=1265|end_char=1267|SpaceAfter=No
+14	ч.	час	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	13	_	_	start_char=1267|end_char=1269
+15	с	с	ADP	_	_	14	_	_	start_char=1270|end_char=1271
+16	использованием	использование	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	15	_	_	start_char=1272|end_char=1286
+17	РСЗО	РСЗО	PROPN	_	Animacy=Inan|Case=Gen|Number=Sing	16	_	_	start_char=1287|end_char=1291
+18	HIMARS	HIMARS	PROPN	_	Foreign=Yes	17	_	_	start_char=1292|end_char=1298|SpaceAfter=No
+19	.	.	PUNCT	_	_	18	_	_	start_char=1298|end_char=1299
+
+# text = Этот вид вооружений использовался по Белгородской области, ДНР и ЛНР.
+# sent_id = 10
+1	Этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	0	_	_	start_char=1300|end_char=1304
+2	вид	вид	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=1305|end_char=1308
+3	вооружений	вооружение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	2	_	_	start_char=1309|end_char=1319
+4	использовался	использовать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	3	_	_	start_char=1320|end_char=1333
+5	по	по	ADP	_	_	4	_	_	start_char=1334|end_char=1336
+6	Белгородской	Белгородский	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	5	_	_	start_char=1337|end_char=1349
+7	области	область	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	6	_	_	start_char=1350|end_char=1357|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=1357|end_char=1358
+9	ДНР	ДНР	PROPN	_	Animacy=Inan|Number=Sing	8	_	_	start_char=1359|end_char=1362
+10	и	и	CCONJ	_	_	9	_	_	start_char=1363|end_char=1364
+11	ЛНР	ЛНР	PROPN	_	Animacy=Inan|Number=Sing	10	_	_	start_char=1365|end_char=1368|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	_	_	start_char=1368|end_char=1369
+
+# text = Это прямой итог американских поставок и разрешения Байдена Зеленскому использовать американское вооружение по российским территориям.
+# sent_id = 11
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	_	_	start_char=1370|end_char=1373
+2	прямой	прямой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	_	_	start_char=1374|end_char=1380
+3	итог	итог	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	_	_	start_char=1381|end_char=1385
+4	американских	американский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	_	_	start_char=1386|end_char=1398
+5	поставок	поставка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	4	_	_	start_char=1399|end_char=1407
+6	и	и	CCONJ	_	_	5	_	_	start_char=1408|end_char=1409
+7	разрешения	разрешение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	_	_	start_char=1410|end_char=1420
+8	Байдена	Байден	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	7	_	_	start_char=1421|end_char=1428
+9	Зеленскому	Зеленский	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	8	_	_	start_char=1429|end_char=1439
+10	использовать	использовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	_	_	start_char=1440|end_char=1452
+11	американское	американский	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	10	_	_	start_char=1453|end_char=1465
+12	вооружение	вооружение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	_	_	start_char=1466|end_char=1476
+13	по	по	ADP	_	_	12	_	_	start_char=1477|end_char=1479
+14	российским	российский	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	13	_	_	start_char=1480|end_char=1490
+15	территориям	территория	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	14	_	_	start_char=1491|end_char=1502|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	_	_	start_char=1502|end_char=1503
+
+# text = Ударам подверглись жилые многоэтажные и частные дома, школы, гражданский транспорт, сельхозтехника.
+# sent_id = 12
+1	Ударам	удар	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	0	_	_	start_char=1504|end_char=1510
+2	подверглись	подвергнуться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	1	_	_	start_char=1511|end_char=1522
+3	жилые	жилой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	_	_	start_char=1523|end_char=1528
+4	многоэтажные	многоэтажный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	_	_	start_char=1529|end_char=1541
+5	и	и	CCONJ	_	_	4	_	_	start_char=1542|end_char=1543
+6	частные	частный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	_	_	start_char=1544|end_char=1551
+7	дома	дом	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	6	_	_	start_char=1552|end_char=1556|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=1556|end_char=1557
+9	школы	школа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	8	_	_	start_char=1558|end_char=1563|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=1563|end_char=1564
+11	гражданский	гражданский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	_	_	start_char=1565|end_char=1576
+12	транспорт	транспорт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	_	_	start_char=1577|end_char=1586|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=1586|end_char=1587
+14	сельхозтехника	сельхозтехника	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	_	_	start_char=1588|end_char=1602|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	_	_	start_char=1602|end_char=1603
+
+# text = Характер ударов говорит о спланированных и преднамеренных действиях украинских вооруженных формирований по нарушению норм и принципов МГП.
+# sent_id = 13
+1	Характер	характер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=1604|end_char=1612
+2	ударов	удар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	_	_	start_char=1613|end_char=1619
+3	говорит	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=1620|end_char=1627
+4	о	о	ADP	_	_	3	_	_	start_char=1628|end_char=1629
+5	спланированных	спланировать	VERB	_	Aspect=Perf|Case=Loc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	4	_	_	start_char=1630|end_char=1644
+6	и	и	CCONJ	_	_	5	_	_	start_char=1645|end_char=1646
+7	преднамеренных	преднамеренный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	6	_	_	start_char=1647|end_char=1661
+8	действиях	действие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	7	_	_	start_char=1662|end_char=1671
+9	украинских	украинский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	_	_	start_char=1672|end_char=1682
+10	вооруженных	вооружить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	9	_	_	start_char=1683|end_char=1694
+11	формирований	формирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	10	_	_	start_char=1695|end_char=1707
+12	по	по	ADP	_	_	11	_	_	start_char=1708|end_char=1710
+13	нарушению	нарушение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	12	_	_	start_char=1711|end_char=1720
+14	норм	норма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	13	_	_	start_char=1721|end_char=1725
+15	и	и	CCONJ	_	_	14	_	_	start_char=1726|end_char=1727
+16	принципов	принцип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	15	_	_	start_char=1728|end_char=1737
+17	МГП	МГП	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	_	_	start_char=1738|end_char=1741|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	_	_	start_char=1741|end_char=1742
+
+# text = Данные собраны службой Посла по особым поручениям по преступлениям киевского режима МИД России при содействии Лаборатории интеллектуального анализа данных в области международных отношений ИМИ МГИМО МИД России.
+# sent_id = 14
+1	Данные	данные	NOUN	_	Animacy=Inan|Case=Nom|Number=Plur	0	_	_	start_char=1743|end_char=1749
+2	собраны	собрать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	1	_	_	start_char=1750|end_char=1757
+3	службой	служба	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	2	_	_	start_char=1758|end_char=1765
+4	Посла	Посл	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=1766|end_char=1771
+5	по	по	ADP	_	_	4	_	_	start_char=1772|end_char=1774
+6	особым	особый	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	5	_	_	start_char=1775|end_char=1781
+7	поручениям	поручение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	6	_	_	start_char=1782|end_char=1792
+8	по	по	ADP	_	_	7	_	_	start_char=1793|end_char=1795
+9	преступлениям	преступление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	8	_	_	start_char=1796|end_char=1809
+10	киевского	киевский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	_	_	start_char=1810|end_char=1819
+11	режима	режим	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	_	_	start_char=1820|end_char=1826
+12	МИД	МИД	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	_	_	start_char=1827|end_char=1830
+13	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	_	_	start_char=1831|end_char=1837
+14	при	при	ADP	_	_	13	_	_	start_char=1838|end_char=1841
+15	содействии	содействие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	14	_	_	start_char=1842|end_char=1852
+16	Лаборатории	Лаборатория	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	_	_	start_char=1853|end_char=1864
+17	интеллектуального	интеллектуальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	16	_	_	start_char=1865|end_char=1882
+18	анализа	анализ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	_	_	start_char=1883|end_char=1890
+19	данных	данные	NOUN	_	Animacy=Inan|Case=Gen|Number=Plur	18	_	_	start_char=1891|end_char=1897
+20	в	в	ADP	_	_	19	_	_	start_char=1898|end_char=1899
+21	области	область	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	20	_	_	start_char=1900|end_char=1907
+22	международных	международный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	21	_	_	start_char=1908|end_char=1921
+23	отношений	отношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	22	_	_	start_char=1922|end_char=1931
+24	ИМИ	ИМИ	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	23	_	_	start_char=1932|end_char=1935
+25	МГИМО	МГИМО	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	24	_	_	start_char=1936|end_char=1941
+26	МИД	МИД	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	25	_	_	start_char=1942|end_char=1945
+27	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	26	_	_	start_char=1946|end_char=1952|SpaceAfter=No
+28	.	.	PUNCT	_	_	27	_	_	start_char=1952|end_char=1953
+
+# text = На карте: случаи обстрелов гражданских объектов ВСУ за период с 24 по 30 июня 2024 года.
+# sent_id = 15
+1	На	на	ADP	_	_	0	_	_	start_char=1954|end_char=1956
+2	карте	карта	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	_	_	start_char=1957|end_char=1962|SpaceAfter=No
+3	:	:	PUNCT	_	_	2	_	_	start_char=1962|end_char=1963
+4	случаи	случай	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	_	_	start_char=1964|end_char=1970
+5	обстрелов	обстрел	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	_	_	start_char=1971|end_char=1980
+6	гражданских	гражданский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	_	_	start_char=1981|end_char=1992
+7	объектов	объект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	_	_	start_char=1993|end_char=2001
+8	ВСУ	ВСУ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	_	_	start_char=2002|end_char=2005
+9	за	за	ADP	_	_	8	_	_	start_char=2006|end_char=2008
+10	период	период	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	_	_	start_char=2009|end_char=2015
+11	с	с	ADP	_	_	10	_	_	start_char=2016|end_char=2017
+12	24	24	NUM	_	NumType=Card	11	_	_	start_char=2018|end_char=2020
+13	по	по	ADP	_	_	12	_	_	start_char=2021|end_char=2023
+14	30	30	NUM	_	NumType=Card	13	_	_	start_char=2024|end_char=2026
+15	июня	июнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	_	_	start_char=2027|end_char=2031
+16	2024	2024	ADJ	_	Degree=Pos	15	_	_	start_char=2032|end_char=2036
+17	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	_	_	start_char=2037|end_char=2041|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	_	_	start_char=2041|end_char=2042|SpaceAfter=No
+

@@ -1,0 +1,139 @@
+# text = Сотрудники МЧС России ликвидировали пожар в частном доме в Мелитополе "На линию «101» поступило сообщение о возгорании в частном нежилом доме в Мелитополе.
+# sent_id = 0
+1	Сотрудники	сотрудник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	0	_	_	start_char=0|end_char=10
+2	МЧС	МЧС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	_	_	start_char=11|end_char=14
+3	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	_	_	start_char=15|end_char=21
+4	ликвидировали	ликвидировать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	_	_	start_char=22|end_char=35
+5	пожар	пожар	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	_	_	start_char=36|end_char=41
+6	в	в	ADP	_	_	5	_	_	start_char=42|end_char=43
+7	частном	частный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	6	_	_	start_char=44|end_char=51
+8	доме	дом	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	_	_	start_char=52|end_char=56
+9	в	в	ADP	_	_	8	_	_	start_char=57|end_char=58
+10	Мелитополе	Мелитополь	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	_	_	start_char=59|end_char=69
+11	"	"	PUNCT	_	_	10	_	_	start_char=70|end_char=71|SpaceAfter=No
+12	На	на	ADP	_	_	11	_	_	start_char=71|end_char=73
+13	линию	линия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	_	_	start_char=74|end_char=79
+14	«	"	PUNCT	_	_	13	_	_	start_char=80|end_char=81|SpaceAfter=No
+15	101	101	NUM	_	NumType=Card	14	_	_	start_char=81|end_char=84|SpaceAfter=No
+16	»	"	PUNCT	_	_	15	_	_	start_char=84|end_char=85
+17	поступило	поступить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	16	_	_	start_char=86|end_char=95
+18	сообщение	сообщение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	17	_	_	start_char=96|end_char=105
+19	о	о	ADP	_	_	18	_	_	start_char=106|end_char=107
+20	возгорании	возгорание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	19	_	_	start_char=108|end_char=118
+21	в	в	ADP	_	_	20	_	_	start_char=119|end_char=120
+22	частном	частный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	21	_	_	start_char=121|end_char=128
+23	нежилом	нежилой	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	22	_	_	start_char=129|end_char=136
+24	доме	дом	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	23	_	_	start_char=137|end_char=141
+25	в	в	ADP	_	_	24	_	_	start_char=142|end_char=143
+26	Мелитополе	Мелитополь	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	25	_	_	start_char=144|end_char=154|SpaceAfter=No
+27	.	.	PUNCT	_	_	26	_	_	start_char=154|end_char=155
+
+# text = Огонь охватил кровлю дома, окна и двери, частично стены.
+# sent_id = 1
+1	Огонь	огонь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=156|end_char=161
+2	охватил	охватить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=162|end_char=169
+3	кровлю	кровля	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	_	_	start_char=170|end_char=176
+4	дома	дом	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=177|end_char=181|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=181|end_char=182
+6	окна	окно	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	5	_	_	start_char=183|end_char=187
+7	и	и	CCONJ	_	_	6	_	_	start_char=188|end_char=189
+8	двери	дверь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	7	_	_	start_char=190|end_char=195|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=195|end_char=196
+10	частично	частично	ADV	_	Degree=Pos	9	_	_	start_char=197|end_char=205
+11	стены	стена	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	10	_	_	start_char=206|end_char=211|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	_	_	start_char=211|end_char=212
+
+# text = Благодаря слаженной работе огнеборцев пожар удалось ликвидировать в кратчайшие сроки.
+# sent_id = 2
+1	Благодаря	благодаря	ADP	_	_	0	_	_	start_char=213|end_char=222
+2	слаженной	слаженный	VERB	_	Aspect=Perf|Case=Dat|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	_	_	start_char=223|end_char=232
+3	работе	работа	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	2	_	_	start_char=233|end_char=239
+4	огнеборцев	огнеборец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	3	_	_	start_char=240|end_char=250
+5	пожар	пожар	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	_	_	start_char=251|end_char=256
+6	удалось	удаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	5	_	_	start_char=257|end_char=264
+7	ликвидировать	ликвидировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	_	_	start_char=265|end_char=278
+8	в	в	ADP	_	_	7	_	_	start_char=279|end_char=280
+9	кратчайшие	краткий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	8	_	_	start_char=281|end_char=291
+10	сроки	срок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	9	_	_	start_char=292|end_char=297|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	_	_	start_char=297|end_char=298
+
+# text = Пострадавших нет.
+# sent_id = 3
+1	Пострадавших	пострадавший	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	0	_	_	start_char=299|end_char=311
+2	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	_	_	start_char=312|end_char=315|SpaceAfter=No
+3	.	.	PUNCT	_	_	2	_	_	start_char=315|end_char=316
+
+# text = Источник: Telegram-канал ""Администрация города Мелитополя""
+# sent_id = 4
+1	Источник	источник	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=317|end_char=325|SpaceAfter=No
+2	:	:	PUNCT	_	_	1	_	_	start_char=325|end_char=326
+3	Telegram	Telegram	PROPN	_	Gender=Masc|Number=Sing	2	_	_	start_char=327|end_char=335|SpaceAfter=No
+4	-	-	PUNCT	_	_	3	_	_	start_char=335|end_char=336|SpaceAfter=No
+5	канал	канал	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=336|end_char=341
+6	"	"	PUNCT	_	_	5	_	_	start_char=342|end_char=343|SpaceAfter=No
+7	"	"	PUNCT	_	_	6	_	_	start_char=343|end_char=344|SpaceAfter=No
+8	Администрация	администрация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	_	_	start_char=344|end_char=357
+9	города	город	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	_	_	start_char=358|end_char=364
+10	Мелитополя	Мелитополь	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	_	_	start_char=365|end_char=375|SpaceAfter=No
+11	"	"	PUNCT	_	_	10	_	_	start_char=375|end_char=376|SpaceAfter=No
+12	"	"	PUNCT	_	_	11	_	_	start_char=376|end_char=377
+
+# text = В Малой Токмачке и Жеребянке бойцы группировки войск «Днепр» нанесли поражение двум бригадам ВСУ Кроме того, за минувшие сутки ВС РФ уничтожили до 70 боевиков ВСУ.
+# sent_id = 5
+1	В	в	ADP	_	_	0	_	_	start_char=378|end_char=379
+2	Малой	малый	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	1	_	_	start_char=380|end_char=385
+3	Токмачке	Токмачка	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	_	_	start_char=386|end_char=394
+4	и	и	CCONJ	_	_	3	_	_	start_char=395|end_char=396
+5	Жеребянке	Жеребянка	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	_	_	start_char=397|end_char=406
+6	бойцы	боец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	5	_	_	start_char=407|end_char=412
+7	группировки	группировка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	_	_	start_char=413|end_char=424
+8	войск	войска	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	7	_	_	start_char=425|end_char=430
+9	«	"	PUNCT	_	_	8	_	_	start_char=431|end_char=432|SpaceAfter=No
+10	Днепр	Днепр	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	_	_	start_char=432|end_char=437|SpaceAfter=No
+11	»	"	PUNCT	_	_	10	_	_	start_char=437|end_char=438
+12	нанесли	нанести	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	11	_	_	start_char=439|end_char=446
+13	поражение	поражение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	12	_	_	start_char=447|end_char=456
+14	двум	два	NUM	_	Case=Dat|NumType=Card	13	_	_	start_char=457|end_char=461
+15	бригадам	бригада	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	14	_	_	start_char=462|end_char=470
+16	ВСУ	ВСУ	PROPN	_	Animacy=Inan|Case=Gen|Number=Sing	15	_	_	start_char=471|end_char=474
+17	Кроме	кроме	ADP	_	_	16	_	_	start_char=475|end_char=480
+18	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	17	_	_	start_char=481|end_char=485|SpaceAfter=No
+19	,	,	PUNCT	_	_	18	_	_	start_char=485|end_char=486
+20	за	за	ADP	_	_	19	_	_	start_char=487|end_char=489
+21	минувшие	минувший	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	20	_	_	start_char=490|end_char=498
+22	сутки	сутки	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	21	_	_	start_char=499|end_char=504
+23	ВС	ВС	PROPN	_	Abbr=Yes	22	_	_	start_char=505|end_char=507
+24	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	_	_	start_char=508|end_char=510
+25	уничтожили	уничтожить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	24	_	_	start_char=511|end_char=521
+26	до	до	ADP	_	_	25	_	_	start_char=522|end_char=524
+27	70	70	NUM	_	NumType=Card	26	_	_	start_char=525|end_char=527
+28	боевиков	боевик	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	27	_	_	start_char=528|end_char=536
+29	ВСУ	ВСУ	PROPN	_	Animacy=Inan|Case=Gen|Number=Sing	28	_	_	start_char=537|end_char=540|SpaceAfter=No
+30	.	.	PUNCT	_	_	29	_	_	start_char=540|end_char=541
+
+# text = Также противник потерял три автомобиля и станцию РЭБ, сообщили в Минобороны РФ.
+# sent_id = 6
+1	Также	также	ADV	_	Degree=Pos	0	_	_	start_char=542|end_char=547
+2	противник	противник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=548|end_char=557
+3	потерял	терять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=558|end_char=565
+4	три	три	NUM	_	Animacy=Inan|Case=Acc|NumType=Card	3	_	_	start_char=566|end_char=569
+5	автомобиля	автомобиль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	_	_	start_char=570|end_char=580
+6	и	и	CCONJ	_	_	5	_	_	start_char=581|end_char=582
+7	станцию	станция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	_	_	start_char=583|end_char=590
+8	РЭБ	РЭБ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	_	_	start_char=591|end_char=594|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=594|end_char=595
+10	сообщили	сообщить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	9	_	_	start_char=596|end_char=604
+11	в	в	ADP	_	_	10	_	_	start_char=605|end_char=606
+12	Минобороны	Минобороны	PROPN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	11	_	_	start_char=607|end_char=617
+13	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	_	_	start_char=618|end_char=620|SpaceAfter=No
+14	.	.	PUNCT	_	_	13	_	_	start_char=620|end_char=621|SpaceAfter=No
+
+# text = // Главное в Мелитополе."
+# sent_id = 7
+1	//	//	PUNCT	_	_	0	_	_	start_char=621|end_char=623
+2	Главное	главное	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	_	_	start_char=624|end_char=631
+3	в	в	ADP	_	_	2	_	_	start_char=632|end_char=633
+4	Мелитополе	Мелитополь	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	_	_	start_char=634|end_char=644|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	_	_	start_char=644|end_char=645|SpaceAfter=No
+6	"	"	PUNCT	_	_	5	_	_	start_char=645|end_char=646|SpaceAfter=No
+

@@ -7,9 +7,10 @@ from torch.utils.data import DataLoader
 from models.svm import SVMModel
 from models.lstm import LSTM
 from models.bert import BERT
+from models.bertru import BERT_RU
 from models.transformer import TransformerClassifier
 from datasets.dataset import NarrativeDataset
-from datasets.deepl_dataset import DeepLNarrativeDataset, BERTDeepLNarrativeDataset
+from datasets.deepl_dataset import DeepLNarrativeDataset, BERTDeepLNarrativeDataset, BERTRUDeepLNarrativeDataset
 
 from trainer.trainer import Trainer
 from utils import (
@@ -89,6 +90,8 @@ def get_model(
         return SVMModel()
     elif model == "bert":
         return BERT(index2label, finetune=True)
+    elif model == "bertru":
+        return BERT_RU(index2label, finetune=True)
     else:
         raise ValueError(f"Model {model} not found")
 
@@ -164,7 +167,10 @@ def train_deep_learning_model(topic, args):
             dataset = BERTDeepLNarrativeDataset(
                 data_paths, topic, split, val_split=args.val_split
             )
-
+        elif args.model == "bertru":
+            dataset = BERTRUDeepLNarrativeDataset(
+                data_paths, topic, split, val_split=args.val_split
+            )
         else:
             dataset = DeepLNarrativeDataset(
                 data_paths, topic, split, val_split=args.val_split
@@ -235,10 +241,9 @@ def train_deep_learning_model(topic, args):
 def baseline(args):
 
     traditional_models = ["svm"]
-    deep_learning_models = ["lstm", "transformer", "bert"]
+    deep_learning_models = ["lstm", "transformer", "bert", "bertru"]
 
-    # Train model
-    prediction_topic = ["CC", "UA"]
+    prediction_topic = ["UA"]
     predictions = {}
 
     for topic in prediction_topic:

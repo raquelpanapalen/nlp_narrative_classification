@@ -1,0 +1,586 @@
+# text = Александр Коц: Русская врач из Хасавюрта: Идет ползучая оккупация Дагестана Русская врач из Хасавюрта:
+# sent_id = 0
+1	Александр	Александр	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=0|end_char=9
+2	Коц	Коц	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=10|end_char=13|SpaceAfter=No
+3	:	:	PUNCT	_	_	2	_	_	start_char=13|end_char=14
+4	Русская	русский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	_	_	start_char=15|end_char=22
+5	врач	врач	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=23|end_char=27
+6	из	из	ADP	_	_	5	_	_	start_char=28|end_char=30
+7	Хасавюрта	Хасавюрт	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	_	_	start_char=31|end_char=40|SpaceAfter=No
+8	:	:	PUNCT	_	_	7	_	_	start_char=40|end_char=41
+9	Идет	идти	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	_	_	start_char=42|end_char=46
+10	ползучая	ползучий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	9	_	_	start_char=47|end_char=55
+11	оккупация	оккупация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	_	_	start_char=56|end_char=65
+12	Дагестана	Дагестан	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	_	_	start_char=66|end_char=75
+13	Русская	русский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	12	_	_	start_char=76|end_char=83
+14	врач	врач	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	_	_	start_char=84|end_char=88
+15	из	из	ADP	_	_	14	_	_	start_char=89|end_char=91
+16	Хасавюрта	Хасавюрт	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	_	_	start_char=92|end_char=101|SpaceAfter=No
+17	:	:	PUNCT	_	_	16	_	_	start_char=101|end_char=102
+
+# text = Идет ползучая оккупация Дагестана.
+# sent_id = 1
+1	Идет	идти	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	_	_	start_char=103|end_char=107
+2	ползучая	ползучий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	1	_	_	start_char=108|end_char=116
+3	оккупация	оккупация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	_	_	start_char=117|end_char=126
+4	Дагестана	Дагестан	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=127|end_char=136|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	_	_	start_char=136|end_char=137
+
+# text = В интервью эндокринолог Евгения Макеева, которую пытались затравить из-за пациентки в никабе, очень четко описывает дагестанскую симптоматику и дает свой неутешительный диагноз.
+# sent_id = 2
+1	В	в	ADP	_	_	0	_	_	start_char=138|end_char=139
+2	интервью	интервью	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1	_	_	start_char=140|end_char=148
+3	эндокринолог	эндокринолог	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	_	_	start_char=149|end_char=161
+4	Евгения	Евгений	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	3	_	_	start_char=162|end_char=169
+5	Макеева	Макеев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	4	_	_	start_char=170|end_char=177|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=177|end_char=178
+7	которую	который	PRON	_	Case=Acc|PronType=Int,Rel	6	_	_	start_char=179|end_char=186
+8	пытались	пытаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	7	_	_	start_char=187|end_char=195
+9	затравить	затравить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	_	_	start_char=196|end_char=205
+10	из-за	из-за	ADP	_	_	9	_	_	start_char=206|end_char=211
+11	пациентки	пациентка	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	10	_	_	start_char=212|end_char=221
+12	в	в	ADP	_	_	11	_	_	start_char=222|end_char=223
+13	никабе	никаб	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	_	_	start_char=224|end_char=230|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	_	_	start_char=230|end_char=231
+15	очень	очень	ADV	_	Degree=Pos	14	_	_	start_char=232|end_char=237
+16	четко	четко	ADV	_	Degree=Pos	15	_	_	start_char=238|end_char=243
+17	описывает	описывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	_	_	start_char=244|end_char=253
+18	дагестанскую	дагестанский	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	17	_	_	start_char=254|end_char=266
+19	симптоматику	симптоматика	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	18	_	_	start_char=267|end_char=279
+20	и	и	CCONJ	_	_	19	_	_	start_char=280|end_char=281
+21	дает	давать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	_	_	start_char=282|end_char=286
+22	свой	свой	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	21	_	_	start_char=287|end_char=291
+23	неутешительный	неутешительный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	22	_	_	start_char=292|end_char=306
+24	диагноз	диагноз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	23	_	_	start_char=307|end_char=314|SpaceAfter=No
+25	.	.	PUNCT	_	_	24	_	_	start_char=314|end_char=315
+
+# text = Среди прочего речь идет о беженцах из Сирии, о которых многие (в том числе и я) предупреждали, когда первые борта с нашими соотечественниками потянулись из Дамаска и Багдада.
+# sent_id = 3
+1	Среди	среди	ADP	_	_	0	_	_	start_char=316|end_char=321
+2	прочего	прочий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	1	_	_	start_char=322|end_char=329
+3	речь	речь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	_	_	start_char=330|end_char=334
+4	идет	идти	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	_	_	start_char=335|end_char=339
+5	о	о	ADP	_	_	4	_	_	start_char=340|end_char=341
+6	беженцах	беженец	NOUN	_	Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur	5	_	_	start_char=342|end_char=350
+7	из	из	ADP	_	_	6	_	_	start_char=351|end_char=353
+8	Сирии	Сирия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	_	_	start_char=354|end_char=359|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=359|end_char=360
+10	о	о	ADP	_	_	9	_	_	start_char=361|end_char=362
+11	которых	который	PRON	_	Case=Loc|PronType=Int,Rel	10	_	_	start_char=363|end_char=370
+12	многие	много	NUM	_	NumType=Card	11	_	_	start_char=371|end_char=377
+13	(	(	PUNCT	_	_	12	_	_	start_char=378|end_char=379|SpaceAfter=No
+14	в	в	ADP	_	_	13	_	_	start_char=379|end_char=380
+15	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	14	_	_	start_char=381|end_char=384
+16	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	15	_	_	start_char=385|end_char=390
+17	и	и	PART	_	_	16	_	_	start_char=391|end_char=392
+18	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	_	_	start_char=393|end_char=394|SpaceAfter=No
+19	)	)	PUNCT	_	_	18	_	_	start_char=394|end_char=395
+20	предупреждали	предупреждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	19	_	_	start_char=396|end_char=409|SpaceAfter=No
+21	,	,	PUNCT	_	_	20	_	_	start_char=409|end_char=410
+22	когда	когда	SCONJ	_	_	21	_	_	start_char=411|end_char=416
+23	первые	первый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	22	_	_	start_char=417|end_char=423
+24	борта	борт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	23	_	_	start_char=424|end_char=429
+25	с	с	ADP	_	_	24	_	_	start_char=430|end_char=431
+26	нашими	наш	DET	_	Case=Ins|Number=Plur|Poss=Yes|PronType=Prs	25	_	_	start_char=432|end_char=438
+27	соотечественниками	соотечественник	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	26	_	_	start_char=439|end_char=457
+28	потянулись	потянуться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	27	_	_	start_char=458|end_char=468
+29	из	из	ADP	_	_	28	_	_	start_char=469|end_char=471
+30	Дамаска	Дамаска	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	29	_	_	start_char=472|end_char=479
+31	и	и	CCONJ	_	_	30	_	_	start_char=480|end_char=481
+32	Багдада	Багдад	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	31	_	_	start_char=482|end_char=489|SpaceAfter=No
+33	.	.	PUNCT	_	_	32	_	_	start_char=489|end_char=490
+
+# text = Я не о русских, которых мы вывозили в разгар боев.
+# sent_id = 4
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	start_char=491|end_char=492
+2	не	не	PART	_	_	1	_	_	start_char=493|end_char=495
+3	о	о	ADP	_	_	2	_	_	start_char=496|end_char=497
+4	русских	русский	NOUN	_	Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur	3	_	_	start_char=498|end_char=505|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=505|end_char=506
+6	которых	который	PRON	_	Case=Acc|PronType=Int,Rel	5	_	_	start_char=507|end_char=514
+7	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	_	_	start_char=515|end_char=517
+8	вывозили	вывозить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	7	_	_	start_char=518|end_char=526
+9	в	в	ADP	_	_	8	_	_	start_char=527|end_char=528
+10	разгар	разгар	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	_	_	start_char=529|end_char=535
+11	боев	бой	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	_	_	start_char=536|end_char=540|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	_	_	start_char=540|end_char=541
+
+# text = Я о тех,, кто по своей воле с детьми уезжал в Сирию и Ирак строить Халифат.
+# sent_id = 5
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	start_char=542|end_char=543
+2	о	о	ADP	_	_	1	_	_	start_char=544|end_char=545
+3	тех	тот	DET	_	Case=Loc|Number=Plur|PronType=Dem	2	_	_	start_char=546|end_char=549|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=549|end_char=550|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=550|end_char=551
+6	кто	кто	PRON	_	Case=Nom|PronType=Int,Rel	5	_	_	start_char=552|end_char=555
+7	по	по	ADP	_	_	6	_	_	start_char=556|end_char=558
+8	своей	свой	DET	_	Case=Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	7	_	_	start_char=559|end_char=564
+9	воле	воля	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	8	_	_	start_char=565|end_char=569
+10	с	с	ADP	_	_	9	_	_	start_char=570|end_char=571
+11	детьми	ребенок	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	10	_	_	start_char=572|end_char=578
+12	уезжал	уезжать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	_	_	start_char=579|end_char=585
+13	в	в	ADP	_	_	12	_	_	start_char=586|end_char=587
+14	Сирию	Сирия	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	_	_	start_char=588|end_char=593
+15	и	и	CCONJ	_	_	14	_	_	start_char=594|end_char=595
+16	Ирак	Ирак	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	_	_	start_char=596|end_char=600
+17	строить	строить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	16	_	_	start_char=601|end_char=608
+18	Халифат	Халифат	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	17	_	_	start_char=609|end_char=616|SpaceAfter=No
+19	.	.	PUNCT	_	_	18	_	_	start_char=616|end_char=617
+
+# text = Они добровольно выбрали себе жизнь по «законам шариата» в ИГИЛе.
+# sent_id = 6
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=618|end_char=621
+2	добровольно	добровольно	ADV	_	Degree=Pos	1	_	_	start_char=622|end_char=633
+3	выбрали	выбрать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=634|end_char=641
+4	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	3	_	_	start_char=642|end_char=646
+5	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	_	_	start_char=647|end_char=652
+6	по	по	ADP	_	_	5	_	_	start_char=653|end_char=655
+7	«	"	PUNCT	_	_	6	_	_	start_char=656|end_char=657|SpaceAfter=No
+8	законам	закон	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	7	_	_	start_char=657|end_char=664
+9	шариата	шариат	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	_	_	start_char=665|end_char=672|SpaceAfter=No
+10	»	"	PUNCT	_	_	9	_	_	start_char=672|end_char=673
+11	в	в	ADP	_	_	10	_	_	start_char=674|end_char=675
+12	ИГИЛе	ИГИЛе	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	11	_	_	start_char=676|end_char=681|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=681|end_char=682
+
+# text = А когда «Исламское государство» схлопнулось и поборники «чистого ислама» оказались в палаточных лагерях, им резко захотелось домой.
+# sent_id = 7
+1	А	а	CCONJ	_	_	0	_	_	start_char=683|end_char=684
+2	когда	когда	SCONJ	_	_	1	_	_	start_char=685|end_char=690
+3	«	"	PUNCT	_	_	2	_	_	start_char=691|end_char=692|SpaceAfter=No
+4	Исламское	исламский	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	_	_	start_char=692|end_char=701
+5	государство	государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	_	_	start_char=702|end_char=713|SpaceAfter=No
+6	»	"	PUNCT	_	_	5	_	_	start_char=713|end_char=714
+7	схлопнулось	схлопаться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	6	_	_	start_char=715|end_char=726
+8	и	и	CCONJ	_	_	7	_	_	start_char=727|end_char=728
+9	поборники	поборник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	8	_	_	start_char=729|end_char=738
+10	«	"	PUNCT	_	_	9	_	_	start_char=739|end_char=740|SpaceAfter=No
+11	чистого	чистый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	_	_	start_char=740|end_char=747
+12	ислама	ислам	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	_	_	start_char=748|end_char=754|SpaceAfter=No
+13	»	"	PUNCT	_	_	12	_	_	start_char=754|end_char=755
+14	оказались	оказаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	13	_	_	start_char=756|end_char=765
+15	в	в	ADP	_	_	14	_	_	start_char=766|end_char=767
+16	палаточных	палаточный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	15	_	_	start_char=768|end_char=778
+17	лагерях	лагерь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	16	_	_	start_char=779|end_char=786|SpaceAfter=No
+18	,	,	PUNCT	_	_	17	_	_	start_char=786|end_char=787
+19	им	они	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	18	_	_	start_char=788|end_char=790
+20	резко	резко	ADV	_	Degree=Pos	19	_	_	start_char=791|end_char=796
+21	захотелось	захотеться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	20	_	_	start_char=797|end_char=807
+22	домой	домой	ADV	_	Degree=Pos	21	_	_	start_char=808|end_char=813|SpaceAfter=No
+23	.	.	PUNCT	_	_	22	_	_	start_char=813|end_char=814
+
+# text = Я никогда не разделял восторгов по поводу их возвращения, потому что от них угроза может исходить не меньшая, чем от украинских ждунов.
+# sent_id = 8
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	start_char=815|end_char=816
+2	никогда	никогда	ADV	_	Degree=Pos	1	_	_	start_char=817|end_char=824
+3	не	не	PART	_	_	2	_	_	start_char=825|end_char=827
+4	разделял	разделять	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	_	_	start_char=828|end_char=836
+5	восторгов	восторг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	_	_	start_char=837|end_char=846
+6	по	по	ADP	_	_	5	_	_	start_char=847|end_char=849
+7	поводу	повод	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	6	_	_	start_char=850|end_char=856
+8	их	их	DET	_	Poss=Yes|PronType=Prs	7	_	_	start_char=857|end_char=859
+9	возвращения	возвращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	_	_	start_char=860|end_char=871|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=871|end_char=872
+11	потому	потому	ADV	_	Degree=Pos	10	_	_	start_char=873|end_char=879
+12	что	что	SCONJ	_	_	11	_	_	start_char=880|end_char=883
+13	от	от	ADP	_	_	12	_	_	start_char=884|end_char=886
+14	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	13	_	_	start_char=887|end_char=890
+15	угроза	угроза	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	_	_	start_char=891|end_char=897
+16	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	_	_	start_char=898|end_char=903
+17	исходить	исходить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	16	_	_	start_char=904|end_char=912
+18	не	не	PART	_	_	17	_	_	start_char=913|end_char=915
+19	меньшая	меньший	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	18	_	_	start_char=916|end_char=923|SpaceAfter=No
+20	,	,	PUNCT	_	_	19	_	_	start_char=923|end_char=924
+21	чем	чем	SCONJ	_	_	20	_	_	start_char=925|end_char=928
+22	от	от	ADP	_	_	21	_	_	start_char=929|end_char=931
+23	украинских	украинский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	22	_	_	start_char=932|end_char=942
+24	ждунов	ждун	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	23	_	_	start_char=943|end_char=949|SpaceAfter=No
+25	.	.	PUNCT	_	_	24	_	_	start_char=949|end_char=950
+
+# text = Вернуть-то - вернули, а голову на место не поставили.
+# sent_id = 9
+1	Вернуть	вернуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	_	_	start_char=951|end_char=958|SpaceAfter=No
+2	-	-	PUNCT	_	_	1	_	_	start_char=958|end_char=959|SpaceAfter=No
+3	то	то	PART	_	_	2	_	_	start_char=959|end_char=961
+4	-	-	PUNCT	_	_	3	_	_	start_char=962|end_char=963
+5	вернули	вернуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	_	_	start_char=964|end_char=971|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=971|end_char=972
+7	а	а	CCONJ	_	_	6	_	_	start_char=973|end_char=974
+8	голову	голова	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	_	_	start_char=975|end_char=981
+9	на	на	ADP	_	_	8	_	_	start_char=982|end_char=984
+10	место	место	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	_	_	start_char=985|end_char=990
+11	не	не	PART	_	_	10	_	_	start_char=991|end_char=993
+12	поставили	ставить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	11	_	_	start_char=994|end_char=1003|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=1003|end_char=1004
+
+# text = И Евгения Макеева, волею судеб попавшая в Дагестан, изнутри четко видит эту угрозу.
+# sent_id = 10
+1	И	и	CCONJ	_	_	0	_	_	start_char=1005|end_char=1006
+2	Евгения	Евгений	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	_	_	start_char=1007|end_char=1014
+3	Макеева	Макеев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	2	_	_	start_char=1015|end_char=1022|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=1022|end_char=1023
+5	волею	воля	ADP	_	_	4	_	_	start_char=1024|end_char=1029
+6	судеб	судьба	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	_	_	start_char=1030|end_char=1035
+7	попавшая	попасть	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	6	_	_	start_char=1036|end_char=1044
+8	в	в	ADP	_	_	7	_	_	start_char=1045|end_char=1046
+9	Дагестан	Дагестан	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	_	_	start_char=1047|end_char=1055|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=1055|end_char=1056
+11	изнутри	изнутри	ADV	_	Degree=Pos	10	_	_	start_char=1057|end_char=1064
+12	четко	четко	ADV	_	Degree=Pos	11	_	_	start_char=1065|end_char=1070
+13	видит	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	_	_	start_char=1071|end_char=1076
+14	эту	этот	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	13	_	_	start_char=1077|end_char=1080
+15	угрозу	угроза	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	_	_	start_char=1081|end_char=1087|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	_	_	start_char=1087|end_char=1088
+
+# text = Вот лишь некоторые цитаты: «..Сейчас заработала программа возвращения соотечественников из Сирии.
+# sent_id = 11
+1	Вот	вот	PART	_	_	0	_	_	start_char=1089|end_char=1092
+2	лишь	лишь	PART	_	_	1	_	_	start_char=1093|end_char=1097
+3	некоторые	некоторый	DET	_	Case=Nom|Number=Plur|PronType=Ind	2	_	_	start_char=1098|end_char=1107
+4	цитаты	цитата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	_	_	start_char=1108|end_char=1114|SpaceAfter=No
+5	:	:	PUNCT	_	_	4	_	_	start_char=1114|end_char=1115
+6	«	"	PUNCT	_	_	5	_	_	start_char=1116|end_char=1117|SpaceAfter=No
+7	.	.	PUNCT	_	_	6	_	_	start_char=1117|end_char=1118|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	_	_	start_char=1118|end_char=1119|SpaceAfter=No
+9	Сейчас	сейчас	ADV	_	Degree=Pos	8	_	_	start_char=1119|end_char=1125
+10	заработала	заработать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	_	_	start_char=1126|end_char=1136
+11	программа	программа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	_	_	start_char=1137|end_char=1146
+12	возвращения	возвращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	_	_	start_char=1147|end_char=1158
+13	соотечественников	соотечественник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	12	_	_	start_char=1159|end_char=1176
+14	из	из	ADP	_	_	13	_	_	start_char=1177|end_char=1179
+15	Сирии	Сирия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	_	_	start_char=1180|end_char=1185|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	_	_	start_char=1185|end_char=1186
+
+# text = Людей возвращают домой и пытаются интегрировать в российский социум.
+# sent_id = 12
+1	Людей	человек	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	0	_	_	start_char=1187|end_char=1192
+2	возвращают	возвращать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	_	_	start_char=1193|end_char=1203
+3	домой	домой	ADV	_	Degree=Pos	2	_	_	start_char=1204|end_char=1209
+4	и	и	CCONJ	_	_	3	_	_	start_char=1210|end_char=1211
+5	пытаются	пытаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	_	_	start_char=1212|end_char=1220
+6	интегрировать	интегрировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	_	_	start_char=1221|end_char=1234
+7	в	в	ADP	_	_	6	_	_	start_char=1235|end_char=1236
+8	российский	российский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	_	_	start_char=1237|end_char=1247
+9	социум	социум	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	_	_	start_char=1248|end_char=1254|SpaceAfter=No
+10	.	.	PUNCT	_	_	9	_	_	start_char=1254|end_char=1255
+
+# text = Люди возвращаются с радикальными взглядами — «женщина обязана носить никаб».
+# sent_id = 13
+1	Люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	0	_	_	start_char=1256|end_char=1260
+2	возвращаются	возвращаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	1	_	_	start_char=1261|end_char=1273
+3	с	с	ADP	_	_	2	_	_	start_char=1274|end_char=1275
+4	радикальными	радикальный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	3	_	_	start_char=1276|end_char=1288
+5	взглядами	взгляд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	4	_	_	start_char=1289|end_char=1298
+6	—	—	PUNCT	_	_	5	_	_	start_char=1299|end_char=1300
+7	«	"	PUNCT	_	_	6	_	_	start_char=1301|end_char=1302|SpaceAfter=No
+8	женщина	женщина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	7	_	_	start_char=1302|end_char=1309
+9	обязана	обязанный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	8	_	_	start_char=1310|end_char=1317
+10	носить	носить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	_	_	start_char=1318|end_char=1324
+11	никаб	никаб	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	_	_	start_char=1325|end_char=1330|SpaceAfter=No
+12	»	"	PUNCT	_	_	11	_	_	start_char=1330|end_char=1331|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=1331|end_char=1332
+
+# text = Получается, это они нас интегрируют в свой социум, а не мы их.
+# sent_id = 14
+1	Получается	получаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	_	_	start_char=1333|end_char=1343|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	_	_	start_char=1343|end_char=1344
+3	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	2	_	_	start_char=1345|end_char=1348
+4	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	_	_	start_char=1349|end_char=1352
+5	нас	мы	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	4	_	_	start_char=1353|end_char=1356
+6	интегрируют	интегрировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	_	_	start_char=1357|end_char=1368
+7	в	в	ADP	_	_	6	_	_	start_char=1369|end_char=1370
+8	свой	свой	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	7	_	_	start_char=1371|end_char=1375
+9	социум	социум	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	_	_	start_char=1376|end_char=1382|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=1382|end_char=1383
+11	а	а	CCONJ	_	_	10	_	_	start_char=1384|end_char=1385
+12	не	не	PART	_	_	11	_	_	start_char=1386|end_char=1388
+13	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	12	_	_	start_char=1389|end_char=1391
+14	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	13	_	_	start_char=1392|end_char=1394|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	_	_	start_char=1394|end_char=1395
+
+# text = Мы живём среди них, а не они живут среди нас…
+# sent_id = 15
+1	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	start_char=1396|end_char=1398
+2	живём	жить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	_	_	start_char=1399|end_char=1404
+3	среди	среди	ADP	_	_	2	_	_	start_char=1405|end_char=1410
+4	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	3	_	_	start_char=1411|end_char=1414|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=1414|end_char=1415
+6	а	а	CCONJ	_	_	5	_	_	start_char=1416|end_char=1417
+7	не	не	PART	_	_	6	_	_	start_char=1418|end_char=1420
+8	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	_	_	start_char=1421|end_char=1424
+9	живут	жить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	_	_	start_char=1425|end_char=1430
+10	среди	среди	ADP	_	_	9	_	_	start_char=1431|end_char=1436
+11	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	10	_	_	start_char=1437|end_char=1440|SpaceAfter=No
+12	…	…	PUNCT	_	_	11	_	_	start_char=1440|end_char=1441
+
+# text = …Когда выходцы из Сирии возвращаются домой, они организуют отдельные общины с молебными домами.
+# sent_id = 16
+1	…	…	PUNCT	_	_	0	_	_	start_char=1442|end_char=1443|SpaceAfter=No
+2	Когда	когда	SCONJ	_	_	1	_	_	start_char=1443|end_char=1448
+3	выходцы	выходец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	_	_	start_char=1449|end_char=1456
+4	из	из	ADP	_	_	3	_	_	start_char=1457|end_char=1459
+5	Сирии	Сирия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	_	_	start_char=1460|end_char=1465
+6	возвращаются	возвращаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	5	_	_	start_char=1466|end_char=1478
+7	домой	домой	ADV	_	Degree=Pos	6	_	_	start_char=1479|end_char=1484|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=1484|end_char=1485
+9	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	_	_	start_char=1486|end_char=1489
+10	организуют	организовывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	_	_	start_char=1490|end_char=1500
+11	отдельные	отдельный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	10	_	_	start_char=1501|end_char=1510
+12	общины	община	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	11	_	_	start_char=1511|end_char=1517
+13	с	с	ADP	_	_	12	_	_	start_char=1518|end_char=1519
+14	молебными	молебный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	13	_	_	start_char=1520|end_char=1529
+15	домами	дом	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	14	_	_	start_char=1530|end_char=1536|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	_	_	start_char=1536|end_char=1537
+
+# text = Они по-своему интерпретируют ислам и навязывают нам его через агрессию…
+# sent_id = 17
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=1538|end_char=1541
+2	по-своему	по-своему	ADV	_	Degree=Pos	1	_	_	start_char=1542|end_char=1551
+3	интерпретируют	интерпретировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=1552|end_char=1566
+4	ислам	ислам	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	_	_	start_char=1567|end_char=1572
+5	и	и	CCONJ	_	_	4	_	_	start_char=1573|end_char=1574
+6	навязывают	навязывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	_	_	start_char=1575|end_char=1585
+7	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	6	_	_	start_char=1586|end_char=1589
+8	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	_	_	start_char=1590|end_char=1593
+9	через	через	ADP	_	_	8	_	_	start_char=1594|end_char=1599
+10	агрессию	агрессия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	_	_	start_char=1600|end_char=1608|SpaceAfter=No
+11	…	…	PUNCT	_	_	10	_	_	start_char=1608|end_char=1609
+
+# text = …Эти люди не хотят идти ни на какие компромиссы — ни в больнице, ни в школе, ни на рынках.
+# sent_id = 18
+1	…	…	PUNCT	_	_	0	_	_	start_char=1610|end_char=1611|SpaceAfter=No
+2	Эти	этот	DET	_	Case=Nom|Number=Plur|PronType=Dem	1	_	_	start_char=1611|end_char=1614
+3	люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	_	_	start_char=1615|end_char=1619
+4	не	не	PART	_	_	3	_	_	start_char=1620|end_char=1622
+5	хотят	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	_	_	start_char=1623|end_char=1628
+6	идти	идти	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	_	_	start_char=1629|end_char=1633
+7	ни	ни	PART	_	_	6	_	_	start_char=1634|end_char=1636
+8	на	на	ADP	_	_	7	_	_	start_char=1637|end_char=1639
+9	какие	какой	DET	_	Case=Acc|Number=Plur|PronType=Int,Rel	8	_	_	start_char=1640|end_char=1645
+10	компромиссы	компромисс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	9	_	_	start_char=1646|end_char=1657
+11	—	—	PUNCT	_	_	10	_	_	start_char=1658|end_char=1659
+12	ни	ни	CCONJ	_	_	11	_	_	start_char=1660|end_char=1662
+13	в	в	ADP	_	_	12	_	_	start_char=1663|end_char=1664
+14	больнице	больница	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	13	_	_	start_char=1665|end_char=1673|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=1673|end_char=1674
+16	ни	ни	CCONJ	_	_	15	_	_	start_char=1675|end_char=1677
+17	в	в	ADP	_	_	16	_	_	start_char=1678|end_char=1679
+18	школе	школа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	17	_	_	start_char=1680|end_char=1685|SpaceAfter=No
+19	,	,	PUNCT	_	_	18	_	_	start_char=1685|end_char=1686
+20	ни	ни	CCONJ	_	_	19	_	_	start_char=1687|end_char=1689
+21	на	на	ADP	_	_	20	_	_	start_char=1690|end_char=1692
+22	рынках	рынок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	21	_	_	start_char=1693|end_char=1699|SpaceAfter=No
+23	.	.	PUNCT	_	_	22	_	_	start_char=1699|end_char=1700
+
+# text = Нам насаждают чуждую культуру, которой раньше ни в Дагестане, ни в России не было…
+# sent_id = 19
+1	Нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	0	_	_	start_char=1701|end_char=1704
+2	насаждают	насаждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	_	_	start_char=1705|end_char=1714
+3	чуждую	чуждый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	2	_	_	start_char=1715|end_char=1721
+4	культуру	культура	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	_	_	start_char=1722|end_char=1730|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=1730|end_char=1731
+6	которой	который	PRON	_	Case=Ins|PronType=Int,Rel	5	_	_	start_char=1732|end_char=1739
+7	раньше	рано	ADV	_	Degree=Cmp	6	_	_	start_char=1740|end_char=1746
+8	ни	ни	CCONJ	_	_	7	_	_	start_char=1747|end_char=1749
+9	в	в	ADP	_	_	8	_	_	start_char=1750|end_char=1751
+10	Дагестане	Дагестан	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	_	_	start_char=1752|end_char=1761|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=1761|end_char=1762
+12	ни	ни	CCONJ	_	_	11	_	_	start_char=1763|end_char=1765
+13	в	в	ADP	_	_	12	_	_	start_char=1766|end_char=1767
+14	России	Россия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	13	_	_	start_char=1768|end_char=1774
+15	не	не	PART	_	_	14	_	_	start_char=1775|end_char=1777
+16	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	15	_	_	start_char=1778|end_char=1782|SpaceAfter=No
+17	…	…	PUNCT	_	_	16	_	_	start_char=1782|end_char=1783
+
+# text = …В Дагестане сформировалась ячейка общества, которая живёт вне истинных исламских постулатов и вне российского законодательства…
+# sent_id = 20
+1	…	…	PUNCT	_	_	0	_	_	start_char=1784|end_char=1785|SpaceAfter=No
+2	В	в	ADP	_	_	1	_	_	start_char=1785|end_char=1786
+3	Дагестане	Дагестан	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	_	_	start_char=1787|end_char=1796
+4	сформировалась	сформироваться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	_	_	start_char=1797|end_char=1811
+5	ячейка	ячейка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	_	_	start_char=1812|end_char=1818
+6	общества	общество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	_	_	start_char=1819|end_char=1827|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	_	_	start_char=1827|end_char=1828
+8	которая	который	PRON	_	Case=Nom|PronType=Int,Rel	7	_	_	start_char=1829|end_char=1836
+9	живёт	жить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	_	_	start_char=1837|end_char=1842
+10	вне	вне	ADP	_	_	9	_	_	start_char=1843|end_char=1846
+11	истинных	истинный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	_	_	start_char=1847|end_char=1855
+12	исламских	исламский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	_	_	start_char=1856|end_char=1865
+13	постулатов	постулат	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	_	_	start_char=1866|end_char=1876
+14	и	и	CCONJ	_	_	13	_	_	start_char=1877|end_char=1878
+15	вне	вне	ADP	_	_	14	_	_	start_char=1879|end_char=1882
+16	российского	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	_	_	start_char=1883|end_char=1894
+17	законодательства	законодательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	_	_	start_char=1895|end_char=1911|SpaceAfter=No
+18	…	…	PUNCT	_	_	17	_	_	start_char=1911|end_char=1912
+
+# text = …Не весь Дагестан такой, как эта группа людей.
+# sent_id = 21
+1	…	…	PUNCT	_	_	0	_	_	start_char=1913|end_char=1914|SpaceAfter=No
+2	Не	не	PART	_	_	1	_	_	start_char=1914|end_char=1916
+3	весь	весь	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Tot	2	_	_	start_char=1917|end_char=1921
+4	Дагестан	Дагестан	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	_	_	start_char=1922|end_char=1930
+5	такой	такой	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	4	_	_	start_char=1931|end_char=1936|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=1936|end_char=1937
+7	как	как	SCONJ	_	_	6	_	_	start_char=1938|end_char=1941
+8	эта	этот	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	7	_	_	start_char=1942|end_char=1945
+9	группа	группа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	_	_	start_char=1946|end_char=1952
+10	людей	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	9	_	_	start_char=1953|end_char=1958|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	_	_	start_char=1958|end_char=1959
+
+# text = Посмотрите, сколько героев подарила нам эта республика, которые сейчас сражаются за нас на СВО.
+# sent_id = 22
+1	Посмотрите	смотреть	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	_	_	start_char=1960|end_char=1970|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	_	_	start_char=1970|end_char=1971
+3	сколько	сколько	NUM	_	Case=Acc|NumType=Card	2	_	_	start_char=1972|end_char=1979
+4	героев	герой	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	3	_	_	start_char=1980|end_char=1986
+5	подарила	дарить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	_	_	start_char=1987|end_char=1995
+6	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	5	_	_	start_char=1996|end_char=1999
+7	эта	этот	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	6	_	_	start_char=2000|end_char=2003
+8	республика	республика	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	_	_	start_char=2004|end_char=2014|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=2014|end_char=2015
+10	которые	который	PRON	_	Case=Nom|PronType=Int,Rel	9	_	_	start_char=2016|end_char=2023
+11	сейчас	сейчас	ADV	_	Degree=Pos	10	_	_	start_char=2024|end_char=2030
+12	сражаются	сражаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	11	_	_	start_char=2031|end_char=2040
+13	за	за	ADP	_	_	12	_	_	start_char=2041|end_char=2043
+14	нас	мы	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	13	_	_	start_char=2044|end_char=2047
+15	на	на	ADP	_	_	14	_	_	start_char=2048|end_char=2050
+16	СВО	СВО	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	15	_	_	start_char=2051|end_char=2054|SpaceAfter=No
+17	.	.	PUNCT	_	_	16	_	_	start_char=2054|end_char=2055
+
+# text = Просто есть определённая ячейка, которая будоражит общество и не даёт нам спокойно жить.
+# sent_id = 23
+1	Просто	просто	PART	_	_	0	_	_	start_char=2056|end_char=2062
+2	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	_	_	start_char=2063|end_char=2067
+3	определённая	определенный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	_	_	start_char=2068|end_char=2080
+4	ячейка	ячейка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	_	_	start_char=2081|end_char=2087|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=2087|end_char=2088
+6	которая	который	PRON	_	Case=Nom|PronType=Int,Rel	5	_	_	start_char=2089|end_char=2096
+7	будоражит	будоражить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	_	_	start_char=2097|end_char=2106
+8	общество	общество	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	_	_	start_char=2107|end_char=2115
+9	и	и	CCONJ	_	_	8	_	_	start_char=2116|end_char=2117
+10	не	не	PART	_	_	9	_	_	start_char=2118|end_char=2120
+11	даёт	давать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	_	_	start_char=2121|end_char=2125
+12	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	11	_	_	start_char=2126|end_char=2129
+13	спокойно	спокойно	ADV	_	Degree=Pos	12	_	_	start_char=2130|end_char=2138
+14	жить	жить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	13	_	_	start_char=2139|end_char=2143|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	_	_	start_char=2143|end_char=2144
+
+# text = И, к сожалению, она разрастается как раковая опухоль…
+# sent_id = 24
+1	И	и	CCONJ	_	_	0	_	_	start_char=2145|end_char=2146|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	_	_	start_char=2146|end_char=2147
+3	к	к	ADP	_	_	2	_	_	start_char=2148|end_char=2149
+4	сожалению	сожаление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	3	_	_	start_char=2150|end_char=2159|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=2159|end_char=2160
+6	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	_	_	start_char=2161|end_char=2164
+7	разрастается	разрастаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	6	_	_	start_char=2165|end_char=2177
+8	как	как	SCONJ	_	_	7	_	_	start_char=2178|end_char=2181
+9	раковая	раковый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	_	_	start_char=2182|end_char=2189
+10	опухоль	опухоль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	_	_	start_char=2190|end_char=2197|SpaceAfter=No
+11	…	…	PUNCT	_	_	10	_	_	start_char=2197|end_char=2198
+
+# text = Сирийский конфликт начался в 2011 году.
+# sent_id = 25
+1	Сирийский	сирийский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	_	_	start_char=2199|end_char=2208
+2	конфликт	конфликт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=2209|end_char=2217
+3	начался	начаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	_	_	start_char=2218|end_char=2225
+4	в	в	ADP	_	_	3	_	_	start_char=2226|end_char=2227
+5	2011	2011	ADJ	_	Degree=Pos	4	_	_	start_char=2228|end_char=2232
+6	году	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	_	_	start_char=2233|end_char=2237|SpaceAfter=No
+7	.	.	PUNCT	_	_	6	_	_	start_char=2237|end_char=2238
+
+# text = Человек, которого к нам возвращают, прожил в чужой среде больше десяти лет.
+# sent_id = 26
+1	Человек	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=2239|end_char=2246|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	_	_	start_char=2246|end_char=2247
+3	которого	который	PRON	_	Case=Acc|PronType=Int,Rel	2	_	_	start_char=2248|end_char=2256
+4	к	к	ADP	_	_	3	_	_	start_char=2257|end_char=2258
+5	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	4	_	_	start_char=2259|end_char=2262
+6	возвращают	возвращать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	_	_	start_char=2263|end_char=2273|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	_	_	start_char=2273|end_char=2274
+8	прожил	прожить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	_	_	start_char=2275|end_char=2281
+9	в	в	ADP	_	_	8	_	_	start_char=2282|end_char=2283
+10	чужой	чужой	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	9	_	_	start_char=2284|end_char=2289
+11	среде	среда	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	_	_	start_char=2290|end_char=2295
+12	больше	больше	ADV	_	Degree=Cmp	11	_	_	start_char=2296|end_char=2302
+13	десяти	десять	NUM	_	Case=Gen|NumType=Card	12	_	_	start_char=2303|end_char=2309
+14	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	13	_	_	start_char=2310|end_char=2313|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	_	_	start_char=2313|end_char=2314
+
+# text = Его там обработали, подготовили и вернули в Россию.
+# sent_id = 27
+1	Его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=2315|end_char=2318
+2	там	там	ADV	_	Degree=Pos	1	_	_	start_char=2319|end_char=2322
+3	обработали	обработать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=2323|end_char=2333|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=2333|end_char=2334
+5	подготовили	подготовить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	_	_	start_char=2335|end_char=2346
+6	и	и	CCONJ	_	_	5	_	_	start_char=2347|end_char=2348
+7	вернули	вернуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	6	_	_	start_char=2349|end_char=2356
+8	в	в	ADP	_	_	7	_	_	start_char=2357|end_char=2358
+9	Россию	Россия	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	_	_	start_char=2359|end_char=2365|SpaceAfter=No
+10	.	.	PUNCT	_	_	9	_	_	start_char=2365|end_char=2366
+
+# text = Идет ползучая оккупация Дагестана — республики с выходом к морю, которая граничит с регионами других культур.
+# sent_id = 28
+1	Идет	идти	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	_	_	start_char=2367|end_char=2371
+2	ползучая	ползучий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	1	_	_	start_char=2372|end_char=2380
+3	оккупация	оккупация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	_	_	start_char=2381|end_char=2390
+4	Дагестана	Дагестан	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=2391|end_char=2400
+5	—	—	PUNCT	_	_	4	_	_	start_char=2401|end_char=2402
+6	республики	республика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	_	_	start_char=2403|end_char=2413
+7	с	с	ADP	_	_	6	_	_	start_char=2414|end_char=2415
+8	выходом	выход	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	7	_	_	start_char=2416|end_char=2423
+9	к	к	ADP	_	_	8	_	_	start_char=2424|end_char=2425
+10	морю	море	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	9	_	_	start_char=2426|end_char=2430|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=2430|end_char=2431
+12	которая	который	PRON	_	Case=Nom|PronType=Int,Rel	11	_	_	start_char=2432|end_char=2439
+13	граничит	граничить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	_	_	start_char=2440|end_char=2448
+14	с	с	ADP	_	_	13	_	_	start_char=2449|end_char=2450
+15	регионами	регион	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	14	_	_	start_char=2451|end_char=2460
+16	других	другой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	_	_	start_char=2461|end_char=2467
+17	культур	культура	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	16	_	_	start_char=2468|end_char=2475|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	_	_	start_char=2475|end_char=2476
+
+# text = Та же Украина — наша большая боль, потому что это наши братья.
+# sent_id = 29
+1	Та	тот	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	0	_	_	start_char=2477|end_char=2479
+2	же	же	PART	_	_	1	_	_	start_char=2480|end_char=2482
+3	Украина	Украина	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	_	_	start_char=2483|end_char=2490
+4	—	—	PUNCT	_	_	3	_	_	start_char=2491|end_char=2492
+5	наша	наш	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	_	_	start_char=2493|end_char=2497
+6	большая	большой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	_	_	start_char=2498|end_char=2505
+7	боль	боль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	_	_	start_char=2506|end_char=2510|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=2510|end_char=2511
+9	потому	потому	ADV	_	Degree=Pos	8	_	_	start_char=2512|end_char=2518
+10	что	что	SCONJ	_	_	9	_	_	start_char=2519|end_char=2522
+11	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	10	_	_	start_char=2523|end_char=2526
+12	наши	наш	DET	_	Case=Nom|Number=Plur|Poss=Yes|PronType=Prs	11	_	_	start_char=2527|end_char=2531
+13	братья	брат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	12	_	_	start_char=2532|end_char=2538|SpaceAfter=No
+14	.	.	PUNCT	_	_	13	_	_	start_char=2538|end_char=2539
+
+# text = Нам до сих пор непонятно, как это могло с ними произойти.
+# sent_id = 30
+1	Нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	0	_	_	start_char=2540|end_char=2543
+2	до	до	ADP	_	_	1	_	_	start_char=2544|end_char=2546
+3	сих	сей	DET	_	Case=Gen|Number=Plur|PronType=Dem	2	_	_	start_char=2547|end_char=2550
+4	пор	пора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	_	_	start_char=2551|end_char=2554
+5	непонятно	непонятный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	4	_	_	start_char=2555|end_char=2564|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=2564|end_char=2565
+7	как	как	ADV	_	Degree=Pos	6	_	_	start_char=2566|end_char=2569
+8	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	_	_	start_char=2570|end_char=2573
+9	могло	мочь	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	_	_	start_char=2574|end_char=2579
+10	с	с	ADP	_	_	9	_	_	start_char=2580|end_char=2581
+11	ними	они	PRON	_	Case=Ins|Number=Plur|Person=3|PronType=Prs	10	_	_	start_char=2582|end_char=2586
+12	произойти	произойти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	11	_	_	start_char=2587|end_char=2596|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=2596|end_char=2597
+
+# text = А тут будет ещё сложнее…»
+# sent_id = 31
+1	А	а	CCONJ	_	_	0	_	_	start_char=2598|end_char=2599
+2	тут	тут	ADV	_	Degree=Pos	1	_	_	start_char=2600|end_char=2603
+3	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=2604|end_char=2609
+4	ещё	еще	ADV	_	Degree=Pos	3	_	_	start_char=2610|end_char=2613
+5	сложнее	сложный	ADJ	_	Degree=Cmp	4	_	_	start_char=2614|end_char=2621|SpaceAfter=No
+6	…	…	PUNCT	_	_	5	_	_	start_char=2621|end_char=2622|SpaceAfter=No
+7	»	"	PUNCT	_	_	6	_	_	start_char=2622|end_char=2623|SpaceAfter=No
+

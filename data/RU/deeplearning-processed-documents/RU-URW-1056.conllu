@@ -1,0 +1,118 @@
+# text = В Кремле отказались комментировать словам Трампа о завершении конфликта на Украине 15:42 , рассуждая насчет завершения конфликта на Украине , не знает, о чем говорит.
+# sent_id = 0
+1	В	в	ADP	_	_	0	_	_	start_char=0|end_char=1
+2	Кремле	Кремль	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	_	_	start_char=2|end_char=8
+3	отказались	отказаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	2	_	_	start_char=9|end_char=19
+4	комментировать	комментировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	_	_	start_char=20|end_char=34
+5	словам	слово	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	4	_	_	start_char=35|end_char=41
+6	Трампа	Трамп	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	_	_	start_char=42|end_char=48
+7	о	о	ADP	_	_	6	_	_	start_char=49|end_char=50
+8	завершении	завершение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	_	_	start_char=51|end_char=61
+9	конфликта	конфликт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	_	_	start_char=62|end_char=71
+10	на	на	ADP	_	_	9	_	_	start_char=72|end_char=74
+11	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	_	_	start_char=75|end_char=82
+12	15	15	NUM	_	NumType=Card	11	_	_	start_char=83|end_char=85|SpaceAfter=No
+13	:	:	PUNCT	_	_	12	_	_	start_char=85|end_char=86|SpaceAfter=No
+14	42	42	NUM	_	NumType=Card	13	_	_	start_char=86|end_char=88
+15	,	,	PUNCT	_	_	14	_	_	start_char=89|end_char=90
+16	рассуждая	рассуждать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	15	_	_	start_char=91|end_char=100
+17	насчет	насчет	ADP	_	_	16	_	_	start_char=101|end_char=107
+18	завершения	завершение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	_	_	start_char=108|end_char=118
+19	конфликта	конфликт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	_	_	start_char=119|end_char=128
+20	на	на	ADP	_	_	19	_	_	start_char=129|end_char=131
+21	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	20	_	_	start_char=132|end_char=139
+22	,	,	PUNCT	_	_	21	_	_	start_char=140|end_char=141
+23	не	не	PART	_	_	22	_	_	start_char=142|end_char=144
+24	знает	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	_	_	start_char=145|end_char=150|SpaceAfter=No
+25	,	,	PUNCT	_	_	24	_	_	start_char=150|end_char=151
+26	о	о	ADP	_	_	25	_	_	start_char=152|end_char=153
+27	чем	что	PRON	_	Case=Loc|PronType=Int,Rel	26	_	_	start_char=154|end_char=157
+28	говорит	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	27	_	_	start_char=158|end_char=165|SpaceAfter=No
+29	.	.	PUNCT	_	_	28	_	_	start_char=165|end_char=166
+
+# text = С таким заявлением выступил пресс-секретарь президента России «Прокомментировать это мы не можем», — сказал официальный представитель Кремля, добавив, что слова Трампа свидетельствуют о его слабом понимании ситуации и сути вопроса.
+# sent_id = 1
+1	С	с	ADP	_	_	0	_	_	start_char=167|end_char=168
+2	таким	такой	DET	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=169|end_char=174
+3	заявлением	заявление	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	2	_	_	start_char=175|end_char=185
+4	выступил	выступить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	_	_	start_char=186|end_char=194
+5	пресс-секретарь	пресс-секретарь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=195|end_char=210
+6	президента	президент	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	_	_	start_char=211|end_char=221
+7	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	_	_	start_char=222|end_char=228
+8	«	"	PUNCT	_	_	7	_	_	start_char=229|end_char=230|SpaceAfter=No
+9	Прокомментировать	комментировать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	_	_	start_char=230|end_char=247
+10	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	9	_	_	start_char=248|end_char=251
+11	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	10	_	_	start_char=252|end_char=254
+12	не	не	PART	_	_	11	_	_	start_char=255|end_char=257
+13	можем	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	12	_	_	start_char=258|end_char=263|SpaceAfter=No
+14	»	"	PUNCT	_	_	13	_	_	start_char=263|end_char=264|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=264|end_char=265
+16	—	—	PUNCT	_	_	15	_	_	start_char=266|end_char=267
+17	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	16	_	_	start_char=268|end_char=274
+18	официальный	официальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	17	_	_	start_char=275|end_char=286
+19	представитель	представитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	18	_	_	start_char=287|end_char=300
+20	Кремля	Кремль	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	_	_	start_char=301|end_char=307|SpaceAfter=No
+21	,	,	PUNCT	_	_	20	_	_	start_char=307|end_char=308
+22	добавив	добавить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	21	_	_	start_char=309|end_char=316|SpaceAfter=No
+23	,	,	PUNCT	_	_	22	_	_	start_char=316|end_char=317
+24	что	что	SCONJ	_	_	23	_	_	start_char=318|end_char=321
+25	слова	слово	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	24	_	_	start_char=322|end_char=327
+26	Трампа	Трамп	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	25	_	_	start_char=328|end_char=334
+27	свидетельствуют	свидетельствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	26	_	_	start_char=335|end_char=350
+28	о	о	ADP	_	_	27	_	_	start_char=351|end_char=352
+29	его	его	DET	_	Poss=Yes|PronType=Prs	28	_	_	start_char=353|end_char=356
+30	слабом	слабый	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	29	_	_	start_char=357|end_char=363
+31	понимании	понимание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	30	_	_	start_char=364|end_char=373
+32	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	31	_	_	start_char=374|end_char=382
+33	и	и	CCONJ	_	_	32	_	_	start_char=383|end_char=384
+34	сути	суть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	33	_	_	start_char=385|end_char=389
+35	вопроса	вопрос	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	34	_	_	start_char=390|end_char=397|SpaceAfter=No
+36	.	.	PUNCT	_	_	35	_	_	start_char=397|end_char=398
+
+# text = Ранее Трамп заявил , что сумеет урегулировать украинский конфликт еще до начала президентского срока в случае своего переизбрания.
+# sent_id = 2
+1	Ранее	ранее	ADV	_	Degree=Pos	0	_	_	start_char=399|end_char=404
+2	Трамп	Трамп	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=405|end_char=410
+3	заявил	заявить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=411|end_char=417
+4	,	,	PUNCT	_	_	3	_	_	start_char=418|end_char=419
+5	что	что	SCONJ	_	_	4	_	_	start_char=420|end_char=423
+6	сумеет	уметь	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	5	_	_	start_char=424|end_char=430
+7	урегулировать	урегулировать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	_	_	start_char=431|end_char=444
+8	украинский	украинский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	_	_	start_char=445|end_char=455
+9	конфликт	конфликт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	_	_	start_char=456|end_char=464
+10	еще	еще	ADV	_	Degree=Pos	9	_	_	start_char=465|end_char=468
+11	до	до	ADP	_	_	10	_	_	start_char=469|end_char=471
+12	начала	начало	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	_	_	start_char=472|end_char=478
+13	президентского	президентский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	12	_	_	start_char=479|end_char=493
+14	срока	срок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	_	_	start_char=494|end_char=499
+15	в	в	ADP	_	_	14	_	_	start_char=500|end_char=501
+16	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	_	_	start_char=502|end_char=508
+17	своего	свой	DET	_	Case=Gen|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	16	_	_	start_char=509|end_char=515
+18	переизбрания	переизбрание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	_	_	start_char=516|end_char=528|SpaceAfter=No
+19	.	.	PUNCT	_	_	18	_	_	start_char=528|end_char=529
+
+# text = В 2023 году политик говорил , что сможет закончить конфликт на Украине за 24 часа в случае победы на президентских выборах.
+# sent_id = 3
+1	В	в	ADP	_	_	0	_	_	start_char=530|end_char=531
+2	2023	2023	ADJ	_	Degree=Pos	1	_	_	start_char=532|end_char=536
+3	году	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	_	_	start_char=537|end_char=541
+4	политик	политик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	_	_	start_char=542|end_char=549
+5	говорил	говорить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	_	_	start_char=550|end_char=557
+6	,	,	PUNCT	_	_	5	_	_	start_char=558|end_char=559
+7	что	что	SCONJ	_	_	6	_	_	start_char=560|end_char=563
+8	сможет	мочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	7	_	_	start_char=564|end_char=570
+9	закончить	закончить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	_	_	start_char=571|end_char=580
+10	конфликт	конфликт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	_	_	start_char=581|end_char=589
+11	на	на	ADP	_	_	10	_	_	start_char=590|end_char=592
+12	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	_	_	start_char=593|end_char=600
+13	за	за	ADP	_	_	12	_	_	start_char=601|end_char=603
+14	24	24	NUM	_	NumType=Card	13	_	_	start_char=604|end_char=606
+15	часа	час	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	_	_	start_char=607|end_char=611
+16	в	в	ADP	_	_	15	_	_	start_char=612|end_char=613
+17	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	16	_	_	start_char=614|end_char=620
+18	победы	победа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	_	_	start_char=621|end_char=627
+19	на	на	ADP	_	_	18	_	_	start_char=628|end_char=630
+20	президентских	президентский	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	19	_	_	start_char=631|end_char=644
+21	выборах	выборы	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	20	_	_	start_char=645|end_char=652|SpaceAfter=No
+22	.	.	PUNCT	_	_	21	_	_	start_char=652|end_char=653|SpaceAfter=No
+

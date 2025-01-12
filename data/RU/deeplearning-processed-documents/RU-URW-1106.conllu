@@ -1,0 +1,246 @@
+# text = Российская разведка рассекретила планы Франции отправить 2000 военных на Украину Российская разведка рассекретила донесение своего резидента о готовившейся в марте 2024 года отправке на Украину французского воинского контингента.
+# sent_id = 0
+1	Российская	российский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	_	_	start_char=0|end_char=10
+2	разведка	разведка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	_	_	start_char=11|end_char=19
+3	рассекретила	рассекретить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=20|end_char=32
+4	планы	план	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	_	_	start_char=33|end_char=38
+5	Франции	Франция	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	_	_	start_char=39|end_char=46
+6	отправить	отправить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	_	_	start_char=47|end_char=56
+7	2000	2000	NUM	_	NumType=Card	6	_	_	start_char=57|end_char=61
+8	военных	военный	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	7	_	_	start_char=62|end_char=69
+9	на	на	ADP	_	_	8	_	_	start_char=70|end_char=72
+10	Украину	Украина	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	_	_	start_char=73|end_char=80
+11	Российская	российский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	_	_	start_char=81|end_char=91
+12	разведка	разведка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	_	_	start_char=92|end_char=100
+13	рассекретила	рассекретить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	_	_	start_char=101|end_char=113
+14	донесение	донесение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	13	_	_	start_char=114|end_char=123
+15	своего	свой	DET	_	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	14	_	_	start_char=124|end_char=130
+16	резидента	резидент	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	15	_	_	start_char=131|end_char=140
+17	о	о	ADP	_	_	16	_	_	start_char=141|end_char=142
+18	готовившейся	готовить	VERB	_	Aspect=Perf|Case=Loc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	17	_	_	start_char=143|end_char=155
+19	в	в	ADP	_	_	18	_	_	start_char=156|end_char=157
+20	марте	март	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	19	_	_	start_char=158|end_char=163
+21	2024	2024	ADJ	_	Degree=Pos	20	_	_	start_char=164|end_char=168
+22	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	_	_	start_char=169|end_char=173
+23	отправке	отправка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	22	_	_	start_char=174|end_char=182
+24	на	на	ADP	_	_	23	_	_	start_char=183|end_char=185
+25	Украину	Украина	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	24	_	_	start_char=186|end_char=193
+26	французского	французский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	25	_	_	start_char=194|end_char=206
+27	воинского	воинский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	26	_	_	start_char=207|end_char=216
+28	контингента	контингент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	27	_	_	start_char=217|end_char=228|SpaceAfter=No
+29	.	.	PUNCT	_	_	28	_	_	start_char=228|end_char=229
+
+# text = Полный текст донесения российского разведчика по указанной теме опубликовал журнал "Разведчик".
+# sent_id = 1
+1	Полный	полный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	0	_	_	start_char=230|end_char=236
+2	текст	текст	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	_	_	start_char=237|end_char=242
+3	донесения	донесение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	_	_	start_char=243|end_char=252
+4	российского	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	3	_	_	start_char=253|end_char=264
+5	разведчика	разведчик	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	_	_	start_char=265|end_char=275
+6	по	по	ADP	_	_	5	_	_	start_char=276|end_char=278
+7	указанной	указать	VERB	_	Aspect=Perf|Case=Dat|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	_	_	start_char=279|end_char=288
+8	теме	тема	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	7	_	_	start_char=289|end_char=293
+9	опубликовал	опубликовать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	_	_	start_char=294|end_char=305
+10	журнал	журнал	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	_	_	start_char=306|end_char=312
+11	"	"	PUNCT	_	_	10	_	_	start_char=313|end_char=314|SpaceAfter=No
+12	Разведчик	разведчик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	_	_	start_char=314|end_char=323|SpaceAfter=No
+13	"	"	PUNCT	_	_	12	_	_	start_char=323|end_char=324|SpaceAfter=No
+14	.	.	PUNCT	_	_	13	_	_	start_char=324|end_char=325
+
+# text = Отмечается, что командование французской армии было обеспокоено большим числом французов, погибших на Украине.
+# sent_id = 2
+1	Отмечается	отмечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	_	_	start_char=326|end_char=336|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	_	_	start_char=336|end_char=337
+3	что	что	SCONJ	_	_	2	_	_	start_char=338|end_char=341
+4	командование	командование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	_	_	start_char=342|end_char=354
+5	французской	французский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	_	_	start_char=355|end_char=366
+6	армии	армия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	_	_	start_char=367|end_char=372
+7	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	_	_	start_char=373|end_char=377
+8	обеспокоено	обеспокоить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	7	_	_	start_char=378|end_char=389
+9	большим	большой	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	8	_	_	start_char=390|end_char=397
+10	числом	число	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	9	_	_	start_char=398|end_char=404
+11	французов	француз	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	10	_	_	start_char=405|end_char=414|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	_	_	start_char=414|end_char=415
+13	погибших	погибнуть	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	12	_	_	start_char=416|end_char=424
+14	на	на	ADP	_	_	13	_	_	start_char=425|end_char=427
+15	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	14	_	_	start_char=428|end_char=435|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	_	_	start_char=435|end_char=436
+
+# text = Так, только в результате уничтожения российской армией пункта временной дислокации иностранных граждан под Харьковом в январе погибли десятки французских граждан.
+# sent_id = 3
+1	Так	так	ADV	_	Degree=Pos	0	_	_	start_char=437|end_char=440|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	_	_	start_char=440|end_char=441
+3	только	только	PART	_	_	2	_	_	start_char=442|end_char=448
+4	в	в	ADP	_	_	3	_	_	start_char=449|end_char=450
+5	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	_	_	start_char=451|end_char=461
+6	уничтожения	уничтожение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	_	_	start_char=462|end_char=473
+7	российской	российский	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	6	_	_	start_char=474|end_char=484
+8	армией	армия	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	7	_	_	start_char=485|end_char=491
+9	пункта	пункт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	_	_	start_char=492|end_char=498
+10	временной	временный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	_	_	start_char=499|end_char=508
+11	дислокации	дислокация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	_	_	start_char=509|end_char=519
+12	иностранных	иностранный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	_	_	start_char=520|end_char=531
+13	граждан	гражданин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	12	_	_	start_char=532|end_char=539
+14	под	под	ADP	_	_	13	_	_	start_char=540|end_char=543
+15	Харьковом	Харьков	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	14	_	_	start_char=544|end_char=553
+16	в	в	ADP	_	_	15	_	_	start_char=554|end_char=555
+17	январе	январь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	16	_	_	start_char=556|end_char=562
+18	погибли	погибнуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	17	_	_	start_char=563|end_char=570
+19	десятки	десяток	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	18	_	_	start_char=571|end_char=578
+20	французских	французский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	19	_	_	start_char=579|end_char=590
+21	граждан	гражданин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	20	_	_	start_char=591|end_char=598|SpaceAfter=No
+22	.	.	PUNCT	_	_	21	_	_	start_char=598|end_char=599
+
+# text = При этом такие удары стали нормой.
+# sent_id = 4
+1	При	при	ADP	_	_	0	_	_	start_char=600|end_char=603
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=604|end_char=608
+3	такие	такой	DET	_	Case=Nom|Number=Plur|PronType=Dem	2	_	_	start_char=609|end_char=614
+4	удары	удар	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	_	_	start_char=615|end_char=620
+5	стали	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	4	_	_	start_char=621|end_char=626
+6	нормой	норма	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	_	_	start_char=627|end_char=633|SpaceAfter=No
+7	.	.	PUNCT	_	_	6	_	_	start_char=633|end_char=634
+
+# text = Во французском оборонном ведомстве посетовали, что подобных потерь за рубежом страна не знала со времен войны в Алжире.
+# sent_id = 5
+1	Во	в	ADP	_	_	0	_	_	start_char=635|end_char=637
+2	французском	французский	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	1	_	_	start_char=638|end_char=649
+3	оборонном	оборонный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	2	_	_	start_char=650|end_char=659
+4	ведомстве	ведомство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	_	_	start_char=660|end_char=669
+5	посетовали	посетовать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	_	_	start_char=670|end_char=680|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=680|end_char=681
+7	что	что	SCONJ	_	_	6	_	_	start_char=682|end_char=685
+8	подобных	подобный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	_	_	start_char=686|end_char=694
+9	потерь	потеря	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	_	_	start_char=695|end_char=701
+10	за	за	ADP	_	_	9	_	_	start_char=702|end_char=704
+11	рубежом	рубеж	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	10	_	_	start_char=705|end_char=712
+12	страна	страна	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	_	_	start_char=713|end_char=719
+13	не	не	PART	_	_	12	_	_	start_char=720|end_char=722
+14	знала	знать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	_	_	start_char=723|end_char=728
+15	со	с	ADP	_	_	14	_	_	start_char=729|end_char=731
+16	времен	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	15	_	_	start_char=732|end_char=738
+17	войны	война	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	_	_	start_char=739|end_char=744
+18	в	в	ADP	_	_	17	_	_	start_char=745|end_char=746
+19	Алжире	Алжир	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	18	_	_	start_char=747|end_char=753|SpaceAfter=No
+20	.	.	PUNCT	_	_	19	_	_	start_char=753|end_char=754
+
+# text = Резидент СВР подчеркнул, что число погибших французов уже превысило психологически значимый порог и публикация таких данных может стать катализатором массовых протестов.
+# sent_id = 6
+1	Резидент	резидент	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=755|end_char=763
+2	СВР	СВР	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	_	_	start_char=764|end_char=767
+3	подчеркнул	подчеркнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=768|end_char=778|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=778|end_char=779
+5	что	что	SCONJ	_	_	4	_	_	start_char=780|end_char=783
+6	число	число	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	_	_	start_char=784|end_char=789
+7	погибших	погибнуть	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	6	_	_	start_char=790|end_char=798
+8	французов	француз	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	7	_	_	start_char=799|end_char=808
+9	уже	уже	ADV	_	Degree=Pos	8	_	_	start_char=809|end_char=812
+10	превысило	превысить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	_	_	start_char=813|end_char=822
+11	психологически	психологически	ADV	_	Degree=Pos	10	_	_	start_char=823|end_char=837
+12	значимый	значимый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	11	_	_	start_char=838|end_char=846
+13	порог	порог	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	_	_	start_char=847|end_char=852
+14	и	и	CCONJ	_	_	13	_	_	start_char=853|end_char=854
+15	публикация	публикация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	_	_	start_char=855|end_char=865
+16	таких	такой	DET	_	Case=Gen|Number=Plur|PronType=Dem	15	_	_	start_char=866|end_char=871
+17	данных	данные	NOUN	_	Animacy=Inan|Case=Gen|Number=Plur	16	_	_	start_char=872|end_char=878
+18	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	_	_	start_char=879|end_char=884
+19	стать	стать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	18	_	_	start_char=885|end_char=890
+20	катализатором	катализатор	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	19	_	_	start_char=891|end_char=904
+21	массовых	массовый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	20	_	_	start_char=905|end_char=913
+22	протестов	протест	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	21	_	_	start_char=914|end_char=923|SpaceAfter=No
+23	.	.	PUNCT	_	_	22	_	_	start_char=923|end_char=924
+
+# text = Кроме того, французское командование опасается недовольства военных офицеров среднего звена.
+# sent_id = 7
+1	Кроме	кроме	ADP	_	_	0	_	_	start_char=925|end_char=930
+2	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=931|end_char=935|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=935|end_char=936
+4	французское	французский	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	_	_	start_char=937|end_char=948
+5	командование	командование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	_	_	start_char=949|end_char=961
+6	опасается	опасаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	5	_	_	start_char=962|end_char=971
+7	недовольства	недовольство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	_	_	start_char=972|end_char=984
+8	военных	военный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	_	_	start_char=985|end_char=992
+9	офицеров	офицер	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	8	_	_	start_char=993|end_char=1001
+10	среднего	средний	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	9	_	_	start_char=1002|end_char=1010
+11	звена	звено	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	_	_	start_char=1011|end_char=1016|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	_	_	start_char=1016|end_char=1017
+
+# text = На фоне такой ситуации во Франции фиксируются проблемы с поиском "добровольцев" для обеспечения ротации на Украине.
+# sent_id = 8
+1	На	на	ADP	_	_	0	_	_	start_char=1018|end_char=1020
+2	фоне	фон	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	_	_	start_char=1021|end_char=1025
+3	такой	такой	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	2	_	_	start_char=1026|end_char=1031
+4	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	_	_	start_char=1032|end_char=1040
+5	во	в	ADP	_	_	4	_	_	start_char=1041|end_char=1043
+6	Франции	Франция	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	_	_	start_char=1044|end_char=1051
+7	фиксируются	фиксировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	6	_	_	start_char=1052|end_char=1063
+8	проблемы	проблема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	7	_	_	start_char=1064|end_char=1072
+9	с	с	ADP	_	_	8	_	_	start_char=1073|end_char=1074
+10	поиском	поиск	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	9	_	_	start_char=1075|end_char=1082
+11	"	"	PUNCT	_	_	10	_	_	start_char=1083|end_char=1084|SpaceAfter=No
+12	добровольцев	доброволец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	11	_	_	start_char=1084|end_char=1096|SpaceAfter=No
+13	"	"	PUNCT	_	_	12	_	_	start_char=1096|end_char=1097
+14	для	для	ADP	_	_	13	_	_	start_char=1098|end_char=1101
+15	обеспечения	обеспечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	_	_	start_char=1102|end_char=1113
+16	ротации	ротация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	_	_	start_char=1114|end_char=1121
+17	на	на	ADP	_	_	16	_	_	start_char=1122|end_char=1124
+18	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	17	_	_	start_char=1125|end_char=1132|SpaceAfter=No
+19	.	.	PUNCT	_	_	18	_	_	start_char=1132|end_char=1133
+
+# text = "Тем не менее, по имеющимся данным, французский контингент для отправки на Украину все же готовится.
+# sent_id = 9
+1	"	"	PUNCT	_	_	0	_	_	start_char=1134|end_char=1135|SpaceAfter=No
+2	Тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=1135|end_char=1138
+3	не	не	PART	_	_	2	_	_	start_char=1139|end_char=1141
+4	менее	менее	ADV	_	Degree=Cmp	3	_	_	start_char=1142|end_char=1147|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=1147|end_char=1148
+6	по	по	ADP	_	_	5	_	_	start_char=1149|end_char=1151
+7	имеющимся	иметься	VERB	_	Aspect=Imp|Case=Dat|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	6	_	_	start_char=1152|end_char=1161
+8	данным	данные	NOUN	_	Animacy=Inan|Case=Dat|Number=Plur	7	_	_	start_char=1162|end_char=1168|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=1168|end_char=1169
+10	французский	французский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	_	_	start_char=1170|end_char=1181
+11	контингент	контингент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	_	_	start_char=1182|end_char=1192
+12	для	для	ADP	_	_	11	_	_	start_char=1193|end_char=1196
+13	отправки	отправка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	_	_	start_char=1197|end_char=1205
+14	на	на	ADP	_	_	13	_	_	start_char=1206|end_char=1208
+15	Украину	Украина	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	_	_	start_char=1209|end_char=1216
+16	все	все	PART	_	_	15	_	_	start_char=1217|end_char=1220
+17	же	же	PART	_	_	16	_	_	start_char=1221|end_char=1223
+18	готовится	готовиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	17	_	_	start_char=1224|end_char=1233|SpaceAfter=No
+19	.	.	PUNCT	_	_	18	_	_	start_char=1233|end_char=1234
+
+# text = На первоначальном этапе он составит порядка 2 тысяч человек", – говорится в шифрограмме.
+# sent_id = 10
+1	На	на	ADP	_	_	0	_	_	start_char=1235|end_char=1237
+2	первоначальном	первоначальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	1	_	_	start_char=1238|end_char=1252
+3	этапе	этап	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	_	_	start_char=1253|end_char=1258
+4	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	_	_	start_char=1259|end_char=1261
+5	составит	составить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	4	_	_	start_char=1262|end_char=1270
+6	порядка	порядка	ADP	_	_	5	_	_	start_char=1271|end_char=1278
+7	2	2	NUM	_	NumType=Card	6	_	_	start_char=1279|end_char=1280
+8	тысяч	тысяча	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	_	_	start_char=1281|end_char=1286
+9	человек	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	8	_	_	start_char=1287|end_char=1294|SpaceAfter=No
+10	"	"	PUNCT	_	_	9	_	_	start_char=1294|end_char=1295|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=1295|end_char=1296
+12	–	–	PUNCT	_	_	11	_	_	start_char=1297|end_char=1298
+13	говорится	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	12	_	_	start_char=1299|end_char=1308
+14	в	в	ADP	_	_	13	_	_	start_char=1309|end_char=1310
+15	шифрограмме	шифрограмма	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	14	_	_	start_char=1311|end_char=1322|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	_	_	start_char=1322|end_char=1323
+
+# text = Президент Франции Эммануэль Макрон ранее неоднократно грозился отправить французских военнослужащих на Украину.
+# sent_id = 11
+1	Президент	президент	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=1324|end_char=1333
+2	Франции	Франция	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	_	_	start_char=1334|end_char=1341
+3	Эммануэль	Эммануэль	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	_	_	start_char=1342|end_char=1351
+4	Макрон	Макрон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	_	_	start_char=1352|end_char=1358
+5	ранее	ранее	ADV	_	Degree=Pos	4	_	_	start_char=1359|end_char=1364
+6	неоднократно	неоднократно	ADV	_	Degree=Pos	5	_	_	start_char=1365|end_char=1377
+7	грозился	грозиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	6	_	_	start_char=1378|end_char=1386
+8	отправить	отправить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	_	_	start_char=1387|end_char=1396
+9	французских	французский	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Number=Plur	8	_	_	start_char=1397|end_char=1408
+10	военнослужащих	военнослужащий	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	9	_	_	start_char=1409|end_char=1423
+11	на	на	ADP	_	_	10	_	_	start_char=1424|end_char=1426
+12	Украину	Украина	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	_	_	start_char=1427|end_char=1434|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=1434|end_char=1435|SpaceAfter=No
+

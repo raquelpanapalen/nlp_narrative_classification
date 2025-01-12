@@ -1,0 +1,243 @@
+# text = В России сообщили о ранении гражданки Украины в результате обстрела Севастополя 13:50 "(ВСУ) 23 июня, среди пострадавших оказалась гражданка бывшей советской республики.
+# sent_id = 0
+1	В	в	ADP	_	_	0	_	_	start_char=0|end_char=1
+2	России	Россия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	_	_	start_char=2|end_char=8
+3	сообщили	сообщить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=9|end_char=17
+4	о	о	ADP	_	_	3	_	_	start_char=18|end_char=19
+5	ранении	ранение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	_	_	start_char=20|end_char=27
+6	гражданки	гражданка	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	5	_	_	start_char=28|end_char=37
+7	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	_	_	start_char=38|end_char=45
+8	в	в	ADP	_	_	7	_	_	start_char=46|end_char=47
+9	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	_	_	start_char=48|end_char=58
+10	обстрела	обстрел	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	_	_	start_char=59|end_char=67
+11	Севастополя	Севастополь	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	_	_	start_char=68|end_char=79
+12	13	13	NUM	_	NumType=Card	11	_	_	start_char=80|end_char=82|SpaceAfter=No
+13	:	:	PUNCT	_	_	12	_	_	start_char=82|end_char=83|SpaceAfter=No
+14	50	50	NUM	_	NumType=Card	13	_	_	start_char=83|end_char=85
+15	"	"	PUNCT	_	_	14	_	_	start_char=86|end_char=87|SpaceAfter=No
+16	(	(	PUNCT	_	_	15	_	_	start_char=87|end_char=88|SpaceAfter=No
+17	ВСУ	ВСУ	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	16	_	_	start_char=88|end_char=91|SpaceAfter=No
+18	)	)	PUNCT	_	_	17	_	_	start_char=91|end_char=92
+19	23	23	NUM	_	NumType=Card	18	_	_	start_char=93|end_char=95
+20	июня	июнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	_	_	start_char=96|end_char=100|SpaceAfter=No
+21	,	,	PUNCT	_	_	20	_	_	start_char=100|end_char=101
+22	среди	среди	ADP	_	_	21	_	_	start_char=102|end_char=107
+23	пострадавших	пострадавший	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	22	_	_	start_char=108|end_char=120
+24	оказалась	оказаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	23	_	_	start_char=121|end_char=130
+25	гражданка	гражданка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	24	_	_	start_char=131|end_char=140
+26	бывшей	бывший	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	25	_	_	start_char=141|end_char=147
+27	советской	советский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	26	_	_	start_char=148|end_char=157
+28	республики	республика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	27	_	_	start_char=158|end_char=168|SpaceAfter=No
+29	.	.	PUNCT	_	_	28	_	_	start_char=168|end_char=169
+
+# text = Об этом сообщила уполномоченный по правам человека в России «Женщина в настоящее время подала обращение в компетентные органы о получении российского гражданства, поскольку на себе испытала ужасы украинского террора», — отметила она.
+# sent_id = 1
+1	Об	о	ADP	_	_	0	_	_	start_char=170|end_char=172
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=173|end_char=177
+3	сообщила	сообщить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=178|end_char=186
+4	уполномоченный	уполномоченный	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	_	_	start_char=187|end_char=201
+5	по	по	ADP	_	_	4	_	_	start_char=202|end_char=204
+6	правам	право	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	5	_	_	start_char=205|end_char=211
+7	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	_	_	start_char=212|end_char=220
+8	в	в	ADP	_	_	7	_	_	start_char=221|end_char=222
+9	России	Россия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	_	_	start_char=223|end_char=229
+10	«	"	PUNCT	_	_	9	_	_	start_char=230|end_char=231|SpaceAfter=No
+11	Женщина	женщина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	10	_	_	start_char=231|end_char=238
+12	в	в	ADP	_	_	11	_	_	start_char=239|end_char=240
+13	настоящее	настоящий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	12	_	_	start_char=241|end_char=250
+14	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	13	_	_	start_char=251|end_char=256
+15	подала	подать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	_	_	start_char=257|end_char=263
+16	обращение	обращение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	15	_	_	start_char=264|end_char=273
+17	в	в	ADP	_	_	16	_	_	start_char=274|end_char=275
+18	компетентные	компетентный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	17	_	_	start_char=276|end_char=288
+19	органы	орган	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	18	_	_	start_char=289|end_char=295
+20	о	о	ADP	_	_	19	_	_	start_char=296|end_char=297
+21	получении	получение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	20	_	_	start_char=298|end_char=307
+22	российского	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	21	_	_	start_char=308|end_char=319
+23	гражданства	гражданство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	_	_	start_char=320|end_char=331|SpaceAfter=No
+24	,	,	PUNCT	_	_	23	_	_	start_char=331|end_char=332
+25	поскольку	поскольку	SCONJ	_	_	24	_	_	start_char=333|end_char=342
+26	на	на	ADP	_	_	25	_	_	start_char=343|end_char=345
+27	себе	себя	PRON	_	Case=Loc|PronType=Prs|Reflex=Yes	26	_	_	start_char=346|end_char=350
+28	испытала	испытать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	27	_	_	start_char=351|end_char=359
+29	ужасы	ужас	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	28	_	_	start_char=360|end_char=365
+30	украинского	украинский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	29	_	_	start_char=366|end_char=377
+31	террора	террор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	30	_	_	start_char=378|end_char=385|SpaceAfter=No
+32	»	"	PUNCT	_	_	31	_	_	start_char=385|end_char=386|SpaceAfter=No
+33	,	,	PUNCT	_	_	32	_	_	start_char=386|end_char=387
+34	—	—	PUNCT	_	_	33	_	_	start_char=388|end_char=389
+35	отметила	отметить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	34	_	_	start_char=390|end_char=398
+36	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	35	_	_	start_char=399|end_char=402|SpaceAfter=No
+37	.	.	PUNCT	_	_	36	_	_	start_char=402|end_char=403
+
+# text = По словам Москальковой, уполномоченный по правам человека в Севастополе Павел Буцай обратился в департамент труда и социальной защиты Севастополя с просьбой об осуществлении единовременной выплаты пострадавшей женщине в виде исключения.
+# sent_id = 2
+1	По	по	ADP	_	_	0	_	_	start_char=404|end_char=406
+2	словам	слово	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	1	_	_	start_char=407|end_char=413
+3	Москальковой	Москалькова	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	2	_	_	start_char=414|end_char=426|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=426|end_char=427
+5	уполномоченный	уполномоченный	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=428|end_char=442
+6	по	по	ADP	_	_	5	_	_	start_char=443|end_char=445
+7	правам	право	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	6	_	_	start_char=446|end_char=452
+8	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	7	_	_	start_char=453|end_char=461
+9	в	в	ADP	_	_	8	_	_	start_char=462|end_char=463
+10	Севастополе	Севастополь	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	_	_	start_char=464|end_char=475
+11	Павел	Павел	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	_	_	start_char=476|end_char=481
+12	Буцай	Буцай	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	_	_	start_char=482|end_char=487
+13	обратился	обратиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	12	_	_	start_char=488|end_char=497
+14	в	в	ADP	_	_	13	_	_	start_char=498|end_char=499
+15	департамент	департамент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	_	_	start_char=500|end_char=511
+16	труда	труд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	_	_	start_char=512|end_char=517
+17	и	и	CCONJ	_	_	16	_	_	start_char=518|end_char=519
+18	социальной	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	17	_	_	start_char=520|end_char=530
+19	защиты	защита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	_	_	start_char=531|end_char=537
+20	Севастополя	Севастополь	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	_	_	start_char=538|end_char=549
+21	с	с	ADP	_	_	20	_	_	start_char=550|end_char=551
+22	просьбой	просьба	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	21	_	_	start_char=552|end_char=560
+23	об	о	ADP	_	_	22	_	_	start_char=561|end_char=563
+24	осуществлении	осуществление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	23	_	_	start_char=564|end_char=577
+25	единовременной	единовременный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	24	_	_	start_char=578|end_char=592
+26	выплаты	выплата	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	_	_	start_char=593|end_char=600
+27	пострадавшей	пострадавшая	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	26	_	_	start_char=601|end_char=613
+28	женщине	женщина	NOUN	_	Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing	27	_	_	start_char=614|end_char=621
+29	в	в	ADP	_	_	28	_	_	start_char=622|end_char=623
+30	виде	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	29	_	_	start_char=624|end_char=628
+31	исключения	исключение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	30	_	_	start_char=629|end_char=639|SpaceAfter=No
+32	.	.	PUNCT	_	_	31	_	_	start_char=639|end_char=640
+
+# text = Семьям погибших при атаке ВСУ 23 июня выплатят по одному миллиону рублей.
+# sent_id = 3
+1	Семьям	семья	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	0	_	_	start_char=641|end_char=647
+2	погибших	погибнуть	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	1	_	_	start_char=648|end_char=656
+3	при	при	ADP	_	_	2	_	_	start_char=657|end_char=660
+4	атаке	атака	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	_	_	start_char=661|end_char=666
+5	ВСУ	ВСУ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	_	_	start_char=667|end_char=670
+6	23	23	NUM	_	NumType=Card	5	_	_	start_char=671|end_char=673
+7	июня	июнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	_	_	start_char=674|end_char=678
+8	выплатят	выплатить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	7	_	_	start_char=679|end_char=687
+9	по	по	ADP	_	_	8	_	_	start_char=688|end_char=690
+10	одному	один	NUM	_	Case=Dat|Gender=Masc|NumType=Card	9	_	_	start_char=691|end_char=697
+11	миллиону	миллион	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	10	_	_	start_char=698|end_char=706
+12	рублей	рубль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	11	_	_	start_char=707|end_char=713|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=713|end_char=714
+
+# text = Получившим ранения тяжелой и средней степени тяжести — по 400 тысяч.
+# sent_id = 4
+1	Получившим	получить	VERB	_	Aspect=Perf|Case=Dat|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	0	_	_	start_char=715|end_char=725
+2	ранения	ранение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	1	_	_	start_char=726|end_char=733
+3	тяжелой	тяжелый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	2	_	_	start_char=734|end_char=741
+4	и	и	CCONJ	_	_	3	_	_	start_char=742|end_char=743
+5	средней	средний	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	_	_	start_char=744|end_char=751
+6	степени	степень	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	_	_	start_char=752|end_char=759
+7	тяжести	тяжесть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	_	_	start_char=760|end_char=767
+8	—	—	PUNCT	_	_	7	_	_	start_char=768|end_char=769
+9	по	по	ADP	_	_	8	_	_	start_char=770|end_char=772
+10	400	400	NUM	_	NumType=Card	9	_	_	start_char=773|end_char=776
+11	тысяч	тысяча	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	_	_	start_char=777|end_char=782|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	_	_	start_char=782|end_char=783
+
+# text = Тем, у кого легкие травмы, — по 200 тысяч.
+# sent_id = 5
+1	Тем	тот	DET	_	Case=Ins|Number=Plur|PronType=Dem	0	_	_	start_char=784|end_char=787|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	_	_	start_char=787|end_char=788
+3	у	у	ADP	_	_	2	_	_	start_char=789|end_char=790
+4	кого	кто	PRON	_	Case=Gen|PronType=Int,Rel	3	_	_	start_char=791|end_char=795
+5	легкие	легкий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	_	_	start_char=796|end_char=802
+6	травмы	травма	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	5	_	_	start_char=803|end_char=809|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	_	_	start_char=809|end_char=810
+8	—	—	PUNCT	_	_	7	_	_	start_char=811|end_char=812
+9	по	по	ADP	_	_	8	_	_	start_char=813|end_char=815
+10	200	200	NUM	_	NumType=Card	9	_	_	start_char=816|end_char=819
+11	тысяч	тысяча	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	_	_	start_char=820|end_char=825|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	_	_	start_char=825|end_char=826
+
+# text = Дополнительно к этому особые выплаты положены пострадавшим детям.
+# sent_id = 6
+1	Дополнительно	дополнительно	ADV	_	Degree=Pos	0	_	_	start_char=827|end_char=840
+2	к	к	ADP	_	_	1	_	_	start_char=841|end_char=842
+3	этому	это	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	2	_	_	start_char=843|end_char=848
+4	особые	особый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	_	_	start_char=849|end_char=855
+5	выплаты	выплата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	4	_	_	start_char=856|end_char=863
+6	положены	класть	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	5	_	_	start_char=864|end_char=872
+7	пострадавшим	страдать	VERB	_	Aspect=Imp|Case=Dat|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	6	_	_	start_char=873|end_char=885
+8	детям	ребенок	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	7	_	_	start_char=886|end_char=891|SpaceAfter=No
+9	.	.	PUNCT	_	_	8	_	_	start_char=891|end_char=892
+
+# text = 23 июня Украина выпустила по Севастополю пять американских ракет ATACMS с кассетными боевыми частями.
+# sent_id = 7
+1	23	23	ADJ	_	_	0	_	_	start_char=893|end_char=895
+2	июня	июнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	_	_	start_char=896|end_char=900
+3	Украина	Украина	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	_	_	start_char=901|end_char=908
+4	выпустила	выпустить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	_	_	start_char=909|end_char=918
+5	по	по	ADP	_	_	4	_	_	start_char=919|end_char=921
+6	Севастополю	Севастополь	PROPN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	5	_	_	start_char=922|end_char=933
+7	пять	пять	NUM	_	Case=Acc|NumType=Card	6	_	_	start_char=934|end_char=938
+8	американских	американский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	_	_	start_char=939|end_char=951
+9	ракет	ракета	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	_	_	start_char=952|end_char=957
+10	ATACMS	ATACMS	PROPN	_	Foreign=Yes	9	_	_	start_char=958|end_char=964
+11	с	с	ADP	_	_	10	_	_	start_char=965|end_char=966
+12	кассетными	кассетный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	11	_	_	start_char=967|end_char=977
+13	боевыми	боевой	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	12	_	_	start_char=978|end_char=985
+14	частями	часть	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	13	_	_	start_char=986|end_char=993|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	_	_	start_char=993|end_char=994
+
+# text = Одна из ракет взорвалась над пляжем Учкуевка, где отдыхало много людей.
+# sent_id = 8
+1	Одна	один	NUM	_	Case=Nom|Gender=Fem|NumType=Card	0	_	_	start_char=995|end_char=999
+2	из	из	ADP	_	_	1	_	_	start_char=1000|end_char=1002
+3	ракет	ракета	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	_	_	start_char=1003|end_char=1008
+4	взорвалась	взорваться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	_	_	start_char=1009|end_char=1019
+5	над	над	ADP	_	_	4	_	_	start_char=1020|end_char=1023
+6	пляжем	пляж	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	_	_	start_char=1024|end_char=1030
+7	Учкуевка	Учкуевка	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	_	_	start_char=1031|end_char=1039|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=1039|end_char=1040
+9	где	где	ADV	_	Degree=Pos	8	_	_	start_char=1041|end_char=1044
+10	отдыхало	отдыхать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	_	_	start_char=1045|end_char=1053
+11	много	много	NUM	_	_	10	_	_	start_char=1054|end_char=1059
+12	людей	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	11	_	_	start_char=1060|end_char=1065|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=1065|end_char=1066
+
+# text = Пострадали 153 человека.
+# sent_id = 9
+1	Пострадали	страдать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	_	_	start_char=1067|end_char=1077
+2	153	153	NUM	_	NumType=Card	1	_	_	start_char=1078|end_char=1081
+3	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	_	_	start_char=1082|end_char=1090|SpaceAfter=No
+4	.	.	PUNCT	_	_	3	_	_	start_char=1090|end_char=1091
+
+# text = Жертвами атаки стали четыре человека, двое из которых — дети.
+# sent_id = 10
+1	Жертвами	жертва	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Plur	0	_	_	start_char=1092|end_char=1100
+2	атаки	атака	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	_	_	start_char=1101|end_char=1106
+3	стали	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	2	_	_	start_char=1107|end_char=1112
+4	четыре	четыре	NUM	_	Case=Nom|NumType=Card	3	_	_	start_char=1113|end_char=1119
+5	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	_	_	start_char=1120|end_char=1128|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=1128|end_char=1129
+7	двое	двое	NUM	_	Case=Nom|NumType=Card	6	_	_	start_char=1130|end_char=1134
+8	из	из	ADP	_	_	7	_	_	start_char=1135|end_char=1137
+9	которых	который	PRON	_	Case=Gen|PronType=Int,Rel	8	_	_	start_char=1138|end_char=1145
+10	—	—	PUNCT	_	_	9	_	_	start_char=1146|end_char=1147
+11	дети	ребенок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	10	_	_	start_char=1148|end_char=1152|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	_	_	start_char=1152|end_char=1153
+
+# text = В городе из-за случившегося ввели режим чрезвычайной ситуации.
+# sent_id = 11
+1	В	в	ADP	_	_	0	_	_	start_char=1154|end_char=1155
+2	городе	город	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	_	_	start_char=1156|end_char=1162
+3	из-за	из-за	ADP	_	_	2	_	_	start_char=1163|end_char=1168
+4	случившегося	случиться	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	3	_	_	start_char=1169|end_char=1181
+5	ввели	ввести	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	_	_	start_char=1182|end_char=1187
+6	режим	режим	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	_	_	start_char=1188|end_char=1193
+7	чрезвычайной	чрезвычайный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	_	_	start_char=1194|end_char=1206
+8	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	_	_	start_char=1207|end_char=1215|SpaceAfter=No
+9	.	.	PUNCT	_	_	8	_	_	start_char=1215|end_char=1216
+
+# text = Поиски неразорвавшихся кассет на пляже Учкуевка"
+# sent_id = 12
+1	Поиски	поиск	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	_	_	start_char=1217|end_char=1223
+2	неразорвавшихся	неразорвавшийся	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	1	_	_	start_char=1224|end_char=1239
+3	кассет	кассет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	_	_	start_char=1240|end_char=1246
+4	на	на	ADP	_	_	3	_	_	start_char=1247|end_char=1249
+5	пляже	пляж	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	_	_	start_char=1250|end_char=1255
+6	Учкуевка	Учкуевка	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	_	_	start_char=1256|end_char=1264|SpaceAfter=No
+7	"	"	PUNCT	_	_	6	_	_	start_char=1264|end_char=1265|SpaceAfter=No
+

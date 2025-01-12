@@ -1,0 +1,157 @@
+# text = ﻿Власти Киева решили снести памятник дважды Герою Советского Союза Ковпаку - Бужанский "Киевсовет проголосовал за снос памятника Ковпаку в парке Славы…
+# sent_id = 0
+1	﻿Власти	швласть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	_	_	start_char=0|end_char=7
+2	Киева	Киев	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	_	_	start_char=8|end_char=13
+3	решили	решить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=14|end_char=20
+4	снести	снести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	_	_	start_char=21|end_char=27
+5	памятник	памятник	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	_	_	start_char=28|end_char=36
+6	дважды	дважды	ADV	_	Degree=Pos	5	_	_	start_char=37|end_char=43
+7	Герою	Герой	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	6	_	_	start_char=44|end_char=49
+8	Советского	советский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	_	_	start_char=50|end_char=60
+9	Союза	Союз	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	_	_	start_char=61|end_char=66
+10	Ковпаку	Ковпак	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	_	_	start_char=67|end_char=74
+11	-	-	PUNCT	_	_	10	_	_	start_char=75|end_char=76
+12	Бужанский	Бужанский	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	_	_	start_char=77|end_char=86
+13	"	"	PUNCT	_	_	12	_	_	start_char=87|end_char=88|SpaceAfter=No
+14	Киевсовет	Киевсовет	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	13	_	_	start_char=88|end_char=97
+15	проголосовал	проголосовать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	_	_	start_char=98|end_char=110
+16	за	за	ADP	_	_	15	_	_	start_char=111|end_char=113
+17	снос	снос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	_	_	start_char=114|end_char=118
+18	памятника	памятник	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	_	_	start_char=119|end_char=128
+19	Ковпаку	Ковпак	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	18	_	_	start_char=129|end_char=136
+20	в	в	ADP	_	_	19	_	_	start_char=137|end_char=138
+21	парке	парк	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	20	_	_	start_char=139|end_char=144
+22	Славы	Слава	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	_	_	start_char=145|end_char=150|SpaceAfter=No
+23	…	…	PUNCT	_	_	22	_	_	start_char=150|end_char=151
+
+# text = Как теперь будет называться парк, не знаю.
+# sent_id = 1
+1	Как	как	SCONJ	_	_	0	_	_	start_char=152|end_char=155
+2	теперь	теперь	ADV	_	Degree=Pos	1	_	_	start_char=156|end_char=162
+3	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=163|end_char=168
+4	называться	называться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	3	_	_	start_char=169|end_char=179
+5	парк	парк	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=180|end_char=184|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=184|end_char=185
+7	не	не	PART	_	_	6	_	_	start_char=186|end_char=188
+8	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	_	_	start_char=189|end_char=193|SpaceAfter=No
+9	.	.	PUNCT	_	_	8	_	_	start_char=193|end_char=194
+
+# text = Может, Бесславный?" - написал Бужанский.
+# sent_id = 2
+1	Может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	_	_	start_char=195|end_char=200|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	_	_	start_char=200|end_char=201
+3	Бесславный	бесславный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	_	_	start_char=202|end_char=212|SpaceAfter=No
+4	?	?	PUNCT	_	_	3	_	_	start_char=212|end_char=213|SpaceAfter=No
+5	"	"	PUNCT	_	_	4	_	_	start_char=213|end_char=214
+6	-	-	PUNCT	_	_	5	_	_	start_char=215|end_char=216
+7	написал	написать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	_	_	start_char=217|end_char=224
+8	Бужанский	Бужанский	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	_	_	start_char=225|end_char=234|SpaceAfter=No
+9	.	.	PUNCT	_	_	8	_	_	start_char=234|end_char=235|SpaceAfter=No
+
+# text = Сидор Ковпак (1887 - 1967) – советский военный и государственный деятель, один из организаторов партизанского движения на Украине в годы Великой Отечественной войны.
+# sent_id = 3
+1	Сидор	Сидор	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=235|end_char=240
+2	Ковпак	Ковпак	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=241|end_char=247
+3	(	(	PUNCT	_	_	2	_	_	start_char=248|end_char=249|SpaceAfter=No
+4	1887	1887	ADJ	_	_	3	_	_	start_char=249|end_char=253
+5	-	-	PUNCT	_	_	4	_	_	start_char=254|end_char=255
+6	1967	1967	ADJ	_	_	5	_	_	start_char=256|end_char=260|SpaceAfter=No
+7	)	)	PUNCT	_	_	6	_	_	start_char=260|end_char=261
+8	–	–	PUNCT	_	_	7	_	_	start_char=262|end_char=263
+9	советский	советский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	_	_	start_char=264|end_char=273
+10	военный	военный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	_	_	start_char=274|end_char=281
+11	и	и	CCONJ	_	_	10	_	_	start_char=282|end_char=283
+12	государственный	государственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	_	_	start_char=284|end_char=299
+13	деятель	деятель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	_	_	start_char=300|end_char=307|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	_	_	start_char=307|end_char=308
+15	один	один	NUM	_	Case=Nom|Gender=Masc|NumType=Card	14	_	_	start_char=309|end_char=313
+16	из	из	ADP	_	_	15	_	_	start_char=314|end_char=316
+17	организаторов	организатор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	16	_	_	start_char=317|end_char=330
+18	партизанского	партизанский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	17	_	_	start_char=331|end_char=344
+19	движения	движение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	_	_	start_char=345|end_char=353
+20	на	на	ADP	_	_	19	_	_	start_char=354|end_char=356
+21	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	20	_	_	start_char=357|end_char=364
+22	в	в	ADP	_	_	21	_	_	start_char=365|end_char=366
+23	годы	год	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	22	_	_	start_char=367|end_char=371
+24	Великой	великий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	23	_	_	start_char=372|end_char=379
+25	Отечественной	отечественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	24	_	_	start_char=380|end_char=393
+26	войны	война	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	_	_	start_char=394|end_char=399|SpaceAfter=No
+27	.	.	PUNCT	_	_	26	_	_	start_char=399|end_char=400|SpaceAfter=No
+
+# text = Демонтаж памятников, связанных с советской историей, а также переименование улиц началось на Украине в 2015 году, когда был принят закон о декоммунизации.
+# sent_id = 4
+1	Демонтаж	демонтаж	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=400|end_char=408
+2	памятников	памятник	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	_	_	start_char=409|end_char=419|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=419|end_char=420
+4	связанных	связать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	3	_	_	start_char=421|end_char=430
+5	с	с	ADP	_	_	4	_	_	start_char=431|end_char=432
+6	советской	советский	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	5	_	_	start_char=433|end_char=442
+7	историей	история	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	6	_	_	start_char=443|end_char=451|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=451|end_char=452
+9	а	а	CCONJ	_	_	8	_	_	start_char=453|end_char=454
+10	также	также	PART	_	_	9	_	_	start_char=455|end_char=460
+11	переименование	переименование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	_	_	start_char=461|end_char=475
+12	улиц	улица	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	_	_	start_char=476|end_char=480
+13	началось	начаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	12	_	_	start_char=481|end_char=489
+14	на	на	ADP	_	_	13	_	_	start_char=490|end_char=492
+15	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	14	_	_	start_char=493|end_char=500
+16	в	в	ADP	_	_	15	_	_	start_char=501|end_char=502
+17	2015	2015	ADJ	_	Degree=Pos	16	_	_	start_char=503|end_char=507
+18	году	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	17	_	_	start_char=508|end_char=512|SpaceAfter=No
+19	,	,	PUNCT	_	_	18	_	_	start_char=512|end_char=513
+20	когда	когда	SCONJ	_	_	19	_	_	start_char=514|end_char=519
+21	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	20	_	_	start_char=520|end_char=523
+22	принят	принять	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	21	_	_	start_char=524|end_char=530
+23	закон	закон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	22	_	_	start_char=531|end_char=536
+24	о	о	ADP	_	_	23	_	_	start_char=537|end_char=538
+25	декоммунизации	декоммунизация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	24	_	_	start_char=539|end_char=553|SpaceAfter=No
+26	.	.	PUNCT	_	_	25	_	_	start_char=553|end_char=554
+
+# text = В последнее время власти Украины начали борьбу не только с советской историей, но и со всем, что связано с Россией.
+# sent_id = 5
+1	В	в	ADP	_	_	0	_	_	start_char=555|end_char=556
+2	последнее	последний	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	1	_	_	start_char=557|end_char=566
+3	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	_	_	start_char=567|end_char=572
+4	власти	власть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	_	_	start_char=573|end_char=579
+5	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	_	_	start_char=580|end_char=587
+6	начали	начать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	_	_	start_char=588|end_char=594
+7	борьбу	борьба	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	_	_	start_char=595|end_char=601
+8	не	не	PART	_	_	7	_	_	start_char=602|end_char=604
+9	только	только	PART	_	_	8	_	_	start_char=605|end_char=611
+10	с	с	ADP	_	_	9	_	_	start_char=612|end_char=613
+11	советской	советский	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	10	_	_	start_char=614|end_char=623
+12	историей	история	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	11	_	_	start_char=624|end_char=632|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=632|end_char=633
+14	но	но	CCONJ	_	_	13	_	_	start_char=634|end_char=636
+15	и	и	PART	_	_	14	_	_	start_char=637|end_char=638
+16	со	с	ADP	_	_	15	_	_	start_char=639|end_char=641
+17	всем	все	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Tot	16	_	_	start_char=642|end_char=646|SpaceAfter=No
+18	,	,	PUNCT	_	_	17	_	_	start_char=646|end_char=647
+19	что	что	PRON	_	Case=Nom|PronType=Int,Rel	18	_	_	start_char=648|end_char=651
+20	связано	связать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	19	_	_	start_char=652|end_char=659
+21	с	с	ADP	_	_	20	_	_	start_char=660|end_char=661
+22	Россией	Россия	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	21	_	_	start_char=662|end_char=669|SpaceAfter=No
+23	.	.	PUNCT	_	_	22	_	_	start_char=669|end_char=670
+
+# text = Подробнее о сносе памятников - в материале В Ровно со смехом разрушили памятник советским солдатам на сайте Украина.ру.
+# sent_id = 6
+1	Подробнее	подробно	ADV	_	Degree=Cmp	0	_	_	start_char=671|end_char=680
+2	о	о	ADP	_	_	1	_	_	start_char=681|end_char=682
+3	сносе	снос	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	_	_	start_char=683|end_char=688
+4	памятников	памятник	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	_	_	start_char=689|end_char=699
+5	-	-	PUNCT	_	_	4	_	_	start_char=700|end_char=701
+6	в	в	ADP	_	_	5	_	_	start_char=702|end_char=703
+7	материале	материал	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	_	_	start_char=704|end_char=713
+8	В	в	ADP	_	_	7	_	_	start_char=714|end_char=715
+9	Ровно	ровно	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	_	_	start_char=716|end_char=721
+10	со	с	ADP	_	_	9	_	_	start_char=722|end_char=724
+11	смехом	смех	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	10	_	_	start_char=725|end_char=731
+12	разрушили	разрушить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	11	_	_	start_char=732|end_char=741
+13	памятник	памятник	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	_	_	start_char=742|end_char=750
+14	советским	советский	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	13	_	_	start_char=751|end_char=760
+15	солдатам	солдат	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	14	_	_	start_char=761|end_char=769
+16	на	на	ADP	_	_	15	_	_	start_char=770|end_char=772
+17	сайте	сайт	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	16	_	_	start_char=773|end_char=778
+18	Украина.ру	Украина.р	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	_	_	start_char=779|end_char=789|SpaceAfter=No
+19	.	.	PUNCT	_	_	18	_	_	start_char=789|end_char=790|SpaceAfter=No
+

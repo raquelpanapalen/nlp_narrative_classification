@@ -1,0 +1,510 @@
+# text = Венгерский гуляш по-киевски.
+# sent_id = 0
+1	Венгерский	венгерский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	_	_	start_char=0|end_char=10
+2	гуляш	гуляш	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=11|end_char=16
+3	по-киевски	по-киевски	ADV	_	Degree=Pos	2	_	_	start_char=17|end_char=27|SpaceAfter=No
+4	.	.	PUNCT	_	_	3	_	_	start_char=27|end_char=28
+
+# text = Орбан приручает Зеленского по заданию ЕС, но с оглядкой на Россию Как ни странно, но итог визита в Киеве премьер-министра Венгрии Орбана точнее и определённее всего подвел пресс-секретарь российского президента Дмитрий Песков.
+# sent_id = 1
+1	Орбан	Орбан	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=29|end_char=34
+2	приручает	приручать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	_	_	start_char=35|end_char=44
+3	Зеленского	Зеленский	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	2	_	_	start_char=45|end_char=55
+4	по	по	ADP	_	_	3	_	_	start_char=56|end_char=58
+5	заданию	задание	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	4	_	_	start_char=59|end_char=66
+6	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	_	_	start_char=67|end_char=69|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	_	_	start_char=69|end_char=70
+8	но	но	CCONJ	_	_	7	_	_	start_char=71|end_char=73
+9	с	с	ADP	_	_	8	_	_	start_char=74|end_char=75
+10	оглядкой	оглядка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	9	_	_	start_char=76|end_char=84
+11	на	на	ADP	_	_	10	_	_	start_char=85|end_char=87
+12	Россию	Россия	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	_	_	start_char=88|end_char=94
+13	Как	как	ADV	_	Degree=Pos	12	_	_	start_char=95|end_char=98
+14	ни	ни	PART	_	_	13	_	_	start_char=99|end_char=101
+15	странно	странный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	14	_	_	start_char=102|end_char=109|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	_	_	start_char=109|end_char=110
+17	но	но	CCONJ	_	_	16	_	_	start_char=111|end_char=113
+18	итог	итог	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	17	_	_	start_char=114|end_char=118
+19	визита	визит	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	_	_	start_char=119|end_char=125
+20	в	в	ADP	_	_	19	_	_	start_char=126|end_char=127
+21	Киеве	Киев	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	20	_	_	start_char=128|end_char=133
+22	премьер-министра	премьер-министр	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	21	_	_	start_char=134|end_char=150
+23	Венгрии	Венгрия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	_	_	start_char=151|end_char=158
+24	Орбана	Орбан	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	23	_	_	start_char=159|end_char=165
+25	точнее	точно	ADV	_	Degree=Cmp	24	_	_	start_char=166|end_char=172
+26	и	и	CCONJ	_	_	25	_	_	start_char=173|end_char=174
+27	определённее	определенный	ADJ	_	Degree=Cmp	26	_	_	start_char=175|end_char=187
+28	всего	все	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Tot	27	_	_	start_char=188|end_char=193
+29	подвел	подвести	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	28	_	_	start_char=194|end_char=200
+30	пресс-секретарь	пресс-секретарь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	29	_	_	start_char=201|end_char=216
+31	российского	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	30	_	_	start_char=217|end_char=228
+32	президента	президент	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	31	_	_	start_char=229|end_char=239
+33	Дмитрий	Дмитрий	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	32	_	_	start_char=240|end_char=247
+34	Песков	Песков	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	33	_	_	start_char=248|end_char=254|SpaceAfter=No
+35	.	.	PUNCT	_	_	34	_	_	start_char=254|end_char=255
+
+# text = Он сказал, что никто в России, в том числе и его начальник Владимир Путин с Орбаном о целях его украинского вояжа не разговаривали.
+# sent_id = 2
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=256|end_char=258
+2	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=259|end_char=265|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=265|end_char=266
+4	что	что	SCONJ	_	_	3	_	_	start_char=267|end_char=270
+5	никто	никто	PRON	_	Case=Nom|PronType=Neg	4	_	_	start_char=271|end_char=276
+6	в	в	ADP	_	_	5	_	_	start_char=277|end_char=278
+7	России	Россия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	_	_	start_char=279|end_char=285|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=285|end_char=286
+9	в	в	ADP	_	_	8	_	_	start_char=287|end_char=288
+10	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	9	_	_	start_char=289|end_char=292
+11	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	10	_	_	start_char=293|end_char=298
+12	и	и	PART	_	_	11	_	_	start_char=299|end_char=300
+13	его	его	DET	_	Poss=Yes|PronType=Prs	12	_	_	start_char=301|end_char=304
+14	начальник	начальник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	_	_	start_char=305|end_char=314
+15	Владимир	Владимир	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	_	_	start_char=315|end_char=323
+16	Путин	Путин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	15	_	_	start_char=324|end_char=329
+17	с	с	ADP	_	_	16	_	_	start_char=330|end_char=331
+18	Орбаном	Орбан	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	17	_	_	start_char=332|end_char=339
+19	о	о	ADP	_	_	18	_	_	start_char=340|end_char=341
+20	целях	цель	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	19	_	_	start_char=342|end_char=347
+21	его	его	DET	_	Poss=Yes|PronType=Prs	20	_	_	start_char=348|end_char=351
+22	украинского	украинский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	21	_	_	start_char=352|end_char=363
+23	вояжа	вояжа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	22	_	_	start_char=364|end_char=369
+24	не	не	PART	_	_	23	_	_	start_char=370|end_char=372
+25	разговаривали	разговаривать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	24	_	_	start_char=373|end_char=386|SpaceAfter=No
+26	.	.	PUNCT	_	_	25	_	_	start_char=386|end_char=387
+
+# text = Никак.
+# sent_id = 3
+1	Никак	никак	ADV	_	Degree=Pos	0	_	_	start_char=388|end_char=393|SpaceAfter=No
+2	.	.	PUNCT	_	_	1	_	_	start_char=393|end_char=394
+
+# text = Ни предварительно, ни непосредственно перед вояжем.
+# sent_id = 4
+1	Ни	ни	CCONJ	_	_	0	_	_	start_char=395|end_char=397
+2	предварительно	предварительно	ADV	_	Degree=Pos	1	_	_	start_char=398|end_char=412|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=412|end_char=413
+4	ни	ни	CCONJ	_	_	3	_	_	start_char=414|end_char=416
+5	непосредственно	непосредственно	ADV	_	Degree=Pos	4	_	_	start_char=417|end_char=432
+6	перед	перед	ADP	_	_	5	_	_	start_char=433|end_char=438
+7	вояжем	вояжь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	6	_	_	start_char=439|end_char=445|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	_	_	start_char=445|end_char=446
+
+# text = А это значит, о чем бы ни договорился венгр с просроченным фюрером украинского народа Владимиром Зеленским, тупо изображающим из себя главу Украины, на Россию это никак не повлияет.
+# sent_id = 5
+1	А	а	CCONJ	_	_	0	_	_	start_char=447|end_char=448
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=449|end_char=452
+3	значит	значить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=453|end_char=459|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=459|end_char=460
+5	о	о	ADP	_	_	4	_	_	start_char=461|end_char=462
+6	чем	что	PRON	_	Case=Loc|PronType=Int,Rel	5	_	_	start_char=463|end_char=466
+7	бы	бы	AUX	_	_	6	_	_	start_char=467|end_char=469
+8	ни	ни	PART	_	_	7	_	_	start_char=470|end_char=472
+9	договорился	договориться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	8	_	_	start_char=473|end_char=484
+10	венгр	венгр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	_	_	start_char=485|end_char=490
+11	с	с	ADP	_	_	10	_	_	start_char=491|end_char=492
+12	просроченным	просрочить	VERB	_	Aspect=Perf|Case=Ins|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	11	_	_	start_char=493|end_char=505
+13	фюрером	фюрером	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	12	_	_	start_char=506|end_char=513
+14	украинского	украинский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	13	_	_	start_char=514|end_char=525
+15	народа	народ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	_	_	start_char=526|end_char=532
+16	Владимиром	Владимир	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	15	_	_	start_char=533|end_char=543
+17	Зеленским	Зеленский	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	16	_	_	start_char=544|end_char=553|SpaceAfter=No
+18	,	,	PUNCT	_	_	17	_	_	start_char=553|end_char=554
+19	тупо	тупо	ADV	_	Degree=Pos	18	_	_	start_char=555|end_char=559
+20	изображающим	изображать	VERB	_	Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	19	_	_	start_char=560|end_char=572
+21	из	из	ADP	_	_	20	_	_	start_char=573|end_char=575
+22	себя	себя	PRON	_	Case=Gen|PronType=Prs|Reflex=Yes	21	_	_	start_char=576|end_char=580
+23	главу	глава	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	22	_	_	start_char=581|end_char=586
+24	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	_	_	start_char=587|end_char=594|SpaceAfter=No
+25	,	,	PUNCT	_	_	24	_	_	start_char=594|end_char=595
+26	на	на	ADP	_	_	25	_	_	start_char=596|end_char=598
+27	Россию	Россия	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	26	_	_	start_char=599|end_char=605
+28	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	27	_	_	start_char=606|end_char=609
+29	никак	никак	ADV	_	Degree=Pos	28	_	_	start_char=610|end_char=615
+30	не	не	PART	_	_	29	_	_	start_char=616|end_char=618
+31	повлияет	влиять	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	30	_	_	start_char=619|end_char=627|SpaceAfter=No
+32	.	.	PUNCT	_	_	31	_	_	start_char=627|end_char=628
+
+# text = Равно как и на общий итог встреч и договоренностей в формате Орбан – Зеленский.
+# sent_id = 6
+1	Равно	равно	ADV	_	Degree=Pos	0	_	_	start_char=629|end_char=634
+2	как	как	SCONJ	_	_	1	_	_	start_char=635|end_char=638
+3	и	и	PART	_	_	2	_	_	start_char=639|end_char=640
+4	на	на	ADP	_	_	3	_	_	start_char=641|end_char=643
+5	общий	общий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	4	_	_	start_char=644|end_char=649
+6	итог	итог	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	_	_	start_char=650|end_char=654
+7	встреч	встреча	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	_	_	start_char=655|end_char=661
+8	и	и	CCONJ	_	_	7	_	_	start_char=662|end_char=663
+9	договоренностей	договоренность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	_	_	start_char=664|end_char=679
+10	в	в	ADP	_	_	9	_	_	start_char=680|end_char=681
+11	формате	формат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	_	_	start_char=682|end_char=689
+12	Орбан	Орбан	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	_	_	start_char=690|end_char=695
+13	–	–	PUNCT	_	_	12	_	_	start_char=696|end_char=697
+14	Зеленский	Зеленский	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	_	_	start_char=698|end_char=707|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	_	_	start_char=707|end_char=708
+
+# text = Это как в кулинарии: венгерский гуляш – блюдо вкусное, но если его готовить в Киеве с нарушением всех мыслимых и немыслимых технологий и подменой ингредиентов, но при этом называть венгерским, то получится ерунда какая-то, а не полезная вкуснятина.
+# sent_id = 7
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	_	_	start_char=709|end_char=712
+2	как	как	SCONJ	_	_	1	_	_	start_char=713|end_char=716
+3	в	в	ADP	_	_	2	_	_	start_char=717|end_char=718
+4	кулинарии	кулинария	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	_	_	start_char=719|end_char=728|SpaceAfter=No
+5	:	:	PUNCT	_	_	4	_	_	start_char=728|end_char=729
+6	венгерский	венгерский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	_	_	start_char=730|end_char=740
+7	гуляш	гуляш	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	_	_	start_char=741|end_char=746
+8	–	–	PUNCT	_	_	7	_	_	start_char=747|end_char=748
+9	блюдо	блюдо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	_	_	start_char=749|end_char=754
+10	вкусное	вкусный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	9	_	_	start_char=755|end_char=762|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=762|end_char=763
+12	но	но	CCONJ	_	_	11	_	_	start_char=764|end_char=766
+13	если	если	SCONJ	_	_	12	_	_	start_char=767|end_char=771
+14	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	_	_	start_char=772|end_char=775
+15	готовить	готовить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	14	_	_	start_char=776|end_char=784
+16	в	в	ADP	_	_	15	_	_	start_char=785|end_char=786
+17	Киеве	Киев	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	16	_	_	start_char=787|end_char=792
+18	с	с	ADP	_	_	17	_	_	start_char=793|end_char=794
+19	нарушением	нарушение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	18	_	_	start_char=795|end_char=805
+20	всех	весь	DET	_	Case=Gen|Number=Plur|PronType=Tot	19	_	_	start_char=806|end_char=810
+21	мыслимых	мыслимый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	20	_	_	start_char=811|end_char=819
+22	и	и	CCONJ	_	_	21	_	_	start_char=820|end_char=821
+23	немыслимых	немыслимый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	22	_	_	start_char=822|end_char=832
+24	технологий	технология	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	23	_	_	start_char=833|end_char=843
+25	и	и	CCONJ	_	_	24	_	_	start_char=844|end_char=845
+26	подменой	подмена	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	25	_	_	start_char=846|end_char=854
+27	ингредиентов	ингредиент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	26	_	_	start_char=855|end_char=867|SpaceAfter=No
+28	,	,	PUNCT	_	_	27	_	_	start_char=867|end_char=868
+29	но	но	CCONJ	_	_	28	_	_	start_char=869|end_char=871
+30	при	при	ADP	_	_	29	_	_	start_char=872|end_char=875
+31	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	30	_	_	start_char=876|end_char=880
+32	называть	называть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	31	_	_	start_char=881|end_char=889
+33	венгерским	венгерский	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	32	_	_	start_char=890|end_char=900|SpaceAfter=No
+34	,	,	PUNCT	_	_	33	_	_	start_char=900|end_char=901
+35	то	то	SCONJ	_	_	34	_	_	start_char=902|end_char=904
+36	получится	получиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	35	_	_	start_char=905|end_char=914
+37	ерунда	ерунда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	36	_	_	start_char=915|end_char=921
+38	какая-то	какой-то	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	37	_	_	start_char=922|end_char=930|SpaceAfter=No
+39	,	,	PUNCT	_	_	38	_	_	start_char=930|end_char=931
+40	а	а	CCONJ	_	_	39	_	_	start_char=932|end_char=933
+41	не	не	PART	_	_	40	_	_	start_char=934|end_char=936
+42	полезная	полезный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	41	_	_	start_char=937|end_char=945
+43	вкуснятина	вкуснятина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	42	_	_	start_char=946|end_char=956|SpaceAfter=No
+44	.	.	PUNCT	_	_	43	_	_	start_char=956|end_char=957
+
+# text = И в России ее даже пробовать не будут, не то что наслаждаться.
+# sent_id = 8
+1	И	и	CCONJ	_	_	0	_	_	start_char=958|end_char=959
+2	в	в	ADP	_	_	1	_	_	start_char=960|end_char=961
+3	России	Россия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	_	_	start_char=962|end_char=968
+4	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	_	_	start_char=969|end_char=971
+5	даже	даже	PART	_	_	4	_	_	start_char=972|end_char=976
+6	пробовать	пробовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	_	_	start_char=977|end_char=986
+7	не	не	PART	_	_	6	_	_	start_char=987|end_char=989
+8	будут	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	_	_	start_char=990|end_char=995|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=995|end_char=996
+10	не	не	PART	_	_	9	_	_	start_char=997|end_char=999
+11	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	10	_	_	start_char=1000|end_char=1002
+12	что	что	PRON	_	Case=Acc|PronType=Int,Rel	11	_	_	start_char=1003|end_char=1006
+13	наслаждаться	наслаждаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	12	_	_	start_char=1007|end_char=1019|SpaceAfter=No
+14	.	.	PUNCT	_	_	13	_	_	start_char=1019|end_char=1020
+
+# text = А фишка-то визита была как раз в том, чтобы по итогам разговоров между Орбаном и Зеленским именно России Путина предложить возможный вероятный вариант поведения на возможных же мирных переговорах по ситуации в Украине в рамках спецвоенной операции (СВО).
+# sent_id = 9
+1	А	а	CCONJ	_	_	0	_	_	start_char=1021|end_char=1022
+2	фишка	фишка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	_	_	start_char=1023|end_char=1028|SpaceAfter=No
+3	-	-	PUNCT	_	_	2	_	_	start_char=1028|end_char=1029|SpaceAfter=No
+4	то	то	PART	_	_	3	_	_	start_char=1029|end_char=1031
+5	визита	визит	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	_	_	start_char=1032|end_char=1038
+6	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	_	_	start_char=1039|end_char=1043
+7	как	как	SCONJ	_	_	6	_	_	start_char=1044|end_char=1047
+8	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	_	_	start_char=1048|end_char=1051
+9	в	в	ADP	_	_	8	_	_	start_char=1052|end_char=1053
+10	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	9	_	_	start_char=1054|end_char=1057|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=1057|end_char=1058
+12	чтобы	чтобы	SCONJ	_	Mood=Cnd	11	_	_	start_char=1059|end_char=1064
+13	по	по	ADP	_	_	12	_	_	start_char=1065|end_char=1067
+14	итогам	итог	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	13	_	_	start_char=1068|end_char=1074
+15	разговоров	разговор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	14	_	_	start_char=1075|end_char=1085
+16	между	между	ADP	_	_	15	_	_	start_char=1086|end_char=1091
+17	Орбаном	Орбан	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	16	_	_	start_char=1092|end_char=1099
+18	и	и	CCONJ	_	_	17	_	_	start_char=1100|end_char=1101
+19	Зеленским	Зеленский	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	18	_	_	start_char=1102|end_char=1111
+20	именно	именно	PART	_	_	19	_	_	start_char=1112|end_char=1118
+21	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	_	_	start_char=1119|end_char=1125
+22	Путина	Путин	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	21	_	_	start_char=1126|end_char=1132
+23	предложить	предложить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	22	_	_	start_char=1133|end_char=1143
+24	возможный	возможный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	23	_	_	start_char=1144|end_char=1153
+25	вероятный	вероятный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	24	_	_	start_char=1154|end_char=1163
+26	вариант	вариант	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	25	_	_	start_char=1164|end_char=1171
+27	поведения	поведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	26	_	_	start_char=1172|end_char=1181
+28	на	на	ADP	_	_	27	_	_	start_char=1182|end_char=1184
+29	возможных	возможный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	28	_	_	start_char=1185|end_char=1194
+30	же	же	PART	_	_	29	_	_	start_char=1195|end_char=1197
+31	мирных	мирный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	30	_	_	start_char=1198|end_char=1204
+32	переговорах	переговоры	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	31	_	_	start_char=1205|end_char=1216
+33	по	по	ADP	_	_	32	_	_	start_char=1217|end_char=1219
+34	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	33	_	_	start_char=1220|end_char=1228
+35	в	в	ADP	_	_	34	_	_	start_char=1229|end_char=1230
+36	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	35	_	_	start_char=1231|end_char=1238
+37	в	в	ADP	_	_	36	_	_	start_char=1239|end_char=1240
+38	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	37	_	_	start_char=1241|end_char=1247
+39	спецвоенной	спецвоенный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	38	_	_	start_char=1248|end_char=1259
+40	операции	операция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	39	_	_	start_char=1260|end_char=1268
+41	(	(	PUNCT	_	_	40	_	_	start_char=1269|end_char=1270|SpaceAfter=No
+42	СВО	СВО	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	41	_	_	start_char=1270|end_char=1273|SpaceAfter=No
+43	)	)	PUNCT	_	_	42	_	_	start_char=1273|end_char=1274|SpaceAfter=No
+44	.	.	PUNCT	_	_	43	_	_	start_char=1274|end_char=1275
+
+# text = Дело вот в чем.
+# sent_id = 10
+1	Дело	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	_	_	start_char=1276|end_char=1280
+2	вот	вот	PART	_	_	1	_	_	start_char=1281|end_char=1284
+3	в	в	ADP	_	_	2	_	_	start_char=1285|end_char=1286
+4	чем	что	PRON	_	Case=Loc|PronType=Int,Rel	3	_	_	start_char=1287|end_char=1290|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	_	_	start_char=1290|end_char=1291
+
+# text = Уже все знают, что Орбан отправился в Киев, представляя страну-председателя в Совете Евросоюза.
+# sent_id = 11
+1	Уже	уже	ADV	_	Degree=Pos	0	_	_	start_char=1292|end_char=1295
+2	все	все	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|PronType=Tot	1	_	_	start_char=1296|end_char=1299
+3	знают	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=1300|end_char=1305|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=1305|end_char=1306
+5	что	что	SCONJ	_	_	4	_	_	start_char=1307|end_char=1310
+6	Орбан	Орбан	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	_	_	start_char=1311|end_char=1316
+7	отправился	отправиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	6	_	_	start_char=1317|end_char=1327
+8	в	в	ADP	_	_	7	_	_	start_char=1328|end_char=1329
+9	Киев	Киев	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	_	_	start_char=1330|end_char=1334|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=1334|end_char=1335
+11	представляя	представлять	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	10	_	_	start_char=1336|end_char=1347
+12	страну	страна	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	_	_	start_char=1348|end_char=1354|SpaceAfter=No
+13	-	-	PUNCT	_	_	12	_	_	start_char=1354|end_char=1355|SpaceAfter=No
+14	председателя	председатель	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	13	_	_	start_char=1355|end_char=1367
+15	в	в	ADP	_	_	14	_	_	start_char=1368|end_char=1369
+16	Совете	Совет	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	_	_	start_char=1370|end_char=1376
+17	Евросоюза	Евросоюз	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	_	_	start_char=1377|end_char=1386|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	_	_	start_char=1386|end_char=1387
+
+# text = И, по словам Берталана Хаваши, руководителя пресс-службы Орбана, первая причина визита – попытки достичь мира в Украине.
+# sent_id = 12
+1	И	и	CCONJ	_	_	0	_	_	start_char=1388|end_char=1389|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	_	_	start_char=1389|end_char=1390
+3	по	по	ADP	_	_	2	_	_	start_char=1391|end_char=1393
+4	словам	слово	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	3	_	_	start_char=1394|end_char=1400
+5	Берталана	Берталан	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	_	_	start_char=1401|end_char=1410
+6	Хаваши	Хаваши	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	_	_	start_char=1411|end_char=1417|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	_	_	start_char=1417|end_char=1418
+8	руководителя	руководитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	7	_	_	start_char=1419|end_char=1431
+9	пресс-службы	пресс-служба	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	_	_	start_char=1432|end_char=1444
+10	Орбана	Орбан	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	_	_	start_char=1445|end_char=1451|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=1451|end_char=1452
+12	первая	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	11	_	_	start_char=1453|end_char=1459
+13	причина	причина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	_	_	start_char=1460|end_char=1467
+14	визита	визит	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	_	_	start_char=1468|end_char=1474
+15	–	–	PUNCT	_	_	14	_	_	start_char=1475|end_char=1476
+16	попытки	попытка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	15	_	_	start_char=1477|end_char=1484
+17	достичь	достичь	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	16	_	_	start_char=1485|end_char=1492
+18	мира	мир	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	_	_	start_char=1493|end_char=1497
+19	в	в	ADP	_	_	18	_	_	start_char=1498|end_char=1499
+20	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	19	_	_	start_char=1500|end_char=1507|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	_	_	start_char=1507|end_char=1508
+
+# text = Причем по заданию Совета ЕС, которому такую задачу нарезали США.
+# sent_id = 13
+1	Причем	причем	CCONJ	_	_	0	_	_	start_char=1509|end_char=1515
+2	по	по	ADP	_	_	1	_	_	start_char=1516|end_char=1518
+3	заданию	задание	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	2	_	_	start_char=1519|end_char=1526
+4	Совета	Совет	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=1527|end_char=1533
+5	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	_	_	start_char=1534|end_char=1536|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=1536|end_char=1537
+7	которому	который	PRON	_	Case=Dat|PronType=Int,Rel	6	_	_	start_char=1538|end_char=1546
+8	такую	такой	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	7	_	_	start_char=1547|end_char=1552
+9	задачу	задача	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	_	_	start_char=1553|end_char=1559
+10	нарезали	нарезать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	9	_	_	start_char=1560|end_char=1568
+11	США	США	PROPN	_	Animacy=Inan|Number=Plur	10	_	_	start_char=1569|end_char=1572|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	_	_	start_char=1572|end_char=1573
+
+# text = Но закавыка-то в том, что, во-первых, это Европе нужен мир.
+# sent_id = 14
+1	Но	но	CCONJ	_	_	0	_	_	start_char=1574|end_char=1576
+2	закавыка	закавыка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	_	_	start_char=1577|end_char=1585|SpaceAfter=No
+3	-	-	PUNCT	_	_	2	_	_	start_char=1585|end_char=1586|SpaceAfter=No
+4	то	то	PART	_	_	3	_	_	start_char=1586|end_char=1588
+5	в	в	ADP	_	_	4	_	_	start_char=1589|end_char=1590
+6	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	5	_	_	start_char=1591|end_char=1594|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	_	_	start_char=1594|end_char=1595
+8	что	что	SCONJ	_	_	7	_	_	start_char=1596|end_char=1599|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=1599|end_char=1600
+10	во-первых	во-первых	ADV	_	Degree=Pos	9	_	_	start_char=1601|end_char=1610|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=1610|end_char=1611
+12	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	11	_	_	start_char=1612|end_char=1615
+13	Европе	Европа	PROPN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	12	_	_	start_char=1616|end_char=1622
+14	нужен	нужный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	13	_	_	start_char=1623|end_char=1628
+15	мир	мир	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	_	_	start_char=1629|end_char=1632|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	_	_	start_char=1632|end_char=1633
+
+# text = А США нужна передышка, которая позволила бы вечно держать Россию в напряжении.
+# sent_id = 15
+1	А	а	CCONJ	_	_	0	_	_	start_char=1634|end_char=1635
+2	США	США	PROPN	_	Animacy=Inan|Case=Gen|Number=Plur	1	_	_	start_char=1636|end_char=1639
+3	нужна	нужный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	2	_	_	start_char=1640|end_char=1645
+4	передышка	передышка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	_	_	start_char=1646|end_char=1655|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=1655|end_char=1656
+6	которая	который	PRON	_	Case=Nom|PronType=Int,Rel	5	_	_	start_char=1657|end_char=1664
+7	позволила	позволить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	_	_	start_char=1665|end_char=1674
+8	бы	бы	AUX	_	_	7	_	_	start_char=1675|end_char=1677
+9	вечно	вечно	ADV	_	Degree=Pos	8	_	_	start_char=1678|end_char=1683
+10	держать	держать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	_	_	start_char=1684|end_char=1691
+11	Россию	Россия	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	_	_	start_char=1692|end_char=1698
+12	в	в	ADP	_	_	11	_	_	start_char=1699|end_char=1700
+13	напряжении	напряжение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	12	_	_	start_char=1701|end_char=1711|SpaceAfter=No
+14	.	.	PUNCT	_	_	13	_	_	start_char=1711|end_char=1712
+
+# text = В той же Украине.
+# sent_id = 16
+1	В	в	ADP	_	_	0	_	_	start_char=1713|end_char=1714
+2	той	тот	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Dem	1	_	_	start_char=1715|end_char=1718
+3	же	же	PART	_	_	2	_	_	start_char=1719|end_char=1721
+4	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	_	_	start_char=1722|end_char=1729|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	_	_	start_char=1729|end_char=1730
+
+# text = Угрозой возобновления конфликта на российских юго-западных границах, но только с более подготовленной и вооруженной Украиной, за которой стояла бы вся мощь НАТО, во всяком случае, европейской ее части.
+# sent_id = 17
+1	Угрозой	угроза	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	0	_	_	start_char=1731|end_char=1738
+2	возобновления	возобновление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	_	_	start_char=1739|end_char=1752
+3	конфликта	конфликт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	_	_	start_char=1753|end_char=1762
+4	на	на	ADP	_	_	3	_	_	start_char=1763|end_char=1765
+5	российских	российский	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	4	_	_	start_char=1766|end_char=1776
+6	юго-западных	юго-западный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	5	_	_	start_char=1777|end_char=1789
+7	границах	граница	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	6	_	_	start_char=1790|end_char=1798|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=1798|end_char=1799
+9	но	но	CCONJ	_	_	8	_	_	start_char=1800|end_char=1802
+10	только	только	PART	_	_	9	_	_	start_char=1803|end_char=1809
+11	с	с	ADP	_	_	10	_	_	start_char=1810|end_char=1811
+12	более	более	ADV	_	Degree=Cmp	11	_	_	start_char=1812|end_char=1817
+13	подготовленной	подготовить	VERB	_	Aspect=Perf|Case=Ins|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	12	_	_	start_char=1818|end_char=1832
+14	и	и	CCONJ	_	_	13	_	_	start_char=1833|end_char=1834
+15	вооруженной	вооружить	VERB	_	Aspect=Perf|Case=Ins|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	14	_	_	start_char=1835|end_char=1846
+16	Украиной	Украина	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	15	_	_	start_char=1847|end_char=1855|SpaceAfter=No
+17	,	,	PUNCT	_	_	16	_	_	start_char=1855|end_char=1856
+18	за	за	ADP	_	_	17	_	_	start_char=1857|end_char=1859
+19	которой	который	PRON	_	Case=Ins|PronType=Int,Rel	18	_	_	start_char=1860|end_char=1867
+20	стояла	стоять	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	19	_	_	start_char=1868|end_char=1874
+21	бы	бы	AUX	_	_	20	_	_	start_char=1875|end_char=1877
+22	вся	весь	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Tot	21	_	_	start_char=1878|end_char=1881
+23	мощь	мощь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	22	_	_	start_char=1882|end_char=1886
+24	НАТО	НАТО	PROPN	_	_	23	_	_	start_char=1887|end_char=1891|SpaceAfter=No
+25	,	,	PUNCT	_	_	24	_	_	start_char=1891|end_char=1892
+26	во	в	ADP	_	_	25	_	_	start_char=1893|end_char=1895
+27	всяком	всякий	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Tot	26	_	_	start_char=1896|end_char=1902
+28	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	27	_	_	start_char=1903|end_char=1909|SpaceAfter=No
+29	,	,	PUNCT	_	_	28	_	_	start_char=1909|end_char=1910
+30	европейской	европейский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	29	_	_	start_char=1911|end_char=1922
+31	ее	ее	DET	_	Poss=Yes|PronType=Prs	30	_	_	start_char=1923|end_char=1925
+32	части	часть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	31	_	_	start_char=1926|end_char=1931|SpaceAfter=No
+33	.	.	PUNCT	_	_	32	_	_	start_char=1931|end_char=1932
+
+# text = Сейчас Украина терпит поражение и близка к краху, несмотря на всю помощь Запада, который тужится и пыжится, но все равно не может обеспечить Украину всем необходимым, а вот выступить стороной конфликта в СВО не готов.
+# sent_id = 18
+1	Сейчас	сейчас	ADV	_	Degree=Pos	0	_	_	start_char=1933|end_char=1939
+2	Украина	Украина	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	_	_	start_char=1940|end_char=1947
+3	терпит	терпеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=1948|end_char=1954
+4	поражение	поражение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	_	_	start_char=1955|end_char=1964
+5	и	и	CCONJ	_	_	4	_	_	start_char=1965|end_char=1966
+6	близка	близкий	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	5	_	_	start_char=1967|end_char=1973
+7	к	к	ADP	_	_	6	_	_	start_char=1974|end_char=1975
+8	краху	крах	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	7	_	_	start_char=1976|end_char=1981|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=1981|end_char=1982
+10	несмотря	несмотря	ADV	_	Polarity=Neg	9	_	_	start_char=1983|end_char=1991
+11	на	на	ADP	_	_	10	_	_	start_char=1992|end_char=1994
+12	всю	весь	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Tot	11	_	_	start_char=1995|end_char=1998
+13	помощь	помощь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	_	_	start_char=1999|end_char=2005
+14	Запада	Запад	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	_	_	start_char=2006|end_char=2012|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=2012|end_char=2013
+16	который	который	PRON	_	Case=Nom|PronType=Int,Rel	15	_	_	start_char=2014|end_char=2021
+17	тужится	тужиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	16	_	_	start_char=2022|end_char=2029
+18	и	и	CCONJ	_	_	17	_	_	start_char=2030|end_char=2031
+19	пыжится	пыжаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	18	_	_	start_char=2032|end_char=2039|SpaceAfter=No
+20	,	,	PUNCT	_	_	19	_	_	start_char=2039|end_char=2040
+21	но	но	CCONJ	_	_	20	_	_	start_char=2041|end_char=2043
+22	все	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	21	_	_	start_char=2044|end_char=2047
+23	равно	равный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	22	_	_	start_char=2048|end_char=2053
+24	не	не	PART	_	_	23	_	_	start_char=2054|end_char=2056
+25	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	_	_	start_char=2057|end_char=2062
+26	обеспечить	обеспечить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	25	_	_	start_char=2063|end_char=2073
+27	Украину	Украина	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	26	_	_	start_char=2074|end_char=2081
+28	всем	все	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Tot	27	_	_	start_char=2082|end_char=2086
+29	необходимым	необходимый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	28	_	_	start_char=2087|end_char=2098|SpaceAfter=No
+30	,	,	PUNCT	_	_	29	_	_	start_char=2098|end_char=2099
+31	а	а	CCONJ	_	_	30	_	_	start_char=2100|end_char=2101
+32	вот	вот	PART	_	_	31	_	_	start_char=2102|end_char=2105
+33	выступить	выступить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	32	_	_	start_char=2106|end_char=2115
+34	стороной	сторона	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	33	_	_	start_char=2116|end_char=2124
+35	конфликта	конфликт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	34	_	_	start_char=2125|end_char=2134
+36	в	в	ADP	_	_	35	_	_	start_char=2135|end_char=2136
+37	СВО	СВО	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	36	_	_	start_char=2137|end_char=2140
+38	не	не	PART	_	_	37	_	_	start_char=2141|end_char=2143
+39	готов	готовый	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	38	_	_	start_char=2144|end_char=2149|SpaceAfter=No
+40	.	.	PUNCT	_	_	39	_	_	start_char=2149|end_char=2150
+
+# text = Вот Западу и нужна передышка.
+# sent_id = 19
+1	Вот	вот	PART	_	_	0	_	_	start_char=2151|end_char=2154
+2	Западу	Запад	PROPN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	1	_	_	start_char=2155|end_char=2161
+3	и	и	PART	_	_	2	_	_	start_char=2162|end_char=2163
+4	нужна	нужный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	3	_	_	start_char=2164|end_char=2169
+5	передышка	передышка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	_	_	start_char=2170|end_char=2179|SpaceAfter=No
+6	.	.	PUNCT	_	_	5	_	_	start_char=2179|end_char=2180
+
+# text = Чтобы: а) лучше подготовиться к войне, запустив на полную мощность ВПК своих стран; б) дать возможность США разобраться с другими их войнам – на ближнем Востоке и против Китая вокруг Тайваня; в) сбросить на Европу основную материальную тяжесть в ведении войны в Украине против России.
+# sent_id = 20
+1	Чтобы	чтобы	SCONJ	_	Mood=Cnd	0	_	_	start_char=2181|end_char=2186|SpaceAfter=No
+2	:	:	PUNCT	_	_	1	_	_	start_char=2186|end_char=2187
+3	а	а	INTJ	_	_	2	_	_	start_char=2188|end_char=2189|SpaceAfter=No
+4	)	)	PUNCT	_	_	3	_	_	start_char=2189|end_char=2190
+5	лучше	хороший	ADJ	_	Degree=Cmp	4	_	_	start_char=2191|end_char=2196
+6	подготовиться	подготовиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	5	_	_	start_char=2197|end_char=2210
+7	к	к	ADP	_	_	6	_	_	start_char=2211|end_char=2212
+8	войне	война	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	7	_	_	start_char=2213|end_char=2218|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=2218|end_char=2219
+10	запустив	запустить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	9	_	_	start_char=2220|end_char=2228
+11	на	на	ADP	_	_	10	_	_	start_char=2229|end_char=2231
+12	полную	полный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	11	_	_	start_char=2232|end_char=2238
+13	мощность	мощность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	_	_	start_char=2239|end_char=2247
+14	ВПК	ВПК	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	_	_	start_char=2248|end_char=2251
+15	своих	свой	DET	_	Case=Gen|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	14	_	_	start_char=2252|end_char=2257
+16	стран	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	15	_	_	start_char=2258|end_char=2263|SpaceAfter=No
+17	;	;	PUNCT	_	_	16	_	_	start_char=2263|end_char=2264
+18	б	бы	PART	_	_	17	_	_	start_char=2265|end_char=2266|SpaceAfter=No
+19	)	)	PUNCT	_	_	18	_	_	start_char=2266|end_char=2267
+20	дать	дать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	19	_	_	start_char=2268|end_char=2272
+21	возможность	возможность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	20	_	_	start_char=2273|end_char=2284
+22	США	США	PROPN	_	Animacy=Inan|Case=Gen|Number=Plur	21	_	_	start_char=2285|end_char=2288
+23	разобраться	разобраться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	22	_	_	start_char=2289|end_char=2300
+24	с	с	ADP	_	_	23	_	_	start_char=2301|end_char=2302
+25	другими	другой	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	24	_	_	start_char=2303|end_char=2310
+26	их	их	DET	_	Poss=Yes|PronType=Prs	25	_	_	start_char=2311|end_char=2313
+27	войнам	война	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	26	_	_	start_char=2314|end_char=2320
+28	–	–	PUNCT	_	_	27	_	_	start_char=2321|end_char=2322
+29	на	на	ADP	_	_	28	_	_	start_char=2323|end_char=2325
+30	ближнем	ближний	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	29	_	_	start_char=2326|end_char=2333
+31	Востоке	Восток	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	30	_	_	start_char=2334|end_char=2341
+32	и	и	CCONJ	_	_	31	_	_	start_char=2342|end_char=2343
+33	против	против	ADP	_	_	32	_	_	start_char=2344|end_char=2350
+34	Китая	Китай	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	33	_	_	start_char=2351|end_char=2356
+35	вокруг	вокруг	ADP	_	_	34	_	_	start_char=2357|end_char=2363
+36	Тайваня	Тайвань	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	35	_	_	start_char=2364|end_char=2371|SpaceAfter=No
+37	;	;	PUNCT	_	_	36	_	_	start_char=2371|end_char=2372
+38	в	в	ADP	_	_	37	_	_	start_char=2373|end_char=2374|SpaceAfter=No
+39	)	)	PUNCT	_	_	38	_	_	start_char=2374|end_char=2375
+40	сбросить	сбросить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	39	_	_	start_char=2376|end_char=2384
+41	на	на	ADP	_	_	40	_	_	start_char=2385|end_char=2387
+42	Европу	Европа	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	41	_	_	start_char=2388|end_char=2394
+43	основную	основной	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	42	_	_	start_char=2395|end_char=2403
+44	материальную	материальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	43	_	_	start_char=2404|end_char=2416
+45	тяжесть	тяжесть	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	44	_	_	start_char=2417|end_char=2424
+46	в	в	ADP	_	_	45	_	_	start_char=2425|end_char=2426
+47	ведении	ведение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	46	_	_	start_char=2427|end_char=2434
+48	войны	война	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	47	_	_	start_char=2435|end_char=2440
+49	в	в	ADP	_	_	48	_	_	start_char=2441|end_char=2442
+50	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	49	_	_	start_char=2443|end_char=2450
+51	против	против	ADP	_	_	50	_	_	start_char=2451|end_char=2457
+52	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	51	_	_	start_char=2458|end_char=2464|SpaceAfter=No
+53	.	.	PUNCT	_	_	52	_	_	start_char=2464|end_char=2465|SpaceAfter=No
+

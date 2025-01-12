@@ -1,0 +1,157 @@
+# text = ﻿ "Общественное": в Харькове прогремел взрыв, объявлена воздушная тревога МОСКВА, 3 июл - РИА Новости.
+# sent_id = 0
+1	﻿	﻿	PUNCT	_	_	0	_	_	start_char=0|end_char=1
+2	"	"	PUNCT	_	_	1	_	_	start_char=2|end_char=3|SpaceAfter=No
+3	Общественное	общественный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	_	_	start_char=3|end_char=15|SpaceAfter=No
+4	"	"	PUNCT	_	_	3	_	_	start_char=15|end_char=16|SpaceAfter=No
+5	:	:	PUNCT	_	_	4	_	_	start_char=16|end_char=17
+6	в	в	ADP	_	_	5	_	_	start_char=18|end_char=19
+7	Харькове	Харьков	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	_	_	start_char=20|end_char=28
+8	прогремел	прогреметь	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	_	_	start_char=29|end_char=38
+9	взрыв	взрыв	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	_	_	start_char=39|end_char=44|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=44|end_char=45
+11	объявлена	объявить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	10	_	_	start_char=46|end_char=55
+12	воздушная	воздушный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	11	_	_	start_char=56|end_char=65
+13	тревога	тревога	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	_	_	start_char=66|end_char=73
+14	МОСКВА	МОСКВА	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	_	_	start_char=74|end_char=80|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=80|end_char=81
+16	3	3	NUM	_	NumType=Card	15	_	_	start_char=82|end_char=83
+17	июл	июль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	16	_	_	start_char=84|end_char=87
+18	-	-	PUNCT	_	_	17	_	_	start_char=88|end_char=89
+19	РИА	РИА	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	18	_	_	start_char=90|end_char=93
+20	Новости	Новость	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	19	_	_	start_char=94|end_char=101|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	_	_	start_char=101|end_char=102
+
+# text = Взрыв прогремел в Харькове на фоне воздушной тревоги, сообщил украинский телеканал " "В Харькове прогремел взрыв", - говорится в сообщении, опубликованном в Telegram-канале.
+# sent_id = 1
+1	Взрыв	взрыв	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=103|end_char=108
+2	прогремел	прогреметь	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=109|end_char=118
+3	в	в	ADP	_	_	2	_	_	start_char=119|end_char=120
+4	Харькове	Харьков	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	_	_	start_char=121|end_char=129
+5	на	на	ADP	_	_	4	_	_	start_char=130|end_char=132
+6	фоне	фон	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	_	_	start_char=133|end_char=137
+7	воздушной	воздушный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	_	_	start_char=138|end_char=147
+8	тревоги	тревога	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	_	_	start_char=148|end_char=155|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=155|end_char=156
+10	сообщил	сообщить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	_	_	start_char=157|end_char=164
+11	украинский	украинский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	_	_	start_char=165|end_char=175
+12	телеканал	телеканал	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	_	_	start_char=176|end_char=185
+13	"	"	PUNCT	_	_	12	_	_	start_char=186|end_char=187
+14	"	"	PUNCT	_	_	13	_	_	start_char=188|end_char=189|SpaceAfter=No
+15	В	в	ADP	_	_	14	_	_	start_char=189|end_char=190
+16	Харькове	Харьков	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	_	_	start_char=191|end_char=199
+17	прогремел	прогреметь	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	16	_	_	start_char=200|end_char=209
+18	взрыв	взрыв	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	17	_	_	start_char=210|end_char=215|SpaceAfter=No
+19	"	"	PUNCT	_	_	18	_	_	start_char=215|end_char=216|SpaceAfter=No
+20	,	,	PUNCT	_	_	19	_	_	start_char=216|end_char=217
+21	-	-	PUNCT	_	_	20	_	_	start_char=218|end_char=219
+22	говорится	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	21	_	_	start_char=220|end_char=229
+23	в	в	ADP	_	_	22	_	_	start_char=230|end_char=231
+24	сообщении	сообщение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	23	_	_	start_char=232|end_char=241|SpaceAfter=No
+25	,	,	PUNCT	_	_	24	_	_	start_char=241|end_char=242
+26	опубликованном	опубликовать	VERB	_	Aspect=Perf|Case=Loc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	25	_	_	start_char=243|end_char=257
+27	в	в	ADP	_	_	26	_	_	start_char=258|end_char=259
+28	Telegram	Telegram	PROPN	_	_	27	_	_	start_char=260|end_char=268|SpaceAfter=No
+29	-	-	PUNCT	_	_	28	_	_	start_char=268|end_char=269|SpaceAfter=No
+30	канале	канал	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	29	_	_	start_char=269|end_char=275|SpaceAfter=No
+31	.	.	PUNCT	_	_	30	_	_	start_char=275|end_char=276
+
+# text = Согласно данным онлайн-карты украинского министерства цифровой трансформации, в Харьковской области объявлена воздушная тревога.
+# sent_id = 2
+1	Согласно	согласно	ADP	_	_	0	_	_	start_char=277|end_char=285
+2	данным	данные	NOUN	_	Animacy=Inan|Case=Dat|Number=Plur	1	_	_	start_char=286|end_char=292
+3	онлайн	онлайн	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	_	_	start_char=293|end_char=299|SpaceAfter=No
+4	-	-	PUNCT	_	_	3	_	_	start_char=299|end_char=300|SpaceAfter=No
+5	карты	карта	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	_	_	start_char=300|end_char=305
+6	украинского	украинский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	5	_	_	start_char=306|end_char=317
+7	министерства	министерство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	_	_	start_char=318|end_char=330
+8	цифровой	цифровой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	_	_	start_char=331|end_char=339
+9	трансформации	трансформация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	_	_	start_char=340|end_char=353|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=353|end_char=354
+11	в	в	ADP	_	_	10	_	_	start_char=355|end_char=356
+12	Харьковской	харьковский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	11	_	_	start_char=357|end_char=368
+13	области	область	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	_	_	start_char=369|end_char=376
+14	объявлена	объявить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	13	_	_	start_char=377|end_char=386
+15	воздушная	воздушный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	14	_	_	start_char=387|end_char=396
+16	тревога	тревога	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	_	_	start_char=397|end_char=404|SpaceAfter=No
+17	.	.	PUNCT	_	_	16	_	_	start_char=404|end_char=405
+
+# text = Удары по украинской инфраструктуре ВС РФ начали наносить 10 октября 2022 года - через два дня после теракта на Крымском мосту, за которым, по оценке российских властей, стоят спецслужбы Украины.
+# sent_id = 3
+1	Удары	удар	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	0	_	_	start_char=406|end_char=411
+2	по	по	ADP	_	_	1	_	_	start_char=412|end_char=414
+3	украинской	украинский	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	2	_	_	start_char=415|end_char=425
+4	инфраструктуре	инфраструктура	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	3	_	_	start_char=426|end_char=440
+5	ВС	ВС	PROPN	_	Abbr=Yes	4	_	_	start_char=441|end_char=443
+6	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	_	_	start_char=444|end_char=446
+7	начали	начать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	6	_	_	start_char=447|end_char=453
+8	наносить	наносить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	_	_	start_char=454|end_char=462
+9	10	10	NUM	_	NumType=Card	8	_	_	start_char=463|end_char=465
+10	октября	октябрь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	_	_	start_char=466|end_char=473
+11	2022	2022	ADJ	_	Degree=Pos	10	_	_	start_char=474|end_char=478
+12	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	_	_	start_char=479|end_char=483
+13	-	-	PUNCT	_	_	12	_	_	start_char=484|end_char=485
+14	через	через	ADP	_	_	13	_	_	start_char=486|end_char=491
+15	два	два	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc|NumType=Card	14	_	_	start_char=492|end_char=495
+16	дня	день	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	_	_	start_char=496|end_char=499
+17	после	после	ADP	_	_	16	_	_	start_char=500|end_char=505
+18	теракта	теракт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	_	_	start_char=506|end_char=513
+19	на	на	ADP	_	_	18	_	_	start_char=514|end_char=516
+20	Крымском	крымский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	19	_	_	start_char=517|end_char=525
+21	мосту	мост	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	20	_	_	start_char=526|end_char=531|SpaceAfter=No
+22	,	,	PUNCT	_	_	21	_	_	start_char=531|end_char=532
+23	за	за	ADP	_	_	22	_	_	start_char=533|end_char=535
+24	которым	который	PRON	_	Case=Ins|PronType=Int,Rel	23	_	_	start_char=536|end_char=543|SpaceAfter=No
+25	,	,	PUNCT	_	_	24	_	_	start_char=543|end_char=544
+26	по	по	ADP	_	_	25	_	_	start_char=545|end_char=547
+27	оценке	оценка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	26	_	_	start_char=548|end_char=554
+28	российских	российский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	27	_	_	start_char=555|end_char=565
+29	властей	власть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	28	_	_	start_char=566|end_char=573|SpaceAfter=No
+30	,	,	PUNCT	_	_	29	_	_	start_char=573|end_char=574
+31	стоят	стоять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	30	_	_	start_char=575|end_char=580
+32	спецслужбы	спецслужба	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	31	_	_	start_char=581|end_char=591
+33	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	32	_	_	start_char=592|end_char=599|SpaceAfter=No
+34	.	.	PUNCT	_	_	33	_	_	start_char=599|end_char=600
+
+# text = Удары наносятся по объектам энергетики, оборонной промышленности, военного управления и связи по всей стране.
+# sent_id = 4
+1	Удары	удар	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	_	_	start_char=601|end_char=606
+2	наносятся	наносить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	_	_	start_char=607|end_char=616
+3	по	по	ADP	_	_	2	_	_	start_char=617|end_char=619
+4	объектам	объект	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	3	_	_	start_char=620|end_char=628
+5	энергетики	энергетика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	_	_	start_char=629|end_char=639|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=639|end_char=640
+7	оборонной	оборонный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	_	_	start_char=641|end_char=650
+8	промышленности	промышленность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	_	_	start_char=651|end_char=665|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=665|end_char=666
+10	военного	военный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	9	_	_	start_char=667|end_char=675
+11	управления	управление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	_	_	start_char=676|end_char=686
+12	и	и	CCONJ	_	_	11	_	_	start_char=687|end_char=688
+13	связи	связь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	_	_	start_char=689|end_char=694
+14	по	по	ADP	_	_	13	_	_	start_char=695|end_char=697
+15	всей	весь	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Tot	14	_	_	start_char=698|end_char=702
+16	стране	страна	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	15	_	_	start_char=703|end_char=709|SpaceAfter=No
+17	.	.	PUNCT	_	_	16	_	_	start_char=709|end_char=710
+
+# text = С тех пор воздушная тревога в украинских регионах, а иногда по всей стране, объявляется каждый день.
+# sent_id = 5
+1	С	с	ADP	_	_	0	_	_	start_char=711|end_char=712
+2	тех	тот	DET	_	Case=Gen|Number=Plur|PronType=Dem	1	_	_	start_char=713|end_char=716
+3	пор	пора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	_	_	start_char=717|end_char=720
+4	воздушная	воздушный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	_	_	start_char=721|end_char=730
+5	тревога	тревога	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	_	_	start_char=731|end_char=738
+6	в	в	ADP	_	_	5	_	_	start_char=739|end_char=740
+7	украинских	украинский	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	6	_	_	start_char=741|end_char=751
+8	регионах	регион	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	7	_	_	start_char=752|end_char=760|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=760|end_char=761
+10	а	а	CCONJ	_	_	9	_	_	start_char=762|end_char=763
+11	иногда	иногда	ADV	_	Degree=Pos	10	_	_	start_char=764|end_char=770
+12	по	по	ADP	_	_	11	_	_	start_char=771|end_char=773
+13	всей	весь	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Tot	12	_	_	start_char=774|end_char=778
+14	стране	страна	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	13	_	_	start_char=779|end_char=785|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=785|end_char=786
+16	объявляется	объявлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	15	_	_	start_char=787|end_char=798
+17	каждый	каждый	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	16	_	_	start_char=799|end_char=805
+18	день	день	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	17	_	_	start_char=806|end_char=810|SpaceAfter=No
+19	.	.	PUNCT	_	_	18	_	_	start_char=810|end_char=811|SpaceAfter=No
+

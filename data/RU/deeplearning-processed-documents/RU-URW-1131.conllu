@@ -1,0 +1,278 @@
+# text = Для библиотек ДНР у ведущих издательств России закупили более 110 тысяч книг Донецк, 4 июл — ДАН.
+# sent_id = 0
+1	Для	для	ADP	_	_	0	_	_	start_char=0|end_char=3
+2	библиотек	библиотека	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	_	_	start_char=4|end_char=13
+3	ДНР	ДНР	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	_	_	start_char=14|end_char=17
+4	у	у	ADP	_	_	3	_	_	start_char=18|end_char=19
+5	ведущих	ведущий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	_	_	start_char=20|end_char=27
+6	издательств	издательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	5	_	_	start_char=28|end_char=39
+7	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	_	_	start_char=40|end_char=46
+8	закупили	закупить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	7	_	_	start_char=47|end_char=55
+9	более	более	ADV	_	Degree=Cmp	8	_	_	start_char=56|end_char=61
+10	110	110	NUM	_	NumType=Card	9	_	_	start_char=62|end_char=65
+11	тысяч	тысяча	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	_	_	start_char=66|end_char=71
+12	книг	книга	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	_	_	start_char=72|end_char=76
+13	Донецк	Донецк	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	_	_	start_char=77|end_char=83|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	_	_	start_char=83|end_char=84
+15	4	4	NUM	_	NumType=Card	14	_	_	start_char=85|end_char=86
+16	июл	июль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	_	_	start_char=87|end_char=90
+17	—	—	PUNCT	_	_	16	_	_	start_char=91|end_char=92
+18	ДАН	ДАН	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	17	_	_	start_char=93|end_char=96|SpaceAfter=No
+19	.	.	PUNCT	_	_	18	_	_	start_char=96|end_char=97
+
+# text = Свыше 110 тысяч экземпляров книг было закуплено для библиотек Донецкой Народной республики в рамках реализации национального проекта «Культура» и государственной программы «Развитие культуры».
+# sent_id = 1
+1	Свыше	свыше	ADP	_	_	0	_	_	start_char=98|end_char=103
+2	110	110	NUM	_	NumType=Card	1	_	_	start_char=104|end_char=107
+3	тысяч	тысяча	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	_	_	start_char=108|end_char=113
+4	экземпляров	экземпляр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	_	_	start_char=114|end_char=125
+5	книг	книга	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	4	_	_	start_char=126|end_char=130
+6	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	_	_	start_char=131|end_char=135
+7	закуплено	закупить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	6	_	_	start_char=136|end_char=145
+8	для	для	ADP	_	_	7	_	_	start_char=146|end_char=149
+9	библиотек	библиотека	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	_	_	start_char=150|end_char=159
+10	Донецкой	донецкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	_	_	start_char=160|end_char=168
+11	Народной	народный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	_	_	start_char=169|end_char=177
+12	республики	республика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	_	_	start_char=178|end_char=188
+13	в	в	ADP	_	_	12	_	_	start_char=189|end_char=190
+14	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	13	_	_	start_char=191|end_char=197
+15	реализации	реализация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	_	_	start_char=198|end_char=208
+16	национального	национальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	15	_	_	start_char=209|end_char=222
+17	проекта	проект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	_	_	start_char=223|end_char=230
+18	«	"	PUNCT	_	_	17	_	_	start_char=231|end_char=232|SpaceAfter=No
+19	Культура	культура	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	18	_	_	start_char=232|end_char=240|SpaceAfter=No
+20	»	"	PUNCT	_	_	19	_	_	start_char=240|end_char=241
+21	и	и	CCONJ	_	_	20	_	_	start_char=242|end_char=243
+22	государственной	государственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	21	_	_	start_char=244|end_char=259
+23	программы	программа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	_	_	start_char=260|end_char=269
+24	«	"	PUNCT	_	_	23	_	_	start_char=270|end_char=271|SpaceAfter=No
+25	Развитие	развитие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	24	_	_	start_char=271|end_char=279
+26	культуры	культура	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	_	_	start_char=280|end_char=288|SpaceAfter=No
+27	»	"	PUNCT	_	_	26	_	_	start_char=288|end_char=289|SpaceAfter=No
+28	.	.	PUNCT	_	_	27	_	_	start_char=289|end_char=290
+
+# text = Об этом сегодня сообщила заместитель председателя Правительства Республики Лариса Толстыкина.
+# sent_id = 2
+1	Об	о	ADP	_	_	0	_	_	start_char=291|end_char=293
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=294|end_char=298
+3	сегодня	сегодня	ADV	_	Degree=Pos	2	_	_	start_char=299|end_char=306
+4	сообщила	сообщить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	_	_	start_char=307|end_char=315
+5	заместитель	заместитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=316|end_char=327
+6	председателя	председатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	_	_	start_char=328|end_char=340
+7	Правительства	Правительство	PROPN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	_	_	start_char=341|end_char=354
+8	Республики	Республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	_	_	start_char=355|end_char=365
+9	Лариса	Лариса	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	8	_	_	start_char=366|end_char=372
+10	Толстыкина	Толстыкин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	9	_	_	start_char=373|end_char=383|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	_	_	start_char=383|end_char=384
+
+# text = «Уже закуплены 110 782 экземпляров книг более 200 ведущих российских издательств.
+# sent_id = 3
+1	«	"	PUNCT	_	_	0	_	_	start_char=385|end_char=386|SpaceAfter=No
+2	Уже	уже	ADV	_	Degree=Pos	1	_	_	start_char=386|end_char=389
+3	закуплены	закупить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	2	_	_	start_char=390|end_char=399
+4	110	110	NUM	_	NumType=Card	3	_	_	start_char=400|end_char=403
+5	782	782	NUM	_	NumType=Card	4	_	_	start_char=404|end_char=407
+6	экземпляров	экземпляр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	_	_	start_char=408|end_char=419
+7	книг	книга	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	_	_	start_char=420|end_char=424
+8	более	более	ADV	_	Degree=Cmp	7	_	_	start_char=425|end_char=430
+9	200	200	NUM	_	NumType=Card	8	_	_	start_char=431|end_char=434
+10	ведущих	ведущий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	_	_	start_char=435|end_char=442
+11	российских	российский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	_	_	start_char=443|end_char=453
+12	издательств	издательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	11	_	_	start_char=454|end_char=465|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=465|end_char=466
+
+# text = Это художественная, классическая и современная, отечественная и зарубежная, научно-популярная, историческая, патриотическая, справочно-энциклопедическая литература, литература народов России», — отметила Толстыкина.
+# sent_id = 4
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	_	_	start_char=467|end_char=470
+2	художественная	художественный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	1	_	_	start_char=471|end_char=485|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=485|end_char=486
+4	классическая	классический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	_	_	start_char=487|end_char=499
+5	и	и	CCONJ	_	_	4	_	_	start_char=500|end_char=501
+6	современная	современный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	_	_	start_char=502|end_char=513|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	_	_	start_char=513|end_char=514
+8	отечественная	отечественный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	_	_	start_char=515|end_char=528
+9	и	и	CCONJ	_	_	8	_	_	start_char=529|end_char=530
+10	зарубежная	зарубежный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	9	_	_	start_char=531|end_char=541|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=541|end_char=542
+12	научно	научный	ADJ	_	Degree=Pos	11	_	_	start_char=543|end_char=549|SpaceAfter=No
+13	-	-	PUNCT	_	_	12	_	_	start_char=549|end_char=550|SpaceAfter=No
+14	популярная	популярный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	13	_	_	start_char=550|end_char=560|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=560|end_char=561
+16	историческая	исторический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	15	_	_	start_char=562|end_char=574|SpaceAfter=No
+17	,	,	PUNCT	_	_	16	_	_	start_char=574|end_char=575
+18	патриотическая	патриотический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	17	_	_	start_char=576|end_char=590|SpaceAfter=No
+19	,	,	PUNCT	_	_	18	_	_	start_char=590|end_char=591
+20	справочно	справочный	ADJ	_	Degree=Pos	19	_	_	start_char=592|end_char=601|SpaceAfter=No
+21	-	-	PUNCT	_	_	20	_	_	start_char=601|end_char=602|SpaceAfter=No
+22	энциклопедическая	энциклопедический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	21	_	_	start_char=602|end_char=619
+23	литература	литература	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	22	_	_	start_char=620|end_char=630|SpaceAfter=No
+24	,	,	PUNCT	_	_	23	_	_	start_char=630|end_char=631
+25	литература	литература	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	24	_	_	start_char=632|end_char=642
+26	народов	народ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	25	_	_	start_char=643|end_char=650
+27	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	26	_	_	start_char=651|end_char=657|SpaceAfter=No
+28	»	"	PUNCT	_	_	27	_	_	start_char=657|end_char=658|SpaceAfter=No
+29	,	,	PUNCT	_	_	28	_	_	start_char=658|end_char=659
+30	—	—	PUNCT	_	_	29	_	_	start_char=660|end_char=661
+31	отметила	отметить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	30	_	_	start_char=662|end_char=670
+32	Толстыкина	Толстыкин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	31	_	_	start_char=671|end_char=681|SpaceAfter=No
+33	.	.	PUNCT	_	_	32	_	_	start_char=681|end_char=682
+
+# text = Вице-премьер добавила, что в рамках нацпроекта и программы для библиотек Донецкой Народной Республики выделены средства в размере свыше 50 миллионов рублей.
+# sent_id = 5
+1	Вице-премьер	вице-премьер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=683|end_char=695
+2	добавила	добавить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=696|end_char=704|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=704|end_char=705
+4	что	что	SCONJ	_	_	3	_	_	start_char=706|end_char=709
+5	в	в	ADP	_	_	4	_	_	start_char=710|end_char=711
+6	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	5	_	_	start_char=712|end_char=718
+7	нацпроекта	нацпроект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	_	_	start_char=719|end_char=729
+8	и	и	CCONJ	_	_	7	_	_	start_char=730|end_char=731
+9	программы	программа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	_	_	start_char=732|end_char=741
+10	для	для	ADP	_	_	9	_	_	start_char=742|end_char=745
+11	библиотек	библиотека	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	_	_	start_char=746|end_char=755
+12	Донецкой	донецкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	_	_	start_char=756|end_char=764
+13	Народной	народный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	_	_	start_char=765|end_char=773
+14	Республики	Республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	_	_	start_char=774|end_char=784
+15	выделены	выделить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	14	_	_	start_char=785|end_char=793
+16	средства	средства	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	15	_	_	start_char=794|end_char=802
+17	в	в	ADP	_	_	16	_	_	start_char=803|end_char=804
+18	размере	размер	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	17	_	_	start_char=805|end_char=812
+19	свыше	свыше	ADP	_	_	18	_	_	start_char=813|end_char=818
+20	50	50	NUM	_	NumType=Card	19	_	_	start_char=819|end_char=821
+21	миллионов	миллион	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	20	_	_	start_char=822|end_char=831
+22	рублей	рубль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	21	_	_	start_char=832|end_char=838|SpaceAfter=No
+23	.	.	PUNCT	_	_	22	_	_	start_char=838|end_char=839
+
+# text = Около 40% уже закупленных книг приходится на детскую и юношескую литературу.
+# sent_id = 6
+1	Около	около	ADP	_	_	0	_	_	start_char=840|end_char=845
+2	40	40	NUM	_	NumType=Card	1	_	_	start_char=846|end_char=848|SpaceAfter=No
+3	%	%	SYM	_	_	2	_	_	start_char=848|end_char=849
+4	уже	уже	ADV	_	Degree=Pos	3	_	_	start_char=850|end_char=853
+5	закупленных	закупить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	4	_	_	start_char=854|end_char=865
+6	книг	книга	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	_	_	start_char=866|end_char=870
+7	приходится	приходиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	6	_	_	start_char=871|end_char=881
+8	на	на	ADP	_	_	7	_	_	start_char=882|end_char=884
+9	детскую	детский	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	8	_	_	start_char=885|end_char=892
+10	и	и	CCONJ	_	_	9	_	_	start_char=893|end_char=894
+11	юношескую	юношеский	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	10	_	_	start_char=895|end_char=904
+12	литературу	литература	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	_	_	start_char=905|end_char=915|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=915|end_char=916
+
+# text = В частности, это книги для развития детей и подростков: от сказок и пословиц до литературы патриотической тематики, детективов, мистического фэнтези и приключений.
+# sent_id = 7
+1	В	в	ADP	_	_	0	_	_	start_char=917|end_char=918
+2	частности	частность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	_	_	start_char=919|end_char=928|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=928|end_char=929
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	_	_	start_char=930|end_char=933
+5	книги	книга	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	4	_	_	start_char=934|end_char=939
+6	для	для	ADP	_	_	5	_	_	start_char=940|end_char=943
+7	развития	развитие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	_	_	start_char=944|end_char=952
+8	детей	ребенок	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	7	_	_	start_char=953|end_char=958
+9	и	и	CCONJ	_	_	8	_	_	start_char=959|end_char=960
+10	подростков	подросток	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	9	_	_	start_char=961|end_char=971|SpaceAfter=No
+11	:	:	PUNCT	_	_	10	_	_	start_char=971|end_char=972
+12	от	от	ADP	_	_	11	_	_	start_char=973|end_char=975
+13	сказок	сказка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	12	_	_	start_char=976|end_char=982
+14	и	и	CCONJ	_	_	13	_	_	start_char=983|end_char=984
+15	пословиц	пословица	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	14	_	_	start_char=985|end_char=993
+16	до	до	ADP	_	_	15	_	_	start_char=994|end_char=996
+17	литературы	литература	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	_	_	start_char=997|end_char=1007
+18	патриотической	патриотический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	17	_	_	start_char=1008|end_char=1022
+19	тематики	тематика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	_	_	start_char=1023|end_char=1031|SpaceAfter=No
+20	,	,	PUNCT	_	_	19	_	_	start_char=1031|end_char=1032
+21	детективов	детектив	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	20	_	_	start_char=1033|end_char=1043|SpaceAfter=No
+22	,	,	PUNCT	_	_	21	_	_	start_char=1043|end_char=1044
+23	мистического	мистический	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	22	_	_	start_char=1045|end_char=1057
+24	фэнтези	фэнтезь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	23	_	_	start_char=1058|end_char=1065
+25	и	и	CCONJ	_	_	24	_	_	start_char=1066|end_char=1067
+26	приключений	приключение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	25	_	_	start_char=1068|end_char=1079|SpaceAfter=No
+27	.	.	PUNCT	_	_	26	_	_	start_char=1079|end_char=1080
+
+# text = «Кроме того, в ДНР прибыла партия из 44 852 экземпляров документов.
+# sent_id = 8
+1	«	"	PUNCT	_	_	0	_	_	start_char=1081|end_char=1082|SpaceAfter=No
+2	Кроме	кроме	ADP	_	_	1	_	_	start_char=1082|end_char=1087
+3	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	2	_	_	start_char=1088|end_char=1092|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=1092|end_char=1093
+5	в	в	ADP	_	_	4	_	_	start_char=1094|end_char=1095
+6	ДНР	ДНР	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	5	_	_	start_char=1096|end_char=1099
+7	прибыла	прибыть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	_	_	start_char=1100|end_char=1107
+8	партия	партия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	_	_	start_char=1108|end_char=1114
+9	из	из	ADP	_	_	8	_	_	start_char=1115|end_char=1117
+10	44 852	44 852	NUM	_	NumType=Card	9	_	_	start_char=1118|end_char=1124
+11	экземпляров	экземпляр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	_	_	start_char=1125|end_char=1136
+12	документов	документ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	11	_	_	start_char=1137|end_char=1147|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=1147|end_char=1148
+
+# text = Сотрудники библиотеки имени Н. К. Крупской проводят сверку фактического наличия книг в соответствии со спецификацией.
+# sent_id = 9
+1	Сотрудники	сотрудник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	0	_	_	start_char=1149|end_char=1159
+2	библиотеки	библиотека	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	_	_	start_char=1160|end_char=1170
+3	имени	имя	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	_	_	start_char=1171|end_char=1176
+4	Н.	Н.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	_	_	start_char=1177|end_char=1179
+5	К.	К.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	_	_	start_char=1180|end_char=1182
+6	Крупской	Крупская	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	5	_	_	start_char=1183|end_char=1191
+7	проводят	проводить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	_	_	start_char=1192|end_char=1200
+8	сверку	сверка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	_	_	start_char=1201|end_char=1207
+9	фактического	фактический	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	8	_	_	start_char=1208|end_char=1220
+10	наличия	наличие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	_	_	start_char=1221|end_char=1228
+11	книг	книга	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	_	_	start_char=1229|end_char=1233
+12	в	в	ADP	_	_	11	_	_	start_char=1234|end_char=1235
+13	соответствии	соответствие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	12	_	_	start_char=1236|end_char=1248
+14	со	с	ADP	_	_	13	_	_	start_char=1249|end_char=1251
+15	спецификацией	спецификация	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	14	_	_	start_char=1252|end_char=1265|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	_	_	start_char=1265|end_char=1266
+
+# text = На этой неделе также ожидается вторая партия книг в 41 800 экземпляров», — отметила зампред регионального Правительства.
+# sent_id = 10
+1	На	на	ADP	_	_	0	_	_	start_char=1267|end_char=1269
+2	этой	этот	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Dem	1	_	_	start_char=1270|end_char=1274
+3	неделе	неделя	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	_	_	start_char=1275|end_char=1281
+4	также	также	ADV	_	Degree=Pos	3	_	_	start_char=1282|end_char=1287
+5	ожидается	ожидать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	_	_	start_char=1288|end_char=1297
+6	вторая	второй	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	_	_	start_char=1298|end_char=1304
+7	партия	партия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	_	_	start_char=1305|end_char=1311
+8	книг	книга	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	_	_	start_char=1312|end_char=1316
+9	в	в	ADP	_	_	8	_	_	start_char=1317|end_char=1318
+10	41	41	NUM	_	NumType=Card	9	_	_	start_char=1319|end_char=1321
+11	800	800	NUM	_	NumType=Card	10	_	_	start_char=1322|end_char=1325
+12	экземпляров	экземпляр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	11	_	_	start_char=1326|end_char=1337|SpaceAfter=No
+13	»	"	PUNCT	_	_	12	_	_	start_char=1337|end_char=1338|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	_	_	start_char=1338|end_char=1339
+15	—	—	PUNCT	_	_	14	_	_	start_char=1340|end_char=1341
+16	отметила	отметить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	15	_	_	start_char=1342|end_char=1350
+17	зампред	зампред	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	_	_	start_char=1351|end_char=1358
+18	регионального	региональный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	17	_	_	start_char=1359|end_char=1372
+19	Правительства	Правительство	PROPN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	_	_	start_char=1373|end_char=1386|SpaceAfter=No
+20	.	.	PUNCT	_	_	19	_	_	start_char=1386|end_char=1387
+
+# text = По ее словам, все книжные издания будут распределены между республиканскими и муниципальными библиотеками.
+# sent_id = 11
+1	По	по	ADP	_	_	0	_	_	start_char=1388|end_char=1390
+2	ее	ее	DET	_	Poss=Yes|PronType=Prs	1	_	_	start_char=1391|end_char=1393
+3	словам	слово	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	2	_	_	start_char=1394|end_char=1400|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=1400|end_char=1401
+5	все	весь	DET	_	Case=Nom|Number=Plur|PronType=Tot	4	_	_	start_char=1402|end_char=1405
+6	книжные	книжный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	_	_	start_char=1406|end_char=1413
+7	издания	издание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	6	_	_	start_char=1414|end_char=1421
+8	будут	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	_	_	start_char=1422|end_char=1427
+9	распределены	распределить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	8	_	_	start_char=1428|end_char=1440
+10	между	между	ADP	_	_	9	_	_	start_char=1441|end_char=1446
+11	республиканскими	республиканский	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	10	_	_	start_char=1447|end_char=1463
+12	и	и	CCONJ	_	_	11	_	_	start_char=1464|end_char=1465
+13	муниципальными	муниципальный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	12	_	_	start_char=1466|end_char=1480
+14	библиотеками	библиотека	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	13	_	_	start_char=1481|end_char=1493|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	_	_	start_char=1493|end_char=1494
+
+# text = Подписывайтесь на наши и сообщество в VK!
+# sent_id = 12
+1	Подписывайтесь	подписывать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Mid	0	_	_	start_char=1495|end_char=1509
+2	на	на	ADP	_	_	1	_	_	start_char=1510|end_char=1512
+3	наши	наш	DET	_	Case=Acc|Number=Plur|Poss=Yes|PronType=Prs	2	_	_	start_char=1513|end_char=1517
+4	и	и	CCONJ	_	_	3	_	_	start_char=1518|end_char=1519
+5	сообщество	сообщество	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	_	_	start_char=1520|end_char=1530
+6	в	в	ADP	_	_	5	_	_	start_char=1531|end_char=1532
+7	VK	VK	PROPN	_	Foreign=Yes	6	_	_	start_char=1533|end_char=1535|SpaceAfter=No
+8	!	!	PUNCT	_	_	7	_	_	start_char=1535|end_char=1536|SpaceAfter=No
+

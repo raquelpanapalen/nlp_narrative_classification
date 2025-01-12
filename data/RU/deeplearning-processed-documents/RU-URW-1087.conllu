@@ -1,0 +1,409 @@
+# text = Россия "выключила" часть Черниговщины: "Герань" ударила точно в цель "В Черниговской области русский беспилотник ""Герань"" попал в один из объектов, сообщили власти региона.
+# sent_id = 0
+1	Россия	Россия	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	_	_	start_char=0|end_char=6
+2	"	"	PUNCT	_	_	1	_	_	start_char=7|end_char=8|SpaceAfter=No
+3	выключила	выключить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=8|end_char=17|SpaceAfter=No
+4	"	"	PUNCT	_	_	3	_	_	start_char=17|end_char=18
+5	часть	часть	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	_	_	start_char=19|end_char=24
+6	Черниговщины	Черниговщина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	_	_	start_char=25|end_char=37|SpaceAfter=No
+7	:	:	PUNCT	_	_	6	_	_	start_char=37|end_char=38
+8	"	"	PUNCT	_	_	7	_	_	start_char=39|end_char=40|SpaceAfter=No
+9	Герань	герань	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	_	_	start_char=40|end_char=46|SpaceAfter=No
+10	"	"	PUNCT	_	_	9	_	_	start_char=46|end_char=47
+11	ударила	ударить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	_	_	start_char=48|end_char=55
+12	точно	точно	ADV	_	Degree=Pos	11	_	_	start_char=56|end_char=61
+13	в	в	ADP	_	_	12	_	_	start_char=62|end_char=63
+14	цель	цель	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	_	_	start_char=64|end_char=68
+15	"	"	PUNCT	_	_	14	_	_	start_char=69|end_char=70|SpaceAfter=No
+16	В	в	ADP	_	_	15	_	_	start_char=70|end_char=71
+17	Черниговской	черниговский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	16	_	_	start_char=72|end_char=84
+18	области	область	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	17	_	_	start_char=85|end_char=92
+19	русский	русский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	_	_	start_char=93|end_char=100
+20	беспилотник	беспилотник	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	19	_	_	start_char=101|end_char=112
+21	"	"	PUNCT	_	_	20	_	_	start_char=113|end_char=114|SpaceAfter=No
+22	"	"	PUNCT	_	_	21	_	_	start_char=114|end_char=115|SpaceAfter=No
+23	Герань	герань	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	22	_	_	start_char=115|end_char=121|SpaceAfter=No
+24	"	"	PUNCT	_	_	23	_	_	start_char=121|end_char=122|SpaceAfter=No
+25	"	"	PUNCT	_	_	24	_	_	start_char=122|end_char=123
+26	попал	попасть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	25	_	_	start_char=124|end_char=129
+27	в	в	ADP	_	_	26	_	_	start_char=130|end_char=131
+28	один	один	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc|NumType=Card	27	_	_	start_char=132|end_char=136
+29	из	из	ADP	_	_	28	_	_	start_char=137|end_char=139
+30	объектов	объект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	29	_	_	start_char=140|end_char=148|SpaceAfter=No
+31	,	,	PUNCT	_	_	30	_	_	start_char=148|end_char=149
+32	сообщили	сообщить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	31	_	_	start_char=150|end_char=158
+33	власти	власть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	32	_	_	start_char=159|end_char=165
+34	региона	регион	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	33	_	_	start_char=166|end_char=173|SpaceAfter=No
+35	.	.	PUNCT	_	_	34	_	_	start_char=173|end_char=174
+
+# text = Известно, что часть области отключена от энергоснабжения.
+# sent_id = 1
+1	Известно	известный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	_	_	start_char=175|end_char=183|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	_	_	start_char=183|end_char=184
+3	что	что	SCONJ	_	_	2	_	_	start_char=185|end_char=188
+4	часть	часть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	_	_	start_char=189|end_char=194
+5	области	область	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	_	_	start_char=195|end_char=202
+6	отключена	отключить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	5	_	_	start_char=203|end_char=212
+7	от	от	ADP	_	_	6	_	_	start_char=213|end_char=215
+8	энергоснабжения	энергоснабжение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	_	_	start_char=216|end_char=231|SpaceAfter=No
+9	.	.	PUNCT	_	_	8	_	_	start_char=231|end_char=232
+
+# text = По данным украинских ресурсов, почти шесть тысяч домохозяйств остались без света.
+# sent_id = 2
+1	По	по	ADP	_	_	0	_	_	start_char=233|end_char=235
+2	данным	данные	NOUN	_	Animacy=Inan|Case=Dat|Number=Plur	1	_	_	start_char=236|end_char=242
+3	украинских	украинский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	2	_	_	start_char=243|end_char=253
+4	ресурсов	ресурс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	_	_	start_char=254|end_char=262|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=262|end_char=263
+6	почти	почти	ADV	_	Degree=Pos	5	_	_	start_char=264|end_char=269
+7	шесть	шесть	NUM	_	Case=Nom|NumType=Card	6	_	_	start_char=270|end_char=275
+8	тысяч	тысяча	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	_	_	start_char=276|end_char=281
+9	домохозяйств	домохозяйство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	8	_	_	start_char=282|end_char=294
+10	остались	остаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	9	_	_	start_char=295|end_char=303
+11	без	без	ADP	_	_	10	_	_	start_char=304|end_char=307
+12	света	свет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	_	_	start_char=308|end_char=313|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=313|end_char=314
+
+# text = При этом умалчивает об остановке работы военных предприятий, которые также оказались обесточены.
+# sent_id = 3
+1	При	при	ADP	_	_	0	_	_	start_char=315|end_char=318
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=319|end_char=323
+3	умалчивает	умалчивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=324|end_char=334
+4	об	о	ADP	_	_	3	_	_	start_char=335|end_char=337
+5	остановке	остановка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	_	_	start_char=338|end_char=347
+6	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	_	_	start_char=348|end_char=354
+7	военных	военный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	_	_	start_char=355|end_char=362
+8	предприятий	предприятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	7	_	_	start_char=363|end_char=374|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=374|end_char=375
+10	которые	который	PRON	_	Case=Nom|PronType=Int,Rel	9	_	_	start_char=376|end_char=383
+11	также	также	ADV	_	Degree=Pos	10	_	_	start_char=384|end_char=389
+12	оказались	оказаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	11	_	_	start_char=390|end_char=399
+13	обесточены	обесточить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	12	_	_	start_char=400|end_char=410|SpaceAfter=No
+14	.	.	PUNCT	_	_	13	_	_	start_char=410|end_char=411
+
+# text = Подстанция в Черниговской области ночью вышла из чата, - отметил донецкий военный блогер Donrf.
+# sent_id = 4
+1	Подстанция	подстанция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	_	_	start_char=412|end_char=422
+2	в	в	ADP	_	_	1	_	_	start_char=423|end_char=424
+3	Черниговской	черниговский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	2	_	_	start_char=425|end_char=437
+4	области	область	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	_	_	start_char=438|end_char=445
+5	ночью	ночь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	4	_	_	start_char=446|end_char=451
+6	вышла	выйти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	_	_	start_char=452|end_char=457
+7	из	из	ADP	_	_	6	_	_	start_char=458|end_char=460
+8	чата	чат	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	_	_	start_char=461|end_char=465|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	_	_	start_char=465|end_char=466
+10	-	-	PUNCT	_	_	9	_	_	start_char=467|end_char=468
+11	отметил	отметить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	_	_	start_char=469|end_char=476
+12	донецкий	донецкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	_	_	start_char=477|end_char=485
+13	военный	военный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	_	_	start_char=486|end_char=493
+14	блогер	блоггер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	_	_	start_char=494|end_char=500
+15	Donrf	Donrf	PROPN	_	Foreign=Yes	14	_	_	start_char=501|end_char=506|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	_	_	start_char=506|end_char=507
+
+# text = Фото: Скриншот Telegram/Donrf.
+# sent_id = 5
+1	Фото	фото	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	_	_	start_char=508|end_char=512|SpaceAfter=No
+2	:	:	PUNCT	_	_	1	_	_	start_char=512|end_char=513
+3	Скриншот	Скриншот	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	_	_	start_char=514|end_char=522
+4	Telegram	Telegram	PROPN	_	Foreign=Yes	3	_	_	start_char=523|end_char=531|SpaceAfter=No
+5	/Donrf	/Donrf	PROPN	_	Foreign=Yes	4	_	_	start_char=531|end_char=537|SpaceAfter=No
+6	.	.	PUNCT	_	_	5	_	_	start_char=537|end_char=538
+
+# text = Армия России готовит решающий удар по Украине, который сделает невыносимой жизнь неонацистов.
+# sent_id = 6
+1	Армия	армия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	_	_	start_char=539|end_char=544
+2	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	_	_	start_char=545|end_char=551
+3	готовит	готовить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	_	_	start_char=552|end_char=559
+4	решающий	решающий	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	_	_	start_char=560|end_char=568
+5	удар	удар	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	_	_	start_char=569|end_char=573
+6	по	по	ADP	_	_	5	_	_	start_char=574|end_char=576
+7	Украине	Украина	PROPN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	6	_	_	start_char=577|end_char=584|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=584|end_char=585
+9	который	который	PRON	_	Case=Nom|PronType=Int,Rel	8	_	_	start_char=586|end_char=593
+10	сделает	делать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	9	_	_	start_char=594|end_char=601
+11	невыносимой	невыносимый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	10	_	_	start_char=602|end_char=613
+12	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	_	_	start_char=614|end_char=619
+13	неонацистов	неонацист	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	12	_	_	start_char=620|end_char=631|SpaceAfter=No
+14	.	.	PUNCT	_	_	13	_	_	start_char=631|end_char=632
+
+# text = Тушите свет, будет громко - предупреждают военные эксперты.
+# sent_id = 7
+1	Тушите	тушить	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	_	_	start_char=633|end_char=639
+2	свет	свет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	_	_	start_char=640|end_char=644|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=644|end_char=645
+4	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	_	_	start_char=646|end_char=651
+5	громко	громко	ADV	_	Degree=Pos	4	_	_	start_char=652|end_char=658
+6	-	-	PUNCT	_	_	5	_	_	start_char=659|end_char=660
+7	предупреждают	предупреждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	_	_	start_char=661|end_char=674
+8	военные	военный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	_	_	start_char=675|end_char=682
+9	эксперты	эксперт	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	8	_	_	start_char=683|end_char=691|SpaceAfter=No
+10	.	.	PUNCT	_	_	9	_	_	start_char=691|end_char=692
+
+# text = К слову, тушить свет будут не только физически, отключая электростанции от питания, но и в рамках СВО - русскими ракетами.
+# sent_id = 8
+1	К	к	ADP	_	_	0	_	_	start_char=693|end_char=694
+2	слову	слово	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	1	_	_	start_char=695|end_char=700|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=700|end_char=701
+4	тушить	тушить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	_	_	start_char=702|end_char=708
+5	свет	свет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	_	_	start_char=709|end_char=713
+6	будут	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	_	_	start_char=714|end_char=719
+7	не	не	PART	_	_	6	_	_	start_char=720|end_char=722
+8	только	только	PART	_	_	7	_	_	start_char=723|end_char=729
+9	физически	физически	ADV	_	Degree=Pos	8	_	_	start_char=730|end_char=739|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=739|end_char=740
+11	отключая	отключать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	10	_	_	start_char=741|end_char=749
+12	электростанции	электростанция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	11	_	_	start_char=750|end_char=764
+13	от	от	ADP	_	_	12	_	_	start_char=765|end_char=767
+14	питания	питание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	_	_	start_char=768|end_char=775|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=775|end_char=776
+16	но	но	CCONJ	_	_	15	_	_	start_char=777|end_char=779
+17	и	и	PART	_	_	16	_	_	start_char=780|end_char=781
+18	в	в	ADP	_	_	17	_	_	start_char=782|end_char=783
+19	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	18	_	_	start_char=784|end_char=790
+20	СВО	СВО	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	_	_	start_char=791|end_char=794
+21	-	-	PUNCT	_	_	20	_	_	start_char=795|end_char=796
+22	русскими	русский	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	21	_	_	start_char=797|end_char=805
+23	ракетами	ракета	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	22	_	_	start_char=806|end_char=814|SpaceAfter=No
+24	.	.	PUNCT	_	_	23	_	_	start_char=814|end_char=815
+
+# text = По 20 часов в сутки украинцы сидят без электричества, готовясь не только к холодной, но и к тёмной зиме.
+# sent_id = 9
+1	По	по	ADP	_	_	0	_	_	start_char=816|end_char=818
+2	20	20	NUM	_	NumType=Card	1	_	_	start_char=819|end_char=821
+3	часов	час	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	_	_	start_char=822|end_char=827
+4	в	в	ADP	_	_	3	_	_	start_char=828|end_char=829
+5	сутки	сутки	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	4	_	_	start_char=830|end_char=835
+6	украинцы	украинец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	5	_	_	start_char=836|end_char=844
+7	сидят	сидеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	_	_	start_char=845|end_char=850
+8	без	без	ADP	_	_	7	_	_	start_char=851|end_char=854
+9	электричества	электричество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	_	_	start_char=855|end_char=868|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=868|end_char=869
+11	готовясь	готовиться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	10	_	_	start_char=870|end_char=878
+12	не	не	PART	_	_	11	_	_	start_char=879|end_char=881
+13	только	только	PART	_	_	12	_	_	start_char=882|end_char=888
+14	к	к	ADP	_	_	13	_	_	start_char=889|end_char=890
+15	холодной	холодный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	14	_	_	start_char=891|end_char=899|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	_	_	start_char=899|end_char=900
+17	но	но	CCONJ	_	_	16	_	_	start_char=901|end_char=903
+18	и	и	PART	_	_	17	_	_	start_char=904|end_char=905
+19	к	к	ADP	_	_	18	_	_	start_char=906|end_char=907
+20	тёмной	темный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	19	_	_	start_char=908|end_char=914
+21	зиме	зима	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	20	_	_	start_char=915|end_char=919|SpaceAfter=No
+22	.	.	PUNCT	_	_	21	_	_	start_char=919|end_char=920
+
+# text = В Киеве уже подсчитывают ущерб, который русские ракеты причинили энергосистеме страны.
+# sent_id = 10
+1	В	в	ADP	_	_	0	_	_	start_char=921|end_char=922
+2	Киеве	Киев	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	_	_	start_char=923|end_char=928
+3	уже	уже	ADV	_	Degree=Pos	2	_	_	start_char=929|end_char=932
+4	подсчитывают	подсчитывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	_	_	start_char=933|end_char=945
+5	ущерб	ущерб	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	_	_	start_char=946|end_char=951|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=951|end_char=952
+7	который	который	PRON	_	Case=Acc|PronType=Int,Rel	6	_	_	start_char=953|end_char=960
+8	русские	русский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	_	_	start_char=961|end_char=968
+9	ракеты	ракета	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	8	_	_	start_char=969|end_char=975
+10	причинили	причинить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	9	_	_	start_char=976|end_char=985
+11	энергосистеме	энергосистема	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	10	_	_	start_char=986|end_char=999
+12	страны	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	_	_	start_char=1000|end_char=1006|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=1006|end_char=1007
+
+# text = Однако возникает главный вопрос: почему наши ракеты направлены в тыл врага, а не на неонацистов на передовой?
+# sent_id = 11
+1	Однако	однако	ADV	_	Degree=Pos	0	_	_	start_char=1008|end_char=1014
+2	возникает	возникать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	_	_	start_char=1015|end_char=1024
+3	главный	главный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	_	_	start_char=1025|end_char=1032
+4	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	_	_	start_char=1033|end_char=1039|SpaceAfter=No
+5	:	:	PUNCT	_	_	4	_	_	start_char=1039|end_char=1040
+6	почему	почему	ADV	_	Degree=Pos	5	_	_	start_char=1041|end_char=1047
+7	наши	наш	DET	_	Case=Nom|Number=Plur|Poss=Yes|PronType=Prs	6	_	_	start_char=1048|end_char=1052
+8	ракеты	ракета	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	7	_	_	start_char=1053|end_char=1059
+9	направлены	направить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	8	_	_	start_char=1060|end_char=1070
+10	в	в	ADP	_	_	9	_	_	start_char=1071|end_char=1072
+11	тыл	тыл	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	_	_	start_char=1073|end_char=1076
+12	врага	враг	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	11	_	_	start_char=1077|end_char=1082|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=1082|end_char=1083
+14	а	а	CCONJ	_	_	13	_	_	start_char=1084|end_char=1085
+15	не	не	PART	_	_	14	_	_	start_char=1086|end_char=1088
+16	на	на	ADP	_	_	15	_	_	start_char=1089|end_char=1091
+17	неонацистов	неонацист	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	16	_	_	start_char=1092|end_char=1103
+18	на	на	ADP	_	_	17	_	_	start_char=1104|end_char=1106
+19	передовой	передовая	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	18	_	_	start_char=1107|end_char=1116|SpaceAfter=No
+20	?	?	PUNCT	_	_	19	_	_	start_char=1116|end_char=1117
+
+# text = Враг начинает испытывать последствия ударов возмездия: за последние полгода наши ракеты вывели из строя ДнепроГЭС, Змиевскую ТЭС под Харьковом, Трипольскую ТЭС под Киевом и недавно ""погасили"" Добротворскую ТЭС на Львовщине, которая является одной из главных станций Украины с мощностью 700 МВт.
+# sent_id = 12
+1	Враг	враг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=1118|end_char=1122
+2	начинает	начинать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	_	_	start_char=1123|end_char=1131
+3	испытывать	испытывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	_	_	start_char=1132|end_char=1142
+4	последствия	последствие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	3	_	_	start_char=1143|end_char=1154
+5	ударов	удар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	_	_	start_char=1155|end_char=1161
+6	возмездия	возмездие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	_	_	start_char=1162|end_char=1171|SpaceAfter=No
+7	:	:	PUNCT	_	_	6	_	_	start_char=1171|end_char=1172
+8	за	за	ADP	_	_	7	_	_	start_char=1173|end_char=1175
+9	последние	последний	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	8	_	_	start_char=1176|end_char=1185
+10	полгода	полгод	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	9	_	_	start_char=1186|end_char=1193
+11	наши	наш	DET	_	Case=Nom|Number=Plur|Poss=Yes|PronType=Prs	10	_	_	start_char=1194|end_char=1198
+12	ракеты	ракета	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	11	_	_	start_char=1199|end_char=1205
+13	вывели	вывести	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	12	_	_	start_char=1206|end_char=1212
+14	из	из	ADP	_	_	13	_	_	start_char=1213|end_char=1215
+15	строя	строй	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	_	_	start_char=1216|end_char=1221
+16	ДнепроГЭС	днепрогэс	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	_	_	start_char=1222|end_char=1231|SpaceAfter=No
+17	,	,	PUNCT	_	_	16	_	_	start_char=1231|end_char=1232
+18	Змиевскую	змиевский	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	17	_	_	start_char=1233|end_char=1242
+19	ТЭС	ТЭС	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	18	_	_	start_char=1243|end_char=1246
+20	под	под	ADP	_	_	19	_	_	start_char=1247|end_char=1250
+21	Харьковом	Харьков	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	20	_	_	start_char=1251|end_char=1260|SpaceAfter=No
+22	,	,	PUNCT	_	_	21	_	_	start_char=1260|end_char=1261
+23	Трипольскую	трипольский	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	22	_	_	start_char=1262|end_char=1273
+24	ТЭС	ТЭС	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	23	_	_	start_char=1274|end_char=1277
+25	под	под	ADP	_	_	24	_	_	start_char=1278|end_char=1281
+26	Киевом	Киев	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	25	_	_	start_char=1282|end_char=1288
+27	и	и	CCONJ	_	_	26	_	_	start_char=1289|end_char=1290
+28	недавно	недавно	ADV	_	Degree=Pos	27	_	_	start_char=1291|end_char=1298
+29	"	"	PUNCT	_	_	28	_	_	start_char=1299|end_char=1300|SpaceAfter=No
+30	"	"	PUNCT	_	_	29	_	_	start_char=1300|end_char=1301|SpaceAfter=No
+31	погасили	погасить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	30	_	_	start_char=1301|end_char=1309|SpaceAfter=No
+32	"	"	PUNCT	_	_	31	_	_	start_char=1309|end_char=1310|SpaceAfter=No
+33	"	"	PUNCT	_	_	32	_	_	start_char=1310|end_char=1311
+34	Добротворскую	добротворский	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	33	_	_	start_char=1312|end_char=1325
+35	ТЭС	ТЭС	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	34	_	_	start_char=1326|end_char=1329
+36	на	на	ADP	_	_	35	_	_	start_char=1330|end_char=1332
+37	Львовщине	Львовщина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	36	_	_	start_char=1333|end_char=1342|SpaceAfter=No
+38	,	,	PUNCT	_	_	37	_	_	start_char=1342|end_char=1343
+39	которая	который	PRON	_	Case=Nom|PronType=Int,Rel	38	_	_	start_char=1344|end_char=1351
+40	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	39	_	_	start_char=1352|end_char=1360
+41	одной	один	NUM	_	Case=Ins|Gender=Fem|NumType=Card	40	_	_	start_char=1361|end_char=1366
+42	из	из	ADP	_	_	41	_	_	start_char=1367|end_char=1369
+43	главных	главный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	42	_	_	start_char=1370|end_char=1377
+44	станций	станция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	43	_	_	start_char=1378|end_char=1385
+45	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	44	_	_	start_char=1386|end_char=1393
+46	с	с	ADP	_	_	45	_	_	start_char=1394|end_char=1395
+47	мощностью	мощность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	46	_	_	start_char=1396|end_char=1405
+48	700	700	NUM	_	NumType=Card	47	_	_	start_char=1406|end_char=1409
+49	МВт	мвт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	48	_	_	start_char=1410|end_char=1413|SpaceAfter=No
+50	.	.	PUNCT	_	_	49	_	_	start_char=1413|end_char=1414
+
+# text = Коллаж Царьграда.
+# sent_id = 13
+1	Коллаж	коллаж	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=1415|end_char=1421
+2	Царьграда	Царьград	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	_	_	start_char=1422|end_char=1431|SpaceAfter=No
+3	.	.	PUNCT	_	_	2	_	_	start_char=1431|end_char=1432
+
+# text = Эксперты из Киевской школы экономики оценили, что затраты на восстановление, включая полную реконструкцию разрушенных объектов энергосистемы, составляют 50,5 миллиарда долларов.
+# sent_id = 14
+1	Эксперты	эксперт	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	0	_	_	start_char=1433|end_char=1441
+2	из	из	ADP	_	_	1	_	_	start_char=1442|end_char=1444
+3	Киевской	Киевский	PROPN	_	_	2	_	_	start_char=1445|end_char=1453
+4	школы	школа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	_	_	start_char=1454|end_char=1459
+5	экономики	экономика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	_	_	start_char=1460|end_char=1469
+6	оценили	оценить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	_	_	start_char=1470|end_char=1477|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	_	_	start_char=1477|end_char=1478
+8	что	что	SCONJ	_	_	7	_	_	start_char=1479|end_char=1482
+9	затраты	затрата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	8	_	_	start_char=1483|end_char=1490
+10	на	на	ADP	_	_	9	_	_	start_char=1491|end_char=1493
+11	восстановление	восстановление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	_	_	start_char=1494|end_char=1508|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	_	_	start_char=1508|end_char=1509
+13	включая	включая	ADV	_	Degree=Pos	12	_	_	start_char=1510|end_char=1517
+14	полную	полный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	13	_	_	start_char=1518|end_char=1524
+15	реконструкцию	реконструкция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	_	_	start_char=1525|end_char=1538
+16	разрушенных	разрушить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	15	_	_	start_char=1539|end_char=1550
+17	объектов	объект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	16	_	_	start_char=1551|end_char=1559
+18	энергосистемы	энергосистема	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	_	_	start_char=1560|end_char=1573|SpaceAfter=No
+19	,	,	PUNCT	_	_	18	_	_	start_char=1573|end_char=1574
+20	составляют	составлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	_	_	start_char=1575|end_char=1585
+21	50,5	50,5	NUM	_	NumType=Card	20	_	_	start_char=1586|end_char=1590
+22	миллиарда	миллиард	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	_	_	start_char=1591|end_char=1600
+23	долларов	доллар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	22	_	_	start_char=1601|end_char=1609|SpaceAfter=No
+24	.	.	PUNCT	_	_	23	_	_	start_char=1609|end_char=1610
+
+# text = Вооружённые силы Украины уже потратили полмиллиарда долларов на защиту энергетической инфраструктуры, выделенных ещё до начала спецоперации.
+# sent_id = 15
+1	Вооружённые	вооруженный	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	start_char=1611|end_char=1622
+2	силы	сила	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1	_	_	start_char=1623|end_char=1627
+3	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	_	_	start_char=1628|end_char=1635
+4	уже	уже	ADV	_	Degree=Pos	3	_	_	start_char=1636|end_char=1639
+5	потратили	тратить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	_	_	start_char=1640|end_char=1649
+6	полмиллиарда	полмиллиард	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	_	_	start_char=1650|end_char=1662
+7	долларов	доллар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	_	_	start_char=1663|end_char=1671
+8	на	на	ADP	_	_	7	_	_	start_char=1672|end_char=1674
+9	защиту	защита	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	_	_	start_char=1675|end_char=1681
+10	энергетической	энергетический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	_	_	start_char=1682|end_char=1696
+11	инфраструктуры	инфраструктура	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	_	_	start_char=1697|end_char=1711|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	_	_	start_char=1711|end_char=1712
+13	выделенных	выделить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	12	_	_	start_char=1713|end_char=1723
+14	ещё	еще	ADV	_	Degree=Pos	13	_	_	start_char=1724|end_char=1727
+15	до	до	ADP	_	_	14	_	_	start_char=1728|end_char=1730
+16	начала	начало	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	_	_	start_char=1731|end_char=1737
+17	спецоперации	спецоперация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	_	_	start_char=1738|end_char=1750|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	_	_	start_char=1750|end_char=1751
+
+# text = Об этом, впрочем, открыто заявлял бывший глава МВД Украины Юрий Луценко.
+# sent_id = 16
+1	Об	о	ADP	_	_	0	_	_	start_char=1752|end_char=1754
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=1755|end_char=1759|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=1759|end_char=1760
+4	впрочем	впрочем	ADV	_	Degree=Pos	3	_	_	start_char=1761|end_char=1768|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=1768|end_char=1769
+6	открыто	открыто	ADV	_	Degree=Pos	5	_	_	start_char=1770|end_char=1777
+7	заявлял	заявлять	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	_	_	start_char=1778|end_char=1785
+8	бывший	бывший	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	_	_	start_char=1786|end_char=1792
+9	глава	глава	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	_	_	start_char=1793|end_char=1798
+10	МВД	МВД	PROPN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	_	_	start_char=1799|end_char=1802
+11	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	_	_	start_char=1803|end_char=1810
+12	Юрий	Юрий	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	_	_	start_char=1811|end_char=1815
+13	Луценко	Луценко	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	_	_	start_char=1816|end_char=1823|SpaceAfter=No
+14	.	.	PUNCT	_	_	13	_	_	start_char=1823|end_char=1824
+
+# text = Журналист Юрий Кот отметил, что русская армия следует определённой стратегии, действуя по заданному направлению и одновременно готовя решающий удар по Украине.
+# sent_id = 17
+1	Журналист	журналист	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=1825|end_char=1834
+2	Юрий	Юрий	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=1835|end_char=1839
+3	Кот	кот	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	_	_	start_char=1840|end_char=1843
+4	отметил	отметить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	_	_	start_char=1844|end_char=1851|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=1851|end_char=1852
+6	что	что	SCONJ	_	_	5	_	_	start_char=1853|end_char=1856
+7	русская	русский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	_	_	start_char=1857|end_char=1864
+8	армия	армия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	_	_	start_char=1865|end_char=1870
+9	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	_	_	start_char=1871|end_char=1878
+10	определённой	определенный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	9	_	_	start_char=1879|end_char=1891
+11	стратегии	стратегия	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	10	_	_	start_char=1892|end_char=1901|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	_	_	start_char=1901|end_char=1902
+13	действуя	действовать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	12	_	_	start_char=1903|end_char=1911
+14	по	по	ADP	_	_	13	_	_	start_char=1912|end_char=1914
+15	заданному	задать	VERB	_	Aspect=Perf|Case=Dat|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	14	_	_	start_char=1915|end_char=1924
+16	направлению	направление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	15	_	_	start_char=1925|end_char=1936
+17	и	и	CCONJ	_	_	16	_	_	start_char=1937|end_char=1938
+18	одновременно	одновременно	ADV	_	Degree=Pos	17	_	_	start_char=1939|end_char=1951
+19	готовя	готовить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	18	_	_	start_char=1952|end_char=1958
+20	решающий	решающий	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	19	_	_	start_char=1959|end_char=1967
+21	удар	удар	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	20	_	_	start_char=1968|end_char=1972
+22	по	по	ADP	_	_	21	_	_	start_char=1973|end_char=1975
+23	Украине	Украина	PROPN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	22	_	_	start_char=1976|end_char=1983|SpaceAfter=No
+24	.	.	PUNCT	_	_	23	_	_	start_char=1983|end_char=1984
+
+# text = Эксперт считает текущие удары по энергосистеме Украины разведкой перед будущим, более масштабным ударом, который может состояться уже совсем скоро."
+# sent_id = 18
+1	Эксперт	эксперт	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=1985|end_char=1992
+2	считает	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	_	_	start_char=1993|end_char=2000
+3	текущие	текущий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	2	_	_	start_char=2001|end_char=2008
+4	удары	удар	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	_	_	start_char=2009|end_char=2014
+5	по	по	ADP	_	_	4	_	_	start_char=2015|end_char=2017
+6	энергосистеме	энергосистема	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	5	_	_	start_char=2018|end_char=2031
+7	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	_	_	start_char=2032|end_char=2039
+8	разведкой	разведка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	7	_	_	start_char=2040|end_char=2049
+9	перед	перед	ADP	_	_	8	_	_	start_char=2050|end_char=2055
+10	будущим	будущий	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	9	_	_	start_char=2056|end_char=2063|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=2063|end_char=2064
+12	более	более	ADV	_	Degree=Cmp	11	_	_	start_char=2065|end_char=2070
+13	масштабным	масштабный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	12	_	_	start_char=2071|end_char=2081
+14	ударом	удар	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	13	_	_	start_char=2082|end_char=2088|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	_	_	start_char=2088|end_char=2089
+16	который	который	PRON	_	Case=Nom|PronType=Int,Rel	15	_	_	start_char=2090|end_char=2097
+17	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	_	_	start_char=2098|end_char=2103
+18	состояться	состояться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	17	_	_	start_char=2104|end_char=2114
+19	уже	уже	ADV	_	Degree=Pos	18	_	_	start_char=2115|end_char=2118
+20	совсем	совсем	ADV	_	Degree=Pos	19	_	_	start_char=2119|end_char=2125
+21	скоро	скоро	ADV	_	Degree=Pos	20	_	_	start_char=2126|end_char=2131|SpaceAfter=No
+22	.	.	PUNCT	_	_	21	_	_	start_char=2131|end_char=2132|SpaceAfter=No
+23	"	"	PUNCT	_	_	22	_	_	start_char=2132|end_char=2133|SpaceAfter=No
+

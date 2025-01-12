@@ -1,0 +1,161 @@
+# text = 11:32 Нидерланды поставят Украине самолеты F-16 Запад продолжает накачивать Украину оружием.
+# sent_id = 0
+1	11	11	NUM	_	NumType=Card	0	_	_	start_char=0|end_char=2|SpaceAfter=No
+2	:	:	PUNCT	_	_	1	_	_	start_char=2|end_char=3|SpaceAfter=No
+3	32	32	NUM	_	NumType=Card	2	_	_	start_char=3|end_char=5
+4	Нидерланды	Нидерланды	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	_	_	start_char=6|end_char=16
+5	поставят	поставить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	4	_	_	start_char=17|end_char=25
+6	Украине	Украина	PROPN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	5	_	_	start_char=26|end_char=33
+7	самолеты	самолет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	6	_	_	start_char=34|end_char=42
+8	F-16	F-16	PROPN	_	Foreign=Yes	7	_	_	start_char=43|end_char=47
+9	Запад	Запад	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	_	_	start_char=48|end_char=53
+10	продолжает	продолжать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	_	_	start_char=54|end_char=64
+11	накачивать	накачивать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	_	_	start_char=65|end_char=75
+12	Украину	Украина	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	_	_	start_char=76|end_char=83
+13	оружием	оружие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	12	_	_	start_char=84|end_char=91|SpaceAfter=No
+14	.	.	PUNCT	_	_	13	_	_	start_char=91|end_char=92
+
+# text = Первую партию истребителей F-16 должны отправить в ближайшее время.
+# sent_id = 1
+1	Первую	первый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	0	_	_	start_char=93|end_char=99
+2	партию	партия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1	_	_	start_char=100|end_char=106
+3	истребителей	истребитель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	_	_	start_char=107|end_char=119
+4	F-16	F-16	PROPN	_	Foreign=Yes	3	_	_	start_char=120|end_char=124
+5	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	4	_	_	start_char=125|end_char=131
+6	отправить	отправить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	_	_	start_char=132|end_char=141
+7	в	в	ADP	_	_	6	_	_	start_char=142|end_char=143
+8	ближайшее	ближайший	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	7	_	_	start_char=144|end_char=153
+9	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	_	_	start_char=154|end_char=159|SpaceAfter=No
+10	.	.	PUNCT	_	_	9	_	_	start_char=159|end_char=160
+
+# text = Разрешение на экспорт уже выдали власти Нидерландов.
+# sent_id = 2
+1	Разрешение	разрешение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	0	_	_	start_char=161|end_char=171
+2	на	на	ADP	_	_	1	_	_	start_char=172|end_char=174
+3	экспорт	экспорт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	_	_	start_char=175|end_char=182
+4	уже	уже	ADV	_	Degree=Pos	3	_	_	start_char=183|end_char=186
+5	выдали	выдать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	_	_	start_char=187|end_char=193
+6	власти	власть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	5	_	_	start_char=194|end_char=200
+7	Нидерландов	Нидерланды	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	_	_	start_char=201|end_char=212|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	_	_	start_char=212|end_char=213
+
+# text = На сайте оборонного ведомства страны уточняется, что в общей сложности Киев получит 24 самолета, а также детали, вооружение и оборудование для аэродромов.
+# sent_id = 3
+1	На	на	ADP	_	_	0	_	_	start_char=214|end_char=216
+2	сайте	сайт	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	_	_	start_char=217|end_char=222
+3	оборонного	оборонный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	2	_	_	start_char=223|end_char=233
+4	ведомства	ведомство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	_	_	start_char=234|end_char=243
+5	страны	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	_	_	start_char=244|end_char=250
+6	уточняется	уточнять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	5	_	_	start_char=251|end_char=261|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	_	_	start_char=261|end_char=262
+8	что	что	SCONJ	_	_	7	_	_	start_char=263|end_char=266
+9	в	в	ADP	_	_	8	_	_	start_char=267|end_char=268
+10	общей	общий	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	9	_	_	start_char=269|end_char=274
+11	сложности	сложность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	_	_	start_char=275|end_char=284
+12	Киев	Киев	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	_	_	start_char=285|end_char=289
+13	получит	получить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	12	_	_	start_char=290|end_char=297
+14	24	24	NUM	_	NumType=Card	13	_	_	start_char=298|end_char=300
+15	самолета	самолет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	_	_	start_char=301|end_char=309|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	_	_	start_char=309|end_char=310
+17	а	а	CCONJ	_	_	16	_	_	start_char=311|end_char=312
+18	также	также	PART	_	_	17	_	_	start_char=313|end_char=318
+19	детали	деталь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	18	_	_	start_char=319|end_char=325|SpaceAfter=No
+20	,	,	PUNCT	_	_	19	_	_	start_char=325|end_char=326
+21	вооружение	вооружение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	20	_	_	start_char=327|end_char=337
+22	и	и	CCONJ	_	_	21	_	_	start_char=338|end_char=339
+23	оборудование	оборудование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	22	_	_	start_char=340|end_char=352
+24	для	для	ADP	_	_	23	_	_	start_char=353|end_char=356
+25	аэродромов	аэродром	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	24	_	_	start_char=357|end_char=367|SpaceAfter=No
+26	.	.	PUNCT	_	_	25	_	_	start_char=367|end_char=368
+
+# text = Кроме того, Нидерланды участвуют в обучении украинских пилотов.
+# sent_id = 4
+1	Кроме	кроме	ADP	_	_	0	_	_	start_char=369|end_char=374
+2	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=375|end_char=379|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=379|end_char=380
+4	Нидерланды	Нидерланды	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	_	_	start_char=381|end_char=391
+5	участвуют	участвовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	_	_	start_char=392|end_char=401
+6	в	в	ADP	_	_	5	_	_	start_char=402|end_char=403
+7	обучении	обучение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	_	_	start_char=404|end_char=412
+8	украинских	украинский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	_	_	start_char=413|end_char=423
+9	пилотов	пилот	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	8	_	_	start_char=424|end_char=431|SpaceAfter=No
+10	.	.	PUNCT	_	_	9	_	_	start_char=431|end_char=432
+
+# text = Россия продолжает специальную военную операцию по денацификации и демилитаризации Украины, о начале которой президент РФ Владимир Путин объявил 24 февраля 2022 года.
+# sent_id = 5
+1	Россия	Россия	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	_	_	start_char=433|end_char=439
+2	продолжает	продолжать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	_	_	start_char=440|end_char=450
+3	специальную	специальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	2	_	_	start_char=451|end_char=462
+4	военную	военный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	3	_	_	start_char=463|end_char=470
+5	операцию	операция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	_	_	start_char=471|end_char=479
+6	по	по	ADP	_	_	5	_	_	start_char=480|end_char=482
+7	денацификации	денацификация	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	6	_	_	start_char=483|end_char=496
+8	и	и	CCONJ	_	_	7	_	_	start_char=497|end_char=498
+9	демилитаризации	демилитаризация	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	8	_	_	start_char=499|end_char=514
+10	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	_	_	start_char=515|end_char=522|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=522|end_char=523
+12	о	о	ADP	_	_	11	_	_	start_char=524|end_char=525
+13	начале	начало	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	12	_	_	start_char=526|end_char=532
+14	которой	который	PRON	_	Case=Gen|PronType=Int,Rel	13	_	_	start_char=533|end_char=540
+15	президент	президент	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	_	_	start_char=541|end_char=550
+16	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	_	_	start_char=551|end_char=553
+17	Владимир	Владимир	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	_	_	start_char=554|end_char=562
+18	Путин	Путин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	17	_	_	start_char=563|end_char=568
+19	объявил	объявить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	18	_	_	start_char=569|end_char=576
+20	24	24	NUM	_	NumType=Card	19	_	_	start_char=577|end_char=579
+21	февраля	февраль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	20	_	_	start_char=580|end_char=587
+22	2022	2022	ADJ	_	Degree=Pos	21	_	_	start_char=588|end_char=592
+23	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	22	_	_	start_char=593|end_char=597|SpaceAfter=No
+24	.	.	PUNCT	_	_	23	_	_	start_char=597|end_char=598
+
+# text = Решение было принято после того, как народ Луганской и Донецкой народных республик.
+# sent_id = 6
+1	Решение	решение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	_	_	start_char=599|end_char=606
+2	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=607|end_char=611
+3	принято	принять	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	2	_	_	start_char=612|end_char=619
+4	после	после	ADP	_	_	3	_	_	start_char=620|end_char=625
+5	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	4	_	_	start_char=626|end_char=630|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=630|end_char=631
+7	как	как	SCONJ	_	_	6	_	_	start_char=632|end_char=635
+8	народ	народ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	_	_	start_char=636|end_char=641
+9	Луганской	луганский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	_	_	start_char=642|end_char=651
+10	и	и	CCONJ	_	_	9	_	_	start_char=652|end_char=653
+11	Донецкой	донецкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	_	_	start_char=654|end_char=662
+12	народных	народный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	_	_	start_char=663|end_char=671
+13	республик	республика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	12	_	_	start_char=672|end_char=681|SpaceAfter=No
+14	.	.	PUNCT	_	_	13	_	_	start_char=681|end_char=682
+
+# text = Запад и Европейский союз усилили антироссийские санкции, одновременно поставляя Киеву вооружение для продолжения конфликта.
+# sent_id = 7
+1	Запад	Запад	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=683|end_char=688
+2	и	и	CCONJ	_	_	1	_	_	start_char=689|end_char=690
+3	Европейский	европейский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	_	_	start_char=691|end_char=702
+4	союз	союз	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	_	_	start_char=703|end_char=707
+5	усилили	усилить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	_	_	start_char=708|end_char=715
+6	антироссийские	антироссийский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	5	_	_	start_char=716|end_char=730
+7	санкции	санкция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	6	_	_	start_char=731|end_char=738|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	_	_	start_char=738|end_char=739
+9	одновременно	одновременно	ADV	_	Degree=Pos	8	_	_	start_char=740|end_char=752
+10	поставляя	поставлять	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	9	_	_	start_char=753|end_char=762
+11	Киеву	Киев	PROPN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	10	_	_	start_char=763|end_char=768
+12	вооружение	вооружение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	_	_	start_char=769|end_char=779
+13	для	для	ADP	_	_	12	_	_	start_char=780|end_char=783
+14	продолжения	продолжение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	_	_	start_char=784|end_char=795
+15	конфликта	конфликт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	_	_	start_char=796|end_char=805|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	_	_	start_char=805|end_char=806
+
+# text = Ранее 5-tv.ru рассказывал о том, какие фатальные ошибки на Украине.
+# sent_id = 8
+1	Ранее	ранее	ADV	_	Degree=Pos	0	_	_	start_char=807|end_char=812
+2	5-tv.ru	5-tv.ru	PROPN	_	Foreign=Yes	1	_	_	start_char=813|end_char=820
+3	рассказывал	рассказывать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=821|end_char=832
+4	о	о	ADP	_	_	3	_	_	start_char=833|end_char=834
+5	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	4	_	_	start_char=835|end_char=838|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=838|end_char=839
+7	какие	какой	DET	_	Case=Nom|Number=Plur|PronType=Int,Rel	6	_	_	start_char=840|end_char=845
+8	фатальные	фатальный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	_	_	start_char=846|end_char=855
+9	ошибки	ошибка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	8	_	_	start_char=856|end_char=862
+10	на	на	ADP	_	_	9	_	_	start_char=863|end_char=865
+11	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	_	_	start_char=866|end_char=873|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	_	_	start_char=873|end_char=874|SpaceAfter=No
+

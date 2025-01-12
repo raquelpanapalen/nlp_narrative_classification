@@ -1,0 +1,201 @@
+# text = В США обратились к Зеленскому с одним вопросом 21:02 становится сильнее с каждым днем.
+# sent_id = 0
+1	В	в	ADP	_	_	0	_	_	start_char=0|end_char=1
+2	США	США	PROPN	_	Animacy=Inan|Case=Loc|Number=Plur	1	_	_	start_char=2|end_char=5
+3	обратились	обратиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	2	_	_	start_char=6|end_char=16
+4	к	к	ADP	_	_	3	_	_	start_char=17|end_char=18
+5	Зеленскому	Зеленский	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	4	_	_	start_char=19|end_char=29
+6	с	с	ADP	_	_	5	_	_	start_char=30|end_char=31
+7	одним	один	NUM	_	Case=Ins|Gender=Masc|NumType=Card	6	_	_	start_char=32|end_char=37
+8	вопросом	вопрос	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	7	_	_	start_char=38|end_char=46
+9	21:02	21:02	NUM	_	NumType=Card	8	_	_	start_char=47|end_char=52
+10	становится	становиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	9	_	_	start_char=53|end_char=63
+11	сильнее	сильный	ADJ	_	Degree=Cmp	10	_	_	start_char=64|end_char=71
+12	с	с	ADP	_	_	11	_	_	start_char=72|end_char=73
+13	каждым	каждый	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Tot	12	_	_	start_char=74|end_char=80
+14	днем	день	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	13	_	_	start_char=81|end_char=85|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	_	_	start_char=85|end_char=86
+
+# text = При этом Киев слабеет, Запад не может остановить это (...)
+# sent_id = 1
+1	При	при	ADP	_	_	0	_	_	start_char=87|end_char=90
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	start_char=91|end_char=95
+3	Киев	Киев	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	_	_	start_char=96|end_char=100
+4	слабеет	слабеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	_	_	start_char=101|end_char=108|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	_	_	start_char=108|end_char=109
+6	Запад	Запад	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	_	_	start_char=110|end_char=115
+7	не	не	PART	_	_	6	_	_	start_char=116|end_char=118
+8	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	_	_	start_char=119|end_char=124
+9	остановить	остановить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	_	_	start_char=125|end_char=135
+10	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	9	_	_	start_char=136|end_char=139
+11	(	(	PUNCT	_	_	10	_	_	start_char=140|end_char=141|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	_	_	start_char=141|end_char=142|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=142|end_char=143|SpaceAfter=No
+14	.	.	PUNCT	_	_	13	_	_	start_char=143|end_char=144|SpaceAfter=No
+15	)	)	PUNCT	_	_	14	_	_	start_char=144|end_char=145
+
+# text = Мы видим неизбежный исход: Россия побеждает Украину — это реальность.
+# sent_id = 2
+1	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	start_char=146|end_char=148
+2	видим	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	_	_	start_char=149|end_char=154
+3	неизбежный	неизбежный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	2	_	_	start_char=155|end_char=165
+4	исход	исход	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	_	_	start_char=166|end_char=171|SpaceAfter=No
+5	:	:	PUNCT	_	_	4	_	_	start_char=171|end_char=172
+6	Россия	Россия	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	_	_	start_char=173|end_char=179
+7	побеждает	побеждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	_	_	start_char=180|end_char=189
+8	Украину	Украина	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	_	_	start_char=190|end_char=197
+9	—	—	PUNCT	_	_	8	_	_	start_char=198|end_char=199
+10	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	_	_	start_char=200|end_char=203
+11	реальность	реальность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	_	_	start_char=204|end_char=214|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	_	_	start_char=214|end_char=215
+
+# text = Зеленский — это просто материал, который будет выброшен.
+# sent_id = 3
+1	Зеленский	зеленский	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=216|end_char=225
+2	—	—	PUNCT	_	_	1	_	_	start_char=226|end_char=227
+3	это	это	PRON	_	PronType=Dem	2	_	_	start_char=228|end_char=231
+4	просто	просто	PART	_	_	3	_	_	start_char=232|end_char=238
+5	материал	материал	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	_	_	start_char=239|end_char=247|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	_	_	start_char=247|end_char=248
+7	который	который	PRON	_	Case=Nom|PronType=Int,Rel	6	_	_	start_char=249|end_char=256
+8	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	_	_	start_char=257|end_char=262
+9	выброшен	выбросить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	8	_	_	start_char=263|end_char=271|SpaceAfter=No
+10	.	.	PUNCT	_	_	9	_	_	start_char=271|end_char=272
+
+# text = Что вы собираетесь делать?» — обратился к украинскому лидеру эксперт.
+# sent_id = 4
+1	Что	что	PRON	_	Case=Acc|PronType=Int,Rel	0	_	_	start_char=273|end_char=276
+2	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	1	_	_	start_char=277|end_char=279
+3	собираетесь	собираться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	2	_	_	start_char=280|end_char=291
+4	делать	делать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	_	_	start_char=292|end_char=298|SpaceAfter=No
+5	?	?	PUNCT	_	_	4	_	_	start_char=298|end_char=299|SpaceAfter=No
+6	»	"	PUNCT	_	_	5	_	_	start_char=299|end_char=300
+7	—	—	PUNCT	_	_	6	_	_	start_char=301|end_char=302
+8	обратился	обратиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	7	_	_	start_char=303|end_char=312
+9	к	к	ADP	_	_	8	_	_	start_char=313|end_char=314
+10	украинскому	украинский	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	9	_	_	start_char=315|end_char=326
+11	лидеру	лидер	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	10	_	_	start_char=327|end_char=333
+12	эксперт	эксперт	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	_	_	start_char=334|end_char=341|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=341|end_char=342
+
+# text = Риттер подчеркнул, что даже участники саммита НАТО признали, что им не удастся производить достаточно военного оборудования для Вооруженных сил Украины (ВСУ).
+# sent_id = 5
+1	Риттер	Риттер	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	start_char=343|end_char=349
+2	подчеркнул	подчеркнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=350|end_char=360|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=360|end_char=361
+4	что	что	SCONJ	_	_	3	_	_	start_char=362|end_char=365
+5	даже	даже	PART	_	_	4	_	_	start_char=366|end_char=370
+6	участники	участник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	5	_	_	start_char=371|end_char=380
+7	саммита	саммит	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	_	_	start_char=381|end_char=388
+8	НАТО	НАТО	PROPN	_	Case=Gen	7	_	_	start_char=389|end_char=393
+9	признали	признать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	8	_	_	start_char=394|end_char=402|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	_	_	start_char=402|end_char=403
+11	что	что	SCONJ	_	_	10	_	_	start_char=404|end_char=407
+12	им	они	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	11	_	_	start_char=408|end_char=410
+13	не	не	PART	_	_	12	_	_	start_char=411|end_char=413
+14	удастся	удаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	13	_	_	start_char=414|end_char=421
+15	производить	производить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	14	_	_	start_char=422|end_char=433
+16	достаточно	достаточно	ADV	_	Degree=Pos	15	_	_	start_char=434|end_char=444
+17	военного	военный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	16	_	_	start_char=445|end_char=453
+18	оборудования	оборудование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	_	_	start_char=454|end_char=466
+19	для	для	ADP	_	_	18	_	_	start_char=467|end_char=470
+20	Вооруженных	вооружить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	19	_	_	start_char=471|end_char=482
+21	сил	сила	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	20	_	_	start_char=483|end_char=486
+22	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	_	_	start_char=487|end_char=494
+23	(	(	PUNCT	_	_	22	_	_	start_char=495|end_char=496|SpaceAfter=No
+24	ВСУ	ВСУ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	23	_	_	start_char=496|end_char=499|SpaceAfter=No
+25	)	)	PUNCT	_	_	24	_	_	start_char=499|end_char=500|SpaceAfter=No
+26	.	.	PUNCT	_	_	25	_	_	start_char=500|end_char=501
+
+# text = Он добавил, что российская оборонная промышленность смогла не только своевременно нарастить производство необходимой техники, но и удовлетворять потребности растущей армии.
+# sent_id = 6
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=502|end_char=504
+2	добавил	добавить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=505|end_char=512|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=512|end_char=513
+4	что	что	SCONJ	_	_	3	_	_	start_char=514|end_char=517
+5	российская	российский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	_	_	start_char=518|end_char=528
+6	оборонная	оборонный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	_	_	start_char=529|end_char=538
+7	промышленность	промышленность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	_	_	start_char=539|end_char=553
+8	смогла	мочь	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	_	_	start_char=554|end_char=560
+9	не	не	PART	_	_	8	_	_	start_char=561|end_char=563
+10	только	только	PART	_	_	9	_	_	start_char=564|end_char=570
+11	своевременно	своевременно	ADV	_	Degree=Pos	10	_	_	start_char=571|end_char=583
+12	нарастить	нарастить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	11	_	_	start_char=584|end_char=593
+13	производство	производство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	12	_	_	start_char=594|end_char=606
+14	необходимой	необходимый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	_	_	start_char=607|end_char=618
+15	техники	техника	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	_	_	start_char=619|end_char=626|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	_	_	start_char=626|end_char=627
+17	но	но	CCONJ	_	_	16	_	_	start_char=628|end_char=630
+18	и	и	PART	_	_	17	_	_	start_char=631|end_char=632
+19	удовлетворять	удовлетворять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	18	_	_	start_char=633|end_char=646
+20	потребности	потребность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	19	_	_	start_char=647|end_char=658
+21	растущей	расти	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	20	_	_	start_char=659|end_char=667
+22	армии	армия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	_	_	start_char=668|end_char=673|SpaceAfter=No
+23	.	.	PUNCT	_	_	22	_	_	start_char=673|end_char=674
+
+# text = Ранее Риттер заявил , что Россия легко уничтожит систему противовоздушной обороны (ПВО)
+# sent_id = 7
+1	Ранее	ранее	ADV	_	Degree=Pos	0	_	_	start_char=675|end_char=680
+2	Риттер	Риттер	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	_	_	start_char=681|end_char=687
+3	заявил	заявить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	_	_	start_char=688|end_char=694
+4	,	,	PUNCT	_	_	3	_	_	start_char=695|end_char=696
+5	что	что	SCONJ	_	_	4	_	_	start_char=697|end_char=700
+6	Россия	Россия	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	_	_	start_char=701|end_char=707
+7	легко	легко	ADV	_	Degree=Pos	6	_	_	start_char=708|end_char=713
+8	уничтожит	уничтожить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	7	_	_	start_char=714|end_char=723
+9	систему	система	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	_	_	start_char=724|end_char=731
+10	противовоздушной	противовоздушный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	_	_	start_char=732|end_char=748
+11	обороны	оборона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	_	_	start_char=749|end_char=756
+12	(	(	PUNCT	_	_	11	_	_	start_char=757|end_char=758|SpaceAfter=No
+13	ПВО	пво	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	_	_	start_char=758|end_char=761|SpaceAfter=No
+14	)	)	PUNCT	_	_	13	_	_	start_char=761|end_char=762
+
+# text = Польши в случае, если она начнет помогать Украине сбивать российские ракеты.
+# sent_id = 8
+1	Польши	Польша	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	_	_	start_char=763|end_char=769
+2	в	в	ADP	_	_	1	_	_	start_char=770|end_char=771
+3	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	_	_	start_char=772|end_char=778|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	_	_	start_char=778|end_char=779
+5	если	если	SCONJ	_	_	4	_	_	start_char=780|end_char=784
+6	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	_	_	start_char=785|end_char=788
+7	начнет	начать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	6	_	_	start_char=789|end_char=795
+8	помогать	помогать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	_	_	start_char=796|end_char=804
+9	Украине	Украина	PROPN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	8	_	_	start_char=805|end_char=812
+10	сбивать	сбивать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	_	_	start_char=813|end_char=820
+11	российские	российский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	10	_	_	start_char=821|end_char=831
+12	ракеты	ракета	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	11	_	_	start_char=832|end_char=838|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	_	_	start_char=838|end_char=839
+
+# text = Он добавил, что Варшава не располагает большими силами ПВО, поэтому, вопреки обязательствам польской стороны, не сможет оказать поддержку ВСУ.
+# sent_id = 9
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=840|end_char=842
+2	добавил	добавить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	_	_	start_char=843|end_char=850|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	_	_	start_char=850|end_char=851
+4	что	что	SCONJ	_	_	3	_	_	start_char=852|end_char=855
+5	Варшава	Варшава	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	_	_	start_char=856|end_char=863
+6	не	не	PART	_	_	5	_	_	start_char=864|end_char=866
+7	располагает	располагать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	_	_	start_char=867|end_char=878
+8	большими	большой	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	7	_	_	start_char=879|end_char=887
+9	силами	сила	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	8	_	_	start_char=888|end_char=894
+10	ПВО	пво	PROPN	_	Animacy=Inan|Case=Gen|Number=Sing	9	_	_	start_char=895|end_char=898|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	_	_	start_char=898|end_char=899
+12	поэтому	поэтому	ADV	_	Degree=Pos	11	_	_	start_char=900|end_char=907|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	_	_	start_char=907|end_char=908
+14	вопреки	вопреки	ADP	_	_	13	_	_	start_char=909|end_char=916
+15	обязательствам	обязательство	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	14	_	_	start_char=917|end_char=931
+16	польской	польский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	15	_	_	start_char=932|end_char=940
+17	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	_	_	start_char=941|end_char=948|SpaceAfter=No
+18	,	,	PUNCT	_	_	17	_	_	start_char=948|end_char=949
+19	не	не	PART	_	_	18	_	_	start_char=950|end_char=952
+20	сможет	мочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	19	_	_	start_char=953|end_char=959
+21	оказать	оказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	20	_	_	start_char=960|end_char=967
+22	поддержку	поддержка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	21	_	_	start_char=968|end_char=977
+23	ВСУ	ВСУ	PROPN	_	Animacy=Inan|Case=Gen|Number=Sing	22	_	_	start_char=978|end_char=981|SpaceAfter=No
+24	.	.	PUNCT	_	_	23	_	_	start_char=981|end_char=982
+
+# text = lenta-785df26017f78973c68b1c122297f874
+# sent_id = 10
+1	lenta	lenta	X	_	Foreign=Yes	0	_	_	start_char=983|end_char=988|SpaceAfter=No
+2	-	-	PUNCT	_	_	1	_	_	start_char=988|end_char=989|SpaceAfter=No
+3	785df26017f78973c68b1c122297f874	785df26017f78973c68b1c122297f874	X	_	Foreign=Yes	2	_	_	start_char=989|end_char=1021|SpaceAfter=No
+
